@@ -1,0 +1,907 @@
+Introduction: Leading in the Age of AI
+0:00
+Good afternoon, good evening. Um, I am thrilled to be here with all of you, but
+0:05
+I am especially thrilled to be here with Jensen Wong. If there's anybody I want to talk to these days, it's this man
+0:11
+because he knows how to look around corners when it comes to AI.
+0:17
+Nvidia is in a quiet period right now. But what we want to hear from him, I think, is bigger picture. So, let's
+0:23
+start Jensen just by taking a few steps back again. Everybody wants to know what's coming
+0:29
+with AI. This is the fastest technological revolution we have ever seen. Things happen not on in years, not
+0:38
+in decades, but probably, you know, weekly and monthly at this point. Things
+0:43
+are changing pretty drastically. You're Wayne Gretzky. Tell us where the puck is going.
+0:49
+Well, first of all, uh, let me tell you where the puck came from. Okay. And in just the last couple of years,
+0:54
+what happened? Um, I feel like I'm sitting on something that's causing all of this to happen. Is it me?
+1:01
+It might be me. Hold on. Better. And so, so what happened was two years
+The Evolution of Generative AI
+1:08
+ago, Chad GPT came out. And what made Chad GPT revolutionary was the ability
+1:14
+to generate generative AI. You give it a prompt, it can write you a story. You
+1:21
+give it a prompt, it can make you a picture. You could give it a prompt, generate a video for you. You give it a video, it could generate a story. You
+1:28
+can give it an image, it can right so on so forth. You give it an image in 2D, you could and it generates an image in
+1:34
+3D. And so generative AI um the ability to generate has two profound
+1:41
+uh capabilities. One, in order to think, you have to generate tokens in your mind
+1:47
+inside. What do you mean mo tokens? Tokens. Oh uh you have to generate thoughts. And so the fact that our
+1:53
+ability to think and reason requires us to generate thoughts. So the moment we
+1:59
+got AI to generate, we realized you can now think. You can now reason. The
+2:05
+second thing is in order to use external tools, you have to generate commands.
+2:11
+And so when you use the browser, you have to generate words, control something else. those two ideas.
+2:18
+The moment that happened, the entire industry raced off to go figure out how to use generative AI to enable
+2:26
+reasoning, which came out last year, and then now agentic AI, which is the ability for AI to understand, reason,
+From Reasoning to Agentic AI
+2:33
+plan, use tools to do something useful. So in the last several months what
+2:39
+happened is the industry realized took the cloud code anthropics cloud code
+2:47
+came out and uh it was the first agenting a a agentic system that was able to do really productive work like
+2:54
+software coding and software coding is a a a good first place to go but remember
+3:00
+what coding is. Coding is the codification of something you want to automate. And
+3:06
+how many companies in the world, how many people in the world don't want to codify into a program something you want
+3:13
+to automate over and over and over again. So it turns out coding is important for software engineers, but coding is super important for all
+3:20
+companies. And this all happened in the last several months. And so AI in the
+3:26
+last several months became useful. That's the big idea. The second big idea
+3:32
+is that in order for AI to go through understanding, reasoning, planning,
+3:38
+using tools to to take action, the amount of computation necessary compared
+3:43
+to generative AI is like a thousand times more. Yeah. In two years time, just just think in
+3:50
+two years time, the number of cars you need in the world grew by a thousand times. In two years time, the number of
+3:55
+airplanes you need in the world grew by 2,000 times. Whatever it is that you want to use as a as a metric,
+4:02
+the thousand times difference is incredible. But then you multiply that by the number of people who now want to
+4:09
+use it by a hundred times, which is the reason why, you know, GPU consumption is
+The 1,000x Increase in Compute Demand
+4:15
+going through the roof and over, you know, even GPUs we sold four or five
+4:21
+years ago now are rising in price faster than, you know, good wine. And so
+4:28
+It it has defied what every buying Nvidia GPU is like investing in art. [laughter]
+4:35
+It has defied what everybody said was going to happen. Um if it's a thousand times over the last year, the demand for
+4:41
+compute, where do you see it next year? Um and how far out do you try and figure
+4:47
+these things? Well, you know, the the way to reason about this is you come back and you ask yourself um one uh what
+4:56
+is the usefulness of automation of intelligence and who could benefit from it and how would you benefit from it?
+5:02
+That's number one. Number two, why what kind of infrastructure is necessary to
+5:08
+produce intelligence? And this is one of the big ideas in computer science and this is something I reason about. You
+5:13
+know, right now I'm talking to you guys. I'm reasoning step by step and and 15 years ago I reasoned about what was
+5:20
+going to happen with deep learning which led Nvidia to invest in all that stuff and here we are and so so what's
+5:26
+happening is the difference between the way computers are going to work in the future and the way computers work for
+5:32
+you right now you just have to pick up your phone and you just when you when you click on the news remember that news
+5:38
+article or that video of Becky was pre-recorded she re she you recorded in advance
+5:45
+you stored it in the cloud somewhere and then when I click it, I retrieve it.
+5:50
+Now, in the future, you're going to still do a lot of that. However, most of the time that you're interacting with
+5:56
+your computers, you're going to be giving the computer your intention. Are you asking a question? You would you
+Reinventing the Computer Industry
+6:02
+like to do something? Are you thinking about something? You like somebody to debate with you? You know, is there a big planning thing that you want to do
+6:08
+for a vacation or or a wedding or whatever it is? And then you just tell
+6:14
+the computer what you want like you talk to a person and it understands your intention, reasons about how to solve
+6:19
+it, comes up with a plan, uses whatever tools it needs to use, goes to all these different web browsers and use whatever
+6:26
+Excel and you know maybe even use Photoshop and creates wonderful things for you, generates a bunch of images and
+6:32
+then comes back with a brochure. Yeah. Right. And so you got to ask yourself
+6:37
+therefore if that's the way you use if if the way the first way you use computer is retrievalbased and now
+6:44
+everything is generative and it's contextually
+6:50
+relevant meaning you can't pre-record every anything that I just said and so
+6:55
+therefore the number of computers in the world is going to grow incredibly and this is the reason why I say AI is not
+7:02
+just an application AI actually reinvented the computer industry. AI invented a whole new industry. And for
+7:09
+many of many of you in the audience, you're you're working with us at the energy level. Um, of course, at the chip
+7:16
+level, at the infrastructure level, land power and shell, cloud services, neo
+7:22
+cloud, so on so forth. Then it's the model layer. Most most of the time we're talking about model models, but the fact
+7:29
+of the matter is without this underlying part there is no models that's useful. And then most importantly is the
+7:35
+application layer. The application layer in healthcare in well transportation,
+7:40
+retail, you know, you name financial services, all these different industries are now going to get revolutionized by
+7:46
+artificial intelligence. And so when you break it up from that perspective and you just kind of reason about it, it is
+7:52
+very certain now that like the internet, which is everywhere, you're going to have computers computing like Nvidia's
+7:59
+GPUs literally everywhere. so that every time you use the computer, it can generate the proper response to you.
+8:06
+When you say, you know, we're going to have all these computers, I think locusts, um just how much demand there's
+8:14
+going to be and how do we possibly keep up with that demand? And you you just
+8:20
+mentioned this stacking. It's the five layer cake that you've talked about for a while.
+8:25
+Where are the weaknesses? Where are the limiting factors with meeting that demand?
+8:31
+It changes all the time and two years ago we had enough energy
+8:37
+but we were really short on chips and it depends on what part of the chips we're talking about. Um most people think that
+8:43
+Nvidia is a GPU company because we invented the GPU. Uh but if you look at the systems we're creating today, there
+Breaking Bottlenecks: Chips, Systems, and Energy
+8:50
+are seven different types of chips. The computer that I'm talking about is probably twice the width of this stage.
+8:58
+When we say Vera Rubin, it's, you know, twice the width of this stage. Each one of the racks is about four or five
+9:05
+million dollars. Three tons, one and a half million parts inside one of these
+9:10
+racks. And and inside a data center is a football field of these racks. And so
+9:17
+these these systems have silicon photonics inside. It's got the most advanced memories. Three
+9:22
+threedimensional packaging, liquid cooling, extremely, you know, extremely sensitive uh electronics all over. And
+9:30
+so it's really complicated stuff. We we work with just about every chip company in the world, every systems maker in the
+9:37
+world. We have the largest supply chain in the world. And so there's there's a bottleneck somewhere. And so it takes a
+9:42
+lot of work just to work through all that. And then and then of course um you know these days one of the biggest
+9:48
+challenges and this is the part that people don't realize about AI. The first thing that AI is doing right now is
+9:54
+creating an enormous number of jobs. It is AI creates jobs. AI is United
+10:01
+States's best opportunity to re-industrialize ourselves because it takes three types of plants. Chip
+10:08
+plants, computer plants, AI factories that we're in. And so three types of
+10:14
+manufacturing plants probably several trillion dollars of re-industrialization we can do as a result of this. Nothing
+10:21
+is more powerful than using market forces to drive re-industrialization. Like for example back in in the last
+10:28
+administration there was this thing called chips act and everybody was reluctant to build the
+AI as a Driver for US Re-industrialization
+10:33
+United States. When President Trump came into office, um, we talked and I said,
+10:39
+"Hey, listen. Tell you what, I'm gonna give half a trillion dollars of orders.
+10:44
+I'm gonna give half a trillion dollars of orders to these suppliers." And I bet
+10:49
+you they come to United States. Boom. They all came to United States to build it here. And so using market forces to
+10:56
+re-industrialize the United States, it created hundreds of thousands of jobs for the next four or five years. And
+11:01
+then and then lastly, um AI is the world's best opportunity to modernize
+11:08
+the power grid. Our the United States power grid is is if anybody's in the audience related to
+11:15
+this is a little antiquated and and and you know that. And so we have an opportunity now for the first time to
+11:22
+use market forces to invest in sustainable energy. If you want to invest in nuclear, if you want to
+11:28
+whatever whatever version of sustainable energy you choose, you now have, you
+11:33
+know, plenty of customers who want to pay for it. Are is Nvidia going to be investing in
+11:39
+energy because you all have been making sure you're investing in whatever layer, whatever bottlenecks you find along the
+11:46
+way. You recently said that this investment that you're making now in Open AI will probably be the last one
+11:52
+because Open AI anthropic, they're going to go public. They're not going to need you kind of propping them up. They'll
+11:58
+have their own money other places. But what you've done is find where the bottlenecks are and try and invest
+12:04
+NVIDIA money there. Is energy a place you would do that or is that such a big investment hole that it's got to come
+12:10
+from other places? Uh if there were good ideas and we could make a unique contribution, I'd be more than happy to. and and um uh but most
+Investing in the "Five-Layer Cake"
+12:19
+most of the people who are investing in energy their their their um their cycle
+12:24
+times are you know their time horizon is fairly long especially the ones that we're really interested in and um uh
+12:31
+where we need to invest with respect to energy is probably closer closer to home here in the United States
+12:37
+and probably closer in on the horizon to make sure that the land power and shell are s sufficiently funded and maybe we
+12:45
+maybe we backs stop some of that just so that they can get the financing going and get power, you know, inserted and um
+12:51
+uh but that that's where we're focused. But you're right, we invest in the entire five layer cake and and we're
+12:58
+looking at strategic points in there that if we invested $1, it activates AI
+13:04
+maybe by $100. And so if we can make that kind of an amplification for the entire e ecosystem, it would be
+13:11
+tremendous. So where are you focusing right now in that five layer cake? if if the time to focus on the large language models may
+13:18
+be nearing an end, where do you see the biggest choke holds and the places that you would be affected? Great great really great great great
+13:25
+question. So um you you noticed that we invested in the infrastructure layer.
+13:30
+Yeah. And at first people were a little you know wondered why we invested in
+13:36
+companies like Coreweave and NBS. Yeah. They said it was circular deals. Why are you doing this? It doesn't make any sense. That's right. and we invested say a
+13:43
+dollar, they still had to go go raise another nine. Yeah. And so, so we invest some amount and our
+13:50
+anchor investment gave all of the investors confidence that we're behind this company. Well, all of that,
+13:57
+everybody who invested along with me on Coreweave clearly extremely happy. Everybody who invested along with me on
+14:04
+Nibbius incredibly happy. Anybody who invested along with me on NScale incredibly happy. And so, and the reason
+14:11
+for that is because we could see the demand and we see the pipeline of opportunities that's coming their way.
+14:17
+So, in a lot of ways, you know, we're highly informed investor. That's why I want to know where you're
+14:22
+investing next [laughter] like I said, you know, and so [laughter]
+14:29
+see Becky is so alert. I when she asks me a question I'm not
+14:36
+sure I want to answer, I tell you some history [laughter] and she wants to see hear the future.
+14:42
+Well, here it comes. No, I'm just kidding. And so and so that was my that was the first thing. The second thing and and I'm going to tell you about
+14:48
+something that's really big. And so so of course we invested in open AAI, we invested in anthropic and um but the big
+14:56
+thing that's happening in the last three to six months is that both of these companies and most of the AI native
+AI Safety and the Role of Guardrails
+15:03
+companies have turned their gross margins have gone extremely positive.
+15:08
+Right. So they've turned the corner. That's right. Now when you're when you're making something and your gross
+15:14
+margins are highly highly profitable your goal is to make more of it which is
+15:19
+the reason why both open AAI and anthropic are just racing for capacity
+15:24
+because their their tokens these numbers these a intelligence that they produce
+15:30
+the margins are excellent and so they're excellent cursors is excellent you look across the entire you
+15:37
+know AI natives um ecosystem everybody body. And the reason for that is because finally AI has become useful.
+15:44
+That's the big idea. And so so I I I'm hoping that that um the AI ecosystem is
+15:50
+now on their own. Every level of the cake. Yeah. Yeah. Maybe. We'll see. You know,
+15:57
+if I see some good investments, I'm going to not tell any of you first. [laughter]
+16:03
+Okay. Let's get to this idea of AI is amazing. It does a lot of great things.
+16:09
+it's going to do even greater things down the road. But then there is a lot of fear-mongering too and there's a lot
+16:14
+of worry and you can break this into two camps. It's the AI doomers and the AI boomers and you are probably the leading
+16:21
+boomer of what the promise is to come with this. Um
+16:26
+I'm the pragmatist. Okay. I'm a pragmatist and and um first of all, Becky, it's our responsibility as
+16:33
+the industry to make AI safe. And the reason for that is because only we know
+16:38
+how to do that. How do you how do you do that? Well, there's a lot of technology yet to invent, you know, and so this is no
+16:43
+different than making making a an airplane safe. And so you have redundant
+16:49
+systems. Uh you have uh um a fair amount of diverse uh diverse sensor systems.
+16:55
+And but it's a little different because the airplane can't decide to fly itself into the ground. I mean, you have to do you
+17:01
+think about putting maternalistic instincts into these large language models or what are the ways that we make
+17:06
+it like us? Uh, well, I was going to say um they're
+17:12
+also guard rails. Yeah. And remember the difference between today's chat bots and two year old
+17:19
+two-year-old previous chatbots, the guard rails have gotten so much better. And of course, you can't think of, you
+17:26
+know, as an engineer, you can't think of every possible way something could not could malfunction. And so, you have to
+17:32
+kind of try it out in the marketplace. There's no better way to become a better
+17:37
+company or become build better products than having people use it. And that's unfortunate, but true. You know, today's
+17:43
+planes and today's cars, today's health care systems can't be as secure or as
+17:48
+safe as it is unless people actually use it. And so the guardrail systems are incredibly good. They still have places
+17:56
+where where uh uh they, you know, people could could uh cause it to do things that you didn't want it to do. But every
+18:02
+time somebody does that, then, you know, companies go go and fix it. And so I think that my my bigger point is that it
+18:08
+is the technology industry's job to make it safe. and and of course
+18:15
+we as we have to make sure that people understand of the capabilities of the technology and that we use it in a safe
+18:22
+safe way. We also need to have relationships with people um so that with other countries so that we agree
+Geopolitics and American AI Leadership
+18:30
+among ourselves that this technology is really powerful and capable and we ought not
+18:37
+deploy these things against each other. And so we do that in a whole bunch of other places in chemicals and nuclear.
+18:44
+And so of course we could surely do that do that in this case. But the the big point that I want to make is
+18:49
+is it's our job as the industry not to
+18:55
+scare everybody but to let everybody know this is important work and we're dedicated to it
+19:01
+and we're serious about it and we have to hold ourselves account. The one thing that I am worried about is the worst
+19:09
+outcome for AI for our nation is not that another country gets AI. Everybody
+19:15
+should have AI. The global south should have AI. Every single company, every single company,
+19:22
+well, every single company country should, everybody should have AI. It empowers them. It lifts them. It
+19:27
+elevates them. It gives them superpowers. Of course, everybody should have it. My greatest concern is that we
+19:33
+scare United States people, all the people that, you know, we're telling these science fiction stories to to the
+19:40
+point where AI is so unpopular in the United States or people are so afraid of it they don't actually engage it
+19:47
+that we lose our lead as a nation. That's right. Ultimately, you remember
+19:52
+United States benefited from the last industrial revolution for a good reason. Not because we invented it, but because
+19:58
+we applied it. There there's so many things to dig into on that. The first would be I understand your point that we
+20:04
+need to be engaging with other nations and I I believe you're probably referring to China specifically that we
+20:09
+need to be able to engage with them and I know your position has been that we should be giving them um the H200 chips,
+20:17
+you know, not not necessarily the latest and greatest, but we should be giving them chips so that they are reliant on
+20:24
+US companies for some of these things. That makes sense. Um,
+20:29
+we should compete globally. America should always have head start. Should they have the latest and greatest
+20:35
+chips? No. Um, we have the right, the United States, we're an American company. United States has the right to make sure
+20:42
+that and and we're delighted by that and we're huge supporters of it. That the United States has the first, the most,
+20:49
+and the best. But simultaneously all American companies should compete
+20:55
+globally because remember in the final analysis we're trying to maximize exports. We're trying to maximize
+Is AI a Weapon? The Case for Open Source
+21:02
+American exports. We're trying to increase our revenues and by increasing our revenues, tax revenues. We improve
+21:09
+our national security and economic security contributes to national security. Tax dollars helps us with
+21:14
+defense. All of that increases national security. American technology has to win
+21:20
+across the world at every single layer. Um, if we could export energy, we should. If we can export chips, we
+21:27
+should. If we can export infrastructure, we should. If we can export models, we should. And if we can export
+21:33
+applications, we should. We we don't export our our best defense products to a lot of countries,
+21:40
+particularly if they are are are not our allies. Um, where does AI fall in that
+21:47
+mix? It is it a weapon? No. And the way you can test it is this
+21:52
+a simple test. A 100% of everybody I'm looking at in the audience, and I could I can't see most of you, but 100% of
+21:58
+you, even without seeing you, I can tell you you need AI. None of you should have a nuke.
+22:05
+[laughter] I just I just did the test. That is a good line.
+22:10
+It's the test. It's the simple test. I I don't think any of you need an F-35.
+22:16
+All right. Are there weaponized AI versions? Let's just say mythos. Should
+22:22
+we give that to everybody right now? Because the, you know, administration is convinced we should probably keep it in
+22:27
+this smaller group for the moment. There has been some talk about rolling it out more widely and there's some hesitation
+22:34
+about giving that to everybody because we want to make sure our companies are able to protect themselves before it falls into the hands of bad actors.
+22:40
+First take a step back and ask yourself what's mythos? Mythos is a really great great model and but what's really
+22:46
+important is mythos is a model that was that was designed for coding.
+22:52
+Now remember what cyber security is code. And if mythos can debug software,
+23:00
+can test software, can write software, for what reason can Mythos
+23:07
+debug cyber security, test for vulnerabilities, so on so forth, because
+23:12
+it's just code. But if a hacker gets access to that before the guys in the white hats do,
+23:18
+what happens? They're going to find our weaknesses and maybe exploit them. The answer to that, as it turns out, is not
+23:23
+another mythos. The way you defend against a super force is not with
+23:30
+another super force. It's with an abundance of cheap force. And so the best answer for mythos is actually open
+23:37
+source. Okay? Open source. So that so that we have swarms
+23:43
+swarms of white blood cells. We have swarms of white blood cells. And these
+23:48
+white blood cells are trained to detect and alert us of threats. And
+23:56
+the moment that it detects threats, it figures out where the threat
+24:02
+is coming from and closes the door. And so it we can't, you know, you can't
+24:08
+count on the fact that your AI is better than their AI, but you can count on the fact that you got more AI than they got.
+24:14
+that you can count on. And the reason for that is because there are more companies and more front doors than any
+24:20
+threat. That thread has to decide which front door to focus on. And so the
+24:26
+number of defenders we can have so long as they're open source because open source is cheap. Open source models are
+24:32
+very good now. And we can run all these open source models trained on defending ourselves.
+24:38
+And that's the swarm, the the dome, if you will, the cyber security dome. And
+24:44
+so that's the answer. But the the the the doomers want to scare you. I've got the world's biggest weapon. So
+24:50
+what's your answer? And you're kind of think my only answer is another big weapon. Well, turns out asymmetry is
+24:55
+what you're looking for. Let's go take a step back just in terms
+25:01
+of who should be deciding this. I know the industry knows best what's happening. Is there a role for the
+25:07
+government to be involved with that? Self-regula, not just self-regulation, but government regulation, too. Oh,
+25:12
+absolutely. Uh where where um every single application, the application of
+25:18
+AI in medical imaging systems. No, no question about it. Every single medical
+25:24
+imaging system in the future will essentially have a doctor embedded inside, an AI assistant embedded inside.
+Regulating AI Applications
+25:30
+And so it's going to know how to scan you exactly, right? And it's going to be, you know, while it's scanning you is
+25:35
+be looking for disease and diagnosing it in real time. And so that instrument needs to be
+25:42
+regulated and that AI has to be regulated in exactly the way that medical in instruments are cars. I'm
+25:49
+surprised to this point that a self-driving car shouldn't have to get a license. That's a that's a Right. Don't
+25:55
+you think? Yeah. Right. If your daughter needs to get a license, you don't think your self-driving car should get a license. Just put it on the road and see if it,
+26:02
+you know, drives. makes it go through all the tests and make the teacher sit on the other side and you know yell at
+26:07
+it while you're so you don't believe in the move fast and break things sort of way of Silicon
+26:14
+Valley because that seems how a lot of this got rolled out. No, I think you should move fast but you shouldn't break things.
+26:20
+Yeah. The benefit of moving fast is because technology that is better is
+26:25
+safer. I prefer today's car driving to I I prefer being driven in a car today
+26:32
+than I prefer being a driven in a car 100 years ago because it's safer. It's got a lot more technology
+26:38
+being driven by a self-driving car. I mean being driven by some self-driving car or even a or even a
+26:44
+real, you know, somebody a a human driver, you know. I I think the
+26:49
+I don't know why that was so hard to find. [laughter] It's a tell. Um,
+26:56
+it's so yesterday. That's adorable. [laughter] Okay, let's just talk about the doomers.
+27:03
+I I'll get out of this in a minute, but no, I'm happy to stay. But, but I think it's important to address these things because you've got
+27:10
+the boomers, you've got the doomers, and most Americans probably fall in the middle. So, they are listening to both camps and trying to figure out Yeah.
+27:16
+where they go with this. Hey, hey, we the pragmatists need some air time.
+27:22
+As you know, people who are pragmatic, the unless you're extreme, you don't
+27:28
+nobody cares what you say. True. Yeah. And yet that's really where the world is,
+27:34
+right? This thing I just wanted you to know it. It's not alive. It does has no consciousness. I know exactly what it
+27:40
+is. And it's computers and software. Jeffrey, we know how it's built. If we don't know
+27:45
+how it's built, how do we keep making it better? The fact that that we don't know what it is, we don't know what it how it
+27:51
+works. It's about to be conscious. We don't know how anything happened. Those kind of words just scare people and it's
+27:58
+not true and it, you know, makes our work sound mysterious. Look, I I know you you look at other CEOs and say we probably
+The Pragmatist’s View on AI "Doomerism"
+28:04
+shouldn't listen to what they're saying on some counts on this, but what about Jeffrey Hinton, who was the godfather of
+28:09
+AI and who says that there's a 20 to 30% that it's ends human existence? Is is he
+28:17
+completely wrong? And is he completely wrong that there's no chance or is he just wrong in his percentages?
+28:23
+Um he he's he's uh he's completely wrong
+28:29
+that that uh um that a whole bunch of smart people
+28:36
+aren't working to prevent that from happening. Um he because you could apply
+28:42
+everything that he he said to all the circumstances in history. It's because
+28:47
+there are so many good people working so hard to prevent these things. There are so many people working on making cars go
+28:53
+faster, but there's 10 times more people trying to make the car safer. There are
+28:59
+so many people trying to make make AI smarter. there are 10 times more people working on keeping it guardrailed and
+29:06
+safe and you know not hallucinating and and producing useful work and and so so
+29:12
+I think the part that is that's kind of missing is they they kind of project themselves that they are the only person
+29:20
+who's worried about this they they forget that there's a whole
+29:25
+bunch of people in the world whole bunch of computer scientists in the world who are trying to make the world a saf safer
+29:30
+place and better place and so with respect respect to with respect to um uh
+29:36
+you know there's some other things that were said like for example and we have to be careful they they in all of their
+29:44
+their good intentions they think they're warning us um but we have to be careful that if we
+29:50
+scare people we're actually hurting us. So let me give you a tangible example. Okay, a tangible example and this is the one
+29:57
+that it was the first prediction. Um a very very well-known very important
+30:02
+computer scientist said the first job that's going to be wiped out is radiology.
+30:07
+And the reason for that is because computer vision does an incredible incredibly good job studying scans and
+30:13
+looking at images and detecting things that we can't detect. Obviously it can.
+30:19
+And so so computer vision is now completely superhuman at that one narrow task. No human in the world can do a
+30:26
+better job. Stay concentrated for as long anomalies as small. And so today
+30:32
+they're the computer scientist is absolutely right. A decade later 100% of radiology is now infiltrated by AI. It
+30:40
+is completely integrated into radiology. And so that was completely right.
+30:46
+However, what was completely wrong is that radiologists that job as predicted was not wiped out.
+30:54
+And the reason for that, surprisingly, it's the opposite to them. To me, it's
+30:59
+completely obvious. So, what happened was radiologists could now study more
+31:04
+scans. They can take more patients. They could do more scans on the patients,
+31:10
+diagnose disease better. They could accept more patients. The hospital is making more money. The radiology
+31:16
+department is the best, one of the biggest profit generating centers. Now, as a result, they want to hire more
+31:23
+radiologists. Now, if it turned out that everybody listened to him
+31:29
+and no, the world has no radiologists, we would be short of this incredible
+31:34
+critical resource. We should be telling radiologists, your purpose in life is
+31:40
+not to sit in a dark room to look at a workstation to study a scan. Your purpose in life is to work with doctors,
+AI and the Future of Jobs: The Radiology Example
+31:49
+help treat patients, to diagnose the disease, make people well. That's your
+31:54
+purpose in life. Studying the scan is just a task you do. And so the fundamental thing that everybody is
+32:00
+missing, all these computer scientists are going, "Yeah, that job is done. That job is done." is that they misunderstand
+32:06
+that the purpose of a job and the task of the job are related, not the same.
+32:12
+Yeah. If you were to apply that to me, the task that I do 100% of the time is
+32:18
+typing and talking. And talking and typing are both completely automated and
+32:24
+completely superhuman. I should be out of a job. And so, yet you and I, you
+32:29
+know, we're observing that two of us work harder than ever. I I agree with you 100% on this. I I I think that's
+32:35
+right. This is the goal of capitalism to make us more productive, give us more
+32:40
+free time, let us find newer, better ways to spend our brain power. I I I
+32:46
+think that's the success of a capitalist society to be more ambitious, to be more bold, to strive for more. I think the moment
+32:54
+we lose ambition like for example if if the the the work that we want to do today is all the work that humanity ever
+33:00
+wants to do if this is it then I I would I'll concede okay automation is going to
+33:06
+make more and more people unemployed however as you know we have so much human suffering we want to go solve we
+33:12
+have so many hopes and dreams we want to go after there's so many things we still want to create and so if I just had more
+33:18
+time well I'm finally going to have more time I agree with you 100% but because this is happening so quickly is there a b big
+33:26
+bigger dislocation than we've seen in the past that leads to greater inequality and what do we do about that
+33:32
+so let me give you the the pragmatic answer so the first the first discontinuity as we talked about earlier
+33:39
+AI is not the model AI is the five layer cake the first thing that's happened is it's created tons of jobs as you know
+33:46
+software data centers data yeah building data centers chip plants computer plants
+33:52
+AI factories. Um, all the AI companies are hiring like crazy. Last year, a
+33:59
+hundred billion dollars were invested into these into startup companies. The largest investment in human history.
+34:06
+Those all went to jobs. AI natives, AI companies start number of software
+34:11
+engineering jobs is rising, not declining. While we're sitting here that saying on the one hand AI, the first
+34:17
+job, the first thing that AI has done well is software coding. Meanwhile, we're hiring more software engineers
+34:22
+than ever. Imagine the conflict. And so, the reason for that is because we now can use AI to
+34:29
+do even more. We have so much ambition. And so, we're hiring more people. And so, I I think that that
+34:37
+people have people have to reason about these things with a little bit more life experience, with a little bit more
+34:43
+wisdom instead of looking at it strictly from the technical viewpoint. You know,
+34:48
+the fact that now I see an AI write a complete a program completely by itself,
+34:54
+we go, "Oh, that's it. Software engineering jobs are gone." That doesn't make any sense. The purpose of a
+34:59
+software engineer is not to code. The purpose of a software engineer is to solve problems, innovate new things.
+Navigating Job Dislocation
+35:05
+That's their purpose. I never said when I when I was growing up, I said, "You know what I want to do more than
+35:11
+anything? I want to type." [laughter]
+35:17
+You know, I was I was I was I can't I landed in America when I was nine years old. When I landed here, I go, "You know
+35:23
+what? My dad, he sent us here so we can type. Type our butts off. We're just
+35:28
+going to sit at a desk and we're going to hunch over this little tiny display and we're just going to type every
+35:33
+single day. We're going to type. We're going to type from the moment we wake up to the moment we go to bed." That doesn't make any sense.
+35:40
+And so, but there I know I'm just having too much fun with there could be some dislocations along
+35:46
+like what I I agree with you that there's going to be greater job creation. There's going to be a lot of places where you see these.
+35:53
+There's probably going to be some dislocation just like there was when we left agricultural society and went to an
+35:58
+industrialized one. Every everybody's job will be impacted. Yeah.
+36:04
+If I let me just give you one example. Um, if you're a college student graduating now, yeah, if you graduate and you're not an expert
+36:11
+AI user, you're not going to take a job from another kid who's graduating who is
+36:17
+an AI expert user. That's a dislocation, a skill that was not necessarily
+36:23
+yesterday, today essential. And yet, if you were a young college graduate and you're an AI expert, tell
+36:30
+me you're not going to get hired. We're gonna hire. Yeah. Right. Isn't that right? And so all of a sudden the demand
+36:36
+for someone who uses AI versus someone who doesn't. That's a classic job dislocation. Now of course there are
+36:43
+some jobs that are just basically the task.
+36:48
+You know maybe you're just answering phone calls. Now you could use AI to answer that phone call. And you know
+36:53
+like when when you call a restaurant these days I don't know you know I think there's all AIs isn't it? And so yeah,
+36:59
+so the person who's at the reception who picks up the phone in the past to take a reservation no longer has to do that. So
+37:06
+they can take care of a customer instead of having that customer wait at a restaurant. And so so I you know I don't
+37:12
+know that that every job will be impacted. Many jobs will be created. Some jobs will be will be eliminated,
+37:19
+but every job will be impacted. Because we're in California. I want to bring this up and I've been trying to get at this idea. Um, most really
+37:26
+wealthy people that I know are freaked out about the wealth tax proposal here in other places. Um, you are not, even
+37:33
+though it could cost you about 8 billion. Hold on. Say, what' you say? [laughter]
+37:41
+Say that again. I'm afraid it could cost you eight billion. Let me let me do some factchecking before I answer that question.
+37:49
+Why are you not worried about it? What what um is it that you're so worried about so many other things or is it you
+37:55
+think it's fair to have that redistribution that comes back or explain.
+38:01
+First of all, I prefer lower taxes and higher. Um however, I also don't mind paying
+38:07
+taxes. You know, I love this country.
+38:13
+Um we don't exercise that many tax loopholes. I think once a year we get a
+38:21
+a bill, we pay it and it's big and I don't mind it. And um we Lori and I
+38:27
+never one time think about it. We love this country. Um in a way that's our way of giving back. Uh I would love
+Personal Perspective: Taxes and Giving Back
+38:34
+California to be better. I would love United States to be better. Um I would I would love that they would apply $10,000
+38:40
+of the taxes that I paid to fix that one pothole on a 101, but I might if you
+38:46
+give me the chance, if they let me, I'll do it myself. and and uh but
+38:51
+[laughter] but I I I want you know it's a it's fine. It I never once thought
+38:57
+about it. And and then another thing is you know when we came out of school we
+39:02
+didn't say okay all right states show me all your taxes
+39:08
+and I looked at all of them and I go that's the one you won.
+39:13
+We came to California because this was the state we chose because we I loved the school that was here. I
+39:19
+came to school Stanford here. I love the companies that were here. Um we love the culture that's here. And and so we chose
+39:25
+to come here. And it wasn't because, you know, we traded off among states with lower taxes. But but now I've got a lot
+39:33
+of friends who who pay so little taxes that I'm just kidding. Can you name them all?
+39:39
+No. [laughter] No. I love California and and I prefer lower taxes, but whatever they decide to
+39:46
+to uh ask me to pay, I'll pay. Let me ask you a question about anthropic. Um because there has been a
+39:53
+debate about, you know, they're caught up with the the Pentagon at this point.
+39:59
+It seems like the White House is trying to maybe mend fences to find ways that anthropic can be used uh within the
+40:05
+government and within contractors to the government. Is it key to you, do you think, to make sure that that happens
+40:12
+for American competitiveness? Um, absolutely. I I hope I hope that the
+40:18
+the US government and Anthropic work it out. Um, Anthropic is an incredible company.
+40:25
+They have an incredible culture. Um, they have a belief system that's really really deep rooted. uh and uh uh their
+40:33
+contributions to AI um cloud code uh agent AI and all the work that they're
+40:38
+doing incredible. Uh we work with them on a technical basis and we work with them on a business basis and I'm
+40:44
+delighted by all that. I don't agree with all of their posture and Dario and
+40:51
+I are very clear that we don't have to agree on any of that and still be uh civil working with each other and so we
+40:58
+are able to keep all of that separate. Here's my belief. Um my belief is that
+Anthropic, the Pentagon, and National Defense
+41:04
+that uh uh American companies who create technology are uh if the United States
+41:11
+government decides to use it uh uh in defense of our nation and defense of my
+41:17
+family that um to the extent that they use it
+41:22
+uh in a constitutional way uh in a legal way and um uh in defense of our nation
+41:29
+they're the fine men's and and women of of the military. Uh I have every belief
+41:35
+uh that they're going to apply it in the right way and that CEOs who are not
+41:40
+elected officials. I'm not an elected official. And when we when we go when
+41:45
+the United States go to war, I would really appreciate not getting a phone call asking whether my technology ought
+41:52
+to be used. And the reason for that is because I would defer to their judgment and if I don't agree with them, uh I can
+41:58
+apply and and um exercise my rights as a citizen to vote next time. And that's
+42:04
+how I can protest. Uh I can speak out loud. I can um uh uh vote as a citizen.
+42:11
+I could encourage other people to speak up. But the one thing that we will not do is get in the way of the United
+42:16
+States defending our f our families. And so we are not elected officials. And so that's kind of my belief system and I
+42:23
+believe that's how democracy works and how the country should work and um but otherwise this is one thanks
+42:32
+this time it is one extraordinary company though just to put it out there is you know if you if you think about it in the in the
+42:38
+in the in the arc of history there's never been a company like this before to
+42:44
+have grown from what are they 10 years old or something like that I think is to go from 10 a zero
+42:51
+to nearly a trillion dollars in value. Um, at the the the business rate that
+42:57
+they have, I mean, they're currently probably 4050 billion dollars annualized run rate. Uh, for a software company to
+43:03
+generate the these kind of revenues, the this is historic in many many ways and their contributions to computer science
+43:11
+to society is incredible. And so tell us one thing before we go that
+43:19
+you're kind of ruminating on right now um that we don't know about but something that's maybe surprised you in
+43:26
+the last few months. Um you you have you have um every reason
+43:32
+to be optimistic and and the reason for that is because I every day I mean this
+43:38
+morning I woke up I was talking to a professor and then later I was talking to a scientist and and um uh and then I
+43:46
+flew over here to hang out with you and and so that's my day and so and in in
+43:52
+that time frame uh we we spoke about about um uh AI for open science and the
+43:58
+work that that uh AI can finally do. For example, what used to take months for a
+44:03
+researcher to explore a new idea, they can now use AI to help them do that
+44:09
+research in a day. What used to be months is now a day and you get the same
+44:14
+and you know scientists is really a discovery process exploration pushing the frontiers of human knowledge. And so
+Conclusion: 100x Your Ambition
+44:21
+scientists, whether it's in in energy science, in climate science, of course, in biology, and all the places in
+44:28
+healthcare and drug discovery, the physical sciences, the breakthroughs are incredible. If you could just see all of
+44:34
+the things that I see every day, you would be so fired up, so excited about
+44:40
+the future and realize that whatever ambition that you had in the past, the one thing that you have to say to
+44:46
+yourself is whatever level ambition you have, it's just not high enough. That's
+44:52
+the only change. The fundamental change that we have to make and I have to make is whatever expectations I have for the
+44:58
+company, you got to increase it by about a 100x. So if my if people tell me they
+45:03
+can do something, I've got a 100x in my head now. And so I've been I've been, you know, if you will, um really
+45:11
+transformed by what I now see that AI can do. And I can't wait for all of you to to enjoy that. It's going to be
+45:17
+coming very soon and and in each one of the different fields in science and industry. It's going to be completely revolutionary. It's going to be great.
+45:24
+Jensen, when you say it, I believe you because even though the things you're
+45:29
+talking about are out there, it feels to me like you generally underpromise and overd deliver. Not the
+45:34
+Yeah. And also, Becky, as you know, if you go back in history, uh, most of my predictions have been right.
+45:40
+Yeah. Thank you everybody. Thank you, Jensen. Really appreciate it.
+45:52
+We hope you enjoyed the discussion. Be sure to utilize the mobile app to stay
+45:57
+uptodate on the latest programming changes. As you exit the room, please remember to bring your belongings with
+46:03
+you.
+46:11
+[music]
+46:19
+your best
+

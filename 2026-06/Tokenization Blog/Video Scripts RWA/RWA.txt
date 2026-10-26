@@ -1,0 +1,245 @@
+
+Search transcript
+0:00Good afternoon everyone. Thank you very much for joining me. Please join. Yeah.
+0:099 secondsGreat. So from Firefox will probably join us. If not, we'll just handle it at past 3.
+0:1717 secondsUm thank you very much for coming and you're very welcome to our next panel on RW tokenization or rather the use of
+0:2525 secondsRWA. Oh, here we are. very well awesome for Miss Eing.
+0:3333 secondsYou're very welcome and thank you for joining us. So I was saying that you know this whole morning and early afternoon we're talking about bringing
+0:4242 secondsRWAS on chain right so the very first speech and panel started with discussing the particular assets that could be brought on chain and we figured out that
+0:5050 secondsanything could be brought on chain from horses and turtles to well parents and football players right but today like in
+0:5959 secondsthis panel we want to focus specifically specifically on making those assets usable in broader onchain finance world right
+1:081 minute, 8 secondsonce we bring them onchain once we call the ownership onchain uh my name is Alinka I'm advisor and head of
+1:151 minute, 15 secondstokenization at at realal tokens where we're building institutional rails for strategic commodity financing and in a
+1:231 minute, 23 secondsmoment I'm going to pass the mic to this amazing lineup of speakers that join us today um so we have uh Dimma Rafa and
+1:311 minute, 31 secondsPhillip um from different angles right from different companies which makes it really really interesting so that we can
+1:381 minute, 38 secondsuh approach the topic from different perspective. So guys please as always a short intro about yourself and please
+1:461 minute, 46 secondsname one single thing that you believe your company does best in the RWA documentation space. Let's start with you. You're also late so you go.
+1:571 minute, 57 secondsSo yeah I guess I have to go first then apologies. My name is Phipe Tonan. I've been with Fireblocks for about four years now. Uh initially joined to scale
+2:062 minutes, 6 secondsup the operations in the region. Uh these days I lead our financial institutions business for the Middle East and Africa. So UVA earlier in the
+2:142 minutes, 14 secondslast session was talking a little bit about banks which is where I spend most of my time these days. So very painful and slow but it's uh it's accelerating.
+2:222 minutes, 22 secondsUh and uh in terms of the the subjects uh what we do as an organization is provide infrastructure to allow market
+2:322 minutes, 32 secondsparticipants to bring assets uh real world assets on chain in a secure and compliant way.
+2:392 minutes, 39 secondsAnd are you best at doing that?
+2:412 minutes, 41 secondsWe are absolutely the best at doing that. Yeah.
+2:462 minutes, 46 secondsMaybe um hi um my name is Rafisa. I'm actually based out of Malaysia. So I work for facet joined about um February.
+2:562 minutes, 56 secondsSo again um I also came from traditional bank um and in fact prior to joining
+3:033 minutes, 3 secondsfacet um I built a digital bank from scratch. Uh spent about three and a half years and that's when I came to realize
+3:113 minutes, 11 secondsthat it's um you know very painful. Um so I joined Facet. Um I'm here to
+3:183 minutes, 18 secondsactually I I'm based out of although I'm based out of Malaysia but I spend because I'm managing director of global
+3:263 minutes, 26 secondsconsumer banking so I'll be spending 50% uh out of Dubai. So I I think a lot of you know who facet is u so what we're
+3:343 minutes, 34 secondsbest is you know we're rwa you know the whole app is a real world assets um that
+3:413 minutes, 41 secondswe allow for especially those in the emerging markets the ability to uh participate in investments which they
+3:493 minutes, 49 secondswould normally not uh otherwise uh have access to if not because of tokenization. Thanks.
+3:583 minutes, 58 secondsHello, I'm Dima. I'm a crypto bro on the scene. Um been in crypto for quite a while. I've uh I built the hacking cyber
+4:074 minutes, 7 secondssecurity company um which does a lot of different stuff in the space. Uh right now focusing on the core 3. is a risk
+4:154 minutes, 15 secondsdata platform for crypto projects including RWAS.
+4:204 minutes, 20 secondsUh what we can do best is to uh explain you the risks of crypto and
+4:284 minutes, 28 secondsdifferent ways how hackers, fraudsters and scammers can steal your money and um
+4:354 minutes, 35 secondsyeah highlighting that and providing the mitigation and disclosure strategies for investors as well. How not to get into scammy stuff.
+4:464 minutes, 46 secondsThank you, Dimma. All right, so apparently we have a crypto brawl and two bankers. That That's makes it even more exciting. Awesome. So, look guys,
+4:544 minutes, 54 secondsactually the original naming for the panel did contain the word RWA5, right?
+5:015 minutes, 1 secondI clearly remember that. Now, we've changed it a bit, maybe to make it more appealing and more understandable uh to our audience. But I actually want to f
+5:095 minutes, 9 secondsfocus on that buzz word as we call it RWI.
+5:135 minutes, 13 secondsSo let's define the tonomy here. Let's define what exactly we're talking about because again bringing an asset onchain
+5:215 minutes, 21 secondsis one thing and then making it usable in broad finance on chain is a different thing right so let's brainstorm let's
+5:295 minutes, 29 secondstalk a bit more about what exactly we mean by the very termi which I personally like for me it's not a password it does have like a deep
+5:395 minutes, 39 secondsunderlying meaning so um whoever wants to start whatifi means to you and how your company helps
+5:485 minutes, 48 secondsuh make all this arty that we're bringing to blockchain more usable. I'm I'm looking at you.
+5:565 minutes, 56 secondsIt's okay. I'm I like I'm as a crypto bro. Yeah. I'm I'm for the technology here. Yeah. So, I think the uh RWA
+6:056 minutes, 5 secondsum unlocks the permissionless liquidity, worldwide liquidity uh especially retail
+6:126 minutes, 12 secondsliquidity. So basically the LWAS unlocks the potential for projects to fund their
+6:216 minutes, 21 secondsideas. Yeah. And uh all over the world and without any borders. That's my take.
+6:316 minutes, 31 secondsSo I think traditionally RWA how it first started off is a means of um
+6:386 minutes, 38 secondsfractionalizing the asset and you know the ability for more people to invest in it. But we at Facet uh we started off um
+6:496 minutes, 49 secondsyou know using RWA you know crypto uh uh as a card. So you use the card so you can you can you know uh invest in it but
+6:586 minutes, 58 secondsyou can also use it. So recently we launched we open to for registration a goldbacked um you know tokenized
+7:077 minutes, 7 secondsgoldbacked uh card which we partner with tether. So you know so we are moving away from just uh stable coin um rwa. So
+7:167 minutes, 16 secondswe're moving into gold. So that's that's only a start of it. So you can you know start looking at using uh tokenized
+7:247 minutes, 24 secondsassets uh to spend it rather than just to keep it and invest. Yeah. So that's what we're doing at facet.
+7:307 minutes, 30 secondsSo the use case here is essentially to be able to spend this uh token right apart from just holding it and uh well I
+7:377 minutes, 37 secondsthink in this case benefiting from the price appreciation or gold which is the underlying asset. Uh my question is can
+7:457 minutes, 45 secondsyou then use it in proative finance in terms of like using it as collateral for example to borrow against? Yeah you could already like on the road.
+7:557 minutes, 55 secondsSo we have um which is uh you know still on uh proof of concept that we you know
+8:018 minutes, 1 secondfor the asset that we have that we allow for you know short-term uh credit. So is that what you're asking? Yeah. So it's
+8:098 minutes, 9 secondsit's already available on Facet app at the moment. Yeah. Yeah, back to you then.
+8:158 minutes, 15 secondsSo, where is the RWA in this case?
+8:208 minutes, 20 secondsIt's just the your app is the number um that you hold something, right? Where is WA?
+8:288 minutes, 28 secondsSo, um so it's on the app. Yeah. So, what do you mean?
+8:338 minutes, 33 secondsOh, I mean like where is onchain liquidity and why do you need onchain liquidity?
+8:398 minutes, 39 secondsWell, because there are people who would like to um collateralize uh their asset
+8:478 minutes, 47 secondsand so that we allow the credit but it's still you know not widely available yet.
+8:518 minutes, 51 secondsIt's still on proof of concept because we're moving towards one of the things that facet is looking is where uh we just got our banking license so we are
+9:009 minutesexploring on providing credit um and one of it is to collateralize against you know uh our digital assets. So Jim, do
+9:089 minutes, 8 secondsyou have a concern that it's held in custody by the app owner and so that users cannot like literally hold it on
+9:169 minutes, 16 secondsthis custody walls? Is it what you're saying? Yes. Yes.
+9:209 minutes, 20 secondsYeah. But this is just like a different model, right?
+9:239 minutes, 23 secondsNo. Yeah. I mean I'm as a crypto bro a little bit sad.
+9:279 minutes, 27 secondsOkay. But look, we're going to get there for sure and you should talk to after the panel to to discuss that. But I think like look at last panel we had
+9:369 minutes, 36 secondscast which is also right a central service provider um even though like
+9:439 minutes, 43 secondsthey did mention that gun uh decentralized goals are already valuable on the platform right of course it's wrapped for the end user in a very you
+9:529 minutes, 52 secondsknow userfriendly way so they're abstracting away the entire difficulty uh but again an underlying um approach
+10:0010 minutescould be holding it on a self-custody wallet ultimately I think we'll definitely get there. Um, Philip, so what what do you have to say on that?
+10:0910 minutes, 9 secondsI think this is an interesting topic because ultimately we're very early days in terms of how retail investors consume
+10:1710 minutes, 17 secondsthese products. I think the most important thing right now is that they do have access to them to start consuming them longer term. I agree with
+10:2410 minutes, 24 secondsDimma. then the sophistication of the retail investor will demand most probably that they keep these assets in their own custody where they manage the
+10:3210 minutes, 32 secondskeys but those keys are completely abstracted from them and then they have their own wallets. Um but right now there are many service providers that
+10:4110 minutes, 41 secondsare providing that custody on behalf of their consumers. Uh I think the important message is that we are you know this is a big part of how
+10:4910 minutes, 49 secondstokenization and blockchain in general is democratizing uh finance uh for you know every person
+10:5610 minutes, 56 secondsand allowing assets which were you know very inaccessible lowering those barriers of entry and giving everybody
+11:0311 minutes, 3 secondsaccess uh to previously illquid assets to build portfolios. you can't buy necessarily everybody a full property or
+11:1211 minutes, 12 secondsa resource and these are the kind of projects that you've seen on fire blocks people tokenizing resources wine whiskey
+11:1911 minutes, 19 secondswhich is more much more my area of expertise uh and so I think that's the important phase one is that this
+11:2611 minutes, 26 secondstechnology and the the the infrastructure around it is allowing this movement of more traditional
+11:3511 minutes, 35 secondsfinancial assets to move on chain and Then in terms of how investors and institutions will consume it, I think that will be refined over time.
+11:4511 minutes, 45 secondsUm, Philip, question to you. So I know for sure that Anchorage Digital does offer like at least one vault for sure
+11:5211 minutes, 52 secondsto their clients. Uh, do you have and again the like the underlying strategies are still like DeFi, right? stem lending or an a moro. Uh do you have something
+12:0212 minutes, 2 secondssimilar and are you looking into that direction to essentially allow your customers who hold the assets in your custody to also be able to to be exposed
+12:1112 minutes, 11 secondsto those RW vaults let's say curated by you know the the best names in the space you have that on on the road map or maybe already implemented.
+12:2112 minutes, 21 secondsUh yeah actually pretty pretty timely but as a infrastructure technology provider we service the entire market.
+12:2812 minutes, 28 secondsSo our customers are the ones that create products and services using Firebox as a back end. So in many areas they do compete with each other to
+12:3612 minutes, 36 secondsprovide services and products to the general market. We are agnostic to what our customers do as a workload on Firefox. But of course we continue to
+12:4412 minutes, 44 secondstry and implement capabilities that allow them to uh offer more sophisticated products and services and actually just I think about a week ago
+12:5312 minutes, 53 secondswe released um own products on our infrastructure. So integration with morphone a in particular so that our
+13:0213 minutes, 2 secondscustomers can off the bat as a native integration use that capability directly when they implement our technology
+13:1113 minutes, 11 secondsbut that's going to be the individual decision right so let's say I I want to just you know lend my USDC directly to
+13:1813 minutes, 18 secondsMOO into that could be managed by ge or some right so that kind of thing
+13:2513 minutes, 25 secondscorrect so when you look at large organ organizations, fintex that are using our technology like Robin Hood and Revolute
+13:3213 minutes, 32 secondsYuan mentioned earlier about money uh about you know the kind of scale they're doing now and what they're moving this all goes on our infrastructure so again
+13:4113 minutes, 41 secondsit's completely up to our customers what they wish to build we aim to provide a flexible architecture and infrastructure which allows them to go to market
+13:4913 minutes, 49 secondsquickly um and manage custody either on behalf of their own B2C customers or B2C customers or give that customer to the
+13:5813 minutes, 58 secondsend user with a very recent acquisition we made of a company called Dynamic which is the leading non-custodial
+14:0514 minutes, 5 secondswallet in the market and adoption there is pretty aggressive which is probably makes demo quite happy to see that you know that's moving very nicely now
+14:1414 minutes, 14 secondsit's it's questionable yeah where it's moving okay so with just capture on this panel demo let me let me go back to you now um
+14:2214 minutes, 22 secondsokay so let's imagine an ideal scenario for you. So um can you explain us can
+14:3014 minutes, 30 secondsyou describe us this perfect flow that you see for RWA in a broader onchain finance market?
+14:3714 minutes, 37 secondsGreat. Thank you. Thank you for this question. So um I see it in the way that we have um um market RWA yield
+14:4614 minutes, 46 secondsaggregators market leaders let's say like this um they have u um they
+14:5414 minutes, 54 secondsgathering um a lot of different onchain yield opportunities uh for off-chain projects
+15:0415 minutes, 4 secondsand they are um doing their job very well in terms of providing the risk
+15:1115 minutes, 11 secondsanalysis of the yield opportunities and people can per in permissionless
+15:1715 minutes, 17 secondsmanner put their stables or whatever and earn this yield and this yield is competitive is around 10 12%.
+15:2915 minutes, 29 secondsAnd uh we as a industry are benefiting from uh more and more projects being
+15:3815 minutes, 38 secondsfunded through this um through this model. Yeah. But again the the the the elephant here is the are the risks.
+15:4815 minutes, 48 secondsYeah.
+15:4915 minutes, 49 secondsSo are you saying that the platform that you're describing is undertaking the whole risk right?
+15:5515 minutes, 55 secondsThey not necessarily. Yeah. because um you cannot do uh all the things at once.
+16:0016 minutesYeah. So there are uh some like plum is doing something like this.
+16:0416 minutes, 4 secondsYeah. So we have this great marketplace nests nests right here. So they they're struggling to add new yield
+16:1116 minutes, 11 secondsopportunities because uh those yield opportunities they um then like the not
+16:1916 minutes, 19 secondsall yield opportunities can pass a proper risk analysis. Yes. because the risk analysis includes not just the
+16:2716 minutes, 27 secondstechnical part but also legal part, financial part, scalability part, uh
+16:3216 minutes, 32 secondsbusiness continuity part. Uh so um so it's it's a it's a big u portion of due
+16:4216 minutes, 42 secondsdiligence that is basically the banks are doing when they are giving away uh when they are giving the loans. Yeah.
+16:5116 minutes, 51 secondsExactly. So the problem is that we need to do a very proper offchain underwriting right because and and that's the the greatest challenge I
+16:5916 minutes, 59 secondsthink offain chain bringing now okay onchain but we probably are good at it right it's probably not necessarily the technical technical
+17:0817 minutes, 8 secondsis not covered yet as well here's the difference between let's say RWA in a tokenized form and D5 right
+17:1517 minutes, 15 secondsbecause in RWA you also have this complex offchain part where you need to underwrite and if you giving a loan to a bad player that's never going to, you
+17:2417 minutes, 24 secondsknow, give the money back. What what exactly going to do on chain? If you have everything attested in a proper manner, if you have your smart contracts
+17:3217 minutes, 32 secondslike audited by you multiple times, you're never going to do anything unless it's structured. It's structured in a proper legal way as you said.
+17:4017 minutes, 40 secondsYeah, I said the same. So, offchain is even more important. But even with even if you think offchain is all uh like
+17:4817 minutes, 48 secondsproperly done, you still can lose all your money if there is some back door in the smart contracts. So,
+17:5517 minutes, 55 secondsoh no, that that for sure. And this is exactly you know the magic and the complexity here that we're kind of merging the two worlds and we're
+18:0418 minutes, 4 secondsdoubling both risks right and the opportunity because as you said like 10 12% yield is very different what we are
+18:1218 minutes, 12 secondsseeing in lowrisk right now right um anyway refer I have a question to you so since you are already into that and you
+18:2018 minutes, 20 secondsare already offering such products to your customers could you talk a bit more about maybe the due diligence that you you're making on them like how you're
+18:2918 minutes, 29 secondshandling this entire series of risks and challenges that are emerging around that type of assets.
+18:3518 minutes, 35 secondsWell, the ones that we're um offering is very low amount um and because it's it's collateralized basically on the digital asset.
+18:4518 minutes, 45 secondsWe're we're not even thinking about you know the typical credit uh you know credit scoring risks because this is
+18:5318 minutes, 53 secondsthis is very still very you know a testing stage early stage probably similar to you know some of the
+19:0219 minutes, 2 secondsunsecured fundings that you know traditional banks uh provide and you build the credit rating over time which
+19:0919 minutes, 9 secondsthat's what we're moving towards when we you know because we're getting a banking license and we want to start thinking
+19:1519 minutes, 15 secondsabout how we provide credit products. Um so that's what we have but you know I
+19:2319 minutes, 23 secondsyou know coming back to the underwriting on offchain I I do agree because um we
+19:2919 minutes, 29 secondshave a um prop propt tech um uh real world uh real estate uh property um
+19:3719 minutes, 37 secondsplatform that we have and some of these um what we do is we you know we look at
+19:4419 minutes, 44 secondsthe uh development uh property big developments and we allow for you know investors to start investing even when
+19:5319 minutes, 53 secondsit's bare land and as you start construction it. So you know one of the things that we need to make sure is that
+20:0020 minutesyou know you you do you provide proper due diligence on the marketability and the commercial viability of you know
+20:0920 minutes, 9 secondsdevelopment of the real estates. So that's very much off chain and that's very much that's something that you have to do in a in a very typical traditional
+20:1720 minutes, 17 secondsum you know financing of a development of especially large scale property. So yeah so so it's something that you know
+20:2520 minutes, 25 secondswe need to think about um especially when you know we provide larger um you know credit products when we do start to
+20:3320 minutes, 33 secondsbecome a bank. Um that's something that we uh you know we still haven't got we still haven't got it figured out actually to be honest. Yeah.
+20:4120 minutes, 41 secondsYeah. 100%. And the thing that I think crypto bras I mean not taking as example because like he can understand what he's
+20:4920 minutes, 49 secondstalking about. A lot of crypto bros think that it's very easy to replicate the entire underwriting system on chain right uh but we we can't really do it.
+20:5820 minutes, 58 secondsWe still need to rely on traditional days when we are underwriting for such type of financing as you are saying right for those markets like as real
+21:0621 minutes, 6 secondsestate as what strategic commodities etc etc because these are systems that have been built for years right and they they
+21:1421 minutes, 14 secondswork in a very inefficient way as we already understand right so trying to bring them onto the blockchain does help
+21:2221 minutes, 22 secondsus resolve the issues of like cost and time right and capital ineff efficiency because we we're just locked in for for
+21:3121 minutes, 31 secondsyears, right? And the opportunity cost here why while that exact like producer or real estate developer is waiting for
+21:3821 minutes, 38 secondsthe capital to kind of flow in um is huge. Um anyway, now this is this is great that we're all on the same page
+21:4621 minutes, 46 secondshere. And guys, I have a very direct personal question to you. Do you actually use any of those RW assets yourself? Like do you invest in them?
+21:5621 minutes, 56 secondsHave you tested anything exciting recently?
+21:5921 minutes, 59 secondsYou've been talking about, you know, real usability, tradability, etc. Yeah, I can talk about one use case.
+22:0622 minutes, 6 secondsYeah. So, uh we have um taken u some percentage of our shares. Uh we did it
+22:1422 minutes, 14 secondsthrough the Spanish SPV. Uh we have transferred those percentage to the
+22:2022 minutes, 20 secondsSpanish SPV. uh and uh it's basically a blank company that holds only our
+22:2722 minutes, 27 secondspercentages. Uh we have tokenized the shares of this company and we made a small private placement. So the guys uh
+22:3622 minutes, 36 secondshave received their uh bought the percentage of the company and in the form of the token. But is it is it a
+22:4422 minutes, 44 secondssingle entity or like multiple people that bought the No, it's uh quite few people who bought into this uh company like they bought
+22:5322 minutes, 53 secondsthe token which represents the share in this SPV which SPV represents the share in our company.
+23:0123 minutes, 1 secondIt's so private, right? How can it's a private company?
+23:0423 minutes, 4 secondsPrivate now with huge fans. Okay. Okay. Okay, so we're tapping into this amazing interesting trend of preipos, right,
+23:1323 minutes, 13 secondsthat have been really uh talked about a lot recently. Um, okay. How are we with timing? I don't have my my watch. Um, I also don't see the We need to wrap up.
+23:2423 minutes, 24 secondsOkay. Okay. That's very unfortunate.
+23:2723 minutes, 27 secondsWell, guys, maybe like since demo already shared this great use case of tokenizing the BIPO shares, are they going to be valable? like is there going to be another wave of position?
+23:3823 minutes, 38 secondsWell, we like to experiment. We like to play. So like we did this u base like
+23:4423 minutes, 44 secondsaccord everything according to e law and um the platform that helped us and maybe I can even advertise it. It's not my
+23:5223 minutes, 52 secondscompany. It's brickin. Yes. So we did it without breaking. Yeah. Yeah. Yeah. Okay.
+23:5823 minutes, 58 secondsYeah. Yeah. And our use case, this specific use case was um in the uh European Union second uh cohort or the
+24:0724 minutes, 7 secondsthe sandbox cohort. So they basically use this case to to scale it.
+24:1324 minutes, 13 secondsI mean you should let us know when you're going to be doing that again. We we want to try. Okay. Anyway, like to make it very practical to our audience,
+24:2224 minutes, 22 secondsum let's bring up one one case, one particular asset that can be bought, can be purchased by every one of us today.
+24:3124 minutes, 31 secondsUm I can essentially start if you want.
+24:3424 minutes, 34 secondsUh let me maybe pick the the the simplest one. So okay, everyone knows what TVs are, right? And you as a retail
+24:4224 minutes, 42 secondsinvestor, I'm pretty sure we have a lot of accredited investors here in this room. Well, I hope so. Uh but let's talk about retail that the mass user you can
+24:5124 minutes, 51 secondsessentially go to the same nest that's the platform by bloom and you can invest into the um ad basis vault and get
+25:0025 minutesexposure to tokenized T bills you just do it in one click right obviously like 35% yield probably is very attractive to
+25:0825 minutes, 8 secondsmany people in this room but you can try right I'm just saying it's open it's available it's not only for institutions
+25:1625 minutes, 16 secondsand that that's what autoifi essentially means right we're making it available accessible that's always been the
+25:2325 minutes, 23 secondspromise of blockchain right so my case is end basis which is I mean boring you you'll find so many interesting like
+25:3025 minutes, 30 secondsprivate credit back products on the same platform but just start with n basis that's my piece of advice demo what's yours
+25:3725 minutes, 37 secondsyeah okay yeah I can't stop talking uh so there is an amazing startup that I really love the idea so u initially They
+25:4625 minutes, 46 secondswere doing the uh virtual food brands not like the cloud kitchen but um uh
+25:5325 minutes, 53 secondsthey were agreeing with famous food brands like Mr. Beast or whatever that they will uh use their brands place uh
+26:0226 minutes, 2 secondsagree with some restaurant with the spare capacity and uh this food brand will appear in in Talabat Kharim and
+26:1026 minutes, 10 secondseverybody can order their burgers. So they are doing it is a business and right now what they do is they they will
+26:1826 minutes, 18 secondsstart do the um uh they start to uh offer the food brands existing ones and
+26:2726 minutes, 27 secondsany influencers who wants to start selling their burgers, pizzas whatever
+26:3426 minutes, 34 secondsin Talabat Kharim they started to offer them this uh IP tokenization and basically the the margin tokenization
+26:4326 minutes, 43 secondsuh u product. Yeah. So basically um the the food brand is receiving 6% of the
+26:5226 minutes, 52 secondsrevenue uh from uh everything that's being sold and um uh yeah this 6% are
+27:0027 minutestokenized and everybody can participate in this 6% by buying their uh put in the
+27:0827 minutes, 8 secondsmoney. So, um like um I'm I really like this idea because it unlocks the potential of uh everybody to I don't
+27:1727 minutes, 17 secondsknow to take out from the pocket his granny recipe uh fund raise for it uh appear in Talabat Karim and people will
+27:2627 minutes, 26 secondsmake money uh and spreading the word about the grandma recipe and it's just this is the the beauty of RWA.
+27:3527 minutes, 35 secondsSee how diverse that is. I started with T bills and continuing with with I and Burgers on Taliban and Kareem Griff.
+27:4327 minutes, 43 secondsWhat is your single best case now? Is in this tokenized gold packet.
+27:5227 minutes, 52 secondsUm no investment advice of course. Um I I can't okay look we all I can say
+28:0128 minutes, 1 secondthat like we should track faster properly as as user product what's yours
+28:0828 minutes, 8 secondsI'll mention two small things my longest standing friend um a few years ago invested insanely in a Australian raceh
+28:1628 minutes, 16 secondshorse uh and he has since cost him inordinate amounts of money feeding it clothing it need to do with a
+28:2428 minutes, 24 secondsthe day I sat him down and explained that there were companies tokenizing resources and he could have just bought a token from his from an app on his
+28:3228 minutes, 32 secondsphone, his face dropped. Um, but for me, the one of the killer use cases I see certainly here in the UAE as a long-term
+28:4028 minutes, 40 secondsskeptic around real estate in particular as an investor, I've always found it very cumbersome, always found it, you know, very expensive and timeconuming
+28:4928 minutes, 49 secondsthe idea of being a landlord. Um so when we see you know cryco and control alt and the pioneers in the market here I
+28:5728 minutes, 57 secondsthink that's an amazing example of how uh barriers to entry are being released and democratizing finance and I can now
+29:0429 minutes, 4 secondsalong with many of my friends who feel the same way about the asset class in a traditional sense have access to bringing that asset class into our
+29:1329 minutes, 13 secondsportfolios at the click of a button. So I think for me that's one highly regulated here which is going to explode regionally and I think around the world
+29:2129 minutes, 21 secondsas well 100% and the most beautiful thing is that it's done with the official support of the government right within this
+29:2929 minutes, 29 secondsgreat sandbox with the envir so thank you very much to the local authorities for for allowing that to to to be done
+29:3729 minutes, 37 secondsyou know in a very very clean and transparent manner. Look guys, I think you have a lot of options on where where
+29:4429 minutes, 44 secondsto go and to to test. No investment advice again, but we have, you know, vast array of assets ranging from T bills, IP, tokenas, gold, real estate.
+29:5529 minutes, 55 secondsAnd the thing is, I'm pretty sure in a few years, not only are we going to be able to invest in those assets, but also
+30:0330 minutes, 3 secondsmake most use of them, right? Again, using them as collateral for ultimately trading, for lending, etc.
+30:0930 minutes, 9 secondsInteroperability is a different angle which we have not touched upon. It's still interesting but we need to wrap up. Thank you so much. I hope that was
+30:1830 minutes, 18 secondsuseful. Everyone should be testing that every day. That's exciting. That's the future. Thank you.
+
+Sync to video time
+
+All
+
+Seminars
+
+For you
+
+Recently uploaded

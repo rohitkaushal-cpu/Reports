@@ -1,0 +1,749 @@
+
+Search in video
+0:00
+Hello and my name is Meshach and Meshach Masibu and I'm happy to have you join us in this conversation. So together with
+0:06
+me in the in the studio in a sense of that word is Moses Moses wani. So we'll
+0:12
+be having an interesting conversation about virtual assets based on the fact that
+0:18
+there's a new virtual asset service provider act that has been put in place and now what that means and just a
+0:25
+longer deep dive into some of those topics. But first I'd want Moses to do a bit of introduction of himself. I know
+0:31
+he has done quite a lot over many many years I think decades specifically. So
+0:36
+maybe you can just take us through maybe an introduction your name in full and then a bit about your background and
+0:42
+experience so that at least even the audience has an understanding of who's having the conversation. Yeah.
+0:48
+Thank you Masibu for having me. Um my name as you said is Mosesi.
+0:55
+Um if I start from reverse I would say I'm a compliance specialist but just to
+1:00
+create a journey of how I got there um I would I would sit here and say that that
+1:06
+is what I desire to be years ago. Um I'm actually more inclined towards the finance matters. I only deep dived into
+1:15
+compliance um let's say 15 years ago. Um
+1:20
+having worked in uh three banks, I started off with uh largely the top tier
+1:28
+top top one um tier one banks in Kenya. Um while I
+1:34
+was trying to run with the finance things, they didn't just work out though my academic and professional training is
+1:40
+included towards that. I found myself um running with compliance issues. This was
+1:45
+actually the same time the compliance laws were being um published or enacted in Kenya around 2009 and I have done um
+1:54
+compliance for the last uh uh 15 16 going to 17 years now and here we are um
+2:00
+my experience spread across um commercial banks and um a fintech.
+2:07
+Thank you. Yeah, amazing. And I think part of why I'm also really happy with this conversation is because you have the blend of both traditional finance in
+2:14
+terms of working in a banking sector and as what you also see also have worked in a fintech that also works in a virtual
+2:20
+in terms of virtual assets. So you bring that the beauty of of blend in that in that context. So just even as you sense
+2:28
+take a deeper dive. So what is informing a lot of this conversation is as the fact that there's a virtual asset
+2:33
+service provider act that was uh put was has is now in force and it's been in
+2:39
+force for a couple of months now but it is yet to be operationalized because you're still waiting for some
+2:45
+regulations from the the minister for the cabinet secretary for the national treasury now through the central bank
+2:51
+and the c the capital markets authority. So we in a sense having um um um a
+2:56
+conversation beforehand in terms to in a sense aid our audience to be able to prepare for that what what is coming and
+3:03
+now how to what are the best practices how does that look like and and and what not. So when you talk about virtual
+3:09
+assets the the assumption usually people start with defining what is a blockchain
+3:15
+then what is a bitcoin then what is a what is USDT but we'll assume a lot of knowledge on the end of the audience and
+3:22
+just basically uh focus our conversation on what what on on on what you
+3:27
+specialized in yeah so I think as a first maybe as as a first even as we just think about this this particular
+3:33
+topic for you can also just get your first impression maybe your first exper experience with virtual asset beyond the
+3:40
+traditional finance spectrum. So just your personal life experience, have you ever used any? And it's okay if you
+3:46
+haven't, but what was the first even professional experience of of dealing with virtual assets? And how was that
+3:51
+for you particularly as a trade finance person? And yeah, so that can be a a start to it. Yeah.
+3:57
+Oh, okay. Thank you for that. And a couple of comments I'll put in there. Um
+4:03
+first and I think it's good we clear this for our audience. The act that uh
+4:09
+is now a couple of months old as you mentioned if you look at the wording clearly it's actually there to regulate
+4:16
+and create a legal framework for the virtual asset service providers. Um it
+4:22
+is not regulating the virtual assets. So we wouldn't uh probably even start um
+4:28
+diving deep on the specific coins and stable uh stable coins and all that
+4:33
+because that is not what the act is um regulating. It is there for the service
+4:39
+providers. Uh going back to your question on my experience. Um
+4:45
+when I was in the traditional finance uh setup um and and probably you uh you you
+4:51
+already know this, our biggest uh regulator in the financial sector issued a lot of um I would say warning notices
+4:59
+to uh the the reg the supervised bodies and and uh CBK. uh and it was a bit of a
+5:07
+cushion for not dealing or coming any any close to anyone dealing with uh
+5:12
+virtual assets. And mo most of us, especially some of us in the compliance,
+5:18
+we took that as the Bible truth and we never went anywhere near um near virtual
+5:25
+assets or cryptocurrency as as they were. Um but over time uh when we um in
+5:33
+that setup there's a lot of interaction with the global partners financial financing partners the correspondent
+5:39
+banks across and um you realize they are not the world out there wasn't fighting
+5:45
+them but they were asking on how are you um managing their risks all right so I
+5:53
+came to slowly um uh understand that it is not entirely the enemy. Virtual
+6:00
+assets, it's not entirely the enemy. Uh I think the enemy is not knowing how to manage the risks that come with them. Um
+6:08
+I remember in a particular discussion with one of the correspondent the global correspondent banks they were saying
+6:14
+um they were very upright and they told us uh in a forthright manner you we cannot sit in that meeting and tell them
+6:21
+that we are not servicing um virtual assets providers. probably what we do not know is that we have them already
+6:29
+indicating that we have them but we are not managing their risk. Um I started changing my perspective
+6:35
+about about uh u service uh service providers in that space and um over time
+6:43
+we we we could get a lot of requests partnership requests uh and again um I
+6:49
+took interest in like going through the literature and the narratives that they come and then I started to realize that
+6:56
+um I in my mind I started giving myself um a challenge and asking
+7:02
+Where did we begin as Kenya with let's say mobile money pesa hotel money it was
+7:09
+more or less the same setup uh people didn't believe this thing can work people were very cautious of the of the
+7:16
+risks that were attached to them but here we are uh with uh I think 18 years now with um Empessa so even um these
+7:25
+virtual assets they move they're moving in the same way only that we had the um uh the first step of the of the
+7:32
+staircase and we'll get there. So lastly, my my personal um interaction is
+7:38
+when I was working in the fintech um um we were given the option uh which is
+7:44
+which is a very good uh thing that actually um a very good experience. We were given the option to receive our
+7:51
+monthly salaries through the normal bank account or through um a virtual wallet
+7:57
+uh virtual asset wallet and uh out of the curiosity to know how these things worked. I jumped in and I I chose to
+8:04
+pick my salary through u a wallet and that that that's how I came to like
+8:10
+practically and professionally um experience how it works. So you get your pay, you move it to the uh fiat
+8:17
+platforms as and when you need. Amazing. I think also my experience of
+8:23
+of of virtual asset it's more or less similar. I also came from a viewpoint my my background is legal. So it's a very
+8:29
+skeptical critical viewpoint cuz understanding okay it's anonymity. What are some of the things that you
+8:34
+need to consider in that context? So I also had that bit of of of of negative viewpoint and my experience of it also
+8:40
+was different cuz I happened to also service some clients. So I I serve clients from other some sometimes from
+8:46
+other parts of the globe. So I had a client who once I think I was doing some work from there an Estonian client they
+8:52
+paid they sent some money through to me to my farm but it took I think around 5 days for them to process that whole
+8:59
+entire payment. So that's my experience of of of traditional finance and also gave me a bit of context into it. Then I
+9:05
+think recent I think it's last year recently he also got a client same likewise from a European country tried
+9:12
+to do the traditional bank settlement but there was a bit of an issue cuz I think there's a time Kenya got grrey
+9:18
+there's a Kenya got is it greylisted or something so it means a lot of bank a lot of Swedish banks and banks from some
+9:24
+of those countries really just don't send money to Kenya at all. So I was stuck. I couldn't receive a payment for
+9:30
+work that we would sign an agreement and all of those things. And then we got into the alternative of getting an get
+9:36
+they asked if they can send the funds through USDT. So I I have a rough understanding of it. I've a rough
+9:42
+understanding of of all of those concept but I hadn't really thought about it in a deeper in a deeper lens. So once uh
+9:49
+but when they told me about that I of course I fig when it comes to payment I figured it out. I figured okay so this is what I need I need here. I had a
+9:56
+Binance but created a Binance then got another processor and all of those things and eventually got the payment
+10:01
+and the payment in between them agreeing to send me the funds and me giving them the wallet it took around 10 minutes 10
+10:09
+minutes or so for them to do a test transaction and whatnot something that previously took me 5 days and and and
+10:16
+just a lot of work cuz it even see when someone like sends you money from from Europe they can't send money here it has
+10:22
+to go to the to the US some bank in the US then some bank and So it passes like I think three or so correspondent links.
+10:28
+Yeah. Before it gets to you. So that's even my own experience. And I think also also what makes me excited about virtual
+10:34
+asset is just the potential the fact that someone somewhere in Eastern Europe can send you money in 10 minutes and
+10:39
+it's all all all all done. So that's my bit of experience and why I'm also happy to have this conversation and happy to
+10:46
+on where we are. So but maybe I can also dive go a bit into now what your
+10:52
+background and your understanding of it. What should a company think about any a company that is entering this market
+10:58
+from outside or a company even a local maybe now we can start with a with a larger company coming into the the
+11:04
+Kenyan context they want to offer virtual asset exchange or a virtual company or issue coins from your
+11:10
+perspective as a compliance specialist what do you think are the key things they need to have in mind for them to
+11:16
+get a license and operate properly yeah okay thank you for that question and I I
+11:21
+think I'll still draw lessons from my experiences in both uh setups, the
+11:27
+traditional finance and and the current space. Um having
+11:35
+having engaged in both u um spaces, I probably would say that the requirements
+11:42
+in the traditional finance the the compliance requirements the traditional finance
+11:48
+are more or less the same u compliance requirements that are required. um in
+11:54
+the virtual asset space in in the in the in the broader perspective. All right.
+12:01
+The only difference comes in into the nitty-g gritties of of um of
+12:07
+or the differences coming the nitty-g gritties. What a virtual asset service provider may require to do maybe to
+12:14
+handle customers KYC may be different uh from what um a traditional bank would
+12:20
+do. A good example would be um we are used to um for KYC purposes um know your
+12:27
+customer purposes we are used to uh collecting documentary uh evidence just
+12:33
+to show that this is a national ID this is a registration certificate and all that when it comes to the other space uh
+12:40
+it's almost 100% electronic KYC what we call EQC so at at the top level the
+12:48
+requirement remains both parties must do KYC. How you do KYC is is what matters
+12:54
+and that can can go uh on and on for each and every requirement. Um back to
+12:59
+your specific questions of uh what um um uh a new entrant would expect. Um the
+13:09
+good thing is that the the the virtual assets service providers act
+13:14
+that is we mentioned it's pretty new um has outlined what uh needs to be done
+13:20
+and it has also made a lot of reference to the existing um laws uh compliance
+13:26
+laws or ML laws of the land the the main one being uh the proceeds of crime and
+13:31
+anti-moneyaundering act um we popularly know call it pambla
+13:36
+Um what what happens or what the act um
+13:42
+said is it designated each of these actors the virtual asset uh service providers to be a reporting institution.
+13:49
+A reporting institution in the sense uh of uh um in the definition under pokamla
+13:56
+is anyone that has some specific obligations in respect to um
+14:02
+anti-moneyaundering uh counterterrorism financing and uh counterp proliferation financing. So those obligations are
+14:08
+outlined in poka they you may not find them directly in the vasp act but because of the cross
+14:15
+referencing of the legal framework um you'll find them there. So um and and
+14:20
+actually what I was alluding to earlier, they are the same obligations that um the
+14:26
+the traditional setup was using. They're the same obligations that um the VASPs
+14:32
+will be using. So and and um for licensing purposes um because cuz how
+14:38
+the how the the VA wasps act has sort of uh segregated the requirements. There
+14:44
+are those pre-licicensing requirement, their post-licicensing requirement and uh like um requirement for the VASP to
+14:51
+carry on some sort of continuous monitoring throughout their their life.
+14:57
+So uh for for pre pre-licicensing if I start with the uh
+15:02
+compliance requirement you must show the your regulator remember under this this
+15:09
+uh space there are two main regulators you could be under uh capital markets authority or uh central bank uh of Kenya
+15:16
+depending on the services or the nature of that you come in as so um
+15:24
+um depending on the on the on the your regulator um
+15:30
+uh you you you'll find and I think you also alluded to it. Um we are eagerly
+15:36
+waiting for the regulations to come and guide uh guide like the nitty-g gritties of what we need to do for for for for
+15:43
+licensing purposes. But at the broader level um you have to show your regulator
+15:50
+the fact that you're you're ready. You have put measures in place. We have
+15:56
+structures in place to fight um uh financial crimes. When you talk of
+16:01
+financial crimes, you're talking of um money laundering, tering financing, uh prolification financing. So even as you
+16:07
+make the application, you need to document your your structures. You need to document your
+16:14
+governance and oversight um uh uh organs that you have put in place to fight um
+16:20
+moneyaundering, housing, financing um and prolification financing. And I think that that given the space we are in
+16:27
+right now, we all uh know you mentioned about grrey listing. We all striving to
+16:32
+get uh out of that um uh bad list and these are some of the things that the
+16:37
+regulators will be pretty pretty key to make sure that we are not licensing you and then start chasing you. You need to
+16:43
+they have to get it right um first time. So that is a key requirement and and of
+16:49
+course it's not the only requirements. is on top of the other host of requirements that have been listed there. Um uh the the persons uh running
+16:59
+the the VASP must go through fit and proper. There's a capital uh uh adequacy
+17:06
+requirement to meet. There's a there's a requirement to have uh three directors.
+17:11
+There's a requirement to have an office in K and all that. But um focusing on the on the AML side of things, yes, you
+17:19
+have to convince your regulator at the application point that you are ready to
+17:26
+safeguard customers, money, safeguard the financial systems that you're using and protect like even the the national
+17:33
+systems from abuse uh by the criminals. And of course the other two would follow. Post licensing you have to
+17:40
+convince to them convince the regulator that uh you have maintained what you told them at licensing and you have to
+17:46
+keep giving um maybe regular returns as and when they are asked. Yeah. Fantastic. And I think also just
+17:54
+to in a sense put a bit more meat in in what you mentioned also to echo and add
+18:00
+I think the fact that the documentation that is required I think maybe from the experience I've also seen with other
+18:05
+people are getting rather other companies seeking licensing like the payments licensing or the digital credit providers is that regulators are very
+18:12
+keen on some of those documentation and I've seen a common error particularly for startups which we'll discuss a bit
+18:17
+is maybe someone just goes to check GPT auto to generate something and then upload and says this is what we've we've
+18:23
+we've is our is our X and Y manual or policy and all that. So, but I've seen
+18:29
+that actually the documents are usually very in the the scrutiny is very detailed and they evaluate every single
+18:35
+word every single content and to make sure that it's this is actually in line in Kenyan law and a lot of it actually
+18:41
+needs to be prepared and also ascertained by experts like yourself that actually we've looked at this
+18:46
+manual this procedure and it is it is now the proper it this is proper and it's the systems are proper and all of
+18:53
+those things. So I think it's important I think bring bring that out that practically it's it's it's you you need
+18:58
+uh support to develop some of those documents and you need someone with uh the necessary expertise to provide
+19:03
+backing that your manuals and systems are are up to standard cuz I know you had experiences on my end I think I've
+19:09
+discussed them with you how you do a lot of documents you send them then CBK or whichever agency is relevant to that
+19:15
+context just sends them back and you have to again work on them. Yeah. So I think to make the processes easier and
+19:21
+the timelines really really really really good for the for the for the applicant
+19:26
+it's important to think have they have a professional uh [snorts] to have some of those documents uh looked into and
+19:33
+properly developed. I think also just also as to touch on that the bits of uh
+19:39
+smaller players. So I know they may be larger larger players who may have a larger team, larger budget and larger
+19:46
+context but what about maybe the smaller players who may not uh afford to pay someone like yourself to sit in their in
+19:52
+their office as an officer? What options do they have? Can they outsource some of these services? Yeah. So maybe you can
+19:58
+also take us through that. Yeah. Uh thank you for for that. And I think um when you talk of small players
+20:06
+it's it's cutting across because again if I um take make reference to the gray
+20:12
+listing one of the issues they picked is that the big players seem to have
+20:18
+everything uh in place. They seem to have the right um uh personnel, the right technology, the right system,
+20:24
+governance structures and all that. the board they have when it comes to uh the
+20:31
+other players uh down downstream the assessors made an indication that um
+20:36
+there's a disconnect there's a disconnect between the top players and the the ones uh downstream but remember
+20:43
+everyone is supposed to meet the same compliance requirements. So that is that we have seen that affect um many other
+20:50
+players not just in the in the virtual assets piece but as you're saying um
+20:57
+um compliance is a cost there's a cost and and they won't avoid that. Uh but
+21:03
+then again you can uh play around uh to manage the costs that are relevant to your nature and size of business. Um if
+21:10
+if you are running a VASP with uh maybe you're just starting up uh you don't
+21:17
+have even um 10 or so staff members you you have five clients and stuff like
+21:23
+that you you realize that the cost of putting up um mediumsiz compliance
+21:29
+structures will be more than your size of business. Okay, that won't be um attainable. So in in such instances you
+21:36
+find um such entities um uh outsourcing some of these uh some of these
+21:43
+requirement. They may outsource like even the the the whole process of licensing seeking license. They may
+21:49
+outsource um um transactions monitoring. They may outsource people to to give uh
+21:54
+maybe KYC procedures for them. And there are so many uh solutions nowadays that
+21:59
+um assist in that. Um I I some of them are publicly known and I probably can just u mention a few. If it's um uh ekyc
+22:09
+I said I said in this space uh uh documents are 0.01% and electronic stuff
+22:15
+is um 99.001 thereabout. So you find um um companies
+22:23
+like Smile ID, Smile ID, they just do like 99% of your electronic.
+22:28
+Uh the big one we all know in this space is G analysis. Gen analysis do a lot of work when it comes to transactions,
+22:35
+monitoring terms to screening transactions for you when moving between um wallets and all that. But for
+22:42
+small-time players um again those those big names and popular names may be
+22:48
+prohibitive in terms of uh the the costs. Um there's there are many other tools
+22:55
+that can be adopted and and and I think one thing I have to mention at this point in the in the vast space
+23:04
+uh um they have to consider technology number one, technology number two, technology number three they will not be
+23:09
+able to avoid that. So uh what I was coming to [snorts] is there are so many
+23:14
+other tools some of them can even be inbuilt inhouse um um you can um take
+23:22
+advantage of Excel Excel if you have people who know Excel they can do wonders with Excel small small time uh
+23:28
+tools that you can uh scale up as as you grow but uh due to the almost
+23:34
+prohibitive uh costs um we have seen it and not just locally even globally uh
+23:40
+there's a bit of a lot of outsourcing to to the um specialists, people who are
+23:47
+comp competent in this uh in these matters. And again, just to mention um and probably you know this, you're in
+23:52
+the same area. Uh even when you come out out here um don't just um rush to anyone
+24:00
+who who waves the compliance flag. Make sure you you have the the right uh
+24:06
+people doing the right work for you. you actually just mentioned that you have had um regulators return applications
+24:12
+because of uh poor work. Okay. So yeah um applicants or uh players in this
+24:19
+sector must be very um very keen on whom they engage um uh uh going forward.
+24:28
+Okay. Fantastic. Also maybe to to that I'd want to get your thoughts on where
+24:34
+do you think how how do you think the agencies will will start enforcing the
+24:39
+procedures? How do you think they'll be harsh in enforcement? Should any company take this the regulatory space
+24:46
+seriously? Is there an advantage to taking it seriously? Basically should you license? Should you just do it in a
+24:51
+sense in you see China? So I just without necessarily having the license.
+24:56
+So is it important to get licensed from your experience also in traditional finance? Do you think regulators will
+25:02
+will will try to enforce some of these requirements and is it in the benefit of the of the company or whichever company
+25:09
+you applicant to to try and comply? Absolutely. If you don't uh comply, if
+25:16
+you don't uh follow the regulations, um you you just uh digging your your
+25:22
+your grave. Um
+25:27
+very good examples um are happening right now.
+25:33
+Um what happened to our good bank, Imperial Bank? What happened to Dubai
+25:39
+International Bank? What happened to Chase Bank? What happened to the fintech
+25:44
+space flat and and cheaper? You saw those kind of public notices from the regulators. So there's no choice about it.
+25:51
+There's no choice. you have to regulate. Uh it's not I don't even think it's a matter of there being an advantage of uh
+25:59
+uh complying or not complying. If you don't comply, you won't be in business pretty soon. Remember also uh when I was
+26:05
+talking about the reason part of the reasons why we were we were greylisted
+26:10
+cuz I think if if you look at the literature we there are eight eight items. I mentioned one earlier. The
+26:18
+other one was that we uh the country is allowing is
+26:24
+allowing vasps to operate without being regulated. So um we again the the
+26:32
+country or the nation or the the the organs the national organs cannot again allow vasps continue operating and
+26:39
+regulated and licensed and all that. Uh knowing very well it's part of the reason we on that gray list. Yeah.
+26:44
+Everyone is working hard to get out of that grrey list. So that is not an option. Yeah.
+26:50
+Okay. Okay. Interesting. Also maybe what I can maybe discuss is also beyond it being a requirement and it being
+26:57
+mandatory for you to also also register. I think also there's an advantage. it comes a business advantage. If you have
+27:04
+a license, at least you can be able to post online and even reach your both digital and and physical customers by
+27:10
+saying we are a CBK approved operator to to to do this X Y and Z or we are
+27:17
+approved by the CME to do X Y and Z. So at least I think also that gives it a bit more gives what you're doing a bit
+27:24
+more weight and also builds trust in terms of your consumers at least consumers know the interacting with a
+27:30
+licensed entity cuz there was something that I won't mention names I think because of label laws and whatnot but
+27:35
+there's a bit of conversion that's been happening online about a certain fintech that it's it's transactional it's a
+27:42
+payment pro processor in a sense but people in a sense put some money within the fintech and after some time it's
+27:48
+like they're able to really with to withdraw the funds. So in that context it's h and people are at a loss because
+27:54
+they're not able to to say who owns this particular fintech. So it's quite difficult. So I [clears throat] think being licensed and uh in that licensed
+28:01
+space also [snorts] in a sense helps uh helps you to build trust with customers
+28:06
+and also people know that I'm dealing with a regulated entity that I can trust them that my money is safe that the the
+28:13
+people who own it are known and it's it's a clear it's a clearer structure for for people. So I think yeah so there's it's it's a requirement but also
+28:20
+it has a business advantage. It's advantageous for you to get authorized and to be get authorized quick. Yeah. So
+28:26
+I think also I wanted just to touch a bit on that that that that grrey listing what you mentioned about grrey listing
+28:32
+and just generally to move the conversation from VASP and even fintex what do you think since from what what
+28:39
+what I've understood the country is under pressure to get out of that list. So what are those practical things that
+28:45
+we can expect maybe in the next year or so that we're likely to see in terms from through the CBK from the diff from
+28:50
+the different regulators just try and get us off that list that may be contextually relevant to maybe FinTech
+28:56
+or Vasp I a good question cuz
+29:02
+um some of those things are already happening the enactment of the act itself was uh an output of those efforts
+29:11
+um we've mentioned mentioned severally about the regulations. So, we expecting pretty soon the
+29:17
+regulations the the the VASP regulations to be out there. Uh and the moment
+29:23
+they're out there, you'll start seeing a lot of traction from the the the players in the space. Um that that that to me
+29:31
+would be the main one that everyone is waiting because while the act is out there, there's a bit of um gray area of
+29:38
+how to go ahead. That should be the main one. when it comes to the BASP space, the others have been happening. Um there
+29:45
+there's a lot of uh trainings going on. Um you every so often you find uh
+29:51
+especially if you're keen to to see like some of us were in that space, you'll see a lot of trainings happening to the
+29:56
+right people, the right groups, the right audiences and stuff like that. the other day, I actually think it's
+30:02
+actually this week or last week, h um EU EU uh sponsored our own DCI uh
+30:10
+to to take them through blockchain analytics on how to trace and follow
+30:15
+illicit uh illicit uh um funds through the blockchains and all that. So there's
+30:21
+a lot of that happening just to make sure that while we say we have uh an act
+30:26
+in place, a regulation in place, uh it's also effective in the sense that we know how to use it, we have the right
+30:32
+knowledge to to apply um apply it, especially if it's the law enforcement
+30:37
+authorities that are or even people in compliance that are trying to to offer guidance and and uh maybe trace and
+30:45
+track um funds, they have the they being equipped with the the right uh technology. So you'll find um a lot of
+30:53
+that happening. There are so many other groups that uh um have been offering that kind of knowledge knowledge
+30:59
+transfer to people who are interested in in um get into the space from the
+31:06
+broader perspective. Um I think much of it has happened when we've when when you
+31:12
+relate to to gray listing action items much much of it has happened last year.
+31:18
+This year we had uh an amendment act last year that gives um gives uh you see
+31:26
+uh bodies like uh is park uh LSK um BCLB a lot of powers to uh to enforce
+31:34
+compliance for their members. So that actually happened mid this year. um probably this there might be something
+31:40
+else that may turn come up next year but a lot of probably what you asked has happened in the past one or two years
+31:47
+and that is why now you're seeing the traction now. Yeah. Yeah. Amazing. So I think what I'd also
+31:54
+want to touch on slightly as you're also trying to to to to wrap it up I've seen the fact that virtual assets unlike
+32:00
+perhaps other currencies virtual assets do not have I say they don't recognize they don't have borders in a sense cuz
+32:07
+I've been to okay I've been to Nigeria lots of conversations around virtual assets you can see Kenyan companies
+32:12
+there trying to trying to market their services been to South Africa I've been to South Africa actually I think earlier
+32:18
+this year and also more or less the same context a lot of companies thinking about in a crossber border lens. South African companies trying to get here,
+32:24
+Kenyan companies trying to get there. So there's a lot of I think motion in that lens. So based on your experience cuz I
+32:31
+I I read a bit about your background and you've worked with helping people comply in across different like multiple
+32:37
+jurisdictions. What do you think a company needs to know about the like just some top things about operating
+32:44
+across different jurisdictions if you have a VA wasp? So if you are either originating from Kenya outside or you
+32:50
+are coming from from outside into Kenya what are what are some of the things someone should consider?
+32:57
+I'll I'll try to respond uh to that in like two parts and one of the reasons
+33:05
+the the virtual assets are so um are so how do I put it? are moving that
+33:13
+fast is that they are their nature of the international or cross border nature.
+33:20
+Yeah. Uh they don't have those sort of limits. The other one is of course as
+33:25
+your good uh uh example you give um fast very fast and they're open to anyone.
+33:32
+Okay. So those are some of the advantages that come with virtual assets and crypto and all that. But again on
+33:38
+the flip side they become the if not well controlled they become the
+33:43
+challenge again. Okay you see that that um that uh quickness of moving money you
+33:50
+could probably be moving illicit money quickly. Okay you could be moving money to a jurisdiction that has no laws and
+33:58
+regulations about VA wasps. Okay. So uh the point is if you're operating in a
+34:04
+particular uh jurisdiction that probably assume there are laws and regulation about it. It's always good to know uh
+34:12
+where you want to venture because if there are no laws be very sure that maybe you're just opening up yourself
+34:18
+for for uh abuse and uh and stuff like that. So it's for practitioners or
+34:24
+players in this uh space uh they need to understand the legal frameworks for
+34:31
+where they want to put up businesses. We are very lucky as as Kenya having just
+34:36
+passed the legal framework the other day. Um that has sort of given a a standard
+34:44
+platform for the players to to to do their their business in a probably
+34:49
+secure way, open and transparent way. Previously as you said it was Junior
+34:54
+Maji which now uh exposes everyone. So players in this industry um need to know
+35:01
+where they they want to to to to to fetch their business from. If you feel
+35:06
+like uh your your uh uh country of operation is originally or uh let's say
+35:13
+Kenya and you want to venture out to a country B that you're not very comfortable with, you could have
+35:18
+mechanisms and controls in place just to say no wallets from those areas for now because of how I understand that
+35:25
+jurisdiction to be high risk. I probably won't welcome wallets or transfers from wallets from those those. So it's it's
+35:32
+the whole thing of risk assessment. conduct risk assessment to the jurisdictions you want to do to engage
+35:38
+to engage in. Yeah, I mean fantastic. I think that's really Yeah, that's that's really
+35:44
+insightful. Maybe as we sort of wind up you can get like your final word. I know this the laws the the the regulations
+35:51
+the law passed in I think October, November. So ideally the agencies have around 6 months to to to set them up and
+35:58
+then now the ball starts rolling and everyone needs to get start getting compliant which is maybe I think around
+36:03
+maybe February next year if I'm doing the math correct. So what will be your final
+36:09
+maybe your final thoughts maybe something to share with people maybe what can they what is the one thing they
+36:14
+need to really consider and really think through as we as the regulations are getting set maybe like three things that
+36:19
+you'd say now practically do these three things you can leave this podcast with these three action items what what will
+36:25
+they be oh thank you um the act itself even before we go to the
+36:33
+regulations has given a lot of indicative requirements that for anyone interested
+36:39
+in the space they don't have to like entirely wait for the regulations. There are so many requirements indicated
+36:45
+there. So if you you desire to go into that space and to get the license within
+36:52
+the the space given um start putting these things in place you saw like one
+36:59
+of the requirements is get an office in in Kenya. So I don't think you wait for
+37:04
+the regulations to come to tell you to get an office in Kenya. Start doing some of those things. As I was alluding to
+37:09
+earlier, you need to have [snorts] documented your your compliance ML
+37:16
+compliance structures. Don't wait for the regulations. Just start doing them now. Because the problem is, and I think
+37:21
+you got it right, compliance is a is a a competitive advantage. Once you the
+37:28
+pioneers of compliance or the pioneers of being licensed, customers will get a lot of um confidence in you and comfort
+37:35
+in you. Once you you're able to wave that license and indicate you're now licensed to do ABCD, you you'll end up
+37:42
+with that uh competitive advantage. So, uh start putting your house in order right now. Um talk to the right people.
+37:50
+Talk to the right uh people who can guide you in putting um your house in order. Um by the time the regulations
+37:57
+are coming and telling you now bring your documents to this office or take these documents to the next office, you
+38:03
+need to have those um uh things in order. The problem will be uh and it's
+38:09
+an unfortunate thing to mention. We we are known to be lastm minute people. So
+38:14
+you'll find everyone rushing for the little resources the the few consultants that are out there or the few compliance
+38:20
+resources out there. everyone is rushing to them to to get um licensed before the
+38:26
+deadline and that that's why you'll find things happening like you were mentioning earlier applications being declined because they are
+38:34
+chat GPT they are copy paste from somewhere else instead of just planning in good time
+38:40
+yeah okay fantastic so I think what gotten is now you plan ahead don't be a
+38:47
+lastm minute person then you can always reach out to different consultants and we'll put contacts in the I think the
+38:53
+description section for someone who wants wants to reach out but [snorts] I think that's been really an amazing conversation and I think it's really
+39:00
+been insightful even to me and I think also for me my take-home and my action points will be the same if you can get
+39:06
+an office set up get the office set up if you can incorporate the company incorporate the company if you can start at least having conversations you can
+39:13
+start having some of those conversations the different conversations sorry with the different experts who can be able to help you launch your business here or
+39:20
+grow it into this market. I think that will be it for conversation. So my name is Meshach Masibu. I am a lawyer. A bit
+39:26
+more about me will be in the description section. But it's been uh it's been a wonderful experience. Yeah. Thank you.
+39:33
+Thankful. Thank you very much.
+

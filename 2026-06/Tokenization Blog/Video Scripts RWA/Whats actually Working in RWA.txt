@@ -1,0 +1,241 @@
+Search transcript
+Search transcript
+0:00Hello everyone. Um you must be a little exhausted from all the um heat from CAN but yeah let's get this panel started.
+0:1212 secondsUm thank you everyone for being here and uh we are all really excited to talk about RWA today and yeah um we just want
+0:2121 secondsto um introduce you to these amazing panelists who are you know doing a great job in their industry. Um let's start
+0:2929 secondswith OC. Um if you could tell us your name, your project and how your each of your projects are contributing to this RWA space.
+0:3939 secondsYeah. Um uh Aussie Ozir. I'm strategy leader at Wormhole. Um we are um working
+0:4646 secondswith um uh plenty of institutions at the moment to tokenize um all sorts of RWAs.
+0:5353 secondsUm it's a very exciting time. I would say uh the institutions are coming. Uh so yeah.
+1:021 minute, 2 secondsHey everybody. I don't know if this There we go. Hey everybody, my name is Austin. Um I'm currently the fintech partnerships lead at offchain labs which is the developers of arbitum technology.
+1:141 minute, 14 secondsSo that's Arbitum one and then Arbitum orbit chains and uh we deal with a lot of different RWAs whether that's in DeFi
+1:201 minute, 20 secondson arbitum one or um I guess like if you want to launch a chain then specific for RWA's uh we have quite a bit of chains
+1:291 minute, 29 secondsdoing that today. So yeah pleasure to be here.
+1:331 minute, 33 secondsHey my name is Arthur. I'm chief business officer at Mercurio. We are D5 payment network enabling wallets uh and
+1:421 minute, 42 secondsdifferent other crypto platforms with on and off ramps spend cards partnering with different stable coin issuers to
+1:501 minute, 50 secondsbasically drive the real RWA use cases and uh yeah looking forward to this panel. Thanks
+1:581 minute, 58 secondseverybody. Uh Mark Trang from D3. I run marketing. Uh our mission is to make domains great again. Uh we do that by
+2:052 minutes, 5 secondstokenizing all the internet domains uh around the world right now.coms.xyz and bringing them on chain uh and then
+2:132 minutes, 13 secondsapplying defi primitives so that uh you can extract a lot more value from that industry. Uh we we shipped testn net last week. So we're excited to work with
+2:222 minutes, 22 secondsmore users, investors, partners, and we also have a uh 1 million USDC grant program that we announced. So if you're a dev shop or if you got a project uh in
+2:312 minutes, 31 secondsthe DeFi space, we'd love to talk to you.
+2:342 minutes, 34 secondsUm yeah and really honor really it's an honor to moderate this panel. I am the ecosystem leader of Celestia the modular
+2:412 minutes, 41 secondsblockchain to help scale blockchains. So yeah we also h support some chains on our ecosystem. So if you guys are um
+2:502 minutes, 50 secondsbuilding a chain or if you guys are building RW happy to chat. Okay. Um so let's really dive deep into this RWA.
+2:592 minutes, 59 secondsUm I would like to ask you Aussie first of all for like um the liquidity in RWA markets often depends on bridging
+3:073 minutes, 7 secondstraditional finance and DeFi. So what does this look like to attract both cryptonative and institutional investors
+3:143 minutes, 14 secondsand what are the biggest barriers to um achieving deep liquidity pools for tokenized assets and how can they be
+3:213 minutes, 21 secondsovercome? But like feel free to answer it first and then if you guys have any um things to add just feel free to hop on and we can make this a casual discussion.
+3:293 minutes, 29 secondsYeah, nice one Bora. Um I think right now what what feels like um the uh uh
+3:373 minutes, 37 secondsbit of a narrative is uh disrupting correspondent banking flows. Uh it's really interesting looking at you know
+3:443 minutes, 44 secondsum incumbent stable issuers in you know each juris each jurisdiction. Um uh you know you've got Novati issuing AUD uh
+3:533 minutes, 53 secondsTransfer issuing BRZ and um uh uh uh MXC um uh circle with its euro. And I think
+4:034 minutes, 3 secondswhat's really interesting is um the idea of uh merchants getting paid uh within,
+4:104 minutes, 10 secondsyou know, 90 seconds, whether you're paying with a um uh Australian dollar or
+4:174 minutes, 17 secondsa uh US dollar and the settlement uh happening, you know, near near
+4:244 minutes, 24 secondsinstantly. And what's really interesting is that the large institutions like Swift um uh to my mind uh to to my
+4:334 minutes, 33 secondsknowledge from uh discussions with them they actually don't actually really mind um the retail flow. They see this as
+4:414 minutes, 41 secondslike retail flow eating into uh their you know they move $5 trillion a day.
+4:474 minutes, 47 secondsThey settle you know trillions of dollars a day. It's insane. So to them
+4:534 minutes, 53 secondsit's it's like a drop in the ocean and um I think that's that's really cool. Um uh I think we we will see you know
+5:025 minutes, 2 secondsfintech leveraging um uh the stables and I think the challenge is figuring out
+5:085 minutes, 8 secondswhich incumbent stable in each region uh is going to be uh maybe maybe a winner.
+5:145 minutes, 14 secondsum is that you know is that uh for or against C5 principles you know is it um uh how does that play with you know what
+5:225 minutes, 22 secondswe what we all do um you know what we some you know some of what we're here for um so I think balancing compliance
+5:295 minutes, 29 secondswith decentralization uh is the the sort of key and it's the sort of name of the game right now
+5:375 minutes, 37 secondsdo other people have any experience to add on this question yeah I agree with Ozie on on the stable coin side that there's like different
+5:465 minutes, 46 secondsissuers that have um I would say um different targeted markets like uh someone started in the US, someone
+5:535 minutes, 53 secondsstarted in Europe and uh they're trying to go off the specific use cases with the fintex or with the retail consumer applications. So um but what's the
+6:016 minutes, 1 secondbridge I guess and what's the challenge here is just on boarding experience and um also abstraction of uh all of the I would say uh crypton native complexities
+6:116 minutes, 11 secondsthat people have right now to on board both from institution side and from retail side as well. So um obviously uh use cases like Robin Hood in our room
+6:206 minutes, 20 secondsshows us that this a lot of um obstruction needs to be done and uh you know like on on the interoperability side as well. I guess uh there's also
+6:296 minutes, 29 secondsnot only arbitum but a lot of other L1s and L2s will be doing that uh type of use cases with the neo banks with
+6:366 minutes, 36 secondsdifferent training applications. So yeah, I would say um to bridge this gap uh it's really probably uh perspective
+6:446 minutes, 44 secondsof the UI and the UX changes and adjustments but at the same time also uh influence of the local players that's supporting these initiatives from the stable coin perspective for example.
+6:546 minutes, 54 secondsYeah, just to touch on that, I mean, right, I think one of the problems that spun up from teams launching their own
+7:017 minutes, 1 secondchains was liquidity fragmentation, right? So, props to you guys at Wormhole for taking that on and and fixing that
+7:087 minutes, 8 secondsproblem. We work quite a bit together on different chains. So, um and I think especially what the end goal here is
+7:157 minutes, 15 secondsmaking it um the best user experience, right? like I shouldn't be going from one USD stable coin to another USD
+7:227 minutes, 22 secondsstable coin and facing slippage. Like we don't see that on user experiences in web 2 platforms. Like if I'm moving
+7:297 minutes, 29 secondsmoney um from my bank account to a betting app, you know, I'm getting the same amount on the other side and there's liquidity there, right?
+7:387 minutes, 38 secondsSomeone's putting up that liquidity. And I think in in a world where now stable coins are getting on chain, we definitely need to make sure that the
+7:467 minutes, 46 secondsuser experience isn't foreign to to the new eye. And that means that we need
+7:537 minutes, 53 secondsdeep liquidity. We need automated market makers that aren't doing um like high slippage on these transactions. And
+8:018 minutes, 1 secondbasically money gets from one place to another. And you brought up BRZ and uh USD. I think the onchain FX market
+8:088 minutes, 8 secondshasn't been quite solved yet. Uh and it's quite expensive for market makers to get in there. So uh I know that
+8:168 minutes, 16 secondsactually we're working together probably on similar partners on try to solve that problem so that users can go crossborder
+8:238 minutes, 23 secondsuh with their native currency whether they need to do domestic payments or they want to get to the USD for a store
+8:298 minutes, 29 secondsvalue or not even USD I guess it's kind of inflating recently but maybe the euro uh but nevertheless get to this currency
+8:388 minutes, 38 secondsor the token that they want um without the foreign I being like why am I paying such high fees. So, um yeah, props to
+8:468 minutes, 46 secondsboth of you guys on the stable coin side and and trying to solve that kind of as a team right now.
+8:538 minutes, 53 secondsUm what's um so Bora what's interesting to me to me uh in
+9:009 minutesparticular is um uh you know the rise of um uh pre-finality fast fills crosschain
+9:069 minutes, 6 secondsum you know the the big rise of um intense base fills as uh you know as as
+9:139 minutes, 13 secondswe want to call them um it introduces like um a level of centralization at the moment but um I I I do think that
+9:229 minutes, 22 secondsoverall it's great for the market because the UX is um uh the UX is definitely superior. You know, as Austin
+9:309 minutes, 30 secondssaid, it's uh you know, it's about the UX and um the verification mechanisms can be solved through um you know, new
+9:379 minutes, 37 secondstech. So, it's like, okay, leave with the UX. You can't commoditize user attention. Um they're going to like users go for the most convenient thing
+9:469 minutes, 46 secondsthat's the best and the the the fastest as well. Um and then you can also look at the verification layer as a commodity
+9:539 minutes, 53 secondsas well. So I think it's really really neat. Yeah.
+9:589 minutes, 58 secondsYeah. Cool. Um so yeah Mark I also would love to ask you how do the tokenization processes from non-financial assets
+10:0610 minutes, 6 secondsdiffer from financial assets like treasuries and what unique challenges do they face and also how can tokenizing non-traditional assets like domains or
+10:1410 minutes, 14 secondslike fine arts unlock new opportunities to compare to established categories like private credit or commodities. We like to just also because we tackled
+10:2310 minutes, 23 secondsinterrop we also wanted to kind of talk about other financial um domains.
+10:2910 minutes, 29 secondsYeah. Well, I think the patterns are very similar, right? So along the same lines uh whether you're retail or institutional, I don't think there's a
+10:3710 minutes, 37 secondsbinary option between uh centralization, trust, regulatory certainty, and liquidity. Right? Usually right now I
+10:4510 minutes, 45 secondsthink what we're seeing especially this year is uh liquidity follows trust and trust in a kind of classic stable
+10:5310 minutes, 53 secondsfinancial market there's a lot of uh mechanisms to establish that trust uh and then in non-traditional uh RWA
+11:0111 minutes, 1 secondmarkets right it could be digital native things domains like the category we're in there's established regulatory bodies
+11:1011 minutes, 10 secondsthat you can't just wipe away right just because you tokenize something doesn't mean you forget kind of the roots of those assets. Uh same for like wine,
+11:1811 minutes, 18 secondssneakers, like actual physical real world assets. And I'm looking at the yachts outside here. Uh I know of several projects, right, trying to
+11:2711 minutes, 27 secondstokenize um luxury uh like luxury like fun things, right? So rare items like cars,
+11:3611 minutes, 36 secondsum boats, aircraft, right? And fractionalizing those. So I don't think it's it's a a positive slope hopefully
+11:4411 minutes, 44 secondsand we're seeing pockets of this happen around the world, right? With regulatory certainty comes uh base trust whether
+11:5111 minutes, 51 secondsyou're the end user or uh liquidity provider and then that's how markets get made and it's no different than in domains.
+11:5911 minutes, 59 secondsYeah, I think I think um tokenizing non financial assets might also drive a lot of retail flow because uh when when you
+12:0712 minutes, 7 secondskind of uh um when you break these stocks into pieces, when you break some assets into pieces, I think it's just easier for um you know like acquiring
+12:1512 minutes, 15 secondsthem. There's a lot of um projects already doing that with the real estate for example and uh they're also adding the for leverage trading on top of that.
+12:2412 minutes, 24 secondsUm and uh you know it's just a combination of uh different type of people that wants to have a piece of this non-financial asset at the same
+12:3212 minutes, 32 secondstime they're also traders so they know how to trade on with the leverage with the perpetual trading as well. So um yeah I agree this is very cool narrative
+12:4012 minutes, 40 secondsand probably yeah yeah I think like there's a great example of this I think happening in Dubai right so I think it was a Ripple project was it uh PLUSD
+12:5012 minutes, 50 secondsI think that was like the the token they announced so it's a stable but backed by Dubai RW like real estate physical real
+12:5712 minutes, 57 secondsestate as an RWA as one of kind of the asset classes backing the stable so I think those composite uh tie-ups are
+13:0413 minutes, 4 secondsinteresting and also are a great on-ramp for uh folks that aren't on chain yet, whether you're a regular uh retail investor or or an institution.
+13:1513 minutes, 15 secondsYeah, 100% agree with the guys. And um uh just to add from the uh sort of multi-chain perspective, I think it's uh
+13:2213 minutes, 22 secondsit's important to be um in a way uh chain agnostic where uh the way the way
+13:2813 minutes, 28 secondsthat you think about um how you um uh want to actually um uh you know um uh
+13:3813 minutes, 38 secondslike um uh the way sorry. Yeah. Um I think it it is it is
+13:4613 minutes, 46 secondsimportant to be chain agnostic the way that you um think about as a developer or as a um fund or RWA platform. It's
+13:5613 minutes, 56 secondsvery important like chains uh have different uh properties um uh you know you might want a chain that's uh maybe
+14:0214 minutes, 2 secondsfast and cheap or um you know chains have inherent um uh different characteristics that you might want to
+14:0814 minutes, 8 secondsleverage. Um so uh I really think that um uh from from from my perspective um
+14:1714 minutes, 17 secondsthe developer platform at the end of the day that abstracts that away for issuers uh whether they're issuing um uh you
+14:2514 minutes, 25 secondsknow tokenized watches or uh stables is really really critical. Um I really
+14:3214 minutes, 32 secondsthink that you know institutions um uh in working with um uh institutions they
+14:4014 minutes, 40 secondsum they really care about the uh the developer platform that abstracts away the issuance um infrastructure as well at the end of the day.
+14:4914 minutes, 49 secondsJust to touch one last thing. Um I think we're excited about projects like yourself because once a user gains access to tokenized whatever asset that
+14:5814 minutes, 58 secondsis whether it's luxury or a domain name then you know we want to be able to provide the applications or the or the
+15:0615 minutes, 6 secondsopinionated block space for them to go then you know explore what they can do whether it's you know borrowing against that asset. Um, so that's where we think
+15:1515 minutes, 15 secondslike you know projects like this intertwine together because we're all just trying to build one build big ecosystem to give users access to different applications. So yeah.
+15:2615 minutes, 26 secondsYeah. Yeah. That that was really really good takeaways from everyone. Um so I would now also want to ask Austin for an
+15:3515 minutes, 35 secondsRWBA category to thrive it needs a robust um ecosystem of infrastructure custodians oracles and marketplaces. So
+15:4215 minutes, 42 secondswhat are the critical components required to scale a new article category and I'm sure all of you have some experiences in that. So feel free to
+15:5015 minutes, 50 secondslike jump on. Yeah, I think with where we are in terms of like the technology and kind of let's say just
+15:5815 minutes, 58 secondsinfrastructure providers whether it's oracles or custodians, I think we've now gone to the part where you know corporations or or entities are
+16:0716 minutes, 7 secondsmaybe comfortable with the scale of the actual chain itself and obviously like our team is always looking to make that faster. I think the end goal is I I mean
+16:1616 minutes, 16 secondsmy prediction is transaction fees will be zero at one point because you're scaling so fast. I mean, look at the internet today. It's still trying to get
+16:2416 minutes, 24 secondsfaster. So, that never ends. Uh, so we're always going to keep optimizing for that. But I think the benefit of
+16:3116 minutes, 31 secondsregulatory, you know, clarification, I guess, where you're getting on is I think we're going to see this rapid like shrinkage basically of like digital
+16:3916 minutes, 39 secondsbasically. And what I mean by that is when you off on an off-ramp today, you go from a stable to fiat and that money gets back to an isser and then back to
+16:4716 minutes, 47 secondsan custodian um in cash. And obviously like that's why we pay fees. That's why like the fragmentation on and offramp is
+16:5416 minutes, 54 secondsso tough. Uh then that includes RWAS and you have all these liquidity problems because you have to go basically through always minting and burning all these
+17:0217 minutes, 2 secondsdifferent tokens and and whatnot whether it's an RWA, stable coin, stock, what let uh so be it. So the regulatory clarity I think is really going to
+17:1017 minutes, 10 secondscreate this like rapid shrinkage. And I guess I guess I say shrinkage because you can see how this web gets further
+17:1717 minutes, 17 secondsand further away from the chain. And what we're seeing with regulatory clarity letting big players get in is that technology is going to allow them
+17:2517 minutes, 25 secondsto get closer and closer to the chain where assets are not going to be moving offchain, right? They're going to be staying on chain whether that's in, you
+17:3317 minutes, 33 secondsknow, an MPC wallet, cold or hot storage. But that moving from that like fragmentation from uh digital to fiat I
+17:4217 minutes, 42 secondsthink is eventually going to basically erode away. I mean when I was at BNY Melon right like they have custody and they're not doing they're not building
+17:5117 minutes, 51 secondsthat product and investing that product to have you know 1% of their um assets in custody. They're going to do that because they want to optimize their
+17:5917 minutes, 59 secondsbusiness and they eventually see a world where everything is digital and all assets are tokenized and you know you want to connect to the chain as fast as
+18:0818 minutes, 8 secondspossible. So working with those infrastructure providers I think like that will again bring the best user experience. So um yeah, we're just
+18:1718 minutes, 17 secondsreally excited about seeing that evolution. We work closely with those infrastructure providers to then bring um whether it's new assets on chain whether it's like a tokenization engine
+18:2618 minutes, 26 secondswhether it's I guess like a team like Robin Hood bringing like a better UX like I guess our strategy there is
+18:3318 minutes, 33 secondspeople have been trying to bring crypto to people and now we're like Robin Hood's bringing people to crypto right so I think with regulatory clarity you're going to see a lot of that
+18:4118 minutes, 41 secondsstrategy playing out and we're really excited about it.
+18:4618 minutes, 46 secondsYeah, like as a custodian chain, right, for us, um there's a lot of uh esoteric things that
+18:5418 minutes, 54 secondscome in specific industries or specific regions and those are the things we should hide from your average developer, right? I think that should be pretty
+19:0219 minutes, 2 secondscommon among the the the infrastructure teams up here. Um but where I think there's a lot of room right and where we should give developers a lot of room in
+19:1019 minutes, 10 secondsincentive uh is to ways to accelerate liquidity and from that implied innovation right um most developers
+19:1919 minutes, 19 secondsshouldn't be mired in the the non-essential plumbing uh that should be the platform provider or the custodian
+19:2619 minutes, 26 secondschain or what have you right and then hopefully that coupled with a lot of the regulatory certainty gives uh
+19:3419 minutes, 34 secondsparticularly this year forward, a lot of uh tailwind for a lot of the teams building projects out there, right? It's way better, I think. I mean, I'm in the
+19:4319 minutes, 43 secondsUS. It's way better than it was 18 months ago, right? Yeah. And just to touch on that again, like look at what Stripe's acquisitions are. They've strategically
+19:5119 minutes, 51 secondstaken their users, which are guess merchants, right, in in businesses, and given them the tools to never leave the
+19:5919 minutes, 59 secondschain. um and making that process where like if you're a merchant and you receive payments in stable coins now you
+20:0620 minutes, 6 secondscan use privy to never leave the chain and obviously face those fees of going to fiat and face that fragmentation you
+20:1420 minutes, 14 secondswill be able to self custody as a business and hold whatever stable coin you want you have striping doing you know financial management cash flows you
+20:2220 minutes, 22 secondscan do cash sweeps as more RWA's come come on chain now you're basically doing in real time 24/7 cash management and
+20:3020 minutes, 30 secondsand optimization of your business, which is just one of the first things that we're seeing. And I think it's like everybody that's been slow over the last
+20:3820 minutes, 38 seconds3 years is waking up saying that they're going to basically be left in the dust if they don't catch up.
+20:4520 minutes, 45 secondsYeah, just a quick one on the stable coins and the abstraction as well with the Robin Hood. So if you seen the Robin Hood conditions are zero or not people are not paying for on ramps off. So
+20:5320 minutes, 53 secondsthose type of incentives will drive a lot of users to consumer applications and also um into stable coins and I think the key objective of the stable
+21:0121 minutes, 1 secondcoin issue is to also like make money stay on chain as well. Um yeah but I would say the problem is here is not that money you know stay on chain but
+21:0921 minutes, 9 secondsthe people still want to to have like in the real world and they want to spend this assets on and on financial um assets for example. So um and on the
+21:1921 minutes, 19 secondsinstitutional side I guess there's a lot of incentives coming from stable coins there's a um companies that offering a stable coin like uh that giving yields
+21:2821 minutes, 28 secondson the treasuries for institutions. So example with stripe there's also one developer platform called squads they are doing very similar uh business
+21:3621 minutes, 36 secondsthey're opening like uh that basically um accounts for um web two companies that allows them to store their treasuries and stable coins and make
+21:4521 minutes, 45 secondsyield on top of that. Um so those incentives probably will help uh institutions uh to on board more retail customers and share with them u
+21:5321 minutes, 53 secondspercentage of their yield to incentivize for example on and offramp fees or any other initiatives that people can do on chain.
+22:0122 minutes, 1 secondTotally agree going to be fun stuff.
+22:0522 minutes, 5 secondsYeah. Um uh just to add that to to to that one, Arthur. Um uh I I I really think that um uh the um uh the
+22:1422 minutes, 14 secondsefficiency that you that you gain as like a fund issuing um uh your your RWAS
+22:2022 minutes, 20 secondsum uh is uh you know, you can go from like $50 for reconciliation down to um
+22:2822 minutes, 28 seconds$5, uh or even lower. You know, you're you're like uh completely amortizing your reconciliation cost. you can open
+22:3522 minutes, 35 secondsup uh investment opportunities to so many more people. You can just really mobilize liquidity of the world. Um I think it's really really interesting.
+22:4722 minutes, 47 secondsUm before we get some questions, um I just wanted to ask each one of you um looking ahead to like 2026, what do you
+22:5422 minutes, 54 secondsbelieve will be defining factors for an adult category to dominate the crypto space? Do you want us to go first?
+23:0323 minutes, 3 secondsYeah. Yeah. Um I think uh I think intents are really um uh are really uh really big right now. I think you know
+23:1223 minutes, 12 secondsfaster than finality fills um are filling a space filling a gap on the UX side that's necessary. I really also
+23:2023 minutes, 20 secondsthink that um the stable the stable coins for um uh you know disrupting correspondent banking are really um really going to take off as well. Yeah.
+23:3223 minutes, 32 seconds20 26 that's like three years in crypto.
+23:3523 minutes, 35 secondsSo uh it's a bold prediction here but um I think what we're I think on the RWA space in the last year since Bidd has
+23:4423 minutes, 44 secondstokenized on Ethereum and and Arbitum and other chains is there hasn't been a lot of organic demand right we see all
+23:5223 minutes, 52 secondsthese asset managers putting basically a ton of supply on chain but the people on chain are mostly
+23:5923 minutes, 59 secondsretail and in crypto you know we tend to find the best yield and right now 4% for a tokenized money market fund. Not a lot
+24:0824 minutes, 8 secondsof demand. So, focusing on teams that can actually build organic demand. I like to give a shout out to um a team building on Arbitum Spyo out of uh
+24:1724 minutes, 17 secondsParis. They do a really good job of building organic demand for tokenized assets, right? So, um you know, giving
+24:2624 minutes, 26 secondsaccess to startups, web two startups that can get access to tokenized EU bills and money market funds in jurisdictions that they're not able to
+24:3324 minutes, 33 secondsget to. um and they're growing like crazy. So, um moral of the story, focusing on user experience and solving
+24:4024 minutes, 40 secondsproblems for the end user. Um yeah, and uh I think that's what we we're seeing is RWAS are mostly used by people in web
+24:5024 minutes, 50 seconds2. Like, you know, I have a brokerage account. I have friends that aren't in crypto that don't understand, still don't know what like Bitcoin or Ethereum
+24:5724 minutes, 57 secondsis, but they I've shown them how I can go and loan against it and they're like, "Wow, that's crazy." So, bringing uh
+25:0725 minutes, 7 secondslike a nice use case to people that don't know understand what crypto is is going to be, I think, what 2026 is all about.
+25:1525 minutes, 15 secondsYeah, I agree. It's hard to predict like two years ahead but I guess uh um three things uh stable uh stable uh like yield bearing stable coins for both
+25:2325 minutes, 23 secondsinstitutions and retail customers will drive adoption uh bur UX and uh UI for on and off ramps and uh for um basically
+25:3225 minutes, 32 secondslike abstraction of different chain experiences wallet creation on boarding and all of the key management as well for the users just to fill these uh like
+25:4025 minutes, 40 secondsweb two applications if we if we're speaking about the crypto platforms and Um yeah, I guess like the uh intersection of the use cases with the
+25:4925 minutes, 49 secondsuh real world where we can spend money on you know like uh uh different things uh and uh um probably regulation as well
+25:5725 minutes, 57 secondsthat allow you to do that uh global wide because a lot of people travel um have multiple citizenships and uh it's very important to kind of like also um have
+26:0626 minutes, 6 secondsuh you know composibility between all these products and uh the real world use cases as well.
+26:1226 minutes, 12 secondsAll right, here's my hot take. I think we're going to underestimate retail in the next 12 months. Uh the reason is there's probably a dozen countries uh
+26:2126 minutes, 21 secondswith things in positive regulatory uh stances that are going to fuel on-ramps
+26:2826 minutes, 28 secondsof a lot more main street uh retail user adoption. Uh and this is not in traditional western markets, right? So
+26:3626 minutes, 36 secondsthese are entire communities of mobile and mobile high mobile penetration uh nations that have uh first-time crypto
+26:4526 minutes, 45 secondsusers that now they could have done it before but very gray market but now are given permission effectively right um specifically like
+26:5326 minutes, 53 secondsSoutheast Asia I think we're going to see in the coming even in the next 90 days uh a huge on-ramp in uh new users
+27:0127 minutes, 1 secondand then that's going to actually drag institutionals in right traditional banks and uh five serve organizations in
+27:0827 minutes, 8 secondsthose ecosystems. Um and then the great part is that we're in the middle right now. Now the pressure is on us to make sure that these bridges happen, the
+27:1627 minutes, 16 secondsinfrastructure runs and the user experiences kind of match or exceed what they already have, which is pretty sophisticated in a lot of these
+27:2427 minutes, 24 secondscountries, right? So the burden's on us in this coming year.
+27:2927 minutes, 29 secondsYeah. Um is there any questions from the audience? It's really hard to you know
+27:3727 minutes, 37 secondsinvite everyone here and because we tackled a lot of stuff like you know UX we also talked about UX the some regulations
+27:4527 minutes, 45 secondsthere's no questions I will wrap up with one more um question um I'm just curious
+27:5227 minutes, 52 secondsabout like what because I feel like the institutions are really paying attention to crypto space and I just feel like the
+28:0128 minutes, 1 secondwhole um like the whole world now or like in in like this is paying attention
+28:0828 minutes, 8 secondsto crypto like as a nation or as institutions. So if you could like briefly share some exciting news um
+28:1728 minutes, 17 secondsmaybe there are some people who doesn't know about the Robin Hood news you can all share that or anything that happened
+28:2328 minutes, 23 secondsto your ecosystem is also fine or yeah I'm uh I'd be remiss to uh to share
+28:3128 minutes, 31 secondsanything too crazy um we um uh we've um we've gone live with uh ACred uh Vanek
+28:3928 minutes, 39 secondsum and uh for the uh B fund um in the last um uh in the last quarter. We have
+28:4628 minutes, 46 secondssome exciting uh news coming up this quarter. Um but I can't um share anything in particular
+28:5528 minutes, 55 secondsunfortunately, but I think you know Austin might have something to share. Yes.
+29:0029 minutesYeah. Um yeah, we're really excited about partnering with Robin Hood for them to launch their own chain. I think goes along that strategy of bringing
+29:0829 minutes, 8 secondsusers to crypto and not the other way around. And you know, Robin Hood's known for their amazing UX on the trading side. And um in their demo, if you get
+29:1729 minutes, 17 secondsto see it, uh they posted it. It doesn't even look like a different experience.
+29:2129 minutes, 21 secondsIt's still just the swipe up to close your trade and it just settles on trade.
+29:2529 minutes, 25 secondsSo, uh we're really excited about working with them and showcasing what we've all been working on as a as a
+29:3229 minutes, 32 secondscommunity and opening up those use cases for millions of people all over the world.
+29:3829 minutes, 38 secondsYeah, we're launching cards with the master card globally in Europe, in the US, in Latin America and Southeast Asia as well. So allowing people to link them
+29:4729 minutes, 47 secondsto non-castorial wallets and spend stable coins in real world. um adding also incentives from the stable coin
+29:5429 minutes, 54 secondsfeatures from our side from L2 L1's and um yeah just giving some uh web two services on top as a rewards like ECMS
+30:0230 minutes, 2 secondslounges and all the cool stuff that people right now use in Europe for example in the US like with neo banks so yeah I hope that will drive a lot of
+30:1030 minutes, 10 secondsadoption quick one uh next 90 days we'll be launching with a number of web two
+30:1630 minutes, 16 secondsdomain registars so that when you go and actually buy and manage your existing dotcoms and XYZ's uh in one click.
+30:2430 minutes, 24 secondsYou'll be able to tokenize on on our chain and then bring that to Ethereum, Salana, Base, Avalanche, etc. Uh so
+30:3130 minutes, 31 secondsthat's going to be super exciting bringing web 2 assets and users uh on chain.
+30:3630 minutes, 36 secondsYeah. Um also just to briefly share about Celestia's perspective, really excited to um be working with D3 on the domain side of things and also with like
+30:4530 minutes, 45 secondsArbitron on, you know, Athena, bringing Athena and converge on chain. Yeah. Um that was a wrap and you can catch these
+30:5230 minutes, 52 secondsamazing panelists um here. They'll be around so feel free to ask them a lot of questions. Any collaborations is
+30:5930 minutes, 59 secondswelcome. So thank you so much for listening to this panel and yeah have a great weekend guys.
+31:0631 minutes, 6 seconds[Applause]
+

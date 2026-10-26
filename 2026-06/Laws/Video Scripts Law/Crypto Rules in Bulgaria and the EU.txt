@@ -1,0 +1,1339 @@
+
+Search in video
+0:00
+Hello everyone. My name is Cam Shv and I'm here to
+0:05
+welcome you to our webinar on the subject of Mika
+0:11
+uh the markets in crypto assets um webinar. We have already run um such
+0:18
+events earlier this year and we're very happy uh to uh say that we have some
+0:25
+more um we would like to share with you and today's is one of those.
+0:32
+Um we will have an audience today of approximately uh 20 to 30 uh of you I believe and uh
+0:41
+everyone seems uh seems to have uh to be strongly interested in in this sector.
+0:47
+So that's great news. Uh we have on the speaker side today uh my colleagues Nana
+0:56
+uh Maya and Rosina who goes by Ena uh
+1:02
+and we will be telling you about various aspects of Mika in comparison to the
+1:07
+previous webinar which we ran. uh we will today focus a little bit more uh on
+1:15
+questions of compliance and the various types of compliance that uh you may uh
+1:21
+expect to to see. Uh we will also uh through Nenna and her eyes and
+1:28
+perspective look at the implementation in Bulgaria uh of um Mika an
+1:36
+implementing piece of legislation uh for the specifics of the Bulgarian
+1:41
+regulatory environment and then uh I will uh give you my perspective which is
+1:48
+slightly different to that of um my colleagues at the end and that will concern certain
+1:54
+international aspects uh of um crypto, its regulation, but even more uh perhaps
+2:01
+on on the question of how in practice um certain aspects of uh disputes in
+2:07
+connection with crypto might operate. Um so without further ado allow me to
+2:14
+introduce firstly my colleague Naa who uh is a partner in our Sophia office and
+2:21
+uh she has a very varied practice covering both corporate and commercial
+2:26
+matters uh a wide range of those and she has been advising a number of fintech
+2:33
+projects including in crypto uh over the years and uh she will she will start us
+2:39
+off. So, over to Nana, please. Hello everyone and thank you for joining
+2:45
+our webinar. Um, I'll explore how Bulgaria's new crypto asset markets act
+2:51
+um is shaping the future of crypto regulation in our country. Following the adoption of the European
+2:57
+Union's markets and crypto assets regulation, Bulgaria has taken clear steps to align its national legislation
+3:05
+with the new European framework. A significant development in this uh
+3:10
+process was the introduction of the crypto asset market act which was
+3:15
+approved by the council of ministers at the end of 24. Uh the act was adopted by
+3:21
+parliament on the 20th of June this year and entered into force on the 8th of
+3:27
+July 2025. The act now serve as the serves as the
+3:32
+main legal instrument for the implementation of mika in Bulgaria.
+3:38
+main objectives. The main objectives of the law um are directly aligned with the goals of
+3:45
+the regulation um namely to establish a secure and transparent environment for crypto assets in Bulgaria. A key focus
+3:53
+of the regulation is to ensure a high level of consumer protection within the crypto asset market. One of the main
+4:00
+mechanisms for achieving this is the introduction of a white paper for each crypto asset. And I will focus on the
+4:08
+differences between issuers. Under the regulation, issuers must prepare um the white paper before
+4:16
+offering tokens to the public or seeking admission. The content and obligations
+4:22
+vary by token type. General crypto assets or so-called or those that are
+4:28
+not asset referenced or e-oney tokens uh require a white paper covering the
+4:34
+issuer, the token, the project rights and obligations, risks of the underlying
+4:41
+technology and environmental impact. Uh it must include a non-technical summary,
+4:47
+clear risk warning, management statement of accuracy and explicitly state that
+4:53
+the white paper has not been approved by any EU authority.
+4:58
+Asset reference tokens require more extensive disclosures. To safeguard the
+5:04
+value of asset reference tokens, issuers must establish and maintain reserves of
+5:10
+assets. Additionally, they they must maintain a certain level of their own funds, ensuring financial stability.
+5:18
+This depth of information ensures transparency and helps investors evaluate the token thoroughly. The white
+5:25
+paper must be submitted as part of a formal authorization process.
+5:30
+When it comes to e-money tokens which are fiat pledged and require white paper
+5:36
+similar to asset reference tokens um the
+5:41
+requirement for reserve um is not there. Uh the paper must
+5:46
+include redemption at par value appropriate warnings um and the declaration from the u management body
+5:55
+for all three types. Um, white papers must be fair, clear, um, not misleading,
+6:03
+machine readable, and published on the issues website before the offer or
+6:08
+trading begins. In terms of regulatory supervision, the
+6:13
+law designates the Financial Supervision Commission um as the default competent
+6:18
+authority responsible for the oversight of crypto asset services service providers as well um as for issuers of
+6:27
+asset reference tokens and other crypto assets. The Bulgarian National Bank um
+6:33
+however is responsible for the super for supervising the issuers of electronic
+6:39
+money tokens consistent with its broader mandate concerning payment systems and
+6:45
+monetary policy. Under Mika, asset reference tokens may
+6:51
+only be offered to the public or admitted to trading in the EU by issuers that are legal persons established in
+6:59
+the union and authorized by by their home state. A limited exemption of
+7:04
+supply such as where the total outstanding value of the aeros asset reference tokens remains below 5 million
+7:12
+euro over 12 months or where the offer is made solely to qualified investors.
+7:19
+The law assigns the to the commission a wide range of duties including issuing, refusing or revoking licenses for the
+7:27
+public offering and trading of asset reference tokens. However, this procedure does not apply
+7:34
+when the issuer is a credit institution. Credit institutions can publicly offer
+7:39
+asset reference tokens, but only after their white paper has been approved by the commission.
+7:45
+They need to notify the commission of the upcoming issuance of the token and the relevant activity should be included
+7:51
+within the scope of the license issued by the Bulgarian National Bank.
+7:57
+crypto asset service provider providers. The commission also decides on the
+8:04
+licensing of uh crypto asset service providers. uh certain already licensed financial
+8:10
+entities such as credit institutions, um central securities, deposiitories,
+8:17
+investment intermediaries, market operators, asset management companies and
+8:22
+alternative investment fund managers do not need to obtain a separate license to provide
+8:28
+apologies to provide um a crypto asset services. Instead, they
+8:36
+must submit a notification to the commission and receive a confirmation that their operations comply with the
+8:43
+applicable requirements. Besides the mandatory paperwork needed
+8:48
+for uh licensing under the regulation, the law also sets out additional
+8:53
+documents and checks to assess and confirm that the CASP's governance is
+9:00
+properly in place. These requirements apply to the management team, shareholders, and ultimate beneficial
+9:07
+owners. The law also introduces transitional
+9:13
+provisions for entities already operating in Bulgaria uh as virtual asset service providers. These entities
+9:21
+will be allowed to continue their operations until the 1st of July 2026.
+9:26
+By that date, they will need to fully comply with the new regulatory
+9:33
+standards. Basps registered between the 30th of December 2024
+9:39
+and the date of entry into force of the law must apply for a nickel license within three months of the law's entry
+9:46
+into force. During this period, um they must also ensure that their operations
+9:51
+comply with the law and the regulation. Licensed crypto asset service providers
+9:58
+must submit an application to the registry agency to record the activity within their
+10:06
+business scope within 7 days of receiving the license
+10:11
+or confirmation from the commission. When it comes to consumer protection,
+10:18
+the law provides that crypto asset holders, users of crypto asset services,
+10:24
+and other interested parties, including consumer associations, can submit complaints to the commission. Complaints
+10:31
+can can be submitted if they believe that offerers, applicants for trading
+10:36
+admission, issuers of assets reference tokens or crypto asset service providers
+10:43
+have violated the regulation, the law or uh related implementing acts. All
+10:50
+complaints must be submitted in Bulgarian and in writing
+10:56
+to ensure compliance with the new legal framework. The Financial Supervision Commission is granted broad powers.
+11:03
+Bulgarian law provides the national financial regulator with a wide range of powers to enforce compliance with the uh
+11:11
+regulation when there is a breach or even a wellfounded suspicion of non-compliance by crypto asset issuers,
+11:19
+offerers, applicants or service providers. The regulator may compel them to take
+11:26
+specific corrective actions within a defined time frame. These powers extend
+11:32
+not only to entities themselves but also to individuals involved in their
+11:37
+governance or operations. The aim is to prevent or limit the impact of violations and ensure that
+11:44
+market participations participants uh uphold legal and regulatory standards
+11:50
+related to crypto assets u issuance trading and service provision.
+11:56
+The regulator is further uh empowered to impose a broad range of measures such as
+12:01
+temporarily or permanently suspending crypto services uh halting token
+12:07
+offerings or trading, ordering amendments to white papers or marketing
+12:13
+materials um and requiring public disclosures about breaches.
+12:19
+Um in serious cases uh the regulator may order the removal of key personnel,
+12:25
+restrict certain uh business exposures or revoke licenses. These measures are
+12:32
+designed to protect retail uh users uh safeguard market stability and um
+12:39
+address misconduct proactively. The frame the framework reflects a
+12:45
+riskbased supervisory approach um enabling intervention even before harm
+12:51
+has occurred. In cases of repeated breaches of EU or
+12:56
+national crypto regula regulations, the commission may propose that the Bulgarian National Bank revoke a credit
+13:04
+institutions license. For example, um the Bulgarian National Bank is
+13:10
+required to notify the commission of its decision without undue delay.
+13:16
+Um the law establishes a tiered system of fines for breaches of the Mika
+13:22
+regulation with penalties varying by severity, recurrence, and whether the
+13:29
+offender is an individual or a legal entity. Fines for individuals range from a few
+13:36
+hundred to several hundred,000 euros while um legal entities may face
+13:42
+penalties of up to uh 15 million euro or uh 15% of annual turnover in serious or
+13:50
+repeated cases. Thank you.
+14:02
+Thank you, Nana. I um didn't um say that earlier, but of course, we are uh open
+14:09
+to any questions that you may have. And uh if you wish to ask us questions, you
+14:14
+can uh either uh do so in the chat um or
+14:20
+uh I believe you should be able to also signal perhaps by raising your your
+14:25
+virtual hands that um you would like us to um to give the floor to you to ask
+14:31
+your question. So uh feel free to do either of those things uh now or perhaps
+14:38
+uh towards the end of today's session if you prefer uh on that basis. Let me see if there is
+14:47
+anyone who has signaled.
+14:52
+I don't believe there is. Um not at the moment. And I believe there's
+15:00
+nothing yet in the chat. So um on that basis we will u move on to
+15:06
+our colleague Rodestina uh who is a junior associate with us and
+15:12
+she will be talking uh about the implementation of mika and what are the
+15:18
+key questions for the cusps. Um actually we did get a question just in time
+15:26
+before we've started with Ena and that's um how will the EU or local regulators
+15:32
+protect me regulated companies from unfair competition
+15:38
+by crypto businesses registered outside the EU and the European Economic Area.
+15:44
+Well, uh this is a question from Vilei. facil um a um I suppose a a first line
+15:54
+answer to that is that it's not necessarily um a function that uh the regulation has
+16:02
+allocated to the regulators um the MEA regulation has allocated to regulators
+16:08
+to uh to engage in the protection of participants in the market um per se
+16:15
+there are of course in the various EU member states uh relevant uh laws that
+16:22
+in some cases may provide that kind of protection against unfair competition
+16:27
+and this very much depends on a country bycountry basis.
+16:32
+And so uh if um uh if we take your question to relate strictly to
+16:39
+protection against unfair competition uh then uh then that um that would be the
+16:46
+answer. Um it may well be that you also share that view because I I see that in
+16:52
+fact uh you're proceeding to answer the question yourself along similar lines.
+16:59
+Um, Maya, would you would you have anything to add? Were you were you uh
+17:04
+signaling that you want to add something to this? No. Okay. Um, we um will be very happy
+17:13
+to to chat further about this uh later on, but for now, let me uh let me move
+17:20
+on to Ena. Hello everyone and thank you for being
+17:25
+with us today and for your interest in our webinar. I will now explain a little
+17:31
+bit more about how Mika creates a harmonized licensing regime for CASPs
+17:37
+and also about the new governance and capital requirements for CASPs and also
+17:43
+we review the AML arms impact on crypto space. So let me now start with the
+17:50
+passporting regime under Nika. Mika creates a
+17:56
+so-called passporting regime because as it provides for a uniform license for a
+18:04
+company which aims to provide crypto services as a class. It is enough to
+18:10
+apply for license in only one member state and after it obtains such such a
+18:15
+license it can freely operates within the whole European Union.
+18:20
+um when it applies for a license uh this company or of course it management uh
+18:28
+she'll be aware of the three classes um of the three classes under Mika which
+18:35
+depend on the crypto services provided because different crypto services uh
+18:42
+fall within different categories and test the minimum capital is different for these companies. Uh for example, if
+18:49
+a company which aims to be a CASP uh wishes to provide operation of a trading
+18:54
+platform, it shall be ready to have minimum capital of €150,000.
+19:00
+And it is important to mention that um it is it is not important whether the
+19:07
+company will cover all uh the crypto services in the respective class but
+19:13
+whether to observe um in which class it activities fell within. uh because for
+19:20
+example a company may not wish to provide all services under class one but for example if it wishes to provide uh
+19:27
+exchange of crypto assets for funds uh this uh within class two and this this
+19:33
+company shall be ready to have um a significantly higher capital amount to
+19:40
+125,000 rather than 50,000 and also when preparing for applying for
+19:47
+a license the companies uh shall be ready to provide certain kind of
+19:53
+information which is related to the governance and conduct obligations of
+19:58
+CASPs and uh what are actually these governance and conduct obligations as
+20:04
+you can see on your screens uh Mikas high standards for internal operations
+20:10
+and um in practice this means that each CASP uh shall implement the strong
+20:17
+internal controls in terms of mitigation, avoidance and management of conflicts of interest.
+20:24
+Also, uh Mika aims to provide better investors protection and um it set out
+20:31
+rules for better communication between the cast and its investors. Uh thus the
+20:38
+communication must be fair, clear and not misleading. And uh this means that
+20:44
+uh it is important that the CASPs are upfront about the fees about the
+20:49
+project, the crypto assets and the associated risks. Uh what else are customers obliged to
+20:58
+implement? It is important to mention the customer due diligence, the enhanced due diligence uh their also um their
+21:07
+obligation for ongoing monitoring, for record keeping and for reporting. Let me
+21:12
+now give a little bit more background about each of them. Uh when it comes to
+21:18
+customer due diligence, it is important for each cast to implement such controls
+21:24
+that it can verify the identities of its clients no matter whether it comes for
+21:29
+natural persons or for entities. Uh when the client is an entity and the CASP
+21:37
+shall check for its UBO in and also
+21:42
+there are some cases where enhanced due diligence is required. For example,
+21:48
+for a client who is a publicly exposed person and also when when the client
+21:56
+comes from a higher risk third country in these cases um has to do the chance
+22:01
+is required. It is important to mention that CASPs
+22:06
+shall continuously monitor transactions of their clients and to report for any
+22:12
+suspicious activity to the competent authority. And also when it comes to
+22:19
+suspicious activity reporting, CASPs are not allowed to alert their clients when
+22:24
+they have to disclose certain kind of information. Another important uh
+22:29
+highlight is uh that casps must keep uh records of their customer due diligence
+22:35
+and has enhanced customer due diligence and other related uh related documents
+22:42
+for 5 years. Uh now let's see uh let's see whether
+22:48
+CASPs shall comply with the white paper requirement.
+22:55
+white paper uh was mainly covered by my colleague Nvena. I will only add here
+23:02
+that um the requirement for white paper for issuance of white paper is uh
+23:09
+generally directed toward the issuers of the crypto assets and not to the CASPs
+23:15
+directly. uh a CASP will have an obligation for white paper only if it
+23:22
+acts uh as an insure as well and also CASPs must ensure that the compliant
+23:28
+white paper exists prior to offering or listing a crypto asset.
+23:35
+uh white paper must include certain kind of information as my colleague uh
+23:41
+mentioned this information is mainly directed better uh investors protection
+23:49
+because um it requires from CASPs to to reveal or from issuers to reveal
+23:56
+information about the crypto assets about the crypto project and about the associated risks. So the potential
+24:03
+investors are better aware uh of the crypto sector and also it is important
+24:09
+to say that um a failure to comply with the white paper requirement uh when it's
+24:17
+applicable to the cast may result in liability.
+24:22
+So uh what are the obligations under the AML RS? The latest AML R was adopted on
+24:32
+the 20 on the 31st of May 2024 and it is the first unified AML rule
+24:40
+book across the EU. Uh here it is important to highlight that um after its
+24:47
+adoption. Uh CASPs are obliged to comply not only with Mika but also with the
+24:53
+whole AML uh regulation regulations not only with the last one but also with
+25:00
+previous ones as they set out different rules. And uh it is important to mention
+25:07
+that the latest AMLR um does not leave space for uh different
+25:15
+interpretations by uh separate member states but rather a uniform
+25:21
+uh uniform approach. So
+25:27
+uh I don't I will tell you a little bit more about the travel rule. Um the
+25:34
+latest AMLR contributes to the implementation of the travel rule and uh
+25:40
+I want to speak only about the core of this uh application because my colleague
+25:46
+Maya will discuss in details the travel rule in the next slides of our
+25:51
+presentation. So the core of the travel rule is the obligation for the CASP to
+25:57
+provide certain set of information about each transfer. uh this information may
+26:03
+be related to the sender or to the beneficiary or to both of them. And
+26:08
+according to the European AMLRs um the the threshold um the standards
+26:16
+which are set for the travel rule are even stricter than the FATF recommendations.
+26:23
+uh so this means that uh the MLRs are not only L with the FATF recommendation
+26:29
+16 for example but even uh even go further
+26:34
+um but you will find more about this in the next slides when our colleague speaks more about it uh let me now talk
+26:42
+a little bit more about the enforcement and the penalties under Mika and under
+26:47
+the AMLR both Mika and the AM ML are um have um
+26:56
+penalties provided for and uh they are quite similar. The difference is when it
+27:03
+comes to entities because under the MA under Mika the fine can be up to 15
+27:09
+millions of euros or to 15% of the annual turnover of the company and um
+27:16
+let me highlight that uh this fine is set only for severe breaches. such as
+27:22
+market abuse which is regarded as the greatest breach of the Mika and also of
+27:29
+the AML rules and when it comes to the AML R and the
+27:36
+time for entities can be up to 10 million of euros or to 10% of the annual
+27:42
+turnover. When we talk about nature persons,
+27:47
+um both Mika and AMLR have the same sanction provided. Uh a minimum maximum
+27:55
+fine is kept at €700,000
+28:00
+and it can it can raise up to five uh 5 million of euros.
+28:07
+Let me mention that uh this cap of €700,000
+28:12
+is a minimum maximum. Um this means that each national authority, each national
+28:20
+government can implement even a higher cap for the fine but but not less than
+28:25
+700,000 of euros. Uh violations under MIA include operating without required
+28:33
+license or failing to disclose critical information. Um also another breach is
+28:39
+inadequate governance and operation inter and operating operational internal
+28:44
+rules excuse me. And also under the AMLR
+28:50
+the breach can include failure to perform due diligence or inadequate monitoring or failure to report
+28:57
+suspicious activities. There can be additional consequences uh
+29:02
+both under Mika and under the AMLR. And these additional consequences uh maybe
+29:08
+ass freezing or managerial bans or also public disclosure of violations. And uh
+29:15
+when we speak about public disclosure of violations uh yes they do not affect directly the
+29:23
+assets of the company uh of the crypto asset service provider but uh such a
+29:28
+disclosure may may lead to and significant reputational damage and this
+29:34
+may lead to significant losses as well for the company. Uh when we talk about
+29:40
+managerial bands, this practically means that certain individuals may be prevented from holding management
+29:46
+positions or performing critical roles within an organization. So I think that
+29:53
+um these uh these measures are also strict ones.
+29:59
+Uh let me now conclude. The aim of both Mika and the AMLR is to
+30:06
+contribute to sustainable integrity, better traceability
+30:11
+and transparency in the crypto sector. On the one hand, CASPs are subject to a
+30:17
+uniform license which practically means uh that there is better supervision of
+30:23
+CASPs because they are part of one uniform system and um on the other hand
+30:30
+this system uh lets them operate freely within the whole European Union.
+30:37
+Also, Mika and uh AMLR provide for stricter obligations when it
+30:45
+comes to better consumer protection because they they oblige CASPs to
+30:51
+provide clear and not misleading information and uh this will enable investors to
+30:59
+have better understanding of the crypto sector they are entering.
+31:04
+Thank you all for your attention and let me now give the word uh back to our
+31:10
+managing partner Mr. Kam Sha.
+31:17
+Um Ena once again if there are any questions from the audience we'll be of course very grateful very happy to
+31:23
+answer those. um you uh will have all seen the chat uh
+31:30
+and um and that's been quite active but we will uh we will be very happy to have
+31:36
+even more uh opinions and participation in there. So um thank you in advance. Um
+31:44
+I hand over in the meantime though to Maya uh who is the head of our
+31:50
+anti-money laundering and white collar team uh and she will discuss the inter
+31:58
+interaction of a number of regulatory regimes in relation to ma and in
+32:04
+relation to uh digital assets. Uh Maya um over to you.
+32:10
+Thank you Kevin. Good afternoon everyone. Um, thank you for taking the time to join us today.
+32:18
+Um, I want to speak uh about uh three
+32:24
+regulation regimes. The marketing crypto assets regulation or um the guidance on
+32:31
+the ESMA uh for the um marketing crypto assets regulation.
+32:38
+Um but uh let me explain. Well, each of uh the regime's digital operational
+32:44
+resilience act, the anti-money laundering regulation which my colleague in uh so eloquently explained in detail
+32:53
+in her session and the ma regulation interacts
+32:58
+um and interact and are interconnected. Uh while each of these regime focuses on
+33:05
+a different dimension of oversight whether behavioral, operational or financial, they're deeply
+33:12
+interconnected. Uh taken together, they form the backbone of the EU's new architecture
+33:18
+for digital assets regulation. Let's begin with Mika. Under article 92
+33:24
+of Mika, the European securities and markets authorities was tasked with developing supervisory guidance on
+33:32
+market abuse. On 29th of April 2025, ESMA published its final report and
+33:38
+guidelines on supervisory practices for market abuse under Mika. These
+33:44
+guidelines introduce a two-tiered structure. One part is directed at
+33:49
+national competent authorities equipping them with tools to identify, mitigate
+33:55
+and prosecute market abuse in the crypto space. The other part part is directed
+34:01
+specifically at crypto asset service provider providers considered person
+34:06
+persons professionally arranging or executing transactions.
+34:12
+At the supervisory level, ESMA is advocating a riskbased proportionate
+34:17
+approach. This means that regulators across the EU are expected to modernize their
+34:24
+surveillance tools and focus effort on high-risk activities such as price
+34:30
+volatility, crossber flows, and social media manipulation.
+34:35
+For casts that operate trading venues, over-the-counter desk, or handle
+34:41
+significant significant retail flows, this marks a shift in compliance
+34:46
+expectations. CASPs will likely be required to provide more detailed monitoring reports,
+34:53
+demonstrate use of advanced trade surveillance systems, and prepare for
+34:59
+crossborder supervisory inquiries involving multiple regulators and jurisdictions.
+35:06
+Cusps who are arranging or executing transactions whether directly through
+35:12
+brokers or via programmatic trading systems are now expected to implement
+35:18
+realtime trade surveillance capable of detecting suspicious activity. This include not this includes
+35:26
+not only traditional markets abuse patterns but also crypton native forms of manipulation such as minor front
+35:34
+running um spoofing across centralized and decentralized exchanges wash trading
+35:41
+social mediadriven pump and dump dump schemes just to name a few. ESMA has
+35:46
+also clarified the reporting obligations for suspicious activity. If surveillance
+35:52
+systems detect behavior that could indicate market abuse, CASPs are
+35:57
+required to file a suspicious transaction or order report. The threshold here, the threshold for
+36:05
+reporting is reasonable suspicion, not conclusive evidence. Internal analysis
+36:11
+supported by data is sufficient to trigger a report. In addition, CASPs
+36:17
+must maintain internal protocols to handle such incidents. These protocols
+36:22
+must include investigation procedures, escalation chains, and full audit trails
+36:28
+from detection through to resolution. These guidelines are being integrated
+36:35
+into national supervisory practices across the EU with full implement
+36:40
+implementation expected by the end of 2025. Accordingly, CASPs are expected to align
+36:48
+their internal systems with these requirements particularly in the areas
+36:53
+of trade surveillances, suspicious transaction or order reporting and
+36:58
+market abuse scenario modeling. ESMA has also issued additional guidance under
+37:04
+Mika, including how to determine whether a given token qualifies as a crypto
+37:09
+asset, a financial instrument or electronic money, how to address a
+37:15
+reverse solicitation claims, and what suitability and disclosure standards apply when servicing retail clients.
+37:23
+These elements are especially critical for CASPs who are operating crossber or
+37:28
+targeting retail investors within the EU. Turning now to DORA, the digital
+37:35
+operational resilience act which became fully applicable on 17th of January
+37:40
+2025. DORA marks a significant milestone in EU
+37:45
+financial regulation. For the first time, CASPs are treated as regulated financial entities for the
+37:52
+purposes of operational risk management. Under article 2 of DORA, CASPs are
+37:58
+subject to the same digital operational resilience standards as banks, insurers
+38:04
+and market operators. Dota itself is structured around five
+38:10
+core core pillars. Information and communication technology
+38:15
+risk management or ICT risk management for short, ICT related incident
+38:21
+reporting, digital operational resilience testing, management of ICT
+38:27
+third party risk and coordinated oversight and supervisory convergence.
+38:33
+Together, these pillars define how financial entities must prepare for,
+38:38
+respond to, and cover and recover from digital disruptions, whether caused by
+38:44
+cyber attacks, internal system failures, or third party service outages.
+38:50
+Under the first pillar, the ICT risk management, each CASP must maintain a
+38:55
+comprehensive framework for digital resilience. This includes governance
+39:00
+structures extending to the management board with clearly assigned responsibilities.
+39:07
+CASPs are required to maintain documented policies covering system monitoring, access control, data
+39:14
+encryption and change of management. Critically, each CASP must be able to
+39:20
+demonstrate continuity of service in the face of severe internal or external
+39:25
+disruptions. The second pillar concerns ICT related incident reporting.
+39:32
+This is among the most operationally demanding requirements of Dota. Any major incident ranging from a prolonged
+39:40
+outage to a successful cyber attack must be classified using harmonized EU
+39:46
+standards and reported within specific time frames. In some cases, initial
+39:52
+notification must occur within 4 hours. CASPs are thus required to implement
+39:58
+realtime monitoring and automated escalation mechanisms to ens to ensure
+40:03
+timely and accurate reporting to national authorities. Dota also mandates advanced testing
+40:10
+requirements including threadlet penetration testing on critical systems
+40:16
+at least one every 3 years. These are not routine scans but realistic red team
+40:23
+exercises designed to stimul to simulate advanced threats including ransomware,
+40:30
+insider threats and state sponsored attacks. Such
+40:35
+testing must be conducted by qualified and independent testers following
+40:41
+methodologies prescribed by the European supervisory authorities which includes
+40:46
+ESMA, the European banking authority and the European the European Insurance and
+40:52
+Occupational Pension Authority. The fourth pillar addresses ICT third
+40:58
+party risk management. CASP must maintain an up-to-date registry of all ICT service providers
+41:06
+and subcontractors. They are also required to conduct thorough risk assessment and include
+41:12
+specific resilience obligation in contractual agreements.
+41:17
+This should cover data protection, service availability, regulatory audit
+41:22
+rights and exit strategies. This is relevant for CASPs dependent on
+41:28
+a cloud infrastructure, know your customer service provider or blockchain
+41:34
+node operators. Concentration risk meaning excessive reliance on a single provider will also
+41:41
+be scrutinized by regulators. Finally, DOA strengthens coordinated
+41:47
+supervisory engagement. CASPs are now expected to participate in crossber
+41:53
+regulatory inspections and contribute to thread intelligence sharing networks.
+41:59
+The ECAs have aligned their inspection methodologies and issued legally binding
+42:05
+technical standards. CASPs are required to submit the RCT
+42:10
+vendor registry by the end of 2025 and should now be preparing for thread
+42:16
+testing cycles and incident classification workflows in accordance with these standards.
+42:24
+Let us now turn to the AMLR. This regula this regulation bring the
+42:30
+fin brings the financial action task force travel rule with direct effect within the EU law for crypto assets
+42:36
+transfers. As my colleague Ena already mentioned, under the AMLR and the transfer of funds
+42:44
+regulation, crypto asset service providers are required to collect and verify complete originator and
+42:52
+beneficiary information for all crypto asset transfers irrespective of the amount. These
+42:58
+regulatory frameworks align with the financial action task force's recommendation 16 commonly known as the
+43:05
+travel rule which sets global standards for the traceability of funds and crypto
+43:11
+asset transfers. While the FAT recommends applying this obligation to transfer above 1,000 euro,
+43:19
+the EU goes further by requiring CASPs to ensure this information accompanies
+43:25
+every transfer with enhanced verification measures applied specifically to those exceeding €1,000.
+43:34
+This application applies not only to transactions between two CASPs, but also
+43:40
+to transfers involving CASP and a self-hosted wallet. As long as the CASPs
+43:45
+the CASP is either sending or receiving the asset
+43:50
+where transactions involve politically politically exposed person, high-risk
+43:55
+countries or other indicators of elevated money laundering or terrorist financing risk. CASP must implement
+44:03
+enhanced due diligence. This includes riskbased transaction monitoring,
+44:08
+threatened identity verification, and the ability to delay, reject or report
+44:15
+the transaction if the required information is incomplete or raises
+44:20
+suspicion. In practice, this means that onboarding, monitoring, and transaction processing
+44:27
+systems must be capable of identifying counterparties, detecting anomalies, and
+44:33
+flagging or blocking suspicious transfers. Furthermore, the infrastructure used to transmit personal
+44:40
+data must fully comply with both the GDPR and technical guidelines issued by
+44:47
+the European Banking Authority. Let us now step back and consider
+44:55
+how these three regimes Mika Dora and the AMLR fit together. Each addresses a
+45:02
+different facet of regulatory risk. Mika defines the rules of market conduct
+45:08
+and sets out authorization conditions. The AMLR enforces financial transparency
+45:15
+and ensures traceability of crypto asset flows. Dota secures the technological and
+45:22
+operational foundation underpinning these services. However, these frameworks cannot be
+45:28
+implemented in isolation. For example, the market surveillance tools implemented under Mika must also comply
+45:36
+with DOA's ICT resilience standards. Similarly, the customer due diligence uh
+45:42
+processes under the AMLR must be integrated into systems governed by
+45:48
+DORA's third party outsourcing rules. Supervisory engagement will also become
+45:54
+increasingly coordinated across conduct and money laundering and operational
+45:59
+risk dimensions. Looking ahead to 2026, CASPs are advised
+46:05
+to adopt a holistic forwardlooking approach. This includes uh conducted
+46:12
+conducting integrating Mika and Dota gap analysis, enhancing market abuse
+46:18
+surveillance and embedding the travel rule compliance within transaction workflows.
+46:25
+CUSPs should also update white paper governance to include risk matrices, operational models and ICT strategies.
+46:33
+Maintaining an accurate vendor register, embedding resilient clauses in all critical ICT contracts and scheduling
+46:40
+the first threadlet penetration testing cycle cycles will also be essential.
+46:47
+Finally, incident classification and escalation procedure must be fully aligned with DOR's reporting timelines
+46:54
+and taxonomies as ESMA continues to advance supervisory
+47:00
+convergence and as new frameworks such as the directive on administrative
+47:05
+cooperation and the anti-moneyaundering authority become operational, the EU is
+47:11
+moving toward a single integrated compliance framework. This framework is
+47:16
+grounded in transparency, resilience, and regulatory clarity.
+47:22
+To summarize, Mika determines what CASPs may do and how they must behave. The
+47:29
+AMLR governs who CASPs are dealing with and how they manage financial integrity.
+47:35
+Dota ensures that the systems underpinning crypto services are robust,
+47:40
+secure, and resilient. For CASPs aiming for sustainable growth
+47:46
+within the EU, these regulations are not hurdles. They represent the foundation
+47:51
+of a trusted and regulated crypto ecosystem. Thank you very much. Now giving back the
+47:58
+word to you Kevin. Thank you. Thank you Maya. Um let's just
+48:05
+see if there is anyone who has asked any question.
+48:14
+I think there are no currently raised hands but as before we are very happy to
+48:20
+uh see more of those now I uh I am going to slightly switch ah here we go we have
+48:28
+actually a question um Maya I'm not sure if you can you can
+48:35
+see the question in front of you but it's whether the travel rule applies to
+48:40
+class one casps um and in particular in relation to order execution and order
+48:45
+transmission. Mhm. Understood. Uh yes. Uh in general
+48:51
+the travel rules applies for all transfers as I already uh explains. It
+48:58
+uh implements the FATF recommendation 16 but it doesn't um discriminate on any
+49:06
+additional requirements. for example, the minimum amount transferred.
+49:12
+Um, yes, the travel rule does apply uh to class one CASPs including those
+49:18
+providing order execution and transmission services, but with important um
+49:25
+with one final not final but with the um
+49:30
+important limitations depending on the service structure and whether crypto assets uh transfer actually occur. If it
+49:38
+act it is actually executed, it applies. Okay. Thank you, Maya. So as mentioned
+49:46
+um we'll slightly switch focus um for the last few minutes of of this webinar
+49:52
+and uh I will um next take you um slightly to the more sort of practical
+50:00
+or um or perhaps uh uh kind of determined through conflict
+50:08
+uh results uh of regulation and I'll also be talking to you about the landscape when it comes comes to um when
+50:16
+it comes to both the uh UK with a brief um brief mention as you will see uh of
+50:22
+the EU. The reason uh we have decided to focus on the UK is partly
+50:30
+to have a common law system. Most of course European Union jurisdictions uh
+50:35
+don't use the common law. um they are civilian jurisdictions including
+50:40
+Bulgaria uh by backgrounds whereas uh very few Ireland uh and Cyprus now
+50:47
+remaining uh in addition to formerly the UK as part of the EU uh are common law.
+50:55
+Nevertheless, the common law tends to be a little bit more adaptable. At least that's how it's usually seen. Uh and so
+51:03
+when uh digital assets first became popular um following the introduction of
+51:08
+course initially of block of um bitcoin and subsequently of other uh well-known
+51:14
+blockchains uh disputes were often brought wherever it's at all possible uh
+51:20
+to common law jurisdictions. Another reason why such common law jurisdictions became relevant was of course that often
+51:29
+uh exchanges for instance were being set up in such jurisdictions including um
+51:35
+the BVI, the Cayman Islands um the Safe Shells and Hong Kong and
+51:40
+Singapore um as well as occasionally in the UK. Those systems look of course to
+51:47
+the UK and to England and Wales specifically um for uh high uh level
+51:54
+judgments and uh from there um the the English jurisdiction has been able to
+52:00
+set the tone in relation to um many of these issues.
+52:06
+Um while uh our firm of course is a Bulgarian law firm, um I am personally
+52:15
+uh also qualified uh as an English uh lawyer, as a barristister and several other colleagues uh are consultants and
+52:23
+and um colleagues who work permanently for the firm are English qualified and
+52:29
+therefore we are uh in a position to provide you uh with advice and representation
+52:35
+uh on English and other common law jurisdictions where appropriate and
+52:40
+necessary. Um I will start by looking at how what are the ways in which uh crypto
+52:48
+assets can indeed interact with the judicial system. Um and the uh these
+52:57
+ways are are multiple as I hope I'll be able to persuade you. Uh one such way uh
+53:03
+is um of course crucially as to who is the owner uh of certain uh digital
+53:10
+assets um that may be held uh in an exchange or in a decentralized finance
+53:16
+um setup. Uh and uh there may be a single owner or there may be a mixture
+53:23
+within a single wallet uh of um title belonging to multiple owners. So that's
+53:29
+one interesting type of question. Another context in which uh disputes
+53:36
+often arise and therefore uh parties often need to go to court uh is whether
+53:42
+uh as uh as some some of the parties might allege in a dispute a fraud has
+53:49
+been perpetrated on them. uh and indeed the English courts uh as well as other
+53:55
+common law courts have often uh dealt with such disputes where uh it's been
+54:01
+alleged that there's been fraud and in those cases the questions uh turn
+54:07
+on uh multiple issues that are both procedural and substantive in nature. Um
+54:14
+but uh they might for example include questions about uh what are the what is
+54:19
+the extent of the fiduciary responsibility um that may be owed by uh a party to
+54:26
+some other party. Uh one interesting question in that
+54:32
+context and we'll come back to it momentarily is the question about in the
+54:38
+how does it work in a decentralized context where you have simply a protocol
+54:43
+for example uh and uh the intention of those setting up the protocol is that uh
+54:49
+a lot of it will be self-executing through smart contracts for instance um
+54:54
+and that there will be no uh day-to-day involvement uh and certainly no centralized
+55:00
+managements uh hence ideas such as Vitalik Petarian's idea of the
+55:06
+decentralized autonomous organization um which of course became quite popular
+55:13
+in the context of ICOs a few years ago and is still um is still popular with
+55:19
+new uh projects in u blockchain.
+55:24
+There has been an English decision which I will briefly tell you about in this context which decides on the issue in a
+55:31
+preliminary context. Another um type of issue concerns intellectual property. Um
+55:38
+of course um NFTTS have slightly fallen from from their top fame which they were
+55:45
+at a few years ago um in the context of both collectibles and art. Um and uh
+55:54
+nevertheless there are still interesting uh questions around uh intellectual
+55:59
+property and disputes relating to them. There's also questions about trademarks
+56:04
+in the context of um uh not just NFTTS but uh any other blockchain related uh
+56:11
+intellectual property names. And the question here is whether um there is a
+56:16
+certain there's been a certain tendency uh for the language used in relation to
+56:23
+uh to the blockchain to become generic in nature because of course uh when you
+56:29
+have something that's the more generic something is the less likely it is to successfully attract and retain
+56:35
+trademark protection. Um the most of the of the webinar today
+56:43
+has been dealing with questions of regulation and of course therefore um
+56:49
+there may be potentially disputes which are brought uh in regard to regulation.
+56:55
+Europe hasn't had that experience which um of course um blockchain developers
+57:02
+and uh those launching tokens in the United States market had to deal with
+57:08
+over the years where the Securities and Exchange Commission was very
+57:13
+aggressively enforcing through through disputes um the view that that its then
+57:20
+commissioners were taking. Of course, the position in the United States has changed under the current uh presidency
+57:26
+of President Trump. Um and the SEC is now uh less likely. It is often thought
+57:34
+to be enforcing in this way. Um in however the European Union, as you will
+57:41
+shortly hear from me, there hasn't been to date um that much by way of EU level
+57:48
+um disputes. Um but that may now be changing after the introduction uh of
+57:53
+the regulatory regime that um my colleagues have been telling you about.
+57:59
+Yet another context is the context of insolvenies. Of course, whenever there is a corporate or in those jurisdictions
+58:06
+which uh allow for it personal insolveny um there are questions as to both uh who
+58:14
+do the assets belong to that uh may be part of the uh insolveny estate and also
+58:21
+um how to perhaps return assets to that estate. um which assets that appear to
+58:28
+be in the estate are really not part of the estate and in fact belong to other persons. Um and of course questions
+58:36
+around valuation and how that might impact on uh both the um uh the ability
+58:44
+of different creditors to uh to play a role in the insolveny and also the
+58:50
+amount which they will be entitled to recoup in the event that assets exceed liabilities.
+58:56
+In the context of family law disputes, um questions around uh assets that may
+59:03
+be held by um spouses uh at the time of divorce may arise. Um and again
+59:12
+questions here about title and also whether uh specific family law related
+59:18
+um arrangements as to title apply. So how do these questions um
+59:26
+um how are these questions particularly related to um the law um of England and
+59:32
+Wales? Um the um English law has um
+59:38
+acknowledged um in a series uh of um judicial decisions that uh to a
+59:46
+sufficient degree of certainty it regards crypto assets, digital assets as
+59:52
+being um as being capable of being owned, as being a species of property.
+59:58
+Um there is uh legislation which is on its way to becoming reality
+1:00:04
+uh which uh will implement the same concept. Uh and uh the courts will um
+1:00:13
+will then be able to regard um crypto assets digital assets as being
+1:00:19
+a sewage generous a special kind of property um and and that's expected to be adopted
+1:00:26
+this year. Incidentally, um we didn't speak about this today, but uh uh the UK
+1:00:32
+has been also working on its own uh regulatory framework which had published
+1:00:38
+in May this year and we may do an update webinar on on that issue at some point.
+1:00:45
+Um the um other questions relating to to
+1:00:50
+this that the courts have dealt with as mentioned include uh questions about um
+1:00:56
+evidencing transactions. Um there is now um a pretty wellestablished
+1:01:04
+um a pretty wellestablished framework of the use of specialist
+1:01:09
+um of specialist companies that provide expert services or their um their staff
+1:01:15
+can provide expert services uh to the courts and act as witnesses in proceedings in relation to investigating
+1:01:22
+the root of title uh to um blockchain assets. Um and uh there are questions as
+1:01:31
+to the control over uh private keys which can then of course allow access to
+1:01:37
+a wallet. And finally perhaps worth mentioning that uh questions which might arise uh
+1:01:45
+are as to the um legal status uh of decentralized autonomous organizations
+1:01:52
+and similar and how they can be liable. Um, briefly dealing I mentioned to you
+1:01:58
+earlier that the EU hasn't really so far experienced a very large wave of cases
+1:02:03
+regarding uh digital assets. There's been a decision now almost 10 years old
+1:02:09
+uh in the headquist case where um it was decided that uh the European Union rules
+1:02:17
+in relation to VAT uh are such that um that uh digital
+1:02:24
+assets the crypto currencies uh are not um going to be capable uh are not
+1:02:33
+essentially subject to uh a um a standard rate of VAT, they're exempt. Um
+1:02:42
+and uh that was important in so far as the services relating to them directly
+1:02:49
+are uh considered the same as services that that uh financial services that are
+1:02:56
+otherwise performed by other financial institutions. There's also been a series of cases regarding trademarks and
+1:03:03
+specifically distinctiveness. Um, but that's been pretty much it. Um, and so
+1:03:10
+as mentioned, one might expect that there may be more uh case law um soon.
+1:03:17
+However, um, turning now to uh questions about how one can make use of the
+1:03:24
+English courts if there is a dispute relating to crypto assets. So in general
+1:03:30
+um jurisdiction in England depends uh
+1:03:36
+it is said to be a matter of personal jurisdiction and so to establish jurisdiction in England you need to
+1:03:42
+serve generally speaking on a defendant or respondent and you can do so
+1:03:48
+personally if you find them in the jurisdiction or you can request the English courts to allow you service out
+1:03:55
+and to do so uh they need to generally speaking unless there is an applicable
+1:04:01
+international treaty uh they need to find one of potentially 20 plus gateways
+1:04:08
+that might be applicable to your situation. Once you have established
+1:04:13
+that kind of a gateway, unless of course the treaty applies or or the uh respondent or defendant is in the
+1:04:20
+jurisdiction, you can sue in England and the English courts have been as mentioned uh quite
+1:04:28
+happy generally speaking to provide remedies to parties that are victims of fraud. One such case concerned uh a uh
+1:04:37
+individual I believe of of Thai origin who uh sued somebody that uh she had
+1:04:44
+paid uh whom she had uh become acquainted with over Facebook. Uh the
+1:04:51
+person's initials were CS. There were however a number of other uh persons
+1:04:57
+that were unknown that very likely had participated in this um fraud and um
+1:05:04
+there was strong evidence that that this had been a case of fraud. So um Miss Bun
+1:05:09
+Bunyam uh the claimant in this case um applied for a summary judgment um
+1:05:16
+against uh these parties and the parties fell into three categories. Um and you will
+1:05:24
+see on the slide that uh in the class A category uh of persons unknown uh they were
+1:05:33
+natural legal persons which had described themselves as being connected to the putitive um putitive financial
+1:05:42
+institution that she believed she had been dealing with uh which had called itself ING FX group uh or INGFX itself.
+1:05:52
+um and um that was class A. Those were uh those were those persons. The second
+1:05:58
+group however were defined in a slightly different way. They were those persons
+1:06:03
+who either operated or owned um for example in the case of one of the
+1:06:09
+wallets uh wallet 8 ending in numbers 837B that was hosted by Coinbase. Um and then
+1:06:17
+the third the third uh person in this case was uh INGFX limited uh itself
+1:06:26
+which um which is was a specific identifiable company. Uh the point about
+1:06:32
+this case was that it was possible to obtain a judgment
+1:06:38
+against uh the second and the third group um but uh not uh not in uh not in
+1:06:46
+relation to the first one. Uh and the reason why it wasn't possible uh to
+1:06:51
+obtain it against the first one was that it was said that uh despite the issuance of uh of an order uh requesting uh
+1:06:59
+various parties and enabling disclosure uh of information, it had not been possible to identify those persons who
+1:07:06
+had called themselves by these names or who had taken certain steps in the
+1:07:12
+fraud. Um they simply couldn't be identified. They were very much like the hit and run um drivers in an uh in a
+1:07:20
+traffic um accident where u such a driver um may be driving a a car with a
+1:07:28
+certain number plate. Um but uh it had not been in fact possible to identify
+1:07:33
+them and it didn't look like it would be possible to identify them. So the point
+1:07:39
+about this judgment was that yes it was possible to obtain uh final relief. So
+1:07:44
+in order for payments uh from uh the category B uh class B and from the third
+1:07:50
+category but not from the first one, it had however being possible to obtain interim relief, so freezing injunctions
+1:07:58
+uh including a proprietary order against the others. And very uh briefly to uh to
+1:08:04
+finish off um there is a uh I mentioned already the tulip trading case. This was
+1:08:10
+a case in um the court of appeal in England and Wales involving uh the saga
+1:08:18
+against the involving the individual who had said that they were the inventor of of Bitcoin Satoshi Nakamoto. This was a
+1:08:27
+Australian person by the name of Dr. uh Craig Wright. Um and uh a um on the
+1:08:36
+other side of the case, there was a a group of um of developers that uh were
+1:08:41
+being sued by um by a company associated
+1:08:46
+uh Tulip Trading, which was associated with um Mr. Wright. Um the developers
+1:08:53
+including Vanderan um claimed that they had no fiduciary duties. But the court
+1:08:59
+of appeal found that at least to a preliminary uh level of inquiry uh it
+1:09:07
+could see how fiduciary duties were owed by software developers. Um the court
+1:09:13
+acknowledged that this was a very new type of duty. Previously such fiduciary duties had been said to be owed by
+1:09:19
+specified other categories such as for example lawyers uh trustees and others.
+1:09:25
+But uh in some cases software developers could owe such duties and the software
+1:09:31
+developers in a blockchain context uh of decentralized
+1:09:36
+uh protocols for example in the context of uh DeFi pools or or Dows could be
+1:09:41
+such uh fueies and then they would owe uh potentially proprietary
+1:09:47
+and personal remedies uh potentially available against them. And the final
+1:09:52
+case mentioned here uh Joseph Keane Singh Law um versus Hobi. Hui of course
+1:10:00
+is a um crypto exchange. Um the uh order
+1:10:06
+that was given here in involved um obliging obligating the exchange to
+1:10:13
+transfer uh crypto assets that had been held overseas
+1:10:18
+uh to the English jurisdiction so that in the event that there was a further order there had been a default judgment
+1:10:25
+against the person's unknown and so that if there was a further order um to get
+1:10:31
+their assets that were said to belong to them and transfer them to the claimants, that order could be uh performed. Um, as
+1:10:39
+you can see from this, there's quite a bit of um depth of case law already in
+1:10:44
+England and Wales and also in other common law jurisdictions. There are a number of very interesting points
+1:10:50
+raised. Broadly speaking, uh the English courts are in favor of uh um of
+1:10:56
+assisting uh parties involved in such disputes and they're very flexible. Um
+1:11:02
+so you can expect um more uh cases to arise as a result of disputes in the EU
+1:11:08
+for sure but you can also expect um the English case law to continue developing further. Apologies I've taken uh more
+1:11:17
+time than I expected to. Um are there any questions um in relation to what I
+1:11:25
+have said?
+1:11:31
+I believe not. Um if uh you don't have any other questions for my colleagues
+1:11:37
+either then with this we'll conclude our webinar um for today. You're very welcome to uh ask us any questions via
+1:11:46
+uh our website contact form uh and via the email addresses from which which you
+1:11:52
+know about us. Um we have an office uh um in central Sophia and uh we can also
+1:12:00
+meet up with you uh in uh London. Uh very uh grateful for your attendance and
+1:12:06
+look forward to speaking to all of you very soon again. Thank you. Bye-bye.
+

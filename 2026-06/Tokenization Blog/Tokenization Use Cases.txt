@@ -1,0 +1,655 @@
+Transcript
+
+
+Search in video
+0:07
+Hi everyone. I'm Daniel Simpson. Uh I'm a core member of the blockchain practice at EPAM systems and a member of
+0:14
+blockchain professionals community and I'll be moderator for this session. Um
+0:19
+we hope you're enjoying some of the great DeFi theme talks uh so far today.
+0:25
+Uh for this next session we're going to dive into use cases for real world assets. uh also known as RWAS.
+0:31
+Uh our speaker for this session is Kyle. He's a blockchain strategist and financial technology advocate known for
+0:38
+translating complex systems into actionable insights. Uh and he's currently pursuing a joint MBA at
+0:44
+Stanford Graduate School of Business and an MPA in international development at
+0:49
+Harvard Kennedy School. Um, just before I hand over to K, I'd like to encourage our audience to uh leave any questions
+0:57
+or discussion points for our speaker on the YouTube chat and we'll do our best to get to them at the end in the Q&A
+1:03
+session. Um, and with that said, uh, Kyle, I think it's over to you.
+1:09
+Uh, thanks for that introduction, Daniel. Um, am I heard? Everything's good.
+1:15
+We can hear you just fine. Yeah. It's a pleasure to be here and uh join everyone across the world who's joining in. Um
+1:21
+I'm very excited to talk more about real world assets. It's been one of the things that drew me to the blockchain space like six, seven years ago.
+1:28
+Actually, how long was that? Like 2017, like almost eight years ago now. Um and it's something that's very close to my
+1:34
+heart. So I'm happy to share more about it and I'll try to keep it as little technical as possible. So if you came
+1:40
+here to have a technical session, this is not it. I'm going to try to make it as relevant and as um you know um
+1:47
+thoughtprovoking or like something that will inspire thought inspiring to each one of you. Um I have in my screen right
+1:53
+now in my first slide, you know, um something that is not a real world asset, right? This is actually um an NFT
+2:00
+that is the most expensive um people that was sold um for a several million
+2:06
+dollars a couple years back. And this has been the world that people think has
+2:12
+associated with, you know, cryptocurrencies, right? It's this digital figment of the imagination. and
+2:18
+how can you really ascribe value to something like this? Um, but I want to try to like ground our talk today into
+2:27
+the real world. That's why I think this the special conversation that we'll have will center very much on how blockchain
+2:34
+is also disrupting the real world assets around us. And when we say real world assets, what really is it, right? It's
+2:40
+um if you just take a look around you um it's the physical world, right? It's the
+2:45
+um real estate that you have. It's the commodities, the gold, the sheep, the
+2:50
+cow, the cattle, the crops, the um you know physical assets of like oil that
+2:57
+you may also be um utilizing and and and and and making the world go around. How
+3:03
+does how can blockchain disrupt the financial world that governs the real
+3:09
+world assets that we trade? Right? That's going to be the center of the next um 20 minutes that we have today.
+3:15
+But before I go into it, right, I want to spend like two or three minutes just giving a back um story about myself and
+3:22
+about the work that we've done in Pedex. So I've worked six the past six years as
+3:29
+the CFO and COO in the Philippine digital asset exchange. We're basically a sex uh CEX, a centralized exchange in
+3:36
+the Philippines um licensed by the regulators um and we have a few million
+3:42
+users um that we have Filipino trading pairs against many cryptocurrencies
+3:48
+um available locally, but we also work on tokenization projects. Right. I'm currently um not operationally with PDAX
+3:55
+anymore. Um but I've spent my time um now in in the US um doing a joint
+4:02
+program in the Kennedy school and in um Stanford uh and an MBA there. Um, Pedex
+4:10
+in itself um has a wide range of offerings, right? Like we have tried to
+4:16
+cater to a different set of uh um use cases in cryptocurrency like
+4:22
+Philippines. A cool fun fact is even though it is a population of 115 million people um one in 10 Filipinos actually
+4:29
+live abroad, right? So there is a big remittance corridor to the Philippines and that's one of the biggest um
+4:34
+products of the company. Um we are also uh very much um during the heyday of uh
+4:43
+um blockchain games uh the Philippines was actually one or the biggest uh uh
+4:52
+markets for blockchain games and we have services catered to that. Uh but we also cater towards the other end of the
+4:58
+spectrum which is in bonds um or government bonds and which I will talk a little bit about through the real world
+5:04
+asset um angle. So um that's a little bit about us but I want to make sure we center our conversation today on real
+5:11
+world assets right and how this could be the next frontier of investments. Um and
+5:17
+let me say that like through the course of the next 15 minutes like what we will do is we'll talk about like use case
+5:23
+like why real world assets are interesting why it makes sense to even tokenize um traditional assets on the
+5:29
+blockchain what's a purpose behind it why not just trade on your Robin Hood Coinbase account right um what's a
+5:35
+differentiation of real world assets on the blockchain and we'll also talk about how it makes sense for the different
+5:41
+stakeholders I think it's important to like latch our conversation on this like um when we think about whether an idea
+5:48
+or or or the new trend, a disruption is possible.
+5:53
+Um it's important to think okay what's in it for the stakeholders involved right like what's in it for the investor
+5:59
+public what's in in it for the issuers what's in it for the regulators and if it makes sense it's compelling for each
+6:05
+stakeholder then there is a reason for being there's a reason for that technology for that disruption to
+6:12
+actually you know fight against the curve and like actually happen and we'll try to paint that case for real world
+6:18
+assets and then lastly um the the other thing I'll do is I'll I'll give like four or five um samples of real world
+6:25
+assets um that and and share like how that maybe you know to ground how
+6:31
+relevant it is right cool so the first point like what makes real world assets
+6:38
+or rwas we'll call it that to make it shorter um different right like it's
+6:44
+important to note that um and I think it's really just these mainly these three things but it's important to note
+6:50
+the first one right like what is the incumbent um uh ledger that real world
+6:57
+as your blockchain is replacing right like uh the current processes or the
+7:03
+current systems the ledgers we have in the financial markets are not immutable right like they are not append only
+7:09
+sometimes you can actually adjust a whole entry and you know suddenly have the ownership of something change so
+7:15
+they're they are effable um they're mutable um sometimes in less devel developed
+7:22
+countries where the systems are um you know also have have have less judicious
+7:29
+review um they are also more prone to adjustments and actually in even in
+7:36
+other countries in other areas like for example the Philippines um some of these records are kept by humans right like uh
+7:43
+there is like a physical um review that is being done even like at the end of the day or at the end of the week to
+7:50
+ensure like like um that the legend measures that the depository receipts are like being tracked and ensured like
+7:56
+the ownership or which broker handles which ownership is done. So because it's physical as human um there's lots of
+8:02
+room for error. So, you know, making it tech technological, making it on the
+8:07
+blockchain, making the app that append only makes it really immutable and that
+8:12
+allows for a lot of uh trust, a lot of safeguard um in in terms of the tracking
+8:19
+of the ownership, in terms of understanding um the who owns what, but
+8:24
+at the same time like the amount of ownership each person or each individual in the blockchain um has. Um the second
+8:31
+is you can integrate smart contracts into it and we'll talk a little bit
+8:36
+about this later on but um you know you can imagine something as simple as uh
+8:42
+debt instrument right like uh pay me or or I loan you a hundred a million
+8:47
+dollars um for 6% interest paid quarterly right what's that um 6% of a
+8:54
+million will give you like $60,000 a year um a quarter will give you $15
+9:00
+18,000 acquire, right? Let's just assume it's that simple. No tax, no no
+9:05
+withholding, whatever, right? So, a smart contract can integrate can allow for that distribution of interest um to
+9:14
+be done automatedly, right? Like, okay, um that $15,000 will be sent to this
+9:19
+particular nominated bank account um at April 1, July 1, October 1, January 1.
+9:27
+Right? No fail. Um so that that because it's pre-coded because it's a smart
+9:33
+contract that is pre-coded into the system it allows for higher levels of trust. we have if you have and what's
+9:38
+the implication of that right like if you have higher levels of trust um you can actually in in financial market
+9:44
+theory you can actually um lower risk right and with lower risk you can actually have higher interest um levels
+9:52
+um so or higher return levels right um
+9:58
+and if you think about this this matrix right of different smart contracts you can integrate um you you you you could
+10:05
+allow for a um a lot more uh capabilities, right? Like one is yes interest um but you can
+10:12
+also allow for you know like covenants or like okay in case this um um uh real
+10:18
+this calamity happens then it will trigger this kind of payment and you know how humans can be um or how some
+10:28
+you know um even how good how good good actors could be. um when the when push
+10:33
+comes to shove and you have to suddenly send payment, people end up maybe a um realizing they don't have the money and
+10:39
+they cannot pay or b um that they may want a few more days so that they have
+10:44
+the cash um with them and you know they may end up rather than paying the interest or paying the covenant like a
+10:50
+week or two weeks from now they'll end up paying it um uh or instead of paying it today, they'll end up paying it a few
+10:56
+weeks from now and it may be delayed, right? Um but with the smart contract integrating and like facilitating it
+11:03
+automatedly um you know it allows for that less risk and like that smooth transactions happening and less
+11:08
+administrative costs as well right and then lastly um it's omni-urpose right so
+11:14
+you can actually use this technology of blockchain tokenization of real world assets um and apply it for any asset
+11:21
+class um and when you say any asset class in in the world there's actually three main buckets there's debt there's
+11:27
+equity and there's alternative investment ments or alternative assets. Um, and you can actually apply um
+11:34
+concepts of smart contract integration or um fractal um investments uh trading
+11:42
+into any of these asset classes as we'll talk about in a bit, right? So to ground
+11:47
+it a bit like think of these, right? A gold token as simple as where one
+11:53
+token is equal to a gram of gold or an oil token where a token of oil is equal to a lit or gallon however you do the
+12:00
+math um of refined oil right and basically the concept of real world
+12:05
+asset is this there's this virtual financial asset is being traded on a blockchain um that's easily easier to
+12:12
+change hands and they represent one to one to real world assets right and um
+12:18
+the real world assets on the chain are representation of physical assets in the real world. So you have to make sure
+12:23
+that if you are tokenizing these assets or whoever issues these assets um
+12:29
+actually are um you know putting in escrow or setting aside putting locking
+12:34
+in the vault um physical assets of that exact quantity, right? Um and so for
+12:41
+example, if you have like uh you're issuing or an oil token um like how this
+12:47
+could work is you have an oil company who has silos out there in the province
+12:52
+or in certain region and the silo could have you up to like maybe 2 million
+12:58
+liters of oil, right? Like large cubic um meters of oil and let's say they
+13:04
+decide to tokenize like 3 million liters of oil. um then they can convert that to 3 million tokens and you know there
+13:12
+we'll explain a little bit in a while how this concept can make sense to society right
+13:18
+um and let's start first as a the first use case of oil um
+13:23
+why would it make sense for the investor public to purchase to have easy access
+13:29
+to oil as a commod as an investment instrument um we did an analysis
+13:35
+actually and and this is true across the world, not just in the Philippines, that oil um affects the prices of everyday,
+13:43
+you know, um purchases, right? If the price of oil goes up by X, then the price of
+13:50
+transportation, the price of the most basic commodities also rise up generally
+13:56
+by an equivalent amount. Why? Right? Because oil is so embedded in our um
+14:01
+supply chain, right? your the delivery costs, the production costs, the
+14:07
+manufacturing costs um all go up when oil price goes up, right? So um it's
+14:13
+actually it actually makes sense for a lot of for for many many individuals to as an inflation hedge especially during
+14:19
+today's times to to invest in oil um readily much more accessibly. Um so we
+14:26
+tried to do this analysis earlier on when we were launching an oil um token
+14:31
+um of looking at the trend of the price of oil and seeing how like GP fares which is a public transportation in the
+14:37
+Philippines how the price of like local commodities like f super basic ones like fish, sugar, beef, rice are also going
+14:44
+up and we noticed that um you know the price of oil is a leading indicator
+14:51
+um a leading indicator to the price uh to to inflation. So oil prices go up
+14:57
+first before actual other commodities go up, right? It makes sense because it's it first goes up and then everything
+15:03
+else on the value chain goes up after. Um and in that sense um if you purchase
+15:08
+oil as an investment instrument, you can actually defend yourself against um inflation because it your your asset
+15:15
+will go up as in as it dictates inflation of succeeding commodities, right? Um, so yes, you can have that
+15:23
+inflation hedge if you're a motorist like you let's say um you are a driver
+15:29
+who drives your car um and or you are a taxi company um you're an oil market
+15:35
+participant basically like you're a taxi company that wants to purchase oil at a cheaper price or you have an Uber fleet
+15:43
+for example too then you'd want to like lock in your oil price at a certain price right and even if you believe like
+15:50
+inflation or oil price will go up. then you lock it in at that price and then you can actually have this um uh a
+15:57
+virtual wallet of oil that you can just redeem in the pump or you can let's say I p I say I feel like I know that um I
+16:05
+have 50 drivers um in total in my fleet and cars in total and um over the next
+16:11
+month I believe price will go up but I can only if I wanted to hedge against oil what I'll do is I'll tell my 50
+16:17
+drivers right to just go to the gas station fill up your tanks but up only up to their tax. Um, and it might be
+16:24
+gone in two or three days if they're really using their cars a lot um, for rides. But what I could do instead with
+16:30
+this product is tell the purchase like the equivalent amount of
+16:35
+oil and tokens online and distribute it like maybe buy like 10,000 litters and
+16:42
+distribute it to the drivers, you know, across a month um, peace meal to their different distinct wallets, right? And
+16:48
+then they could redeem this oil on the fuel pump like maybe partner with mobile, partner with the Shell, partner
+16:54
+with you know these big players in your country. Um and and it's redeemable at the pump. So you now basically virtually
+17:01
+explode the amount of oil physical oil or oil that you can hedge against not just the amount of um uh your your
+17:08
+physical fuel capacity of the car but of the digital wallet's capacity which is virtually um unlimited. Right?
+17:17
+That's just one use case, right? And you can think about how it can be applied uh across many other use cases like real
+17:23
+estate where you have one token is to one square meter of land. Um and we'll talk more about that um in a bit. Um and
+17:32
+also to different asset classes from debt to equities too. And when you think
+17:39
+about like again I I told you about this a while ago when you think about um the use cases I think it's very important to
+17:46
+just think about um how the different players incumbent players are affected
+17:53
+or what's in it for them or for us right and generally when it comes to uh assets
+18:00
+there's three main um very very important stakeholders the first is the
+18:05
+investor public right it's us as investors. The second is the security issuers
+18:12
+um the ones who end up issuing that asset and the third is the regulators. And I think if you take a look at all
+18:17
+these three um they're actually going to be very much benefited by um real world
+18:22
+asset technology or blockchain technology. Regulators um find it very helpful like um because a it adds much
+18:30
+more access to the product, right? Like because it's more fractional now it's more accessible. um because it's
+18:36
+worldwide now people who live around the world could actually um have access to
+18:42
+that investment. Um and so like for example they are trying to issue government bonds and they want to fund
+18:47
+raise money for the government right it's their way of raising funds they now have a bigger asset um a bigger investor
+18:52
+pool but not only that like you have regulators who have um strict
+18:58
+requirements for some asset classes like for example in the Philippines um there are some types of companies like mining
+19:04
+companies or certain industries right mining companies real estate companies that have a strict um foreign percentage
+19:11
+ownership right? Um like you can only have up to 30% ownership. The way they enforce that right now because as I said
+19:17
+is like very manual um they have to like do the math and they they have to check
+19:22
+what the percentage ownership is after all of the records are being net and settled at the end of the day and they
+19:29
+only realize what that number is like two two or three days afterwards.
+19:34
+Um whereas with with blockchain they can put a smart contract integrated into it saying okay cut um the moment um if the
+19:43
+moment it hits 30% foreign ownership based on the you know the status the nationality um then uh you know for any
+19:52
+person they can put you can code that function right for any person with a nationality that is not Filipino or that
+19:58
+is not yeah then um you can block out the gray out the by further
+20:04
+functionality for these users, right? So, you can embed like these smart contracts into it that make it much more
+20:10
+easy to um implement like regulation. So, good for them. Issuers, think about
+20:16
+how they fund raise. Normally, you raise money like you're a company, you're a real estate company, for example, you
+20:22
+want to raise funds, you either issue debt, you or issue equity, right? You want to build a building. it may be like
+20:28
+five 1020 million worth or even like $50 million worth of your CBD central
+20:35
+business district. So you need lots of money. You need to fund raise. Um you either issue debt normally or equity,
+20:40
+but why not tokenize your first building, right, and the land under it
+20:46
+to raise funds to be able to build your second building, right? Or whatever in
+20:52
+math you do like seventh building to fund raise the eighth building. Um so it by if you are an oil company right like
+20:59
+if you have this uh silo just away like and and and there's confidence
+21:05
+for you to have a locked um oil out there in the in in in inside the silo.
+21:13
+Um then why not find a way to sell that the physical ownership of that um
+21:19
+through the blockchain, right? And now you're fundraising through your assets and now you're freeing up inventory.
+21:25
+you're freeing up PPE right on the asset side of the balance sheet rather than raising debt or equity which are both
+21:31
+very expensive and it obviously is very clear for the investor public because it's more fractional it's more easy to
+21:37
+access. So it makes sense um and that's why we see a world where you know you can actually start doing all of these
+21:43
+things. So here are some use cases um as we end the talk right like um we built
+21:49
+this product called price lock in the Philippines where you tokenize um every lit of oil as I just described and you can redeem it in the pump. It's so easy,
+21:56
+so convenient and you don't need to change money and change hands. Um you just scan this QR code, the pump and it
+22:02
+will redeem the tokens. Um, we built the app with a central bank with a BSP in
+22:07
+the Philippines um and the Bureau of Treasury um to you're using the in on
+22:12
+the Ethereum blockchain to be able to roll out bonds to the investor public and you can easily purchase at the
+22:19
+comfort of your phone. But it also lowered the minimum, right? I think this is the most important part. It lowered the minimum amount for trades by 99%.
+22:26
+Before the minimum was around 50,000 pesos, which is $1,000 became $10,
+22:32
+right? And we launched this together with um it was it helped build credibility as well um to the blockchain
+22:40
+um perspective within the Philippines due to the support of regulators
+22:48
+and you have uh other ideas being pulled around the world on real estate and it's
+22:54
+very interesting to see the use cases right like how many individuals in the world could afford like real estate in
+23:00
+such a prime real estate in New York city. Um, well, maybe the answer is like
+23:06
+0.00001% of the world, right? One square meter could be like a million dollars. I don't
+23:11
+know. Like, uh, that's too much. A square meter could be um, say like $50,000 to $100,000 per square meter,
+23:19
+like very very prime spot. Um, no one could really afford that. But if you can fractionalize, then maybe you
+23:27
+can just own a piece of New York, but just own like 0.00001
+23:33
+square meter first, right? And then as you um have more funds, you can easily
+23:39
+peacemeal yourself in um into owning more and more real estate in New York City. So it's a very interesting concept
+23:45
+as well, right? And you have the tokenization of um commodities very very this has been a thing for more than 10
+23:53
+years or more than seven years already um of like tokenizing um gold for
+23:58
+example where ownership can now be much more easily accessible and you don't have to own the physical gold bars um
+24:05
+and it's much more tradable and much more fractile um why pax gold for example has been uh popular over the
+24:12
+past half decade or so right so that's basically it and I just want you to
+24:17
+focus on these three things, right? Like end all be all question is okay real world assets are so interesting um it
+24:24
+can change the way we even do things um and and transact in this world like like oil on the gas pump but you have to
+24:32
+think about what's really in it for the different stakeholders involved and if it makes sense then could this really be
+24:37
+like the possibility of the future. Um cool thanks uh that's it for the main
+24:42
+part of the talk to answer questions.
+24:47
+Uh thanks Carl. It's really really insightful. Um so
+24:53
+just looking at our board uh I don't think we have anything just yet. Um so
+24:59
+to everyone if you do have any uh anything you want to discuss or questions for KL um just uh just type
+25:06
+them into the chat now. Um but maybe I could um just dig into a a couple of
+25:13
+things related to your uh to your talk there um about the fractional ownership.
+25:18
+So I think I think that's a a particularly um interesting use case for uh for for
+25:25
+tokenization. I mean do you see that as the uh as kind of one of the most important use cases that we have for
+25:33
+real world tokenization? the fact that now you know any anyone can uh you know
+25:38
+own just a very very small percentage of any asset be it you know be it real estate or um or other kind of investment
+25:45
+projects um so how how important is fractional ownership as a use case to the
+25:51
+to the space as a whole very good question I think that's very pivotal um and especially it's makes um investing
+25:58
+much more inclusive right you have countries like the Philippines where seven years ago like less than 1% of the
+26:04
+adult population were had access to investments because of like clear accessibility concerns like um the
+26:10
+minimum amount of trade in the stock markets for example was too high of a bar for most um citizens to be able to
+26:16
+access it, right? Um and the the thing about um fractionalization is it also is
+26:24
+uh forwardlooking, right? You know how um yes the price of real estate may keep
+26:29
+going up over the next 100 years over the next 500 years and it get might become more and more and more expensive
+26:36
+but you have uh like these tokens that are very very much able to withstand
+26:43
+many decimals like Bitcoin for example has up to eight decimals um very unlike
+26:50
+your traditional currencies which you think has two but like in traditional FX Marcus has four decimals.
+26:56
+Um and then if you go to like Ethereum, you can go up to 30 decimals, right? Um so it very it is also very forward
+27:03
+looking in terms of how much how fractal it can get and because of the innate technology behind it, mind you, right?
+27:09
+Like it is something that is automated and the blockchain records are easily
+27:15
+recorded without the need for human intervention. Um it that's that's actually what provides the cheapness of
+27:21
+cost to make it more fractile. Yeah, for sure. And like I I quite often
+27:28
+sort of read in the in the sort of traditional financial world they I think about this term sophisticated investor.
+27:36
+So it's meaning kind of you know you have to it always feels to me like that that term means not that they're um
+27:44
+particularly sophisticated but they just have a lot of a lot of money to invest in a way. So I guess um this this idea
+27:54
+of fractional ownership, tokenized ownership really opens the door to uh uh to to um to the the average person,
+28:03
+the everyday person being able to own assets. Yeah. And be able to trade them very very easily, which I guess you
+28:10
+can't do now because it's still a very paperbased system, I would say. Yeah. Right. Right. And even for the more
+28:16
+sophisticated investors like your more meat middle market investors they're well they could diversify more right
+28:23
+because everything is more fractal they don't need to like if like if you to be able to purchase one real estate even as
+28:30
+a rich guy you want you purchase one real estate in New York that you're
+28:35
+locked in in one investment but now you can actually like peacemeal yourself across multiple diversified portfolios
+28:41
+more yeah and I guess depending on the regulations it you you could remain relatively
+28:47
+anonymous doing that as well obvious obviously depending on the on on the on the regulations. Um, yeah. I mean, yeah,
+28:55
+talking about regs, um, do you think that the regulations are keeping up quite
+29:03
+well with with all of this new tokenization or is it just they're just
+29:09
+kind of firefighting to to get to grips with this or they or they or are they pushing back? I guess. Yeah. Yeah. Yeah,
+29:16
+that's a good I I do think it's optim a more optimistic and peachy um um outlook
+29:22
+for regulation nowadays, right? Um the current, for example, it it regulation
+29:28
+is like per administration, per country, right? Like I could talk about Philippines a lot, but I could I think the most um uh uh copyable or the most
+29:36
+important would be how US regulates. And if you look at how the current administration has taken a look at um
+29:42
+regulation of cryptocurrencies, um they're very very forthright now about it, right? They've built a commission um
+29:49
+to really look into like building regulation um particularly now focused on stable coins, but they will move on
+29:55
+to other um tokens and currencies afterwards. But I think it's taking a
+30:01
+real step towards the right direction. Yeah, that's uh that's good news.
+30:07
+Lots of lots of work for the regulators there of course.
+30:13
+Um maybe uh kind of just one sort of final
+30:18
+discussion point around uh the the actual assets that these these tokens represent. Um so I
+30:26
+sometimes sort of feel like that you know the tokenization is very transparent. So, you know, you
+30:33
+if you if you own your keys, you'll get uh uh very accessible proof online that
+30:38
+you uh that you own that token. Um but it sometimes feels like that there's not
+30:45
+enough proof that your that the real world asset that your token represents is kind of really there. You know, it's
+30:52
+I think it's sometimes um a criticism of uh something like a stable coin like
+30:58
+Tether, right? that you know they don't publicly or or they they don't enough um
+31:05
+make transparent all the investments that that are you know there's lots of there's lots of discussion right about
+31:10
+you know do do they hold all all of those assets that um equal the value of those tokenized assets and I guess I
+31:18
+mean is there is there any way around that is it just something that we have to accept that there's always going to
+31:23
+be a trust element there um right that those real world assets are there could
+31:28
+regulation help maybe is there a technical way that that we can achieve that um yeah any any views that you have
+31:35
+on that? No, for sure, for sure. I I so it's a it's a it's a market, right? So, in the end, like there will be many
+31:41
+players and I think there will be players who will be more trustworthy because they will establish um um
+31:47
+third-party audits. They'll establish uh ways on proving authenticity of like
+31:53
+traditional assets being put into escrow um as they tokenize the digital version.
+31:59
+And I think my my view is like yes there will be many players and the ones who will actually win who will actually
+32:04
+become really big are the ones who are able to give like proofs um not just like play on trust um but proofs that
+32:11
+will um embody that trust and you for example like uh circle just la just
+32:18
+listed themselves like Thursday last week in the US stock markets um by being
+32:23
+a public company um USDC which is what circle the companies behind circles a
+32:30
+company behind USDC stablecoin um by becoming a listed company they're signaling that they're willing to be
+32:35
+audited and that they're willing to have all of their financials open right so that is a big um sign of symbol that
+32:42
+enhances the level of trust in in USDC for example um and in terms of other
+32:47
+companies like u pax G or like um where you basically have to ensure that there
+32:54
+there is an ownership like I think third party audits um wherein a third party auditor will take a look and ensure that
+33:01
+there is an ownership or an escrow function wherein um you actually surrender the assets to an institute a a
+33:08
+financial institution like um HSBC, JP Morgan, right, Goldman and put the asset
+33:15
+in a scroll to a third party would be a strong um signals that will show proof
+33:21
+of ownership. Yeah. Yeah. It's interesting, isn't it? So we have to keep some of the some of the
+33:27
+traditional ways of uh of trust in in kind of in limited companies and
+33:32
+regulation. But the the kind of the front end the tokenization is what is what becomes um very decentralized and
+33:40
+uh away from from from what we're used to. Exactly. Interesting. Yeah. Yeah. Yeah.
+33:48
+And I guess smart I mean the smart contracts themselves um obviously there's yeah there's a number of audit
+33:54
+companies around now isn't there that can that can that can ensure that the contracts themselves are um are highly
+34:02
+secure and transparent and and um and and do what they're Yeah. do do what
+34:07
+they're do what they're supposed to. Of course. Yeah. Exactly.
+34:13
+Uh okay. I think we've uh just about run out of time. Um on behalf of uh
+34:19
+blockchain professionals, KL, I'd like to thank you for your time today. It was a great talk and great discussion and uh
+34:27
+uh yeah, for sure. And for everyone uh listening, please stay tuned. Uh coming
+34:32
+up in five minutes, continuing our DeFi theme of the day, um expanding horizons
+34:38
+of DeFi. Perfect. Thanks, Daniel. It was nice meeting you. Let's go.
+

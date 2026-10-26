@@ -1,0 +1,681 @@
+
+Search in video
+0:03
+To start things off, uh can we have everybody introduce themselves? Uh Anil,
+0:08
+I'll let you go first. Hi everyone, I'm Anil Nminti. I'm a senior solutions architect at AWS. And
+0:13
+uh in my role, I work with the financial fintech customers,
+0:19
+um the large cryptocurrencies of the world, the large uh decentralized uh
+0:25
+exchanges of the world. And uh in the last couple of years I've u gone a little bit deep in the agentic AI space.
+0:32
+Uh so I also help organizations uh ship AI u and just not from PC's but in
+0:39
+production. So the the seesource of the organizations are happy. So that's about me.
+0:45
+Hi um Vincent Chak here. I am the founder and CEO of First Digital. Uh we're probably most known for issuing
+0:51
+FDUSD uh stable coin uh out of Hong Kong and um introducing our new project now
+1:00
+um finance district which is a platform around uh Agentic Economies and building
+1:05
+around that. So good to be here. Thank you. Hey everyone. Uh I'm Phil. I'm the
+1:11
+co-founder and CEO of Soho Pay. And uh at Soho we're building a onchain credit card for AI agents. Uh, and I recently
+1:19
+just left American Express to build it. Great to be here. Great. Hello everyone. Uh, thanks for
+1:25
+still being here. Um, if you've been here already this morning, I talked about onchain and FX and stable coins
+1:32
+this morning. Um, my name is Marcus. I'm founder and president of Mentor, which
+1:37
+is an onchain FX platform allowing users to swap between different stable coins,
+1:42
+between different currencies at the exchange rate, at the FX rate. And uh recently I was also appointed as head of
+1:48
+stable coins at Cello Foundation. Um at Cello we are focusing more and more on
+1:54
+onchain FX and on stable coins. Uh very excited to be here. Thanks.
+2:00
+Now I want to set the stage for the rest of the panel. Uh can you define what an
+2:06
+agent is and what aic payments are? And this is an open question.
+2:12
+Sure. Um, yeah. I mean, what is an agent? I mean, in my mind, I guess it's
+2:17
+more it's just code, right? It's a program that that probably runs some loop where it's, you know,
+2:24
+looking to do some job, right? Um, and then when you talk about payments, uh,
+2:30
+you know, I think right now what you see in in like the X42 ecosystem is
+2:37
+obviously like stable coin debit payments. you load a wallet and then that agent can spin that that balance at
+2:43
+any X42 endpoint. Um, you see a lot of like legacy players trying to get into the space where you can use your credit
+2:48
+card and clawed. Um, and I think the next step of that is an onchain credit
+2:54
+product where instead of the agent holding a wallet, it can just ping some credit layer and uh make a stable coin
+3:00
+payment. Agents is an agency. Um basically we
+3:07
+empower it to do things on our behalf. It has its own line basically you know
+3:13
+um but the agents itself uh I guess it gives us a lot more efficiency in our
+3:19
+time daily use and to build on top to allow the agents to make payments for us
+3:26
+through the agentic payments. I think it's it's really another revolutionary thing and of course one of the rails the
+3:33
+protocols is using stable coins. So again you know like I think it'll it
+3:39
+means different things in different parts of the world. Um people here in the US a lot of people have many
+3:44
+different options when it comes to payments but for emerging markets this might be their only solution. So
+3:50
+so yeah uh when we talk about agents uh agents take inputs that can be the
+3:56
+prompts that you give to the agent they take the tools that you give to the agent and think of knowledge bases that
+4:03
+you supply to the agent. tools can be uh APIs, access to MCP servers, access to
+4:09
+databases uh and maybe humans in the loop can also be a tool, right? So you give all of
+4:15
+them to an agent, you give the intelligence using the large language model that you choose and let the agent
+4:21
+run uh let the software run in a loop until the goal is achieved and uh the
+4:27
+then the agent provides the output. Right? So that's how I see that as an agent. And when it comes to payments, uh
+4:34
+these are transactions that agent payments are the transactions that are
+4:39
+discovered by agents. They are initiated and authorized by agents also, right? So which means that you know there's a lot
+4:46
+more under the hood that we need to follow and uh I think we'll discover that as part of the session
+4:51
+and Marcus. Yeah. Uh not much to add here. I think it was good good definitions of what what agents do. Um there was also a
+4:59
+agentic summit yesterday on on this topic. Um and I think there was a lot of
+5:05
+callouts for um agents uh to be built on open rails. Um and there was some data
+5:13
+that the agents that we see today mostly actually for example purchase or engage
+5:19
+in actually digital digital items. So often today agents uh buy uh cloud space
+5:29
+or uh server capacity for you and because of that and because of agents um
+5:35
+code and act on behalf of of you they need digital currencies and therefore
+5:40
+there's a close link between um stable coins and and agents. This leads very well to my next
+5:47
+question. Uh what preference if any do agents have in choosing one stable coin over another? And why can't they just
+5:53
+use normal dollars quote unquote? I think agents probably don't have a preference. The person who employs the
+6:00
+agents maybe has a preference. And one part of that preferences depending on where that person sits that employs
+6:06
+these agents. If they're in US then most probably they would have a preference for uh dollar stable coins. And
+6:12
+yesterday we also talked about most of the large language model companies are sitting in the US. Do we need more than
+6:19
+just dollar stable coins? And I would argue yes, we need more because the users are global and uh if I'm I'm based
+6:27
+in Europe, I want to use uh the euro otherwise I would exposed or my agent
+6:33
+would be exposed to have x risk to to the dollar. Um and the same is true for
+6:38
+many other other regions of the world. And then even for regions where there's
+6:43
+high inflation, where the current currencies are very volatile and maybe people prefer the dollar to hold, if an
+6:50
+agent engages in some form of credit for you, then maybe you also have a
+6:55
+preference for your local currency because again, you would be exposed to have X risk. Vincent, do you see um you have a stable
+7:02
+coin, do you see uh these agents having a preference or choosing a one stable coin over another? Well, I think as
+7:08
+Marcus mentioned, it's really the FX hedging. There is also you have to
+7:14
+consider some of the currencies out there are closed currencies. So, there's a lot of countries with exchange
+7:19
+controls and basically those are the countries that need stable coin more than the countries that have the open
+7:26
+exchange controls, no exchange controls like Japan, Hong Kong, US, uh Singapore.
+7:33
+But yeah, I think it's really um the preference of the person behind the
+7:38
+agent. Um but yeah, it it doesn't make any sense if someone is living in Philippines buying something from
+7:45
+Malaysia and then having to convert from the Malaysian ringit stable coin to US then from US back to right to to uh the
+7:54
+Malaysian ringit stable coin. So there's just too much there. It wouldn't make sense. You would be paying more than you
+7:59
+would a normal credit card transaction. And yeah, maybe I'll add to this right. So right now I see that the humans who
+8:07
+are building the agents have some kind of a you know preference but as we go into the next phase of uh evolution in
+8:13
+software development life cycles we'll see software being created by agents right and LLMs as we see that today. So
+8:21
+uh that's when uh there'll be more uh you know preference for agents that are
+8:26
+more reputable that have uh done x number of transactions right so that's
+8:31
+kind of where we'll be heading into into the you know near future may I'm sorry maybe to add one more
+8:38
+thing probably agents don't have a preference for specific stable coin they also don't have a preference for a
+8:44
+specific chain probably it for the agent it's probably very important that It's
+8:50
+fast, cheap. Settlement times uh are low, gas fees are low. Um and this is in
+8:57
+contrast to what we saw a few years ago where there's maybe Ethereum maxis who just wanted to use stable coins on
+9:03
+Ethereum even though it was maybe expensive or or Solana Maxis or or Celomaxis. I think today it's more
+9:10
+important that basically the settlement layers fast, cheap, uh safe, secure. Yeah, I would just add like I think
+9:16
+there's probably an interesting future where like if you're living in the Philippines or you're living in
+9:22
+Argentina and your currency is experiencing, you know, tons of inflation, maybe you have an agent that,
+9:28
+you know, hedges that away for you automatically and yeah, they they settle in the local currency, but it's holding
+9:35
+in dollars or it's holding in some sort of inflation hedge. Um, so I think that that could like really be beneficial to
+9:41
+a lot of people in emerging markets. And now, um, I'm curious, what are some key challenges, whether they be
+9:48
+security, compliance, risk, regulatory, uh, that is faced when deploying these
+9:53
+agents? I think the one of the challenges is that we're really in the early days and
+9:58
+it's around security. You know, people there are there are people using the agents for the right way, but there's
+10:05
+also the the counterparty, the other side. Um, your agents could be scammed.
+10:10
+So, this is on a spending spree. Yeah. Well, at least you can control how much is in your wallet. You can give it
+10:17
+an allowance. If if it spends over that, it'll it's up to you, right? But I the
+10:22
+the real uh challenge is is that um the credibility of sort of everything that I
+10:28
+think everybody on this stage is building really relies on if there is any potential breaches, hacks that you
+10:36
+know we may overlook or we're relying on third parties to build something that is
+10:41
+hasn't advanced yet to that degree. Yeah, I I agree. Like if you look at
+10:46
+like the X42 ecosystem, you know, there's tons of endpoints, but your agent doesn't know which ones are good
+10:52
+and which ones could be fraudulent or or could inject some, I don't know,
+10:58
+malicious software into your agent or something, right? So I think on the call it the merchant side security is going
+11:05
+to be super important and you're going to have to have like a like a registration layer or something that
+11:10
+certifies oh this X you know X42 endpoint is good this one's bad.
+11:17
+So yeah, so uh we just discussed about what's part of the agentic loop, right? So uh one of the inputs is the prompt
+11:23
+itself, right? So the prompt itself can be hijacked by, you know, maybe the service that's maybe there's
+11:29
+man-in-the-middle attack, the prompt itself could be hijacked. So which is one of the most uh important surface areas we see. Uh the second one is that
+11:37
+we see nowadays that all of these uh large language model uh you know agentic AI coding assistance tools can run for
+11:46
+hours, weeks, right? Days and weeks. So there is a big attack vector surface as
+11:51
+well, right? So how do you prevent that? The next one is the skills uh poisoning,
+11:58
+right? So uh we're in the world where uh we see OpenClaw you know OpenClaw hub uh
+12:04
+had like about 1100 skills that were uh injecting poisonous malicious software
+12:10
+uh available for uh everyone to download and we also see the supply chain attacks where you see the the dependencies like
+12:17
+the npm dependencies or or other open source dependencies that got hijacked and an example in Feb we had client
+12:26
+which is a very popular uh developer velment uh tool got hijacked and uh it was available I mean the the software
+12:33
+was injected with malicious code that would download uh you know malicious code in the users computers and we've
+12:39
+also seen uh recently the tan stack uh had like one of these similar instance and open software also got impacted
+12:46
+right so there's a multiple surface uh vectors but how do we also safeguard
+12:52
+maybe at this point uh going a little bit deeper right so the agent loops can be poisoned but how do we go a a little
+12:58
+bit deeper. So that's I think where AWS recently launched the payments uh you know what's a service that uh uh it goes
+13:05
+beyond the uh non-deterministic loop right so there should be a a place where there is a nondeterministic loop where a
+13:12
+LLMs are doing this processing and where there should be a determinism in which there's a policy engine that will look
+13:19
+at every single execution and understand whether it's allowed whether it's authorized uh to execute the transaction
+13:25
+and that's uh what the core of fundamentals of that software uh services
+13:31
+and Marcus any thoughts on the risk that agents face and people deploying agents face? I mean, especially in the
+13:37
+blockchain space, we have already years of experience with like hacks, with like
+13:43
+fat finger rates, with uh like all of the things that could go wrong when machines trade. And in the
+13:50
+end, Abidra in the space or market makers using are using um code to execute
+13:58
+trades uh for years now. And I mean uh I think in the end as Anil said depends on
+14:04
+the policies and uh on uh the guard rails that these agents have where they
+14:10
+can execute what what um what they can do and what they uh can't do. Um so I
+14:17
+think yeah there are huge risks but uh many of them and many of these mistakes
+14:23
+we've already made in in the past years. Yeah. And Anne Neil, I have this one to you because at AWS, I'm sure you have a
+14:30
+lot of businesses using you. So I'm curious, what impact do agenic payments have on existing business models and how
+14:36
+can businesses build for these new actors of commerce? So at AWS, we provide like the
+14:43
+foundational services uh like the infrastructure services like uh databases uh you know networking uh like
+14:50
+you know those are all the foundational services that we provide storage right so name to name a few of them. Now we
+14:56
+made the payments as a native service that's available right. So think of if you think of S3 or lambda right the
+15:02
+compute is one of the foundational services. So now payments has become a foundational service that is available
+15:07
+for enterprises to consume and uh with the explosion of agentic AI all the
+15:13
+enterprises that you know that we work with all the startups the small business uh you know small large businesses are
+15:20
+also investing a lot in the AI space which means that there is a a compute layer that is uh inherently like going
+15:27
+through a lot of adoption serverless compute for example networking so because they need security at all layers
+15:33
+of the stack Right. So that's kind of what we see happening here today. But uh to answer your question on the payments,
+15:38
+right? So all these agentic uh autonomous loops break when they see like a payment wall. And now with X42 in
+15:46
+there, like that's kind of where we see that there is a need for uh X42 be to
+15:51
+become part of the stack. And we've created SDKs where enterprises can use the SDK, build on top of the SDK and get
+15:58
+the guard rails that AWS can provide at uh foundational layers uh as such right.
+16:04
+So we also have software that uh you know think of the operating system for agents which is like agent core. So if
+16:11
+you have thousand people in the room and they hit like this service, every one of them will have a micro VM that is spun
+16:18
+up which will process the individual request which can be up for 8 hours and
+16:23
+uh the you know which means that you know there is a large surface for you know compute to happen agents can do the
+16:29
+processing so there's a lot that's happening today and uh we are already you know building products in preview
+16:35
+that can support this right. So yeah, uh Vincent to you, how do you see agents and agentic payments affecting existing
+16:41
+business models? So I've been part of a few roundts with um different uh policy makers. Um of
+16:48
+course, one of them was at the Hong Kong earlier and other currency other countries they're
+16:54
+really asking themselves, do we really need stable coins and what is it used
+17:00
+for? What is the use case? And most the answer is always involving payments. So
+17:07
+um you know with that they're they're really looking at how the cor their corporations and
+17:14
+businesses are going to use this tool to actually be more effective but at the
+17:21
+same time these businesses you know are also subject to different types of risks. Um I think the way that
+17:27
+businesses is going to use these agentic payments is that it's it's now 247. It's
+17:33
+not there's your agents don't sleep and um but there's also the the the flip
+17:40
+side which is you're going to be losing a lot of manpower to agentic agents. So
+17:46
+that's one way that I think businesses will benefit. I would just add like I think I think
+17:52
+you know speaking to like business models and and this has been mentioned obviously before um I think Mark Andre's
+17:58
+big on this point but I think it's going to change the fundamental business model of the internet from from subscriptions or SAS to to paper use right I think
+18:05
+that's what a lot of people think are coming and and I can see it because why
+18:10
+spend $100 a month for your anthropic or $200 a month for your anthropic you know
+18:16
+subscription when maybe you don't use that much or or maybe you're using more than that and Anthropic's missing out on
+18:22
+profit, you know, so the paper use kind of changes the whole the whole game and then it just enables a lot of economic
+18:29
+activity on the internet that that just doesn't work today. Um, so I think that's probably going to be the biggest
+18:34
+shift. Yeah. And there's so many business cases also around like micro transfers which
+18:42
+are now with stable coins and more efficient rails um possible that can
+18:47
+enable a lot of different interesting use cases from draining even training these algorithms and incentivizing users
+18:55
+and people to do that uh to yeah distributing microp payments for for
+19:00
+different things. Then of course all the trading use cases also change. Uh agents
+19:05
+can for your business constantly check your FX exposure and if you want to even
+19:11
+rebalance your FX exposure. I think this is something that can make many businesses really really efficient.
+19:17
+We've been talking to a bunch of mobile carriers for example um that are
+19:23
+constantly exposed to to FX in in a way that every time when someone roams and
+19:29
+and basically pays a mobile carrier then maybe also in different currency um they they need to adjust their their position
+19:37
+and um being able to to hand this to agents that can do this real time
+19:44
+because there's uh yeah no effort in doing this every second instead of I
+19:49
+don't know at the end of the business day um already uh changes uh changes the
+19:55
+game and then I think also with stable coins and with stable coins and
+20:01
+different currencies you now have these markets these FX markets open 24/7 and
+20:06
+you can allow your your agents to to engage in these markets 24/7. So I I
+20:11
+think there's so many many things that that are changing in in changing the business model. um which is quite
+20:18
+exciting. Yeah. Something I've heard mentioned on the stage multiple times is uh X402. Uh
+20:26
+I'm curious for those who may not know what it is in the audience, can you define what X42 is and how uh businesses
+20:33
+benefit from it? Um to Philip. Yeah. Uh so my understanding is that you
+20:41
+know the 402 uh request was left open I guess at the start of the internet right
+20:47
+and it was always a payments like protocol uh but no one I guess did anything with it for all these years and
+20:53
+finally Coinbase kind of started said hey why don't we use this for for uh
+20:59
+payments um and it kind of spun out of there and and has taken a life of its own. It's it's it's awesome. I mean I
+21:05
+think in my mind it's like why can't every e-commerce transaction be an X42 endpoint or something right? You know it
+21:11
+it really kind of widens the aperture of like what agents can do and what what economic activity on the internet means.
+21:18
+Yeah there's 402 there's MPP I'm cur is like are they just different standards and
+21:23
+yeah I mean I I think they're basically the same one's on tempo one's on on bass or whatever on EVM.
+21:30
+Uh anal to you. Yeah. So uh when we talk about X42 right so there is a server like we talk about
+21:36
+agent e-commerce there is a buy side and a sell side always right as part of commerce. So the seller side which is
+21:42
+trying to monetize on the data assets that they have or the API services that they provide they expose an endpoint
+21:48
+that is uh 402 capable you know that can transact and accept payments microp
+21:53
+payments. So uh when the client uh receives that response back that the
+21:59
+server is expecting a payment, it signs an authorization and says hey I'm authorizing that a transaction can be
+22:05
+done and I'm attaching that as a part of the header right the authorization itself. So the server will then say hey
+22:12
+okay now I have a response that the client is sending back and saying that uh this is the authorization let me ask
+22:19
+a facilitator to settle the transaction on chain and then uh confirm that it's
+22:25
+settled so that I can release the response back to the client who's requesting for the service right so
+22:31
+that's how I see that the full loop happens so there are multiple parties but one thing to note is that the uh
+22:37
+facilitators are the ones who are making the transactions and when we go into agentic loops, right? So, we should
+22:42
+always note that the agents should not actually hold the payments, right? So, it should be always part of the the
+22:48
+guardrails that uh enable the agents to transact. Uh Marcus, any thoughts on X42 or MPP?
+22:56
+I mean, in the end, I think it's good that there's now more and more of these standards that basically people can
+23:02
+agree on because then these economies can can grow. Um and in general in that
+23:08
+space we we see this now finally taking off because now many things happen at
+23:14
+the same time. You have with X42 and other standards you have basically a standard forentic payments. You have
+23:21
+more efficient payment rails with like low gas fees and fast chains. you have
+23:28
+uh even yeah now more advanced uh regulatory clarity in in many regions of
+23:34
+the world that you can actually engage agents for you to engage with stable coins uh here in the US a genius in in
+23:41
+Europe is Mika and and there's many equivalents around the world and I think all of this coming together is is is
+23:47
+good that this economy can now grow and maybe just to add there right so uh we see that as X42 is evolving and
+23:55
+adoption speaking up all All of these transactions are like you know going to be uh million scale transactions subsent
+24:01
+transactions. So uh when the scale increases maybe there could be a human in the loop that could be uh you know
+24:08
+hey if there's a payment that is requested for more than a certain amount or it exceeds certain transaction volume
+24:13
+or dollar volume maybe the human in the can be called invoked to say hey are we authorizing this to act furthermore. So
+24:21
+yeah, uh Vincent, I'm sure you've seen a lot of adoption of agents using stable coins
+24:26
+across different regions. Um when it comes to agents, are there particular industries uh and geographies where you
+24:32
+see the most adoption of agents and agendic payments? If so, which ones? And can you site examples?
+24:38
+Well, I think right now the industry really um that will benefit most from the agentic agents, it's the e-commerce
+24:44
+space. Um there's a lot of there's a lot of uh e-commerce companies now that are
+24:50
+really posing for position and if that opens up to global consumers. Um second
+24:57
+of course there's also the uh yieldbearing side of it. People want to generate yields. Uh our focus is really
+25:04
+on the emerging markets. We think that the answer for the unbanked, which I'm
+25:09
+sure a lot of you guys have been, you know, hearing for many, many years, but with the combination of blockchain with
+25:15
+stable coin and now with the AI gin, I think the the answer is really here now.
+25:20
+Um, providing somebody making, you know, equivalent to $100 a month, being able
+25:26
+to put aside $5 and start creating a financial footprint via different
+25:33
+ways. uh albeit vaults or or just buying crypto and and waiting for appreciation
+25:40
+on that. So there's there's different parts but I think um yeah I mean we can
+25:46
+go on for hours on where the use cases are but those are the ones that I think um I'm more passionate about.
+25:52
+Yeah Marcus uh what use cases have you seen? So on Cello we've seen in the beginning a lot of uh agents in either
+26:00
+the trading space or agents that in some way engage in uh digital assets let's
+26:06
+say uh and digital assets cannot is not only uh does not only mean um crypto
+26:12
+assets it could also mean digital asset like um for example server capacity
+26:17
+things like that but we're now actually also seeing more and more projects coming up in the e-commerce space for
+26:25
+example We see, for example, across Africa interesting uh interesting projects that employ uh chat bots inside
+26:32
+different messenger apps that for example go and buy airtime or data for you um and choose the cheapest provider,
+26:41
+choose the cheapest stable coin uh and and and then uh handle basically your
+26:47
+data management for example. So there's a bunch of interesting also let's say
+26:52
+more retail focused applications that are just now coming up. Uh Philip, what use cases have you seen?
+26:59
+Yeah. Uh the I guess the the the famous one was the SpaceX S1 where they did
+27:05
+like the what was that? So I guess someone paid their agent like a dollar and a few cents to read the
+27:12
+SpaceX S1 and then do like a very detailed like investment committee memo.
+27:18
+um breaking it down, right? Uh and it only cost him like a little over a buck. Um but in that, you know, process, the
+27:24
+agent had to go out and do a bunch of like microtransactions. So, I think that's obviously super interesting. But when what you were talking about,
+27:30
+Vincent, is like in in emerging markets like enabling that person that makes $100, you know, to have $5 of onchain
+27:38
+credit or something like that that that changes their life or it can really help them. So, I think that's a really interesting use case. And then I also
+27:44
+think B2B is going to be real big and agentic. Like if I'm a construction, a home builder and I'm, you know, have to
+27:51
+get cement from some other country. I mean, I think in the future your agent will just talk to the cement manufacturers's agent and they'll
+27:57
+negotiate a deal and they'll pay in stable coins and then FX risk is hatched and the
+28:04
+cheapest rail is chosen and so on. Mhm. And maybe a different uh different view
+28:10
+of this is I I'll talk it from the talk about this from the industry's perspective because uh we see this uh
+28:16
+adoption in various industries, right? So for example ads, right? So adex where
+28:21
+you can uh you know ads can be published using agents or can be consumed. Now if
+28:26
+you look at uh the normal consumption, right? So when we walk through the New York lanes, we see billboards, but now
+28:32
+agents are not looking at those billboards, right? So they're looking at uh APIs that are more reliable, right? So we see uh across different industries
+28:40
+like maybe healthcare like can can somebody make a healthcare appointment or can a travel and hospitality industry
+28:45
+right the flight reservations can they be made by agents can they be uh negotiated by agents uh you know so
+28:52
+there is there's different industries but one thing that uh was very interesting was of uh manufacturing where robotics are now picking up and uh
+29:00
+uh I s I saw came across a use case where uh they're trying to say hey there are a number of robots
+29:07
+uh each attached with a payment tag and see which one actually performs well and
+29:12
+be able to figure out if they can give more tasks to that robot and encourage or let the other robots fight. Right.
+29:18
+So, so I've seen that use case strings the loop in the real world. Exactly. So, uh I mean those that's one
+29:24
+of the steps in the evolution but yeah uh Marcus I want to ask about the opportunity that exists with agents and
+29:31
+agenic payments. Uh how big can this get? Uh, and can you site numbers or any
+29:36
+statistics or just lay out your vision for it? From my perspective, and this bit of a
+29:43
+bias because I talked about FX the whole day, so I I'll stay in that area. I
+29:49
+think that can grow really really big because if you think about the
+29:55
+addressable market, it's in the end infinite. Um the the markets for the
+30:00
+market for currencies uh is the largest market in the world and is 7.5 trillion
+30:06
+dollars are traded in FX every day estimated by the bank for international settlements and uh this market is still
+30:15
+mostly on old rails uh which means it's not 247 it's not accessible everywhere
+30:22
+um there's a bunch of like mistrades happen and this in in the largest market in the world and just like being now
+30:29
+able to bring a large part of this market on chain, make it 24/7, make it accessible everywhere in every country
+30:35
+and then actually have agents that can hedge your FX exposure for you as a corporation that can make all your
+30:42
+global purchase for you as a as a private person. Um, I think that has a
+30:48
+huge potential and and and actually can can change a lot in in in financial
+30:53
+markets. Uh, and to you Philip down the line. I agree. Um I think it definitely has huge
+30:59
+potential. The one thing the caveat that I would just mention is I think currently like e-commerce is huge,
+31:04
+right? But a majority of retail commerce h happens actually in store in inerson
+31:10
+retail, right? So I think it's like 70 75% of of of transactions. Uh so agentic
+31:17
+commerce probably won't take that away. So uh but maybe it'll it'll shrink what what that means or maybe it takes it
+31:23
+all. I think in person in store retail will still be a thing. Up to you Vincent.
+31:28
+We're already seeing I think 50 over 53% of the US business is already using uh a
+31:35
+AI agents and I think McKinley also projected $1.5 to3 trillion dollars of
+31:42
+e-commerce orchestrated by agents by the year 2030. So those numbers are real
+31:48
+numbers and I think the the opportunities are just endless. Um, of course, this, you know, a lot of
+31:54
+governments don't want to hear that because every government is looking at the risk currency uh flight
+32:00
+and it's just hard to keep this this technology this industry down. Um I
+32:06
+think this is going to be an huge like I mean this is the year of the agentic
+32:12
+agent right? So yeah uh from uh a different vantage point we see that all
+32:18
+many customers right or I should say most of the customers uh of of AWS are definitely investing on agentic AI
+32:26
+architectures uh to streamline their processes and to bring in efficiencies right so that's uh
+32:32
+definitely uh something to be taken for now on the payment side you know we we
+32:37
+spoke about uh X42 so X42 has like $50 million uh you know worth of
+32:43
+transactions or 170 or 175 million transactions uh
+32:48
+that have taken place all sub uh second around 200 milliseconds right so again
+32:55
+today most of it is happening on USDC uh on base 98% of the transactions have
+33:02
+happened on base because of the latency benefits out there but as soon as uh
+33:07
+fiat trails are available uh you know the support becomes more native uh there
+33:12
+will be more of uh explosion for this next steps here in payments.
+33:17
+So, TLDDR, it's going to be big. It's going to be real big. Um now, if people
+33:22
+want to learn more, engage with this topic, go deeper on this topic of agents and agenic payments, where should people
+33:28
+go and what do you use personally to keep up? Uh I'll start with you Neil and we'll go down the line. So, we are always uh following Xplatform
+33:35
+for the latest updates of everything that's happening around. So, that's one thing for sure. uh AWS has uh like a a
+33:42
+news blog to keep up to speed on what we make uh available uh for our customers
+33:48
+and I'd say that is one place to check it out. Um and for the builders out
+33:53
+there, you know, there is uh Twitch uh streaming that's available. There's Twitch streamers. Twitch streamers,
+33:58
+agent Twitch streamers, that's new. Twitch streamers, you know, for sure, right? So, I mean, I have like another show as well. It's called the show show
+34:04
+and tell and you can find a lot of videos on agenti that uh we make it available but one thing I'd say is there
+34:11
+is something called agent core which is a a foundational service that makes the build of agents possible to allow you to
+34:18
+uh bring your agents in a matter of minutes with all the security guardrails
+34:23
+uh that are available the foundational security guardrails and we see security as day zero at AWS right so you may want
+34:29
+to just check those resources out and yeah that's about to you Vincent. Uh, our agent of choice is Claude. So,
+34:37
+we've been training a lot of our staff how to use use it properly. I mean, including myself. So, I guess I got to
+34:44
+go back to school. Yeah. I mean, I would say um, you know,
+34:49
+I think obviously, you know, cryp uh, crypto Twitter or X is is where I go. Um, but I would just say, you know,
+34:56
+download Hermes or OpenClaw and start messing around. Like that's really how I learned. Um, and I've somehow got, you
+35:03
+know, I used open router and got the, uh, agent connected to my telegram and now I can talk to it on Telegram and
+35:08
+it's all free. I don't have to pay Claude. It doesn't work as good as Claude, but um, but yeah, just start messing around with it. It's pretty fun.
+35:15
+So, in the end, if you want to learn about agents, ask an agent to teach you and you know, that's the amazing thing with AI. If you
+35:22
+just ask your directions, it'll tell you it'll tell you how to use it and how to use it to its fullest potential. Um but
+35:28
+yeah with that that was all my questions. Thank you so much.
+

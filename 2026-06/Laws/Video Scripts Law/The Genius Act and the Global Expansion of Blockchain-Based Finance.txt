@@ -1,0 +1,1541 @@
+
+Search in video
+0:01
+[Music]
+0:08
+The topic here we're going to stay on sort of the payments part of this. The afternoon panel is going to focus more
+0:14
+on the financial stability and other more profound issues. So uh we're really
+0:20
+going to talk now about how given everything you've heard uh how do we think this whole industry is going to
+0:26
+evolve and will stand points really become a major part of the dominant part of of the world payment system. Let me
+0:31
+introduce our panelists. Uh Andrew, where did Andrew go? All right. Uh
+0:37
+Andrew Dresnner is a managing director of corporate strategy at for Fifth Third Bank's commercial payments unit. Before
+0:44
+joining uh joining fifth third uh Andy was a partner McKenzie's uh payments practice also I believe Oliver Wyman and
+0:52
+he was head of integrated payment strategy at JP Morgan where he was the point person on the foundation of zel
+0:58
+which is one of the real-time payment systems that you're all probably using here in the US. Um Will Will Will Peek
+1:06
+uh serves as head of digital assets at Wisdom Tree where he oversees Wisdom Tree's crypto stable coin and real world
+1:12
+asset tokenization initiatives including Wisdom Tree Prime a direct consumer app
+1:19
+and Wisdom Tree Connect a business to business and B2B TTOC platform. Finally,
+1:25
+Alejandra Martinez is a partner at the uh venture investment firm Foundation Capital. She focuses on crypto and Latin
+1:32
+American fintech startups. Prior to foundation, Alejandra worked at two other VC firms. Rucker Park Capital and
+1:39
+Room 40 Ventures. And she also uh co-founded Terrasa Collective, a female angel group that aims to increase the
+1:46
+representation of women across cap tables and founding teams. And lastly, Josh B, who we've already met. So, um,
+1:54
+unfortunately the setup here makes me feel like a game show host, but um, uh,
+1:59
+there are no prizes, however, I'm sorry to tell you. Um so uh let me start off by uh saying that everybody in their
+2:07
+mother seems to be launching or contemplating launching a Genius Act stable coin or an integration into
+2:12
+existing uh stable coin blockchains including big domestic names like Stripe, PayPal, um Bank of America and
+2:20
+Fiser which is a big four provider for um the banking system and even the
+2:25
+international bad boy Tether is coming into the regulated fold and starting one up with Anchorage Digital Trust bank, an
+2:32
+OCT chartered national um trust bank as the uh issuer of the stable coin. So,
+2:38
+let me start with Will and say, you know, given what we've heard and what you're seeing, what's your take about
+2:44
+how stable coins are likely to uh change the existing structure uh and lineup of
+2:49
+players in the global real world payments industry after the Genius Act? Will they break out meaningfully or is
+2:55
+this something that will happen slowly? Thanks, Todd. Good morning, everyone. Uh, as Todd introduced me, Will Peek,
+3:01
+I'm head of digital assets at Wisdom Tree. Uh, Wisdom Tree is a global asset manager and ETF sponsor. So, I really
+3:07
+come at this from the capital market side more than the payment side necessarily, but have some good insight
+3:12
+into the payments. I am the we issue a stable coin out of a uh trust company. I'm actually one of Josh's clients down
+3:19
+there, so be nice to me, Josh. Um, and um I'm the CEO of that entity. Uh, so I
+3:24
+I think I have a good amount of perspective on this topic. You know, I disagree slightly with some of the things Ben said earlier. It is
+3:31
+interesting to me how much we talk about stable coins at this point. To me, it's just another form of non-bank money. And
+3:37
+we see non-bank money in lots of places. I I don't think we did these types of events when Venmo came out, for example,
+3:44
+right? And and I view that as kind of one of the best examples of like kind of what stable coins are doing, but just a
+3:49
+different database on which that liability, right, that dollar liability travels around. And you can see some of
+3:55
+the good examples of that. I'd actually, you know, last week I played in a poker game with some colleagues. Uh, four of
+4:01
+them were US residents, one of them was Australian. Uh, so when you settle up at a poker game these days, right, what is
+4:07
+everyone using? It's obviously Venmo, right? I send them an invoice or they pay me money and no one's carrying
+4:12
+around cash in those small enough increments. Uh, my Australian friend uh and colleague does not have Venmo
+4:18
+because he's Australian. And so what did we use to settle up? we used stable coins where he sent me directly from his
+4:24
+Coinbase account to my MetaMask the transaction that he owed me. Uh and so I think you see some of the advantages
+4:30
+that you might have there for that, right? Kind of a standardization of how people can interact and exchange value.
+4:36
+And um in my example, right, it was very easy. I just had a my own MetaMask wallet. It was really within my control.
+4:42
+And I think that's something that's missing from this conversation where if I'm on Venmo or RTP and no one's using
+4:49
+RTP within my BFA account, right? Like that's just impossible to use. There's real value from being able to send and
+4:55
+receive money directly to people's wallets in this sort of self-s sovereign way. And there's all the other AML and
+5:01
+other checks that happen on a different end, right, where I'm unable to do that if I was like on an OFAC list, for
+5:07
+example. So I I do think there are that's just a small example but I I do think there are real advantages that
+5:12
+come with stable coins in certain use cases and um I think the Genius Act is
+5:18
+just bringing this on a level playing field with the rest of forms of u you know other forms of money non-bank
+5:23
+money. So that's my take that makes a lot of sense. Um, so do you think the idea of a a multitude of
+5:30
+stable coins issued by different actors is practical since interoperability is really the critical
+5:37
+question for any payment system. It has to be able to move anywhere to anyone. Your example of how you use MetaMask
+5:43
+being a a new way of doing that. And do we think that um payment rails are inherently monopoly or duopoly
+5:51
+businesses? The joke I always make is it, you know, Sean Connory voice is can there be only one or is it possible that
+5:57
+we can have all these different issuers that make this work? I think that's a good question. I think we're going to see I I don't know that
+6:03
+there's going to be hundreds of stable coins in the future. I think that just raises different questions of interoperability between them. I I do
+6:10
+think you're going to see more. Right now, it's just like Tether and Circle, which is the preponderance of assets, right? and those are primarily serving
+6:16
+crypto use cases. But Tether, this Costa Ricanbased offshore entity that is now
+6:21
+welcomed back to the United States, has um you know taken in um they launched the first stable coin probably I guess
+6:28
+seven eight years ago at this point. Built like an incredible business uh doing that makes a ton of money on very
+6:34
+little people. Um I I do think you're going to see more than just tether and circle. I think there is a question
+6:40
+though of how the ability to move between these things and the fungeability right now what's different
+6:45
+than commercial bank money is that like there's no guarantee that somebody who accepts USDC is going to accept tether
+6:52
+and vice versa. It's just different than how US commercial bank money is fungeable across different banks, right?
+6:59
+And so, um, maybe that's not like the perfect example, but clearly something's going to need to shift there for these
+7:04
+two, or there's just going to be a real network effect around a few of these. Andrew, what do you think about this? I
+7:10
+mean, this is sort of the critical issue in terms of the functionality of these things. Yeah. I I think we need to and first of
+7:16
+all, everybody should use for your poker game. Um, because it does settle directly into your bank account and, you
+7:22
+know, and I invented it. Um but but anyway um
+7:29
+we we're we're conflating interoperability with standardization.
+7:34
+And if you think about almost every other payment system we have in the US domestically and many of the ones we
+7:40
+have cross border we have multiple payment systems coexisting. So Visa and
+7:46
+Mastercard are not interoperable. They're not interoperable with American Express and they're not interoperable
+7:51
+with Discover. what they are is standardized, right? They all operate on the same ISO standard message format.
+7:58
+Um, and they have a set of rules that they follow and they have a standard setting organization called the MVCO
+8:03
+that allows them to be used in the same way at the same venues. And then we have
+8:09
+a set of intermediaries who allow the end users like merchants
+8:15
+in particular to accept any of them using the same terminal. It's not that
+8:21
+way in every country. Uh in Japan, every issuer had their own terminal at every merchant, right? And it was only later
+8:28
+in the recent past that intermediaries emerged, gateways that allowed the
+8:33
+merchant to operate one of these gateways, have a single terminal, and still accept all those cards. When I was
+8:39
+growing up, every merchant had an American Express terminal and a Visa Mastercard terminal, right? This was
+8:45
+not, you know, this is in living memory for me at least. I'm old. Um, so if the
+8:51
+if you take this to the stable coin world, right, I I think what you said is exactly right. It's if there are enough
+8:58
+use cases that justify a bunch of ecosystems that can support independent
+9:05
+stable coins. There's no reason they can't coexist. If you want to make them a general purpose tool, what you need to
+9:13
+do is standardize them. And the Genius Act does have language in it to provide standards for uh this kind of
+9:20
+interoperability or interchangeability maybe is a better word. And we need to evolve intermediaries who can exchange
+9:27
+one stable coin for another um in cases where they're both accepted by the same merchant. Um and those are starting to
+9:34
+emerge as well. In fact, I was at a Foundation Capital uh presentation a few months back and several of the startups,
+9:41
+that's what they were focused on was that um interchangeability between
+9:46
+different blockchain protocols. So, um you know, we're not living in an
+9:52
+interoperable world today in virtually any system I can think of. Uh Ben's real-time payment system does not
+9:58
+operate with the new Fed Now system that the government has. Chips does not interrupt right with wire. um you know
+10:04
+on and on and on. There's at least six real-time payment systems in the US. It's not just that now and RTP. It's
+10:11
+also the Visa, Mastercard, um Visa Direct and Mastercard Send, arguably
+10:17
+same day a zel and you know even arguably Venmo and Cash App are
+10:23
+effectively real time for some use cases. So you have to just change the
+10:28
+way you think about this and I think the question of does there have to be one needs to be separated from do they have
+10:36
+to interoperate. Um there only there's probably going to be one or two or a handful in any use case but there can be
+10:43
+a diversity of players across the use cases. Interesting. Um Josh have anything to
+10:50
+say about that? Sure. Um a few additional thoughts. I think it's important to disting to distinguish between stable coin issuers
+10:57
+and stable coins. Uh in answering this question, I think uh I think we will
+11:02
+likely see a number of different stable coins out in the market for some of the reasons uh that that were mentioned
+11:08
+earlier about different ecosystems uh desiring their own stable coin that's
+11:13
+branded for their ecosystem that can be used as a means of payment on a platform that's uh dedicated to some other uh
+11:21
+commercial purpose. Um but those platforms may not want to go to the all
+11:26
+the trouble of setting up their own issuer. Um as was discussed earlier, it's expensive. It takes time to get
+11:32
+charter, to get licensed, to run that EML program, to do all those other things. And I think an instructive
+11:38
+analogy here is what already exists with um with prepaid card programs. You have
+11:44
+bank issuers of those programs, but then they're they would engage with a number of different uh corporate program
+11:51
+sponsors that, you know, this is all in the kind of analog plastic sense, but those cars could be branded with the
+11:58
+name of the different corporate sponsors and used by employees and others uh in those environments, but it's the same
+12:04
+bank issuer under multiple uh of those different programs. And I think um at
+12:10
+least in some aspects of this market, you'll see something like that develop in the stable coin space where there
+12:16
+will be um a certain number of issuers that serve different ecosystems. And another driver of this will be some of
+12:21
+the issues we talked about earlier around how the economics work. Um, if you just had a very small number of
+12:26
+stable coins that just kept their own brand, um, then certain ecosystems might
+12:33
+want to have more of those economics. And being able to have their own bespoke deal with an issuer, uh, where they have
+12:39
+their own branded stable coin uh, could in theory enable them to say, well, we want to split the float or we want to
+12:45
+have some other sort of economic arrangement around that. Again, akin to what you already see in um, existing
+12:53
+payment programs. Um, today on the interoperability point, I think that's a separate question. That's just that's a
+12:58
+technological issue of what blockchain or blockchains the stable coin is based
+13:04
+on. There are a number of different blockchains. It's an issue that um market participants are sorting through.
+13:10
+Uh my my guess is there will be solutions to that. There will be bridging providers who will abstract
+13:16
+away some of those issues and have technological ways for stable coins to be uh moved between chains in a way
+13:23
+that's abstracted away from the user and even abstracted away from uh the merchants uh or the issuers.
+13:29
+Andre, how do you think about this in terms of the investor viewpoint? Is this going to be dominated by a few large
+13:36
+players or is there room for a variety? And where are the profitability points? I think when you have profit margins and
+13:43
+so much money going into companies like Tether, I think they made over $5 billion in profit. I think it might have
+13:50
+been already in the first half of this year. People will want a cut of that particularly in a market that's growing
+13:57
+like 70% yeartoyear. And I think the equivalent of payment gateways are
+14:02
+already surfacing for stable coins. So um we have a portfolio company for
+14:08
+example that's called Braille and what they do is they're working with this longtail like they will help with the O
+14:14
+they have their OC charter um they figured all the regulatory stuff and so
+14:20
+they'll expedite the process for any company really to launch a stable coin they have uh their agreements with with
+14:27
+these companies and they'll tell the companies I'll help you launch a stable coin I'll also make sure that it's
+14:32
+operable in x amount of chain which is the other component. So they kind of remove the decision from the company of
+14:39
+do I launch on Solana, do I launch on base, do I launch on do I make it uh EVM compatible etc. And so um they take
+14:47
+those problems out of the companies while they leave the issue of acquisition into bringing the customer
+14:54
+on the customer to the actual company itself. And so the company makes money
+14:59
+yet doesn't have to deal with all this very complex backend uh technical issues
+15:06
+that basically make a stable coin interoperable or not because if not then
+15:11
+uh we're talking about more simple systems and we lose a lot of the actual value that stable coins bring to the
+15:17
+table. Great. Um so uh we'll come back to this investment issue as we move forward but
+15:24
+um you know the big question always is uh are the successful people going to be
+15:29
+the ones who sell the fix and shovels to to folks who are uh in this business or are they going to be the core businesses
+15:36
+of issue um that uh end up with the investment. So um let's talk competition
+15:41
+a little. Um, you know, there's a lot of talk about some of the bank consortia like like TCH um or early warning system
+15:50
+which is behind zel creating a set of bank stable coin rails uh directly
+15:56
+connected to the existing banking system and so one question is why don't US banks just create the whole space with a
+16:03
+collective inter you know collective stable coin which could be used through existing banking relations didn't work
+16:09
+for for Will's situation all that Well, but uh for you know the vast majority of
+16:15
+payments would be fine. I'll just use my bank account and go over a stave coin. Um you know, so why aren't banks doing
+16:22
+that right now given uh their fear that stable coins are going to disrupt the
+16:28
+deposit system over time and and affect their core businesses. So let me ask starting with uh with Andy um and then
+16:36
+see what other people have to say about it. Yeah. So uh you heard uh Ben Isacson earlier make a distinction between
+16:41
+domestic payments and crossber payments. And in terms of the domestic market,
+16:48
+there really is only a few dimensions where stable coins add anything to the plate over the real-time payment systems
+16:55
+that we already have. RTP and Fed Now um they're both 7x 24x365.
+17:02
+They're really cheap. Uh they connect all the banks directly, etc., etc. So
+17:07
+the need to layer a stable coin on top of that would only be for domestic would
+17:13
+only be for the things that are different about stable coins. And the two things that, you know, we typically
+17:19
+talk about that are different enough about stable coins that they might have a use case beyond typical bank real-time
+17:26
+payments is the smart contracts that Ben talked about earlier, which are a
+17:31
+theoretical uh miracle, but not actually used a whole lot in practice in the real world.
+17:38
+And then infinite divisibility which means they could be used in very small quantities to do transactions between
+17:46
+let's say agents you know autonomous agents on the web who might need to buy services from each other in fractions of
+17:52
+a penny. Uh you can't do that with any conventional payment method but you could do stable coins. But both of those
+17:59
+two use cases smart contracts and infinite divisibility just don't exist today in the market.
+18:05
+They will eventually, but they don't today. So, I think the, you know, the reason you don't see this for domestic
+18:11
+is there just no need above what a real-time payment is. Real-time payment costs four cents, that's the switch fee.
+18:19
+There's no reason in the world that if stable coins suddenly started taking share because they're cheaper, that they
+18:26
+couldn't cut the price to a penny. I mean, there's lit. It's an arbitrary number that has been put out there. So
+18:32
+when you start going through all the features of stable coins that make them attractive, they're just not that
+18:37
+attractive domestically. Cross border, they're really attractive. They solve a lot of problems that conventional
+18:44
+payment systems um don't have can't solve. And um so I do see them doing it.
+18:52
+But the problem is, and Ben said this earlier as well, there's half a dozen banks in the US that care about crossber
+18:59
+trade. um the big three, you know, uh the the two big trust banks, State
+19:04
+Street and Bank of New York, Melon City. Um so if you look at you can look at it
+19:10
+in call reports and other sorts of public documents. The other banks, including our own, just don't do a lot
+19:16
+of crossber activity. And when they do, they typically go through one of those six. So there's only six that really
+19:22
+have a stake in um in doing this in a crossber environment. And so when you
+19:29
+talk about the banking industry, it's really those six. Um, and as you know,
+19:34
+JP Morgan has a stable coin, JP Morgan coin, Bank of America has a stable coin. I'm sure City is developing one, Bank of
+19:41
+America, etc. So they will use those coins in their own little islands to
+19:48
+move money between their corporate customers. And virtually every large corporation in America goes through one of those six guys when they're doing
+19:55
+crossber traffic. And most of the world's economy also goes through, you know, those banks. So, you know, they
+20:02
+may adopt on us stable coins just to make it easier and not have to deal with all the hops that Japan talked about.
+20:09
+Um, but it's not the industry, right? Our bank will never have a stable coin, I think. Um, we're just too small and
+20:16
+we're just too domestic. Even though we're gigantic, right? We're top 10 bank. We've got 250 billion in assets by
+20:22
+any standard. we're big, but there's no use case for us for a stable coin in our domestic activities.
+20:28
+Really the um you know the the risk for the banking system here really comes from this yield question which we'll get
+20:33
+to later because you know using maybe city as an example um you know a huge part of their profitability comes from
+20:40
+that deposit pool that they have tied to all those large corporate payments those things. So I think um uh you know
+20:47
+payment functionality is perhaps not the issue that should be concerning them as much as it is. What about um uh
+20:54
+tokenized deposits? Josh, you you know um presumably get asked about this a lot. Uh tokenized deposits is is a
+21:02
+blockchain form of existing deposit functions and many ways looks just like
+21:07
+stable coins for some purpose. Um thoughts? Sure. So first of all, I think it's
+21:13
+important to distinguish what is a tokenized deposit versus a stable coin. And in a very basic sense,
+21:20
+a stable coin, it's a a claim, a dollar claim on the issuer, and that issuer has
+21:26
+to hold this those permitted reserves. Uh like like we talked about structurally, it's very similar to a
+21:31
+Venmo balance. Um it's I mean it's it really historically has been regulated the same way. It's just a blockchain
+21:36
+based token and it's past portable. Um, a tokenized deposit quite literally is a
+21:42
+blockchain based representation of a bank deposit. And uh to your question,
+21:49
+Todd, um the the discussions I've seen around tokenized deposits are among
+21:55
+banks to think strategizing should there be a competitive blockchainbased product
+22:00
+to stable coins and should uh banks adopt such a thing to help in more of a
+22:05
+a defensive uh state of mind. Um those discussions often lead to the same uh
+22:11
+sort of questions that um Andrew was talking about uh around like well what is this just a solution in search of a
+22:17
+problem uh and what what would this actually be used for um domestically?
+22:22
+Some of the early answers um to that question um actually end up relating to stable coins. Um if stable coins really
+22:29
+do uh hit the sort of scale that are being projected, let's say you know one or two trillion dollars in um a matter
+22:35
+of a few years um issuers typically hold some portion of those reserves in
+22:41
+deposits today. Um all in the range of 10 to 20%. That's a big number even if
+22:47
+it's a majority minority of those reserves. And we're seeing stablecoin issuers uh um want to have their
+22:55
+reserves be in tokenized form as well to help facilitate redemptions uh on a 24/7
+23:00
+basis so they could do them outside of um banking and securities firm hours. that solution is emerging for on the
+23:07
+security side, but banks that could have offer tokenized deposits and could be part of that uh on-ramp offramp into and
+23:15
+out of stable coins um could be um part of that solution as well. Another um
+23:21
+issue that's come up around um tokenized deposits is well, you know, we got the
+23:26
+genius act that creates a degree of standardization among different stable coin issuers. When you get a stable coin, in theory, you should kind of know
+23:32
+what you're getting. With a tokenized deposit, well, you're still more uh at
+23:39
+at the the mercy of the credit risk of that that bank. I mean, are all are all banks the same, especially if you're
+23:44
+uninsured. Is this Wildcat banking, too? Exactly. That's exactly the point. A good way of frame framing it. Um, one I
+23:51
+think underlooked potential solution to that is article 12 of the UCCC um, which emerged a few years ago um,
+23:59
+made uh, made it possible for negotiable instruments to be represented in
+24:04
+electronic form and uh, a tokenized deposit could be an electronic
+24:10
+negotiable instrument which means that it could also u be eligible for deposit insurance coverage. So, um, you pull all
+24:17
+these things together and a bank that did want to have this as a potential solution, again, assuming there's a commercial use case for it, could be
+24:23
+able to launch this and say, well, you know, at least if you know, up to the applicable limits, um, you should be
+24:30
+indifferent as to which bank is issuing this because it would be eligible for uh, deposit insurance coverage. Last
+24:37
+point I'll make on this though is that as a practical matter, um, banks are coming off of four years of federal
+24:44
+regulatory guidance that strongly discouraged them from doing anything in this space. Um, there was guidance saying that issuing a bank um,
+24:50
+obligation on blockchain was highly unlikely to be consistent with safety and soundness principles. And so going
+24:57
+from that to now you, you know, you should get started and go do all these things. That's a big fast transition for
+25:04
+a number of banks that have to take the long view. And so I think in practice we'll see a more measured approach for a
+25:10
+walk run seeing if uh pilot solutions with existing providers work before going in um and launching one of these
+25:17
+um in their own right. Andrew, any thoughts on on tokenized composits? Yeah, you know, I I don't disagree with
+25:26
+anything I just heard. I mean, you know, to simplify things a little bit, as a user, you're basically determining, do I
+25:33
+want to lend my money to the federal government or do I want to lend the money to the private sector, right? And
+25:39
+a tokenized deposit will go into leaves deposits in the coffers of banks who
+25:44
+lend to the private sector. Now they yes yes they help government as well but mostly they're lending to the private
+25:50
+sector whereas you're buying T bills and T bonds and everything else which is the reserves against a regular stable coin
+25:57
+you're basically lending your money to the US federal government and so the the concern among the banking community is
+26:03
+is there going to be um uh I forget the economic term but basically a flight of
+26:10
+deposits out of the private sector and into the public sector because of stable
+26:15
+coin actual utility in doing all kinds of interesting things. And if that
+26:21
+happens, then how do you borrow money? How do you get your mortgage? How does a corporation fund its receivables? You
+26:26
+know, all all those kinds of things. Yeah, those are critical questions and bring up the you know the one of the
+26:32
+arguments about this which is are we creating the so-called narrow banking model which um is viewed as a threat to
+26:40
+um the way in which banking system intermediates people's money into loans
+26:46
+and activities for the real economy. So so will the the securities industry's
+26:51
+really gotten ahead of a lot of this well first for what what's your thought on the token? I was maybe this is where
+26:58
+I was going, but I mean we see that today with like money market funds, right? Like money market funds and
+27:03
+especially as those get to be more kind of consumer friendly. So like the largest product overseas is a tokenized
+27:08
+money market fund. So the use case being instead of sitting in a non yieldbearing stable coin, you can send us your USDC,
+27:15
+we'll send you back shares of Wisdom Tree's tokenized money market fund yielding, you know, north of 4% today,
+27:20
+right? With all the protections around a 1940 act registered money market fund. And with that, you get some of the
+27:26
+benefits of being on chain, like peer-to-p peer transferability, ultimately getting to this atomic settlement. It's a very compelling
+27:32
+product, I think, and it's something we're very excited about continuing to grow, especially against those US uh, you know, stable coins. Um, so I I do
+27:39
+think I mean, money market funds have hit 7.5 trillion dollars in assets, I think, recently. Like they are extremely
+27:45
+popular right now, and you know, the yield that you're getting on those, right? It's just the essentially Fed
+27:50
+funds less whatever the management fee is. So I I do wonder like that competition might be coming for bank
+27:56
+deposits anyway from that to a certain extent. So I don't know that stable coins are a unique challenge but I'm not
+28:02
+a banker so I well and those of us who are are are old can remember the um episode that uh uh
+28:10
+happened u prior to crisis and prior to the major change in banking law
+28:16
+deregulating deposit rates which was caused by the initial rise of the money market fund industry. uh where um you
+28:24
+know those yield pulled money out of the banking system and the argument was that was a tremendous threat to the way
+28:30
+things done. So uh as with many things in uh uh finance that the phrase I
+28:36
+always use is finance progress in finance is circular. we always come back the same same issues and uh uh looks
+28:43
+like u perhaps uh the stable coin uh issue uh will be one of those where we
+28:49
+repeat some of the questions and and approaches we've had in the past and I would also say that it has some is
+28:56
+there's some relevance to the current discussion around interest rate policy because of course stable coin issuers
+29:02
+are unprofitable at low interest rates because all they really have is a pile of treasury bills
+29:09
+and the money market fund business doesn't exist at low interest rates. So interest rate policy is going to have a
+29:15
+big uh impact on on all of this industry. Um so Alejandra, how do you think you know when you've heard all
+29:21
+this again in from the investor perspective? What what do you what are your reactions to what was said so?
+29:27
+Yeah, I like to think in a little bit of what's different uh working with cryptonative companies versus uh
+29:33
+financial services. And a lot of it is also just comes down to reputational risk too. And so a lot of banks are just
+29:40
+not used to operating in a permissionless environment like the
+29:45
+getting a bank charter and making sure that you keep it is is obviously their
+29:51
+biggest um concern. And so like if you think about it like USDC and USDT for
+30:00
+sure have been those are single and tethers uh have been used for all sorts of
+30:08
+nefarious activity at one point or another. But what issuers need to guarantee is the that the there's proper
+30:15
+AML when it comes to on-ramping and offramping. Once those coins are in a permissionless environment then there's
+30:21
+very little control that they have. what with what happens um that that they have on what happens with them. And so it's
+30:27
+very different when you have like a city bank coin operating a permissionless environment that can be in the hands of
+30:33
+everyone than a USDT right now. And so there's also this big reputational concern um that I think a lot of banks
+30:40
+will just not be willing to touch because it puts the rest of their business at risk and they're not not going to want to jeopardize that. Um,
+30:49
+when it comes to the investment side of things, what the issuance piece I think is a little bit less interesting for
+30:55
+investors like Foundation Capital, for example, that we're investing more in technology than we are in particular
+31:03
+assets. So something that's just a onetoone conversion let's say from a real world asset into a tokenized form
+31:10
+of that asset is a little bit less interesting for us that we're we are truly trying to build the infrastructure
+31:15
+that operates behind these things. And so when you compound that with business models whether it is new forms of
+31:22
+payment systems or whether uh we're talking about uh treasury management or
+31:27
+all these things that revolve around stable coins but might not be the stable coin itself. um that's where we just see
+31:34
+like the compounding effect of what's being done and added to the platform. And that usually tends to be where we
+31:40
+can be a bigger value ad than let's say a financial services institution that is
+31:45
+um tied to the assets themselves and can provide clearer guidance on on how to
+31:51
+move those things around. And so yeah, we we do focus a lot more on the picks and shovels for that. Um we focus a lot
+31:58
+on like how we think about crosschain implementations of stuff, how we think about choosing the right chain for sure.
+32:05
+Um how to make sure that when we do something it's incremental not the same
+32:11
+and just copy paste to blockchain rails like when we think a lot about how RWAs
+32:16
+are being real world assets are being tokenized right now. It's not just about getting it on chain. is like can you
+32:22
+actually do something different with that asset now that it's on chain versus not because I think the biggest reason
+32:29
+that we haven't done a lot of those has been uh if this is a just a copy paste
+32:34
+and even the underwriting of this asset is being done by three or four people then it's not really a decentralized
+32:42
+asset it's a centralized asset in a new form and so um that's just a little bit
+32:47
+less of like where our interests lie we got um I don't I don't know if you're
+32:53
+comfortable doing this but recent investments that would be interesting to people that might um you know give them
+32:59
+a sense of what's out there in the world. Yeah. Yeah, I mean I think partially it is on this issuance piece like why while
+33:05
+we might not invest in a particular company that's focused on issuance let's say um the issuance of uh Mexican peso
+33:16
+uh on chain we might invest in a company that is allowing for these things to exist that can allow them to expand
+33:23
+regionally a lot easier and so that's where we do think that there's a big long tale of assets that could be
+33:29
+interesting for a single platform to And it's not only for the issuance piece, it's also for the liquidity piece. So
+33:36
+there's a big problem with liquidity fragmentation. Not only between changing
+33:41
+money from fiat to stable coins, but also what happens once it is on chain. There's so many different chains where
+33:47
+you need to bridge assets from something like a base to Salana um for as one
+33:54
+example and then there's like a plethora of iterations of that same asset. And so
+34:01
+how do we deal with that liquidity fragmentation to make sure that when you're not switching from one chain to
+34:06
+another, suddenly the dollar cost you a $150? And so yeah, we we are really
+34:11
+trying to work on like making sure that things are running as smoothly as possible um in that back end.
+34:17
+That makes sense. Um, so one of the things that Ben brought up was the, you know, the claimed speed advantages of of
+34:23
+stable, which for a lot of people means, you know, instant and non-reversible
+34:28
+settlement, sort of essential to that that concept of speed. And as we've
+34:34
+heard, you know, stable coins, depending on the use case, may or may not be faster or um or better in some respects
+34:42
+than current payment methodologies. But as he also mentioned, you know, there are all these issues in terms of
+34:49
+fraud and reversibility of transactions, you know, fishing, romance scams, export
+34:54
+scams. I get, you know, I don't know how many texts today, but somebody wanted to scam me. Um, and a lot of them have used
+35:01
+cryptocurrency and I I point out too w something you said it was those crosschain bridges where a lot of of the
+35:08
+fraud and exploits have occurred. So, should we be concerned more concerned or
+35:13
+differently concerned about um the ability of uh uh our risk management um
+35:21
+capabilities and the laws around them to prevent fraud and money laundering and whatever in stable coinbased
+35:28
+transactions and we do in other transactions. Maybe Josh you want to start on that one. Sure. Happy to field that. Um so to
+35:35
+begin with I it's important to bear in mind that um large and common stable
+35:41
+coin issuers um ones that have sought some of the most rigorous charters including in New York um as we well
+35:47
+knows I mean they're already subject to high uh stringent expectations around BSAL uh sanctions expectations um and I
+35:57
+would expect those standards and expectations to continue and be uh codified and expanded in in the Genius
+36:03
+Act rules um regardless of what sort of permitted charter um the issuers um
+36:09
+would use. Um and so those requirements at a minimum are going to apply to that
+36:14
+first hop when an issuer sells to um its to it to its customer. Um then the next
+36:21
+question is like well where is that stable coin going to be transacted um after that point to the extent that people are using them in hosted wallets
+36:28
+on exchange platforms otherwise well those intermediaries are going to have their own regulatory responsibilities
+36:36
+and handle a number of these issues um as they already do today to the extent that the stable coin moves outside of
+36:42
+those platforms and um can be used transferred on a peer-to-peer basis using self
+36:48
+yeah it was like to to MetaMask wallet. I think um the the the ability to have
+36:54
+irre irreversibility, that's a that's a feature, not a bug. That's what this is intended to to do. It's like you have
+37:00
+cash. It's like you have some other form of bearer payment instrument. And when
+37:05
+you have it and you're choosing to use that instead of some sort of account-based money, some other sort of alternative, that's that's part of what
+37:12
+you're signing up for. What I would say is that as opposed to some of those traditional methods, the ones that are plastic based or paperbased, there still
+37:19
+is the possibility um to do some sort of monitoring and um knowing whether those
+37:26
+assets are in a sanctioned wallet or otherwise involve some sort of illegal activity that could lead law enforcement
+37:33
+or u a regulator to issue a lawful order to freeze or seize uh that asset. So in
+37:39
+a sense compared to other you know comparable kind of bareer forms of payment instruments it actually could uh
+37:45
+in time facilitate um more more protections um but that all
+37:50
+remains to be seen. You know, one of the one of the yeah, one of the uh odd oddities of the situation is yes, the
+37:56
+cash transaction when I hand you the cash, it's done. But people come to have an expectation about electronic and
+38:02
+other transactions that they will in fact be protected. And we see uh you know, the banking industry has long
+38:07
+complained that um quite accurately they end up holding the bag when um people
+38:14
+who are taking risks that they don't understand um you know go ahead and then look for somebody to um to bail them
+38:20
+out. Andrew, do you have, you know, thoughts on how that might evolve? Sure. Well, having lived through it, yes. Um, the, um,
+38:29
+you know, that this all played out in Zel over the last 10 years because it's a pretty new payment method. It only
+38:35
+launched, I think, in 2017. Um, and it's now in the trillions that are moving across the network. When we
+38:44
+Oh, sure. When we launched the thing, all the liabil we assumed that all of
+38:50
+the fraud would be on the send side that it would be cyber crime where we um
+38:55
+someone stole your credentials and pushed money out of your bank account to themselves. And so all the liability was
+39:02
+on the sender and the receiver was held harmless. Um they were supposed to
+39:08
+investigate if there was a proven fraud, but there was no service level on it,
+39:14
+etc. And so what happened? There was never really that much cyber crime, but
+39:19
+there was a ton of scams, social engineering, and getting people to send
+39:25
+money out of their zel account voluntarily and send it over the network. And
+39:32
+that's what Elizabeth Warren was really compare complaining about. But the problem is the way the law is written.
+39:38
+If you authorize a uh transaction under reggie and reg,
+39:45
+the consumer are responsible for that regardless of whether you were scammed or not. But what Elizabeth Warren was
+39:51
+saying is you've designed a system that encourages scammers to go after innocent consumers. So what did Zel do after
+39:58
+being yelled at in public? They reverse liability. So now all the liability is on the
+40:04
+receiving bank in the cell network. Um and the sender has no liability.
+40:10
+And the reason that works is the receiving bank is banking the criminal.
+40:17
+Whether it's the criminal themsself got past KYC or whether they're using a mule
+40:22
+account where they've they've sub saborned a I don't know what the proper legal term is but they've corrupted a
+40:29
+good consumer into allowing their bank account to be used to accept illotten
+40:34
+gains. Um but the receiving bank is the one whose KYC failed or whose AML monitoring
+40:41
+into their receive account is really falling apart. And when they reversed that liability and made the receiving
+40:47
+banks responsible, they all invested in better tools and the scams are still
+40:54
+there, but they have gone down massively. And so some of this, whatever
+41:00
+it is, whether it's um, you know, true fraud like cyber crime,
+41:06
+they steal your credentials, whether it's um scams like social engineering and other sorts of things, or whether
+41:13
+it's um the correct the proper owner of the account who's using the systems for
+41:20
+bad purposes like naroterrorism or, you know, extortion or, you know, all all
+41:25
+those kinds of things. um they all have solutions, but they all impose on all of our privacy and add
+41:33
+friction to the system, right? And um you know, one of the things that impressed me about circles S1 was how
+41:40
+serious they clearly are about complying with all of these rules and making their system safe. But it's very hard in a in
+41:49
+a chain environment to monitor all those parties along the thing unless you have
+41:55
+the equivalent of a walled garden where you only allow people to transact who
+42:01
+have been um essentially authorized by a trusted party.
+42:06
+So you know in the banking system it's you're trusting other banks to do KYC on their customers. If unless we're willing
+42:13
+to do something like that in the blockchain environment where only you know authorized parties are allowed
+42:20
+people on chain and that's how we control that bad guys don't get in. I don't see how you can stop this stuff.
+42:26
+Well, there's different it happens at different points along the way, right? I mean, one thing that's interesting about stable coins versus cash, for example,
+42:33
+right? Is that these are all pseudonmous addresses and you actually have a lot of analytics that give you an ability to
+42:39
+say, "Hey, is this touching something like a mixer, right? Tornado cash, which is a vehicle for can be used as a
+42:45
+vehicle for money laundering. I'll put it that way." Typically find stable coins don't actually go through that that that much. even Tether, which we
+42:51
+think of as being more offshore because Tether and Circle and other stable coin issuers maintain the ability to freeze
+42:58
+or blacklist wallets along the way. So, there are actually kind of more transparency here that I think people
+43:05
+think. Now, it's certainly not perfect and then you do need to put some level of monitoring at the actual like virtual
+43:10
+asset service providers they're called along the way in this and there is going to need to be some you know whether
+43:16
+that's a Coinbase which is like an entity you can call somebody different than like a self-hosted wallet. So there
+43:21
+is like a method of interaction that happens along the way there. But I there is certainly as somebody who managed the
+43:28
+business does these things there is definitely monitoring that happens along the way with stable coin transactions. It is just kind of to a different degree
+43:34
+and different type than you'd see in the traditional banking system. Yeah, I was just going to say that there
+43:40
+companies on chain too are just very serious about this too. No one wants to be touching or enabling uh any kind of
+43:47
+illicit activity on chain. So in addition to the mark to all the monitoring there's also a lot of experimentation with permissioned
+43:54
+environments or just permission wallets interacting with each other as people are building full payment system in
+43:59
+which just permissioned uh wallets with KYC can interact with um how those
+44:06
+interact with the rest of the ecosystem is still a bit of a question but you do have some protocols for example that are
+44:11
+like maybe I'll just have some lending pools in which just people who are KYCed are able to interact with this lending
+44:18
+pool. And so a whole ecosystem is built being built on chain that kind of just silos, known wallets and known assets uh
+44:27
+into like a spe a different type of environment. Um how much this will take
+44:32
+off relative to like completely permissionless ecosystem is still a bit of a question. Um but I I I do think
+44:41
+that companies, not even just US-based companies, but companies in Europe, Asia, etc. are all taking this into
+44:47
+consideration as they decide how to incorporate who to allow where to geo
+44:52
+fence their uh products or not because no one wants to be in compliant here. If I can add one point to that because I
+44:59
+think it's a great point that Alandre made like permissionless blockchains do not mean totally permissionless systems
+45:04
+in all ways, right? Like you can do permissioning at a different layer on the blockchain. So there's plenty of permissioned activities that happen on
+45:11
+permissionless Ethereum where you can say like with our money market fund, hey, this can only travel to wallets
+45:17
+that we know and can identify the people, right? And you're able to do that using the general permissionless
+45:22
+infrastructure that's out there. And there's lots of benefits from that while still maintaining all the rules and
+45:27
+responsibilities that come with issuing like a security for example. So I think that's something that people get wrong
+45:32
+all the time when talking about permissionless versus permission blockchains or permission systems. You
+45:38
+can do permissioning at different layers of the system. PayPal for example, just want to give
+45:43
+one example, they use some uh feature called delegated authority on Salana. And so while you can do well almost
+45:50
+whatever you want with uh PIUSD stable coin on chain at any point if your
+45:56
+wallet is deemed elicit wallet, PayPal still has the authority to uh block the
+46:02
+transaction, block those stable coins from moving anywhere from then on. Whether that's what someone wants or not
+46:08
+then that's a question the user whether they want interact with PI USC but um
+46:14
+but but there is already the the features on chain for you to be able to do that. So what we're seeing is a conversion
+46:21
+with the tradition convergence with the traditional financial system in term of controls but the technology for
+46:27
+implementing controls is different but the end result may well be quite similar. So the flip side of that is
+46:33
+privacy because one of the one of the pieces of blockchains that was attractive to the originators was the
+46:39
+idea that everything was transparent. Now identities are not are not transparent but transactions in theory
+46:46
+are. So how are the privacy concerns being addressed? Maybe Josh you want to start on that one?
+46:51
+Sure. So um it's a it's a very good question. Um, and it it gets back to
+46:57
+some of the points that Will was um mentioning about the um different types um of um blockchains that Bitcoins can
+47:05
+be issued and supported on. They they vary in uh what sort of uh data can be
+47:12
+displayed, can be available. There are um some some chains that um that
+47:18
+preserve um almost total privacy. Um, in general, regulators um don't like to see
+47:24
+uh issuers of tokenized assets use um those uh privacy preserving chains and
+47:29
+uh want um the issuers to um use chains that allow force the sorts of things
+47:34
+that uh will and Alejandra were describing. um this um there you you
+47:40
+can't tell who the the person is, but you can track activities and you can respond uh to a court order or a
+47:45
+regulatory directive um to freeze uh or seize those assets. Uh on the other
+47:52
+hand, uh unless you're you've constructed a wall garden environment, a permissioned enclave on top of one of
+47:59
+these um permissionless blockchains, um in in general, we're not seeing issuers
+48:05
+try to construct a system where it's it's known or knowable uh what somebody's identity is in those
+48:11
+contexts. You're not dealing with personally identifiable information issues uh involving the those those
+48:18
+person's assets on chain. Again, of course, if you're constructing your own wall guard in your own environment, um,
+48:24
+and you know who those people are and what their transactions are, then those privacy regulations are going to apply
+48:30
+in full force as if you were using some other form of technology to do that.
+48:35
+So, you know, just to hypothesize here a minute, um, you can see the transactions even though you can't see the identity.
+48:42
+Um I can envision AI very quickly quickly figuring out who is behind any
+48:48
+transaction and it might be pricing information around transaction from the business side very valuable competitive
+48:54
+information. I understand there's some technologies that are um growing to kind of max to mask some of that but is that
+49:02
+this is an inherent problem with blockchains? Yeah, I mean I think if I were a skeptic
+49:08
+that was this would be the point that I'd be really honing in on, right? is like to get some of the benefits of this where people have kind of wallets
+49:14
+associated with them as opposed to like some omnibus accounts like based on how it works today and like there's
+49:19
+inherently a lack of privacy in terms of that transaction right you could easily think of the example where I said how
+49:26
+much um you know I got paid on uh by my friend playing poker right he could then look at my MetaMask and see hey Will did
+49:32
+this transaction this transaction this transaction like there are ways that you can try to do it but like like you said
+49:38
+if you've got the advanced data capabilities like you and investigate and see that. I I think there are there
+49:43
+are lots of kind of things you can get into with like zero knowledge proofs and other stuff to try and say like you can get the best of both worlds. None of
+49:50
+that's been really proven out yet. And I think this is just how it works today in this space if you're doing these types
+49:56
+of transactions. And it could be a rate limiting factor in terms of how much adoption you get for um
+50:01
+right if people perceive that they're that um everything they're doing is ultimately visible by somebody whether
+50:07
+that's government or business or whatever it may be um something that they're not willing to accept if they if
+50:13
+they understand. Yep. Okay. So uh let's flip over to the elephant in the room. The question of
+50:20
+yield on stable coins. Um, you know, the way the politics of this worked out is that the biggest loss for the crypto
+50:26
+interests in the lobbying battle of the Genius Act was the fact that they had to agree on any limitation which was the
+50:32
+specific uh limitation on yield on stable coins. Uh and it but the bigger loss was uh from the banking industry
+50:39
+which um really feels that um this concept of yield uh and the threat it
+50:46
+has toward um uh their deposit franchises which are essential to um the
+50:52
+way they do business. um they you know it was viewed as a loss by the banking industry which amazingly uh it didn't
+50:59
+press while the negotiations were going on at least publicly but um has uh come out afterwards to try to get changes
+51:05
+made um and if all you have to do is go on uh Coinbase today and you'll see a
+51:10
+big ad that says earn 4 and a half% on your sailing points or 10%. Um, now
+51:16
+underneath that are a variety of rewards, maybe lending, staking activities that aren't what we think of
+51:24
+as traditional yield generators. Um, but um, they do have the potential for
+51:29
+making this a more attractive uh, place to store money as opposed to transfer money because of course money is about
+51:36
+ability to make payments, but it's also about the ability to retain values for storage. So the threat is that stable
+51:42
+coins um could become a place in which people leave their money uh and believe
+51:47
+that they are earning marketplace yields that would be um appropriate and that that they believe that it is safe and
+51:54
+the structure of the Genius Act attempts to make that um clear um they might in
+52:00
+fact move a significant amount of the financial out of banks. So our next panel is going to be talking about the,
+52:06
+you know, the systemic potential impacts of that. But keeping on the payment side, you know, do we think that stable
+52:14
+coins are headed towards becoming money uh where they're accepted for payments?
+52:20
+You know, you put it in your MetaMask wallet. Does your MetaMask wallet eventually go out to a bank account that you can spend or are you able to live
+52:27
+entirely within um a stable coin system where it essentially becomes a money equivalent proposal purposes because
+52:33
+perhaps you've you've taken that stable coin and and put it on uh into some
+52:39
+protocol which is providing some meal. Um so um is this really about payments
+52:46
+or is it about more broadly about money? So, I don't know who wants to jump into that. It's pretty conceptual. I don't
+52:52
+know. Andrew, tell you. Well, look, got sorry, I can't lean back. Um, I I published an article
+53:00
+recently um that no one read. Um, I do that all the time
+53:07
+that actually looked at the question of how fast are new payment methods adopted historically and is that speeding up?
+53:14
+And what I determined is when you go back and when I went back and looked at all the major new payment methods that
+53:20
+been introduced over the last 30 or 40 years, they all took 25 to 30 years to
+53:25
+become ubiquitous. Most of them never made it, right? They were replaced by something else new along the way. The
+53:32
+only one I could find that went faster than that was Apple Pay. And Apple is a closed loop with half the country
+53:38
+already doing, you know, has all these advantages that are almost impossible to replicate. So while I'm very
+53:46
+um pro-stable coin particularly and almost exclusively for crossber
+53:52
+this isn't happening overnight right it's not that different domestically
+53:58
+from other payment methods that we already have uh like real-time payments like visa direct like zel like all the
+54:05
+others and so it's got to colonize some use cases where its unique
+54:11
+characteristics like the infinite at the visibility or the smart contracts uh actually distinguish it from what's
+54:17
+there today and then that use case has to grow to ubiquity in order to drag it along with it and if it goes according
+54:24
+to history it's going to take 25 to 30 years so crossber
+54:29
+right going to go much faster because the advantages are so much better than what we have today but domestically
+54:37
+you know it would be um shocking to me if it uh started
+54:43
+displacing conventional payment methods at scale um you know within a meaningful amount
+54:50
+of time. I as an investor do you do you you buy that that this is primarily about across
+54:56
+border? I I hope not. Um, and I think about a lot of different things that just don't
+55:03
+make sense like the way that payroll happens and the fact that we get paid
+55:09
+every two weeks while we have been working for at that point like 10 days.
+55:16
+Uh, one of the reasons of that is just like legacy ecosystem, legacy systems of how
+55:23
+money moved, right? And if we think about this infinite disability problem, one of the reasons that payroll loans I
+55:30
+think just weren't really working when they were trying to take off in 2020 2021 at least in the tech ecosystem.
+55:37
+They're definitely not new is there's just like a lending component with a very high interest rate attached to it.
+55:43
+But when you reduce the cost of doing payments then you can actually enable
+55:48
+these type of systems where you are paying people um at a reduced cost
+55:55
+almost in real time. And so, of course, that's not how our economy works today. And this is almost like an idealistic
+56:02
+vision. But just to think about how many of those systems can be rewritten makes me think that we're going to get more
+56:08
+creative and how stable coins can be used beyond the stable coins uh being
+56:14
+used cross border because of the infinite divisibility piece and the programmatic piece that is just native
+56:21
+to stable coin payments that is not natively built into how we think about money today during banks. Let me
+56:27
+challenge that a little bit because if you were an Amazon employee today, um you get paid instantaneously onto
+56:33
+your US Bank debit card um for the for the work you've done that
+56:39
+day. You clock in, you clock out. Um I agree with you about early wage access providers being, you know, stuck in the
+56:46
+um the timing issues and and the cost issues associated by that, but you know,
+56:52
+one could use the existing system fairly effectively to provide that. It doesn't require a stable coin. So
+56:58
+yeah, and you know, let's point out a couple of things, right? The cost, there is no cost advantage to a stable coin
+57:04
+over for payroll. Uh payroll is almost universally paid by direct deposits. They cost a fraction of a penny. So like
+57:12
+there's no cost advantage over a fraction of a penny. No one notices. Um, and the EWA problem is that the employer
+57:21
+loses two weeks a float or X days a float if they allow you to access your
+57:26
+pay earlier. Now, Amazon can afford that, but not every retailer can afford or every employer can afford the cash
+57:32
+flow advantages. So, what's an advantage to the consumer is a disadvantage to the uh employer. And um that's what's
+57:40
+causing us to get paid every two weeks plus regulation. There's a lot of regulations about this stuff. I think we
+57:47
+saw that the um most most EWA is actually free to the consumer as long as you're willing to be paid with uh uh a
+57:55
+with a one or two day settlement period. Um this vendor was sued by Leticia James
+58:01
+because they charge $2 to get a real-time dispersement. Um and that's
+58:07
+the only revenue that the CWA vendor earns is the $2. Otherwise, they earn nothing. And so because on the APR
+58:14
+formula, $2 over a $100 EWA advance turns out to be a pretty high interest rate. Um they were sued and they can't
+58:21
+do it anymore. But that consumer could have had it for free if they waited a day, right? So um
+58:27
+or in many cases if they used the de prepaid debit card that was used, they
+58:33
+used the prepaid card issued by the payroll vendor. So I don't view those as
+58:39
+technological hurdles, right? They're either legal hurdles or they're financial hurdles for somebody at both
+58:46
+ends. And stable coins does nothing about that, right? And it's not faster
+58:51
+than, let's say, a real-time payment out. It's not really cheaper. Um, it's not safer. Um, and it doesn't solve the
+58:58
+cash flow problems of the employer. So, you know, those kind of use cases. Yeah.
+59:04
+Could you use a stable coin? Absolutely. But now think of yourself as the consumer. You've gotten a stable coin.
+59:11
+of your pay the same day that you earn it. You now have to offload it. You have
+59:16
+to do it at an off-ramp. Until we get to an economy where every retailer accepts stable coins, particularly the mass
+59:21
+market retailers, you still have to wait a day or two or pay a fee to get that
+59:26
+stable coin converted back to US dollars in your bank account so you can spend it. And I agree that one day there will
+59:34
+be a universal stable coin economy where everybody takes stable coins and whatever. My estimate 25 to 30 years
+59:42
+because that's what it's taken every other payment method to get to true bitcoin. But to to oh
+59:48
+go ahead. Oh say but um getting back to your your your question I think like some of the
+59:53
+accelerants of this I mean yes the crossber payments and certain other uh use cases are the the lowhanging fruit.
+1:00:00
+I mean where there could be some uh pro programmability and you have microp payments that need to be made that's
+1:00:07
+that's the money and transit side of it. But if the rewards and yield um
+1:00:13
+mechanism is largely preserved or can be done uh in a relatively easy way with intermediaries or just by adding
+1:00:19
+something more. Um then you combine those things and somebody who either a
+1:00:25
+it's more advantageous to do the money in you know the um money money movement
+1:00:30
+thing um with stable coins they say well now my my money is at rest but I can
+1:00:36
+make money on it as opposed to having to convert it into something else and then to convert it back. it's going to make
+1:00:41
+that differential much lower and create some stickiness um for those for those
+1:00:47
+different use cases and some of the some some additional ones domestically that we're seeing gaming platforms um very
+1:00:53
+very big environments use right now a lot of like closed loop valueless things
+1:00:58
+I mean that's an environment where you could see a lot of disruption for stable coins because it allows those small atomic payments um and also seeing
+1:01:06
+discussion in areas um involving securities and traditional finance use of stable coins for um programmatic
+1:01:12
+payment of uh margin that those things are going to be take largely developed a lot of legal architecture and things to
+1:01:18
+revisit there. But other areas where again there's going to be a money at rest plus money at movement issue where
+1:01:24
+the payment of yield or uh rewards could be uh a difference maker in people's um
+1:01:30
+calculus as to whether to move to stable coins versus an alternative asset. Just to take the opposite side of that and
+1:01:36
+like I agree with everything you said, right? All true. We've had cash management accounts since 1985,
+1:01:44
+right? Every one of us could go to any of the investment houses and get a cash management account and we would be paid
+1:01:51
+effectively market rate interest money market rates on our c on our checking
+1:01:57
+accounts. How many people in this room go through a cash management account instead of through Chase City, Bank of
+1:02:04
+America, Wells Fargo? I mean, I know I don't, right? I still have a checking account. Um, I read you do. Okay. I knew
+1:02:11
+you wouldn't. I have both. Yeah. But for day-to-day payments, I use this. My bad. Right. So, what you're describing is
+1:02:18
+absolutely true. Makes perfect economic sense. Consumer inertia just gets in the
+1:02:23
+way. Like, every one of us could do that today. Don't need a stable coin, right? It's accessible through a standard Visa
+1:02:29
+debit card, a credit card. You know, our pay can be deposited into it through a
+1:02:35
+there's we can pay our bills through a out of it. There's nothing extra that
+1:02:40
+you get from a stable coin other than the two things we keep talk or I keep talking about which is infinite
+1:02:46
+divisibility and smart contract. I say fit techs are good about making
+1:02:51
+these connections though. I mean, just look at what happened with crypto exchanges and being able to kind of have stable coins be the default, you know,
+1:02:58
+cash asset there. Um, so, uh, all all all fair points, but it it could happen
+1:03:03
+faster this time. And I need to defend myself here a little bit because when we go back to the, uh,
+1:03:09
+payroll question, uh, I think what we're in an end state of these things and
+1:03:16
+obviously getting to the end and end state of something is an infinite problem. like there's a standardization
+1:03:22
+here that comes with stable coins that I don't think we've ever had before.
+1:03:27
+There's a bunch of intermediaries that go in the process of like getting paid for work and everything all the
+1:03:33
+different payment processes that happened before that. And so when we do have a shared standard here where that
+1:03:40
+is fully actually interoperable, you can actually start removing some of those
+1:03:45
+intermediaries and have money go. it won't be straight from your supplier to
+1:03:51
+your employee to their investment account etc. But if the shared standard is there, I do think we can get a lot
+1:03:57
+more creative with the way that these things work. And so I like coming to these things from a sense of like why
+1:04:03
+hasn't it happened and maybe just forward look at 10 to 15 years and maybe
+1:04:09
+that's why I'm in this business and uh 99 of them fail but uh one will work
+1:04:15
+and I think you know to to take the under on Andrew's uh estimate you really look over to Will because uh the
+1:04:22
+securityities industry which doesn't have a lot of these consumer concerns and other things is going to be taking
+1:04:27
+this stuff very seriously because tiny differences in costs make a big difference and we may see that the
+1:04:34
+success of some of these implementations essentially in the securities industry end up coming back into the banking side
+1:04:40
+and and speeding up the process. Okay. So, uh, questions. Ready? Starting.
+1:04:45
+Jeff. So, um, I'm coming to this as as
+1:04:51
+somebody who's never used the stable coin. Um I I gather the current use is
+1:04:58
+um if I want to uh do a lot of trading in in cyber then basically I'll leave my
+1:05:05
+cash in effect in a stable coin with the um uh the exchange on which I buy cyber.
+1:05:12
+So, so let's assume that I want to um then I don't want to buy cyber, but I
+1:05:19
+think that stable coins would be a good way to do payments. Um
+1:05:26
+so so how does that physically work? I have money, cash in a city bank account
+1:05:32
+now. So, um, how do I buy, um, somebody's stable coin and where is
+1:05:40
+it stored? And if the issuer of the stable coin can't pay pay
+1:05:48
+me yield and if the issuer doesn't own the exchange on which I store the stable
+1:05:55
+coin, then how does the exchange um make any money on which they're going
+1:06:02
+to be offering me um in effect yield? I I just don't see how this all works. um
+1:06:10
+uh in sort of in the way that's kind of been been uh suggested. So, you know,
+1:06:17
+that's a naive question because I really, you know, I'm a naive party
+1:06:22
+about these things. I'm happy to go. Um so, I think um well,
+1:06:27
+you're referring trading in cryptos. So, I think where the use cases that you're seeing mainly for stable coins today.
+1:06:33
+So, you know, I referenced Tether earlier. I misspoke. They're actually headquartered in El Salvador. Um, but I
+1:06:39
+don't I don't actually mean that as a joke. I I didn't mean to misspeak it. Um, but Tether, you know, why they've
+1:06:44
+built such an amazing business is because there they saw early demand for dollars onchain where people wanted to
+1:06:52
+trade Bitcoin. Clearly, Bitcoin's been the best performing asset class in the world over the past 10 to 15 years,
+1:06:57
+right? Lots of demand for trading that offshore. And one of the most, you know, people want to trade it in dollars. It
+1:07:03
+was better to represent those dollars on chain. So you saw trading pairs between Tether and Bitcoin or Tether and other
+1:07:09
+assets particularly offshore with some of the major exchanges like Binance which is you know another name that's
+1:07:14
+been out there. Uh you saw similar stuff happen in the US with like Coinbase and USDC. So USDC being Circle Stablecoin
+1:07:22
+and so that's the initial way that this kind of started getting used. I think where Tether got to be extremely
+1:07:29
+successful and there will never be another Tether was in terms of providing dollars to people in emerging markets,
+1:07:36
+right? Like there's clearly a demand for dollars in countries where your currency was being inflated away. We've actually
+1:07:42
+talked about that like not at all on this panel, which is kind of because if if if that's all it is,
+1:07:47
+that's a huge business because there is demand for dollars overseas. It's also dollarizing their economies
+1:07:52
+and undercutting their central governments. But yes, and talk about like having a tough
+1:07:57
+banking like you have a bank account there. It's like well they're not going to give you dollars and all you need to hold Tether is a smartphone, right? They
+1:08:04
+all have smartphones. Um, so, um, that's an aside, but really what you've seen
+1:08:10
+with these exchanges and these issuers, so like Coinbase USDC, as you saw within, uh, Circle's S1, Circle is the
+1:08:16
+issuer of USDC, but they share half of the revenue that USDC generates with Coinbase um, effectively or more than
+1:08:23
+half because Coinbase has a deal with them. They're part of a consortium that not launched it initially. So when
+1:08:29
+Coinbase is paying rewards on USDC within Coinbase, it's coming from that
+1:08:34
+revenue that's get generated from the reserves behind the scenes. There there's a relationship you're saying between the exchange and the
+1:08:40
+issuers. There there's in this case, yeah, it's think of it as distribution cost because
+1:08:46
+it's critical that USDC be on Coinbase, the largest domestic uh um exchange for
+1:08:52
+for crypto assets. And there's also a history because they actually produced the thing together back when. But
+1:08:59
+essentially, there's a very high distribution cost for uh for uh stable coins on these exchanges because to be
+1:09:05
+the stable coin for the exchange isn't heavily lucrative because that's where you get the demand for the stable coin
+1:09:11
+and buy the assets and earn the yield. And oh, go ahead. So, yeah. So, Coinbase is not charging
+1:09:18
+you for buying USDC because they're making money off the revenue share that
+1:09:23
+they have with Circle. And so, their biggest priority is getting you to buy USDC on Coinbase.
+1:09:30
+And it makes the decision in the Genius Act to distinguish between affiliates and or uh issuer yield and other
+1:09:37
+people's yield kind of interesting since the other people in this case is Coinbase, which actually has a
+1:09:43
+significant financial interest in Circle. So, um, you know, Josh can't talk about it because he represents
+1:09:48
+these people, but you know, it's an interesting facet to the way things work here. There are a lot of affiliate relationships.
+1:09:55
+Do you just to a factoid that was in the Circle S1 and please correct me if I get
+1:10:01
+the statistic wrong, but something like 80% of the stable coins that Circle issues in a year are redeemed in the
+1:10:08
+same year. And that's because they can't pay yield. And so unless you're going to
+1:10:13
+be an active trader and you need to always have a dollar reserve, so when you get out of crypto and you're put
+1:10:20
+parking your dollars temporarily until you make your next, you know, long bet
+1:10:25
+in crypto, those people might hold on to the stable coins. But most people
+1:10:31
+because they're not earning yield, they redeem them as fast as they can. And we saw during the downturn in crypto
+1:10:37
+trading that happened I don't know how many years ago now two three years ago um
+1:10:43
+uh the outstanding numbers of USDC went way way down because there was less crypto activity going on. People were
+1:10:49
+redeeming them because they weren't looking at a gain they were going to get by holding on to trading in in crypto.
+1:10:55
+So the the crypto issuers have are dependent both on uh yields in the
+1:11:00
+treasury market but also on volume in the crypto exchanges. And so one of the reasons why the interest in getting to
+1:11:06
+the real economy is that's a more stable long-term source of demand for gas. Uh
+1:11:12
+Doug on
+1:11:19
+it. Okay. Um so stable coin marries a
+1:11:26
+settlement technology including programmability with a legal instrument which is sort of like a money fund,
+1:11:32
+right? And when we talk about the use cases, all the use cases are about the
+1:11:38
+settlement technology. Um but then the answer from the group was something like
+1:11:44
+um sure tokenized deposit would be equally useful for users and they would might prefer it because maybe they
+1:11:50
+retain some of the benefits of deposits, but that doesn't matter because banks don't want to issue tokenized deposits
+1:11:57
+and non-bank stable coin issuers really want to issue non-bank stable coins. And so the default product wound up being a
+1:12:02
+non-bank stable coin merely because of the issuer behavior, not because of the preference of the user. Uh but that
+1:12:08
+means that whether stable coins exist or not really comes down to do the banks ever change their mind about wanting to
+1:12:14
+issue tokenized deposits because at that point they can basically give the user everything they want and you don't need
+1:12:21
+this money fund. I mean the user is not getting anything from the legal instrument. So why should it exist?
+1:12:26
+I I don't know that users think about it that way though, right? Like I no user, no retail user ever thought, do I want
+1:12:32
+to lend my money to the federal government or to like the private sector, right? They're just like this is a dollar. I think of it as a dollar and
+1:12:39
+like I just want to use it that way. So I I don't know if that I think it's going to be do banks provide some sort
+1:12:45
+of tokenized deposit that has the user experience that people want or are getting out of stable coins. And the
+1:12:51
+answer might if if we're talking about like a retail tokenized deposit and like the answer might be they're just not able to do that because they can't do
+1:12:57
+the an anonymity of it. they can't have it travel the world and like that just might not be the case. So I I don't know
+1:13:04
+what the use cases are for tokenized deposits in like a retail sense. I do understand it if you're actually pushing
+1:13:10
+like financial services and financial logistics like securities transactions on chain. There are benefits from having
+1:13:17
+these transactions and different instruments involved be able to talk to each other and be orchestrated in the same like transaction for example. So
+1:13:24
+like the ability to have a security and a form of money swap instantly within the same transaction, right? There are
+1:13:30
+benefits that come with that. Uh but I I don't know I don't know who the user is
+1:13:36
+of like a retail tokenized deposit. But why why does the user care? It's a onchain programmable liability. Do they
+1:13:44
+care that it's backed by treasuries or backed by a bank? No, I I agree. I don't think they care. So in other words, why why could the
+1:13:49
+bank just say, you know, these stable boys are growing up. They're becoming a threat. Let's just get rid of them by
+1:13:54
+offering people tokenized deposits that give them everything they want. Plus, it's a bank deposit. Well, they could, except I think you're
+1:14:00
+going to run at the same correspondent banking issue essentially with um uh foreign transactions with with So, I
+1:14:08
+don't think they work as well in international. So, well maybe, but yeah. Or do they work in crypto trading?
+1:14:14
+Right. Like that's what it is today. Like are people doing trading pairs in
+1:14:19
+BFA's tokenized deposit? Right. Right. The whole goal of this is to get stable coins out of the out of the place
+1:14:25
+they're in the cold sack of crypto trading. And the point is they can't the if the only place they're really
+1:14:31
+defended from tokenized deposits is crypto trading. Well, fine. And they just don't grow. So in the back there,
+1:14:38
+I'll get you next in the hat. But yeah, so I had a question on the the legal standards for custodian. So Caner
+1:14:45
+Fitz has famously said we're we're the custodian for Tether and you read Tether's attestation report and there's
+1:14:50
+no mention of Caner Fitz. There's just vague references to the to to review of the banks that were the custodian.
+1:14:56
+Similarly, you read circles at the station report and they have a $9 billion line item that says regulated
+1:15:04
+bank deposit is holding. Well, they actually have a money market fund, right, with with Bank of New York
+1:15:11
+is with Black Rockck is managing their money market fund, but there's still nine billion that's outside of that money market fund that is poorly
+1:15:17
+defined. So, the definitions of custodian or the under the Genius Act versus what we're seeing now and then
+1:15:23
+maybe comparison to my money market fund is are there is there any big gaps
+1:15:28
+between that versus an idea on that? Sure. Uh happy to feel that one. So uh
+1:15:35
+under under the Genius Act, there are standards for custodians who hold reserves that back uh stable coins. Um
+1:15:42
+they in general need to be US uh banks or uh broker dealers, other other
+1:15:49
+entities that are have the appropriate lensure to maintain the deposits or hold the securities in the case of uh money
+1:15:56
+market funds. Um uh and my understanding is that there'll also be an expectation
+1:16:02
+that um there's appropriate disclosure around um where reserves are being held
+1:16:08
+um in in the Genius Act rules. The specificity of those I think remains to be seen in the rulem process. What I
+1:16:15
+would also add though is that under the credential regime that Genus is creating
+1:16:22
+um across the board with respect to issuers whether they choose to be state or federally chartered
+1:16:28
+and in my experience the federal reg the provincial regulators that do these activities now they will require an
+1:16:36
+issuer to do an extensive diligence process of the custodians that they choose to use. Um and I would expect as
+1:16:44
+issuers get chartered um with the OC at the federal level uh those those same
+1:16:49
+standards as you would expect for any sort of critical vendor uh would would be preserved. So there are a number of
+1:16:56
+considerations standards expectations that um uh do and would likely continue
+1:17:01
+to apply there. Last question on woman in the red hat. Yeah. Uh am I audible? Uh yeah, I'm a
+1:17:08
+student first of all and I'm here to learn from the expert. So um but so far
+1:17:14
+our talk is main focus on as a payment method how efficient the stable coin is
+1:17:20
+and I do agree with that part but as a user I would be more concerned about the
+1:17:27
+safety of my money. Like I want I want my money $1 is $1. But um since there
+1:17:35
+are too many like uh compared to dollars there are too many like non-payment
+1:17:40
+activities on stable coins. For example like on some of the exchange like
+1:17:45
+hyperlquid or aster users get traders they can get like hundreds of leverages
+1:17:53
+on the stable coins. Uh just give you an example like this morning the plasma um
+1:18:00
+plasma uh the price of a plasma it should be packed to dollar which is $1
+1:18:05
+per token but today it went up to $4
+1:18:10
+which is like crazy and aster also like other aster reimburst the traders for
+1:18:18
+the loss. But uh anyway talking back as a user like how could stable coins be
+1:18:26
+guaranted that their value would always be one? So how uh is there any way out
+1:18:33
+to I'm not familiar with the um uh the the coin you mentioned. Is that a fiat
+1:18:39
+stable coin? Uh it is a no. It's it is a define stable coin. It's an algorithmic stable coin. Yeah.
+1:18:45
+Yeah. Exactly. where which we've clearly learned uh algorithms are not um capable
+1:18:52
+of maintaining value. I mean uh we've all forgotten the catastrophes of a couple years ago and it's amazing how
+1:18:59
+fast people forget. Uh but uh you know what we've been talking about here today is fiat based stable coins which are
+1:19:06
+designed not to have that um variation in value. Now, there are some risks with
+1:19:13
+any collateralbacked asset as we learned with money market funds and uh breaking
+1:19:18
+the dollar, but they're much smaller than the type of variation you'd like to like see in any algorithmic statement.
+1:19:25
+um that uh the directors of the Genius Act were very clear that this is about
+1:19:31
+stable coins as as a payment vehicle um and not about um stable coins that have
+1:19:37
+inherent volatility and price tied to algorithms which attempt to come up with
+1:19:43
+fancy solutions to maintain value through trading. I think the number one thing when interacting with crypto is uh
+1:19:49
+which is a lot to put on a user is like understand who you're trusting. And so with USDC for example, okay, you're
+1:19:57
+trusting Circle and in 2023 Circle DPEG. Why did Circle DEG? Because SVB went out
+1:20:03
+of business and Circle had money with SVB. And so eventually they got that money back. So back.
+1:20:09
+Um and people made money on that trade. They're like, "Oh, this $1 is now costing me what did it go down to? 92
+1:20:16
+cents or There we go." So, people made a ton of a
+1:20:22
+lot of money on that trade. Like, I believe that the this is going to be either FDIC insured or they're going to
+1:20:27
+figure out some other way and boom, like you've paid 87 cents for a for a dollar.
+1:20:33
+Okay, we're going to uh let people get some coffee uh and have a little break and start again. Well, uh, supposedly to
+1:20:40
+five minutes, but I'm guessing we'll we'll be a little behind that. Thanks to the panel.
+1:20:46
+[Applause]
+

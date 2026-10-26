@@ -1,0 +1,978 @@
+
+Search in video
+Welcome
+0:03
+[Music]
+Introduction
+0:14
+Virus rule book version 2.0 effective June 19 2025 introduced harmonized
+0:20
+definitions across all activity rule books. This is um not merely an
+0:25
+incremental provision. It represents fundamental recalibration of the regulatory landscape for vast under var
+0:32
+preview. Its implications are broad and deep signaling a pronounced shift and
+0:38
+regulatory expectation, tighter controls or margin trading and a new token distribution framework. Key updates
+0:45
+include mandatory far travel rule compliance, realtime risk uh prolifering, stricter uh custody and
+0:51
+insurance disclosures and required freight blade penetration testing under the technology rail book. Vara has also
+0:59
+shifted toward proactive informment with audits and inspections for non-compliance. One must therefore
+1:06
+consider how will this new found definitional clarity impact the crossber
+1:11
+recognition of the viral license activities particularly in jurisdictions with less precise virtual asset
+1:16
+taxonomies. Does it pave a more accelerated path towards greater interoperability in global crypto
+1:23
+regulation or will subtle national legal nuances still present significant
+1:28
+friction? I'm Dr. And this is by the rules, a fact-driven
+1:33
+podcast that unpacks the regulation, policy debates, and compliance challenges of shaping emerging
+1:38
+technologies. And uh as a policy expert in this fascinating space, it's my
+1:43
+privilege to guide you through the latest developments. Each episode draws on detailed research based on official
+1:50
+sources, consultation papers, and reports published by uh national regulators, central banks, and
+1:57
+international organizations. We do this deep dive so you our listeners can stay
+2:02
+truly informed and equipped to navigate the complexities of this evolving landscape. Also any numbers mentioned
+2:10
+here are subject to change. So for up-to-date information please visit the regulators website. If you enjoy our
+2:16
+work please like, subscribe and share the podcast to help others stay informed about um emerging technologies
+2:23
+compliance and regulation. You can also find me on LinkedIn if you have questions. I'm always keen to engage
+2:29
+with quick questions um offer insights on antimmandaundering support or provide expert guidelines for direct inquiries.
+2:36
+You can always feel free to email us. The podcast is purely for educational andformational purposes and does not
+2:42
+promote investment nor endorse any technology. Its sole purpose is to explain how the rules operate, expose
+2:49
+unresolved gaps in the regulatory framework and direct you to authoritative guidance. For specific
+2:54
+legal or compliance obligation, you must always consult the relevant supervisory authority and qualified professional
+3:00
+advisors. And now let us begin. Today we dive into the UAE which carries
+3:05
+distinctive weight in the global digital finance transformation being a strategic gateway between east and west. The
+3:12
+Middle East largest fintech hub hosting a quarter of all regional fintech companies and an ambitious nation
+3:18
+pursuing the world's most comprehensive blockchain integration strategy. While the UAE hosts multiple financial
+3:24
+regulators including the central bank, SCA and ADDM, this episode focuses
+3:30
+predominantly on the Dubai VAR which has exclusive jurisdiction over virtual asset activities within the Emirate of
+3:37
+Dubai excluding the IFC.
+Strategic Context & Rationale
+3:45
+Why it matters now? Since launching its economic diversification strategy, the UAE has positioned um digital assets at
+3:52
+the head of its we the UA 2031 vision, aiming to cut oil dependence, currently
+3:59
+25.4% of the GDP and grow the digital sector share to 19.4% of national
+4:06
+output. In 2025, Kim mileston's advanced version with VAR playing a a private
+4:11
+role. February saw the release of Varys comprehensive 2023 virtual assets and
+4:18
+related activities regulations, the world's first tailored framework for virtual assets with detailed rule books
+4:24
+for seven license activities. By September 2024, VAR and the Securities and Commodities Authority SCA uh
+4:32
+launched a unified national framework for VIPs streamlining regulatory pathways for VIPs across Dubai and the
+4:38
+US mainland jurisdictions. uh far uh phased rollout aimed to establish the UA
+4:43
+as a global digital asset hub linking Asia, Europe and the Americas. It serves as the world's first independent virtual
+4:51
+asset regulator covering Dubai excluding the IFC and works alongside ADM and SCA
+4:57
+to ensure full regulatory coverage. This three regulator model reflects the UA's federal system while positioning VARA to
+5:05
+lead on consumer platforms and web preovnovation through align frameworks taxarity and integration international
+5:11
+development plans. The UA enabling sustainable institutional adoption while
+5:16
+uh preserving adaptability as global standards evolve.
+Regulatory Classification & Adoption Drivers
+5:24
+Before exploring how VAR's framework evolved, it's essential to understand its foundation. Vara defines virtual
+5:31
+assets uh broadly as digital representations of value that can be traded, transferred or used for payments
+5:37
+or investments including virtual tokens. This broad and uh technology agnostic
+5:43
+definition uh intentionally provides VAR with decretion in determining regulatory
+5:48
+applicability focusing on activities rather than specific asset types and its model is activity based focusing on
+5:54
+seven licensed services advisory broker dealer custody exchange lending and
+6:01
+borrowing payments and remittance and management and uh investment services.
+6:07
+Importantly, the regime does not license specific assets. Uh instead, it supervises how assets are used within
+6:15
+regulated activities, ensuring a dynamic response to emerging technologies. Notably, algorithmic stable coins,
+6:21
+privacy tokens, and anonymity enhanced cryptocurrencies are banned across all EU jurisdictions including VAS. Now, can
+6:29
+a single regulator receive the global narrative on digital assets? Well, Virus
+Regulatory Tone & Language
+6:35
+Rice suggests the answer is yes. Forest 2022 lands marked a decisive shift in
+6:40
+the UAE's approach to virtual asset regulation. Dubai loan number four of 2022 introduced terms like economic
+6:48
+acceleration, global hub positioning and next generation innovation signaling and broad strategic vision. Vash funding
+6:55
+statements frame Dubai as regional and international hub or virtual assets committed to uh responsible safeguards.
+7:03
+By 2023, Varstone became more innovation oriented with a federal regulation
+7:08
+promoting economic sustainability and crossber financial security. The focus moved from defensive risk controls to
+7:14
+regulatory sanity and market clarity. In 2024, messaging reached the high point
+7:21
+of collaboration and future aritness. The September ACA V uh joint framework
+7:27
+uh was described as a pivotal milestone for stringary cohession and the third vision for interoperable ecosystem.
+7:35
+By 2025, VAR fully embraced innovation and implement using terms like gold
+7:41
+standard risk assurance and worldclass regulatory framework positioning itself
+7:46
+as the world's first independent virtual asset regulator. This evolution in language from cautious
+7:54
+oversight to global leadership aligns with the US broader vision 2071 goals of
+7:59
+technological and economic transformation.
+Historical Regulatory Timeline
+8:06
+How did Dubai go from blockchain trials to setting global crypto standards?
+8:11
+Well, between 2018 and 2021, the UA's approach to digital asset emerged
+8:17
+through broader technological initiatives. The Emirates blockchain strategy 2021 lands in April 2018
+8:24
+achieved its target of converting 50% of government transactions to blockchain by 2021 generating uh 11 billion uh dirhams
+8:33
+in annual savings. During 2019 2021, federal regulators began laying legal
+8:39
+foundations. Federal degree law number 20 of 2019 defined virtual assets and
+8:45
+VASPs subjecting them to full anti-money laundering and SF compliance. In March
+8:52
+2022, Dubai established VAR under law number four of 2022, the world's first
+8:59
+independent virtual asset regulator with authority uh over all digital asset
+9:04
+activities in Dubai, of course, excluding the IFC. At the federal level, cabinet resolution number 111 of 2022
+9:12
+designated the SCA as the primary regulator while allowing local authorities like VAR to license and
+9:19
+supervise activities within their jurisdiction. On February 7, 2023, VA
+9:25
+issued its first virtual asset and related activities regulation comprising four compulsory rule books and seven
+9:32
+activity specific rule books covering advisory uh broker dealer, custody, exchange, lending and borrowing uh
+9:39
+payments and uh remittance and management and investment services and formula become uh swiftly. Varafine
+9:47
+digital exchange opnx uh 10 million dirham and its co-founders 200k uh
+9:55
+dirham it's for operating without proper licenses. In September 2024, VAR and the
+10:01
+sea formalized a unified regulator framework and a bar license firms to operate across the UAE while maintaining
+10:09
+alignment between federal and emirate level oversight. In October 2024, the UA
+10:15
+introduced a landmark uh VAT exemption on cryptocurrency transactions uh retroactive to January 1st 2018,
+10:22
+aligning crypto taxation with traditional financial services. By 2025,
+10:27
+VAR continued uh refining its regime, issuing updated market regulations effective October 2024 that limit
+10:35
+virtual asset promotion to license and entities. It's also a deepened international regulatory cooperation
+10:40
+through formal agreements uh with the global authorities.
+Current Regulatory Rulebook(s)
+10:48
+Now what do compliance company market conduct and technology and information rule books reveal about its regulatory
+10:55
+philosophy? The VA compliance and risk management rule book forms the operational backbone for every bar uh
+11:02
+licensed in Dubai. Compliance in Dubai's virtual asset sector is firmly rooted in
+11:07
+the robust framework of UAE federal rules and cabinet resolutions. The cornstone of this framework is federal
+11:14
+degree loan number 20 of 2019 on combating money laundering and the financing of terrorism which not only
+11:21
+criminalizes illicit financial activities but also establishes a comprehensive set of national IML and
+11:28
+CFT obligations. This foundational law specifically mandates a risk based approach to compliance, requires the
+11:35
+submission of suspicious transaction reports to the UAE financial intelligence unit and uh imposes a
+11:41
+minimum 8year recording application for all relevant data. This law is uh
+11:47
+operationalized through cabinet uh resolution number 10 of 2019 which
+11:52
+provides detailed instructions for implementing uh undemanded laundering frameworks including appointing a
+11:58
+dedicated demand laundering compliance officer maintaining internal controls
+12:04
+clients and beneficial owners and training staff. In addition, cabinet resolution number 74 of 2020 introduces
+12:11
+targeted financial sanctions obligations. This requires daily screening of clients
+12:17
+and counterparties against both the UA local terrorist list and the UN section list. If a match is found, assets must
+12:24
+be frozen immediately and reported to the financial intelligent units within 24 hours. There's also cabinet
+12:31
+resolution number 109 of 2023 which mandates identification and disclosure
+12:37
+of the ultimate beneficial owners and resolution number 111 of 2022 which
+12:42
+introduces specific uh IML and uh CFT obligations for VAPS including the travel rule wallet screening and
+12:49
+monitoring for high-risisk jurisdictions. These domestic obligations are reinforced by uh
+12:54
+international best practices and standards. FAR aligns closely with the FAT 40
+13:01
+recommendations and their updated guidance from 2019 to 2025. These
+13:07
+updates clarify that regulations should apply to entities based on function not
+13:12
+form meaning defy platforms or privacy enhancing services are not exempt. The FAR has also uh repeatedly stressed the
+13:20
+need for travel rule compliance, robust customer due diligence practices and effective uh supervision of high risk
+13:26
+activities like P2P transfers, mixers and privacy coins. Crucially, customer due diligence must be diligently applied
+13:32
+before the establishment of any business relationship or the execution of significant transactions for clients
+13:40
+identified as high risk including but not limited to those utilizing unhosted wallets engaging in large value cast
+13:46
+transactions if applicable or transacting in privacy coins. Enhanced due diligence uh procedures are a
+13:54
+mandatory requirement under FAR compliance rule book. Every boss must establish a comprehensive and
+14:00
+independent uh compliance management system or CMS. At the center of this
+14:06
+system is the compliance officer who must have at least 5 year of a compliance experience, be based in UAE
+14:13
+and be approved by VAR as fit and proper. The compliance officer must be full-time employee and report directly
+14:19
+to the board of directors. The responsibilities include implementing compliance policies, u monitoring
+14:25
+internal controls, training staff, overseeing antimatter laundering frameworks, conducting regular risk
+14:30
+assessments, and escalating material uh breaches of law or regulation. The CMS
+14:36
+itself must uh span all areas of the VASP business and include clear documentation, unrestricted access to
+14:42
+compliance records, and a risk based uh internal monitoring program that tests for vulnerabilities across various
+14:48
+factions. While the compliance officer may delegate specific tasks, they retain
+14:53
+full accountability and any delegation must comply with various outsourcing
+14:59
+standards. The rule book places equal emphasis on establishing a fit for
+15:04
+proposed risk management framework. This framework must be tailored to the vast size, complexity and business model.
+15:10
+Risks to be addressed include financial risks such as uh market volatility, credit exposure and liquidity
+15:16
+mismatches, uh operational risks like system failures of fraud, uh cyber security threats and uh conduct related
+15:23
+risks including poor client on boarding and adequate governance or miscellane marketing. The framework must be updated
+15:30
+regularly and presented uh to the board on a quarterly basis. A clear distinction is also made between the
+15:36
+compliance officer and the laundering officer. While the same person may hold both roles, there must be no conflict of
+15:43
+interest and each function must be remain effective in its own right. When it comes to transaction monitoring and
+15:50
+um uh anti-money laundering procedures, the rule book is explicit. VAS must
+15:55
+monitor all transactions for suspicious activity using both automated and manual
+16:00
+systems. Suspicious transaction report must be filled immediately with the UE financial intelligence unit. The
+16:07
+customer due diligence must be applied before any business relationship begins
+16:12
+for high-risk clients such as those using um unhosted wallets of transactions or or transacting in
+16:18
+privacy coins and hash due diligence is required. In addition, threshold transaction reports must be submitted
+16:25
+for all transactions exceeding uh 55k dirham and at no point should a client
+16:31
+be tipped off about a pending or submitted report. A clear distinction is also made between the compliance officer
+16:37
+uh and as I said earlier the anti-manded laundering officer. Uh record keeping obligations are uh stringent. Uh VAS
+16:44
+must retain all compliance related documentation for a minimum of eight years or longer if uh specifically
+16:51
+mandated by other regulations including the know your customer records, transaction histories, um audit logs and
+16:58
+minutes of internal compliance meetings. These records must be well organized and available upon request by VA or other
+17:04
+regulatory authorities. Financial records must include a general ledger uh capturing income, expenses, assets and
+17:11
+liabilities as well as individual client statements and logs of internal investigations.
+17:17
+Audit requirements are also clearly defined. FASP must undergo an annual external audit uh conducted by an
+17:24
+independent third party firm. This audit must cover both financial statements and the effectiveness of the VASP's internal
+17:31
+control environment. In parallel, a separate uh internal audit function must be established
+17:37
+ideally independent of business units and must conduct at least quarterly reviews. Audit findings must be
+17:44
+communicated to senior management and addressed without delay. Any failure to act on audit recommendations could
+17:51
+result in regulatory action. All records must be miciously organized,
+17:57
+easily retrievable and uh readily available for immediate submission upon
+18:02
+request by VA or other uh competent regulatory and law enforcement authorities. Financial records must
+18:10
+provide a clear and accurate representation of the vast financial position and comprising a comprehensive
+18:16
+general ledger detailing income, expenses, assets, including virtual assets and liabilities alongside
+18:21
+individual client statements and detailed logs of all uh internal investigations or inquires. If a VASP
+18:28
+outsources any of its compliance or risk functions, it remains fully responsible for regulatory compliance. uh contracts
+18:35
+with thirdparty providers must specify audit rights, access to data and cooperation with regulatory bodies.
+18:41
+Outsourcing arrangements must be reported to VA and service providers especially those located outside the UA
+18:47
+must adhere to equivalent compliance standards. Reporting applications are
+18:52
+equally uh extensive. Each month, VAPs must submit balance sheets, income statements, a list of uh all wallet
+18:59
+addresses and details of final transactions involving related partners or group entities. Quarterly submissions
+19:05
+include board meeting minutes, updated uh risk assessments and certifications of compliance with financial and capital
+19:13
+requirements. Once a year, VASP must deliver a comprehensive package that includes uh audited financial
+19:18
+statements, attestation of compliance by senior management, on boarding documentation for a sample of clients
+19:24
+and it's part of the firm's full groups uh structure including UBOS and executive uh biographies.
+19:31
+Vara may also request ad hoc information at its uh decretion and VAPs are
+19:38
+expected to respond without delay. The rule book also contains mandator regulatory notification triggers. This
+19:44
+include the appointment or resignation of key personnel such as the compliance officer, money laundering, reporting
+19:50
+officer or any senior management position, initiation or material development of any legal or
+19:57
+administrative processes against the VASP or its executives, material bridges of regulatory obligations included
+20:03
+bridges of financial requirements or IML safety meditates or any cyber security
+20:09
+incidents or data breaches failing under the scope of the technology and information will book any other event
+20:15
+that could materially impact the VAP's ability to meet its obligations or maintain its license. Uh these events
+20:21
+must be reported to VAR immediately. Delays are considered a compliance
+20:27
+failure in their own right and can lead to significant penalties. There is also an important framework for sponsored
+20:33
+VAPs in VR book. This model allows a fully licensed and vara regulated
+20:39
+sponsor to extend its regulatory umbrella to smaller often nent virtual asset firms referred to as the sponsored
+20:46
+VAS enabling them to operate within Dubai's regulated environment provided bar grants explicit and prior approval.
+20:53
+Under this arrangement, the regulated sponsor assumes significant responsibilities including uh conducting
+20:59
+regorious due diligence on the sponsored VASP appointing a designated responsible
+21:05
+officer uh within the sponsored VASP who serves as the primary point of contact for the sponsor and VAR.
+21:12
+Maintaining separate and distinct accounts and records for the sponsored VASP. ensuring the uh sponsored vast
+21:20
+full and continuous compliance with all applicable v uh rule books and
+21:25
+regulatory requirements. Crucially, the regulated sponsor remains fully and uh uneducy um accountable for the conduct
+21:33
+compliance and overall regulatory adherence of the sponsored bus. While this model is designed to foster
+21:39
+innovation, facilitate market entry for emerging virtual asset business and uh
+21:44
+support uh scalable growth, it uh inherently comes with hent responsibility, regorous oversight and
+21:51
+substantial liability for the sponsoring entity. Now at its core, the company
+21:57
+rule book applies to all VAR licenses operating under the 2023 virtual assets
+22:03
+and uh related activities regulation. It requires every Vasp to be legally incorporated and have physical presence
+22:10
+in the Emirates of Dubai and um structured in a way that fits the nature of its license activity. For example, a
+22:18
+VASP offering custody or exain services may be required to operate as a private joint stock company to ensure a higher
+22:25
+level of corporate discipline and regulatory scrity. Vora has full education over what forms
+22:32
+are acceptable for each activity type. The rule book is especially clear about
+22:38
+ownership transparency. All VAPs must disclose and maintain accurate, verifiable and up-to-date
+22:44
+records of the ultimate beneficial owners. This includes direct and indirect ownership and control. Any
+22:52
+changes in ownership, control, structure or even governance uh composition must
+22:57
+be reported to VA either in advance or immediately after depending on the nature of the change. V may reject or
+23:05
+revoke a license if it if it finds the ownership structure um is too complex,
+23:12
+overly uh concentrated or if it poses a risk to the integrity of the Dubai
+23:17
+ecosystem. One of the most critical features of the company rule book is its requirement for paid up capital and
+23:24
+reserve asset thresholds which uh vary activity. These financial safeguards are
+23:29
+meant to ensure business continuity and protect customer assets and provide a
+23:34
+buffer against unforeseen financial stocks which vary depending on the type of virtual asset activity conducted.
+23:42
+These requirements are designed to ensure that paths remain uh financially resilient, can operate without
+23:48
+disruption and can protect client assets even during adverse conditions.
+23:54
+For example, a VASPA provider an advisory services must maintain a minimum paid app capital of 100K DOM.
+24:01
+Whereas those offering broker dealer services need to hold either 600k uh DAM
+24:08
+or 25% of their fixed annual uh overheads whichever is higher. However,
+24:14
+if the broker or dealer is also licensed for custody services or has been approved according accordingly during
+24:20
+the licensing process, uh the threshold is slightly lower the grade of um 400k
+24:25
+or 15% of fixed annual overheads. Similarly, custody services require at
+24:31
+least 600k DAM or 25% of overheads and exchange service can require as much as
+24:37
+1.5 million or um 25% of overheads depending on whether custody services
+24:44
+are integrated. Less operationally complex activities like lending, transfer and sentiment or virtual asset
+24:50
+management services generally require 500k or 25% of fixed uh overheads unless
+24:56
+caster is involved in which case reduced threshold such as um 28,000k
+25:01
+or 15 uh% may apply. So in simple terms this means that each VASP must calculate
+25:08
+fixed annual overheads and ensure it always maintains the greater of the fixed capital minimum or a percentage of
+25:15
+those overheads. This ensures the firm is adequately capitalized for its actual
+25:20
+operating scale. Also the VA rule book uh mandates that each VAS maintain reserve assets in one to one ratio
+25:28
+against client liabilities. Uh well, this practically means that for every unit of virtual asset the VASP owns to
+25:35
+uh clients, it must hold an equivalent amount of the same asset as a reserve
+25:41
+immediately and at all times. For example, if a VASP holds one bitcoin on
+25:47
+behalf of clients, it must also maintain one bitcoin in reserve assets, bringing
+25:53
+the total financial safeguard to two bitcoin uh one bitcoin owed and one bitcoin in reserve. These reserve assets
+26:00
+must be held in eligible liquid assets of the same kind and are uh subject to
+26:06
+daily uh internal uh reconciliation. Additionally, VAPs must conduct
+26:11
+independent third party audits in a daily basis and submit audit result as part of their quarterly feelings to VAR.
+26:19
+Any shortfall in either paid up capitals, net liquid assets or reserve assets must be reported to VAR
+26:25
+immediately with clear details on the deficit root causes plant uh corrective actions and a timeline. Uh daily
+26:33
+progress updates must be provided until full compliance is restored. Failure to meet this requirement can trigger
+26:39
+regulatory enforcement actions on governance. The role book mandates that any person in a designated role such as
+26:46
+the CEO, CFO, compliance officer or the money laundering officer must be
+26:52
+preapproved by VA through a fit and proper assessment. This review looks at their qualifications, financial
+26:59
+integrity and professional background including any past disciplinary actions or convictions. The board of directors
+27:06
+must also be structured to ensure independent oversight and it must meet
+27:11
+regularly to review risk compliance and financial matters. The firm must demonstrate that key decisions are made
+27:18
+through formal processes and properly documented. The company rule book also establishes strict standards for
+27:24
+outsourcing. While VAPs are allowed to outsource and non-core support functions
+27:29
+such as IT, legal or compliance, the responsibility for regulatory compliance
+27:34
+always remains with the licensed entity. Outsourcing agreements must be governed by detailed contracts that include
+27:40
+provisions for audit rights, data access, and regulatory cooperation. VAR
+27:46
+may prohibit outsourcing where it believes it introduces unacceptable risks or for example undermines
+27:52
+effective supervision for VAPs that are part of a group structure. Uh for example, subsidiaries
+27:59
+of global crypto firms, VA requires additional transparency and controls. These firms must ensure that there are
+28:05
+clean lines of accountability uh functional separation between entities and robust controls to protect the Dubai
+28:12
+entity from risk as spillovers. VA may also impose additional capital or governance requirements depending on the
+28:18
+complexity and size of the group. Finally, the company rule book imposes mandatory notification obligations. This
+28:24
+include changes to ownership uh governance, UBO's, financial position or
+28:30
+business model and VA must be notified in advance of any material changes or
+28:36
+immediately after depending on the situation. Failure to notify is treated as a breach even if uh the change itself
+28:44
+was otherwise lawful. So in a sense the company rule book ensures that every
+28:50
+vast license in Dubai is financially sound transparently owned uh competently
+28:56
+managed and structurally accountable uh thereby safeguarding the integrity of
+29:02
+the virtual asset ecosystem. Next up is the market conduct rule book which sets
+29:07
+the standards for how VAPs interact with clients, market their services, handle compliance, and maintain fairness and
+29:15
+transparency in all business practices. Under the 2024 VAR market and regulation, only VAR license or their
+29:22
+approved agents may market virtual asset or related services in or targeting the
+29:28
+UAE. All promotional uh content including ads, social media posts, airdrops, events and educational
+29:34
+materials must be clean, fair and accurate and not misleading. Risk uh disclaimers are mandatory warning that
+29:41
+virtual asset in investments are volatile, unprotected and may result in
+29:46
+total loss. Tactics like uh guaranteed uh returns, urgency messaging or
+29:52
+marketing of anonymity, enhanced uh cryptocurrencies are banned. Refalile uh
+29:57
+incentives must be pre-approved by barra and cannot mislead investors. Platforms
+30:02
+and event organizers must enforce compliance, apply geob blocking and uh vet both content and attendees.
+30:09
+Influencers are also fully accountable. All marketing records must be kept for 8
+30:15
+years and non-compliance can lead to fines uh for up to 10 million per violation with higher penalties for
+30:22
+repeat offenses. Before providing any service, pass must sign a formal written
+30:27
+agreement with each client. These agreements must be fair, transparent, and comply with consumer protection
+30:32
+laws. Clients must be notified of changes at least 30 days in advance and VAS must retain records of all agreement
+30:40
+versions. The content must uh identify both parties, describe the services and
+30:46
+face list communication talent uh channels and disclose any use of third party providers.
+30:52
+It must clearly state who retains ownership of the assets. By default, ownership stays with the client and
+30:59
+include risk warnings for forks, unsupported tokens and airdrops. It must also confirm that clients assets are not
+31:06
+protected under any governmentbacked deposing insurance sim for specific services like lending, borrowing or uh
+31:12
+staking. The agreement must further detail the specific mutual asset involved application loan to value
+31:19
+ratios the rights of all parties regarding collateral um clear interest
+31:24
+payment terms including uh variable rates and communication of changes. How
+31:30
+and when assets are held and returned. the explicit consent required for the
+31:35
+vast use of client assets and detailed explanations of all associated risks and
+31:40
+uh potential for loss. On the topic of uh complaints, uh VASPs must knowledge
+31:45
+received within 7 days and resolve issues within 4 weeks extendable to 8
+31:51
+weeks if if needed. FIMS must publish complaint uh handling procedures and
+31:57
+address uh systemic issues that arise. All complaints and resolutions must be
+32:02
+recorded and kept for eight years. Every client must be classified as a retail qualified or institutional investor. Um
+32:10
+qualified individuals must demonstrate relevant financial knowledge and meet thresholds of either 3.5 million in net
+32:18
+assets or an annual income of uh 700K. Entities must meet the same thresholds
+32:24
+and so that directors are financially competent. Institutional investors include regulated financial firms,
+32:31
+central banks um bus themselves and governments or multilaterals with
+32:38
+adequate understanding of virtual assets. This classification uh is crucial as is uh dictates the level of
+32:44
+disclosures uh suitability assessments and protection afforded to its uh client
+32:51
+segment. VAPS are also required to make public disclosures of their VA license number, approved activities, uh license
+32:58
+uh validity and the responsible individuals. They must also warn the public about the risk of uh investing in
+33:05
+virtual assets um highlighting issues like market volatility, fraud, irreversibility of transactions and the
+33:12
+absence of legal protection or deposit uh guarantees. These disclosures must be
+33:17
+easily accessible on their official websites and with uh within client agreements to prevent market abuse. FASP
+33:23
+must keep um detailed uh insider lists of individuals or entities with access
+33:29
+to non-public market sensitive information. These list must record the the access reason uh start date and
+33:36
+acknowledgement of legal duties and must be retained for 8 years. VASPs also need internal policies requiring pre-approval
+33:44
+and bania disclosure of staff or board uh positions in other virtual asset
+33:50
+projects. Any conflicts of interest must be addressed uh swiftly. Specific
+33:55
+measures to prevent market abuse include systems for monitoring uh for common manipulated practices such as trading,
+34:03
+spoofing, layering and pump and dump uh schemes extending to both onchain and of
+34:09
+chain activities. VA prohibits VAS from engaging in uh active uh property
+34:16
+trading except for basic treasury or liquidity uh proposes. VA decides whether trading qualifies as active
+34:23
+based on volume, frequency or profitability. Group entities in Dubai must also comply and all activity must
+34:30
+be reported under the compliance rule book. Again, firms must retain this record for eight years. Finally, it's
+34:36
+VASP must implement internal virtual asset standards to evaluate which token or coins they list or support
+34:42
+considering market data, liquidity, protocol structure, regulatory status, issue credibility, legal risks, and
+34:50
+potential for manipulation. Films must monitor assets on an ongoing basis and
+34:56
+suspend any that no longer meet these standards. Assessments must be
+35:01
+documented, kept for eight years and shared with VA when requested. This includes assessing the underly
+35:08
+technology, decentralization levels, governance mechanism and any associated smart uh contract vulnerabilities. Now
+35:15
+under the technology and information rule book, all VAPs licensed by Vara in Dubai are um required to implement a
+35:23
+comprehensive technology governance and risk assessment framework tailored to their business model. This framework
+35:29
+must align with the virtual assets and related activities regulations 2023 and
+35:34
+Dubai law number four of 2022. It supplements other uh rule books
+35:40
+including company market conduct and compliance. The framework must address technology specific risks using defense
+35:47
+in depth strategies covering system uh objectives, controls, governance,
+35:52
+capacity planning and performance. It must be reviewed and tested regularly and a chief information security officer
+36:00
+must be appointed. Each Vasp must submit a cyber security policy to VA reviewed
+36:07
+annually covering a wide range of areas including access control, network
+36:12
+security, smart contract validation, incident response, system resilience, vendor management, uh ransomware uh
+36:19
+mitigation and data governance. This policy must comply with local laws such as the Dubai's digital services law
+36:26
+number nine of 2022, the UEA personal data protection law uh PDPL federal
+36:32
+decree law number 45 of 2021 and the central bank's uh consumer protection
+36:38
+regulation notice uh number uh 444 of 2021. key and wallet management policies
+36:44
+must ensure secure uh key generation seed phrase protection uh transaction
+36:50
+approval and physical uh separation of backups. FAPs must maintain access logs,
+36:56
+conduct uh quarterly internal audits and revoke access immediately when needed.
+37:01
+Clients must be advised on private key security. Annual external penetration testing is mandatory along with smart
+37:08
+contract audits and internal system reviews. But I may require threat penetration testing under specific
+37:15
+conditions carrying out by independent uh insured professionals. Emphasis is placed on cryptographic controls
+37:21
+including the use of fips um 140/2
+37:26
+validated hardware security uh modules for key storage and boost cold storage
+37:33
+solutions for the majority of clients assets. All virtual asset transactions must be traceable and integrated into
+37:40
+the IML CTF procedures. Systems must uh prevent collusion or manipulation
+37:46
+where algorithms are used in virtual asset services. VAPs must uh document logic and assumptions implementing
+37:53
+oversight and regularly assess performance. uh business continuity and cyber security recovery plans must be
+37:59
+tested annually covering system failures, failback sites and escalation procedures. Any significant incident or
+38:06
+plan uh activation must be reported to VAR within 72 hours including impact and mitigation analysis. The CISO must be um
+38:16
+competitent individual of good standing and separate from the compliance officer role. Staff training must must match
+38:23
+their uh exposure to virtual asset specific cyber risks. VASPs must also have procedures in place to protect
+38:29
+confidential information and prevent its misuse including trading based on insider data. Data minimization uh
+38:36
+principle must be applied ensuring only necessary data is collected and retained. Uh well in terms of data
+38:44
+protection, VAS must comply with the PDPL and other relevant crossber privacy
+38:50
+laws considering the location and transfer of personal data. They must implement a formal privacy compliancy
+38:56
+program and appoint a qualified data protection officer. If a bridge is
+39:01
+reported to regulator or affected data subjects, VA must be notified within 24
+39:07
+hours. Additionally, VA must be given access to relevant data where required.
+39:12
+Uh, schedule one of this rule book provides best practice guidance grouped into five risk categories. First, under
+39:19
+the organizational risks, MAPS must implement a security frameworks, pan and wallet and enterprise systems supported
+39:26
+by secure development life cycles and uh workforce security and controls. This include uh endpoint protection, role-
+39:32
+based access, uh background checks and formal uh onboarding of boarding procedures. Infrastructure must be fully
+39:39
+documented with asset uh inventories, network maps and centralized uh configuration management. Vasps must
+39:46
+also vet third party technology providers with due diligence, formal contracts and uh preferably multivor
+39:52
+strategies. In addition, firms must appoint a senior officer to oversee information security, set and enforce
+39:59
+acceptable use uh policies, segment internal uh networks and apply stronger authentication with least privilege
+40:06
+access across all systems. They must also continuously monitor critical systems, run regular internal security
+40:12
+audits and maintain business uh continuity and disaster recovery plans aligned to critical services and tested
+40:19
+at least annually. For technical risks, VAS must use um HSM for key iteration
+40:26
+and storage insure secure wallet creation and implement boost multi signature controls for a high volume
+40:32
+transactions. Smart contracts must be uh reviewed using static and dynamic um code analysis, third party audits and
+40:39
+penetration testing. Transaction verification must involve automated anomaly detection, realtime alerts and
+40:45
+formal resolution procedures. Basps must also maintain secure developer workstations and for strong multiffactor
+40:52
+authentication and conduct regular security testing before deploying updates. Key compromised plans just in
+40:59
+time access provisioning and temporary evident uh logging of um wallet operations are all mandatory. Android
+41:06
+detection sports real-time monitoring of internal activity and transaction flows is required including user behavioral
+41:12
+analytics and alert systems. VAPs must be capable of emergency hardening uh
+41:17
+forensic investigation, root cause analysis and remediation post incident. This includes a complete rotation of
+41:25
+compromised keys and rebuilding affected systems. Onchain analysis tools must be
+41:30
+used for tracing transaction and coordinating with other VAPs if necessary. For customer vital asset
+41:36
+protection, VAP must implement strong uh multiffactor authentication, suspicious
+41:41
+login detection and verification of high-risk withdrawals. Controls must include tired withdrawal limits, cooling
+41:48
+of periods and behavioral analysis. User educational source required covering social engineering risks and by security
+41:55
+practices. wallet uh concentration must be minimized through cold storage
+42:00
+custody by license providers and physical server distribution. Finally, digital uh operational resilience is to
+42:08
+be achieved through annual testing programs. This must cover a wide range of activities including vulnerability
+42:13
+scanning, penetration testing, open source analysis, uh physical security reviews, uh gap assessment, performance
+42:20
+ding, and scenario based drills. All weaknesses identified must be classified and remediated with independent
+42:27
+validation to ensure full resolution. Testing should focus on systems supporting critical or important uh
+42:34
+functions.
+Enforcement Landscape & Precedent Actions
+42:39
+Well, now how has VA used enforcement to signal its regulatory strength and
+42:45
+commitment to compliance? Uh Vora has emerged as one of the world's most active crypto regulators using
+42:51
+high-profile enforcement to reinforce its standards. In May 2023, it issued its largest penalties to date against
+42:58
+OPNX, the exchange linked to uh three arrows capitals founders. OPNX was fined
+43:04
+with 10 million of far offering exchange and marketing service without a VAR license while individual co-founders
+43:11
+were fined uh 200k for violating marketing rules. The case underscored
+43:17
+far zero tolerance for unlicensed activity, its willingness to impose personal liability and its policy of
+43:24
+publicly disclosing violations establishing clear accountability at both corporate and executive level.
+43:31
+In July 2023, VA suspended bit over conditional minimum viable product
+43:36
+license for failing to meet required conditions within the mandated uh 30 to
+43:41
+60 day period. the suspension bar a new client on boarding but allowed existing uh users to continue trading reflecting
+43:48
+VA's uh proportional approach following remediation bar lifted the suspension in
+43:55
+April 2024 reinforcing that uh corrective compliance is both expected
+44:00
+and achievable
+44:05
+now how has VAR framework positioned Dubai as a hub for both compliance and
+44:11
+innovation individual asset space for regulatory regime has attracted major regional and international players. Besa
+44:20
+basis exchange with over 6 billion in trading volume since inception remains licensed under VA after after a 2023
+44:27
+suspension. The platform successfully restored compliance and resumed operations. Rain based in Bahrain but
+44:34
+are operating extensively in the UAE is directly regulated by VAR and serves
+44:39
+185K users across the Middle East. Matrix exchange lights in August 2023
+44:45
+operates under VA licensing with focus on institutional clients and USD uh denominated trading. International
+44:52
+platforms such as Binance, BBIT and Crypto.com also maintain significant UAE operations with appropriate VAR
+44:59
+approvals were required. In parallel, VRA is deeply integrated with Dubai's
+45:04
+innovation ecosystem, particularly in the DMCC crypto center. Uh now one of
+45:10
+the world's largest blockchain business hubs, hosting over 650 blockchain and digital asset frames as of mid um 2025.
+45:18
+The center offers services including barary support, investor networking and accelerator programs reinforcing Dubai's
+45:25
+dual commitment to compliance and innovation.
+Upcoming Regulatory Developments
+45:32
+What future tools and frameworks will save Bar's next phase of regulatory innovation? Well, looking ahead, VAR is
+45:39
+advancing several next generation regulatory initiatives for 2025. In the
+45:44
+second quarter, it will release uh comprehensive regulations for defy protocols. This will require developers
+45:50
+to obtain licenses when protocols generate substantial transaction volumes
+45:55
+or serv residents uh making a global first in DeFi regulation. This landmark
+46:01
+framework will cover governance tokens, automated market markers, liquidity pools, uh yield aggregators and other
+46:08
+defy uh primitives uh signal and global uh precedent in decentralized systems
+46:13
+over. Uh in the third quarter, new rules will be introduced for institutional
+46:18
+virtual asset uh services including enhanced frameworks for qualified investor vehicles, virtual asset funds
+46:25
+management and prime bro uh brokerage services. These rules aim to bring professionals grade integrity,
+46:31
+transparency, and risk management to traditional digital asset markets. Throughout 2025, Aura is deploying
+46:37
+advanced blockton analytics and real-time uh surveillance systems futuring AI powered transaction
+46:42
+monitoring and automated suspicious activity detection. By the fourth quarter, it will implement uh technical
+46:49
+standards for cross chain wides and uh multi blockchain transaction monitoring. These will mandate service providers to
+46:56
+maintain full audit trails across multiple blocks and networks improving um traceability and compliance.
+Government & Market- Building Initiatives
+47:07
+Now how does VAR fit into the US broader strategy for building a global virtual
+47:12
+asset market? The UAE government has strategically embedded VAR within um
+47:17
+wider market building initiatives. Sara benefits from the Emirates blockchain strategy 2021 which successfully
+47:24
+migrated 50% of current transactions to block laying foundational infrastructure
+47:30
+for uh private sector virtual asset activity. It operates within Dubai's broader innovation ecosystem including
+47:36
+the DMCC a crypto center and the IFC innovation hub offering regulatory support to
+47:43
+startups across the blockchain and digital asset space. International Bora plays an active role in global
+47:48
+regulation forums and bilateral cooperation agreements contributing to the development of rutual asset
+47:54
+standards while keeping its frameworks aligned with international best practices.
+Key Takeaways & Priority Actions
+48:05
+Now what strategic action should follow from var revolution and market trajectory based on the analysis? Well,
+48:12
+the following priorities emerge. As for VA, they should panalize defy regulations uh by the third quarter of
+48:19
+2025. Clarifying rules of uh IMN's uh liquidity mining and governance tokens,
+48:25
+strengthen crossber coordination through real uh time enforcement mechanism under the C the SCA VA framework. Now for
+48:33
+industry uh they should standardize compliance tools like wallet reconciliation, asset segregation and
+48:40
+blockchain analytics. prepare for advanced surveillance and cross chain monitoring which is expected by the
+48:47
+fourth quarter of 2025. Uh use VA's guidance in Dubai's innovation ecosystem to scale and
+48:53
+expand. And for the consumers uh they should confirm v licensing before using
+48:58
+v virtual asset uh services avoid prohibited products such as privacy tokens and algorithms sable coins uh
+49:05
+participate in awareness and education programs to navigate the evolving virtual asset space. Now think can a
+49:12
+single regulator redefine global standards for digital asset governance balancing innovation, compliance and
+49:18
+market leadership from the heart of Dubai. Uh well most regulators focus uh on capital uh custody risk. VRA does
+49:26
+that but what really sets apart it's its clear emphasis on fair treatment and conduct standards.
+49:33
+It's not just about following rules. Bar expects firms to treat clients fairly,
+49:38
+transparently and responsibly with clear pricing, no hidden fees, proper
+49:44
+disclosures and accessible complaint handling. Under schedule one, fast must
+49:49
+show governance maturity, secure systems, conflict of interest policies and broad level oversight on how clients
+49:56
+are treated. Unlike checkbox regimes, VAR takes an outcomebased approach. Is
+50:02
+this fair? Is this reasonable? That's a higher bar. It's also the only regiment I've seen with onetoone uh reserve
+50:09
+requirements. If a client trades one bitcoin, the boss must hold one bitcoin in uh full in real time. No fractional
+50:18
+reserves that beats real trust. In effect, VA combines traditional
+50:23
+financial standards with next generation oversight saping ethical secure client
+50:30
+first firms. Vas risk guidance. The schedule one spans five areas. Organizational technological datas,
+50:37
+cyber security and outsourcing. Firms must have security policies, conduct
+50:43
+background checks, vet vendors and diversify service providers. What makes VAS model unique is its maturity
+50:49
+framework. It's not just about meeting the baseline. Firms are expected to
+50:55
+continually improve and provide it. This forward-looking high trust model puts
+51:00
+Dubai at the forefront of web pregovernance. Trust is not just expected, it's
+51:06
+codified. Well, if you found this episode insightful, don't forget to like, subscribe, and share. Stay tuned
+51:14
+as we continue to decode the future of digital finance, one regulation at a time. Thank you.
+51:22
+[Music]
+

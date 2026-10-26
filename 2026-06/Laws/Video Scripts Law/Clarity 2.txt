@@ -1,0 +1,733 @@
+
+Search in video
+Intro: Perianne Boring joins Block Party
+0:00
+Hello and welcome to this episode of Block Party. I'm Nick Carerry, co-founder and vice chairman of blockchain.com. And today I am joined by
+0:06
+an old friend, Perryanne Boring, founder of the digital chamber, one of the most influential voices at the intersection
+0:12
+of blockchain technology, public policy, regulation, and financial innovation. Uh
+0:18
+Perian, you have spent more than a decade helping bring together industry leaders and policy makers to shape the
+0:24
+future of digital assets in the United States and beyond. And we're currently in a time where crypto is no longer just
+0:29
+a niche nerdy thing like it was over a decade ago, but a core question to the future of finance and how we're going to
+0:36
+upgrade the financial systems of the world. So, we're really excited to get your perspective and views on that, especially from someone that's been
+0:42
+really at the epicenter of that policy discussion. So, a little funny fact about you, I think you you came from
+0:48
+journalism and you worked at sort of the intersection of journalism, public policy, geopolitics, and were sort of
+0:53
+breaking stories early in your career. When did you first learn about blockchain technology and what sort of triggered that? Oh, this there's a lot
+Crypto Ball, Snoop Dogg, and DC’s surreal crypto moment
+1:00
+going on here and there's something I'm much more interested in. Yeah, Nick, thanks. It's great to be here on the block party. I I think the
+1:08
+last time I saw you was at a party. Okay. The the crypto ball, [laughter] which I was pregnant at, so it wasn't I
+1:15
+did not have as much fun as everybody else, unfortunately. I think that night sober, too. It was just
+1:20
+the whole thing was like impressive and awkward at the same time. Oh, it was so bizarre. It was on one hand
+1:25
+there's like Snoop Dog doing a rap concert and then like this the incoming secretary of the Treasury standing next
+1:31
+to me at the bar. I have like a pregnant belly. I just want a glass of champagne. Those things don't look good together.
+1:38
+So, it was uh it was definitely the party of the decade for me. Um but I
+1:43
+couldn't enjoy it as much as everybody else. So, my my background and my interest is really in monetary policy
+1:49
+and financial policy. I grew up in a small town in Lakeland, Florida and I
+1:55
+was studying economics during the 2008 economic crisis which impacted everybody
+2008 financial crisis and discovering monetary policy
+2:01
+I knew, my friends, my family, every business that I knew of. It had a big
+2:08
+impact on people and I really wanted to understand what happened. as a student of economics, wouldn't that be a good
+2:15
+use of my time at school to understand what the heck is happening in my own community? And really, our professors
+2:21
+could not answer questions. And I still have my macroeconomics textbook, which
+2:27
+was written by at the time the chairman of the Federal Reserve, Ben Bernanki, and you know, the supply and demand
+2:33
+graphs just really weren't cutting it for a clear explanation. And the only person that could answer some basic
+2:39
+questions about what the heck happening uh was this doctor who was running for president who was Dr. Ron Paul. And he
+2:46
+really gave I think only the you know the most like clear and coherent explanation of of what was happening in
+2:52
+the the economy. And I became part of the Ron Paul revolution. I was like very much obsessed with him for like in my
+2:59
+early uh my early days and wanted to contribute to the work he was doing in
+3:05
+Washington. So, I applied to be a White House intern. I was the only person from Florida during the semester I was in the
+3:11
+White House. That was during the Obama administration. Um, I worked in the National Economic
+3:16
+Council of Adviserss as an intern. My job was help track stimulus funds, which I wasn't a huge proponent of. And really
+3:24
+got to see inside the belly of the beast of how the bailouts happened, who got them, who didn't get them, you know,
+3:30
+what exactly was happening in Washington, between Washington and Wall Street. And a lot of that was quite
+3:35
+controversial and things that um I felt we could do better as as a nation. So I
+3:40
+decided to dedicate my career to public policy. After I finished my internship and graduated from college, I moved to
+3:47
+DC. I worked on Capitol Hill as a legislative aid in the US House of Representatives. And that is where I
+3:54
+learned about Bitcoin. So I decided to go work in the House because that's where Dr. Ron Paul was. I didn't work in
+3:59
+his office, but I got to work in a fellow Republican office. Then I uh did a lot of work supporting his signature
+Learning about Bitcoin through Ron Paul-era monetary reform
+4:06
+pieces of legislation like in the Fed and audit the Fed and competing currencies and was part of the coalition
+4:12
+to get support before all that. So I kind of had a a bit of a name for myself on the hill as like this libertarian
+4:18
+pro- free markets limited government fix you know fix the money fix the world conversations that were happening pre-
+4:25
+Bitcoin and I had a very intelligent friend who was much smarter than me that came across Bitcoin at at some point in
+4:31
+time who just said hey you know this Bitcoin thing you know given how interested you are in monetary systems
+4:38
+and fixing the the monetary system this just might be a technology I think you would be interested in. And of course,
+4:44
+he was right. I was very excited by Bitcoin when I first learned about it. And that was in 2010 time frame. So
+4:51
+really very very early. I'm not a technologist. I actually sent the white paper to my dad who's a software
+4:56
+engineer and had him explain it to me. And he explained, you know, the the double spend problem and how that was a
+5:01
+real issue in computer science and how they actually did figure out that issue and that this was a real technical uh
+5:08
+leap and an advancement and the technology was solid. But for me, it was more about an opportunity to fix the
+5:15
+money and having technology available for everyday people to have an
+5:20
+alternative to central economic planning. And I spent several years studying it on my own and following this
+5:27
+space independently. I later was recruited into journalism. I worked for RT America, which is the uh Russia Today
+5:35
+uh news network, which is quite interesting. probably a story for a different podcast how I ended up in the
+5:41
+whole uh experience being an American working at a Russian news company but it is the second largest news network in
+5:47
+the world and it was a huge opportunity and I I had my own finance program and
+5:52
+that's when I met you Nick because I was one of the only people I think I was the first international broadcast journalist
+5:58
+that had Bitcoin as a regular beat on their show and I went to the very first Bitcoin conference ever in San Jose,
+First Bitcoin conference and early Blockchain.com stories
+6:04
+California in 2013. I was the only person that showed up with a camera. I think I interviewed you. I interviewed
+6:09
+Charlie Shrem. I interviewed all the greats at that event. And then I also
+6:15
+had the opportunity to cover a lot of the early stories that were so exciting in the Bitcoin space, which included blockchain.com's original fundraising
+6:23
+and financing. I think you I forget what the exact numbers were, but I think you
+6:28
+guys maybe did a $30 million raise. You followed it by a much larger one. Really good. Yeah. So, I got to break some big
+6:34
+stories. I did yours. I did Vicos financing and a number of others and it
+6:41
+was you know it was an exciting time and seeing a lot of really smart and young people raising real money to use this
+6:47
+technology to improve money to improve the financial system. Uh that was
+6:53
+something really incredible and after spending a year working for this Russian
+6:58
+company one year was enough for me. I ended up not renewing my contract for again a conversation for a different
+Founding the Digital Chamber
+7:04
+podcast and probably a a stiff drink. I ended up leaving media and I started the
+7:11
+digital chamber uh which is now 12 years old or will be turning 12 later this summer. But I wanted to put my focus
+7:18
+into advocating for this technology. I do feel the promise of Bitcoin, the promise of digital assets is is to fix
+7:26
+the money and fix the world and advocating for its acceptance and use and that's where I've spent my time, my
+7:32
+passion, my resources over the past decade plus.
+7:37
+Well, I am so glad you told us that story. I uh didn't know a lot of pieces of that including your dad sort of
+7:43
+bringing the technical lens to the white paper and you know we we've watched a
+7:48
+lot of fascinating early stories from the industry sort of get planted grow and mature for those that don't know the
+7:55
+US chamber of commerce is designed in Washington essentially as an organization to advocate on behalf of US
+8:00
+enterprises the digital chamber was sort of its like next iteration and I think um you know Pion you get a lot of credit
+8:07
+for raising the profile the industry on the world stage and would not have happened without you and I can see how
+8:14
+your early experiences in your career were all just sort of the building blocks for founding and building the
+8:20
+digital chamber which is so cool. Okay. Well, funnily enough, I was a precinct coordinator for the Ron Paul campaign.
+8:26
+So, we share more than a few things in common but he was one of the first people I agree that sort of diagnosed
+8:32
+and articulated the the the malaise in the American economy. And the problem was that we have been using a monetary
+8:39
+system that is essentially the ideology of a cancer cell. It grows in perpetuity. It constantly creates
+8:45
+inflation. It devalues people's savings and it perpetuates all kinds of perverse incentives. And it's not a right or left
+8:52
+problem. It's an everybody problem that is like a hidden tax. And unless you face the reality of that, um, they're
+8:59
+going to continue to have, you know, enormous budget deficits, runaway spending, all kinds of programs that one
+Crypto legislation and how laws get passed in Washington
+9:05
+side or another may not like, but whoever is in control gets basically access to this purse that just has an
+9:12
+unlimited supply of money in it. And so, if you want to have a realistic conversation, you know, no household
+9:18
+could ever run their finances that way without going bankrupt. And yet, we somehow forgive it at a at a federal
+9:23
+level. So anyway, I uh was a really, you know, he also really kind of took me
+9:29
+down this path of learning more about, you know, how money is created, where it comes from, the consequences of all of that. So anyway, let's pivot a little
+9:36
+bit because this has obviously been a huge year in Washington DC when it relates to public policy and it's been a
+9:42
+little while since I've taken a civics class and maybe you can help us understand how laws get created and then
+9:49
+specifically in the crypto space how we got two very important pieces of legislation. one has already been passed
+9:56
+and the second one, the Clarity Act, has recently been um sort of endorsed by the Senate Banking Committee and is going to
+10:02
+the Senate, but it is not a foregone conclusion. Can you give us a little bit of a a run of show for those that you
+10:09
+know don't remember their uh 101 constitution class? How do you get rules passed in in Washington DC? Well, even
+10:17
+if you ace your civics class, you probably don't, unless you've been inside the belly of the beast, it, you
+10:23
+know, probably doesn't do justice of how, you know, how things actually get done, at least today. And our founding
+10:29
+fathers created a system that has a log jam in it. And it's very purposefully was built to make it very difficult to
+10:36
+make new laws. Uh, and that was to limit the size of government and the scope of government. So, I just kind of have to
+10:41
+appreciate that it is quite difficult. So members of Congress, we have House and Senate, the lower and the upper
+10:47
+chamber. There's 435 House members, 100 members of the Senate for a total of 535
+10:54
+members of Congress. A bill can originate out of either chamber. Both chambers have to pass the bill
+10:59
+independently. They have to pass the same bill independently out of their own chambers. And then once that happens, it
+Why the CLARITY Act matters for digital assets
+11:06
+goes to the president's desk for signature. Now, there's a lot of politics that happen in that process.
+11:12
+So, we'll just use the Clarity Act, which is the crypto market structure legislation to kind of talk through what
+11:19
+exactly is happening with that bill today. This bill started over eight years ago. It originated in the House
+11:25
+Agriculture Committee, which is the committee that has jurisdiction over the commodity futures trading commission. Digital assets like Bitcoin, Ethereum,
+11:31
+and many others are commodities. They're not securities. So, it's really the CFTC that has primary jurisdiction over
+11:37
+digital assets. That's why this conversation originated from the agriculture committee. Um it was very
+11:45
+clear a very long time ago that we needed clear rules to the road defining
+11:50
+which digital assets are considered a commodity and which one are a security. Putting that in the books so businesses
+11:57
+know who their regulator is. They understand what the rules to the road are so their businesses can operate in a
+12:02
+legally compliant way without the threat of enforcement over their head. The
+12:08
+Biden administration really exploited that and turned that into a very very
+12:15
+untenable operating environment. They tried to kill the industry. They were um almost completely successful at that.
+12:21
+Many many businesses went out of business or they closed down or they left the country altogether because they
+12:28
+did not have a clear regulatory environment and regulation by enforcement was really out of control by
+12:36
+the federal regulators. So having that ambiguity of well okay if you're doing
+12:41
+business with Ethereum or Salana or pick your cryptocurrency we're not going to
+12:47
+tell you if that currency is a security or not. you're gonna have to guess and if you guess wrong, we're gonna come
+12:54
+after you. And that that was really the guiding principle of the Biden administration towards crypto and they
+SEC, CFTC, and the fight for regulatory clarity
+13:01
+were extremely effective in trying to slow this industry down, try to slow the uptake of the technology down. And I
+13:08
+think that's still a huge threat that faces our country if we do not get the Clarity Act passed into law. So putting
+13:15
+into statute clarifying which agencies have jurisdiction over which digital
+13:21
+assets is was really again the biggest thing that was used to try to drive the
+13:27
+industry offshore that ended up being extremely effective. So if we can get that into law then that issue will not
+13:34
+you know won't be an issue in the future and it futureproofs the work that's happening at the
+13:40
+agencies today. So, the bill originated in the House a number of years ago. Fast
+13:45
+forward to uh today, we have a House version. We
+13:50
+have a Senate version. In the Senate, we have a banking committee version. We have an ad committee version. The
+13:57
+banking committee version of the bill passed committee. It made it through its markup a couple of weeks ago. That still
+14:03
+has to be reconciled with what the ad committee is doing. Again, the ad committee oversees CFTC.
+14:10
+The banking committee oversees SEC. So together an SEC CFTC provides the
+14:16
+regulatory clarity that's most critical for the digital asset industry. So that
+14:22
+work of consolidating banking and ad committees uh respective pieces of
+14:27
+legislation still has to happen. Once that happened, it will go through those committees and make its way to the floor
+14:34
+for a vote. The House then has to take up the same bill. Today they have a different bill. So hopefully they will
+14:41
+take the bill the Senate is hopefully going to pass and bring it to the floor.
+14:47
+But what the House worked on and what the Senate worked on is different text. So there's a little bit of a risk there of could there be some politics? Could
+14:54
+there be some some additional negotiating? If the House doesn't accept the Senate version, it's going to go through, you know, all those chambers
+15:01
+and all those committees all over again. Uh assuming all of that can be reconciled. uh if we can get a bill
+15:07
+through both chambers in the next weeks or months then uh it will go to the
+15:13
+president's desk. We are hearing that the president wants to sign the bill on July 4th. Uh so I think he's expecting
+15:20
+all that work to be done by then. Hopefully Congress can get all their tucks in a row. Only my one one thing I
+15:27
+learned when I worked on Capitol Hill is a lot of legislation is political theater. It's not ever going to become
+15:33
+law. In fact, only 2% of legislation that's introduced actually becomes law. It's very, very, very hard to get a bill
+15:39
+through that whole process. The most important thing is to have a legislative pathway in place. You have to have the
+15:45
+right people in the positions of power and the congressional leadership that are going to drive the bill through the
+15:51
+legislative process. And if you don't have that, the bill's not going anywhere. We do have a process
+15:56
+established. I do believe leadership is focused, but there's a lot of competing
+What crypto regulation means for everyday Americans
+16:01
+priorities. We now have a new war happening. There's other things going on that demand Congress's attention. So,
+16:09
+keeping leadership focused on getting the bill done is what is most critical and what everyone's spending the
+16:15
+majority of their time on right now in the policy space. Wow. Thank you for running us through
+16:21
+that whole orientation. I felt like I was back in my constitutional law class from a few decades ago. What does this
+16:28
+practically mean if you had to translate it to everyday American crypto holders and maybe kind of explain what this sort
+16:35
+of sets as like a precedent globally because what Washington does echoes around the world like what's at stake.
+16:44
+Yeah. And that that that is a big and major point is DC is a leader in global
+16:50
+financial services regulations and many other countries are waiting for what the US is going to do and going to follow
+16:56
+suit. And a lot of the crackdowns we've saw around the world were because that's what US was doing under a previous
+17:02
+administration. So Washington does set the tone around the world. It's really important we get it right.
+17:07
+in Washington DC. So, as I mentioned, you know, that regulatory clarity issue was exploited by an administration that
+17:14
+didn't like crypto, wanted to shut it down, wanted to push the industry overseas. Our agencies, our regulatory
+17:20
+agencies do have the statutory authority to provide that regulatory clarity today, and they have. So, we have a pro-
+17:27
+crypto administration with President Trump sitting at the top. The people he has put in place to lead the CFTC and
+17:34
+the SEC are both proc crypto. They have already put forward regulations that say
+17:41
+this is where our jurisdiction is. This is where it ends. They're coordinating amongst those two agencies and the
+17:48
+industry largely has that clarity today. The problem is is what if we have
+17:54
+another president that's elected in the future who reverts back to an
+18:00
+anti-crypto stance and again wants to shut the industry down. And then they
+18:06
+have new people at the regulatory agencies that could then just reverse everything that the Trump administration
+18:12
+has done. That that is the the risk. And so by having legislation passed that
+18:18
+future proofs that work. It's a lot more difficult to undo legislation because again you have to go through that very
+18:23
+complicated process of getting a bill through all the chambers and their respective committees and to the
+18:29
+president's desk versus the agencies operating within their jurisdiction. So it is in the industry's best interest to
+18:36
+have the legislation done so it's solidified in statute forever versus um
+18:42
+versus not having it. But we we technically don't have to have it to have the clarity. It just helps preserve
+18:47
+that for future administrations.
+18:53
+Got it. Super helpful. I wanted to like obviously this uh there's a lot of powerful um perspectives in this
+Jamie Dimon, big banks, and crypto disruption
+19:00
+conversation. I think uh just last week Jamie Diamond was on Fox News and and used a rather blunt word to describe his
+19:07
+point of view related to the the Clarity Act. And I just wanted to get your take
+19:13
+on, you know, financial institutions have been using lobbying for decades to solidify and entrench themselves. And
+19:20
+you know, they pay billions of dollars in fines every year for violating all
+19:25
+kinds of different rules. And so, you know, what the crypto industry has been really trying to do is get an even
+19:30
+playing field, rules clarified to offer the products and services uh that they've developed that are in many ways
+19:36
+already curing some of the problems that the legacy financial institutions inherently have because of all kinds of
+19:43
+inherent challenges within their own business models. Rentseeking behaviors, lack of transparency, walled gardens
+19:50
+around the technology, high fees because everything's expensive to reconcile. And what crypto has done is basically built
+19:56
+an alternative better mousetrap that's better, cheaper, faster, has digital privacy and you know sort of
+20:02
+efficiencies baked into it. And so I just wondered if you had two seconds to to spend you know whispering into Jamie
+20:09
+Diamond's ears, what would you say if anything or would you just be like, "Hey, see you on Congress. See you on
+20:16
+the hill." [laughter] Well, I haven't met Jamie Diamond, but it would be great to to meet him. What
+20:22
+would I say? I'd have to think about that. It's politics is a very messy business. I
+20:30
+can't say it's a career choice I would I would recommend. A lot of this behavior is quite predictable and I think you
+20:36
+know you get it Nick. At the end of the day what crypto blockchain technology
+20:41
+provides is a much cheaper, faster, more secure way to move money and assets
+20:46
+around the world in a on a digital platform. the financial institutions
+20:52
+particularly the banks correspondent banks which I think JP Morgan is the largest correspondent bank in in the
+20:57
+world that's how they make their money there's a $2 trillion industry to collect fees of just moving our money
+21:05
+around you know we pay banks to do that today if you're paying a bill if you're sending a wire if you're remitting funds
+21:12
+to family or somebody overseas we all pay fees for all of that that's a service that's provided and the banks
+21:18
+have provided that as a trusted service for many many decades. But now with with blockchain, the technology allows us to
+21:26
+do that directly peer-to-peer. We don't have to have an institution sitting in the middle facilitating that trusted
+21:31
+transaction. It's now a trustless transaction over a global open-source
+21:36
+ledger that's basically free to use. I mean, there there's some cost, but it's, you know, it's we're not going to spend
+21:41
+$2 trillion a year moving digital assets around. That's a big part of the promise
+21:47
+of blockchain and it obiates a very big business line particularly for correspondent banks. So I think the
+21:53
+behavior we've seen from Jamie Diamond from the big banks where they've been very apprehensive to use this technology. It's business. It's
+22:00
+predictable. They're protecting a business line. It's no different than how we saw the phone carriers be
+22:06
+completely obviated by VoIP. I mean, if you remember, a big part of the internet debate and adoption and acceptance is
+22:14
+paying long long distance phone fees. It really wasn't that long ago, just a
+22:20
+couple decades ago. Now, I'm probably showing my age, but where if you wanted
+22:25
+to call your grandma that lived out of state, you could only talk for a couple minutes because it's going to be a very expensive phone call. Right? Today, we
+22:33
+don't have to worry about that. We don't pay on or we don't pay these longdistance fees because we now have
+22:39
+voice voice over internet protocol and it makes it basically for free and that obiated a very profitable business line
+22:46
+for the phone carriers have gone you know basically to zero at this point. So this is this is the consequence of
+22:53
+technology. You have you know old technologies that are going to be obviated. Of course, the companies that
+22:58
+make money off of those services, they've got to deal with that. And protecting their business, protecting
+23:04
+their revenue lines, that's all fair business behavior, right? I don't think what's fair is then using your power in
+23:11
+your cloud to politicize a technology. That's quite damaging, but it is quite predictable. And that's why I decided to
+23:17
+put my hat in the rink of this fight because I thought this is obviously going to happen with Bitcoin. you're
+23:23
+going to have a lot of companies that want to slow it down or aren't going to want to see it be successful. And I felt
+23:28
+that this is a technology that's going to be good for humanity. It's going to provide more freedom and allow us to
+23:35
+interact and transact in a more free way and we we should promote that. And so
+23:41
+that's exactly what I've done. That's why that's why I have been doing that with my career and that's really what the fight comes down to. So can't blame
+23:48
+the banks, but it has gotten a little out of hand with all the politics because it's just technology, right? It
+23:55
+can be used by anybody. The technology is not partisan, right? We understand that the the banking industry has its interest to protect,
+Why banks may need to buy crypto companies
+24:01
+but disruption has come for all industries. And I do think there's a huge opportunity for them too in helping
+24:08
+futureproof the American economy and build rails that are better, cheaper, faster and proliferate the American
+24:14
+economic opportunity around the world. Actually, I thought about my answer. So, if I had the opportunity to meet Jamie
+24:20
+Diamond, it would be to help broker some deals for JP Morgan to buy some big crypto companies.
+24:26
+So, while the the big banks have spent all this time demonizing the tech,
+24:31
+I probably would have been a better use of time. Yeah. Probably, you know, they haven't built a lot of these systems.
+24:37
+And at the end of the day, this like this is happening, right? We have a pro crypto president. The Genius Act has
+24:43
+been passed. The Clarity Act is is shortly behind. Wall Street's on board. All all the brokerage firms are on
+24:49
+board. It's really the banks are kind of the last standout of those two adopted. And if you haven't been building these
+24:55
+systems for the past 10 years, you're not just going to turn around tomorrow and expect to have
+25:01
+crypto infrastructure. So, uh, I think I would talk to some of my friends like you, Nick, and other founders and CEOs
+25:08
+in this space and see if we can get JP Morgan to buy some big crypto companies, uh, so we can start integrating this
+25:14
+technology through the banking system. All right, you heard her here first. Jamie, you got to give Perry a call.
+25:19
+Okay, I wanted So, we actually interviewed a former chancellor of the Acheer on the podcast recently. That's
+25:25
+basically like Secretary Tre here in the UK and he was describing how challenging it is to get reforms passed and one of
+25:33
+the main obstacles was the lack of financial literacy in the institutions themselves and he rated the quality of
+25:40
+financial literacy in UK institutions meaning like you know sort of the public service organizations at like a two out
+25:46
+of 10 and so when you're trying to like convey the importance of adopting new protocols and staying current in the
+25:53
+world you know you're you're really fighting kind of a almost a literacy challenge with institutions that have
+25:58
+their own entrenched perspectives but also are just quite unnowledgeable about how money works, how technology is
+Financial literacy, banking, and inflation as a hidden tax
+26:04
+developed and all those things. What's been your experience in Washington DC about financial literacy in general and
+26:11
+on the hill within sort of the lobbying groups and then maybe some of the you know broader institutions whether that's
+26:17
+the CFCC, SEC, etc. Yeah, I mean it's really amazing how
+26:22
+many people really just don't understand how the banking system works and how the monetary system works. I recently set up
+26:28
+a new bank account. I just needed to establish a new uh banking relationship and I'm I'm at the bank. I won't tell
+26:34
+you which one, but it would be a name you've heard before. And I asked the woman who was setting up our new
+26:40
+account. I said, "Hey, what do you guys do with the money? So, if I'm going to deposit funds into my account, what do
+26:46
+you do with it?" And she she really kind of looked at me kind of funny like she wasn't very sure how to answer the
+26:52
+question. And I said, "Well, does the money just sit in my account or does the bank use it and put it to work and do do
+26:58
+things with it?" And she said, "Oh, the money it sits in your account. Your money is there. Your money your money is
+27:03
+there." And I didn't correct her, but I just knew that she didn't actually understand. I mean, this institution
+27:08
+that she works at, she does not understand what rehypocation is. That the money is not just sitting there. You
+27:14
+don't have full reserves. you you I I don't think we have any reserves at this point in the US, at least at the bigger banks. But most people don't know that.
+27:22
+And I think more people that did understand what inflation is, and you talked about this earlier, how inflation
+27:29
+is a hidden tax, I'd go so far to say that it's it's theft. It is it is theft of our own citizenry. And I
+27:38
+it's really amazing how much the system is built to put people in the dark about
+27:43
+what's actually happening about how the money actually works was actually happening in the system. If more people
+27:49
+understood it, I think you would see a lot more action and I think that's exactly what we have seen. That's why
+27:55
+Bitcoin was created in the Genesis block. there was a you know a famous
+28:00
+link to the chancellor on the brink of of a bailout. So that was a nod to this
+28:07
+is a new technology that is going to give pe people an option to opt into a
+28:13
+different system that's not subjected to inflation and central economic planning.
+28:19
+Um, bringing this back to DC and the policy conversations, DC's really gotten
+28:24
+up to speed on crypto, digital assets, blockchain technology, the nuances between all of these terms. We do have a
+28:31
+lot of extremely uh bright and smart people working on the policies. So, it's
+28:37
+uh we kind of have a less of an issue that certainly was an issue when we were first getting started of in the early days first. Yeah. You first
+28:44
+have to explain what Bitcoin is and they'll even talk to you about it and it's internet money. you can't really explain it in the 15
+28:51
+minutes they'll give you. So, you know, that has absolutely been quite challenging, but I think we've we have
+28:56
+enough people in the right places and I think that is a big impact of President
+Bridging the gap between crypto builders and regulators
+29:02
+Trump where he's very clearly the pro- crypto president and they put a lot of
+29:08
+uh pro- crypto and crypto educated and fluent people and the most important offices overseeing this technology. So
+29:15
+we are having conversations of real substance today. That's encouraging to hear. So right now
+29:23
+it feels like obviously like crypto and government are sort of always two sides kind of talking back to each other and
+29:29
+um I think especially in some of the early adopters of this technology there was a huge reluctance to engage in
+29:35
+conversation with regulators in general and how do you feel about like bridging that gap so that some of the ethos of
+29:43
+the technology is preserved while some of the concerns that you know regulators I think leg legitimately have around
+29:50
+consumer protections and enforcing laws are sort of integrated. So, how do you facilitate that conversation because
+29:56
+like a lot of people that obviously started in this industry, you know, really were opposed to the
+30:01
+overburdensome regulatory environment that they see as actually corrupted some of the opportunities for entrepreneurs
+30:07
+to even interact in finance, for example. So, how does that all get like threaded?
+30:13
+Yeah. And that certainly was the case for a number of years in in the the US
+30:19
+where I mean I would even tell companies I wouldn't recommend talking to the SEC
+30:25
+because everything you say is just going to be used against you. That's that's
+30:30
+changed. You know, again, having a pro- crypto administration has made a huge difference where they're not
+30:38
+everything's not focused around enforcement. They're not focused on driving the industry overseas. They want the US to be the leader in this
+30:44
+technology and they're working with industry to help build a regulatory framework that's going to work for US
+30:50
+businesses. So I think a big part of that lesson is the leadership and the
+30:55
+message has to come from the top. If you don't have your top leadership and this
+31:00
+goes for countries, it goes for other jurisdictions, states, local jurisdictions and it also goes for
+31:06
+corporations like banks, Wall Street firms. I mean, look at the difference between what's happening at JP Morgan
+31:13
+with Jamie Diamond who's very negative on Bitcoin and then you have Abby Johnson, the CEO of Fidelity that's been
+31:20
+very positive on Bitcoin for many, many years and just how much further ahead Fidelity is versus all their peers
+31:28
+because of that leadership that happened at the top. It's really a leadership issue. leadership sets the tone and if
+31:34
+you have the right people in place who are driving a clear technical agenda uh
+31:39
+that has all the difference in the world for adoption and the direction of where these conversations go in Washington in
+31:46
+Wall Street and in the conference realm. Yep. So what keeps you optimistic about
+31:52
+the future of crypto in the US even after everything the industry's been through and you know you're sort of
+31:57
+front seat at the table there? Right. So again, we went from being in
+What keeps Perianne optimistic about crypto in the US
+32:02
+this very defensive posture where the government was, you know, we had operation choke point 2.0. Everybody was
+32:08
+losing their bank account. People were being kicked out of the country. Companies literally vanished from operating here. We set the industry back
+32:15
+a lot because of how uh government was treating this technology to how that's
+32:20
+completely flipped to a very different and much more productive conversation.
+32:26
+Even if the Clarity Act was not able to pass into law, and it is possible, it's
+32:31
+it's not that won't happen. We're obviously working very hard to make that happen, but we can't guarantee that.
+32:37
+What is helpful is to have so many businesses going live with products and
+32:42
+services. Once you have a financial market that's out there, when you have regulated products to market, it's
+32:48
+really hard to unwind that. So the more companies we can get out to market, the
+32:53
+more listed, regulated products launched, the more the market can move forward, it will be more difficult for
+33:00
+the industry to be subjected to political winds. So that's something we we certainly have going for us and I
+33:07
+really hope that this does not continue to be a political topic. That is my biggest fear. I do think part of Trump's
+33:16
+agenda has he's very much branded a part of his administration. His campaign was
+33:21
+all about being pro- crypto. That also leaves an attack vector. And we do see
+33:26
+that the Democratic party is still using the the crypto as a means to attack
+33:33
+Trump and to attack Republicans. And that's really bad for the industry. So,
+33:39
+it's really important that we're building those inroads of people on all sides of the aisle. It's really important that we're making sure
+33:44
+everybody understands this is about technology. This is not about uh politics. Let's keep this out of
+33:51
+politics because that to me that is one of the bigger threats facing our industry today. I agree. I think that's that's very
+33:57
+problematic and and arguably partially lethal long term. I mean, we we all got into this because it didn't matter what
+Bitcoin predictions and bringing crypto to the people
+34:04
+color your skin was or where you were born or what gender you are. You were able to participate and transact with
+34:09
+anybody you desired to. And I think there's some beauty in that and it should always have been a bipartisan thing. And I think a lot of the work
+34:16
+that you've done has sort of been leading in in that way which is building a big tent and making this the way we
+34:22
+push forward, you know, America's involvement in upgrading the financial system and doing it on rails that are
+34:27
+open, transparent, and digital. And so I'm hopeful that the partisan aspects of the that work, you know, will not rear
+34:34
+their ugly fangs. But um yeah, time will tell. Okay, so we're going to come up to the sort of end of our chat here, but I
+34:41
+wanted to know if there was like maybe one prediction you wanted to make about the future of digital assets that might
+34:47
+sound a little bit bold today, but maybe be obvious in hindsight five years from now. And then uh maybe give us a little
+34:53
+preview of anything you're interested in that you might be working on. Okay, prediction. I don't like making
+35:00
+price predictions, but I do think it's inevitable that Bitcoin's going to hit a million plus. I can't give you the date.
+35:07
+I can't give you a specific timeline. Uh but Bitcoin follows the laws of nature.
+35:12
+It follows a power law. It's a network. It's growing as a network and it's it's inevitable that we'll reach that level
+35:19
+of scale. So that's what I'm waiting for, [laughter] what I look forward to.
+35:25
+In the meantime, how are you going to spend your time besides the important work you do with the chamber?
+35:30
+Yeah. And now where we are today, you know, I've spent the first decadeish of
+35:36
+my career in the policy space. And now that we have, you know, we we we're in a
+35:44
+environment where we're we've accepted that this technology is here to stay and we're really working with the regulators
+35:51
+to implement the regulatory environment, landscape, the rules to the road. All of that is in motion and is going in a good
+35:58
+direction. For me, the next frontier is how do we bring this technology to the
+Closing thoughts and where to follow Perianne
+36:03
+people that need it most? How do we get Bitcoin, stable coins, cryptocurrencies, open-source permissionless systems in
+36:11
+the hands of those who actually need it? And that's a huge education and outreach
+36:16
+effort. And that's a big thing that I'm spending more time thinking about and that I'm thinking through of, okay, now
+36:23
+that we've kind of addressed the biggest risk, which was the policy risk, how do we bring it to the people? And so people
+36:28
+interested in having that conversation, I'd love to have that with you. Amazing. All right. Well, you can catch
+36:34
+Pirianne on Twitter for sure among other spots. So, thank you so much for joining us today. It's been fascinating to hear
+36:40
+about your perspective on where US digital asset policy goes from here, including the Colossal Clarity Act and
+36:46
+what it could mean for the future of crypto in America and how the relationship between industry and government needs to evolve and maintain
+36:52
+collaborative and cooperative. So, for our listeners, thank you so much for joining. Please subscribe to Block Party and leave a review if you enjoyed
+36:58
+today's episode. [music]

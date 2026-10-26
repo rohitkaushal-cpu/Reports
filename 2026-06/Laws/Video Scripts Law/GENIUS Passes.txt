@@ -1,0 +1,379 @@
+And so if you can convert someone who's showing up to collect cash and convince them instead of collecting cash to download a wallet and then receive a
+0:088 secondsstable coin in that wallet and then can you link a card to that wallet? Can you offer other financial services against that wallet? So I think that there is a
+0:1515 secondsglobal emerging market neoank type business that if remittance providers execute they have the potential to be
+0:2424 secondsable to build. And so when you hear them talk about, you know, offering wallets, like they've got the distribution, they've got the brand, if they can build a good product, that enables them to
+0:3232 secondsbuild a deeper relationship and monetize, you know, these recipients that traditionally they haven't really been able to to do that much with. So I think that there is real real upside.
+0:4141 secondsIt's it's just all about, you know, how well they can execute. Welcome to Tokenized, the show focus on stable coins and the institutional adoption of
+0:5050 secondsreal world assets. My name is Simon Taylor. I am your host for today, author at Fintech Brain Food and head of
+0:5858 secondsstrategy over at Sardine. And I'm back in the host seat once again. Joining me as often is my fantastic co-host,
+1:061 minute, 6 secondssometimes occasional just OG host crushing it lately on the hosting, Kai Sheffield. How you doing, my friend?
+1:131 minute, 13 secondsI am fantastic. We we're cranking out content these days, but but it's been in parallel. So, good to good to be back together. a lot to do and happy one year
+1:221 minute, 22 secondsanniversary to tokenized as well. We we made it, man. We've one year of this show being alive. Thank you for being my partner on this, buddy. It
+1:301 minute, 30 secondsIt's been fun. I've I've learned a lot and to to many years to go. Heck yeah. We're just getting started.
+1:361 minute, 36 secondsWell, before I introduce our incredible guests, I do want to let everybody know that we're doing our first ever live
+1:431 minute, 43 secondstokenized event. Uh it's going to be in London on the uh 11th of September. So, if you want to attend, tickets are completely free thanks to our sponsors.
+1:541 minute, 54 secondsAppreciate you guys. So, click the link in the description of wherever you're consuming this, whether it's podcast or
+2:012 minutes, 1 secondon YouTube. Um, so you can register if you are in London. And if you're not, maybe there'll be a tokenized live coming to you soon.
+2:102 minutes, 10 secondsAll right, awesome. Let's introduce our first guest. Keen Gilbert is head of institutional relations over at Lido.
+2:182 minutes, 18 secondsHow you doing, Keane? Good, Sam. Thanks so much for hosting. Thank you so much for being with us.
+2:242 minutes, 24 secondsVery excited to have your perspectives on on some of the news this week. And then Atik Bar, who is co-founder of CEO
+2:342 minutes, 34 secondsand Actual. Wait, that doesn't make any sense. Co-founder and CEO of Actual. How are you doing, my friend?
+2:402 minutes, 40 secondsWe got it. I'm doing well. Great to be here with you guys.
+2:432 minutes, 43 secondsThank you so much. Um, okay, before we get into the show as well, I just got to remind everybody that this podcast is
+2:512 minutes, 51 secondssponsored by our friends at BVNK. And if you've been listening to this podcast, you've probably heard us say, "Every
+2:582 minutes, 58 secondsbusiness needs a stable coin strategy." And if you're looking for the best place to start, that's BVNK. BBNK is the
+3:063 minutes, 6 secondsleading provider of stable coin payments infrastructure, helping businesses move money faster, settle globally, and even launch their own stable coin products.
+3:163 minutes, 16 secondsAll with licensing and compliance so you can build with confidence. We're proud to partner with BVNK on tokenized. To learn more, visit bvnk.com.
+3:273 minutes, 27 secondsBefore we get into the show, of course, I have to remind everybody that views and opinions are those of contributors
+3:353 minutes, 35 secondsand not necessarily those of companies they represent.
+Chapter 2: Regulatory clarity and its impact on stablecoin innovation
+3:403 minutes, 40 secondsPlease, please do your own research. Do not treat anything we say as tax, legal, financial advice, sports advice, or
+3:483 minutes, 48 secondsanything else. Okay, the first story, there could be only one. The Genius Act is now law in the United States, having
+3:563 minutes, 56 secondspassed through the House and been signed by the president on July 18th, making it
+4:034 minutes, 3 secondsthe first major federal law in crypto history and the first major financial
+4:114 minutes, 11 secondsservices law perhaps since DoddFrank in 2010. The House passed the bill with a
+4:174 minutes, 17 seconds308 to 122 majority with a lot of bipartisan support. Kai, this feels like
+4:254 minutes, 25 secondsthe thing that was coming coming for a long time. We said everybody needed a stable coin strategy, but here it is.
+4:324 minutes, 32 secondsWhat are your reactions? What are you hearing and seeing?
+4:354 minutes, 35 secondsAnd first, I'm I'm proud of the industry and, you know, grateful to to everyone who worked, you know, really hard, you know, to to get this done. And it
+4:424 minutes, 42 secondshappened much sooner than I initially expected. You know, if you would have told me a year ago when we started the show, you know, we'd be talking a year later and stable coins would have a, you
+4:524 minutes, 52 secondsknow, framework you signed into law, you know, that that's probably the best outcome that anyone in the industry could have possibly expected. There
+5:005 minuteswasn't really a timeline where it would have happened any faster. And I think it's just it's an amazing story that I
+5:085 minutes, 8 secondsjust can't find that many historical precedents of a new financial technology that was created in this incredibly
+5:175 minutes, 17 secondsbottoms up way coming out of the corner of this weird crypto ecosystem that over
+Chapter 3: Use of stablecoins in cross-border payments and remittance
+5:255 minutes, 25 seconds6 10 years depending on how you count it, you know, has become legitimized as a major innovation that can now be
+5:335 minutes, 33 secondsadopted and used across the financial system to make money move better across the world. Like that's pretty cool. And
+5:405 minutes, 40 secondsso now it feels like we're at day one of there are no excuses. You know, you've got the framework in place. It's about
+5:495 minutes, 49 secondsthe best that anyone in the industry could ask for. Now it's time to build and now it's just time to put your head down and and execute. And I think that's
+5:565 minutes, 56 secondsthe sentiment that uh we're hearing and and seeing, you know, every day is, you know, you don't have to spend time. Most of the conversation around stable coins
+6:046 minutes, 4 secondsis about the regulatory environment. Now that's not the conversation anymore. Now it's like what can you build? How do you build it? And how do you bring it, you know, to market with your customers. So
+6:126 minutes, 12 secondsI think it's it's an exciting next phase that we're just entering into.
+6:156 minutes, 15 secondsWe've moved from no that'll never happen. No, you can't do it. No, we shouldn't do it to arguing about the regulation to arguing how you do it
+6:236 minutes, 23 secondswell. Um and a I'm interested in your perspective. I know what you do at actual, you know, you use stable coins quite closely. Could you give me a sense
+6:326 minutes, 32 secondsof your reactions to this news and how it supports a business like yours?
+6:366 minutes, 36 secondsYeah, for sure. I mean, it's definitely that sort of confidence boost that I think businesses, corporates, and finance teams, uh, you know, really need to sort of feel like they can use this
+6:456 minutes, 45 secondsthing. Um, I think second to that, we're just going to see a lot more kind of opportunity for us to integrate uh against other kind of banking rails and,
+6:546 minutes, 54 secondsyou know, providers that maybe once weren't even offering this, right? I mean, for a really long time, you would talk with uh infrastructure teams and say, "Hey, can we work with you guys and
+7:017 minutes, 1 secondlike we saw stable coins on your website? You can't, you know, and so I think that that shift is going to be really, really massive in a lot of senses." And so, I think that's
+7:097 minutes, 9 secondssomething that we're really excited about. But I think at the same time, you know, Kai mentioned that, you know, this is a moment to build, but I think it still will be really, really slow. And I
+7:177 minutes, 17 secondsthink that it gives, you know, the opportunity for a lot of the teams that were building in this uh world for a really long time from sort of an infrastructure perspective, an application perspective, a lot of
+7:267 minutes, 26 secondsopportunity to just continue to, you know, move uh with speed. And I think that that also will lead to a lot of M&A, a lot more partnerships, a lot more
+7:337 minutes, 33 secondsof these like PNC, Coinbase, you know, press releases are going to continue to happen. But let's not get like too like I don't know defeated or or feel like
+7:417 minutes, 41 secondsthat's keeping us uh you know irrelevant in any way, but that this is just going to be a natural uh progression in a lot of ways for everyone as opposed to just
+7:497 minutes, 49 secondsthis being a big win only for the big PSPs and FIS.
+7:537 minutes, 53 secondsThat's a great point. It's not just for the big guys. Keen, what are your thoughts?
+7:577 minutes, 57 secondsWhat are my thoughts? I would say probably the key takeaway is like stable coins have become mainstream. Like that's just the ultimate kind of result of what's happened with the Genius Act.
+8:068 minutes, 6 secondsAnd I think it's probably done that from two different sides of the market. Like obviously if you take from an issuers's perspective, let's just say circle is
+8:138 minutes, 13 secondsthe issuer. Um they now have regulatory clarity. They know the rules of the game. And from their point of view, they know what they can and can't do, which is terrific. So from a roadmap
+8:228 minutes, 22 secondsperspective, from an innovation perspective, they now know what they can execute on. And then on the other side of that, which has kind of lacked in the past, is obviously consumer protection.
+8:318 minutes, 31 secondsSo with all these two or I suppose these two elements now at play and the boxes have been ticked like it's instantly going to increase in adoption for
+8:408 minutes, 40 secondseveryone and that's obviously going to be at the retail level and then at the institutional level as well. You're going to see a significant amount of adoption. I think that's kind of been
+8:488 minutes, 48 secondsproven by what's happened in the markets right now with Bitcoin ETH and others.
+8:528 minutes, 52 secondsIt's interesting that in in a way I feel like I agree that it's it's become a mainstream concept and when you have you
+9:009 minutesknow this legislation and it's you in the news every day but it's still not a mainstream product yet and the end
+9:079 minutes, 7 secondscustomer base you particularly in the in the United States most consumers it it seems actually it's it's kind of odd to
+9:169 minutes, 16 secondshave all of this energy and activity and discussion around stable coins and a bill, you know, going through Congress.
+9:239 minutes, 23 secondsBut if you walk out in the street and you ask a random person, you know, have you have you used a stable coin before, I would bet most people, particularly in
+9:319 minutes, 31 secondsthe US, would say no. And so that's this exciting opportunity that like the foundation, the platform now has everything that it needs to go
+9:409 minutes, 40 secondsmainstream. Now, one of the big questions is mainstream for what and where? Like what are the use cases and where does it matter? It might not be,
+9:489 minutes, 48 secondsyou know, for people buying their coffee in the United States. it might be for B2B payments in emerging markets. And so I think people are still trying to
+9:559 minutes, 55 secondsfigure out and unpack now that you got the mainstream legitimacy of the underlying platform and the technology, where does the mainstream adoption of
+10:0310 minutes, 3 secondsthe actual applications and the use cases come from? And and I think like it feels like you're very close to, you know, some of where we've seen the early
+10:1110 minutes, 11 secondsadoption. Can you talk a bit more about what you're seeing from a geographic market standpoint? And even though this is a US bill, what does it mean for a
+10:2010 minutes, 20 secondsbusiness in Latin America in terms of their willingness to adopt it? How much are they watching and following? Do they even care? Were they just using it before anyway?
+10:2910 minutes, 29 secondsYeah. Yeah, for sure. I think one of the most exciting examples of of stable coins uh being used is sort of the stable coin sandwich um where both sides
+10:3810 minutes, 38 secondsare still kind of operating with their local currencies, but we leverage stable coins that intermediary uh to make that payment happen faster, cheaper, etc. But
+10:4510 minutes, 45 secondsit's funny is that when you would talk to businesses about maybe doing this or okay, how is that going to happen? How am I actually going to get paid quicker?
+10:5210 minutes, 52 secondsThere's that hesitancy again of like, oh, okay, you're using stable coins. I'm not sure if that feels legal or if my bank's going to be okay with that, where the money is coming from, so on and so
+11:0011 minutesforth. And so, I think that that narrative um kind of understanding or a little bit of that kind of perception or marketing of of the stable coin is
+11:0911 minutes, 9 secondscertainly going to evolve now. Um but with regards to sort of um the beneficiaries of of the technology and and who we starting to see kind of
+11:1611 minutes, 16 secondsleverage this um I mean one of the examples we love is sort of um you imagine business in the US you know um let's say they're exporting to a place
+11:2411 minutes, 24 secondslike Nigeria Argentina or Brazil um very hard typically to kind of do that on traditional rails um but imagine now
+11:3311 minutes, 33 secondsthat stable coins could either be used as a way to do that pay in or leverage them as that intermediary that's going to be a massive unlock which now means that the business can feel a lot more
+11:4111 minutes, 41 secondsborderless. Um, they can get paid a lot quicker. Maybe it can unlock revenue in places that maybe they've avoided for a really long time. So that's the use case
+11:4911 minutes, 49 secondsthat we also hear of a lot where it's like we just kind of don't you know work in that area or we'll just kind of focus on specific other you know revenue
+11:5611 minutes, 56 secondsstreams or whatever but now we can open up something that maybe we once weren't maybe as focused on which you believe is a really really unique opportunity for maybe a US business but then also more
+12:0512 minutes, 5 secondsbroadly anyone and and anyone being able to transact with businesses any other place. Import export is a surprisingly big part of the market and people forget
+12:1412 minutes, 14 secondsthat we do trade with the rest of the world and uh you know Jack Zang Airwalkix will make some great points
+12:2212 minutes, 22 secondsabout how a global remittance business like Airwick has probably got a great FX rate and has done some very
+12:2912 minutes, 29 secondssophisticated treasury things to where stable coins are of marginal benefit to his business in most of the cases most
+12:3612 minutes, 36 secondsof the time. but a smaller importer exporter is nowhere near as a sophisticated treasury as a global
+12:4312 minutes, 43 secondsremittance business. So for them something that's offered that looks like an invoicing tool for cross border like
+12:5012 minutes, 50 secondswhat you guys do is just an easy button for getting paid and I think that's what customers want is what's my easy button
+12:5812 minutes, 58 secondswhere it doesn't feel like anything's happening. So Keen, are you on with the hide the wires for the mainstream kind
+13:0513 minutes, 5 secondsof thesis that it won't look like a stable coin or do you think that we need to still have letters at the end of a currency in order to know what we're dealing with?
+13:1513 minutes, 15 secondsYeah, I think for me it's like any technology like people or the vast majority of people really don't know how the internet works. They just want a
+13:2213 minutes, 22 secondsnice UI. They want an app and they want convenience. Like they really don't know what happens behind the scenes. And again, if you look at traditional payments today, if if I want to send
+13:3113 minutes, 31 secondsmoney from the UK to the US, it probably has to go through two or three different banks before it gets there. And people don't know that. They obviously know
+Chapter 4: PNC partnering with Coinbase for crypto trading services
+13:3913 minutes, 39 secondsthere's a high cost associated with doing that. But ultimately, the technology behind the scenes should just power and execute the way the individual
+13:4713 minutes, 47 secondsor the company wants. So again, kind of back to your point around like convenience and ease. That should be the key selling point for most.
+13:5513 minutes, 55 secondsI'm interested Kai in in your perspective from financial institutions.
+13:5913 minutes, 59 secondsI saw the news this week at briefly mentioned it that that PNC have partnered with uh Coinbase for a buy,
+14:0614 minutes, 6 secondssell, hold wallet and this is the sixth largest financial institution in the United States doing something really
+14:1414 minutes, 14 secondsfairly major. Do you think that that psychology shift is almost bigger than the the use case shift in in the short
+14:2214 minutes, 22 secondsterm? And are you seeing it in your conversations with with clients, customers, and partners?
+14:2714 minutes, 27 secondsYeah. So, I I think on the PNC announcement, it's definitely a a big deal. I think the interesting question there that wasn't super clear to me just
+14:3514 minutes, 35 secondsfrom the the headlines is there's one part of it and it felt like the the main crux of the announcement was around
+14:4314 minutes, 43 secondsintegrating crypto assets uh as the ability to trade you buy, sell, hold, you know, Bitcoin using Coinbase's infrastructure for that. In the tweet
+14:5214 minutes, 52 secondsabout it, Brian Armstrong also mentioned USDC, but I didn't see PNC you talk about, you know, sending or receiving USDC as part of the product. And so I
+15:0015 minutesthink that there's going to be this interesting question of will banks say we want to integrate crypto and stable coins and we want to go to a single
+15:0915 minutes, 9 secondsprovider who can give us access to crypto assets and then if we're getting access to crypto assets USDC is just kind of another crypto asset. it runs on
+15:1715 minutes, 17 secondsthe same infrastructure although it has different use cases and then we'll you know leverage those wallets to do send and receive or you know to do
+15:2415 minutes, 24 secondsremittances or will we see banks say okay I get that crypto assets are still around they still have less regulatory
+15:3115 minutes, 31 secondsclarity to some extent than what stable coins have today at least most of them I'm less interested in the crypto asset side of it I'm really more interested in
+15:3815 minutes, 38 secondsthe stable coin side of it and so how do I figure out how to integrate stable coins build stable coins into my product and then which are the use cases that
+15:4615 minutes, 46 secondsmatter pattern. As a US bank, I still continue to believe that there isn't really a single US bank today that has
+15:5515 minutes, 55 secondsany incentive to offer a wallet to let customers hold a stable coin like USDC.
+16:0016 minutesUh, you know, they would prefer if you're holding money with them that you're holding their deposit and that they're able to operate their business and and lend, you know, based off that.
+16:1016 minutes, 10 secondsUh, so I could see a number of integrations where banks are enabling deposits and withdrawals, treating stable coins like digital cash the same
+16:1816 minutes, 18 secondsway you could go to an ATM, deposit physical cash or withdraw physical cash, but they're not offering you promoting a safe deposit box to bring, you know,
+16:2516 minutes, 25 secondsstacks of $100 bills in to just hold on your behalf. Um, so I think it'll be really interesting to see the differences between the approaches that
+16:3316 minutes, 33 secondsbanks take in the United States versus the approaches that banks take outside the US. How much of it is intertwined with a crypto strategy around trading
+16:4116 minutes, 41 secondsversus how much it is it is separated where there's a stable coin payment strategy that's distinct uses different infrastructure different providers than what they're trying to do with with crypto trading.
+16:5116 minutes, 51 secondsYeah. Is it more the stable coin sandwich is the mainstream thing the buy sell hold is is the kind of the retail thing keen I'm interested in your
+16:5816 minutes, 58 secondsperspective on um the kind of the parallel financial system for consumers.
+17:0217 minutes, 2 secondsyou know, the base app, Coinbase, uh, they now have, I believe, Morpho is who they're working with for DeFi backed
+17:0917 minutes, 9 secondsloans. And I I think that sort of DeFi space becomes a little bit more mainstream, especially if we get the Clarity Act in in the not too distant
+17:1717 minutes, 17 secondsfuture. Is that something where we see competitors to financial institutions, competitors to fintech starting to go in
+17:2517 minutes, 25 secondsthe in the in the future? Do you think that's realistic or or is is that going to be a little ways off?
+17:3117 minutes, 31 secondsI think the competition is probably a little bit of a way off just in terms of size like traditional markets versus DeFi. Traditional markets are far larger
+17:3917 minutes, 39 secondsin terms of the depth of liquidity they have and just the overall kind of aum. I think you kind of have to ask yourself like what is going to be the gateway or
+17:4817 minutes, 48 secondswhat's the opportunity for traditional institutions to dip their toe in the water and I think that's probably more likely the case of traditional institutions will dip their toe in the
+17:5617 minutes, 56 secondswater with defy from the very beginning whether it's like permission defy like products previously with a arc like I kind of see it going down more of that
+18:0518 minutes, 5 secondsline to be honest where traditional institutions will dip their toe in the water or you could go from the other side where defi might start moving
+18:1318 minutes, 13 secondscloser to traditional markets. But again, I think that will all come into play with regulation and what consumer protection would look like.
+18:2018 minutes, 20 secondsIt's going to be unbelievably fascinating to watch. There's a there's a linked story here that I want to um kind of cover off whilst we're on stable
+18:2818 minutes, 28 secondscoins, which was um the CEO of Western Union was on Bloomberg saying stable coins are an opportunity, not a threat
+18:3518 minutes, 35 secondsto their business. Um and he outlined a plan in this interview where they're going to use stable coins for more instant settlement. um my guess is a
+18:4418 minutes, 44 secondsstable coin sandwich, although he he he didn't um disclose how. Um they're going to use their distribution of 500,000
+18:5218 minutes, 52 secondslocations to build crypto on and off ramps, which I thought was fascinating.
+18:5718 minutes, 57 secondsAnd then they're going to launch stable coin wallets and make that available to their 150 million users. And it really
+19:0419 minutes, 4 secondsfeels like um the mood music has shifted. What what I'm interested in uh at and keen is your views on is like how
+19:1119 minutes, 11 secondsmuch is this earnings season CEOs being asked about stable coins because the share price of circle exploded and
+19:1919 minutes, 19 secondseverybody wants to talk about it and how much of this is real long-term thinking from incumbents trying to move into this
+19:2719 minutes, 27 secondsspace maybe maybe your perspective and and your read.
+19:3119 minutes, 31 secondsYeah, for sure. I think fundamentally what they're seeing is that there's a playbook here that that's working um sort of from an AUM perspective the yield perspective they can earn
+19:3919 minutes, 39 secondspartnering with you know issuer like like a circle um and really just seeing that you know maybe this is where uh things are shifting and there's a real
+19:4619 minutes, 46 secondsthreat to their business in a lot of ways and you know how can we continue to operate within this closed system that is Western Union to Western Union
+19:5319 minutes, 53 secondspayments um but in a way that still kind of lets us rebrand our mo at some sense um and just think about how we as a legacy player with all this distri
+20:0120 minutes, 1 seconddistribution and and deep kind of liquidity and network um you know don't necessarily fade away but can plug into what's happening um and so I mean it
+20:1020 minutes, 10 secondsmakes a lot of sense um and I think that they are very wise to start to sort of have more of these public opinions about this and and hopefully we start to see
+20:1720 minutes, 17 secondssome of these implications play out sooner rather than later. Um it kind of reminded me a little bit of what you know Moneygram is kind of doing with Stellar. So really curious to see if we
+20:2520 minutes, 25 secondscan start to think of you know this exploration of um of where Western Union is going especially with regards to an on and off ramp like can we start to see
+20:3320 minutes, 33 secondsthem as infrastructure as well like a yellow card or a tunes or is this just going to be you know how do we make Western Union remain relevant and and
+Chapter 5: Western Union integrating stablecoins for instant settlements
+20:4020 minutes, 40 secondsstay this close thing keen your thoughts yeah like I think Western Union as a company has been around probably close
+20:4820 minutes, 48 secondsto 200 years so they do have kind of an ability to adapt and survive And I think uh stable coins is probably that next
+20:5720 minutes, 57 secondsiteration for them. Like it it is quite hard as a business like convincing yourself to like okay do we cannibalize our business or should someone else do
+21:0421 minutes, 4 secondsit. And I think it's probably quite forwardlooking by the CEO to say look stable coins are here to stay and we should adapt. Um do I think it's
+21:1221 minutes, 12 secondsprobably the most exciting thing in the world TBC? Um I would be much more interested if they were to kind of add maybe a treasury element to say like use
+21:2121 minutes, 21 secondsether maybe under crypto. that would probably show a little bit more commitment on my side. But um to be that forward-looking is quite impressive.
+21:2821 minutes, 28 secondsYeah, I think I think there are two material ways that I could see stable coins having upside for remittance
+21:3621 minutes, 36 secondscompanies like Western Union, MoneyGram and others. And the first is just you making them a lot more capital efficient
+21:4321 minutes, 43 secondsin terms of reducing the need to preund whether it's you know payment partners you know that they're using that they have to lock up capital they have to
+21:5121 minutes, 51 secondsforecast how much volume they're going to do to then be able to initiate transactions you know if we move to a world where most you payment networks
+21:5821 minutes, 58 secondsend up accepting stable coins you could then reduce preunding do more yeah instant settlement which he he referred to they also have these interesting
+22:0622 minutes, 6 secondsagency models where uh then you have you know, these capital challenges that whoever's, you know, the agent that's operating a Western Union, you know,
+22:1322 minutes, 13 secondslocation, you has to be able to, you know, have some access to capital because then they get paid, you know, later. And so, how does that preunding relationship change? So, I think there are real material ways to to improve.
+22:2422 minutes, 24 secondsAnd I think the other is my understanding of many of these traditional remittance businesses, they don't have a great way to really
+22:3222 minutes, 32 secondsmonetize and upsell the recipients. It's very much a business based on the sender and it's the sender, you know, that's
+22:4022 minutes, 40 secondscoming to them that's initiating the transaction, you know, that's paying the fees and the recipients are you many times coming and just collecting cash
+22:4722 minutes, 47 secondsand walking away. And so if you can convert someone who's showing up to collect cash and convince them instead of collecting cash to download a wallet
+22:5622 minutes, 56 secondsand then receive a stable coin in that wallet and then can you link a card to that wallet, can you offer other financial services against that wallet?
+23:0323 minutes, 3 secondsSo I think that there is a global emerging market neoank type business that if remittance providers execute
+23:1123 minutes, 11 secondsthey have the potential to be able to build. And so when you hear them talk about you know offering wallets like they've got the distribution they've got the brand if they can build a good
+23:2023 minutes, 20 secondsproduct that enables them to build a deeper relationship and monetize you know these recipients that traditionally they haven't really been able to to do
+23:2723 minutes, 27 secondsthat much with. So I think that there is real real upside. It's it's just all about, you know, how well they can execute.
+23:3323 minutes, 33 secondsYeah, exactly. The business model side is what stood out to me of like you go from having a fee structure where I have
+23:4123 minutes, 41 secondsto charge people because this is the only way I can monetize to having new monetize options, monetization options cuz they're baked into the technology on
+23:5023 minutes, 50 secondsthe recipient end. And I think that is fascinating. Uh to your point, Kai, I also do think there's a lot of like
+23:5723 minutes, 57 secondshaving to respond to market stuff. So on the back of this story, I went and looked at the circle market cap and the Western Union market cap. So for some
+24:0624 minutes, 6 secondscontext, uh they did, I believe, uh around about $135 billion of volume last
+24:1424 minutes, 14 secondsyear. And you want to guess their market cap for that volume of transactions that they're doing against a revenue of 4.2
+24:2224 minutes, 22 secondsbillion. Um their market cap is 2.6 billion. So the market cap is below the revenue figure and that is quite
+24:3124 minutes, 31 secondsobviously a market saying like hey we don't know about this business model. So kudos to them for for reacting and trying to do something innovative.
+24:4024 minutes, 40 secondsMeanwhile circles over here with a billion dollars of revenue last year and a $48 billion market cap. So there's
+24:4924 minutes, 49 secondsdefinitely something weird going on in the market where that's a little bit distorted. Um it's obviously not based on today's fundamentals. It's based on expectations of tomorrow's fundamentals.
+24:5924 minutes, 59 secondsUm but then if you look at the stable coin side, yes, people will tell you there's hundreds of billions if not trillions going through, but per last
+25:0825 minutes, 8 secondsweek's episode, Kai, um I really love the work that you're trying to do uh with with with some of your partners to try and get to the true retail spend
+25:1725 minutes, 17 secondsthat's happening here. Um and I think from the Visa dashboard, it was something like 4.8 8 billion per month which would be around about 56 billion
+25:2625 minutes, 26 secondsperanom but growing anywhere between 100 and 400% at least year-over-year. So where's the growth going and how do you
+25:3525 minutes, 35 secondsposition yourself closer to it? If anything, it sort of reminds me of the early days of mobile banking, which is
+25:4225 minutes, 42 secondsevery large financial institution, every large incumbent figured out how they play in mobile and it's there's a city mobile app and there's a Chase mobile
+25:5025 minutes, 50 secondsapp and they're pretty good to they're really really solid and they serve their customers really really well and you should do that thing. But what they're not is this entirely new growth
+25:5925 minutes, 59 secondsopportunity and this space for for innovation. And I think both of those things are happening. And there's an interesting question of how you position yourself kind of kind of in the middle
+26:0826 minutes, 8 secondsof all of that. So, um I just need to pause us here while we hear from our sponsors and we'll be right back. This
+26:1526 minutes, 15 secondsepisode, if it isn't already obvious, is sponsored by our friends at Visa, the leader in digital payments. Visa's
+26:2226 minutes, 22 secondstokenized asset platform or VTAP uses smart contracts and cryptography to help banks bring fiat currencies onchain.
+Chapter 6: Coinbase launching perpetual futures trading in the US
+26:3426 minutes, 34 secondsWhether it's launching a stable coin or deposit tokens or something else, VAP allows financial institutions to issue
+26:4126 minutes, 41 secondsfiatbacked tokens, improving financial efficiency and enabling programmable finance. Check out the links in this
+26:4926 minutes, 49 secondsepisode's description to express your interest in VAP.
+26:5326 minutes, 53 secondsThis episode is brought to you by Canton Network. Ever wonder where real tokenized asset volume is going? Canton
+27:0227 minutes, 2 secondsNetwork, the groundbreaking layer 1 public chain where traditional finance and crypto are starting to converge.
+27:0927 minutes, 9 secondsWhy? Because Canton is the only public network with privacy. No workarounds, no compromises. This is 24/7 markets on
+27:1927 minutes, 19 secondsdemand financing with real yield where value moves as freely as information on the internet. This isn't just another
+27:2727 minutes, 27 secondsblockchain. No, this is where the serious money is flowing to solve real market demand and risk. Visit
+27:3527 minutes, 35 secondscanton.network to learn more. All right, thank you very much to our sponsors. Uh the next story came from Coinbase. um
+27:4327 minutes, 43 secondsthey have launched perpetual futures in the United States, also known as PUBS.
+27:4927 minutes, 49 secondsSo, US customers starting on July 21st can trade CFTC regulated perpetual futures via Coinbase Financial Markets.
+28:0028 minutesSo, this is no monthly expirations, up to 10x leverage, and low trading fees like uh I think it's two basis points.
+28:0928 minutes, 9 secondsSo, it's pretty pretty affordable. Keen, do you want to just start out by setting up why this is a is a big deal in your
+28:1828 minutes, 18 secondsperspective and and kind of uh where pubs sit versus kind of the rest of the market?
+28:2428 minutes, 24 secondsSure. Yeah. I think there's probably a couple of points. I think the first one and again it kind of goes back to the genius act like this is regulatory
+28:3028 minutes, 30 secondsbreakthrough. So like it's now enabled Coinbase's clients in the US um to effectively like access a global product
+28:4028 minutes, 40 secondsand that is effectively standard across the world. And another big point is again I suppose the Trump administration's goal is to bring more
+28:4828 minutes, 48 secondsonshore. So it's not just a case now of traders using Binance or by bit. It's an opportunity to use Coinbase US. Um
+28:5628 minutes, 56 secondsthat's the first thing I would say and again a key takeaway. And then the second thing I would say that highlights quite a lot is the product innovation around that. So again, Coinbase is
+29:0529 minutes, 5 secondsdefinitely seen as a leader in the space and they want to offer more products to traders, especially institutions. And I think this is a great first step in doing it.
+29:1229 minutes, 12 secondsI think this this is like one of the the questions that I have of is like it seems that perceived
+29:2029 minutes, 20 secondsas like a capital market innovation of a new type of trading product that has been born out of crypto. It feels like
+29:2929 minutes, 29 secondsthere's somewhat of a reaction to hyperlquid which has been one of the breakout success both applications and
+29:3629 minutes, 36 secondschains you over the last year that is building this decentralized exchange to trade per now you have centralized
+29:4329 minutes, 43 secondsexchange providers competing kind of with their own per products. I'm still trying to wrap my head around like what
+29:5029 minutes, 50 secondsis so special about trading per is it a element of I can get more leverage than what I could get you trading futures you
+29:5929 minutes, 59 secondsknow elsewhere and so is it more in the crypto as a better casino type of space.
+30:0430 minutes, 4 secondsAre there ways that per will be applied outside of just trading crypto assets?
+30:0930 minutes, 9 secondsLike are those going to come in and are you going to be able to trade per tokenized stocks? like I I just I don't know enough about why this has become
+30:1830 minutes, 18 secondsbut it's it's very clear that it's a main area that there's a ton of investment activity going into.
+30:2430 minutes, 24 secondsSo I'll have a go at this one because um I did a hot minute in capital markets but albeit not long. So uh if you are a
+30:3130 minutes, 31 secondscap markets pro please forgive me but uh most futures products today um like most options products uh they are derivatives
+30:4030 minutes, 40 secondsso they derive their value from an underlying asset. You're not buying stock. You're buying a contract that deres its value from the stock or the
+30:4830 minutes, 48 secondsbond or or or whatever else. So that's it. It's a derivative. Number one.
+30:5230 minutes, 52 secondsNumber two, nearly all derivatives, options, futures, they all have an expiration date. And because they have
+31:0131 minutes, 1 secondan expiration date, you've got to track that exact expiration date. And you've got to manage your capital. Then you've got settlement delays. and you've kind
+31:0831 minutes, 8 secondsof got all of this complexity that comes around with different contract specifications terminating at different
+31:1631 minutes, 16 secondstimes. Whereas with a per it's just really simplified. Not only have I got no expiration hassle, I'm just buying
+31:2531 minutes, 25 secondsthat product and I could sell it whenever I want to sell it. uh I also have the much simplified kind of uh
+31:3331 minutes, 33 secondsreality of dealing with it dayto-day like and it it therefore what you get is 24/7 trading. I'm not trying to wait for
+31:4231 minutes, 42 secondsa weekend or a cut off time um unlike traditional markets. Um and potentially I get better price tracking because that
+31:5031 minutes, 50 secondsfunding mechanism is keeping the per price closer to closer to the underlying because it's liquid. It's it's more of a true price rather than what somebody
+31:5831 minutes, 58 secondsbought it at 3 months ago um and what the market thought three three months ago. So, uh less complex, better price
+32:0832 minutes, 8 secondstracking, no expiration uh hassle, and sometimes you do see higher leverage as a result. Um that to me could be a
+32:1632 minutes, 16 secondsfeature, could be a bug. Um it's it's that's kind of viewers choice. Any any other thoughts? Yeah, I mean I guess if you just think about maybe how this
+32:2532 minutes, 25 secondsrelates to stable coins at all, it sort of reinforces the stablecoin balance across the ecosystem. So I mean you could imagine that being part of the margin or or what maybe you then take
+32:3332 minutes, 33 secondsout uh from from profits. And so um I think it certainly does strengthen the foundation just with regards to more capital and stable coins and more
+32:4032 minutes, 40 secondsdownstream effects. Albeit, you know, the the user is probably going to be a very cryptonative company or or trader or whatever else. But as that evolves,
+32:4832 minutes, 48 secondsas Kai alluded to, as the products evolve, maybe that just means that there's more opportunity for stables to just be used across the company's treasury and balances and etc.
+32:5732 minutes, 57 secondsThen it then it seems like it's it's been following sort of a similar arc where it's started with offshore centralized
+Chapter 7: Ethereum's resurgence and its role in stablecoin adoption
+33:0633 minutes, 6 secondsexchanges. That's my understanding where per first emerged and were used. Then it has gotten a ton of traction in decentralized exchanges with Hyperlquid
+33:1533 minutes, 15 secondsand now it's like coming on shore with centralized exchanges. And it'll be really interesting to see what the competition looks like of is you the
+33:2333 minutes, 23 secondscombination of Coinbase, Robin Hood, and others offering purpose products. Who are the customers that are going to come in and trade that? Are they the same
+33:3133 minutes, 31 secondscustomers that are trading on hyperlquid or is it reaching a new customer base that you know wasn't necessarily going on chain and trading on decentralized
+33:3933 minutes, 39 secondsexchange but is now getting access to this product in a more you know familiar place that they already are and and I'm curious how that plays out.
+33:4633 minutes, 46 secondsYeah, it's really going to be interesting. I'm interested keen in your views as well. We've seen a bit of um a renaissance in the Ethereum ecosystem.
+33:5333 minutes, 53 secondsAnd obviously, we know a lot of this trading activity is not happening on Bitcoin, which was the primary uh price mover in in crypto markets, albeit we're
+34:0234 minutes, 2 secondsnot talking financial advice on this show. Of course, we're not. But I am interested in the momentum that Ethereum is now starting to see in in recent
+34:1134 minutes, 11 secondsweeks. Uh is this due to to your mind the passing of uh legislation? Is it due
+34:1834 minutes, 18 secondsto some of these moves? Are we seeing more onchain activity valuing some fundamentals? Like where do you net out?
+34:2534 minutes, 25 secondsAnd do you want to just sort of recap sort of the the a bridged history of the Ethereum ecosystem? Um and and why it was sort of seen as as not very fashionable quite recently.
+34:3534 minutes, 35 secondsYeah. So firstly, I definitely think like the Genius Act played a big part in that. Like it again it always blows my mind like how much money is actually
+34:4334 minutes, 43 secondssitting on the sidelines. Like I think ETH now again is getting closer to 4K which is terrific. Um like if you look
+34:5034 minutes, 50 secondsat the beginning of 2025 um like I was pretty fortunate going to meet the different warehouses asset managers and a big piece of feedback I
+34:5834 minutes, 58 secondswas kind of getting from the front front line is that it felt like the BD effort for Ethereum was lacking. Like when you compare that to the likes of Salana, it
+35:0735 minutes, 7 secondsfelt very structured and organized where whereas the kind of feedback I was hearing was like it it felt a lot more fractured and not as structured from the
+35:1535 minutes, 15 secondsEthereum side. And then over the past kind of 3 months to where we are now, it's become a lot more structured. You have the enterprise Ethereum alliance
+35:2235 minutes, 22 secondsdoing a terrific amount of work pushing driving that enterprise narrative for Ethereum. You of course have Etherealize pushing and beating the drum at the Wall
+35:3235 minutes, 32 secondsStreet level. And then recently the Ethereum Foundation hired an enterprise team. So I feel like over this kind of three-month period or the past
+35:3935 minutes, 39 secondsthree-month period, it's put a lot more structured in place and I think people are a lot more confident to engage and reach out to the foundation whereas before I don't think they really had that kind of point of contact.
+35:5035 minutes, 50 secondsYeah, it seems like there was a question of what the what the mainstream narrative would be to institutions about Ethereum. And I remember the days of
+35:5835 minutes, 58 secondsthere was uh the world computer, there was ultrasound money, there are all these concepts that it just didn't seem
+36:0536 minutes, 5 secondslike that necessarily resonated on Wall Street were kind of hard to explain. And then you see Tom Lee and Funstrat come out and just say it's the stable coin
+36:1436 minutes, 14 secondschain. It's like something like super simple that stable coins are like the chat GPG of crypto. So, it's a killer
+36:2236 minutes, 22 secondsapp for crypto and most stable coins today, I think still the largest chain by supply runs on Ethereum. And so, if you get regulatory clarity for stable
+36:3136 minutes, 31 secondscoins, then you know that drives more adoption for Ethereum. I think that that's a a simple narrative that seems to be resonating. I think the question
+36:3936 minutes, 39 secondsfor anyone who's deep in the space is is that actually going to be the case even though the vast majority of stable coins
+36:4636 minutes, 46 secondsare issued on Ethereum today. We're just seeing tremendous competition with both other existing chains that are still
+36:5536 minutes, 55 secondsfaster and cheaper. You've got the L2s uh and then does the value actually acrew back to Ethereum or not? Some of the L2s have their own token. And then
+37:0337 minutes, 3 secondsyou have this whole trend that we've talked about on the show of new chains you being formed that are optimized for stable coin payments that are trying to
+37:1037 minutes, 10 secondshave better privacy, you know, better features focus specifically on the segment of companies, institutions coming in uh with stablecoin. So it
+37:1937 minutes, 19 secondsfeels like the narrative is resonating yet does it continue to be that case in in practice of the lead Ethereum has in
+37:2837 minutes, 28 secondsterms of stable coin supply? We don't know. And that will be really interesting to follow.
+37:3237 minutes, 32 secondsYeah, it's a three-h horse race really, isn't it? You've got the the Tron sort of global south story. uh the uh
+37:4137 minutes, 41 secondsEthereum and its children story and I think you know Ethereum's children includes base includes a lot of EVM
+37:4837 minutes, 48 secondscompatibility and then there's Salana and that three horse race to your point Kai could end up getting disrupted
+37:5637 minutes, 56 secondsbecause we don't know what the right design choices and patterns are. We're still so incredibly early and it's very
+38:0338 minutes, 3 secondshard to back one horse. And I think this is why a lot of institutions tend to dabble in a little bit of everything. Um it's very easy to um partner with
+38:1238 minutes, 12 secondssomebody like a Coinbase who has base because they can hold your hand a lot of the way there and they already have a lot of distribution. And I think this is
+38:2038 minutes, 20 secondsum kudos to them. they are acting as the the on-ramp into an onchain future not just for retail but for institutions now
+38:2938 minutes, 29 secondsuh and the institutions also sort of positioned uh to be a major player if if markets start to get tokenized uh not
+38:3838 minutes, 38 secondsjust the cash side with with with stable coins I'm interested in in your view as to uh you know what does this mean for a
+38:4638 minutes, 46 secondsbusiness who's just trying to make their invoices in and out importers exporters are quite exposed to commodities. Could we potentially democratize
+38:5538 minutes, 55 secondsaccess to things that were once the realm of very sophisticated organizations because you've changed the
+39:0239 minutes, 2 secondscost structure by turning it into something that happens on DeFi and that happens in software. Is that is that something that you're thinking about in
+39:0939 minutes, 9 secondsyour future visions and stories or are you still just focused on the stable coin side? Yeah, I mean quite frankly like one of the things that we
+39:1639 minutes, 16 secondscontinually hear from these traders is just, you know, how can we get that margin, you know, down even more. You know, it's it's almost like this FX game
+39:2439 minutes, 24 secondsthat you're going to always be playing with these with these guys.
+39:2739 minutes, 27 secondsUm, but I think at the same time, you know, I think that just presents the opportunity for us to continue to find those ways to cut those costs and and provide them, you know, the faster and
+39:3539 minutes, 35 secondscheaper settlement even more so than what just the concept itself can kind of bring. Um, and so I think that we try to
+39:4239 minutes, 42 secondsbe very agnostic in terms of how we think about stable coins, how we think about chains, um, and how we think about dollars. Uh, and I think that ultimately that hopefully serves us better than
+39:5139 minutes, 51 secondstrying to form an opinion or or you know lock ourselves into one particular way of approaching kind of the stable coin intermediary or or settlement. Um, which
+40:0040 minutesallows us that that flexibility to see what happens over time. And for your clients, what are you seeing in the chain distribution right now? is you're
+40:0840 minutes, 8 secondsserving a lot of emerging market customers. Are they defaulting to Tron?
+40:1240 minutes, 12 secondsAre you seeing Ethereum happening at all? What's what's the current breakdown?
+40:1640 minutes, 16 secondsYeah, for sure. I mean, it's it's kind of that generic story, right? Global south, we're seeing a ton of tether on Tron um a bit more in the Western world.
+40:2240 minutes, 22 secondsWe're definitely seeing more um Ethereum, but we're definitely starting to see a bit more of the L2s, although the volume is quite low. I think it's like 1 to 5%. But I'd say that our
+40:3140 minutes, 31 secondsdominant chain and and asset is USDC um on Ethereum with with Tron picking up given that we're growing a lot in a lot of these more developing countries. I
+40:4040 minutes, 40 secondswant to get a ke on like with the growing interest in Ethereum in general, how does that play out with staking and
+40:4740 minutes, 47 secondsyou know I know that's the core business you all are in with with Lido. Uh as people discover, okay, there are these things called stable coins. They're
+40:5640 minutes, 56 secondslegit. You know, there's now law. They run on this thing called Ethereum. it's a public blockchain and then there's this asset called ETH and then there's something you have to do with ETH to
+41:0441 minutes, 4 secondssecure the Ethereum blockchain to secure the stable coin payment activity. Like is is that connection coming together for institutions that haven't
+41:1241 minutes, 12 secondsnecessarily been open or like what's the progression of how you get from learning about stable coins to now you're staking
+41:1941 minutes, 19 secondsETH and like how far that that that goes.
+41:2341 minutes, 23 secondsYeah, like it definitely feels like staking is becoming the hot topic which is terrific for Lido and terrific for me selfishly. Um, I think a big part of that narrative around staking has
+Chapter 8: Liquid staking and its benefits for institutional investors
+41:3141 minutes, 31 secondsstarted to take off because of um, the ETF discussion in the states. Um, like I'm sure everyone is aware of, there's a big push in the US to get staking added
+41:3941 minutes, 39 secondsto ETFs. And a big reason for that is just capital efficiency and generating passive returns from just holding ETH.
+41:4641 minutes, 46 secondsUm, like Europe is probably in a fortunate position where staking for European ETSs has been around quite a long time.
+41:5341 minutes, 53 secondsum the issue that um these products face is around liquidity and handling redemptions around when you go through the withdrawal queue. So for a little
+42:0142 minutes, 1 secondbit of context in Europe like I said staking has been around for quite a long time in these products but only 50% of the AUM is being staked and the reason
+42:0942 minutes, 9 secondsfor that is when you go and you unstake your ETH you have to go through the withdrawal queue and that typically takes about 7 14 days depending on the
+42:1642 minutes, 16 secondscongestion in the network but these um traditional products or traditional rappers typically have to operate on a T plus2 basis so you can't actually add
+42:2542 minutes, 25 secondsmore than 50% state for that reason and I suppose this is kind of where Lida would come in a liquid staking where the opportunity for you to get instant
+42:3342 minutes, 33 secondsliquidity and launch a 100% stake product is really exciting. So when we go and we speak to different institutions that's really the the
+42:4142 minutes, 41 secondsselling point. It's this capital efficiency piece and it's liquidity piece. And I think there are kind of two big elements where institutions are starting to take a lot more interest and focus on.
+42:5042 minutes, 50 secondsI'm interested in that perspective as well from a a business's standpoint. Like are they going to be holding ETH?
+42:5742 minutes, 57 secondsAre they going to be staking things? Are they looking for yield? uh in the process because we're seeing yield get baked in even though stable coins
+43:0443 minutes, 4 secondsthemselves under Genius can't offer yield. Yield finds a way um and it's moving around. So where does staking fit versus other things in your um customer and prospects conversations?
+43:1643 minutes, 16 secondsYeah, for sure. I mean I think a lot of our customers live uh you know in FX land and and a lot of what they're trying to optimize around for is sort of
+43:2343 minutes, 23 secondsthe more favorable rate. let me hold this dollar and let me decide uh over the next 7-day period when I'm going to convert it into a naira or something
+43:3043 minutes, 30 secondslike that. Um, and so I think that that's where they're spending a lot of their time today and maybe they're earning yield on that dollar uh via stable coins um over time and you know
+43:3943 minutes, 39 secondskind of earning in that way. But um could sting be an element that maybe that that's you know missed opportunity or new opportunity that could emerge. Uh
+43:4643 minutes, 46 secondscertainly um but I think it's it's definitely one where um there's still kind of a lot of other bigger fish to fry before we can get to to the other
+43:5443 minutes, 54 secondselements of of revenue generation. It does feel like if an institution's going into that space and they are having to buy a lot on behalf of their clients,
+44:0144 minutes, 1 secondthen they're potentially leaving money on the table by not. And Simon, I think one of the points you just made is is really important of there's been so much
+44:0944 minutes, 9 secondsdiscussion around the Genius Act from banks about the prohibition on yield and you know that was a a big point that
+44:1744 minutes, 17 secondsthey they were lobbying for they wanted to make sure it was included in the bill. It got included in the bill and now that has passed. I think there's going to be a big open question around
+44:2544 minutes, 25 secondshow it's interpreted by the OC, but again, it's only a small part of the overall world of yield in the type of
+44:3344 minutes, 33 secondsproducts that people are building. And so, even if a stable coin issuer themselves can't pay yield programmatically on chain to every
+44:4144 minutes, 41 secondsholder, we expect that there's going to be a DeFi ecosystem where you can deposit a stable coin and be able to,
+44:4844 minutes, 48 secondsyou know, earn yield in a protocol. you know, there's going to be, you know, these different, you know, staking opportunities with crypto assets that, you know, underpin a blockchain that a
+44:5744 minutes, 57 secondsstable coin is running on. Um, so it feels like there's there's going to be a number of different ways that yield gets manifested in these types of products
+45:0645 minutes, 6 secondsnow with different levels of risk and you the question is are are the right disclosures there. Uh, but it's hard to see a world where there's no type of any
+45:1545 minutes, 15 secondsyield or rewards moving around a stable coin wallet. uh even if the prohibition of the issuer paying that yield directly
+45:2345 minutes, 23 secondsto the consumer, you know, ends up, you know, being a a main part of how the OC, you know, upholds and and sets the rules. Well, we had Open Trade on the
+45:3145 minutes, 31 secondsshow who work with fintech companies in the global south uh to help them instantly swap the stable coins they may
+45:3845 minutes, 38 secondsbe holding on behalf of their customers for uh tokenized money market funds. We also friend of the pod um Uval Bruce um
+45:4745 minutes, 47 secondsand the folks at digital asset had a big announcement. So on Canton um I believe Goldman and BNY are going to be
+45:5645 minutes, 56 secondstokenizing money market funds. That's a major set of financial institutions tokenizing money market funds bringing
+46:0446 minutes, 4 secondsthem into the onchain ecosystem and uh with Canton then looking to go uh and cast its net wider you start to see a
+46:1146 minutes, 11 secondsworld in which yieldbearing products can be swapped instantly and 24/7 for stable
+46:1846 minutes, 18 secondscoins. So it starts to look and it was you Val that first said this to me like my stable coin is my checking account
+46:2646 minutes, 26 secondsand my money market fund is my yieldbearing account or my deposit account. So what you have is by any other way something that can look to a
+46:3546 minutes, 35 secondsconsumer like uh something that has yield and is uh kind of there to for for the longer term and something that
+46:4346 minutes, 43 secondsdoesn't have yield and if I can swap in and out of those with no delay that's interesting to global corporates but it might be interesting to consumers as
+46:5146 minutes, 51 secondswell. So yield always always finds a way. Well listen guys um we could we could talk about this and and many other stories for a little while but um we got
+46:5946 minutes, 59 secondsto wrap today. Kai's got a million different things to do. We're trying to get everybody together. So, before we do run off and leave you, um Keen, I want
+47:0747 minutes, 7 secondsto make sure people can find out more about you and what you're doing at Lido.
+47:1047 minutes, 10 secondsHow do people get in touch with you and and the folks at Lido uh to learn more?
+47:1547 minutes, 15 secondsYeah, so can reach out to me on LinkedIn, Keen Gilbert, or on Twitter, uh keen_gilbert. And how about you and everything actual?
+47:2447 minutes, 24 secondsYeah, for sure. So, I'm Tikbana on uh Twitter and then uh to learn more, you can just go to actual.com. Two C's. Love it. And Kai, are you in Visa?
+47:3347 minutes, 33 secondsOn X at Kai Sheffield and visa.com/crypto.
+47:3647 minutes, 36 secondsYou find me sailor everywhere or on fintechbrainfood.com and of course sardine.ai.
+47:4247 minutes, 42 secondsFinally, everybody, if you like this show, please hit like buttons. Please leave a review and tell everybody you
+47:4947 minutes, 49 secondsknow to get obsessed because we're one year in and we're going to do a lot more. Bye for now.
+47:5747 minutes, 57 seconds[Music]
+

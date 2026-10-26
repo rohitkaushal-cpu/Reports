@@ -1,0 +1,2147 @@
+
+Search in video
+0:04
+Hi everybody, I hope you are well. Welcome to the to this webinar
+0:11
+surrounding um you know stable coins, the Genius Act and uh you know
+0:16
+riskrevention approaches uh for the blockchain analytics part of it as well which you
+0:22
+know we'll be more than happy to walk you through but very very nice to to see
+0:30
+all of you joining. Just making sure that we have some of the people here.
+0:39
+Perfect. Yeah. So, we have two sections as you can probably see. Um, one section
+0:45
+will just be the chat where you can you can basically just uh jump in and say
+0:50
+give any comments. The other section will be the Q&A chat where you can ask
+0:56
+any questions. we'll display them on the on the screen and we will be more than happy to answer them as we as we go
+1:02
+through. Um I'll give it one or two more minutes before we actually start with the
+1:09
+introductions. you know what this webinar will look like, what we're gonna
+1:15
+talk about, who who am I? Who's Justin? We'll uh we'll briefly introduce herself
+1:22
+shortly, but uh I already see Okay, so some per some people are saying the chat
+1:27
+is disa is disabled. Thanks for letting us know.
+1:33
+So maybe Chandan, if you Yep. Mhm. I think it's going to be in the Q&A
+1:39
+to ask questions, but I could be wrong on that. Yeah. No, no, the Q the Q&A definitely.
+1:44
+Mhm. Okay. Alo uh Yeah. So, we are not uh enabling
+1:49
+the chat, so we are just keeping it uh Q&A. Yeah. So, people can ask any
+1:55
+questions under Q&A section. Okay. Got it. Got it. Yeah. That's that's that's totally fine. So, you can
+2:00
+you can ask any questions in the in the Q&A then. Thanks for letting us know. Swat Swati. I don't know if I'm
+2:07
+mispronouncing it, but thanks for the heads up. Appreciate that. I think we can maybe start um introducing
+2:13
+ourselves. So, you know, once again, welcome everybody. My name is uh Alberto. I'm here with with Justin as
+2:19
+well. We'll be talking today about um the Genius Act and overall, you know,
+2:26
+riskrevention uh strategies, blockchain analytics around stable coins as well.
+2:32
+So I will just quickly you know introduce myself and then Justin of course you can introduce introduce
+2:38
+yourself and and and take over but um so I'm directing operations at Merkel
+2:43
+Science which is a blockchain analytics company in charge of wallet screening transaction monitoring uh investigations
+2:50
+in the blockchain and everything that has to do with ecosystem safety that has
+2:55
+to do with onchain activity let's say um so yeah you know my background is in
+3:01
+investing investigations. I worked at at Europole in the European police in crypto crime investigations in the past.
+3:06
+I worked in CH analysis. I'm sure a lot of you you know are are aware about ch analysis tool also in you know
+3:13
+investigations trainings etc. Uh and yeah now I'm currently working at at Merkel Science. So very very nice to
+3:19
+meet you all. I'll be more than happy to share my insights and and experience throughout the webinar and more than happy to answer any questions that
+3:24
+pertain to my domain of expertise. Let's say I think maybe Justin you can uh introduce yourself. Sure. Thanks, Alro.
+3:32
+And hi everyone. My name is Justin Lavine. I'm a counsel at Davis Pulk. I'm
+3:37
+a financial regulatory lawyer. I focus now basically almost all my time on
+3:43
+digital asset regulatory issues. In particular, doing a lot of work on
+3:48
+stable coins. Um, I've been advising on the legislative developments over the
+3:54
+past few years for various clients that have been watching it unfold in the US.
+4:00
+um and advising both current stable coin issuers and other fintexs or cryp crypto
+4:06
+natives and also some traditional financial institutions and large banks uh particularly after enactment of the
+4:13
+genius act that are exploring the space either to issue stable coins or offer
+4:18
+complimentary services. Um I'm also on the advisory board of stablecoin standard which is a international uh
+4:26
+trade group industry body of stablecoin issuers and other crypto firms
+4:31
+advocating for consistent and clear rules of the road uh across various
+4:36
+jurisdictions. Uh so thanks very much for having me Alvaro. Nice to meet everyone. I'm gonna so the way we're
+4:43
+going to do this presentation I'm going to take the first half and uh just take
+4:48
+the very simple task of explain what is the Genius Act, what does it say? What are the requirements? Um and I say that
+4:55
+jokingly because uh there's a lot to unpack. Um and there we're just in the
+5:02
+midst now of implementing rules which I'll get into and I'll discuss some of the rule making proposals that are
+5:08
+coming underway to further uh fill in the gaps and uh the details of the
+5:14
+Genius Act. Um happy to take questions throughout. Um you'll see I'm going to
+5:21
+share slides that have a lot of text on them. I'm not going to just be reading from the slides but capture some of the
+5:26
+key points and I believe the slides will be shared afterwards. So, uh, don't feel
+5:31
+the need to read through everything. You'll have that as a reference afterwards. So, now to start, I will share my
+5:38
+screen. Yep. And while you're at it, uh, just to remind everybody, please feel free to,
+5:43
+you know, to ask questions. I'll be more I will be going through the through your questions and you know we'll be
+5:49
+interacting with Justin as as he's explaining obviously without uh uh
+5:54
+without too harshly interrupting his flow of the uh presentation but you know
+5:59
+any questions will definitely be addressed. So any doubts questions you can always ask in the chat and um and
+6:05
+yeah over over to you Jess. Great. So can you see my uh the cover
+6:10
+slide? Yes we can see it. Okay.
+6:18
+Okay. So to start off just an level set uh the Genius Act was enacted over the
+6:24
+past over this summer. It's not effective yet. So it was enacted uh by
+6:31
+Congress signed by the president. Um but it will be the effective date of the act
+6:36
+is the earlier of 18 months later. So that's early uh January 2027. or
+6:45
+120 days after any final rules are implemented. So where in the midst of
+6:51
+proposed rules, we don't yet have any final rules. Um it seems the the
+6:57
+regulator the the regulators are directed to issue the vast majority of
+7:02
+the rules within one year of enactment. Um and they're hard at work at proposing
+7:08
+those rules. Um, so it seems that it will become effective 120 days after
+7:15
+after that. That will probably be the trigger rather than the January 2027 outside date. That's relevant for
+7:23
+various provisions and I'll talk about how there's the interplay of the timing. Uh, we're in a it it leads to some
+7:31
+complexity of issuers or potential issuers that want to issue a stable coin under the act. Uh the act includes
+7:38
+federal preeemption of state licensing requirements, but it's important to keep in mind that those preeemption and such
+7:44
+don't actually kick in until the effective date. Um and just to set in where we are, as I said, the FDIC and
+7:52
+the OC, two of the three main federal banking agencies have each proposed
+7:57
+rules. The FDIC's proposed rules limited just the application procedure whereas
+8:03
+the OC uh has issued a very comprehensive proposal close to 400 pages a few weeks
+8:10
+ago uh that covers essentially everything in the OC's remmit under the
+8:16
+act. uh the US Treasury which handles various aspects of the bill that we'll
+8:22
+get into including a lot of the illicit finance controls has propo has requested
+8:28
+comment and done an advanced notice of proposed rulemaking. Those are essentially earlier stages ahead of a
+8:34
+proposed rule. Um but h has not yet issued any proposed rules and neither has the Federal Reserve which is the
+8:41
+other main federal banking agency that has um authority and jurisdiction under
+8:46
+the act. So as I said we'll dive into what the Genius Act says. I'll layer in with some
+8:53
+of the proposals to date. Uh focusing in particular on the OC, the Office of the Controller of the Currencies proposals,
+9:00
+just because those have been the most comprehensive to date. Um but I'll I'll note where there are other ones as well.
+9:06
+And there's an appendix to the slides that I'll be sharing that lists out all
+9:11
+the reports and rules that are required to be issued under the act. Uh it's several dozen. It's quite comprehensive
+9:18
+and you'll see you'll see that of the various rules who would be issuing them in the timeline and that's in an
+9:23
+appendix if if pe in case people are interested. So to start I'd like to start with just
+9:31
+a few of the key definitions and then after that I'll discuss the different
+9:37
+categories for permitted payment stable coin issuers and who the the regulator
+9:42
+is. I think that will set up a nice foundation for for the way the Genius Act works and then I'll get into various
+9:49
+aspects of the bill and various requirements. So to start the definition of a payment stable coin uh it's here on
+9:57
+this slide the way I think of a payment stable coin is that middle bullet. So
+10:03
+the issuer of which in those two subp prongs is essentially two it's two promises that a stable coin issuer makes
+10:10
+that causes a coin to be a a payment stable coin. One the issuer is obligated
+10:16
+to redeem the coin for a fixed amount of value. Um and two they represent that
+10:23
+they'll maintain uh stable value. They'll they represent that the coin will maintain a stable
+10:29
+value because there is a reserve of assets backing that coin that they promise and these two promises really uh
+10:37
+combine and they're related interrelated which is you have the reserve and you promise to use assets from the reserve
+10:43
+to redeem a coin at par. One thing to note is the definition of a payment stable coin under the Genius Act is not
+10:49
+limited only to stable coins uh that back the US dollar in the market today.
+10:55
+I think that I think US dollar back stable coins represent 99% of pay of
+11:01
+stable coins but the act is broader and could capture other stable coins as well denominated in other currencies.
+11:08
+Uh but if you look at this definition it does not capture say algorithmic or
+11:13
+other decentralized stable coins that don't have an issuer uh don't have a set
+11:19
+pool of fiat assets backing it. So there are other types of stable coins that are not subject to the bill.
+11:26
+Um, another important aspect of the bill is the definition of distributed ledger. Uh, so
+11:35
+the the way there's a there's a series of defined terms. A payment stable coin
+11:40
+is a type of digital asset under the bill and a digital asset is defined as a
+11:46
+type of asset on a distributed ledger. The definition of distributed ledger
+11:52
+refers to a public distributed ledger. And in my mind, there's a little bit of
+11:58
+ambiguity of whether that is limited to only what we view as like public
+12:03
+permissionless blockchains or whether permissioned blockchains could still be
+12:10
+fall within the definition of a public distributed ledger within the meaning of the act. The import there is if if a
+12:17
+certain distributed if a certain blockchain doesn't qualify as a distributed ledger as defined in the
+12:22
+act, the assets on that blockchain technically would not be payment stable
+12:28
+coins and therefore would not be subject to the Genius Act. Um, the OC, which as
+12:35
+I said has issued a proposed rule, it also includes over 200 questions for the
+12:41
+public to comment on, raises this point as a question. It it raises the point of what should the the OC
+12:49
+implementing regulations further define a distributed ledger to clarify this
+12:54
+point. So, I think that will be something that will remain to be seen and play out. Um, the other point I'll
+13:00
+make on this slide is payment stable coins are carved out from the definition of security and also payment stable coin
+13:08
+issuers are carved out from being investment companies under the federal securities laws. And then the act is
+13:14
+also clear that payment stable coins are distinct from tokenized deposits. So tokenized bank deposits
+13:22
+um and the act does not address tokenized deposits. Those are explicitly out of scope of the bill.
+13:31
+The last set of definitions that I want to briefly touch on before getting into further parts of the bill are the OCC's
+13:39
+proposal uh defines affiliate and control. AIL
+13:44
+the definition of affiliate is relevant in various aspects of the bill um which I've noted at the bottom of this slide
+13:50
+and I'll discuss a bit as we talk through. Um what's noteworthy here is
+13:56
+the OC has has decided to use the bank holding act uh definition of affiliate
+14:02
+and control which is an affiliate is any person who controls or is controlled by
+14:07
+or under common control of another person and then the definition of control for those of you who might be
+14:15
+familiar with US bank regulatory requirements under the bank holding company act is very broad. The key
+14:21
+provision is that third prong which is the controlling influence test. Um this
+14:27
+is primarily uh well it is directly interpreted and there's rules by the Federal Reserve
+14:34
+that say you could find control with as little as up to as little as 5% of
+14:40
+voting securities in a company. Um the OC says they reserve discretion to
+14:46
+interpret the definition but they expect that they will follow Federal Reserve interpretations. So that's just
+14:53
+something to keep in mind. The definition of affiliate at least under the for the OC purposes
+15:00
+is broader than the common understanding. It's not based on say 50% ownership. It could be as small as 5%.
+15:07
+Now I'm going to talk through the different types of issuers and the
+15:13
+different types of regulators under the act. Um the broad like an overall comment I have
+15:21
+on the Genius Act is it is modeled off bank regulatory requirements but it is
+15:28
+specifically and intentionally tailored and more narrow than the traditional
+15:34
+suite of bank regulatory requirements. Um uh I'll just finish this thought and
+15:40
+I see there's a a question in the in the chat. Um but the point I want to make is
+15:45
+similar to in the US our dual banking system which is banks could be regulated
+15:50
+primarily at the federal level or the state level. The Genius Act takes that same approach. This slide shows the
+15:57
+options for being federally regulated. The next slide I'll get to state issuers. Um, for federally regulated,
+16:06
+there's two broad categories. There is a subsidiary of an insured depository
+16:11
+institution. So, an IDI is a what you typically think of as a bank. Um,
+16:16
+noteworthy that an IDI, a bank itself can't be a stable coin issuer, but it
+16:22
+would be a subsidiary. That makes sense because if you think of a stable coin as having its own
+16:28
+dedicated pool of reserves, it's it would be more difficult for a bank, you
+16:33
+know, who whose just entire balance sheet of li it entire liabilities essentially are deposits. It would be
+16:40
+more difficult to segregate that. So it's simpler for a subsidiary of an IDI to be the issuer. That's what the Genius
+16:47
+Act requires. And there the primary regulator would be the same regulator of the IDI. So
+16:55
+national banks, that's the OC. State banks that are members of the Federal Reserve system, that's the
+17:01
+Federal Reserve. State banks that are not members of the Federal Reserve are FDIC.
+17:07
+And then the other category is federal qualified issuer, which are non-banks.
+17:12
+So just a normal LLC or corporation, an uninsured national bank, that's quite
+17:19
+noteworthy. Um there are uninsured national bank
+17:25
+captures national trust banks which are essentially a subset of banks that don't
+17:30
+accept deposits and are not insured by the FDIC.
+17:35
+Um therefore they're not banks for purposes of the bank holding company act and subject to the wider array of bank
+17:43
+regulatory requirements but they are banks for purposes of the national bank act. You might have seen in the news
+17:50
+there are a lot in the US of national trust banks that are ch being chartered. uh many of which are doing so primarily
+17:57
+to for stable coin strategies either to be a stable coin issuer directly or
+18:04
+there's various uh charter applications where an affiliate will be the stable
+18:09
+coin issuer and the national trust bank will custody the reserves manage the reserves and be provide ancillary
+18:16
+services uh related to the their affiliate stable coin and then the last
+18:21
+category the federal branch of the foreign bank all of Those are regulated by the OC. The point to take here is
+18:28
+that the OC has the widest uh grant of
+18:33
+jurisdiction both for national bank subsidiaries of national banks and then all the federal
+18:40
+qualified issuer categories. Um that was a point of contention. Uh other drafts
+18:46
+of legislation would have given a lot of the authority to the Federal Reserve. um
+18:52
+the OC has essentially come out with having most of the authority. That's also why the OCC's proposed rule is very
+18:58
+important because it will govern a a wide aspect of the jurisdiction. The next slide I'm going to discuss state
+19:04
+issu. But before that, Alro, uh it looks like we might have some questions. Yeah, exactly. Thank you, Justin. Really
+19:11
+appreciate it. We have a few. Let's start with the first one by Maria. Um thank you for for your question, Maria.
+19:17
+Really appreciate it. So the question we we will answer it uh live. So she says
+19:23
+good day. Thank you for the webinar. I have a few questions. In your opinion, when will the relevant legislation to
+19:28
+regulate the free use of cryptocurrency in the US actually be adopted? And which
+19:33
+specific body will be responsible for regulatory oversight? Will the regulation of cryptocurrency use be
+19:39
+carried out at a state level or through federal regulation? Could a federal license, if obtained in the future,
+19:45
+exempt one, from having to comply with any regulations within a specific state? This is quite a quite quite a deep
+19:52
+question, but feel free to answer it as you know, as much as you can. Sure. Thanks, Maria. So, so I I assume by your
+19:59
+question referring to cryptocurrency more generally. You're you're talking about the broader array of digital
+20:05
+assets and not just stable coins. So, as I said, the Genius Act is limited only
+20:10
+to payment stable coins. Um, currently in the US there is a lot
+20:16
+of work in Congress for what people refer to as market structure legislation
+20:22
+which would regulate the broader array of digital asset uh activities.
+20:28
+Uh most most prominently the trading of digital assets. Um
+20:35
+just to give a very that that could be the subject of another very long webinar as well. Um just a high level what it
+20:42
+does is it seeks to regulate and clarify the status of different types of digital
+20:48
+assets. So whether they're digital commodities or digital securities, who the primary market regulator would be.
+20:56
+Uh so that would be the the SEC, the Securities and Exchange Commission for securities and the CFTC, the Commodities
+21:03
+Futures Trading Commission for Commodities. Um and then it would also regulate the offer and sale of digital
+21:10
+assets. So even if a digital asset itself is not a security offering digital assets in capital
+21:16
+raising transactions either could be securities transactions or subject to various disclosure requirements or
+21:24
+restrictions on in insider resales and such. Um the bill also has some coverage
+21:30
+of elicit finance uh bank secrecy act requirements and also some some bank
+21:35
+regulatory provisions that would clarify the activities that banks can engage in
+21:41
+with respect to various types of digital assets. Um so it's a much broader piece of legislation to the specific question
+21:48
+of uh preeemption and licensing. It essentially
+21:55
+uh is modeled off existing categories of brokers, dealers um both on the SEC side
+22:01
+for securities and commodity derivatives and would create new registration categories
+22:07
+uh for the digital asset equivalents of those and there would like today there
+22:13
+would be varying degrees of preeemption in that bill as well. Perfect. Yeah. And I like that you made
+22:19
+that emphasis on the actual stable coin specifically as opposed to general cryptocurrencies which I think also
+22:25
+leads us to uh to the aspect of definition and a question we just got from Enrique saying is there a
+22:31
+difference between tokenized deposits and stable coins? What is the main difference and how um does that impact
+22:38
+regulation? Yeah, that's a great question. So there's several nuances to the way they
+22:46
+differ. A payment stable coin is fully backed. When I say fully
+22:52
+backed, there is a reserve of the full amount backing the stable coin. So if I
+22:59
+hand a dollar to a stable coin issuer, they take that dollar and they put it in a reserve of dollars or other very safe
+23:08
+liquid assets like short-term treasuries and 100%. they don't uh essentially
+23:14
+redeploy that and rehypothecate the reserves. A bank depos tokenized deposit
+23:21
+is just a bank deposit represented on a blockchain. Uh and a bank deposit is not
+23:28
+fully backed. That's the whole reason we have a whole structure of bank regulation uh for the risks inherent in
+23:36
+that model of I give a dollar to the bank. The bank keeps some portion uh as
+23:42
+a capital requirement but the vast majority is reserving is lending out to other customers stimulating the economy.
+23:49
+Another difference is a payment stable coin is closer to a bearer instrument
+23:55
+where it transacts in secondary market transactions. And we'll get into this why that's really important. Um, and
+24:03
+whoever holds the stable coin on on the blockchain has that stable coin. A bank deposit is more account-based money. Uh,
+24:11
+so when you think of your bank deposit, it's you have a contractual relationship with your bank. um you could you could
+24:20
+convert it into fiat a dollar bill and then it's a bearer instrument. But when it's just a bank account, it's it's on
+24:26
+you know it's on the records of your bank and they say it's yours. You can't
+24:31
+lose you can't transfer it without the bank knowing essentially. So those are two kind of differences from bank
+24:37
+deposits. Obviously there are similarities. A lot of the yield debate in the US right now is
+24:43
+is kind of prompted from these similarities. Uh but there are some differences
+24:49
+and then I'll take yeah the next question how does the Genius Act differ from MA? Um
+24:57
+I think that would be a whole broader conversation. I think at a at the highest level there's a lot of
+25:03
+similarities. Um, I'm I'm less I'm less of an expert on Mika, so I don't want to get over my
+25:09
+skis, but I I would say there are at its core, you know, a a token that's meant
+25:14
+to be stable uh that is fully backed by reserves is very similar. Mika covers a
+25:21
+lot of other categories beyond just stable coins. Uh whereas, as I said, the Genius Act is limited just to stable
+25:27
+coins. Um and then I'll take maybe one more question and then keep going. Um,
+25:32
+on federal qualifi there's a question from Swatti on a federal qualified issuer. Uh, does the non-bank entity
+25:40
+have to be a US publicly listed company? No. Uh, that's a great question. It does
+25:46
+not have to be publicly listed, but it does have to be based in the US. And
+25:51
+that's an important point. So, the permitted payment stable coin issuers are all doiciled and and incorporated in
+26:00
+the US. There's a separate category of foreign payment stable coin issuers that I'll I'll get to, but these are all US
+26:08
+incorporated entities. Uh, but they don't have to be public companies.
+26:14
+Um, perhaps I'll get started. I I'll continue and then I see there's another
+26:20
+I'll just take the last question. There's one more. Alvaro, do you want to read it? Sorry, I took over your job. Yeah. No, no, you're good. You're good.
+26:26
+And yeah, I I want to make a little bit of emphasis on what you said before about Mika because I I was also
+26:32
+specializing in crypto regulations in Europe. And I think indeed Mika has a much a much broader scope, let's say,
+26:38
+covering way more than just uh you know, generally crypto. It covers general cryptocurrencies, not only stable coins,
+26:45
+but also crypto issuers, you know, virtual asset service providers, etc., across 27 EU countries, right? So that's
+26:51
+a little bit different than the Genius Act which is focusing solely on payment stable coins but indeed I'd say that
+26:57
+regulatory philosophy is very very similar. Right. So um definitely definitely with you on that one. Uh the
+27:04
+last question would be happy Tuesday. Happy Tuesday to you as well. What are the risks of holding a stable coin as a
+27:11
+common man? So that's a that's a great question. And
+27:16
+uh essentially the Genius Act at a at the most fun
+27:22
+fundamental level is designed to minimize those risks. But the primary
+27:28
+risk of a stable coin is you think it is worth you know a dollar and something
+27:36
+happens and it's not worth that dollar. So you there have been examples of payment
+27:42
+of stable coins on the secondary market that start trading it's called breaking
+27:47
+the peg and trading below a dollar. That could be for various reasons. Uh most
+27:54
+the most obvious is people lose faith that it is fully backed and that the
+27:59
+stable coin issuer will be able to fulfill its obligation to redeem coins
+28:05
+when you ask to redeem for that full dollar. The Genius Act essentially at its most fundamental level is designed
+28:11
+to mitigate that risk to have strict requirements on what backs the coins uh
+28:16
+on reporting of the reserves of supervision by the regulators of the requirements of when you redeem and how
+28:24
+uh to to mitigate those risks but that that essentially is the fundamental risk I would say.
+28:31
+Amazing. I think from here we've answered all questions Justin so please uh feel free to consider. Right. So as I
+28:39
+said this slide covers federal uh the federal option for regulation. The
+28:44
+second option is for state issuers. Uh and the construct is issuers can
+28:52
+choose to be either regulated primarily at the federal level or the state level. But to go down the state pathway
+29:00
+uh there's a few conditions quite important conditions. One is there's
+29:05
+generally a cap of 10 billion in outstanding payment stable coins. So you
+29:13
+have to be under that amount subject to an exception I'll get to go the the
+29:18
+state route. So it is intended for smaller issuers to start the state route
+29:23
+um and larger issuers would be in the federal route. The second key
+29:28
+requirement is that the state regulatory regime has to be deemed substantially
+29:35
+similar to the federal regime. Um so the Genius Act only sets a framework sets
+29:43
+the framework for the federal uh federal rules and essentially says states you
+29:51
+are free to create your own stable coin regimes. But to qualify
+29:57
+within this federal legislation has to be substantially similar to the requirements set out in the bill. And
+30:03
+it's essentially the requirements that I'm going to discuss on the subsequent slides around like what the reserve
+30:08
+assets are, the capital requirements, the reporting requirements and so on. Uh
+30:14
+the framework for determining that is states themselves, the state regulators
+30:20
+would certify to a new body called the stablecoin certification review committee that they're substantially
+30:26
+similar. And then that body which is composed of the heads of several federal
+30:32
+agencies has the opportunity to object or not.
+30:38
+So what you're going to see at I I've been focused so far on the federal regulators that are working on issuing
+30:44
+their rules. What's also happening right now is various state regimes either
+30:49
+already have stable coin regimes or are working to develop them. will have to work on
+30:56
+uh making sure or refining or creating new regimes that are that meet the
+31:01
+federal standards and are deemed substantially uh similar to get that certification.
+31:08
+Uh the one exception that I noted is for the from the 10 billion cap is a issuer
+31:15
+that starts under 10 billion later goes above the 10 billion cap generally would
+31:20
+have to transition to federal oversight. Uh but there is a there's a concept of
+31:26
+getting a waiver and there is a presumption that uh issuers in certain
+31:33
+states that already have pre-existing regimes are presumptively approved for that waiver. So there's there's some
+31:39
+nuance to the state versus federal divide and and generally small issuers only being in the state subject to that
+31:46
+exception.
+31:51
+Um I will now go to the next slide which covers foreign payment stable coin
+31:58
+issuers. So as I as I said at the outset uh permitted payment stable coin issuers
+32:04
+are US companies. Um, and the bill the the essentially the
+32:10
+the central restriction in the Genius Act is you have to be a permitted payment stable coin issuer to issue a
+32:18
+payment stable coin in the United States. That language is really important in the
+32:24
+United States. uh the the view is that that only captures the the primary issuance and
+32:33
+sale of the stable coin, not the subsequent trading of the stable coin.
+32:38
+So if I am a foreign issuer and there's, you know, many prominent foreign stable
+32:44
+coin issuers in the market today, I can issue my coin to non US people outside
+32:50
+of the US. Um, and conceivably it could still trade in the US on trading
+32:56
+platforms. So, the Coinbases of the world and that coin wasn't issued in the
+33:01
+US, but it subsequently trades in the US. Uh, if if if the Genius Act only
+33:07
+covered that first part there, that would be an obvious loophole. So, the Genius Act also says
+33:14
+uh payment stable coins issued by a foreign issuer cannot be traded on US
+33:19
+custodial trading platforms unless either they satisfy a safe harbor or
+33:25
+more likely they comply with these five conditions that I have on the slide. Um
+33:31
+so, so a few things I'll note on this. I I won't walk through each of those conditions. One, this only applies to
+33:38
+trading on custodial. So CFI trading platforms it doesn't capture bilateral
+33:45
+transactions just you to me to Algro in a MetaMask wallet or on DeFi on unis
+33:51
+swap and such um but it does apply to
+33:56
+custodial centralized trading platforms and the rules bite. Uh, I have a slide
+34:02
+that shows the various types of penalties and I think it's up to $100,000 a day if you are a central
+34:09
+trading platform that is allowing uh foreign payment stable coins to trade
+34:14
+on your platform that don't meet these requirements. The requirements are
+34:20
+uh comply with seize and freeze requirements. This is primarily an
+34:26
+anti-moneya money laundering countering the finance financing of terrorism and
+34:31
+sanctions requirement. Essentially the US treasury can say we see you foreign
+34:36
+payment stable coin issuer uh your coins are being held by illicit actors or
+34:41
+being used for illicit activity. You have to programmatically uh freeze or prohibit them from further
+34:48
+transacting that coin. and the foreign issuer, even though they're not a US company, they're not directly subject to
+34:54
+the US uh Genius Act. If they want their coin to be able to trade on US
+35:00
+platforms, they have to submit to that and agree to do that. Uh the other
+35:05
+requirements, um the next one is comparable regulatory regime. That's somewhat similar to the to the state
+35:13
+substantially similar requirement I I noted. uh but the expectation is
+35:18
+comparable is a is a slightly looser standard. Uh but we still have to see Treasury and decide which other foreign
+35:26
+jurisdictions it deems are comparable. Uh the next one which I'll touch on a
+35:31
+bit is you still have to register with the OC
+35:36
+um the foreign issuer. And when this came out, I thought to myself, well, that potentially
+35:43
+uh is a really big deal. Um, originally I said, you know, a foreign issuer is not directly regulated by the Genius Act
+35:51
+as a permitted payment stable coin issuer. Uh, but if you register with the OC, what does that mean? And the OCC's
+35:58
+implementing rule that I discussed does lay that out. And there are some
+36:04
+differences, but at at generally speaking, the OC proposes to regulate
+36:10
+these foreign issuers quite similarly to the US issuers uh by virtue of
+36:16
+registering with the OC and the conditions that attach. Um
+36:22
+the last bullet covers some aspects of foreign payment stable coins. they don't
+36:27
+receive as favorable regulatory treatment in the US uh for accounting
+36:33
+purposes uh for capital and collateral requirements and for wholesale payments.
+36:40
+That's essentially I think the balance that's trying to be struck is you know
+36:45
+the US legislation can't comprehensively regulate the whole world uh as much as
+36:50
+it tries to in certain places. Uh there are some requirements for foreign stable
+36:56
+coins that are trading on US platforms for US persons. Those requirements
+37:02
+are actually quite quite meaningful and gets you quite close to what the US issuers are subject to but not entirely.
+37:09
+Um but and then also US payment stable coins receive some favorable regulatory
+37:16
+treatment. Maybe we can stop for just a few minutes just to answer a few more questions uh
+37:22
+pertaining to things you just discussed. The first question by TK says, "Dear
+37:27
+Justin, what could be the impact of current geopolitical geopolitical conditions on the implementation of
+37:33
+Genius Act? Would the dates defer?"
+37:38
+So no, geop geopolitical events are not going to impact the effective date of
+37:46
+the act. Um, one, I think the the US federal
+37:52
+regulators are hard at work already proposing rules, working to finalize rules. And two, even if the rules
+37:57
+weren't finalized, as I said, there's a there's a the latest it could become effective
+38:04
+under the statute is January 2027. So even if the federal regulators are
+38:10
+delayed, it will be effect it will become effective at the latest January 2027. I mean geopolitical
+38:16
+dynamics are relevant more broadly of just since the enactment of the Genius
+38:22
+Act. I think there are various jurisdictions throughout the world that are
+38:28
+uh becoming more focused on stable coins because of the idea that the Genius Act
+38:33
+as legitimizing and creating the the ability for greater institutional
+38:39
+adoption and the fact that stable coins today already 99% are US dollarbacked. I
+38:46
+think there are a lot of jurisdictions that are concerned that as US dollarbacked stable coins proliferate,
+38:53
+it could have impacts for their monetary policy um and their currencies. So I
+38:58
+think a lot of other jurisdictions are are focused on this area, but I don't think it's going to impact the Genius
+39:05
+Act, at least in a narrow sense. Thank you, Justin. Appreciate it.
+39:11
+Question from Jennifer. As a non-issuer payment rail regulated under Mika or Micah, how does the Genius Act view our
+39:19
+pass through KYC model for indirect US clients?
+39:24
+Uh, great question and the answer is we don't know yet. Um, there are there's the OC's proposed
+39:32
+rule. Um, at the very end of my presentation I have a slide of all the things that have not yet been proposed.
+39:39
+Uh the key categories are the rules for the elicit finance rules. So the bank
+39:45
+secrecy act, the anti-money laundering, the sanctions compliance. Those the details have not been filled in yet. And
+39:51
+then the other broad category is the comparability determinations and the
+39:56
+reciprocity uh determinations that the US Treasury has to make. Uh the Treasury has
+40:04
+solicited some public comment but it has not even proposed the rules yet. So we don't yet know how those kind of
+40:10
+decisions are going to be implemented yet. Fair point and we're getting a lot of
+40:16
+questions Justin. So definitely we'll try to just answer maybe one more and then we can continue and then do do the
+40:22
+rest. So the last question for now then we can continue is again from Maria. Thank you Maria for the engagement. How
+40:27
+then will it be possible to distinguish between fraudulent schemes and legitimate crypto companies given that
+40:33
+there are additional ways to circumvent mandatory regulatory requirements such as requiring customers to sign a waiver
+40:40
+of liability. This is a direct route for various fraudulent schemes perpetrated
+40:45
+by scammers. So,
+40:51
+US requirements for in the Genius Act for stable coins, but even more generally for all digital assets.
+40:58
+Uh, I would say general fraud requirements and like um consumer
+41:05
+protection requirements apply to ve to essentially all digital assets
+41:10
+regardless of the type, regardless of whether we know if it's a security or not. like there are anti-fraud rules
+41:17
+that apply. Um merely waving liability
+41:23
+uh could be relevant in certain contract like bilateral transa contractual
+41:29
+scenarios but you can't wave away uh the ability for someone to defraud
+41:35
+you. So I would say there are still general supervisory powers available to
+41:41
+various regulators. Uh for stable coins in particular um there is a whole
+41:47
+enforcement toolkit um for payment stable coins. And one thing to note is
+41:54
+you don't get you don't avoid that by simply just avoiding to reg to register
+41:59
+uh because it's a violation and comes with serious penalties to issue a payment stable coin in the US without
+42:05
+registering. So stable coins in particular there's a whole toolkit under this act. But I would say for any
+42:11
+digital asset, an NFT, a digital asset, digital commodity, like fraud is still
+42:18
+policed under both at the state and federal level and there's still uh tools for that.
+42:25
+Perfect. Thank you, Justin. And guys, there's a lot of questions. It seems Justin, you've been very popular with
+42:30
+your insights. Uh we have a lot a lot of questions. Uh so, you know, we don't I don't want to interrupt the flow too
+42:37
+much. There is going to be room for answering remaining questions at the end of this of the of the webinar anyhow and
+42:43
+maybe you know if Justin progresses through uh towards the end we can answer a few more but I think Justin maybe we
+42:48
+can continue uh with your u with your slides uh okay and then continue. Yeah.
+42:54
+Great. So we just discussed foreign issuers.
+43:00
+Another important aspect of the bill is non-financial issuers. Um so this is
+43:07
+most prominently like the Meta the Walmarts of the worlds whether these
+43:13
+tech companies or e-commerce or other non-financial companies can issue payment stable coins. Uh the Genius Act
+43:21
+essentially sets a very high bar for non-financial companies to be able to become permitted payment stable coin
+43:27
+issuers. uh you essentially have to have that stable coin certification review committee which is composed of the
+43:34
+leaders the heads of three uh important federal regulators to allow it to happen
+43:41
+under these three conditions uh finding that there's not material risk to safety and soundness data use limitations and
+43:48
+anti-tying requirements I will say I think this is intended to be a very high
+43:54
+bar that would be very difficult for a very large non-financial companies to satisfy.
+44:00
+That said, there are the restriction is very cabined and
+44:06
+there are ways for these non-financial companies to be involved with stable coins without being subject to this
+44:12
+prohibition. One is this requirement only applies to public companies, public
+44:19
+US companies. So non-public tech companies just as a definitional matter
+44:25
+are not subject to the requirement. Two, it applies to the companies as well
+44:32
+as subsidiaries or affiliates. And as I said earlier, the definition of affiliate uh uses the bank holding
+44:40
+company acts definition which is very broad. But there are ways to avoid being
+44:46
+an affiliate. So think of a consortium. So a group of many companies
+44:52
+uh could form a consortium where the consortium's entity itself is the issuer
+45:00
+and by virtue of just being a stablecoin issuer, it is engaged by definition in
+45:05
+qualifying financial activities. uh but if none of the consortium members are
+45:11
+deemed to control the consortium which could be structured using say non- voting equity and other structures they
+45:17
+would not be affiliates and they would not be subject to it. So a broader comment I have is I expect there to be a
+45:25
+lot of consortiums. I think it makes sense in the stable coin market for
+45:30
+economies of scale for network effects to have a lot of companies come together
+45:35
+in consortiums and one thing to watch is non-financial companies can join these consortiums as a way to get into the
+45:42
+stable coin issuance market.
+45:48
+Um the last I think this is the last hot button topic of my slides which is the
+45:54
+prohibition on yields. Um you might have been following this. This was very uh
+46:02
+contentious during the negotiation of the Genius Act. It's also coming up now with market structure legislation.
+46:08
+Interestingly, uh, one of the key items of disagreement
+46:13
+in market structure is yield on stable coins. Um, the Genius Act. So, this snip
+46:20
+on the top is the statutory language in the Genius Act, which is worth taking a
+46:26
+look at. It is very lawyerly crafted. So, I will read it out. This is no
+46:32
+permitted payment stable coin issuer or foreign issuer shall pay the holder of a
+46:38
+payment stable coin any form of interest or yield and it's defined broadly whether in cash, tokens or other
+46:44
+consideration uh solely in connection with the holding use or retention of such payment stable
+46:50
+coin. A few things I'll note on this definition. one uh interest or yield
+46:57
+whether in cash, tokens or other consideration is intended to capture uh any is intended to capture you can't
+47:06
+just oh I'll classify this as a reward or a loyalty program not interest
+47:11
+therefore it's not subject this broad language will capture it regardless but
+47:17
+this restriction by its terms only applies to the issuer
+47:22
+uh whether a permitted payment stable coin issuer or a foreign issuer uh not to third parties even not to
+47:29
+affiliates and then two it only applies with respect to holding use or retention of a stable coin. So under this language
+47:38
+uh I as an issuer can't just give a passive yield to the stablecoin holders
+47:44
+but I can pay rewards for other reasons say distribution services or marketing
+47:51
+expenses um or activity based rewards that are not solely in connection with holding or
+47:57
+retaining the stable coin. the genius the OCC's rule that recently
+48:04
+came out seeks to further expand on this prohibition and they is uh create a
+48:11
+rebuttable presumption um that extends the restrict the statutory restriction to cover certain
+48:20
+yield arrangements that involve a what I what I'll call an intermediary
+48:25
+uh specifically an affiliate or a related third party and essentially if The ISS is the genius act statutory
+48:33
+language says issuer can't directly pay yield to stablecoin holder solely in connection withholding.
+48:39
+The OC's rebuttable presumption is you can have an intermediary in the middle which is issuer pays yield to affiliate
+48:46
+or related third party and then the related third party or affiliate pays to the stable coin holder solely in
+48:53
+connection with holding. um that's pretty notable of extending the
+49:00
+statutory pro prohibition in some ways but not in others. So it extends in that
+49:06
+even if it's not directly from the issue from the hands of the issuer to the stable coin holder it could be captured
+49:12
+but it's not broad in the sense that it's still only solely in connection with holding using or retaining the
+49:17
+stable coin. Uh so there's still the ability for activity based rewards.
+49:23
+those lines are still very blurry. Um, I think a lot of people will comment to the proposed rule asking for
+49:30
+clarifications, maybe safe harbors or specific fact patterns of what's
+49:35
+captured, what's not captured, and then even just foundationally what is a related third party. The definition is
+49:43
+quite is is a bit broad and somewhat circular. Um, so I think there's still
+49:50
+quite a bit of uncertainty of what exactly what reward programs will be captured and what will not. And then
+49:58
+this whole debate is also unfolding at a second level in the in the market structure legislation as I mentioned.
+50:07
+Um, this is on white label issuance. I'll just say the OC requests comment on
+50:13
+white label issuers. Uh it expresses some skepticism of the risks involved of
+50:20
+having one issuer issue coins for various differently branded coins but solicits comments on the right approach.
+50:27
+Uh so I think the final rule will get into more detail on that. Um
+50:33
+since we're so far along I think I'm going to move a little quicker on the on the next section of slides. Um and then
+50:39
+Albero feel free to stop me when you want to cover some more questions. Don't worry also Justin I think from
+50:46
+from my side the aspect of the we'll be doing a demonstration after of how to monitor stable coins from a compliance
+50:51
+perspective how we're doing that at Merkel Science etc but it will not take that much time we want to really allow
+50:58
+um you know Justin to answer some of these questions because I see a lot of you are very interested so we'll definitely prioritize that um so so no
+51:05
+worries about about the timing aspect maybe we can answer two or three now then you can continue so we have Enrique
+51:13
+Here the first question is saying, "Would a stable coin issued in Puerto Rico be considered foreign payment
+51:19
+stable coin issuer or the same rules would be applied if this was issued in a US state?"
+51:25
+Good question. I'm I'm 90% sure that the definition of permitted payment stable
+51:32
+coin issuer and in the US includes territories. Um, I'd like to double
+51:37
+check, but I I'm pretty sure that an issuer in Puerto Rico would be deemed a permitted payment stable coin issuer.
+51:46
+Perfect. Devon asks, "How will crypto exchange platforms outside of the US
+51:51
+will be affected when using payment stable coins?" I'm not sure if it's if if it if it's regarding whether the
+51:57
+Genius Act would affect them or just overall, but feel free to answer as you will.
+52:03
+So in terms of the Genius Act, not much. So the rules on US on US custodial
+52:11
+platforms that allow trading on foreign issu stable coins that I discussed that
+52:17
+only applies to US platforms. It does not cover foreign platforms.
+52:24
+So directly the Genius Act does not cover it. Um I would say in the sense that those
+52:31
+coins if they are payment stable coins issued by a permitted payment stable coin issuer that the coins will be
+52:39
+regulated in the US and the US issuer will be subject to the requirements uh
+52:45
+which should provide comfort of you know having full the the reserve being
+52:50
+maintained the reporting and such uh but the US regulators at least will not be directly overseeing its trading on the
+52:57
+foreign platforms that will be subject to the foreign regulatory regimes.
+53:03
+Perfect. Vladimir is asking, "Why do we need multiple
+53:09
+issuers? Wouldn't that increase the risk of failure? Why can the government simply issue a nationwide stable coin?"
+53:16
+So, this gets at a an interesting question of who should be
+53:23
+allowed to issue payment instruments. um a a uh stable coin issued by the
+53:32
+government. People refer to that as a central bank digital currency as CBDC.
+53:38
+Um there's been a lot of people certain people in the US that are skeptical of
+53:44
+CBDC's of the ability of the government to monitor and privacy implications.
+53:51
+There are others that do think it's a good idea. Um I would say the Genius Act
+53:57
+doesn't touch that. Uh it just regulates privately issued stable coins. Um I
+54:02
+would say in the US the ability for privately created money is not unique. um
+54:10
+the vast so US dollar bills are obviously created mint you know minted by the US government and created by the
+54:17
+US government but bank deposits is actually like a form of money created by
+54:22
+banks and banks are very closely regulated but that's a form of private money that we have today and then you
+54:29
+know just Venmo and PayPal and such like there are lots of private companies that facilitate payment instruments and
+54:36
+there's a view that you you want to have some private sector innovation in payments. Um, but
+54:41
+the question of whether to also or instead have only a governmentissued
+54:46
+digital asset backcoin is a policy question that you know at least today
+54:52
+the US has decided to come out with a bill for privately issued payment stable coins but not endorse central bank
+54:59
+digital currency. There are a few questions we can address
+55:04
+them as one regarding the clarity act. Um so basically the questions would be
+55:10
+surrounding you know what changes do you foresee with payment stable coins if the clarity act is passed outside of the
+55:16
+stable coin yield reward issue. Um
+55:22
+so one specific example and I'll go back on my slides
+55:28
+if I can. So, as I note in the footnote here, so
+55:34
+there's two different versions of the Clarity Act circulating right now, which is confusing. There's the version in the
+55:39
+H House of Representatives that passed the whole house last summer that would actually further modify this restriction
+55:46
+on non-financial issuers to tighten the the restrictions to essentially get rid of to cover private companies as well as
+55:54
+public and also to make it more difficult for non-financial companies to
+55:59
+be part of a consortium. Um the Senate version that is the focus of debate now
+56:05
+also called the Clarity Act would not do that. Uh the Senate version would not
+56:11
+amend the Genius Act at all. Uh at least as currently proposed. Uh so directly
+56:18
+nothing would change under the Genius Act outside of the yield discussion. Uh
+56:23
+the clarity act in the Senate is focused on yield paid by third parties
+56:29
+specifically what's referred to as digital asset service providers. So like the trading platforms
+56:35
+um more generally I think market structure that governs like regulates
+56:41
+the trading platforms and the intermediaries. So the digital asset broke the digital commodity
+56:47
+brokers, the digital commodity dealers, the digital commodity exchanges will be
+56:52
+facilitating trading in payment stable coins and that bill will govern those intermediaries but it doesn't directly
+56:59
+impact the way stable coins are issued or the requirements of issuers.
+57:06
+Thank you Justin. I think we can continue from here and then I'll I'll jump in um
+57:13
+shortly when there's more questions. Okay. So, this slide covers the
+57:19
+application process. I'll just say the the Genius Act sets strict criteria
+57:26
+on what a regulator can consider in approving or denying an application. It's intended to limit the discretion
+57:34
+um and make it a narrow inquiry. Uh also it sets tight deadlines of 120 days to
+57:44
+review a substantially complete application. Uh and if it's if you if a
+57:49
+regulator doesn't issue a decision within 120 days, it's deemed approved. that's meant to put pressure on the
+57:55
+regulators to uh uh review and decide on
+58:00
+applications quickly. Uh the state regime as I said has to be substantially
+58:06
+similar but the the states are free to make their own application requirements.
+58:12
+Uh the FDIC in its proposed rule, it's limited limited to the application process. The
+58:19
+FDIC is not even proposing like a formal application form. It's proposes a letter
+58:25
+application where an uh an applicant essentially writes a letter describing
+58:30
+how they meet these five criteria that the FDI would would evaluate. Uh so it's
+58:36
+meant to be uh less ownorous than traditional bank regulatory applications
+58:42
+that are cover a lot more criteria. The regulators have a bit more discretion
+58:47
+and historically have taken longer to review and approve.
+58:54
+This slide covers in more detail the OC's proposed rule implementing the act.
+58:59
+The one point I'll note here is the OC had discretion to include additional uh
+59:05
+criteria for evaluating uh applications but declined to do so. It it limited to
+59:11
+just the statutory criteria.
+59:17
+This slide covers the reserve requirements which is one of the most important aspects of the bill. So as I
+59:22
+said like the defining feature of a stable payment stable coin is it is 100%
+59:28
+backed by high quality uh and highly liquid safe assets. So the eligible
+59:35
+assets are listed here. Generally, you could think of them as cash, bank deposits, and very short-term
+59:41
+treasuries, uh, as well as money market funds that hold those those assets. So, cash
+59:49
+deposits and short-term treasuries, uh, tokenized versions of those eligible
+59:55
+assets. And then there's a general catchall for similarly liquid federal governmentissued assets. Uh, note that's
+1:00:03
+governmentissued, so not privately issued things. So you wouldn't be able to have you know privately issued bonds
+1:00:10
+be in a stable coin reserve or commercial paper but there's some discretion for the regulators to include
+1:00:16
+say like treasury uh inflation protected treasuries or perhaps slightly longer
+1:00:22
+term treasuries uh disclosure requirements uh the
+1:00:27
+issuers have to report monthly the reserves they have to be examined by an auditor the CEO and CFO have to serve uh
+1:00:37
+certify to the accuracy of the reserves and could face uh criminal penalties for
+1:00:42
+knowing violations. Uh as I noted before, there's a general prohibition on rehypothecating the
+1:00:49
+reserves. So that means unlike a traditional bank, I can't have my reserve assets and lend them out to earn
+1:00:56
+additional income. Uh all I could do is collect the interest that occurs from
+1:01:02
+those reserve assets. Um, and then redemption. The act just requires timely
+1:01:07
+redemption without further defining it. The the OC's proposed rule defines timely as two business days.
+1:01:16
+One other part that I'll raise on redemption is
+1:01:22
+uh there's a requirement to redeem within two business days but that's only
+1:01:27
+for stable coin holders that are have contractual privity with the issuer that
+1:01:32
+go through their onboarding requirements. So today most stable coins a very small percentage of people
+1:01:39
+actually mint or redeem the coin directly with the issuer. Typically, you
+1:01:44
+would trade it on secondary market platforms or with intermediaries that might issue or redeem directly with the
+1:01:51
+issuer. This slide details the OC's proposed
+1:01:58
+proposal to fill in the details of the reserve requirements. Uh it proposes two
+1:02:04
+options for people to comment on. The first is a is a a general principalbased
+1:02:10
+approach that the reserves are gener sufficiently diverse and manage credit liquidity interest rate risk with an
+1:02:17
+optional safe harbor. The second option would be to take that safe harbor with the specific requirements in the right
+1:02:23
+column and make get a hard requirement. This is actually quite interesting. Uh
+1:02:28
+and I'm not sure how many people expected the OC to go this far. So the
+1:02:33
+Genius Act just says what eligible reserve assets are and has a general
+1:02:39
+grant to the regulators to issue implementing rules saying what portion
+1:02:45
+so like X% are composed of treasuries X% are composed of deposits. The OC is
+1:02:51
+proposing at least one option which would be quite prescriptive of how you
+1:02:56
+could allocate between the different reserves assets. Um, I won't get into
+1:03:02
+the details right now, but you could see this the specific requirements of 10% are composed of insured deposits.
+1:03:09
+There's a 30% requirement, a 40%. The OC refers to this as certain daily
+1:03:15
+liquidity requirements, weekly liquid liquidity requirements. And then the last part I'll flag is the the weighted
+1:03:22
+average maturity of the entire reserve portfolio has to be no more than 20
+1:03:27
+days. So cash deposits, bank deposits have a maturity of zero because they're
+1:03:35
+demand deposits you could redeem instantly. But as I noted, you could have treasuries with a maturity up to 93
+1:03:42
+days, at least under the Genius Act. But under the OC's proposed rule, the
+1:03:48
+weighted average maturity of all of your reserve assets uh would be no more than 20 days.
+1:03:56
+This slide discusses um aspects of
+1:04:02
+access to f the federal banking system. Uh things that general banks are subject
+1:04:08
+to. One, stable coins are not subject to deposit insurance. The policy decision
+1:04:13
+is essentially there's not need for pol for deposit insurance because stable
+1:04:19
+coin should not exhibit the same risks as traditional bank deposits do because they are fully reserved by high quality
+1:04:26
+safe assets. And then two uh access to master accounts. This is uh accounts
+1:04:33
+directly with the federal reserve to have direct access to the federal payment system has been a hotly
+1:04:39
+contested issue. The Genius Act neither expands nor contracts eligibility for a
+1:04:45
+master account. Um I will say though that one category of eligible issuer
+1:04:50
+which is the non-bank uh the uninsured national bank are are under existing law
+1:04:56
+eligible for master accounts. Uh and there are national trust banks that are
+1:05:02
+applying to be a payment stable coin issuer and also to have access to a master account. So that will be an
+1:05:07
+interesting thing to see how it unfolds whether the Federal Reserve uh accept uh
+1:05:13
+grants those applications. As I said at the outset uh the stable
+1:05:20
+coin issuers are generally subject to a bank-like regulatory framework. Uh but it is tailored for stable coins. Um on
+1:05:28
+the next slide I'll discuss capital requirements. Uh we touched a bit on liquidity by virtue of the reserve
+1:05:34
+diversification requirements. The activity limits is also important. The Genius X says a stable coin issuer. The
+1:05:41
+issuer entity generally can only engage in a narrow set of activities of issuing
+1:05:46
+and redeeming the coin, managing the reserves and custodying reserves and the stable coins. Uh but then it also says
+1:05:53
+any other activities that are directly related to those activities. Um and then also gives the federal banking agencies
+1:06:02
+discretion to also allow an issuer to engage in a wider array of digital asset service provider activities. So like uh
+1:06:10
+facilitating trading of other digital assets. Uh so the o the OC has
+1:06:17
+discretion whether to allow those additional activities if they are authorized under existing law.
+1:06:22
+Otherwise, stable coin issuers though are generally subject to that narrow list of activities. But unlike general
+1:06:28
+bank regulatory requirements that impose activities restrictions on the entire corporate family, these requirements
+1:06:35
+only apply to the issuer itself, not affiliates. So, a stable coin issuer could have an affiliate that engages in
+1:06:42
+any other category of activities.
+1:06:49
+uh stable coin holders are also given priority in in insolveny.
+1:06:54
+Uh the idea is if a stablecoin issuer goes bankrupt, its general creditors
+1:07:02
+should not be able to get access to the stablecoin reserves. The reserve should be held only for the benefit of
+1:07:08
+stablecoin holders. uh similar to a bank. If a bank goes
+1:07:13
+bank, banks actually don't use the bankruptcy code. There's a special uh receiverhip regime and resolution
+1:07:20
+regime, but it's intended to keep bank depositors uh have priority. Similar
+1:07:26
+concepts for stable coins, which is important and should help promote the
+1:07:32
+confidence in a stable coin that you know uh you are not last in line in the
+1:07:37
+bankruptcy process. Obviously though there are still difficulties. So if a stable coin one it is a stable coin
+1:07:46
+issuer has not yet ever gone bankrupt and gone through the bankruptcy process. So there's still uncertainties of how it
+1:07:52
+will play out. Uh but this is meant to at least provide them with uh priority.
+1:07:58
+There are also various consumer protections in the bill. One I'll note is uh misleading advertising. You can't
+1:08:06
+advertise a stable payment stable coin as if it was an insured deposit or or
+1:08:12
+another instrument. You have to make clear it is a payment stable coin.
+1:08:17
+Uh the OC's proposing rule uh proposes capital requirements as well as an
+1:08:24
+operational backs stop which will be relevant. Uh the OC is proposing a
+1:08:31
+tailored capital for each issuer based on what they based on their business
+1:08:36
+plan and their projected revenues and expenses that they would provide in their application subject to a minimum
+1:08:43
+of 5 million. Uh and it would be composed and the OCC is proposing it's
+1:08:48
+only tier one common equity and additional tier one instruments. Uh the
+1:08:54
+other point I'll make on this slide is in addition to the capital requirement, the OCC is proposing an operational
+1:09:00
+backs stop of 12 months of expenses
+1:09:05
+uh which would be updated on a going forward basis. So as an issuer is
+1:09:11
+chartered they would have their general capital requirement and then would also have to maintain 12 months of operating
+1:09:16
+expenses composed also composed of highly liquid assets and every quarter
+1:09:22
+it would take a rolling average of its expenses that it would have to maintain with subject to uh pretty significant
+1:09:30
+consequences if it does not maintain those capital and operating uh operational backs stop uh thresholds.
+1:09:38
+Let's just stop for a minute there for some of the remaining questions. Uh we have Emmanuel here asking
+1:09:47
+many thanks for the opportunity. So thank thank you as well for joining. How multi-issuance model stable coins more
+1:09:54
+than one issuer of the same stable coin one of which is established outside the US are treated. That is the question.
+1:10:02
+That's another great question and I think I suspect that this question is
+1:10:08
+being generated because uh Mika requires
+1:10:14
+as I understand it for stable coins issued to EU persons to be issued by an
+1:10:19
+EU entity. Um so today in the market
+1:10:24
+there are issuers that issue a stable coin with dual issuers. So one legal
+1:10:30
+entity in the US that issues the coin to US persons and I think everyone outside of the EU and then a co-issuer
+1:10:38
+uh formed in the EU that issues the coin in the EU. Uh I would say this is also
+1:10:44
+one of the key uncertainties that remains to be seen how the reg how the
+1:10:50
+regulators will handle this. I think there's going to have to be essentially like an memorandum of understanding
+1:10:56
+between the US regulators and the EU regulators and any other jurisdiction that also requires such a dual issuance
+1:11:04
+structure because there's going to be questions of like how do you know the reserve assets are in the right
+1:11:09
+jurisdiction and tied to the right uh component of the coin. So the short answer is neither the Genius Act nor the
+1:11:17
+OC's rules yet directly address this. I think this is going to be something that the Treasury, US Treasury will deal with
+1:11:24
+in its rules. Next question by Edward. For issuers
+1:11:30
+under $10 billion, do states have to adopt all of the federal requirements to qualify as meeting genius standards and
+1:11:36
+if so, is it possible some states may be too slow to adopt this into their law before January 2027?
+1:11:43
+Yeah. So this is another one where the standard is the state regime has to be
+1:11:49
+substantially similar to the federal regime. Obviously that's a somewhat broad concept. What constitutes
+1:11:55
+substantially similar? Uh as I said the stable coin certification review
+1:12:01
+committee is the one that's going to be making those determinations. they are directed to issue an interpretive rule
+1:12:08
+uh clarifying the the criteria they will use to determine what is substantially
+1:12:13
+similar that has not yet been proposed. So that's another key rule that has to come out uh in terms of states and what
+1:12:21
+whether they will be uh deemed substantially similar in
+1:12:27
+time of the Genius Act's effectiveness. That's another open question whether they will. I mean I I one one thing to
+1:12:34
+not is not states are not required to do so. So I I don't expect all 50 states
+1:12:39
+are going to create regimes uh specific for the Genius Act. I think we'll be
+1:12:46
+some of the larger states that already are have guidance and that have been
+1:12:51
+more digital asset focused and some others. Um the ones like New York in
+1:12:57
+particular already has a well-developed digital asset and and stable coin guidance and rules uh like with its bit
+1:13:04
+license requirements. California also has a statute that's coming online uh
+1:13:10
+this summer. Uh I think they will be some of the forerunners of looking to
+1:13:16
+create regimes, but I don't think all will and and certainly not all will be in place in time. So that whole timing
+1:13:22
+aspect of oh I want to be a state issuer in X state if it's not ready yet you you you kind of can't you can't take that
+1:13:30
+path. Yeah. We have another from Ryan. How does the European micro regulation
+1:13:36
+differ for from current US law? I think we explained it a little bit in terms of scope. Um but then the followup is is
+1:13:42
+the US system a single national framework or a division of authority between various state and federal
+1:13:47
+regulators? Genius Act provides clarity on stable coins but what about other digital assets like cryptocurrencies? So
+1:13:53
+I think it's more of just a bit of definitions there. Yeah. So Alvarez you mentioned NA you
+1:13:59
+know is super national and then each of the countries imple had their own laws.
+1:14:07
+I mean there's an analogy to the US federalism approach of federal laws and
+1:14:13
+then state laws as well. I think it's somewhat similar, but it's obviously not exactly the same. I will say generally
+1:14:21
+what the Genius Act does and similar to lots of other areas of laws and
+1:14:26
+financial regulation is you there's regulation at both the federal and state
+1:14:32
+level. If you go to the federal level, there is federal pre preeemption for certain aspects. So, if you get a
+1:14:38
+federal license in certain areas, that preempts the need for state licenses um in certain areas but not all. So, the
+1:14:45
+Genius Act, what it does is if you get a federal license, you are preempted from the need to get state licenses, both
+1:14:53
+state stable coin licenses, but also other license, money transmitter
+1:14:58
+licenses, which will be really important. But the Genius Act expressly does not preempt state consumer
+1:15:05
+protection requirements. So that's the balance that the Genius Act takes. Uh market structure is still unfolding. I
+1:15:11
+think it's there's generally similar concepts. Market structure is also focused. It's a federal bill on federal
+1:15:18
+registration categories and there are certain aspects of preeemption as well.
+1:15:25
+Perfect. We have two last questions both from the same person. So I guess we can you know merge them. Maria is asking um
+1:15:32
+you know according to Genius Act do they do they essentially recognize cryptocurrency as a valid alternative
+1:15:38
+means of payment on a par with fiat currency um the US dollar in particular and do you think cryptocurrency will
+1:15:44
+essentially become a means of payment just like any other recognized fiat currency
+1:15:51
+so the Genius Act one doesn't touch other assets outside of payment stable
+1:15:56
+coins at all in terms of payment stable coins No, it does not cause them to be legal
+1:16:02
+tender, but it does legitimize them and create a legal framework for their use
+1:16:09
+and I think will provide a lot of clarity for institutions to use them in
+1:16:15
+institutional context as a payment instrument similar to the way that the US dollar itself is used.
+1:16:22
+I had on that earlier slide that foreign payment stable coins are not treated as
+1:16:28
+certain things. So as cash equivalents for accounting purposes as eligible collateral for derivatives trades and
+1:16:36
+then also for wholesale bank payments. It doesn't actually say the converse that US payment stable coins are treated
+1:16:43
+those ways, but there's some perhaps somewhat of an implication that they should be and it opens the doors for
+1:16:50
+regulators to say that they will be. So there are uh US companies that are
+1:16:56
+already like making issuing policy positions and
+1:17:01
+requesting comment from regulators saying so for accounting treatment they should be treated as cash and cash equivalents which would make them easier
+1:17:09
+uh just from an accounting and capital perspective to transact in and I think moving in that direction as within the
+1:17:17
+the regulatory uh perimeter as an acceptable means of
+1:17:22
+payment is going continue to happen. That doesn't mean they're exactly legal tender, but they will be a recognized
+1:17:28
+means of payment. Okay, perfect. Uh I think just to
+1:17:33
+finalize and there's really no more questions, but the last one would be um do you think such requirements by the OC
+1:17:39
+will restrict competition among smaller market participants since only large and mediumsiz banks will be able to meet the
+1:17:45
+requirements regarding capital levels and the minimum track record of profitable operations?
+1:17:52
+Um, so I would say this is like a central uh
+1:17:58
+thing to balance for any type of regulation. You want you want rules to protect consumers and to create a fair
+1:18:06
+marketplace, but you don't want rules that are so burdensome that only the largest companies can uh effectively pay
+1:18:15
+to satisfy them. The Genius Act tries to strike that balance by having a more tailored
+1:18:22
+approach compared to general bank regulation. Uh in general, the capital
+1:18:27
+requirements, the application requirements are more narrow and more
+1:18:33
+less complex than general bank requirements. But totally fair that you know a minimum 5 million capital
+1:18:39
+requirement is still decent amount of money and the smallest companies might
+1:18:45
+not be able to uh you know be able to scale to deal with all the requirements. I think
+1:18:51
+that's kind of where the federal versus state construct comes. So I think smaller issuers will still have the
+1:18:57
+opportunity to take state pathways. And by the way, I think you know states have to be substantially similar, but they're
+1:19:04
+not all going to be exactly the same. And I think there will be some flexibility among states. So you might
+1:19:09
+see some states tailor to smaller issuers and others tailor to larger issuers. So it's all it's all balance. I
+1:19:16
+don't think there's a clear answer there, but it's weighing different regulatory considerations.
+1:19:23
+Yep. Thank you for the insights, Justin. I think from here, you know, you can you can carry on. Maybe we can wrap it up
+1:19:28
+shortly. So we have time a little bit for the demo and then just the the final
+1:19:33
+uh link for the participants to obtain their certification training and answer
+1:19:38
+a few questions there. Okay, great. I I have a bunch more slides, but I don't want to take too
+1:19:44
+much more time. So, everyone will get the slides. Um maybe I'll just spend a few more minutes
+1:19:51
+just to capture one other area, which is the elicit finance rules and the specifically the bank secrecy act rules,
+1:19:57
+the anti-moneyaundering and sanctions compliance. So, I will skip over to those slides.
+1:20:04
+Uh, and I'll just cover this relatively briefly, which is to say the Genius Act
+1:20:10
+says that the permitted payment stable coin issuers have to do these five
+1:20:15
+things, which is maintain an effective AML sanctions compliance program, retain
+1:20:21
+appropriate transaction records, do suspicious activity reports, comply with lawful orders by the government to
+1:20:27
+seize, free and freeze coins held by illicit actors, and have an effective customer identification program.
+1:20:35
+That's, you know, all significant and well and good, but the Genius Act doesn't say anything about what
+1:20:42
+constitutes an effective compliance program or what exactly do you have to do to meet these standards. That's all
+1:20:50
+going to be in the implementing rules and that is one of the key categories of rules that have not been issued yet. So
+1:20:57
+the those will be issued by Treasury uh and specifically Finsen which is the
+1:21:02
+financial crimes enforcement network which is a department within the US Treasury uh that I think will be one of
+1:21:11
+the most important rules to set the the more color on the requirements and in
+1:21:17
+particular uh what I note on this oh I'm sorry on the second to last bullet is
+1:21:22
+secondary market transactions because today I think it's pretty clear that the
+1:21:28
+customers that have direct contractual privity with an issuer have to be KYC. They're on boarded. Uh but what are the
+1:21:36
+expectations for an issuer with respect to their coin that's traded among anonymous people uh on DeFi or just in
+1:21:45
+you know onchain and in bilateral transactions. And the analogy is to cash at an ATM. I mentioned earlier like JP
+1:21:52
+Morgan, I go to the ATM. Only if I'm a customer can I pull cash out of the ATM.
+1:21:57
+But no bank then monitors what I do with that cash. You know, I could do whatever I want buying it uh trading with other
+1:22:05
+buying it from other people and doing other activities. So that balance of what oversight's going to be required in
+1:22:11
+the secondary market transactions, I think there's going to be some monitoring, but the the devil's in the
+1:22:16
+details. Um, and that's where I think there's going to be a lot of demand and
+1:22:22
+need for like blockchain analytic companies. And Alv, I think you're going
+1:22:27
+to discuss the tools that Merkel Science has. I think that's going to be like a
+1:22:33
+really important aspect of the regulatory regime for stable coins. So
+1:22:38
+the next few slides that people can refer to on their own cover some of the each of those requirements that I
+1:22:45
+mentioned and then considerations of what the regulators might do. But essentially the key point is this all
+1:22:52
+remains to be seen in the implementing rules. Um
+1:22:57
+otherwise I have some slides on the stable coin ecosystem
+1:23:04
+uh preeemption which we discussed. There's some ethics provisions and then this lists the remaining key outstanding
+1:23:12
+rules. So the uh recipro the reciprocity determinations for foreign issuers, the
+1:23:19
+BSA AML requirements, the substantially similar standard for state issuers, all
+1:23:24
+of those uh are still forthcoming.
+1:23:29
+So I will stop there and uh stop sharing my slides.
+1:23:36
+Yep. Uh yeah, thank you everyone. Thank you Justin. Thanks for your
+1:23:42
+insights. Appreciate them a lot. I'm sure we'll be getting some additional questions. Um actually we have time for
+1:23:48
+for the remaining ones and then I'll I'll go through with the demo. I think that's the best way. We have a question from George. How do the reporting
+1:23:55
+obligations for federal issuers compared to those of state issues?
+1:24:01
+So, the federal reporting requirements are monthly reports
+1:24:07
+uh to uh monthly public reports on the issuers's website that are certified by
+1:24:13
+the CEO and CFO and attested to by auditors and then also an annual audit
+1:24:20
+uh for larger issuers. The OC's proposed rule would also require weekly
+1:24:26
+confidential reports to the OC. State issuers,
+1:24:31
+this goes to the broader construct of the bill. Uh the requirements directly are for the federal regime. The state
+1:24:37
+issuers, the state regulators have some flexibility in creating their regime, but it has to be substantially similar.
+1:24:44
+I think in this area where there's very uh specified requirements of like that
+1:24:49
+monthly reporting requirement uh the stable coin certification review
+1:24:54
+committee will probably say states have to do the same like also have to have a monthly reporting requirement but they
+1:25:01
+that will be like a floor uh and states might require even more more frequent
+1:25:06
+reporting but it will probably have to be at least monthly as well.
+1:25:12
+Perfect. Uh Nicole is asking how effective are the controls to be rolled out on the second market market for Mika
+1:25:19
+ESMA has raised the issue about surveillance of the secondary market and the ability to block the coins if
+1:25:25
+illicit activity. So Alra I I almost think that's a
+1:25:30
+question for you like how effective are the tools to monitor secondary market transactions? Um so maybe I'll leave
+1:25:37
+that to you for your presentation. Yeah. Yeah. Yeah, I think this will be very very linked to what we're going to
+1:25:42
+we're going to demo shortly regarding uh blockchain analytics tools, how they function, etc. So, you know, let's leave
+1:25:49
+that for later because we'll show it in practice. I think it'll answer uh definitely the questions in a much more
+1:25:55
+clear way. Let's go to the next one by George here. I think it's a bit linked
+1:26:01
+to what you talked about before. How can issuers ensure compliance with both federal and state risk management
+1:26:06
+requirements? So the first answer is you might not have
+1:26:12
+to do both. So if you're federally regulated, you only have to take the federal pathway. If you are state
+1:26:19
+regulated, I've been saying you're primarily regulated at the state
+1:26:25
+pathway. So you would comply with the state's rules. There's a degree of backup authority for either the Federal
+1:26:31
+Reserve or the OC, which are federal regulators, even for state issuers. But that is meant to be in the case of uh
+1:26:39
+special circumstances of something like really bad happening. Day-to-day risk management um I mean the it will be a
+1:26:48
+matter of just as any regulated entity of complying with the rules having uh a
+1:26:53
+compliance department that is monitoring things having ongoing dialogue with your
+1:26:59
+regulator to ensure you comply with the rules. It's a bit hard to say today at the outset because all the rules are
+1:27:05
+still being written and have not been finalized yet. But as they come online, everyone, all market participants are
+1:27:12
+going to have to make sure that they create and stand up these compliance regimes to comply with these new requirements.
+1:27:17
+Thank you, Justin. We don't have a question, but we have some good feedback. So, not a question from
+1:27:23
+Chanel, but just to say, Justin, Merkel Science, this has been an excellent webinar. You've summarized what are otherwise very complex concepts in a
+1:27:29
+clear way. Thank you so much for putting on this session. So yeah, thanks. Thanks a lot and thanks Justin definitely
+1:27:35
+mostly. Um okay, there's three or four questions left. I think we can uh probably answer them in the end if after
+1:27:42
+the certification training. U but for now I'm just going to share my screen really quickly and I'm going to walk all
+1:27:50
+of you, you know, not not for too long. uh just a few minutes around what
+1:27:55
+compliance looks like in the stable coin space, what blockchain monitoring implies um specifically. Let me just
+1:28:03
+share my screen and then maybe you can confirm if you're able to see my screen. And so
+1:28:11
+this is what uh a standard, you know, this is what a compliance system can look like. As you know, there's a lot of
+1:28:17
+different providers and you know there's a lot of valid options, a lot of valid possibilities for blockchain analytics
+1:28:23
+specifically about stable coins as well. So this is in general a dashboard where you can monitor specific addresses,
+1:28:30
+specific smart contracts in different blockchains including stable coins which could be in you know on Trion and
+1:28:36
+Ethereum etc. Right? So um I just want to walk you through what that could look like. Here in the system you can see
+1:28:42
+number of alerts created that have been generated, number of alerts closed, um
+1:28:47
+you know risk level of alerts. What does risk level of alerts means? It basically refers to a set of rules that you will
+1:28:54
+have implemented um that are looking at exposure both
+1:28:59
+direct and indirect in terms of funds or money that the specific address you're looking at could have received uh from
+1:29:07
+illicit funds such as sanctioned money such as darknet markets such as you know
+1:29:14
+um high-risk exchanges etc. So these are all things that you want to be looking at that you want to be monitoring and
+1:29:20
+the risk policy will depend on your internal risk appetite on your legislation but also um you know on the
+1:29:28
+amount of uh you know alerts you want to have. Ideally you want to reduce the false positives you'll be receiving as
+1:29:34
+much as possible. So here you can see my in this specific example the risk level of alerts most of them are of the lowest
+1:29:41
+risk. Then we have some that are critical some that are high some that that are medium etc. And here you can
+1:29:46
+see the top rules that are triggered that I have implemented. In general in Merkel Science, we provide what we call
+1:29:52
+rule bundles, rule packages that are adapted to international regulatory bodies such as the FAT F um referring
+1:29:58
+to, you know, blacklisted countries, interaction with great listed countries, transactions linked to high-risisk jurisdictions. All these different
+1:30:04
+things, we've implemented them in our system so that you can readily install them and monitor all of these stable
+1:30:10
+coins that might be exposed to this kind of, you know, illicit uh actors, let's say. So, the first thing to look at is
+1:30:17
+we're going to look at an address, a specific stable coin, USDT, for example. So, you can see what that looks like. So, here we're going to just look for,
+1:30:25
+if you look at the tab here, you can see dashboard, alerts, addresses, transactions, etc. So if you go to for
+1:30:31
+example just about any address let's look at for example this one in the Ethereum blockchain what you will do is
+1:30:38
+simply you can paste it on the search bar or you can also do it via API once
+1:30:43
+you paste it on the search bar you can go to a specific blockchain that you're interested in looking at here we have an
+1:30:50
+Ethereum address which holds USDC it holds USDT it holds uh Ethereum native
+1:30:56
+tokens as well so the first thing you about this address is that it has a critical risk level, right? So that
+1:31:03
+already tells us that this address has a um you know serious exposure to uh
+1:31:09
+illicit funds potentially. So how are we able to look at what we're uh what we want to see here? So first of all, if
+1:31:16
+you go to our rules, you see that we have had some rules trigger, right? One of the first rules, you know, we've had
+1:31:22
+several rules trigger depending on the ones you have installed, but the riskiest one is this fat rule which says indirect exposure to elicit entity,
+1:31:29
+right? So, this is one of the rules that has triggered um the address to be tagged as critical. If you go more down,
+1:31:36
+you will be able to see the entire risk exposure to this address. So, this is the specific address holding the funds,
+1:31:42
+holding the stable coins that we're looking at. And if you look, there's a lot of exposure, you know, to crypto.com. There is some indirect
+1:31:49
+exposure to Mexi Global, Coinbase, but there's also, you know, indirect exposure via this private wallet and
+1:31:56
+this private wallet uh ultimately to this high-risk organization here, which is not a good sign. This is one two hops
+1:32:02
+away. This indirect exposure is still relevant uh with regards to the risk profile of our address when when we're
+1:32:08
+looking at it. And I think it's very important uh you know to uh highlight the differentiation between direct and
+1:32:15
+indirect exposure especially from a compliance standpoint. Direct exposure would entail you know funds being sent
+1:32:21
+from our address directly to a service. This is just for example here $580 of
+1:32:26
+direct exposure that our address has sent to crypto.com. Right? But you also want to be looking at indirect exposure.
+1:32:32
+Not to a full unlimited extent of indirect exposure hops because that
+1:32:37
+would just generate constant alerts. But definitely you want to be looking at somewhere between 5 to 10 hops away of
+1:32:44
+interactions between your address and illicit services that might have been um
+1:32:49
+you know um involved in in transactions. For example, here our address sends some money to this specific private wallet
+1:32:56
+$60,000. But then this private wallet sends some money to a high-risk organization. Right? So we want to be
+1:33:02
+aware of these indirect links. This is indirect exposure with one hop um as as
+1:33:08
+an intermediary there. But in general, you want to be aware of these kind of things as well, right? Um so that's
+1:33:13
+something we're we're able to look at um with our blockchain analytics tools. And if you want to look at this specific
+1:33:18
+role, which is this one, you can click on it. You can see this address has indirectly sent payments to a
+1:33:24
+high-risisk organization. And it clearly it clearly filters uh all the noise and
+1:33:29
+just really shows you the specific link to the actual risky actor here. Right?
+1:33:35
+So what do you do from there? Essentially um this will send the signal as well to your system via API via web
+1:33:42
+hooks so that you know that you might not for example want to allow this stable coin payment to go through right
+1:33:48
+we send you the response in you know less than a second less than 300 milliseconds so that in real time you're
+1:33:53
+able to prevent uh the processing of you know a specific uh payment a specific transaction etc. So this is very very
+1:34:00
+important right. Um and of course for this to work the most important thing is that you set up the rules appropriately
+1:34:06
+as well. We as I already said if you go to our settings here you know to risk
+1:34:11
+management you'll be able to see that we have a lot of rule bundles um that we
+1:34:16
+have included that we have done with our team uh studying the requirements for example of the fat f and if you look at
+1:34:22
+the rule list you'll be able to see you know um rules that are being drawn directly from the recommendations. For
+1:34:28
+example, uh you know, uh FDA rule 11.3.2 transactions linked to high-risisk jurisdictions. So, uh if this address is
+1:34:35
+owned by an actor considered high-risisk considered a high-risisk jurisdiction, then we're going to deem that
+1:34:41
+transaction or that address as critical, right? So, there's a lot of different um rules here that are very very helpful
+1:34:48
+obviously from a compliance standpoint, but obviously we also allow the customization of any rules of your own
+1:34:54
+that you might want to include as part of your risk appetite, right? and we're more than willing to, you know,
+1:34:59
+essentially um include any rules that you need. Right? So, this this this kind
+1:35:05
+of things are very very important. Right now, like Justin said as well before uh
+1:35:10
+you know, it's not only about blockchain analytics, it's not only about uh onchain monitoring, but there's a lot
+1:35:16
+more things involved in compliance. Even if we're speaking specifically about stable coins, that includes not only the
+1:35:22
+actual blockchain analytics, but it includes things like being able to generate, you know, STR reports, address
+1:35:28
+reports that you could send to the, you know, relevant FIUs. So you know in this
+1:35:33
+case you can download a report about this address generate a report and you will have it here downloaded and you'll
+1:35:40
+be able to open the report as a PDF where you can essentially you know look at um this specific report which will
+1:35:48
+talk about for example uh you know I think you can see it here but you know you can basically look at the address
+1:35:54
+report with the address the blockchain it's in the risk level um the incoming funds the outgoing funds the
+1:36:00
+counterparties it's interacted with and of course the rules that have been triggered is also very important and
+1:36:05
+ultimately what we call the audit log which is essentially showing you which
+1:36:11
+compliance officers have reviewed this address you know the comments they've inputed uh at what time these comments
+1:36:17
+took place these things are all very you know very very important uh and also the possibility to have a case management
+1:36:22
+system right I mean uh to be able to escalate alerts this kind of forite principle at least very very common in
+1:36:28
+the in the in in Europe where you should have different lines of compliance, different, you know, cues, the the
+1:36:34
+releaser queue, the approver queue, you know, all these kind of things. Um, you will need in a in a system to
+1:36:40
+effectively escalate alerts and be able to have, you know, different set of eyes for uh for for for an efficient
+1:36:47
+compliance system. This is these are all things that we um that we can help with, right? So it's not only about having
+1:36:53
+pure API signals saying this is risky, this is not risky, but rather having an entire compliance system that you can
+1:37:00
+utilize uh to to to effectively uh build a an efficient compliance system. Right?
+1:37:06
+So I think this this is one of the most important things and this is very very focused on the transaction monitoring,
+1:37:12
+the monitoring of stable coins um from the perspective of inputting specific
+1:37:18
+addresses, right? But we also want to speak a little bit about something a bit
+1:37:24
+different which is the helicopter holistic view of monitoring an ecosystem. And this looks a little bit
+1:37:31
+different. That's what I wanted to show you. This for example the USDT token right this is what we call an ecosystem
+1:37:37
+dashboard and intelligence dashboard where we're not showing specific transactions. We're showing token
+1:37:43
+health, supply dynamics, you know, um risk metrics surrounding a specific uh
+1:37:50
+stable coin. So here you can see USDT stable coin, daily holders on average, transfer volume, you know, total amount
+1:37:57
+of transactions that have taken play place, trends over time. These are things that we can do for specific
+1:38:03
+tokens for specific stable coins that can really be of use for uh you know for for for different different actors for
+1:38:09
+exchanges. uh if they want to see the you know the health uh dynamics of a
+1:38:15
+specific token for example if we look at the risk part maybe they want to see you know uh let's see clean flows risky
+1:38:23
+flows maybe they want to see you know how much money was sent to bridges uh inflows by risky counterparties
+1:38:29
+obviously takes some time to load because it's a lot of information but basically this is what we do we
+1:38:34
+essentially uh are building tokens and kind of show we're analyzing the
+1:38:40
+information on the tokens and you know we're trying to derive um data that can
+1:38:45
+help to assess the riskiness of you know specific stable coins right so this is
+1:38:50
+obviously very very important um and uh you know we we thought this was definitely worth uh worth showcasing and
+1:38:58
+this is something that we have available not only in what I will show you but we
+1:39:03
+have it available in a system which we call KYBB I'm sure a lot of you are familiar with the concept of KYB know
+1:39:11
+your business. We have a uh like solution called know your blockchain business where you can essentially look
+1:39:18
+at VASPs and look at the entire let's say risk profile um onchain activity and
+1:39:24
+also you can look at tokens. So just like we're seeing USDT we could look at let's say USDC for example um and you
+1:39:31
+know uh we can we can see okay so let's let's look at it analytics uh and here you will essentially be able to see you
+1:39:39
+know the overall uh activity on USDC about number of active addresses token
+1:39:45
+price tracker what kind of high-risk counterparties are involved uh what kind
+1:39:51
+of sanctioned counterparties are involved obviously you know you'll have to filter based on blockchains and
+1:39:57
+you'll have to filter based on time period and it will take some time to load. But this bas this kind of solution
+1:40:02
+basically gives you access to um to these different um types of tokens so
+1:40:08
+that you can actually see and do your due diligence let's say on on the amount of ecosystem activity that um that is
+1:40:15
+going on there. Right? So hopefully, you know, if you would, if you're interested in seeing some more of this, we'd be more than happy to walk you through it
+1:40:21
+as well. Uh or whether it's this or the actual wallet screening, transaction monitoring, you know, more than happy to
+1:40:26
+sync with you all. Uh and you're please feel free to sync with with Justin as well if you have some some additional
+1:40:33
+questions. But I think for now that's actually most of the relevant things that you know we wanted to walk you
+1:40:39
+through because we also want to allow you I'd say like 5 10 minutes maybe to fill some fill in some questions so that
+1:40:45
+you can consider this training complete and receive your certification. Um
+1:40:52
+so let me just send you the link in the chat and please let me know if you can access it as well. Just give me one
+1:40:59
+second here. Okay,
+1:41:07
+let me know if you are able to see it in the chat.
+1:41:13
+Okay, hopefully you're able to access it or you click on it at least.
+1:41:19
+I see it. Perfect. Perfect. So yeah, you can just
+1:41:24
+click on get started and um you know just uh just fill in the questions and
+1:41:32
+then you'll receive a a a a certification for for attending this webinar you know if you paid uh enough
+1:41:38
+attention which I'm sure you have uh definitely no no hard feelings there but I think in the meantime as everybody is
+1:41:45
+filling these um questions in maybe we can answer a few more that were already in the chat and I think most of them are
+1:41:51
+directed to Justin anyhow But um let's have a look here. So we have one from
+1:41:57
+Maria if you don't mind just answering a few more. I think you've already answered 24 questions. So really much
+1:42:02
+respect for you. But um we have a few more here. So from Maria are all policies, report templates and other
+1:42:09
+internal documents of a crypto company required to be drawn up independently or is it anticipated that the relevant
+1:42:15
+templates for the entire necessary set of documents will be developed at a federal level?
+1:42:22
+Uh no issuers will have to create develop their own internal policies and procedures. Um they'll be guided by the
+1:42:32
+requirements and the rules but they will have to create their own.
+1:42:39
+Okay. Another question from Anna. Is my is my understanding correct that share will be covered by the legislation yet
+1:42:45
+to come and not clarity act. Could you touch upon Dshares issuers?
+1:42:52
+I'm not sure what Dshare is referring to. Um, if the question is just asking about
+1:43:00
+tokens other than payment stable coins, yes, that will be covered by market structure like the Clarity app.
+1:43:11
+Perfect. Yeah, I think we maybe would need a bit more clarification on the dshare aspect,
+1:43:16
+but yeah, if you want to re um re, you know, re reddraft the question and yeah,
+1:43:22
+we'll be more than happy to help you. Uh we have one from Audia. How do you see the stable coin pack by the USD outside
+1:43:28
+the US specifically in the EU? Um,
+1:43:34
+so a even if it's a payment stable coin and the issuer is a permitted payment
+1:43:41
+stable coin issuer regulated under Genius, Genius doesn't directly uh
+1:43:47
+address the trading on EU platforms. Um it will be a bit of a interplay because
+1:43:54
+the stable coin itself will be subject the issuer will be subject to the US requirement for the reserves for the
+1:44:01
+various reporting requirements and such but the actual like trading of the coin in the EU would be subject to Mika and
+1:44:08
+the EU rules not US requirements.
+1:44:13
+Perfect. Maria is asking, "Can I be registered as an online platform in a particular
+1:44:19
+state, obtain all the necessary approvals and licenses in that state, but operate across the whole of the US
+1:44:25
+without obtaining a federal license?" Uh, the short answer is yes, probably.
+1:44:32
+Uh I would say preeemption from for states across to other states
+1:44:40
+there remains some uncertainties and I would say the genius act itself the preeemption provisions are a bit less
+1:44:47
+strong are less strong for state issuers. I think there's clear federal preeemption for federally regulated
+1:44:53
+issuers. Uh but for state issuers, there's there's an intent in the in the bill uh to say that if you are subject
+1:45:00
+to if you are registered in a state and that state has been certified as substantially similar uh that you would
+1:45:07
+not have to obtain licenses in other states subject uh subject to two kind of exceptions.
+1:45:15
+One is for consumer protection requirements. And then two, there's a separate provision in the act that says
+1:45:22
+for money transmission activities in other in other states. You could only do it if your home state. So the state that
+1:45:29
+you are registered in has uh capital and liquidity requirements that meet certain
+1:45:35
+standards. But generally the intent is yes. I would say the the full scope of preeemption is
+1:45:42
+a little unsettled on stateto state but the the act does provide for it.
+1:45:48
+Okay, we have a clarification from Anna with regards to the question before about Dshares. So apologies to clarify
+1:45:54
+these are tokenized public market securities. Um Dshares are tokenized public market securities that are one
+1:46:00
+one backed by a security commonly equity. They provide investors with exposure to real world securities while
+1:46:06
+offering the liquidity and flexibility of decentralized finance. Additionally, yeah. So I think you can
+1:46:12
+take it from here. And and the question was how does the clarity act address tokenized securities
+1:46:18
+I think. Um yeah. Yeah. So the clarity act is
+1:46:24
+primarily focused with like digital asset native tokens but it does address
+1:46:31
+tokenized securities in a few places. Uh generally it says which is consistent
+1:46:37
+with what the SEC has said that you know there they are still securities even if on a blockchain subject to securities
+1:46:44
+law requirements. uh by virtue of the clarity act creating these new
+1:46:49
+registration categories for digital asset focused intermediaries that will uh inherently address how
+1:46:58
+those digital asset entities are facilitating transactions in tokenized securities but I wouldn't say the focus
+1:47:05
+of the act is on tokenized securities as much as it is on token on things like
+1:47:10
+more like bitcoin and salana um the itself self has been issuing guidance on
+1:47:17
+tokenized securities in the meantime. Uh one say clarifying the point that yes
+1:47:23
+these are still subject these are still securities subject to securities requirements. Uh the SEC staff has also
+1:47:29
+recently issued an interpretation uh that categorizes different types of tokenized securities because there's
+1:47:35
+different tokenization models. So like a natively tokenized security versus a
+1:47:41
+wrapped token. Uh and there's different types of wrapped wrapping structures. Uh
+1:47:47
+the most relevant the most noteworthy thing is certain wrapped structures look like a like a uh securitybased swap uh
+1:47:55
+which is subject to additional regulatory requirements uh under the
+1:48:01
+DoddFrank Act for swaps and derivatives. Perfect. We have one more question but I
+1:48:08
+just want to come back to something because it seems like there was something not loading or at least it
+1:48:13
+took some time to load because it's a lot of data but I do want to make sure we can show it because I think it's very very interesting with regards to this
+1:48:19
+webinar about you know stable coins ecosystem safety um you know uh riskrevention tactics for stable coin uh
+1:48:27
+monitoring etc. So here you can see the ecosystem dashboard for the USDC. Uh and
+1:48:33
+here you can basically see a lot of relevant information right once the data loads. So sorry about like it took so
+1:48:38
+long but you know it's a lot of data. So you can see USDC number of active addresses token price tracker number of
+1:48:45
+token transactions by blockchain. Here you can really see the different ones. Market capitalization by blockchain
+1:48:51
+daily transaction count and volume. you know, token holders um by by by service
+1:48:57
+name, who are the biggest token holders, how much balance is there, how many what's the number of holders within that
+1:49:03
+service, what's the actual percentage, top token holders by address. Okay, this
+1:49:08
+also very very interesting. And then if we get on to the actual more uh you know
+1:49:13
+illicit activity side also very interesting we can go to the to the to involving high-risisk counterparties tab
+1:49:20
+and you can see 128 million transactions involving high-risisk entities in the USDC space 22 um um you can see it here
+1:49:30
+I'm only sent from high-risisk entities 1.17% of funds sent from high-risisk entities
+1:49:37
+you know you can see the biggest categories that were involved in um in
+1:49:42
+the in in the USDC token space. So you can see that 92% was gambling, 6% theft.
+1:49:49
+You can see the high-risk entity names as well. So this is all very very interesting. And then finally you can
+1:49:54
+see sanctioned counterparties, number of transactions involving sanctioned entities, you know, um uh main
+1:50:00
+blockchains, etc., right? And you can see the specific um uh entity information and specific addresses.
+1:50:08
+These are all things that we can and are able to do uh upon request and these are
+1:50:13
+all things that you know can be very very relevant for specific use cases for specific um uh governments for specific
+1:50:20
+central banks for specific exchanges they're all very very valid use cases right um we have one last question from
+1:50:27
+Gerard for you Justin will disclosure reporting beyond just reserve KYC AML
+1:50:33
+etc be clarified and will it be similar to reporting requirements for other assets types.
+1:50:39
+Um so yes, I expect all the reporting requirements will be further clarified
+1:50:45
+in the implementing rules. Um will they be similar to other assets? I I guess it
+1:50:51
+depends on which reporting we're talking about. I think reporting on the reserve
+1:50:57
+the reserves will be pretty specific to stable coins. Um I laid out what the
+1:51:02
+OC's proposal is. uh other regulators have not yet issued their rules but I
+1:51:07
+imagine it will be uh similar in terms of transaction reporting and suspic
+1:51:13
+suspicious activity reports. Uh those rules haven't yet been issued but I
+1:51:19
+would expect them to be similar to the types of like uh elicit finance reporting done for other asset types.
+1:51:27
+Obviously, it will be a bit nuanced and have blockchain specific information, but I think generally there will be
+1:51:34
+similarities. Okay, I think that pretty much sums it
+1:51:40
+up with regards to, you know, all the questions. Um, and I think it sums it up
+1:51:46
+from, you know, from our side as well. We hope that you really enjoyed this webinar and we hope you had time to fill
+1:51:52
+in the questions and that you could get your um your certification training on navigating the genius act here with uh
+1:51:59
+with Justin that has you know very kindly answered a lot of questions today. So thank you thank you very much
+1:52:05
+Justin and thanks everyone for you know attending the webinar. Um so yeah I
+1:52:10
+don't know if Justin you want to say something there. No thanks everyone. Um, as I mentioned
+1:52:16
+before, the SL should be shared afterwards. Uh, I hope they're helpful. Obviously, there's a lot to unpack with
+1:52:22
+the Genius Act, and we're just in the midst of it with all the rules. Uh, but thanks for inviting me, Alvaro, and very
+1:52:29
+nice to meet people electronically at least, and answer your question. So, have a have a great day.
+1:52:34
+Thanks everybody. Have an amazing day. Um, and yeah, currently I am in
+1:52:40
+beautiful Can in France for the Ethereum event. So if anyone if any of you are around here feel free to message reach
+1:52:47
+out to me privately. Be happy to catch up with you. Uh but yeah for the rest thank you. Thank you very much. Look
+1:52:52
+forward to seeing you in future webinars. Thank you Justin. Uh and have a great day everybody.
+

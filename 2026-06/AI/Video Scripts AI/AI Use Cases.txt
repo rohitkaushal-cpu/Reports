@@ -1,0 +1,903 @@
+
+Search in video
+Opening: August updates, seed round progress, and holidays
+0:00
+These are all points on the exponential curve and you're going to look back in a year or two years a chat GPT5. It's
+0:06
+going to look like dialup internet when you're using your Starlink essentially. Welcome to the implement AI podcast. The
+0:12
+podcast where we explore the impact of AI on your business. I'm Pierers Lenny
+0:18
+alongside my co-host and co-founder of Implement AI, Dr. Alec Schukler. We
+0:23
+cover the real world applications and impact of how AI can be practically applied to drive growth and efficiency
+0:30
+in your organization. We cut through the jargon to focus on actionable strategies
+0:36
+and use cases to highlight the transformational power of AI. Let's dive
+Why August was their busiest month ever
+0:42
+into today's conversation. I'm Pers. I'm Alec. Right. So, uh it's it's August. Um we've
+0:49
+been very busy actually. I was trying to have a holiday which reasonably unsuccessful.
+0:54
+Got a bit got a bit of trouble. Um but I did a bit of work in the mornings. Um but we um so you're off to India, aren't
+1:01
+you? Yeah, next week. I'm looking forward to it. Yes. So you're off to India. So I I was just in um York hanging out with the the
+1:07
+kids on the on water really. But we've we've been very very busy. We're sort of getting close to closing our seed round
+ChatGPT-5 upgrades and what it means for digital workers
+1:13
+now. And given the fact usually I was thinking a lot you know I've done B2B for years and usually August is a
+1:18
+complete write off just just empty your diary but this is probably going to be our best month we've ever had.
+1:24
+Yes it is. It's it's insane actually. So that's been great. So we're going to go through today we're going to talk about bit chat DT5. Not because we want to. We think we
+1:31
+have to. It's all the super ambitious business owners getting ahead during the summer formulating the AI plans while they're
+1:36
+on holiday. Um yes, so we're going to go through a bit of chat 5 and and more the sort of personal side of it because um but it
+1:43
+does mean that the API we have basically all of our digital workers have received an upgrade which is fantastic. And then
+1:50
+what we're going to do today while you're sort of lounging or sat by the pool, you can put your headphones on and we're going to rattle through about 20
+1:58
+use cases. So you probably see last week we were talking more about you know the reality of implementing this technology
+2:05
+and um Analog's been put out quite a bit of content which is worth going have a look at on LinkedIn um about you know
+2:10
+different use cases how to approach it and these aren't things you just made up implement AI you know people say to us
+2:15
+oh well you know when we talk to investors they're kind of like well your strategy to develop the AOS was really
+2:21
+good we didn't have a strategy when we started we we learn of how to do this
+2:26
+and that's why the AIOS looks like it does because it reflects what we've learned frommemes but how they approach
+2:33
+this technology and how we can help them implement it and it's the same for these use cases these are all real on the lot
+2:39
+for example I would say that we knew the business cases that needed to happen formemes and we know the technology but then the the
+2:45
+unique nuances of what how it needs to fit into their system absolutely like you know that iterates but it's quite it's quite cool when you look at like
+2:51
+when I was doing the article I was like it took a while it's going to be two days like because there was just so many things to kind of put inside it
+2:57
+basically you know But they're all real. So we're going to go for about 90 I think it is but let's say 20. Um so hold
+3:03
+on TC's for that. So let's just go on to just very quickly there's a lot of um talk about chat GP5. Some people are you
+3:11
+know they compare it to the film her where they've lost you know they all the AI disappear and everyone's upset and
+3:16
+crying. Um so they're saying that people lost um you know 40 are quite upset about it but you know you get used to
+3:22
+using a certain kind of technology. I know my partner actually liked a certain voice that the voice they use in chat
+The three pillars of AIOS: teams, agentic CRM, and task engine
+3:28
+keep and they changed the voice. She got quite upset saying it doesn't sound like the same person and that was not a
+3:33
+person. So um so people are getting quite upset about it of changes but you
+3:39
+know these are all points on exponential curve right and you're going to look back in a year or two years a chat GPT5
+3:46
+and again I always use the same analogy it's going to look like dialup internet when you're you know you're using your
+3:51
+star link essentially. So remember that that these changes are for the good because they do think about it quite
+3:57
+hard. So let's and then we're going to go through that quickly. Then we're going to go through the 20 use cases. Now a couple of things. We are doing a
+4:04
+our next event very successful event. We've done two in London and we thought we'd do one in Manchester. So we're
+4:11
+going to be in Manchester on the 15th of September and this is your future digital workforce event. If you go on
+4:16
+LinkedIn you you'll find some videos of previous events. And again, this is really about state-of-the-art the
+4:23
+technology um how we approach it and how you can start implementing the technology and also a workshop about how
+4:29
+you approach implementing and adopting it and taking your business with you on that journey. So these are really good
+4:35
+events. It's from 12 uh till about 3:30 uh and we're going to put on lunch for you as well. So it's the offices of
+Manchester event announcement and resource centre update
+4:42
+Squire Pat and Bogs are lawyers. So thank you to them again. Exactly. So like so we'll be going through in detail like you know
+4:47
+literally you know how you can deploy an AI workforce digital workforce what that looks like how you can even roll out
+4:54
+departments led by AI like I mean it's you have to be there to understand it and and get the idea it's really hard actually probably I
+5:00
+don't if again if you look if you follow us on LinkedIn you'll see a video that had made or designer made of this like
+5:05
+laptop and you press the ARS button and a whole tower block of digital workers appears but it is quite hard isn't it to
+5:11
+get across what this looks like because it can be quite abstract depend to why we're going to go for use cases. So,
+5:18
+because there's no frame of reference for this, so the more real we can make it and we we've just um hired someone to
+5:25
+lead our marketing uh department if you can call it that. And again, that's going to be a lot of case studies, a lot
+5:31
+of testimonials and real world examples of how this works. So, try and join us in Manchester if you can, if you're in
+5:36
+the Northwest. If not, we have people coming from Manchester to our London register on the link because there's security and limited space. Yeah. And
+5:43
+then we'll we'll put a link uh there's links on our social media on our website as well. I'll make sure that's up there by the time this podcast goes out.
+5:49
+Download our white papers. So, how to implement AI. We got some great white papers. That's all in our resource center now on our website. So, you can
+5:55
+go in there and log in. And if you like the podcast, um we know people, you know, give us some great comments about
+6:01
+feedback. Please, I know it's just please, it's sometimes it's hard to
+6:06
+remember to do it. Leave a review on Apple by our game. There's a link in the comments. Hopefully, leave review. It
+6:12
+really does help us. We're climbing up the charts in management and business. We want to get top 10 in management, top
+6:18
+sort of what 20 25 in business by end of the year and we'll take it on from there. Right. So quickly to chat 5 again
+Why businesses should use AI personally before deploying it at scale
+6:26
+this is more about you using yourself. So the AI, the AI factories, these
+6:31
+frontier models, you know, your anthropics, your Geminis, your Googles, your open AI, they realize that at the
+6:38
+end of the day, having an AI model is going to be it's not going to be worth a great deal. They're going to be very powerful. They're going to cost a
+6:44
+billion to make now. Then it'll be 100 million, then it'll be 10 million, be million, be 10 grand. So they've got to
+6:49
+find a way of creating value so they can actually generate revenue. And what you're seeing are companies like Open AI, they want to be your your AI
+6:57
+assistant, don't they? They want to be the the the AI in your life to help the electricity provider. They want to be the global intelligence provider
+7:03
+basically, right? Yeah. Exactly. Exactly that. So, Jack GBT5, you know, we use it at the API and
+7:08
+we can talk about that maybe another podcast how that's how you've upgraded our agents, but again, I still do and we
+7:15
+both do events where we ask the room, right, who uses an AI yourself? sidekick, mentor, you know, researched
+7:22
+creating your own podcast from from research you've done using say, you know, Google notebook LM, but just using
+7:28
+an NI and it doesn't matter which one, but just pick one. They always amaze me how many people are not using it. I just
+7:34
+don't understand why because it's transformative. No matter who you are and what you do, there is some use case
+7:40
+for you personally. So, what they've done with chat GPT, if you use if you use chat GPT as opposed to other AI and
+7:46
+some of them have you have lots of different models, lots of pickers. So they've got rid of that which is that's what upset a few people. So now there's
+7:53
+one chat GP5 and when you ask it to do something be you know creating image um
+7:59
+research deep research a quick response uh trying to find something it will then
+8:05
+work out what model behind the scenes or what technology it should use to give you the optimal answer and it goes away
+8:12
+and does that. So sometimes I've used that a lot where recently where I'm doing a quick, you know, quick chat. I'm trying to find something on holiday and
+8:19
+it tells me very quickly and other times it's gone off for like eight minutes which can be quite frustrating because
+8:24
+you're expecting it to be pretty quick. So smarter thinking really it's more accurate. One of the big things about AI
+8:31
+is hallucinations everyone's sort of terrified of and it's and that's been reduced by about a factor of like five I
+8:37
+think or even five or five between five and 10. So, we've always said on this podcast that hallucinations are going to
+8:43
+be engineered out of AI and and that that day is coming and one thing they kind of double down on a lot which we
+8:49
+don't talk about a lot on this podcast is coding. So, this kind of war going on I did a post as well again on LinkedIn
+8:55
+it's on my newsletter. If you don't follow my newsletter, please do about this about this view that I have that
+9:01
+all this technology now is like the infrastructure of the internet ISPs and Cisco and the wiring and the pipes,
+From coding to computer-use agents: expanding AI capabilities
+9:07
+right? And that's been used a lot for coding which is great but it's still really if you ask me it's the engine
+9:13
+room below the waterline. The real value in AI is where you're going to see it, you know, really take hold in our world,
+9:19
+in your life. And that's where the internet, you know, that Cisco is the world. They were exciting for a while.
+9:25
+Then it became, you know, Facebook and Amazon and e-commerce, now we've got AI. So I think that's the same way these
+9:30
+like cursors and programming fascinating very very quickly. And even though
+9:35
+they're making, you know, tens of millions in ARR now, that's annual recurring revenue. I still think a lot
+9:41
+that's the the beginnings. Yes, it is because like basically it's like the tooling layer essentially, isn't it?
+9:46
+Right? Like so imagine for example like you want to develop a new land like you've just reached this new land and it's like okay we need to like construct
+9:52
+on this place so let's get a load of building machines let's get a load of like JCBs let's get a load of like you know like forklift trucks and stuff like
+9:58
+that and like caterpillars trucks again you can tell I don't know anything about building sites but like anyway you get those things and then that will help
+10:04
+start preparing the land so basically you can think of like the AI coding tools as like helping you accelerate the kind of foundation laying basically like
+10:10
+to help different things and also even construct different areas but that is like the kind of level one thing because
+10:15
+the second thing level order of it is like how those function in the real world basically, right? So obviously
+10:20
+like you know your lovables and things like that are doing fantastically well for like helping people prototype and then as it evolves more and then there's
+10:27
+going to be like more and more applications which are actually functioning and working more value can be unlocked basically isn't it right
+10:33
+but all all the kind of technology now is still being used by people with technical expertise isn't it? Yes. Yeah. Because because it has to be
+10:39
+because also like coding represents the kind of like um the domain which allows
+10:44
+the great the greatest validation where you could actually like run unit tests and actually validate like does the code working properly and it also like
+10:51
+provides that kind of like huge um value discrepancy because the cost of coding from you know developers was quite high
+10:56
+before basically right so so it's it's a high impact use case for sure. Um and
+11:01
+then we there also says coding is a big one as well. Um handles things like charts which is quite useful if you
+11:08
+think about you're writing something and you want a photo which is fine because you know creating an image that kind of
+11:13
+represents this. I was doing a posting my post about the the the Roman legion. I was sitting by the pool. I did have a
+11:18
+strawberry. So I was sitting by the pool and I thought I was watching something and some guy was saying oh it doesn't do
+11:25
+this doesn't do that. And I thought it is like being a Roman legionnaire and you're going into battle and someone
+11:30
+says, "Here's a cruise missile system, right? A SAM system. Do you want it?" And you're going to say, "Well, I don't
+11:35
+know. It's not the right color." Here's a lot of drones. Here's a load of self-guided drones, basically. Right.
+11:41
+Drones. It's like, well, no, I don't like them. The battery life isn't great. It's like, what are you talking about?
+11:47
+Use it and win. Get on with it. Anyway, so things like creating an images and
+11:52
+all these tools you have. I was I was about the A team basically. So I was creating some images around the AI team.
+11:57
+I'm out I'm out to um get my van wrapped. I can see where that's going for the ideas fest. Another event we're
+12:04
+going to be at by the way. So it rise codes better. And also again personally it's quite interesting this again it's
+The six AIOS team types and how they work together
+12:09
+not really business this they've really doubled down on the it ability to support you in your health. So if you
+12:14
+got I know my my AI has got my ECG. Okay. It's got everything know knows everything about me. So that's quite
+12:20
+important as well. But the point about chatb5 is they're working really hard to make it your personal assistant. So, you
+12:26
+know, we advise you just use it and and try and use it and try and stretch the way you use it in into new use cases
+12:33
+personally because that's what's going to help you understand the power of this in your business if you're using it um
+12:39
+personally. Yeah, you got to personally augment yourself first and like there's a massive war going on where obviously
+12:44
+you know Meta and Mark are trying to like be your default super intelligence provider and open AI are basically
+12:50
+trying to give everyone GPT5 even if you're a free user because they're trying to like get you personalized and locked in as quickly as possible
+12:56
+basically but I think you just win basically right you know like whether it's Grock 4 or it's GPT5 there's so many more things you can do much better
+13:02
+like for manipulating images creating graphics data analysis whatever you want
+13:07
+so for us it's great for us because you know the thing about our AI agents and digital workers is every so often on the
+13:12
+exponential curve they're going to get upgraded and and and you're going to see computer use is going to get a lot
+13:18
+better. We're building computer use agents so it's really exciting. I think that the competition is good, right? So
+13:26
+hold on to your seats. We're going to go through 20 use cases now. So this is our
+13:31
+so just go through the the foundations for this. the the kind of core teams
+13:36
+that we have and that understands people helps people to understand then how I deploy agents into these use cases.
+13:42
+Exactly. So so if I take one step back right so this article I wrote on LinkedIn it's called the future proof business basically right and the whole
+13:48
+point here is like how can you how can you concretely see the blueprint that you could apply
+13:55
+in your sector in your business and how can you see examples of how agents are including what tools they use and what
+14:02
+kind of guard rails they may have and different things like this. So I went into a lot of detail around this and so the whole point here for the future proof business is like how you can have
+14:08
+your digital workforce. So remember that analogy that peers gave where you press a button and you know a tower block
+14:14
+comes up. So I live in Lisbon right there's this company called Teleerformance. They're a huge business process outsourcing company and they've
+14:20
+got massive towers which basically provide support for Apple, Samsung, whatever you want basically right and
+14:25
+basically most of these companies have their own floor of workers. Now what you can have is almost like through our AIOS
+14:30
+is like your own tower block of digital workers and you can have your you know different teams on different floors. So why don't we talk about the teams first
+14:37
+of all that can be on the different floors and then we can kind of go from there. So there's basically like you know essentially like five to six teams
+14:44
+let's call it that right. So one of the main ones is going to be like sales team. So the whole point there is how they can drive revenue for your business
+14:50
+you know via phone email and messaging. Another layer is going to be support team where it can be like you know omni
+14:55
+channel customer assistance primary support technical support and also looking up systems and getting
+15:00
+information for people in that kind of area. Another area is going to be like um the task team. So this is where it's
+15:06
+almost like administrative workflows or processing or multi-step things like this and you know backend systems and
+15:12
+updating and getting information and checking different things and running reports and all that kind of stuff that with our system has more than 300 plus
+15:19
+integrations. I think it's like 330 now. I had to put a list together for someone. 336. Yeah, 336. Sorry.
+15:26
+And then then we got a computer use team. These are the ones which basically can spin up multiple browsers. So imagine you want to research 20
+15:32
+different things or even 100 things at the same time or even log into a remote computer on a remote desktop and then update a system on an on-prem software.
+15:39
+That's where it can actually like work across software like a human. Then we got the analyst team which can extract insight and spot missed opportunities
+15:45
+whether it's from phone calls, emails, you know, prescriptions, documents, whatever you want like that. And then we
+15:51
+have like research team which basically we can spin up through different ones where essentially can be insight generation. We use this a lot where
+15:57
+people want to hear they want to target businesses or people based on signals in the market before other people are even
+16:03
+aware. So they're the teams but just now I just it's worth explaining why we call them teams,
+16:09
+right? Because again we have a newsletter. So again subscribe to our newsletter and we just sent one out a
+16:14
+couple of days ago and we had this thing about horizontal AI versus vertical AI other way. So vertical eyes where it
+16:21
+does one thing. It's a PA. It's a AI SDR is a popular one. Ours a noteaker exactly that. So ours are different. So
+16:28
+a team can be vertical. You can have one AI like a sales agent and you can have
+16:33
+lots of them. And each one actually you could have a it could be subtly different in terms of what they did and how they're configured or you can have
+16:39
+them horizontally. So the sales agent could work with a support agent can work with a research agent could even work
+16:45
+with a computer use agent as well. Research and sales work together quite often. Yeah. So that's about having teams that
+16:50
+work horizontally with shared memory and shared uh integrations and access and different tools. So that that's why
+16:57
+that's why we call them teams. Exactly. So you make a very good point. So our AIOS has three main parts to it,
+17:03
+right? One part is the configurable teams that we just talked about. The second thing is the agentic CRM. So this is like the brain basically the memory.
+17:09
+So anytime it interacts with any person, any insights from that person, that conversation, their preferences can be enriched. That's all within there. So
+Use Case 1: Mechanical engineering & facilities management
+17:15
+when any agent interacts with that person in the future, it knows everything that happened in the past. And the third thing is this agentic task
+17:21
+engine where it's got more than 300 336 integrations basically where it can then coordinate and the agents can pass
+17:26
+things off. So to kind of coming to the use cases in the in the business, right? So there's three things that we help
+17:32
+businesses do. They help them drive revenue, increase support or transform the experience basically, right? So it
+17:37
+differentiates from the pack and increase increase capacity. Yeah, exactly. So increasing capacity as well in the middle with increase in
+17:43
+support bar. So those three things, if you think about your business and your profit and loss and you think about
+17:49
+like, okay, if I can drive more revenue by missing less deals and if I can also drive more revenue by reactivating more
+17:54
+customers, if I can drive more revenue by spotting prospecting for different businesses before they even the
+18:00
+competition are even aware of them, I can increase my revenue terms of my capacity. If evenings or weekends I can
+18:05
+have support available and technical support available by AI which can reach out initially or I can offer multilingual support so I can open up
+18:11
+new markets that can unlock new areas and even customer success. And the third bit of transforming experience is like
+18:16
+how can I be hyperpersonalized so if I sell something super high value I can give people almost like very
+18:22
+personalized information or personalized reports or completely personalized documentation just for them basically
+18:27
+right in that kind of way. So they're the kind of main bits of what we call building that kind of future proof business essentially, right? And within
+18:33
+our system is you can spin up multiple agents. So it's almost like a department or a team. So the only way to kind of
+Use Case 2: Cloud & MSP sales reactivation
+18:39
+think about that really is that office block analogy basically, right? Because we're way beyond an individual agent at this point in time.
+18:44
+Based on that, understand there's a foundations of how we kind of operate.
+18:50
+Let's rattle through them. We got 19. Keep trying to keep this podcast under 40 minutes. So you got about we got
+18:55
+about a minute per use case. I'll step up the words for a minute. Yeah, let's go through it. Right. So, let's start with a mechanical
+19:01
+engineering and facility and again these are these are all based on actual customers or pilots that we've done. So,
+19:07
+mechanical engineering and facilities management. Okay. So, you look after buildings and when say something goes wrong in the
+19:13
+building which could be out of hours which could be your lift or your air conditioning or whatever like that. Then we have AI agents which can like you
+19:19
+know take all that information by phone call answer understand all the information about where they are what the issue is what the urgency is then it
+19:27
+can also understand any access requirements for what's going on there and then at the same time it can also look up customer lists if needed and
+19:32
+also allocate their rotor and on on call. So here you have basically the agent and task team
+19:38
+where the agent is actually finding out all the information and qualifying it and then you got the task team other agents spinning up and contacting
+19:44
+engineers to kind of verify what's happened and documenting everything and putting it in a central place. Right? So that's high level where you've got that
+19:50
+but we've also got other solutions where basically it can help assist engineers when they're visiting sites where let's
+19:56
+say they've got like you know 300 engineers visiting sites across the country they could actually like help them guide and spot different
+20:01
+opportunities where they could actually record a voice note saying you know I'm at this unit I can see that like actually like there's another issue that
+20:08
+needs to be solved here which could be actually like you know um we've got the lift contract already but there could be an air conditioning opportunity here. Um
+20:14
+Janet at the front desk says that like actually um they're able to authorize something above £500 worth of um billing
+20:22
+here right now, but if they need more, they need to head office and it it's room 2C on the left and here's a video
+20:28
+of it. Right, we got to move on. But but basically it's capturing data
+20:34
+you you wouldn't normally capture, isn't it? And then being able to use it exactly that. So um bit about my background. cloud like B2B technology,
+20:42
+cloud services and MSPs. Yeah. So here for example, it's like a reactivation agent. So there's like the
+20:48
+way where where you actually like reselling to MSPs for example with different services. You could actually like have an agent which is researching
+Use Case 3: Property research and event follow-up
+20:54
+people at those companies to find out who's the right person to talk to. Then actually like re reaching out to them by
+21:00
+phone and by email to actually see like you know are you interested in our latest offer with X for example. So the point there is like a B2B um system
+21:07
+where you can update dormant accounts and offer reactivation incentives based on particular offers and things like that. And again we we've done that with um I
+21:13
+guess footsy 100 actually quite a big organization that's actually used our agents to do that. Let's do um like
+21:20
+property which is quite broad this is more property research or property events isn't it? Yeah. So basically so here for for
+21:26
+development basically like there are different criteria which would make a property worthwhile doing for different for different um um use cases. So in
+21:33
+order to actually calculate the yield and research it there are some criteria which are needed. So here there's like a browser use agent which is actually like
+21:39
+going into different places researching on different property portals and then doing analysis across different
+21:45
+dimensions to actually work out what's the yield what's the opportunity what's the potential resale price and different stuff like this and it means it can
+21:51
+actually do lots of research across many duos in parallel at the same time basically and we also got one with using it to get
+21:56
+people to you know events like if you to the properties so another another one for example is like um say trading on property for
+Use Case 4: Healthcare clinics & patient reactivation
+22:02
+example and people register for those events and they actually want to like um attend but they never attend did for example. So there the agent will call
+22:08
+them and say hey are you still interested in attending one of our events? You still want to be you know um learning this kind of skill and it'll be
+22:14
+like evenings or weekends. It'll find out their motivations what their current portfolio looks like. Get all that kind of information which can be passed to
+22:19
+the main team to help them you know be personally on guide on on boarded and guided and then a big one for us is um
+22:26
+healthcare medical and clinics. Yeah exactly. So here if you think about like medical intake basically right so
+22:31
+when you first call a place you want to have you know essentially you want to be able to answer questions about what
+22:37
+you're looking for and also be asked questions about other things you could benefit from but then you can ask the specific questions around say weight
+22:44
+loss or you know health or you know cosmetics or whatever it is like that and what that can do is it can screen
+22:49
+people and then book appointments so it then actually makes sure that they can actually go ahead. Other ones are reactivation. So it's like people that
+22:56
+opted in for a specialist procedure like a cosmetic procedure or like a kind of health procedure which is like a one-off thing and then it's like calling those
+23:02
+people on evenings and weekends saying hey are you still interested in getting this done and then if they are still getting interested in getting it done scheduling them for an appointment and
+23:08
+also finding out motivations like do you have a special occasion you want to get this done by or whatever that that's that's huge basically. And then the
+23:14
+other one is like the call analyst which is basically like listening to all the phone calls from all the clinics and spotting who discussed highv value
+23:20
+treatments didn't book an appointment and then it could actually calculate the value of those people and also screen how well the team is actually answering
+23:26
+the phone um and going from there basically right so that that was quite powerful people in say clinics that are off front
+Use Case 5: Recruitment outreach at massive scale
+23:31
+desk and they're not they're not trained support they're not people they're not trained salespeople you can have agents
+23:37
+actually that pick up that job and and do a specialist excellent job of it but also Okay, any business really, this is
+23:44
+like a general one. If you've got the corded phone calls and a reasonably high value product or service over say 2K,
+23:50
+you can generate value immediately but with a core analyst agent. Great.
+23:56
+Moving on to another one we've done quite a lot of work on is recruitment. Yeah, exactly. So, imagine for example, you work with a contract labor
+24:02
+recruitment. So they they place for three months contracts in different places across the country and they've got a massive database of people that
+24:08
+could work for them but they can only engage a certain number of people because a human team can only call a certain number of people per day. Here
+24:13
+we've got like you know our agents calling people in evenings and weekends. I I published one example where it was
+24:18
+like in four and a half hours it did what the work of 23 people that would have taken 93 hours to do. basically it
+24:24
+would have cost you know a significant amount of more money like 20 times more expensive or whatever like that basically right and so the point here is
+24:30
+that an agent can then call people qualify them find out also competitive intelligence about who they're else working for when they're available so
+Use Case 6: Training, education & high-ticket events
+24:36
+then you get that pipeline ready of people that you can place into jobs and stuff like that now that agent can be passed to other ones but there's so much
+24:42
+power in that yeah and and general even on sort of more high more sort of higher earners as
+24:47
+well recruitment research you can automate a lot of that as well can actually make it into a service saying we're going to call you every couple of
+24:53
+months and ask you how things are going. So that's a big one as well. And a bit like the property wants a training education, more events and sort of high
+25:00
+ticket sales. Exactly. So then again the same thing again is like someone who's opted for like a kind of training academy finding
+25:06
+out about their motivations finding out like you know you said you want to do this researching about them and and be able to answer those questions and
+Use Case 7: Energy, broadband & grant form acceleration
+25:11
+basically find out you know if they still want to attend and if they are book them in for the event basically. So that would be like you know evenings and
+25:16
+weekend reactivation. See, never underestimate the power of reaching out immediately. Like so if someone opts in on a weekend or an evening, we can think
+25:23
+before somebody reaches out to them, but reaching out immediately is powerful. Another one is um we got it is energy
+25:29
+actually, but it's it's energy as well, but it can be things like broadband as well. So it's energy doortodoor sales as
+25:35
+well. Yeah. So here for example, this one would be like let's call it like um grant applications for example, right?
+25:40
+So the point there is that like if somebody um wants to apply for a grant or apply for a complex form to check
+25:45
+suitability here an AI will actually help accelerate the form completion where you can just ask questions and then you take a nearly a 48 minute form
+25:53
+down to 8 minutes of conversation basically and it can also check what information has not been submitted like a document of a bill or whatever like
+25:59
+that and follow up based off that in that information with follow up. Yeah. Yeah. Other ones are contract
+Use Case 8: Compliance monitoring & quality control
+26:05
+confirmation. So you got a dead door to door sales team that's like selling a contract and then someone else needs to have to like call them and confirm the
+26:11
+details of that. So that's where an AI agent gets the information of all the contract information calls them confirms that details and then validates and kind
+26:17
+of goes into a different place basically. So again that's a a general one which we we could add at the end but it's compliance. Compliance AI are perfectly
+Use Case 9: Security alerts & churn prevention
+26:25
+configures uh fantastic at compliance because you've got something you need to check and something being done and what
+26:31
+are the gaps. So it's very very good at that. There's there's loads of different things like that. For example, you can check for compliance issues within phone
+26:37
+calls if some had people had some some said some things they shouldn't have said or or didn't follow a certain script or you can even check in documents like you know do these
+26:43
+documents have these different elements that are required and stuff like that. Um right security this is going to be a big one especially we're adding robots
+26:49
+but for now yeah exactly so for example here like if you want to like monitor security lines
+26:54
+where people are reporting issues that actually happened and different stuff like this you can actually spot you know are there repeated alarm triggers are
+Use Case 10: Financial services intake & triage
+26:59
+there some issues are there some potential churn issues essentially so again here the call analyst can be configured in a different way to
+27:05
+actually proactively prevent proactively detect potential issues and complaints but it can also help you identify cross
+27:11
+cells and upsells of other service you could have provided to them. So this is one of the most important things in the callout list. We can customize it to
+27:16
+anything. And the point is if we got a list of all your services and we know what this person is talking about and even our business, it can identify other
+27:22
+cross cell potential. Um okay, financial services. Yep. So this will be an overflow call handler. Very very simple and powerful
+27:29
+one where at evenings and weekends or if someone in the human team can't answer the phone, it will answer the phone and it will say, you know, are you an
+27:34
+existing customer? Take the message down. Are you a new customer? It takes an intake form, asks all the questions required basically, right? you know
+27:40
+about financial history, objectives, goals, motivations, all that kind of stuff. And then it can send all the notes by email in a structured way to to
+27:47
+the team basically. Also talking to uh one last week actually about um where they have a lot of in inquiries. It's not quite sort of
+27:54
+um like uh what's it called? PPI. We have a lot of inquiries about potential claims. A lot of 98% of them um are sort
+28:03
+of spewist might be the right word. Um and they want to deal with them automatically. So and then then then
+28:08
+there probably five you know 5% where a human needs to pick it up. So with these call agents about that sort of pyramid
+Use Case 11: Marketing follow-up & event intelligence capture
+28:14
+of value you want them to try and do the the bottom they're getting better at it then your human agents could deal with
+28:20
+the the high value and edge cases at the top of that as well. So this is a big one. I mean AI's covered this a long we
+28:27
+don't have a marketing agent because marketing is so varied in terms of what you're going to do and what you how you
+28:33
+want to get things done. you know copy creative but there are use cases in in marketing and digital which is more the
+28:39
+follow-up isn't it the engagement the personalization exactly so if you're doing like in a marketing if you're doing an event for example um one example is like the AI
+28:46
+will actually like help the team follow up at event so for example imagine your team meeting a lot of people at an event at that event in that five minute
+28:52
+conversation they know everything about that customer and even insights around who's the right person to talk to different stuff of this two days
+28:58
+afterwards when they get back to the office everyone's forgotten everything so here for example there's an agent where they could dictate a voice note
+29:03
+basically into a system and then that would then transcribe everything, scan the badge, get the information about the company. Then an AI will research the
+Use Case 12: E-commerce technical support & cross-sell
+29:10
+company, find out more information, then also look at across case studies and identify you know what could be suitable for it and help draft potential answers
+29:16
+that can kind of go with this. So it just gives you very high high resolution um draft answers which your team can
+29:21
+then customize and go with it basically right and also gives you all the intel in one place. So capturing commercial
+29:26
+specific intel at scale from a team voice notes and research agents very powerful. Uh, next one, e-commerce,
+29:33
+which I mean I don't know why anyone with a website would not have some kind of agent on it to do sales engagement.
+29:40
+So here is for technical support. So for example, you got like lots of products which are like complex products because they're basically are used in the kind
+29:46
+of like medical sector and the point is that each product has to have compatibility different things all that kind of questions and people care about
+29:52
+those things. So here it's loaded with all the manuals. So it can ask the questions in detail about compatibility um other information specs around it. So
+29:59
+you know this is like think about a superhuman you could ask that knows everything like a rainman basically right about those things. This allows
+30:04
+you to have that in that kind of situation where you can actually answer all the kind of you know product information. Then you can also do things
+30:09
+like where is my order? So you know access to systems with an API which has like your um shipping information. It
+30:14
+can give you that information directly and go from there. Also what it can also do in terms of e-commerce or or business
+Use Case 13: Industrial/B2B equipment quoting
+30:19
+is like it can go to your customers and and look at their their businesses. For example, like let's say say for example
+30:25
+you sell four product lines and you've got customers that only bought three product lines from you. You could have a research agent which is like looking at
+30:31
+the account industry with you and also going to the customers website and seeing do they have that fourth product issue that they need and then you can
+30:37
+recommend that thing to them basically. Well and one we're working at the moment actually is um this is the industrial isn't it B2B equipment.
+30:43
+Yeah exactly. So that where where like for example again when it's like very precise information you need to capture in a detail. You can actually have like
+Use Case 14: Commercial facilities research & support
+30:49
+an AI which configured to ask the right questions and it can be very configured and very sequential. So based on certain
+30:55
+parameters it will ask other questions based on this it will require those different things and what it can then help you do is put together a very long
+31:00
+complex quoting template um with with whatever technical information is required and do that in a multilingual
+31:05
+way. So that can help accelerate the time to quoting. Uh another big one doing quite a few of these is um I say
+31:11
+commercial facilities management. Yeah, exactly. So there you need to like find out who the facilities manager is
+31:16
+or the right person to target and different things like this. So we've got research agents which go on CQC websites or different place like this, find out
+31:22
+the name of the person at the right place. Also check about the details about that place if there's any issues with um one part of its service which
+31:28
+you can target. Then what it can then do is it can then research that person on other system. See our system connects
+31:34
+into 300 plus our AI connects into 300 plus systems including Apollo and other things like that. So we can then capture
+31:39
+the information on those people and enrich then that can go to a sales team which will then reach out and phone and find out like you know can I speak to
+31:45
+Gary or is or who's the facility manager or whatever like that and that gives you all that intel so you can then get further along in your multi-step sales
+Use Case 15: Digital health consult prep & booking
+31:52
+process. And it could also have that a support agent where if you're a facility manager again of hours, weekends, if
+31:57
+people got issues, if it's at a low level, it could deal with this information, they can deal with all of that. And if not, they can escalate it
+32:03
+and create a ticket as well. You can also spot for issues with potential churn like if there repeated
+32:08
+complaints happening from particular accounts and stuff like that, right? Because you can spot that digital health. Now, this this is not
+32:14
+being a medical device, is it? But it's kind of almost anything but. So if someone is like doing online consults
+32:19
+for whatever it is, basically what this is doing is it's helping capture data capture. So if you think about it like um in order for the doctor to be able to
+32:25
+like or whoever it is to be able to like give a good advice to you, they need to have all the context, your history, your this that or you know pictures of
+32:31
+whatever the issue is and whatever things like this. So there like someone's doing an online consult, they can actually call them and find out
+32:36
+what's going on, find out the issues, get get more detail about different elements and then it could actually then help convert into bookings. So examples
+32:43
+can be for you know whether it's like you know people inquiring for you know the weight loss services or it could be for cosmetic things or it could be like
+Use Case 16: Legal client onboarding with AI video
+32:49
+devices which are sell sold online whatever it is like that you know all those things can be done and you can get personalized information about you know
+32:56
+skin information motivation side effects all that kind of stuff and then another one is legal again so
+33:01
+it's not like healthcare not trying to we're not trying to do the the regulated activity but again a law firm is another
+33:07
+business is it and all those activities that happen around it. Exactly. So here for example when you
+33:12
+offer a specialty service which most consumers will never come across that often there can be a lot of apprehension
+33:17
+and fear. So here for example you also want to like create the it's like what you say before before you meet someone
+33:23
+is like advice what you tell them afterwards is an excuse basically. So in this sort of situation if you help them understand beforehand like look I know
+33:29
+this is worrying I know this is going to be an issue but this is sent basically by an AI video. So basically you've got AI videos, avatars of the key people
+33:35
+that will actually be meeting them and doing the things and they can actually give a personalized warm video saying, "Hi, I'm Alec. I'm here to help you with
+33:41
+this thing. We're going to meet next week. I'm sending you now a list of all the things you need to kind of be aware of, but if you got any questions, please
+33:46
+email me back." That creates that emotional reaction and this is like that connection very quickly and this is like
+33:51
+how you can kind of like humanize a very abstract or traditionally unhuman
+Use Case 17: Application & grant process automation
+33:56
+service basically, right? Yeah. We've we've done that in um prox people get a letter saying you're an executive and I think they're going to
+34:02
+be executed. So it's kind what what is it? What does it mean? So it really helps then when they've when they meet
+34:08
+the real people it's the same person that was represented by the avatar. So that's actually really quite powerful. And then um some we kind of touched on
+34:15
+it earlier a little bit but kind of grant management is basically any application isn't it? Yeah. So here it can be not just the
+34:22
+application but also the scoring of it and also like the the evaluation of criteria. So if somebody is not eligible
+34:28
+for something, you can actually help them guide about what they need to change and what they need to do. So here you can look at like the onboarding and
+34:33
+the the application. You can look at the evaluation. You can also look at like the support and everything afterwards where to kind of go back to people and
+Use Case 18: Roofing & construction lead reactivation
+34:38
+reactivate it. So that that whole process is basically taking conversations into you know evaluations
+34:44
+and going from there. So you can totally you know scale that service up for grant application you know any kind of application for like complex things or
+34:50
+even competitions or anything like that. And again we touched on it a little bit earlier thought of but we have done actually built agents to do this as well
+34:57
+is roofing construction. So dealing with sort of dead leads really. Exactly. So any high value service it could be a kitchen could be a bathroom
+35:03
+could be a roof. We've done this where for example um you know roofing company got lots of leads from different shows over the years never contacted them or
+35:10
+whatever reason and the sales team didn't you know thought they were not good leads. Weekends and evenings reactivate them. Find out you know when
+35:15
+the project is going on. Have they still already got a roof? and you know if they are if a project is still a go who's the
+35:21
+right person to talk to when they got planning permission when they should be contacted so all of those things have been done already and that that works
+35:26
+very nice because you can even also like book jobs find information about them and different stuff you can combine this with other things such as like you know
+Use Case 19: Cybersecurity onboarding simplification
+35:32
+Google Earth and and searches to like go further down the pathway for for quotations or whatever you want now one we've also done is cyber
+35:39
+security so in cyber you've got you know policies which is kind of humans really you've got the technology uh and then
+35:45
+you do have the human training and if you can use AI to try and reduce the risk of any of those vectors that can
+35:50
+make a difference as well. Yeah. It's a complex on boarding where you need to ask a lot of questions about different people. This can be quite you
+35:56
+know um friction higher friction where you got to like answer lot of questions about you know what kind of laptops have you got or you know what things do you
+36:02
+have here or what information do you have or what software do you have across different people so here for example having AI which can be conversational
+36:08
+and and help almost like take them through that process because it's quite it's quite um you know challenging to
+36:15
+look at like a massive 150 page um 150 line questionnaire on Excel versus having that conversation and breaking it
+36:21
+down to like three conversations where you we'll go through this one go through that go through the different details and look up and also where you can
+Use Case 20: Pharmacy services opportunity spotting
+36:26
+eliminate the need for that question because you can look up the information directly you know by AI and perplexity and stuff like that that kind of
+36:32
+we're doing it ourselves aren't we're going through cyber central cyber centrals plus and maybe AHSDSP and ISOs
+36:38
+so we're kind of in a way using exactly that to to make that a little bit easier one we've done quite a bit of work on
+36:44
+the various customers is pharmacy services exactly so here for example where there are government funded
+36:49
+services which um um people could be eligible for we've got AI analyst agents which will go through millions of
+36:54
+prescription and spot people on particular medications, calculate when they're about to run out and then actually contact them so they can
+37:00
+actually like you know renew with the pharmacy and then they can kind of you know access different funded services. Then you've also got other things with
+37:06
+regards to like you know healthcare services from those clinics which could be like you know weight loss or you know travel vaccinations or whatever it is
+37:12
+like that. So the point there is you can of reactivate them and also help book them in and also like help them be of assistance in where you want to go with
+37:18
+in that kind of way. Why few? So that was 19, right? And we weren't trying to sort of they're real world use cases all
+37:25
+based on things we've actually done and you can see there. The idea there really is is almost to you got to see it to
+37:31
+believe it. So by talking through all those different use cases hopefully by listening to that you think oh okay so
+Six measurable benefits of AI agents
+37:37
+you could do that. So in my business I could potentially use it to do this. And the point then is which is all great but
+37:43
+the point then is what are the measurable benefits? So all those use cases we went through there, they were
+37:49
+all based on a repeatable, measurable and ideally material return on
+37:55
+investment. So just talk through what they look like. Yeah. So for example, if you think about the key measurable benefits. So
+38:01
+everything we're talking about is a commercial use case where it's like helping that company be more, you know, more profitable, more scalable, you
+38:07
+know, more differentiated, whatever it is like that. So cost. So you know, examples like 15 to 20 times cheaper. So
+38:12
+for example in the recruitment example it literally was 20 times cheaper because like for example calling 2,300 people you have to pay the human to do
+38:18
+that because whether they call you know tap on the phone and nobody answers they still that like time is going through
+38:24
+that process whereas with our system for example the AI if it calls people and people don't speak it costs zero zero in
+38:30
+credits basically right our AI system works with with credits basically so it's free like to like reach people that
+38:36
+you couldn't speak to and so you end up with a 20 you know 20 times cost differential which you cannot replicate
+38:41
+any other way basically right now uh scale. So here for example at one agent was replacing 23 people's workload
+38:48
+or we've got other agents which will be going through you know millions of prescriptions no human could do that basically right so the point there is
+38:54
+like that's why we talk about departments basically right because you can have like a whole analyst department which is like like replacing what would
+39:00
+be you know 500 people potentially right in that kind of way so the point here is you can scale from like one start with a
+39:05
+part-time one you can go up to 50 or 100 so you have that ability and the the beauty of this is like if they're not
+39:10
+working it doesn't cost you for those additional ones basically workers on um all those not very popular
+39:17
+but zero hour contracts put in a just don't care so um and then time the favorite one's the the grant application
+39:24
+yeah I mean basically like you know business loves speed right the faster you can deliver value for your customers
+39:30
+like if you can save your customer 48 minutes and you can take it down to 8 minutes right or you know what would normally be an onhold conversation going
+39:36
+to like straight away to the point in like you know seconds it just makes things much better so you know cutting
+39:42
+down by a factor of you know like from 48 minutes to 8 minutes for what you were trying to do is a huge cut down
+39:47
+isn't it basically a factor of six essentially which we did and then another one is revenue so you as Alex said earlier
+39:52
+you've got a business okay and and you've got you've got um resources and you're generating x revenue can you
+39:59
+without adding too much cost increase that and we have an amazing example of that exactly so for example with with one
+Closing thoughts, Manchester event invite, and review request
+40:06
+business we unlocked a 4 million revenue opportunity by basically using our analyst agent to spot these people that actually eligible for particular
+40:12
+services and then contacting those people to be able to like do it in that way. So this kind of like almost like surgical laser focused reactivation with
+40:19
+with an analyst agent can be done in many different places even like you know with like you know different businesses where they've got multiple locations
+40:26
+other call analysts unlocking you know like you know 200k worth of opportunities you know within a month and a half worth of call phone calls. So
+40:32
+there's so many opportunities that can be done this way basically which humans wouldn't be doing and it didn't include didn't increase the cost to be able to
+40:38
+unlock that new revenue basically. And then um availability. So humans can do it. We often don't want them to because
+40:44
+it costs too much. Yeah. You can have 247 coverage, zero overtime. I mean, I had one call two
+40:49
+weeks ago with one business owner. They've got like three people they're hiring in support for their business. And um she basically said to me like um
+40:55
+they just hired somebody and um in the last two weeks she's been in four days cuz she's been off sick basically since
+41:00
+she started. And she was and the person said to me like to be honest I look like uh even if the AI is only 25% as good, I'm ready to kind of start training it
+41:06
+and make it much better. And I was like, "Yeah, it's a bit more than 25%, but like yeah, it'll it'll it'll it'll it'll get there for you."
+41:12
+And then uh consistency. Exactly. So the point is like your most exceptional performer is going to be
+41:17
+outstanding, but then energy level, sugar levels, all that kind of stuff and also timing and also not everyone across
+41:22
+your your your workforce is in that way. This way in terms of consistency like you know always answer the phone, always
+41:28
+go through information, always you know follow the things, always provide an upsell opportunity, always provide a cross-ell. It'll be that consistent high
+41:34
+quality standardized interaction which is essentially what business is. Business is about repeatable, scalable,
+41:39
+consistent experiences basically, isn't it? Right? And it's also about not being emotional. So the AI won't get upset if
+41:44
+you shout at it or whatever that actually be more empathetic. It'll actually take more time with everything. So you can make it however you want in
+41:50
+that way. Right? So there's some of the benefits. There's a huge amount there. If you're watching this or listening to this, you
+41:56
+can get the transcript of YouTube or go and probably read Alex's article actually. he's got even more detail about it which is um on LinkedIn and the
+42:03
+idea there is just really just to trigger some ideas so help the lights come on in terms of where you can deploy
+42:08
+this technology. So that's all we're going to do for this week. Um again go to our website resource center got white
+42:15
+papers, we've got demos, lots of things in there that are valuable. If you can get to our Manchester event 15 15th of
+42:21
+September 12:00 p.m. to about 3:30 it's in spinning fields in the um town center. Again, uh we're being supported
+42:28
+by our law law firm there, Squire Patton Box. Thank you to them. And again, the podcast, if you enjoy it, if it adds
+42:33
+value, please leave review. It really does help us. That's it. I hope that
+42:40
+didn't uh I hope that didn't wear everyone out listening or watching. I feel worn out. Uh and we'll see you in
+42:45
+about 2 weeks. Thank you for joining us for this episode of the Implement AI podcast. If you're interested in
+42:51
+learning more about how we can assist you and your business in leveraging AI for growth and efficiency, visit our
+42:58
+website at implementai.io. Don't forget to subscribe to the Implement AI podcast on Apple Podcast,
+43:05
+on Spotify, wherever you listen to stay updated on future episodes. Thank you
+43:10
+for listening and we'll see you next time.
+

@@ -1,0 +1,216 @@
+0:055 secondsWhat a way to begin the morning. Like the minister said, choose France. Bet on France. In a word to bring a word from
+0:1313 secondsthe crypto space here, bullish. We're bullish on France. We're bullish on Signal Week. We're bullish on Paris.
+0:2020 secondsNow, not much can happen without regulation and without clarity, which is why our next talk is going to dive into
+0:2727 secondsMicah and the consequences of it. You'll hear from Peter Kirsten and Haidider from OKX.
+0:3838 secondsSmells like gold.
+0:5656 secondsLet me tell you a little story. I'm tired of this.
+1:051 minute, 5 secondsOkay. Where's the gold? Enough. No gold.
+1:161 minute, 16 secondsYeah, you're the only one who's not having fun. It's a fair trade.
+1:221 minute, 22 secondsBetter be good.
+1:401 minute, 40 secondsWe'll sit here. Hello everyone. Good morning.
+1:501 minute, 50 secondsUm, thank you first off and it's great to be here in Paris. Uh, at OKX um, you
+1:561 minute, 56 secondsknow, we operate in number of regulated markets and Europe stands out as having delivered the most comprehensive crypto
+2:062 minutes, 6 secondsregime at scale with Mika. The focus is now the framework and how it performs in practice and how it evolves. So today is
+2:152 minutes, 15 secondsabout bringing the real world implementation experience with the next phase of policy design. And Peter, I'm so happy that you join us. I'm going to give you a minute to introduce yourself to the audience.
+2:252 minutes, 25 secondsWell, thank you Haidra for inviting me here on stage at the beginning of Paris Blockchain Week. Um I've been working in
+2:322 minutes, 32 secondscrypto policy or digital assets policy for eight years now and it's about eight years ago that we started with the
+2:402 minutes, 40 secondsdesign of Mika. Um it was indeed the first framework. It's the most comprehensive framework and it's been
+2:472 minutes, 47 secondsthe inspiration for regulatory frameworks around the world where what was designed in Brussels is being
+2:552 minutes, 55 secondsemulated across the world. uh and we have many jurisdictions now have are putting frameworks in place. But as our
+3:023 minutes, 2 secondsown framework is starting off and the aim of this framework was to bring clarity into the market to bring certainty and to onshore crypto activity
+3:113 minutes, 11 secondsonto European markets. We saw that people were interested in crypto but they were trading offshore. We said if
+3:183 minutes, 18 secondsyou want to trade crypto do so in the regulatory sunlight in Europe if you're European. That's what we wanted to do.
+3:253 minutes, 25 secondsCreate legal certainty. Now the framework is in place. We have um over um both on the issuance and the um
+3:323 minutes, 32 secondsservice provider side uh over 180 uh licensed entities operating. There will
+3:393 minutes, 39 secondsbe more but it's time now or the time is start to start stock is MA delivering as
+3:453 minutes, 45 secondsit was designed. Um and what's next because this this this framework was designed eight years ago. The markets have moved on. the markets have matured.
+3:563 minutes, 56 secondsThey're not yet fully mature. There will be other developments, but we really have to say and people have to recognize
+4:034 minutes, 3 secondsthat Mika is not the end of the story. It's the beginning of the story. And that's why I'm so happy to be here talking about this with you.
+4:124 minutes, 12 secondsLovely. And and for folks who saw the trailer and you found it exciting, I really encourage you to go on YouTube or
+4:194 minutes, 19 secondsany streaming channels and look up the film. It's called The Mile Mile West by OKX. And the premise behind that film is we feel that our industry deserves to be
+4:274 minutes, 27 secondscalled the mile mile west not the wild wild west. And I think we'll focus this session on how collaboratively we can all create that environment for
+4:364 minutes, 36 secondsourselves. So I'll start with the first question Peter Mika and practice.
+4:444 minutes, 44 secondsActually before we even go into ma and practice I want to look at this world map over there on our left side. And if
+4:514 minutes, 51 secondsyou reflect back 5 years ago, I would argue that all the markets highlighted in light colors did not exist back then.
+4:594 minutes, 59 secondsAnd those represent the markets that have clear regulatory framework today.
+5:045 minutes, 4 secondsCan you imagine what this map would look like in 5 years? Because our our view is, Peter, that in five years, maybe
+5:125 minutes, 12 secondsseven years, you'll see very few markets, if any, that will have self-regulated frameworks or absence of
+5:195 minutes, 19 secondsone. So that's the world we're heading towards. So when you look at MA and MA in practice, we're now in the
+5:285 minutes, 28 secondsearly phase of MA implementation. From the commission's perspective, what are the most important and early insights
+5:355 minutes, 35 secondsthat you can share? Let's start the conversation there. Well, first insight is that Mika is working. We see firms
+5:435 minutes, 43 secondsbeing licensed across the EU. It's not that they all go to one member states.
+5:475 minutes, 47 secondsWe see licenses being uh given out um across the EU usually a sign for success
+5:545 minutes, 54 secondsfor the commission when we do regulation policies. Do we get many complaints? We do not. We do not get many complaints
+6:026 minutes, 2 secondswhich is a sign that it is working very well. Does that mean that there are no questions? Are no debates? Is there uh things that cannot be improved? No. But
+6:106 minutes, 10 secondsthere is no u major problem. So people who say we want a Mika too
+6:176 minutes, 17 secondsthat is because they want more of this not because they think Mika is broken and therefore needs to be fixed urgently and that's a good sign that people say
+6:256 minutes, 25 secondsyes this was the right approach to take to bring order into this market to turn the wild west into a mild mild west
+6:336 minutes, 33 secondsbecause it was when we started off crypto was a wild west environment very exciting you could become very rich or
+6:416 minutes, 41 secondslose it all easily and It's now much much more mature. But we need to go further because um
+6:506 minutes, 50 secondsthis it's not only going to be crypto markets. We're going to see digital assets markets. Any asset can be tokenized. Any asset can be put on a
+6:586 minutes, 58 secondsblockchain and traded. And that is why we need to constantly review. But the first insights are that Mika is
+7:057 minutes, 5 secondsdelivering. Um and of course the press likes to talk about drama here or debate there and so on. But I don't do not think that this is material in any way.
+7:157 minutes, 15 secondsYeah.
+7:157 minutes, 15 secondsSo um 30 NCAs I mean gosh I can't even imagine how the
+7:227 minutes, 22 secondsconsensus works. But if people have perception that Europe can be slow, well with Mika, you being the architect of
+7:297 minutes, 29 secondsMika, you've proven that wrong because you look at United States, there's legislation finally coming out, one with Genius Act, you know, the anticipated
+7:377 minutes, 37 secondsclarity act, but it feels like Europe's figured this out faster than the Americans. Can you tell me a little bit about that?
+7:447 minutes, 44 secondsWell, we started off um thinking about it in 2018. At the time, there was very little momentum for pro- crypto
+7:527 minutes, 52 secondsregulation. people said that's a waste of time, don't do it. But we said no, this there's a lot of opportunity in here and we have to promote and enable
+8:008 minutesthis uh for our own economy, for our own investors. Um and then when the stable coin debate got launched with uh with uh
+8:098 minutes, 9 secondsLibra, that really created a bit of political panic that was a catalyst for us to present Nika.
+8:168 minutes, 16 secondsWe were in a way lucky then is that the crypto ecosystem itself was not that
+8:238 minutes, 23 secondsmuch focused on policy and politics. So we had very little public affairs and lobbying and the financial institutions traditional financial institutions were
+8:328 minutes, 32 secondscompletely uninterested in this. They said this is a sideshow.
+8:368 minutes, 36 secondsNo one cares about this stuff. So we got to do Mika in relative quiet waters. If I am I'm currently
+8:438 minutes, 43 secondslooking at the debate in the US um and what I see is that it's pitting
+8:508 minutes, 50 secondsthe crypto industry against the banks and they're canceling each other out.
+8:568 minutes, 56 secondsThat's why the debate is not progressing and it's pointless for them to cancel each other out. They should work
+9:029 minutes, 2 secondstogether and bring this further. So it was um difficult to develop Mika because
+9:119 minutes, 11 secondsmany member states and members of the European Parliament had no real idea what this market was about. They knew nothing about it or if they knew something or they thought they knew
+9:199 minutes, 19 secondssomething about it, they thought that oh crypto is a moneyaundering conspiracy and that's it. Um so we had to do a fair
+9:279 minutes, 27 secondsamount of education as to why there was value into this. But there was no strong polarized positioning which allowed us to take it through relatively quickly.
+9:359 minutes, 35 secondsNow it's all relative in life. It still took us uh three years of uh preparation and negotiations. And many of my days at the time looked like Groundhog Day.
+9:469 minutes, 46 secondsEvery day was the same. More I said, "Oh, more of this. How are we when are we finally finally finally going to agree this?" But we got there and then
+9:539 minutes, 53 secondswe did the implementation. So, it's now a number of years later and it works well.
+10:0010 minutesWell, you're you're absolutely right. I think you guys got it done when this wasn't a politicized topic and I worry
+10:0810 minutes, 8 secondsthat in the US the politics might kill any prospects of us seeing uh common sense legislation. But anyway,
+10:1610 minutes, 16 secondsI'm going to move on to the second section around supervisory convergence and level playing field. And I have a few questions here, but I'll start with
+10:2410 minutes, 24 secondsone of the themes we're hearing across the industry uh including us of course is the importance of consistent
+10:3110 minutes, 31 secondsimplementation. How is the commission ESMA or the NCA's thinking about this?
+10:3710 minutes, 37 secondsWell, consistency is extremely important because we have a single market and we want people to be treated the same and the rules to be the same across the EU.
+10:4610 minutes, 46 secondsThat's the importance for so we started by turning by by having Mika as a regulation meaning it's directly applicable. It does not need to be
+10:5410 minutes, 54 secondstransposed international law. It's not a directive. It's a regulation. So that already means that the rules are going to be the same everywhere. But what you can't harmonize is supervisory attitude.
+11:0611 minutes, 6 secondsSome supervisors are more pro- innovation than others. You can try to converge them and they work together within ESMA and the European Bank
+11:1411 minutes, 14 secondsAuthority to converge. But attitude is something which is more psychological.
+11:1911 minutes, 19 secondsIf you want to have a single supervisory attitude, you have to move it to a single authority. And that's why the
+11:2611 minutes, 26 secondsEuropean Commission proposes to move supervision of crypto asset service providers to ESMA here in Paris because
+11:3411 minutes, 34 secondsthen you'll have everyone will be facing a supervisor with the same attitude because there's only one supervisor.
+11:4411 minutes, 44 secondsWhether that attitude is going to be pro- crypto or more I would say skeptical remains to be seen. Although I've got good hopes
+11:5211 minutes, 52 secondsalso with the proposals which we made for the change to the governance and to the mandate of ESMA that that attitude
+11:5911 minutes, 59 secondswould be I wouldn't say pro crypto, it would be pro- innovation and that's important because it's not about crypto, it's about innovation. That's what we're after.
+12:0712 minutes, 7 secondsYes. And we've we've spoken about this a number of times now over the last 24 hours. Tell me when you think about
+12:1512 minutes, 15 secondsinnovation, is tokenization the most attractive topic when you think about financial uh industry innovation?
+12:2212 minutes, 22 secondsUm absolutely. Um I have been at the European Commission 30 years. I've wor many areas but most of my life I've
+12:3212 minutes, 32 secondsworked on issues related to market infrastructure and it's highly technical, very complex.
+12:3812 minutes, 38 secondsMany financial institutions make an awful lot of money out of exploiting inefficiencies in the system, friction
+12:4612 minutes, 46 secondspoints, and tokenization and blockchain gives us really an opportunity to do away with
+12:5412 minutes, 54 secondsthese friction points. That's going to mean that some companies are going to lose their source of revenue because these friction points that they're currently exploiting, they will no
+13:0213 minutes, 2 secondslonger be there. But I very firmly believe because of my interest in blockchain in technology that and this
+13:1013 minutes, 10 secondshas been endorsed by my boss the commissioner that distributed ledger technology blockchains and tokenization
+13:2013 minutes, 20 secondswill become the new operating system of financial markets. I have no doubt that
+13:2613 minutes, 26 secondsI will live to see the future where financial markets are tokenized and operate on distributed ledger technology.
+13:3613 minutes, 36 secondsI will live that day. I may even be not yet retired when it happens. Well, I I hope it happens sooner than later
+13:4313 minutes, 43 secondsbecause it is very exciting. Can you imagine people in Europe who do have access to brokerage accounts and can access American equities, European
+13:5213 minutes, 52 secondsequities, so on and so forth. But can you imagine what happens to the rest of the world? The 8 billion people or say close to a billion investors out there in the world when they can access
+14:0114 minutes, 1 secondEuropean and American equities markets and they're not time zone prohibited, they're not cost prohibited, they can do
+14:0914 minutes, 9 secondsfractional trading, they can do 247 trading. That's incredible because you look at the US equities market uh it's
+14:1614 minutes, 16 secondsabout $70 trillion give depending on the trading day and uh 18% of those are foreignbased investors. Well, what
+14:2514 minutes, 25 secondshappens to the US equities market and its value when you can attract more foreignbased investors into it? Does it go to 100 trillion? What happens to the
+14:3314 minutes, 33 secondsEuropean uh equities market? I'm curious how you think about the value creation when tokenization actually becomes a
+14:4114 minutes, 41 secondsreality. Well, I think we can only start beginning to imagine what may happen. We
+14:4814 minutes, 48 secondscan't really predict the new dynamics that will emerge. We may have some idea.
+14:5514 minutes, 55 secondsI think it'll be an enormous opportunity. Financial markets depend on liquidity. Everyone wants
+15:0415 minutes, 4 secondsliquidity and liquidity begets liquidity. If you do not have deep and liquid markets, your markets do not function. By growing your investor base,
+15:1315 minutes, 13 secondsyou increase liquidity. That's also what the European savings and investment union is about or the capital markets union. It really is by integrating
+15:2215 minutes, 22 secondsmarkets um so that there's more liquidity in them and that they can serve the needs of the of industry and the economy for
+15:3015 minutes, 30 secondsfinancing better. Now, it's extremely hard to integrate markets just through law. You can you can adopt laws and says
+15:3815 minutes, 38 secondsyou thou shalt be integrated but that doesn't mean anything. It's extremely hard to integrate markets based on legacy infrastructure and technology
+15:4615 minutes, 46 secondsbecause these are all separate entities that spend that are scotch taped together and that spend time reconciling
+15:5415 minutes, 54 secondsaccounts with each other. To integrate markets, you have to move them onto shared ledgers, onto distributed ledgers. And that's how the integration
+16:0116 minutes, 1 secondwill work. And that will bring massive amount of investors and liquidity onto on on the market than on chain.
+16:0916 minutes, 9 secondsWell, can I say I think we've all in in the digital asset economy seen that I live in the United States on East Coast.
+16:1716 minutes, 17 secondsOn a Sunday at 8:00 p.m. Eastern time, our order book on OKX is quite active.
+16:2316 minutes, 23 secondsIt's about as active as 9:00 a.m. in the equities market in New York. And can you imagine? Well, one thing is I think
+16:3116 minutes, 31 secondscrypto's already done that the unification of order books and being able to access markets in different different areas. So, I really believe
+16:3916 minutes, 39 secondswe're at a very special point in our industry, which is we have finally got a very real use case that is applicable to
+16:4816 minutes, 48 secondseveryone. not just a small group of people, not just a hundred million people, but everyone who's looking to access markets. And I think we've battle
+16:5616 minutes, 56 secondstested this technology, and it creates incredible opportunities for us to converge with traditional finance and
+17:0317 minutes, 3 secondslend them our technology so this tokenization concept can become real. Do you agree that crypto companies have a
+17:1117 minutes, 11 secondsreally important role to play in accelerating this concept of tokenization?
+17:1517 minutes, 15 secondsUh, yes, I do. And I'm so happy that you say this because many of my colleagues and my peers in the regulatory community still say, "Oh, we're experimenting with
+17:2417 minutes, 24 secondsdistributed ledger technology. We're trying things out." I tell them the time of experimentation is over. This show is
+17:3217 minutes, 32 secondsgoing on the road. It's going on the road fast. And traditional f well the crypto or the
+17:3917 minutes, 39 secondsdigital assets community has a lot to learn from traditional finance in the way how markets behave and operate. But the traditional finance people have a
+17:4817 minutes, 48 secondslot to learn from how digital asset people uh operate, how they work, how 247
+17:5617 minutes, 56 secondsmarkets work, how integrated markets where you have the trading and the clearing and the settlement all in one,
+18:0318 minutes, 3 secondswhere there's custody at a trading venue. All of these kind of things, these are issues which traditional market players are not familiar with
+18:1118 minutes, 11 secondsbecause it's all separate functions in the system. you integrate this and so I think that both sides have to learn an
+18:1918 minutes, 19 secondsawful lot from each other. quite a few um crypto firms, to call them that way, digital assets firms probably need more
+18:2718 minutes, 27 secondsmaturing and more time to sort of say, well, what if you go through a down cycle? what they they they they have some experience with crypto summers and
+18:3618 minutes, 36 secondscrypto winters but a real crisis is important and the lessons learned and thready has many lessons learned some at
+18:4518 minutes, 45 secondsa huge cost but they've learned them and they've adapted to it and I think the crypto community will have to take those lessons on board and work with tra
+18:5418 minutes, 54 secondstraditional finance to integrate those lessons but traditional finance has to learn the lesson of what does it mean to
+19:0219 minutes, 2 secondshave to be open have direct access for consumers. Most equity trading venues have no experience
+19:1019 minutes, 10 secondswith direct retail access. They have participants on it. FX markets have direct participants, but for the rest, it's a very intermediated access system.
+19:2019 minutes, 20 secondsSo, it's a very different dynamic. So, I think both sides have a lot to learn from each other.
+19:2619 minutes, 26 secondsVery good. Well, I got a question that I think is on the mind of many people in our audience, which is we hear whispers of Mika 2.0.
+19:3519 minutes, 35 secondsIs that phrase even a real thing inside ESMA or the commission or among the NCAs?
+19:4219 minutes, 42 secondsUm, we are going to review Mika not because it's broken but because it's
+19:5019 minutes, 50 secondsimportant for us to evolve with how markets are developing. Mika was designed for a crypto ecosystem where
+19:5919 minutes, 59 secondsyou had a few larger assets and then many other smaller assets and the market is maturing. We we see that so we need
+20:0620 minutes, 6 secondsto take stock as to is it really working for the participants and we'll start with a public consultation on this. Is
+20:1520 minutes, 15 secondsit working? Is it delivering what you need it to deliver to um build your business
+20:2320 minutes, 23 secondsand for us to progress? Because one of the things which I often see in innovation I do many innovation areas is that as a policy maker we like to
+20:3120 minutes, 31 secondsdevelop or we need to develop rules so that industry can build on top of those rules. If we do not keep our rules in
+20:4020 minutes, 40 secondscheck with the needs of the market, the market will build around the rules and that usually is a bad position to be in.
+20:4820 minutes, 48 secondsIt causes all kinds of legal uncertainty. It ends up being a problem.
+20:5220 minutes, 52 secondsSo we need to adapt it. So will there be a Mika 2? Um I can't predict the future.
+20:5720 minutes, 57 secondsBut if I look at history, which is usually the best guide to the future is that European legislation comes in iterations. We have mythfitit one,
+21:0421 minutes, 4 secondsmythfitit two, capital requirements one, capital requirements two, capital requirements three. So it would be rather unusual
+21:1221 minutes, 12 secondsif there would not be a mika 2. So people are going to say the European Commission said that there is going to be a Mika 2. I said well I think that
+21:2021 minutes, 20 secondshistory suggested that's likely. We'll see whether what is likely is going to happen. Now people are going to sort of say what's going to be in it. They're
+21:2921 minutes, 29 secondsgoing to ask me what are you going to put in it? We do not know yet. That's why we need to do this consultation and to engage with all of you. We will have
+21:3821 minutes, 38 secondsno taboos. Any subject can be raised with us and we are looking for evidence
+21:4521 minutes, 45 secondsas to where we should go further, where we should change the rules, what needs policy and regulatory attention and what
+21:5221 minutes, 52 secondsdoes not. And that really is the onus is on the industry uh to uh provide us with that feedback. Well, that te's up my
+22:0022 minutesnext question for you, Peter, which is you look at a number of companies through Mika, through your work, you've been able to attract a number of large
+22:1022 minutes, 10 secondsglobal venues to come into Europe and apply for Mika and doicile here.
+22:1622 minutes, 16 secondsThe question becomes, you now see the marketplace. You look at a company like OKX. By the way, we started offshore and
+22:2422 minutes, 24 secondsthe last three years, I think we've gone more onshore than any other exchange.
+22:2922 minutes, 29 secondsUh it really begs the question what about the exchanges the large venues that are still operating as offshore
+22:3822 minutes, 38 secondsexchanges in EU or EA and what about the new venues that are coming up and providing really speculative trading
+22:4622 minutes, 46 secondsinstruments like PERBs and derivatives and what have you.
+22:5022 minutes, 50 secondsHow does the commission, how does ESMA, how does the NCA's, what's their point of view on creating a level playing
+22:5822 minutes, 58 secondsfield so you don't end up discouraging the companies that have spent millions of dollars, hired
+23:0523 minutes, 5 secondsEuropeans, created jobs to come here and then they see offshore exchanges, you know, quote, breaking the rules and operating the wild wild west.
+23:1723 minutes, 17 secondsMika was designed to onshore European crypto activity in Europe. If at the time people said, "Oh, you are
+23:2523 minutes, 25 secondslegitimizing crypto." Said, "No, we're not doing any of that. We're not forcing anyone to trade crypto. But if you want to do crypto, if you want to trade
+23:3223 minutes, 32 secondscrypto, we've created an environment that you can do this within the regulatory sunlight in Europe with many of the regulated um crypto uh asset service providers that we have.
+23:4423 minutes, 44 secondsThose that are operating outside of the regatory framework or outside of Europe are not allowed to solicit business from Europe. They're not allowed to do that.
+23:5423 minutes, 54 secondsIf they do that, they can face enforcement action. But there is such a thing as reverse solicitation.
+24:0324 minutes, 3 secondsIf a European investor or consumer on his own initiative chooses to go
+24:1024 minutes, 10 secondsoffshore and trade there, there's not that much we can do about it. Um, other than tell
+24:1824 minutes, 18 secondsthem you're on your own. Um, don't come crying with us if this thing blows up.
+24:2424 minutes, 24 secondsUm but in the US, the Department of Justice or the Treasury Department or CFTC, any
+24:3124 minutes, 31 secondsof these agencies have historically uh you know had enforcements against offshore exchanges.
+24:4124 minutes, 41 secondsWould we see a similar pattern in Europe or would European Commission or ESMA or the NCA's just let this sort of market
+24:4924 minutes, 49 secondsexist? Um it's not that we let it exist but we have we do not have a tradition in Europe of what we call extr territorial enforcement.
+24:5924 minutes, 59 secondsUm some member states do it a little bit because the enforcement is mainly done by uh member state authorities but
+25:0625 minutes, 6 secondsEuropean authorities tend to do the enforcement focused on European territories. So they have no habit of
+25:1525 minutes, 15 secondsenforcing internationally which is extremely hard because if a company has no assets or no presence in your jurisdiction, it's extremely hard to
+25:2425 minutes, 24 secondsactually go after them unless you are a major jurisdiction and you have ways to cajul your regatory partners abroad to
+25:3425 minutes, 34 secondscooperate with you or these executives of these companies for some reason need to be in the United
+25:4125 minutes, 41 secondsStates and then end have been an orange jumpsuit um because um they should have been more careful.
+25:4825 minutes, 48 secondsBut is it easy to say that ESMA would uh not maybe reward is a you know is overextending ourselves but would look
+25:5725 minutes, 57 secondsat companies that have done the hard work and they would look at them much more favorably long term than the ones that continue to maintain offshore
+26:0526 minutes, 5 secondsoperations. Uh definitely one of the things which we see is that um when a supervisor
+26:1426 minutes, 14 secondsgives a license to a company they start treating them as one of theirs and in the European context they sort of then start speaking and defending them
+26:2226 minutes, 22 secondsbecause but they only defend them if these people comply with their rules. They say look we will look after you.
+26:2826 minutes, 28 secondsYou've come to us. We will speak for you and defend you and we will also defend you against and if we have an
+26:3526 minutes, 35 secondsopportunity to exclude people who do not want to comply with the rules we will do that and I will not mention the name but I'll describe it in the stable coin
+26:4326 minutes, 43 secondsfield. There is a very large stable coin issuer that by its own choice did not want to
+26:5126 minutes, 51 secondsget licensed in the EU. they prefer to stay offshore.
+26:5726 minutes, 57 secondsI understand why they do that, although I don't think it's a good reason. But the result of that was that we were
+27:0327 minutes, 3 secondsforced to require all the European trading venues to delist this token. So this token was effectively excluded from
+27:1227 minutes, 12 secondsthe European market. Um what was the consequence that people traded in moved into a regulated stable
+27:2027 minutes, 20 secondscoin or some European investors who really wanted to have that unregulated stable coin went offshore? That's a consequence. We lost part of the
+27:2827 minutes, 28 secondsbusiness because we had to live by the consequences of excluding someone. But in that in that context, I
+27:3427 minutes, 34 secondswould see um the EA then taking offshore exchanges off the app store.
+27:4327 minutes, 43 secondsBut anywh who u I I will close the session now because we we're running over time and thank you Peter. If Mika
+27:5127 minutes, 51 secondswas about bringing crypto into regulation, the next phase is about getting the balance right as you said so well between protection, innovation and
+27:5927 minutes, 59 secondscompetitiveness. That's a conversation I guess we're all now a part of and thanks to your great work with Mika and architecting that framework faster than
+28:0828 minutes, 8 secondseven the United States. Thank you very much for spending the time today. Thank you.
+28:1628 minutes, 16 secondsWelcome to Signal Week.
+
+Sync to video time

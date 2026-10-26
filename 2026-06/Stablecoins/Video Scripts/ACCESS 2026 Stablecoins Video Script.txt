@@ -1,0 +1,230 @@
+Search transcript
+Search transcript
+Chapter 1: Welcome & Panel Focus
+0:088 secondsAll right, thank you very much. It's great to be here and wonderful to see all of you and uh to be here with my esteemed colleagues at the New York
+0:1515 secondsStock Exchange. So, I'm Sarah Hammer. Uh I'm with Charles Schwab and I I want to thank our sponsor Halbourne for this wonderful event today. And I'm so
+0:2424 secondsexcited to speak with all of uh my colleagues because I think we're going to learn a lot today about the important work that's being done across the
+0:3232 secondsindustry uh on tokenization and stable coins uh and central bank digital currency with some of the key issues that you've been talking about earlier
+0:4141 secondsin the conference and that we are all grappling with from daytoday. So I'm going to start with my friend Jen Lacier. Uh and Jen, I wanted to ask you
+0:4949 secondsa question. Uh uh from your perspective, from the bank perspective and uh also from being a foreign subsidiary for
+0:5757 secondsoperations here in the US, where do you see the strongest near-term use cases?
+1:021 minute, 2 secondsUh retail payments, crossborder, treasury, or capital market settlement? Do I have to turn this on? No, I don't.
+1:101 minute, 10 secondsHi everyone. Um good morning. So, Jen Lacader, I'm the head of digital assets for Standard Chartered for Europe, UK,
+1:191 minute, 19 secondsand Americas. Um, just a quick note about Standard Chartered, which helps a frame for how I would answer that
+Chapter 2: Bank Use Cases: Cross-Border & Treasury
+1:251 minute, 25 secondsquestion, Sarah. We are, um, a UK headquartered bank, our with roots in the emerging markets. We've been
+1:321 minute, 32 secondsoperating in the United States for a little over 120 years. Um, but we don't do retail activity in the US. So a lot
+1:421 minute, 42 secondsof our client demand as you can imagine is um sitting with our multinational corporates um and especially those who
+1:501 minute, 50 secondsare trying to move money around the world particularly in Africa, Asia and the Middle East. Um where we are focused
+1:591 minute, 59 secondsum in that capacity is speed of settlement FX risk management which I know was talked about a little bit on
+2:062 minutes, 6 secondsthe earlier panel and liquidity visibility across jurisdictions um for standard chartered because uh we
+2:142 minutes, 14 secondsare operating in so many markets I think we're a little over 50 at this point um we're looking for efficiencies utilizing
+2:222 minutes, 22 secondsthis technology particularly in treasury operations and crossborder functions. Um so the last uh thing I just wanted to
+2:302 minutes, 30 secondscomment on that um is thinking about what the near-term opportunity is for a bank perspective. I think right now we
+2:392 minutes, 39 secondssee a lot of activity that's siloed in the asset itself whether it's a bank token, a stable coin or all eggs in the
+2:472 minutes, 47 secondscrypto basket. Um but for a bank it's really uh not about replacing um retail
+2:542 minutes, 54 secondspayment rails. It's about modernizing the institutional movement of money. So
+3:023 minutes, 2 secondsum where we are operating at a global scale, it's that infrastructure to be able to choose the tokenized asset of
+3:103 minutes, 10 secondschoice and be able to again move it across borders.
+3:133 minutes, 13 secondsYeah, thank you very much Jenna. That's a really important point that you made at the end uh about the entity right so
+3:203 minutes, 20 secondsas we both know uh banking institutions here in the US have permissibility restrictions and so it's much different for example from being a broker dealer
+3:293 minutes, 29 secondswhere we also had uh recent regulatory announcements uh related to crypto custody or from being a a non-bank
+3:373 minutes, 37 secondsfinancial institution or having an OC charter uh which is another uh really exciting space with the recent grant of charters by the OC CC. So I I want to
+3:463 minutes, 46 secondsturn to Thomas now and talk about one of those exciting activities which is the work being done at DTCC.
+3:543 minutes, 54 secondsUm and Thomas I wanted to ask you about the operational and legal constraints that block institutions from moving from pilots to production for cash on ledger.
+4:054 minutes, 5 secondsSo thank you Sarah and it's really good to be here this Friday morning. Uh I'm Tom Sullivan. I lead product solutions for DTCC on the digital asset side. And
+4:134 minutes, 13 secondsso maybe I'll just as a as a as a preference and a prelude, you know, I'm not a lawyer. I sometimes play one on
+4:204 minutes, 20 secondsTV. Um, but you know, this whatever I say about, you know, in that range is not legal advice, but really just more
+4:274 minutes, 27 secondsfrom from experience. And so, and again, the background about DTCC, obviously, it's a, you know, it's it's a depository
+Chapter 3: Moving from Pilots to Production
+4:334 minutes, 33 secondsfor securities primarily. And about two years ago, we made an acquisition of a company called Currency. and Surrency has has been active in the tokeniz
+4:424 minutes, 42 secondstokenization space and we are you know trying to be at the forefront of of tokenization. We made an announcement recently uh based on a no action relief
+4:514 minutes, 51 secondsthat we've re received from the SEC again more focused on securities which will allow us to tokenize all of the assets potentially all of the assets
+4:584 minutes, 58 secondsthat we hold in custody and um that's 100 trillion worth of assets by the way.
+5:025 minutes, 2 secondsUm but in in terms of you know the the evolution of of projects from you know moving from you know from pilot to
+5:105 minutes, 10 secondsproduction there's definitely the you know the the regulatory constraints that we've all faced over the past half number of years much of that has gone
+5:185 minutes, 18 secondsaway you know or you know fall you know fallen back and yet there's still a lot to figure out there's still a lot to
+5:245 minutes, 24 secondsunderstand just in terms of you know for example how the SEC has has given you know particular guidance but there hasn't been uh legis legislation that's
+5:325 minutes, 32 secondspassed, you know, the Clarity Act hasn't passed yet on the on the security side.
+5:365 minutes, 36 secondsUm, but you know, with the Genius Act passing over the summer, we think, you know, and I think that there's, you know, real opportunity to move from,
+5:435 minutes, 43 secondsokay, well, here's a case where we, you know, control where I move an asset between me and Jen and we make sure it works and, you know, then put out a
+5:515 minutes, 51 secondspress release. We think those days are ending soon and, you know, we're expecting this stuff to start to scale.
+5:565 minutes, 56 secondsYou know, the another data point as far as that goes is, you know, um I was I had the privilege of serving on uh the
+6:046 minutes, 4 secondsdigital asset markets subcommittee for the global markets advisory committee to the CFTC. That's a mouthful. Um and a
+6:116 minutes, 11 secondsyear ago we made a recommendation to the commission which was finally endorsed by uh you know uh commissioner fam at the
+6:186 minutes, 18 secondsend of of end of last year and that was really the rapper doesn't matter and you can use token tokenized assets for
+6:256 minutes, 25 secondscollateral purposes in particular and one of the key use cases there was I would say stable coins and and uh and tokenized deposits. So that was a
+6:346 minutes, 34 secondsmouthful. I'll leave it there. So yeah that was great Tom. Thank you. And uh could I just ask you one follow-up question which is I thought it was really interesting in the announcement
+6:426 minutes, 42 secondsabout DTC the use of the block ledger technology and on the recording on blockchain. I was wondering if you could just comment on that really briefly.
+6:506 minutes, 50 secondsSo in you know in terms of how we're you know DTCC operates in in some ways you
+Chapter 4: Closed vs Open Systems on Blockchain
+6:586 minutes, 58 secondscan you can think of us as a as a DAO right we we are a member-based organization. We have a you know several hundred members that are you know part
+7:067 minutes, 6 secondsof our group. We're not a for-profit institution and you know we operate at the you know sort of for the benefit of our of our members and to make the markets you know work efficiently.
+7:187 minutes, 18 secondsWe've done that in a closed system for the past 50 plus years. Blockchain has will has and will enable us to operate
+7:267 minutes, 26 secondsin a more open way and that's how we're looking at it. So, you know, with the announcement that we made and the subsequent announcements where, you
+7:337 minutes, 33 secondsknow, the the first blockchain that was announced was was the Canon blockchain, we're expecting there to be many and we're open to, you know, not only, you
+7:427 minutes, 42 secondsknow, public uh permission chains rather, but also public and open chains and we can do that in a way where we we are creating governance and building
+7:507 minutes, 50 secondscontrols so that we maintain, you know, in a securities world, you know, we refer to this the term as possession or control and we you know, demonstrate
+7:597 minutes, 59 secondsthat possession or control and that was really critical to what the SEC, you know, wanted us to do. So, but you know, this is really the transition from closed systems to open systems.
+8:088 minutes, 8 secondsThat's great. Thank you so much, Tom.
+8:098 minutes, 9 secondsAnd if we have time, I'd love to get into that more because it is exciting to know that you're going to be on a number of different chains and the public versus private part of that is an
+8:188 minutes, 18 secondsimportant part of the conversation. So, Steve, I'm excited to turn to you now to talk about infrastructure. Um, and I'd
+8:258 minutes, 25 secondslove to get your perspective. What are the biggest engineering differences between supporting stable coins, CBDC's, and tokenized deposits on chain?
+8:358 minutes, 35 secondsYeah. Yeah. Great. Well, if [clears throat] you're not familiar with Kido, we're digital asset blockchain infrastructure company. Um, we're used
+8:438 minutes, 43 secondsquite broadly across the financial services space. Cash tokens uh are involved in any kind of a financial
+8:518 minutes, 51 secondstransaction. So, uh, we have seen quite a lot of varied kind of uses of the cash tokens. I love, by the way, DTCC
+9:009 minutescommenting on pilot to production. I don't know if there's an institution in the world pushing harder on on
+9:079 minutes, 7 secondsproduction uh than DTCC is. It's it's uh really cool to to see. Um, but yeah, just on on the different kind of cache
+Chapter 5: Stablecoins, CBDCs & Tokenized Deposits
+9:169 minutes, 16 secondstokens, I would say it's less from an engineering side, it's less about which one you use and what it says on the tin and it's more about the use case itself.
+9:269 minutes, 26 secondsUm, so you know, for the audience here, I'll put myself I'll assume I'm a bank.
+9:319 minutes, 31 secondsI put myself in a bank's shoes. Um, and you know, if you look at stable coins, you you basically have three plays,
+9:399 minutes, 39 secondsright? You can bank one of the stable coin players. It's a web two thing but you can make money quite quickly. You
+9:469 minutes, 46 secondscan second thing is you could sort of launch your own stable coin right which we've seen so gen and and others do in
+9:549 minutes, 54 secondsthe space. Uh or the third thing is you could use you know the existing stable coins and look for for different ways to incorporate that for for your end
+10:0310 minutes, 3 secondscustomers. So which door you go down is going to greatly influence kind of the the different engineering and work you
+10:1010 minutes, 10 secondscan do. If you switch the the lens to like say CDBC's for a second, you think about that kido has worked with over 20
+10:1910 minutes, 19 secondscentral banks, you know, around the world in various forms of CDC projects.
+Chapter 6: CBDC Use Case Evolution
+10:2410 minutes, 24 secondsAnd the evolution there I think that we've seen is, you know, a couple years ago the central banks would essentially set up a platform and say, "Hey, you
+10:3210 minutes, 32 secondscome bring your use cases. Let's sort of experiment." And that's rapidly evolved to focus, you know, more specifically, I
+10:4110 minutes, 41 secondsthink maybe a year ago, you would see a number of projects that were looking at how CDC's could interact with um say
+10:5010 minutes, 50 secondsdeposit tokens and you know form the settlement leg. So a lot of look into the settlement leg. How could this be
+10:5810 minutes, 58 secondsmore efficient than RTGS? Are there problems actually introduced around liquidity, liquidity savings and so forth? And now I think really where
+11:0611 minutes, 6 secondsCDBC's are up to is an even more focus uh a more narrow focus on very specific use cases like collateral management
+11:1511 minutes, 15 secondswhere in different jurisdictions uh central banks do have a role to play there in the pledging de pledging process. Uh so really honing in on
+11:2411 minutes, 24 secondsspecific use cases which I think is a better sign towards this pilot to production sort of evolution in the industry. And then lastly, I'll just
+11:3311 minutes, 33 secondsmention, you know, tokenized deposits, which was a third form of tokens, I think, is the most interesting and the most exciting from our customer set.
+11:4311 minutes, 43 secondsAnyway, I think every bank really is looking at at um you know, how how are
+11:5011 minutes, 50 secondsthey going to do this? how are they going to respond to potential capital flight from stable coins um and launch
+11:5711 minutes, 57 secondstheir own, you know, tokenized deposits in order to enable use cases. Again, there's sort of a practical mindset of
+12:0512 minutes, 5 secondswhat what are lowhanging fruit fruit sorts of use cases. Maybe it's my bank exists in these different jurisdictions and I have my own internal flows and I'll start sort of there and and grow.
+12:1612 minutes, 16 secondsBut lots lots of um you know I would say if you're a bank and you're not thinking about tokenized deposits you're probably
+12:2412 minutes, 24 secondsa bit behind where kind of the midpoint of of the market is at this point.
+12:2912 minutes, 29 secondsYeah. Thank you Steve. That's really really interesting. Can I ask you a follow-up question on that? And and for us banks, we're very interested in
+12:3612 minutes, 36 secondstokenized deposits. as you say, one of the things uh that folks talk about with tokenized deposits as compared to stable
+12:4312 minutes, 43 secondscoins is the challenges of lifting a liability off the balance sheet. And so I was wondering if you could just talk a little bit about some of the solutions there.
+12:5212 minutes, 52 secondsYeah, I I think I I could talk for longer about all the problems that that are there. I thought you solved all of them.
+12:5912 minutes, 59 seconds[laughter]
+13:0013 minutesWell, you know, tech with tech you could solve any problem. I think it's you know more getting regulatory clarity alignment sort of educating um in the
+13:1013 minutes, 10 secondsspace I you know I think that you know getting a sufficient level of privacy for example is um you know something
+13:1813 minutes, 18 secondsthat's that's very top of mind. I think you know who's who's actually is is it a bearer token or not? um you know some of
+13:2713 minutes, 27 secondsthe different forms of you know what actually the token instrument itself is is connected to you know the the
+13:3613 minutes, 36 secondsliability itself. Um, so I think where where we've where we're up to as an
+13:4213 minutes, 42 secondsindustry is, you know, an awareness of these sorts of issues, an awareness of
+13:5013 minutes, 50 secondshow technology could help. um and for the use cases that are moving now some protections kind of like a a walled
+13:5813 minutes, 58 secondsgarden around um some some of the known issues so that you know we can move forward and actually start to productionize uh solution.
+14:0714 minutes, 7 secondsThat's great. Thank you. Thank you so much. Well, I'm going to turn to you now, Henry. Uh I'm excited to talk to you uh about uh the incredible work that
+14:1614 minutes, 16 secondsyou're doing and and your perspective building an MAS licensed onchain exchange uh and where do stable coins,
+14:2514 minutes, 25 secondsCBDC's, and tokenized deposits fit best as settlement rails for tokenized real world assets. So I think there were five
+14:3314 minutes, 33 secondsor six questions in that one question, but uh I'm I'm looking forward to hearing your response. Yeah, I will answer these questions in in the time of
+14:4214 minutes, 42 secondsfor one question. So, [laughter] um so many excellent sharings. Uh good morning. I'm Henry. [clears throat] Uh I'm the founder and the CEO of DGFT.
+14:5114 minutes, 51 secondsI'm based in Singapore. Uh MS stands for monetary authority of Singapore, which is a regulated central bank and SEC and
+14:5914 minutes, 59 secondsall the others under one name [clears throat] MS. Um DGFT probably you didn't hear much about this name. Uh as
+15:0815 minutes, 8 secondsSarah mentioned we are licensed exchange for digital assets. Um the uniqueness is we are DEX where decentralized exchange.
+15:1915 minutes, 19 secondsUh we are the first one in the world get licensed as a decentralized exchange for security tokens including equities etc.
+15:2715 minutes, 27 secondsNow have another name called RWAS.
+15:3015 minutes, 30 secondsRight. Um why we do that? It's very related to stable coin. Uh what is DeFi? Defi it's
+Chapter 7: Money On-Chain & Tokenized Assets
+15:3815 minutes, 38 secondsa confusing name right? Uh I try to explain from different perspective rather than the technical details. Defi
+15:4615 minutes, 46 secondsa lot of people define as you have uh uh self-control self-custodian in your wallet and the defi is on uh public
+15:5615 minutes, 56 secondsarchitecture uh particularly is a called a public chain and a defi how the defi works is driven by smart contracts how
+16:0516 minutes, 5 secondsthe things can just like a next version of API is smart contract you can program it um these are the key features I would
+16:1216 minutes, 12 secondssay is defi that's a very different from the current financial industry which I have been working for more than 20 years
+16:1916 minutes, 19 secondsis very centralized architecture no matter JB Morgan HSBC standard charter and any others uh it's great to building
+16:2816 minutes, 28 secondsan architecture within your own platform uh within the platform just getting more and more efficient effective cost
+16:3616 minutes, 36 secondseffective etc but connection interaction with another platform basically zero
+16:4416 minutes, 44 secondseven the payment you have to go through the swift otherwise and the JP Morgan cannot talk to HSBC in Hong Kong in London or
+16:5316 minutes, 53 secondsconsumer side is through the credit card visa master network. Um then coming to the point is why I mentioned this D5
+17:0017 minutesDGFT we focus on that of course we bring the assets well for asset providers for the investors and for the builders uh
+17:0717 minutes, 7 secondsuse cases and asset providers we have a UBS weddington invesco DBS etc on our platform already although we are ma
+17:1517 minutes, 15 secondsmainly based in Asia but we have more non-Asian names working on with us uh then coming to the po point is stable
+17:2317 minutes, 23 secondscoin CBDC or tokenized deposits I would say there are different features but there are something in common. They are money on chain.
+17:3117 minutes, 31 secondsThere are money on chain and uh when I attended the tokcoin 2025 summit back to May of last year I listened to the
+17:4017 minutes, 40 secondsspeech of uh vice president JD Vance he at that time the genius bills is just going to be implemented not approved
+17:4917 minutes, 49 secondsyet. talking about that one thing actually surprised me he mentioned is a stablecoin is defi
+17:5617 minutes, 56 secondsstable coin is defi because US choosing stable coin some other jurisdiction choose like CBDC um he mentioned one thing is defi highlight the defi feature
+18:0518 minutes, 5 secondsof stable coin why is that he elaborated say this because people I mean the owner of stablecoin can choose the way to get
+18:1418 minutes, 14 secondsto store to use of the money on chain which is stablecoin with minimum or almost zero dependency on the
+18:2318 minutes, 23 secondsintermediary rate this self-control so this is another way to explain what is D5 right there's other definitions so in this regard is
+18:3118 minutes, 31 secondsmoney is become defi on chain then we look at how do you use money is to there's two major uses of money one is
+18:3918 minutes, 39 secondsto buy something another is to invest if buy something to B2C is payment if you want to invest you look at what kind of
+18:4718 minutes, 47 secondsassets either stock, TBUS, real estate, gold, whatever assets of value if you like. Then you ask the question is my
+18:5618 minutes, 56 secondsmoney is on chain why the asset is not on chain otherwise I cannot do token to token for fate all the benefits
+19:0419 minutes, 4 secondsefficiencies bring transparencies inherent to it then you have to convert the stable money token money into fiat
+19:1119 minutes, 11 secondsthen go to the current system which is less efficient so that's why why I say when once have the stable coin very very
+19:1819 minutes, 18 secondsimportant or CBDC or tokenized deposit it will fundamentally change two things one how to pay another how to earn or how to invest.
+19:2819 minutes, 28 secondsOf course, we're focusing on more on the how to invest part. Let me take a pause here.
+19:3219 minutes, 32 secondsYeah, thank you Henry. That was a really really clear explanation uh of what you do and and the interaction and the ecosystem. Can I just ask one follow-up
+19:4119 minutes, 41 secondsquestion? You mentioned there are variety of assets on your exchange from some of those financial institutions like UBS and Wellington. Are those are
+19:5019 minutes, 50 secondsthose tokenized cash type instruments or do you mean tokenized equities?
+19:5619 minutes, 56 secondsJust like Amazon start to selling books when it comes things online when we're moving assets on chain also start with
+20:0520 minutes, 5 secondsuh simple and plain vanilla assets which is like TBUS or money market fund. So UBS work with us the first this UBS
+20:1420 minutes, 14 secondsglobal initiative the first asset they choose is money market fund. So does Wellington. Invesco a little bit
+20:2120 minutes, 21 secondsdifferent. Invesco choose and high yield fund. They're very good at that. They provide daily liquidities. So excellent.
+20:2920 minutes, 29 secondsThen we work with DBS. It's quickly moved along the uh risk value chain. Uh we work with DBS uh development bank of
+20:3820 minutes, 38 secondsSingapore. Uh which is largest Southeast Asia bank. Very reputable name. They work with us is structure note. the
+20:4720 minutes, 47 secondsbanks markets investment bank very good at structure nodes so they first time they move the structure nodes on chain the underlying actually mapping to the
+20:5620 minutes, 56 secondsBTC performance so it's a convergence of web two web3 but without going too distracted by this web two web3
+21:0321 minutes, 3 secondsconvergence you see the different type of assets now DTCC hit the headline because you guys were looking at
+21:1121 minutes, 11 secondsequities right which is a huge asset class and someone also working on the vote, right? That's that's really interesting,
+21:1921 minutes, 19 secondsHenry. There's so much more there that we could explore. So, I wish we had more time, but we're going to get into it as much as we can. Jen, I'm going to come
+21:2621 minutes, 26 secondsback to you with another question about tokenized deposits, and we've talked about this just a little bit before this
+21:3321 minutes, 33 secondssession. Um, there are so many regulatory issues where we're still looking for clarity, and we talked about some of them already on this panel.
+21:4221 minutes, 42 secondsum what policy or supervision questions still need clearer answers before tokenized deposits can scale globally?
+21:5121 minutes, 51 secondsAnd I'll just reference we I think we also recently had an announcement from the LSCG, right, regarding tokenized deposits. So, um I'm I'm curious to hear
+21:5921 minutes, 59 secondswhat you think about that. I'm going to keep with the theme of the panels previous to ours and say I'm going to take a step back because that's
+22:0722 minutes, 7 secondsa very big question. And it depends on which jurisdiction you're operating in, which activities you're prioritizing, etc. But I think what we've all touched
+Chapter 8: Scaling & Regulatory Gaps
+22:1622 minutes, 16 secondson in some aspect is that there are various um assets that we want to work
+22:2222 minutes, 22 secondswith. It's not stable coin, crypto or CBDC. I think one of the questions we had talked about is what happens if a
+22:3022 minutes, 30 secondsCBDC is issued. Well, there is one. It's in China. Standard Chartered operates in China. um as one of our markets. Um so
+22:4022 minutes, 40 secondsthinking about the controls and the risk management around multiple types of tokenized assets across multiple types
+22:4822 minutes, 48 secondsof chains, not just public, private, but onchain and off-chain, which is a balance for banks, understatement. Um
+22:5822 minutes, 58 secondsand then what legal permissibility can [clears throat] knit those together when as standard chartered you're
+23:0523 minutes, 5 secondslooking at crossborder efficiency and speed as the use case with the largest
+23:1323 minutes, 13 secondsclient demand. So I think there's questions around credential treatment which could be a whole week of
+23:2123 minutes, 21 secondsdiscussions and panels that are still outstanding that we need to have in place to be able to scale globally. I
+23:2923 minutes, 29 secondsthink there are um questions about jurisdictional I I hear a lot harmony.
+23:3623 minutes, 36 secondsUm I don't know how I feel about the label of harmony, but I think it's some sort of uh crossjurisdiction agreement
+23:4523 minutes, 45 secondsand recognition of standards um and um
+23:5123 minutes, 51 secondsum of enforcement frameworks. So for example, when we're talking about moving money from country Tom to country gen,
+24:0124 minutes, 1 secondif you initiate that movement in country Tom and settle in country gen, who has the supervisory oversight and who has
+24:1024 minutes, 10 secondsthe enforcement oversight over that activity in the various legs of that stage? It's different with uh bank deposits potentially if that's moving
+24:1924 minutes, 19 secondswithin the bank perimeter from an infrastructure perspective. But that is also not clear that uh bank tokenized uh
+24:2924 minutes, 29 secondsdeposits are equivalent to bank deposits as they are legally defined today with all the protections that they have
+24:3724 minutes, 37 secondstoday. So that's another question. Um but for us I think again it really comes down to how do we take the activity that
+24:4624 minutes, 46 secondshas been um maybe siloed in the jurisdictions where there's legal permissibility and there's demand
+24:5424 minutes, 54 secondsand start to knit those together in a legally permissible way.
+24:5924 minutes, 59 secondsum with the risk frameworks in place that are manageable for the number of touch points in terms of types of assets
+25:0725 minutes, 7 secondsand number of chains that you might be integrating with. So it is a balance between stress of operations
+25:1625 minutes, 16 secondsand interoperability that needs to be employed um through regulatory clarity.
+25:2325 minutes, 23 secondsSo, that was a bit of a jumble of an answer, but I'm trying to knit together what I think we're each saying in individual ways with this. Um, you said rapper earlier.
+25:3225 minutes, 32 secondsIt's it's a good rapper. Yeah.
+25:3425 minutes, 34 secondsI love that I got my own country out of that answer. So, I'm looking forward to that. Hope hopefully it's an island somewhere warm.
+25:3925 minutes, 39 secondsYeah. Um, so we're almost out of time, so I'm going to challenge uh our three other panelists to 30 second answers and
+25:4725 minutes, 47 secondsthen we'll have a buffer in there. Uh, so Tom, if you had to pick one thing to standardize for broad adoption, what would it be?
+25:5825 minutes, 58 secondsKen gave the right answer. I think having having standards across jurisdictions, it doesn't have to be regulatory harmony. I think standards across jurisdictions is is is the way to go.
+Chapter 9: Standards, Scale & Regulation
+26:0626 minutes, 6 secondsYeah, great. That's great. Thank you so much, Steve. Um, what do institutions underestimate most about operating digital money in production?
+26:1726 minutes, 17 secondsYeah. Well, I'm I'm glad Tom got the choose one to choose choose wisely. Um well, yeah, underestimating the most um
+26:2626 minutes, 26 secondsget getting to production. You know, I I'll give the the tech lens side of it.
+26:3026 minutes, 30 secondsYou know, I I I think the the scale like the scale aspect of it is is really
+26:3726 minutes, 37 secondsunderestimated with the tech that because, you know, we're so targeted with what we pushed through to
+26:4526 minutes, 45 secondsproduction in the first case. you make a bunch of compromises on the tech to get there and then day two you realize oh
+26:5226 minutes, 52 secondsthere's no way to get to the actual volumes or scale that I need to get to.
+26:5626 minutes, 56 secondsI think as a industry we're sort of switching over to think more and more uh about these sort of day2 problems.
+27:0427 minutes, 4 secondsYeah, that's a really good point. Uh when we are we're challenged with speed to market at the same time as thinking
+27:1227 minutes, 12 secondslonger term and then dealing with an uncertain regulatory environment. Um, so Henry, what I I know I'm sorry we don't
+27:2027 minutes, 20 secondshave that much time. What regulatory and operational requirements have proven most critical to make digital money usable for institutions at scale?
+27:3027 minutes, 30 secondsUh, it's okay if you don't answer the whole question. [laughter] I would say the regulators stable coin CBDC tokenized deposit right it is
+27:3927 minutes, 39 secondsamazing in terms of look at in the whole this world all the major jurisdictions they all working on it. US, Japan, Hong Kong, Singapore, even China or CBDC.
+27:4927 minutes, 49 secondsChina choose a different way and Europe and the Middle East.
+27:5327 minutes, 53 secondsIt isn't telling us this is something big. No any major jurisdiction missing
+28:0228 minutes, 2 secondsworking on this one from the regulatory perspective. even Europe I I mention I definitely mentioned that um no one is missing very
+28:1128 minutes, 11 secondsconsistent approach and what to do is to support just how to do not say don't do it so that's something very big in the
+28:1928 minutes, 19 secondsfinancial industry I mean you can say coincidentally but I don't think it's coincidentally just a like a wise man thinking alike all the people think this
+28:2728 minutes, 27 secondsis the future and they're moving fast thank you Henry that's a great way for us to conclude the panel wise people think alike so I look forward ward to
+28:3528 minutes, 35 secondshearing more from all of you and uh thank you again to Halburn for a great event. Uh looking forward to talking with you all after the panel today.
+28:4328 minutes, 43 seconds[music]
+

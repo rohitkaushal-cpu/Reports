@@ -1,0 +1,1348 @@
+0:1111 seconds[Music]
+0:2626 secondshello everyone welcome to tokiz AWA boot camp my name is Andre I'm one of the
+0:3333 secondsdeveloper relations Engineers here at chaining clabs as as and as you already know feel free to drop in the chat where
+0:4141 secondsare you tuning from so or simple GMS so I can know that you can clearly hear me
+0:4848 secondsso yeah I see people tuning from France Poland Boston Paris Egypt Luxembourg wow
+0:5858 secondsArgentina uh what else what else South Africa Vietnam wow USA let's see
+1:071 minute, 7 secondsIndia uh Mars okay that was funny uh what else what else what else Pakistan
+1:171 minute, 17 secondswuela Nigeria Okay Belgium great we're tuning all turkey we're tuning from all
+1:241 minute, 24 secondsaround the globe Cameron Philippines Colombia Portugal wow I'm I'm really uh
+1:311 minute, 31 secondsreally impressed uh Indonesia Chile great I'm really impressed uh welcome
+1:391 minute, 39 secondseveryone uh so my name is Andre as I said I'm going to quickly drop the URL for the getbook for this boot camp as
+1:461 minute, 46 secondsyou already know or familiar with our previous work uh we store all the uh all the like learning material in these G
+1:551 minute, 55 secondsbooks that are publicly available on the internet so you can just follow along uh throughout the course so this is the URL
+2:032 minutes, 3 secondscl- d.g. tokenized dw- bootcamp
+2:112 minutes, 11 secondsd224 so um I'm going to quickly uh in a minute stop start sharing my screen and
+2:182 minutes, 18 secondswe're going to go step by step throughout the instructions in a gitbook and this is how we're going to roll um
+2:262 minutes, 26 secondsalso if you have any questions uh feel free to drop them in the chat uh I'll try to answer them uh live on stage
+2:352 minutes, 35 secondsor we have uh Richard got Leber my colleag another deler relations engineer from TR clab TR clabs in background who
+2:432 minutes, 43 secondsis also going to try answering uh your your questions while I'm
+2:502 minutes, 50 secondstalking uh okay cool let's let's share my screen actually and we can start
+3:003 minutesso we are going to share the entire window actually Okay cool so you should be able
+3:073 minutes, 7 secondsto see the first page of the tokenized rwa boot camp and in the setup instructions we said that you need to
+3:153 minutes, 15 secondshave metamask install or wallet of your choice GitHub profile because sometimes is needed as an authentication method
+3:233 minutes, 23 secondsfor our faucets to get testnet links or or and or uh testet e from ethereum
+3:303 minutes, 30 secondsspolia and to join our Discord well plans changed a bit sorry about this but if you go here you can see that gas
+3:383 minutes, 38 secondsprices on ethereum spolia has been have been like ridiculously high for the past
+3:453 minutes, 45 secondsweek as we can see it's all in red so unfortunately we will need we needed to switch the the test net and we decided
+3:543 minutes, 54 secondsto go with Avalanche Fuji because uh because sorry about as uh during the CCP boot camp we also used
+4:034 minutes, 3 secondsAvalanche Fuji as our source blockchain so we assume that you we had some some Fuji already but if you don't you can go
+4:124 minutes, 12 secondsto you can click on this link I have a type should be ax if I'll fix that but you can go to forces. chain. link
+4:204 minutes, 20 secondsconnect your wallet and you can see that already 25 link and 0.1 aax Fier selected and that should be enough for
+4:284 minutes, 28 secondsyou um to follow during the boot camp the nice thing about about this faucet is that you can
+4:364 minutes, 36 secondsswitch a wallet rece wallet rece wallet addresses or receivers so I can put my other wallet address here smart contract
+4:454 minutes, 45 secondswhatever here and if you have aex if I drip this then you can just get tokens
+4:524 minutes, 52 secondsbut links but for aex there is this GitHub authentication method so that's the reason why you need a GitHub profile
+4:594 minutes, 59 secondsbut I assume you already have have one as well uh this is a good question actually
+5:075 minutes, 7 secondscan I use any other chain as well yes you can use other test Nets um but I'm
+5:145 minutes, 14 secondsgoing to do it on Fuji so yeah technically yes or you can just simulate in a local environment if you
+5:215 minutes, 21 secondswant uh can someone share the gbook link well yeah it was right over here I'm
+5:285 minutes, 28 secondsgoing to bring it back Okay cool so this is our good book okay let's start so welcome to
+5:355 minutes, 35 secondstokenized rwa boot camp uh this is our uh this is our second intermediate boot
+5:425 minutes, 42 secondscamp in the past uh past period again as for the CCP boot camp there will be a certificate of compleation it looks like
+5:505 minutes, 50 secondsthis uh it will be required for you to complete some homework uh to get it uh it homework won't be that hard as for cc
+5:595 minutes, 59 secondspeople can don't worry uh basically the the one thing that you need to do is to just uh redeploy all of these three
+6:086 minutes, 8 secondsexercises and there'll be enough for homework so but enough of homework first of all let's go with the curriculum So
+6:166 minutes, 16 secondstoday we're going to talk about a bit about theory about real world assets about challenges um challenges with um
+6:266 minutes, 26 secondstokenizing different real world assets to different blockchains and how chain link can solve those issues and those
+6:326 minutes, 32 secondschallenges then we're going to uh have this exercise number one where we are going to create a cross chain mocked
+6:416 minutes, 41 secondsreal estate we're not going to tokenize the actual real estate where we are going to use zow API they have like a one of mock instance address is
+6:506 minutes, 50 secondsliterally in the middle of oceans or something so it's it's like a mock thing uh but we're going to tokenize that real
+6:586 minutes, 58 secondsestate and and we are going to make it cross chain and we are going to automate it we're going to see for various
+7:057 minutes, 5 secondsreasons why and then during day two we're going to use that tokenized real estate mock real estate and um Implement
+7:157 minutes, 15 secondsfar as different use cases using it so the first use case will be to create our wa lending um platform or protocol where
+7:247 minutes, 24 secondsyou can land a fraction of your uh of your real estate
+7:307 minutes, 30 secondsand get usdc in return and the Second Use case we're going to create an English auction where you can sell a
+7:387 minutes, 38 secondsfraction of your tokenized real estate tokens uh in a change for a native coin on Avalanche Fu Delby ax so these two
+7:467 minutes, 46 secondswill be our use cases for tomorrow uh but obviously you know these are just two use cases much much more can be
+7:547 minutes, 54 secondsbuilt once you have a tokenized real asset on chain and these two use case to actually inspire you what what more can
+8:028 minutes, 2 secondsyou build rather than uh like show you exactly how to build it because again we're going to have like a mock real estate not the actual one I didn't want
+8:118 minutes, 11 secondsit to organize my house for example and uh we're going to have guest lectures guest talks throughout the both days so
+8:188 minutes, 18 secondstoday today we're going to have a talk with limpia team and tomorrow we're going to have a talk with brick and Tim
+8:268 minutes, 26 secondsuh speaking of homework I will be just read deying these three exercises contracts from these three exercises and
+8:348 minutes, 34 secondsyou're going to just send us your addresses like your else to the block explorers and you know like from block
+8:428 minutes, 42 secondsExplorer we can see a bunch of transactions so we are going to basically go through transactions and
+8:498 minutes, 49 secondsthat's that's like a proof that you not just deploy the contract but actually perform the the exercise on train so that'll be that'll be needed for you to
+8:588 minutes, 58 secondsget this CER certificate of comption okay cool um before we start uh how you
+9:069 minutes, 6 secondscan be connected with us so you can subscribe to chaining developer newsletter I uh where you can uh receive
+9:139 minutes, 13 secondsemails about um any any future future boot camp that we that we might have and
+9:209 minutes, 20 secondsalso about any new updates uh for from the training ecosystem also you can follow you should follow training official YouTube channel because this
+9:289 minutes, 28 secondsvideo will be is currently live on demand but it'll be available as soon as
+9:359 minutes, 35 secondswe start recording it as a recording on Ching YouTube video on chaining YouTube channel so you can always rewatch it at
+9:429 minutes, 42 secondsyour own pace faster slower skip part skip this part if you're not interested in ETC and finally you should join us on
+9:509 minutes, 50 secondsDiscord because we have dedicated boot camp channel on on our Discord server where you can uh ask questions uh just
+9:589 minutes, 58 secondsdon't forget to tag me I'm Andre chains you'll see people already Tagg me bunch of so I don't miss uh that that
+10:0710 minutes, 7 secondsnotification and I'll make sure to answer you as soon as possible also we have a couple of new uh events regarding
+10:1510 minutes, 15 secondsuh regarding real world assets so on October 15th uh we have the webinar for solving problem for soling the data
+10:2410 minutes, 24 secondsproblem for tokiz Al and if you click on this URL you can register for it uh and
+10:3210 minutes, 32 secondsuh you can see uh we have speakers from the Network firm and chain link clabs so
+10:3910 minutes, 39 secondsdon't don't if you're interested in real world assets uh don't forget to sign up
+10:4610 minutes, 46 secondsfor this and this uh this this boot camp is going to be
+10:5310 minutes, 53 secondsmedium medium to advance uh but if you're a beginner or if this is too hard for you or this is
+11:0111 minutes, 1 secondyour level but you have a friend who wants also to to join the space uh in November late November from November 18
+11:0911 minutes, 9 secondsto 21st we are going to host another blockchain beginner boot camp so this is for beginners blockchain beginner
+11:1711 minutes, 17 secondscontent register here and you're going to learn Basics about Evan blockchains smart contracts and solidity uh
+11:2511 minutes, 25 secondsprogramming language all the prerequisites needed for this boot cam so if you're not
+11:3111 minutes, 31 secondssure uh you can always join this boot camp uh if this is your base then you can always recommend someone to join it
+11:4011 minutes, 40 secondsum because as I said this is going to be a medium to advance a boot camp and finally uh if you're just interested in
+11:4711 minutes, 47 secondsinperson events if you click on this URL you can find all the upcoming upcoming events hosted by Chain claps in person
+11:5511 minutes, 55 secondsand virtual uh language even like in different type of events so yeah you can
+12:0212 minutes, 2 secondsalways be up to date with where are you we are we and if we are in your town or in your country you can even uh come to
+12:1012 minutes, 10 secondsinperson event finally we have smarton as you already know smarton is approaching this is our developer conference on October
+12:2012 minutes, 20 secondsuh 30 and 31st so month from now uh this is a conference where Trad uh trfi and
+12:2712 minutes, 27 secondsdefi will meet together so don't forget to register either by clicking this URL or scanning this your code it's safe uh
+12:3512 minutes, 35 secondsand also U two days before the main event there will be a hacker house so you can click on this URL or this your
+12:4212 minutes, 42 secondsthis link to to register for for Hacker House uh which is uh which is um an event crafted specifically for
+12:5012 minutes, 50 secondsdevelopers as I said uh two days before the main thing uh smart con is going to be uh smart con is going to be uh really
+12:5812 minutes, 58 secondsinteresting this year and we can see some of the past smart con speakers pretty pretty uh important
+13:0613 minutes, 6 secondsname from the names from the from our tech industry Okay cool so finally about your instructors as I said Richard got Liber
+13:1513 minutes, 15 secondshis in the background answering your questions also Richard help with creating the content for for this boot camp you can follow him on the on
+13:2313 minutes, 23 secondsTwitter or x uh the U RG Dev is the is hise handle if you click here here well
+13:3013 minutes, 30 secondsthere he is I already follow him yeah yeah I follow him so follow follow Richard or you can also email him and
+13:3713 minutes, 37 secondsrichard. good Li smart.com for myself I'm andreev on Twitter this is my email address you can also follow me and uh
+13:4613 minutes, 46 secondsyou can also follow my uh where is that yeah my newsletter so I'm writing disting smart contract design patterns
+13:5413 minutes, 54 secondsis a newsletter about smart contract it's unsolid in general so you can just click on this URL And subscribe because I'm going to drop a new article pretty
+14:0214 minutes, 2 secondssoon about digital signatures and also about using the the chaining data feeds for
+14:1014 minutes, 10 secondsproduction ready apps we're going to cover most of that during this boot camp as well but if you want to have like a a
+14:1614 minutes, 16 secondsnice guide uh you should uh subscribe to uh smart Contra design patterns and that's it now we're starting let's see
+14:2514 minutes, 25 secondsif you have any any questions uh
+14:2914 minutes, 29 seconds[Music]
+14:3014 minutes, 30 secondsum oh this is a good one will we be able to add RW to music as a digital exit so for this boot cam we're going to
+14:3914 minutes, 39 secondstokenize Real Estate but that's definitely possible and I'm going to and I'm going to talk about it in a minute and as yes this video will be recorded
+14:4814 minutes, 48 secondsto watch later as soon as this live stream ends it'll be appear as a as a recording on on chain link YouTube channel so don't
+14:5614 minutes, 56 secondsworries uh okay cool so so what are real world assets so by definition real world
+15:0415 minutes, 4 secondsAssets in blockchain are digital tokens that represent physical and traditional Financial Financial assets such as currencies Commodities equities and
+15:1315 minutes, 13 secondsbonds but um they're really powerful because you can tokenize uh even more of these digital
+15:2315 minutes, 23 secondsGoods like real estate like your precious uh painting or any art or a
+15:3015 minutes, 30 secondswatch or a music as we said and earn royalty out of it and whatnot so as we
+15:3815 minutes, 38 secondscan see here the the physical assets that can be tokenized where is all from cash commodity equities whatever I said
+15:4815 minutes, 48 secondsto artwork and even intellectual property so you can tokenize your IPS and the tokenization of rwx RWS marks a
+15:5615 minutes, 56 secondssignificant shift in how these assets can be accessed in exchanged and manage because now uh we'll move them onchain
+16:0516 minutes, 5 secondsso you can trade them on a blockchain 24/7 without any restrictions and this unlock an array of new opportunities for
+16:1516 minutes, 15 secondsboth blockchain power Financial Service and wide variety of non-financial use cases as I said artwork for example
+16:2316 minutes, 23 secondsum the main benefits the three main benefits of tokenized assets are liquid transparency and accessibility so
+16:3216 minutes, 32 secondsbecause again by putting these assets on blockchains uh blockchain networks which can interact with each other so because
+16:4016 minutes, 40 secondsof CCP you can just tokenize your real world assets on asset on one chain and then using CCP you can move it uh
+16:4816 minutes, 48 secondsthroughout different chains from private chain to public chain and wi vice versa uh also because tokens are represented
+16:5716 minutes, 57 secondson chain there is natural transparency that goes with the blockchain technology itself and
+17:0517 minutes, 5 secondsaccessibility because you can trade from wherever you want whenever you want it's on chain is just a matter of submitting
+17:1217 minutes, 12 secondsa transaction there is no like thing as like oh our our trading platform works until Friday 5:00 p.m whatever so like
+17:2117 minutes, 21 secondsblockchain unlocks this for us um but important thing is okay real world assets are cool but how we can
+17:3017 minutes, 30 secondsbring them to chain in first place to do that there are five different steps and I'm going to go through each of these
+17:3817 minutes, 38 secondssteps uh from the perspective of our example of our mocked real real estate so first of all we need to select select
+17:4717 minutes, 47 secondsan asset the the real world asset that we want to tokenize as I said again cash bonds Commodities artor IP real estate
+17:5417 minutes, 54 secondsmusic whatever we're we're going to toize that mock real estate from Zillow API then you need to specify a token so
+18:0318 minutes, 3 secondsyou need to determine the type of token whether it's going to be non-fun or fible token or even V so there are
+18:1018 minutes, 10 secondsdifferent token standards in ethereum and eum chains ec20 stands for like the most basic nonf fungible uh token RC71
+18:1918 minutes, 19 secondsis a fungible token but for this uh and if you remember our Workshop from chain link block Magic hackathon we use RC71
+18:2718 minutes, 27 secondsbut for this boot camp we're going to actually use earc 1155 because this token standard allows
+18:3418 minutes, 34 secondsus to represent non fungible asset with the with certain amount of fungible tokens meaning that we can fractionalize
+18:4318 minutes, 43 secondsour real word assets I'm going to talk about that in in a minute then blockchain selection um doesn't really
+18:5018 minutes, 50 secondsmatter that much if you create your token to be cross chain powered by CCP which we're going to do that means that you're going to just issue your
+18:5918 minutes, 59 secondsuh your token on one blockchain and it can persist in that ecosystem but if you make it cross chain then you can just
+19:0719 minutes, 7 secondssend it to all other CCP power blockchains transfer between non evm to evm blockchains between private and public trains and what not so you know
+19:1519 minutes, 15 secondslike you at that point you don't really care about the blockchain because you can you can swiftly move it between
+19:2319 minutes, 23 secondschains oping connection that's one of the most crucial parts so so most tokenized asset assets require high
+19:3119 minutes, 31 secondsquality offchain data uh and chaining as a is the only platform the only blockchain Services platform that can
+19:3919 minutes, 39 secondsprovide you both data computation and cross chain stuff so with chaining profer feeds or chaining functions you
+19:4719 minutes, 47 secondscan you can grab all of these data and uh we today we're going to use training functions to get the various different
+19:5619 minutes, 56 secondsdata about our real estate like number beds years built and whatnot and we are going also going to use chaining
+20:0320 minutes, 3 secondsfunctions to get the details about the asset price uh in the real world and using some math formula we're going to
+20:1120 minutes, 11 secondscalculate it onchain but that's for day tune and finally issurance um you need to deploy these contracts you need to
+20:1920 minutes, 19 secondsMin them and making them available for usage so this fifth step is out of the scope for this boot camp because it's
+20:2720 minutes, 27 secondsnot a technical problem it's more like a different type of problem like you need
+20:3320 minutes, 33 secondsto be able to prove that Alice owns this real estate in real world and what happens if Alice wallet got hacked like
+20:4220 minutes, 42 secondswill she will she like lose if she lose the the the tokens that represent her
+20:4920 minutes, 49 secondsreal board asset and whatnot so for the sake of this Bo Camp we're going to just create another smart contract is sure and through that smart contract we're
+20:5720 minutes, 57 secondsjust going to Mint that mocked real estate to Alice address and we're going to leave it as is for now but more about
+21:0421 minutes, 4 secondsthis fifth step you can read in a chain link blog post so again this is out of the scope a bit out of scope for this
+21:1121 minutes, 11 secondsboot camp now types of tokenized assets well there are different types of tokenized assets and you might think
+21:1821 minutes, 18 secondsthat yeah this is a great technology this is a great idea that can unlock bunch of use cases but you know like
+21:2621 minutes, 26 secondsthere are no uh there are not real world assets currently on chain and if you think that you'll be wrong because there are currently real world asset projects
+21:3521 minutes, 35 secondson chain and I bet you interacted with one of them at least but before we start with that we first like there are three
+21:4421 minutes, 44 secondsdifferent uh types of uh so you need to be so depends on asset location collateral location and backing types it
+21:5221 minutes, 52 secondscan be onchain or offchain assets can be onchain or offchain collateral and it can be direct backing or interact backing AKA you have like a
+22:0122 minutes, 1 secondsynthetic version of that real world asset and if I scroll down a bit you can see that there are different uh
+22:0822 minutes, 8 secondsdifferent uh real Assets in uh in uh in production already so for example rap it
+22:1522 minutes, 15 secondswe I assume you interacted with it at least if you paid for CCP fees in native to in Native coin you interacted with
+22:2222 minutes, 22 secondsraped so that's onchain asset onchain collateral direct backing so you have e there is a smart contract you locked it
+22:3022 minutes, 30 secondsin that smart contract so onchain asset onchain collateral and then the smart contract will mean you the exact name of
+22:3822 minutes, 38 secondsexact amount of WRA e token so that's like direct backing one to one then there is rra Bitcoin onchain asset but
+22:4622 minutes, 46 secondsonchain collateral but interactive banking synthetic accet because that collateral is on a Bitcoin blockchain
+22:5322 minutes, 53 secondsbut we move it as a synthetic asset to ethereum blockchain so it's a wrapped uh Bitcoin um example of onchain asset op
+23:0223 minutes, 2 secondscollateral and direct backing will be a rat BTC ETF example of onchain asset offchain collateral and synthetic version will be red BTC ETF that
+23:1123 minutes, 11 secondsrepresent an eth ETF for example um example hypo hypothetical example of offchain asset onch collateral and
+23:1923 minutes, 19 secondsdirect backing will be a stable coin backed by other stable coins and if we talk about stable coins example of
+23:2723 minutes, 27 secondsoffchain asset on collateral and synthetic asset will be backing will be die um offin asset offin collateral they
+23:3623 minutes, 36 secondsright back in usdc the stable coin we're going to use for this exercise for ex number one yeah
+23:4323 minutes, 43 secondsfor ex number two sorry so tomorrow and finally op option collateral and indirect backing like synthetic version is USD better so you can see that real
+23:5223 minutes, 52 secondsworld assets are already in production and probably you interacted with at least one of these our goal for today is to go beyond
+24:0124 minutes, 1 secondtokens like non fungible tokens to tokenize something fungible which is a real
+24:0724 minutes, 7 secondsestate so uh how tokenization works and what tokenization is so definitely with the potential we
+24:1624 minutes, 16 secondshave with tokenization tokenization is one of the most ambitious blockchain use cases and can unlock a lot of other use
+24:2424 minutes, 24 secondscases if done right um so let's let's move here so tokenization
+24:3224 minutes, 32 secondsin its assets Pro involves creating a digital represent representation of an asset real world assets like we
+24:4024 minutes, 40 secondsmentioned artwork you can tokenize your I don't know coffee shop if you own it or a house or whatever and then um use
+24:4924 minutes, 49 secondsit maybe as a collateral to get a defile loan or whatever on chain uh three main
+24:5624 minutes, 56 secondsbenefits as we said is like it allows you for real real time settlement like 247 trading because everything's on
+25:0325 minutes, 3 secondschain you just you can just use it uh there is a liquidity there's obviously reduced cost because tokenization
+25:1225 minutes, 12 secondssignificantly lowers operational costs in terms of in financial markets by streamlining the process and Elimina eliminating the need for multiple
+25:2125 minutes, 21 secondsintermediat because everything has happen on chain blockchain as a technology and cryptography uh is uh is is enough to to
+25:3025 minutes, 30 secondsto to do uh to unlock a bunch of different use cases on chain and uh tokenization broaden types the
+25:3825 minutes, 38 secondsassets of available to investors enabling them to participate in asset classes that were previously inaccessible or challenging to enter AKA
+25:4625 minutes, 46 secondsyou can now trade and enter this field from wherever you are it's much easier and of course it comes with enhanced transparency because of the Native of a
+25:5625 minutes, 56 secondsblockchain uh trans blockchain technology itself and as an examples we cover mostly stable coins but can be dabed real estate we're going to do
+26:0426 minutes, 4 secondsCommodities artwork music as someone mentioned so this is you can read about music and finally
+26:1326 minutes, 13 secondsgaming so how to tokenize the asset this I think this this uh image sums it uh
+26:2126 minutes, 21 secondssums it good so on the left side of the image there are like real world assets in the actual world and then once you
+26:3026 minutes, 30 secondstokenize it you can use it in defi or like you can use it in defi use cases uh
+26:3726 minutes, 37 secondsyou know like that owning a real world asset token can prove that you have uh
+26:4426 minutes, 44 secondsenough uh enough leverage to get a loan for example or stuff like that and
+26:5126 minutes, 51 secondstokenized uh real world assets are like verified by can be verified by chaining proof of Reserve so you know like using
+26:5926 minutes, 59 secondschaining proof Reserve you can get the price of that real world assets instead of like calculating it using the using
+27:0627 minutes, 6 secondsthe math formula which we're going to do for this fo cam because again we're mocking tokenizing the mock real estate
+27:1427 minutes, 14 secondsthere is no really a training proofer Reserve feed for a mock Zillow API but you know like projects that have proof
+27:2327 minutes, 23 secondsof Reserve feeds already in production in chaining uh ecosystem are like uh TD phone token
+27:3227 minutes, 32 secondsum platform like open and cash gold and Bridge Tower Capital all of these you can just if you click on this URLs or
+27:3927 minutes, 39 secondsyou go to the training proof of Reser feeds on documentation you can see all these different proofer feeds that again
+27:4727 minutes, 47 secondsyou don't need to tokenize them you you can just use them for your us case you can create a use case for Lending and
+27:5327 minutes, 53 secondsborrowing for example um uh once we uh this is pretty much um a way how you can
+28:0128 minutes, 1 secondcreate proofers or feed uh by selecting asset to tokenize Define token type we're going to use again
+28:0828 minutes, 8 seconds1155 once we choose a blockchain where we're going to deploy it you need to select third party auditor to verify op
+28:1528 minutes, 15 secondsasset and after that point uh you can uh have a chain and proof Reser feed and you can just use it in your uh use case
+28:2328 minutes, 23 secondsso again this is a bit beyond this boot cam because we cannot have like a feed for mock real estate but this is how you
+28:3028 minutes, 30 secondswill do it in practice and J club team is definitely here to help you but before that there are three
+28:3928 minutes, 39 secondsrequirements of tokenize real world assets so we you need to have so to have like fully of real world
+28:4928 minutes, 49 secondsasset that real world assets need to be enriched with real world information uh be securely transferred to cross chain and connected to offchain data
+28:5728 minutes, 57 secondsregardless of which chain they're moved to that means that first of all real world information in our example for
+29:0429 minutes, 4 secondsReal Estate you know like prices uh tax assess value number of bedrooms images um year
+29:1329 minutes, 13 secondsbuild I don't know like year of first Soul year of second Soul whatever like a lot of real world real world data that
+29:2129 minutes, 21 secondswe can consume using Ching functions then it needs to be blockchain agnostic so you know like if you're on chain a
+29:2929 minutes, 29 secondsand you want to trade with someone on private chain B you can't without ccip because you need a secure way to connect
+29:3729 minutes, 37 secondsbetween the these two chains so your tokenized asset needs to be supported with CCP and then the rest is pretty
+29:4429 minutes, 44 secondspretty easy and self explainable and connect offchain data regardless of which chain they're moved to so that
+29:5129 minutes, 51 secondsmeans that if you need to update token metadata again chain link needs to be hasn't done that chain to provide you uh
+30:0030 minutesoffchain data and chaining as a platform is there so uh so you can see here that how how
+30:0830 minutes, 8 secondschain Ling can help you with a step number one with providing the real world data so first of all with proof of Reserve feeds which we talked about it
+30:1730 minutes, 17 secondsuh during the previous couple of minutes then with identity so if you need uh um
+30:2430 minutes, 24 secondsidentity data of of like of parties or asset owners then there is a a service
+30:3230 minutes, 32 secondscalled Deco so Deco is the service by chaining clabs which is basically a privacy preserving Oracle protocol that
+30:4030 minutes, 40 secondsutilize in development that utilize zero knowledge Z proofs and Zer technology
+30:4830 minutes, 48 secondsuh not not live in production yet uh but there there are some tests ongoing and
+30:5630 minutes, 56 secondsyou should hear about deco a lot in the upcoming period but essentially it because of the usage of
+31:0331 minutes, 3 secondsZK technology it allows you to to to uh to to prove identity of
+31:1031 minutes, 10 secondscounterparties and asset owners on chain then data streams and data feeds um different time types of data that can be
+31:1831 minutes, 18 secondsuh provided to you either by push or pull Oracle mechanism and finally functions which allows you basically to
+31:2531 minutes, 25 secondsconnect to offchain data uh using using at the moment JavaScript as a language
+31:3231 minutes, 32 secondsbut they'll be expanded to more languages of course in the future and you can create push request get request
+31:4031 minutes, 40 secondsuh get requests calculate all the different different compination and and whatnot so we'll see that uh in a
+31:4731 minutes, 47 secondsminute uh finally uh not finally but as a step number two once you have all of this all of this data and you have a
+31:5531 minutes, 55 secondstokenized asset it's um it's really important to be uh to be a crushing token because as I said like you want to
+32:0232 minutes, 2 secondsbe on a chain where the trades are happening or you want to be on a chain where this use case a or Z is is enabled
+32:1032 minutes, 10 secondslike Landing protocol for example so with CCP you can easily move your token uh your tokenized asset there and
+32:1932 minutes, 19 secondsfinally you need to keep that use your tokenized assets updated so as they move you we are crossing to different chains
+32:2832 minutes, 28 secondsor as they're like different update in a ro you need to you need to keep them updated and with the training platform
+32:3632 minutes, 36 secondsyou can do that because again there is ccip to move chains there is functions to update the metadata by consuming the real world data uh there are different
+32:4532 minutes, 45 secondstypes of feeds Prof Reserve feeds data feeds data streams which you can consume the various type of data um specifically
+32:5332 minutes, 53 secondsprices of that token on chain for various different types of uh of uh of Assets in in real time
+33:0233 minutes, 2 secondsso that's something called maintaining the golden record because like as you move the real bar assets it it's
+33:1033 minutes, 10 secondsconstantly updated and uh constantly up and running and uh live 247 so like I
+33:2033 minutes, 20 secondsdon't know if you remember like final PR in 2008 in gree where people were like not able to um um
+33:2833 minutes, 28 secondswithdraw their funds from Banks like that's not possible on the blockchain
+33:3433 minutes, 34 secondsworld essentially so the only platform that has all of these features is chain
+33:4133 minutes, 41 secondslink chain link can give you data can give you computation and can give you cross chain and using chin platform you
+33:4933 minutes, 49 secondscan toonize whatever you want and identity with that code so yeah this is this is what chaining platform is all
+33:5733 minutes, 57 secondsabout out and now we're going to get our hands dirty because we are going to
+34:0434 minutes, 4 secondsstart building our example okay cool sorry about
+34:1334 minutes, 13 secondsthis for this work we're going to create tokens that enable the tokenization of a
+34:1934 minutes, 19 secondsmo real estate and for token standard we chose ERC 1155 why because here with
+34:2934 minutes, 29 secondsec155 for each ID there is non fungible part so by calling URI function of
+34:3734 minutes, 37 secondsparticular ID you can grab all the metadata about uh an asset um in our case that'll be image real estate
+34:4634 minutes, 46 secondsaddress year build lot size square feet number of bedrooms and all that stuff but also for each ID you have like the
+34:5334 minutes, 53 secondsfunctional part fungible part so for example for our real estate we can mint
+34:5934 minutes, 59 seconds20 of uh 20 fible tokens and like basically you have like 20 tokens for
+35:0635 minutes, 6 secondsthe same token ID for a same same fible asset and that means that um like those 20 tokens represent 100% of ownership of
+35:1535 minutes, 15 secondsthat asset and it's immediately fractionalized for example with RC71 standard you have like one ID one token
+35:2235 minutes, 22 secondsID one non-fungible asset and you need to transfer the whole thing uh to a different address or a smart contract or
+35:2935 minutes, 29 secondswhatever but here with earc 1155 you can have a fractions you can also have like one table token and that's like one
+35:3635 minutes, 36 secondstoken for one non-fungible asset like pretty much the same thing but if you meant more that means that you can you
+35:4335 minutes, 43 secondsyou already fractionalize it to in our case 20 different pieces what that means is that if Alice
+35:5235 minutes, 52 secondssent five of these fractionalized tokens here 55 tokens with ID or whatever to
+35:5935 minutes, 59 secondsBob that means that Bob now owns 25% of this non-fungible asset like this real estate asset so you're not
+36:0836 minutes, 8 secondstransferring how say you're not transferring the nftd part although there is an nft part you're just transferring the actual uh fungible
+36:1636 minutes, 16 secondstokens I hope that makes sense if it does not a155 is like really powerful standard is been in a space in a while
+36:2336 minutes, 23 secondsso you can always go to you can just Google it go to DAP and read more about it uh and reason reasons why we chose it
+36:3236 minutes, 32 secondsas our standard for this exercise uh for a blockchain selection we're going to deploy to and Fuji the original plan was
+36:3936 minutes, 39 secondsfor ethereum spolia but again because of this we we switched to Avalanche Fuji but it'll be CCP enabled so we'll be
+36:4736 minutes, 47 secondsable to transfer it toolio polyon ammo to whatever blockchain connected to our test net so it should be pretty fun and
+36:5536 minutes, 55 secondsfor offing connector connection we're going to use Z API specifically they mocked API uh the reason for that is
+37:0237 minutes, 2 secondswell you can use it for free and um it's a mock real estate so it's a less of a friction points for you to set up and just use it and we're also going to use
+37:1137 minutes, 11 secondschaining Automation and we are going to use chaining automation to get the details about price of this uh real
+37:2037 minutes, 20 secondsworld assets daily on a daily basis so we're going to constantly call the functions to get new price data and uh
+37:2737 minutes, 27 secondsto update them uh each single day but more on that later okay um exercise number one yeah
+37:3737 minutes, 37 secondsso for your homework your uh for your first homework your your task will be to just do this
+37:4537 minutes, 45 secondsexercise by your by yourself we'll also have like exercise time hopefully today as well so you can just do it here while
+37:5337 minutes, 53 secondswatching the while watching the recording but but also there will be a form to uh to uh to send the address of
+38:0038 minutesyour smart contract to actually smart contracts needed for this exercise and basically we are going to just try the transactions to see that you created a
+38:0838 minutes, 8 secondsfunctions request that you created a function subcription first then make function request then make U uh make
+38:1638 minutes, 16 secondsanother function request for prices uh then issue the nft and all that stuff so just deploying smart contracts will not be enough you you'll need to do the
+38:2438 minutes, 24 secondswhole exercise but I'll walk you through it right now okay so first of all we're going to call the zow API and if you're not familiar
+38:3138 minutes, 31 secondswhat this API is you can always refer to Z documentation or what Zillow is but essentially if you click this URL here
+38:4038 minutes, 40 secondsthis is the this is the the API that we are going to use uh this is going to be a free one so that's why you don't you I mean you have like you'll need access
+38:4838 minutes, 48 secondstoken but it's a mock one uh but using this API for example you can see what else they offer and maybe think about it
+38:5638 minutes, 56 secondsfor your us case then we're going to populate with this nft metadata well property address year
+39:0339 minutes, 3 secondsbuild lot size leaving area number of bedrooms Etc and we're going to also calculate the ipfs CID hash of this
+39:1239 minutes, 12 secondsasset uh this is powerful because uh with training functions when you create a request actually let's let's walk you
+39:1939 minutes, 19 secondsthrough the code so if you click on this URL it will open the training functions playground with this code code so I'm
+39:2839 minutes, 28 secondsjust going to go here and you can see it's exactly the same code so I'm going to just expand this a bit so you can see
+39:3639 minutes, 36 secondssee the the full screen so what we're going to do here is we are going to make an API uh HTTP get request to the zero
+39:4439 minutes, 44 secondsAPI with this access token you saw on the previous screen and get the mock data of this property we are going to uh
+39:5339 minutes, 53 secondsgrab from the API response from the data pill API response um real estate address um the year build and conver to number
+40:0140 minutes, 1 secondlot size square feet leaving area and bedrooms total so we we care about these uh these uh properties but if you click
+40:1040 minutes, 10 secondshere which I'm going to do and hopefully you're going to see let's like
+40:1740 minutes, 17 secondsthis uh sorry about this if I copy this URL uh copy
+40:2540 minutes, 25 secondsand go here oh it open here you can see here that this smok API gives you a lot of more data so you can just uh you can
+40:3440 minutes, 34 secondsjust play with it and you know like get images get I don't know like a lot of different uh different data if there is
+40:4240 minutes, 42 secondsfor some there is like null because there is no park or whatever uh uh but we are interested in these
+40:5140 minutes, 51 secondsfive properties after that we're going to form that in a form of metadata uh metadata you know like following the
+40:5940 minutes, 59 secondserc721 standard because ERC 1155 uh inherits RC 721 and you know that uh
+41:0741 minutes, 7 secondsmetadata is like have like a certain format so any nft Marketplace or any
+41:1341 minutes, 13 secondsdaap can use it uh efficiently so these metadata will be the name and attributes
+41:2041 minutes, 20 secondsand again we are going to as I said we're going to calculate the ipfs CID hash uh uh it's really powerful because
+41:3041 minutes, 30 secondsno matter what the metadata is if the metadata like and is the same the hash will always be the same because of the
+41:3741 minutes, 37 secondsipfs CID algorithm that means that why why we're doing this when you call make a functions request imagine
+41:4641 minutes, 46 secondsthat you have like four nodes in a dawn each of these nodes will execute your JavaScript request in your JavaScript code this JavaScript code in their own
+41:5641 minutes, 56 secondsisolated ser environment and then we'll return the end result and then based on
+42:0242 minutes, 2 secondsthat end result uh the the it'll be the based on that end result the consensus
+42:1042 minutes, 10 secondswill be reached and it'll be either response or an error will be returned to the calling smart contract so by doing this we're just going to calculate the
+42:1942 minutes, 19 secondsipfs hash and we're going to return that ipfs cash but for production red use case you you want to have like a certain
+42:2642 minutes, 26 secondsbackend will update this metadata to ipfs Hash while we're doing this offchain and not onchain you you saw our
+42:3342 minutes, 33 secondsexamples with VF Raffles or whatnot where we calculate this metadata on chain and store them on chain well the reason is that because if we want to
+42:4242 minutes, 42 secondshave Rich uh Rich pallet of of information in metadata that's kind of expensive to be transferred on chain
+42:5042 minutes, 50 secondsbecause the call data will be will be big and each uh each zero byte in call data cost four yes each non zero byte in
+42:5942 minutes, 59 secondsC data cost 16 yes so at some point you're going to reach the the the upper limit and because of that we are just
+43:0643 minutes, 6 secondsgoing to Outsource that to oping communication we're going to calculate the ipfs we're going to probably have like our own our own uh back end to
+43:1443 minutes, 14 secondspublish the ipfs we can also publish it from here like like that's that's not problem and
+43:2243 minutes, 22 secondsuh we're just going to store that ipfs hash as a metadata URI on chain instead of like the whole metadata part okay
+43:3043 minutes, 30 secondscool uh if I just try to run this code we should uh see the output and the
+43:3943 minutes, 39 secondscons loog here and because I'm returning the string we can see that this string
+43:4443 minutes, 44 secondswill be returned uh to to chain uh will there be a possibility of hash colal for
+43:5243 minutes, 52 secondsipfs hash uh no that's because we're using ipfs has that's a great question but yeah that's how ipfs work basically
+44:0044 minutesand that's I think probably the most common place where people store their nonf fungible tokens metadata uh so yeah that's that's that's
+44:0944 minutes, 9 secondsit so we are going to use this JavaScript code for the tokenized part
+44:1744 minutes, 17 secondsof the token where we're going to grab all this metadata details and also we are going to use this other JavaScript code uh for pricing information and if
+44:2644 minutes, 26 secondsyou click on this URL again you'll open now this page and uh this code will be
+44:3344 minutes, 33 secondscalled daily so we're going to set up chaining automation to call this function to call this code to make function request with this code on a
+44:4144 minutes, 41 secondsdaily basis so each day we want to get from the same API the list price the original list
+44:5044 minutes, 50 secondsprice and taex assess value so this list price is going to be always the same like this is a con constant this is the
+44:5844 minutes, 58 secondsfirst price of an asset list price is if the owner in real world changed the price of the asset or whatever like
+45:0445 minutes, 4 secondsupdate API this one will be used and tax assess value is actually provided on a yearly basis by
+45:1245 minutes, 12 secondsby a third party so by combining these three assets and some other stuff like we'll see these are just the variables
+45:2045 minutes, 20 secondsin our math formula this is how we're going to calculate the valuation in our rwl lending uh ex example like this is
+45:2745 minutes, 27 secondsjust an example like in reality in production you'll just use proofer feeds uh from chaining instead of calculating
+45:3545 minutes, 35 secondslike this but again this is a mo value so this is like a this is why we this is a workaround basically so we can make
+45:4345 minutes, 43 secondsour our example functional but for R Landing we'll see you're just going to use proof Reserve feeds
+45:5145 minutes, 51 secondsand finally we are going to store um um the these two JavaScript codes in this
+45:5845 minutes, 58 secondsabstract con like contract function source and this is the first contract that we are going to create so now we're going to move to remix you can also use
+46:0746 minutes, 7 secondsyou can also build this in harat or Foundry but for the purpose of this exercise I'm going to use a remix so if
+46:1446 minutes, 14 secondsyou go to remix.ogg I already have uh one instance open what you're going to do is you're going to create a new uh
+46:2446 minutes, 24 secondsworkspace so uh this is a basic one so instead of that I'm going to create a new workspace and I'm going to actually
+46:3146 minutes, 31 secondsselect uh blank project so I don't care about um scripts or any predefined contracts I'm going to start with the
+46:3946 minutes, 39 secondsblank project and I'm going to name it to caned rwa boot camp 2024 for and I'm
+46:4846 minutes, 48 secondsgoing to hit okay so here I have an empty uh an empty project and if I go back we need to create a functions
+46:5746 minutes, 57 secondssource. smart contract which I'm going to do now so function
+47:0447 minutes, 4 secondssource. uh copy the content of this code paste here again be really careful generally want to type this uh and I'm
+47:1347 minutes, 13 secondsgoing to save it so we can see here that this is just uh a JavaScript code we we saw in stored as a string variable this
+47:2147 minutes, 21 secondsis my preferred method of working with functions we can also provide uh this code as a function argument when calling
+47:3047 minutes, 30 secondsthe uh the when making the functions request and we can see just be be careful about quotes and double quotes
+47:3947 minutes, 39 secondsand essentially if you scroll down a bit here these are the the rules you need to you need to follow it's pretty simple
+47:4747 minutes, 47 secondsbut uh just uh be be meaningful that when you're creating your own examples so yeah that's that's it now let's
+47:5647 minutes, 56 secondscreate our c155 token so for our tokenized asset we chose this uh this
+48:0248 minutes, 2 secondsstandard and this is the architecture of our example so what we're going to do is we're going to create this real estate
+48:0948 minutes, 9 secondstoken here and we are going to interact with this real estate token here and this is the Smart contract that you need
+48:1848 minutes, 18 secondsto deploy and senders our address and whatnot this smart contract actually uh is just inherits bunch of
+48:2648 minutes, 26 secondsother smart contract so there is no the actual code in it we'll see it in a bit but first of all we're going to create Inc 1155 core. smart contract which in
+48:3448 minutes, 34 secondscars opens up L implementation this is the core smart contract and here we're just going to we're just going to create
+48:4348 minutes, 43 secondsuh develop mint and burn functions uh because we want to have those features in our token second we're
+48:5148 minutes, 51 secondsgoing to create cross chain burn and MEC 1155 which will use CCAP this this one inherits actually ERC 1155 core and just
+49:0149 minutes, 1 secondadds on top of it a logic for crossing transfers using burn and Min mechanism you can also use lock and unlock or uh
+49:0949 minutes, 9 secondslock Min and burn unlock if you want but for the purpose of this exercise I chose burn and me so that means that CCAP will
+49:1749 minutes, 17 secondsburn your representation token on one train and me exact same representation on other chain and finally we're going
+49:2449 minutes, 24 secondsto create real estate price price details smart contract which will have a function call to get the price details
+49:3349 minutes, 33 secondsuh so that function call will be triggered by changing automation uh and as I said that's like
+49:4049 minutes, 40 secondsfor step number five for issuance uh we're just going to use this is.so smar contract which will have the admin
+49:4849 minutes, 48 secondsprivileges to Mint this real estate token to Alice using the data collected from the Z API and when you have one
+49:5749 minutes, 57 secondssmart contract creating copies like interacting with other smart contract like this this is essentially called the factory pattern and it's not something
+50:0550 minutes, 5 secondsthat came with the blockchain this like really old pattern and really standard pattern generally in uh in um uh in
+50:1350 minutes, 13 secondssoftware development so I encourage you to to Google it and check it out if you haven't but you probably learn about it at least in University so it's like a
+50:2250 minutes, 22 secondspretty standard stuff nothing too fancy I I'm going to come back multiple times this image so first of all we're
+50:3150 minutes, 31 secondsgoing to create this core ERC 1155 core again I'm going to create a smart contract I'm going to copy content from
+50:3850 minutes, 38 secondshere and then we're going to analyze the code so uh in a root of directory earc
+50:4650 minutes, 46 seconds1155 core uh core. Sol let me see if I can zoom I can zoom this a bit this
+50:5550 minutes, 55 secondsshould be fine we'll see if you don't see uh clear enough please let me know in the
+51:0151 minutes, 1 secondchat okay cool so first of all we have an error here because I need to compile
+51:0951 minutes, 9 secondsthis smart contract with uh uh 0.824 24 version of Sol compiler so that's what I'm going to do now and also
+51:1851 minutes, 18 secondsI'm going to hit Advanced configurations so I want to enable optimization so make sure to enable Optimizer with 200 runs
+51:2751 minutes, 27 secondsover here and for evm version select Paris okay so I'm going to stop here
+51:3651 minutes, 36 secondsagain Optimizer with 200 runs and Evan version set to Paris because this is going to be a cross chain contract so
+51:4451 minutes, 44 secondsParis is uh that hard work like is standard across all the other EDM chains uh some for example aage fi does not
+51:5351 minutes, 53 secondsdoes not have like Po zero up code or and copy which if you compile your contract with the latest Lo version can be present in a bite code so it's not
+52:0052 minutesDeployable Etc so again Paris and two optimized now this is pretty standard
+52:1052 minutes, 10 secondsearc 1155 contract like if you want to just create a re C 1155 smart contract using open zample in it'll probably look
+52:1852 minutes, 18 secondssimilar to this one so um this is how you basically going to
+52:2652 minutes, 26 secondsstart and do it with open Z then you'll probably create a minan function and just mean to token ID over
+52:3452 minutes, 34 secondshere we have this token U mapping uh this mapping stores for each token ID
+52:4152 minutes, 41 secondsthe ipfs cach of that asset and we are doing this because calling the set URI
+52:4952 minutes, 49 secondsfunction from open Z is extremely costly but you can just store it in a mapping and then in a view function here you're
+52:5652 minutes, 56 secondsjust going to override the U function and uh display content from the mapping
+53:0453 minutes, 4 secondsitself uh if there is no URI uh then uh the base URI will be will be used uh the
+53:1353 minutes, 13 secondsone that you provide provided here from a Constructor why is URI important if I go
+53:2153 minutes, 21 secondsback here you can see that where is that image okay that's here you can see that when you call the URI of token ID you
+53:3053 minutes, 30 secondsget the metadata of the asset that's why
+53:3653 minutes, 36 secondsokay uh apart from that there are mint and mint badge functions and burn and
+53:4453 minutes, 44 secondsburn badge functions required by your your c155 standard and this is just our
+53:5153 minutes, 51 secondsimplementation of it uh why our because we put this only iser or itself modifier
+54:0054 minutesthat means that if message. sender is not this address or the iser smart contract this should revert why because
+54:0754 minutes, 7 secondsiser will be minting the initial token to Alis like the initial first step using Factory pattern and after that if
+54:1654 minutes, 16 secondsyou use CCAP to move this token across different chains uh we'll use burn and
+54:2354 minutes, 23 secondsminute token mechanism so this contuct itself need to call the mint and burn smart contracts to implement uh to
+54:3154 minutes, 31 secondsaccomplish uh sending token right like that across different chains and that's pretty much it for RC 1155 core nothing
+54:4054 minutes, 40 secondstoo fancy here just uh just you know like B mint and burn functions with the
+54:4754 minutes, 47 secondsissure modifier and only owner of this token can uh set or replace isses that's
+54:5554 minutes, 55 secondspretty much it okay the second smart contract from this diagram is cross chain burn and mint ERC
+55:0455 minutes, 4 seconds1155 so let's let's open that one so first of all let's create cross chain B
+55:1255 minutes, 12 secondsMin RC 1155 and if you attended our CCP boot camp this should be pretty
+55:1955 minutes, 19 secondsstraightforward and easy for you but I'm going to repeat it anyways so crushing bur MEC 1155 smart contract that one as
+55:2855 minutes, 28 secondsI said inherits our ERC 1155 core you can see I'm importing ERC 1155 core from
+55:3655 minutes, 36 secondsfrom from the root of my directory not from external external service and if I try to compile this
+55:4455 minutes, 44 secondssmart contract we will see that it will fail because you can we cannot find the withdrawal smart cont from the U folder and I'm going to talk about it in a
+55:5355 minutes, 53 secondsminute but for now let's Analyze This Mar contract so this smart contract inherits ERC 1155 core inherits I in any
+56:0356 minutes, 3 secondsto evm message receiver from the CCP contracts and a reenter cigar from Zine and withdraw from utilities we're going
+56:1156 minutes, 11 secondsto talk about it in a minute these are the two important ones so ERC 1155 core that means that it will have all of these functions we have with that smart
+56:2056 minutes, 20 secondscontract mint mint batch burn burn batch and I any2 evm message receiver means that if we imp Implement that interface
+56:2856 minutes, 28 secondsthat means that we can receive CCP messages by implementing the CCAP receive function Okay cool
+56:3756 minutes, 37 secondsso what uh what we're going to do so if you go to cross train transfer function cross train transfer from function
+56:4556 minutes, 45 secondsessentially it's the same as transfer from function of your c155 but you're also going to provide uh destination
+56:5456 minutes, 54 secondschain selector and pay fees in enum so pay fees you can pay for cc fees
+57:0157 minutes, 1 secondin Native or link zero or one native message at Value link address of Link
+57:0857 minutes, 8 secondstoken I'm going to use Link and here we are going to get the
+57:1557 minutes, 15 secondsmetadata of the token using the URI function uh you see how I call it like this because I essentially this contract
+57:2357 minutes, 23 secondsbecause of the inheritance can call all this function and you know only isser or itself so
+57:2957 minutes, 29 secondsmessage sender is address this see so store that in a stor in a in a memory variable then call the burn function so
+57:3857 minutes, 38 secondsessentially at this step we're going to burn the token so there is no token that token does not exist like fungible part
+57:4557 minutes, 45 secondsdoes not exist on this train we're going to form a CCP message so essentially
+57:5157 minutes, 51 secondsreceiver is uh is the crush nft address like the same smart contract but on
+57:5757 minutes, 57 secondsother chain that will handle minting then data we're sending is essentially
+58:0458 minutes, 4 secondsthis data plus token U we're not sending any tokens uh for X arguments we're going to grab that from our mapping
+58:1358 minutes, 13 secondswhich basically here enable chain the disabled Chain by the only owner uh this step is done only in a setup so don't
+58:2158 minutes, 21 secondsworry about it and for fees we're going to just um see see using this enum
+58:2858 minutes, 28 secondswhether it's like link or native and the rest is just uh logic that will handle
+58:3558 minutes, 35 secondsuh sending the Crouch message using CCP now on the other side we are going to implement CCAP receiver and inside CCP
+58:4358 minutes, 43 secondsreceive function uh first of all there is like a bunch of modifiers to only receive message from specific chains
+58:5258 minutes, 52 secondsfrom specific senders and uh whatnot so all of that again done in a setup function if you follow our CCP boot cam
+59:0059 minutesthis is all familiar with you if not I'm going to explain that as the last step of exercise number one but essentially we are going to grab Source chain
+59:0859 minutes, 8 secondsselector from a uh from a message itself evm to any message itself and then from the same message we are going to from
+59:1659 minutes, 16 secondsdata field same message we going to grab from to ID amount data and token uh
+59:2359 minutes, 23 secondsdetails and we're going to pass that details to the Min function and the same fundable part of to fundable tokens will
+59:3259 minutes, 32 secondsbe minted another train representing exactly the same asset because we have this token URI token ID and all that
+59:4059 minutes, 40 secondsstuff that uniquely represent our represents our mock tokenized real estate so that's that's for this that
+59:4859 minutes, 48 secondspart so this is the this function just has this cross transfer from and CCP receive function which is
+59:5659 minutes, 56 secondsuh which is the the the way to receive CCP messages and besides these two me functions there is also this enable and
+1:00:031 hour, 3 secondsdisable chain uh meaning that uh as an owner you when you want to deploy or
+1:00:101 hour, 10 secondsconnect your uh your crush chain asset with another with the same asset on another chain you need to provide the
+1:00:171 hour, 17 secondschain selector of that chain the address of that asset on that chain and CCP arguments if needed like uh the gas gas
+1:00:261 hour, 26 secondsamount guas limit for transferring the sending the CCP messages and you know that's that's pretty much it that those steps are like done by the owners who
+1:00:341 hour, 34 secondsdon't really need to worry about those but this is how you can connect so this is the way to let your smart contract know the existence of the same smart
+1:00:421 hour, 42 secondscontract on different train so they can communicate between themselves so you know basically you
+1:00:491 hour, 49 secondshave crotching transfer from and CCP re function here or just cring transfer from uh okay cool let's figure this
+1:00:571 hour, 57 secondserror so we have a compilation error because there is no withdrawal function so inside the root I'm going to create a new folder called utils so for utilities
+1:01:061 hour, 1 minute, 6 secondsand inside UIL folder I'm going to create withdraw. ASL smart contract this smart contract is extremely simple I'll
+1:01:151 hour, 1 minute, 15 secondsfind it so create withdraw smart contract and needles I'm going to copy it paste it here and you can see that
+1:01:241 hour, 1 minute, 24 secondsthis is extremely straightforward smart contract it withdraws native assets or tokens from this smart contract because
+1:01:311 hour, 1 minute, 31 secondswe'll need to find fund this smart contract with either uh link or native coins if you don't want to use message.
+1:01:381 hour, 1 minute, 38 secondsvalue from the user in your implementation so you need to have a way to withdraw tokens any stock tokens or
+1:01:461 hour, 1 minute, 46 secondscoins from your smart contract so don't forget this smart contract that's that's the only thing that it does it's experiment straight
+1:01:541 hour, 1 minute, 54 secondsforward that's why it is in the U tools folder okay cool uh now let's create the real estate Pride details so technically
+1:02:031 hour, 2 minutes, 3 secondsfor the tokenization part you don't need this smart contract I implemented this smart contract because I'll need it for my exercise number two where I'm using
+1:02:121 hour, 2 minutes, 12 secondsrwl Landing dosl because my Landing protocol cannot use proof Reser feed of mock unknown real estate I needed to
+1:02:211 hour, 2 minutes, 21 secondscreate this smart contract helper smart contract to get some kind of price details and calculated them on chain but in production you're probably not going
+1:02:301 hour, 2 minutes, 30 secondsto have anything like this you're just going to use chain link proof of Reser feeds that's it but still I'm going to
+1:02:381 hour, 2 minutes, 38 secondscopy this code uh this is another smart contract that just um real estate price detail that just utilize training functions so real estate price details.
+1:02:501 hour, 2 minutes, 50 secondswell so I'm just going to add that one as my functions consumer as well I'm going to hit save command as to save this smart contract and we can see here
+1:02:581 hour, 2 minutes, 58 secondsagain it's like a function client again in inherits function source so function source is basically this SM contract so
+1:03:041 hour, 3 minutes, 4 secondsyou can call the get prices uh code and real estate price details over here it does nothing but when you call the
+1:03:131 hour, 3 minutes, 13 secondsupdate price details functions which can be only called by automation forwarder or the owner because we're going to automate this function to be called by
+1:03:211 hour, 3 minutes, 21 secondsautomation it creates a new JavaScript uh a new functions request for in JavaScript with the code we just saw uh
+1:03:291 hour, 3 minutes, 29 secondsthis one you know with prices and it'll be called daily create a send request and inside the fullfill request
+1:03:371 hour, 3 minutes, 37 secondsextremely simple decode this request and store it in a mapping as a latest uh
+1:03:441 hour, 3 minutes, 44 secondslatest struct you can see here that this is actually a struct right this is solidity struct and extremely useful
+1:03:521 hour, 3 minutes, 52 secondsthing that is that when you work with struct when you're working with strs in in in functions I'm going to first of
+1:04:001 hour, 4 minutesall here I'm returning strings so with functions you can encode string you can encode uh un 256 you can encode what
+1:04:071 hour, 4 minutes, 7 secondswhatever like just encode as a Sol data type and return but if you want to handle complicated structs in solidity it's actually really easy because what
+1:04:151 hour, 4 minutes, 15 secondsyou can do is you can just encode them as a bite so this is essentially as doing the same thing as doing ABI end
+1:04:221 hour, 4 minutes, 22 secondscode on chain here I'm using ethers because I JavaScript and I'm just returning bytes raw bytes because
+1:04:301 hour, 4 minutes, 30 secondsessentially functions just send raw bytes and then once I received those raw bytes because here it's encoded with
+1:04:391 hour, 4 minutes, 39 seconds4256 values I'm just going to in my smart contract call ABI
+1:04:461 hour, 4 minutes, 46 secondsdecode uh it's over here so ABI decode the reverse function of ABN code and I can have all the all the fields of my
+1:04:551 hour, 4 minutes, 55 secondsstru so token ID for a mapping and then these three prices to calculate in a stru I know that doesn't like uh I I mentioned this because like a lot of you
+1:05:041 hour, 5 minutes, 4 secondsask me throughout the year how to handle strs in functions and it's really really simple it's really that
+1:05:121 hour, 5 minutes, 12 secondseasy also if you're working with uh with with functions in a hardhead or Foundry
+1:05:191 hour, 5 minutes, 19 secondsI going to in the r of this exercise and I'm going to also share it and tweeted about it bunch of time there is like a
+1:05:281 hour, 5 minutes, 28 secondsuh there is like a I think five line or six liner function for simulating requests using the functions mpm toolkit
+1:05:361 hour, 5 minutes, 36 secondsuh I'm going to show it to you but that's the same way like to to to to simulate uh basically this behavior in
+1:05:441 hour, 5 minutes, 44 secondsyour project if you don't want to use playground for any reason okay cool and I think that's it
+1:05:521 hour, 5 minutes, 52 secondsyeah finally is to create real estate token and this is our smart contract if we go back to the architecture page so this is
+1:06:001 hour, 6 minutesthe Smart contract we're going to interact with and you know inherit by inheriting all of these smart contracts we'll have
+1:06:081 hour, 6 minutes, 8 secondsall the functionalities from each one of them but we're going to just interact with our real estate token smart cont
+1:06:151 hour, 6 minutes, 15 secondsthis is the address of our tokenized asset actually you know like it's kind of like Lego bricks as I put it pointed out here so if you go to create real
+1:06:241 hour, 6 minutes, 24 secondsestate token you can see that that's the whole code of it and I just added this
+1:06:311 hour, 6 minutes, 31 secondsuh this art a bit askar real estate
+1:06:381 hour, 6 minutes, 38 secondstoken. but essentially it just inherits if I zoom out a bit it just
+1:06:451 hour, 6 minutes, 45 secondsinherits uh these three contracts so this one in carcu 1155 course this one
+1:06:521 hour, 6 minutes, 52 secondsthis one and real estate PR details and uh there is a Constructor to to initialize it and that's it that's
+1:07:011 hour, 7 minutes, 1 secondthat's pretty much it so I'm going to compile this uh and um uh and yeah our our job
+1:07:101 hour, 7 minutes, 10 secondsis now done done um now we're going to deploy the
+1:07:171 hour, 7 minutes, 17 secondssmart cont to Fuji and even though there is absolutely zero functions implemented
+1:07:241 hour, 7 minutes, 24 secondshere in solated we will see in a bit once I deploys this smart contract that we will have all of the functions all I
+1:07:321 hour, 7 minutes, 32 secondspreviously mentioned and yeah really cool art thank you for that but I Ed the generator uh the free generator online
+1:07:401 hour, 7 minutes, 40 secondsI'll find the eurl probably so yeah that's it okay cool so again we need to make sure that Optimizer is turned on
+1:07:481 hour, 7 minutes, 48 seconds200 runs and Paris evm version is set 0.824 is the version of solidity compiler and here I'm going to select
+1:07:571 hour, 7 minutes, 57 secondsinjected provider metamask so it connected to 43113 so if I do
+1:08:041 hour, 8 minutes, 4 seconds43113 chain ID we can see that that's the details for Avalanche Fuji so make sure to validate that that means that my
+1:08:121 hour, 8 minutes, 12 secondsmetamask wallet is connected to Avalanche Fu gy okay cool I'm getting a warning that
+1:08:211 hour, 8 minutes, 21 secondsmy real estate token. ASA smart contract size is too big so I'm going to repeat for the third time when you compile your smart contract hit enable optimization
+1:08:311 hour, 8 minutes, 31 secondswith 200 runs to turn the optimizer on and also set EV version to Paris and it
+1:08:391 hour, 8 minutes, 39 secondswon't uh give you that error anymore okay going back whoops sorry about that
+1:08:461 hour, 8 minutes, 46 secondslet's expand this a bit shortly so going back here I'm on Avalanche Fuji inor provider and I need to provide as we
+1:08:541 hour, 8 minutes, 54 secondssaid here UR the base URI for ERC 1155 address of CCP router address of
+1:09:011 hour, 9 minutes, 1 secondLink token link token current chain selector so that's the chain chain selector CCP chain selector Val Fuji and
+1:09:081 hour, 9 minutes, 8 secondsthe address of functions router smart contct all of these can be found here but please always double check them and
+1:09:171 hour, 9 minutes, 17 secondsvalidate against the official docs which I'm going to do now so I'm going to go to dogs chain. link and we're going to
+1:09:251 hour, 9 minutes, 25 secondsdo this nice and easy so for the U I'm just going to have the mty U because uh I don't have like a base one uh so just
+1:09:331 hour, 9 minutes, 33 secondsempty but when we took an ID asset we will have that ipfs has second CCP router address so I'm on avalan Fuji so
+1:09:411 hour, 9 minutes, 41 secondsI'm going to go to CCP support networks test Nets I'm going to go find Allen Fuji Allen Fuji over here router address
+1:09:491 hour, 9 minutes, 49 secondsis over here so I'm going to grab this address and you can see F6 the same thing and paste it here then the address
+1:09:581 hour, 9 minutes, 58 secondsof a link token so again link address copy from here link and paste here
+1:10:051 hour, 10 minutes, 5 secondscurrent chain selector that's CCP chain selector uh of avalanche Fuji so it's
+1:10:141 hour, 10 minutes, 14 secondsnot chain ID it's not it's not uh 43 113 it's this un 64 value again if you
+1:10:231 hour, 10 minutes, 23 secondsfollowed our CCP boot camp there was actually question in an easy section what chain selector is and if you hover
+1:10:311 hour, 10 minutes, 31 secondsover here it's CCP blockchain identifier so I'm going to grab that value and
+1:10:371 hour, 10 minutes, 37 secondspaste it here again 14 is the same thing and finally functions uh functions router uh smart contract so there's two
+1:10:461 hour, 10 minutes, 46 secondsways to get a functions so first one is to go to functions is to go to supported networks tab is to go to Allen T not to find it
+1:10:561 hour, 10 minutes, 56 secondshere and grab it from here uh Sorry Remix and paste it here or
+1:11:041 hour, 11 minutes, 4 secondsif you go to functions. chain. link functions. chain. link over here the the homepage I'm going to just disconnect
+1:11:131 hour, 11 minutes, 13 secondslet's see if I can yeah I'm going to disconnect my my wallet just to show you the process
+1:11:201 hour, 11 minutes, 20 secondsuh all disconnect all accounts I think should no one second sorry how to
+1:11:271 hour, 11 minutes, 27 secondsdisconnect this thing oh it's sorry oh you cannot see my M mask
+1:11:361 hour, 11 minutes, 36 secondsokay uh let's refresh Okay cool so if I click connect wallet I'll need to accept terms of service I'm going to connect
+1:11:441 hour, 11 minutes, 44 secondswith metamask I'm going to hit next confirm all that stuff I'm connecting and again I can see the dashboard and over here there is an address of a link
+1:11:531 hour, 11 minutes, 53 secondstoken and a functions router so this one is exactly the same as the one we got from the doc so this is how we can verify it and I'm going to paste it here
+1:12:021 hour, 12 minutes, 2 secondsone more time finally I'm going to hit transact to deploy to deploy this smart contract and
+1:12:111 hour, 12 minutes, 11 secondsI'm going to hit confirm and I'm going to wait for a transaction to uh be included in next
+1:12:181 hour, 12 minutes, 18 secondsblock
+1:12:281 hour, 12 minutes, 28 secondshere here are so if I go over here and expand it you can see there are like a bunch of functions over here even though
+1:12:361 hour, 12 minutes, 36 secondsthe smart contract itself here appears to be empty but it's not um so yeah bunch of functionalities the
+1:12:461 hour, 12 minutes, 46 secondsthe one we care about at at the moment is set issuer so over here there is a set issuer that means that we need to
+1:12:541 hour, 12 minutes, 54 secondsprovide the of fure smart contract that will be able to Mint our nfts and why is that because if we go to ERC 1155 core
+1:13:031 hour, 13 minutes, 3 secondswe can see that there is a set iser function over here and because the mean function can be called by only iser or
+1:13:101 hour, 13 minutes, 10 secondsitself so iser is the only external actor that we call the mean function uh that's why we need to set it first
+1:13:181 hour, 13 minutes, 18 secondsbecause this syntax over here means that isser is currently address zero so no it's not assigned because there is no
+1:13:271 hour, 13 minutes, 27 secondsconstructure or whatever so we need to call this function with the address of iser but for us to be able to call this
+1:13:341 hour, 13 minutes, 34 secondsfunction by the address of ISS we first need to uh deploy the isser smart contract so to do that I'm going to go
+1:13:421 hour, 13 minutes, 42 secondsback to file explorer I'm going to hit create new file and type is is.so hit
+1:13:501 hour, 13 minutes, 50 secondsenter and again I'm going to just copy this code and I'm going to explain it to
+1:13:571 hour, 13 minutes, 57 secondsyou all right so again it's not too big it's literally 70 70 uh 72 lines of code
+1:14:071 hour, 14 minutes, 7 secondswith all of the comments and extra stuff I'm going to just compile it so first of all it's again uh importing training
+1:14:151 hour, 14 minutes, 15 secondsfunctions and there is a struct which is a fractionalized nft so you have like address of a receiver and the amount
+1:14:221 hour, 14 minutes, 22 secondsit's receiving that's it so here is the main function it's the issue function so this issue function can be called only
+1:14:301 hour, 14 minutes, 30 secondsby the owner of this smart contract and uh essentially here we are providing the address of Alice and we are providing the amount of fungible
+1:14:401 hour, 14 minutes, 40 secondstokens we want to Mint for this non-fungible asset so again amount is
+1:14:471 hour, 14 minutes, 47 secondsthis thing so if I go back to the gbook we can see that we have one real estate
+1:14:531 hour, 14 minutes, 53 secondsbut 20 of these fible assets 20 if I provide 20 as amount over there that means that 20 of these two can still be
+1:15:011 hour, 15 minutes, 1 secondMeed and that's what I want okay and 20 is like 100% ownership fractionalized ownership of this real asset and then if
+1:15:101 hour, 15 minutes, 10 secondsI send or sell or whatever five of these tokens that mean that I sell or loaned or whatever 25% of this token okay
+1:15:191 hour, 15 minutes, 19 secondsthat's why we're using ERC 1155 uh over there is the subscription idea of chaining functions because we
+1:15:271 hour, 15 minutes, 27 secondsneed to create a function request to get the metadata to populate it guess limit for chaining functions and Don ID for Ching function what is Don ID over here
+1:15:361 hour, 15 minutes, 36 secondsif I go to supported networks this is the Don ID is the string used for functions toolkit npm package while the by 2 hex is used for onchain don't calls
+1:15:451 hour, 15 minutes, 45 secondsso we're not going to use fun Avalanche Fuji or whatever we're going to use this by 32 value for on stuff this is the ID
+1:15:541 hour, 15 minutes, 54 secondsof the Dawn Central Oracle Network that will execute our requests all notes in this Zone will so this is how we can p
+1:16:011 hour, 16 minutes, 1 secondokay this Zone please execute all of this and reach a consensus or if I go to functions dashboard here I can just grab
+1:16:091 hour, 16 minutes, 9 secondsit from here the don't ID um this function will then just create a new
+1:16:171 hour, 16 minutes, 17 secondsrequest and once we call once chaining functions call the fulfill request
+1:16:241 hour, 16 minutes, 24 secondsfunction we we will see that uh first of all response will be string if I go back
+1:16:301 hour, 16 minutes, 30 secondshere so uh we are returning string you see string so that's what we expecting
+1:16:361 hour, 16 minutes, 36 secondsso this string will be returned to our smart contract that in forms of bytes so we're just going to cast it uh to string
+1:16:461 hour, 16 minutes, 46 secondsand we are going to just call the mean function of real estate token with all
+1:16:521 hour, 16 minutes, 52 secondsthese details Plus the token U and that's
+1:16:581 hour, 16 minutes, 58 secondsit also to prevent uh to prevent race conditions there is this uh last request
+1:17:051 hour, 17 minutes, 5 secondsID and issues in progress mapping this is a storage varable this is issues PR mapping that means that once if one
+1:17:141 hour, 17 minutes, 14 secondsminting of one uh U ERC 1155 token is in progress there is there cannot be there
+1:17:211 hour, 17 minutes, 21 secondscannot be another minting and if there is an error or whatever happened well for example I experienced on testnets
+1:17:291 hour, 17 minutes, 29 secondsthat when I imported this uh library for ipfs the first time it will just revert and then if I repeat the process it will
+1:17:371 hour, 17 minutes, 37 secondswork we'll see about that but there's always this cancel P request this is just for test and stuff that you can cancel the pending request if there is
+1:17:451 hour, 17 minutes, 45 secondsan error on the uh function side and just repeat the process so I think I put
+1:17:521 hour, 17 minutes, 52 secondsthat uh here as a troubleshooting for home homor If you experience any issues yeah if you experience any issues with
+1:18:001 hour, 18 minuteswith uh uh with deployer you can see here that you can always call the cancel pend request and try
+1:18:081 hour, 18 minutes, 8 secondsagain okay let's put this thing in action so we so after we deploy the isure we want to call the set iser
+1:18:161 hour, 18 minutes, 16 secondsfunction that's why we're doing all this stuff so I'm going to deploy the iser smart contract and I'm going to call the set is Smart Set isure function on the
+1:18:241 hour, 18 minutes, 24 secondsreal estate to can contract to uh to say basically to it hey this is the issuer contract that will issue you using the
+1:18:321 hour, 18 minutes, 32 secondsfactory pattern simple as that okay so if I go back to remix and once again compile this is your smart
+1:18:401 hour, 18 minutes, 40 secondscontract it's compiling compiling see it's in progress because of the optimizer we're going to we're going to wait for
+1:18:481 hour, 18 minutes, 48 secondsthat here it is it's done I cannot drink water okay cool uh if we go back to the Constructor we can see that we need to
+1:18:571 hour, 18 minutes, 57 secondsprovide the address of real estate token and the address of function router so address of real estate token is this one the contract we just deployed so I'm
+1:19:041 hour, 19 minutes, 4 secondsgoing to just scroll down here copy the address from here and paste it here and for functions router address again
+1:19:111 hour, 19 minutes, 11 secondseither either block either documentation or here from the functions
+1:19:181 hour, 19 minutes, 18 secondsdashboard so I'm going to paste that and we can see a is zero A9 okay all good I'm going to hit
+1:19:271 hour, 19 minutes, 27 secondstransact and deploy the sh smart contract you are now cannot see my animal but it pops up I'm going to hit
+1:19:341 hour, 19 minutes, 34 secondsconfirm and I'm going to wait for this transaction which is pending because you can see here to complete okay cool confirmed I can see
+1:19:431 hour, 19 minutes, 43 secondsmy issuer smart contract over here and it's it's a simple smart contract it just will just be able to call the issue
+1:19:511 hour, 19 minutes, 51 secondsfunction and uh transfer ownership if we need it but we won't do that ownership of this Mar so what I'm going to do I'm
+1:19:571 hour, 19 minutes, 57 secondsgoing to copy this address and provide it as a function argument of set issuer over here so set issuer of the real
+1:20:061 hour, 20 minutes, 6 secondsestate token address paste make sure that this is the correct address looks
+1:20:131 hour, 20 minutes, 13 secondslike so I'm going to hit transact and I'm going to hit confirm
+1:20:291 hour, 20 minutes, 29 secondsall right we're all set for the issuing part so to recap what we have done so
+1:20:381 hour, 20 minutes, 38 secondsfar where is that thing
+1:20:441 hour, 20 minutes, 44 secondsum oh here it is so we developed develop these smart contracts and deployed real
+1:20:511 hour, 20 minutes, 51 secondsestate token which represent our asset and then we deploy this issuer smart
+1:20:581 hour, 20 minutes, 58 secondscontract which will issues U assets U are token tokenized assets and this is because step number five the issue in
+1:21:071 hour, 21 minutes, 7 secondspart of real world assets is not covered by this boot cam so what essentially we're going to do we're going to make
+1:21:141 hour, 21 minutes, 14 secondsmint the mock the tokenized version of mock real estate to Alis simple as that and also for us to be able to do that we
+1:21:221 hour, 21 minutes, 22 secondson this smart contract real estate token called the set usure function to to basically signal to this Mar contract hey if you only receive call to A Min
+1:21:311 hour, 21 minutes, 31 secondsfunction from this address executed otherwise reked and now what we're going to do is let's issue the tokenized asset
+1:21:401 hour, 21 minutes, 40 secondsto do that again we need to call the functions to get an nft metadata and for us to be able to do that we first need
+1:21:471 hour, 21 minutes, 47 secondsto create a new function subscription so what I'm going to do now is once we deployed isser that's where we left and
+1:21:541 hour, 21 minutes, 54 secondscall the seter function that's what we did we need to create chaining function subscription and fund it and to do that
+1:22:021 hour, 22 minutes, 2 secondsyou can go to functions. train. link as we already did it's right over here let's put it over here and create a new
+1:22:101 hour, 22 minutes, 10 secondssubscription following the instructions here or from the official uh chaining docs website or just watch me doing it
+1:22:181 hour, 22 minutes, 18 secondsit's really straightforward so I'm going to create new subscription I'm going to provide my email address
+1:22:251 hour, 22 minutes, 25 secondsuh subscription name will be tokenized rwa boot camp 2024 and I'm going to hit create
+1:22:341 hour, 22 minutes, 34 secondssubscription my metam mask will pop up at some point you you cannot see that but you see that one thing I I still
+1:22:421 hour, 22 minutes, 42 secondscan't to figure out how to show my metam masks during live streams sorry for that but I'm going to hit confirm and I'm just going to follow the
+1:22:511 hour, 22 minutes, 51 secondsprocess here it's really simple like this interactive popup diagram will just follow you you just now create one
+1:22:591 hour, 22 minutes, 59 secondstransaction okay it's confirm I'll need to sign a message now so you cannot see but this is literally signature so the message is welcome to Ching functions we
+1:23:061 hour, 23 minutes, 6 secondsrequire signature in order to assure you're the owner of subscription and I'm just going to hit confirm and once I sign this message I will be prompt with
+1:23:151 hour, 23 minutes, 15 secondsthe next step so it's literally just installment like or creation of of of chaming functions it's subscription it's
+1:23:231 hour, 23 minutes, 23 secondsit's really it's really simple and easy see okay subscription is created great what I'm going to do now is I'm going to fund it so I'm going to add funds uh I
+1:23:321 hour, 23 minutes, 32 secondsthink I mentioned 10 link is that right yeah we're going to provide 10 link that should be more than enough for this exercise so I'll going to just do 10
+1:23:421 hour, 23 minutes, 42 secondslink and I'm going to hit add funds and I'm just going to approval adding of 10 link to my subscription so
+1:23:511 hour, 23 minutes, 51 secondsyou know like for all function calls uh I'm going to just use that that uh those stand links so I can always cancel
+1:23:591 hour, 23 minutes, 59 secondsupkeep and get links back or top up subscription you know uh there you will soon be able to see the dashboard if you
+1:24:071 hour, 24 minutes, 7 secondshaven't seen chaining functions already uh chain functions Dash already but I assume you you you had you have okay we're going to just wait for
+1:24:171 hour, 24 minutes, 17 secondsthis transaction to complete and final step yeah I'll meet you ask
+1:24:251 hour, 24 minutes, 25 secondsconsumer in my case I'll add two consumers so the first consumer is our isure smart contract so I'm going to go
+1:24:321 hour, 24 minutes, 32 secondsgrab here and add iser because this is the one that will uh let's see
+1:24:411 hour, 24 minutes, 41 secondsfa okay this sounds about right looks about right so I'm going to add this consumer and this is going to be my last
+1:24:481 hour, 24 minutes, 48 secondsstep for creating a uh a subscription but I also going to add real estate token as another consumer so I have two
+1:24:551 hour, 24 minutes, 55 secondsconsumers because if you remember for X number two I need to call that get price detail function periodically each day so I'm going to just do it while I'm here
+1:25:041 hour, 25 minutes, 4 secondsthat's that's pretty much
+1:25:161 hour, 25 minutes, 16 secondsit okay we're going to wait just a bit for confirmation to arrive and that's it
+1:25:221 hour, 25 minutes, 22 secondsso if I click hit this subscription I'll be able to see my dashboard so we can see here that I'm the admin this is the subscription ID so this is really
+1:25:311 hour, 25 minutes, 31 secondsimportant we're we're going to pass this subscription ID back and forth for each subscription so that means that functions know which subscription to
+1:25:391 hour, 25 minutes, 39 secondstrigger uh for which consumer contracts and from where to uh subtract this link these are the these are the actions you
+1:25:481 hour, 25 minutes, 48 secondscan do uh you you can fun subscription cancel subscription and uh whatnot and here I can see my consumer and some
+1:25:561 hour, 25 minutes, 56 secondshistory so what I'm going to do is I'm going to hit add consumer button one more time and for a second consumer I'm
+1:26:041 hour, 26 minutes, 4 secondsgoing to add real estate token address uh yeah token smart contract address
+1:26:111 hour, 26 minutes, 11 secondssorry and hit add consumer one more time and if you follow getbook it
+1:26:211 hour, 26 minutes, 21 secondsbasically said add after refund subscription add these addresses as a consumers and remember your subscription
+1:26:281 hour, 26 minutes, 28 secondsID that's it so we're just going to wait for yeah
+1:26:361 hour, 26 minutes, 36 secondstransaction just got confirmed I see a mem mask popup so this should be uh done pretty soon we're going to
+1:26:431 hour, 26 minutes, 43 secondswait this is just waiting for a transaction to to be completed and not end up on a fork because of chain re and whatnot yeah here it is transaction
+1:26:521 hour, 26 minutes, 52 secondsadded I can VI transaction but I'm going to just close so I can see two consumers you see how the second consumer appeared
+1:26:591 hour, 26 minutes, 59 secondsover here so what I'm going to do now is I'm finally going to call the issue function so that's the part number five
+1:27:061 hour, 27 minutes, 6 secondstokenization Paradigm where you're going to we as I said we're just going to Mint the um Al the mint the this mock real
+1:27:151 hour, 27 minutes, 15 secondsestate token to Alice address because this is again out of the scope for this boot camp so what I'm going to go do is I'm going to
+1:27:241 hour, 27 minutes, 24 secondsall this where is yeah I'm going to call the issue function so I'm going to paste my address so I'm going to issue this to
+1:27:311 hour, 27 minutes, 31 secondsmyself basically so I'm going to grab my wallet address from here again as amount I'm putting 20 so that means 20 fible
+1:27:391 hour, 27 minutes, 39 secondsassets to represent a fractions of that token as realiz like 100% of it you can you can put arbitrary number here of
+1:27:481 hour, 27 minutes, 48 secondscourse subscription ID subscription ID is the subscription of my training functions is the ID of my train function subscription which I'm going to grabb
+1:27:561 hour, 27 minutes, 56 secondsfrom here so 12769 repeat 769 don't use my stion ID
+1:28:031 hour, 28 minutes, 3 secondsbecause your contracts are not consumers so it'll just revert a bunch of a time and you cannot just use my balance so
+1:28:101 hour, 28 minutes, 10 secondsyou need to create your own function subscription uh so I'm going to grab mine for gas limit if you go back to get
+1:28:181 hour, 28 minutes, 18 secondsa book I put uh 300,000 as like a maximum this is the maximum this is the cap and and this is
+1:28:251 hour, 28 minutes, 25 secondsnonrefundable so definitely for production use cases similar to CCP you want to measure this uh it's it work
+1:28:321 hour, 28 minutes, 32 secondswith 100K as with 100,000 as well but essentially for production use case either in Foundry or hardhead you want
+1:28:401 hour, 28 minutes, 40 secondsto estimate these gas limits accurately so you're saving gas of course but here for the purpose of this exercise just to
+1:28:471 hour, 28 minutes, 47 secondsmake things run we're going to use the maximum thing and finally non ID so fun Avalanche Fuji one again you can grab it from here you can
+1:28:561 hour, 28 minutes, 56 secondsgrab it from from docs I'm going to grab it actually from Explorer over here so I'm going to hit go to dashboard copy
+1:29:031 hour, 29 minutes, 3 secondsthis thing to clipboard is by 32 value and paste it over here and I'm going to hit
+1:29:111 hour, 29 minutes, 11 secondstransact and now my metamask pops up I'm going to hit confirm and I'm going to
+1:29:171 hour, 29 minutes, 17 secondswait for this transaction to complete now if I go back to my subscription you
+1:29:241 hour, 29 minutes, 24 secondscan see here I have this token as subscription over here we can see a pending request so over here in real
+1:29:331 hour, 29 minutes, 33 secondstime I can track the status of my request as I said earlier there might there is a might chance that it will rever for the first time because of
+1:29:411 hour, 29 minutes, 41 secondsimport of that ipfs function uh ipfs library but doesn't matter like this is the issuance part is nothing critical we can just cancel the pending request and
+1:29:501 hour, 29 minutes, 50 secondsrepeat the process right now let's see if that's going to happen yeah it happens so again we have errors like either both in computation and call back
+1:29:591 hour, 29 minutes, 59 secondsso what I'm going to do go back I'm going to hit the cancel pending request
+1:30:071 hour, 30 minutes, 7 secondsfunction so and I'm going to wait for that transaction to complete and I'm going to repeat the issue one more time
+1:30:141 hour, 30 minutes, 14 secondsand this should work okay
+1:30:251 hour, 30 minutes, 25 secondscool if I go back here and refresh I should see another pending request and
+1:30:311 hour, 30 minutes, 31 secondsthis this one should should succeed
+1:30:411 hour, 30 minutes, 41 secondsokay while we're waiting I'll try to answer some some questions uh in a
+1:30:501 hour, 30 minutes, 50 secondschat uh okay oh there's a lot of them I'll start one by one
+1:30:591 hour, 30 minutes, 59 secondsthen okay this is all about p and config details so just read the G book carefully
+1:31:071 hour, 31 minutes, 7 secondsand uh speaking of fees you can always uh yeah speaking of fees actually I'm going to share you some something so if
+1:31:151 hour, 31 minutes, 15 secondsyou go to gitbook GitHub and type R wa- primer this is where you can find the
+1:31:231 hour, 31 minutes, 23 secondssource code code for this thing so essentially like I deploy this in uh in
+1:31:291 hour, 31 minutes, 29 secondsFoundry so essentially you can just um instead of testing direct duts you can just uh you can just
+1:31:381 hour, 31 minutes, 38 secondsum um test everything and build everything locally in your development environment of choice uh instead of like
+1:31:471 hour, 31 minutes, 47 secondsdealing with with guest tokens over and over again of course and yeah train Coco will soon support all train services so it's even
+1:31:551 hour, 31 minutes, 55 secondseasier finally after we we've done uh this step we're going to create uh train link
+1:32:031 hour, 32 minutes, 3 secondsautomation subscription uh to call the update uh to call the update price
+1:32:101 hour, 32 minutes, 10 secondsdetail functions so this again is needed only for tomorrow for the second exercise but I'm
+1:32:181 hour, 32 minutes, 18 secondsgoing to still do it now so first of all uh let's see uh let's see uh what's going
+1:32:261 hour, 32 minutes, 26 secondson with this computation uh
+1:32:341 hour, 32 minutes, 34 secondsum no Terror again uh syntax error okay we're going to try one more time and if that doesn't
+1:32:411 hour, 32 minutes, 41 secondswork we're just going to uh we're just going to use the contracts from yesterday
+1:32:471 hour, 32 minutes, 47 secondsum but yeah this should work one more time maybe I did did it too fast it
+1:33:081 hour, 33 minutes, 8 secondshappens um is there no way to create this subscription using a contract yes there
+1:33:151 hour, 33 minutes, 15 secondsis yes there is the only requirement is to go to to subscriptions page over here
+1:33:231 hour, 33 minutes, 23 secondsfor the first time to sign that message when you connect your
+1:33:281 hour, 33 minutes, 28 secondswallet uh okay we have greens so is there a way yes there is so how you to
+1:33:361 hour, 33 minutes, 36 secondsdo that go to the dashboard when you connect your wallet you will you will need to sign that message and that's it and after that if you go to dogs chain.
+1:33:461 hour, 33 minutes, 46 secondslink and if you go to chaining functions there is a guide to um where is that guide
+1:33:551 hour, 33 minutes, 55 secondsto create programmatically so that'll
+1:33:581 hour, 33 minutes, 58 seconds[Music]
+1:34:011 hour, 34 minutes, 1 secondbe oh it's it's here somewhere uh I'll try to find it uh but
+1:34:071 hour, 34 minutes, 7 secondsyeah there is like a like a code for that I don't see it right now uh I'll
+1:34:171 hour, 34 minutes, 17 secondsI'll just I'll just uh paste the link afterwards but in a doc and basically it's it's a programmatic cre
+1:34:241 hour, 34 minutes, 24 secondsof a function but until I'm find out uh we can I'll send you that while you're doing the exercise we can see here that
+1:34:331 hour, 34 minutes, 33 secondsour computation call back status is it's green it's all good sorry about this it's just the the caching thing in the
+1:34:411 hour, 34 minutes, 41 secondsdawn for that uh ipfs Library I'll find a better one I promise but that means that we finally minted an uh RC 1155
+1:34:501 hour, 34 minutes, 50 secondstoken to Alice so that means that if I go here at call Total Supply it's 20 and
+1:34:571 hour, 34 minutes, 57 secondstotal supply of token ID zero is 20 but if I have another token will be maybe 40 whatever and now what I want to do is uh
+1:35:061 hour, 35 minutes, 6 secondsto get the price details of token ID zero so if I go to this smart contract to
+1:35:131 hour, 35 minutes, 13 secondsget price details of token ID zeros at the moment it will be zero right because
+1:35:211 hour, 35 minutes, 21 secondsit's we haven't called the functions yet so it'll be zero as I see it's just returning details from the
+1:35:291 hour, 35 minutes, 29 secondsfrom this mapping this mapping is updated when we call the update price details so it can be called by automation forwarder or the owner so
+1:35:381 hour, 35 minutes, 38 secondsthat's why I also added this smart contract as a consumer to my functions uh subscription because if I call
+1:35:461 hour, 35 minutes, 46 secondsthe where is that function update update price details over here as
+1:35:531 hour, 35 minutes, 53 secondsan owner this should also trigger the functions and we want to test that and also after I do that I'm going to just
+1:36:001 hour, 36 minutesautomate this to be called by training automation for tomorrow so again this is only for tomorrow's exercise so I want
+1:36:071 hour, 36 minutes, 7 secondsprice details for token ID zero subscription ID is my functions subscription ID so I'm going to just grab it from
+1:36:141 hour, 36 minutes, 14 secondshere and paste it here for gas limit I'm also going to use uh the same same value
+1:36:211 hour, 36 minutes, 21 secondslike 300,000 yeah there is and for the dawn
+1:36:461 hour, 36 minutes, 46 secondsID I hope you can still hear me if you cannot hear me please let me in the chat it should be uh but I'm going to just call the
+1:36:551 hour, 36 minutes, 55 secondsupdate PR details manually so I can show you what we are expecting but then I'm going to automate this function to be called every single
+1:37:041 hour, 37 minutes, 4 secondsday okay cool thanks for the for the voice hasb message so again uh this is
+1:37:111 hour, 37 minutes, 11 secondsjust for debugging purposes what I'm going to do now is I'm going to call the functions uh I'm going to make functions
+1:37:191 hour, 37 minutes, 19 secondsrequest to call to call this this piece of code to get price details so a different one and this piece of code
+1:37:281 hour, 37 minutes, 28 secondswill be called daily once we automated just for the demo purposes I'm I'm calling it now from the owner
+1:37:361 hour, 37 minutes, 36 secondsaddress and we can see that this is also pending so we're waiting for this to be populated what we want essentially is
+1:37:461 hour, 37 minutes, 46 secondswhen we call this get price details to not return 0000 to return actual values because this thing marks or simulates
+1:37:541 hour, 37 minutes, 54 secondsthe behavior of chaining proof of zero feeds and this function will be called or consumed by RW Landing smart contract
+1:38:011 hour, 38 minutes, 1 secondtomorrow but because we again as I said multiple times there is no proof of Reserve feed for a mock Z API real
+1:38:091 hour, 38 minutes, 9 secondsestate we need to somehow mock it like this and that's the only reason why we're doing uh okay let's see the status
+1:38:161 hour, 38 minutes, 16 secondsof our functions request all green everything's great there so once I call this I should be
+1:38:241 hour, 38 minutes, 24 secondsable to see different prices and it's updated so you can see uh 7 so you can see prices let's put
+1:38:321 hour, 38 minutes, 32 secondsthem here so that's uh what's the name of the of the
+1:38:411 hour, 38 minutes, 41 secondsoriginal price list price original list price and taxs value so they'll be this will be list price is in US Dollars
+1:38:511 hour, 38 minutes, 51 secondsliterally US dollars is like this original list price is this
+1:38:571 hour, 38 minutes, 57 secondsvalue and tax assess value is this price
+1:39:031 hour, 39 minutes, 3 secondsso for this asset tomorrow we're going to convert all of these US dollar values
+1:39:101 hour, 39 minutes, 10 secondsto usdc plus some at plus whatever plus some algorithm to calculate the valuation of uh of our uh real world
+1:39:201 hour, 39 minutes, 20 secondsasses for landing and borrowing purposes on that mod platform but yeah that's why we received uh we received uh this this
+1:39:291 hour, 39 minutes, 29 secondsvalues and now like I call that manually from my owner address from down purposes but we want this to automate I don't want to call this function every single
+1:39:381 hour, 39 minutes, 38 secondsday we want this function to be called daily and to do that we are going to create a Time based upip
+1:39:471 hour, 39 minutes, 47 secondssubscription uh using chain link automation so I'm going to go to this link I'm going to go to automation.
+1:39:551 hour, 39 minutes, 55 secondschain. link this is the official dashboard I'm going to disconnect my wallet once again so to show you the whole process I'm going to disconnect
+1:40:031 hour, 40 minutes, 3 secondsthis account okay so first of all I'm clicking connect my wallet I'm accepting terms of service and connecting with
+1:40:111 hour, 40 minutes, 11 secondsmetamask and that's the only thing that you need to do for functions to create them from that wallet address programmatically that's the only thing
+1:40:191 hour, 40 minutes, 19 secondsplus that code I'm going to show you and I'm connecting I'm connecting and now I'm going to hit register new
+1:40:271 hour, 40 minutes, 27 secondsupip I'm going to select time based trigger so there is time based custom logic and log trigger custom logic is the most powerful one you have but for
+1:40:361 hour, 40 minutes, 36 secondsthat one you need to have automation compatible fun smart contract which essentially imple inherits an interface automation comp compatible interface
+1:40:451 hour, 40 minutes, 45 secondswith two functions check upkeep and perform upkeep check upkeep should return true false and then if true is returned the perform upkeep will be
+1:40:541 hour, 40 minutes, 54 secondscalled uh if not nothing happen log trigger it and that happens on on a fixed time interal each block each five blocks depends on the chain for log
+1:41:031 hour, 41 minutes, 3 secondstrigger you're subscribing to specific events from a specific smart contract once those events get admitted the
+1:41:101 hour, 41 minutes, 10 secondsperform upkeep function get called so it's it's kind of like publish receive pattern something like this and time
+1:41:171 hour, 41 minutes, 17 secondsbased which we're going to use is just going to call the function you provide on a fixed time interval that's it it doesn't need to be automatic bable
+1:41:261 hour, 41 minutes, 26 secondscontract anything it's extremely simp simple so I'm going to hit time based hit next I need to provide the address
+1:41:341 hour, 41 minutes, 34 secondsof a Target contract and we're going to provide the address of real estate token smart contract because here we want
+1:41:431 hour, 41 minutes, 43 secondsupdate price detail function to be called each day so this is our Target I'm going to hit next now we haven't
+1:41:521 hour, 41 minutes, 52 secondsverified our smart contract on a block Explorer yet and we won't because of the lack of time so I need to because it
+1:42:001 hour, 42 minutescannot fetch API automatically uh through the uh through the public Explorer I'll provide API myself and ABI
+1:42:101 hour, 42 minutes, 10 secondsstands for application binary interface it's a product of a solidity compiler when you when you um put your s your
+1:42:181 hour, 42 minutes, 18 secondssmart contract through the solid compiler it will generate AI which is adjacent and the actual contract bite code so I'm
+1:42:261 hour, 42 minutes, 26 secondsgoing to grab the Json how can I do that in remix well if I go to compiler if I compile if I compile this smart contract
+1:42:341 hour, 42 minutes, 34 secondsso this is the Smart contract I want to compile real estate token there is this ABI thing over here
+1:42:411 hour, 42 minutes, 41 secondsso I'm just going to Once compilation is done I'm just going to click it and that mean I cop it uh copy it and if I put
+1:42:491 hour, 42 minutes, 49 secondshere you can see it's literally adjacent well you can't see that but it's adjacent uh I mean this is a medium to
+1:42:581 hour, 42 minutes, 58 secondsadvance boot camp so you know what AI is while I'm babbling about it but essentially I'm going to click next and
+1:43:051 hour, 43 minutes, 5 secondsnow Target function we want to call update price details so this function we
+1:43:111 hour, 43 minutes, 11 secondswant to call it so again update price details and we need to provide some
+1:43:211 hour, 43 minutes, 21 secondsarguments to it right uh okay
+1:43:301 hour, 43 minutes, 30 secondsso token ID is again zero this is the token ID uh we we want to to query next
+1:43:401 hour, 43 minutes, 40 secondsis subscription ID function subscription ID so that's this one I'm going to
+1:43:481 hour, 43 minutes, 48 secondscopy this value gas limit same as here 300,000
+1:43:541 hour, 43 minutes, 54 secondscopy paste and Don ID will be probably the same value as this but I'm going to copy it anywhere from here to here and
+1:44:031 hour, 44 minutes, 3 secondshit next now this is the the most important part we need to provide a Chron extension expression uh sorry
+1:44:111 hour, 44 minutes, 11 secondsChron expression for our time schedule like Chron is extremely powerful thing
+1:44:181 hour, 44 minutes, 18 secondssimple but yet powerful I really like it and this is the basic explanation what Chron expression is and how it works but
+1:44:271 hour, 44 minutes, 27 secondsthe great thing about about chain link automation app is that you can you have these helpers over here so every hour
+1:44:351 hour, 44 minutes, 35 secondslike this first of every month like this uh so you don't need to type your Chron
+1:44:431 hour, 44 minutes, 43 secondsExpressions manually however if you go to gitbook you can see that 0 0 and then three stars or Aster is the Chon
+1:44:521 hour, 44 minutes, 52 secondsexpression for each day so we can see here this means that uh uh we call each
+1:45:011 hour, 45 minutes, 1 secondwe want to call this uh this function each day on or every 24 hours and it's great because we can always validate
+1:45:091 hour, 45 minutes, 9 secondsthis on the UI against next five schedule dates and we can see October 1st October 2nd 3rd at uh at midnight
+1:45:171 hour, 45 minutes, 17 secondsutsc so that means that at midnight utsc our function will be called again so for
+1:45:241 hour, 45 minutes, 24 secondstomorrow exercise I will have uh these price details mocked ready instead of zeros right so that's it and each single
+1:45:331 hour, 45 minutes, 33 secondsday it will called so I'm going to hit next and finally I'm going to add a name so the name is tokenized um rwa boot
+1:45:431 hour, 45 minutes, 43 secondscamp 24 uh for gas limit I think I put 300 yes so I'm going to lower this down a
+1:45:521 hour, 45 minutes, 52 secondsbit again and you want to test this and measure this and for link F link is whoops sorry
+1:46:011 hour, 46 minutes, 1 secondfive link is enough so I'm going to just put five and this is all optional so I'm going to skip this and I'm going to hit
+1:46:091 hour, 46 minutes, 9 secondsregister upip and just follow the process so again met must pop up that you cannot see apologize for that hit
+1:46:161 hour, 46 minutes, 16 secondsconfirm and wait for
+1:46:311 hour, 46 minutes, 31 secondsconfirmations okay it's confirmed so now I have a new metamask pop up that you cannot see so I'm going to hit confirm
+1:46:381 hour, 46 minutes, 38 secondsto that one as well I'm going to wait for this process to complete
+1:46:561 hour, 46 minutes, 56 secondsand finally I need to sign a message so I have another message welcome to J automation we require signature in order to assure you you are the owner of the
+1:47:041 hour, 47 minutes, 4 secondsopip yes I am I'm going to hit confirm and cryptographically sign this
+1:47:121 hour, 47 minutes, 12 secondsmessage so I'm going to wait for that to to to proceed and voila we successfully
+1:47:211 hour, 47 minutes, 21 secondscreated time Bas based upip so if I click view upip I'll should be able to see a
+1:47:281 hour, 47 minutes, 28 secondsdashboard my admin dashboard with details about status is active this is the registry address the balance how
+1:47:351 hour, 47 minutes, 35 secondsmuch you spent last date run it not and all the other details history and whatnot the important address I'm
+1:47:441 hour, 47 minutes, 44 secondslooking here is this forward address so throughout this smart contract uh the chain link automation
+1:47:521 hour, 47 minutes, 52 secondsdone will actually trigger my update uh price details function and if you don't want your smart contract to be spammed
+1:48:001 hour, 48 minutesor if you want your smart contract to be called only from a certain accounts as is is the case with our smart contract
+1:48:091 hour, 48 minutes, 9 secondsbecause if you go here only automation forwarder or or owner can call and this is the modifier only automation
+1:48:171 hour, 48 minutes, 17 secondsforwarder or owner that means that we need to call the set automation forwarder function and provide the automation for the address which is this
+1:48:241 hour, 48 minutes, 24 secondsone so I'm going to copy this address to clipboard over here go back to real estate
+1:48:321 hour, 48 minutes, 32 secondstoken. call the um set automation forwarder let's see set automation forward over here
+1:48:411 hour, 48 minutes, 41 secondspaste this address hit transact and this is the last transaction that I'm going to execute for today for this exercise once
+1:48:501 hour, 48 minutes, 50 secondsthis transaction is completed and included in an X BLX which just happened that means that we successfully set up this flow with time based ups and we can
+1:48:591 hour, 48 minutes, 59 secondsnow relax and because it'll just call our function um uh each each day at midnight
+1:49:081 hour, 49 minutes, 8 secondsUDC I think so that'll be pretty much it the last step over here is how you can
+1:49:151 hour, 49 minutes, 15 secondsenable crushing transfers and in the interest of time I won't do that because it will take us like another 10 minutes but essenti you're just going to deploy
+1:49:241 hour, 49 minutes, 24 secondsyour real estate token smart contract to a new blockchain let's say polygon Amoy and let's imagine actually that we deployed real estate token to polygon
+1:49:321 hour, 49 minutes, 32 secondsAmo let's say I just deployed it works great now on both Fuji and Amoy Amoy are
+1:49:401 hour, 49 minutes, 40 secondsgoing to call the enabled chain function and provide the chain selector the address of real estate tokens and CCP ex
+1:49:461 hour, 49 minutes, 46 secondsArguments for uh for Amo and all the other chains and again and I'm going to
+1:49:531 hour, 49 minutes, 53 secondsgo back to Amoy and call the enial chain there and provide details about my smart contract real estate token ASL on Fuji
+1:50:031 hour, 50 minutes, 3 secondschain selector of Fuji and CCP extra arguments by doing that I'm going to link them and after that we we're just
+1:50:101 hour, 50 minutes, 10 secondsgoing to be able to enable Crush chain transfers so essentially imagine that I
+1:50:171 hour, 50 minutes, 17 secondsjust deployed real estate token to Amo and then here I switch chain in
+1:50:231 hour, 50 minutes, 23 secondsmetamask and I found this enabled chain so for chain selector there'll be uh let's see this is functions so
+1:50:331 hour, 50 minutes, 33 secondslet's go to ccip test net so we are looking for a chain selection of polygon Amoy right so I hope I pronouncing that
+1:50:411 hour, 50 minutes, 41 secondsright it's over here so I'm going to write this chain selector right so put it over here here is going to be the address of my real estate token on Amo
+1:50:501 hour, 50 minutes, 50 secondsso I'm just gonna grab that from here and CCP actra arguments uh you know like you can just encode it to be empty or
+1:50:591 hour, 50 minutes, 59 seconds200,000 or whatever depends on your us case if you remember uh CCP boot camp we had that nice helper function contract
+1:51:061 hour, 51 minutes, 6 secondsover there pass paste that hit transact and you will be able to send and receive uh CCP messages from and to polygon am
+1:51:161 hour, 51 minutes, 16 secondson the from this SM contract and to this SM contract and polygon Amoy basically enabling burn and mint mechan
+1:51:231 hour, 51 minutes, 23 secondsISM uh using CC that'll be it a lot of stuff uh just
+1:51:311 hour, 51 minutes, 31 secondsgo easy we're just going to give you some time to to perform this exercise nice and easy steady and once
+1:51:391 hour, 51 minutes, 39 secondsyou do that uh as a homework you can submit the address of real estate token and issure with this form actually save
+1:51:481 hour, 51 minutes, 48 secondsthis form for tomorrow because once you deploy these two contracts as well and perform transactions not just deploy
+1:51:551 hour, 51 minutes, 55 secondscontracts but do all these steps so I can see transactions submit them WEA this form you have uh deadline for
+1:52:021 hour, 52 minutes, 2 secondsOctober 4th and we're going to review those submissions and if you score more than 80% of more so all these steps
+1:52:111 hour, 52 minutes, 11 secondsyou're going to earn the onchain certificate of completion of this token as rwaa boot camp okay so that'll be it
+1:52:191 hour, 52 minutes, 19 secondsnow I'm going to play some music I'm going to stick around answer questions and uh just try to do this this this
+1:52:271 hour, 52 minutes, 27 secondsexercise number one by yourself if you have any issues uh I'm here to help and so is Richard uh so yeah let's first
+1:52:351 hour, 52 minutes, 35 secondsfind some music uh and start with the exercise
+1:52:421 hour, 52 minutes, 42 seconds[Music]
+1:52:451 hour, 52 minutes, 45 secondspart let's see where the music is I'll do you want some Loi maybe I'll
+1:52:521 hour, 52 minutes, 52 secondswe'll start with low five music doesn't work we canchange how does that
+1:52:561 hour, 52 minutes, 56 seconds[Music]
+1:53:131 hour, 53 minutes, 13 secondssound okay I lowered the the music down a bit but if it's too loud or whatever I can adjust it if you don't like the
+1:53:201 hour, 53 minutes, 20 secondsmusic I can change it and yeah now I'll try to uh answer questions okay cool I'm
+1:53:291 hour, 53 minutes, 29 secondsalmost done with all the stuff do we need to verify the contracts as well for the homework if you have time you you can uh but you know it's not hardnesses
+1:53:381 hour, 53 minutes, 38 secondshowever you like former music was better okay uh I'll try to find a
+1:53:441 hour, 53 minutes, 44 secondsformer if I remember ah I think was this is this one good
+1:53:541 hour, 53 minutes, 54 secondsuh okay
+1:53:581 hour, 53 minutes, 58 seconds[Music]
+1:54:111 hour, 54 minutes, 11 secondscool let's see uh speaking of time we have I think a little over 1 hour so
+1:54:191 hour, 54 minutes, 19 secondsplenty enough time for you guys to do the exercise to ask questions I'll be around for the during the whole uh
+1:54:261 hour, 54 minutes, 26 secondssession so
+1:54:381 hour, 54 minutes, 38 secondsyeah okay cool what does it mean if the computation status is green but the call
+1:54:441 hour, 54 minutes, 44 secondsback failed is this okay no so confutation is like first you create a
+1:54:511 hour, 54 minutes, 51 secondsrequest and then computation is part of like where each node in the non exit your JavaScript code which consensus
+1:54:581 hour, 54 minutes, 58 secondsthat what not we want this to succeed in in my case first it fails because of that ipfs uh package import but
+1:55:061 hour, 55 minutes, 6 secondseventually succeeded the second one is callback is delivering your uh is delivering this message to your smart
+1:55:151 hour, 55 minutes, 15 secondscontract so if calling the fulfill fulfilled uh subscription failed it will
+1:55:211 hour, 55 minutes, 21 secondsfail as as well so if you want I can debug this right now with you on stage but we want both Greens in order to
+1:55:301 hour, 55 minutes, 30 secondshappen because that means that like result has been computed but we haven't delivered it
+1:55:421 hour, 55 minutes, 42 seconds[Music]
+1:55:451 hour, 55 minutes, 45 secondsproperly okay what needs to be filled for the dawn ID in automation for the dawn ID in automation we want the da ID
+1:55:551 hour, 55 minutes, 55 secondsuh this one of train link functions so this the same one because it will
+1:56:021 hour, 56 minutes, 2 secondsperiodically call uh this function so basically triggering the the functions request also if
+1:56:101 hour, 56 minutes, 10 secondsyou go over here uh we see that that's basically a f
+1:56:171 hour, 56 minutes, 17 secondsfunction argument of update price details so yeah this is the this is the ID this one we want to provide this one
+1:56:251 hour, 56 minutes, 25 secondsfrom training functions from here this this value okay
+1:56:421 hour, 56 minutes, 42 secondscall what else
+1:56:471 hour, 56 minutes, 47 seconds[Music]
+1:56:581 hour, 56 minutes, 58 secondsthis is an excellent question can we deployed uh to another test net I think and if yes is there any different
+1:57:051 hour, 57 minutes, 5 secondsconfiguration of arguments yes and yes so basically you want to deploy this to all services where chain link uh to all
+1:57:141 hour, 57 minutes, 14 secondsblockchains where chain link is and if I think yes if you click you can see here quick links in a docs over here right
+1:57:221 hour, 57 minutes, 22 secondsright over here you can see that where all of the on which blockchains all of the services are available so we are
+1:57:291 hour, 57 minutes, 29 secondsusing CCP we are using uh functions and we are using automation tomorrow we will use
+1:57:381 hour, 57 minutes, 38 secondsdata feeds as well so if you see all green checks that's where you can deploy your
+1:57:451 hour, 57 minutes, 45 secondssmart contracts so that'll be arbitrum Avalanche base uh theum
+1:57:521 hour, 57 minutes, 52 secondsaoia where else where else optimism seoa polygon Amo all of these blockchains works so we can just deploy to those
+1:58:011 hour, 58 minutes, 1 secondblockchains to those test Nets and then configuration is different right so for
+1:58:091 hour, 58 minutes, 9 secondsexample if you need to if you want to deploy to polygon Amo so CCP router address will be this one chain selector
+1:58:171 hour, 58 minutes, 17 secondswill be this one link address will be this one instead of for Fuji this this which are different values you can
+1:58:241 hour, 58 minutes, 24 secondscompare them for functions uh forward for functions router again go to supported networks and find it Flygon
+1:58:321 hour, 58 minutes, 32 secondsammo test net so functions router this one Don ID this one so it's all going to be different but you can and you should
+1:58:401 hour, 58 minutes, 40 secondsalways grab them from the official chaining docks and it's it can actually be a nice exercise to maybe deploy to
+1:58:481 hour, 58 minutes, 48 secondssome other blockchain not just because of the facets and and whatnot uh to see whether it's going to work because essentially you know like you
+1:58:561 hour, 58 minutes, 56 secondswant to just switch config details the rest of the code base will be the same and it's a good test for you whether you
+1:59:031 hour, 59 minutes, 3 secondsuh understand uh all the lines in the code base which you definitely should and uh will be able to after this after
+1:59:111 hour, 59 minutes, 11 secondsthis boot camp so I'm going to hide this comment you are
+1:59:161 hour, 59 minutes, 16 seconds[Music]
+1:59:181 hour, 59 minutes, 18 secondswelcome also uh as I said we'll have a little we'll have uh 1 hour for for the
+1:59:251 hour, 59 minutes, 25 secondsexercise part because unfortunately uh Olympia team won't join us so whoops
+1:59:331 hour, 59 minutes, 33 secondslet's so this uh during the last minute cancellation and conflict uh we're going to skip this talk so that means more
+1:59:411 hour, 59 minutes, 41 secondsexercise time for us and hopefully we will hear from from Andre some other time so yeah more time for exercise take
+1:59:501 hour, 59 minutes, 50 secondsyour time slowly answer question ask questions uh and uh yeah I'll try to answer
+1:59:581 hour, 59 minutes, 58 secondsthem uh hey Andre are you coming to the hack Hacker House unfortunately no I won't be uh there will be some other
+2:00:062 hours, 6 secondscolleagues of mine in developer relation Engineers but for me it's like uh I have other commitments and other priorities
+2:00:132 hours, 13 secondsto finish uh and yeah some some other folks from APAC region will will join you in the hacker house I'll support
+2:00:212 hours, 21 secondsvirtual so yeah unfortunately we will not meet each other in person uh but yeah you can always ping
+2:00:282 hours, 28 secondsme on Twitter um very Advanced tools many thanks you're welcome too web I hope you find this
+2:00:372 hours, 37 secondsuseful uh okay cool let's see more questions more questions uh could you show us again how to put withrawal Soul
+2:00:452 hours, 45 secondsunder withdrawal yeah that's it's really simple so if you go to file
+2:00:532 hours, 53 secondsExplorer basically this is a root folder and I have all of these contracts in root then in the utils folder there is
+2:01:022 hours, 1 minute, 2 secondswithdraw so what you will do is you will create utils I'll just do U one because
+2:01:092 hours, 1 minute, 9 secondsyou know I have already that folder so create that folder and then create new file
+2:01:162 hours, 1 minute, 16 secondswithdraw. inside that folder and you're done I'm just going to delete it now
+2:01:242 hours, 1 minute, 24 secondsokay that's
+2:01:342 hours, 1 minute, 34 secondsit um great session thank you okay
+2:01:432 hours, 1 minute, 43 secondswell let's see if there's any technical questions for the session oh this is a nice one can we
+2:01:512 hours, 1 minute, 51 secondstalk is social media account of user on decentralized social media which will work in crutching platform yes yes yes
+2:01:582 hours, 1 minute, 58 secondsthe cool thing about uh decentralized social medias I don't know like lens or other protocols is that you own the the
+2:02:082 hours, 2 minutes, 8 secondsaccount so technically you you already have the nft represent the ownership of that social media account what you can
+2:02:162 hours, 2 minutes, 16 secondsdo is because it's onchain is really easy you can just utilize it uh and and you know add extra functionality on top
+2:02:252 hours, 2 minutes, 25 secondsof it whatever you want in a additional smart contract and you know add CCP stuff like as I did like with this cross
+2:02:332 hours, 2 minutes, 33 secondschain burn and MC 1155 smart contract and that's it yeah you you you had it so with onchain social media stuff it's
+2:02:412 hours, 2 minutes, 41 secondsdesent social media is really easy it's really easy also is possible with with traditional web to social media through training functions so you just need to
+2:02:502 hours, 2 minutes, 50 secondsconnect uh through through their apis like that but with on stuff it's much easier of
+2:02:582 hours, 2 minutes, 58 secondscourse um what else what else uh thank you it was an amazing session thank you very much I appreciate
+2:03:072 hours, 3 minutes, 7 secondsthat uh thanks thank you I really appreciate that so yeah I'll try to make this medium to Advan sessions because
+2:03:152 hours, 3 minutes, 15 secondslike uh to show you like more advanced stuff because like training platform is awesome like you can do a lot of stuff just we don't have time to to show you
+2:03:242 hours, 3 minutes, 24 secondsall of that but if you if you like these medium to Advanced sessions maybe even more advanced just thumbs up or whatever
+2:03:312 hours, 3 minutes, 31 secondslike tweet me on Twitter uh like so if if you're into that we can create even more advanced stuff like really really
+2:03:392 hours, 3 minutes, 39 secondsmore advanced stuff uh okay cool I have an error on real estate token and iser please uh
+2:03:462 hours, 3 minutes, 46 secondsdrop the AR in the chat so I can help uh is there a training hackathon going on no uh no not I think the next
+2:03:562 hours, 3 minutes, 56 secondsone will be in spring so but don't get me on that currently there is no CH heon going on just follow our socials more details there but I think the next one
+2:04:052 hours, 4 minutes, 5 secondswill be in Spring actually uh okay this is probably true it's either
+2:04:142 hours, 4 minutes, 14 secondsImports or Optimizer notr or EV version 2 Paris slowly take your time just follow the steps carefully
+2:04:222 hours, 4 minutes, 22 secondsand that's it
+2:04:282 hours, 4 minutes, 28 seconds[Music]
+2:04:322 hours, 4 minutes, 32 secondsokay oh a lot of questions sorry oh this is a good one uh so I
+2:04:402 hours, 4 minutes, 40 secondsthink essentially this question is what if I have some private data like API keys or secret or something or some
+2:04:482 hours, 4 minutes, 48 secondssecrets that uh that you know like I don't want to be
+2:04:542 hours, 4 minutes, 54 secondsuh exposed yes that's possible so I'm going to go to chaining dogs sorry about
+2:05:022 hours, 5 minutes, 2 secondsthis so dogs. chain. link chaining functions guides and you can see that
+2:05:112 hours, 5 minutes, 11 secondsyou can use non-hosted secrets in your quests so first of all you want to gr to to go through this
+2:05:172 hours, 5 minutes, 17 secondsguide um to see how you can set up your environment how you should write your code to consume uh your your uh secrets
+2:05:272 hours, 5 minutes, 27 secondsso basically um you can see you have a different function arguments need to be added so I'm not going to go through all
+2:05:352 hours, 5 minutes, 35 secondsthe code right here it's a bit different but it's really straightforward and also I'm going to scroll up back over here there is like a
+2:05:432 hours, 5 minutes, 43 secondsSecrets management page specifically explaining how to do it and threshold encryptions and all the on the technical
+2:05:512 hours, 5 minutes, 51 secondsdetail details behind so uh so you'll want to check this so essentially you
+2:05:572 hours, 5 minutes, 57 secondscan uh you have two locations to be hosted uh remote or non hosted essentially what you want to know is
+2:06:062 hours, 6 minutes, 6 secondsthat you are not TR like one node in a dawn will not be able to see uh to get
+2:06:132 hours, 6 minutes, 13 secondsthe whole secret so there will be like fragmented in chart for security reasons and then nodes will need to communicate between themselves to recreate the
+2:06:222 hours, 6 minutes, 22 secondssecret from Shard for their execution and then once the execution of JavaScript code is done it will
+2:06:292 hours, 6 minutes, 29 secondsimmediately uh uh it will immediately destroy the secret uh that's how it pro it's program you can see the source code
+2:06:382 hours, 6 minutes, 38 secondson GitHub so this is the extremely safe way to share your secrets and final thing after you read all that is if you
+2:06:472 hours, 6 minutes, 47 secondsgo to yeah supported networks over here let's go to suppo attest for example these are end points like don't host the
+2:06:552 hours, 6 minutes, 55 secondsremotes you're going to use one of these and that's it that's how it works I hope I answer this in a short time frame but
+2:07:042 hours, 7 minutes, 4 secondsyeah this is like a two minute crash course on on this thing but yeah exem great question this is
+2:07:122 hours, 7 minutes, 12 secondsgreat uh okay okay cool uh failing to compile okay please again so
+2:07:222 hours, 7 minutes, 22 secondswhen you go to compiler select 0.824 go to Advanced configurations tab
+2:07:292 hours, 7 minutes, 29 secondsopen it for evm version set Paris instead of default set Paris click check this enable optimization checkbox and
+2:07:382 hours, 7 minutes, 38 secondsset it to 200 runs that's it if you are using hard or Foundry check their docs it's extremely
+2:07:452 hours, 7 minutes, 45 secondsstraightforward to turn Optimizer there but you need to turn Optimizer okay
+2:07:522 hours, 7 minutes, 52 secondsuh yeah I I I'm not sure I think there won't be full hack and don't get me that
+2:07:592 hours, 7 minutes, 59 secondsI'll definitely tweet if there is one but I think that's how it's going to be this year
+2:08:062 hours, 8 minutes, 6 secondsunfortunately uh we'll see but there is a hacker house I think more more news after the hacker
+2:08:142 hours, 8 minutes, 14 secondshouse uh I think there's one in October maybe right now I need to double check my my sorry about this guy
+2:08:222 hours, 8 minutes, 22 secondsbut definitely it's it's on chaining socials social um okay cool cool cool
+2:08:302 hours, 8 minutes, 30 secondscool are there interships and chaining clabs I don't know but we have like careers page on chaining claps so check
+2:08:382 hours, 8 minutes, 38 secondsthat one maybe there's more detail there I really don't know it'll be cool if there re will like yeah but I don't
+2:08:462 hours, 8 minutes, 46 secondsknow um okay I answered this one okay great session thank you very much
+2:08:552 hours, 8 minutes, 55 secondsoh uh good one what is the that's the address of real estate token. smart contract I grab piece of the code from
+2:09:042 hours, 9 minutes, 4 secondsCCP boot camp and forget to change the argument variable and now it looks really dumb sorry about this but yeah that's the one
+2:09:132 hours, 9 minutes, 13 secondssorry um if I want to do this once more can I just use the same Works spacing remix as
+2:09:202 hours, 9 minutes, 20 secondswell as automation yes yes you can just repeat the process you can even use the the one that you started it it works
+2:09:282 hours, 9 minutes, 28 secondsfine either way yes thoughtfully do like you can watch the recording of this at your own pce study it
+2:09:382 hours, 9 minutes, 38 secondsworks uh can I self host private down notes
+2:09:472 hours, 9 minutes, 47 secondsno um oh this is a good one uh is there a way to provide data from it device to Smart
+2:09:562 hours, 9 minutes, 56 secondscontracts but in a decentralized way and what is the best way to do that yes you can do that actually using chaining functions again because chaining
+2:10:052 hours, 10 minutes, 5 secondsfunctions where is that diagram I think it's over here it's a decentralized I think there is a diagram
+2:10:132 hours, 10 minutes, 13 secondssomewhere it's a decentralized ways to way to to to get offchain data and computation and the thing is that
+2:10:212 hours, 10 minutes, 21 secondsbecause every single node will execute your uh JavaScript code and following the previous guide like uh question from
+2:10:312 hours, 10 minutes, 31 secondsprevious guy for whoops sorry about this for uh where is that for Secrets
+2:10:382 hours, 10 minutes, 38 secondsmanagement you can also provide uh API keys for your iot devices like I don't know wearable Smartwatch if you have and
+2:10:462 hours, 10 minutes, 46 secondswant to connect to stava API and you run for this amount of kilometers and now you want to have onchain uh to earn
+2:10:542 hours, 10 minutes, 54 secondsonchain tokens because of that some stuff like that so that was like a really cool actually project in hack using this thing we can also go to use
+2:11:022 hours, 11 minutes, 2 secondschain link function.com and here if I search for it I think
+2:11:122 hours, 11 minutes, 12 secondsthere will be one example or something uh or variable St H there is one
+2:11:212 hours, 11 minutes, 21 secondsexample uh I'll just need to find it literally connects to API uh to it device it's not
+2:11:302 hours, 11 minutes, 30 secondstechnically it it's like a smartwatch but there should be one for it but yeah that's how you do it like it's it's it's
+2:11:372 hours, 11 minutes, 37 secondsdefinitely possible uh all of these examples are really cool because you can just Inspire yourself
+2:11:442 hours, 11 minutes, 44 secondsto uh to to like have this one is cool like prompting AI for response to to a bunch of different different bunch of
+2:11:522 hours, 11 minutes, 52 secondsdifferent um use cases and of course if you scroll down all the way here it's like a lot of examples you can add
+2:12:002 hours, 12 minutesexample on your own as well or is that yeah so you can add your own example pretty easy pretty
+2:12:072 hours, 12 minutes, 7 secondsstraightforward you just open a PR basically that's it uh open a PR some of you it and and that's
+2:12:172 hours, 12 minutes, 17 secondsit oh this is a great question can we transfer private dat message by CCP is it possible to hide it somehow this is
+2:12:242 hours, 12 minutes, 24 secondsan excellent question so CCP sends raw byes data so this is chicken and Ne problem I
+2:12:332 hours, 12 minutes, 33 secondsthink on on blockchain but if you find a way to encrypt it and hide it on blockchain then you can is the same
+2:12:422 hours, 12 minutes, 42 secondsthing as with CCP how to rephrase that you somehow needs to uh you somehow
+2:12:492 hours, 12 minutes, 49 secondsneeds to encod code your Vice data secretly and then on the other side you need to decode it using some kind of key
+2:12:582 hours, 12 minutes, 58 secondsright but also this algorithm will be on chain right so it's really hard question and really hard problem but it's hard
+2:13:072 hours, 13 minutes, 7 secondsbecause of the blockchain not because of the ccip I think I answer your question at least sorry that's the best I can do
+2:13:142 hours, 13 minutes, 14 secondsbut yeah in theory yes in practice it's it's not that easy uh thank you for yeah thank you for
+2:13:232 hours, 13 minutes, 23 secondshelp thank you very much guys for joining I'm I'm really I'm really glad to hear positive feedback about this stuff so yeah we're going to continue to
+2:13:302 hours, 13 minutes, 30 secondscreate more more advanced content definitely
+2:13:382 hours, 13 minutes, 38 secondsum okay oh congrats so Roger finished the session early nice job don't forget
+2:13:442 hours, 13 minutes, 44 secondsto submit your contract addresses via that form after day two and if there are like all transaction cashes as as as I
+2:13:532 hours, 13 minutes, 53 secondssaid already uh you will receive on train certificate of completion for this bot Camp nice nice job
+2:14:022 hours, 14 minutes, 2 secondsum thank you for joining us see you see you tomorrow um using train functions in CCP
+2:14:122 hours, 14 minutes, 12 secondscan I incorporate a banking API to convert physical assets into rwa yes of course uh training functions allows you
+2:14:192 hours, 14 minutes, 19 secondsto connect to external API guys um you know like uh all all the technical stuff
+2:14:262 hours, 14 minutes, 26 secondsneeded for this is there like you can just connect uh now the only tricky part here is like the ownership of physical
+2:14:342 hours, 14 minutes, 34 secondsAssets in a real world but if that's solvable problem then yeah definitely this is really easy to be
+2:14:432 hours, 14 minutes, 43 secondsdone uh yes yes yes yes uh so this is live you YouTube video once we stop live
+2:14:512 hours, 14 minutes, 51 secondsstream the recording will be immediately available at our uh official YouTube channel so if you go to always that
+2:14:592 hours, 14 minutes, 59 secondsconnected here the second URL this is the official chain link YouTube channel or just type chain link on on YouTube
+2:15:072 hours, 15 minutes, 7 secondssubscribe and it should be uh live here playlist I'm afraid too afraid to click someone here while to not appear in
+2:15:172 hours, 15 minutes, 17 secondsinfinite Lo with live stream live stream but yeah it will be available immediately on demand so you can rewatch
+2:15:252 hours, 15 minutes, 25 secondsit uh yes where should we submit our results good question so there is a homework page over here so at the end so
+2:15:342 hours, 15 minutes, 34 secondsonce you have so after day two once you have RW ending an English auction exercise is done as well so you can
+2:15:412 hours, 15 minutes, 41 secondsclick via this form like submit via this form all four addresses so just wait for day two and deadline is October 4th so
+2:15:492 hours, 15 minutes, 49 secondsthat kind of ANS this question so yeah I know it's late you can still complete it go back to sleep relax you can rewatch The the
+2:15:582 hours, 15 minutes, 58 secondsrecording if you need it on demand later you just uh need to uh uh to to finish
+2:16:062 hours, 16 minutes, 6 secondsall of these three exercises provide these addresses so we can see transaction cashes that confirms that you that you completed the exercises and
+2:16:152 hours, 16 minutes, 15 secondsbefore October 4th uh uh at midnight eastern time uh submit via this form just click on it
+2:16:222 hours, 16 minutes, 22 secondsand that's it it's a simple type form it's it's really it's really easy it's takes you see one minute it's really
+2:16:292 hours, 16 minutes, 29 secondseasy just your email uh something right t.com
+2:16:362 hours, 16 minutes, 36 secondsand uh you know this is not going to be ethereum spolia Fuji but if you have
+2:16:432 hours, 16 minutes, 43 secondsissues with tokens can be any any that's not supported by training that's totally fine like uh blockchains are like the
+2:16:522 hours, 16 minutes, 52 secondsthe host blockchain is not that important because we have CCAP you can just transfer to whatever chain it's not that easy ethereum SEO was the original
+2:17:002 hours, 17 minutesdut but again look at this fees it's it's really it's really high and pay for so I'm going to just hit
+2:17:092 hours, 17 minutes, 9 seconds[Music]
+2:17:132 hours, 17 minutes, 13 secondsback um thank you you're welcome thank you for joining
+2:17:232 hours, 17 minutes, 23 secondsuh what will happen to the title of property well nothing I excluded that from the metadata because you
+2:17:292 hours, 17 minutes, 29 secondsknow I wanted to keep more interesting stuff uh I felt that the CCP boot camp
+2:17:382 hours, 17 minutes, 38 secondsis way harder than this one what will the next CCP boot camp be uh yeah well intentional uh because uh we hosted four
+2:17:472 hours, 17 minutes, 47 secondsCCP master classes and we wanted to level up up your your knowledge to be beyond the the simple examples uh but if
+2:17:572 hours, 17 minutes, 57 secondsthat was too hard there's also uh again always said connected my favorite page there's also this uh more
+2:18:062 hours, 18 minutes, 6 secondsbeginner friendly boot camp in November so maybe you can join that one uh of course uh this one is not that hard
+2:18:162 hours, 18 minutes, 16 secondsbecause you're just following exercises but like to recreate or adapt your use case using these contracts it's a bit harder and a bit more Advance not that
+2:18:242 hours, 18 minutes, 24 secondsmuch but yeah uh when the next CCP boot camp will be uh I don't have exact dates but there
+2:18:332 hours, 18 minutes, 33 secondsshould be another one CCP Master Class number five so there should be I'm not 100% sure of that I want to do it so
+2:18:402 hours, 18 minutes, 40 secondsfollow our socials I don't have a timeline but hopefully it will be another one
+2:18:482 hours, 18 minutes, 48 secondsuh so yeah the plan is to have CCP Master Class number five now when I don't know really
+2:18:552 hours, 18 minutes, 55 secondsI haven't started working on it so yeah I don't know uh
+2:19:032 hours, 19 minutes, 3 secondsokay uh anything in chain link so multiple rwi contracts are created in the same asset well not not technically
+2:19:092 hours, 19 minutes, 9 secondslike a training problem it's more like a design uh design of
+2:19:172 hours, 19 minutes, 17 secondsum of your smart contract right so it's it's a solity problem I used the factory pattern because of like probably the
+2:19:252 hours, 19 minutes, 25 secondseasiest one or one of the easiest one but yeah technically it's possible just design your smart contracts in a way uh
+2:19:322 hours, 19 minutes, 32 secondsto have multiple contracts for the same asset and that's it so speaking of time
+2:19:382 hours, 19 minutes, 38 secondswe have I think 30 to 40 minutes left for the exercise because unfortunately Olympic team will not join us for this
+2:19:472 hours, 19 minutes, 47 secondssession uh so yeah we're just going to extend the uh the the the this coding exercise
+2:19:552 hours, 19 minutes, 55 secondsuh part so yeah feel free to take your time finish your homework now uh while we're on the live
+2:20:022 hours, 20 minutes, 2 secondsstream uh and we're going to have the talk with Lin team um uh next on the
+2:20:092 hours, 20 minutes, 9 secondsnext occasion next time okay uh all rocking thank you see
+2:20:162 hours, 20 minutes, 16 secondsyou tomorrow Diego Diego finished his exercise nice job but again as I said we have like 30 to 40 minutes so we still
+2:20:242 hours, 20 minutes, 24 secondshave time nice job do I'll see you tomorrow thanks for joining
+2:20:332 hours, 20 minutes, 33 secondsum the email I register with does not have my real name linked to it how can I get my name corrected on the certificate uh I
+2:20:402 hours, 20 minutes, 40 secondsthink uh the best question the best place to ask this question is on our Discord just go join our Discord go to
+2:20:482 hours, 20 minutes, 48 secondsboot camp uh to boot camp uh server to putam channel on the server post this question there text us and someone from
+2:20:562 hours, 20 minutes, 56 secondsthe team will provide you more info uh we should be able to to figure this out no
+2:21:032 hours, 21 minutes, 3 secondsworries it's a technicality it happens thank you so much it was really informative thank you for joining see you tomorrow really appreciate it I hope
+2:21:122 hours, 21 minutes, 12 secondsthis was a useful usage of your time we try to make something a bit more advanced uh this time uh can we use any API in functions
+2:21:212 hours, 21 minutes, 21 secondsfor example the API of more your own project yes yes yes uh for example like you can have like your server your back
+2:21:292 hours, 21 minutes, 29 secondsend Expos with bunch of stuff bunch of security measurements you want to you care about complex logic whatever and then you can just make have a simple
+2:21:372 hours, 21 minutes, 37 secondsJavaScript code to make API call and get a response and then pass that response to to Smart contract that's that's
+2:21:452 hours, 21 minutes, 45 secondsthat's preferable way actually I will say because it's like much more customizable so yes that it is possible
+2:21:522 hours, 21 minutes, 52 secondsum thank you thank you thank you thank you thank you guys um I yeah I'll see you I'll see you
+2:22:002 hours, 22 minutestomorrow uh I hope uh yeah I'm glad to see positive comments also like negative feedback is all fine like if you so like
+2:22:082 hours, 22 minutes, 8 secondsyou're talking too fast or this is too easy or this is too hard or like that's that's that's the all that's that's all
+2:22:152 hours, 22 minutes, 15 secondsgreat uh we try to um we try to listen to your feedback we all always listen to your feedback and then we try to adapt
+2:22:232 hours, 22 minutes, 23 secondsour content based on your feedback so yeah any feedback is appreciated uh okay cool see you
+2:22:312 hours, 22 minutes, 31 secondstomorrow if there's like more questions feel free to drop them in the chat we're going to listen to this lowfy music
+2:22:382 hours, 22 minutes, 38 secondsnow uh and yeah as I said more time for exercise because limpia team will not join us unfortunately there the last
+2:22:462 hours, 22 minutes, 46 secondsminute conflict um but yeah thank you see I think I'm know kind of like I'm
+2:22:542 hours, 22 minutes, 54 secondslike a host of a radio uh radio session or radio show because like you're listening to music I'm just talking to
+2:23:022 hours, 23 minutes, 2 secondsyou guys uh but yeah uh oh this is a great question so yeah
+2:23:102 hours, 23 minutes, 10 secondsso you'll receive your pope on your email address then you will have a unique minting URL just for you don't
+2:23:192 hours, 23 minutes, 19 secondsshare it with anyone and then you'll provide or connect your wallet and pro provide your wallet address and that's how you will you will mint it so we're
+2:23:272 hours, 23 minutes, 27 secondsjust going to provide you with the unique link to Mint the onch certification of completion uh the rest is
+2:23:352 hours, 23 minutes, 35 secondsonly um yes it's really high I don't know why I think it's been like for a week now as you can see here it's mostly
+2:23:442 hours, 23 minutes, 44 secondsred like look at this it is like really high uh and you know when I build some last minute testing last week I needed
+2:23:532 hours, 23 minutes, 53 secondsto switch to Fuji because like this is this is ridiculous uh but yeah as I said like if
+2:24:012 hours, 24 minutes, 1 secondFuji is too high or you don't have tokens whatever like you can deploy to ammo you can deploy to Optimus ofoia AR any blockchain works just you need to do
+2:24:092 hours, 24 minutes, 9 secondsthese exercise on on any blockchain and be mindful of config details so config details will be different but you already know that this is this is this
+2:24:182 hours, 24 minutes, 18 secondsis a medium to advanc session so you should be able to uh to figure this out thank you thank you see you tomorrow
+2:24:262 hours, 24 minutes, 26 secondsthank you great job congrats to anyone finishing the exercise earlier uh is there a way to get more
+2:24:352 hours, 24 minutes, 35 secondsfor contract deployment uh we have our official facet uh if that's not enough I don't know ask on Twitter or come back
+2:24:442 hours, 24 minutes, 44 secondstomorrow because of the limits or just deploy to other test Network like it's really a problem with t n not us sorry
+2:24:542 hours, 24 minutes, 54 secondslike you know yeah we try like honestly personally like I like to do everything
+2:25:012 hours, 25 minutes, 1 seconduh in in Foundry uh because you know like that's how I do the development but once testing come you need to to go to
+2:25:102 hours, 25 minutes, 10 secondstest NS also Alchemy has a pretty decent faucet so maybe try with them Avalanche should have their own facet like maybe
+2:25:172 hours, 25 minutes, 17 secondstry Avalanche official faucet and yeah so hopefully we'll yeah you'll find
+2:25:252 hours, 25 minutes, 25 secondsit uh should I create a market for it for tesna tokens please no if for our
+2:25:332 hours, 25 minutes, 33 secondsthis one dou great but for tesna tokens no tesna tokens should be easy and available to everyone easy to get and available for everyone because it's just
+2:25:412 hours, 25 minutes, 41 secondsfor Tes testing purposes for example are link tokens like available like we never had issues with link tokens right it's
+2:25:492 hours, 25 minutes, 49 secondsjust this guess tokens uh thank you thank you thank you uh how to fix uh maybe you can just drop
+2:25:572 hours, 25 minutes, 57 secondsme the URL or your functions request and maybe I can show you now live how you can debug stuff with training functions
+2:26:052 hours, 26 minutes, 5 secondsif you're comfortable with that just paste me the URL of your function subscription like this so functions fui
+2:26:132 hours, 26 minutes, 13 secondsyour ID and then I'll show you how to debug it on J okay
+2:26:202 hours, 26 minutes, 20 secondsuh can I use RC71 standard yes absolutely even like we started with this project for the block Magic hakatan
+2:26:292 hours, 26 minutes, 29 secondsand at the time I use 721 but I switched to 1155 because we can also have like fractional assets and that UNS like much
+2:26:382 hours, 26 minutes, 38 secondsmore use cases because you can sell the portion or do something with the portion of your real uh real world assets instead of the whole thing like with
+2:26:462 hours, 26 minutes, 46 secondstc71 you when you transfer you transfer the whole the whole thing with 1155 it's it's a bit more flexible in that term so
+2:26:542 hours, 26 minutes, 54 secondsbut yeah definitely here 27155 uh all
+2:27:002 hours, 27 minutespossible um yeah tomorrow or Alim or official facet yeah we have time until
+2:27:072 hours, 27 minutes, 7 secondsOctober 4th so yeah um what else what else what
+2:27:162 hours, 27 minutes, 16 secondselse what is your preferred configuration for ID configuration without using remix but through ID with hardhead or Foundry I use both although
+2:27:252 hours, 27 minutes, 25 secondsI like Foundry more
+2:27:342 hours, 27 minutes, 34 secondsuh Contra creating Cod storage out of gas how much gas it requested for this transaction it's probably because of the
+2:27:432 hours, 27 minutes, 43 secondsgas issues unfortunately um yeah t Nets are hard we are trying to to deal with them but
+2:27:522 hours, 27 minutes, 52 secondsyeah it's it's not it's not always that easy all right we have 20 to 30 minutes
+2:28:002 hours, 28 minutesleft I think so you know uh if you have any more
+2:28:092 hours, 28 minutes, 9 secondsquestions uh you can drop them in a chat I'm here for you guys if you want to send me that function subscription to
+2:28:172 hours, 28 minutes, 17 secondsenable uh to debug it I can show you that as well
+2:28:262 hours, 28 minutes, 26 secondsum okay so how do we enable chain let's let's go here so to enable
+2:28:332 hours, 28 minutes, 33 secondschain go to remix let's close this thing let's find
+2:28:402 hours, 28 minutes, 40 secondsthe enabled train first of all uh that's here okay so enable
+2:28:472 hours, 28 minutes, 47 secondschain function is here so you need to provide chain selector grab from the docks address of token
+2:28:552 hours, 28 minutes, 55 secondsfrom the docs uh from you deployed and probably the error you're seeing is uh because of the bytes value so you need
+2:29:032 hours, 29 minutes, 3 secondsto provide the bytes value of CCP arguments now if I go to let's say CL uh
+2:29:112 hours, 29 minutes, 11 secondsCC boot camp right here uh we also have like other boot
+2:29:192 hours, 29 minutes, 19 secondscamps and uh I'll I'll send you the link but I want just want to find this
+2:29:262 hours, 29 minutes, 26 seconds[Music]
+2:29:302 hours, 29 minutes, 30 secondspart the metadata development best practices extra arguments yeah here it is this is a script so you want to have
+2:29:392 hours, 29 minutes, 39 secondsa script something like this where you can uh provide gas limit for example
+2:29:462 hours, 29 minutes, 46 secondslike 300,000 and then it will rever return this extra AR bytes or with if there is a new version two of CCP extra
+2:29:552 hours, 29 minutes, 55 secondsarguments you're just going to create a new version to incode and what not like it's it's the best practice you can also see in the official dogs that extra
+2:30:032 hours, 30 minutes, 3 secondsarguments should be mutable right but essentially you want to provide uh you want to provide uh some bytes data
+2:30:122 hours, 30 minutes, 12 secondsnow it will work look something like this let me just find it you you Al obviously want to calculate that by s
+2:30:202 hours, 30 minutes, 20 secondsbut if I search okay so uh no sorry extra
+2:30:292 hours, 30 minutes, 29 secondsARS bytes so where is that
+2:30:372 hours, 30 minutes, 37 secondsvaluee yeah so it will look something like this so again you'll need to calculate it right probably is going to
+2:30:452 hours, 30 minutes, 45 secondsbe the same depends on depends on um on the guest limage but you'll just provide
+2:30:512 hours, 30 minutes, 51 secondssomething like this uh to to enable chain here and change selector and I think
+2:31:012 hours, 31 minutes, 1 secondthat's the reason why we're getting this error I'm going to I'm going to share
+2:31:072 hours, 31 minutes, 7 secondsthis contract with you so that'll be extra argents here wh I'm going to
+2:31:162 hours, 31 minutes, 16 secondspaste it in a chat and you can grab that helper contract from here do not deploy it testnet just
+2:31:242 hours, 31 minutes, 24 secondsdeploy it to local Cancun environment or Foundry or whatever because like to save on gas um you can use it as a helper to
+2:31:332 hours, 31 minutes, 33 secondscalculate it you can also perform this in JavaScript or tpor any other actually language it's pretty straightforward with the support of ABI encoding but
+2:31:422 hours, 31 minutes, 42 secondsyeah hope this answer your questions question um
+2:31:522 hours, 31 minutes, 52 secondsoh I'll try to DP it off I don't know if I have any but yeah um I'll try if not
+2:31:592 hours, 31 minutes, 59 secondsmaybe try some other test net yeah or a fork or yeah we'll figure that something out
+2:32:082 hours, 32 minutes, 8 secondsuh you can always ask us on on Discord there is a boot camp uh boot uh
+2:32:152 hours, 32 minutes, 15 secondsChannel you're welcome all right let me grab some water I'm
+2:32:222 hours, 32 minutes, 22 secondsreally thirsty from all this
+2:32:262 hours, 32 minutes, 26 seconds[Music]
+2:32:352 hours, 32 minutes, 35 secondstalking you can find the link to Discord over here or as I said where is our boot
+2:32:432 hours, 32 minutes, 43 secondscamp where is our G book it's over here as well in always stay connected page is this a bit bigger yeah let's Zoom it out
+2:32:512 hours, 32 minutes, 51 secondsokay cool so yeah you can ask questions there cool we still going to play some
+2:33:002 hours, 33 minutesLoi once you're done uh make sure to save your contract addresses because you want to submit them tomorrow after day
+2:33:092 hours, 33 minutes, 9 secondstwo for for homework using that type form
+2:33:202 hours, 33 minutes, 20 secondsum yeah as I said if you have questions drop them if you're done also say that so we can maybe even finish this earlier
+2:33:302 hours, 33 minutes, 30 secondsdepends if all you're done but if not like we still have plenty of time for you to complete this exercise so do not
+2:33:382 hours, 33 minutes, 38 secondsuh do not hesitate to reach out don't be shy ask questions uh I I still I I mean I have time to even help you with with
+2:33:462 hours, 33 minutes, 46 secondsdebugging of functions part and show you some debug TI and tricks or whatnot so anything related to chaining token
+2:33:542 hours, 33 minutes, 54 secondstokenized drill or assets or uh or solidity is a good question I'll help you thank you see you tomorrow congrats
+2:34:022 hours, 34 minutes, 2 secondsMauricio on completing the excis for day one nice
+2:34:082 hours, 34 minutes, 8 seconds[Music]
+2:34:102 hours, 34 minutes, 10 secondsjob and yeah questions about musical also are also welcome well try to to accommodate your requests regarding
+2:34:182 hours, 34 minutes, 18 secondsmusic I think this song is pretty popular or this mix so yeah I'm going to mute myself for a
+2:34:262 hours, 34 minutes, 26 secondsminute
+2:34:312 hours, 34 minutes, 31 seconds[Music]
+2:34:472 hours, 34 minutes, 47 seconds[Music]
+2:34:532 hours, 34 minutes, 53 secondsthis is an excellent question how proof of Reserve can be valuable for this use case yeah
+2:35:002 hours, 35 minutesso for this use case we are using this update price details smart contract uh
+2:35:072 hours, 35 minutes, 7 secondsto you know like to get price details of real estate using functions and we calling automation to automate the
+2:35:152 hours, 35 minutes, 15 secondscalling of this function and whatnot like in reality if you have like real world asset uh and you want to use it in defi or
+2:35:222 hours, 35 minutes, 22 secondswhatever then you can just use instead of this mocking thing we will at this point we'll use proof of Reserve feeds
+2:35:302 hours, 35 minutes, 30 secondswe'll have a feed for our Reserve our real world assets and then um and then
+2:35:372 hours, 35 minutes, 37 secondslike the usage is extremely straightforward like if you go to data feeds uh there is a section of proof
+2:35:452 hours, 35 minutes, 45 secondsReserve feeds and different types of it and the usage is pretty much the same as with data feed so that's like a strength
+2:35:532 hours, 35 minutes, 53 secondsWay Forward but here we can find the addresses of proof Reserve basically and yeah for this purpose we will use Pro
+2:36:002 hours, 36 minutesReserve feeds instead of like you know bunch of reserves there instead of like me pinging functions for Price details
+2:36:092 hours, 36 minutes, 9 secondsbut it's like a mock property so that's
+2:36:152 hours, 36 minutes, 15 secondswhy okay nice someone po up faet thanks thanks team to whoever did this that
+2:36:232 hours, 36 minutes, 23 secondsthat wasn't me I was live on stage with you sharing my screen so that wasn't me but yeah thanks to any to whoever to
+2:36:302 hours, 36 minutes, 30 secondswhoever uh did this thank you thank you thank you um yeah I know uh there is an issue with
+2:36:392 hours, 36 minutes, 39 secondstest Nets with Bots I don't know why uh people are constantly spamming faets for all different T nuts from all different
+2:36:472 hours, 36 minutes, 47 secondslike I I don't know why but yeah that's why uh there's all those limits unfortunately not just our facet any
+2:36:562 hours, 36 minutes, 56 secondsfacet like Alchemy has a has a has a good good facet as well try that they're decent ones so
+2:37:032 hours, 37 minutes, 3 secondsyeah uh no like you can if you want to practice but uh I haven't I Didn't Do It
+2:37:132 hours, 37 minutes, 13 secondson live so you don't have to do it if you want you can but it's not like hard requirement since I didn't do it
+2:37:232 hours, 37 minutes, 23 secondsokay uh oh yeah this is this is important announcement so if you join today without registering through Luma
+2:37:322 hours, 37 minutes, 32 secondsjust pop up on YouTube and uh and watch it please please please register in
+2:37:392 hours, 37 minutes, 39 secondsorder to receive following communication you know like next steps well bunch of
+2:37:462 hours, 37 minutes, 46 secondsyou know like if you if you participate in other B camps it's it's a pretty standard flow but also like for homework
+2:37:532 hours, 37 minutes, 53 secondsfor uh certification of completion and all that stuff so please do not forget to re-register uh there is there is a
+2:38:002 hours, 38 minutesURL on our on our uh socials for for Lum oh nice congrats all done congrats fra
+2:38:092 hours, 38 minutes, 9 secondsseal or fra I hope I pronounced that correct it's a so yeah uh nice job and see you tomorrow and save these
+2:38:172 hours, 38 minutes, 17 secondsaddresses so we can submit them after day two nicely done
+2:38:252 hours, 38 minutes, 25 secondscongrats uh okay this is this is Great Unexpected feedback but I love it so Valerio said I finished a while ago
+2:38:342 hours, 38 minutes, 34 secondscongrats nice job on that but I'm enjoying following the stream as other users are asking us some questions that is true there there have been some great
+2:38:412 hours, 38 minutes, 41 secondsquestions I do feel like I'm a radio host or something or like twitch streamer because like I'm just talking
+2:38:492 hours, 38 minutes, 49 secondswith the music in the background but yeah this has been fun and as I said you can ask me anything about chain Ling solidity toiz real world assets even
+2:38:582 hours, 38 minutes, 58 secondsmusic don't ask question about faucets that's a painful Pro problem that no one is able to solve yet but yeah we're
+2:39:052 hours, 39 minutes, 5 secondsdoing our best uh cool thank you uh JJ ggu as well I think I pronounce that correctly see
+2:39:142 hours, 39 minutes, 14 secondsyou tomorrow uh i p listed the CCP router address to functions router address in
+2:39:222 hours, 39 minutes, 22 secondsthe gitbook oh okay so functions router and CCP router address are not the same so if you go to
+2:39:312 hours, 39 minutes, 31 secondswhere is functions. chain. link here on the on the homepage there is a
+2:39:382 hours, 39 minutes, 38 secondsfunctional router this address so this is not the same address as CCP router so grab it from here it's a different
+2:39:462 hours, 39 minutes, 46 secondsrouter different yeah different router contract different letters so yeah be careful with config
+2:39:532 hours, 39 minutes, 53 secondsdetails okay um obviously you can just grab them from uh from docs where is docs
+2:40:012 hours, 40 minutes, 1 seconddos so there'll be chaining functions supportting networks that's Fuji a Fuji testet and
+2:40:092 hours, 40 minutes, 9 secondshere's the function router so a9d 58 and the
+2:40:162 hours, 40 minutes, 16 secondsrest um okay
+2:40:202 hours, 40 minutes, 20 seconds[Music]
+2:40:312 hours, 40 minutes, 31 secondscool if let's see how we're dealing on time I think we have like 15ish minutes
+2:40:392 hours, 40 minutes, 39 secondsleft so yeah for for the exercise part so uh that should be more than enough to
+2:40:472 hours, 40 minutes, 47 secondsfinish of course if you cannot finish because of the test issues and you know like other stuff there's still time
+2:40:552 hours, 40 minutes, 55 secondsuntil October 4th you can always revisit tomorrow by by basically by the end of this week so yeah you can also ask any
+2:41:062 hours, 41 minutes, 6 secondsfollowup additional questions on Discord or while I'm here for the last 15 to 20 minutes here with this beautiful music
+2:41:142 hours, 41 minutes, 14 secondsin the background uh you can also ask questions uh directly in the chat
+2:41:202 hours, 41 minutes, 20 secondsjust drop them let's let's go back
+2:41:262 hours, 41 minutes, 26 secondsto to this page yeah and just a reminder that smarton is soon
+2:41:342 hours, 41 minutes, 34 secondsin Hong Kong uh at the end of the October October 30 and 31st but if you are
+2:41:422 hours, 41 minutes, 42 secondsaround in town there is a hacker house uh two days earlier I won't be there in person I will be as I said virtually
+2:41:502 hours, 41 minutes, 50 secondsonline helping and mentoring there really with some other folks I don't want to uh to say names so you can but yeah
+2:42:002 hours, 42 minutesuh some people that from developer relations team that you you interacted before and love will be uh uh present
+2:42:082 hours, 42 minutes, 8 secondsthere in person but it's going to be it's going to be a huge EV there will be even uh I
+2:42:152 hours, 42 minutes, 15 secondsthink there will be some some interesting um uh yes there will certifications so
+2:42:242 hours, 42 minutes, 24 secondsyeah that's what I like there will be certificates so yeah that's that's kind of
+2:42:312 hours, 42 minutes, 31 secondsinteresting uh so yeah try to try to earn your certificates day as well uh
+2:42:382 hours, 42 minutes, 38 secondsthere as well there will be talks workshops of course and specific courses regarding certification so that's that's
+2:42:462 hours, 42 minutes, 46 secondsnew thing compared to previous Hacker House uh will
+2:42:562 hours, 42 minutes, 56 secondsbe want participate that one to join that one and on day two there will be
+2:43:032 hours, 43 minutes, 3 secondsactually uh real there will be like certifications exams in person so you can earn your
+2:43:112 hours, 43 minutes, 11 secondscertification a certification there by by completing the exam of blockchain fundamentals and chaining fun
+2:43:192 hours, 43 minutes, 19 secondsfundamentals so it's like fundamentals uh certifications uh it's not that hard you you'll figure it out you'll learn it
+2:43:272 hours, 43 minutes, 27 secondsbut maybe if you're up for that maybe we can provide me some some feedback there maybe we can create some extremely Advanced like like top professional
+2:43:362 hours, 43 minutes, 36 secondslevel certification that'll be like hard to get but like we'll uh we'll prove you that you're like the expert in fill if you want that
+2:43:442 hours, 43 minutes, 44 secondslike drop drop feedback in the chat maybe we can think about that maybe for next year LC of course there's lunch
+2:43:512 hours, 43 minutes, 51 secondsmore workshops in real in in real life exams that'll be fun I'm I'm sorry I'm going to mix that in in in person but
+2:43:592 hours, 43 minutes, 59 secondsyeah that should be that should be like uh pretty pretty cool so yeah subscribe for that you can get your tickets there
+2:44:082 hours, 44 minutes, 8 secondsuh let's see and of course for the main smarton smarton conference here's the list of
+2:44:152 hours, 44 minutes, 15 secondsspeakers uh and homepage and how to get tickets and smartone should be really
+2:44:222 hours, 44 minutes, 22 secondsfun there is a developer best so yeah uh okay nice learning experience
+2:44:282 hours, 44 minutes, 28 secondsbuddy thank you very much uh whoops no yeah this one thank you very much and
+2:44:372 hours, 44 minutes, 37 secondssee you tomorrow I glad you enjoyed this uh okay this is an actual question how we can prevent meting the tokens of
+2:44:462 hours, 44 minutes, 46 secondsindividuals who don't actually own the underlying physical asset and if we go back here to this
+2:44:532 hours, 44 minutes, 53 secondspage step number four the issuance part of tokenizing a relable asset that part is out of scope for this boot camp and
+2:45:032 hours, 45 minutes, 3 secondsum yeah there is you know like it's a hard problem uh but you know like it's not uh
+2:45:112 hours, 45 minutes, 11 secondsit's not that of a technical problem so you know like probably
+2:45:212 hours, 45 minutes, 21 secondsanother so yeah but it's it's out of scope for this boot camp um
+2:45:292 hours, 45 minutes, 29 seconds[Music]
+2:45:302 hours, 45 minutes, 30 secondsokay uh will you be in for I don't know I don't maybe maybe not we'll see
+2:45:382 hours, 45 minutes, 38 secondsThailand is there's there's still time oh great question if we do the
+2:45:472 hours, 45 minutes, 47 secondsproject on other test net than whatever do we still get a certificate of completion yes yes yes yes just
+2:45:552 hours, 45 minutes, 55 secondswhatever test net again uh just make sure if you go to docs to Quick links if I click here just make sure that CCP
+2:46:042 hours, 46 minutes, 4 secondsdata feeds functions and automation are available on that blockchain on that like that will be
+2:46:112 hours, 46 minutes, 11 secondsarbitrum Avalanche base that'll be eum sepolia but not with this fees that'll be optimism sepolia polygon on like all
+2:46:192 hours, 46 minutes, 19 secondsthese are like supported deployed to them 100% you'll do it so just deploy there and do the actual exercise so just
+2:46:292 hours, 46 minutes, 29 secondsone transaction deployment transaction is not enough we need to see you know creating a function subcription creating an automation subcription calling the
+2:46:372 hours, 46 minutes, 37 secondsissuer and all that stuff and you know like that's that's enough definitely I'll write that down on a Discord as
+2:46:442 hours, 46 minutes, 44 secondswell because of this issue with Tes tokens whatever any blockchain works no yes 100% I hope that is clear I got too
+2:46:532 hours, 46 minutes, 53 secondsexcited sorry um this is an acttion question what
+2:47:022 hours, 47 minutes, 2 secondshappens if a transfer to B 10 tokens from fractional asset to a different chain but the rest of the tokens remain On the Origin chain will CCP keep track
+2:47:102 hours, 47 minutes, 10 secondsof that with this current implementation like it want because it's like extremely simplified but that's definitely possible um you know that's that's
+2:47:182 hours, 47 minutes, 18 secondsdefinitely possible uh so you know like it's just a matter of uh like CCP itself is just an messaging protocol and
+2:47:272 hours, 47 minutes, 27 secondsinterface for transferring messages you are in charge of developing smart contracts for that but yeah definitely definitely possible maybe we can do that
+2:47:352 hours, 47 minutes, 35 secondsfor next B cam yeah uh but with the current implementation you will be aware of of a
+2:47:422 hours, 47 minutes, 42 secondssupply on on that chain if that works yeah
+2:47:552 hours, 47 minutes, 55 secondsum voice is gone I hope you can still hear me if not please please drop something in the
+2:48:062 hours, 48 minutes, 6 secondschat I see I'm not muted yeah I'm not
+2:48:242 hours, 48 minutes, 24 secondsokay cool uh we're almost done we have 10 more minutes um I'll be around for 10 more minutes
+2:48:332 hours, 48 minutes, 33 secondsdefinitely until the end of stream if you have any final questions drop them in the chat if you can hear me please
+2:48:402 hours, 48 minutes, 40 secondssay that in the chat as well and uh okay okay it went for a moment but your voice is back thank you very much Kier thank
+2:48:472 hours, 48 minutes, 47 secondsyou very much for a feedback back it's I'm literally uh all by myself uh so yeah in in the room like physically so I
+2:48:562 hours, 48 minutes, 56 secondscannot I'm not watching the actual stream so thank you for that if you have any final questions I'll try to answer them also if you have any followup
+2:49:042 hours, 49 minutes, 4 secondsquestions that you forgot tweet me at Andre Dev or join our Discord even better and join the boot cam channel on
+2:49:112 hours, 49 minutes, 11 secondsDiscord and I'll try to answer that uh there and yeah uh of course you
+2:49:192 hours, 49 minutes, 19 secondscan you can always connect with myself and Richard using Twitter or X I'm I still calling Twitter X for me is like I
+2:49:282 hours, 49 minutes, 28 secondsdon't know I I I used to like I'm still saying like I tweeted that I tweeted that like
+2:49:352 hours, 49 minutes, 35 secondsI don't I ex that I posted that like it doesn't feel natural to me so it's still Twitter for me but yeah on that platform
+2:49:442 hours, 49 minutes, 44 secondsuh okay thank you for the feedback about the connection thank you very much
+2:49:492 hours, 49 minutes, 49 secondsguys um and yeah thank you YN West I pronounce that correctly for joining see
+2:49:572 hours, 49 minutes, 57 secondsyou tomorrow and uh glad to see uh that this was a useful usage of your
+2:50:042 hours, 50 minutes, 4 secondstime okay it's I think we have 10 more minutes if you have any any final and last questions feel free to drop them in
+2:50:142 hours, 50 minutes, 14 secondsa chat
+2:50:162 hours, 50 minutes, 16 seconds[Music]
+2:50:212 hours, 50 minutes, 21 secondsuh thank you and Rosio and see you tomorrow as well
+2:50:302 hours, 50 minutes, 30 secondsthanks okay I'll just going to wow there's like a lot of messages I just popped into the Discord there's
+2:50:392 hours, 50 minutes, 39 secondslike 79 messages for me to review so I'll try to answer them as soon as we end up this stream because this stream
+2:50:482 hours, 50 minutes, 48 secondsis obviously has has a higher
+2:50:532 hours, 50 minutes, 53 seconds[Music]
+2:50:552 hours, 50 minutes, 55 secondspriority thank you we're gonna use this tokenized real
+2:51:062 hours, 51 minutes, 6 secondsestate contract and plug it into two two different use cases um thank you very much flip Green
+2:51:152 hours, 51 minutes, 15 secondsSpace Music to call me uh thank you too see you tomorrow
+2:51:282 hours, 51 minutes, 28 secondsman see you all tomorrow
+2:51:462 hours, 51 minutes, 46 secondsguys can you please tell me how to learn solidity properly that's an excellent question I
+2:51:532 hours, 51 minutes, 53 secondsneed to think about it for a bit uh properly uh thank you Elena see you tomorrow thanks for
+2:52:022 hours, 52 minutes, 2 secondsjoining uh how to okay first of all there needs to be a couple of aha moments that needs to click and I'm a
+2:52:122 hours, 52 minutes, 12 secondshuge believer of like hard work so if you spend 10,000 hours doing something
+2:52:192 hours, 52 minutes, 19 secondslike working on some skill eventually you will figure it out sometimes you'll just got unlucky and you'll spend some
+2:52:272 hours, 52 minutes, 27 secondshours doing some unproductive work but it's how it is it's like a scarf and you know it is what it is but eventually it
+2:52:362 hours, 52 minutes, 36 secondswill it will turn out so first of all solidity documentation is really
+2:52:432 hours, 52 minutes, 43 secondsgood so solidity docks is really great um read carefully study carefully this
+2:52:512 hours, 52 minutes, 51 secondsis a really good piece of content like it's really great um some knowledge of like General
+2:52:582 hours, 52 minutes, 58 secondscomputer science is also needed uh like understanding stack uh State machines um what else
+2:53:072 hours, 53 minutes, 7 secondsHeap for memory stuff like that so that's that's extremely important then mastering the evm itself I don't know if
+2:53:152 hours, 53 minutes, 15 secondsthey have here evm or uh okay let's see em ethereum so
+2:53:242 hours, 53 minutes, 24 secondsmastering ethereum virtual machine is crucial so yeah there are some um all of
+2:53:322 hours, 53 minutes, 32 secondsthis like uh from from uh from these diagrams you should know like like not
+2:53:412 hours, 53 minutes, 41 secondsthis briefly like in depth uh you should be familiar with it because essentially you're programming evm like instructions
+2:53:482 hours, 53 minutes, 48 secondsfrom evm evm is also easy to learn through languages like U and half so ev.
+2:53:552 hours, 53 minutes, 55 secondscodes is an exceptional tool for understanding evm and they have even this nice playground so you you can
+2:54:052 hours, 54 minutes, 5 secondsliterally just use bite code and you you know like uh you like
+2:54:132 hours, 54 minutes, 13 secondsliteral literal op codes like for example like this where is it reproducing playground so you can just
+2:54:212 hours, 54 minutes, 21 secondsplay with you know with neonic and see what's going on here so understanding DVM is crucial and finally understanding
+2:54:292 hours, 54 minutes, 29 secondsthe blockchain you are itself so M Pools uh proof of stake proof of work how that
+2:54:372 hours, 54 minutes, 37 secondsaffects you uh all of these tiny stuff so it's that's how it is and yeah this is like a Shameless plug but also that
+2:54:452 hours, 54 minutes, 45 secondsis like smart contract this design patterns newsletter oh yeah
+2:54:532 hours, 54 minutes, 53 secondsyeah this is my newsletter where I'm talking about smart contract design patterns uh so for example I don't know
+2:55:012 hours, 55 minutes, 1 secondyou can subscribe here you there is 100% like 90% chance that you'll at least call at least one call transfer transfer
+2:55:092 hours, 55 minutes, 9 secondsfrom function re C20 so it's not that easy like like naive implementation will
+2:55:162 hours, 55 minutes, 16 secondsbe something like this like transfer from an transfer and mint and burn tokens like for this use case there's like so much more uh stuff that you need
+2:55:242 hours, 55 minutes, 24 secondsto take care about it and you need think about it and uh you know like like this is all solity code so technically like
+2:55:322 hours, 55 minutes, 32 secondsyou'll expand your Sol knowledge there but so really follows the pat princip
+2:55:382 hours, 55 minutes, 38 secondslike I don't know like 8020 or 90 10 like 80% of language
+2:55:482 hours, 55 minutes, 48 secondsyou know like if you know how to read or write JavaScript it's it's really or see
+2:55:562 hours, 55 minutes, 56 secondshow experience with C or C++ it's really easy to read and write the code like it's really easy to start but to master
+2:56:032 hours, 56 minutes, 3 secondsthat final 10 or 20% is like it's hard so yeah uh mastering topics like this is
+2:56:112 hours, 56 minutes, 11 secondsis crucial and finally just code code code I I'm a huge believer in 10,000 hours just code solidity for 10,000
+2:56:202 hours, 56 minutes, 20 secondshours deploy to testet try talk to people try to break try asking people to break it down ask Community like learn
+2:56:292 hours, 56 minutes, 29 secondsread like yeah eventually it will click yeah that's my that's my final advice I
+2:56:342 hours, 56 minutes, 34 secondsdon't know uh okay
+2:56:402 hours, 56 minutes, 40 secondsum is it a okay to use solity uh 27 in hardhead uh I for this uh for this boot
+2:56:502 hours, 56 minutes, 50 secondscamp I used strictly 0.824 because I think it's a nice Sol version with transs and storage and whatnot so try
+2:56:582 hours, 56 minutes, 58 secondshard code to 24 that should work uh can you please drop the issue in
+2:57:062 hours, 57 minutes, 6 secondsa in Discord because we're approaching the end of the stream and I'll follow up there uh make sure that you read follow
+2:57:152 hours, 57 minutes, 15 secondsthis the steps uh carefully and and try maybe tenderly to see what's the error of what's the issue with the error but
+2:57:222 hours, 57 minutes, 22 secondsyeah I'll I'll try to help in Discord uh can you please uh drop the
+2:57:332 hours, 57 minutes, 33 secondsURL to your function subscription so this page so I can go to this part and debug
+2:57:432 hours, 57 minutes, 43 secondsit for you so just this URL uh in in Discord and tag me I'll try to to follow up in in the next I don't
+2:57:512 hours, 57 minutes, 51 secondsknow until tomorrow definitely uh I don't know python can I directly JavaScript python can I
+2:57:592 hours, 57 minutes, 59 secondsdirectly learn Sol blockchain you can but I don't advis to uh solidity is like very specific language for a specific
+2:58:092 hours, 58 minutes, 9 secondspurpose it's not like you know like it's not like with JavaScript or python you can you can write code bases for
+2:58:172 hours, 58 minutes, 17 secondsdifferent different purposes on different platforms like solid is very specific so I suggest first to go with
+2:58:252 hours, 58 minutes, 25 secondssome some um some other language like I don't know I I started with c and C++
+2:58:332 hours, 58 minutes, 33 secondsand C reminds Sol reminds me a lot of of SE underhood syntax like sugar wise is like it's it's like JavaScript but uh
+2:58:422 hours, 58 minutes, 42 secondsunder the hood like the master dis like short answer learn some other blockchain langu uh learn some other programming
+2:58:492 hours, 58 minutes, 49 secondslanguage first before before solidity because it's like really specific to the blockchain platform you
+2:58:582 hours, 58 minutes, 58 secondson uh okay cool fail to decode the output
+2:59:052 hours, 59 minutes, 5 secondsdata of the bonds when you call the issuer the issue
+2:59:122 hours, 59 minutes, 12 secondsf um if you can please just drop me the failed transaction and this error message message again to to Discord
+2:59:192 hours, 59 minutes, 19 secondssorry because I cannot debug it like this I should be able to
+2:59:272 hours, 59 minutes, 27 secondshelp uh I'm not sure if you can drop a screenshot to Discord or
+2:59:332 hours, 59 minutes, 33 secondssomething uh yeah I'll I'll I'm not sure where you find this sorry okay we're
+2:59:412 hours, 59 minutes, 41 secondsright on time let me see I'll just uh stop the music
+2:59:502 hours, 59 minutes, 50 secondsum Okay cool so that's it we are we are approaching to near the end of this
+2:59:582 hours, 59 minutes, 58 secondsfirst session uh our time for like exercises expired officially but uh as I said you
+3:00:073 hours, 7 secondscan just follow up on Discord uh I'll try to be as supportive as possible uh for tomorrow U to answer all of these
+3:00:143 hours, 14 secondsquestions by tomorrow so you can be uh prepared and ready for tomor tomorrow session uh thank you again for joining us thank you for all of you that ST
+3:00:233 hours, 23 secondsstick all until the end I see more than 100 people are still uh watching the stream so that's amazing um I hope this
+3:00:303 hours, 30 secondswas you useful for you um and yeah see you tomorrow well done to turn on completing the
+3:00:383 hours, 38 secondsexercise uh and yeah uh do not forget to save your trans uh your contract addresses because you will need to
+3:00:453 hours, 45 secondssubmit them uh eventually for the home work after the day two to earn this certificate onchain certificate of
+3:00:533 hours, 53 secondscompletion uh once we end this live stream the YouTube video will be available afterwards for you to
+3:01:003 hours, 1 minutere-record it and Skip at your pace and reind and whatnot so yes yes yes video will be there thank
+3:01:093 hours, 1 minute, 9 secondsyou guys and see you tomorrow

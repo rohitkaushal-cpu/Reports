@@ -1,0 +1,791 @@
+Transcript
+
+
+Search in video
+0:00
+briefly introduce yourselves and then we'll jump right in with some questions. But Lauren, I will start with you. Thank you and I'm so pleased to be here.
+0:07
+My name is Lauren Beliv and I'm the global co-head of policy for Ripple.
+0:12
+Good morning everyone. Thanks for uh for being here and thanks to the Milin Institute for hosting us. I'm Robin Cook
+0:18
+and I lead the federal team at Coinbase and am our legislative council.
+0:23
+Morning everyone. Michael Greenwald, global head for financial innovation and executive relations at AWS, and couldn't
+0:31
+think of a better venue to have this conversation today. Uh, good morning. I'm Gene Lewig. I'm the CEO of Carry Networks, which is a
+0:38
+new tokenized deposit solution. Looking forward to the panel.
+0:44
+Hi everybody. I'm Carolingfam. I am the chief legal officer and chief administrative officer at Moonpay which
+0:50
+is a global value network which powers for our partners moving value throughout the world and I am the former acting
+0:58
+chairman of the CFTC. All right, fantastic. So Robin, I'm going to turn to you first. So the
+1:04
+Genius Act was just passed by Congress and signed into law only last year. Uh
+1:10
+yet we seem to be talking about it again. Um there are some debates and
+1:15
+discussions around yield and rewards and from my understanding these
+1:20
+conversations have at least for the time being a barrier to broader market structure legislation moving forward.
+1:27
+Can you help us understand that and where the fault lines are? Sure. Um, so what the Genius Act did um
+1:34
+in what I think was a pretty monumental win for um the administration early on
+1:42
+um the first major piece of financial services legislation in more than three
+1:48
+decades that was not directly responsive to a crisis. Um what it did was pave the
+1:54
+way for the safety and soundness um issues associated with stable coins. It
+1:59
+set out the credential framework and importantly included in there a ban on
+2:05
+interest in yield paid by stable coin issuers. The debate that we're having
+2:10
+now is about the commercial viability of stable coins as they enter the
+2:15
+marketplace. And I I use those words very um very specifically because of the
+2:22
+fact that in payments as we all know um you have to provide incentives for
+2:29
+entrenched networks um that have high network effects to be able to scale. And
+2:34
+so that's really what we're talking about here. At the top of my wallet is a credit card from United Airlines. And
+2:42
+that's because I really value my relationship with United Airlines and I value the points that I receive every
+2:49
+time I make a transaction. Um, what we have seen for decades and decades and decades is that you have to pay
+2:57
+consumers to actually use a payments product. What Genius did is it said that
+3:02
+there um is a ban on the payment of interest in yield by stablecoin issuers.
+3:08
+Um but what it did not say and that was because this was an issue that was
+3:13
+actually um litigated and decided on the Senate floor was that um third parties
+3:21
+can pay incentives um for the use of stable coins. And so that's really where
+3:27
+we are. We've answered the credential question. The question that we're answering now is how do these products
+3:34
+um actually be able to grow and scale? Um and so we we're concerned about the
+3:40
+prospect um that you would just not be able to provide any incentive whatsoever
+3:45
+because what we're going to be left with um is effectively handcuffing the growth of this product over the long term.
+3:53
+Many many use cases that we have um in the world ranging from treasury management um to um actual use cases of
+4:01
+retailers by consumers ultimately are going to have um the in order for a
+4:08
+stable coin to actually come into being you have to buy it in the first place and you have to provide an incentive for them to be able to do that. So I think
+4:16
+where where this is going is ultimately where do you draw that line? Um the banks are saying that um if you just
+4:24
+allow um no restrictions on the payment of interest and yield that ultimately this could capture what you would think
+4:31
+of as core bank deposit products. Um there hasn't necessarily been a lot of
+4:36
+evidence that has been offered that's proven that up. Um but that is the argument that's been made and and and we
+4:42
+hear that and we're sympathetic to it. The question now is exactly where do you draw that line? And so we're hopeful
+4:49
+that Congress is going to um be able to figure out a way so that the products
+4:54
+themselves can continue to grow and scale and develop um but that the banks will get comfortable um with um a new
+5:02
+world that's ultimately going to lead to better, faster, cheaper payments around the globe.
+5:07
+Great. And so Lauren, let me turn to you and and what do you make of this discussion around bank deposits and the
+5:13
+risk of flight? And I is there another contrarian view that actually this could benefit banks in the long run?
+5:19
+No, I I think this is an excellent question and I'll pick up where Robin left off. I I think the narrative that
+5:25
+has come around is that it is a zero sum um issue and it is really not the case.
+5:30
+And so I want to zoom out to the macro level here. How does the movie end? The movie ends and I and I think it's it's
+5:37
+specific from the Ripple perspective. Ripple is a 13-year-old company. We're mature in the crypto asset space. We
+5:43
+build digital asset infrastructure for B2B platforms. So our banks are
+5:48
+institutions. They're financial institutions. They're big banks. They're fintexs. They're governments. They're corporations. And we have a whole suite
+5:55
+of products for them. Um we do crossber payments. We allow for custody. We have a prime brokerage that manages trading
+6:02
+both crypto and traditional finance as well as doing some treasury and liquidity management. But one of the
+6:08
+crown jewels of our stack for clients is we've launched our own RLUSD stable
+6:13
+coin. Um, and it's a really great opportunity for traditional finance to
+6:18
+take advantage of the stable coin and the rails that they they work. It's 24hour. It's instant settlements.
+6:25
+There's um great collateral against stable coins. Um, and it's it's an an
+6:30
+immediate kind of liquidity that banks can use that's a cash equivalent. Um, so that a that it's not going to be a big
+6:36
+bang theory overnight. And I think there were some really consequential blockers, the lack of knowledge, the lack of
+6:43
+access to stable coins and frankly the lack of regulatory certainty which we
+6:49
+now have with the Genius Act. And because all of those blockers have been coming down, we are starting to see
+6:54
+traditional finance truly come to the table. Um and you know at first it is
+7:00
+retail payment processing crossber payments but as soon as people can see that this will also be good collateral
+7:06
+for their cash equivalents in their bottom line you're going to have a real moment where traditional finance and how
+7:12
+the movie ends is it's going to be integrated very seamlessly into not just what big banks are are using for their
+7:19
+business but how the end user is affected. And so what's happening right now I think is in a moment in time. But
+7:25
+if we start looking at the scale of how stable coins is going to be integrated, it will be prudent for traditional
+7:31
+finance to come to the t the table and want to give these benefits to their consumers. So really exciting
+7:36
+opportunity. So Caroline, uh let me turn to you. Having recently been the acting chairman of the CFTC, of course my favorite
+7:43
+federal agency, um you were steeply involved or deeply involved in many of the uh conversations around stable coin
+7:50
+legislation. market structure. Does the current impass surprise you at all? And
+7:56
+how do we get past it? I actually am surprised by the current impass because I thought the draft that
+8:02
+was released in January was so much improved from the one that was released last year. And you know, just following
+8:08
+on the conversation from my colleagues up here on the panel, these are pretty
+8:14
+common sense things to want to be able to provide rewards. Um, and I think both sides agree on that. So I actually feel
+8:21
+that the debate right now is um feels a
+8:26
+little bit like theater and how do we how do we solve this? How does the movie
+8:32
+end? The movie ends with the agencies just doing the hard work that is
+8:37
+necessary to actually create the specific rules and requirements um necessary for the use of stable coins as
+8:44
+payment instruments and as other types of settlement or collateral um tokens.
+8:49
+So I used to work at a big bank. I used to work at city for seven years. I was regulated by the OC for seven years. And
+8:56
+I think what the OC has recently done with its um stable coin rule proposal, which there has also been a lot of um
+9:04
+froth on crypto Twitter about uh is also straightforward. So what did the January
+9:09
+draft say? The January draft basically said yes, you can go ahead and pay rewards um uh to users of your stable
+9:16
+coin, right? And what does the OC uh draft say? I think pretty simply, uh it
+9:23
+has a rebuttal pro presumption. Um and I like to call this like the, you know, looks like a duck test. If it looks like
+9:29
+a merchant rewards program, you use the example of like your United um miles card, then that's okay. If it looks if
+9:36
+it's a lookalike um deposit account, a lookalike checking account, a lookalike savings account, a lookalike money
+9:43
+market fund, that's not okay. I like to say the rebuttable presumption is just like the looks like a duck, sounds like
+9:48
+a duck, and walks like a duck test. So that's the pragmatic path forward. The agencies have to write rules anyway to
+9:54
+implement this. Um there's a debate that's going on right now in Washington, but I'm pleased to see that, you know,
+9:59
+the OC, which is pro-inovation under controller gold, is moving, you know, right ahead forward on creating those
+10:06
+rules that are necessary. And there's a comment period. And so let's like get to work. Like good policy is hard work. So,
+10:13
+let's really dig into the nitty-gritty and see how this should come out. Great. And uh Gan, let me turn to you.
+10:18
+You've been you've seen many regulatory cycles. Uh the Genius Act creates a
+10:24
+viable pathway for non-bank stable coin issuers. How do you think about the
+10:30
+integration of these new types of players and tokenized products within
+10:35
+the regulatory perimeter? Well, this is an exciting time in financial history. the Genius Act has
+10:42
+really uh done a a great thing for America. Uh digital currency was coming.
+10:49
+Uh and oddly enough, as I've said uh to a number of people this morning, uh I was tasked by Secretary Robert Rubin
+10:56
+when he was Treasury Secretary as controller of the currency to go find out about this digital currency stuff
+11:01
+because he thought it was going to be the future. And um this was 1996ish
+11:07
+and he gave me as a uh a a team to to work on it with me. And uh what we found
+11:16
+was that yes, he was right. Digital currency would be the future, but uh it
+11:21
+wouldn't be true for 25 years. He said, "No, no, five years. This is this is so
+11:27
+necessary for America." He he was right about that. Uh in the meantime, there
+11:33
+was a funny detour. Blockchain was an tremendous invention and really sped the
+11:39
+opportunity on and made it a much richer uh set of opportunities. Uh but uh it
+11:46
+because it was outside anything regulated, it became synonymous with something that was unseammly and nobody
+11:54
+wanted to touch it. Banks were excluded from it. big mistake because
+11:59
+digitalization uh is just the necessary financial human
+12:05
+step in currency development. When you think about it in Mesopotamia, they had rocks. They put little marks on rocks
+12:11
+and that was money and they're a little heavy to you know carry around. And then they
+12:18
+went to different kinds of metals ends up gold and then finally paper. Well,
+12:24
+why should we have paper? uh in a digital world. So digitalization is
+12:30
+simply the representation in a digital form of currency. Now I've developed a
+12:35
+tokenized um coin that is a tokenized
+12:40
+digital deposit and I think that fits the banks terrifically. I think this is
+12:45
+the future for banks. But but for the Genius Act and legitimizing this area,
+12:52
+we would be stuck in the mud and slow down because when you think about it,
+12:58
+it's not it is not revolutionary, it's evolutionary. uh a digital
+13:05
+tokenized deposit uh as a payments mechanism is just a
+13:12
+kind of checking uh exercise except instead of having paper checks, you have
+13:18
+a token. And because of the way things have evolved with the blockchain, you're
+13:24
+going to have smart contracts and flexibility and ways to solve problems for the consumers and business that were
+13:31
+weren't dreamed of before. So the Genius Act is a big step forward. The current regulatory environment is very positive
+13:39
+and I think what the controller is doing is terrific. I think bringing the whole
+13:44
+uh uh era into or the this whole ecosystem I should say into a regulated
+13:50
+format is a really big step forward. So we're an exciting time and uh it's fun
+13:56
+to be part of it. So you ju you all jump in and just kind of add to how this is just modernization, right? Like let's
+14:02
+talk about a specific example. You're talking about the United Miles card. Moon pay just last week announced a partnership with PayPal where we have
+14:09
+created a developer platform. It's a white label platform where um you can come in and create your own branded
+14:15
+stable coin for your app in a number of days. What is that? That's just an evolution of a rewards program like your
+14:22
+credit card. So these things are iterative and I think when people realize that it's just a continuation of
+14:28
+what we know and are familiar with but in a new format. That's why the rewards question is so important.
+14:33
+Well, I think that's very well said. I think it's important to note that there are going to be a variety of different
+14:40
+digital solutions and that's one of the wonderful things how this things evolve. I think tokenized deposits has an
+14:46
+important place in the banking infrastructure. I think stable coin is an important advance but we're going to
+14:53
+see a blooming buzzing confusion of uh uh you know evolution here which is
+14:59
+typically American and it's an area in which we can yet again lead uh because
+15:04
+of our marketbased uh uh society. Well, I was going to say I think we
+15:09
+heard Gan say he's been involved with digital currency since 1996. So maybe some Satoshi rumors will come out of
+15:15
+this conversation here. Um but Michael, let me let me turn to you. Uh we've been talking a lot about some of the
+15:21
+regulatory underpinnings uh of this space, but obviously there's the technology component. Um talk to us
+15:28
+about the role of cloud and other types of tech infrastructure in supporting
+15:33
+some of this innovation. Sure. I wish I was back at Treasury with you in 96. I missed you by a few years.
+15:39
+Um, but I think what we're seeing is that the financial landscape, it's in a
+15:45
+constant state of evolution from what you just heard. And I think, you know, customers and consumers globally are
+15:52
+looking for options. They're looking for optionality. And I think what's exciting
+15:57
+about this moment is you're seeing those options play out in real time. And for
+16:04
+us at AWS, you know, we really believe that a resilient, transparent, secure
+16:11
+cloud infrastructure, you know, that's the bedrock in the foundation for
+16:16
+everything we're discussing today for digital assets and for the future of digital assets and the competitiveness,
+16:23
+you know, US economic competitiveness. It depends upon that foundation and that
+16:29
+intersection. And that reinforces the message of if you're using a US cloud
+16:35
+provider that's reinforcing competitiveness in the space. And so I
+16:40
+would say developing this infrastructure for the different optionality of digital
+16:46
+assets that's going to be key. And it's going to be interesting to see the optionality play out between the
+16:53
+customer here at home and globally. So before I move on to some exciting use
+16:58
+cases and applications, I want to ask one more kind of policy question of of the entire panel and feel free to jump
+17:04
+in. Um you know recently we're starting to have more debate and discussion about various types of non-bank entities
+17:10
+seeking banking like charters uh and potential access to Fed master accounts
+17:17
+or the Fed payment system. Share some thoughts on that. How important is that to the ecosystem? Is that a logical next
+17:24
+step or do you see that as a distinct conversation? Warren, I'm happy to start with you. Absolutely. I think when we talk about
+17:31
+what's going to be a needle mover here, right? I, you know, you look at the stable coin industry right now, it's
+17:36
+about 314 billion in market cap. I think the first 0 to 314 billion really was
+17:42
+driven by retail investments, by crypto investments. But that next 10x going
+17:47
+forward, I believe, is really going to be driven by institutional in engagement and institutional investments. That's
+17:54
+the shift and that's the opportunity for stable coin going forward. Now, as I mentioned, Ripple, our clients are big
+18:00
+banks and for us, we are a regulatory regulationheavy first company. Um when
+18:06
+we went to start our stable coin, we went through New York DFS um which is
+18:11
+the the largest the third largest regulator in the country under the Fed and the OC. And now we've also sought a
+18:18
+OC charter which we um were approved for. And a lot of that is if you're going to be engaging with banking
+18:24
+partners, um most of them haven't had much exposure to stable coin counterparties because they weren't
+18:30
+regulated yet before. And so those entities now through the Genius Act through going through I would say very
+18:37
+tough regulatory scrutiny of New York DFS and we enjoy our relationship with them. That's the baseline to really
+18:43
+establishing trust through a lot of these banking um work partnerships and that is what um now that and the Genius
+18:50
+Act itself you know it you need to have onetoone um dollar backed you need to have a proof of reserves there's a lot
+18:57
+of heavy AML um scrutiny that goes in through the Genius Act and there's bankruptcy protections so that
+19:03
+eliminates a lot of that risk that the banks are feeling and so now it makes sense that there's access points that
+19:10
+the OC can properly regulate these entities that are really above board.
+19:16
+Further thoughts? Yeah, Robin, please. Yeah, I mean I just want to completely underline everything that Orange just
+19:22
+said. I mean, we we also have sought a trust charter at the OC, have a trust
+19:27
+charter at New York DFS, have been um regulated as a bit lency at DFS um for
+19:33
+about a decade now um and have been asking for more and more regulation around the world. And that's because of
+19:40
+a couple of different things. One, that's how you drive adoption. Ultimately, giving consumers, giving um
+19:48
+institutions um the the um familiarity with rules that they know that for
+19:55
+consumers probably many of them already assume apply. So that there is a level
+20:01
+of protection um that is uniform. And I think with that level of protection
+20:06
+comes the next iteration. And so these federal charters um do provide the ability to have more and better and
+20:13
+smarter regulation. Um there I think the important thing here that we should be
+20:19
+debating as part of market structure legislation is not the question of how you draw the line on something like
+20:25
+rewards or how you draw the line on competitive issues. It is fundamentally how are we protecting consumers and what
+20:32
+exactly are the rules to ensure that there is that measure of protection and
+20:38
+so I think to the extent that there are concerns that are out there about these charters let's have that conversation
+20:44
+there may be real concerns Congress is well suited right now to be addressing some of those questions I think the
+20:52
+larger point though is that we need to have this conversation we can't have a reflexive response that just because
+20:59
+there is a business model that is new and different from things that we've seen in the past that that inherently
+21:05
+makes it bad. Well, I go ahead. Yeah, I was just going to add I mean the the geoeconomic landscape it it's
+21:10
+shifting so quickly and so having a strong AML CFT regime of today is
+21:18
+different than five years ago and and you have to stay five steps ahead of the
+21:24
+illicit actor constantly. And so having that stringent regime is
+21:30
+critical and that's something that you have to it takes time and you have to
+21:35
+evolve with the myriad of information you're dealing with at this moment. Yeah. I want to sort of uh you know
+21:43
+second or third or fourth all the comments that have been made but it's important
+21:48
+we would not have will not have the kind of really exciting digital future that
+21:54
+we all want to have without a regulatory framework. uh in 1863
+22:01
+uh Lincoln understood that and created the first American national currency and
+22:08
+at the same time created a regulatory body to oversee the that whole system
+22:13
+the payment system which was the OC. what's been done today uh has been a
+22:20
+real step forward in being able to take this whole digital uh ecosystem and make
+22:25
+it real explosive the the uh ecosystem of the future. Now the secret for these
+22:32
+regulatory bodies and it's really important that the OC stood out began to
+22:39
+issue licenses etc is that the regulatory framework is a fair one level
+22:46
+playing field uh for everybody uh because at the end of the day uh any
+22:52
+regulator understands that you've got the public's trust that you've got to uh
+22:57
+satisfy. That point was very well made. Uh and the more the more the public can
+23:03
+trust in these uh you know new digital currencies, the more they're going to
+23:08
+use them. And um uh and yet keep it fair and balanced. And I'm very hopeful that
+23:14
+the that the current controller and that the regulatory bodies we have today,
+23:20
+regulatory leadership I should say, will be able to handle this important task.
+23:25
+and Caroline to you as well as the you know any comments on payment systems and access of course so um again I feel like to
+23:33
+know where we're going to go we need to know from where we came from and so since probably about 2019 or 2020 I have
+23:40
+been saying that stable coin regulation in the United States is going to end up looking a whole lot like our dual
+23:45
+banking system right that is our history and that is our heritage because we are a country of federalism what does that
+23:52
+mean that means we have state uh chartered institutions bank and non-bank. It means that we have uh
+23:57
+federal bank chartered institutions. And the thing about how this is all shaping
+24:04
+up is that it's also a repeat of conversations that we've had before. I
+24:09
+used to advocate on narrow banking for about 5 years or so. And it really is that question of a level playing field.
+24:14
+And what do we mean by a level playing field? It just means that there are credential requirements for capital
+24:20
+standards and for risk management which is exactly what the uh genius act provides and also what the OC's rule
+24:27
+proposal provides right so it is that parody and again it reminds me that this
+24:32
+is very similar to the debate that we uh have and still you know may have around industrial loan companies right so again
+24:39
+just about narrow banks or special purpose banks it's just a continuous iteration of a conversation that's been going on for a very long time you know I
+24:46
+also presented on this in Basel to the BIS on the regulation of big techs
+24:51
+because I do think that the undercurrent um of the debate around um you know
+24:57
+national trust banks and sort of non-traditional entrance into the space
+25:03
+is really more of a um almost cultural reaction to technology and the role that
+25:10
+technology has in our lives. All right. Well, let's move to some uh you know forward-looking use cases and
+25:17
+applications. Um Michael, maybe I'll start with you. You know, people are talking about a convergence of AI,
+25:24
+digital assets. Can can you connect those dots for us? Sure. I I think that's the convergence
+25:30
+of AI and digital assets, it creates really a new financial paradigm. And
+25:36
+when you have the ability to extract key information, increase automation, you
+25:42
+know, that really opens up uh the aperture to so many opportunities. And I
+25:47
+think that convergence is going to be a building block off each other. And you
+25:53
+know, you hear a lot about, you know, what does AI leadership look like? And I
+25:58
+think that's the opportunity for AI leadership to be powered between the
+26:03
+development of digital assets for consumers and to give them those options
+26:09
+and that's the building block of why you have a resilient US cloud infrastructure
+26:14
+to build on that block and then to create that paradigm between AI and digital assets. But with that also
+26:21
+becomes responsibility, increased cyber controls, increased potential
+26:27
+vulnerabilities that you need AI to go after elicit actors and extract that key
+26:32
+information. So I think Daniel really uh there's an opportunity and there's an opportunity for uh each institution to
+26:40
+define what AI leadership actually means for them when talking about that new
+26:45
+financial paradigm. And Caroline, I'm going to come back to you. Moon Pay just had some recent
+26:51
+exciting announcements related to Agentic AI and Agentic payments. Fill us in. What does it mean?
+26:56
+So this is Jetson is happening now. This is really exciting. So last week Moonpay also announced Moonpay agents
+27:03
+which is creating again a um developer portal where you can come in and connect
+27:09
+your Claudebot and create your own um agent that can access and spend uh from
+27:16
+your Moonay non-custodial wallet. So you set limits, it's verified, but once you set it up, you can go and do that. This
+27:22
+is great because it's going to really, I think, open up um how much of the development in AI is very much uh led by
+27:30
+individual users. I mean AI has really democratized uh technology and coding
+27:36
+and development to you know each one of us. Um and people talk about you know um
+27:42
+agentic commerce and people talk about what does this mean and you know some people think that this is scary but
+27:47
+again if we analogize it to what's come before I mean how many of us here in this room use recurring bill pay
+27:55
+you know an agent uh kind of is like a fancier version of your recurring bill
+28:01
+pay you set some limits for it you tell it what to do it goes and it does it automates it right so I think this is
+28:06
+kind of the future there's some statistics that you People wonder, you know, what does this really mean? Who's
+28:12
+really going to adopt this? I mean, McKenzie estimates that it could be one trillion in agentic uh payments by 2030.
+28:20
+Um uh other uh consultants think that it's going to be 15 to 25% of e-commerce
+28:26
+is going to be uh agentic in nature. And so again, we just see this as a natural
+28:31
+evolution. We're really excited to provide this tool. Great. So, Gene, we we're talking a lot about stable coins, but you've mentioned
+28:38
+the creation of uh tokenized deposit products. Tell us a little bit more about the use cases and applications you
+28:45
+see with tokenized deposits and what's the interplay or is it complimentary to or competitive with stable coins? Yeah,
+28:52
+I think tokenized deposits sort of are a musto by the way very much um enlivened
+28:59
+by uh AI uh and it is really not that
+29:04
+different from stable coin but there's a really symbiotic relationship as I said earlier uh there's room for a whole
+29:12
+variety of digital solutions uh for banks uh and for those people who
+29:19
+seek absolute absolute safety and certainty which is why banks really exist.
+29:25
+being able to tokenize a deposit that is make payment on the basis of a deposit
+29:33
+just the way as I analogized earlier you do with a checking account uh is not
+29:40
+revolutionary it's evolutionary but really important because people want deposits they want FDIC insurance they
+29:47
+they want a way to utilize their banking relationships and tokenized deposits
+29:54
+allow people to use that basis, but to make transfers of their fiat through
+30:02
+digital means that is safe, instantaneous, 24/7, can involve smart
+30:10
+contracts, modernizes that whole infrastructure in a way that gives those
+30:15
+consumers who want to transact that way. uh you know a huge opportunity to be
+30:21
+completely modern, completely you know part of the and necessary part of the
+30:27
+the world that we're living in uh as I say a 247 world but at the same time
+30:33
+have the kind of security and uh you know anti-money laundering and other
+30:40
+safety controls that the banking system brings with it. Great. So Lauren, let me turn to you and
+30:45
+picking up on Jean's comments. Um your Ripple's very focused on financial institutions and the
+30:51
+institutionalization uh of of digital assets. Tell us about
+30:56
+the interplay like do you see the tokenized deposits as a good base layer and then where do stable coins play? How
+31:01
+are your customers or clients uh using the technology? No, absolutely. Um I and I I think it's
+31:08
+really important to note that um well so I think it is a very good base
+31:14
+layer. I think people think about different tokens for different use cases. So a lot of people are holding and investing into Bitcoin. Bitcoin is
+31:22
+really a savings token. Ripple utilizes a token called the XRP token that is a utility token. It was made to do
+31:28
+crossber t uh payments. It was used to be able to utilize the RLUSD which is
+31:33
+also its own stable coin. that's also a utility spending tool and that is it is a very strong base layer um to be able
+31:41
+to then look at why people are using it and then what does it generate for the end user and I think that's something
+31:47
+that we haven't really talked about yet on this panel is you do you have banks and institutions but who's at the end of
+31:54
+all of that there are 55 million Americans right now one in five Americans that are holding and using
+32:00
+crypto they're equally divided by political party they are equally divided across the country regionally and
+32:06
+they're going to start going to their banks or they're going to start going to their Coinbase apps and wallets and it's not just a holding or a savings
+32:12
+technique anymore, but it is it's about how are they using that utility at the end and that's where I think the banks
+32:18
+are going to be coming around and looking to be um really really um
+32:24
+innovative in terms of how they're serving their their customers. This is very well said. I'm sorry, I'll
+32:29
+just be quick. One of the advantages of these different mechanisms is they serve
+32:35
+different financial goals for the uh consumer for the business etc. The the
+32:41
+advantage of tokenization a tokenized deposit is it brings money into the bank
+32:47
+as opposed to the money being used for other purpose outside the bank. And bring it into the bank as a deposit is
+32:54
+important because those deposits at the end of the day support lending in the United States. uh and and that's
+33:01
+critically important for the well-being of uh commerce. So different different strokes for different folks. Uh I think
+33:08
+they can all live we can all live together and really uh serve the American public in the best possible
+33:13
+way. Yeah, I I I absolutely agree with that. The one other thing that I wanted to to just build on what Lauren said is just
+33:21
+the um title four of the Genius Act that came out from the Senate Banking
+33:26
+Committee in January is focused on getting the banks into the game so that
+33:33
+they are able to participate in this marketplace in a material way. For the first time since 1999, for the first
+33:40
+time since the Graham Leech Blley Act, we're giving new bank powers in this legislation. 13 of them. And I think if
+33:49
+you look at what those powers are, it's not just tokenized deposit. It's the ability for them to participate in every
+33:57
+aspect of this business, whether it is custody of digital assets, broker dealer activity, um all sorts of um of of of
+34:06
+different things. And and in fact, I think that it will enable um the banks that want to participate um in this
+34:13
+space. And granted, that's not all of them, but the ones that do are going to be able to compete in a really serious
+34:20
+way precisely because of the point, Gene, that you just raised. Only banks can issue deposits. And so, they are
+34:28
+going to uniquely have the ability to pull together deposits, stable coins, Bitcoin, um, and all sorts of different
+34:35
+things that haven't even been invented yet, um, that will continue to be, um,
+34:40
+the the way that this ecosystem evolves. And I just want to add on to that because that's totally true and it's also that banks have been doing this. So
+34:47
+I worked on blockchain and digital assets since 2018. I have been examined by the OC, the Fed and the FDIC for the
+34:54
+use of blockchain technology in banking products and services and also the P come to think of it as well. So all the
+35:00
+regulators around the world, the banks have been doing this. JP Morgan has processed trillions of dollars in tokenized repo and payments. And so I
+35:06
+think now what you're just seeing is that um the quiet part that has been
+35:12
+going on, the upgrading of infrastructure, which is something that all banks have to do, now we're seeing
+35:17
+it become a public debate, but it's always been there all along. Okay, we're getting a little short on time, but I have a few more questions I
+35:23
+want to pose to anyone on the panel who would like to answer it. Um so let's talk about the potential of
+35:28
+international dollarization as a result of stable coins. There are many people around the world who would very much
+35:35
+want to get their hands on dollars in a tokenized format. What do we think in
+35:40
+terms of pros and cons? I mean pros, does it support the US dollar and its reserve status? Cons, could it be very
+35:47
+destabilizing to foreign currencies? How do we think about that and strike the right balance? Well, Michael, I mean, I
+35:54
+think there's been a lot of discussion on this topic over the last 10 years and
+36:00
+um I think what's very clear is that the the the future and everything we're discussing today, it's going to be based
+36:07
+on new technologies, most of them are dollarbased
+36:13
+that are going to enable fast, inexpensive, inexpensive, you know, customerfriendly
+36:18
+uh payments. And so I think when we're talking about dollarbased digital
+36:25
+assets, that's only going to reinforce US economic competitiveness. And I
+36:30
+think, you know, where we are right now today, given the events of this past week, uh you're seeing how important the
+36:37
+dollar is and the the role the dollar plays. And so I think that's a bedrock
+36:44
+for all of these technologies that are laying the foundation. And I think a lot of the companies are been
+36:51
+successful because of the dollar. Yeah, I think that's very well said. Very very well said. I'm I'm
+36:58
+directionally correct if not exactly correct. But most of the US paper
+37:04
+currency is not inside the United States. It's outside the United States
+37:09
+and most countries around the world that use dollar paper currency for their really own safety and for transactions.
+37:18
+to deny them the opportunity to do this in a digital format I think is you know
+37:23
+a a very bad thing for global commerce and it's a very bad thing for the United States. So the Genius Act I think does a
+37:31
+very good thing in that regard of giving the opportunity to just digitalize
+37:37
+what's basically been going on at paper which is well overdue. Stable coins, I
+37:42
+think, ultimately are a foreign policy tool. Um, and that we're going to just need to look at the way that they're
+37:49
+used in the real world to understand why. If you are, you know, sending money
+37:54
+home, there are a couple ways that you can do that. um you can go nine pay 9 percent at um you know a um place that's
+38:02
+gonna wait make you wait three days to get it and then have um potentially a
+38:08
+foreign uh exchange charge on the other side to be able to get it out. Or you can hold it um in a way that can never
+38:15
+be taken away from you if you can remember a 13-word seed phrase and it
+38:20
+exists on chain and sets up a scenario where your assets are your assets no
+38:25
+matter what happens. If you live in a place in the world where maybe you have an unstable economy, maybe you have an
+38:32
+unstable government, you have the ability to hold assets in a way that is meaningful to you because you can hold
+38:39
+it in the US dollar. And it's going to be able to get to you in a cheap and
+38:44
+economic way. It sets up today the ability to pay people in real time, the
+38:50
+ability for people to have um assets in a way that is meaningful to them and
+38:57
+also creates additional demand for the dollar itself, which helps bring down
+39:02
+our interest rates here at home um and enables I think just a better scenario across
+39:07
+I know we're at time and I'm going to ask for one minute of indulgence here because I I promised I threatened you all that I'm going to do a lightning
+39:13
+round at the end here And this will take us about 60 seconds. I'm going to wrap this up by posing a statement and I'm
+39:20
+going to ask each of you to either note your agreement or disagreement with that statement based on a movie or song title
+39:26
+I'm going to give you. All right, so let's go. By 2027, the US will amend the Genius Act to allow all stable coin
+39:33
+issuers to pass interest directly to users to compete with the digital yuan.
+39:38
+If you agree, the times they are a changing. Disagree frozen. Lauren,
+39:44
+the times they are changing. Robin, the times they are changing. Michael,
+39:49
+I mean, uh, no, no Washington answers here. We got We got 20 seconds. I think Frozen.
+39:56
+All right. I think they will change in more conservative ways than many on the panel
+40:02
+would like to see them change, but uh, we're living in a very volatile world, so we'll we'll wait and see what
+40:09
+happens. Caroline frozen. All right, last one. Within 5 years, more than 50% of stable coin
+40:15
+transactions will be initiated by AI agents rather than humans. Iroot or
+40:21
+simple man? Simple man. Uh, simple man.
+40:28
+Simple man. I'm so simple I can't answer in one sense. Look, I think AI will power lots
+40:35
+of things. But having said that, I think it's going to be more a tool for mankind
+40:42
+than you know basically the great uh you know maker. So so I robot controlled by a simple
+40:47
+man. Right. All right. What year? What year? Uh oh. Uh what did I say? Within five
+40:52
+years. I robot controlled by a simple man. Excellent. Well, please join me in thanking our panelists. [applause]
+

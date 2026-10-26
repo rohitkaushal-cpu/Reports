@@ -1,0 +1,1065 @@
+Most people misunderstand Real-World Assets.
+They think RWA is just about turning a house into an NFT.
+
+It’s not.
+
+In this episode of Trustee Talks, we break down what RWA actually is, how real-world asset tokenization works in practice, and why this sector is becoming one of the most important bridges between traditional finance and crypto.
+
+🎙 Guest: Mariia Yatsenko — Head of Marketing at Centrifuge, one of the earliest and most respected platforms in the RWA space, founded in 2017.
+
+Together, we discuss:
+What Real-World Assets really mean (and why RWA ≠ JPEG NFTs)
+How companies tokenize real-world assets step by step
+What types of assets are typically tokenized — and what doesn’t make sense
+Why structure and jurisdiction matter in RWA
+What stakeholders are involved when bringing assets on-chain
+How Centrifuge works with institutions and regulation
+Why RWA is growing so fast right now
+The biggest fears, barriers, and misconceptions around RWA
+Why marketing in RWA is about trust, not hype
+The future of real-world assets on-chain
+
+We also talk about:
+Marketing complex financial infrastructure in Web3
+Whether RWA is hype — or the foundation of mass adoption
+
+💡 Plus: practical advice for anyone curious about crypto, RWA, and real use cases — without chasing hype or “guaranteed returns”.
+
+If you want to understand how real finance is moving on-chain — this episode is for you.
+
+
+Search in video
+Intro
+0:06
+Most people think that real world asset is very simple. You have a house, you turn it into the NFT. Done. That's not
+0:14
+how actually it works. And today we will explain what area really is.
+0:23
+Hey friends, welcome to Trusty Talks. My name is Danilo. Today's topic is a real
+0:28
+world assets. one of the fastest growing and misunderstood areas in crypto. My
+0:34
+guest today is Maria Senko, head of marketing at Centrifuge. Centrifuge is one of the early platforms
+0:41
+in the area space, founded back in 2017. Maria, great to have you here.
+Who is Mariia?
+0:47
+Thank you for having me. Yeah. So, um let's start simple. Just introduce yourself in few words. Who are
+0:54
+you inside Centrifuge and what do you do? Yeah. So I'm the head of marketing uh at Centrifuge and before I start talking
+1:01
+about what I'm doing there, it's important to understand what Centrifuge is. So Centrifuge sits uh in the
+1:07
+intersection of several audiences. First, it's traditional financial um
+1:12
+institutions. Second, this is cryptonative organizations and there are also various uh different uh audiences
+1:20
+that are relevant to regulation to token holding uh and broader community that is
+1:26
+attached to the protocol. So my job as a head of marketing is to drive the team that needs to educate traditional
+1:34
+finance organizations about tokenization at the same time to provide information to cryptonative organizations and uh
+1:42
+drive the benefits of tokenized financial products and uh as a third goal is to advocate for tokenization
+1:49
+regulation and make sure that uh token holders and retail clients understand the value of the tokenized assets and
+1:56
+they are ready to buy I know that centrifuge works with the real world finance institution regulation. So
+2:04
+marketing here is probably very different from classic crypto marketing as we know. Yeah. So uh what does your
+2:11
+team actually work on day-to-day? Yeah, marketing is very different not only from classic crypto marketing as we
+2:18
+can call it but also from classic marketing in traditional industries as well. Um I would say this is a unique
+2:24
+type of marketing because first of all we don't do traditional user acquisition into organization. Um but from the other
+2:31
+side in the crypto we also don't hype the token or don't do like crypto tweeting 247. This is not the case. I
+2:39
+mean I trust and respect a lot of different strategies and a lot of goals that are relevant relevant to specific
+2:45
+projects but for us it just doesn't work. Um for us it's important to build
+2:51
+um education, trust, relevance but also uh make sure that those stories that we
+2:58
+tell in marketing materials are also backed by real products uh by real use
+3:03
+cases by real big clients and to make sure we we handle that um there is a big
+3:10
+need of understanding product marketing. So what does it mean product marketing? It's building positioning, doing
+3:16
+launches, doing narratives, uh making case studies, working with partner marketing. So this is all what we do on
+3:23
+a daily basis. And of course there is a big portion of community building. But this is just not from the perspective of
+3:30
+just hyping and um creating beautiful picture. Okay. No coins, no meme coins, no
+3:36
+clickbay. [laughter] Yeah. Yeah. Not for us. Yeah. You know what? Um we at Trusty
+3:41
+Plus um know this kind of marketing as well. Uh we also have things that could
+3:48
+be double checked with our legal department what words we can use on our website which links especially since we
+3:55
+work with real world finance like euro euros. Yeah. So how did you personally
+4:00
+get into crypto? It was planning or uh happened naturally. Yeah. Uh I mean it's also a pain for us
+4:08
+to provide copy and write in the way that is compliant with regulations. So we always make sure um that we talk to
+4:16
+legal but like from my perspective as the question like about my background and how I got into crypto. I have a
+4:23
+master's degree in finance law. So wow. Uh actually where uh from Ukrainian university.
+4:32
+Okay. Uh so yeah I I understand legal side of things and I understand marketing uh
+4:38
+that is relevant like to specific regulations when legal team obviously tell me what to do. I understand why and
+4:46
+uh why it matters. Uh at the same time it gives me understanding uh of the broader landscape. Antization is very
+4:53
+much a technology as as well as um legal structures and um regulations. So uh to
+5:00
+be successful in this you have to be successful in technology and building the rails that will power great products
+5:07
+but also make sure that you structure them in the way that are like compliant to to the uh different laws and
+5:15
+regulations in the world uh depending on the jurisdiction. So when I first came
+5:20
+um uh into crypto that was in 2022 um I moved from Ukraine to Poland and
+5:27
+join uh crypto startup with Polish origin. This is ramp network. Uh they
+5:32
+already um were working in inter on international scale and this at that
+5:37
+time they were doing on ramping into crypto. from fiat to crypto. And I think this is the perfect uh start for any
+5:45
+person and it was for me because uh they worked with many DeFi products. They
+5:50
+worked with all crypto wallets and they are still working of course. Um and they worked with many financial apps that
+5:56
+needed to on board uh mass audience to crypto. At the same time I worked also
+6:01
+on launch of the product from crypto to fiat. Uh so like offboarding basically
+6:07
+or like moving out of the uh space when people want to buy uh fiat. Uh so for me
+6:13
+it was just the perfect time and perfect uh way to learn about the industry like
+6:19
+to go through that uh path that any traditional fiat user is going. Uh so
+6:25
+that was the first time but since I have this very traditional background like from education I also moved to marketing
+6:31
+and I worked with financial institutions. I worked with banks. Basically, every bank in Ukraine was my
+6:37
+client when I worked in marketing agencies in Ukraine. Um, I worked with Mastercard. I worked with different
+6:44
+financial platforms. So, I had quite good understanding how financial ecosystem and traditional financial
+6:50
+ecosystem works. And when I heard about tokenization, I was amazed because this is just a perfect uh space for a person
+6:58
+like me who who is an expert in marketing, who understands finance and also um maybe just started in crypto. Um
+7:06
+so when I spoke to Centrifuge, I realized that this intersection of
+7:12
+traditional finance and uh web 3 is something that I can be helpful, I can
+7:18
+be good at. And that that is the case. I'm still very much enjoying uh this space and I'm learning and I'm helping
+7:25
+to bring this to the masses. So um you have a lot of experience in marketing in finances. I hope so. Yeah.
+7:31
+Thank you. In fact uh my good colleague who started just now uh in marketing as well in
+7:38
+centrifuge. Yeah. He studied political studies as well and like he moved into
+7:43
+marketing and works in withization right now and he's also great at it because we
+7:49
+both understand the concepts behind. Uh but at the same time we've learned marketing through work through reading
+7:56
+things through going through different courses and like creating education for ourselves. Uh so that's probably
+8:02
+something I would recommend to anyone who is working in finance crypto have something that would be your core
+8:08
+strengths and um just move out of that and like build on that. Yeah, I hope that our viewer just noted
+8:14
+this note down and yeah so let's uh move on. Uh what excites you the most about
+8:20
+working in centrifuge? Maybe your mission or team work. Yeah, both I think
+8:25
+but if we divide it into two parts I would say one thing is uh external uh so
+8:31
+first of all it's um something that drives the finance industry forward and
+8:37
+I see that this is not a game this is not something someone imagined and just
+8:42
+try to promote uh this is a real use case for blockchain and we see a lot of
+8:47
+big financial institutions moving in so for example black rockck Franklin Templeton um Jonas Henderson who are
+8:54
+also our partner. Yes. So all the big guys are thinking about tokenization and not just thinking they are moving big
+9:01
+funds and big efforts into that. Uh so I see this is like real this is serious a
+9:07
+lot of serious people are talking about that and at the same time on the crypto uh side I see very big uh cryptonative
+9:14
+organizations who are also are quite serious in moving billions of dollars into those tokenized products. So I see
+9:21
+that this is not a narrative. This is not uh a story someone tells. This is actual business and people are actually
+9:28
+trying to um improve the financial industry. So that's the external side.
+9:34
+From the internal side, I also work uh with very professional team and as I
+9:40
+told you I've I've been in the agency. I've seen quite a lot of businesses. I've had a chance to learn about
+9:45
+different strategies um of different companies and I also saw a lot of people in on the management side and I think
+9:52
+centrifuge is one of the great examples where we have quite um great leadership
+9:58
+people who actually already built businesses successful businesses and sold them uh who understand how it works
+10:05
+how to build successful company uh they also believe in the promise of tokenization they know how finance is
+10:12
+outdated yet and how to improve it. The pace at Centrifuge is quite fast and we are building quite a lot. We are issu
+10:19
+like we are we are producing quite a lot of different updates and for marketing there's always something to do. Um but
+10:26
+uh from in comparison to what I saw in other companies this is not an
+10:31
+environment like this is not a toxic environment. This is a very humane environment where people love to work
+10:37
+with each other. They have fun and they are having fun by by building the better
+10:43
+financial system which is cool and rare. So I like that. By the way, how big is uh is the the
+10:49
+team today? I think around 30 people plus and 30 people. Yes, it's not super big. And this is
+10:55
+cool. I think this is our power actually. Um our power in in this size
+11:00
+because we are very fast and we know each other and we we know who is doing what. Um at the same time our team is
+11:06
+distributed so everyone is in different country. Uh we work remotely and I think
+11:12
+I often joke that centrifuge never sleeps in comparison to some of our competitors where like they have some
+11:19
+you know time when they just clock in clock out and we just continue all the time because if I did something my uh
+11:26
+colleagues in the other on the other side of the world continue doing that task and in the morning I can continue
+11:31
+my part. So yeah this is 24/7 as the market that we want to build right like because traditional market operates from
+11:37
+Monday to Friday the market that we want to build operates 24/7. Yeah for sure. Yeah [laughter] that's
+11:44
+absolutely true and just let us know what is it centrifuge in a very simple
+What Is Centrifuge (In Simple Words)
+11:50
+words for um anyone who's new here um just let explain centrifuge in the
+11:55
+simplest way as you as possible. Uh so Centrifuge is the platform that brings
+12:01
+traditional financial products like different securities, credit, uh bonds
+12:06
+and other types, equities on chain and let them exist on chain in the way that
+12:12
+both um companies that issue them uh and investors can trust uh the promise and
+12:19
+trust the structures on chain. Um for us it's very important to uh make sure that
+12:26
+uh traditional fund fund managers who bring those assets on chain um they have
+12:32
+the same regulatory and legal structures that they are used to. They understand
+12:37
+that the terminology that we use are uh the same as they are used to but at the
+12:44
+same time they benefit from blockchain. they uh have better rails and and they
+12:49
+have better access to investors and they can operate uh in a more efficient way.
+12:55
+Uh that's what centrifuge does in in simple words. Yeah. And uh yeah and
+13:00
+uh what problem does centrifuge actually solve? I think this ties uh to the question
+13:07
+what is wrong right now like why we exist. Um and from my side when I
+13:13
+started working west organization I was shocked when I was reading like several
+13:19
+materials about how traditional finance operate and I read an article at that time that there's still a need for at
+13:27
+least 20 different uh intermediaries or like entities to operate investment
+13:32
+fund. So this can be custodians, fund managers, um different banks and etc
+13:39
+etc. Um and this uh doesn't operate 247 as I said u and it's not efficient and
+13:47
+this entities they still run on PDFs they still use um spreadsheets they
+13:53
+still use email to operate all that and to manage all of that. Um so I was
+13:58
+thinking why is it still possible because I was like I was working with
+14:03
+financial institutions but I didn't see all this like operational details um
+14:10
+very closely and when I realized that this is still the case in 2025
+14:15
+um 2024 at that time I was shocked honestly and a good
+14:21
+question that people are asking me so okay why we just digitize those
+14:27
+processes, right? Like just build a software that would be like would be automatic and and that's it. I would say
+14:34
+yes, but the thing is that tokenization is not just digitizing the process. It's
+14:40
+just recreating how assets are issued uh totally and it provides immutability. It
+14:46
+provides programmability. It provides transparency, composibility, all these things that are important for blockchain
+14:53
+and what are the like core values of blockchain of blockchain they are all uh creating better rails for like
+15:00
+optimizing this processes. So that's what we try to solve that's how we operate and uh this is the mission that
+15:08
+we like follow. So let me check if I got this right. Uh a company has something valuable in the
+15:14
+real world. uh loans as you said, invoices, bones, something real estate.
+15:20
+These assets have value, but the money inside them is often locked. So, Centrifuge helps turn these assets into
+15:26
+the digital tokens on blockchain. Investors buy tokens and earn ys. That's in simple words that that's
+15:33
+correct. But not always money are locked. Uh so there definitely is the uh
+15:39
+real world asset, right? like as we call this industry um there is a real world
+15:44
+asset that exists offchain um and the goal can be different. So from one side
+15:50
+the uh traditional fund manager they just want to access cryptonative
+15:55
+capital. So they want big treasury managers on chain to invest into their
+16:01
+tokenized products. So that's why they bring those assets on chain. So that's one type of motivation. uh another type
+16:08
+of motivation can be they want retail clients to access their assets from
+16:15
+different parts of the world. So this is actually where we can talk about uh access to types of assets that are not
+16:22
+available everywhere. So there are some countries where people don't have access to capital markets at all. They don't
+16:28
+really uh can invest in equities or like um diversified credit or something else.
+16:34
+So they don't really have access. So that's how uh fund managers, asset managers, um different traditional
+16:41
+financial institutions, they just want to provide that access and organization gives that ability for them as well.
+16:47
+Um at the same time there is a third way of looking at that and this is just um
+16:52
+the way to lower the cost. Um, of course I would say this is some right now is
+16:59
+not the biggest motivation for them because we still are working on optimizing the structures and rails to
+17:05
+make sure that there there is a real efficiency there is a real costsaving and as tokenization moves forward it
+17:12
+progresses we definitely goes there but um one of the things that we promise in
+17:18
+the long term as the industry is that we won't need those 20 entities we won't
+17:23
+need those actors and we don't need those long processes of approving things like the the rails will just provide you
+17:30
+ability to program everything remove all the intermediaries and middleman and
+17:36
+just be very automatic in all this processes. So that would save the cost and in some ways like we had the case
+17:43
+with uh block tower credit uh they were doing securization with us uh which is
+17:49
+like creating um like loans and credit uh types of assets and in that type of
+17:56
+work they achieved 97% of uh costsaving which is amazing result but this was
+18:03
+just one um step in all the process uh and our aim is to make sure that all the
+18:09
+steps are achieving that uh level of savings. About these steps, we'll talk a little bit later. And uh one important uh thing
+18:16
+to say out loud uh area is not just about JPEG NFT. So you have a house uh
+18:23
+and transfer it to JPEG NFT. So NFTs are just like a technical tool. Yeah. And
+18:29
+more like a digital passport for an asset. Uh yes definitely this is an
+18:34
+important uh technology for us to be able to do tokenization. Uh but this is
+18:39
+just like one element of it and it gives us the instrument and not the ultimate result. Uh I would say tokenization as
+18:47
+the technical uh step is the last one or like one of the last ones not the first
+18:54
+definitely because when someone comes to us uh they don't need just NFT they or
+19:00
+like create the NFT from the asset that they have they need the full spectrum of legal rights like included into this um
+19:08
+NFT and um provide the rights to investors who will be investing in those assets. So a lot of this about uh
+19:16
+structuring about uh making sure that there are all the disclaimers or all the
+19:22
+necessary um regulatory approvals etc etc. So uh
+19:27
+this is the first steps not um the tokenization itself. So when the token is issued uh and someone invests into
+19:34
+that token, we want to make sure that those investors they have the same um
+19:41
+rights and um all these precautions and security elements that they would have in traditional world.
+19:48
+By the way, out of curiosity, what the most unusual or interesting thing
+19:53
+someone has uh ever asked to tokenizate from from your experience? Yeah,
+19:58
+a lot of companies are coming to us with various ideas and usually this is some
+20:04
+collectible, some rare products or um something that would be related to art
+20:09
+or um very precious things. I would say most interesting case uh in my opinion
+20:14
+was when uh company wanted to create uh wine financing product. Uh so they have
+20:21
+a vineyard and they have some land where they produce wine and they wanted to use
+20:27
+it as uh backing for uh creating a tokenized product and and then selling
+20:32
+the fractions of uh rights to that uh wine production. Um so that was very
+20:38
+interesting case and I think that uh it can exist if uh there is a demand from
+20:43
+investor side because uh it's not a problem to tokenize anything basically there is tag that can do that uh we can
+20:51
+do that the next step would be for them when they tokenize this uh product who
+20:56
+will invest into that who will provide the liquidity for that product and this is the hardest part uh for us we have
+21:04
+the ability to work with big clients who work with big financial products and
+21:10
+like you know um there are some uh cryptonative organizations that are
+21:15
+interested in such types of products. So we started for example with US treasury bills very simple stable product and
+21:24
+like there was demand like we had one spark tokenization grand prix and got uh
+21:29
+$400 million invested in that product. Will there be an organization that want
+21:36
+wants to invest into wine production? Um I don't know. I I don't know any company
+21:42
+that is interested in that right now personally but there might be. So if there is a demand, if there is the
+21:49
+client or potential investor who wants to um have some fraction like some
+21:55
+rights into such product, you can use the tag, you can do that and centrifuge provides uh rails for the such clients
+22:02
+in the form of white label um infrastructure where you can tokenize
+22:07
+and provide the assets under your brand and distribute them to different clients that you are looking for. Um so yeah
+22:14
+this these are very interesting cases and they have total right to exist. I would say just our focus is a bit
+22:21
+different. We try to work with the assets that have quite clear demand. As I understood the most difficult part
+22:28
+is it to find someone who will invest in this and buy your token nice active.
+22:35
+Yeah [clears throat] totally. Uh this is the hardest uh part because there should be a motivation from the other side
+22:40
+right. So what do they want to achieve and this is also for me as a marketer as I told you in the beginning um it's very
+22:47
+important for to provide information and to educate the psy space why
+22:53
+tokenization matters and how centrifuge solves the needs for for these types of
+22:58
+uh entities and there are also different motivations that for example there can
+23:04
+be treasury management so for example DAO has a treasury they they have billions in dollars and they need to
+23:11
+make sure that this money they don't just exist they work they provide some yield um in the long term. So they
+23:18
+usually invest into some cryptocurrencies but at the same time into real world assets because this
+23:23
+provides better stable um yield for them and they um see that there are a lot of
+23:29
+like security measures there are a lot of guarantees for for those asset that are similar to traditional uh financial
+23:37
+assets and they don't need to offra so they don't need to convert their USDC USDT for example some stables that they
+23:43
+own into fiat they can do it on chain because in the past they had to do that
+23:48
+right they had to like buy fiat and then invest into US treasury bills now they don't need to do that so that's one
+23:55
+thing another thing is um tokenized assets that work as collateral what does
+24:01
+it mean it means that for example there is a stable coin that that is earning some yield and where where is it this
+24:09
+yield coming from right so there should be some assets that um giving that yield to uh users so this is also So sometimes
+24:17
+uh real world assets. So yeah there are different use cases for why real world assets work on chain and this is the the
+24:25
+task for us to make sure that we grasp this motivation. We understand who that is and what products will fit um into
+24:32
+that motivation. So when we work with big financial institutions we can also
+24:38
+advise them like what is current stance uh on the market who is looking at what
+24:43
+what is going on like what organizations want treasury management what organizations want um collateral etc. It
+24:51
+doesn't mean that we are selling the product but we need to be advisers to um
+24:57
+to those financial institutions.
+25:03
+Let's move on. Um and let's talk how tokenization works. Uh you said and we
+How Tokenization Works: Step by Step
+25:10
+talked about few steps and uh maybe you can provide a guide. For example, I'm a
+25:15
+company. I come to centrifuge and say guys I have a flat I want toize it
+25:21
+step-by-step guide. What's next from from your side? Very good question because this is like typical uh
+25:28
+expectation that if someone has some asset that would uh automatically qualify for us to be the tokenization
+25:34
+platform for it. Usually we work with institutions. So this is uh one step you
+25:39
+would need to have some kind of legal entity to work with centrifuge. Um yeah
+25:46
+maybe in the future we would be open for any type of tokenization but at this
+25:52
+time we mostly work with institutional tokenization. So if there is a product
+25:57
+that institution wants to tokenize also another step and another question would
+26:03
+be what types of legal structures you already have and what can you create and
+26:08
+what jurisdiction uh you will be creating this asset uh in and there are two ways. First uh way this
+26:15
+organization, this institution already have lawyers, uh developers, everyone
+26:21
+who understand the space very well and they just need our tech and this is one
+26:27
+side of it. Another side is when and this is more typical uh way is that they
+26:33
+don't have people who understand the space at all. Uh sometimes they don't even understand crypto because they
+26:39
+never worked with crypto. So they come to us as uh advisors um and they want us
+26:45
+to provide the whole spectrum of all the services. So this is from like creating the specific um entity for that new um
+26:54
+product like fund for example uh helping to manage that helping to tokenize that
+26:59
+on the technical side um and advise them on how to distribute that. Um so this is
+27:06
+the two parts that we can cover but with different brands. So centrifuge is a tag first of all. It's a protocol that
+27:13
+satisfy the need of tokenization first of all. There is also anoy who is our
+27:18
+partner organization who is an official issuer with uh specific uh registration
+27:23
+and specific licenses. They can issue the products um and can distribute them
+27:29
+later on. So, Animo is the entity is the brand that comes in when we need to
+27:35
+provide this whole level of um of tokenization uh services and like
+27:41
+distribution later on. Um so if you see for example some products tokenized on centrifuge these are Janus Henderson
+27:48
+Anamoy uh AAA clo fund. Um so you can see that this is Janice Henderson and
+27:54
+Animoy who work together to bring this funds onchain. um through sense refuge.
+28:01
+Um so this is how how this works. Usually antonization in this as I said
+28:07
+is sometimes the last step before we create all this um legal structures.
+28:13
+You said about jurisdictions are there specific jurisdictions or countries for
+28:19
+tokenization? Maybe some red flags I mean [laughter] oh okay we know that
+28:24
+sanctions countries are not illegible. Yeah, maybe something else. Yeah, for sure. We have obligations to
+28:32
+uh monitor sanctions country. All these funds and investors, they go through
+28:38
+very rigorous audits and um both on the uh structure side but also on the legal
+28:44
+side. the jurisdictions that like we need to avoid in terms of we are not
+28:50
+allowing some investors to invest and this is specifically for some funds that
+28:55
+are tokenized on centrifuge are US investors. So a lot of funds that exist
+29:00
+right now uh they are not available to US investors because this is of some
+29:05
+regulatory aspects of it. So it's not that we avoid US it's just like the the framework that we operate in doesn't
+29:12
+allow that. This is one example but it always depends on the asset on the structure that the issuer want to bring
+29:19
+and on the issuer itself. So the the company that creates the tokenized asset.
+29:24
+Yeah. And uh one more question about tokenization. uh who decides in centrifuge whether an asset is suitable
+29:31
+to tokenize or not. For example, there are some technicalities to it like can we actually tokenize that like can
+29:38
+we build a structure that would be suitable for forkization that's one side and these are just
+29:45
+criteria that guys from technical departments yeah on technical side there is also legal side there is big due diligence from
+29:52
+both sides right so it's not like only us checking but also there like
+29:58
+traditional financial institutions are doing quite rigorous due diligence of centrifuge as So on
+30:03
+both sides right like so we try to find the ways and understand like does it work together not just like we decide
+30:10
+who can and who cannot like both sides these are partnerships usually um but
+30:16
+there's also a question of uh demand as I said right so we usually sit down with
+30:22
+the potential partner and we discuss does it make sense at all like to tokenize this and this this is the step
+30:29
+where we come to the conclusion okay there there is a demand there is the motivation to invest into that that we
+30:34
+will see the market actually um providing liquidity for that funds or
+30:40
+that assets. So yes, we sit down, we decide together and we do that. If not,
+30:45
+probably we would agree together that it's not feasible, it's not needed and
+30:51
+we will not proceed. How long does process usually take from the first step to the last step? As you
+30:56
+said tokenization, yes, depends. Months, weeks. Yeah. So for example, if you come to us
+31:01
+and say I have an apartment, I want to tokenize it. There will be a very long process of educating you and saying like
+31:08
+what you would need uh to build, what legal entities you would need to create and like generally bringing you to that
+31:15
+um readiness of uh uh tokenizing your apartment. But when we talk about bigger
+31:21
+institutions that already have some structures in place, it can like be in
+31:26
+several weeks or even in several months depends on how fast we can move with
+31:31
+legal side on high level as much as you can share. Uh how does the business model work for
+31:38
+a client? So um is it setup fees, ongoing fees, I don't know maybe annual payment or
+31:45
+longterm partnership model? Uh I would say all of that can work. Uh we are a platform first of all. Centrifuge is a
+31:52
+protocol and and it provides technology. Um so we can do platform fees. We can do
+31:58
+ongoing um usage fees. We can do long-term partnerships. But as we work
+32:04
+with the big organizations, uh usually it's very tailored uh partnerships. And
+32:10
+uh every time that we create some structure or we help to tokenize some product uh we need to um like discuss
+32:19
+what would be the type of uh uh the fee that we will require for the specific work.
+32:24
+So in a simple terms how does centrifuge make money? The fees the fees. Okay.
+32:30
+Yes. But we're now like quite actively uh promoting our white label platform
+32:36
+where anyone can come and use the tag to tokenize some product and this is where
+32:41
+I think moving forward we will be more standard standardized in how we uh charge the fees. So there will be a bit
+32:48
+more clarity to that and maybe um some typical types of things that we do. Right now it's mostly one-on-one uh
+32:56
+decision. Yeah, I'm asking this because a lot of people still think that crypto
+33:01
+is crypto project lives only from token or rack pools. Yeah. Yeah. But what
+33:08
+you're describing about fees, it's much closer to a real financial I would say we want to become a SAS type
+33:16
+of business, right? like at at some point um when there is a big demand of
+33:21
+the products uh in like tokenized products uh on the cryptonative side there will be a better chance to create
+33:28
+standard fees and provide them to the public um since there is only the demand
+33:34
+for very tailored products right now. Uh that's why everything with those
+33:39
+structures is uh tailored for now. Yeah. But we are moving from that and we are scaling with the market. Not only us,
+33:46
+but the whole market is scaling. So do we. Now we really understand what's under
+33:51
+the hood. Let's switch the pace for a moment. I like this part of our podcast. Quick blitz.
+33:56
+Yeah. Uh short answers, no explanations.
+Quick Blitz
+34:03
+Area. Uh this is the hype or foundation. Um foundation. NFTs in RVA core or just a tool? tool
+34:11
+real world assets onchain too early or right on time? Right on time for sure.
+34:17
+Marketing inva storytelling or transparency? Uh storytelling stuff institutions in crypto opportunity or
+34:24
+risk? Opportunity as always. [laughter] Uh web 3 marketing overrated or misunderstood?
+34:30
+Misunderstood. Plus [laughter] one word people misunderstand the most in RVA.
+34:36
+Uh transparency. Okay, maybe. [laughter] And one word to describe centrifuge today,
+34:41
+challenger.
+34:47
+Many people see REA as one of the strongest bridges between uh crypto and
+RWA & Mass Adoption
+34:52
+the real economy. And honestly, I think that's true. Uh I would say more for me.
+34:59
+Uh the word of the year in 2025 was RVA in web 3. Yeah. So uh why do you think
+35:06
+this sector is growing so fast right now? I think because a lot of big financial
+35:11
+institutions that they acknowledge the existence of web 3 in general. So I
+35:16
+always say that it's not just organization that grows then that makes us successful. It's just the whole
+35:22
+crypto industry is growing and that makes um big financial institutions to
+35:28
+notice this like uh loud people running around and
+35:33
+talking about stable coins and talking about some cryptocurrencies and tokenization. So they see that this
+35:39
+actually matters and the bigger the industry is overall the more capital is coming into web 3, the bigger attention
+35:47
+everyone will be paying to that. So like if um crypto is falling down that means
+35:53
+that a lot of uh people can like lose hope or face into web three in general
+35:59
+and we don't want that to happen. So for us it's not just building the tokenization rails or just like growing
+36:05
+our small corner of the space but just like growing the whole space overall and
+36:11
+I think they noticed that because stable coins I think around right now more than $300 billion right now the volume um
+36:20
+which is noticeable for big financial institutions tokenization um like funds and all the different type of types of
+36:27
+assets that are not stables quite smaller But still noticeable for them.
+36:33
+Um this is uh this is why we started to move very quickly because one big uh
+36:39
+financial institution called uh Black Rockck they started doing a lot of in tokenization. This year they said they
+36:45
+want to tokenize all their products which is crazy because they are like major uh player and a lot of smaller
+36:54
+players they were like okay why are we not doing that? We need to do that. we need to at least start experimenting and
+37:01
+then we will provide like better solutions and um actually do the business here. So I would say 2026 and
+37:09
+one of our predictions in centrifuge in general is that around 50% of asset
+37:15
+managers traditional asset managers next year they will include tokenization as a
+37:20
+part of their strategy and a lot of traditional financial products um they will be issued uh not just on
+37:27
+traditional rails but there will be a strategy to also move that on chain and I think uh if you compare how um mobile
+37:36
+application s and mobile products uh evolved. This is quite similar in my opinion because in the beginning we had
+37:43
+this web interfaces um and they were not adapted to mobile at all. So when you go
+37:48
+to browser you see this like website um which is the same as on a desktop. Then
+37:54
+companies they were like okay now we need to adopt mobile version and as the
+38:00
+progress was going with mo mobile uh applications and mobile phones now a lot of companies don't have web at all so
+38:07
+they just start building the uh applications for mobile phones so you know this is how the switch went so in
+38:14
+in the beginning there was only web and now it's only mobile so I see that a tokenization and like um web 3 will be a
+38:23
+big portion of um of that progress. So in first at first they will be just looking at it. They will be including it
+38:29
+into their strategy and maybe in few years tokenization and like web three
+38:34
+and native onchain issuance will be dominating. Um so we will not be
+38:39
+tokenizing we will be just creating products on chain and not have offchain version at all.
+38:45
+And from your perspective uh what are the biggest barriers today? Maybe technology regulation or trust.
+38:51
+Yeah. So I just read uh recently the report that um was done by EI and
+38:56
+Coinbase about tokenization and um number one barrier that a lot of people
+39:03
+are mentioning uh is regulation. So we still are waiting for some things to be clarified to make sure that the
+39:10
+structures that are built um they are compliant and they are proper. Um and I think a lot of traditional financial
+39:16
+managers they wait for that. So they want to see green light from regulators that okay this is safe, this is good,
+39:23
+this is how it should work, these are the rules and they will even be faster into adopting that. So this is number
+39:29
+one. I'd say from marketing perspective we still need to educate a lot of people on what that is. It's not just like you
+39:37
+know when I speak to different um agencies and contractors they like we will start bringing you leads right
+39:43
+away. I'm like no no no no hold on first you need to explain what that is like what the industry is so it's a lot about
+39:51
+building the category still for marketing and this is a big barrier so we cannot just proceed to talking
+39:57
+business we still need to explain what are we actually doing what is that and uh from your point uh what people
+40:04
+fear the most when they hear RVA depends who you ask uh if you're talking
+40:10
+about uh traditional players I think they are not feared of real world
+40:15
+assets. They are just feared of what Web3 uh is doing. They don't know crypto
+40:20
+at all. So like we don't start with talking about tokenization. We're starting uh about
+40:26
+um we start with just like basic foundational things about crypto. U not
+40:32
+always of course there are many great people who understand very uh deep
+40:37
+concepts. Um and this is great when they do but also we feel fine if we need to
+40:43
+like onboard people this is great it's great that they asking questions it's great that they are interested and if
+40:49
+needed we we are here to to help just imagine that the guy who know about
+40:55
+web 3 something and uh he heard for example he yeah heard about and think
+41:02
+NFT token nice a little bit difficult I think the first step is like is
+41:08
+yeah something unfamiliar, unclear seems um complicated especially if you don't
+41:15
+have uh developers inside the company. Um I think the main uh question is do
+41:21
+they understand the benefits first of all because if they understand the benefits why would they do that then the
+41:28
+technicalities of it uh can be solved with us without us or like we can
+41:33
+provide full service we can provide just tech depends on like what are the gaps in their understanding
+41:39
+uh first of all they need to understand why they would even consider tokenization and what that can bring to
+41:45
+them and this is where I personally drive the conversations with different
+41:51
+fund managers when I meet them and they ask about my industry, what I do for work. Um, so I start from that. I start why
+41:59
+with why, not with how because at trustee we focus a lot of simple wallets and for everyday usage
+42:06
+you focus on infrastructure that connects uh traditional finance with crypto. So in both cases it's about
+42:14
+building bridges between two different worlds. Do you feel that RVA is exactly
+42:20
+this kind of bridge? For sure. Uh there is even a slogan that we used in our latest campaign that in
+42:27
+2026 and beyond there will not be any traditional finance or uh decentralized
+42:32
+finance. There will be just finance. So we feel that we are the uh connector of
+42:38
+those worlds and we are not like working against one or another. We just want to
+42:43
+create better finance. This is our goal. Not bridges connector. So yeah uh let's
+42:49
+talk about marketing again uh but from another angel. This one detail about centrifuge that I find really
+What Does the Future of RWA Look Like?
+42:56
+interesting. Uh your current CEO used to be CO before stepping into that role.
+43:01
+That doesn't happen very often in crypto. What does that say about the role of marketing uh and communication
+43:07
+inside centrifuge? That is the best uh that could happen with any company to have a person who
+43:14
+understands um not only business but also understands how to do growth is
+43:20
+essential for any project. I think that a lot of projects right now in crypto and this is normal um for this stage of
+43:28
+our maturity as in the web3 industry are driven by developers uh which is very
+43:34
+cool. This is great. We also have very strong developing team and uh we have
+43:40
+great uh chief technology officer who is also a co-founder of a centrifuge labs but having also a person at the table
+43:47
+who understands marketing who understands how to build positioning how to talk about the product and like
+43:54
+market it to uh different types of audiences it's just super cool and it's
+44:01
+rare and I think this is a big uh part of centrifuge success that uh Raji
+44:06
+Illuminati who is currently chief executive officer um is uh an expert in
+44:11
+that and of course like from the professional perspective for me this is very convenient because I don't have to
+44:18
+explain some things and like just you know pitch basic found foundational uh
+44:24
+tactics she already knows about them and we just can collaborate very closely on
+44:30
+everything that we do. So could I say that in the future the current CEO of
+44:36
+Centrifuge could also become the CEO? Depends who I would say Baji is still
+44:41
+very much chief marketing officer. uh because even though she's not uh holding
+44:47
+that title officially but she's very much the one who uh drives go to market
+44:53
+strategy and like helps to define the vision for for the whole company in terms of uh marketing and uh my role is
+45:02
+uh making sure that the system that we have for marketing is in place uh and
+45:08
+all the tactics all the strategies they perform as a block. Um, this is the the
+45:15
+goal I'm like putting uh ahead of myself in marketing and in centrifuge in
+45:20
+general. From your experience, who is harder to communicate with to uh cryptonative guys
+45:26
+or traditional institutions? I'd say depends on the experience of a marketing person. If they had more time
+45:34
+spent uh with traditional uh players, they would be more comfortable talking
+45:39
+to them. if they had more like cryptonnative experience um it would be easier for them to to do community
+45:45
+marketing for example uh for me because I always was in on the intersection of
+45:50
+traditional industries and uh innovative industries um it's kind of similar but
+45:56
+it depends what tactic you use like so I would say the difficulty is not in the type of audiences but um in the channels
+46:05
+or tactics that you use so sometimes like I can have more experience experience with for example creating
+46:11
+content um and less experience in I don't know doing hands-on affiliate
+46:17
+campaign let's say uh so that's that's could be more difficult and that's where
+46:22
+I would probably collaborate with someone else but it's not about the specific audience it's just about the
+46:27
+instruments that you have and like how much you spend time with each of them because my colleague once told me uh
+46:34
+that it's easier to teach crypto to a web to specialist uh than to teach a
+46:40
+crypto guy to not put all his money into the futures. Yeah, that's very interesting take. Um I've
+46:47
+seen both uh sides. Uh I think a lot of people who I met they started from
+46:54
+something they were once all web 2 marketers like I don't know maybe just
+46:59
+like we still super young so there are not a lot of uh marketers like very
+47:05
+professional marketers who I met who started from crypto from the very beginning they got their experience from
+47:11
+some traditional uh industries and at some point they were on boarded into crypto um maybe in two or three years or
+47:19
+like maybe even more we will see like crypton native marketers who are driving
+47:26
+big companies um and we probably there are some of them already but like I haven't met them uh yet but I think
+47:34
+there will be majority of them as we move because web 3 is growing so people would start from web three they wouldn't
+47:41
+like transition to web three they would be just the default um space that they would I agreed with you absolutely and uh what
+47:48
+you think what making approaches don't work uh in area I think that what doesn't work uh is to
+47:55
+do the hype without the substance um people always see that uh you are not
+48:02
+backing your takes with specific product or actual collaboration or um
+48:08
+partnership so it's visible uh it's shown in the data like community can
+48:14
+easily dissect that so even like if you issue the product and it's not um good
+48:21
+you will be um aware of that. What mistakes do you see the projects
+48:27
+making on this way? I think a lot of projects are doing tokenization. They are not actually learning what's needed
+48:36
+like they just doing tokenization for the sake of tokenization to say that they are very innovative or they are
+48:43
+trying things but at the same time no one actually wants um those products and
+48:48
+we can see it in the data. It is the mistake that any tokenization platform can um do right. So sometimes you
+48:57
+believe in the product you you don't you think that there will be demand but then you bring it and no one is interested.
+49:03
+Sometimes it happens but there are just like some early startups that just do
+49:08
+the products just for the sake of products. Um so just talk to your customers right learn your market. This
+49:15
+is the main mistake for any business not just web three business organization. Yeah. Yeah. Main point I think
+49:21
+[laughter] let's move to the future. uh looking three or five years ahead uh
+Talking About the Future
+49:26
+what does uh the future of array looks like I think there won't be real world assets
+49:32
+as the term there will be onchain strategies and um we will talk about finance
+49:40
+onchain about capital markets on chain that are just tied with any product
+49:46
+offchain um so we will not talk about tokenization as a concept as something new it will be
+49:53
+just natural thing as we talk about web type of product and mobile type of
+49:59
+product it's just natural way of creating any anything and I think we will move closer to native onchain
+50:06
+issuance so there won't be any offchain product at all there will be just onchain on onchain asset that that
+50:13
+exists only uh in web 3 and which type of this asset you think will feel normal to have onchain yeah
+50:21
+yeah what I see right now is a battle between types of tokenized equities. So
+50:27
+for example, if you want to invest in Apple, uh you would buy stocks, you would buy equities and there are some
+50:35
+companies that provide solutions for tokenized equities of those companies and the way they are structured are
+50:41
+quite different. So what I think will be interesting is to see big players like Apple or someone else to issue onchain
+50:48
+equities first of all as tokenized one but at the same time in a few years big
+50:54
+players issuing only onchain equities that would be a gamecher so we don't they don't have anything off offchain
+51:00
+they don't have anything in traditional world they just goes like directly with blockchain strategy only that would be
+51:07
+cool where do you see the centrifuge in this future Centrifuge is the tag that everyone uh
+51:15
+considers preferable partner for for doing that. Maria before we finish because it's
+51:21
+almost finished. Uh one last thing we work every day with complex products
+51:27
+real finance and people who are just trying to understand crypto. So let's finish with something practical. a few
+51:34
+short tips from our viewers for people who are curious about crypto and RVA and
+Practical Advice & Final Words
+51:41
+real use cases. First of all, do your own research always. Uh don't listen to anyone. Um
+51:49
+yes, when they advise you to invest into something, this is very important and this is the primary rule. At the same
+51:56
+time, ask questions. Don't be shy. Uh do do meet people. People do ask questions.
+52:04
+Do try to find more information. Use AI. AI is the game changer right now. I
+52:11
+think a lot of um the web 2 into web 3 specialists they they learned because of
+52:18
+AI. They started with chat GPD and just ask dumb questions uh without anyone
+52:23
+looking. This is the way. And of course just try things. I think this is crucial. I've seen a lot of people doing
+52:32
+uh and making conclusions just because they read something. Just try things. I
+52:37
+don't know. Learn what the wallet is and set it up on your phone. Try it. Try to move something around. Try to use any
+52:44
+DeFi product with small sums that probably you you would be comfortable to
+52:49
+lose. But just experiment, try and be uh open to any new experience. This is the
+52:55
+try work hustle. Yeah. [laughter] Love it. Uh you said about AI. Does centrifuge use an
+53:00
+[clears throat] AI? Depends on the team. In marketing we definitely do use AI uh different types
+53:06
+of products to create content to create uh written content, video content, uh graphics, uh optimizing the processes.
+53:15
+Uh marketing I guess one of the biggest users of um EI products and we are ones
+53:20
+that like advocate for them. I know that developers are also using but I wouldn't
+53:26
+tell what they use because I I don't know. Nice. So well guys today with us was
+53:32
+Maria Senko, head of marketing at Centrifuge, a project that works with
+53:38
+real world assets and helps bridge real finance on chain. So Maria,
+53:43
+thank you very much. It was really really really great to have you here.
+53:48
+Thank you for having me and it was a pleasure. Happy to talk about organization 247. Yeah, thank you so much guys.
+53:55
+Thank you and thank you for watching Trusty Talks. More podcasts, more videos, more guides
+54:00
+are coming here. So make sure you are subscribed. This was the Trusty Talks.
+54:06
+I'm Danilo. I will see you very soon. Take care and take care of your finances.
+

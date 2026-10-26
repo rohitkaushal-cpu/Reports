@@ -1,0 +1,2815 @@
+
+Search in video
+0:01
+hello everyone
+0:06
+Hi so Elena gave me the unenviable task of tearing you away from the first uh
+0:12
+chance to chat away from the room so thank you Elena um but uh you know I
+0:18
+think we want to try to get started uh on time we're excited to have our second session on stable coins and it will
+0:26
+begin with uh Matti Al andoni from Federal Reserve Bank of Boston um presenting a paper and discussed by
+0:32
+federo Greenberg from the IMF U followed by Sharon Ross um from Federal Reserve
+0:40
+board discussed by Scott Shu from West Virginia University so floor is
+0:58
+yours
+1:08
+all right good morning everyone and uh I would like to thank the organizers for organizing this uh incredible conference
+1:15
+with this very interesting program uh our paper is about uh stable coins um
+1:23
+several of us were really into stable coins and crypto and several others of us were really into money market funds
+1:31
+and uh we have heard it's sort of part of the side Guist the this idea that uh money market
+1:39
+that that stable coins are awfully similar to money market funds in several
+1:45
+ways uh so we we've tried to to see essentially how far we can push this
+1:51
+metaphor and how similar they really are in in the features I were interested in which is
+1:57
+runs uh I work in financial stability so there are many other interesting things
+2:02
+but this is one of them that touches directly upon my work um and uh so let's begin with uh
+2:11
+some motivation why are we interested in stable coins as you see in the top right chart the uh market capitalization of
+2:18
+stable coins has been uh Rising for has reasen very quickly in the space of two
+2:25
+years to about $200 billion dolls uh it has reduced somewhat especially since uh
+2:32
+interest rates have reisen but perhaps also for other reasons uh but but not so
+2:39
+much as you would imagine right um we can perhaps confidently say the stable
+2:45
+coins are not only a uh a low interest rate phenomenon at this point
+2:51
+um and there has been however there have been however many stresses uh many stress periods there have been runs
+2:58
+there have been collap collapses and uh stable coins have another uh really
+3:03
+important characteristic unlike say uh true cryptocurrencies such as Bitcoin or
+3:10
+or ethereum that they are uh many of them at least are backed by traditional Finance assets so if you take if you
+3:17
+take for example uh usdcoin which is one of the largest and most famous ones it
+3:23
+is a token that tries to have a constant price of $1 you uh surrender $1 doll in
+3:30
+cash to the organization somehow and they give you one token worth1 dollar they will take your dollar they will
+3:36
+invest it in treasury bonds Bank deposits and other traditional Finance
+3:42
+assets and um with these uh Reserve fund
+3:48
+they essentially back the value of the tokens one for one right and so if uh
+3:54
+there were a a large outflow out of USD coin as there have been in the past um
+4:01
+you would um have that us the USD coin Reserve fund would have to sell a very large
+4:08
+amount of assets of traditional Finance assets and now we have created a a link
+4:15
+between the crypto world and the um traditional Finance world before I
+4:20
+continue I would like to say that what I said and what I'm about to say does not necessarily
+4:27
+represent the the rule is not that the uh disclaimer has to be in the beginning just has to be prominent I believe and
+4:33
+this is very prominent um does not represent necessarily the views of the
+4:39
+Federal Reserve Bank of Boston New York or the Federal Reserve System now uh
+4:46
+there there are uh again similarities between uh money market funds and stable
+4:51
+coins that we're going to explore and um the the stable coins have been in the
+4:57
+news many times um both in terms of the
+5:03
+um newsworthy episodes that they have caused as well as for their similarity uh to money market funds and
+5:11
+for their um link to the real economy um in recent stress periods we
+5:17
+have seen that money market funds experienced uh flights to safety let me
+5:22
+Define flight to safety flight to safety is the an outflow from funds that are
+5:28
+perceived as risky to other funds that are perceived as safer uh the
+5:33
+alternative to you could have a run without a flight to safety to be clear right the Run would the money would
+5:40
+leave the platform and never come back but there could also be a flight to safety where at least some of the money
+5:45
+remains on the platform goes into a different product that is perceived to be safer in the money market fund space
+5:51
+there are two types there more than two types of funds but generally speaking you could distinguish between government
+5:57
+funds that uh hold uh government securities and Prime funds that hold uh
+6:05
+a broader range of Securities including some created by the private sector such as commercial paper
+6:10
+Etc uh stable coins being the rough equivalent of money market funds in the
+6:16
+crypto world and we will talk about similarities and differences in a second um they uh perhaps are subject to some
+6:23
+of the same issues um one issue with money market funds that makes them um
+6:29
+somewhat runnable is that um they hold they will brainburst you for the money
+6:36
+you deposited at par right so if the value of the fund's assets drop below
+6:42
+$100 or 100 cents on the dollar let's say they go to 99 Cents and there are
+6:48
+100 investors each one of them could redeem at par at
+6:54
+$1 the first 99 investors would get their money back in full and the
+7:00
+100th investor to show up at the door asking to redeem their money market fund share would get nothing because there is
+7:06
+nothing left in the fund right this creates a coordination problem among money market fund investors which um
+7:13
+sometimes can cause money market fund investors to uh withdraw their money out
+7:18
+of fear of of being left with nothing uh stable coins working in the in a similar
+7:24
+way have a similar problem right and uh so but however you know money market
+7:31
+funds and St coins can both be runnable in the sense that I just explained but it doesn't necessarily mean that they
+7:37
+both the the the runs work in the same way and are originated uh in the same
+7:43
+way so in this paper we try to understand how far we can push this metaphor how similar are the runs are
+7:50
+there flights of safety in in in stable coins as well
+7:57
+Etc so here is a a bit of background on money market funds um money market funds
+8:03
+are very large they have about in the us$5 trillion in in assets uh as I said
+8:11
+before there are Prime and government funds Prime funds invest in commercial paper certificates of deposits US
+8:17
+Treasury and agency debt as well as repurchase agreement as lenders right
+8:24
+they are riskier in 2008 there was a proper run on one such fund
+8:29
+uh in 2020 there were very large outflows from several funds uh at the at
+8:35
+the same time as roughly the beginning of the covid pandemic uh government funds invest only
+8:42
+in US Treasury and agency debt and in repo loans as lenders but only repo
+8:49
+loans backed by Treasury and agency instruments so they're much safer and
+8:54
+they consistently experience inflows in stress periods however I want to highlight that for instance in the past
+9:01
+decade we have observed um uh large outflows from some government funds into
+9:06
+other government funds for instance uh between European funds at some points in
+9:12
+the recent history some countries in Europe were perceived as weaker by
+9:18
+investors and uh government money market funds exposed to such countries had
+9:25
+outflows in favor of money market funds holding the debt of countries that were perceived as
+9:31
+stronger there is also another important differentiation in the space of money market funds and that is the one between
+9:38
+retail and institutional funds retail funds are devoted to uh physical persons
+9:44
+and so that these are the fund where you and I would invest typically and then there are institutional funds uh where
+9:50
+only institutional investors uh should participate or what institution investors are allowed to participate and
+9:58
+um the the existence of institutional investors in the pool of investors of a
+10:03
+fund somewhat worsens the uh sort of prisoner dilemma that I explained before
+10:08
+the the mechanism that drives to that drives the runs because in institutional
+10:14
+investors are assumed to pay more attention to be more sophisticated and so um if I were in a pool with other
+10:20
+institutional investors I would say they're going to run really fast because they're paying attention every day to the value of the funds assets and so um
+10:27
+this exacerbates the the investor coordination problem
+10:34
+um so stable coins uh are crypto token
+10:40
+that leave on a blockchain and um their goal is to maintain a $1 value or
+10:46
+there're also stable coins pegged to other currencies but I will I will say $1 as a standing for any other currency
+10:53
+as well um there are three main uh Technologies uh behind the stable coins
+11:00
+one is Fiat backed Fiat not like the Italian car manufacturer although there is a tenous
+11:07
+link between the two words um it's a backed by fiat currency so
+11:13
+currency that is established by the act of a government and so these are uh the
+11:20
+ones that really look like money market funds they take money they invested in traditional Finance assets and then they
+11:27
+they return your money on request um there are us-based ones and uh
+11:32
+offshore ones that is another distinction now it is an important distinction because us-based funds uh
+11:39
+tend to be backed by short-term liquid safe assets lots of treasuries including
+11:45
+um us MMF shares certificates of deposits with US
+11:50
+Banks uh offshore um and the poster child for us-based Fiat backed F uh
+11:58
+stable coins is is usdc there is then offshore funds such
+12:03
+as tether uh these are also onet to one backed by US dollar denominated assets
+12:08
+however they they take more risk with their collateral and they are also typically not us regulated and they hold
+12:17
+um they're also more opaque tether is essentially not um audited by by anyone
+12:24
+that you would recognize and it holds a a very large set of very large variety of Assets in
+12:32
+its Reserve fund whose valuation is at best opaque then there are crypted
+12:37
+stable coins such as D um these are issued uh by some sort of blockchain
+12:45
+robot machine where you put some crypto stuff in a box and you get some uh
+12:53
+stable coin in exchange I will explain in a moment bit more about how this works and then there are algorithmic
+12:59
+stable coins that are unbacked uh when there is simply another
+13:05
+much simpler uh blockchain robot that when the the price of the stable coin
+13:10
+goes below $1 it tries to reduce the supply um and vice versa and again I
+13:16
+will talk about the mechanism a bit more in a moment
+13:24
+um so Fiat back stable coins really resemble mmfs it's interesting to as I
+13:30
+discussed in a second ago that to to notice that there are offshore and us-based um stable coins and that they
+13:36
+differ not only by their legal regimes but also by the the type of portfolio that they choose to hold and that
+13:42
+resembles a lot the distinction between um government money market funds and
+13:48
+Prime money market funds um it is interesting because I guess generally
+13:55
+speaking there are large economies of scale in asset management and these economies of scale uh Drive some sort of
+14:02
+attempt instead of doing exactly the same as some incumbent is doing I will try to do something else so one tries to
+14:09
+differentiate and offer a different product right and so you this I guess this safe versus a little less safe but
+14:15
+investing a little more aggressively is a A first order differentiation
+14:21
+mechanism that that stable coin is sure could could have gone to and they did um
+14:27
+one really important difference however between uh stable coins and money market funds is that stable coins typically do
+14:33
+not pay the yield on the assets to the stable coin investors um that is great
+14:41
+because you get to keep up it's like it's like being a money market fund that charges a fees equal to 100% of the
+14:48
+returns uh money market normal money market funds can't do that or nobody would put their money in it but uh there
+14:56
+is so much demand or there has has been at least so much demand for
+15:01
+um money that has a fixed dollar price and also is on the blockchain that
+15:07
+investors have been willing to to accept no yield for for the convenience value
+15:12
+of having this thing uh again the largest ones are tether and offshore stable coin uh that
+15:20
+is uh $84 billion of assets under management and usdcoin which is US
+15:26
+issued it's us audited I believe by deoe if I remember correctly and has about
+15:31
+$25 billion in AUM so some people seem to like opacity
+15:38
+um because both coins provide otherwise essentially the same
+15:46
+service then there are crypto back stable coins that is issu automatically when investors deposit collateral in a
+15:52
+vault uh this is uh a scheme of Dy how Dy works why is it so so comp this is
+15:59
+each each box there is is is a smart contract on the ethereum blockchain there are mechanisms for to stabilize
+16:05
+the peg mechanisms to handle the Vault mechanisms to do margin calls when the collateral value goes down and typically
+16:13
+these things are collateralized by volatile assets so you have to put down for instance $1.7 worth of ethereum to
+16:20
+take out one die $1 worth of D
+16:26
+and and then there are algorithmic St coins like the famous Terra that blew up um in in 2022 uh there is a sort of
+16:34
+Arbitrage mechanism such that if the price is less than one you somehow
+16:40
+decrease the supply in the case of Tera you would burn one Terra token reducing
+16:46
+the supply and you you would get $1 worth of of freshly minted Luna which
+16:51
+was another token whose price was floating right um on my desk over there
+16:56
+I have two empty coffee cups and to to understand the fragility of this type
+17:03
+of this type of this type of mechanism you would so probably all of you value
+17:08
+my two empty coffee cups at zero if I take one and I throw it away you will still value the remaining coffee cup at
+17:16
+zero right so there is only so much that this mechanism can do and and Tera understood this last year when it's
+17:24
+market value went from 19 billion with 19 billion out token worth a dollar each
+17:30
+to zero but interestingly enough the actual number of token in circulation is
+17:35
+still close to 10 billion as Tera technically still exists but they're not worth $1 each and so the market
+17:42
+capitalization is is a lot less than 10 billion now um so these are uh time serious
+17:49
+charts of uh colorcoded portfolios of money market funds and stable coins you
+17:55
+can see that there is a lot of overlap between the two the uh if I were a stable coin a Fiat back stable coin
+18:02
+holding a portfolio of of us denominated assets it is so good to get all the yield for free that I would want to be
+18:09
+super safe and so even the um the the the offshore ones do hold substantial
+18:14
+amounts of treasuries such as as you can see tther half of its Holdings
+18:19
+self-reported are Treasures um okay so now our empirical
+18:25
+analysis uh I still have I leave 10 minutes is that correct good so um we we
+18:34
+have first of all there are runs and there are runs with flights to safety do we observe flights to safety when we
+18:39
+observe a stable coin run right if so which T types of stable coins benefit
+18:44
+from this flight to safety second um there flights to safety often happens
+18:53
+within a mutual fund family can we see something similar for uh stable coins
+18:59
+what is the equivalent of a mutual fund family for a stable coin uh you can
+19:04
+think of it as the platform the platform is the blockchain so there could be flows between one stable con and the
+19:09
+other on the same blockchain we're going to go and see whether that happens and finally uh as I will explain in a moment
+19:17
+uh money market funds can break the buck that is the they have to abandon their $
+19:23
+Peg does is there a similar effect like a discrete type of threshold for the
+19:28
+value of stable coins so we have uh obtained our data from uh coin gecko for
+19:34
+the most part we collected uh price and number of tokens outstanding for the 12
+19:40
+largest stable coins which is more than 99% of the market capitalization this is really a winner take all game there are
+19:48
+really four very large ones and and many middling ones and then many very tiny
+19:54
+ones um so the we collected also the Bitcoin price and we're lucky enough to find information on on blockchain
+20:01
+specific flows because stable coins can appear on multiple blockchains at the same time you can buy tether on the
+20:08
+ethereum blockchain and on the Tron blockchain I'm going to skip this slide
+20:13
+but this is a a summary of of what we have collected
+20:18
+um and so we we actually did two Focus studies on two large events where we
+20:24
+know that there was some really big stress event in equality ative sense based on the news and what we know one
+20:31
+was the Terra Luna system collapse uh and the other was the 2023 collapse of
+20:36
+Silicon Valley Bank which um was kind of harmful for the USD coin USD coin is the
+20:43
+safe one as I said Unfortunately they had a an account with Silicon Valley Bank probably the largest account if I
+20:50
+remember correctly and and so this was well known and and so immediately
+20:56
+investors started to withdraw money from usdc being afraid that the reserve fund
+21:01
+of usdc had lost money in the Silicon Valley Bank collapse and in both cases you can see that there is a run so to
+21:08
+speak so there is a large outflows from the um type of coin that is considered
+21:14
+risky in the case of the terraluna collapse that was stressed that originated in the crypto world and so
+21:21
+the more crypto like um stable coins uh lost assets and some at least some of
+21:29
+this money went into us-based coins the ones that were perceived as safe in 2023
+21:35
+however the stress originated in the traditional Finance world and you can see that us-based more traditional
+21:43
+Finance tied stable coins lost assets at the same time as offshore stable coins
+21:49
+gained assets so we can see at least two clear instances of flight to
+21:55
+safety we also run some regressions uh the regressions here simply formalize
+22:00
+the evidence you just saw in the charts uh it's statistically significant there was a before and after effect We R some
+22:07
+very simple different specification uh we can also break it down by the type of offshore stable coin
+22:14
+so you can see that algorithmic stable coins are the ones that are not backed
+22:19
+and they lost the most funds during crypto stress vice versa um you have different uh uh inflow
+22:28
+goes into um offshore stable coins during the svb
+22:33
+collapse episode and the most money goes into crypto collateralized stable coins which are at that point perhaps the
+22:39
+safest or perceived as the safe safest we then try to generalize our analysis
+22:46
+for a broader definition of stress instead of two discrete episodes we had a continuous sort of measure of stress
+22:54
+and for a larger uh uh stable coin sample so all 12 over a 2-year period uh
+23:01
+we Define stress as uh drops in the Bitcoin value so the the the the red
+23:08
+lines the vertical red lines indicate stress episodes those are the top um I
+23:15
+believe the top 10% or the top 5% I forget of Bitcoin drops and we we assume
+23:21
+that Bitcoin prices reflect General sentiment in the crypto world so days
+23:26
+with a bad Bitcoin return are days of bad sentiment in the crypto World um we
+23:33
+do see that shocks to bitcoin predict aggregate stable coin flows so there is some relevance in our in our
+23:42
+instrument uh and so we did the impulse response uh estimation right and you can
+23:47
+see that on the typical uh in the days following a a Bitcoin stress shock
+23:53
+uh us-based Fiat backed stable coins actually gain assets whereas offshore
+24:01
+Crypt back and algorithmic stable coins lose assets and the scale on these
+24:06
+charts is not the same in fact it is see four 8 and 16 so the the by far the
+24:12
+largest outflows are for algorithmic stable coins and so this is not entirely
+24:17
+driven by by one episode this is um equal weighted across time so this is
+24:24
+definitely not just a ter episode when one larger algorithmic stable coins Lo
+24:29
+lost a lot of money um we finally look at how investors run uh do these runs resemble
+24:37
+money market fund runs again as I anticipated we study within blockchain correlation right see
+24:45
+on the days when uh money flows out of offshore stable coins do we also see
+24:50
+that money flows into us-based stable coins and you don't need to see the
+24:56
+details of this 12 charts but you can see these are money market funds in 2020
+25:02
+um and and there is government versus Prime flows and so a positive slope
+25:07
+shows that there is a flight to safety okay uh this is the same for aggregate stable coins we see um generally
+25:14
+speaking on the days when you have negative flows from offshore coins you have positive inflows into US based
+25:22
+coins uh we then look at individual blockchains so these are all the stable coins that live on the ethereum
+25:28
+blockchain and again you can see on the days when offshore coins on the ethereum
+25:34
+blockchain um have outflows there are positive flows into us-based coins on the ethereum blockchain and so forth
+25:41
+however the pattern holds only for the top three largest um for for the
+25:48
+blockchain containing the top the largest uh stable coins so ethereum Tron
+25:54
+and binance if you go to the smaller block block chains um this pattern is
+26:00
+reversed that suggests uh that so on a day when there are outflows from
+26:06
+offshore coins there are also outflows from us-based coins it's as if money is
+26:13
+simply leaving the platform the blockchain so there are bigger blockchains that Inspire Inspire more
+26:19
+confidence and and there you can see a flight to safety within the blockchain and then there is flight away from from
+26:26
+the blockchain itself um in the smaller less uh solid
+26:31
+ones finally um there we we identify the pegging threshold uh so we money market
+26:39
+funds uh are supposed to maintain a stable value of of 99 and of $1 per
+26:45
+share if the there is a net asset value that is a shadow number behind this this
+26:51
+fixed Peg if the number becomes less than 99 and a half cent the money market fund is is said to to have broken the
+26:58
+buck and um the the net the shadow net asset value becomes the actual price of
+27:05
+the money market shares and so this has happened once and there was a run and it was very bad right so our results show a
+27:12
+threshold at 0.99 for stable coins uh well stable coins are not forced to they
+27:19
+don't have a shadow number but um I guess it's there is a psychological
+27:24
+threshold at 99 cents is stable coin that is priced between $1 and 99 has
+27:31
+outflows because that is generally speaking a bad thing but it's only
+27:36
+0.34% of assets per day as the price goes below 0.99 and up to 0
+27:44
+point hold on I think did I ah yes this should have been 991
+27:52
+that's a typo I apologize so when the price Falls below
+27:58
+0.9991 and touches the the psychological threshold of exactly 99 Cents the SEC if
+28:03
+you round to the second digit is 99 uh then the stable coin experiences
+28:09
+an daily outflow of 3.43% of us so 10 times as large uh if you go down one more scent
+28:17
+it becomes small again or at least no more than than it was so the the the the large amount of of negative flows happen
+28:24
+around the 99 cent threshold I don't know if it's because there algorithm program to sell or because
+28:31
+news there are many mechanism that could drive this but it
+28:37
+exists okay concluding uh stable coins are increasingly important uh they
+28:42
+resemble mmfs has this has been said before but in this paper we go deeper we take this uh this metaphor very
+28:50
+seriously and we show that actually in addition to being runnable
+28:55
+like money market funds runs that actually actually did happen did resemble uh some qualitative facts about
+29:02
+money market funds we also show that there are flights to Quality to safety
+29:07
+within the same blockchain and but only in blockchains that Inspire enough trust
+29:14
+that Monet doesn't want to leave the platform alog together and we finally documented break the back Threshold at
+29:21
+0.99 per token thank you very much and
+29:26
+I we'll leave it to the discussion
+29:31
+[Applause]
+29:47
+now well thank you so much that was a a great presentation um before anything
+29:53
+before I forget this does not represent the views of the fund management of it board it does represent the the views of
+29:59
+my colleague marelo moli Who present another paper we discuss this together so I want to acknowledge Him here and
+30:05
+make him accomplish in the ACT um no be
+30:10
+before uh I mean I try to keep it short so there's time for for questions to to
+30:16
+the author to the presenter um I just wanted to take a step back so we and why
+30:22
+we are discussing this now remember 2019 we started paying more attention to
+30:28
+stable coins when Libra and Facebook kind of try to move forward and we all
+30:33
+worry that it become something systemic personally again my own view it
+30:40
+hasn't become systemic yet we may worry now whether PayPal's new project with
+30:48
+paxos could actually end up being the killer app that would make stable
+30:53
+coins leave the crypto ecosystem and become part of uh economic life more
+31:02
+great I mean for broader audience uh we don't know yet right so that is a long
+31:09
+introduction to say this is a very relevant discussion right that continues to be relevant and will continue to be
+31:15
+relevant uh till we figure out how to deal with stable coins and why is that
+31:20
+because stable coins are new and they share characteristics with different
+31:25
+types of money like instruments one being mmfs but there are others too right for me personally they rese I mean
+31:32
+they have some properties common to uh exchange rate pegs right so that's
+31:38
+another analogy so maybe a way to put that is that you know the the parable of the blind man and the Elephant right
+31:44
+that one touches the leg and says well this is something this is a column one touches the task one touches the trunk
+31:51
+and so this a hose so I think we've been doing that a lot I don't have the answer
+31:57
+this is the elephant right we don't know it yet we don't know how the elephant will look like this is describing this
+32:03
+paper I think is describing one dimension of that problem which is how
+32:08
+do stable coins compare to mmfs one type of money like instrument
+32:15
+right so some similarities between stable coins oh there and mmfs both are money
+32:24
+like store of value as as uh presenter said This Promise This a
+32:29
+promise of redemption at par and that obviously creates uh one once there's m
+32:36
+i mean there's maturity transformation there and proba quid transformation as well it creates uh run risk there's no
+32:44
+public back stops for either of stable coins and mmfs uh so typically I mean there are
+32:52
+exceptions of course in stable coins like the algorithms and the basically the algorithm stable coins but by a
+32:59
+large share both I mean all I mean the most important stable coins use the balance sheet to sustain the peg uh
+33:07
+preserve assets U same as uh mmfs and of course there's some some
+33:13
+erogeneity within stable coins and within uh mmfs in terms of what assets
+33:20
+they use as reserves right uh government and prime mmfs or the different types of
+33:27
+balance sheets that that the paper shows and we we just saw
+33:34
+um so what the paper does I mean it I think it documents uh of the runability
+33:39
+and and the stress triggered by the falling Bitcoin prices documents the contagion uh in
+33:48
+runs and how that kind of plays out and how different stable how basically when
+33:54
+there are these idiosyncratic shocks to Terra or usdc where do the funds go to
+34:02
+in the crypto ecosystem and in stable coins um and the the price threshold for
+34:11
+stability the 0.99 um
+34:16
+so before I go to to to the differences I think and and and some other
+34:22
+dimensions I think here something that I would stress a bit more or I would try to disentangle a bit more in in the
+34:28
+paper maybe for for another uh revision I think these are different types of shocks and
+34:34
+it's so comingling them it's I mean it's not this so a bitcoin price is basically
+34:41
+an aggregate shock to the price to the crypto ecosystem right it plays out in
+34:46
+different ways as we saw right there's a differential inflows and outflows to uh more I mean to us basically to usdc or
+34:55
+to uh running away from the the riskier stable coins but it's different from an
+35:01
+Theos syncratic run against Terra or usdc right so I think that's there's a
+35:07
+bit of tension there and I'd like to see maybe a bit of uh how that compares to
+35:15
+mmfs again in terms of aggregate shocks oros syncratic
+35:21
+shocks minor point on the regressions there's very little variability there
+35:27
+very few observations in the cross-section and very few observations that actually matter because there are
+35:33
+basically two or three stable coins that represent I
+35:39
+think 90% of the market cap uh so maybe there's something to be
+35:45
+more explicit about in the paper of course there's a lot of Time series right but running EV event study at the
+35:50
+end is just looking at what happens in the cross-section before and after so I I I'd like to see a bit more more in
+35:57
+terms of robustness and looking at What observations are actually influential
+36:04
+same speed as what we may have seen in the the the chart with the with the
+36:11
+observations and the the those lines but again sort of trying to take a
+36:19
+very humble step back on the on what is the elephant right so
+36:26
+there's stable coins are not the same as mmfs right they do use uh they do have
+36:33
+a a promise to Redemption at part they use the reserve assets mostly to sustain
+36:39
+that but there are differences they're very important differences mmfs are remunerated stable coins are not stable
+36:46
+coins are more like money in a way that the closer to feat money that is not
+36:51
+remunerated to the public from that Dimension so then for instance St coins are going to be much more exposed to uh
+36:59
+the mon policy cycle right we've seen it I mean it's true that they haven't collapsed because the crypto system is
+37:05
+surprisingly resilient but uh basically it it is uh
+37:11
+as interest rate went up crypto I mean inflows to crypto and to stable coins uh
+37:16
+became negative and as such stable coins are part of an ecosystem right it's they live for crypto they may be used in some
+37:25
+very specific cases for crossb transactions and some more than the
+37:30
+others their H sorry uh usdt mostly te um but for the most part
+37:39
+they're part of the crypto ecosystem and they're use as sellman asset for buying and selling crypto right it's not just
+37:45
+parking and getting an a safe relatively safe interest rate out of them because you don't make money of stable coin you
+37:51
+need to go somewhere else you need to go to U an amm and deposit that for for
+37:57
+instance um but St con itself is settlement asset
+38:02
+and it also it's part of the payment infrastructure right um part of the
+38:08
+payment system if you want um they are mostly outside the regulatory
+38:13
+perimeter of course there's variability right some have like some sort of license different states in the US for
+38:20
+instance but still this is a very something that is still very much in flux and it's very from mmfs from
+38:27
+that respect which they had basically was a regulatory reform there's Clarity on what mmfs can do and cannot do and
+38:33
+that's why they are part of the uh mainstream Financial system and St coins are
+38:38
+not uh as such related to those two points there are obviously operational
+38:45
+risks there's arbit ring where I localize my the stable coin issuance
+38:51
+right I put it on an offshore Center and I do a more sketchy operation or I try
+38:56
+to be become more mainstream and hope to get some uh us regulatory approval at
+39:02
+some point which is maybe PayPal's gain um or Libra at the time uh in
+39:10
+Switzerland um but maybe what I like to to go back
+39:15
+to the issue of aggregate shocks uh to the ecosystem and the and analogy to to exchange rate
+39:24
+regimes in a way you you could think of the crypto ecosystem as a kind of small
+39:30
+open economy subject to aggregate shocks right for the economy right which are shocks to terms of trade which are the
+39:37
+Bitcoin prices um and that's very different to
+39:43
+the types of shocks that uh
+39:49
+mmfs or that the regulation for mmfs deals with right regulation for MFS deals with basically how to ensure that
+39:56
+Reserve assets are sound that they can they're relatively well backed
+40:06
+um so what I mean to say is that the and the types of shocks that the paper does
+40:11
+in terms of the Bitcoin price collapses for me it resembles more like shocks to
+40:17
+terms of trade to a small open economy right and the pressures that an exchange rate regime may suffer uh when those
+40:24
+shocks happen right this happens to be a py like economy right it's not an actual economy uh but still right again I'm
+40:33
+looking at one of the legs of the elephant not not the whole thing um so maybe to wrap up what I try
+40:41
+to to I think my message is like at the end of the day we're trying to find a
+40:46
+way to understand what the stable coin what stable coins are and what they may become later on right and that's very
+40:53
+important for policy right how we want to shape regulation how we want to what do we want to allow the mainstream
+40:59
+Finance system to deal with this um so then there're going to be commonalities of course with mmfs on the reserve
+41:06
+basically on the backing side of things but there going to be a lot of differences in many risks that stable
+41:12
+coins will be Expo are exposed to and will be exposed to and different ways in which they can trigger contagion to
+41:20
+other parts of the of the system um so that's a kind of a general message um this is not for the paper
+41:28
+itself which I think it does a nice job in comparing one dimension with with mmfs but maybe it's something to uh
+41:37
+maybe flag a bit more clearly um and then on the more detailed
+41:44
+side I think it'd be nice to have a bit more I mean given this empirical paper to have more robustness analysis in
+41:50
+terms of the how the episodes identification the stress episodes identification is done right how it
+41:56
+would look like when you only look at I don't know cumulative Falls in prices of
+42:02
+Bitcoin or larger shocks or you have fewer shocks uh I mean there are many
+42:07
+different ways to do that again literature of capital flows basically spent decades doing
+42:14
+that um and again as a detail maybe there's no there I think maybe I'm wrong
+42:19
+I think there are no interactive terms in the regression and the number of observations in the cross-sections are
+42:24
+quite small so so maybe there's some maybe be important to be a bit more explicit about how the results would
+42:31
+look like without um in different specifications and with
+42:38
+and thank you so
+42:45
+much so thank you uh federo Matia I think in interest of time uh we I
+42:51
+suggest we proceed to the next paper um so we can um um you know keep on keep on
+42:58
+time for the keynote speech later so
+43:09
+Sharon okay well thank you so much to the conference organizers for selecting our paper um I'm Sharon Ross and I'm
+43:17
+very excited to present my paper which is called Leverage and stable coin pegs this paper is joint work with Gary Goran
+43:24
+Beth CLE Chase Ross and Alex velakis uh Beth and Alex are in the in
+43:30
+the audience today and I'm sure they'd be very happy to discuss the paper with you
+43:36
+also so this paper is also about staple coins uh which are um as the previous
+43:42
+presenters mentioned digital assets that promise to maintain a constant price of
+43:48
+a dollar and to be redeemable at par on demand so there are different types of
+43:54
+stable coins there are are those that are collateralized by assets um commonly
+44:01
+traditional Financial assets and some of the largest stable coins like tether and
+44:06
+usdc and D are uh collateralized there are also
+44:12
+algorithmic or uncollateralized stable coins like Tera and this focus of our
+44:17
+paper today are going to be primarily on collateralized stable coins so stable coins because they're
+44:25
+bad by underlying traditional assets you could think of it very simply as a combination of let's say treasuries and
+44:33
+Commercial paper well some of these underlying assets are possibly a liquid
+44:40
+and as a result stable coins are subject to non-trivial run
+44:45
+risk however the issuer doesn't directly compensate holders of staple coins for
+44:51
+this run risk the issuers generally do not do not pay pay any interest so
+44:58
+holders of the stable coin are holding on to these stable coins that have run
+45:04
+risk but they're not being compensated by the issuer so the question in our
+45:09
+paper is how can stable coins maintain their Peg despite the fact that there is run risk and the issuer doesn't pay any
+45:18
+interest so uh the the answer is going to be that in secondary markets stable
+45:25
+coin hold holders can earn high interest rates by lending out the Sable
+45:30
+coin so Sable coins have uh as the previous presenter noted grown uh quite
+45:36
+substantially over the last couple of years and they've been able to maintain their Peg uh most for the large part
+45:43
+over this period so the contribution of our paper is to show that runnable debt can
+45:50
+maintain a peg as long as it's useful for speculation so the demand from stable
+45:56
+coins comes from their use to take leverage positions so people demand
+46:02
+stable coins to use as underlying collateral to get levered exposure and other more volatile digital assets like
+46:10
+Bitcoin and stable coin holders are going to be indirectly compensated for
+46:16
+the stable coins run risk because they can lend the coin out to these leverage traders who demand the stable coins so
+46:24
+these when they lend them out they're going to earn high lending rates and that's going to help keep the stable
+46:30
+coin Peg to a dollar so specifically we have in mind the we capture the idea
+46:37
+that there are two opposing forces that keep a stable coin pegged to a dollar the first is that the stable coin
+46:44
+has run risk because their underlying reserves include illiquid
+46:50
+assets and the second is that spec levered speculators are willing to pay
+46:55
+pay high borrowing rates so these borrowing rates or the The Lending rates that the stable coin holder earns are
+47:03
+going to compensate for the Run risk that stable coins have because of their
+47:08
+liquid assets that back them so stable coins um as we've been
+47:17
+talking about during the session has Financial stability implications so the
+47:24
+stable coins are very important linkage between the traditional financial markets and digital asset markets and
+47:32
+this is because the reserves of the largest stable coins are held in traditional Financial
+47:38
+assets so say there's a shock to crypto markets well the stable coin issuer can
+47:46
+adjust their reserves and by doing so can lead to volatility in money markets
+47:53
+which we capture in the model and will will show more details about soon so these uh reallocation in the
+48:02
+traditional Financial uh Holdings can be very disruptive for the real economy
+48:08
+there's some there's evidence that tether at one point was the single largest US sorry the third largest uh
+48:16
+holder of us commercial paper and uh there's an paper by S Kim that shows
+48:22
+that uh increase in the is issuance of major stable coins is directly going to
+48:28
+lead to an increase in commercial paper issuance uh issuance uh in the following
+48:35
+day so stable coins provide this important linkage between traditional markets and crypto markets and shocks to
+48:42
+one can filter to the other through stable points and in both
+48:50
+directions so I'm going to talk uh briefly about the model we have a lot more details in the paper the model is a
+48:59
+combines a bank run model uh akin to Goldstein Goldstein and palner with a
+49:06
+model of leverag collateralized trading similar to Grom and Banos or Bruno Meer
+49:13
+peton in the model there are three different agents there's a stable coin issuer stablecoin investor and a
+49:21
+cryptocurrency Trader so the stable coin investor or the P the agent that's going to hold the
+49:28
+stable coin they're going to give money to the stable coin issuer and the stable
+49:34
+coin issuer is going to issue them a stable coin this is the standard minting and burning of stable coin
+49:41
+tokens the stable coin issuer is going to take the money assets and specifically in traditional
+49:49
+Financial assets again you can think of this very uh in your mind as a combination of treasuries and Commercial
+49:55
+commercial paper where commercial paper is can be more liquid the stable coin issuer earns the
+50:03
+expected payoff from these traditional assets but it doesn't pass on any of
+50:08
+this return to the stable coin investor it doesn't give them any U interest for
+50:13
+holding the stable coin so the stable coin investor now has
+50:19
+run risk and it's not being compensated on the primary Market by the stable coin
+50:24
+issure so what can it do it can lend out its stable coin to cryptocurrency
+50:30
+traders who want to use the stablecoin to get levered exposure into other addal
+50:36
+assets like Bitcoin what the stable coin investor is
+50:42
+going to get at the end of this margin loan is the stable coin combined with some
+50:48
+interest so the cryptocurrency trader is now going to use the stable coin that it's borrowed and perhaps combined with
+50:55
+its own funds to invest in the speculative cryptocurrency like Bitcoin and of course they earned the payoff
+51:01
+from doing so so you can see very clearly here how stable coins provide
+51:07
+this important linkage between traditional Financial system and the digital asset system so say there's a
+51:15
+shock to commercial paper markets that could uh quite simply increase the Run
+51:21
+risk of the stable coin so that's how uh stock and traditional markets can
+51:27
+translate to concerns and digital assets on the flip side say there's now a lot
+51:33
+of crypto volatility or lower demand for for for the stable coin well the way
+51:39
+that the issuer is going to adjust to maintain its Peg are going to involve changing their Holdings of the
+51:45
+underlying reserves which are again traditional assets so by doing so with
+51:51
+it either moves from a greater holding of commer commercial paper to treasuries
+51:57
+or if it sells off some of their underlying reserves to meet redemptions these are both going to lead to change
+52:04
+to Pro potential problems in the traditional Financial system so this is
+52:10
+how of course the on the speculative uh how digital asset shocks can translate
+52:15
+to concerns for the traditional markets so again it it the linkage really goes in both
+52:22
+directions the model is a three period model at time T equals z investors are
+52:27
+putting money in the stable coin and getting their tokens and the issuer is making that investment in traditional
+52:34
+Financial assets that are liquid and illiquid at time T equals 1 investors
+52:39
+get a a private signal about the reserves the liquid reserves and they
+52:45
+make a decision whether or not to redeem and if there are enough investors that
+52:50
+redeem the stable coin will face a run at times T equals 2 if there is no
+52:57
+run then investors lend out their tokens to traders who use it to take a levered position in crypto
+53:05
+markets so that's a broad sketch of the model there are some important components of the model that I'll
+53:11
+mention now so the first is of course the stable coin lending rate excuse me which makes Traders Break
+53:19
+Even between a levered payoff and an outside option the lending rate is is
+53:25
+increasing in speculative demand and we'll show this empirically in a few
+53:31
+slides in the model Global game techniques pin down the unique probability of a run and the stable coin
+53:38
+issuer is exposed to run risk because the liquidation value of the stable coin reserves might not be enough to cover if
+53:46
+if everyone chooses to redeem the one of the results here is
+53:53
+that the Run risk is going to be de increasing in the lending rate and also
+53:58
+decreasing in the share of liquid reserves a simple way to think of this is let's compare a stable coin that has
+54:06
+95% treasuries and backing and 5% commercial paper backing well if a shock
+54:14
+happens and needs to liquidate quickly you might expect that it would have an easier time getting uh meeting those
+54:21
+redemptions and the Run risk would be be lower compared to let's say a staple coin that
+54:28
+has the opposite 95% commercial paper and 5%
+54:35
+Treasures the main proposition in the paper is about how can the stable coin
+54:41
+issuer maintain their Peg and when it faces shocks that might push the stable
+54:46
+coin price below its Peg for example so there are a few different possibilities
+54:52
+that might push the stable coin to be below its price of $1 the first for
+54:57
+example would be lower demand for the speculative cryptocurrency or if there's higher
+55:03
+crypto risk or greater volatility in in digital asset markets generally so in the model there are two
+55:10
+different options that the stable coin issuer has to bring its price back up to
+55:15
+a dollar the first we call the liquid asset portfolio share channel so the the
+55:22
+issuer can increase the liquid asset Holdings while keeping the supply of circulate stable coins constant so this
+55:30
+would be shifting from the more IL liquid Reserve to the more liquid Reserve so let's say simply shifting
+55:37
+from commercial paper toward treasuries its underlying backing the second is the Redemption
+55:44
+Channel where you would keep the share of liquid and liquid asset
+55:49
+backing constant but now allow for the fact that there's lower demand for the state stable coin to manifest in more
+55:57
+redemptions or a lower supply of circulating stable coins so the issuer
+56:02
+has these two different channels that it can take to maintain its peeg and in the
+56:08
+model we have details about whether uh about the Redemption channel in the two cases of whether or not this liquid
+56:15
+asset holding sorry the sorry the first channel we have details about whether or
+56:21
+not uh L is observable or not because as many of you might know some of the
+56:26
+stable coins only release their underlying reserves details at a perhaps
+56:32
+like quarterly basis at best so not rather than
+56:38
+daily so now I'll talk about some of their main empirical results that we have in the paper the first is that we
+56:45
+want to confirm the models prior that speculative demand drives the stable
+56:50
+coins lending rates then we'll Pro provide empirical evidence of the two
+56:56
+channels for Peg stability the share of safe uh of liquid assets and the
+57:02
+redemptions Channel and in the model in the sorry in the paper we have some more details
+57:07
+about uh uh event study of when in May 2022 when Tera faced a run and we show
+57:15
+that the Dynamics that we capture in the model is consistent with uh what
+57:21
+empirically happens in in May of last year
+57:27
+so to show you some summary statistics um I have here at the top the stable coin price uh for tether and dye and you
+57:35
+can see that in general it has a is pretty successful at maintaining its
+57:40
+Peg on the bottom panel is the margin lending rate so this is the the lending
+57:45
+rate that holders earn by lending out their stable coins and you can see that
+57:50
+that's around seven or 8% so quite substantive
+57:57
+so what we want to show in uh we show in the model and we want to confirm now is
+58:03
+that lever trading demand drives the interest rate so we're going to measure lever trading demand using Perpetual
+58:10
+Futures funding rates so Perpetual Futures are liquid derivatives that
+58:16
+allow for leverage very high leverage and the this is one of the largest and
+58:22
+most liquid derivative markets in crypto markets there's more than 40 billion in
+58:28
+Daily volume uh in May of 2022 and these Futures are stable coin
+58:34
+settled so you can think of these Perpetual Futures as very similar to a
+58:39
+standard future but now there's no date at which of expiration that you would
+58:45
+expect the F the spot and the future price to converge instead for these Perpetual
+58:51
+Futures there are funding payments that keep the spot in and future price close together so if the future trades at a
+58:59
+premium to the spot investors that are long the future are going to pay a positive funding rate to investors that
+59:05
+are short the future and this is what the empirically the Perpetual Futures funding rate looks
+59:12
+like it has about an average of 20% and a standard deviation of about 30% so it
+59:19
+moves around quite and moves around quite a bit so again we use this Perpetual
+59:25
+Futures measure to measure speculative demand so on the xaxis here we've
+59:31
+plotted the Perpetual Futures funding rate which I just described and on the Y AIS we plot the te tether's mergin
+59:38
+lending rate so the stable coin lending rate and you can see in this scatter that as speculative demand is higher the
+59:46
+stable coin lending rate is higher of course this is um a correlation even if
+59:53
+we run a regression um and it's statistically significant but it is a
+59:58
+correlation so we want to get to a little bit more identification
+1:00:05
+so the chart shows that speculative demand is positively correlated with the
+1:00:11
+stable coin lending rate but there might be something else in markets
+1:00:17
+specifically in crypto markets that might be affecting both uh you might
+1:00:22
+think even outside of crypto markets gener business variation might be important for both so we're going to
+1:00:28
+instrument for speculative demand using something that's outside of digital
+1:00:34
+assets we're going to use Major League Baseball
+1:00:40
+viewership so MLB and FTX had a sponsorship deal and it put the FTX logo
+1:00:48
+on all umpire uniforms um this was this wasn't something that was commonly done for for
+1:00:56
+MLB and umpires wore this patch for all regular season postseason and spring
+1:01:02
+training games you can see in the graph in the in the photo here that it the logo was
+1:01:09
+quite large and invisible so we're going to collect
+1:01:14
+television viewership data on nationally televised MLB games our data starts in
+1:01:22
+July 2021 when when uh the patch was still first uh added to the uniform and
+1:01:30
+our data for this is going to run through November 5th 2022 so that's the end of the World
+1:01:37
+Series last year and also conveniently the day before FTX
+1:01:44
+collaps yeah worked out well um so the instrument that we're
+1:01:50
+going to use is the daily average household rating which measures measures the percent of households watching the
+1:01:57
+game we think that this might satisfy the the relevance condition because of a
+1:02:04
+large literature about how advertising is effective and empirically we show
+1:02:09
+that our instrument is statistically strong for the exclusion restriction we
+1:02:15
+think you know the baseball schedule is set well in advance of the season and it
+1:02:22
+seems improbable that crypto events affect the timing or viewership of
+1:02:28
+baseball games so this is the second stage
+1:02:34
+regression so in the first stage we've used the household rating to estimate the future's funding rate and now this
+1:02:41
+is the regression of the stable coin lending rate on the estimated Futures funding rate our measure of speculative
+1:02:48
+demand in the first row you can see the coefficient is is positive and significant which suggests which
+1:02:55
+suggests that you know if there's a higher speculative demand then the
+1:03:01
+stable coin lending rate will be larger so to put the coefficients in
+1:03:07
+perspective if you had a one standard deviation increase in speculative demand
+1:03:13
+that would translate to the stable coin lending rate increasing by about 50% or
+1:03:23
+so so now I'll discuss our results related to pegs how the issuer is able
+1:03:29
+to maintain their Peg so as I mentioned before there are a couple of things that
+1:03:34
+might push the stable coin price below its Peg of a dollar like a decrease in
+1:03:40
+speculative demand so in order to stabilize the the peg the issuer has two options it can
+1:03:47
+change its share of liquid and illiquid underlying reserves or it can allow
+1:03:54
+allow for more redemptions and the issuer has these two options to stabilize the
+1:04:01
+peg so let's focus here on the the left hand side graph to start on the what
+1:04:09
+we're going to plot is we're going to look at tether's quarterly disclosures as I mentioned some of the staple coins
+1:04:16
+have some details about their underlying reserves but it's often quarterly at best so this is seven data points here
+1:04:25
+so what we've done in the left-and side graph is we've plotted the liquid share of the portfolio on the
+1:04:32
+xaxis and on the Y AIS we've plotted the Perpetual Futures uh funding rate or
+1:04:39
+measure of speculative demand you can see that there's a clear negative relationship and what this suggests is
+1:04:45
+that as speculative demand decreases the liquid asset share
+1:04:51
+increases and say you don't like our measure of spec of Demand on the right hand panel what we've shown on the Y AIS
+1:04:58
+we've changed it to the the margin lending rate so uh which reflects
+1:05:04
+speculative demand so this is our evidence for the liquid asset channel
+1:05:09
+that speculative demand decreases the liquid asset share will
+1:05:15
+increases to to maintain the peg the other channel that the issuer has is
+1:05:20
+through the redemptions Channel as we've I've noted the liquid asset share is not
+1:05:26
+continuously observed and it might be very difficult to sell off a large portfolio of commercial paper and buy
+1:05:33
+treasuries instantaneously so the other option is through the redemptions channel so we
+1:05:39
+calculate the net issuance as the change in the face value of the stable coin and
+1:05:46
+we call Net redemptions the the negative of net issuance so we have some summary
+1:05:53
+statistics on the bottom here you can see that about maybe 30% of the time there are redemptions for the largest
+1:05:59
+stable coins and if you look in the bottom right corner you can see that in
+1:06:04
+uh when Tera collapsed and it lost 27% of its face value uh in a single
+1:06:14
+day so here we're regressing the change in the log of the face value of the
+1:06:20
+stable coin on uh speculative demand and that variable Y and otherwise known as
+1:06:27
+the funding premium so you can see that there's a very uh across the first row that there
+1:06:34
+is the positive uh and significant coefficient which what that trans what
+1:06:39
+that means is that as uh speculative demand decreases you have a decrease in
+1:06:47
+net issuance or an increase in redemptions so as speculative demand
+1:06:52
+decreases Redemption increase consistent with our redemptions
+1:06:58
+Channel our model predicts that when you decrease the supply of circulating
+1:07:04
+stable coins well now your stable coin lending rate increases and we've regress
+1:07:10
+the change in the stable coin lending rate on the change in the log of the face value of the stable coin and this
+1:07:16
+negative uh coefficient shows that token Supply decreases your stable coin
+1:07:22
+lending rate in increases with that I'm going to
+1:07:28
+conclude so this paper is about stable coins which aimed to be private money
+1:07:34
+that maintains a peg of $1 so it's able stable coins are able to
+1:07:39
+do that as even though it's not no questions asked in the words of Holstrom it's not information
+1:07:46
+insensitive but agents that hold these stable coins have to be compensated for
+1:07:51
+the risks they're not compensated by the stable coin issuer on the primary Market
+1:07:57
+but they are compensated on the secondary Market when they lend out the stable coin so stable coins are used for
+1:08:04
+speculation and lending rates are really compensating for this run
+1:08:10
+risk so in this paper we reconcile two important facts the first is that stable
+1:08:15
+coins are not useful as money uh despite their success
+1:08:21
+at maintaining their Peg and second that stable coin lending rates are often very
+1:08:27
+high um and are correlated with measures of speculative
+1:08:33
+demand and lastly very importantly stable coins are important link between
+1:08:38
+crypto speculation and the real economy thank you so
+1:08:45
+[Applause]
+1:08:52
+much
+1:09:01
+morning thank you for the invitation and opportunity to speak um but you might be
+1:09:07
+wondering why is Scott Shu standing up here and if you did you'd be one of
+1:09:13
+three people at least here today that are thinking that me you and the conference participant I ran into this
+1:09:20
+morning who said to me I see that you're talking about stable coins and sensing
+1:09:27
+the skepticism uh in his tone of voice he probably noticed that I was wondering
+1:09:32
+why he would bring this up and he quickly said well you've done lots of great things it's just I not seeing you
+1:09:38
+as a stable coin guy well I I tried this argument on the conference organizers and did my best Bob uker imitation and I
+1:09:46
+said you know I would love to help you out but this is just a bit outside my
+1:09:51
+area of expertise I'm a macro guy who's gone back to being
+1:09:56
+a macro guy who dabbled in consumer payments for 20 years uh and just to show you how bad uh I am about crypto so
+1:10:05
+in about uh early 2010 we were looking at cryp at Bitcoin and wondering should
+1:10:10
+we be tracking this as part of consumer payments is this money is this a payment whatever just starting to think about it
+1:10:16
+okay well back then I actually was thinking about investing $1,000 in
+1:10:22
+Bitcoin uh just for kicks CU I had a feeling this is one of those things that could really take off and I just
+1:10:28
+calculated this morning for the first time I've been avoiding this for 20 years or 14 years whatever it's been $
+1:10:35
+34.6 billion doll is what I would have earned if I had invested $1,000 doll in in
+1:10:43
+Bitcoin that uh is quite something huh anyway any just further proof that uh that I'm
+1:10:52
+not suited for this discussion but I'm going to do my best um and I don't have slides because I don't want to give the
+1:10:57
+illusion that I actually know what I'm talking about any paper with economics and baseball in it is great so I love
+1:11:04
+that because baseball is my favorite sport but here's my simple uh macro
+1:11:09
+consumer perspective on summarizing this paper is it seems like to me it's
+1:11:14
+investors with too much money and perhaps too many Super Bowl rings lending to issuers who don't have to
+1:11:21
+disclose anything at all so those investors can then make even more money lending to crypto Trader speculators who
+1:11:30
+actually might be linked to the issuers unbeknownst to everyone involved so my first thought is what why
+1:11:37
+why would any consumer be involved in something like this and the answer is they probably aren't if you go to my
+1:11:44
+students uh poster session tonight you'll see that uh the fraction of people who actually own Bitcoin that are
+1:11:50
+using it for what it was originally intended for like payments has dropped dramatically since 2014 uh probably
+1:11:57
+because this speculative motive has taken over um so let me just say though that I
+1:12:04
+think this paper is a great Public Service it reminds me of the one-third of my fed career that I spent trying to
+1:12:10
+help figure out what happened with the tripar repo market and what reforms we needed and the great work that the New
+1:12:17
+York fed and others did there uh you know but I look back at that and say the
+1:12:22
+fact that the uh California teachers pension fund wanted to give a lot of cash to Bank of New York melon and
+1:12:30
+thought that there might be some kind of a repo underlying that uh with some famous investment companies and that
+1:12:37
+turned out to be kind of Fairly opaque when I read this paper and what the
+1:12:42
+authors have have shown uh and this literature showing is that like that was kids play compared to uh what's going on
+1:12:50
+here this is incredibly opaque and and uh and and and challenging now so the
+1:12:56
+model uh I have a few comments about the model and then I have some bigger picture things that hopefully we'll get our questions kicked off um as far as I
+1:13:05
+can tell the finance part of this model is terrific it's uh seems like it's working it looks like the papers uh an
+1:13:11
+RNR so congrats to the authors uh if that is the case um but here's a couple
+1:13:16
+of things I think about in the model that maybe might be helpful to them uh for future research so the issuers in
+1:13:23
+that they talk just that they build into the model um besides the leverage option
+1:13:30
+uh I wonder a lot how is a stable coin different from shares in a DDA MDA or an
+1:13:36
+MMF they just seem like they're basically doing the same thing um but
+1:13:41
+are there any differences beyond the fact that these things are being levered second uh do these issuers uh actually
+1:13:49
+realize that they can be they are essentially acting like Central bankers because they're manipulating the the money supply the coin Supply but are
+1:13:57
+they Thinking Beyond their profits and in ways that take into account synergies and
+1:14:02
+externalities for investors um they use this terminology of a patient versus impatient investor so an impatient
+1:14:09
+investor is someone who I think gives up on the fact that they could make a lot of money um and I thought that maybe
+1:14:16
+thinking more about that and not casting it that way might be helpful so um these
+1:14:22
+finan cial uh uh assets are is it full information investors that are pulling
+1:14:28
+out when they realize that there's this run risk or uh and or the other partial
+1:14:34
+information investors who don't know what's going on um are these
+1:14:39
+sophisticated versus unsophisticated investors maybe some are just better at it than others maybe it's not the
+1:14:44
+patience maybe there's something more to it uh the thing that I was curious about is are there other options for stable
+1:14:51
+coin collateral um why only lending to crypto speculators uh more generally at
+1:14:57
+the very least I'd like to know in the context of a utility maximization problem what is the portfolio allocation
+1:15:04
+decision that's being made here to to to do this kind of investing and from a GE
+1:15:09
+perspective on private money I wonder why are there so many middle PE people involved why uh aren't we just linking
+1:15:17
+directly to the traditional Finance asset to the cryptocurrencies why do we have so many players along the way and
+1:15:24
+then third thing for the market uh for the model is I found that there was It was kind of missing a link to the real
+1:15:31
+Market that was real obvious which is the lending rate for the crypto um is
+1:15:37
+tied to all other interest rates and a particular it's probably tied to I or F funds and that's tied to money demand
+1:15:45
+although I have a student that's working on a money demand model that shows that money demand is much more closely linked
+1:15:51
+to long-term interest rates and short-term interest rates but in any case the the the lending rate that's in
+1:15:57
+the model is not tied to other interest rates that are probably really important in the big picture for what money is
+1:16:03
+right so I'm I'm curious about that and in particular um the uh uh the the
+1:16:12
+period of time in which the these crypto prices went way up and then came way back down coincides with the zero lower
+1:16:18
+bound and that can't be a coincidence um anyway that also leads me
+1:16:24
+to ask the question if if I wanted to do something like this now with reserves
+1:16:29
+for plus percent uh why don't I uh just back a a
+1:16:34
+crypto with with with reserves working with a a Traditional Bank um and that
+1:16:41
+all leads me to wonder what is the backd door entry into macroeconomics more
+1:16:48
+generally now um couple of big pictures those are just model things that I would
+1:16:53
+think about building in future research um couple of several big picture
+1:16:58
+questions so I'm curious what is what do these stable coins tell us about money and banking more generally uh
+1:17:05
+particularly unre unregulated banking because I was I find that the link to regulated Bank
+1:17:12
+deposits uh is so similar to ddas and mmfs but the thing that really struck me
+1:17:18
+is the the the liquidity share allocations of roughly 30 to
+1:17:23
+60% are not very different from what I first Learned was the case for banks
+1:17:28
+prior to the Great Depression so Banks were voluntarily reserving 60% that's
+1:17:35
+kind of ballpark to what this is so are they just acting like banks in a in in the 21st century I'd like to know a
+1:17:42
+little bit more about about that connection and that thinking then specifically with regard to connection
+1:17:47
+to the real economy um it's cool that they're showing that the the events in
+1:17:53
+traditional financial markets and crypto speculation can be linked in what they call this uh in in indirect
+1:18:01
+interconnectedness but I think that's where I really want to know a lot more about what's actually going on uh does
+1:18:09
+crypto speculation affect things that macroeconomists really care about like GDP and inflation or not uh seems to me
+1:18:16
+that there's a lot of ups and downs that we're not even looking at in fomc
+1:18:21
+discussions um about ma standard macro stuff now I
+1:18:26
+think there's a natural connection to the real economy through the payment system and this is the part of the paper that I wish they had done more of they
+1:18:33
+have a short appendix discussion of the um the yield for convenience for
+1:18:38
+payments but I think it's the fact that Bitcoin is still the only really directly payment system related uh
+1:18:46
+crypto is what makes it different and how these things get actually used for payments is crucial and like to see more
+1:18:53
+of that so are stable coins really money um I think not uh I think it's uh it's a
+1:19:01
+it's not the store of value we think about for money which is if I have something in my account today and I want
+1:19:07
+to buy something tomorrow I don't want that to fall in half I want that to still be at par but these these kinds of
+1:19:15
+assets like the complexity and the speculations in them are kind of more get-rich quick schemes and I'm trying to
+1:19:22
+figure out why are we trying to uh build an asset-backed crypto
+1:19:27
+money um I used to think that was the solution for Bitcoin volatility but then
+1:19:33
+I started thinking wait a minute uh you know uh developed economies have been
+1:19:39
+going exactly the opposite direction over the last 150 years right we we used to have precious metal backed currencies
+1:19:46
+now we have nothing that's backed and Bitcoin for all its warts and everything is still just a pure fiat currency they
+1:19:53
+just said here it is here's the network use it if you like it's not backed by anything and um this this whole
+1:20:00
+discussion has got me rethinking is it is backing is is that really what we want to do because in the old days we
+1:20:07
+hated the fact that gold prices fell in half and caused collapse of the money supply so is this really what what we
+1:20:13
+want to do um and the other thing is the original motivation I think still for
+1:20:20
+Bitcoin was the promise of a fixed money Supply and in the US up until the World
+1:20:26
+War II average inflation was 0% as best we can measure it since World War II
+1:20:32
+average inflation is positive so that's a uh that's a real loss on holding money
+1:20:38
+and if you promise not to move the money supply around which these these stable
+1:20:44
+coins have to do all the time then uh we're losing that potential potential benefit lastly I just want to say it's
+1:20:52
+it's I'm a little surprised that the authors W didn't push harder on the fact that there's government regulations
+1:20:58
+screaming out here is why in the world uh do does the central banks and
+1:21:03
+governments allow this um because they sure screaming out for at least if not deposit regulation transparency um uh
+1:21:12
+and maybe Financial stability although like I said I don't still don't see the fluctuations in crypto transferring into
+1:21:19
+GDP um but then maybe it's because it doesn't really matter to the real
+1:21:24
+economy we need to see that uh or maybe the players in these markets um just
+1:21:30
+don't care about that because they're able to handle this this speculative volatility um but if that's the case
+1:21:36
+then is it really money I don't think so so anyway I hope that gets us kicked off
+1:21:41
+hopefully there's time for better questions and and
+1:21:50
+answers excellent thank you I I think we have some five seven minutes for questions before the
+1:21:59
+keynote well thank you Scott so much for your your comments this is uh I think really getting to a lot of the things
+1:22:05
+that we we think about is is stable are stable coins money are they useful as
+1:22:11
+money are they you know they're clearly private money I think I would argue that probably you know in in general they're
+1:22:19
+they don't carry I have another paper that shows that they have a negative convenience sealed so uh they aim to be
+1:22:25
+money but I think they are are bad money um because they have a lot of frictions
+1:22:30
+in in in being used um you relatedly you talked about um the usage of stable
+1:22:37
+coins as as payments um and as you mentioned we discuss a little bit in the
+1:22:42
+appendix if there's this alternative demand outside of speculative demand but now for use of stable coins in a payment
+1:22:50
+system um and we just bottom line in the terms of the
+1:22:55
+model it shows that it's uh the mechanisms we have in mind are still consistent in fact some of the channels
+1:23:02
+are a little bit strengthened um specifically the redemptions Channel but
+1:23:07
+maybe more broadly do stable coins want to be money do stable coin issuers want
+1:23:13
+that I think the answer is probably is quite simply yes if there's a stable coin that could be both useful for
+1:23:20
+speculation and form of means of payment it would probably capture a lot of the
+1:23:25
+market share but a lot so far stable coins have really had a lot of challenges in being used in payments um
+1:23:33
+I think you know people have concerns about for instance the backing of of tether uh the larg one of the largest
+1:23:39
+stable coins and and concerns about the risk management of usdc with with
+1:23:45
+svb so I think that uh you know some more recently for instance PayPal has
+1:23:51
+issued a stable coin and I think that they in many ways would maybe aim to do
+1:23:56
+to to be able to do both um be useful in speculation and separately useful as
+1:24:02
+means of payment um and I think that they are probably you know opportunist I
+1:24:10
+mean you know it's it's they have a reputation already and they can rely on that perhaps to be a better form of
+1:24:17
+private money um in a another paper uh some of the co-authors and I showed that
+1:24:22
+reputation is very important for the development of private money and in its ability to potentially earn a
+1:24:29
+convenience yeld um relatedly to uh I think uh one of the questions was about
+1:24:37
+kind of Regulation if it's regulated or not I think one of the components of stable coins is it's it's very similar
+1:24:44
+in a lot of ways to money market funds ascept in some ways it's really perhaps more more concerning because they're
+1:24:50
+like unregulated money Market funds so I I completely uh agree on that point um
+1:24:56
+that regulation's uh an important thing to to consider um the some of the other
+1:25:01
+comments have been related to uh were about like central banks or uh somewhat
+1:25:07
+relatedly like how is this related to uh an issuer being kind of related to similar to a central bank or uh I know
+1:25:14
+in the previous discussion they talked quite a bit about uh currency pegs um I
+1:25:20
+think that there's uh you know for currency Peg for example the the central bank is making decisions
+1:25:28
+to uh about the relative demand of the currency based on its underlying
+1:25:33
+reserves and ultimately its policy goals of setting short-term rates um in
+1:25:39
+comparison the issuer of stable coins that's not the case at all um they clearly don't set a short-term rates and
+1:25:47
+they're profit maximizing um empirically uh we show I I
+1:25:53
+believe it might be an appendix that the stable coin lending rates are also not correlated to to short rates like
+1:25:59
+effective fed funds um one of the other comments uh
+1:26:05
+was about why are there so many players in the model for example um it's just to separate it out in in reality holders of
+1:26:12
+stable coins could also be cryptocurrency investors um so you could
+1:26:19
+it's uh you know if you hold one stable coin perhaps you you borrow a different one to get leverage exposure or uh you
+1:26:26
+might hold it and then uh yeah so it could be uh there I think the it's
+1:26:34
+separate out for for the intuitions purposes um and then for to compare
+1:26:39
+briefly the patient and impatient investors um were are there's a question of whether the patient investors were
+1:26:46
+just uh you know those who don't want to make money well these are ultimately the the investors are going to be for the stable coins so
+1:26:52
+uh if they hold the difference between redeeming or not is really whether or not they're they hope that they'll be
+1:26:59
+able to get a dollar back um so I'm also happy to to take any
+1:27:05
+questions or uh I know that the previous person also didn't have a chance to respond
+1:27:11
+so all right I think I think we need to move to uh to the next item on the agenda thank you very much sharonk you
+1:27:17
+um and others for the presentations and the discussion it was a really great session
+1:27:34
+okay good good afternoon and uh let let me also extend a warm welcome to uh to
+1:27:41
+the Federal Reserve board um here uh happy to to be hosting the economics of
+1:27:47
+payments again uh for the second time I think this is this uh the first time was was back in 2011 uh in slightly
+1:27:54
+different uh a less modern set of facilities even though it was in the same building so we're we're very happy
+1:28:00
+to to be able to host again and uh looking forward to continuing to talk
+1:28:05
+with many familiar faces around the around the tables as well as uh a lot of new folks here um if you don't know who
+1:28:12
+I am my name is Dave Mills uh I am in the payments division here in the uh
+1:28:17
+Federal Reserve board and uh I work with Ellen and the team who um again I also would extend a lot of thanks for for
+1:28:24
+organizing uh this this conference for us uh today and tomorrow um my role
+1:28:30
+today is very limited in the sense that uh I going to be here to to introduce uh have the privilege of introduce uh our
+1:28:37
+keynote speaker for the day uh Sir John Kliff uh so Sir John conliff uh is the
+1:28:43
+Deputy Governor uh for financial stability uh at the bank of England and he's been so since November 2013 uh and
+1:28:51
+we will be so for a few more days uh as his term will will be up at the end of
+1:28:56
+uh this month um he has specific responsibility uh within the bank for
+1:29:03
+financial stability and for the supervision and oversight of financial market infrastructures and payment
+1:29:08
+systems um he is also a member of the g20's financial stability board steering
+1:29:14
+committee and uh perhaps most importantly for this conference is also
+1:29:19
+the chair of the uh committee on P ments and Market infrastructures at the bank for international settlements uh which
+1:29:25
+is a place where um I interact with with John quite regularly on uh and just just
+1:29:32
+an interesting thing to to sort of point out uh about about that uh I think John
+1:29:38
+has uh seen uh a lot of a variety of topics related to payments and financial
+1:29:44
+Market infrastructures uh in his uh term as the chair of the cpmi uh and has
+1:29:50
+include a lot of the topics that that we're touching on today um and so one of the sort of interesting elements that
+1:29:57
+that he's had responsibility for in his role at the cpmi has been to help uh
+1:30:03
+Advance a lot of the international thinking uh around improving crossborder
+1:30:08
+payments as well as dealing with uh a lot of issues related to um digital
+1:30:14
+assets such as stable coins and Central Bank digital currency topics both of which uh are being discussed at this
+1:30:20
+conference so without further Ado I I it's my pleasure to introduce Sir John Kliff for his
+1:30:29
+[Applause]
+1:30:42
+remarks thanks oh was like addressing the United Nations isn't it um so look
+1:30:48
+um uh first of all thanks very much to to the fa to to to Dave and the team for
+1:30:54
+inviting me here um at midnight on Tuesday I stopped being a central Banker after 10 years I turn into a pumpkin
+1:31:01
+it's Halloween um uh and so um this has given me the chance to say all the
+1:31:07
+things I've wanted to say for the last 10 years and haven't been able to so it's a great opportunity attend me
+1:31:12
+several hours um but I'm sure you uh you'll you'll you'll all bear with me uh
+1:31:18
+more seriously this this um this talk uh is going up on the bank of England website as well so you know if you if
+1:31:26
+don't don't feel you have to take notes or if you miss something that's interesting or think um uh you just missed everything you can read it later
+1:31:33
+if you're the sort of sad boring person that reads Central Bank of speeches um over the weekends but you know um we're
+1:31:39
+all a bit like that I guess um so um uh look it's um uh it's difficult to
+1:31:46
+overstate I think the importance of the announcement by Facebook uh in uh June
+1:31:52
+2019 that it intended to launch a a multicurrency stable coin a new digital currency called Libra for those of you
+1:31:59
+that remember that uh for General crossb payment use indeed one commentator a
+1:32:04
+good friend of mine Jillian T at the financial times has likened uh the
+1:32:10
+impact of the Libra announcement on central banks to the sudden arrival of Tokyo Harbor in 1853 of the Black Ships
+1:32:18
+of evil appearance uh the fleet a modernly resistant Fleet under Commander Perry that just LED uh relatively
+1:32:25
+quickly to the collapse of the centuries old ruling system uh and the opening up
+1:32:31
+uh of Japan and so for the for the decade before that Liber announcement
+1:32:37
+central banks and financial Regulators have been watching I think with quite a wary eye the development of crypto asset
+1:32:43
+markets using new technologies outside the conventional Financial system and many like the bank of England had dipped
+1:32:49
+a toe into the water of experiments we ran small experiments with these Technologies with just the aim of
+1:32:55
+understanding them better some Financial firms um had gone further exploring and investing in a a limited set of use
+1:33:03
+cases within wholesale Financial uh services for those uh technologies that
+1:33:08
+seem to be working in the in what I call the crypto world and Regulators who were increasingly fretful about the the
+1:33:15
+cocktail of risks in unregulated crypto asset markets risks ranging from illicit
+1:33:20
+Finance consumer harms potentially Financial stability have been debating
+1:33:26
+whether and if so how to bring what's Loosely called crypto activities within
+1:33:32
+regulatory boundaries but the Libra announcement and the potential appearance of a new form of money using
+1:33:38
+new technology and moving between countries on new rails outside of the current system galvanized Central
+1:33:45
+bankers and Regulators into much more urgent action on a number of fronts so I want to talk today about three of those
+1:33:52
+fronts the G20 road map to improve crossborder payments the bank of England's exploration of a digital pound
+1:33:59
+a central bank digital currency uh and the regulation in the UK of systemic Payment Systems using stable coins about
+1:34:06
+which your previous speaker was uh just talking so I'll talk about the first the G20 crossb payments initiative with my
+1:34:14
+um cpmi haton which Dave mentioned for the bis uh and FSB haton but I'll talk
+1:34:20
+about the second the Central Bank digital currency and stable coins in my bank of England hat on I'm giving up
+1:34:26
+both hats as I said on midnight on Tuesday so this really is the last chance for a Parting Shot um so uh the
+1:34:34
+Libra project it raised significant Regulatory and financial stability concerns and it led to very Swift
+1:34:40
+statements first the G7 and then the G20 that no Global stable coin project should begin operation until the legal
+1:34:47
+Regulatory and oversight challenges have been adequately addressed but the the project and the benefits that it claimed
+1:34:54
+also sh sha a light on the cost speed reliability and availability of existing
+1:35:00
+crossb payment systems and this was a very long neglected and rather Dusty corner of the international uh Financial
+1:35:07
+system central banks finance Ministries and Regulatory authorities they realized quickly uh that they could not only
+1:35:14
+focus on the risks that uh new players and new technologies might bring they also needed to understand and if
+1:35:21
+possible address the shortcomings in the existing less risky systems that just
+1:35:26
+created such business opportunities potentially for new technologies and new players and there certainly were
+1:35:33
+shortcomings um in contrast to domestic Payment Systems crossborder Systems crossb payment systems were and still
+1:35:40
+are clearly slow expensive and unreliable and removing frictions in wholesale retail and remittance payments
+1:35:47
+across borders could not only bring substantive benefits to the world economy it could also improve access for
+1:35:53
+Millions to the International Financial system so in in February 2020 very shortly after I took over in
+1:36:00
+the in the cpmi G20 Finance ministers and governors uh asked the uh the fsp
+1:36:06
+the cpmi and other Regulatory Agencies to develop a road map uh to improve
+1:36:11
+crossb payments an initial work by FSB and cpmi revealed that this this wasn't a simple problem that was amable to one
+1:36:19
+or two uh uh two solutions it was rather a complex set of interlocking frictions both in the
+1:36:25
+public and private sector that were much exacerbated by weak competition um uh in
+1:36:30
+in this area and moreover while there were common themes there were clearly substantial Variations by region uh and
+1:36:37
+by uh by payment type and the cpmi produced a comprehensive list of the
+1:36:43
+necessary action areas the so-called 19 building blocks necessary to uh to
+1:36:48
+address the problems covering infrastructure data regulation and competition and these form the basis of
+1:36:54
+the road map that G20 leaders adopted at their Summit in the Autumn of 2020 so
+1:36:59
+three years on I'm about to pass the cpmi Baton on to good friend and colleague Fabio Peta who will take over
+1:37:05
+as governor of the bank of Italia uh um also on the uh uh uh uh on the 1 of
+1:37:12
+November um it's fair to ask well you know how how well have we done uh and
+1:37:18
+what are the priorities for the future so on how what we've done I think we've built a strong detailed analytical
+1:37:25
+foundation for the work for the first two years from 21 uh through to to to to
+1:37:31
+2223 we produced in cpmi and the FSB a number of reports that analyzed those
+1:37:37
+key frictions also identified in more detail the actions uh that would be necessary both by the public and the
+1:37:43
+private sector to alleviate them we set out best practice where it exists and practical guidance on how to make
+1:37:49
+changes in key areas and equally important in 2021 the G20 leaders
+1:37:55
+adopted quantitative targets for cost speed reliability covering wholesale retail and remittance payments to be
+1:38:02
+achieved by 2027 um as we all know what gets measured tends to get done uh so equally
+1:38:09
+important was establishing the mechanisms and the data collection that enable us to measure progress towards
+1:38:15
+those targets and interestingly across those three areas wholesale retail and remittance there were no no good data
+1:38:22
+sets that would actually tell you um what the picture was on those key issues of cost speed reliability transparency
+1:38:31
+the first annual monitoring report against the targets using using the new data sets was delivered to the G20 and
+1:38:38
+Central Bank um governors in Marakesh at their meeting a couple of weeks ago so
+1:38:43
+while the data are not perfect and there are important gaps that we're going to need to address in future we are now
+1:38:49
+able to measure just how far far we have to go to hit those targets for 2027 so
+1:38:55
+on the good news side we've started to see some concrete improvements since 2020 a number of countries have expanded
+1:39:01
+access to their payment infrastructures to a wider range of financial institutions or expanded the operating
+1:39:07
+hours of their payment systems including Central Bank operated rtgs Systems
+1:39:13
+payment systems in more than a 100 jurisdictions or already actively using uh the iso
+1:39:18
+2022 if you're in the payments bus you have to be able to say ISO 2022 without without hesitation um or or stumbling
+1:39:27
+but that's a payment that's a messaging um a messaging standard that just allows
+1:39:32
+a lot more data to be carried in the messages and so it reduces payment fails and actually makes it easier to meet
+1:39:38
+regulatory uh requirements uh and cpmi uh working with uh the private sector
+1:39:45
+has now developed harmonized standards for using that ISO 2022 uh messaging system in a consistent
+1:39:52
+way for crossb payments interestingly though 100 jurisdictions had adopted it we found out that that a number of
+1:39:58
+jurisdictions were implementing it in different ways so we've actually we've actually managed to forall that by
+1:40:04
+developing harmonized standards and I think I'd also mention a number of projects particularly in Asia that are
+1:40:10
+showing real benefits that can be achieved by interlinking faster payment service systems which now exist uh in a
+1:40:17
+number uh of jurisdictions um however the monitoring report shows we're
+1:40:23
+significantly shorter the targets for 2027 in General on the main targets we're somewhere between half and 2third
+1:40:30
+of the way there so that's not surprising given that we're um about
+1:40:35
+halfway through if you like the road map period um but though achievable given
+1:40:41
+the time scales for investment and other sorts of action like regulatory change it's a challenging distance that we'll
+1:40:46
+have to travel uh in the next four years in short we built buil a strong foundation for the work including
+1:40:53
+quantitive targets and a way of measuring progress we're starting to see real improvements but there's a long way
+1:40:59
+to go and we need continued investment by the public and private sectors in infrastructure data and Regulatory
+1:41:05
+change to get there so as I said at the outset both the frictions and the actions that we need to alleviate those
+1:41:12
+frictions uh vary considerably by payment type uh and by region but there are some common priority areas on which
+1:41:20
+we'll need to focus in the next phase of the work so first we need to see further upgrades of Central Bank and private
+1:41:25
+sector Payment Systems to expand access uh and uh to extend operating hours
+1:41:31
+second the public and private sectors need to implement the data standards for crossboard ISO 2022 payment messages I
+1:41:39
+just mentioned that we've just developed and we need to develop similar harmonized standards for application
+1:41:45
+programming interfaces which is what links nowadays which what enables you to link systems together third we should
+1:41:51
+facilitate and promote the interlinking of faster payment system so there's a range of technological solutions uh
+1:41:58
+available or in Prospect but actually the more you explore these interlinking questions the the problems are not the
+1:42:04
+obstacles are not primarily technological uh they're much more around governance and oversight and how
+1:42:10
+you reach agreement of who sits around the table uh and who has uh control of what the cpmi is doing work in that area
+1:42:18
+uh but we need I think uh to set out best prct practice and if Comm if possible common principles there'll be
+1:42:24
+real benefit in doing that to enabling uh more interlinking projects uh to come forward fourth we should pursue more
+1:42:31
+effective coordinated regulatory Frameworks for crossborder payments and remove unnecessary regulatory frictions
+1:42:38
+so a key prior priority in this area uh around AML and CTF is the work going on
+1:42:45
+in the financial action task force to update their recommendation on the misuse of wire transfers they still use
+1:42:51
+that term uh of wire transfers uh taking into account the new data standard I
+1:42:57
+mentioned but also technological advances that may enable more consistent implementation and present unnecessary
+1:43:04
+frictions and there's a number of other regulatory frictions around Banks and non-banks um and finality settlement
+1:43:11
+finality that The Regulators uh need to address and uh fifth we need technical
+1:43:17
+assistance to support the efforts of authorities in l income regions where where actually the performance as you
+1:43:23
+would imagine uh is the worst to address crossb payment frictions and the IMF and the World Bank have an important role to
+1:43:30
+play there and they're developing technical assistance programs uh in in uh cooperation with cpmi uh and the fsp
+1:43:38
+finally um competition does work and we need to enhance competition and
+1:43:43
+Innovation and that means widening access to domestic Payment Systems Beyond Banks and I know that's difficult
+1:43:49
+for a number of jurisdictions for stat reasons but I think weak competition uh is one of the reasons why this area has
+1:43:56
+lagged behind domestic Payment Systems um and it's perhaps that lack of access
+1:44:02
+to payment rails which are operated by the incumbents and the need to use settlement assets or money uh which is
+1:44:09
+uh issued by the incumbents uh that actually help stimulate the exploration by potential challenges like Libra of
+1:44:17
+new rails and new settlement assets using new uh new Technologies so the Libra project of course after much work
+1:44:23
+and much modification fell by the wayside last year the stumbling blocks
+1:44:29
+appear to have been regulatory as much as technical although there may have been some commercial issues for them um
+1:44:35
+however though perhaps more muted since Libra uh disappeared interest in using new technologies to develop new forms of
+1:44:42
+settlement asset which as I say we can call money and new payment rails for use in the real economy outside the world of
+1:44:50
+crypto asset markets and crypto asset trading uh has not gone away and the recent launch of the PayPal paof
+1:44:57
+stablecoin project which uh you just was just mentioned I think is an example uh
+1:45:02
+that there is still very much interest uh in using those Technologies to develop new forms of money uh and new
+1:45:08
+infrastructures to transfer uh money and those new technologies they purport and
+1:45:14
+I say purport because um none of this is proven uh at the scale necessary to to
+1:45:20
+work in the real economy but they purport to offer improvements in speed cost and reliability which will make
+1:45:26
+them very attractive for crossb use and exploring their potential is actually part of that G20 uh G20 road map and
+1:45:34
+actually Dave Mills is leading a lot of that work for the for the cpmi um but
+1:45:39
+the Technologies also purport to offer new functionality for money and payments
+1:45:45
+that may make um uh these competitive for domestic use even in advanced
+1:45:50
+jurisdictions that have developed quite sophisticated payment systems like the UK Europe us so technological advances
+1:45:59
+have throughout history led to changes in the form of money we use because we've made they've made money easier and
+1:46:06
+just more convenient so if you think about the shift from physical cash to electronic payments that we've seen over
+1:46:12
+the past decade didn't happen because people lost confidence in physical cash issued by the bank of England or the FED
+1:46:19
+it happened because it's just just become more convenient to use uh electronic forms of payment and physical
+1:46:25
+cash can't be used of course for internet Commerce and very small reductions uh in frictions and very
+1:46:32
+small increases in functionality can can mean big shifts uh as you see in the
+1:46:38
+shift from using the card itself to using the mobile phone and for some people to using the wearable like the
+1:46:44
+watch you don't have to take very much out in terms of a friction to actually induce quite a large change uh in
+1:46:51
+Behavior so the the technologies that are Loosely grouped under the broad
+1:46:56
+heading my my um staff in the Bank of being hate hate it when I do this but going to do it anyway um they only got a
+1:47:02
+few days to complain so the technologies that are usely grouped under the broad heading of tokenization and that word
+1:47:10
+means many different things to many different it's a very slippery thing but let's let's just group them Loosely
+1:47:15
+cryptography distributed Ledger Atomic settlement blockchain fractionalization
+1:47:20
+and programmability enable new ways of representing money that may allow for
+1:47:25
+greater Automation in the way money is transferred and just a deeper integration of that transfer the thing
+1:47:31
+we call the payment into other processes so so what we now see as a separate process cuse a payment just becomes
+1:47:38
+invisible and integrated uh into uh into a much broader uh broader operation and
+1:47:44
+while that sort of technology has been pioneered in the crypto asset markets they could significant ific anly
+1:47:50
+transform everyday payments in the real economy as I'll discuss in a moment now you can't say with any certainty that it
+1:47:58
+will be possible to deploy those Technologies at a scale for General use in the economy or that users will
+1:48:04
+actually value and adopt the new functionalities um but it seems very
+1:48:09
+unwise in my view to bet as some people seem to be prepared to bet that we've reached the end of developments in money
+1:48:16
+and payments and that brings me to the other two areas of action that were accelerated by the announcement of the
+1:48:22
+Libra project four years ago the exploration of Central Bank digital currencies and the regulation of private
+1:48:27
+sector firms that propos to use those Technologies in some way to create new forms of money like stable coins and new
+1:48:34
+payment systems for General use in the real economy so first I'm going to say a little about where we are in the UK on
+1:48:40
+the possibility of introducing a cbdc which we've called the digital pound um in February this year the bank
+1:48:48
+of England uh and the treasuries so uh the finance ministry uh and the Central
+1:48:53
+Bank issued a consultation paper on the design of a digital pound and the consultation paper didn't propose that
+1:48:59
+we introduce a digital pound in the UK no decision has been taken uh to do that
+1:49:06
+rather the paper concluded that on current trends in money and payment and technological advances the trends I've
+1:49:13
+just been discussing um uh those Trends made it likely that a digital pound
+1:49:19
+would be needed by the end of the decade and the paper uh set out and invited comments on a detailed model uh for the
+1:49:26
+digital pound which we proposed to explore and test in the next stage of our work prior to a decision in two or
+1:49:32
+three years time on whether or not uh to implement and the model we proposed was
+1:49:38
+one that a number of central banks have been looking at where the bank would provide the bank of England would provide the digital pound uh the money
+1:49:45
+uh and the central infrastructure uh in such a way that private sector firms could be the interface with the uh with
+1:49:51
+the user offering wallets and programmable payment services and the consultation paper offered two main
+1:49:58
+motivations for the possible future introduction of the digital pound from a public policy
+1:50:04
+perspective the first and this is the most relevant to central banks uh concerns the role played by state money
+1:50:11
+I.E money issued by the uh Central Bank uh to the general public in anchoring
+1:50:17
+confidence in money and supporting the single of money in other words the
+1:50:22
+interchangeability of all monies public and private that circulate in the economy on demand and at par value the
+1:50:30
+only form of State money available to the public at present is physical cash and it's declining in its use uh and its
+1:50:36
+usability it's declining particularly fast in in the UK I think 10 years ago it was over 60% of transactions with
+1:50:43
+physical cash I think last year it's got to be 14% so that's a pretty fast decline it's been seen in other European
+1:50:50
+countries and as the Libra project um highlighted new non-bank players could
+1:50:56
+potentially exploit the technological advances that I've been talking about to offer new forms of money and new payment
+1:51:02
+systems and services and against that background my view is that uh it's likely to be necessary to issue central
+1:51:08
+bank money in digital form to support confidence in money particularly in stress and to ensure the singleness of
+1:51:15
+money there are other things we do to to ensure the singleness of money and confidence uh through regulation and through
+1:51:22
+settling across Central Bank books but actually one third pillar of that is the
+1:51:27
+availability to the public uh of uh State money in a form that they can access every time they at will they can
+1:51:33
+change private money for public money by just going to an ATM machine the second motivation public
+1:51:40
+policy motivation concerns competition and Innovation so this is more for governments than for central banks but
+1:51:46
+we have an interest in it as well digital marketplaces have a tendency to concentration as I think we've seen with
+1:51:52
+digital platforms over the last 10 and 15 years and that can be a barrier to competition and Innovation with the
+1:51:59
+risks that new entrance are being T would be tied to private issuers of digital money and their payment systems
+1:52:05
+so if you think apps and app stores uh if these developments uh take off in the
+1:52:11
+private sector uh we could see barriers to competition and Innovation and particularly true that will be
+1:52:17
+particularly true if big Tech firms uh enter into the world of money and payments and they're all skirting around
+1:52:24
+that world I think Facebook meta made their attempt and they've withdrawn uh but there is still interest I think in
+1:52:29
+being involved in money and payments for a variety of reasons on the part of the different uh the different big dechs so
+1:52:36
+competition Innovation May therefore be enhanced by providing a public alternative a public digital money
+1:52:44
+platform uh in a form that would allow private firms to offer services exploiting the new function alties that
+1:52:50
+I mentioned our consultation paper uh received over 50,000 responses so we
+1:52:56
+normally get four or 5,000 responses from Financial firms we got 50,000
+1:53:01
+responses and they fall into two broad categories the majority Express General
+1:53:06
+High Level concerns about three broad issues privacy programmability and
+1:53:12
+continued access to physical cash and the second set uh uh of uh responses
+1:53:18
+were detailed comments on the platform model of a of a a digital pound that we
+1:53:23
+set out so we expect to publish a detailed response to the consultation in the coming months I'm going to read it
+1:53:29
+with interest um addressing both types uh of response to the consultation and I
+1:53:34
+don't want to anticipate that but is possible to make a few observations on the first category of response our
+1:53:41
+consultation document made clear that under the proposed model neither the government nor the bank of England would
+1:53:47
+see individuals data rather other private sector payment firms would be the interface with the user handling
+1:53:53
+user information in the way that banks handle user information and transaction records and card companies uh today uh
+1:54:01
+users would have at least the same level of privacy um and protection of their privacy that they enjoy today when
+1:54:08
+they're making electronic payments we also made a commitment that neither government nor the bank would program
+1:54:14
+the digital pound to constrain its use in in different ways it's interesting here I think the discussion has been
+1:54:20
+whether a central bank digital currency could be used to stop people buying guns in the UK it was more about stopping
+1:54:25
+people buying sugar um we're different societies but con concerns that
+1:54:30
+government would program money so that you can't use it uh in uh uh in certain
+1:54:35
+uh in certain ways so the the it would be for private sector firms to develop
+1:54:41
+and offer with user consent payment services involving greater programmability uh and automation of
+1:54:48
+payments that I talked about earlier and as regards cash uh the UK government recently legislated to ensure the
+1:54:55
+continued availability of cash and the bank of England has made it clear that we'll provide physical cash as long as
+1:55:00
+there is any demand for it and there will probably be demand for it for decades because I think for some parts of society it will remain uh a very
+1:55:08
+important uh settlement asset uh the responses to the consultation illustrate
+1:55:14
+the importance of those issues in the public mind and it's clear that public confidence in our approach uh uh a
+1:55:21
+public confence in our approach to those issues will be essential if a future decision were to be taken to introduce
+1:55:27
+the digital pound so during the design stage we'll develop the strongest possible Protections in these areas and
+1:55:34
+the government has committed to introducing primary legislation uh before introducing a digital pound on
+1:55:41
+the second type of response um there's General support for the the so-called platform model that we proposed but
+1:55:48
+there were different views on some some of the key aspects particularly the limits that we propose should apply at
+1:55:53
+least initially to prevent rapid destabilizing changes to the banking system that could have Financial
+1:55:59
+stability implications um some some uh finex Merchants question the need for limits
+1:56:06
+uh while banks in particular and not surprisingly are concerned about the impact of the digital pound a central
+1:56:12
+bank digital currency on their deposit basis uh and on financial stability and on the question of use cases again
+1:56:19
+different views Merchants fexs payment service firms appear supportive of the possibility of generating new use cases
+1:56:26
+for retail uh digital currency uh but others particularly banks are more
+1:56:31
+skeptical that uh attractive use cases will be developed for a retail digital pound so we're still we're still in the
+1:56:38
+process of a detailed analysis of all of those responses and as I say we uh the bank will respond comprehensively in the
+1:56:45
+coming months I'd only observe a little bit tongue and cheek seeing as I'm going um that the criticisms of the digital
+1:56:52
+pound have ranged from concerns that it would be adopted at a scale and speed that would disintermediate the banking
+1:56:58
+system and create Financial stability problems while at the same time and sometimes by the same people concerns
+1:57:04
+that there's no use for it and it will be a solution looking for a problem so not surprisingly as an institution
+1:57:11
+that's charged with financial stability um the clue is in the name my my post is a Deputy Governor for
+1:57:17
+financial stability um we take the first point very seriously indeed modeled
+1:57:23
+estimates that we published a couple of years ago suggest that even with a very high level of takeup the impact over
+1:57:29
+time on the banking system should be manageable other central banks have done similar work and come to very similar
+1:57:34
+conclusions but those can only be estimates you can't know in advance what the behavioral responses of users to a
+1:57:42
+digital pound IE the speed the scale of take up by households and firms might be
+1:57:48
+and that's why we proposed initially at any rate that were we to introduce a digital pound there would need to be
+1:57:53
+limits on Holdings and during the next phase of development and in advance of any decision on whether or not to go
+1:57:59
+ahead and launch one will refine the calibration of those limits further the second concern about the use case or is
+1:58:06
+there a use case I think to be honest misses or risks missing the point I'm
+1:58:12
+reminded a little of Henry Ford Great American uh who's reported reported to have said that if he'd asked people what
+1:58:18
+Innovation they wanted that have said they wanted Faster Horses were we to decide to introduce
+1:58:25
+the digital pound the objective wouldn't be to Target some particular failing or
+1:58:30
+some use case that is kind of missing uh in uh current uh Payment Systems rather
+1:58:36
+the the objective will be to create a public sector platform using a public sector settlement asset public sector
+1:58:42
+money that private payment services firms could use to exploit those greater functionalities if they exist in money
+1:58:49
+and payments that technology may now may now offer in an increasingly digitalized world so experimentation that we carried
+1:58:57
+out with a variety of private sector firms from uh payment service firms
+1:59:03
+internet platforms finex a bank was involved um uh on a platform developed
+1:59:09
+by the bank of England and the Innovation Hub of the bank for international uh settlements provides
+1:59:15
+some initial support for the view that with a relatively small number uh three
+1:59:20
+or four of technical features uh a digital pound could support a very wide range of new payment uh use cases um
+1:59:29
+while it may be possible and and for those of you that are interested I mean it was called project Rosalind there are
+1:59:35
+some uh examples of this in the published I won't go through them here uh in the uh in the published version of
+1:59:40
+speech but actually all of the outputs from Project Rosalind uh are on the uh the bank of England the bank for
+1:59:46
+international website Innovation Hub website if you want to look at the use cases some of them were quite humorous
+1:59:52
+uh some of them were uh pretty um Innovative uh but it was by just
+1:59:58
+providing some simple programmability features it was possible for a kind of General settlement asset to be used for
+2:00:05
+a very wide range uh of uh of different experiments in use cases and while it
+2:00:11
+might be possible to deliver some of the use cases through specific programming of existing Payment Systems using
+2:00:17
+Commercial Bank money what the project showed is there's clearly material advantages in a general purpose platform
+2:00:25
+using a general purpose settlement asset that could be used program configured
+2:00:30
+relatively simply consistently and cheaply for a broad range of use cases and I come back to that point about
+2:00:36
+quite small frictions could make quite a big big change if you remove them in the sort of innovation uh and the scale of
+2:00:43
+innovation that you get so in the next phase of the work we'll work more intensely with the private sector to
+2:00:49
+explore possible use cases for the digital pound and the technological design necessary to create the best
+2:00:55
+platform for Innovation at the same time with the treasury we'll consult more widely and conduct what my finance
+2:01:00
+ministry colleagues call a national conversation on some of the key features of the digital pound so of course it
+2:01:07
+will be possible for private sector uh for the private sector to use those Technologies to create um uh new
+2:01:15
+infrastructures and issue private money for General use in the economy and as I started that indeed was precisely what
+2:01:21
+the Libra project proposed to do initially multicurrency and then it was going to be a US dollar uh stable coin
+2:01:27
+and that brings me to the third front on which uh Libra galvanized action the development of international standards
+2:01:34
+and domestic regulatory Frameworks for stable coins so in 2022 cpmi Osco which
+2:01:40
+I co-chair with uh now with Russ Benham of the cfdc uh the international
+2:01:46
+standard setting body for payment systems Market infrastructures issued guidance on the application to stable
+2:01:52
+coins uh of the international standards for systemic payment system uh and in
+2:01:57
+much the same way and to much the same effect the financial stability board issued high level recommendations on
+2:02:03
+global stable coins in 20123 both effectively set standards for some of the unique features of payment
+2:02:10
+systems using stable coins uh including not just the mechanism for the transfer
+2:02:16
+uh of of of the coins but also the requirements for the coin holder to have a clear claim on the issuer and the need
+2:02:22
+for the issuer to be able to repay that claim when requested in Fiat money at
+2:02:28
+par value by the end of the day a very similar standard that we expect of Commercial Bank money International
+2:02:35
+standards take a long time to develop believe me but they're only effective if they're implemented by national
+2:02:41
+jurisdictions in legislation and many jurisdictions not least of all here in the United States are currently
+2:02:46
+wrestling with the question of how or whether to extend their regulat regimes to stable coins and more generally to
+2:02:53
+crypto assets so some jurisdictions however have legislated to bring stable coins used for payment within the
+2:03:00
+regulatory framework in the UK parliament passed legislation just before the summer that gave the bank of
+2:03:06
+England the power to regulate systemic Payment Systems using stable coins which extended the powers we already have to
+2:03:12
+regulate existing systemic payment systems and we expect soon very soon uh
+2:03:18
+to isue a discussion paper setting out the proposed regulatory regime in detail
+2:03:24
+uh for such systemic retail Payment Systems using stable coins and I I won't I can't actually set it out in detail
+2:03:30
+today you'll have to wait for the announcement um but I would like to explain how we've approached some of the
+2:03:36
+key issues and if you like policy issues and design choices in that regulatory framework and how we think that
+2:03:43
+regulatory framework for payment systems using stable coin should fit alongside other regulatory Reg regimes uh within
+2:03:50
+the financial sector so first and most obviously is the question of why so do
+2:03:55
+we really need new forms of money issued by new players moving on new payment
+2:04:00
+rails and that's essentially the same question that I discussed earlier uh in the context of the digital pounds and
+2:04:07
+much of the answer is the same while it's not certain that these new technologies will actually deliver the
+2:04:12
+Innovation and competition in payment services some people claim we don't want
+2:04:17
+to prevent that Innovation uh either provided and this is a really big
+2:04:23
+provided um the risk can be managed to the same degree as equivalent risks are
+2:04:29
+managed both for existing payment systems and existing Commercial Bank uh uh money which is used as the main
+2:04:36
+settlement asset and there may be some players who will attempt to operate outside the regulatory boundaries but
+2:04:43
+setting out clearly the regulatory framework enables those players who wish to innovate sustainably and responsibly
+2:04:51
+to build the necessary management of risk into their business models and into their technology second I've said as
+2:04:57
+I've said our approach is to ensure that the risks are managed to the same degree as equivalent risks are managed for
+2:05:04
+existing payment systems and the private commercial Banks uh who issue the money that's transferred in payment systems
+2:05:11
+and that's an important elaboration of the fundamental regulatory principle of
+2:05:16
+same risk same regulation in may not be possible for technological or other reasons to apply the current regulation
+2:05:23
+for systemic uh payment systems and the regulation of Commercial Bank money uh to um Payment Systems using stable coin
+2:05:32
+so as an example it will be impossible to provide Collective Deposit Insurance
+2:05:37
+akin to bank deposit protection initially at any rate because unlike for banks there's no broader industry uh
+2:05:44
+amongst which to share the cost of a payer so in order to achieve the necessary level of protection of the
+2:05:51
+coin holders claim and so protection in systemic terms against run risk they'll
+2:05:56
+need to be more robust requirements in other areas to get to the point of same regulatory outcome uh if the same risk
+2:06:04
+uh is being run um and that will that will cover uh particularly but not not
+2:06:10
+exclusively uh the requirements for the backing assets for a stable coin that will be used uh in a systemic uh payment
+2:06:17
+system and in that respect the Financial policy committee uh of the bank judged in 2022 that the backing assets should
+2:06:24
+be either extremely high quality liquid assets or uh either in the form of
+2:06:30
+deposits at the central bank so Central Bank Reserves uh to back a stable coin or in the form uh of very very liquid uh
+2:06:37
+government securities the lack of deposit protection also has implications
+2:06:42
+for the nature and the enforceability of the coin holders claim third we will
+2:06:48
+require a legal entity that can be identified as the payment system operator and held responsible for the
+2:06:54
+endtoend management of risks stable coin Payment Systems can be structured in very many different ways including
+2:07:00
+Arrangements where the issuance of the coin the transfer of the coin the storage of the coin otherwise known as
+2:07:06
+the wallets are all performed by separate entities it's not clear that
+2:07:11
+use of public permissionless transfer mechanisms like the permissionless blockchain would be consistent certainly
+2:07:18
+with current technology uh would be consistent with this requirement uh for a legal entity to be held responsible
+2:07:24
+for endtoend uh risk management but our regime will be designed to be flexible and accommodate different structures in
+2:07:31
+so far as that can be achieved with the necessary management of risks fourth as with the digital pound we can't know the
+2:07:38
+behavioral response the speed uh and scale of adoption of new forms of money and payments uh we therefore need to be
+2:07:44
+alive to possible Financial stability risks from a rapid transition uh to stable coin payment systems that
+2:07:51
+could impact the stability of the banking system for the digital pound we proposed limits initially at any rate to
+2:07:57
+manage that risk and it would make sense to take a similar approach uh to stable coins and finally and perhaps kind of uh
+2:08:05
+most importantly we'll aim to ensure Clarity on regulatory boundaries and the
+2:08:11
+business model's Clarity on the business models that fit within the different regulatory regimes so the proposed
+2:08:17
+regulatory regime is a payment system regime and the public policy motivation
+2:08:23
+is to enable Innovation uh uh in payments it's intended for business
+2:08:28
+models that are focused on generating revenues from payment services business
+2:08:33
+models that are more focused on earning revenues from maturity and liquidity transformation the return on the assets
+2:08:40
+backing the liquid like money claims they issue pose risks that are more appropriately regulated within the
+2:08:46
+banking regime like likewise business models that use stable coins to represent claims on investment products
+2:08:52
+like money market funds which do not guarantee Redemption a par are simply
+2:08:58
+not suitable as for use as a settlement asset as money in systemic payment systems and those need to be regulated
+2:09:05
+under an investment regime Innovation using new technology is not being confined to new entrance so
+2:09:12
+Banks whose business model depends in part on issuing liquid liabilities in the form of bank deposits for payments
+2:09:18
+May well want to use new the new technologies I've been talking about to tokenize and transfer Bank deposits and
+2:09:25
+that would fall in our view under the existing banking regime rather than under the proposed regime for uh Payment
+2:09:33
+Systems using uh using stable coins there are a number of issues concerning
+2:09:38
+the issuance and transfer of Bank deposits in tokenized form that'll need to be considered by Banks and by Bank uh
+2:09:45
+Bank Regulators uh including the important question of whether uh such tokens should be
+2:09:51
+permitted to circulate freely like some form of digital bank note or whether they should always be tied to a bank
+2:09:57
+account and operate through the adjustment of existing Bank ledgers um but the underlying nature of the claim
+2:10:04
+deposit protection fact the management of risk should be regulated under the
+2:10:09
+banking regime Banks may also want to issue stable coins under the new regime we propose for for systemic Payment
+2:10:16
+Systems using stable coin in our view uh if they want to do that that needs to be
+2:10:21
+issued out of a separate bankruptcy remote legal entity with different branding to avoid confusion among
+2:10:28
+consumers and contagion in a stress between different forms of money and we will set all of that out when we uh when
+2:10:35
+we publish our discussion paper so to conclude um sorry it's gone on a long
+2:10:40
+time but it is 10 years worth of uh stuff to say um I'm often asked uh what
+2:10:46
+do central banks do uh or a more a more penetrating question I get and this is usually from school
+2:10:52
+children is what's the bank of England for okay so um that's a difficult
+2:10:57
+question so rather than give them the long list of Bank of England functions monetary policy Financial stability Bank
+2:11:03
+regulation payment system regulation provision of cash I give a much simpler answer central banks responsibility that
+2:11:12
+that most foundational element of not just the economy but Society the thing that we call money works okay that
+2:11:20
+people can use it every day with confidence confidence in its value confidence in its creditworthiness in
+2:11:25
+its authenticity uh confidence and that will be accepted uh everywhere at the
+2:11:31
+same value in whatever form it takes and while we might not be The Originators of
+2:11:36
+technological innovation in money and payments we do I think have a responsibility to ensure that beneficial
+2:11:42
+Innovation that improves the usability and functionality of money can not only happen but can happen without putting
+2:11:49
+confidence in money at risk so one cannot know I can't know whether the appearance of Libra off the shore of
+2:11:56
+conventional money in payments four years ago was truly a Black Ships moment I certainly hope that the wakeup call it
+2:12:04
+gave us to improve crossb payments is not forgotten and we deliver the long overdue improvements that the G20 has
+2:12:10
+set as the targets likewise while I think that on current trends the digital pound in the form we proposed is likely
+2:12:16
+to be needed around the end the decade the picture may look very different uh in two or three years time when a
+2:12:22
+decision is due to be taken and stable coins and their associ technological innovations may never cross over at any
+2:12:29
+scale from the highly speculative world of crypto asset trading to the real economy but to be able to make sure that
+2:12:37
+forms of money and the means of transferring them can evolve without putting that essential confidence at
+2:12:42
+risk central banks in my view and as the Libra Mo moment reminded us need to look
+2:12:47
+to the Future and they need to prepare for it so thank you for giving me the opportunity for this parting okay all
+2:12:55
+right and I think I'm I'm down to if I've got any time left I'm down to take questions but very happy to do that but
+2:13:02
+yeah sure I think uh we do have a few minutes for questions if there are any uh from the
+2:13:13
+audience I guess uh given you're in a position to give parting shots maybe I'll give a ask a slightly more
+2:13:18
+controversial question in some sense I kind of think about you know the the future paths that you describe with
+2:13:25
+Libra otherwise as we're choosing between a future in which we are dominated by big Tech uh big Banks or
+2:13:33
+big Central Bank uh and I guess the question is a little bit of how do you think about the kind of relative cost
+2:13:41
+and benefits of these options in the sense that in kind of many settings of our economy some of the most competitive
+2:13:47
+SE sectors are the ones in which we have really large platforms so if we think about retail if we think about say media
+2:13:55
+you know I think a lot of the new entrance are platforms and I think Finance is rather unique in the absence
+2:14:02
+of large platforms even within countries uh and especially across countries and so I guess you know I'd be curious to
+2:14:09
+kind of hear your thinking about the weighing of why or kind of the relative cost and benefits of these uh future
+2:14:16
+potential paths that we're contemplating so so first I I don't know how the
+2:14:21
+future will develop so what we've gone for uh to some extent is optionality um
+2:14:28
+and don't see the digital pound uh as being designed to destroy Commercial
+2:14:34
+Bank money which I think will be around for a long time nor to block St some people say well you're doing this to
+2:14:39
+stop stable coins um I think we have a mixed ecosystem in money at the moment we've got 800 issues of private money in
+2:14:46
+the UK people get upset when I tell them that but it's true um and I would expect
+2:14:51
+we have e- money which I didn't talk about uh so I expect um basically
+2:14:57
+competition and different forms of money to evolve so it's not a choice for me between the two I think big Tech
+2:15:03
+platforms can bring economies um uh of scale and scope and efficiencies but
+2:15:09
+they can also block competition and if you look at some of what's been happening in recent years as competition
+2:15:16
+authorities have tried to retrofit competition privacy and other regulation
+2:15:21
+on platforms that have already evolved the lesson I take for that is not the good platforms are big platforms are
+2:15:28
+good or bad but waiting until they're established at scale and then trying to regulate for Public Policy purposes uh
+2:15:35
+is uh is a very creates huge difficulties um once something has been
+2:15:40
+adopted at scale so um I think we should set out the regulatory Frameworks and my guess is I don't know if big teex will
+2:15:47
+will come back again and be interested in stable coin I don't think they'll be interested in taking a a return on the
+2:15:53
+assets they'd be much more interested in locking people into their platforms because that's their their business model um provided there is an
+2:16:00
+alternative that a payment system developer who wants to automate a payment in a particular way and offer a
+2:16:06
+service can do without being constrained to use the platform without being
+2:16:12
+constrained uh to uh to use the money that the platform issues and I think if you provide that public sector
+2:16:18
+alternative it may not be used very much but actually you anchor the whole system and you anchor competition so it's not
+2:16:24
+for me a question of either all it's a question of ensuring that whichever way this goes uh We've thought about it
+2:16:31
+we've prepared for it and the people who want to do it responsibly kind of know what they have to manage when they
+2:16:37
+develop
+2:16:43
+it um the use of a or the implementation of a cbdc would to increase the attack
+2:16:48
+service for cyber criminals yeah so that being the case um what ways does the
+2:16:53
+Bank of England see to improve and measure the resilience of such a system if it is implemented so um we set out
+2:17:01
+there's a technological working paper that's that's attached to the discussion paper um and we've set out some
+2:17:08
+requirements or certainly for operational stability and then particularly around this question of
+2:17:13
+cyber uh the development will be done with the national uh cyber prevention authorities that's one of the advantages
+2:17:20
+of working with the government and the Central Bank kind of working together so uh we'll be working together uh with
+2:17:27
+them the the um the attack surface is pretty big on private sector payment
+2:17:33
+platforms at the moment if you think about how many payments go through electronic payments and cross border as well um but I can't tell you what uh
+2:17:41
+what um uh What mechanisms will be used we'd only implement it I think if the
+2:17:46
+responsibility if the authorities responsible for um cyber and cyber protection thought we got it to the
+2:17:53
+stage where we need to get it to have to say though those authorities are also working with us on the supervision of
+2:17:59
+systemic Payment Systems which suffer the same risks oh was a chap at the back I think
+2:18:06
+it was actually first but so you mentioned the decline in um cash use for transactions in the UK how much of that
+2:18:12
+is the result of the spread of instant payments and how much is older forms of electronic
+2:18:18
+payments um so most of it is to do with the spread of card payments UK is
+2:18:27
+unusual in the I think we invented faster payment services systems uh back
+2:18:32
+in the uh early 2000s and then never went on to develop them for point of sale uh because I think the banks and
+2:18:38
+the card companies preferred to operate through the card system so so most electronic payments happen in the UK
+2:18:45
+through debit cards some through credit cards you can't use faster Payment Systems uh for point of sale in the UK
+2:18:52
+at the moment unlike uh other countries like Sweden uh or the like I think the decline of cash is down to a number of
+2:18:59
+things um some of which uh is to do with public sector regulation so the European
+2:19:05
+Union while we were still a part of it um uh legislated to uh to control the
+2:19:12
+you uh The Interchange fees that the card companies charged so that brought down the cost that hasn't happened in
+2:19:18
+the US you have I know it was an issue in Congress a few years ago and there's one particular Amendment sort of went
+2:19:23
+backwards and forwards but I don't think it was ever achieved so I think in the UK need to get this right before I'm
+2:19:30
+sued by card companies but um large firms will pay sort of 25 30 basis
+2:19:37
+points you know for for debit card transaction small Merchants though can face costs of 150 basis points or more I
+2:19:45
+think in the US it's a multiple of that uh for many so economic regulation and
+2:19:50
+the UK is unusual in that the government set up an economic regulator of payment systems designed to enhance competition
+2:19:57
+the payment system regulator about 10 years ago uh so some of it is to do with reducing the costs and of course the
+2:20:04
+cost of cash there Insurance security uh uh bank accounts I think a
+2:20:10
+lot of it is to do with internet Commerce but some of it it comes back to small friction so contactless came into
+2:20:16
+the UK I'm trying to think it may have been about 2010 2011 you know the contactless
+2:20:21
+use of cards but it didn't really take off uh until things like um in London
+2:20:27
+the transport system the London Underground suddenly allowed you to tap your card and it would just tap it at the other end and it would deduct the
+2:20:34
+fair um once that happened you suddenly started to see a lot more uses little
+2:20:40
+things just make the difference so um many shops in around in the city or
+2:20:45
+whatever don't take or prefer not to take cash because they don't have to deal with any cash handling problems and
+2:20:51
+of course people are more used on the internet to paying you need a you need a transactional bank account sorry
+2:20:56
+checking account call it over here to asent internet Commerce so all those kind of things cost convenience have
+2:21:02
+come together and then of course um mobile phone wallets and watches uh
+2:21:07
+develop and suddenly a number of people just a little friction of taking the card out of your wallet because you're
+2:21:13
+holding your phone in your hand because we all walk around holding our phones in our hands just that little friction kind
+2:21:19
+of shifts things into the wallet and you talk to some of the the hardware providers like apple or whatever that
+2:21:24
+their their objective is to make everything happen in that wallet just by increasing its functionality and
+2:21:30
+convenience it's a it's a variety of things coming together so sorry there was a question
+2:21:36
+yeah so it seems that many benefits of Central Bank digital currencies can be achieved by creating instant payment
+2:21:42
+system and then making it available to all banks uh in the system and making it person to person so examples from China
+2:21:48
+and Nigeria show that people don't really use cbdc because they already have advanced Payment Systems why do you
+2:21:54
+think central banks still discuss Central Bank digital currencies despite the risk associated with them for
+2:21:59
+example Central Bank of Brazil although they have pics they still discuss potential they're developing one they're
+2:22:06
+developing one yeah exactly they're develop I mean not discussing they're developing as is India so um there's
+2:22:12
+couple of important distinctions in that question so so I'm not sure Oh you mean
+2:22:18
+so some of the developments of Central Bank digital currencies and the one a lot of banks in the UK would prefer is
+2:22:24
+that we issue a tokenized central bank currency to the banks and the banks issue a tokenized uh deposit for use in
+2:22:31
+these programs um to their consumers rather than we issue it directly and you can understand why the banking system
+2:22:37
+might prefer that uh prefer that model just as an aside by the way just sorry
+2:22:43
+and this is you know goes into the kind of 10e bucket of things you want to get off your chest um uh you know when I
+2:22:50
+grew up over 70% of payments in the economy were physical cash my first pay
+2:22:55
+packet was a little brown envelope with physical cash that's what we used I was told when I tried to open my first bank
+2:23:01
+account at univer I'm very old my first bank account at University it was a privilege to have a bank account uh and
+2:23:07
+basically all I used it for was to withdraw physical cash because that's what I needed so this huge shift to
+2:23:13
+transactional accounts for everyday transactions or whatever is something that's happened certainly within my
+2:23:19
+lifetime and actually within my adult lifetime so the idea that somewhere in Deuteronomy it's written you know that
+2:23:25
+this is the model of the banking system we have and we can't disturb it is something I don't I don't subscribe to I
+2:23:31
+think banks are just they find new business models they've adjusted very well to electronic payments that it's
+2:23:37
+worked quite well for them uh but you know I'm I don't I don't feel as a central Banker I have a remit to defend
+2:23:44
+a particular business model I have a remit to prevent risks so what could this thing do so I'll give you an
+2:23:50
+example from Project Rosalind which is um I use it sometimes in the UK we have um train strikes in the UK we have
+2:23:57
+industrial action so this kind of resonates it's uh it is possible with
+2:24:02
+the little platform that we developed with the Innovation Hub with just a couple of programmable features in the settlement asset to integrate the buying
+2:24:09
+of a train ticket uh and then a particular train ticket for a train leaving a certain time and the automatic
+2:24:16
+refund if the train didn't leave the station at time back to your wallet so you could say well I could do that now because I can do standing orders and I
+2:24:22
+can but when you think of what happens behind a credit card payment which is using a faster payment system or
+2:24:28
+whatever just the number of ledgers in the system that need to be adjusted all the programming the answer is you could
+2:24:35
+do it now but the cost of doing that is is quite high and you would have to do it in a different way for a different
+2:24:41
+use case and if you have a general purpose asset that can be configured I was actually surprised in project
+2:24:47
+Rosland how few the features were things like hash time lock so that you could lock the funds how few the the features
+2:24:54
+were so it may be so I'm not a technologist and they all tell me different things um it may well be
+2:25:00
+whether they're like economists um but it may well be that um you can do all of those things in the existing system by
+2:25:07
+adjusting all of the existing ledgers through apis there's a school of thought that says we just need to link things up
+2:25:13
+together we can use application programming interfaces to make them talk to each other we can adjust all the
+2:25:19
+different ledgers the merchants Ledger the card acquirer you know with the instructions coming from the card
+2:25:24
+company or whatever or through a faster payment engine um I suspect that the
+2:25:30
+little frictions that I talked about or what stops that from happening I don't know if it's true as I say it may be
+2:25:36
+that these Technologies never quite deliver when I look at some of the things that happen in that wild west
+2:25:42
+called the crypto world where they do use some of these things without controls and without risks sorry with
+2:25:47
+our controls and with some very old risks as we see in some cases they are they do manage to automate the transfer
+2:25:54
+of value that is the payment much more deeply uh into into other processes so I
+2:25:59
+don't know um but if it happens and starts to happen at scale I want it to happen with developers to say okay you
+2:26:07
+know I I need to think about my business model where do I make my money what are the protections for the coin holder
+2:26:13
+rather than try and retrofit all that afterwards yeah please yeah s
+2:26:20
+yeah yeah so um I have a question like related to retail Central Bank digital
+2:26:27
+currency and especially thinking of uh different countries potentially using a slightly different system so when
+2:26:33
+physical cash it has kind of similar features everywhere but chances are that
+2:26:39
+maybe ECB and Bank of England do not have the same preferences for programmability and privacy for example
+2:26:46
+so then what do you think is a problem or potential solution for this so I
+2:26:52
+think interoperability between different retail cbdcs between countries you mean
+2:26:58
+or it is also like just a core feature so suppose I mean are you worried for example that one major Central Bank does
+2:27:05
+something faster than Bank of England and then it kind of sets a standards
+2:27:11
+that is not considered to be the best one according to Bank of England or like any combination so I need you need to
+2:27:17
+step back one and say we're still thinking as central banks uh and this part of this project it's part of the
+2:27:23
+cpmi work that I talked about um uh just how much interoperability we want
+2:27:30
+because there are benefits and cost to interoperability on uh on retail and and
+2:27:36
+what level How Deeply the systems need to be using the same technology or go back to talked about apis and so that
+2:27:42
+discussion and actually some work being done again by by Dave on uh at what point in the development of a cbdc do
+2:27:50
+you start to close down options about how it might talk uh to to other systems
+2:27:55
+um on the question of will somebody win the race and set the standards I think it it goes into two
+2:28:02
+different part bits I think some of and there's there's kind of governance and policy standards and Technical standards
+2:28:09
+I think some of the cost technical standards the way it operates the way it integrates with domestic Payment Systems
+2:28:15
+will be essentially domestic um and you wouldn't use a technology uh that didn't work in your uh in your financial system
+2:28:23
+with those structures but there are some common things around messaging standards um uh some of them which go just to the
+2:28:30
+internet in general not just to financial services where I think there is an issue about ensuring the the
+2:28:36
+standards that would be necessary for the transmission of money in these forms are developed in a more uh in a more
+2:28:43
+Collective way so there is an issue there um um uh it doesn't it's not deep
+2:28:49
+in the kind of um uh do I use a blockchain or do I use a distributed
+2:28:54
+database um but it is when I start to send messages through the internet um
+2:29:01
+money attached to an email or whatever then I get into much more General standards and there I think we are going
+2:29:06
+to need some work uh to bring them together so I think we have time for one more question I understand it's right
+2:29:12
+next to me okay so Sir John uh I think I have have perhaps the most important
+2:29:17
+question of the day um congratulations on your retirement and and thank you for coming to speak here today um as you
+2:29:23
+move into your retirement I suspect that you'll have lots of time to do things like watch football Y and so my question
+2:29:30
+is um what do you think the prospects are for Arsenal in the Premier League
+2:29:35
+this year okay um so um so first I need to issue a correction I'm finishing my
+2:29:41
+term at the bank of England I haven't decided whether to retire or not so it's an important for me it's an important
+2:29:46
+important distinction um so but uh so um
+2:29:52
+I think um they're better than they have been for many years um but I still think
+2:29:58
+uh Manchester city has got the depth of squad uh that that will um in the end
+2:30:04
+get them there if and this is what this is the kind of why we watch soccer um I
+2:30:10
+don't know what'll happen to injuries uh and important players so it's difficult to know but I think we got a better
+2:30:15
+chance than we've SE certainly had for 20 years and I'm very excited about it I don't know how many of you watch British
+2:30:20
+soccer but I recommend it if you don't well on that note thank you very
+2:30:33
+much
+

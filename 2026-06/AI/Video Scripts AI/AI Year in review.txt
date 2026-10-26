@@ -1,0 +1,312 @@
+Do you agree [music] with that?
+0:044 secondsUser error, Tim. Hey, I don't know where I [laughter] don't know where you buy your dogs from, but my dog is barking fine. All that [snorts] and more on today's Mixture of Experts.
+0:2020 secondsI'm Tim Hang and welcome to Mixture of Experts. Each week, MOE brings together a panel of the smartest minds in technology to distill down what's important in the crazy world of
+0:2929 secondsartificial intelligence. [music] We've got a tradition here ate where at the end of the year, we record short clips with all of our experts talking a little bit about what happened in the year
+0:3737 secondsthat's ending uh and where we're going to be going into next year. So, without further ado, here is the holiday clip episode for Mixture of Experts.
+Chapter 2: Chris: Super agents, reasoning models and 2025 reflections
+0:4949 secondsChris, thanks for joining us for our end of year episode. So, this is a little bit of a kind of clip episode that we do at the end of the season. We're talking
+0:5757 secondswith all of our experts about the predictions they made last year and whether or not they were right and where we're going into 2026. And you know, I
+1:051 minute, 5 secondswas just catching up on some of your predictions and you were a big agent booster at the end of 2024. You're like 2025 is going to be the year of the
+1:131 minute, 13 secondsagents. It's going to be the biggest thing, best things sliced bread. But I gotta say, I feel like we're now, you
+1:191 minute, 19 secondsknow, November, December, uh, 2025, and it seems like agents are like the dog that didn't bark this year, right? Like
+1:271 minute, 27 secondsI'm not I'm not using agents to go book travel. I'm not using them to, you know, I'm just not using them in the way that was promised. And so I guess I want to
+1:351 minute, 35 secondssay like it feels like you were wrong on your prediction. Do you agree with that?
+1:391 minute, 39 secondsUser error, Tim. I [laughter] don't know. I don't know where you buy your dogs from, but my dog is barking fine.
+1:461 minute, 46 secondsSo, all right. Agree. Well, tell me about it. I mean, yeah, I I think what I said, Tim, I went even further. I think I said 2025 is going to be the year of the super agent.
+1:571 minute, 57 secondsAgents overhyped in 2024 or underhyped in 2024.
+2:012 minutes, 1 secondUnderhyped, not hyped enough. Agents are the world. Agents are everything. And in 2025, we're going to have super agents. That's what's coming in 25.
+2:102 minutes, 10 seconds[snorts]
+2:102 minutes, 10 secondsI don't even know what that means, you know. I knew you didn't at the time.
+2:142 minutes, 14 secondsAnd when you [snorts] say super agent, what do you mean exactly?
+2:162 minutes, 16 secondsI just made up the term, Tim. So,
+2:182 minutes, 18 seconds[laughter]
+2:182 minutes, 18 secondsyou heard it here first on.
+2:222 minutes, 22 secondsAnd I think I said at the time it was just going to be like we're going to have, you know, we combine reasoning and we combine tools and then the agent is going to be able to do multiple things.
+2:312 minutes, 31 secondsAnd and and and I think that's true actually. If if if I really think about where we were in 24 agents were very
+2:402 minutes, 40 secondssmall and specialized and you would have an individual thing. This is the you know the writing the email writing agent. this is the uh the research agent
+2:492 minutes, 49 secondswhatever right and they they did one specialized thing and of course we moved into this multi- aent world but actually
+2:562 minutes, 56 secondsreasoning has came into the models and now what we're seeing is with reasoning with um test compute the the models are
+3:053 minutes, 5 secondsable to think much longer and they're able to plan and they're able to use much more tools and actually say okay I've got this tool and I've got this tool I'm going to call this to be able
+3:133 minutes, 13 secondsto achieve uh that goal so I I think I think I I'm I am defending my calls but I think I was right right which is
+3:213 minutes, 21 secondsreasoning was going to make a big impact there and then from a super agent point of view I do think we've moved away um
+3:293 minutes, 29 secondsfrom specialized agents I I I think there's still a place for them but but if you think of things like Manis which we talked about earlier in the year
+3:373 minutes, 37 secondswhere I submit one job and then Manis goes off and then you know about 30 minutes later it's created my entire
+3:443 minutes, 44 secondspresentation a multitude of that that really is kind of the super
+3:503 minutes, 50 secondsagent that I was talking about and I do think that is going to continue um and I
+3:583 minutes, 58 secondsthink it has taken off. We've seen Manises, we've seen things like um you know Claude Code come out and you know which we're using from a coding
+4:074 minutes, 7 secondsassistant perspective. Um, we even think about chat GPT itself and Claude, you're able to put your connectors in and then Claude is going to be able to work with
+4:154 minutes, 15 secondsthe different connectors and and go talk to different systems. ChatGpt will go off it, you know, will create your PowerPoints, it will create your code,
+4:244 minutes, 24 secondsetc. on the canvas. So, so I think chat GPT, I think Claude and I think Gemini, they're all evolving themselves into
+4:324 minutes, 32 secondsthese super agents. Um and and I think that is that is the space where everybody wants to go because as much as
+4:404 minutes, 40 secondswe may want these specialized agents, the reality is, you know, the major frontier AI players are are going to want you to come to
+4:484 minutes, 48 secondstheir one agent. And I think it's I think it's too hard. I mean, I I think about the marketplace of agents and I
+4:564 minutes, 56 secondsthink it's too hard to ask a user, oh, you need to write a PowerPoint deck.
+5:015 minutes, 1 secondWell, you need to add in the PowerPoint agent. Oh, no. No. Now you want to write Word. No, you need to add in the Word agent. Oh. Oh. Oh, you're doing
+5:085 minutes, 8 secondsresearch. No, you need to put the research. It's uh it's too much. It's too much agents, too much tools. Right.
+5:155 minutes, 15 secondsWhat what you want to do is just speak to that orchestrator and say, "Hey, I want you to do this task. You go look up
+5:225 minutes, 22 secondsthe tools that you need to use." And then if you've got some buddy friends who are agents as well, you you go and deal with them and come back to me with
+5:295 minutes, 29 secondsthe answer. Um, so I I I think that I think that has happened. It's maybe not the way that we want want it. I think
+5:385 minutes, 38 secondsthere's much further to go, but I but I do think that that has happened and and that is the fight because whoever is
+5:455 minutes, 45 secondsthat front door to the super agent is the one that's going to control the market as much as possible.
+5:505 minutes, 50 secondsThat that is a good point, right? Like I mean, if you're using reasoning and planning as kind of one of the distinctive agentic features, if you will. It's true. I mean, I use like deep
+5:585 minutes, 58 secondsresearch all the time, right? That's like that's used agents. It's almost like the old adage, you know, like the adage of like, oh, if it works, it's not AI anymore. It's almost like if the if
+6:076 minutes, 7 secondsthe agent works, it just becomes AI, you know? I don't even think about it as an agent anymore. Uh, it just like disappears. It's just AI basically. Um,
+6:156 minutes, 15 secondsbut but do you remember that? Do you remember that though, Tim? I mean because if we go back a year to like November last year, I don't what I don't
+6:236 minutes, 23 secondsI think even things like web search within chat GPT was experimental at that point. We certainly didn't have Google AI overviews and stuff like that. So so
+6:316 minutes, 31 secondsagents has just been brought into our workflow and just part of our consumer products but we don't think about it in that way to your point anymore. We're
+6:406 minutes, 40 secondsjust using the tools, right? You remember chat GPT when you did a search and you know without agent tools, you know who is Chris Haye of IBM? I'm
+6:466 minutes, 46 secondsfrequently without web search I'm the chief finance officer for IBM right you know which is you know you wouldn't want
+6:556 minutes, 55 secondsto put me in touch of IBM's money we'd be broke so um you know so I I I I do think it has happened we're just we we
+7:057 minutes, 5 secondsjust don't think about it in that way yeah that's right and I think the other point that you raised which I think is really interesting is this kind of coming battle between who's going to be
+7:137 minutes, 13 secondsthe like front door on these agents because I think the joke that I always had with agents is like, yeah, if you have an agent for PowerPoint, an agent for writing, and an agent for research,
+7:217 minutes, 21 secondsit's like agents, do you mean apps? Like just like normal software on your computer, like it starts to resemble basically like what we had before. The
+7:297 minutes, 29 secondsthing that does really make it genuinely feel new is if there is this kind of orchestrator agent, which is just like the front door for all of these requests. And yeah, I can see obviously
+7:387 minutes, 38 secondsthere's a big coming battle between all of the big, you know, kind of frontier AI companies. uh on this front I I guess kind of question for you is like if you
+7:467 minutes, 46 secondsfeel like any one is more well positioned than the other to kind of like you know win in this space or if it really will be kind of just like everybody wins you know
+7:547 minutes, 54 secondsI I hope it's everybody wins. I just think that if you're you know JT GPT is obviously fighting for that space
+8:018 minutes, 1 secondespecially with things like commerce and deep research etc. Google's fighting for that space for search so they're all going to be fighting against each other
+8:098 minutes, 9 secondsum for that. Claude is really their face they're fighting for the enterprise and they're fighting for the kind of the coding side of things. So I think
+8:178 minutes, 17 secondseverybody's fighting against each other in that sense. Um I imagine Amazon's going to do the same for shopping and stuff like that as well because Shopify
+8:258 minutes, 25 secondswill release their thing. So I I I I think that the the space should be open.
+8:338 minutes, 33 secondsI hope it will be open but you know who knows. Um but we are we are seeing that channel become important because again
+8:428 minutes, 42 secondsthe other thing that we've seen this year is the agentic browser. Yeah. So we've seen Perplexity release the comet browser. Touch EPT's release their
+8:518 minutes, 51 secondsbrowser. Um you know I'm quite sure Google's put Gemini in the in Chrome if they haven't already. Um everybody's
+8:598 minutes, 59 secondsfighting after that browser space. And then you're seeing the same thing on the mobile app as well right with you know Apple extending Siri at some point
+9:079 minutes, 7 secondswhenever that will be. Um um so I think you know and then Gemini get embedded into Android. So I I think that digital
+9:159 minutes, 15 secondsyou know front point and then all the voice models I mean you know um chat GPT for example. So I I I think the fight
+9:239 minutes, 23 secondsfor the browser fight for the mobile again is part of that kind of front door super agent space as well. So we we are seeing that this year. Again, there's
+9:329 minutes, 32 secondsmuch of a muchness between all of the providers if if we're truly honest. Um if somebody does something truly
+9:409 minutes, 40 secondsbreakthrough, you know, where it's just different level from any anybody else, then then I think then I think that's going to get super interesting. But I'm
+9:489 minutes, 48 secondsnot sure that's going to happen next year, though. I mean I think it's kind of yeah that that's that definitely opens up the sort of front door discussion in a way that I hadn't thought about is like you know I was
+9:569 minutes, 56 secondsvery much thinking about like the chat window right for you know but partially part of this battle is like what existing software paradigm or platform
+10:0410 minutes, 4 secondscan you bolt the agent onto as a way of bootstrapping this right they're like oh you you know browsers well now there's agents in it or like you know Amazon
+10:1210 minutes, 12 secondsfrom buying things like now there's agents in it and it's kind of like everybody's always trying to figure out like if that's the best way to get agentic uptake is like take an existing
+10:2010 minutes, 20 secondsparadigm that people understand and then just like make it better with the agent as a way of kind of strapping this up rather than having oh you know there's
+10:2810 minutes, 28 secondsthis new thing called the chat window and now we can do agentic things basically so and and and and I I think you're right there I mean we are seeing that already
+10:3610 minutes, 36 secondsis like all these front doors you put something in there so that's what's happened in the code editors right every single coding editor now has got an agent in in there I think what Google
+10:4510 minutes, 45 secondsdid is recently is quite is quite interesting with Andy gravity, right?
+10:5010 minutes, 50 secondsBecause although you you know it's obviously a foro VS code and you know it's got its own issues etc and it's agents in the editor but what they've
+10:5910 minutes, 59 secondsdone that's quite interesting is they also have the ability to run the agents outside of that as well. So you can run your agents in the terminal and they've
+11:0611 minutes, 6 secondsgot the inbox etc. So you'll be able to control your agents from the outside and and again that's kind of back to that manis style um you know here's my task
+11:1611 minutes, 16 secondsworkflows and then it's going to run in the background. So if I if I start to think about 26, see what I did here, we moved from 25 to 26. I I think if I
+11:2511 minutes, 25 secondsstart to think of 26, I think being able to control your agents um centrally um
+11:3311 minutes, 33 secondseither anti-gravity or or um or manis style, but have those same agents be able to operate in different
+11:4211 minutes, 42 secondsenvironment. I can see that being a thing, right? Um, so, um, and they're all going to start fighting across that space. So, I I I think that sort of
+11:5011 minutes, 50 secondsagent control plane type thing and multi- aent dashboard, I I I I can see that happening and and we go and like we
+11:5811 minutes, 58 secondswould look at our inbox, go kick off this agent to do this, go kick off that agent to do that. I I see I see that being a thing.
+12:0512 minutes, 5 secondsYeah, for sure. I'm going to return to that like a lot more in 26. uh is like the kind of agent control dashboard. How that looks like, how do we go about
+12:1212 minutes, 12 secondsdoing it is like a really interesting area of development I think in the next 12 months. Um well Chris, that's all the time that we have. Thanks for joining
+12:1912 minutes, 19 secondsus. Uh appreciate it and uh we'll see how these predictions turn out in uh in 26. Fun fun.
+Chapter 3: Gabe: Open source's breakthrough year and what's next
+12:2712 minutes, 27 seconds[music]
+12:2912 minutes, 29 secondsGabe, thanks for joining us for our year-end episode. Uh we obviously we want to have you on because in some ways everybody was saying that 2025 was the
+12:3712 minutes, 37 secondsyear of agents and it kind of was but in my mind it was really the year of open source right we saw these models just get better and better and better and
+12:4512 minutes, 45 secondslike the gap between proprietary so-called state-of-the-art and where open source is just has continued to narrow and narrow and narrow and
+12:5312 minutes, 53 secondsarguably with Kimmy K2 thinking we're now in a world where even open source is now like ahead of where these kind of proprietary models are. And so I kind of
+13:0213 minutes, 2 secondswant to start with like a note of kind of um sober assessment. Uh it's very easy to be like open source has won, you
+13:1013 minutes, 10 secondsknow, open source is the best and now has conclusively destroyed, you know, anthropic and open AI on its way to world conquest. Um, but it strikes me
+13:1913 minutes, 19 secondsthat there's still we should have a little bit of hesitance and talk a little bit about like what remains to be done. Like what are still the frictions
+13:2713 minutes, 27 secondsthat are getting open source preventing open source uh from being as big of a deal as we we hope it will be.
+13:3313 minutes, 33 secondsI love hearing that 2025 is the year of open source. Um, and you know, when I hear open source in the AI context, um,
+13:4213 minutes, 42 secondsmy thought process is always to try and figure out what the person using that phrase actually means by open source. I
+13:4913 minutes, 49 secondsthink AI for better and worse is still being talked about primarily from the context of models and models being the
+13:5813 minutes, 58 secondskernel that makes it all tick. Uh, also suck up a lot of the oxygen in the discussions. Um to your question about
+14:0714 minutes, 7 secondsthe sober reality of it, open source uh has maybe a branding problem in this uh
+14:1514 minutes, 15 secondsbranding is maybe not the right word, a packaging problem. So if if you go to any of the uh package solutions out
+14:2214 minutes, 22 secondsthere that are available for purchase or free trial, you're interacting with a whole stack of software. And I think I mentioned this on an earlier episode of
+14:3114 minutes, 31 secondsuh Mixture of Experts this year, but um the real things that are driving
+14:3914 minutes, 39 secondsuser success and joy are actually in my opinion mostly at the software and user
+14:4614 minutes, 46 secondsexperience layer and the quality of the model is enabling those. So the models need to keep coming along, but what
+14:5414 minutes, 54 secondsyou're really getting joy out of is the things that the application is doing with that model. Um, you know, the the
+15:0115 minutes, 1 secondexample for me in my not professional life is my my son loves drawing his own Pokemon cards and the fact that in
+15:0915 minutes, 9 secondsGemini I can go take a snapshot of a sketch he did. he's seven and a half in second grade and it can turn that sketch
+15:1715 minutes, 17 secondsinto a beautifully rendered Pokemon card for him is so cool. And uh you know it's
+15:2415 minutes, 24 secondsgetting my second grader hyped about using AI uh that has very I mean there's a great model behind that. That's the
+15:3215 minutes, 32 secondsnano banana model. However, the UX of being able to do this all from my phone while you know waking up on a Saturday
+15:4115 minutes, 41 secondsmorning um and presumably with a whole bunch of guardrails in the middle and actual software that's making sure that that Nano Banana model is running the
+15:4915 minutes, 49 secondsright number of generation loops and etc etc. Um it's a whole system at play there. So bringing this back around to
+15:5615 minutes, 56 secondsyour question um opensource has all the bits and pieces.
+16:0316 minutes, 3 secondsIt has probably better bits and pieces in almost every single category of the logical architecture of these systems,
+16:1116 minutes, 11 secondsbut there is not yet a de facto standard way or even a collection of deacto standards ways to pull them all together
+16:1916 minutes, 19 secondsin 5 minutes to something that is going to achieve that same level of user experience and joy that you're going to
+16:2616 minutes, 26 secondsget with a closed source solution. Um so you know my view of what's been happening over this year uh if you call
+16:3316 minutes, 33 secondsit the year of open source is that those patterns and those slots in the logical architecture have been getting refined right uh you know we used to think about
+16:4216 minutes, 42 secondsan agent at the beginning of the year as just like a bunch of code that uses an LLM. they have a much crisper view of what an agent is today and what a tool
+16:4916 minutes, 49 secondsis today and how they work together um and where uh the you know the slots are around that tool that need additional
+16:5816 minutes, 58 secondsyou know code. So that it's a complicated software architecture to put together a a gentic AI system and uh a
+17:0617 minutes, 6 secondslot of people have started to try to take stabs at how do you actually instantiate that with pure open source.
+17:1217 minutes, 12 secondsUm and it's just it's not quite there yet and settled like it's not a done deal yet. So I think uh there's still a
+17:2017 minutes, 20 secondsbunch of catching up to do in terms of just the the finalizing of this is this is what it means to build an agentic AI system with open source parts. this is
+17:2917 minutes, 29 secondshow it looks in closed source parts. Um they're logically the same thing and you too can have this on your phone running in a matter of minutes, right? We're not quite there yet.
+17:3817 minutes, 38 secondsAnd I think that orchestration bit is uh is really interesting because I guess it's also been in some ways kind of like
+17:4617 minutes, 46 secondsa traditional open source weakness in some sense, right? Which is basically that like lots of people in open source don't like to have to be forced into
+17:5417 minutes, 54 secondssome kind of architecture. They want to kind of take all the components and piece it together themselves. Absolutely.
+17:5917 minutes, 59 secondsUm, yeah. And also the other one is all the other all the various bits and pieces are designed by different communities with different types of standards. So it's also really hard to build that as well.
+18:0918 minutes, 9 secondsYeah. As an open source tinkerer, this is super fun, right? I I enjoy that stuff, but that's also not going to that that's a me problem. That's not a the
+18:1818 minutes, 18 secondsrest of my [laughter] family, let alone the rest of the world problem, right?
+18:2118 minutes, 21 secondsYeah, that's right. And which has I think accounted for like open source, right? obviously being like very successful in certain domains but but not others. Do you think that'll kind of
+18:2918 minutes, 29 secondsbe the case here as well where it turns out in 26, right, we're going to start to see like what are the kinds of, you know, alignment of stars that allow you
+18:3718 minutes, 37 secondsto actually have that kind of like common, you know, call it middleware or whatever, right? Like these slots where all the bits and pieces can plug in. Um,
+18:4518 minutes, 45 secondsbut like that will only really happen in some domains and it might not even happen in say consumer, right? or or do you feel like you're more of um an optimist like you feel like oh yeah we
+18:5318 minutes, 53 secondsactually will be hitting on these across the board across the use cases where AI might appear.
+18:5918 minutes, 59 secondsA couple of answers to that right so I think um from a consumer standpoint I suspect that we will see a high quality
+19:0719 minutes, 7 secondsopen-source generalist agent of some variety emerge that is paired with open- source models and sort of a full open
+19:1619 minutes, 16 secondstop bottom stack. I suspect that that will happen next year. Like I don't think we're very far off from that. Um and in fact I suspect that that will
+19:2319 minutes, 23 secondsprobably be something that you can almost pick and choose like the level of quality you want that fits on your device that you want to run this thing on. Um but uh it still won't hit par
+19:3319 minutes, 33 secondswith the closed source labs just scale right like uh you know it's hard to run those big models even the open ones that
+19:4019 minutes, 40 secondsare extremely big. I couldn't run one of them. uh and I'd need a whole, you know, cloud to run them on. So I might as if
+19:4819 minutes, 48 secondsI'm already, you know, delegating out to a complicated piece of infrastructure for a model of that size, might as well just use one that's already hosted for
+19:5619 minutes, 56 secondsme. Um unless there's a security sensitive nature that that has to hit there. But but I suspect we'll see it all come together. The other thing that
+20:0420 minutes, 4 secondsI think we will see in the open is that the developer patterns will refine,
+20:1220 minutes, 12 secondsright? So we will we'll end up with um a much cleaner story when told to go build an agent that does X Y and Z and solves
+20:2020 minutes, 20 secondsthis problem. Um you know we already have a handful of the most popular things that sit at that framework level.
+20:2820 minutes, 28 secondsUm but we don't necessarily have good instantiations of how to plug that together with the guardrails at the right points and the tools at the right
+20:3620 minutes, 36 secondspoints with the right security models with the right you know it's getting there. Um I think that those things will will shake out to you know a collection
+20:4520 minutes, 45 secondsof de facto standards both like interface standards but also implementation standards for different domains. Um so I think we're going to
+20:5420 minutes, 54 secondssee progress here. Um and I I I really think it's a it's a it's a two-sided world. Like I don't think one is going to win against the other. I know
+21:0121 minutes, 1 secondhearkening back to you know operating system wars. Um, you still don't see very many everyday users walking around
+21:0821 minutes, 8 secondsrunning Linux on their laptops. Um, but Linux is everywhere. It's running all of our servers. It's underpinning our
+21:1621 minutes, 16 secondsAndroid devices. It's uh, you know, Unix. Uh, variants thereof are underpinning our our MacBooks. Um, so I
+21:2521 minutes, 25 secondsthink many of these frontier labs are almost certainly building with open source components to build their perfectly crafted agentic systems that they're exposing as models. Um, so I
+21:3421 minutes, 34 secondsthink it's going to follow that same trend where we have the bits and pieces out there in the open. We have really
+21:4121 minutes, 41 secondssolid solutions purely in the open. Uh, and then we have better solutions in the closed that are people are making money
+21:4921 minutes, 49 secondsoff of. Um, and those things will continue to evolve.
+21:5221 minutes, 52 secondsYeah, I like that a lot. Well, cause for optimism. Uh, I was saying that uh I think 2025 was the year of open source.
+21:5821 minutes, 58 secondsMaybe it will just turn out that 2026 is also the year of open source. Um, so, uh, Gabe, thanks for joining us. Always the year of open source.
+22:0422 minutes, 4 secondsIt always Yeah, it's always been the year of open source.
+22:0722 minutes, 7 secondsNothing exists without open source. It's just a question of how you get it.
+22:1022 minutes, 10 secondsThat's right. Um, but, uh, Gabe, thanks for joining us and appreciate, uh, your predictions. Absolutely. Thanks.
+22:1622 minutes, 16 secondsThank you,
+Chapter 4: Kaoutar: AI hardware in 2025 and predictions for 2026
+22:1822 minutes, 18 seconds[music]
+22:2022 minutes, 20 secondsKar. Thanks for joining us for a few minutes of chat. You know, as we get to the end of the year fore, we're asking all of our guests to do some
+22:2722 minutes, 27 secondspredictions. Maybe just to start, let's do a little bit of a year in review. I mean, from your perspective in the world of AI hardware, what were the big
+22:3522 minutes, 35 secondsstandout stories for you this year? Like what really, you know, when you look back on the last 12 months, we'll say like, oh, you're going to remember 2025 for this.
+22:4222 minutes, 42 secondsYeah, that's a great question. I think there's a lot to unpack for 2025.
+22:4722 minutes, 47 seconds[laughter]
+22:4822 minutes, 48 secondsI think 2025 was kind of the year where demand outran supply chain. Um and uh so
+22:5822 minutes, 58 secondswhat we saw is basically 2025 kind of cemented what we already sense you know towards the end of 2024 AI hardware
+23:0623 minutes, 6 secondsscarcity became kind of a structural constraint here uh not kind of a temporary thing. So even with Nvidia's
+23:1323 minutes, 13 secondsrecord shipments and the rise of any kind of GPU any GPU is better than no GPU uh compute you know demand you know
+23:2123 minutes, 21 secondsfor LLMs multimodels video models aentic workflows you know really grow faster than what you know the fabrication
+23:2923 minutes, 29 secondscapacity can do. So I think for the first time here companies you know kind of be began optimizing kind of their
+23:3623 minutes, 36 secondsentire business strategy around compute availability rather than model capability. So that's kind of become so important.
+23:4323 minutes, 43 secondsYeah. Because we like literally ran out of compute basically.
+23:4623 minutes, 46 secondsYes. Yes. And and I also felt that kind of the AI hardware kind of diverse in two worlds. There is the kind of the
+23:5423 minutes, 54 secondsscale up and the scale out. So um so when we talk about scale up we're talking about these super chips like the
+24:0024 minutesH200 the B200 the GB200 you know these massive clusters uh cerebrass uh you
+24:0824 minutes, 8 secondsknow uh you know AWS tranium inferentia Google action TPUs and then the scale out which is more edge local kind of
+24:1724 minutes, 17 secondswhere we saw things like deepsek optimizations quantization breakthrough breakthroughs um things like 1 to three
+24:2524 minutes, 25 secondsbillion edge capable models kind of the rise also of these small LLMs and also heterogeneous compute for example with
+24:3224 minutes, 32 secondsthe Apple neural engine the Qualcomm uh uh the NPUs so it seems like it was kind
+24:3924 minutes, 39 secondsof a divide uh in LLMs uh frontier labs prioritize you know these huge clusters
+24:4724 minutes, 47 secondsbut enterprises you know and nations they try to prioritize efficiency sovereignity and control yeah I mean I think that's going to be the big trend Where do you think we're
+24:5524 minutes, 55 secondsgoing to go in 2026? I mean, are we going to resolve this supply constraint?
+24:5924 minutes, 59 secondsWhat do things look like? You think when we're talking say December 2026? Yeah, I think that's going to continue.
+25:0625 minutes, 6 secondsSo, and I feel like 2026 will be kind of the year of frontier versus efficient model classes. We started even seeing
+25:1325 minutes, 13 secondsthat with Kim K2. Um so because a lot of the models assume infinite compute and
+25:2125 minutes, 21 secondsso it it seems like I think we will see things kind of frontier kind of two 2.0
+25:2725 minutes, 27 secondsO models where we're talking about one to five3 parameters everywhere long context multimodels etc still huge
+25:3625 minutes, 36 secondsmodels but also the efficient uh models where we're talking about between maybe half billion uh or you know 250 million parameters to 20 billion parameters.
+25:4725 minutes, 47 secondsThey're hardware aware. They're sparse. They're quantiz quantization friendly.
+25:5125 minutes, 51 secondsThey're capable of running on modest accelerators. And why? because here we can't really keep scaling compute. So
+26:0026 minutesthe industry really must scale efficiency instead. That's becoming really important direction and I think that's going to become even more like a
+26:0726 minutes, 7 secondsbig focus in 2026. Another thing I think AI edge uh will will uh go from hype to
+26:1426 minutes, 14 secondsreality. So, of course, we still have a lot of, you know, things happening in the the edge, but running a frontier, we're talking about, you know,
+26:2126 minutes, 21 secondsgenerative AI. Running a frontier model on your phone is still a fantasy. But running like a 10 billion model locally
+26:3026 minutes, 30 secondswith maybe 4-bit quantization and using things like flash attention, uh, these optimized kernels, it is feasible.
+26:3926 minutes, 39 secondsSo there's a lot of drivers behind this things like you know maybe Apple Qualcomm Samsung NPU you know changes at the level of the model architecture you
+26:4826 minutes, 48 secondsknow looking at you know hybrid architectures like the the Mamba 2 with the transformers new architectures are
+26:5526 minutes, 55 secondsemerging that are um kind of prioritizing efficiency constraints and edge constraints the other big question of course on
+27:0227 minutes, 2 secondseverybody's mind when you talk AI hardware is Nvidia [laughter] um you know I think we've seen a lot of kind of interesting developments over
+27:1027 minutes, 10 seconds2025 of people you know obviously still dependent on using Nvidia platforms but increasingly also experimenting elsewhere right I mean between the
+27:1927 minutes, 19 secondsannouncements on anthropic and I think openai you know in the last you know few months even have all kind of indicated that you know they're exploring what they can do with TPUs right they're
+27:2827 minutes, 28 secondsexploring what they can do with AMD do you think 26 will still be a very kind of like Nvidia dominant year or do you feel like this is like the year where
+27:3627 minutes, 36 secondsmaybe there's a little bit of an inflection point in the compet competition in that space.
+27:3927 minutes, 39 secondsI think of course 2026 won't scale. The GPUs are still going to be you know important but it will challenge their dominance. Um I think we will see maybe
+27:4827 minutes, 48 secondsearly ASIC based LLM accelerators in production increased adoption of chiplet based designs. Um maybe some first
+27:5627 minutes, 56 secondsproofs of um proof of concepts of analog in memory accelerators um quantum assisted optimizers for model
+28:0528 minutes, 5 secondscompression and chip design. uh some also real commercials use of hybrid digital analog inference. So GPUs I
+28:1328 minutes, 13 secondsthink is still going to be remain king but I think a new generations of challenges will continue to mature.
+28:1928 minutes, 19 secondsWell Katar we'll have to keep you we'll keep posted on this um and uh we'll be looking to see how these predictions play out over the next 12 months.
+28:2628 minutes, 26 secondsI hope so. Yeah, we'll see what holds and what doesn't. And I think another thing that might also be start playing is the rise of specialized chips for
+28:3428 minutes, 34 secondsagentic workloads. Um because agents change everything here. They're long running. They require memory persistence. They operate in these
+28:4228 minutes, 42 secondsmultimodel streams. They need, you know, GPU, CPU, NPU, a lot of coordination. So maybe a new class of chips, what we call
+28:5028 minutes, 50 secondsagent processors can start to emerge here that are focused on these context persistence um low latency reasoning,
+28:5928 minutes, 59 secondsfast planning loops, multimodel token streaming, energy efficient scheduling um and this is you know where for
+29:0729 minutes, 7 secondsexample uh IBM style data flow architectures will really shine.
+29:1129 minutes, 11 secondsThat's great. Well, we'll definitely have to keep you on the show to talk more about it and um thanks Katar for your predictions. Thank you.
+Chapter 5: Aaron & Abe: Multimodal AI and modular model orchestration
+29:1929 minutes, 19 seconds[music]
+29:2129 minutes, 21 secondsAaron Abe, thanks for joining us. Uh, so you're here to talk a little bit about sort of the present and future of
+29:2829 minutes, 28 secondsmultimodal in these models. Um, and I guess Aaron, maybe the easiest way to is to start with you. You know, you've done a bunch of multimodal work this year
+29:3729 minutes, 37 secondsaround sports is kind of my understanding. And I guess the question is like just in your own work looking into 2026, what are you excited for? How do you think the capabilities will open
+29:4629 minutes, 46 secondsup? Are there things that you want to experiment with?
+29:4829 minutes, 48 secondsYeah, I mean it's it's incredibly important to have, you know, these types of generative, you know, models be multi-ensory. So they can interpret our world and the way that we we interpret
+29:5629 minutes, 56 secondsit and see signals that maybe we can't, right? And these multimodal models are enabling agents to perform this type of contextual computing and maybe even
+30:0530 minutes, 5 secondseffective computing so that they can better understand our emotions, how we're feeling, what we're doing, right?
+30:1130 minutes, 11 secondsAnd um I think you know looking towards the future you know we're going towards these neuromorphic you know reasonings where it's like these systems that mimic
+30:1930 minutes, 19 secondsthe structure and function of how we are right so so these multimotive models are going to be able to see hear and read
+30:2830 minutes, 28 secondseverything right and then then these models will be able to perceive and act in a world much more like a human so they'll be able to bridge language
+30:3630 minutes, 36 secondsvision and action uh all together and I think you In the near future, we're going to start seeing these multimodal
+30:4330 minutes, 43 secondsdigital workers that can autonomously complete, you know, these different tasks to interpret things, maybe even like complex health care cases, right,
+30:5130 minutes, 51 secondsto to help that problem, right? Um, and then another area that I think it's going to emerge is is multimodal models are going to start running on these um
+31:0031 minuteshybrid topologies, right? So, it's going to be like these combinations of transformer state space models, right?
+31:0631 minutes, 6 secondsSo, so, so in net it'll make them more efficient and performant at the same time. So, it's like the best of uh both worlds, but but I'm really excited just
+31:1531 minutes, 15 secondsabout the about the potential uh that that we have and to watch how some of today's models like Meta Lava, IBM's
+31:2231 minutes, 22 secondsGranite Vision, Nova, uh Dolly, you know, you know, so on and so forth, um how they're going to change, right, and and merge to make, you know, this multimodal uh experience better for us.
+31:3331 minutes, 33 secondsYeah, absolutely. Um, and yeah, I think where kind of agents meet multimodal will be really interesting because it'll just really expand the kinds of problems
+31:4031 minutes, 40 secondsthey can work on. Abe, for your work with Granite, you know, it seems like multimodal is becoming more of a standard thing that all kind of open
+31:4831 minutes, 48 secondssource provide model creators are just building in by default. Um, you can do you think that's going to become more of a norm in 26 that essentially everybody
+31:5631 minutes, 56 secondswill just expect out of the box that there'll be some multimodal capability for these models?
+32:0032 minutesUm, I mean in short, yes. But I think what multimodal will mean may shift a little bit in terms of just out of the
+32:0832 minutes, 8 secondsbox performance. Um, specifically for granite, I think what we're really trying to focus on is modular multimodal
+32:1532 minutes, 15 secondscapabilities. So there's the idea behind being able to, let's say, take a um a number of different models or adapters
+32:2432 minutes, 24 secondsand using them as a um, you know, a network of models to be able to carry out a use case. So if you do have a you
+32:3332 minutes, 33 secondsknow a situation that requires you know audio image as well as some workhorse LLM in
+32:4132 minutes, 41 secondsplace of having an omni model that supports each of them but maybe not best of class you'd be able to tie them
+32:4832 minutes, 48 secondstogether as part of a um you know function or as part of a workflow where you can call each capability as needed.
+32:5632 minutes, 56 secondsSo, one reducing your actual footprint given some of these adapters are quite lightweight, you know, the Laura or Aurora adapters, but also kind of
+33:0433 minutes, 4 secondscapitalizing on a more state-of-the-art model given you actually are using a kind of uh a focused capability as
+33:1233 minutes, 12 secondsopposed to, you know, some of the more, you know, jack-of alltrade style models.
+33:1733 minutes, 17 secondsSo, what we're really trying to focus on is modularity through um orchestration, if you will. um really doubling down on
+33:2433 minutes, 24 secondson being able to wrap software around these use cases so that you know you can not only let's say use um you know
+33:3133 minutes, 31 secondsmultimodal capabilities but let's say you have specific you know certainty checks that you want to do with on output and then you know maybe rewrite
+33:3933 minutes, 39 secondsyour prompt because it didn't align with the actual request as needed and then you know maybe you want to reference the summary as part of your pipeline. So I
+33:4833 minutes, 48 secondsthink it's a little bit more about you know obviously multimodal is at the center of it or at least being able to enable multimodal but it's using
+33:5733 minutes, 57 secondssoftware orchestration to be able to tie a lot of these models together so you have more of like a world view of uh uh
+34:0534 minutes, 5 secondsin place of of kind of like a static monolithic model.
+34:0834 minutes, 8 secondsYeah. Yeah. So, so Abe um some some something uh that you mentioned u was Allora, right? And and being able to take in, you know, different functions
+34:1734 minutes, 17 secondsand plug it in, you know, and and and it's almost like having different skills, right? And you and you um Yeah.
+34:2434 minutes, 24 secondsAnd and within sports, you know, lots of what I'm doing today is I'm putting in vision skills, you know, um I'm putting in, you know, different types of speech
+34:3234 minutes, 32 secondsto text skills. Um, but I think it's also important in the future to have this human in the loop AI so that the human can fine-tune and change the skill
+34:4134 minutes, 41 secondsthat's necessary to do the job at the right time to have the best kind of accuracy that we're looking for because I have noticed and and today's models
+34:4934 minutes, 49 secondsthat you know they're they're quite big you know um to be able to for example take in a you know a fulllength video
+34:5734 minutes, 57 secondsyou know which you know might be of you know one gig size but you got to chop it up feed it in the But there's a lot of hallucinations that
+35:0535 minutes, 5 secondscan happen. Um, it might not even even with prompt tuning, it might not be able to pick up the exact kind of contextual cues. So, example, in golf, it may not
+35:1435 minutes, 14 secondsbe able to pick up, you know, where the ball lands precisely. Is it going to be in the bunker? Is it on the green second cut? Is it in the margin? Is it in the
+35:2135 minutes, 21 secondstrees? Right? Um, but it might just generically just describe what the landscape is and it's not focused around the particular action point that we're
+35:2935 minutes, 29 secondslooking for. So having this human end in and the loop and and and using these Allora type adapters that you can just plug in, I think will really help to
+35:3835 minutes, 38 secondschange what the focus is on on the attention levels, you know. So so so I do think that that's an area that's that we're going to see um to help us, you
+35:4635 minutes, 46 secondsknow, use these types of models better, right? And in the future to align it towards the use cases that we're trying to work on.
+35:5235 minutes, 52 secondsYeah, for sure. Abraham, maybe a final question to you as we get into 2026. I mean multimodal uh there's a lot of modals and so I'm kind of curious about
+36:0036 minutesif there's particular modals you think are uh modes rather that you think are more interesting obviously there's a lot of excitement about image but you know
+36:0736 minutes, 7 secondswhat do you think about video audio of course is maybe less in the picture like what are the kind of multimodal sort of like uh capabilities that you're most
+36:1536 minutes, 15 secondsexcited about so yeah image of course but even within there I think we can break it down where you know our focus is really enterprise images so um you
+36:2336 minutes, 23 secondsknow complex tables complex charts complex workflows. I think we're really starting to look into computer use. So, being able to maybe extend control of
+36:3236 minutes, 32 secondsthe model to, you know, screen so that they can capture images and be able to kind of carry out activities. Audio is also a huge component of the granite
+36:4036 minutes, 40 secondslandscape. You know, our granite speech model um is, you know, some one of the best performing models as far as as part of like audio speech recognition on, you
+36:4936 minutes, 49 secondsknow, our OCR bench. Um and then we kind of double click into vision after that.
+36:5436 minutes, 54 secondsthough you know KBP extraction so key value pair extraction which is very you know um top of- mind use case for a lot of enterprises that want to take
+37:0237 minutes, 2 secondsdocuments and pull data and pump it into a database so that they can use for downstream rag tasks. Um vision embedding as well is really big for us
+37:1137 minutes, 11 secondsfor rag pipelines kind of flattening the curve or flattening the pipeline as part of you know rag use cases. Um so for for us I think from the multimodal
+37:1937 minutes, 19 secondsperspective we're less focused on um text in image out I think that's just not a space that IBM um really wants to
+37:2837 minutes, 28 secondsuh play in given you know the hyperfocus on you know enterprise use cases um but but yeah I think 2026 for us is going to
+37:3637 minutes, 36 secondsbe really focused on kind of one building out the ecosystem of our multimodal models and then really understanding you know where is the best
+37:4437 minutes, 44 secondsplace to use these models and showcasing that as part of our recipes, um our temp our um sorry our notebooks as well as just providing guidance to customers and
+37:5337 minutes, 53 secondsconsumers on what when to pick the best model and then building exactly what I mentioned earlier is like the orchestrational layer around like you know how do you start to use these
+38:0038 minutesmodels as part of uh more of a a system as opposed to standalone and what are some of the cool things that you can start to do with these models when
+38:0938 minutes, 9 secondscombining them or chaining them you know with other granite models or third party models well we'll keep an eye on it uh Aaron Abe thanks for joining us and uh we'll
+38:1738 minutes, 17 secondssee how some of these predictions play out in 26. Uh thanks for coming on the show. [snorts] Thanks for listening. We're excited to have you along for the ride this year [music] and join us next week on Mixture of Experts.
+
+Sync to video time

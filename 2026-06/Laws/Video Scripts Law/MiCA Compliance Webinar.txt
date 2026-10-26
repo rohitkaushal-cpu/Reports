@@ -1,0 +1,1559 @@
+
+Search in video
+0:00
+[Music]
+0:24
+okay so I suppose everyone who wanted to join today already here so I suppose
+0:33
+we can start so yes so good afternoon everyone
+0:38
+we welcome you uh for today's webinar about the ma
+0:44
+requirements and general ma compliance for the uh crypto industry in the
+0:49
+European Union for from now actually and we are thrilled to have you join us uh
+0:57
+as we explore these requirements today uh so before the U dive into our
+1:05
+discussion uh I would like to introduce our uh speakers for today uh so the
+1:11
+first one will be alexos uh legal professional at Icon partners and
+1:18
+faceful web 3 Guru he will be sharing um insights on classification of crypto
+1:25
+assets and Global me applicability and the next one we have
+1:31
+uh vladis dansky also leg professional icon partners and he'll bring a wealth
+1:37
+of knowledge in Regulatory Compliance so he will be focusing on distinction
+1:43
+between different um players according to M uh also please note that we will have
+1:49
+a QA session uh after the main part uh of the webinar so feel free to send your
+1:56
+questions uh in the chat during the web and we will be happy to answer uh all
+2:04
+relevant questions after the webinar so I suppose now we can start and uh let's
+2:12
+move forward so Alex please yeah hi everyone nice to meet you
+2:20
+uh so thank you Andre as Andre said today we will observe uh some issues
+2:26
+regarding the new me regulation Within the European Union uh its applicability
+2:32
+scope of Regulation and some requirements to those uh who wants to
+2:38
+deal on the crypto Market in the European Union so first of all let's
+2:44
+start uh with the main question what is MAA uh what is the scope why in
+2:50
+generally we need to know about this regulation first of all uh MAA establishes a single unified legal
+2:58
+framework for crypto asset regulation across European Union member states and aiming to replace uh the diverse
+3:05
+National laws with cohesive policy so that mean that M regulation uh by its
+3:12
+nature is regulation which is applicable directly within each member state of
+3:18
+European union and it will let's say substitute um the single regulations uh
+3:26
+which are now inforce in those member States as for significance of this
+3:33
+regulation uh it is necessary to say that M represent a significant step
+3:38
+towards standardizing crypto regulations in the European Union promoting healthy
+3:44
+competition enhancing transparency and providing Clarity and certainty for Market participants uh though it int uh
+3:53
+introduces additional obligations for uh actors and participants on the crypto
+3:59
+Market in the European Union so also the
+4:04
+main aim of this regulation is to support Innovation and Fair competition
+4:10
+uh while ensuring a high level of protection for retail holders of crypto
+4:16
+assets and of course the Integrity of crypto asset markets within the European Union that's why MAA establishes a
+4:24
+uniform requirements for the public offer and admission to trading on a
+4:29
+trading platform of crypto assets other than asset reference tokens uh also
+4:35
+asset reference token itself and E money tokens uh so the next one I suppose we
+4:42
+need to pay attention to the applicability of MAA and also the uh
+4:47
+time frame and timeline for MAA implementation uh in general MAA were
+4:54
+signed in 2023 uh with partial implement ation
+5:00
+early in June 2024 which means this year approximately two months ago
+5:08
+so uh and uh the full uh enter into force will be on 30th December
+5:16
+2024 uh by the way uh if we are talking about the early implementation there was
+5:23
+uh implementation of two parts significant Parts considering their
+5:28
+scope of Regulation and it refers to the asset reference tokens and to the e-money
+5:36
+tokens uh also it is necessary to mention here about the implementation
+5:42
+and the force of M regulation M fatures and Innovation authorization mechanism
+5:48
+allowing a license obtained in one me EU member state to be valid across all
+5:53
+member state so which means that uh in case for example service provider obtain
+6:00
+a license in the whole member State they can deal with this license within the whole European Union so the next part uh
+6:08
+we need to take to pay attention to the uh scope of Regulation and uh in let's
+6:16
+say it will consist of two main questions first of them who does makea apply
+6:21
+to here is necessary to mention that this regulation applies to natural and
+6:28
+legal persons and certain other undertaking that are engaged in the
+6:33
+issuance offered to the public and admission to trading of crypto assets or
+6:39
+that provide services related to the crypto Assets in the European Union so
+6:45
+considering this definition we can uh see the main actors and there are uh
+6:53
+crypto asset service providers which means entities providing one or more uh
+6:58
+crypto asset service and we will discuss them a little bit earlier also issues it's in general
+7:06
+natural or legal persons or uh other undertakings who itself issuing uh
+7:12
+crypto assets and offers uh sometimes and I
+7:17
+suppose in more cases it will include uh issues so those entities who offer
+7:24
+crypto assets to the public so also uh while we're talking
+7:30
+about uh these uh three main type of factors and especially as for issuers
+7:37
+and offerers it is necessary to mention that um considering the type of crypto
+7:44
+assets which they may issue or offer they there are may be different
+7:49
+obligations and different rules which will be applicable to those actors uh
+7:56
+but also uh as for MAA uh as we know they uh this regulation excludes certain
+8:05
+uh like actors and a certain type of relations uh now we are talking about
+8:12
+notable exclusions from this regulation and it refers to the following one so M
+8:18
+will not apply to the uh person who provide crypto Asset
+8:24
+Services exclusively for their parent companies uh or for their own
+8:29
+subsidiaries for example and Etc uh mro regulation also uh doesn't apply to the
+8:38
+uh certain financial institutions like for example European Central Bank and
+8:43
+National central banks and also to the public International organizations but uh the mo one of the
+8:51
+most significant uh significant exclusions here are decentralized
+8:57
+exchanges so uh according to the text of M regulation
+9:03
+there is stipulated that M regulation shall apply to the uh relations where
+9:11
+the certain intermediaries involved for example crypto asset service providers which in fact provide the services
+9:17
+something like custody Services let's say or exchange services but in the
+9:24
+situation uh where we have a fully decentralized uh relations for for
+9:29
+example those which govern through the smart contracts only and in full fully
+9:35
+decentralized manner MAA will not apply here uh so the next Point uh
+9:43
+consider the uh type of assets which will be regulated under the M regulation
+9:51
+first of all of course we understand that uh MAA will uh regulate the crypto
+9:58
+assets which Define according to MAA as a digital representation of a value or
+10:04
+of a right that is able to be transferred and stored electronically using distributed Ledger technology or
+10:11
+similar technology and here it is necessary to uh pay attention to the three main types
+10:20
+of uh crypto assets which are uh let's say defined classified according to the
+10:26
+me the first one will be electronic money tokens uh such tokens defined
+10:32
+similarly to electronic money under uh certain directive which is already
+10:37
+applicable in the European Union and uh so they may be used and uh first of all
+10:46
+they are intended uh for payment purposes and provide holders with a
+10:52
+claim against the issue for Redemption at par value of those tokens Can you
+10:58
+please provide some examples of maybe for us uh yeah sure so one of the most
+11:06
+significant and notable examples here will be uh usdc which is the stable coin
+11:13
+issued by uh Circle I'm sure that uh a lot attendant here know about that and
+11:21
+about this uh token um the rather interesting thing is that this token it
+11:28
+was uh already uh let's say licensed uh
+11:33
+according to the m regulation because Circle they have registered their uh
+11:39
+entity uh in France and they have submitted already all necessary documents like white paper and other
+11:47
+documentation to the local authorities in France and uh uh they obtain an
+11:55
+electronic money institution license to be entitled to offer and to issue those
+12:03
+e-one tokens uh also we can mention here uh the newly uh newly represented token
+12:12
+which is uh Yuri it was uh listed on
+12:18
+binance uh approximately a month ago if I'm not mistaken so uh there are also
+12:26
+another uh Euro uh related token and
+12:31
+they are also regulated under the MAA regulation because they have registered their entity if I'm not mistaken in
+12:39
+Luxembourg and also submitted all the necessary documents uh the rather interesting thing here that uh according
+12:47
+to this second project uh which is toiz Euro in fact and electron money
+12:53
+electronic money token so uh the key let's say uh key element here they state
+13:02
+that they will submit and issue those uh Euro tokens one to one uh for Euro of
+13:09
+course but only when the customers ask them so which mean that only when
+13:15
+customer refer uh to those tokens and want to obtain those token they will accept money directly from their
+13:21
+customers in exchange for the for their tokens so in fact they want to be backed
+13:27
+uh by cash uh for each of their tokens to be issued uh if we are talking about
+13:34
+the usdc token they may use uh another model and for another uh like reserves
+13:45
+so uh another asset here will be asset reference tokens these tokens aim to
+13:51
+stabilize their value by referencing a variety of assets or rights and
+13:57
+including fat currencies to ensure regulatory coverage and uh future profen
+14:03
+against circumvention so which means that these tokens they uh their main aim
+14:11
+to be to be regulated and uh to uh refer to
+14:18
+the value not only one official currency but to the basket of value of or rights
+14:24
+which mean that it can be like a combination of certain values or rights
+14:29
+and such assets uh in fact will be tokenized and will be represented on the
+14:37
+blockchain uh so and uh another uh the third type of asset here is crypto
+14:44
+assets other than asset reference tokens and e-money tokens uh as for these type
+14:50
+of assets it's encompasses a broad range of crypto assets Beyond two previous
+14:58
+types of token and it may also include for example utility tokens but uh it is necessary to
+15:07
+be aware that according to the m regulation utility token they are also
+15:13
+uh defined separately I mean that M provides us with a um with
+15:20
+a definition of the utility token which means a type of crypto e that is only
+15:27
+intended to provide X access to a good or a service supplied by its issuer so
+15:34
+that's also like a significant um definition and significant element of
+15:41
+these type of crypto assets uh here we can also uh by the way
+15:48
+discuss the situation with usdt token uh because as far as I remember even uh
+15:56
+some months ago there was a discussions related to the um to the usdc sorry usdt
+16:05
+classification and how The Regulators will treat these tokens how usdt uh will
+16:13
+consider about these new regulations what they will do and Etc as far as I
+16:19
+remember there was even some uh news that some exchanges they uh want to
+16:26
+delete uh usdt for the customers within the European Union in case the usdt will
+16:33
+not obtain uh the approval and will not submit necessary documents because in
+16:39
+fact uh usdt in my opinion also can be classified as uh electronic money tokens
+16:46
+considering that they referring their value only to the one official currency
+16:51
+which in fact also uh USD so and here uh on the it is
+17:01
+necessary to understand that um such electronic money tokens they can be
+17:08
+backed by not only the cash or and this official currency uh the main point here
+17:14
+that uh it shall refer to the only one official currency but uh this token in
+17:21
+fact can be backed by different class of assets for example if we pay attention to the usdc uh token uh we can see there
+17:31
+that uh they are backed by uh other assets something like uh us treasury
+17:38
+bills and Etc the main um requirement here that the value of such uh reserves
+17:47
+it shall be denominated to the official currency and each time it shall be in
+17:54
+proportion one to one for to the issued amount of for tokens so but what about
+18:03
+nfts does m say anything about it yeah exactly so this is another
+18:10
+interesting point here regarding the regulation of um nfts under the MAA
+18:19
+because in fact uh MAA doesn't apply to crypto assets that are unique and non
+18:27
+non fungible with other crypto assets of course uh it is also provided in the
+18:34
+text of MAA that they will pay attention uh to the certain like uh features of
+18:43
+such tokens to uh identify whether such
+18:48
+assets they are really unique and nonf fungible or they can be um changed and
+18:56
+they can be substituted by any other uh similar asset or something like that
+19:01
+which in fact will provide the same rights uh or the same opportunities the
+19:06
+same access to I don't know maybe some services like utility tokens and Etc uh
+19:13
+and that's why they state that assigning a unique identifier to a token uh it
+19:19
+will not be an indicator of non-f fungibility of such token because uh I'm
+19:25
+pretty sure that a lot of um issuers of nfts especially if we are
+19:32
+talking about the collections in amounts of 10,000 uh nfts 8,000 nfts they may
+19:41
+have uh in fact a really identical uh
+19:46
+like picture identical rights uh assigned to those assets and the key
+19:54
+difference between them will be uh only technical which means that unique
+19:59
+identifier will be assigned to a certain nft which will allow us to identify that
+20:06
+this exactly only uh one uh let's say copy of such nft on the blockchain but
+20:14
+uh if we are talking about this situation from the point of view of
+20:20
+regulators uh in fact they will not consider it like the feature of non
+20:26
+fungibility and they will stay the no guys your tokens in fact are
+20:32
+interchangeable that's why they shall be regulated as standard crypto assets
+20:37
+according to the Mika regulation and you should you shall comply with our requirements regarding the uh issuance
+20:45
+and regarding the uh offering to the public of such crypto assets because
+20:52
+they follow the rule which also stated in the text of this regulation
+20:59
+that uh competent authorities they should adopt a sub substance over form
+21:05
+approach whereby the features of the crypto asset in question determine the classification and not uh its
+21:13
+designation by the issue which mean that uh you can State a lot of different
+21:19
+information and you can um provide a lot of different like uh arguments in your
+21:26
+marketing communication that look our tokens and our nfts in fact unique and
+21:33
+Etc but in case they will provide the same um the same rights to their holders
+21:41
+let's say the nft say not sale of nfts uh so in case your nft will entitle
+21:49
+anyone who own this nft to uh launch the note uh and to maintain the um Network
+21:58
+in fact they may consider and classify it as a regular crypto asset which shall be regulated according to the ma uh so
+22:06
+and of course as I stated previously nft is issued in large series it's also like
+22:12
+one of the markers of the fungibility of such uh nfds uh here is another interesting
+22:20
+question regarding the scope of M regulation considering the um RVA uh
+22:28
+narrative which mean the real world real world assets and considering the
+22:34
+tokenization issues because uh a lot of startups they're interested in
+22:41
+tokenizing different uh assets real world assets I mean also considering
+22:47
+some of them shares in the company uh or other rights uh which will entitle
+22:54
+someone to receive profit for example something like that uh it is necessary to
+23:00
+be rather attentive here because uh first of all MAA will not cover the
+23:09
+assets which in fact represents financial instruments deposits uh
+23:15
+pension scheme Etc so which in fact repres those uh sphere of relations
+23:22
+which are already regulated within the current Frameworks uh in the European
+23:29
+Union um just a simple example is H shares because I'm pretty sure that
+23:35
+everyone here are uh already know about the approach taken in the United States
+23:42
+by the Securities Exchange Commission where they claim it as the Securities and consider uh some tokens and um let's
+23:52
+say the scope of Rights uh which are related with those tokens as the investment contracts that's why in fact
+23:59
+consider such tokens as the Securities uh according to the
+24:04
+MAA such tokens we they will not be regulated by the MAA uh regulation and
+24:11
+MAA Provisions because in fact in case your token is classified as a security
+24:19
+uh as a financial instrument uh that's that means that it shall be regulated
+24:25
+under the existing law also under the mied uh to in this uh case and
+24:34
+to to understand how The Regulators will classify these um tokens it is necessary
+24:43
+to uh pay attention to the uh guidelines that were issued by the Asma one of the
+24:51
+regulatory body designated by MAA uh they stated that uh while classif find
+24:58
+tokens it is necessary to uh follow the following approaches first of all it is
+25:05
+necessary to pay attention on a Case by case assessment because uh consider it
+25:11
+is necessary to consider specific features design and rights attached uh to the certain crypto asset another
+25:20
+Point here is a technology neutrality uh which means that technological structure of is IR
+25:28
+relevant for the purpose of its assessment and in fact if the certain rights attached to the crypto assets
+25:36
+they are uh characterize these crypto asset as a transferable security for example
+25:42
+so such crypto asset will be considered as a transferable security and will be regulated under the relevant uh law also
+25:51
+of course it's a substance over form again because the classification of the
+25:56
+digital essage uh should take into account its actual features not just the label given by the issuer or offer and
+26:05
+also a hierarchical approach which means that if a digital asset displays more
+26:11
+features of uh Financial instrument such features should take precedent in its
+26:18
+classification and in general uh in the text of ma it is uh stated
+26:25
+that they follow the principle uh same activities same risks
+26:33
+and that's why same rules so in fact in case we will have the tokens with the
+26:38
+same features related to the other types of assets they will be regulated within
+26:44
+the existing Frameworks so here we can move forward to the next topic which will cover the
+26:52
+crypto Asset Services which are regulated uh under M regulation uh and
+26:59
+the definition of the crypto asset service providers because in fact uh crypto asset service provider means a
+27:06
+legal person or other undertaking whose occupation or business is the provision
+27:12
+of one or more crypto Asset Services uh to clients on a professional basis uh
+27:19
+and that is allowed to provide uh crypto Asset Services in according with the ma
+27:25
+which mean that they were uh licensed according to the MAA regulation in fact
+27:31
+MAA provides a rather vast list
+27:36
+of Regulation uh sorry of crypto Asset Services and uh such Services includes
+27:44
+uh providing custody and administration of crypto assets on behalf of clients
+27:50
+operation of trading platforms for crypto assets exchange of uh crypto
+27:56
+assets for funds and exchange crypto assets for example for other crypto assets also transferring of crypto
+28:02
+assets and Etc the full scope of the services covered by m you can see on the
+28:08
+screen uh in fact what is necessary to know regarding this type of services uh
+28:16
+and U the main question about the requirements M uh stipulate the general
+28:23
+requirements to all of the crypto asset service providers uh and uh it state
+28:29
+that uh they uh have certain common
+28:34
+obligations um generally three main uh obligations which is the duty to act
+28:41
+honestly fairly and professionally in the best interest of customers of course
+28:47
+also the duty to provide Fair clear and not misleading marketing Communications
+28:53
+and the duty to warnant their clients of risks related to the crypto assets um
+29:00
+moreover MAA also provides certain uh specific requirements like minimum
+29:05
+Capital requirements secure crypto assets and fund storing uh functioning
+29:11
+complaint management system and adequate uh procedures to identify prevent manage
+29:17
+and disclose conflicts of interest but in fact everything depends on the uh
+29:23
+certain type of services which you are intended to provide to your customers
+29:28
+and that's why the requirements for the certain type of services they may be uh
+29:35
+rather uh strict and they will um different uh from the other for example
+29:42
+like uh providing advices and Etc but I'm sure that my colleague vladislav
+29:49
+will tell you a little bit more about this topic considering that he uh know a
+29:55
+lot of information regarding those specific requirements depending on the
+30:01
+types of crypto asset service thank you Alexia thank you for available insights okay so we can move forward for
+30:09
+now and I want want to mention one more time that if you have any question please state it into uh the chat uh with
+30:16
+this meeting and we will answer them after the our main session so yeah okay
+30:23
+what you can continue thank you hello everyone Andre how do you hear me U well
+30:31
+actually everything fine okay so Alexi thank you very much for this interesting
+30:36
+speech it was very informative and concise and looking forward actually to implementing all those advices from now
+30:43
+on I will take a speech and um we will cover some additional questions
+30:48
+regarding crypto asset types regarding requirements for those regarding crypto asset service providers specific
+30:54
+requirements on them also we will touch on the question of transfer of funds
+31:00
+regulations and amendments and furthermore we will speak a little bit about regulators and fins on the
+31:07
+violators so as you know we are standing at a crossroad between regulation and
+31:13
+Innovation uh the governments are striving for balancing those two extremes and you may treat differently
+31:20
+the M it is not ideal but uh as my colleague has said before uh eventually
+31:27
+mik has brought the much needed Clarity furthermore it has brought the legal certainty on the most important
+31:35
+questions so now we have three main categories of regulated crypto assets it
+31:40
+is that much needed Clarity that we couldn't understand before first of all there was um there were different
+31:46
+regulations in different countries of European Union but now everything will be harmonized so those three crypto
+31:54
+asset types are are the crypto assets the most diverse and largest category
+31:59
+asset reference tokens and e-money tokens furthermore uh MAA does more than
+32:05
+just categorizes crypto asset types it provides the clarity regarding regulated activities with cry with crypto assets
+32:13
+such are issuing crypto assets offering them seeking admission to trading with some type of crypto asset and providing
+32:20
+intermediary services like crypto asset uh services so it is not just a
+32:26
+technicality as I said it is actually a foundations upon which your obligations will be built so you shall add the
+32:34
+crypto assets you will be dealing with to the regulated activities and you will get the sets of requirements which are
+32:41
+imposed on you furthermore we should remember that issuers are not equal to
+32:47
+offerers these are two different subjects and they actually have different requirements we will see it
+32:53
+further on the next slide so on this slide you may see the preliminary road
+32:59
+map for those who want issue or offer the crypto assets we will presume that person seeking admission to tra and have
+33:06
+very similar obligations with offers because it is uh it is really like so
+33:12
+under Meer so the first step you shall do uh before issuing or working with
+33:18
+crypto asset you shall understand with which crypto asset you will be dealing
+33:23
+so these are three main categories and let's reiterate it other crypto assets
+33:29
+asset reference token and e-one token after that after uh completing this
+33:36
+first pillar you shall move to the Second Step understanding your activities your main roles so we will uh
+33:43
+disregard for this step crypto asset service providers we have the uh special
+33:49
+slide for that but you shall understand whether you are an isser or offerer I
+33:55
+reiterate that person seeking admission Traden they have very similar obligations to offerers so it is the
+34:02
+second pillar on which your obligations will be built why is this important
+34:07
+because we are moving to the third step the the elephant in the room it is when
+34:12
+you shall obtain licenses and authorizations so if your first answer
+34:18
+was you are an issuer but you are not offer you don't offer or solicit anyhow
+34:24
+with the public then you don't have any requirements actually OS on you MAA
+34:30
+actually impos those requirements on offerers of other crypto assets so only
+34:36
+if you are an offerer or if you are an issuer and you are soliciting a public with your offering of crypto asset you
+34:43
+will have some requirements however I focus your attention that other crypto
+34:49
+assets they uh don't include any requirements obligations to obtain
+34:55
+licenses and authorizations there is a requirement to prepare and publish white
+35:01
+paper and publish is a consistent with white paper marketing Communications contrast this with asset
+35:08
+reference token and e-money token if you are an issuer I repeat an issuer not an offerer
+35:16
+if you are an issuer of asset reference token or e-money token you shall get
+35:21
+licenses and or be authorized for asset reference token you shall be either
+35:27
+licensed as credit institution or authorized as general legal entity which
+35:33
+is more applicable to us actually in most cases so if you want to be
+35:38
+authorized as a general legal entity you shall submit your application to home member state so you shall have a
+35:46
+registered legal entity in some of member states of European Union uh the
+35:52
+application is actually General you shall submit some general information like uh information on your legal entity
+35:59
+on your shareholders articles of Association and Etc but there are specific requirements for example you
+36:06
+shall submit which crypto asset type you will be dealing with uh furthermore
+36:11
+which functionalities it will include why it is asset reference token and
+36:16
+furthermore you shall also keep at all time I repeat at all time minimum uh
+36:23
+capital of €350,000 to be authorized as a legal entity which
+36:30
+can issue uh asset reference token there are no such requirements for offers and
+36:37
+actually uh issuers if the offer is third party for example issuer shall
+36:43
+includes any information of such offer so uh ISS shall U shall shall ensure that the
+36:52
+offer is in compliance with the m regulation why it is so you may ask because an ISS can um ensure that some
+37:02
+specific requirements are met because as you may see on the sixth step there is a
+37:07
+requirements for reserves and only an issuer can keep those reserves furthermore redeem um uh redeemed tokens
+37:16
+for actual money let's move to another question of e-money tokens we are still
+37:22
+the third step we are still on third step one second uh eone tokens
+37:28
+you also shall be an issuer and also only an issuers have obligations so you shall be licensed as credit institution
+37:36
+or e- money institution under e- money directive yes Andre yeah sorry for
+37:41
+interrupting I just want to ask if there is any exceptions for those rules yeah
+37:48
+great question thank you I almost have forgotten about it so for us crypto
+37:53
+assets there are exemptions of course but since there are are no requirements
+37:59
+again there are no requirements for authorizations or licensing requirements
+38:04
+uh there are exemptions for preparing your white paper so if you are
+38:10
+soliciting less than 150 persons per uh member uh member state of European Union
+38:17
+uh you are Exempted or if your offering is less than1 million EUR uh in the
+38:25
+previous 12 months your Exempted or third um third exemption is if you are
+38:33
+soliciting only qualified investors you will be Exempted from the requirements to prepare the white
+38:40
+paper for asset reference tokens and e-money tokens there are exemptions for
+38:46
+licensing requirements so you don't need to obtain for example authorization if
+38:53
+your offer is less than5 million EUR in the previous uh 12 months and the second
+38:59
+exemption is if you are soliciting qualified investors for e-y token the
+39:05
+exemption is if you your offer is less than5 million EUR in the previous 12 months and if you are providing those
+39:13
+services to the ground so if there are holding for example you're Exempted and
+39:18
+there are some other uh minor exemptions but they are defined in the
+39:23
+e-money directive okay moving forward to the four step white paper requirements every
+39:31
+crypto asset category demands prepar preparation of white paper there are no
+39:37
+approvals from home member states furthermore for asset reference token
+39:43
+and e-money token you shall include a disclaimer that such white paper wasn't
+39:49
+um approved by home member State uh however every uh crypto assets issue
+39:56
+offer shall prepare such um uh white paper I repeat for other crypto assets
+40:03
+it is the offerer who shall prepare the white paper for asset reference token and IM token these are issuers who shall
+40:11
+prepare white paper and for other crypto assets there are requirements there are exemptions actually from not preparing
+40:18
+such white paper uh the F step is actually making the consistent with
+40:24
+white paper marketing Communications and and Publishing them on the website there are no requirements for approval from
+40:31
+home member State and the sixth step is very specific only to asset reference
+40:37
+token and E money token since you shall keep at all time reserves with a value
+40:42
+which much must match tokens in circulation so the proportion is one to one Furthermore
+40:49
+with eany token you shall also keep a proportion of one to one and actually
+40:55
+30% of funds received from your users you shall deposit them into credit
+41:02
+institution with the right uh to invest all the other funds into low risk assets
+41:10
+this is what my colleague Alex has told us about that actually usdc is a e-y
+41:19
+token uh notwithstanding the fact that it has some reserves in governmental
+41:28
+so I propose moving forward that is all for offerers and issuers but we shall
+41:34
+cover another big player here the crypto asset service provider so first of all
+41:42
+uh actually uh requirements regarding crypto asset service providers they will
+41:48
+be in effect a little bit later so on the 30th of December
+41:54
+2024 but anyway in France uh such uh for example in France such amendments has
+42:01
+been already made so now you can um uh apply for Casp license and actually for
+42:10
+those who already have vasp license they sh they will be required to obtain the
+42:17
+Casp license from the start so wasp
+42:22
+virtual asset service provider license it does not automatically transfers to
+42:27
+crypto asset service provider so if you are not issuing crypto assets if you are
+42:33
+not offering them if you are not seeking admission to trading with crypto assets
+42:38
+but you are dealing with crypto Assets in other way for example your intermediary and for example you provide
+42:45
+custody for crypto assets you provide exchange services for crypto assets you provide some advisor advises on crypto
+42:53
+assets or the main Criterion here if you are dealing with crypto assets
+42:58
+professionally then most likely you are a Casp after this step you shall move to
+43:05
+the Second Step you should be prepared for stringent compliance and we will see
+43:10
+it with transfer of fund regulation on the first coming
+43:15
+slide why they are stringent because actually it was um uh it was taken from
+43:22
+the already existing regulations like psd2 and to so uh psd2 it actually
+43:31
+payment service directive to it actually governs payment service providers and
+43:37
+now those was those obligations were extrapolated on the casps and for
+43:43
+investment uh advisers the same thing applies the third step so why it is
+43:49
+important because actually if you we are taking payment service providers they shall have legal entity in the European
+43:55
+Union they shall be authorized or licensed and furthermore they shall keep
+44:01
+at all time the capital requirements to cover any possible liabilities because
+44:06
+they are dealing with the real monies the same applies now to casps so
+44:12
+we move to the S step it is when you shall decide in which country you will
+44:18
+have a home member State you you will have a legal entity so uh Mika actually
+44:24
+we will cover some question regarding registered office branches uh and um how
+44:30
+it applies to everything but MAA it requires registered office in an
+44:35
+European Union member state for casts uh after you have registered your
+44:40
+legal entity you shall move to the question of securing your licensing so licenses can be obtained
+44:48
+from the home member states Authority for example in Germany home member State Authority will be buff uh you shall
+44:56
+apply to them with your application by providing some general information uh as
+45:01
+is as usual is such are information or on your legal entity on your
+45:08
+shareholders U uh after that some information on your procedures with
+45:13
+anti-money laundering policies and etc etc however there are also some specific
+45:19
+requirements so depending on your activities you shall provide uh some
+45:24
+information for example if you are providing custom Services you shall provide how policies describ and how you
+45:32
+work with um funds which deliver to you and furthermore how you segregate those
+45:38
+funds of different users from each other uh furthermore there shall be some
+45:44
+general also but um specific for casps uh requirements how you deal with any
+45:50
+complaints uh how you actually uh deal
+45:56
+with anti-money laundering um regulations and which Pro procedures you have
+46:02
+implemented so it is defined very clearly at maika and um actually there
+46:10
+are even tables showing the each uh specific requirements moving forward the
+46:16
+fifth step is actually securing your initial Capital requirements as I said
+46:21
+as with payment service providers you shall cover your possible liabilities and for for casps such starts at 50,000
+46:30
+for example if you are a crypto asset advisor you shall have a minimum Capital
+46:38
+uh required from you at 550,000 and it it is actually up to
+46:44
+€50,000 EUR and um this requirements this this is required from for example
+46:51
+trading platforms that's that is all for steps there are of course additional
+46:57
+requirements as I said for custody custody policies and how you segregate each funds and Etc but we shall move
+47:03
+forward because um every General uh very important requirement has been
+47:10
+covered but now we will cover another vital I mean crucial uh Amendment which
+47:17
+actually impacts uh crypto asset service providers and these are amendments to
+47:23
+transfer of funds regulation so it is not new a new regulation uh it has been
+47:30
+existing for a long time but now with such um amendments uh this regulation
+47:40
+covers crypto asset transactions and crypto asset service providers as
+47:46
+intermediaries and Executives of those transactions they now have some obligations so first of all there are
+47:53
+four players now originator of the transaction Originators um crypto asset
+47:59
+service provider beneficiary and beneficiaries crypto asset service providers so for Originators casps and
+48:07
+for beneficiary casps there are requirements regarding validation verification of those transactions and
+48:13
+furthermore record keeping so now you shall ensure that all transfers include
+48:18
+originator and beneficiary information such as name distributed Ledger address
+48:24
+crypto asset account numbers and so you shall verify the accuracy of the provided information furthermore you
+48:32
+shall remember that actually noncustodial transactions from one one wallet of from from one non-custodial
+48:39
+wallet to another is excluded from this regulation so peer-to-peer transactions
+48:45
+are excluded but if the uh intermediary of Casp is involved then they shall
+48:51
+verify if the transaction starts from €1,000 that this selfhosted addresses
+48:57
+they really belong to those persons so uh let's move forward
+49:02
+regarding record keeping so now the cas shall keep all the records for five five years and if there are risks involved
+49:11
+then such term may be prolonged to even 10 years you should remember that these
+49:16
+transfer fund regulations will be in effect from 30th of December uh
+49:24
+2024 it will entry enter into Force let's move
+49:29
+forward uh and these were were some main obligations and requirements from
+49:35
+CPS moving forward we will talk about Regulators so you should remember that
+49:42
+the most essential regulator for you is your home m home member State Authority
+49:47
+as I said on the example for example if you are operating in Germany your home
+49:53
+member State Authority will be buffin what they do actually uh they actually
+49:59
+authorize crypto Asset Services they demand information and documents relevant to regulatory duties they
+50:06
+prohibit some crypto Asset Services upon confirm violations they publicize non-compliance by service providers and
+50:13
+they actually uh they actually find those who have violated the MAA regulation or
+50:20
+their uh applicable uh legislation but uh home member State
+50:28
+authorities are actually regulator regulated by other Regulators such includes European secur and Market
+50:35
+Authority isma and European banking Authority ebaa so as my colleague Alexi
+50:42
+has said uh isma actually it defines the direction of maika and it has a power to
+50:50
+uh issue the uh the essential recommendation
+50:57
+which are actually obligatory for most of Home member states to include them
+51:04
+and and actually to I'm sorry one second um and actually um to pay
+51:11
+attention to them because um they Define the classification and
+51:17
+difference between those crypto assets and European banking Authority it is actually very crucial since it can uh
+51:26
+Define the significant tokens and most of all
+51:31
+it actually deals with banking sphere so if you are a credit institution if you
+51:36
+are a e-money token then you will deal with European banking Authority so let's
+51:42
+move forward and speak about the last Point here about finds so you should
+51:48
+remember at each time that those uh those discussions about
+51:55
+licenses about um preparing all the policies about submission them to uh
+52:01
+your home member State they are not um something just to be said uh they shall
+52:08
+be complied with because there are severe fines so uh for natural persons
+52:15
+since investment advisor sometimes may be other undertakings incl the natural persons the fines can reach up to
+52:23
+700,000 EUR furthermore for legal entity which is uh more relevant for us all uh
+52:30
+the fins May reach up to5 million EUR or 3% of their annual turnover furthermore
+52:37
+uh for some very um severe violations the fins May reach up to 15 million
+52:44
+Euros or up to 15% of the annual turnover so the most um uh the most the
+52:53
+clearer uh finds will be drafted by the home member states authorities in the
+52:58
+applicable regulations but this is just a framework upon which those home member
+53:03
+State authorities will will be doing so let's move forward to the
+53:09
+conclusions so the main conclusions you shall make from this webinar is that
+53:15
+actually maika is more your friend of course it is not an ideal framework but
+53:20
+what it does for sure it actually provides US legal certainty regarding uh categories of crypto assets regarding
+53:28
+activities with crypto assets regarding requirements which are imposed on those who deal with crypto assets and
+53:34
+furthermore it provides Clarity regarding which licenses you shall get which authorizations you shall get and
+53:42
+provide us with an understanding who actually regulates all of that and which finds may be imposed on us for any
+53:50
+violations so thank you for attention let's move to the question and answer
+53:55
+session yeah thank you for that uh actually I want to emphasize as well
+54:00
+that uh now with M and force uh actors
+54:05
+can just get one license in one member State and do not required to uh get the
+54:11
+license uh across the union so it will be much more easier to operate in the European Union right now uh before we
+54:20
+move forward to the Q&A session I will ask about the uh
+54:27
+yeah sorry may I interrupt you so I have
+54:33
+promise touch upon uh branches and offices so you should remember that for
+54:38
+as crypto assets there is actually a requirements um to have uh different
+54:46
+actually presence in European Union so now you have may have registered office
+54:51
+actually most of legal entity in the European Union this is the first um way
+54:57
+or Branch if you are a third country company or you can provide such so you
+55:05
+can provide even without I'm sorry registered office branch or without Branch but in this
+55:14
+case you actually may provide such other crypto assets uh to
+55:20
+uh to European country residents but the whole member state for you will be the
+55:26
+company where you first has offered your crypto assets however contrast this with
+55:32
+asset reference tokens and e-money tokens those requires from you to have legal entity in the European Union and
+55:39
+furthermore as we have discussed it for crypto asset service providers you you shall have a legal entity in the
+55:45
+European Union as well however there is a possibility to provide some services to European Union residents for crypto
+55:52
+asset service providers but it is called under MAA uh reverse solicitation so
+55:58
+only if the resident of European Union has addressed to your specific Services
+56:04
+intentionally by themselves you can provide the services to them but not uh
+56:10
+like in general solicitation when you are targeting those European Union residents okay okay thank you for that
+56:18
+uh yeah so um getting back to my question so uh as a lot of people asked
+56:25
+before uh webinar what is about the transitional period so what's about the
+56:31
+situation when uh the offerer finished his offer of crypto assets uh before the
+56:38
+30 of December uh what will be the consequences for this offer is there any
+56:45
+requirements to comply with can you please clarify that
+56:51
+moment yeah for sure so if you're talking about the transitional period it is necessary to pay attention to the
+56:57
+provisions of MAA which stipulate that uh certain articles which refer to the
+57:05
+obligations of the issuers uh and offers of crypto assets other than uh asset
+57:13
+reference tokens and e- money tokens so those obligations for the white paper
+57:19
+marketing communication Etc they will not apply um in case such uh crypto
+57:26
+offering they ended before the 30th December
+57:32
+2024 but in fact uh it is necessary to
+57:37
+uh understand that still in case um crypto assets other than asset reference
+57:44
+tokens and eone tokens that were admitted to trading before the 30th
+57:51
+December 2024 they still may have certain obligations regarding the um
+57:58
+regarding the white paper and publication of the marketing
+58:04
+communication uh so that mean that even in case you finished with your public
+58:10
+offering before the 30 years of December and you are free from requirement that's
+58:16
+okay but in case your token will be or is already admitted to the uh trading on
+58:22
+the uh trading platform uh you may face with a certain requirements uh for
+58:28
+example as for white paper and marketing communication if we are talking about the crypto asset service providers uh so
+58:36
+Mika provides a two years transitional period for them uh in so in fact for
+58:42
+those who are currently dealing under the existing vasp regulations in uh
+58:48
+certain like uh member states of European Union but also uh M stipulates
+58:55
+that member states they may decide uh not to apply the transitional regime for
+59:01
+crypto asset service providers provided uh for two years yeah by Ma or they may
+59:07
+reduce the duration of such transitional regime uh and decide it uh by them
+59:16
+themselves the applicable timing and they shall uh communicate that of course
+59:22
+also to the um to the commission and to the Asma as a regulatory body so in fact
+59:29
+it is necessary to pay attention to the rules regarding the transitional period
+59:34
+for the crypto asset service providers in each member State definitely in those
+59:39
+which are you interested in or where you are now registered under the current uh
+59:45
+bus licenses okay thank you thank you for that uh okay so I suppose we can move to
+59:53
+our Q&A session uh Mr Leon you you have a question I suppose uh you can write it
+59:59
+down in the chat if you wish uh please
+1:00:07
+yeah okay uh so uh first question from the
+1:00:12
+chat is uh how maika intera with the Mii 2
+1:00:19
+um what what can you say about that so I suppose that I can start maybe
+1:00:27
+will add something after that uh in my opinion uh and considering the
+1:00:33
+provisions of MAA in fact we cannot see some intersection between these two
+1:00:39
+regulations because uh miit is a separate uh law separate act which
+1:00:47
+regulates the uh Financial Market but here if we are talking about the M
+1:00:52
+regulation it is necessary to understand and even to consider let's say the um
+1:00:58
+the name of this act markets in crypto Assets in European Union which mean that
+1:01:03
+by this act uh in my opinion Regulators within the European Union they are aimed
+1:01:10
+to establish the separate Market uh for the crypto assets which will be regulated with a certain like uh
+1:01:18
+standards provisions and requirements for the actors who want to deal uh with
+1:01:24
+crypto assets and provide provide the services within this Market because in
+1:01:29
+fact as we discussed previously in case your token uh which may be classified as
+1:01:38
+a crypto asset due to using of distributed Ledger technology blockchain
+1:01:43
+in fact yeah and will be stored uh electronically but the nature of such
+1:01:49
+asset still will be as a financial instrument or pension scheme or anything
+1:01:54
+else it will will be regulated under the existing um Financial laws and
+1:02:01
+regulations within the European Union um in
+1:02:06
+conclusion uh MAA establishes direct uh rules and
+1:02:13
+prescribes um certain like requirements to the offerers issuers uh and crypto
+1:02:20
+asset service providers who dealing exactly with the crypto assets uh according to the classification of MAA
+1:02:27
+uh at the same time uh miit it regulates already existing Financial uh Market
+1:02:35
+within the European Union including uh discussed financial instruments uh transferable Securities and Etc and um
+1:02:45
+even if certain crypto assets will be classified as um Financial instrument
+1:02:51
+let's say it will be regulated under uh the M
+1:02:57
+too okay thank you thank you I suppose that's it uh okay uh let's move forward
+1:03:04
+to the next question about the uh difference between the issuer and
+1:03:12
+offerer for example Circle Financial is the issuer of usdc but who is the
+1:03:17
+offerer I suppose the answer is pretty obvious but okay Vlad can you please
+1:03:23
+answer that question yeah I can answer this question actually uh we may uh address this
+1:03:31
+question to the white paper of the circle SAS because it is a French
+1:03:37
+company so it was actually defined there
+1:03:43
+and it is included that the issuer is Circle S and the offer is also a Circle S Al
+1:03:53
+see do you have anything to add here maybe I can add yeah to to be clear in
+1:04:01
+that actually offer can be any platform let's say which is least
+1:04:09
+usdc uh wi so for example binance will be the offer of the usdc if the usdc is
+1:04:16
+listed on binance for the European Union yeah I wanted to move here on example
+1:04:22
+actually not the usdc actually as we know the Bitcoin is most
+1:04:30
+like Daniel larer has defined it as a decentralized autonomous organization in
+1:04:35
+his case it was Corporation but in balan's case decentralized autonomous organization so there is not there are
+1:04:42
+no obvious issue of the token so uh there are no issue there are there is
+1:04:49
+nothing no there is nobody who can actually prepare that white paper and publish that so in this case uh as we
+1:04:57
+were talking about other crypto assets why actually most of obligations are falling on offers because to cover these
+1:05:05
+um existing examples like with Bitcoins and actually under article 60 68 of ma
+1:05:13
+for example bance can possibly be an offer so actually possibly they shall
+1:05:19
+prepare the white paper of the Bitcoin to list it
+1:05:26
+you may say you may find some white papers of Bitcoin so there are uh some
+1:05:33
+persons deliberately who created it for example on Research gate it was published as a scientific work uh like
+1:05:40
+uh the white paper of ban of Bitcoin so anybody who offer who is offering such
+1:05:47
+crypto assets they may use it so uh if for example one trading platform has
+1:05:54
+created the white paper for as an offer for Bitcoin other crypto platforms the
+1:06:00
+trading platforms they may use such white paper uh so yeah it is the most
+1:06:06
+essential thing here here and yeah as with usdc the issuer may be Circle SS
+1:06:15
+the offerer may be also Circle SS if it actually offers its crypto asset by
+1:06:22
+themselves to public for example from the initial coin
+1:06:29
+offering undertak undertook undertook undertaken on their website but actually
+1:06:35
+the offer also can be a trading platform thank you thank you for that
+1:06:41
+okay let's uh move forward and the next question is about
+1:06:47
+challenges that M actus May face in future money timing and unclear
+1:06:54
+regulations maybe some words about that I understand that question is pretty broad but maybe you have uh some
+1:07:02
+something to say please maybe you so yeah uh in fact if we are talking
+1:07:10
+about the challenges of course uh it depends on Case by case basis and
+1:07:16
+especially on the type of services in General on the type of activity that you are interested in and you want to
+1:07:23
+provide um but if we are talking about the uh money um
+1:07:31
+as vladislav mentioned it depends on the certain type of crypto Asset Services for example and requirements for the
+1:07:38
+issuers and offers of certain type of uh crypto asset because uh so there may be
+1:07:46
+certain requirements for the capital contribution and uh amount of the
+1:07:52
+capital of the company uh which shall provide this services and Etc that the first point another one of course about
+1:07:59
+the timing and probably about the uh maybe also money in question regarding
+1:08:06
+the obtaining licensing because um I suppose that after the full
+1:08:13
+implementation of MAA there will be rather a lot of request especially from those who uh deal under the existing
+1:08:22
+vasp regimes of course um a lot of them will be interested in obtaining their
+1:08:29
+current um approvals yeah updated approvals under the M regulation as soon
+1:08:35
+as possible that's why we may presume that there may be a lot of request to
+1:08:40
+the official authorities and Regulatory bodies in different member states and that's why so such processes that they
+1:08:47
+may take sometimes uh if we are talking about unclear regulations here is a
+1:08:54
+tricky question uh from several points of view U on the one
+1:09:00
+side we can say that wait MAA aimed to provide us with
+1:09:07
+the clear regulations and we have like definitions for the crypto their
+1:09:13
+classification and etc etc but as a lawyers we can say that from the other
+1:09:20
+hand uh everything will be uh observed through the practice and we need to
+1:09:26
+obtain some practice to understand the approaches which will be taken by The Regulators in different member states of
+1:09:33
+the European Union uh how they will uh see the classification what will be the
+1:09:40
+Precedence for example or general approach for the classification of nfts
+1:09:45
+especially those which are now trading in a lot of uh a lot serious on the
+1:09:52
+different marketplaces uh also considering those which are fully decentralized so that's why uh of course
+1:09:59
+we will have certain uh unclear like regulations but only for
+1:10:06
+the first time because I'm sure that within maybe half a year and within the
+1:10:13
+first year of the full applicability of mro Regulation we will be able to observe certain approaches and we will
+1:10:20
+able will be able to um attest certain
+1:10:25
+practice from The Regulators and it will make uh easier for us and for uh
+1:10:33
+startups to navigate through this complex regulation okay I would like to add here
+1:10:41
+that of course as we have discussed before with oy there are there may be problems with classification of those
+1:10:47
+crypto assets because as we have mentioned before there is a problem with classification sometimes of stable coins
+1:10:54
+for example of usdc as e- money token and problems with classification of usdt of course as Alexi said it looks more
+1:11:02
+like an e-y token but if you will refer to some scientific researchers they
+1:11:08
+states that it may be viewed also as an asset reference token and it actually
+1:11:13
+imposes different obligations so before issuing any tokens of course you shall
+1:11:18
+need consult with your legal assistants beforehand actually we deal with that
+1:11:25
+and furthermore talking about classifications of course it is Mid 2 regulation which actually sometimes may
+1:11:33
+um intersect with marar because the definition of um Financial
+1:11:41
+instrument under miit is very broad uh briefly saying it includes some
+1:11:47
+characteristics as transferable asset as negotiable price negotiable and which
+1:11:55
+can be traded on the capital markets so actually sometimes it may include the
+1:12:00
+crypto assets and to Del delate this you should also firstly consult with legal
+1:12:07
+expert on this so yeah I think that in my opinion the most crucial problem here
+1:12:13
+is actually classification and delineating of different types of crypto assets between each
+1:12:20
+other okay okay thank you thank you for that uh and we have one more question
+1:12:26
+about transition period as well so if one applying this year but doesn't
+1:12:32
+manage to receive a license before uh 2025 I suppose we're talking about vasp
+1:12:38
+license uh what would be the applicable rules for an applicant do we need to
+1:12:44
+apply again or will the old rules apply to these
+1:12:49
+applicants uh Alexi can you please uh yeah for sure
+1:12:55
+uh so as I mentioned previously for crypto asset service providers that provided their services in accordance
+1:13:01
+with applicable law before the 30th December 2024 they may continue to do so
+1:13:08
+until the 1st July 2026 which means um one and a half year
+1:13:15
+and they may do so uh until this date or until they are granted or refused an
+1:13:23
+authorization person to the MAA regulation which means that um you may
+1:13:30
+update your um request to the uh Regulators uh even in case you do not
+1:13:38
+obtain such uh approval before the uh full implementation of ma but in case
+1:13:45
+you will be um totally let's say uh
+1:13:51
+refused with the authorization so as provided in M regulation uh it is not
+1:13:57
+possible to provide the um the services even under the previous regime but it is
+1:14:04
+necessary of course also to pay attention to the local regulations and the transitional measures that will be
+1:14:11
+implemented implemented in certain member State because as you remember we
+1:14:16
+mentioned that uh member State countries they may uh establish their own measures
+1:14:24
+and uh may change the transitional period for example for one year half year or even
+1:14:31
+immediately yeah thank you for that exactly so if you already applied for
+1:14:37
+sure you will be need to update your application uh to be adapted to meet uh
+1:14:43
+the ma requirements for sure and to be sure that you uh understand what the
+1:14:50
+home member State Authority uh wants for from you because
+1:14:56
+the approaches may may differ across the Union in this
+1:15:02
+question uh okay so uh about the next
+1:15:07
+question next question is uh actually was asked before the uh
+1:15:14
+webinar it's about the technical measures that may be in introduced in
+1:15:20
+MAA so actually does the MAA uh in uh
+1:15:26
+introduce any technical measures uh that should be adopt by the uh crypto asset
+1:15:32
+service provider or not or if or maybe where uh we can find any technical uh
+1:15:40
+measures to be adopt uh for the asset service
+1:15:45
+provider um who may ask about the
+1:15:52
+answer so we can say that uh in general M provides the requirements
+1:15:59
+as we can see not to the technical part but M describes uh the provisions and
+1:16:06
+general approach regarding the regulations and requirements uh from the legal point of view and uh considering
+1:16:14
+the rights and obligations uh of the participants of these Market uh in fact as for crypto
+1:16:21
+asset service providers as for um as for offerers issuers and those who are
+1:16:28
+seeking admission to trading that's why we can say that uh if we are talking
+1:16:34
+about the some technical requirements they are not covered by m regulation uh
+1:16:40
+and uh there are no certain like uh prescriptions that you shall have like
+1:16:48
+certain software or something like that to be in compliance with Ma and Etc m
+1:16:55
+doesn't contain such information okay yeah further more for digital operational resilience act which
+1:17:02
+will be in effect in 20 25 so it also actually imposes most of obligations on
+1:17:08
+financial institutions so they shall ensure that all the operators the white
+1:17:13
+paper Solutions or some software developers they are they are providing
+1:17:19
+their services diligently and not introduce any bucks um intentionally
+1:17:24
+there so actually under some of Court practices in many jurisdictions actually
+1:17:30
+there is a possibility to pierce the whale and to impose sanctions on the uh
+1:17:37
+services provider who actually maybe an IT company who developed some code if it
+1:17:42
+has intentionally introduced the bux in the uh code okay yeah thank you for that
+1:17:51
+because we actually get that question from the white label service providers so yeah I suppose now they understand
+1:17:58
+that the law they should be uh should deal with will be Dora act not MAA
+1:18:07
+directly okay so uh about any other questions I suppose with
+1:18:15
+done there is no other questions um so I can see one more question in our chat uh
+1:18:22
+how stable is regulation considering the evolving nature of the crypto industry
+1:18:27
+and what Avenues exist for lobbying and what industry bodies are leading this um
+1:18:34
+here we can say I suppose only our personal opinion because uh
+1:18:40
+it's like um only the thoughts and Views
+1:18:46
+um different actors including us as a lawyers uh I can say that uh in my
+1:18:52
+opinion uh of course m is not the excellent and is not the uh act which
+1:19:00
+will cover all the issues and definitely will regulate all the relations with the
+1:19:07
+crypto assets because we can see even the situation with the defy sector yeah
+1:19:12
+but at the same time uh MAA definitely provide some clarity especially as for
+1:19:19
+um as for regulation of the crypto Market market and financial Market yeah
+1:19:27
+we still do not have practice and we will wait for that regarding as vladislav mentioned classification and
+1:19:35
+what approaches will be um in different member states but still it is in my
+1:19:43
+personal opinion better than go to the US market for example while your um
+1:19:50
+every time think hm will SEC uh SEC consider our token as a security or not
+1:19:59
+shall I enter these Market or it still dangerous and etc etc because uh they
+1:20:06
+only provide like hobby test and say that okay we will consider the hob test
+1:20:12
+and that's all and you can you may not know the moment when they will be
+1:20:19
+interested with your project here with the m we have a little bit more clarity
+1:20:24
+because because we know that uh we shall submit the documents like white paper
+1:20:30
+and Etc uh but at the same time we have even
+1:20:35
+preliminary like um clarifications from the Asma which is regulatory body and
+1:20:43
+regarding exactly the question about the bodies uh leading these so it will be
+1:20:50
+like on The Regulators behalf of course it will be Asma as a regul body and um
+1:20:56
+EBA in the European Union uh as for players in the European Union we can
+1:21:05
+see only at the moment that they will uh
+1:21:11
+discuss uh um the situation with the key players uh on this market and they will
+1:21:19
+uh get their response to uh navigate through these
+1:21:25
+regul regulation yeah and to navigate through this uh process because uh in
+1:21:32
+fact the regulator they are also interested in uh development of these
+1:21:37
+market and I suppose the MAA is the first step toward that yeah first all I would like to add
+1:21:44
+that eventually we have a legal certainty regarding crypto assets regulations and as Alex has said um
+1:21:52
+finally we have eliminated the discretion that much discretion as the Security and Exchange Commission in us
+1:22:00
+have so now we have the uh understandable framework within which we
+1:22:05
+will be working furthermore uh actually um European um uh European Union has
+1:22:13
+introduced not only the framework like maika it also has introduced some regime where you may work and understand if you
+1:22:20
+are violating anything so it is called dist distributed leder technology pilot
+1:22:25
+regime and it is like a sand boox in many European Union countries you may walk there under the surveillance of
+1:22:31
+your home member State and they will tell you if you are violating anything or something like that there are no such
+1:22:38
+fines for that there are no actually there is no requirement ordinarily to
+1:22:46
+obtain any licenses to work in this regime it just a regime a test regime to
+1:22:51
+test your product and with an obser ation of the home member State
+1:22:57
+Authority okay okay thank you so I can add comment to the uh one more statement
+1:23:06
+which I can see in our chat from uh Ryan which is equivalency is important uh for
+1:23:12
+example with UK USA and Etc yes for sure and in fact we can see some uh General
+1:23:19
+approaches which are taken by the uh USA uh Ste by the SEC Securities Exchange
+1:23:28
+Commission and even M regulation because in the question for example of the uh
+1:23:33
+classification crypto assets which can be considered as a transferable Securities and as uh financial
+1:23:40
+instruments in general uh Regulators in the European Union they still follow the
+1:23:45
+approach stop substance over form and same risks same activity that's why same
+1:23:52
+regulations and if we're talking about the um approach in the United States we
+1:23:58
+can uh pay attention to the uh case uh SEC versus uh the da I suppose you have
+1:24:07
+heard about that uh and there they stated Also regarding the classification
+1:24:13
+they also stated that uh it is necessary to pay attention to the substance over
+1:24:19
+form approach and to consider the nature of certain assets but still uh in fact
+1:24:26
+uh except these uh statements in their Court uh cases SEC cannot provide more
+1:24:34
+information about the uh key points which they pay attention to at the same
+1:24:40
+time in my opinion uh we have more um
+1:24:46
+let's say more clear situation with the Asma and with their guidelines clarifications because they try to
+1:24:53
+navigate through these questions yeah of course we understand as wlav mentioned
+1:24:58
+that transferable Securities and in general financial instruments is a uh
+1:25:04
+rather vast definition which is used in the uh mied yeah but uh they provide
+1:25:13
+like certain markers and uh certain um
+1:25:19
+key uh points which we can consider to understand better better whether we
+1:25:25
+shall be regulated under the financial instruments law or under the Mika
+1:25:32
+regulation okay okay thank you for that uh okay as I see uh there is no more
+1:25:39
+questions and I suppose we can finish for today uh I hands everybody to share
+1:25:45
+your feedback about our webinar uh in social media especially in LinkedIn if
+1:25:51
+you use it we really appreciate that and uh if uh anybody wants to
+1:25:58
+discuss uh their projects their um business uh
+1:26:05
+in uh and how the MAA and other new regulation will impact that we'll happy
+1:26:13
+to uh do that personally maybe next week uh if you wish so yeah please uh uh stay
+1:26:21
+with us and uh uh share your contacts and we will uh
+1:26:28
+commute you uh regarding the uh personal meeting yeah so uh thank
+1:26:35
+you everybody for for today uh really uh it was
+1:26:41
+really uh good webinar about the uh these regulations so I suppose you you
+1:26:48
+enjoy uh and we'll be happy to cooporate in future uh thank you for for that
+1:26:55
+see you have a nice day thank you have a nice day bye bye everybody
+

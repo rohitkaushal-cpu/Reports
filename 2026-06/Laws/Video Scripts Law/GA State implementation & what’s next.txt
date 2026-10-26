@@ -1,0 +1,437 @@
+Chapter 1: Introduction and Welcome
+0:00Okay, welcome everybody. Thank you everybody for coming in today to spend some time with us. We appreciate you taking a an hourish out of your day to
+0:099 secondsto learn more about the Genius Act. Uh that is the topic for today. Uh the Genius Act which is passed early this
+Chapter 2: Overview of the GENIUS Act
+0:1616 secondsyear in July. Uh the bill sets the foundation for regulating payment stable coins. uh setting up the standards, uh
+0:2525 secondshow they'll be backed, the consumer protections. And so we've brought together a panel of industry experts to really dive into these topics to see where do we stand on implementation.
+0:3737 secondsAnd so we have we have uh Ken Chapman from XDC, Joe Chickalo from uh the California Blockchain Advocacy
+0:4545 secondsCoalition, and Josh Radbot from the Crypto Banking Compliance and Stablecoin Summit. I think you had a stable coins
+0:5454 secondsrecently to that. And so I ask our panelists here to introduce themselves and then uh I I'll I'll go into the questions from there.
+Chapter 3: Panelist Introductions
+Chapter 4: Ken Chapman’s Background
+1:011 minute, 1 secondYes. Uh uh Ken Chapman, the uh head of institutional at uh XDC. Uh my background is uh after serving a stent
+1:091 minute, 9 secondsin the military. Um I have over 20 years of capital markets experience uh both on the buy side and the sell side. Worked
+1:171 minute, 17 secondsfor a number of firms to include uh JP Morgan, Bank of America Securities, uh Bridgewater, and I moved from
+1:241 minute, 24 secondstraditional finance into uh DeFi in 2018. uh started a company uh cryptofuse which was solving the problem of uh how
+1:341 minute, 34 secondsdo you so how do you have a peer-to-peer trustless transaction at the point of time when you don't have access to the internet launched that company um ended
+1:421 minute, 42 secondsup shutting it down because uh the SEC came out and announced that they were applying the howi test and uh we were it was just weeks before we were going to
+1:511 minute, 51 secondsdo an ICO. So that was uh very very beginning of dealing with uh regulatory headwinds which we're going to talk
+1:591 minute, 59 secondsabout in this call. From there I went to a uh an early startup called Anchorage Digital and um and so I was the uh head
+2:072 minutes, 7 secondsof banking capital markets at Anchorage Digital which is the uh first nationally chartered crypto bank. I was also at um
+2:142 minutes, 14 secondsWells Fargo uh leading digital assets and uh crypto subject subject matter expert and then now as I mentioned I'm
+2:222 minutes, 22 secondsthe um head of institutional at XDC and what's interesting here is uh we just
+2:272 minutes, 27 secondsintroduced uh USDC stablecoin uh on XDC uh which is a layer 1 blockchain just a
+2:342 minutes, 34 secondscouple of months ago and just last month uh XDC was the number one blockchain as far as percentage growth for USDC of all
+2:422 minutes, 42 secondsblockchains uh uh out there. So, Joe, pass it to you. All right. Thanks, Ken. Hey, everybody.
+Chapter 5: Joe Ciccolo’s Background
+2:472 minutes, 47 secondsGood morning, good afternoon. Uh my name is Joe Chakullo. I'm the founder and president of Bit AML. We provide regulatory compliance consulting services to the crypto space and have
+2:562 minutes, 56 secondsdone so for north of 10 years now. Being involved back in May of 2015, so I've seen a lot in that period of time. work with hundreds of clients uh both big and
+3:053 minutes, 5 secondssmall as it pertains to BSA AML uh cyber security consumer protection and other elements of risk management. Uh the
+3:133 minutes, 13 secondsother hat that I wear as I'm the executive director of the California Blockchain Advocacy Coalition. It's it is a 501c6 trade association
+3:213 minutes, 21 secondsrepresenting the interests of crypto, web 3, and blockchain uh here in California before our California legislature, the governor's office, and various different state regulatory
+3:293 minutes, 29 secondsagencies. Um, and in that time, I've I've had the opportunity to have a a front row seat or or really a seat at the table uh in helping to craft and
+3:373 minutes, 37 secondsbring forward uh the forthcoming licensing in California, which begins uh in July of 2026. So, right around the
+3:453 minutes, 45 secondscorner, and that includes a specific chapter devoted uh to stable coins, which we'll no doubt have a chance to address today, among other topics. So, thanks for having me.
+3:533 minutes, 53 secondsAwesome. Thank you, Joe, Ken, and Dom, for having me. My name is Josh Radbot.
+Chapter 6: Josh Radbod’s Background
+3:573 minutes, 57 secondsI'm co-founder and CEO of the crypto banking compliance and stable coin summit. We are an international event with our North American event based in
+4:064 minutes, 6 secondsWashington DC and our European event based in London UK. I'm also a partner at Cogent Law Group where I lead the firm's fintech crypto and banking
+4:144 minutes, 14 secondspractice. I've been working with exchanges, OTC desk, liquidity providers, non-custodial wallets, lots of different types of cryptoreated
+4:234 minutes, 23 secondsbusinesses since 2017. And uh it's an honor to be here. Thanks. so much for having me.
+4:284 minutes, 28 secondsGreat. Well, thank you. Thank you panelists, uh, Ken, Joe, and Josh. And so, a little bit about myself. I'm Dom Schaefer from Crystal Intelligence. I
+Chapter 7: Dominic Schaffer’s Background
+4:374 minutes, 37 secondsrun our America's business. Uh, Crystal Intelligence is a leading blockchain and intelligence analytics platform. I've
+4:444 minutes, 44 secondsbeen in the risk uh risk and and really solving customer risk challenges as well as as well as other business challenges
+4:534 minutes, 53 secondsover the last 20 plus years. Like Ken, I was in the military. uh before coming over into the commercial sector. Um and
+5:005 minutesI've been in this space specifically in in crypto uh crypto data analytics uh for the the past four plus years. Uh
+5:095 minutes, 9 secondsjust give a quick note on uh Ken and I shared military background. Army Navy game is coming up this weekend. Uh we're
+5:165 minutes, 16 secondsboth we both graduated from uh from West Point with Army and so uh you know uh just a little shout out there.
+5:235 minutes, 23 secondsWe got to say it. Beat Navy.
+5:255 minutes, 25 secondsAll good. All good. And so we're going to get into the a couple of housekeeping questions first and then and then we'll get into the questions themselves.
+Chapter 8: Housekeeping and Poll Questions
+5:335 minutes, 33 secondsWe have our first poll question up. So if you guys want to take a minute, uh thank you for um uh your participation there. Um a little
+5:405 minutes, 40 secondsbit of housekeeping. Uh please post your questions in the chat as we go and we'll do our best to answer as many as we can at the end. We will uh we do plan to
+5:495 minutes, 49 secondshave time at the end. And also um as you just saw, we have poll questions going throughout the the the webinar and do
+5:565 minutes, 56 secondsyour best to answer those um to get that audience audience participation. So to our first question, it's really on where are we now? As you may appreciate,
+Chapter 9: Current State of Stablecoin Implementation
+6:056 minutes, 5 secondspassing the bill is one thing, but we're in various stages of implementation and the OC uh who's really the lead, the OC,
+6:146 minutes, 14 secondsSEC, CFTC have yet to weigh in. they have until July of 2026 to really put out their their formal guidance. But there's been a lot of work behind the
+6:226 minutes, 22 secondsscenes on that front. But in the meantime, the states are doing taking various act having various activities as
+6:296 minutes, 29 secondswell as uh those those those stable coin issuers uh fintexs um you know the
+6:366 minutes, 36 secondsecosystem really is is really looking forward to launching hey how do we take advantage of stable coins um uh and the
+6:446 minutes, 44 secondsregulation when it goes into effect and so I go start with Ken and go around the room on on where are we Now,
+6:526 minutes, 52 secondsas far as um stable coins, yep, the implementation of of the Genius Act, I would just say that um you know, one
+Chapter 10: Concerns and Challenges for Financial Institutions
+7:007 minutesof one of the um parts of the Genius Act that I I find interesting is the um what is being called the Genius Act uh
+7:087 minutes, 8 secondsloophole where um for banks uh are or issuers uh are not allowed to provide interest or rewards on on stable coins.
+7:207 minutes, 20 secondsBut however, an example of um like Coinbase for example, Coinbase is able to provide uh interest on on stable
+7:297 minutes, 29 secondscoins. And so the banks um that are out there right now are you know kind of seeing that as a uh as a competitive a
+7:387 minutes, 38 secondscompetitor to deposits at the banks. And so um you know the Genius Act as it's as it is right now is a a big concern to uh
+7:467 minutes, 46 secondsto financial institutions like um because you know why would a depositor or even a retail depositor want to keep
+7:537 minutes, 53 secondstheir deposits in in a savings account that's getting a fraction of a percentage where they can take that deposit very easily and just move it
+8:028 minutes, 2 secondsover to you know to Coinbase or to another uh somewhere else where they can get um you know 4% on their on their
+8:108 minutes, 10 secondsmoney very easily and if they needed their money back they could very easily move it back to their um their account at their their bank. So that's a that's
+8:188 minutes, 18 secondsa big concern for um for financial institutions and uh you can bet that the financial institutions are lobbying up
+8:268 minutes, 26 secondson Congress right now lobbying Congress right now to uh to close you know that loophole uh to keep um uh the stable
+8:348 minutes, 34 secondscoins where there the yield or interest cannot be paid on those uh stable coins.
+8:408 minutes, 40 secondsSo that's something that I see as being something that uh you know is going to be you know kind of a big deal uh you know coming going forward here.
+8:488 minutes, 48 secondsThank you. Thank you for that Ken.
+8:498 minutes, 49 secondsThat's I think it's a good point. Maybe Joe pass to you for your thoughts on where we stand.
+8:548 minutes, 54 secondsI would echo echo the sentiments of Ken that I think the uh stable coin yield is definitely a thorny issue particularly for the banks and and uh you know it's I
+9:039 minutes, 3 secondswould disagree that it's a loophole. I think maybe it was uh not necessarily designed to be a loophole. So the uh the
+9:109 minutes, 10 secondsyield is offered by the platform. So the law makes no mention of restricting uh platforms from offering yield. It restricts the actual stable coin issuer.
+9:209 minutes, 20 secondsSo uh that's maybe not an o necessarily an oversight. But uh again representing the crypto community. I I tend to not look at it as a loophole, but otherwise
+9:289 minutes, 28 secondsI think Ken did a great job of of uh putting that forward as as a chief concern uh for for all parties as we move forward with the rulemaking
+9:369 minutes, 36 secondsprocess. And and that's where we are right now. So the the law is passed.
+9:409 minutes, 40 secondsIt's a law of the land. Um but it's not just that easy. There's obviously not a magic wand and everybody starts going to work. Uh there is a rulemaking process.
+9:479 minutes, 47 secondsSo we are in that process right now where we're waiting for the regulators that are tasked with overseeing this to put forward put put forward rulemaking.
+9:569 minutes, 56 secondsNow of course a lot of the work was done by uh the legislators that uh passed this bill and put the language in there.
+10:0210 minutes, 2 secondsUh but where the government meets the road is the actual rule making. Um and it's going to be interesting to see uh how that plays out. In particular, uh
+10:1110 minutes, 11 secondsthe aspect of bill I'm looking at uh most closely uh I would say would be the substantially similar test. Right? So at
+10:1710 minutes, 17 secondsthe state level, states are uh permitted to have their own regulatory regime for stable coins and that's great. Uh but the test there is substantially similar.
+10:2710 minutes, 27 secondsIt must be a substantially similar um regime at the state level. So uh what constitutes substantially similar? I
+10:3410 minutes, 34 secondsthink we could uh ask everybody on this call and probably get a bunch of different answers. And so it's going to obviously make a difference on in terms
+10:4210 minutes, 42 secondsof what the rulem is, the the oversight and and the parties at the federal level that are making a decision as to what constitutes substantially similar. And
+10:5010 minutes, 50 secondsthen the different states as we know are the laboratories of democracy. We have states that are uh if we want to talk politics, we have blue states, red states, purple states, but we also have
+10:5810 minutes, 58 secondsstates that are banking and financial centers and others that are maybe a little bit more um or or rather a little bit less uh in in financial services and
+11:0611 minutes, 6 secondsmaybe more in technology. So, they bring along with that their uh you know, sort of subculture and expectations and existing uh frameworks already in place.
+11:1711 minutes, 17 secondsUm and in fact, we I'm sure we'll talk about it later. Uh but California has already passed stable coin legislation.
+11:2211 minutes, 22 secondsSo, uh, we may be going back, uh, to the well and having to make some adjustments again depending upon the rulem and
+11:2911 minutes, 29 secondsultimately what we hear, uh, at the federal level.
+11:3211 minutes, 32 secondsHey, Dom, do you mind if I jump in for one second? I just want to clarify. Um, I'm in the camp of innovation. So, I'm in the camp of, uh, that, uh, uh, um,
+11:4211 minutes, 42 secondscompanies like Coinbase should be able to provide ye uh, interest or yield uh, on uh, stable coins. So, I was just uh
+11:5011 minutes, 50 secondsbringing up that the uh that it's being called a loop uh a loophole. It exists and the uh the banks are um you know
+11:5911 minutes, 59 secondslobbying to to close that. But I am on the I am in the camp of innovation.
+12:0512 minutes, 5 secondsI'll jump in here. I'm also in the camp of innovation and I I agree with both Ken and Joe. I think uh some of the
+12:1212 minutes, 12 secondsbanks at least what they're showing and uh what they're lobbying for from the conference uh state board advisor the CSBS and the ABA uh potentially look at
+12:2212 minutes, 22 secondsthis loophole or however you want to call it u designed um you know attribute as a fleeing deposits issue. So that's
+12:3012 minutes, 30 secondsthat's one piece that uh we can potentially talk about later. And um I I agree this uh conversation that we're having today is very exciting. I think
+12:3812 minutes, 38 secondsit will be even more exciting uh once we actually get the regulatory framework from the states and the Fed. So uh just
+12:4812 minutes, 48 secondslike Joe said, this is the law of the land now, but there's a lot of work still yet to be done uh that should come out by July 2026, hopefully sooner. Um
+12:5812 minutes, 58 secondsso yeah, that's that's where we are. I think some companies are already preparing for this. Uh I think Tether launched USAT, I believe that's the the
+13:0513 minutes, 5 secondsname of their new uh new stable coin. I think to try and get ahead of this. Um, so lots of exciting things happening uh in this space right now.
+13:1513 minutes, 15 secondsYeah, agreed. And one maybe one follow-up question to this is, you know, you la Joe, you mentioned California launched their stable coin uh
+Chapter 11: State-Level Regulatory Landscape
+13:2413 minutes, 24 secondslegislation. Where do the different states stand? Which states have been more forwardleaning? And let's just
+13:3213 minutes, 32 secondsleave it at that. which states have been more forwardleaning with either reg leg regulation that's passed or legislation that's passed and legislations that that's in the works.
+13:4113 minutes, 41 secondsSure. I I don't know that we have time to go through the entire map of of the US, but certainly certainly leading the way on on the pro-innovation side and probably no
+13:5013 minutes, 50 secondssurprise to our crypto friends that are tuning in. uh it was Wyoming with the issuance of their own stable coin uh with very high standards uh 102%
+13:5813 minutes, 58 secondsreserves uh one to one backing uh and very strict uh regulatory oversight um you know certainly I would put them in
+14:0614 minutes, 6 secondsin in sort of the leading camp and that's maybe a little bit an edge case uh as far as regulatory oversight u more specifically uh you're right California
+14:1414 minutes, 14 secondsum is in a unique position where we passed uh legislation uh what's known as def digital financial assets law. It's a
+14:2214 minutes, 22 secondscomprehensive framework to license crypto exchanges and other activities to be sure. But included in uh Assembly
+14:2914 minutes, 29 secondsBill 39, chapter 6 for our legal wonks that are listening in. Uh is a section devoted entirely to the oversight of stable coin issuers. Um and this is
+14:3814 minutes, 38 secondsparticularly interesting. Uh real quick history on the California legislation.
+14:4214 minutes, 42 secondsIt took us a while to finally pass a licensing bill here. Uh and it's not for a lack of a trying. The previous iteration of what is now Defal uh in
+14:5114 minutes, 51 seconds2022 actually included uh a potential stab at regulating stable coin issuers. And the
+14:5814 minutes, 58 secondsreason it did is because in 2022 uh Teral Luna failed. And so if you actually go back and look at the old
+15:0615 minutes, 6 secondsiterations of the bill, you can see a lot of redlinining sometime after May when when the Teral Luna collapsed when the lawmakers were saying, "Oh my
+15:1415 minutes, 14 secondsgoodness, we have to do something about stable coins." and rightfully so. Uh and sometimes in politics, well, a lot of times in politics, timing uh is
+15:2215 minutes, 22 secondseverything. Um and I think that that's where we saw that first opportunity to address that. Now, fast forward, that bill in 2022 was vetoed for among other
+15:3015 minutes, 30 secondsreasons. There was some concern about uh you know, developers and other you know, sort of noninancial business models being swept in. The governor expressed a
+15:3915 minutes, 39 secondslot of concern about that. Uh, and I would suggest that maybe the the uh editing in mid session and trying to insert stable coin legislation at at
+15:4815 minutes, 48 secondsseemingly uh the 11th hour um ultimately resulted in that bill being uh being vetoed by the governor. But fast forward
+15:5415 minutes, 54 secondsagain, we passed def 2023. That particular section uh chapter 6 of AB39 devoted to uh stable coin oversight is
+16:0416 minutes, 4 secondsfairly robust. I don't think that there's anything in there surprising onetoone backing peg to the US dollar.
+16:0916 minutes, 9 secondsUh what's interesting about the bill, again getting back to my comment about timing, is there's actually a section that says if you are essentially, I'm
+16:1716 minutes, 17 secondsparaphrasing here, if you're a crypto exchange or a platform that's offering or exchange certain types of token, you may offer stable coins, but those stable
+16:2616 minutes, 26 secondscoins must be approved by the California Department of Protection Innovation.
+16:3016 minutes, 30 secondsWell, it's going to be difficult if they're approving licensing for exchanges and licensing for stable coinoint issuers at the same time. and
+16:3916 minutes, 39 secondsand how does that play out? I think we're going to find out because um as I'm sure Josh knows and Ken perhaps too, uh come July 1st of of next year, your
+16:4716 minutes, 47 secondsapplication must be in uh in California in order to continue operating. And so it's going to be very unique uh in that
+16:5416 minutes, 54 secondstiming aspect. But one other uh I highlight to note here um is that these stable coin issuers are going to have to
+17:0117 minutes, 1 secondsubmit a lot of information uh because don't forget the state level, it's not registration, it's permission based licensing. So there's going to be a lot
+17:0817 minutes, 8 secondsof submitting, I would warrant, of financial information, operational information, and compliance information.
+17:1417 minutes, 14 secondsThis may be one of the biggest deep dives into stable coin issuers that regulators have had. And so we're we're going to see and hear a lot, I presume.
+17:2417 minutes, 24 secondsOh, very good, Joe. Thanks for those comments. Um, yeah, anybody else on, you know, various states?
+17:2917 minutes, 29 secondsI'll piggyback, Joe. Uh, some states have more rules on the books when it comes to digital assets versus others. I
+17:3617 minutes, 36 secondsdon't know if that's to mean that they're more forwardleaning or not. Uh some may, you know, consider New York maybe forwardleaning in terms of rags on
+17:4517 minutes, 45 secondsthe books, but in terms of getting companies licensed and operated, many view that status being significantly harder to do that. Um so I I I just
+17:5417 minutes, 54 secondswanted to mention that, but a lot of the the crypto uh folks on the call likely are are aware of that same issue. So, right. And and real quick, piggybacking
+18:0218 minutes, 2 secondswhat Josh said, a lot of the the requirements and a lot of the expectations from New York, believe it or not, uh helped inform uh the Genius
+18:0918 minutes, 9 secondsAct. So, as much as the crypto space likes to chide NYDFS and the bit license, um a lot of the intellectual
+18:1618 minutes, 16 secondsproperty, if I may, or aspects of the bill, uh were were borrowed uh to a degree uh and helped inform what ultimately became the Genius Act. So, pretty interesting uh tie-in there.
+18:2818 minutes, 28 secondsYep. Absolutely. Okay. Oh, no. I will jump on a question here. What about Illinois? How are they doing?
+18:3418 minutes, 34 secondsI don't think they have uh stable coin specific rules on the books yet. I I need to double check that. Um I believe
+18:4318 minutes, 43 secondsthey did adopt a form of the MTMA. Um which is the the money transmission statute that's making its way throughout
+18:5118 minutes, 51 secondsthe states right now that some states are adopting and how much of the statute they adopt differs per state. Um, but I
+19:0019 minutesI' I'd need to check Illinois after the call. Maybe we could circle back with questions asked and, you know, inform folks with answers then.
+19:0719 minutes, 7 secondsWell, thanks for that. All right, we'll get to the next questions. That maybe leads into I mean there's there's a talked a little bit about states and where they stand. There's a lot of work
+19:1619 minutes, 16 secondsto do yet uh from from again hearing what what the OC and other state uh and
+19:2319 minutes, 23 secondsfederal regulators uh regulators put out. Obviously, a lot of work state by state potentially uh with with with complying with, hey, I need to register
+19:3219 minutes, 32 secondsmy stable coin. I need to register as an exchange if I'm going to uh trade stable coins. In light of that, what do you see
+19:3919 minutes, 39 secondsis keeping companies up at night? What's going to keep companies up at night? And maybe look at a company lens and also uh
+19:4619 minutes, 46 secondsa state lens. Uh before I jump into the panel here, um this poll question, um how prepared do you feel your company is
+19:5419 minutes, 54 secondsfor the Genius Act? Yeah, it's it's uh kind of uh uh not sure is leading the way. Probably slightly uh very prepared.
+20:0320 minutes, 3 secondsIt's about a quarter somewhat prepared about a quarter or maybe a fifth I should say. Not prepared a fifth. Not sure. A little bit more. Yeah, it
+20:1120 minutes, 11 secondsdoesn't apply to organizations. So, um kind of in the middle here across the board with about oneth across everybody. So, it's interesting uh to hear that.
+20:2020 minutes, 20 secondsBut, uh, in light of that, um, maybe we'll start with with Joe for the next question on on what's keeping people up at night.
+20:2820 minutes, 28 secondsSure. I would say it's uncertainty. Um, like anything else in business and in compliance and I'm sure and same with you, Josh, as a lawyer in legal, uh,
+20:3720 minutes, 37 secondsit's the unknown, right? We're, as we sort of all talked about earlier, you know, we're in that rule making process and and we can read the bill and see
+20:4420 minutes, 44 secondswhat's in it. And there's, you know, there's specific information that gives us an idea of what we might expect, but operationally and tactically, we're not
+20:5220 minutes, 52 secondsquite there yet. And so I think there's a lot of unknowns and and when you have a lot of questions, that tends to result in a lot more questions than answers.
+21:0021 minutesUm, and so I think that that's maybe the worry. And putting on my uh pretending to put on my government hat for a minute because you mentioned, you know, what's what's keeping the states up at night.
+21:1021 minutes, 10 secondsUm I think the states are worried about another potential teruna debacle, another uh dep pegging, another
+21:1721 minutes, 17 secondscollapse, some sort of market calamity that they want to make sure that they've done everything within the rules and
+21:2421 minutes, 24 secondswithin their power uh to prevent or or mitigate to the best of their ability because we can't prevent everything, right? Um but what can they do and and
+21:3321 minutes, 33 secondshow can they put themselves in that best position and not wanting um to make that uh to make a critical mistake uh or or error in judgment and of course wanting
+21:4221 minutes, 42 secondsto adhere to the substantially similar uh requirement at at the federal level uh and what does that look like? I can
+21:5021 minutes, 50 secondsyou know look at look at this from a different perspective because I've you know been you know going to um you know large you know you know global
+Chapter 12: Uncertainty and Adoption in the Corporate Sector
+21:5921 minutes, 59 secondscorporations talking to uh CFOs and people that uh manage uh the corporate treasuries you know talking about to
+22:0722 minutes, 7 secondsthem about u you know stable coins and talking to them about uh you know crossber payments and what that looks
+22:1422 minutes, 14 secondslike and the um there is you know concerns around uncertainty but it's also just um you know the unknown. You
+22:2222 minutes, 22 secondsknow this is something new and you're talking when you're talking about a corporate treasury you know things have been done a certain way over decades and
+22:3022 minutes, 30 secondsnow you're talking about doing something that is new and uh there you everybody you talk to they're extremely interested. Um, and when you're talking
+22:3722 minutes, 37 secondsabout saving substantial, uh, you know, you're you're talking about substantial savings. And you're talking about being
+22:4422 minutes, 44 secondsable to, you know, uh, save, you know, you have savings, but you're also able to make money by, you know, being able
+22:5222 minutes, 52 secondsto, uh, free up money that's been locked. Uh, you're able to to move money faster. You know, basically, um, where,
+22:5922 minutes, 59 secondsyou know, it took days. It's in instantaneous. And it's just the you go and and talk to people that have managed treasuries and these these concepts
+23:0723 minutes, 7 secondsthey're all new. And so it's really an education process, but some of them it's just it's it's it's almost some of them
+23:1423 minutes, 14 secondsfeel like it's too good to be true kind of thing because when you show when you first walk in the door and say this is this is what it can do. Um you know it's
+23:2223 minutes, 22 secondsit's sometimes they have a hard time wrapping their head around it. But you're um but it's you know when you're out there you're saying listen other
+23:3023 minutes, 30 secondscorporations are looking to adopt this you know other corporate treasuries are looking to adopt this and also this is what's being discussed at industry
+23:3723 minutes, 37 secondsworking groups um you know the the the CFOs of these major corporations when they go to their conferences they go to their you know you know their trade
+23:4523 minutes, 45 secondspublications this is what's being talked about but it's some you know but getting them over the hurdle and actually getting them to the point where they're
+23:5323 minutes, 53 secondsyou know ready to adopt um you know we're going see adoption, you know, accelerate here over the, you know, I would, if you, you talked to me a couple
+24:0124 minutes, 1 secondyears ago, I would say I would have told you adoption's probably, you know, 5 to 10 years out. It's not anymore. Um, just like uh Chairman Atkins of the SEC, he
+24:1024 minutes, 10 secondsshocked me in the past week here when he said that he he believes the uh securities would be uh tokenized within 2 years. I think that that global
+24:1924 minutes, 19 secondspayments is going to be accelerated, too. And I I really believe that. Um, I think we're we're kind of hitting an inflection point where we're going to see, you know, rapid acceleration here over the next couple years.
+24:2924 minutes, 29 secondsI completely agree with Ken and Joe. You know, um, when we were talking about this both in my conference company and
+24:3724 minutes, 37 secondsat the firm years ago, we were looking at kind of the same timeline, but we're starting to see things really rapidly
+24:4524 minutes, 45 secondstake off. I mean, you know, real world assets coming on chain is happening much faster than I think a lot of people thought. And I think layer 1's, you
+24:5424 minutes, 54 secondsknow, XDC, um, this is going to be very beneficial for them. You know, all of these transactions, all these
+25:0125 minutes, 1 secondtransaction fees, uh, and global payments, same story. Um, I I think this
+25:0725 minutes, 7 secondsworld is actually rapidly, um, you know, accelerating faster than than a lot of people thought. And I think that's also,
+25:1625 minutes, 16 secondsyou know, why some of the states are also concerned about this. Back to Joe's point about Teral Luna. So, uh, I I agree with both of you guys
+25:2425 minutes, 24 secondswholeheartedly. And I guess back to the question that Dom asked, uh, I think the unknown and the uncertainty that both Joe and Ken mentioned is is spot on. I
+25:3325 minutes, 33 secondsmean, once we actually get some rules in front of us, hey, what are the elements for the application? How do we meet these standards? you know, companies
+25:4225 minutes, 42 secondswill feel a lot better than than where they currently do right now, I think.
+25:4625 minutes, 46 secondsSo, yeah, good comments, good good feedback there. I think this leads me to the next
+25:5325 minutes, 53 secondsquestion because well, there is uncertainty and sometimes that uncertainty gives companies and
+26:0226 minutes, 2 secondsgovernments reason to pause like, "All right, we're going to wait and see." In this case, I think we're seeing a different trend. I mean, Ken, you just
+26:1026 minutes, 10 secondstalked about XDC launching, you know, Circle USDC. Yes.
+26:1526 minutes, 15 secondsUm, you have you have Anchorage launching with uh with Tether and a wide number of other large number of other projects that are being launched on the
+26:2326 minutes, 23 secondscommercial side. Plus, states are already leaning forward. Wyoming even before Genius Act was launched, Wyoming launched their stable coin and
+26:3026 minutes, 30 secondsCalifornia in parallel. Uh, and the California was working on it before the Genius Act as well. So, so a lot of uh a
+26:3826 minutes, 38 secondslot of entities are forwardleaning and like okay the risks be what they are uncertainty be what it is we're going
+26:4626 minutes, 46 secondsforward we're seeing enough to um uh we think the risk is worth the uncertainty
+26:5226 minutes, 52 secondsrisk is worth the opportunity so um so the next question is what's you know what's what's working well
+27:0027 minutesI'll answer um also just comment on what you just said there over the last couple years uh prior to uh 2025 when there was
+27:0827 minutes, 8 secondssome uncertainty there was less willingness to to take a chance because the penalties were very high the SEC the
+27:1627 minutes, 16 secondsOC other regulators were very punitive now um you're seeing u where it's it's it's not uh the regulators are more
+27:2527 minutes, 25 secondsreasonable you know for example you know you know Anchorage had a consent order that was rescended you know quite a while quite a while ago just this past
+Chapter 13: Regulatory Environment Shifts
+27:3327 minutes, 33 secondsweek um Ando Finance um the SEC announced that they're you know they they stopped um their investigation into
+27:4127 minutes, 41 secondsFinance and so all these um investigations all these punitive actions that were being taken some of them you know even
+27:4927 minutes, 49 secondswere kind of perceived to be random or you know just you know without basis that kind of environment doesn't exist
+27:5727 minutes, 57 secondsanymore and so I think that um you know whether it be a company or an ent whatever kind of entity is I believe if they are if they you know consult you
+28:0628 minutes, 6 secondsknow reasonable legal counsel they are you know taking you know actions you know kind of in a reasonable way that
+28:1328 minutes, 13 secondsthey're not going to be um you know the regulators are not going to come after them in an unreasonable manner and I so
+28:1928 minutes, 19 secondsI think that um there is the ability to take you know reasonable risk without the concern that you're going to have an
+28:2728 minutes, 27 secondsunreasonable regulator you know come after you and um destroy your your company or, you know, threaten threaten
+28:3628 minutes, 36 secondsuh legal action or even criminal uh action against you. So, we're we're in a different environment now. I mean, I mean, I I can tell you I' I've been I've
+28:4428 minutes, 44 secondsbeen doing this for almost a decade now, and I can tell you living in um you know, in in crypto, digital assets. Um
+28:5328 minutes, 53 secondsthis year it feels different. Um it's a it's you know, it's kind of almost like a having a weight lifted off um of being
+29:0129 minutes, 1 secondable to operate. It's it's a completely different uh operating environment particularly in the United States.
+29:0629 minutes, 6 secondsI would agree with Ken Dom and just to offer a little bit of of insight from you know the business perspective innovators and entrepreneurs that we talked to it's not that they're
+Chapter 14: Entrepreneurs and Legal Counsel
+29:1529 minutes, 15 secondsrisktakers they're generally risk mitigators meaning they they look at the regulatory environment as Ken said
+29:2229 minutes, 22 secondsnotable change over the past you know years behind us um and they see that opportunity. I think there's never going to be a solid green light, but I think
+29:3029 minutes, 30 secondsright now you're seeing uh some shade between green and yellow uh in terms of of proceeding forward. And I think innovators, entrepreneurs, uh as Ken
+29:3829 minutes, 38 secondsmentioned, and and I'm sure Josh would agree, you know, surrounding yourself with qualified legal counsel, asking the right questions, putting your your best compliance foot forward, so to speak,
+29:4729 minutes, 47 secondsand putting yourself in that position, they feel a lot more comfortable to move forward. was I think if we were to to go back in time maybe a few years with the
+29:5429 minutes, 54 secondssame uh with the same bill genius act and and other you know things being equal I I don't think we would see this this level of of push and enthusiasm and
+30:0430 minutes, 4 secondswillingness frankly uh for innovators and entrepreneurs to move forward as they have uh thus far.
+30:0930 minutes, 9 secondsI completely agree with both Joe and Ken and I I love when my fellow panelists say hire a good lawyer. It's it's it's perfect. I don't have to say it myself.
+30:1930 minutes, 19 secondsUm but uh It's kept me out. It's kept me out of jail.
+30:2330 minutes, 23 secondsAnd I tell you what, it's I would look I would look horrible in in uh prison orange. It's not my color.
+30:3030 minutes, 30 secondsOh, thank thank God. Hopefully none of us will ever be there and and none of our clients and and colleagues and friends either. So, um ju just one other
+30:3730 minutes, 37 secondsnote, I completely agree with Joe and Ken. Um, one one thing that's interesting, and I guess this piggybacks off uh Ken's remarks about us being in a
+30:4530 minutes, 45 secondsdifferent environment, some really big acquisitions have both closed and also been uh put in the news recently. Uh the
+30:5230 minutes, 52 secondsCoinbase and BVNK deal was, I think, roughly around $2 billion. I think they just decided publicly that they're not going to move forward with that deal,
+31:0031 minutesbut still that's, you know, a positive movement. Uh there's also the Mastercard and Zero Hash deal which was I think around the same price a $2 billion deal.
+31:1031 minutes, 10 secondsPrevious to that Stripe had bought bridge for 1 billion and previous to that Ripple had bought Rail for roughly
+31:1631 minutes, 16 seconds200 million. So you know if you're a fintech or crypto exchange a company in this space that's either custoing stable
+31:2631 minutes, 26 secondscoins or has the rail set up to move stable coins around the US and in and out of the US to foreign jurisdictions.
+31:3331 minutes, 33 secondsI think it's a very favorable time for those types of companies. You know, the largest financial institutions in the world are looking at these companies
+31:4131 minutes, 41 secondsright now um you know for growth into the future and I think Genius has uh certainly played a potential role in that. No,
+31:4831 minutes, 48 secondsI appreciate that. That's those are some good I think excellent excellent points.
+31:5331 minutes, 53 secondsBut kind of a follow-up question to this is around all right so there's companies are leaning forward uh Mastercard uh
+32:0132 minutes, 1 secondpursuing zero hash and etc. Um, you know, these are big deals and they're they're putting some real money into
+32:0832 minutes, 8 secondsthis. And so I think I I I understand what my perception of, hey, what's why why why are they investing this much and
+32:1632 minutes, 16 secondsleaning forward and understanding in three years the you know the the the the winds may change a little bit in
+32:2432 minutes, 24 secondsWashington uh at least at least get the regulation down in the books now. What is the market opportunity? Why uh are we
+32:3232 minutes, 32 secondsas a as a as a crypto economy and and and both federal and state um legislators and regulators uh getting
+32:4032 minutes, 40 secondsbehind this? What's the opportunity if we can just kind of net out like what we see is kind of the some of the top opportunities here? Obviously, it's
+32:4732 minutes, 47 secondsstable coin payments, but what what what use cases are we solving? The current system works fine. Just kidding. It doesn't.
+32:5632 minutes, 56 secondsThank Thank you, Dom. I think the current system works fine in the US for a lot of US persons. I think outside of
+33:0333 minutes, 3 secondsthe US it it certainly does not. Uh and I think companies like Mastercard and Visa looking at this space, you know, they're like the Yankees. They won
+33:1133 minutes, 11 secondsforever. And what do the Yankees want to do? They want to hire the best players so that they can continue uh winning forever. So, um that that's kind of the
+33:2033 minutes, 20 secondsway that I I I look at this. uh not saying these companies are the best, but they've certainly been around for a while doing uh what seems to be uh
+33:2833 minutes, 28 secondspotentially the right thing, but um they want to play, they want to be ready for the future. Um so that that that's my comment. I know Ken and Joe have some
+33:3633 minutes, 36 secondssome thoughts on this. But I would say certainly you know crossber payments is a um you know one of the uh the stronger
+33:4433 minutes, 44 secondsuh use cases and the uh you know one of and also one of my my favorite use cases um is around um being able to uh deploy
+33:5433 minutes, 54 secondspayments to in like uh disaster disaster areas or um areas where you're where you need relief or even uh war zones because
+34:0334 minutes, 3 secondsum you know when you have like say you have a um an area where there's a a disaster and you have um you know people
+34:1234 minutes, 12 secondsyou know on the ground there is no bank there is there's not you know there's there's you know very little infrastructure you know getting payments
+34:1934 minutes, 19 secondsto the people you know the the the the traditional structure is you know the payments get sent to some sort of you
+34:2734 minutes, 27 secondsknow um middle middle tier or middle tiers you typically it's more than one and getting that money to the uh to the
+34:3434 minutes, 34 secondsend to the the people that need it um is is a very difficult process. And the and typically those uh middle tiers take
+34:4334 minutes, 43 secondstake uh you know part of that payment, you know, for themselves, you know, as payment for services and um in many
+34:5034 minutes, 50 secondscases that the the uh the in the people that need it don't get it. But if you're able to um you know have a you know pay
+34:5834 minutes, 58 secondsyou know have a use stable coin you can actually see who actually gets those payments and you can make sure that the
+35:0735 minutes, 7 secondsthe people that are supposed to get the payment actually get it. And um and so that's that's you know just from a you know from a human perspective
+35:1535 minutes, 15 secondsum you know just for from humanity that's one of that's one of my favorite use cases is the um you know kind of the humanitarian um use case. But it kind of
+35:2435 minutes, 24 secondsyou know kind of mirrors you know the crossber payment which I think from a you know from a commercial perspective you know or you know and trade finance
+35:3235 minutes, 32 secondsthat's you know that that's that's a great use case but but from a humanitarian standpoint you know the um you know helping like you know refugees
+35:4035 minutes, 40 secondsum you know that's that's a great use case. Then of course you know you know my background is capital markets and then being able to have you know instantaneous you know you know
+35:4935 minutes, 49 secondssettlement um you know that's that that's a no-brainer. I would agree wholeheartedly and uh you know as Josh kind of sort of drove a distinction
+35:5835 minutes, 58 secondsbetween you know us here in the US and the western world and the rest of the world so to speak um I often find myself
+36:0436 minutes, 4 secondshaving to really explain the why of stable coins and other cryptocurrencies here in the US. But I know that if we
+36:1236 minutes, 12 secondswere to talk to a Venezuelan a criate or Argentinian we don't have to explain the why of a stable coin. uh for for many it's a lifeline where not only do they
+36:2036 minutes, 20 secondsnot trust the banks that's one thing but they're they're losing money effectively it's burned away through hyperinflation or there's mistrust and misdeed with
+36:2836 minutes, 28 secondsgovernments and civil unrest um and of course as as Ken mentioned the ability to to get funds into to disaster relief
+36:3636 minutes, 36 secondsareas um you know speaks to to a strong humanitarian pull yeah and I would just add on those examples not just another disaster
+36:4536 minutes, 45 secondsdisaster relief use case but just getting loans and financing access to financial products kind of what you're saying Joe for many parts of the world
+36:5336 minutes, 53 secondsnot just money movement which I think is a big crossber movement which is a big value but also I'm in a underdeveloped country
+37:0137 minutes, 1 secondor develop but I don't trust the bank I'm not getting the access to financial service I need but I I'm a good credit risk there's a lot of u benefit to
+37:1037 minutes, 10 secondshaving stable coinbacked financial services for for citizens who are out there doing the right thing globally I spent two months in Argentina. I I
+37:1937 minutes, 19 secondsworked down there for a little bit while had some clients and I saw stable coins being used firsthand. Merchants were
+37:2637 minutes, 26 secondsaccepting stable coins. They did not want to hold the Argentinian peso. Uh so it's it's not just crossber payments,
+37:3437 minutes, 34 secondsit's disaster relief like Ken said, but it's also being able to hold something that's not going to disappear or significantly lose value in a week, two
+37:4337 minutes, 43 secondsweeks, a month. Uh, and it was that fast in Argentina. Uh, that's how fast the currency was evaporating. It was a week,
+37:5237 minutes, 52 secondstwo weeks. Uh, the the menus for restaurants had dry erase so that they could continuously change the price uh,
+38:0038 minutesquickly. So, really, really interesting stuff. And, uh, yeah, I was using stable coins every day down there. One of the one of the good things about h about the
+38:0938 minutes, 9 secondsthe Genius Act is that um you have a a regulated uh stable coin. So you have
+38:1638 minutes, 16 secondsyou have a stable coin that has to meet certain requirements and so the you know whether you know like USDC that um is
+38:2438 minutes, 24 secondsone of the you know that that's you know on XDC but you have USDC. So, if you have um you know a whether it be an
+38:3238 minutes, 32 secondsinstitution or an individual, if you have a a Genius Act uh uh compliant stable coin, you know that it meets
+38:4038 minutes, 40 secondscertain requirements and you know that that that's good. You know that it you don't have to go research it. You don't have to go, you know, like in the early
+38:4838 minutes, 48 secondsdays of crypto, you had to go research things and try to figure out is it good, is it not good, you know, what's going on. You don't have you don't have to do all that. you know that it meet that it
+38:5738 minutes, 57 secondsmeets certain requirements you know whether it be USDT which is uh you know tether's genus compliant product that
+39:0539 minutes, 5 secondsAnchorage is is launching but you you know that it meets certain requirements whether you're in the United States or you're in Argentina or you're on the
+39:1339 minutes, 13 secondsother side of the planet it doesn't matter you know that you know that that's good just like you know that a crisp you know $100 bill is good you
+39:2139 minutes, 21 secondsknow that that Genius Act you know Genius Act compliant stable coin is Uh, very good. No, thank you. Thank you for that. I'll just look at the the last
+39:2939 minutes, 29 secondspoll question here. Just look at the results. What's your biggest concern around Genius Act implementation compliance costs is looks like number two. Number one is regulatory clarity.
+39:4039 minutes, 40 secondsYep. Inconsistent um uh data so far. Uh technology reporting requirements is not one of
+39:4839 minutes, 48 secondsthem. Uh it's very small amount. one on impact on interstate operations and then potential enforcement action. So yeah, I
+39:5639 minutes, 56 secondsthink they're all all highly valid, highly helpful um implementation concerns. So thank you uh thank you for
+40:0240 minutes, 2 secondsthat. I think we'll go to the last uh I have one more question for the panelists and then we'll start tackling the uh some of the Q&A questions. And so the
+40:1140 minutes, 11 secondslast question and this we kind of talked with this a little bit on the last question, but what what's ahead? What's
+40:1840 minutes, 18 secondsnext? we get the genius act uh once once things are in place uh do you see any new innovation or any you know what
+40:2640 minutes, 26 secondswhat's around the corner um from from um from the Genius Act once everything's in
+40:3340 minutes, 33 secondsplace you know what's uh what's next well I think what's next is just going to be rapid adoption because um what
+40:4040 minutes, 40 secondswe've been you know seeing is you know a lot of discussion a lot of uh people getting educated um you know a lot of,
+40:4840 minutes, 48 secondsyou know, pilot pro uh projects. And so there's, you know, kind of been, uh, you know, everybody, it's almost like if
+40:5640 minutes, 56 secondsyou've gone to a, um, you know, kind of, you know, the beginning beginning of a 5K run where everybody's, you know, pushing up toward the, uh, the start
+41:0441 minutes, 4 secondsline and, uh, so everybody's, that's kind of where we're at right now.
+41:0741 minutes, 7 secondseverybody's been everybody's kind of pushing up toward the front and I think that uh you know once we you know everything gets there's regulatory
+41:1541 minutes, 15 secondsclarity and the u especially the the the large financial institutions are comfortable they know they know what you
+41:2241 minutes, 22 secondsknow what the rules are and they know that they they're not going to get the they'll be be able to play within uh within the rules and they know what the
+41:3041 minutes, 30 secondsregulators are going to be comfortable with and um that's going to be when the uh uh the gun goes off and and we're all
+41:3741 minutes, 37 secondsrunning and I said when that point comes uh you know hold on I think that's what's coming. I don't think I don't think there's going to be some kind of
+41:4541 minutes, 45 secondsnew innovation that all of a sudden hits us. I think we're just going to we're going to start running that adoption curve is just going to
+41:5141 minutes, 51 secondstake off is Yeah. Yeah. I I I agree with Ken wholeheartedly. Joe, do you have a comment on that? I've got I've got one
+41:5941 minutes, 59 secondson implementation, but if you got a comment on what's ahead. You know, I think we we we sort of alluded to it earlier in our conversations uh with
+42:0642 minutes, 6 secondsrespect to uh we'll figure out what substantially similar really means uh when the states start interacting uh with with uh the regulators at the
+42:1442 minutes, 14 secondsfederal level, right? And from my from my standpoint, I mean, I see tokenization of assets um real world assets kind of as the next
+42:2242 minutes, 22 secondsphase. That's kind of the first ph for payments stable coins. And then and then there's more contemplation, more thought
+42:3042 minutes, 30 secondsas we really dive into the next paradigm which is tokenization of assets. That's for another discussion. Um but uh wanted
+42:3942 minutes, 39 secondsto hit on a few. Yeah. So so Josh you had a you had a point you wanted to make. You were saying on on the other side of it.
+42:4742 minutes, 47 secondsYeah. So just on the the implementation side and when the rules come out. So there there seems to be a federal preeemption for the the federal
+42:5642 minutes, 56 secondsqualified payment stable coin issuer from state money transmitter rules. Um,
+43:0343 minutes, 3 secondsbut it's not explicitly clear on um are the these federal qualified payment
+43:1143 minutes, 11 secondsstable coin issuers only allowed to issue and redeem stable coins to avoid money transmitter rules or are they
+43:1843 minutes, 18 secondsallowed to do all types of money transmitter related activity as long as it's using uh their issued stable coin?
+43:2743 minutes, 27 secondsSo that that's one piece that I'm interested in learning more about uh what comes out from the Fed and potentially states on that. So I I just wanted to mention that.
+43:3843 minutes, 38 secondsVery good. Thanks. Thanks for that.
+43:3943 minutes, 39 secondsYeah. So I think we'll start hitting on Thank you. Thank you for the discussion so far. I think we have some good follow-up questions that's going to take
+43:4643 minutes, 46 secondsus to uh kind of kind of go deep on a few topics. And so I think just just hitting on the use case and what are the
+43:5543 minutes, 55 secondsopportunities uh aspect there's a couple questions on well if if well securities are tokenized that's one you know would there would there be a need for the
+44:0344 minutes, 3 secondsmiddleman like the DTCC uh and and maybe on a parallel track uh
+44:1144 minutes, 11 secondsquestion on um when if stable coin usage starts to scale uh and does it does it
+44:1744 minutes, 17 secondsum mitigate or you know I guess replace traditional payment processors. So, you're you you're using your card at the
+44:2544 minutes, 25 secondsterminal um or you're using some type of cool new crypto wallet that's more um more liquid with stablecoin. Um your
+44:3344 minutes, 33 secondstransaction fees, you're then the merchants aren't getting hit with the fees. And as a consumer, you're not being charged the same fees because when
+44:4044 minutes, 40 secondsyou send a Venmo payment or a, you know, a a a PayPal payment or other payments as consumers in various cases, you're
+44:4844 minutes, 48 secondsgetting hit with fees and in the end, the merchants are charging it back. Anyway, a lot of fees involved, you know. So, there's a there's a fee aspect um where the
+44:5544 minutes, 55 secondsconsumer may not know or care they're using a stable coin. They might, they might not. And then and then there's really a settlement um middleman aspect
+45:0345 minutes, 3 secondskind of where do do you see this regulation um really helping promote those use cases that that could make an impact in both areas?
+45:1245 minutes, 12 secondsI'll answer um one of the questions there. the um you know one of the things that uh you know I had heard you know early on is I heard people talking about
+45:2145 minutes, 21 secondsyou know with um with tokenization of securities you would have you know things like custodians would go away you
+45:2845 minutes, 28 secondsknow that that's simply not the case um you know the the way that uh you know kind of the flows and and the way things
+45:3645 minutes, 36 secondsyou know kind of flow you know ch uh would change but um the the thought that a custod custodian would go away or DTCC
+45:4445 minutes, 44 secondswould go away. That's that's simply not not the case. You know the you know how you know things will work in a different
+45:5145 minutes, 51 secondsway in a more efficient way. But um you know in the case of a custodian you know you're still going to have to have fiduciary responsibilities. You know
+46:0046 minutessome the things that that make our you know financial you know uh infrastructure you know safe you know
+46:0746 minutes, 7 secondsfor uh institutions and for you know retail consumers. It still they still have to be there. it's um you know what we're not going to just you know throw
+46:1546 minutes, 15 secondseverything out the door. Um you're still going to have the the things that make it work. You know you had um you know
+46:2246 minutes, 22 secondschairman Atkins of the SEC you know again I said earlier in this call it surprised me um just here recently and
+46:2946 minutes, 29 secondshe said that he foresees that uh securities be tokenized you know all securities be tokenized within 2 years.
+46:3646 minutes, 36 secondsI mean that was that to me that's shocking. Um but um it doesn't mean that everything gets thrown out the door.
+46:4246 minutes, 42 secondsthat's going to be done in a very organized way. Uh DTCC will be a part of that. And I can tell you right now, I mean, I know the people at DTCC, they
+46:5046 minutes, 50 secondshave been, you know, forward looking on this for a decade. Um they're they're not just sitting back, you know, um sitting there, you know, doing what
+46:5946 minutes, 59 secondsthey've been doing, you know, for the last, you know, decades. They, you know, they have an innovation team. Uh they are very forward-looking. And so, you
+47:0747 minutes, 7 secondsknow, they're they are going to be a part they are part of the innovation and so they'll be part of the of the change that comes and so will, you know,
+47:1547 minutes, 15 secondscompanies like u you the custodians that are out there uh BMY Melon, State Street, Northern Trust, JP Morgan, the big four, they are all leaning into this
+47:2447 minutes, 24 secondsand so um you know that it'll they will all be part of the of the new um you know paradigm that comes and so um you
+47:3347 minutes, 33 secondsknow it's going to and this all it's going to be very exciting. Yeah, I I'll just piggyback off Ken, completely agree. And then, you know, uh as these
+47:4047 minutes, 40 secondspayment use cases continue to be developed and fees are continuously shaved and shaved and shaved, I think we'll see new uh products or existing
+47:5047 minutes, 50 secondsproducts start being used more than uh prior products. I think Twitter is going to launch their uh excuse me, X is going to launch their uh all-in-one platform.
+48:0148 minutes, 1 secondI know they've been getting money transmitter licenses kind of uh almost secretly. Um so people are going to be able to move crypto uh instantaneously
+48:1048 minutes, 10 secondsthrough their X app some point in the near future. So I think there's really really exciting things ahead of us. I think you know um how this adoption
+48:1948 minutes, 19 secondstakes over for folks that are not used to paying for things on their cell phone. Uh for them it may take a little bit longer. uh but eventually I think
+48:2848 minutes, 28 secondsthis this will end down and be beneficial for uh all consumers involved and for the payment rails uh on the DTC
+48:3648 minutes, 36 secondsside DTCC side you know what you know what middlemen um are are maybe eliminated or removed I think I think
+48:4348 minutes, 43 secondsthere will be an opportunity for um uh the DTCC's of the world clearing houses for there there there is a lot of manual
+48:5248 minutes, 52 secondsprocess that the payment stable coins uh will have the opportunity to reduce or eliminate in a good way making markets
+49:0049 minutesmore efficient. So the staff might look different um but but the efficiency uh I believe is the real opportunity and that that's
+49:0849 minutes, 8 secondswhat will increase uh similar on the um the consumer consumer payment side. I think I think there will be more
+49:1549 minutes, 15 secondsefficiency there. I think fees the the hope the promise the the the dream is those fees will come down and and um and
+49:2349 minutes, 23 secondsthat market it is more competitive uh instead of being a duopoly uh and so I think I think there will be I think there will be some positive innovations
+49:3249 minutes, 32 secondson those front and Joe you you had something nothing on that in particular I was sort of looking at some of the questions because we're talking about yeah you know folks issuing different stable
+49:4049 minutes, 40 secondscoins and if if every as as one question put it every Tom Dick and Harry many different reasons I mean, one, um, it it costs a lot of money and takes a lot of
+49:4949 minutes, 49 secondstime to issue a stable coin if you're going to be compliant, as you ought to be, uh, with the Genius Act. You have to have the cash or short-term treasuries,
+49:5649 minutes, 56 secondsthe equivalents, uh, to back that. And so, if we think about an analogy that came to mind on short notice here, there
+50:0350 minutes, 3 secondsare some people that rent and there are some people that own the home, right?
+50:0750 minutes, 7 secondsSo, it may make sense to own the home or in this case, issue your own stable coin or it may make sense to rent, right?
+50:1250 minutes, 12 secondsit's somebody else's headache to shovel the snow or or ensure that the maintenance is up and in and and running. Um, and it may make sense to if
+50:2050 minutes, 20 secondsyou're some of these large retailers or shipping companies, for example, to use existing triedand-true rails, uh, and without endorsement, USDC or or Tether
+50:2950 minutes, 29 secondsor some of the more mainstream, if I may, stable coins, uh, that are out there, uh, versus taking the time,
+50:3650 minutes, 36 secondsenergy, uh, and certainly the cost and and and headache, if you will, of developing your own stable coin. But I think it's interesting if we want to
+50:4450 minutes, 44 secondstalk about the philosophical aspect. I'm sure the crypto folks would love to talk about monetary fiscal policy. Uh but historically governments issuing uh um
+50:5350 minutes, 53 secondsyou know their own currency is something that is relatively new uh in the context of overall history. We've we've had a history of competing currency. If we
+51:0251 minutes, 2 secondswant to go back to beads and feathers, we could certainly take the conversation back there, but you know, governments issuing currency and being the sole uh
+51:1051 minutes, 10 secondsyou know, sort of monopolistic power and issuing currency is something relatively new. Um, so we we may see a a uh uh we
+51:1851 minutes, 18 secondsmay see sort of um going back in time uh to a period where we had competing currencies that weren't just issued by government. But uh I I know it took us
+51:2651 minutes, 26 secondsin a little bit of a philosophical twist there, Dom, but uh are you talking about are you talking about like are you talking about like Bitcoin or
+51:3451 minutes, 34 secondsWell, sure any different type of of of cryptocurrency. Well, here I'm obviously we're talking about different stable coin, you know, which stable coin do you want to use? And I think it will
+51:4251 minutes, 42 secondsultimately come down to to the utility and what what ultimately you hope to gain and what is the promise of that.
+51:4851 minutes, 48 secondsAnd then of course along with that or implied with that uh are the tokconomics and the safety, security and compliance of that particular uh stable coin asset.
+51:5851 minutes, 58 secondsOkay.
+51:5951 minutes, 59 secondsWell, I think that leads to I mean maybe two final points here. Um interoperability.
+52:0452 minutes, 4 secondsA lot of stable coins. Are they all going to survive? Are some going to persist while others not? And then the interoperability will be uh important
+52:1352 minutes, 13 secondsand so um I think that's a a challenge that uh the market will there is there is some technology and and solutions to
+52:2152 minutes, 21 secondsaddress that now but any any quick thoughts on interoperability interoperability. Sure, I I'll start. I mean, it depends on the platforms that
+52:2852 minutes, 28 secondsare willing to support um that stable coin or that digital asset, right? And we see we already see a little preview of that. If you're looking at
+52:3552 minutes, 35 secondstraditional, listen to me, traditional crypto assets, traditional cryptocurrencies that are on platforms, there is, and I know Josh, you know that
+52:4452 minutes, 44 secondsin our compliance circles, there's a token or coin due diligence policy where these tokens or coins are heavily vetted uh from a compliance, a technical
+52:5252 minutes, 52 secondsinformation security, operations perspective, tokconomics review before they're even listed on these platforms.
+52:5852 minutes, 58 secondsAnd if you want your uh your specific token, whether that's a stablecoin or some other crypto digital asset to be successful, it has to be widely accepted
+53:0653 minutes, 6 secondsand widely used otherwise what what sort of utility does it have in the marketplace?
+53:1253 minutes, 12 secondsYeah. And there's there's also a technical integration part to that as well. It just because even after even after you you it's vetted, it it doesn't
+53:2153 minutes, 21 secondsautomatically, you know, move. And so there's um there's there's a technical component to it to it as well that um has to be there. So, if it's not, you
+53:2953 minutes, 29 secondsknow, as Joe mentioned, if it's not widely used, then um it's just it's just naturally going to die off or it'll only
+53:3753 minutes, 37 secondsbe used in a very niche market, right? No, thank you for that. Um so, so last comment here. There was a question
+53:4453 minutes, 44 secondson safety and security uh compliance uh lot of how do you prevent illicit activity from happening? I think that's a great topic for a future uh webinar.
+53:5353 minutes, 53 secondsThere are tools out there. Uh Crystal is a part of that. There you go. There's your there's your plug.
+54:0054 minutesBut well, we'll save that for a future webinar. Uh and and happy to talk uh more on that topic. But it this is absolutely uh a
+54:0954 minutes, 9 secondschallenge. There's a lot of great technologies, companies, and solutions out there that are addressing this challenge. But it is like any any any
+54:1754 minutes, 17 secondscyber um uh challenge. there's a cat-and- mouse game and it's it's always kind of understanding what the illicit
+54:2554 minutes, 25 secondsplayers are doing and and catching up, getting ahead and and so I think I think that that sets us up for a future be on the lookout for a future uh discussion
+54:3354 minutes, 33 secondson on on the uh on the uh compliance safety and law enforcement angle. But uh thank you so much. This this webinar
+54:4154 minutes, 41 secondswill be is is being recorded. It will be on YouTube. So, uh, it should be posted by tomorrow, I want to say. Um, but but
+54:5054 minutes, 50 secondsyou just go on YouTube and you search Crystal Intelligence. We have our own area of YouTube. All our prior webinars are there. This webinar will be there,
+54:5854 minutes, 58 secondsbut by virtue of you all attending, you should be getting a link as as part of your followup. But I really appreciate uh Ken, Joe, Josh, your time and
+55:0755 minutes, 7 secondsattention here today. I appreciate the audience for your questions and and have a great rest rest of your day. Thank you so much, everyone. Thank you. Thank you everybody. Thank you everyone.

@@ -1,0 +1,1071 @@
+
+Search in video
+Introduction
+0:00
+The reason that this matters is because this brings the traditional capital
+0:05
+markets infrastructure on chain. So you can now start to use treasuries, use
+0:12
+CLOS, use these financial products um as collateral uh to borrow, to hedge, to
+0:19
+leverage against, not just buying and holding them. So as we make steps as an
+0:25
+industry, as we bring treasuries on chain, it's a it's a move towards
+0:30
+greater maturity of the space, but until we really have that infrastructure around it that is expected in off-chain
+0:38
+environments, we're not going to see the same level of sophisticated and traditional investors that are
+0:44
+participating in these types of assets on chain. So, A has always been a early
+0:51
+adopter and innovator as it relates to real world assets. Welcome to Tokenized, the show focused
+0:58
+on stable coins and the institutional adoption of tokenized real world assets.
+1:04
+My name is Simon Taylor. I am your host for today, author at Fintech Brain Food
+1:09
+and Advisor at Sardine. And I'm joined as always by the fantastic, the incredible, the unbelievable, the
+1:15
+effevescent Kai Sheffield. How are you doing, sir? I'm fantastic. We've got great guests.
+1:21
+We got a lot to cover. Let's get into it. All right. Yeah. Let's start with our our first guest today, Andrew Hang,
+1:27
+founder of Conduit. Tell us about you, Andrew. Tell us about Conduit. Yeah. Well, thanks for having me, Simon
+1:33
+and Kai. Um, I'm the founder of Conduit. We do chain infrastructure. Um and so we
+Centrifuge's role in tokenizing real world assets since 2017
+1:38
+help teams like Athena, Securitize and Polygon uh build their own custom chains. Um and you know ultimately kind
+1:46
+of the last mile and customization, performance, scalability, security uh solutions there. Um what we're really
+1:53
+excited about over this next year is kind of the institutional and fintech adoption. So I think Circle and Stripe
+1:59
+launching their own chains here is incredibly interesting for us. Um, you know, we spent a lot of time in kind of
+2:05
+the core crypto native categories and it's very exciting to start to see some of that institutional and and kind of
+2:10
+finance um kind of from offchain uh start to come on chain. Yeah, I would love to get your thoughts
+2:16
+on that actually as we come to our first segment of the show. But um we're also joined really really excited to be
+2:21
+joined by Budgi Illuminati who's the CEO of Centrifuge. Um thank you so much for
+2:26
+joining us. Tell us a little bit about you and tell us about Centrifuge. Hi,
+2:32
+thank you so much for having me. I've been a major fan of this show from the very beginning and happy that me sliding
+2:38
+into your DMs uh many many months ago resulted in this conversation today. So,
+2:45
+Centrifuge uh we've been around since 2017. We are one of the original founders of
+2:51
+the idea of real world assets. So, we've been really focused on tokenizing assets, creating this bridge between
+2:57
+off-chain institutional financial products and onchain capital allocators and treasury management. We are at a
+3:05
+billion in TVL, so of course small in the grand scheme of things, but top
+3:10
+three as it relates to RWA platforms within the sector right now. um over the
+3:18
+many years have survived multiple cycles, learned a lot, iterated a lot,
+3:24
+uh focused on different types of asset classes, different types of go to market motions and have really gotten to this
+3:30
+point today where we do act as this liaison where we strive to be the best on-ramp for institutional asset managers
+3:38
+to come on chain to tokenize, manage and and distribute those funds. Uh so really
+3:43
+excited to be here and and jump into the conversation today and I should mention as well we're
+3:48
+excited to welcome you as a sponsor. Tokenized is also brought to you by our friends at Centrifuge. Through every
+3:55
+crypto cycle Centrifuge has been building and today they are the market leader in tokenized real world assets.
+4:02
+Back in 2017 uh they were one of the first to mint a
+4:07
+stable coin backed by real world assets with Maker. uh they now launched an RWA
+4:14
+lending capability with ARV which is over a billion in total value locked and
+4:19
+centrifuge works with major institutional partners to tokenize and distribute their funds from treasuries
+4:27
+to credit strategies. Centrifuge connects traditional finance to decentralized markets creating new ways
+4:35
+to access and put capital to work. Centrifuge is more than simply part of a
+Debate on tokenized deposits vs stablecoins in banking
+4:43
+tokenization wave. They've been kind of driving it in many, many ways. Whether you're an asset manager or a fintech
+4:49
+exploring tokenization or a stable coin allocator seeking high quality institutional yield, look no further
+4:55
+than Centrifuge. Two quick bits before we get into the content. Uh reminder, we're doing our first ever tokenized
+5:03
+live in London on the 11th of September. Tickets are completely free. Thank you to our sponsors. Uh to register, click
+5:09
+on the link in the description wherever you're watching or listening. And of course, I need to remind you that views
+5:15
+and opinions of our contributors today are their own and might not reflect those of the companies they represent.
+5:22
+Please don't take anything we say as tax, legal, or financial advice or fashion advice or sports advice. It's
+5:27
+not advice. Do your own research, folks. All right, Kai, you wanted to start with something today, I believe.
+5:33
+Yeah. Before we get into the news, uh, Simon, we we got to start with your your latest fintech brain food piece. Every
+5:40
+bank should tokenize deposits. Uh, this is something we've been debating for a long time. I've gotten a bunch of people
+5:46
+pinging me about this this blog post. Give us a a quick rundown on your thesis
+5:51
+here and then would love to hear Andrew Baji and others your take on tokenized deposits.
+5:57
+Sure. The world seems to think it's stable coins versus uh banking and tradi. And I
+6:04
+just don't think that's true. The world seems to think that stable coins means we're entering a world of narrow banking
+6:10
+and that this is de facto competitive with banking. And there will be some
+6:16
+competition, don't get me wrong, but I can't imagine a world in which some of the world's largest balance sheets don't
+6:23
+play a useful role. I really really love what Centrifuge is doing and I really love this alternative way of um
+6:31
+providing you know stable coins and deposits and different types of lending. The market needs credit. The market
+6:36
+needs innovation but the market needs people that have learned from centuries of market cycles like booms and busts
+6:45
+and recessions to be able to absorb shocks. The market needs people that can serve Fortune 500 companies. And those
+6:52
+Fortune 500 companies will probably want to get access to stable coins, that want to get access to DeFi markets, and they
+6:58
+want to do that through their through their bank partners. So, I think it's less of a stable coins on one end of the
+7:06
+spectrum and tokenized deposits on the other, and these things are fighting each other. I actually think they will
+7:11
+coexist in the same universe in so far as really a token is a token, but what
+7:17
+it's backed by may vary. A token can be backed by treasuries and uh a stable
+7:24
+coin issuer. A token could be backed by something else and may not be uh a permitted payment stable coin in the
+7:30
+United States under Genius. Or it could be backed uh under the Genius Act by deposits held at a bank and those banks
+7:37
+can lend against it. they can do whatever they want. And there was a lot of people speaking to me saying, "Simon,
+7:44
+how would you tokenize a deposit?" And I was like, "Well, surely it's very simple, isn't it?" And they were like,
+7:50
+"No, nobody's ever drawn the diagram for me." So, uh, one of the things I did was
+7:55
+just build a really simple sequence diagram that says, "Okay, well, all you
+8:01
+have to do is move the deposit into a minting account." So the deposit just stays inside the bank from a balance
+8:08
+standpoint and then you mint a token on chain that represents that deposit. And
+8:14
+so long as that deposit can still be found later on from a bank's perspective, you can do whatever you
+8:19
+want with it. You can lend against it. You can do all of your treasury management. There's just this other
+8:24
+version of it existing on chain that you now need to track and chase. And then once it's minted, you can then send it
+8:31
+to a beneficiary wallet and out into a blockchain network. Now,
+8:37
+which blockchain network with which compliance requirements? That's the
+8:42
+thing that everybody seems to get to second, and I think that's the debate, and that was a lot of the thrust of my argument is there's still a bunch of
+8:49
+questions about privacy and KYC and all of the engineering trade-offs. So, so
+8:54
+that was the centerpiece of it. But but Andrew, you know, you you sort of mentioned you're interested in uh larger
+9:00
+organizations coming on chain. What what are your thoughts on tokenized deposits? Bad thing, good thing? I
+9:06
+I mean, I think it's uh I think it's a good thing. I I think it's uh it's somewhat similar to stable coins. I
+9:12
+think it's ultimately a different kind of asset, right? I think stable coins typically backed by short-term treasuries or overnight repo markets.
+9:19
+You can have a lot more confidence in that. Um, bank deposits are pretty generally pretty high quality asset. Um,
+9:26
+I think there it's a bit harder to get on chain kind of as you alluded to um,
+9:31
+in a way that preserves uh, kind of privacy and and a lot of the compliance and regulations that banks have to deal
+9:37
+with. Um, and so I think for us ultimately that's maybe what the
+Privacy and compliance challenges for on-chain bank deposits
+9:42
+interesting problem is is if you can bring these onchain deposits or kind of these deposits on chain give access to
+9:49
+liquidity and DeFi native services. Um, certainly that's something like DeFi would be interested in, right? Is new
+9:55
+liquidity streams kind of coming into the ecosystem. Um, but is there a way to do that while satisfying kind of uh
+10:01
+really kind of the permissioned and private nature that you know these kind of exist in offchain today? though. Um
+10:08
+ultimately kind of for us how we think about it is um one it's a huge source of
+10:14
+what we would call sustainable um kind of supply and demand for blockchains. Um
+10:19
+I think if you look at a lot of the organic activity today um it's a lot of speculative uh uh kind of uh finance and
+10:27
+it tends to move around into kind of various places and a lot of these chains are kind of competing over uh kind of
+10:33
+those same sources of of speculation. Um but why things like the stripe chain and
+10:38
+like circle chain and you know maybe we'll talk about the Google L1 kind of down the line is like these have the
+10:43
+opportunity to bring um you know kind of these more sustainable sources of demand on chain in a way that uh I think leads
+10:51
+to durable revenues and uh all the things that I think uh us and and Baji here at Centrifuger are kind of excited
+10:57
+about. Yeah, I I think you raised a couple of great points and and to the point uh about um what Google's
+11:04
+announced um from from the looks of it uh they did a pilot I believe on their um closed permissioned um chain uh in
+11:12
+back in March with CLS Bank who are one of the major FX banks in in the world
+11:18
+and so that would resemble sort of the Google version of a of a Kexus or a city token services. I think these things are
+11:24
+very very interesting because um certainly in the case of Kexus or City or HSBC they're already moving trillions
+11:31
+as tokens and people wonder like why are banks doing moving millions as tokens?
+11:37
+Couldn't they just update their mainframes and actually unless you've worked inside of banking like couldn't
+11:43
+they just it it seems like a really easy thing to do. It's possibly the hardest thing they will ever do in existence. it
+11:50
+might actually be a lot better to abstract their main frames away into one
+11:55
+consistent global ledger and use that as their source of truth over time. And what that does is inside their closed
+12:01
+loop is it gives them 24/7 instant settlement across borders. What I'm
+12:06
+suggesting is tokenized deposits help them gradually go open loop. And so I'm
+12:12
+very excited by, you know, ZK Sync's Previdium's idea and what that might
+12:17
+look like on some of the new L1s and how you could give banks sort of the ability
+12:22
+to take their deposits onchain, but in a semi-closed loop, but in a way that
+12:28
+could be atomically swapped for a stable coin andor some other asset that then flows onchain just as everything else
+12:34
+does. Because they have a lot of Fortune 500s that want to give give access to stable coins. And this is a really neat
+12:41
+firewalled way to almost think about how you might do that. Um, Budgie, I know you've been doing a lot bringing real
+12:47
+world assets on chain for a while. What are your thoughts on the deposit sides if any? Yeah, I think it's really an interesting
+12:54
+conversation and there's of course a lot of opportunity for banks and it makes a lot of sense that banks are interested
+13:01
+in this. to touch on Andrew's point a bit and and where it gets most relevant to Centrifuge is what can you then do
+13:08
+with that token once it's on chain. So, are there opportunities to make it more
+13:13
+programmable and more deeply integrated within DeFi? Um, can you lend against it
+13:18
+and can you start to use it as this collateral asset which I think is very
+13:24
+interesting in many ways. From the bank's perspective, it makes those deposits more sticky. From the users
+13:31
+perspective, it creates opportunities for broader utility um and growth and
+13:38
+leverage within the system. Um there are
+13:43
+you know some questions around what does that do like for potential systemic
+Regulatory considerations for tokenized deposits and systemic risk
+13:49
+risks if there's effectively the ability to still for the bank to still lend against the deposit and then a second
+13:56
+life created for that same dollar on chain. So it amplifies leverage across the system and could you know
+14:04
+potentially be a flag in terms of like how regulators are thinking about the the potential utility. So one area to
+14:12
+definitely continue to look at and double click on. I think ultimately like we are making very good progress but
+14:19
+there is still a big question around if the Fed and FDI will agree to this. Um
+14:25
+from their perspective there's quite a lot of focus of course on the Genius Act clarifying how banks can engage in
+14:31
+crypto activities. What are the like some of the foundational and structural rules that need to be agreed upon? And
+14:40
+this is another area that will require a lot of nuance, a lot of work to be done
+14:45
+in terms of how it can be regulatory, how it can be um sound and work really
+14:52
+well within the existing structure and system. non-trivial. Non-trivial. Yeah. I mean, just thinking
+14:58
+about the uh rules right now around internationally agreed risk waiting for
+15:04
+different types of assets and uh like how much has been built and baked into this system that needs to be
+15:12
+thought through and built in a way that is protects you know the the most
+15:18
+valuable asset we have as a country which is our banking system. the other type of RWA um the the risk weighted
+15:24
+assets. Yes, the the the true bankers know the know know that one for sure.
+15:29
+Yeah, it's I didn't use the acronym to spare the audience. Yeah, I feel like we go back and forth on it. Sometimes we say RWA, sometimes
+15:36
+we don't. And I I I fully understand the argument to not use to not use that term. I think on on this topic there are
+15:43
+a bunch of big open questions. I think my starting point is just where are we today and what have we seen to date and
+15:50
+I think that has been large banks you know like JPM you know using tokenized
+15:56
+deposit you know type of systems for 24/7 intra transfers and it seems like
+16:03
+that is working and you know they've announced you know significant volume uh that they've moved you know through
+16:10
+Kexus and and the JPM you know coin system uh and then city with city took services. I don't know if they've
+16:15
+announced, you know, volume, but sounds like a a similar use case of if you're a global bank and you have many different
+16:22
+core ledgers and, you know, people want to move from JPM New York to Singapore to London, like being able to have this
+16:28
+abstraction of a new modern 24/7 ledger
+16:33
+that happens to be a permission blockchain where you can move funds, you know, 247. So I I fully expect that that
+16:40
+is a use case that has value and will continue to grow. I think the question
+16:45
+in in your piece, Simon, is do we end up going beyond that from both a regulatory
+16:52
+perspective and a bank risk tolerance perspective? Are you going to be able to have deposit tokens that actually are
+16:59
+able to go to consumers outside of the bank? And it's interesting to see this next step of, you know, Kexus is kind of
+17:06
+a closed permission, you know, system just operated by JPM. They now have JPMD
+17:12
+issued on base. And so now you're using a public blockchain where theoretically
+17:17
+someone could use you any third party interface to be able to hold JPMD, but
+17:22
+it's still, as I understand it, permission to only JPM customers. So JPMD can't just trade on exchange. It
+17:29
+can't circulate freely. you know, can't be held by someone who's not a customer. And so I think there's a question of
+17:34
+will tokenized deposits be able to function more like stable coins where
+17:39
+they can flow freely or if not then if you always have this dependency around
+17:45
+you have to onboard a customer into the bank. Is it more about serving existing
+17:50
+customers and just doing 24/7, you know, faster, you know, internally inside of a bank? Or are there systems where you
+17:58
+might have onchain finance protocols that are KYB or KYC and banks actually
+18:03
+acquire new customers, they get the right KYC information, and they serve
+18:09
+their deposits into these different ecosystems. And it's just not clear what that's going to look like yet. Uh but I
+18:15
+think right now it has not left the walls of a bank and it's not obvious
+18:20
+whether or not it's ever going to leave the walls of a bank where stable coins are very clearly this openloop you know
+18:26
+ecosystem that is moving between many different entities not just inside the the stable coin issuers. Yeah, I think
+18:32
+they're two ends of a spectrum today. And what I can see is you don't bring
+18:38
+two trillion on chain um without thinking it through first. Like you're going to definitely really be thoughtful
+18:44
+about every potential risk. But I was thinking more about their corporate customers, not their consumers. I large
+18:51
+global corporate has supply chains in 190 countries. for that large global
+18:57
+corporate that is already fully KYB that you have a very secure relationship with. Um that customer is somebody that
+19:06
+is very interested in stable coins and asking you about it. And so that customer, how would you give them an
+19:13
+easier on-ramp into the stable coin ecosystem whilst retaining as much of
+19:18
+that relationship as possible as a financial institution? The way you might do that is in some sort of uh VPN like
+19:27
+version of going on taking your deposits on chain. Your deposits exist on chain
+19:32
+but only for your KYB to KYC customers. But because they're now on chain, you
+19:38
+can atomically swap those for stable coins as a KYB customer with somebody else. That corporate can cash manage
+19:45
+however they see fit with multiple institutions. You as a financial institution have made their lives
+19:51
+easier. That was my primary sort of baby step that I was suggesting really as as
+19:56
+an evolution of where they are today because I expect them to be incredibly cautious, incredibly baby steps,
+20:03
+especially the GIS focusing really on their institutional clients. I do think
+20:08
+for some of the smaller banks for the embedded finance players for the fintech customer uh ecosystem like a Robin Hood,
+20:15
+Revolute, New Bank, I think you'll see a lot more innovation there on how do deposits change for stable coins and I
+20:22
+think that like consumer acquisition funnel becomes a very interesting question for those non-banks and a very
+20:29
+interesting question for remittance companies. Like I really think Kai with with that segment you you've definitely
+20:36
+got something. And in that world, remember all of the non-banks are
+20:41
+customers of the big banks. So maybe those non-banks who've gone more into the onchain world would like a tokenized
+20:47
+deposit to swap against when they're when they're balancing things. So I think there are ways to serve this ecosystem that are not we we tend to
+20:54
+default to thinking consumer but actually there's a much broader opportunity for financial institutions
+21:00
+that's that's much lower risk. So baby steps baby steps. Andrew would would love your take on like do you think
+21:07
+banks are going to if they do a tokenized deposit be willing to do it on
+21:13
+an existing chain or are they going to look to say let's create our own chain and then if they're going to create
+21:18
+their own chain is it an L2 is it L1 like what what have you seen in in condo as you've evolved from you know serving
+21:25
+crypto natives to institutions of do you think part of the requirement of creating the tokenized deposit is going
+21:31
+to be their own chain along along with Yeah, I I think um you know in our
+21:37
+explorations there I think every institution is a little bit different um and it's like still very early. I think
+21:43
+that being said in terms of what we're seeing as hard requirements, I do think that uh I think a major question that
+21:51
+comes up is is this mostly an internal kind of facing ledger or is this something that connects with other banks
+21:57
+and institutions? And if it does, is that some sort of consortium chain? Um
+22:02
+and if it is a consortium chain, how does our privacy and kind of permissioning kind of plug into that? Um
+22:08
+and so it's a pretty complicated problem. I would say that uh maybe
+22:14
+there's like multiple layers to the solution and as an example if you look at a stripe L1 which uh you know is not
+22:21
+a roll update um you know I think there's an aspect of that which many different players can be a part of that
+22:27
+chain and you know be uh you know it's it's not owned by any single entity um
+22:33
+from an uptime perspective having multiple operators is is kind of helpful and then uh for things like privacy and
+22:39
+permissioning which are very hard to do at an L1 level um because of the you
+22:46
+know the nature of them is that many people are you know have the ability to validate uh and kind of be a part of
+22:52
+that network. That's really where we think rollups are going to play the biggest role is in you know on a per
+22:59
+kind of issuer or like bank or or kind of institution basis be really the hub and kind of core ledger uh for you know
+23:07
+kind of serving those kind of use cases. Um and you know the the ultimate
+23:12
+connectivity layer is probably going to be you know these more neutral L1s whether that is something like stripe L1
+23:18
+uh circles arc or even something like Ethereum. I think that's such a good point. Like the L2 is the mirror to your
+23:26
+internal core ledger and it would we don't know what the L1's going to be. Um
+23:31
+but that L1 being somewhat neutral and you know credibly neutral is a really
+Aave's RWA Market Horizon for on-chain collateralized lending
+23:37
+important point because uh if it is credibly neutral then you avoid platform
+23:43
+lock in and I think a lot of financial institutions in particular have avoided going fully cloudnative because of some
+23:49
+of the drawbacks of platform lockin. Even if you're multicloud even if you're something else there are good reasons
+23:56
+why platform lockin is a concern. Um and there are lots of uh sort of uptime
+24:02
+reasons. Sure. There are lots of security reasons. There are lots of other good reasons why platform lockin
+24:08
+is to be avoided. So the more credible neutrality you can build whilst also imbuing it with distribution. I think
+24:14
+it's an interesting tradeoff that we're going to see these networks start to emerge because uh you know the uh
+24:22
+Kexuses and city token services have a lot of distribution but they're locked into their own ecosystem. there's only
+24:28
+so much fun you can have on your own blockchain. Uh at the opposite end of the spectrum, one might argue that
+24:33
+Bitcoin's a bit too slow for regular payments use cases. and it's sort of
+24:38
+layers above it lightning are not the VPN model of L2 that you've just described where you know the L1 is is
+24:45
+for everybody this sort of settlement infrastructure for the internet and then above that you get this uh this this VPN
+24:52
+uh which mirrors almost your internal um internal system. Great point. I we could
+24:58
+talk about this all day. Um so thank you for indulging this and Kai um thanks for bringing it up. Um I do want to bring us
+25:05
+to this other story from uh Ave. So they they've launched their RWA market
+25:11
+horizon and that enables uh tokenized real world assets to serve directly as
+25:18
+collateral within DeFi. Meaning institutions can unlock stable coin
+25:23
+liquidity against tokenized assets without needing to sell or redeem them.
+25:30
+So this is like secured lending really. Um, and for lenders, Horizon provides access to those new yield opportunities.
+25:37
+Um, so they've got a bunch of options from Superstate and Centrifuge and
+25:43
+Circle and many, many others. So, BJI, do you want to explain this one to us because I figure you're pretty close to
+25:49
+it and might know what's what's happening here. Very close to it. Yeah. And really glad the timing worked out where it was
+25:55
+announced yesterday so we can talk about it today. Um, so this is really cool
+26:00
+from Ave. It's we view it as it's more than just another RWBA market where
+26:06
+there is some RWA lending and utility use cases that are being developed on Morpho and across a couple different
+26:13
+vehicles on chain. The the reason that this matters is because this brings the
+26:19
+traditional capital markets infrastructure on chain. So you can now
+26:25
+start to use treasuries, use CLOS's, use these financial products um as
+26:32
+collateral uh to borrow, to hedge, to leverage against, not just buying and
+26:37
+holding them. So as we make steps as an industry, as we bring treasuries on chain, it's a it's a move towards
+26:46
+greater maturity of the space, but until we really have that infrastructure around it that is expected in off-chain
+26:54
+environments, we're not going to see the same level of sophisticated and traditional investors that are
+27:00
+participating in these types of assets on chain. So, A has always been a early
+27:07
+adopter and innovator as it relates to real world assets. We actually built a
+27:14
+real world asset market with them back in 2021. Um, was called RWA market very
+Institutional adoption of tokenized real world assets in DeFi
+27:21
+early, first of its kind. Uh, in retrospect, too early. At that point in
+27:27
+2021, there weren't the right assets on chain. So there was a duration and yield
+27:34
+mismatch where very long duration a couple years uh very low liquidity and
+27:39
+and pretty low yield. So we weren't able to really see that type of interest and activity that we believe we're ready for
+27:46
+now. Um we got to about 18 million but as we
+27:52
+look at Horizon they're when I checked a couple hours ago at 48 million in in
+27:58
+just 24 hours. Um, so a putting their brand behind it, putting their trust
+28:04
+behind it is exactly what we need to see for these types of primitives to to gain
+28:10
+adoption. I think Stanie posted a a tweet a couple weeks ago um saying that
+28:16
+A is now like the 37th largest bank except it isn't a bank but a network uh
+28:23
+for any financial institution to plug into to unlock non-fed correlated yield.
+28:29
+So pretty bold but also very indicative of the fact that A has established
+28:34
+themselves as this very trusted brand that's very secure that creates deep liquidity and because of that
+28:41
+positioning and influence and role that they play in the market enabling these types of opportunities
+28:49
+around RWA is exactly what's needed to see that next phase of utility and
+28:54
+growth for RWAS. So for centrifuge uh we have our T- bill fund which is JTRSY and
+29:01
+we have our AAA rated CLLO fund which is JA available. Uh Superstate has their T-
+29:09
+bill fund and then they have their uh carry trade fund which is available. So some really great RWAs from launch
+29:17
+paired with a number of great stable coins. So we're at a position now where
+29:22
+we expect this market to perform really well. We have the right RWAS in place, a
+29:29
+diversified mix of different options across the yield and risk and liquidity curve. We have the right stable coins in
+29:36
+place with a very similar structure. And then a facilitating this this exchange
+29:42
+and opportunity between the two parties. Yeah, this seems seems like a really big deal and part of a theme that we've been
+29:48
+talking about on the show for a while. It's it's pretty clear that DeFi has
+29:55
+been able to get product market fit within crypton natives where you can go
+30:00
+to a and a has been tremendously successful enabling anyone to lock up
+30:05
+ETH or other types of crypto assets as collateral and be able to borrow stable coins against them. And there have been
+30:11
+billions of dollars of loans that have been dispersed in stable coins. Uh but the question has been okay is this just
+30:17
+is it only going to be crypto assets as collateral and then you know because they're crypto assets then they're volatile and so then what's the loan to
+30:24
+value ratio around you know how you're borrowing against your ETH you know can you take all of that technology and
+30:30
+infrastructure and make it useful for assetbacked lending with traditional assets and it feels like that's been
+30:36
+like the idea for a long time but we haven't really seen it you know implemented you know at scale yet and so
+30:43
+I'm really interested Andrew I don't know if you a perspective on like you know going from pure DeFi permissionless
+30:49
+anyone can deposit anyone can withdraw to now if you're bringing in these real
+30:55
+world assets these tokenized treasuries you have to start to design for okay
+31:01
+well there's a allow list on some of these products around who can actually you hold or redeem them and so it can't
+31:08
+just be 100% permissionless across the board. How are you seeing this balance of using this open source infrastructure
+31:16
+to create lending markets while still accounting for compliance and the requirements that the institutions who
+31:23
+are working with centrifuge you know have around where their assets are held or how they're they're being used.
+31:29
+Yeah, definitely. I think the maybe the best example is something like what Athena and Securitize are building and
+31:34
+converge chain um which is you know they're in their mind is kind of the convergence of like institutional
+31:41
+capital with like more DeFi native um and stuff and so uh for those that don't
+31:46
+know like Athena is probably the I think the number three stable coin uh kind of
+31:51
+at this point um and they basically execute uh like a like a basis trade um
+31:58
+and use that yield to kind of fund uh yield for for holders. Um part of their
+32:05
+chain design is and and kind of one of the problems generally amongst cryptonative protocols is that there's
+32:11
+only a certain amount of cryptonative liquidity out there. Um and once you get to five kind of 10 billion or so, you
+32:18
+might in some ways kind of be tapped out. And the question is where is this additional capital going to come from?
+32:23
+And if you look at the snapshot of like cryptonnative capital versus capital in like the rest of the market, it's pretty
+32:30
+clear that you know there's still a ways to go in terms of bringing on uh whether it's RWAS or institutional capital or
+32:36
+kind of all this stuff into kind of more interesting DeFi native uh kind of schemes. Um, I think what it will
+32:44
+probably require, so DeFi native stuff tends to be, as you mentioned, like wild west. Anybody can kind of do anything.
+32:50
+And because of that, there's a lot of risk. I think what we're seeing is uh
+32:56
+for more of these like regulated uh RWA, you typically need some kind of KYB
+33:02
+middleman um that is running a specific set of strategies that are kind of like
+33:08
+uh you know uh given the blessing of kind of these institutions. So, Athena obviously using USDTV
+33:15
+uh which is like Black Rockck's kind of treasury bill fund um and kind of uh kind of the securitized Athena
+33:21
+relationship being able to uh know kind of who they're interacting with, knowing who they're dealing with um but then
+33:27
+being able to use a lot of the Athena strategies to generate yield I think is a very interesting kind of format for
+33:33
+how these kind of two will end up converging. I think it's fascinating to see this um
+33:40
+kind of move of liquidity into the markets through real world assets and
+33:46
+the sort of tension on both sides where the onchain markets need it um but they have to get KYB to get there and the
+33:53
+institutions want to come in but they need KYB to get there and it's really creating this this interesting pinch
+33:59
+point on how do you balance this tension of universal infrastructure that anybody
+34:04
+can access but building these these these pockets of of Kab and in KYI. So,
+New solutions for verifying stablecoin issuers and preventing fraud
+34:10
+we'll we'll come to a story a little bit like this just after the ad. So, I do need to pause here to thank our sponsors
+34:16
+and we'll be right back. This episode, if it isn't already obvious, is
+34:21
+sponsored by our friends at Visa, the leader in digital payments. Visa's tokenized asset platform or VTAP uses
+34:29
+smart contracts and cryptography to help banks bring fiat currencies onchain.
+34:36
+Whether it's launching a stable coin or deposit tokens or something else, VAP allows financial institutions to issue
+34:44
+fiatbacked tokens, improving financial efficiency and enabling programmable
+34:49
+finance. Check out the links in this episode's description to express your interest in VAP. This episode is
+34:57
+sponsored by Bridge, a Stripe company. Just as the internet made information
+35:02
+global, stable coins are making money global. Bridge, a Stripe company, is the
+35:08
+infrastructure powering that shift. It's built for speed, scale, and simplicity.
+35:15
+Bridge helps businesses send, store, and accept stable coin payments instantly.
+35:21
+You can serve global customers without navigating the complexities of setting up those crypto rails. It's how
+35:27
+companies like X, Shopify, and ATM unlock new markets, reduce their FX
+35:34
+costs, and move money at internet speed. Explore the future of global financial infrastructure at bridge.xyz.
+35:42
+All right, thank you to our sponsors. Uh the next story was actually about Circle Paxos and a couple of others testing a
+35:49
+new way to verify crypto payments. So Blueprint um which is founded by friend
+35:56
+of the show Chris Brahma um estimates that today um phony and counterfeit uh
+36:04
+stable coins are costing crypto users at least 1.6 billion in losses on an
+36:11
+annualized basis. And they have a new solution called know your issuer that
+36:17
+aims to reduce that s that amount dramatically by linking a stable coin
+36:22
+issuers's credentials to the asset on chain. So creating a strong guarantee
+36:28
+between the KYB essentially they've done on um circle or paxos and the actual
+36:37
+stable coin itself. And so, uh, Chris says in in a quote, uh, if you can
+36:43
+provide provenence upfront, you can reduce the complexity of KYB for
+36:49
+everybody uh, in capital markets and institutions, they're no longer worried
+36:54
+about is this a counterfeit coin, but I could imagine several other use cases for this. If KYB or know your issuer can
+37:01
+actually travel with the token itself and you can have strong cryptographic guarantees of this. So Andrew, this I
+37:07
+this was largely to your point. Um I don't know if you saw this story or or if you had chance to look at it just
+37:13
+yet, but uh thought Thought was an interesting segue from what you were just talking about before the ad.
+37:18
+Definitely. I I you know I haven't had a chance to take a look at this. Um you know I do think as more institutional
+37:25
+and like kind of regulated finance comes on Jane uh auditability and kind of
+37:31
+verifiability you know becomes even more important. Um, you know, there are a lot of security solutions out there that uh
+37:37
+have built businesses uh purely on filtering out uh kind of fake tokens uh
+37:43
+that kind of uh goes to show you how large of a problem it is. And I think even if you look at um uh you know Sony
+37:50
+Sony has a layer two called Sonium uh which is like kind of like a permissioned uh chain and like you know
+37:56
+they're very sensitive to who is owning what and like you know they're issuing some IP on their chain. uh very very big
+38:03
+issue for them uh was you know the creation of essentially like fake IP or
+38:08
+or memecoins which they viewed as a big kind of like brand and reputational risk. So um certainly uh being able to
+38:15
+filter out those assets being you know having a way to determine uh who is issuing what uh seems to be key
+38:20
+particularly uh as we bring uh more of these real kind of assets uh kind of on
+38:26
+chain. I think there's a lot of like very interesting ways to slice KYC and
+38:32
+this and KYB and and a lot of it comes down to the point around we need to
+38:37
+create the trust for institutions to come on chain. We need to work with regulators to ensure there's continued
+38:44
+embrace of this industry overall. So now there's a lot of different inroads for
+38:50
+how to think about ensuring that compliance. This is the KY embedded KYC
+38:56
+on stable coins that follows the token I think is very interesting to touch back on the point around how horizon for a is
+39:04
+structuring it. Their approach is that the KYC is on the issuer level um and
+39:09
+then it's fully permissioned on the stable coin level. So at in that way you still can't get access to the RWA unless
+39:16
+you do full KYC KYB. Um for RWAS there's like uh you know TR like full uh fund
+39:24
+onboarding KYC KYB where there's no secondary or there's a type of security where you can do it on subscription
+39:31
+redemption and then there's secondary trading. So a lot of different ways to come about this challenge that we all
+39:38
+know that we need to solve to really truly grow the buy. Yeah, it's it's amazing to see just the product and
+39:45
+technology innovation, you know, addressing real concerns that regulators have and not necessarily waiting for,
+39:53
+you know, things to happen that then require regulators to, you know, respond and create new rules. You I think Chris
+39:59
+has been, you know, an amazing innovator saying, how do we just create very practical solutions, you know, to these
+40:06
+problems? And I think counterfeit and scam tokens you're only going to see more of you over time. You know, there's
+40:12
+nothing stopping anyone from being able to deploy a smart contract and, you know, make the ticker, you know,
+40:18
+something that is either identical or or looks like a real stable coin or a real brand. And then if you have consumers
+40:24
+that are coming across that token, whether it's in in a social feed in a
+40:30
+self-custodial wallet, you know, how do they know when they see there are 20 different tokens that all have the same
+40:36
+ticker, which one is actually the entity, you know, that, you know, has the license to the brand that that is
+40:42
+who they they say they are. Um so I I think that this is going to become more of an issue and we need you know new
+40:48
+solutions like this and it's be really interesting to see you know uh crypto and regulatory kind of tech companies
+40:54
+you know creating know your transaction solutions on the onchain analytics side you know trying to address you know some
+41:00
+of the AML uh challenges and now you have know your issuer so there all these different approaches towards how do you
+41:06
+use cryptography how do you use some of these new solutions to to to solve problems I also want to go back budgy um
+41:14
+on on Horizon like who how do you think about who the end customer is? is and like one of the topics that that we've
+41:19
+talked about on the show is it seems like most of the customers of tokenized treasuries are cryptonative institutions
+41:27
+that there aren't like traditional institutions buying tokenized treasuries because they could buy you know regular treasuries and so it's foundations it's
+41:35
+you know cryptonative funds uh do you see that today with horizon or you is there a world where you would see
+41:42
+traditional institutions coming on chain buying a tokenized treasury
+41:48
+and then using that as collateral to borrow a stable coin like what what does it take of like where we are today with
+41:53
+the existing customer base to who do you think the customers will will be in the coming years? Yeah, right now where we are today is
+Growth of stablecoin-linked cards and global payment infrastructure
+42:01
+still mostly all going after the pool of onchain capital but a big reason that's
+42:07
+the case is because there hasn't been the same infrastructure around these as
+42:13
+these financial products onchain as there is offchain. So I do think this is
+42:18
+an important step to getting us there when we start to allow the same types of
+42:25
+utility mechanisms onchain as offchain and doing it with a and under the brand
+42:31
+of a that has done such a great job to establish themselves as trusted within
+42:37
+the ecosystem onchain and offchain is an important step. So I think there needs
+42:44
+to be broader drivers uh across DeFi more generally. So from a institutional
+42:51
+perspective now we say okay you can buy the tokenized version of the treasury on chain you can borrow against it. Um and
+42:57
+then once you borrow against it now you are open to this big wide beautiful world of DeFi and you can do all this
+43:05
+cool [ __ ] So there's like an incremental step where they get the baseline uh expectation of what they
+43:11
+need to achieve from the current process offchain. Um and then they get this
+43:17
+added and incremental value that they can't get offchain. And then the pair of those creates an opportunity for them to
+43:23
+say we're willing to take this added level of risk um and added complexity
+43:29
+because we have so much upside in these certain areas. Yeah, I think so long as we can continue to deliver on that
+43:35
+promise and the upside people the business case will make itself for for institutions and and that's the critical
+43:42
+thing here is it has to make business sense. you're either uh taking out existing business workflow complexity
+43:48
+and or you're creating new revenue in that second one. um DeFi has been extremely good at consistently and and I
+43:55
+think you have to learn a new way of operating and I that's why I think innovations like KYI are absolutely
+44:02
+needed because we've we've as you said we've seen this approach where you can exist inside the KYB pool on chain
+44:09
+that's just for people that are allowed to buy those assets but the promise of DeFi was always its decentralization and
+44:15
+its ability to therefore be more interoperable with the wider world of assets and sort of thinking about your
+44:22
+firewalls or your demilitarized zones or your VPN approaches to like how do you
+44:28
+start somewhere but then also how do you have some level of assurance that can live out as as the token flows between
+44:36
+different networks over time. I think there's so much experimentation that it's that it's really exciting. Um I I
+44:42
+do want to link us to the last story as well. couple of couple of funding rounds got announced just as we were going uh
+44:48
+going to record today. So, first up, Rain raised a $ 58 million series B led
+44:55
+by Sapphire with Dragonfly, Galaxy and several others. Um, so Rain of course uh
+45:01
+do uh stable coin linked cards and they're I think a Visa principal member
+White-label stablecoin issuance and interoperability between chains
+45:07
+and that allows them to do some very clever stuff around how uh there are for
+45:12
+if you're issuing a credit card you can actually uh have that paid off as soon
+45:18
+as a consumer pays it. The settlement is is more or less instant. So some very cool stuff those guys are doing as Visa
+45:24
+principal members. So so shout out to those guys. Kai, I wanted to get your thoughts on this first because I know
+45:30
+stable coin linked cards are a a thing we've come to several times on this show. Um any thoughts on recent
+45:37
+developments that you've seen in that space that you think our audience should know about? Yeah, I I think it's a major category.
+45:44
+Uh and so huge huge congrats to the the Rain team and and they've been at this for, you know, several years now. Um,
+45:51
+and so as as we talked about before, it's just, you know, we think that the best way to spend a stable coin is to do
+45:58
+it connected to a Visa card because it works everywhere on day one. Uh, but the challenge is you need a lot of
+46:05
+infrastructure that's specialized to be able to create those cards and enable them to operate. And so we're trying to,
+46:11
+you know, update, you know, how Visa operates, being able to use stable coins to settle those transactions. Uh but we
+46:17
+need this this new class of program managers, you know, principal members, issuer, processors. You kind of need the
+46:23
+whole ecosystem to become compatible with this this new type of asset that is
+46:29
+going to be tied to the card. Uh and so it's been really exciting to to see the growth of of companies like Rain as as
+46:35
+they've kind of built out purposeuilt solutions for stable coin like cards.
+46:40
+Uh, and we we don't really see a ton of demand in in the US. Like, you know, you have plenty of, you know, great, you
+46:45
+know, options to to hold and spend dollars. We see the demand in Latin America. We see it in Africa. We see it
+46:51
+in Asia Pacific. And so, we plan to continue to just do everything we can to to grow stable coin like cards as as the
+46:58
+way to pay with with a stable coin. No, it's a really interesting category. I know dollar cards have been around for
+47:03
+a while, but this is really really exploding. I'm going to link to the other story and then and then come to to the rest of our guests, of course. uh M0
+47:10
+uh friends of the show um raised a $40 million round led by uh the crypto
+47:18
+venture capital firm Polychain as well as Ribbit and um Panta and Bane Crypto
+47:24
+M0 as well. Um Budie, I guess you're reasonably familiar with these guys. um stable coin issuer that buys uh RWA,
+47:31
+Genius Compliant, but they're sort of um a stable coin issuer, but also helps
+47:37
+people quickly create their own stable coins, more more of a white label ecosystem within there. So, uh
+47:44
+interesting one. Your thoughts on um sort of the growth of uh these different types of stable coin issuers? Do they
+47:51
+solve a different problem for different people? And and your thoughts more broadly. Very very excellent. Congrats to Luca
+47:57
+and team. We love M0. This infrastructure layer for stable coins is
+48:03
+a critical enabler for what you all are so famous of saying of every bank, every
+48:09
+fintech, everyone needs their own stable coin. So, a lot of these folks who are now looking at how can we get to market
+48:15
+quickly with a stable coin have a a trade-off of do we build the tech
+48:20
+inhouse or do we use someone who already has the systems and the network and the infrastructure in place that can help us
+48:27
+scale and grow that. So, we see Mzero playing a very strong role here. We see Agora playing a very strong role here.
+48:34
+uh it's a it's a very great segment of the market that enables this rapid
+48:40
+adoption and utilization of stable coins so that people can come to market faster. It's also a pretty close tie to
+48:47
+like the tokenized uh RWA space as well cuz folks like M0 uh work with folks
+48:54
+like Centrifuge to manage the reserves to manage the collateral that's backing and enabling those yields.
+49:00
+It's an ecosystem. Andrew, your thoughts on either of these stories? Yeah, I we're big fans of uh you know,
+49:07
+M0 and Agora. Um I think everybody's looking to stable coins, especially in a
+49:12
+high yield environment as a revenue source. And if you have the distribution, it just makes a lot of sense. I think the key question for a
+49:20
+lot of these, and we see this a lot on kind of the chain infrastructure side, is these chains kind of want their own
+49:25
+stable coin for revenue reasons, but in terms of like interoperability and like bridging, how do you convert these
+49:31
+stable coins, right? if you're going to have a thousand stable coins, uh, you know, that kind of like pair-wise
+49:36
+trading might be a tough kind of infra thing. And I think that's where, uh, these issuers like an Agora, like an M0
+49:42
+really come into play where it's kind of the same infrastructure under the hood, even if these are white labeled as like
+49:48
+different stable coins. Um, so it really, you know, I think they'll end up building network effects over time and
+49:53
+become like pretty powerful. Um and so you know both are companies that you know we we'd like to work with and uh
+50:00
+you know we currently have a pilot with Agora uh on kind of the stable coin side. That's really cool. I I think it's an
+50:05
+interesting question is like where does interoperability live? So you know circle uh have done God's work
+50:12
+integrating USDC with countless chains. So you know you can kind of bridge between chains via circle extremely
+50:18
+easily. Um, or maybe you want stable coins themselves to be interoperable and should that stable coin interoperability
+50:25
+exist at the stable coin issuer level. Should it exist at the network level?
+50:31
+Should it exist as an opportunity for onchain market makers or clearing above
+50:36
+that level like a Ubix for instance? And and we we don't know. Um, I suspect some
+50:41
+level of all of that will be will be the answer because the world is annoyingly complex and and there's never one simple
+50:47
+answer to these things. Uh, but it's it it's the excitement of being in this space is the business opportunity is
+50:53
+real and I think uh we're sort of in land grab mode for a lot of folks that will create some level of fragmentation.
+50:59
+Um, but then also the market opportunity will tend to to do its power law thing. Kai, any any closing thoughts on these
+51:05
+stories? Yeah, I I think it's be fascinating to see how the white label stable coin ecosystem plays out. You know, you've
+51:12
+got approaches, you know, Paxos has been doing this, you know, for a while, serving as the licensed issuer, doing these co-branded stable coins. M0 is
+51:19
+more of this network and ecosystem where you have many licensed issuers who are sharing, you know, a common, you know,
+51:25
+scheme and smart contracts. And so, I think we'll see, you know, experimentation at many different, you
+51:31
+know, parts of the spectrum. And it's going to be fascinating. We we nobody knows who who's going to win, but I
+51:36
+think we're going to have, you know, better products at the end of this, you know, with all the competition coming into the space. Yeah. Game on.
+51:42
+One thing that's that's really cool, if I can just add, so we all talk a lot about, of course, growing the pie. Um,
+51:49
+when we talk about like all banks having their own L2s or all Finex having stable coins, this is an opportunity to grow
+51:56
+the pie through their network. And then if we can enable once they're on chain atomic swapping and uh interoperability
+52:03
+between chains and this being a entry point for broader utility and
+52:10
+programmability across chains that can become a great funnel where there the
+52:15
+pie has grown through you know these thousands of L2s that then are connected into one centralized system where
+52:22
+there's so much more opportunity on chain. Yeah, it it is grow the pie time. Uh it
+52:27
+certainly seems from everything I hear um that we're starting to cross the chasm a little bit. The classic book of
+52:33
+crossing the chasm. So the innovators stayed in DeFi. They never went away. That 2% who's there through bare markets
+52:40
+and bull markets. Um and and Baji Andrew it sounds like you survived a few of those. Um then there's the early
+52:46
+adopters. Um kind of um maybe myself and Kai, you know, we we're there. We'll
+52:52
+have a play. Um but we don't live in this world. there's some TRDI stuff we got to do occasionally and and kind of
+52:57
+get involved in that and I think we'll we'll always be around as well but then there's the chasm that gap between uh
+53:04
+kind of this becoming an everyday thing and my thinking is we are if we can just
+53:09
+keep this momentum a little bit longer we are perilously close to overcoming that and I see a couple of weak signals
+53:15
+not just that fintech are launching stable coins but it's a major feature in the new bank app it's a major feature of
+53:21
+Robin Hood that they're using it for settlement that they're using it for infrastructure that they're using it for
+53:26
+crossborder that there is an entirely new growth opportunity of serving the global south consumer base through
+53:33
+stable coins as a rail to access them initially through payments and dollars but then through other financial
+53:38
+products and then also at the other end of the spectrum that the institutions and certainly some on the buy side and
+53:44
+the shadow banks are really aggressively leaning into this as a new rapper a new way to think about market structure and
+53:52
+the larger traditional or buy side uh sorry sellside side institutions are now
+53:57
+starting to think okay we have to we have to build our our own answers here so it's going to be fascinating to watch
+54:03
+even BBVA and Santandere now let their customers buy sell hold crypto PNC does
+54:10
+let's see if that's still true in a year's time we'll have you guys back and and see if we have crossed that chasm um
+54:15
+and speaking of of having you guys back um before that happens uh Bargie where can people find out more about you and
+54:21
+and Centrifuge I am on socials at it'sbaji
+54:27
+and centrifuge is uh everywhere as well just centrifuge and then centrifuge.io.
+54:32
+Perfect. Andrew. Yeah, I'm on socials kandrew hang on Twitter is probably the main one and
+54:37
+then we're conduit.xyz. Fantastic. Kai on Kai Sheffield and
+54:43
+visa.com/crypto. You'll find me at sytail on your favorite uh social platform I guess and
+54:50
+you'll find me at fintbrainfood.com. usually ranting about something to do with tokenized deposits and or AI and
+54:57
+finance and payments and all of that kind of stuff. And if you haven't already, please go ahead and subscribe.
+55:02
+Hit the subscribe button and tell everybody you know, spam them. Spam them till you can't spam them anymore about
+55:08
+this show and make them listen. Hold it to their ear and make them listen. Um, and if you really want to help us, do
+55:14
+leave us a review. It helps others find the show. It's all for now. Catch you soon.
+55:20
+[Music]
+

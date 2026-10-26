@@ -1,0 +1,625 @@
+Transcript
+
+
+Search in video
+0:08
+First of all, just to frame this a little bit, um I think that CBDC's are
+0:13
+pretty unpopular uh amongst some of us here. Um central bank digital
+0:19
+currencies. Um but that's an area of digital cash we want to think about as we set the scene here. Um the Bohemian
+0:26
+dollar um began uh 2020 I believe uh and
+0:31
+we're looking in Bermuda at having a privately issued Bermudeian uh dollar. Uh and we'll see what happens in China
+0:38
+which has probably the biggest CBDC uh project around. We're also thinking about tokenized deposits. JPMCoin I'm
+0:46
+sure everyone is familiar with uh that came out um some time ago now. And we're
+0:51
+thinking about the stable coin. Uh so we'll ask at the end of this panel kind of what's the future of digital cash uh
+0:57
+but I want to get into it and find out what three banks uh and the midnight foundation uh at the end think about
+1:05
+these topics and I'll start with customers bank um Rob can you share some of your views on stable coins and
+1:12
+particularly as a US bank looking out at these $300 billion worth of uh stable
+1:18
+coins uh out there predominantly privately issued uh and outside the us.
+1:24
+Yeah, happy to um expand on that. Um first of all, like like probably
+1:30
+everyone up here, uh my opinions are my own, not my banks. Um but generally
+1:38
+speaking, stable coins in my mind um are
+1:43
+they they're going to serve a transformational um purpose. and and I heard one of the
+1:50
+speakers earlier talk about you know FX disruption things of that nature where I think you know anything crossborder
+1:59
+um multi-jurisdictional stable coins are going to serve an incredible purpose however in the states
+2:06
+what I found is I'm I'm failing to quite see how they're going to work all that
+2:13
+well uh for one of the reasons um we already have a system that works It
+2:18
+works fast. We have re real-time payments that work fast. Um, and while there is a a a benefit on cost for a
+2:28
+stable coin today, that really has to do more with where rates are uh in terms of
+2:35
+how stable coin companies are making money. So I think that in order for them to make money for instance in a falling
+2:41
+rate environment, they're going to have to see a fee structure that all of a sudden is going to mimic Visa
+2:47
+Mastercard. So that's kind of where I see it going. Again though emphasizing
+2:53
+huge power in the crossber capabilities. Yeah, your president was very proud of
+3:00
+the passing of the Genius Act. Um but you're you're not so sure about the utility of
+3:05
+I think uh the utility in the US is just less uh it's more limited in the US currently. Uh I think tokenized deposits
+3:12
+as we'll get into later may be a little bit different. Okay. Hugo Bermuda Commercial Bank. Of
+3:17
+course you're not issuing stable coins but uh you are involved with uh through your clients with um transactions I
+3:24
+believe. Yes. Um actually it's it's nice it's a nice pass over from Rob there because we
+3:30
+are a bank in Bermuda. So our entire race on det is to link the rest of the
+3:35
+world. So crossber payments is something that we do on a daily basis. We do lots of volume every single day and we think
+3:42
+that stable coins are a killer app for crossber payments. So we facilitate that. we have on offramps into digital
+3:50
+assets um within us and with partners and um and offering a direct stable coin
+3:56
+channel to do crossber payments. It's a disruptor for every single crossber international business you can think of
+4:02
+um insurance reinsurance trade finance um u paying suppliers in a more simple
+4:08
+basis. So um so yeah stable coin payments is a is a is is here to stay.
+4:15
+Um I recognize that the US is ringing fenced and there is a reaction within
+4:22
+the regulatory environment and within you know many of the you know within the Fed um you know even at exchanges and
+4:29
+elsewhere to try and match that 247 promise but you got to reach out beyond
+4:34
+that. It's a big old world out there. Um despite um some of the policies within
+4:40
+the states, right, Wim from Monument Bank, Londonbased. Um we'll hear a bit more
+4:46
+about project you have with Midnight later in the panel. Um what's your general view and outlook on stable coin
+4:52
+usage? When I think about stable coins, I can't help but think of a kind of a digital
+4:57
+version of cash in your wallet. And so, you know, it can serve a great purpose. When you're traveling, you're going
+5:03
+across the border. Uh, it has that utility, but it has some downsides, too. You know, if you lose your wallet, that
+5:09
+money is gone. Uh, when cash sitting is your wallet, you're not earning interest on it. And so, for us, you know, we're
+5:16
+we're more of a wealth bank. And so, we're we're thinking about how do we give interest bearing assets, how do we give access. So, u we think it'll have
+5:23
+use cases. We're more excited about tokenization and what that enables.
+5:28
+Okay. Okay. And we'll we'll come on to that in a moment. Um Farmy, just to to finish the intros on stable coins, um
+5:35
+how do you think that that's fairing? Are we going to get to the three trillion mark uh as everyone's talking about um within five, six years?
+5:42
+So, if you come from America and I um you you're lucky that you have a single
+5:47
+banking system, a single regulator. There's no fragmentation. You have a choice of banks, you have a choice of suppliers. I spent 20 plus years in the
+5:54
+hedge fund world getting access to markets across the world and the US is by far the easiest because it's that
+6:00
+single solution. Try and get access to Europe, try and get access to Asia. The further east you go from the US, the
+6:07
+more fragmented it becomes, the harder it becomes to get access onshore, offshore, whether it's cash, FX, fixed
+6:14
+income equities. So what stable coins do is remove some of that fragmentation. Um
+6:19
+they give you the benefits of atomic settlement. I don't think atomic sediment is necessarily the thing that
+6:24
+helps stable coins succeed but it removes barriers to entry. Uh Charles Hoskinson was on stage earlier talking
+6:30
+about how developers audiences in Argentina subsahara and Africa now get paid in stable coins because they avoid
+6:36
+some of the inflation risk of their own currencies. They have borderless payments s payments without censorship.
+6:43
+Um, so it's how do you bring that stable coin environment, remove that fragmentation, but create the sort of guardrails, the regulatory environment
+6:50
+that an asset stable coin in the US is equally accepted in Bermuda, is equally accepted in London, Japan or Nigeria. So
+6:58
+I think that's the advance that stable coins bring. It's worth also highlighting that stable coins came into
+7:03
+crypto rails to remove the volatility of crypto assets. They're they're a source of collateral. And how do you access
+7:10
+that collateral and use it for the purpose of accessing better leverage, better financing, better trades? Yeah, thinking about Latin America and
+7:16
+um crossber transactions. One of the interesting examples at the moment out there is Western Union which is um been
+7:23
+trailing its announcement and and launch uh uh for some time. But actually uh seeing a bank that traces its history to
+7:30
+the mid-9th century telegraph world as uh getting involved in the space is is quite interesting. Um, again thinking
+7:37
+about adoption as we move into tokenized assets. Um, we've all seen uh the
+7:42
+success of build kind of accumulating more than 2.5 billion AUM. Um, Rob, what
+7:48
+do you feel are the uh the most natural use cases for tokenized assets? What are you interested in um in particular?
+7:55
+Funny enough, um I attended a conference in New York in 2018 and we were talking
+8:02
+about tokenization, uh tokenization of real estate, tokenization of other real world assets
+8:07
+and and so I I've seen the promise of it uh for quite a number of years now. Um,
+8:13
+I think it's just now that larger banks, GIBs, uh, that are embracing the idea of
+8:21
+tokenization and allowing for, uh, faster, more efficient movement of of of
+8:28
+assets, whether that be dollars or or currency or or
+8:34
+an equity. Uh, and I think we're going to see that expansion, as we've talked about globally with uh, stable coins.
+8:42
+It's giving other markets the ability to access markets that are perhaps more
+8:48
+liquid. And I think that that's the promise of tokenization. Yeah. Um
+8:55
+Yeah. So tokenization obviously promises fractionalization, democratization,
+9:01
+um wider access, new distribution channels. So I am absolutely certain that that is a another use case that's
+9:08
+going to proliferate and and we're very happy to support those kinds of
+9:13
+projects. But I certainly want to go back and say there are there are there are complexities you know the
+9:20
+complexities with holding stable coins on your balance sheet as as as a bank as a regulated entity. It's tricky. You
+9:27
+have to match the liquidity of let's say underlying investments to liquidity offered by the fund to the liquidity
+9:34
+offered in the secondary market with the tokenized asset. These are not simple things to unwind. It's no surprise that
+9:40
+it's taken a long time for some of these projects to actually deliver. It's no surprise that the big use cases of money
+9:46
+market funds where you know they're big the underlying instruments are very liquid where there's a possibility of
+9:52
+borrowing and and and lending against those uh those those units in issue is
+9:57
+much easier than against some sort of volatile illquid underlying asset. So uh the industry is maturing. There are big
+10:04
+projects that have now gained traction in tokenization. We are helping them. We want to do everything around servicing
+10:12
+including lending against and so on. But people shouldn't underestimate the you know there is a financial system that's
+10:18
+in place that has has suffered from all sorts of volatility and has learned and
+10:24
+has adapted learned from the scars that they've achieved. So that cannot be
+10:30
+ignored as some of these new technologies um are adopted.
+10:35
+Okay. Wasim, is there any limit to uh tokenization of of assets and where are
+10:41
+you in your journey with this? Yeah, I mean we're we're a partner with Manette Foundation. We won't start with
+10:46
+savings as as the first thing that we we want to tokenize. Uh we're doing a phase
+10:52
+one is a 250 million tokenized saving program. Um but we see this as as really
+10:58
+the starting point. Want to be the first bank doing it for for retail. I think that's important. But really the what
+11:04
+we're excited by is the the end vision. Uh if you think about we're trying to to do in Monument is uh we're serving what
+11:12
+we call kind of forgotten and vacated middle. So there's a lot of great products that ultra high net worth
+11:17
+people have access to usually private equity products but if you're not spending 100,000 not spending a million
+11:23
+you're not getting access to the the best investments uh that exist today. And we actually see an opportunity to
+11:29
+bring these sort of investments in partnership with Midnight to allow
+11:34
+access to create the liquidity but also importantly I think the infrastructure
+11:40
+to to create the efficiency because if you think I draw parallels with cloud computing when that came into banking
+11:46
+you were able to really bring down the cost to serve really better experience and so here if we can bring down the
+11:53
+cost to serve we can actually create a product that is priced Well, without the fees on fees, which which today, you
+12:00
+know, these products do exist. They are in the market, but but when you look at all the fees you're paying, you lost 70%
+12:05
+of your gains by the time you actually got access back. And so, we want we see a world where you have savings, you have
+12:12
+investments, and then importantly, you can borrow against that money. Again, Lombard lending is a is a private
+12:17
+banking product. exist today, but we think we can bring it to the middle and more people should we believe more
+12:23
+people should have access to this kind of as as a client area. You mention use the word retail, right?
+12:28
+Um but I don't think you're talking about every consumer in the street. Um if I went to a village in southwest
+12:34
+England and asked them do they want to kind of have access to tokenized assets so they can make benefit from Lombard
+12:41
+lending, I'm not sure there'd be much of a response. So are you talking about u high net worth individuals? Are you
+12:47
+really talking about mass affluent? Um I just want to before we hear about the technology from farmy, I just want to
+12:53
+understand where's the demand coming from and what evidence do you have um that there is that demand and indeed
+13:00
+will most consumers even realize that you're doing this? Yeah, absolutely. So, so Mass at Mass is
+13:05
+spot on. We're we're building the financial home for for this community. We define it as anybody with 100,000 up
+13:11
+to 5 million of wealth and and that comes from the fact that you know if you can't really get into private banking if
+13:17
+if you have uh less than 5 million it's very difficult uh but the high street banks are not serving you and the demand
+13:24
+comes from ultimately if you if you think about the these people doctors lawyers accountants uh actually people
+13:30
+are busy at work um they don't really have time for finances they're juggling work and family and hobbies and so the
+13:38
+the kind of product vision is create something that allows people to know where they are today, plan for tomorrow
+13:45
+and and kind of let it all execute in the background. And so from a strategic allocation perspective, we see that the
+13:51
+in the ultra high net worth, you can have five 10% of your portfolio sitting in the sort of private equity type
+13:58
+products. And so the and they have better returns uh which we believe should also apply to to to this market.
+14:05
+But it only makes sense if you can invest it with 5,000 or 10,000 pounds
+14:10
+because you want to be invested in three or four different hedge funds or or private equity funds. If you have half a
+14:16
+million, you don't want to put, you know, 100,000 of that in one place. You're you're suddenly you're not diversified anymore. And so we see the
+14:24
+demand because people are always looking for places to do it. But these places are are usually not very transparent. uh
+14:31
+very difficult to understand the fee structures, the legal structures. Um and so we think that the the new
+14:37
+infrastructure, the new world makes that uh super uh transparent, very clear uh
+14:42
+and and gives the access, the liquidity and the efficiency. Okay, very good. So far, do you want to comment a little bit just on the uh on
+14:49
+Midnight's role in all of this? Um but if I could just set the context, um we heard from Charles Hoskinson earlier who
+14:56
+uh gave a great speech that I also heard last week in Miami. um consensus about
+15:02
+the impact of the great powers on companies being able to hire uh staff on being able to uh engage with clients
+15:09
+debanking a lot of big picture issues and I understand the Midnight Fi Foundation is the solution to these
+15:15
+great global problems. Uh so how does that work out? No pressure. No pressure. No pressure.
+15:20
+Uh so with the foundation we're responsible for stewarding custodian uh sort of incou uh encouraging growth of
+15:26
+the midnight ecosystems and the midnight network. So I just want to go back to stable coins very briefly. Stable coins
+15:31
+existed before digital stable coins. They're called liquidity funds. You have simple $1 navs, stable navs that you can
+15:37
+access for better yield. You can subscribe, redeem same day. So they exist. I used I I used to put tens of
+15:42
+billions of dollars into them to diversify risk and reduce credit risk from the prime brokers that we used to
+15:47
+use. They now been digitized. So the stable coin you see on chain today doesn't have the 9:00 to 5:00 p.m. Fed
+15:55
+window restrictions. it is available to move around all of the time. But if you are a
+16:01
+if you're an allocator, if you look in this space, the first principle of of asset management is capital
+16:07
+preservation. And the first thing about capital preservation is to be able to protect your client's assets. So doing this on a
+16:13
+public blockchain exposes your clients and you to to every pair of eyes in this room. If I walk around this room, I'll
+16:19
+introduce myself. You might tell me where you work, where you live, that you're local Bermudan, or you come from London, you've flown in from New York.
+16:26
+But if I ask you where you bank, you might say JP Morgan Chase or you might say Wells Fargo, but you won't tell me your bank account. You won't tell me how
+16:32
+much you own in the bank account. As soon as you transact on any public network, any public blockchain,
+16:37
+everything you do is transparent and visible forever and not just today. So your your account will be docked. Your
+16:44
+behavior will be doxed. the alpha you create from investment opportunities will get discovered and somebody will try start copying that mimicking that or
+16:51
+front running you or hedging against that. So we believe the solution is not private permission networks where you
+16:56
+are siloed because you don't need blockchains for those. They exist today. They're banks. They they sit behind
+17:02
+centralized uh servers and firewalls. We believe the solution is bringing web 3 closer to web two getting to web 2.5.
+17:09
+And Midnight is a permissionless but private network. What do I mean by that?
+17:15
+It means that partners like Monument Bank who are looking for safe secure private networks can come without our
+17:21
+permission and build their private domain and their solutions for their clients. So the first stage and I think
+17:28
+Mozim was a bit humble. They're the fastest growing bank in the UK. Their technology is that advanced that they
+17:34
+can on board both individual and corporate clients within half an hour using AI, cloud computing and other
+17:39
+things. So they're not stuck with legacy banking. the the what they're about to do with midnight is put their client assets cash
+17:47
+deposits on a permissionless public network but in a private way approved by the bank of England and the P the
+17:54
+regulators in the UK and from that as stage two evolves is to as we bring
+17:59
+tokenized assets into this private domain is for them to make that available to their clients. So we talk
+18:05
+about tokenization is about democratization fractionalization the real value is
+18:10
+collateralization the third as then you can bring in hedge fund assets private equity assets and you can
+18:16
+actually look through to them I used to work for a hedge fund trying to get leverage on a hedge fund unit is hard
+18:21
+get leverage on the underlying portfolio super easy so if you can prove what the underlying asset is behind the stable
+18:27
+coin proof of asset proof of collateral proof of reserve proof that you're trading with a certain uh investment
+18:33
+guidelines covenant Then imagine how much access that gives you to better leverage, better finance,
+18:38
+better opportunities. So that's what Monument Bank are trying to do with their clients in a permission way, but
+18:44
+that they control. We don't control, but in a permissions network. So it removes silos. It allows a network to occur
+18:52
+because relations don't happen bilaterally. This is involving a third party digital asset custodian who are
+18:58
+regulated in the relevant jurisdictions. It brings in tokenization platforms who now have a distribution channel because
+19:05
+tokenization does not have a supply problem or a technology problem. Where do you distribute to once the retail
+19:10
+crypto fanboys and curisters have gone? Where is the institutional audience coming from that want to adopt this?
+19:16
+Where the bigger clients coming from or the mass affluent? So you need to create an opportunity where they can do it. So
+19:22
+what's what's the uptake beyond I mean your partnership is um clearly flying at the moment at a early stage albeit um
+19:29
+but what's the uptake across the industry are you seeing others uh following this example um or is this uh
+19:37
+something of an experiment still uh I think different institutions are experimenting with different blockchains
+19:43
+uh the benefit we've had since the monument announcement is that other banks have come and spoken to the
+19:48
+foundation they are asking whether they build or they high. Now the nice thing about the monument solution is it's not
+19:54
+one and done. They have separated their technology service for themselves as a
+19:59
+client but also can offer it to third party banks. So it's block banking as a service or crypto as a service. So there are
+20:06
+interest in that coming. I can't speak for what's happening on other chains but I would Hugo maybe you could speak.
+20:11
+I want to speak about what's happening perhaps on on island because there are a couple of things that you said here and actually I I wanted to to to pick you up
+20:19
+on a couple of things. So actually the one of the first stable coins was the Bermuda dollar. The Bermuda dollar was
+20:25
+fully backed by US dollars held in custody for longer than a number of the innovations that you said there. And and
+20:31
+the other thing is like we're talking about a UK bank where there's where there's fast growth and fast on
+20:37
+boarding. Everybody's got to get there. So we we have an on boarding journey that we think is is as fast as that. 20
+20:46
+minutes for individuals, half an hour for the data upload for for for corporates on island and elsewhere. Now,
+20:54
+I really I really agreed with the point you made a moment ago talking about the privacy and security. It's like what is
+21:01
+the purpose of of of of banks when payments can move straight through when
+21:06
+uh when you know stable coins can you know or an alternative place to maybe store value you get back to the
+21:14
+fundamental principles and safety and security is absolutely one of them. There are payments, there's yield
+21:20
+generation, there's collateral everything that you've just said but the a ledger is how a bank has worked for
+21:27
+time in memorial. So, so integrating with the digital solutions
+21:32
+that are there absolutely essential but the every time you have to come back to
+21:38
+and I think it's a principle for everybody here is what is the fundamental use case for a user a
+21:43
+business an individual um and and you know banking is is there is a big change
+21:51
+coming there are um like rent seeking behaviors that are under threat there is a a lot of change happening but but a
+21:59
+highly regulated institution that where where the security of people's money is
+22:05
+absolutely paramount and and that will stay. I agree. So so Rob with all these use cases
+22:12
+flying around is there any FOMO out there? Uh and is there any risk around
+22:17
+that? Um how important is the compliance in this? Um yeah I it's a good question. I would
+22:23
+say, look, I've I've been in the space since 2017, banking the space since 2017.
+22:30
+Nice job. Um, and and we've seen a lot of FOMO over different things that have
+22:37
+come about, uh, innovations that have come about. Um, you know, we're we're
+22:42
+cautiously optimistic about the innovation that's coming about now. Um, I think there are still some challenges.
+22:49
+You know, I heard you mention um you know, third party. I heard you mention
+22:54
+um you know, network. You know, at the end of the day, we we're hearing the buzzword of network coming out from
+23:01
+every corner. A network is a group of people who trust one another. At the end
+23:07
+of the day, it's trust. If we can't trust the movement, at the end of the
+23:12
+day, it's not going to work and we're going to destroy it. So the the the challenge I think is from a compliance
+23:19
+and a regulatory lens which us banks have to live under u you know it's it's
+23:27
+a it's one where can we demonstrate to our regulators that the actions that are
+23:34
+being taken within our walls is trustworthy. uh can we can we fully vet
+23:40
+can we KYC you know those parties can those parties KYC their parties it's a
+23:46
+the counterparty risk uh solutions are you know this is where I see promise or
+23:51
+or opportunity and AI and things of that nature that you know we we have um a lot
+23:58
+of hurdles ahead of us uh because as I look at you know we we talked about
+24:04
+regulatory and regulatory in the US is different than here. It's different than
+24:10
+the UK. And we have to have all of them kind of come together and see it in a similar lens.
+24:16
+Okay. The way you're positioned on the panel, we've got the US here, I've got the UK at the other end, and we've got
+24:22
+Bermuda in the middle. Uh so I'm Bermuda. I'm wondering, Hugo,
+24:28
+in terms of the the regulatory developments that facilitate uh banking
+24:33
+adoption of stable coins and tokenized assets so on, uh do you feel Bermuda's
+24:38
+been pulled more towards the US or more towards the UK? Where's the business
+24:44
+coming from? I I I say this and um present company accepted, but it was amazing that the Barzel rules were um foisted on the
+24:52
+world, but the one place that didn't adopt them was the United States. Yeah. So, I'm going to say that and uh people
+24:57
+can read into that what they will. So, we um we yes we we we do we do subscribe
+25:04
+to all Basel disclosures and regulations. So, that's the way we we we operate. But, you know, there are
+25:09
+members of the BMA in the room and they are they are ve we're very very close to
+25:14
+them. And so, we talked about what it is we're doing at every point of time. We're offering on offramps, virtual
+25:21
+accounts to underlying customers to to allow segregation of funds. We explain everything we're doing to them. They
+25:27
+examine it very very thoroughly, but they are available to us and we're available to them. It's, you know, we're
+25:33
+one of four banks on the island. So, it's a it's a wonderful place to to to be developing this technology to be
+25:39
+addressing some of the issues we've spoken about today. You know, talking about holding stable coins on balance
+25:44
+sheet or or or facilitating I know trades in in in other digital assets. It's like what is the appropriate risk
+25:50
+waiting for that? Can you lend against them? What is the is there a haircut available because of the probability of
+25:55
+settlement? Circle's announcement on OC was all about addressing some of those issues and and I I it's a this is a
+26:03
+great place to be doing all of this sort of development from and but we interact
+26:08
+back in with the states. Rob and I interact it's it's a there is a uh a connection with the rest of the world.
+26:14
+So it is about trust and partnerships. This is a very trustworthy jurisdiction
+26:20
+and with and we have fantastic counterparties as a result. But we all have to be talking the same language. We
+26:26
+all have to have the same level of trust and then the industry can proliferate on our shared platforms
+26:32
+to to really make progress um on banking adoption. Do do you think um ask farmy
+26:38
+perhaps is there a uh is there a need for a transatlantic drive or do you pick
+26:45
+UK? Do you pick us uh and then do what you can? Uh I think you need there's a play
+26:52
+technology is global. Technology doesn't have barriers. Ultimately if you go back to the beginning of blockchain it's a
+26:57
+truth layer. It serves as a truth layer. When we talk about trust trust is great but that's like to say no regulated
+27:03
+hedge fund has ever blown up and taken down a bank. It happens. Trust breaks down. There are bad actors. So how do
+27:09
+you back up trust with truth? How do you provide substance? As in my hedge fund days I had to make disclosures. 13H
+27:14
+filings in the US, 13F filings, short discloses in the UK, various other things. Uh why can I why can that not be
+27:21
+done in a way where it is done through a truth layer like blockchain? Blockchain is not the answer to everything. And
+27:26
+again, many blockchains want to be everything. Blockchain is can provide truth. So again, truth of the stable
+27:32
+coin. What is the asset behind the stable coin? Is it genuinely pegged $1 to the asset without everybody having to
+27:39
+see only the parties taking part in that transaction? to to Hugo's point around proof of settlement. Well, change that
+27:45
+atomic settlement. You can have absolute proof that the other party has the asset that you're saying. So you don't just
+27:50
+have to rely on trust. You can have trust with truth layers with disclosure layers. Midnight enables that both
+27:55
+privately but with selected disclosure programmable privacy things that banks accept as standard today in the
+28:01
+technology stack. So what again we're grateful for with Monument Bank is that
+28:06
+trust in that technology and ultimately technology can become compliance because
+28:12
+you can embed that into the smart contract. Today when you access the Fed wire system it's done through banks it's
+28:18
+done through agencies. So when I on board with Morgan Stanley then that gives me access to the entire investment
+28:24
+brokerage system. Goldman Sachs doesn't know it's me on the other side. They trust Morgan Stanley have done their
+28:29
+job. Why can't a smart contract substitute for that trust? Okay. Very good. We're we're starting to
+28:34
+draw to a close, but I just want to hear from all of you uh one more time briefly and and look ahead five years 2031. Um
+28:43
+Rob, what does the dollar look like? What's everyone using? What does the dollar look like?
+28:49
+What is digital money in five years? S with a couple of lines. Um,
+28:55
+look, I mean, this is I'm a big fan being the US bank, I'm a big fan of
+29:01
+uh US backstable coins were were obviously proliferate proliferating and and uh it just expands the use of the US
+29:09
+dollar technically um in all parts of the world. That said, it relies on a
+29:14
+strong US dollar, good banking standard by the US economy and so you know there
+29:20
+there are questions in that as well. Um, I'm very optimistic that uh that digital
+29:26
+asset and I've heard this said many times, digital asset, stable coin, tokenization all disappear from our
+29:32
+language and it just becomes part of the financial fabric. Okay, he's got the point of the question.
+29:38
+I know I I I think sorry you actually sort of stole my thunder there just at the end. Um, so um so I was going to say
+29:45
+it looks exactly the same. What I mean by that is that everybody now like sees
+29:50
+the dollars in their on their app on their telephone. People are making payments by touching telephone. I was
+29:56
+listening to the talk earlier about everything being available. So it will look exactly the same. But a whole bunch
+30:01
+of the plumbing, the accessibility, how quickly that moves that will all change and that will all change with a lot of
+30:07
+the innovations that we've got here. Stable coin payments as I said cross border it solves for so much. um you
+30:13
+it's it's it's increasing the speed, the access, the efficiency, the safety. That's the big promise of everything
+30:19
+that we're talking about here. So the dollar will look the same, but it might not be the same value against uh Bitcoin
+30:24
+and gold, but that's a different discussion. Um yeah, inflating away the value of the that's a different
+30:30
+discussion. Okay. Just a closing remark as we Yeah, I mean I just think two things. You know, the best technology is
+30:35
+invisible. So you think about Uber when you go to from A to B. um what's happening in the background, you know,
+30:41
+the the the geoloccation, the data science, the dynamic pricing, dynamic allocation, nobody talks about that. And
+30:48
+so for us, it's it's comes back to what's the client outcome. They want to save, they want to grow, protect their
+30:53
+wealth. And that should remain the same just on a much better infrastructure. But two, um you know, we didn't talk
+30:59
+about AI and I think it's we're actually in a really exciting era where, you know, the future of banking is going to
+31:04
+look very different. Uh we're going to have a gentic orchestration. people are going to have wealth partners in their
+31:09
+pocket. So, we really need to rethink some of the experiences that exist today. It's not just the same app that
+31:15
+you use. uh and I think actually the interplay of AI and and the tokenized infrastructure uh allows for for very
+31:22
+smart strategic allocation, the the trust layer becomes even more important because you know as Charles said um you
+31:29
+know you need to be able to take probabilistic um models into deterministic models and and I think uh
+31:35
+we will get there in the next five years. I think we should stop talking about blockchains as said good infrastructure
+31:43
+good is technology is invisible and if we can help power banks like monument and help bring new services new
+31:49
+tokenization new assets to those clients in a safe way that they that my partners win on the midnight network but again
+31:56
+midnight is open to all networks we believe we we should be working it's not one blockchain wins multiple so you can
+32:03
+build a stack and midnight could be a privacy unifying layer for other technologies other stacks
+32:08
+Okay, fascinating thoughts. Thank you very much to all of you. Thank you for having us.
+

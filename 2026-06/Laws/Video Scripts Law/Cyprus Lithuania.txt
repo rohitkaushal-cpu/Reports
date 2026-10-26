@@ -1,0 +1,450 @@
+
+Search transcript
+0:00ical comparison of two jurisdiction that are now shaping the European make landscape in real time and I would say
+0:088 secondstwo the most hot ones it's Lithuania and Cyprus this session is not a general introduction to Mika it's more like a
+0:1616 secondsstrategic analysis of how these two jurisdiction are implementing Mika how they differ in regulatory practice and
+0:2424 secondswhat this mean for companies preparing to operate or let's say expand across the European economic area.
+0:3333 secondsUm we will look at the actual evolution of both regimes, examine the recent case
+0:4040 secondsof revolute obtaining its make in Cyprus and we will explore Lithuanians transition from its large huge WASP
+0:4949 secondsframework toward full CASP licensing under the Bank of Lithuania. My goal is to help you understand what each
+0:5757 secondsjurisdictions offer, what each expert and how to make informed decision if you are considerate make a license or planning your uh regulatory road map.
+1:091 minute, 9 secondsLet's say uh by the end of the webinar you should have a clear sense of how Cyprus approaches MA and why it has
+1:181 minute, 18 secondsalready licensed that major players in this field. How Lithuania is adapting its earlier vaspec system into a
+1:261 minute, 26 secondsstricter maine environment and what type of company fits better in each jurisdiction based on scale risk appetite and operational priority.
+1:381 minute, 38 secondsBut before we dive into the specifics of Cyprus and Lithuania, I want to set a
+1:451 minute, 45 secondsclear baseline. Mika is now the central regulatory framework that defines how
+1:521 minute, 52 secondscrypto businesses operate across the European economic era. It does not replace national financial regulation
+2:012 minutes, 1 secondbut it standardize the rules for crypto asset and for companies of course that provide crypto services. So let us
+2:092 minutes, 9 secondsbriefly outline the essentials. First, Mika creates a unified regime. what's called a unified regime for crypto asset
+2:182 minutes, 18 secondsthat were previously regulated through fragmented national law. It introduce a
+2:252 minutes, 25 secondscommon authorization process for crypto asset service providers or CASP and it brings clarity to area that were
+2:332 minutes, 33 secondspreviously let's say uncertain such as for example custody trading platforms
+2:402 minutes, 40 secondsexchange services advisory services and of course crypto transfers.
+2:452 minutes, 45 secondsSecond, Mika create three distinct regulatory categories. One for asset
+2:522 minutes, 52 secondsreference tokens, one for e money tokens and a separate regime for cast licenses.
+3:013 minutes, 1 secondAnd depending on the business model, a company may fall under one, two, or all
+3:083 minutes, 8 secondsthree regimes. But for most market participants the card factoriization will be indeed the central element here
+3:163 minutes, 16 secondsand that's what we're going to talk about today. And uh third is that Mika introduce passporting.
+3:253 minutes, 25 secondsOnce an entity is licensed in uh CASP as a CASP or crypto asset service provider
+3:343 minutes, 34 secondsin one of European Union or European Economic Area
+3:413 minutes, 41 secondsmember state. It can provide services across all 30 countries without having
+3:483 minutes, 48 secondsto obtain separate approvals. This is what make the choice of one jurisdiction. So strategy it's not only about where to incorporate.
+4:004 minutesIt's first of all I would say about which regulator you will work with for
+4:064 minutes, 6 secondsthe long term of your business. But when we look um at the realities of this
+4:154 minutes, 15 secondsmaker implementation, one challenge just stand out immediately. For early stage
+4:224 minutes, 22 secondscrypto companies in the European Union, the cost and complexity of attaining has become one of the biggest practical barriers to survival.
+4:344 minutes, 34 secondsunder Mika becoming a crypto asset service provider is no longer a quick
+4:404 minutes, 40 secondsadministrative step uh how it was before it now requires indeed significantly
+4:474 minutes, 47 secondsmore time more documents and far more regulatory coordination than before. In
+4:544 minutes, 54 secondspractice approval timelines have stretched to let's say 6 months most of cases even longer. Um that's almost
+5:045 minutes, 4 secondsthree times what many founders were used to under previous national regime and this slowdown is driven by additional
+5:135 minutes, 13 secondschecks, additional reporting and much more intensive review process. The
+5:205 minutes, 20 secondsfinancial impact is serious. Um before Mika a small startup could register in a
+5:275 minutes, 27 secondscrypto friendly country like Lithuana for example and meet um some ML obligation with a budget of roughly €10,000.
+5:385 minutes, 38 secondsBut today initial compliant cost are closer to €60,000
+5:445 minutes, 44 secondsand even more. uh legal support, how it capital obligation, internal policies,
+5:525 minutes, 52 secondsongoing administrative requirements are all add up for many early stage teams.
+6:006 minutesIt's simply unaffordable. Let's be honest. Uh and what it led they cause operations, shut down or just start
+6:096 minutes, 9 secondsexploring relocation options. And this result is very visible in numbers. For example, as of early 2025, across the
+6:196 minutes, 19 secondsentire European Union, only 12 crypto service providers and 10 stable coin
+6:276 minutes, 27 secondsissuers have secured full ma authorization. It's remarkably low when
+6:356 minutes, 35 secondswe consider that thousands, not hundreds, thousands of crypto businesses operated in Europe before this
+6:436 minutes, 43 secondsregulation came into force. Even with more applications expected later uh because there is still this transition
+6:516 minutes, 51 secondsperiod in most of countries. Projection shows that by the end of 2025, and we're
+6:586 minutes, 58 secondsalready quite close to this date, only around 100 firms will actually obtain a
+7:057 minutes, 5 secondslicense. In other words, the vast majority of existing startups will likely remain unlicensed and they just
+7:147 minutes, 14 secondsface real limitation on their ability to operate. But there is always but. It's
+7:217 minutes, 21 secondsimportant to know that larger players you make it differently. For them, a
+7:287 minutes, 28 secondssingle U wide European Unionwide license just simply removes the need for
+7:357 minutes, 35 secondsseparate approvals in every member state and it offers direct access to full European market. We're just talking
+7:437 minutes, 43 secondsabout this passporting. This explain why uh several large global exchanges have already shown strong interest in male
+7:527 minutes, 52 secondslicencing. But for smaller teams, the ones size fits all model create a just
+8:008 minutesdisproportionate burden. capital thresholds and OD duties quite hard to meet and instead of building products
+8:098 minutes, 9 secondsfounders now need to spend increasing amount of time preparing documents policies in report. But even when a
+8:188 minutes, 18 secondscrypto startup manage to navigate and clear the license and hurdles, it often encounters a far more basic challenge.
+8:278 minutes, 27 secondsIn many cases, it cannot obtain a bank account at all. Uh across Europe, crypto
+8:358 minutes, 35 secondscompanies consistently, and that's what we fight all the time, they consistently report difficulties both in opening
+8:448 minutes, 44 secondsaccounts and in keeping them open. And this pattern has become so widespread
+8:518 minutes, 51 secondsthat the industry now refers to it simply as a ripto debunking.
+8:588 minutes, 58 secondsBut why does it happen so frequently?
+9:019 minutes, 1 secondThe thing is that European banks operate under quite strong regulatory expectation to treat crypto clients as
+9:109 minutes, 10 secondshigh risk ones. The European Central Bank and several national competing authority have repeatedly warned about
+9:199 minutes, 19 secondsfraud, money laundering and volatility in the crypto sector. There is no formal prohibition on serving the firms, I mean
+9:289 minutes, 28 secondscrypto companies, but many commercial banks respond with extremely strict internal policies. They often require heavy due diligence, just hugely heavy.
+9:409 minutes, 40 secondsthey impose high fees or just simply declined to board these clients. Uh some
+9:479 minutes, 47 secondsindustry observers uh have compared this approach to the debate in the United
+9:549 minutes, 54 secondsStates around this operation choke point where banks were allegedly encouraged to cut off certain industries. In Europe,
+10:0310 minutes, 3 secondsthis issue remain it remained relatively quiet for years because there was little
+10:1110 minutes, 11 secondsquite little official monitoring or disclosure of how many startups are affected. But the operational impact on
+10:2010 minutes, 20 secondsyoung companies, it's immediate. Without a bank account, a startup cannot pay
+10:2710 minutes, 27 secondsemployees, cannot pay invoices or handle fiat transaction with customers and any
+10:3410 minutes, 34 secondsroutine operation become nearly impossible when Europe transfers a block. Uh some founders of course use
+10:4110 minutes, 41 secondspersonal bank account as a temporary workar around but this race compliance and liability risk of its soul. Others rely on crypto friendly intermediaries.
+10:5410 minutes, 54 secondsSo these partners often set strict limits or usually higher fee. And even
+11:0111 minutes, 1 secondwhen starter finally open an account, it does not mean the difficulties are over.
+11:0711 minutes, 7 secondsTransfer may be delayed or flagged by compliance team. Daily limits may be
+11:1411 minutes, 14 secondsunusually unproportionally low and transaction fee may be high. On top of that, many founders report I ban
+11:2411 minutes, 24 secondsdiscrimination in this field where a perfectly valid I ban from another EU member state is questioned or refused
+11:3311 minutes, 33 secondsbecause just counterparty suspect it's linked to crypto activity. So in practice their risking by bank leaves
+11:4211 minutes, 42 secondsmany crypto startups effectively unbanked and until this gap is addressed uh the promise of unified
+11:5111 minutes, 51 secondsinnovation friendly ma market remains limited by the absence of reliable banking access.
+11:5911 minutes, 59 secondsBut this timing of uh Mika implementation it create
+12:0712 minutes, 7 secondsum excuse me can you see the timing like yes timing why um
+12:1712 minutes, 17 secondswhy timing matter here the timing of mika implementation also create quite
+12:2412 minutes, 24 secondsinteresting I would say dynamic uh also mika became applicable at the EU level from December 2024.
+12:3412 minutes, 34 secondsEach member state is moving through its own transition arrangement. This means
+12:4112 minutes, 41 secondsthat some regulators are already fully aligned with Mika. Uh they accept they
+12:4812 minutes, 48 secondsprocess full cast application uh crypto asset service provider application while others are just finalizing their
+12:5712 minutes, 57 secondsdomestic frameworks or granting some transition period to ready registered vast virtual asset service providers.
+13:0513 minutes, 5 secondsThis uneven roll out has created a temporary competitive landscape between
+13:1213 minutes, 12 secondsjurisdiction because some have moved quickly and distensively building internal teams, developing guidance,
+13:1913 minutes, 19 secondsprocessing early files while other have taken more time to adapt to organize all
+13:2713 minutes, 27 secondsthe supervisory processes. And this bring us to the core question of today.
+13:3313 minutes, 33 secondsWhy exactly Cyprus and Lithuania stand at the front of this regulatory race? Uh
+13:4213 minutes, 42 secondsbecause that's um I would say a request that we got from a client the most. And
+13:4813 minutes, 48 secondsif you simply Google something like Mika license in obtaining European Union,
+13:5513 minutes, 55 secondsalmost every single article will tell you Cyprus and Lithuania is here. But why Cyprus and Lithuania?
+14:0414 minutes, 4 secondsBoth jurisdiction have something in common. They both I would say were
+14:1014 minutes, 10 secondsalready significant crypto and fintech centers long before MA. Uh Cyprus
+14:1814 minutes, 18 secondsattracted a large numbers of investment firms, brokers and trading platforms.
+14:2414 minutes, 24 secondsLithuania um build one of the largest WASP ecosystem in the European Union and
+14:3014 minutes, 30 secondsdevelop quite strong reputation for payment institution and e- money licensing but their paths under Minka
+14:4014 minutes, 40 secondsfully differ. Uh Cyprus made a strategic decision to shift fully into the Minka
+14:4814 minutes, 48 secondsair. It discounted discontinued its uh old passimes
+14:5614 minutes, 56 secondsentirely and it began accepting only MA application at the beginning of 2025 the
+15:0315 minutes, 3 secondsbeginning of this year. Lithuania followed another trajectory. It kept it
+15:1015 minutes, 10 secondspass regime temporarily but aligned its national law with Mika and created a
+15:1715 minutes, 17 secondsfull castization route under the bank of Lithuania.
+15:2215 minutes, 22 secondsuh it extended the transitional period for existing vasp until 2026.
+15:3015 minutes, 30 secondsJanuary 1st, 2026, everyone should be or casting or leave the country.
+15:4115 minutes, 41 secondsAnd this transition basically gives the market more time to adapt. uh but it also signals a clear message that MIA
+15:5115 minutes, 51 secondscompliance is no longer optional. So in other words, Cyprus represent regulatory
+15:5915 minutes, 59 secondsreadiness, Lithuania represent regulatory transformation.
+16:0516 minutes, 5 secondsBoth approaches draw significant interest but from slightly different type of companies. With this background
+16:1216 minutes, 12 secondsestablished, we can now move deeper into this uh first case study I mentioned before and agine how Cyprus approach
+16:2116 minutes, 21 secondsmika through the example of the revolute license.
+16:2816 minutes, 28 secondsLet's begin uh with this most visible development in Ma landscape so far.
+16:3516 minutes, 35 secondsRevolute authorization as a crypto asset service provider in Cyprus. This case is important and I would say for two
+16:4316 minutes, 43 secondsreason. First of all, Revolute is one of the largest and most recognizable
+16:5016 minutes, 50 secondsfintech brands in Europe which means their regulatory choice set a strong signal to the market. And second is that
+16:5916 minutes, 59 secondsRevolute is among the first major companies to receive a full CASP license
+17:0617 minutes, 6 secondsunder Mika not under older national regime not apas.
+17:1617 minutes, 16 secondsUm this gives us really real insights into how Cyprus is handling the new requirement.
+17:2517 minutes, 25 secondsIn uh 2025, CISA granted Revolute this digital asset Europe
+17:3317 minutes, 33 secondsuh Mika cast license and this authorization allow Revolute to provide
+17:3917 minutes, 39 secondsregulated crypto asset services in all 30 EE countries. European economic era
+17:4717 minutes, 47 secondscountries. to a single supervisory point in Cyprus.
+17:5217 minutes, 52 secondsAs a part of this alignment with Mik Revolute is migrating its European crypto clients into the Cypr entity and
+18:0218 minutes, 2 secondsnew crypto terms and conditions are being rolled out accordingly. In other words, RAOD has redesigned its entire
+18:1018 minutes, 10 secondsevil crypto framework to be Mika native, not to be Mika adapted. But why is this
+18:1818 minutes, 18 secondscase such milestone? It demonstrate that Cyprus is prepared to license complex
+18:2618 minutes, 26 secondslargecale companies under Mika because Reut is not a simple crypto startup.
+18:3218 minutes, 32 secondsIt's a multi-jurisdictional fintech with strict internal governance, high transaction volumes and advanced tr
+18:4118 minutes, 41 secondssystem. And for CISAC to license such a company early in this mega cycle means
+18:4918 minutes, 49 secondsthe regulator has already built internal processes and is confident in applying this new framework. It also signals to
+18:5718 minutes, 57 secondsthe wider market that Cyprus is willing to take the lead in Europe. This matters
+19:0419 minutes, 4 secondsfor every class publicans because regulator often watch each other between jurisdiction and between countries and
+19:1319 minutes, 13 secondsonce a major license is issued it create a precedent for their interpretation of
+19:2019 minutes, 20 secondsrequirements and the level of documentation expected and finally for the industry. uh this uh revel case is a
+19:3019 minutes, 30 secondsclear message that MIA is no longer some theoretical framework. It is active. It
+19:3819 minutes, 38 secondsis operational and large regulated entities already coming under its scope.
+19:4619 minutes, 46 secondsAnd now uh that we have looked and the revel example let's examine what Cyprus
+19:5319 minutes, 53 secondsis doing at a structural level. The separate regulator CISAC made several
+20:0120 minutes, 1 secondclear strategy decision early in the uh Mika timeline and the decision help
+20:0820 minutes, 8 secondspositioned Cyprus as one of the most ma ready jurisdictions in Europe. The first
+20:1420 minutes, 14 secondsdecision was to discontinue the previous national CASP registration regime that
+20:2020 minutes, 20 secondsexisted under the NLD5 framework. This regime was I would say
+20:2720 minutes, 27 secondsrelatively light and it served the early stage of the crypto industry. But with Mika coming into force, Cyprus made a
+20:3620 minutes, 36 secondsclean transition. It closed the old regime and shifted all attention to full Mika authorization. And second decision
+20:4420 minutes, 44 secondswas to accept only Mika application from the beginning of 2025 because it created clarity for the
+20:5320 minutes, 53 secondsmarket. Any applicant approaching SCIC know they must prepare a complete ma
+21:0221 minutes, 2 secondspackage from day one. There is no uh pathway to enter the market through an easier temporary regime like for example
+21:1021 minutes, 10 secondsin Lithuania. We'll talk about this later. It's a fully compliant ma
+21:1821 minutes, 18 secondsenvironment here in a Cyprus. But let me outline the uh more practical
+21:2621 minutes, 26 secondsrequirements and the process that CISAC expect applications to follow. Uh Mika
+21:3321 minutes, 33 secondsapplicant in Cyprus must first uh of course establish a local legal entity.
+21:3921 minutes, 39 secondsuh they need to maintain a physical office and demonstrate real operational substance. This include the appointment
+21:4721 minutes, 47 secondsof local director uh resident ML officer and a governance structure that reflect
+21:5421 minutes, 54 secondsthe scale and complexity of the intended service. CISAC applies Mika governance
+22:0122 minutes, 1 secondrequirements in full and the independence and competence of the management team will be I want to say
+22:0922 minutes, 9 secondscan be it can be and it will be examined from the very beginning. So the documentation package is extensive.
+22:1922 minutes, 19 secondsIt covers a detailed business plan, operational and compliance procedure, IML and QC framework, IT architecture,
+22:2922 minutes, 29 secondscyber security policy, outsourcing arrangement and risk management system.
+22:3622 minutes, 36 secondsSCAC review this materials really thoroughly and the revolutization
+22:4322 minutes, 43 secondsdemonstrates that regulator is able to access to um to assess to evaluate the sophisticated and highly integrated
+22:5222 minutes, 52 secondsoperational models. Uh from a process perspective everything begins with
+22:5922 minutes, 59 secondsidentifying the exact crypto asset service that the company intend to provide under MA. This definition
+23:0623 minutes, 6 secondsdetermines the entity structure, capital requirements and the scope of the entire application. Once the services are
+23:1423 minutes, 14 secondsdefined, the preparation of the application documents begin. The core of
+23:2023 minutes, 20 secondsthe submission is a SCIC m application form under article 62 and its annex. In
+23:2823 minutes, 28 secondspractical terms uh this involve providing general information about the applicant uh its group structure and the
+23:3623 minutes, 36 secondsrequested services. It also required threeyear program of operation and a business plan that explains a business
+23:4423 minutes, 44 secondsmodel, target markets, resources, outsourcing arrangement and expected crossber activity. Also, applicants must
+23:5323 minutes, 53 secondsalso present their uh credential safeguard and a capital planning describing how minimum capital and
+24:0224 minutes, 2 secondsongoing own fund requirement will be met and monitored. A governance document form also significant part of the
+24:0924 minutes, 9 secondssubmission. Applicants must demonstrate the adequacy of their internal control framework, compliance arrangement and
+24:1724 minutes, 17 secondsbusiness continuity planning. They must also outline their IML and sanction framework and formally appoint an IML
+24:2624 minutes, 26 secondsofficers resident. As far as you remember, I mentioned it already. CISAC
+24:3224 minutes, 32 secondswill assess all directors also and key function holders to verify their fitness
+24:4024 minutes, 40 secondsexperience and time commitments. uh shareholder with qualifying holding must also be disclosed and must also be
+24:4924 minutes, 49 secondsdocumented on the technical side. The applicant must provide ICT and security arrangement considering with DORA and
+24:5724 minutes, 57 secondsgeneral cyber security standards and very relevant additional documents that must demonstrate um let's say the
+25:0525 minutes, 5 secondssegregation of client assets compliance handling procedure custody policy execution policy advisory procedures
+25:1225 minutes, 12 secondsportfolio management procedure or let's say transfer service arrangement to support this package site expect The
+25:2125 minutes, 21 secondsfull set of corporate certificates, constitutional documents, group
+25:2725 minutes, 27 secondsstructure chart in the company and as a group of companies, there is more than
+25:3425 minutes, 34 secondsone financial forecast of course evidence of pay share capital, internal
+25:4125 minutes, 41 secondspolicies and manuals covering all operational areas, directors and shareholders and uh complete outsourcing register.
+25:5125 minutes, 51 secondsAfter all this documentation is prepared, the application is submitted
+25:5725 minutes, 57 secondsand the CISC fee is paid. Uh for custody and admin administration services, the
+26:0526 minutes, 5 secondsapplication fee in Cypress in a CISC for application it's 10,000.
+26:1226 minutes, 12 secondsAlso the summon as a variet depending on specific services for which the applicant say authorization. Um these
+26:2026 minutes, 20 secondsfees are not refundable even if the application is withdrawn or rejected.
+26:2826 minutes, 28 secondsFe is nonrefundable but once uh the file is submitted sack begins its assessment and it may
+26:3726 minutes, 37 secondsrequest clarification of some additional document. In general during this assessment phase, any question raised by
+26:4526 minutes, 45 secondsSCIAC must be addressed promptly until the application is considered complete.
+26:5226 minutes, 52 secondsSo during this review process, they may reach out to you. That's why the QC information is important to uh by the
+27:0127 minutes, 1 secondform should be filled in correctly to put all your contact information to react promply quickly to any additional
+27:1027 minutes, 10 secondsuh request ZAC may have. But once authorized the company can operate in
+27:1727 minutes, 17 secondsCyprus and may passport its services across the European Union through a standard notification procedure
+27:2627 minutes, 26 secondsunder Mika uh initial capital requirements. It's also one of this MA compliance requirements. It's mostly
+27:3527 minutes, 35 secondsdepend on the services applied for example advice uh reception and transmission or execution of orders
+27:4527 minutes, 45 secondsrequire 50,000 euro exchange or custo services require
+27:5527 minutes, 55 seconds125,000 the operation of trading platform require 150,000
+28:0428 minutes, 4 secondsfrom The second year onward CIC charge annual supervisory fee also additional
+28:1128 minutes, 11 secondsfee it based on the services offered against uh custody and administration trigger early fee of €10,000.
+28:2128 minutes, 21 secondsTrading platform operation require 20,000 euro. Exchange services require
+28:2728 minutes, 27 seconds5,000 euro bit less finally and advisory services require €8,000.
+28:3628 minutes, 36 secondsbearable fee were um annual turnover exceed 500,000
+28:4328 minutes, 43 secondseuro uh subject to an overall cap of 500,000.
+28:5028 minutes, 50 secondsUh in terms of timing uh say acknowledge receipt of the application within five
+28:5928 minutes, 59 secondsworking days and confirms whether the file is complete within 25
+29:0629 minutes, 6 secondsworking days. Once the file is considered complete, the SAC must grant or refuse authorization within 14
+29:1529 minutes, 15 secondsworking days. Taking into account the preparation phase, quite realistic
+29:2229 minutes, 22 secondstimeline for an end to end materization is between six and 10 months depending
+29:3129 minutes, 31 secondsof course on the complexity of the business model and the applicant's ability to provide information without
+29:3729 minutes, 37 secondsdelays. legal fee for a complete mega CASP application handled by a local
+29:4529 minutes, 45 secondslawyer in Cyprus. Uh we did this research to obtain this information.
+29:5229 minutes, 52 secondsIt's usually start from 25 to 35,000 euro plus vit and the final amount of
+30:0130 minutes, 1 secondcourse depend on the services requested the number of policies that must be drafted from scratch because maybe some policies are already in place and in
+30:1030 minutes, 10 secondsgeneral the overall complexity of the structure in the engagement. The combination of this factor create a very disciplined regulatory environment.
+30:2130 minutes, 21 secondsHowever, it also provides predictability.
+30:2530 minutes, 25 secondsApplicants know what to expect. They know which documents must be ready and in which form. They also know that
+30:3230 minutes, 32 secondsCyprus has already processed files of IC labor which helps to set expectations
+30:3930 minutes, 39 secondsfor the entire market. Cyprus is therefore emerging as a strong hub for companies that want a serious structured and fully aligned mikauization.
+30:5230 minutes, 52 secondsSo let us summarize the main insight before we move to Lithuania.
+31:0031 minutesFirst Cyprus has demonstrated real regulatory readiness. The revolute case
+31:0831 minutes, 8 secondsshows that CISAC is not only prepared to apply Mika but also prepared to license
+31:1631 minutes, 16 secondslarge scale operations under early in the cycle. Second, Cyprus is an
+31:2431 minutes, 24 secondsattractive home jurisdiction for companies that plan to operate across the entire European market. its
+31:3131 minutes, 31 secondsexperience with uh investment firms with trading platforms give it a strong
+31:3831 minutes, 38 secondsfoundation to supervised crypto services under Mika and sir it's a expectations
+31:4631 minutes, 46 secondshere are actually quite high um substance here is not optional
+31:5331 minutes, 53 secondsgovernance here must be robust documentation here must be complete Cyprus It's not the easiest jurisdiction
+32:0232 minutes, 2 secondsin but it is one of the most clearly structured and finally uh Cyprus sends a
+32:1132 minutes, 11 secondsvery important sign to the market. Mika is now a live regulatory environment.
+32:1832 minutes, 18 secondsIt's not aspirational. It's a operational company that prepare seriously and early
+32:2732 minutes, 27 secondscan obtain authorization and position themselves strongly across Europe. So with this understanding of Cyprus, we
+32:3632 minutes, 36 secondscan now turn to Lithuania and see how a different regulatory path is unfolding
+32:4232 minutes, 42 secondsunder this mika framework. But uh before uh we analyzed how Detroit is
+32:5132 minutes, 51 secondsimplementing Mika, it's important to understand the foundation is building
+32:5632 minutes, 56 secondson. Uh Lithuania entered the VA with one of the largest and I would say most
+33:0533 minutes, 5 secondsactive and attractive robust ecosystem in the entire European Union. For
+33:1233 minutes, 12 secondsseveral years, the country operated a national registration regime based on AML5,
+33:1933 minutes, 19 secondswhich allowed crypto companies to offer exchange and custody service under a relatively clear and accessible
+33:2833 minutes, 28 secondsregulatory framework. This vast regime became extremely popular. Hundreds of
+33:3433 minutes, 34 secondscompany both local and international registered in Lithuania. Firms were attracted by of course transparent
+33:4333 minutes, 43 secondsrules, clear expectation from the authorities and regulatory environment that was familiar with fintech models
+33:5133 minutes, 51 secondsdue to Lithuanian strong history with payment institution and e-man institution. Lithuania gained a reputation as a crypto-friendly
+34:0034 minutesjurisdiction for say several practical reason not without reason. uh first of
+34:0734 minutes, 7 secondsall uh national vas registration was structured and predictable. It required
+34:1334 minutes, 13 secondsproper IML policy uh local representatives and a compliance oversight but it did not
+34:2234 minutes, 22 secondsimpose the full supervisory burden on a financial license like it's now under uh
+34:2934 minutes, 29 secondssecond the country already had a well-developed digital and fintech ecosystem. Many founders who were
+34:3734 minutes, 37 secondsbuilding crypto products also needed to access the payment services uh am partners and banking infrastructure all
+34:4634 minutes, 46 secondsof which were easier to find in Lithuania than in many other evil market. However, I would say the very
+34:5434 minutes, 54 secondssuccess of the WASP system also brought challenges because the large number of registered companies led to increased
+35:0335 minutes, 3 secondsscrutiny from European authorities who questioned whether the national AMLbased regime could keep up with this evolving
+35:1235 minutes, 12 secondsrisk landscape. it became clear that Lithuania could not rely on the V framework indefinitely and this um and
+35:2235 minutes, 22 secondstransition um to a stricter harmonized MA regime was just inevitable.
+35:2935 minutes, 29 secondsBy the time Mika entered into force at the EU level, Lithuania had one of the
+35:3635 minutes, 36 secondsbiggest crypto population in Europe, but also one of the strongest incentives to shift from a simplified registration model to a full supervisory model, Mika.
+35:4935 minutes, 49 secondsIn this context is crucial. Lithuania did not start Mika from zero. It started
+35:5435 minutes, 54 secondsfrom a large active but unevently mature industry that now had to be aligned with much more demanding European standard.
+36:0536 minutes, 5 secondsWith this in mind, let's uh look at how Lithuania is implementing this mika in
+36:1236 minutes, 12 secondspractice, what change companies in the jurisdiction are experiencing. Um we think that Lithuania introduced its national mika legislation in 2024.
+36:2636 minutes, 26 secondsThe cast program is already in effect.
+36:2936 minutes, 29 secondsIt's already uh working alive supervised by a bank of Lithuania. This means that
+36:3636 minutes, 36 secondscompany must now prepare a full authorization package that mirrors Mika expectation. It's not an update of the
+36:4536 minutes, 45 secondsold WASP system. It's completely different class of regulatory scrutiny.
+36:5136 minutes, 51 secondsSo, Lithuania granted existing wasp a transition period ending on January 1st, 2026.
+37:0137 minutes, 1 secondSo, um less than two months now they have and still take into account that uh
+37:0837 minutes, 8 secondsLithuan introduced its national mik legislation in 2024.
+37:1337 minutes, 13 secondsThis is one of the longest transition periods in the US. It was introduced because the Lithuanian Wasp ecosystem,
+37:2137 minutes, 21 secondsit's large, it's diverse, many companies registered early with minimal operational complexity and absorbed
+37:2937 minutes, 29 secondstermination would have created I would say market instability. In effect, the transition period function as a some
+37:3837 minutes, 38 secondssort of a probation phase. It's an opportunity for companies to demonstrate that they can evolve into fully
+37:4537 minutes, 45 secondsregulated entities. This um regulatory culture in Nitmania has always been data
+37:5437 minutes, 54 secondsdriving and process focused especially given the country's long track records of supervising payment institution
+38:0238 minutes, 2 secondsdifferent email institution and this experience directly shapes how Mika files are now reviewed. So let me break
+38:1138 minutes, 11 secondsdown this expectation into a few core areas. Um governance and management.
+38:1838 minutes, 18 secondsCompanies must present a clear organizational structure with identified responsible person. The regulator
+38:2738 minutes, 27 secondsexamine the competence and independence of management. Aate the conflict of interest and require documented decision
+38:3538 minutes, 35 secondsmaking processes. Government under Mika is not a formality. It's a key factor in this authorization decision. Before
+38:4538 minutes, 45 secondsMika, uh you needed 125,000 minimum share of capital to form
+38:5338 minutes, 53 secondsa crypto business in Lithuania. Uh if you register your business under Mika now you must have a minimum share
+39:0139 minutes, 1 secondcapital going from 50 to 150,000 depending on the business model and risk
+39:0839 minutes, 8 secondsprofile but also you must budget for IML QAC and SFT compliance uh audit
+39:1739 minutes, 17 secondsprocedure regulatory reporting consumer protection of course constant employee certification and license renewals.
+39:2739 minutes, 27 secondsAll of those cost mostly will depends on your business type and your business size. Uh it's it's hard it's really hard
+39:3539 minutes, 35 secondsto try to evaluate it as an approximate numbers. Um regarding IML, the Bank of Lithuania has always been strict on IML.
+39:4739 minutes, 47 secondsUnder Mika, the expectations are even higher now. Companies must provide complete IML policies, transaction
+39:5539 minutes, 55 secondsmonitoring procedure, escalation processes and staff training framework.
+40:0040 minutesThe regulator also evaluates the technical tools used for monitoring and checks whether they match the scale of
+40:0740 minutes, 7 secondsthe business. A licensed company must hire a qualified IML officer, compliance
+40:1440 minutes, 14 secondsofficers. It also known as money laundering reporting officers uh to communicate with FISA and inform the regulator about suspicious transaction.
+40:2740 minutes, 27 secondsA candidate for the position of an animal officers must meet certain requirements.
+40:3340 minutes, 33 secondsIt must have the knowledge and competence of course in the IMLSFT field. It should speak sufficient
+40:4040 minutes, 40 secondsLithuanian language and understand the Lithuanian legislation. Uh third point is a risk management.
+40:4940 minutes, 49 secondsThis is a substantial change for many former VA wasps. Mika requires documented risk inventories
+40:5840 minutes, 58 secondsuh methodologies for assessing risk and internal control that match the nature of the service. Operational risk, market
+41:0641 minutes, 6 secondsrisk, IT risk, outsourcing risk and cyber security risk. It all must be addressed. The Bank of Lithuania also
+41:1541 minutes, 15 secondsexamines the system architecture, access control, data protection, incident response procedure and business
+41:2341 minutes, 23 secondscontinuity arrangement. And companies that previously operated with lightweight or outsourced IT structure
+41:3141 minutes, 31 secondsnow required to demonstrate significantly stronger internal capacity or um let's say at least well-managed third party arrangement.
+41:4141 minutes, 41 secondsCustomer documentation. The last point terms and condition of course read disclosure complaint handling policy
+41:4841 minutes, 48 secondsconflict management framework all must be fully align with ma the regulators
+41:5541 minutes, 55 secondsindeed examines not only the content but also the clarity and fairness of the document.
+42:0242 minutes, 2 secondsWhat is happening in Lithuania right now is a real shift in how the crypto market
+42:0942 minutes, 9 secondsfunction under Mika. For years, many vasps operated with very light internal
+42:1642 minutes, 16 secondsprocesses. Some had minimal governance, limited compliance, and almost no real structure behind them. Under Mika, the model simply does not work anymore.
+42:2642 minutes, 26 secondsCompanies now face a clear choice.
+42:2842 minutes, 28 secondsEither they build proper internal capacity or they just step back from the Lithuanian market. And this moment is
+42:3742 minutes, 37 secondsalready filtering the industry because smaller players or those who came to Lithuania only for quick e access they may not make it through the transition.
+42:5042 minutes, 50 secondsUh but at the same time it's not so bad. Something positive is happening as well.
+42:5542 minutes, 55 secondsLithuania is becoming more um stronger uh more credible jurisdiction and firms that already have mature internal system
+43:0343 minutes, 3 secondssuddenly stand out. They are no longer competing with hundreds of lightly structured entities. The market is
+43:1143 minutes, 11 secondsstarting to feel different. Less noise, more substance, less quantity, but more quality.
+43:1943 minutes, 19 secondsThere also some very attractive features on paper. Lithuania does not require for example a list office. Uh there are no
+43:2743 minutes, 27 secondsseparate ongoing supervisory fee for crypto companies and MIA authorization is issued indefinite.
+43:3743 minutes, 37 secondsUh also and foreign funders or directors are fully allowed even if they are not
+43:4443 minutes, 44 secondsEU citizens. These points look genuinely under friendly and for many teams they sound almost too good to be true. Uh but
+43:5343 minutes, 53 secondshere is where the picture became more complex. Uh if you look at the national register of Lithuania,
+44:0244 minutes, 2 secondsyou will find something interesting. Uh 45 EU and EA, European Union and European
+44:1144 minutes, 11 secondsEconomic Area crypto asset service providers already serve Lithuanian
+44:1844 minutes, 18 secondsclients without having any establishment in Lithuania at all. uh company like for
+44:2644 minutes, 26 secondsexample Revolute licens it in Cyprus or by bit licens it in Austria operate here
+44:3544 minutes, 35 secondsin Lithuania through passporting and when you try to check how many companies actually received a mega
+44:4244 minutes, 42 secondslicense in Lithuania itself this information is nearly impossible to find the only clearly confirmed case
+44:5144 minutes, 51 secondsit's a Robin Hood Europe they received both the Lithuanian inc category brokerage license and new mikasp license
+45:0145 minutes, 1 secondum which basically gives them permission for custody, transfer service, order execution and order reception. It also
+45:0945 minutes, 9 secondsreplace their older national bus authorization and give them full EU coverage. It's a big milestone but so
+45:1645 minutes, 16 secondsfar it's the only one that is publicly visible. Take Binance for example. They had a vast license in Lithuania but
+45:2545 minutes, 25 secondsthere is no public confirmation uh that they transitioned to me cast license.
+45:3145 minutes, 31 secondsAnd if you talk to local advising in Lithuania, you will hear the same thing informally
+45:3945 minutes, 39 secondseveryone repeat that at the moment there are only one company that successfully obtained the new license and not many.
+45:4845 minutes, 48 secondsYes, of course. uh many may still be in process because we remember deadline January 2026 deadline has not arrived
+45:5645 minutes, 56 secondsyet but when numbers are this low I think they are sending a sign I cannot
+46:0446 minutes, 4 secondsformally sign under these words uh but Lithuanian experts say it very directly
+46:1346 minutes, 13 secondsthe current governmental approach is to license only the big established players
+46:2146 minutes, 21 secondsand startups and small crypto companies are not in the spotlights right now. Um that's how the real landscape look like.
+46:3246 minutes, 32 secondsOn paper it look open, flexible and welcoming. Uh in practice the bar is high and the entry point seems designed
+46:4146 minutes, 41 secondsfor serious well ststructured films rather than early stage teams. For strong players this makes Lithuania
+46:5046 minutes, 50 secondsquite gradable um your gateway. But for young startups um the journey may be more challenging than expected.
+47:0047 minutesUh in summary, Lithuania is moving from being a jurisdiction known for ease of entry to
+47:0947 minutes, 9 secondsbecoming a jurisdiction known for regulatory maturity, I would say. And this shift will have long-term effects
+47:1647 minutes, 16 secondson how the European crypto market developed. Well, now that we have looked uh at Cyprus and
+47:2647 minutes, 26 secondsLithuania separately, I'd like to bring them together in one comparative frame.
+47:3247 minutes, 32 secondsThe goal here is not to declare a winner. This one is better, this one is worse. The goal is to just understand
+47:4047 minutes, 40 secondshow each jurisdiction position itself and what type of company is likely to fit better in which in each environment.
+47:4847 minutes, 48 secondsI will go through six key dimensions that are usually decision when founders and board choose their mika home state.
+47:5547 minutes, 55 secondsAnd first it's uh regulator and supervision experience. Um first let us compare this uh regulators themselves
+48:0448 minutes, 4 secondsand their supervisory background. So on the cyber side the competent authority CYAC it has longstanding experience with
+48:1448 minutes, 14 secondsinvestment firms, brokerage houses, forex platforms, trading infrastructure.
+48:1948 minutes, 19 secondsThis means CISAC is very familiar with high frequency trading with leverage products with crossber services and
+48:2748 minutes, 27 secondscomplex risk profile and this experience naturally translated into more investment market oriented view of
+48:3448 minutes, 34 secondscrypto service providers. On the Lithuanian side, the supervisor authority is the bank of Lithuania.
+48:4348 minutes, 43 secondsIts trait lies in payment institution, e- money institution, broader fintax supervision.
+48:5248 minutes, 52 secondsBut the regulator um that has built a strong reputation for its work with
+48:5848 minutes, 58 secondspayment for consumer protection um in in money services in payment institution
+49:0549 minutes, 5 secondsfield uh show themselves indeed more big in the field of crypto regulation.
+49:1249 minutes, 12 secondsum more strong in the regulation but for more weak as an option especially for startups and small crypto enterprises.
+49:2249 minutes, 22 secondsSo at a high level Cyprus come from an investment and capital market background. Lithuania came from a
+49:3149 minutes, 31 secondspayment and fee acted infrastructure background both available but they shaped the regulatory culture in fully
+49:3949 minutes, 39 secondsdifferent way. Uh because second dimension I want to talk about here is a
+49:4649 minutes, 46 secondsmika readiness this implementation state because Cyprus has fully switch into Mika Lithuania into still in this
+49:5449 minutes, 54 secondsadvanced but transitional fate. In practice it means that Cyprus look more binary. You are either me authorized or
+50:0450 minutes, 4 secondsyou are not. Lithuania for the next two years uh continue to have this mixed landscape but of course with increasing
+50:1350 minutes, 13 secondspressure to coverage fully under authorization because deadline is coming
+50:1950 minutes, 19 secondsbut still so many companies just work here
+50:2550 minutes, 25 secondsuh under the bus and until uh the light didn't catch no one they still just continue their operation in the country.
+50:3650 minutes, 36 secondsThank you. Um third dimension is a local uh substance and local presence. Usually
+50:4350 minutes, 43 secondsboth jurisdiction require real substance. A purely nominal company with no real operation will not satisfy me expectation in either Cyprus or
+50:5250 minutes, 52 secondsLithuania. In Cyprus, substance usually means local director with real decision making authority. resident ML officers
+51:0151 minutes, 1 secondum on the ground compliance operational capacity that correspond to the scale of service in Lithuania. The bank of
+51:1051 minutes, 10 secondsLithuania expect a similar level of substance but it frame through its experience with payment institution. It focus strongly on governance risk
+51:1851 minutes, 18 secondscontrol uh ML quality and more like local accountability. In both places, virtual structure without real people
+51:2751 minutes, 27 secondsand processes will not work. The choice is less about whether substance is needed and more about which regulatory
+51:3551 minutes, 35 secondsculture your team feels more aligned with.
+51:3951 minutes, 39 secondsUh the first dimension is market perception especially from investors and bank. Cyprus has been associated with trading platform for a long time.
+51:4951 minutes, 49 secondsinvestment field brokerage activity.
+51:5251 minutes, 52 secondsLithuania is widely seen as a fintech and payment hub. It has hosted many e- money and payment institutions that
+52:0052 minutesoperate across the Europe. And regarding e- money and payment institution indeed the twinian regime is more kind, I would
+52:0952 minutes, 9 secondssay kind even to startups to small enterprise. So when we look at these dimensions together, we do not see a
+52:1652 minutes, 16 secondssimple hierarchy. Instead we see two different strategic profiles. Cyprus
+52:2252 minutes, 22 secondsappears as a fully ma focused uh capital market oriented hub that is ready for large scale and complex structures.
+52:3352 minutes, 33 secondsLithuania appears at a transforming fintech oriented jurisdiction that's a piling process of reshaping a large vast
+52:4152 minutes, 41 secondsecosystem into more disciplined ma environment. In this section I want to briefly move from theory to practicing.
+52:5052 minutes, 50 secondsQuestion many founder ask is very simple. Which jurisdiction should we choose for our maker license? Of course there is no universal answer. The
+52:5952 minutes, 59 secondsoptimal choice depend company scale, internal maturity, business model and strategic priorities. But to make this
+53:0653 minutes, 6 secondsmore intuitive, I wanted to outline these three typical profile and explain how each align with Cyprus in Lithuania.
+53:1453 minutes, 14 secondsSo for example large fintac or neo bank with existing governance and compliance infrastructure
+53:2253 minutes, 22 secondsum where do they fit and our answer is Cyprus is often the natural choice because SCIAC has longstanding
+53:3053 minutes, 30 secondsexperience with complex financial institution the regulator is comfortable valating high volume operation advanced
+53:3953 minutes, 39 secondsrisk model Cypress license is immediately recognizable to many institutions partners and revolute case
+53:4753 minutes, 47 secondsjust has straightened the perception that Cyprus is ready for large scale play. These companies usually have the
+53:5453 minutes, 54 secondsresources to satisfy the higher substance expectation in Cyprus without compromising their operational
+54:0254 minutes, 2 secondsoperational plans. I would say operational road maps for international crypto startup scaling toward EU markets.
+54:1254 minutes, 12 secondsBoth jurisdiction are possible but the choice depends on the company internal maturity and its risk appetite because
+54:2154 minutes, 21 secondswhat we already understand about Lithuania small enterprises and startup
+54:2854 minutes, 28 secondsare almost impossible to enter the market here. That's why Cypus if we choose between these two option fits
+54:3754 minutes, 37 secondswell if the company wants strong brand positioning uh has or is willing to hire senior governance and compliance roles
+54:4554 minutes, 45 secondsand uh ready to meet high documentation and IT requirements early in practice however for small startup it made more
+54:5554 minutes, 55 secondssense to consider other jurisdiction such as uh Poland or Czech Republic
+55:0255 minutes, 2 secondsAustria. Of course, it's all a case based. And last but not least, regional players with local or niche focus. I added here Baltics and the E Nordics.
+55:1555 minutes, 15 secondsOf course, where do they feed bad?
+55:1755 minutes, 17 secondsLithuania typically is a more natural choice. It's reason mature fintech ecosystem with existing partnership in
+55:2555 minutes, 25 secondspayment and compliance. regulatory cultures recognize the dynamic of regional digital financial service. I
+55:3355 minutes, 33 secondswould like to say also the ability to build ma compliance step by step during transition period. Let's be honest is
+55:4155 minutes, 41 secondstoo late for this as of now. Uh so across these three profiles the pattern became visible. Cyprus align strongly
+55:4955 minutes, 49 secondswith companies that already resemble regulated financial institution in their internal structure. That does not mean
+55:5655 minutes, 56 secondsthat a growing startup cannot choose Cyprus. It's possible. But understanding your internal state and the expectation
+56:0456 minutes, 4 secondsof each regulator will allow you to select a jurisdiction that support your long-term strategy, not only your immediate licensing need.
+56:1556 minutes, 15 secondsUh I had also a few slides about Mika readiness, what you need to know before
+56:2256 minutes, 22 secondsyou apply. But I see we are very much out of time. So as this matter of ma
+56:3056 minutes, 30 secondsreadiness what you need to know before you apply uh how to clarify the exact ma services you will provide how to build a
+56:3856 minutes, 38 secondsrobust governance structure competent board of management by the clear separation of function how to straighten your IML and compliance framework.
+56:4856 minutes, 48 secondsWe can talk about this next time during our next webinar that will be dedicated
+56:5556 minutes, 55 secondsexactly to this topic. Uh but before we wrap up, I would like to open a floor for questions because we covered a
+57:0457 minutes, 4 secondssignificant amount of material today from regulatory context to jurisdictional comparison to practical preparation steps. If there is any point
+57:1257 minutes, 12 secondsthat you would like to explore further or if you would like a clarification on how certain requirements apply in practice, this is a good moment to
+57:2057 minutes, 20 secondsdiscuss it. I don't have much time but please feel free to share your question um either broad or very specific. I see there is some message in chat.
+57:3757 minutes, 37 secondsI will share uh all slides that we saw today regarding the slides for ma
+57:4557 minutes, 45 secondsapplication. I believe in next few weeks we will have one more webinar where we
+57:5257 minutes, 52 secondswill go into more details about this because on this slide um we touched more like general we will come more deep and
+58:0158 minutes, 1 secondof course after this webinar we will share all slides with you. So please tell uh stay tuned and check our
+58:0958 minutes, 9 secondsLinkedIn of legal notes and we will share information when this webinar can be expected.
+58:1858 minutes, 18 secondsThank you for information. Thank you very much. Uh thank you for your question. Thank you for being here and
+58:2658 minutes, 26 secondsyou for your attention. I appreciate it a lot. I would be happy if you'll come to next webinar as well. we will come in
+58:3358 minutes, 33 secondsmore deep topics. Thank you for joining today's webinar for your engagement throughout the session. I hope this
+58:4058 minutes, 40 secondscomparison and the practical guidance and this insights uh we obtained from the jurisdiction especially from
+58:4758 minutes, 47 secondsLithuania because we believe it's important to find this information. It's impossible to find this information in Google and link it in anywhere else.
+58:5758 minutes, 57 secondsThat's why our team went directly to Lithuania and we had direct communication with regulator uh with a
+59:0459 minutes, 4 secondsrepresentative of a ministry of communication and the office of European Commission to understand how it will
+59:1359 minutes, 13 secondswork to share it with you. So no one will be surprised and pleasantly will be time to choose a jurisdiction for them.
+59:2359 minutes, 23 secondsThank you very much. Uh I hope this comparison and practical guidance help you navigate your next steps under Mika and more structuring made. Uh if you
+59:3259 minutes, 32 secondswould like to continue the conversation, discuss your specific business model or explore which jurisdiction aligned best with your strategy, please feel free to
+59:4159 minutes, 41 secondsreach out to legal nodes. We'll be glad to assist. Thank you once again and I wish you a productive remainder of the day.
+59:5359 minutes, 53 secondsThank you everyone. Bye.
+59:5659 minutes, 56 secondsThank you very much, Victor, for hosting this event.
+

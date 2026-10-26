@@ -1,0 +1,234 @@
+Chapter 1: Intro
+0:00welcome to our sixth ever episode and final episode of this year of tokenizing everything with me today is
+0:088 secondsum lawyer nicola marcella it's a pleasure to have him here today he's an expert in the tokenization space and he will provide some
+0:1515 secondsgreat insights in regarding the legal legalities of tokenization so before we continue i would have to mention that everything that is
+0:2222 secondsmentioned today is solely based on personal opinions and does not reflect your opinion of amazing blocks storm partners or any other involved party
+0:3030 secondsso yeah let's begin thanks for being here today with me nicola pleasure to have you how are you i'm fine thank you nicolas
+0:3838 secondsthank you for having me here today i'm really glad to participate yeah i mean it's always great to catch up um we met at the european blockchain
+0:4646 secondsconvention and and um since then you know a kind of a collaboration has been emerging between our party so it's great to have you on our show and
+0:5454 secondsyeah let's begin um i mean you're a lawyer obviously so can you tell our um listeners a bit about how you you kind of
+Chapter 2: Nicola's vita & introduction of STRM Digital
+1:031 minute, 3 secondsyou know morphed into the tokenization space or got into the tokenization space of the lawyer what was your experience there and what led to this decision
+1:101 minute, 10 secondsyeah so i started my experience with blockchain and dlt during university basically my primary
+1:181 minute, 18 secondsmethod is financial markets law and from the very beginning i noticed that the potential and and also this phenomena regarding ico it
+1:271 minute, 27 secondswas really kind of entering the financial markets law but it at that period in 2016 was completely
+1:351 minute, 35 secondsunregulated and was also a kind of enigma for regulators because they didn't really understand what was the technology
+1:431 minute, 43 secondsbehind and also the movement behind it also bitcoin was uh was seen with kind of like suspicious
+1:521 minute, 52 secondsinstead right now as you all know there are institutional investors entering in the market uh so i started
+2:002 minutesfrom this approach that was financial markets law and started to see uh how the this phenomenon was evolving
+2:092 minutes, 9 secondsand in the end i i'm quite glad about the most recent development because uh
+2:162 minutes, 16 secondsall these crypto asset phenomena is moving toward compliance and so towards security token offerings
+2:242 minutes, 24 secondsyeah i mean it's exactly what you mentioned is happening i mean we need compliance in this space to to onboard or you know
+2:322 minutes, 32 secondsthe traditional world of finance onboard the legal system to the blockchain space in general so so what to you you know there's always like or
+2:412 minutes, 41 secondsto a lot of people in the blockchain space in general there's a moment that defines basically their path to to fully go all in on the space was there like a moment like a wow
+Chapter 3: Personal "Wow" Moments & First experience with Blockchain and Tokenization
+2:492 minutes, 49 secondsexperience for you that's something i always ask my guests that that really made you comment okay hey this is something i don't just want to do legal uh lawyer stuff like
+2:592 minutes, 59 secondsmost like i want to try something new i want to try something innovative was there like something where you realized okay this this has the potential to disrupt
+3:063 minutes, 6 secondsyou know the legal aspects the tech aspects in the financial sector yeah so actually when i was in university and
+3:133 minutes, 13 secondsstarting to get interested into the space i entered the blockchain education network the italian section and there
+3:213 minutes, 21 secondswas this event they organized with the guys from seedventure which is a an italian project but now based in
+3:293 minutes, 29 secondslondon and this is a tokenization platform for basically startups and incubators accelerators for
+3:363 minutes, 36 secondsso really for the financing of new business of view of new initiatives and is fully decentralized
+3:453 minutes, 45 secondsand there i've seen really the kind of revolution from the world that was coming from which was kind of traditional
+3:523 minutes, 52 secondsfinance financial market law in which basically in order to have access to the real market so to the trading venue the stock market
+4:004 minutesyou have to be a bank and quite a big one actually and this intermediation there is not known basically
+4:084 minutes, 8 secondsand these i really see dlt and blockchain as a possibility for the democratization
+4:154 minutes, 15 secondsof the access to capital markets and indeed a democratization of capital markets itself
+4:234 minutes, 23 secondsyeah i mean it's a great point there that you mentioned i mean financial inclusion is really something that um you know blockchain as
+4:314 minutes, 31 secondsa technology as a whole can can bring you know to the financial sector and to kind of you know decentralize the space that is quite centralized as of now
+4:394 minutes, 39 secondsso it's always great to see you know i mean there's not too many lawyers right now that that focus that much so it's great to see pioneers like you
+4:474 minutes, 47 secondsum and having you join us so also something interesting you recently joined storm partners um if i remember correctly before that you
+Chapter 4: Introduction of Storm Partners
+4:544 minutes, 54 secondswere at an established law firm in italy and now you join storm partners can you tell our listeners a bit what led to this decision to join storm partners and
+5:025 minutes, 2 secondsalso maybe give a brief intro about what storm partners is yeah sure so i was in a kind of traditional law firm doing
+5:105 minutes, 10 secondsinternational trade law corporate law i i liked that job but was not really
+5:175 minutes, 17 secondsstimulating from from this side as i said i really have a belief in the future of the ltn blockchain
+5:255 minutes, 25 secondsand so this uh this opportunity came up this is a new agency providing solutions for
+5:335 minutes, 33 secondsblockchain and crypto asset industries and initiatives uh in a in a general sense let's say so we
+5:415 minutes, 41 secondshave different departments i i'm of course i thought in the legal department but we have also marketing pr business development and basically we
+5:515 minutes, 51 secondsassist a tokenization project as well as other businesses operating in this space
+5:585 minutes, 58 secondsuh providing different kind of services thanks to our kind of uh differentiated team
+6:076 minutes, 7 secondsof specialists yeah i mean it's it's crucial in the space to kind of you know
+6:146 minutes, 14 secondsyou know tap into every direction and kind of cover every aspect because there's just such an educational gap whether it's finance
+6:226 minutes, 22 secondstech or law that needs to be close so it's great to see people um or organizations like yours too to kind of you know kind of cover
+6:306 minutes, 30 secondsall in one solution and i think you have an auspicious future there so um yeah let's dive right into the topic of tokenization i mean
+Chapter 5: Pain points from a legal perspective harming the emergence of the token economy
+6:386 minutes, 38 secondsfrom a regulatory and legal point you're you're the true expert here so maybe you can give our listeners a brief overview
+6:456 minutes, 45 secondsto you from a legal perspective what are the pain points that are currently still harming you know the emergence of a true token economy in our
+6:536 minutes, 53 secondsyou know in the european space maybe and then also in in the international space when compared to you know us or china yeah so let's start from a
+7:027 minutes, 2 secondsbrief history of it because uh now there has been kind of a lot of years in the in this space
+7:107 minutes, 10 secondsof some regulations law coming up from the very beginning from 2014 the financial
+7:177 minutes, 17 secondsaction tax first entered with some opinions on what they
+7:257 minutes, 25 secondswere called virtual currencies at the time saying that there was a huge risk for money laundering and tourist financing
+7:337 minutes, 33 secondsso the first approach of the worldwide regulators was in the matter of anti-money laundering and kyc know your clients policies
+7:427 minutes, 42 secondsand obligations and indeed currently right now the european law is focusing only on this so wallet providers and
+7:507 minutes, 50 secondsexchange platforms they have to acquire this information which in the end is the same information that banks need
+7:577 minutes, 57 secondsto acquire on their clients or basically money service providers
+8:048 minutes, 4 secondsbut what is developing right now is a much more complicated and sophisticated regulation
+8:118 minutes, 11 secondswhich entails basically the possibility of tokenized assets one of the first countries to issue a regulation is this sense has
+8:188 minutes, 18 secondsbeen lichtenstein with actually in my opinion a quite good regulation because there is no a
+8:278 minutes, 27 secondsreally deep description of blockchain or dlt technology but there is a kind of really clear and
+8:358 minutes, 35 secondsestablished framework for the tokenization of assets for example every kind of assets from shares
+8:438 minutes, 43 secondsbonds to also physical assets and in my opinion it makes quite clear the how to move
+8:528 minutes, 52 secondsif you want to tokenize something there yeah i mean it's great that you mentioned this in style
+8:598 minutes, 59 secondsand so i'm happy to hear you know a little actually like you also mentioned it um because you're really proud of leveraging the solution there so do you think listening to the listening
+Chapter 6: Liechtenstein as a role model (Liechtenstein Token Act) ?
+9:089 minutes, 8 secondsgen solution will be kind of you know a role model for the eu as a whole or do you think that you will
+9:169 minutes, 16 secondsimplement their own laws what do you what is your take on that uh is is difficult to say this so basically right now the european commission published the
+9:249 minutes, 24 secondsdigital finance package which uh includes two proposals of regulation in uh in this matter the
+9:329 minutes, 32 secondsfirst one is for the markets in crypto assets and actually regulates all those crypto assets which are not uh securities which in uh
+9:419 minutes, 41 secondsenough european law is uh financial instruments and then there is another regulation which uh provides
+9:489 minutes, 48 secondsfor biology uh regarding uh trading venues that
+9:559 minutes, 55 secondsor market infrastructure in weather sense that want to use uh dlt for their operating uh
+10:0210 minutes, 2 secondsactivities in my opinion actually the really interesting proposal is the second one because it allows uh trading venues and
+10:0910 minutes, 9 secondsusual existing stock markets to use uh distributed like the ledger technology and so he in my
+10:1810 minutes, 18 secondsopinion is really near a future in which i found a company with the schroeder book which is uh recorded
+10:2710 minutes, 27 secondson a distributed ledger and then basically all my shares are are tokens and from the very beginning from equity
+10:3610 minutes, 36 secondscrowdfunding or any other form of fundraising i decide to to jump in
+10:4410 minutes, 44 secondsi can basically only sell tokens and then in the end these tokens will be traded on uh trading venues traditional trading
+10:5210 minutes, 52 secondsvendors yeah i mean it's great that you mentioned that most people don't really understand or know that there's actually two proposals
+11:0011 minutesand not just one so and it's great that you give our listeners this insight yeah i've seen that everybody's kind of talking only about
+11:0811 minutes, 8 secondsthe first one which i mean is of course an interesting regulation i'm not saying it but
+11:1611 minutes, 16 secondsi think that the most important part of tokenization is the tokenization of securities
+11:2411 minutes, 24 secondsyeah no i fully agree this will be what actually you know fosters mainstream adoption um for the traditional sector of course there's a
+11:3111 minutes, 31 secondslot of pioneers you know trading with cryptocurrencies getting into the space but what's really going to you know
+11:3911 minutes, 39 secondshelp our you know financial sector go all in on the blockchain space is actually what you mentioned correctly the tokenization of true
+11:4711 minutes, 47 secondsreal world use cases um just let me add one thing uh
+11:5411 minutes, 54 secondsi do not think that uh cryptocurrencies are not important but i think that for example bitcoin it
+12:0112 minutes, 1 seconddoes not require regulation also because regulation can do really a little about bitcoin so regulation is needed in in other parts
+12:1012 minutes, 10 secondsand in other possible applications of blockchain and disability ledger technologies uh so let's regulate what's needed
+12:1812 minutes, 18 secondsregulation and athletes what it doesn't need a regulation to be free yeah i mean that that is the core
+12:2512 minutes, 25 secondsprinciple of blockchain anyway the decentralized aspect you know even the privacy aspect so to say and and i think this will be a lot of
+12:3212 minutes, 32 secondschanges in the future and also you know kind of morphing or emerging you know for instance the d5 space which is more or less kyc less
+12:4012 minutes, 40 secondswith the tokenized asset space um so yeah let's talk a bit more about regulation in europe though you mentioned wichita obviously has a
+Chapter 7: Jurisdictions for Blockchain and Tokenization in Liechtenstein and Switzerland compared
+12:4812 minutes, 48 secondsgreat jurisdiction another great jurisdiction um that is very forward thinking is switzerland um can you give us a bit more insights on regarding how
+12:5612 minutes, 56 secondsthese two jurisdictions compare about them to each other maybe um the differences on the one hand but also how they complement each other and how these
+13:0413 minutes, 4 secondsjurisdictions can be combined for fostering the token economy yeah so switzerland is my own jurisdiction let's say as
+13:1113 minutes, 11 secondsi'm being in switzerland uh in this regard we have to really understand that the leakation approach and the swiss
+13:1713 minutes, 17 secondsapproach are really different the in in switzerland the financial conduct authority
+13:2413 minutes, 24 secondsissued a some guidelines regarding icos without a legislation of it
+13:3213 minutes, 32 secondsbasically introducing these uh three categories division of payment tokens utility tokens and
+13:3913 minutes, 39 secondssecurity tokens in order to give some certainty to all the icos that were happening in switzerland in the last years and so we
+13:4813 minutes, 48 secondsactually with these kind of short guidelines they succeeded in building up a kind of
+13:5613 minutes, 56 secondstrustable and certain regulatory framework for the issuance of tokens uh right now
+14:0414 minutes, 4 secondsthey are moving forward on uh honestly on a legislation regarding the implementation of disagree technology into swiss law
+14:1214 minutes, 12 secondswith an approach with again is totally different from lichtenstein because they are basically changing the
+14:1914 minutes, 19 secondscv code the code of obligations and every concerning swiss law in this regard
+14:2714 minutes, 27 secondsintroducing the possibility of having dlt-based digital assets everywhere
+14:3414 minutes, 34 secondsin the industry's law so for example in this new law there is the possibility to have the
+14:4114 minutes, 41 secondsshareholder book on a distributed ledger and so yeah you can found you can found a company
+14:4814 minutes, 48 secondswith the shares with that are us that are digital assets
+14:5614 minutes, 56 secondsyeah um that's an interesting point that you mentioned um so one one thing that that is always a topic in tokenization space that we
+Chapter 8: Possibilities and problems with EU-Passporting
+15:0315 minutes, 3 secondssee it also from ourselves is is passporting for instance yeah um so so you know can you tell us a bit more about passporting in in terms of
+15:1215 minutes, 12 secondsthese different jurisdictions and how there may be issues but what is also possible in this industry this is really the the my opinion the complementing of
+15:2015 minutes, 20 secondsswiss and liechtenstein jurisdiction because in switzerland is outside the european union has nothing
+15:2815 minutes, 28 secondsto do with the european union you can do your ico there but then if this ico in the offering there are security so if
+15:3615 minutes, 36 secondsis a security token offerings and you want to expand it through all across europe basically it's kind of complicated
+15:4415 minutes, 44 secondsbut if you do it in in liechtenstein then you can go to the linkedin financial conduct authority get the
+15:5215 minutes, 52 secondsapproval there and then use the passporting rule provided for in the prospective regulation in the
+15:5915 minutes, 59 secondseuropean prospectus regulation and go basically in a much easier way to the other financial conduct authorities of european member states
+16:0716 minutes, 7 secondsto get their approval why because liechtenstein different from switzerland is part of the european economic area so
+16:1416 minutes, 14 secondsis not a member state of the european union but still some european regulation supplies yeah yeah i mean so this game basically
+16:2316 minutes, 23 secondsacts as a bridge between these two worlds i would say right um kind of you know enabling also swiss projects to be you know um
+16:3216 minutes, 32 secondspassported throughout the eu so that's a great use case um another um of the country um in the duck region
+Chapter 9: German Blockchain & Tokenization regulations
+16:3916 minutes, 39 secondsthat is uh making some move lately is um germany which um just the other day actually
+16:4716 minutes, 47 secondsmade it legal to allow electronic securities to be recorded using blockchain can you tell our um listeners a bit what's your take on this
+16:5516 minutes, 55 secondsthis move you know by the german government and do you think that they will kind of you know have a pioneer approach there or are they kind
+17:0317 minutes, 3 secondsof just following other jurisdictions um like what is your take on this in my opinion is really similar to what switzerland is doing so they are introducing in the
+17:1217 minutes, 12 secondskind of normal law let's say the possibility of having uh tokenized assets in my opinion is a really smart move
+17:2117 minutes, 21 secondsi think that really all european countries would add in their law the possibility of having assets
+17:2717 minutes, 27 secondsrecorded on a distributed ledger and of course it it makes much more easier
+17:3417 minutes, 34 secondsto have the the offering of these tokens because in the end you have really a lot of league uncertainty regarding the fact that
+17:4217 minutes, 42 secondsthese shares are actually shares uh the laws provide for this form of shares
+17:4817 minutes, 48 secondsso from the legal point of view a token representing a share with this kind of laws
+17:5517 minutes, 55 secondsis a share the token is only the digital four of the of this chair yeah no i mean yeah there's there's a
+18:0418 minutes, 4 secondslot of differentiation that needs to be made here whether it's a little twin or not and so on yeah so there's a lot of legal hurdles that are still obviously present that we need
+18:1318 minutes, 13 secondsto solve but it's great to see jurisdictions you know taking a puny approach and trying to be or stay disruptive and
+18:2118 minutes, 21 secondsinnovative yeah also one thing to add so this is a kind of simple explanation in the end as a lawyer
+18:2918 minutes, 29 secondsi must say that you always have to really check the the proper law go through the text to see what
+18:3618 minutes, 36 secondsreally is providing for because there could be some slightly differences that actually are not so
+18:4418 minutes, 44 secondslittle when it comes to to the concrete so in my opinion yeah the principle is good then you have to see what the the real text
+18:5318 minutes, 53 secondsis and how to like is implemented yeah you basically have to deep dive into the law of attraction like back in the universities
+19:0219 minutes, 2 secondsyeah yeah i definitely see this so let's let's continue with use cases for tokenization um what to you generally are you know
+Chapter 10: Use Cases for Tokenization
+19:1019 minutes, 10 secondsthe best use cases i mean only one insurer you can talk about company shares but then the other hand you can tokenize any type of illiquid asset
+19:1819 minutes, 18 secondsso dwell to you are maybe the most suspicious use cases on the one hand and on the other hand from a legal standpoint maybe the most difficult use cases to implement
+19:2619 minutes, 26 secondswith compliance yeah for example actually i have a really good example the example of the bill of lading
+19:3319 minutes, 33 secondsbecause my previous law firm tsuna riley and associate is a re is a major law firm in italy for global trade
+19:4119 minutes, 41 secondsand so we every day we were facing uh issues and problems regarding global trades
+19:4919 minutes, 49 secondsglobal trade and the bill of lading is a in the global trade is probably the main document is a document of title so basically is the document
+19:5719 minutes, 57 secondsuh with with uh you can go in a in the port in which the ship is arriving and claim the goods on the ship so if you have this document
+20:0620 minutes, 6 secondsin your hand you can claim the goods but it's a paper document in a digital world you have to ship by
+20:1520 minutes, 15 secondspost these documents from one place to another in the world and they can lose it it happened to me it happened to me once
+20:2320 minutes, 23 secondsuh to to end of this case in which uh was kind of weird and also hard to to solve it because the
+20:3120 minutes, 31 secondsthe ship was in the sea was traveling and you have no bill of lading in order to claim the goods
+20:3920 minutes, 39 secondsand also this document is related to the letter of credit the banking and all the like subjects involved
+20:4720 minutes, 47 secondsin global trade and is not really possible in my opinion in this digitalized world to continue to operate with a with a
+20:5520 minutes, 55 secondspaper document it even doesn't make sense and uh is a is a burden on global trade
+21:0321 minutes, 3 secondsoperators so the regarding the electronic bill of ladings uh much attempts have been done but the
+21:1221 minutes, 12 secondsthing is that global trade it relays as from a regulatory point of view to international law so we have some international conventions on it
+21:2121 minutes, 21 secondsand of course the international bench convention that are now into force they're old they do not provide
+21:2721 minutes, 27 secondsfor electronic documents the new rotterdam rules they actually provide for the for electronic documents for the electronic
+21:3621 minutes, 36 secondsmetal blading but they are not into force because a lot of stat of countries they didn't ratified the
+21:4521 minutes, 45 secondsrotterdam rules so we need basically some developments on the legal
+21:5321 minutes, 53 secondsside in order to to apply dlt in global trade and in my opinion global trade would be a perfect use case
+22:0122 minutes, 1 secondso basically like an international law needs to be in place to to be able to seamlessly and efficiently manage
+22:0822 minutes, 8 secondsyou know the compliance aspect and other aspects regarding the pillow fading yeah so regarding him aside from the bill of lading which i know that you're
+22:1622 minutes, 16 secondscurrently writing an article on right so so i guess um our listeners um can look forward to this um i will also from amazing website
+22:2422 minutes, 24 secondsum at a little part about the technological aspect so stay tuned regarding this um what are other
+22:3122 minutes, 31 secondsuse cases that you see as is quite interesting apart from traditional company shares in the bill of lading of course which i think is
+22:3822 minutes, 38 secondsis making you a pioneer pioneer a double pin here basically in the uh tokenization space your opinion from the legal side but then also i i think
+22:4622 minutes, 46 secondsyou're the only person i have heard talking about the tokenizing the bill of lading so that's definitely very interesting and i like everybody i'm not the only one but we are a few
+22:5522 minutes, 55 secondsyeah but i mean for people that are not familiar with it um so anyway apart from this um are there any other use cases that you see as
+23:0423 minutes, 4 secondsis quite interesting and what to you are they actually there are a lot but i for a matter of time i would cite only a few of them so in my opinion the
+23:1223 minutes, 12 secondstokenization of equity crowdfunding campaign could be really interesting because now equity critical funding i love it
+23:1923 minutes, 19 secondsactually your friend because a startup can raise funds from the crowd so from people uh and not only from venture capital or
+23:2723 minutes, 27 secondsinvestors or this kind of work but right now for the investor to invest in an equity core funding campaign it's really a
+23:3523 minutes, 35 secondsmatter of faith let's say because basically you put this money inside the company and for five years or six years you are
+23:4323 minutes, 43 secondsnot able to have any return only maybe if the company is acquired by by a bigger one otherwise you have to wait that the
+23:5223 minutes, 52 secondscompany basically becomes public and goes on to on a stock exchange get listed basically
+24:0024 minutesso if you tokenize this equity crowdfunding campaign what you actually receive is tokens representing your participation
+24:0824 minutes, 8 secondsin the company so your shares and then of course you can trade those shares and i mean could be risky in the
+24:1624 minutes, 16 secondsbeginning but in the end you give the possibility to investors to make a more liquid investment and so
+24:2424 minutes, 24 secondsalso to be free to liquidate the investment if they need it and in my opinion in the end it will enlarge the market for equity
+24:3324 minutes, 33 secondscrowdfunding yeah i mean that's the perfect use case basically with the right platform with just a few
+24:4124 minutes, 41 secondsclicks so to say you can go to the kyc you know on board the investors and and then just issue the tokens yeah
+24:4924 minutes, 49 secondsso i definitely see your vision there so last but not least something that i always like to to ask you know my guest which which obviously you can
+Chapter 11: Where do you see Blockchain and Tokenization in 10 years?
+24:5724 minutes, 57 secondsgive a definite answer to especially as a lawyer but it's still interesting to give get the different perspectives on this um just out of the blue where do you see
+25:0625 minutes, 6 secondsblockchain and tokenization you know in 10 years from now in the stock market i understand
+25:1525 minutes, 15 secondsyeah i said in 10 years in my opinion the stock exchange they will operate uh through dlt technology
+25:2225 minutes, 22 secondsbecause it is a better technology but i i'm not saying it the european securities and market authorities in
+25:2925 minutes, 29 seconds2017 i guess i don't remember specifically but they published a really good paper illustrating their benefits
+25:3625 minutes, 36 secondsin a matter of settlement clearing transparency is basically a superior technology for
+25:4325 minutes, 43 secondsthe purposes of of stock market and capital markets
+25:4925 minutes, 49 secondsand also it could allow really a a new path for fundraising for companies
+25:5725 minutes, 57 secondsfrom the very early phase to the to the stock market so to the public phase so from small companies to
+26:0426 minutes, 4 secondsreally big corporations uh you can start and live this life with your shareholder book tokenized and your
+26:1326 minutes, 13 secondsshares that are tokens and you can issue new ones according to the corporate law but in the end you use the same technology
+26:2126 minutes, 21 secondsand you can go from 10 shareholders to 10 000 or
+26:2726 minutes, 27 seconds1 million yeah yeah i think it it will be much easier to scale your business yeah so
+Chapter 12: Outro
+26:3426 minutes, 34 secondsthis was a great finish there um um so i wish you a pleasant evening i wish you
+26:4126 minutes, 41 secondsgreat christmas especially stay healthy i see your beautiful christmas tree there in the background so yeah you're already in the christmas vibe that's great i'm reading the christmas
+26:5026 minutes, 50 secondsmood we we need it this year yeah definitely christmas at least we all are used to staying home so i guess a
+26:5926 minutes, 59 secondsbit of normality is coming back so yeah it was great to have you here today and i'm sure we'll we'll talk soon regarding the article and
+27:0627 minutes, 6 secondsfrom partners so yeah enjoy the rest of your day and um see you soon thank you very much for for having me here for austin this event i think that
+27:1527 minutes, 15 secondsuh it's really useful for people in this environment to to have these discussions and also to spread some
+27:2227 minutes, 22 secondsinformation on this regard in particular with legal message guys don't be afraid of legal methods you you need it and actually
+27:3027 minutes, 30 secondsit's not so bad yeah that i fully agree with you especially when it's pure news like you that kind of you know address these legal matters so yeah
+27:3927 minutes, 39 secondsto every listener um thank you for for watching or listening to today's podcast interview um
+27:4527 minutes, 45 secondsas well i wish you all a merry christmas we will be back in january on the 8th with an amazing blog special with a
+27:5327 minutes, 53 secondscouple of team members on board that will kind of you know pass review regarding the first couple of months at amazing blocks in the development so stay tuned
+28:0128 minutes, 1 secondfor this i wish you all merry christmas stay healthy and don't forget to subscribe and see you in the next podcast thank you
+28:0928 minutes, 9 secondsthank you very much
+
+Sync to video time
+
+All
+
+From your search
+

@@ -1,0 +1,757 @@
+Intro
+0:00
+There's a lot of hype. There's a lot of fear around A.I..
+0:03
+According to Citigroup, A.I. is likely just to displace more jobs
+0:07
+across the banking sector and industry really than any other sector.
+0:11
+54% of jobs across banking have a high potential to be automated, according to
+0:16
+city. Do you agree with that?
+0:19
+Does that sound about right? Derek and.
+0:22
+I do think there's a potential to have a high percentage of jobs automated, but I
+0:28
+also think there's a great potential to bring a lot more efficiency to jobs.
+0:33
+You know, we think about some of our early use cases.
+0:35
+So I do think there's a lot of potential with what we're doing with both.
+0:40
+A.I. traditional A.I.
+0:42
+is also as well as generative A.I.. So I think that the the assertion
+Opportunity in Banking
+0:48
+there's a lot of opportunity in banking is that is probably correct.
+0:51
+If you look at our bank at Jp morgan, we are most focused on the domains of
+0:57
+technology, customer service and operations as having the most
+1:00
+transformative impact on GDI, and that would be roughly half of the bank or
+1:04
+something by headcount that. That said, I always say that I think
+1:09
+it's very difficult to actually try and put projections of what the future state
+1:13
+will mean. And the reason is because banking has a
+1:17
+long history of other very disruptive technologies the mainframe computer, the
+1:22
+online banking. Back then, many predictions were made
+1:24
+around what the future could look like. And while people 25 years ago thought
+1:29
+that the bank and bankers could be could, could be could be questioned and
+1:34
+be able to give more banks now than we did 25 years ago.
+JP Morgan Chase
+1:36
+But there's a Chase Branch on every corner of Manhattan.
+1:39
+Feels like. So to that end, the ATM has not
+1:42
+displaced people. Let's build on what Alexandra said and
+1:46
+to learn where and how specifically your firms, which as she showed us, are both
+1:51
+included in that evidence index, are applying A.I.
+1:54
+across her many, many businesses consumer banking, consumer finance,
+1:58
+commercial banking, capital markets as well.
+2:01
+Derek, let's start with you, because you represent Jp morgan Chase.
+2:04
+And as Alexandra was showing us, it's far and away the leader here in terms of
+2:10
+building this presence. Can you share specific examples of
+2:13
+current use cases for how I and Gen II is currently being deployed at Chase?
+2:19
+Jp morgan Chase. Yeah.
+First generative AI use cases
+2:20
+So so we went live with our first general of our use cases at the
+2:25
+beginning of the year in 2024. We started work on them at the beginning
+2:29
+of 2023 and at that point we were learning around the technology, putting
+2:33
+in place the necessary governance, risk control frameworks, etc.
+2:36
+and that allowed us to go live at the beginning of the year.
+2:39
+The the first foray into general of the I use cases were quite basic.
+2:43
+They were focused on just using an out of the box model, as in that had very
+2:48
+helpful utility for applications like summarizing articles, summarizing
+2:54
+research, providing first drafts of documents or content, etc.
+2:59
+But much more power began to get unlocked where we were able to connect
+3:02
+the AI models with our own internal data.
+3:07
+And that then unlocks the the field of very much more sophisticated knowledge
+3:11
+management systems. So if you think in a bank, there's lots
+3:14
+and lots of different jump families where it's needed to get quickly access
+3:19
+to information and answers and generally that provides a very helpful interface
+3:22
+to find very precise answers based on that.
+3:25
+And as we look forward, we're looking to tap into more and more connectivity of
+3:28
+this technology into our systems that yeah, I would say similarly in
+Knowledge search assist
+3:34
+terms of the focus on pretty common use cases around knowledge
+3:39
+search, assist, PNC, we've taken a very deliberate approach and we have our use
+3:45
+cases are still in the pre-production stage for generative AI and we are also
+3:49
+looking at assisting those front line employees could be call center agents,
+3:54
+branch employees where they've got thousands of documents that they may
+3:59
+need to look through for information to provide to customers and clients.
+4:03
+So that is one approach. It's also being used internally as a
+4:07
+tool. We're looking at again in pre-production
+4:10
+to assist our technology and our developers.
+4:13
+So when you look at generating code for a new product, new capability, the
+4:18
+solution how do we leverage generative AI to help kind of with, if you will, a
+4:24
+first draft of what that code may look like for our developers to be more
+4:28
+productive? You both mentioned some phrases that I
+4:30
+want to ask our clarification on. What does preproduction mean versus in
+4:34
+production? For us, pre-production means.
+4:37
+So we look at doing and sometimes it's in a innovation lab environment doing a
+4:41
+proof of concept. So understanding with the data because
+4:45
+having good quality, accurate data sets is incredibly important, often very,
+4:50
+very large data that we need to work with.
+4:53
+So we experiment with that sometimes in a lab environment, first concept, and
+4:58
+then we start to move into our pilot phase.
+5:01
+So not fully in a production environment yet, but getting feedback from our users
+5:07
+as far as is this accurate, is it working before we're ready to go through
+5:11
+all of the approvals checks, etc., to make sure we're ready to move into
+5:15
+production and actually have a broader set of employees using it?
+5:19
+But all of ours right now are non customers.
+5:21
+We're facing. We're focused on bringing efficiency and
+5:24
+efficiency gains to our employees. At what point will it become customer
+5:29
+facing, do you think? Dirk.
+Customer facing
+5:30
+I think I think it will take some time. We also do not have customer facing use
+5:34
+cases. At the moment all of these cases are
+5:36
+internal facing and there's I think there's a natural sequence.
+5:40
+First of all, you would expose it internally and then once you get
+5:42
+comfortable with it, it demonstrates its value and comfortable then you could
+5:45
+turn back that outwards. But at that point, the risk profile does
+5:49
+step up quite, quite a bit. There's been some very interesting news,
+5:53
+news anecdotes around from other other companies who have gone live with
+5:57
+generators and chat bots, and there's been specified pricing
+6:02
+terms that have even turned into lawsuits.
+6:04
+And the legal precedent that's been set is very, very clear, which is that a
+6:08
+customer is an air channel is an extension of the company.
+6:11
+They are accountable for what what an AI system.
+6:14
+And that stands. And therefore, I think we want to be
+6:16
+very careful before we go live with those.
+AI proof
+6:19
+So that's really interesting you bring that up.
+6:21
+I'm curious to hear where you think it's not possible to use air or genny across
+6:26
+your bank right now. Are there any parts of the operations
+6:28
+that are still in your mind's eye proof, Until there's more data to work with,
+6:33
+there's more real life examples to work with.
+6:37
+So I think that let let's let's take a look at where that where the technology
+6:41
+is now and where it's going as it is today.
+6:44
+There's a lot of domains that are still sort of AI proof.
+6:50
+And even take a look at the legal domain.
+6:52
+Legals lawyers today are trained with years and years, domain expert
+6:57
+experience, and the best of large language models struggle with the high
+7:01
+confidence to get those Exactly right. But I think we would expect that gap to
+7:05
+close in the in the medium term, these models will only get better.
+7:09
+And so if you take I think your question is more directed over the longer term,
+7:12
+what types of jobs are going to be are going to be secure.
+7:15
+And it's a little bit speculative, but a few things that I'd point to.
+7:18
+One is the customer relationships are always going to be high value and
+7:22
+irreplaceable. I think finance is always going to have
+7:25
+a very big element of human trust. Relationships are going to be very
+7:28
+important. And as well as this air system is
+7:31
+getting more and more and more sophisticated, you'll be extremely good
+7:34
+at creating drafts, filling out the materials, thinking through steps.
+7:38
+The scarce resource will really become the innovative idea.
+7:41
+So the people who can have the innovative idea, those will be the ones
+7:44
+that can have the highest demand in the future.
+Traditional AI
+7:46
+And I think the other thing to differentiate is traditional AI is very
+7:51
+different than generative A.I. with a large language model.
+7:53
+So a much higher bar from a controls perspective and a risk framework on the
+8:00
+to the AI side right now. So traditional AI that is much more
+8:04
+broadly used across domains because there are so many different ways to
+8:08
+leverage that that pose less risk, but it can also bring the value of
+8:12
+efficiency and opportunity. Okay, so note to self.
+AI spending trajectory
+8:15
+I can encourage my son to be a lawyer, but only in the short to medium term
+8:18
+before that job becomes taken over by AI.
+8:21
+We know that AI is expensive. You have to pay for the software, for
+8:25
+the tools. You've got to hire talent.
+8:27
+We're talking about data scientists, engineers, software developers to then
+8:31
+develop applications. I'm curious to hear from you what the
+8:35
+spending trajectory looks like at your firm.
+8:38
+Is that something that resembles in video stock chart over the past few
+8:42
+years where it's like this and then it shoots up?
+8:44
+Or is it more like the Federal Reserve's interest rate increases, kind of
+8:47
+incremental, you know, and then plateauing for a while?
+8:52
+So I think that's the first of all, the the question around investment in AI is
+8:58
+already a difficult term to quantify. And the reason is, is in Jp morgan's
+9:04
+case, we've publicly disclosed we've invested two plus billion dollars on
+9:09
+data center modernisation, which means of uplifting the modern data centers,
+9:13
+moving into the cloud, that infrastructure,
+9:16
+etc. and that will EAI is a direct
+9:19
+beneficiary of that. So,
+9:22
+so just like that, included in that in A.I.
+9:25
+spend or not, another lens to take on it is just the data science and A.I.
+9:28
+talent that is building at built in the models.
+9:31
+I think though, in your in your your two options, I think it's much more like the
+9:35
+Federal Reserve. We have been steadily increasing our
+9:39
+investment in these areas, but it hasn't seen a spike.
+9:42
+And I think we'll continue to add to increase at a steady pace over time.
+9:46
+The only other point that I would add is, is the the areas where we're
+9:50
+investing, we are seeing a slight change of composition.
+9:53
+So in the past, in the in the in the past years, there was a lot of focus on
+9:58
+getting the the model developer, the A.I.
+10:01
+practitioner, the people building the models.
+10:04
+And that's going to continue. But increasingly now because of the
+10:07
+availability of very powerful third party genii models like Patrick and
+10:12
+Anthropic, etc., there's now a different type of skill set to talk about bringing
+10:16
+those on board, using those, and connecting those to systems.
+10:19
+That's a little more of a engineering dominant area.
+10:21
+How we see the composition changing a little bit.
+AI costs
+10:23
+Now I would agree as well. I think it's kind of a more like Federal
+10:27
+Reserve example you made with interest rates.
+10:30
+But I think one thing to keep in mind, again, differentiating the cost of
+10:34
+implementing a large language model solution, often depending on the type of
+10:38
+data you're using, if you're using it for something broad like fraud or in
+10:43
+banking, anti-money laundering, some of those, you know, fairly common use
+10:47
+cases, there's so much data involved there.
+10:49
+The costs for hosting and the compute cost, if you will, to use those models
+10:56
+with all of that data can be very significant.
+10:59
+So one thing we're really looking at too, is making sure we've got a really
+11:03
+good, consistent, solid approach on your business use case and make sure we still
+11:07
+got the ROI opportunity even with, you know, significant costs upfront.
+11:12
+Is it difficult to convince your CEO to spend on A.I.
+11:16
+or is this something where they're kind of throwing money at you?
+11:21
+Jimmy Dean is the future.
+11:24
+He's been on record number of times. In fact, it was, I think, really
+11:27
+attributed to him back in 2019 that we were one of the very first movers and
+11:31
+big spenders in the domain. Yeah, I think our approach has been a
+11:35
+little bit more deliberate. I think we're we've got a very clear,
+11:38
+solid business use case opportunity and we demonstrate that we've managed the
+11:42
+risk and then we move forward on those in terms of our portfolio.
+11:47
+You mentioned something that piqued my interest, which is about, you know,
+11:52
+fraud and bad actors and what can go wrong.
+11:55
+And again, we go back to that fear versus hype scenario where there's a lot
+12:00
+of concern out there. Let's talk a little bit about the fear
+12:03
+factor here. What's a nightmare scenario that keeps
+12:07
+you up at night that you know is something you need to think about?
+12:10
+It may not be around the corner, but it's kind of something out there
+12:13
+lurking. I think one of the scenarios there is,
+12:18
+especially with large language models now,
+12:21
+the ability to create something like a deepfake or something that will convince
+12:26
+an employee or customers that this is our firm, reach out to them.
+12:31
+This is PMC, so that the technology that's enabled now to do some of these
+12:37
+Deepfake videos and things like that and other ways to, I'd say, even enhance,
+12:42
+accelerate some of the potential of the typical fraudster scenarios and scams.
+12:48
+That's something that, you know, we've got a lot of focus on.
+12:51
+How do we make sure we're educating people, How do we make sure we're taking
+12:54
+additional precautions to protect everything we're doing as well as using
+12:59
+it, you know, to advance our own use cases.
+13:02
+So it's almost more sophisticated versions of what people have kind of
+13:05
+already been exposed to. There's definitely some new
+13:08
+opportunities as well, but definitely that can really enhance the quality.
+13:13
+For example, of of a Deepfake video to really I think all of us have seen them
+13:17
+in different formats. Yeah.
+13:20
+Could convince you it is, you know, a senior executive or even just, you know,
+13:25
+a call center agent or somebody legitimate that's requesting information
+13:29
+from customers. Is significantly lowers the bar and
+13:33
+lowers the cost for adversarial actors to come and do the things they've always
+13:36
+been doing. And deepfakes is one example, but cyber
+13:39
+cyberattacks are another. And given that A.I.
+13:42
+is now very good at generating code that allows the automation of malicious code
+13:46
+to be able to try and poke and prod at levels never seen before on an on a
+13:50
+security perimeter, or if you think a biometric voice using voice to identify
+13:55
+a very, very low cost. Now fake voices can be created to to to
+14:01
+try and fool those types of systems. I think I think that the banks need to
+14:05
+be very, very aware of of of of how on on every single front
+14:10
+the malicious activity can be kind of turbo charged with this and uplift their
+14:15
+own controls on which one big element of that is going to be more sophisticated
+14:19
+and high as well. Right.
+Nutrition data labels
+14:20
+Right. So, Deb, I know you've talked about the
+14:23
+need for nutritional labels, like something that kind of.
+14:28
+Allows you to itemize exactly what's going on.
+14:30
+Be very transparent. Can you talk a little bit about the use
+14:33
+case for that and how you see it being implemented?
+14:36
+Yeah, this is something we've talked about internally and also with some of
+14:40
+the external groups who partner with. Is something analogous to a nutrition
+14:44
+data label that if you are using, whether it's in-house.
+14:48
+So we're sharing it with employees and customers or we're using a vendor third
+14:54
+party partner. What get me some basic information
+14:58
+around what data is used to train this model.
+15:01
+You know, one was, you know, what's that time period?
+15:04
+When was it last trained, you know, and just some basic consistent information
+15:10
+that would help inform and understand, you know, like what the output of the
+15:14
+model is, because oftentimes that can be a little bit of a black box Who's asking
+15:19
+for these nutritional data labels? I mean, I know it's, you know, for use
+15:23
+internally, but is are any external players actively seeking this up?
+15:29
+I don't know. We don't have any of those use cases in
+15:31
+production yet, but it is something we're proactively looking to do to
+15:35
+provide that information and definitely have that sort of disclaimer as well as
+15:39
+basic information provided when we do have large language models in
+15:44
+production. And the thing, of course, Derek, with AI
+15:48
+and banking and financial services is your industry is highly, highly
+15:51
+regulated. So that speaks to the idea that those of
+15:55
+you in banking need to move very deliberately and move very cautiously
+15:59
+and kind of make sure you're safeguarding all kinds of things.
+16:02
+What if you could grade regulators on where they stand on AI?
+16:07
+What grade would you give them? The US regulators, Are they ahead of the
+16:10
+curve? Behind the curve?
+16:11
+Are they averaging what? CC plus?
+Regulatory environment
+16:14
+You know, it's interesting. It's I think it's a mixture of both on
+16:18
+the one hand, on a on a very young on a very positive note because banks have
+16:23
+been using models in very important decision making like credit decisioning
+16:28
+for years and years and years. There are very mature regulatory
+16:31
+frameworks put around that model risk management, independent review of their
+16:36
+lending requirements. And the nice thing is, is that when you
+16:40
+even when you move into an AI or a Jenny AI world, a lot of those carry over and
+16:44
+address many of the risks that that are of concern.
+16:47
+So when we ask around what's the risk bias in Jenny AI, there's a whole litany
+16:52
+of regulations which are just those in the past which which carry over.
+16:56
+So in that sense, when we sit down with CEOs of tech companies, they actually
+17:00
+say that the regulator, the banking system has amongst the most mature of of
+17:05
+regulatory environments in around and all that said the flipside is that is
+17:10
+that while a lot of these kinds of pored over, they don't exactly pored over and
+17:15
+so generally the AI begins to challenge some of the concepts a little bit, and
+17:19
+that's there needs to be a bit of adaptation and fine tuning.
+17:21
+A great example is that model risk management was mostly envisioned around
+17:26
+a framework where a bank builds its own model.
+17:29
+And then there's the second pair of eyes.
+17:30
+Now we get into something like a foundation model, etc.
+17:33
+but where it is really a black box, we have no idea.
+17:36
+And so how do we think about that in that context?
+17:38
+So there is some uplifting to do and regulators are very, very aware of that.
+17:41
+I applaud them for, I think, been very proactive on getting results, educated.
+17:46
+But I think the rules don't need to be written as to where where to target
+17:49
+statements from in either. Audience question here I want to bring
+17:53
+up and incorporate into our conversation.
+17:55
+You both can see it in which areas of the bank have you had the best results
+17:59
+in implementing AI and what type of applications would these be?
+18:03
+Who wants to answer this first? I would say from our perspective, again,
+18:08
+this would be more traditional. So conversational A.I.
+18:12
+or document A.I., where you're extracting data to simplify in terms of
+18:17
+best results, probably in some other call center environments where you have
+18:24
+a large number of agents, for example. And so any value you can bring in an
+18:29
+area where you have many agents or, you know, a large operational area like
+18:34
+that, those are probably areas where we've seen the best results so far
+18:39
+today. Yeah, I would agree that the the most
+18:43
+value from A.I. in bank is is has been and is coming and
+18:48
+will continue to come at least in the near term from non-gender, the AI
+18:52
+basically predictive AI or machine learning and specifically it's in the
+18:56
+domains of fraud, credit, marketing and pricing and a little bit of operations.
+19:00
+And I think that you would find that to be quite consistent across the large
+19:05
+majority of not if not every every bank. As we look forward to generally the I
+19:11
+the the the the the most value over the near term I think will come in around
+19:18
+knowledge management. So taking every employee that needs to
+19:22
+be able to gain access to information quickly, be it a call center, financial
+19:26
+advisory, a sales function, an operations function, and using a sort of
+19:31
+copilot framework to very, very rapidly get a very precise and curated accurate
+19:36
+answer quickly. And that will boost general productivity
+19:39
+levels. You guys work at different sized banks.
+Size and AI
+19:43
+PNC has about $566 billion in assets. That is one seventh the size of JPMorgan
+19:49
+Chase. When it comes to implementing AI, when
+19:53
+is size a benefit versus a hindrance, do you think?
+19:57
+Dirk. So it's a bit of both.
+20:00
+On the one hand, the size of your organ has allowed us to, to invest more.
+20:04
+And I think that, that in the past, the past
+20:09
+decade has shown that and size has been a strategic advantage for a myriad of
+20:14
+reasons. And indeed we've seen a market share
+20:16
+consolidation across across the largest banks.
+20:20
+So that's that that's helpful. At the same time, the largest banks bear
+20:25
+that the highest bar for regulatory standards.
+20:28
+And so we that in itself has a has has a cost in terms of the number of control
+20:34
+requirements, time spent with regulators and etc..
+Talent
+20:39
+I'd say from our approach we've been able to be somewhat targeted and where
+20:43
+we apply I and continue to have regular updates with our, you know, senior
+20:50
+executive leaders, with our board, with our regulators.
+20:53
+But literally looking at where do we leverage that will bring the most value
+20:57
+to our business lines and prioritize in that way.
+21:01
+I want to also end with talent, because that's a big question for a lot of
+21:04
+people. Certainly as we talk through the
+21:07
+nightmare scenarios of jobs being replaced.
+21:10
+There's a popular phrase that keeps coming up whenever we talk about
+21:12
+implementing I Human in the Loop. And Deb had explained to me that
+21:16
+basically it means you need a fact checker, a person to make sure that the
+21:20
+machine is spitting out the right stuff. So, yeah, we have a purpose.
+21:26
+How has the commitment to AI in the financial services industry changed the
+21:31
+way that banks think about hiring? Well, banks still need, I don't know,
+21:35
+entire classes of junior bankers, summer interns the way they used to, because a
+21:39
+lot of the grunt work that they were doing, the mundane stuff can be shuffled
+21:44
+off to a high. I don't think in the short term we are
+21:48
+going to see any any reduction in the need for our summer interns, our new
+21:54
+college hires, or any of the programs that we have.
+21:58
+I think it's actually can be viewed as a positive.
+22:00
+I think they may be able to earlier on in their career or their internship,
+22:05
+whatever it is, be doing more value at work because we can do more automation
+22:10
+with some of that more mundane routine work.
+22:13
+So I don't see that in the short term. I agree with that.
+22:16
+I think that even our world view to say you can press a button and instantly go
+22:21
+to a wonderful investment bank in Pittsburgh, then then all that does is
+22:26
+it just ups the baseline of the competitive norm.
+22:29
+The best of the most competitive players will still always find a way to add some
+22:33
+sort of special sauce, some sort of differentiating.
+22:36
+Maybe they'll make some sort of marketing video, maybe they'll they'll
+22:39
+do something spectacular, creative in different ways.
+22:42
+And that's how you're going to win. You're going to win business.
+22:45
+In addition, there are going to be new new aspects of jobs which need to be
+22:50
+created in a world where I can create automated investment banking pitchforks.
+22:55
+There has to be a whole new job functions to wrap around the knowledge
+22:58
+management of that. How do you take, curate,
+23:02
+sanitize all of these documents, think about the proper entitlements, etc.
+23:05
+connected models into that. That's a lot of work that nobody's doing
+23:08
+today, so that's going to create needs. So I don't I don't see a world where
+23:13
+talent intake tech is necessarily going to change.
+23:15
+Are those jobs that you need a computer science and STEM degree in, or is that
+23:19
+something that humanities students, those who go to the
+23:23
+arts colleges can can gain the skill set to do and find a career path on Wall
+23:30
+Street For in today's world, I would happily take a top allrounder athlete or
+23:35
+from a specialist in a technical discipline that I would agree.
+23:40
+I think coming from a technology security background in an area of the
+23:44
+bank. Realistically, we do recruit more in the
+23:49
+STEM areas, computer science, engineering.
+23:52
+But I have also seen people be incredibly successful as they
+23:56
+transition, you know, from other areas at some point.
+23:59
+You know, it's also just, you know, what your your mindset is, what you want to
+24:03
+learn, how you advance, you know, kind of move past your educational
+24:07
+background.
+

@@ -1,0 +1,871 @@
+
+Search in video
+0:14
+Well, welcome everyone. Welcome to our panel today on scaling AI. Now comes the hard part. This is part of the World
+0:19
+Economic Forum's AI transformation of industries initiative. With uh with $1.5
+0:26
+trillion dollars in investment in 2025, the race to capture the full economic impact of AI is on. Uh but scaling
+0:34
+beyond pilots uh remains a major hurdle for many many businesses. Uh it requires new strategies, new capabilities. We've
+0:41
+got a great panel today who's going to talk about that. Uh joining me, Roy Jacobs, president and chief executive
+0:47
+officer of Royal Phillips, Ryan McCannernney, chief executive officer of Visa, Aminair, president and chief
+0:55
+executive officer of Aramco, and Julie, chair and chief executive officer of
+1:01
+Accenture. But before I start in with questions for you, I I've got a question for the audience. How many people out
+1:08
+here have tried a have launched a pilot program an AI pilot program in your
+1:13
+organization? Can I just see a show of hands from people who have? That's most of the that's most of the people in the
+1:18
+room. That's definitely most people. And and and then if you have been able to scale those up, let me see those hands
+1:24
+again. A lot fewer, but more than I would have expected. Okay. Okay. That's that's
+1:30
+that's that's about what I thought. And then one more just for those of you who have scaled up. How many of you ran into
+1:36
+unexpected challenges? Same number. Okay, great. Um, so let's
+1:43
+talk a little bit today about scaling up AI. And I'm going to start off by by A lot happens every year. Seems like every
+1:50
+year is 10 years in AI years. And I'm wondering what's possible with AI in
+1:55
+2026 that wasn't possible a year or two ago. And Roy, I think we'll start with you. And maybe I'll ask that question
+2:01
+about healthcare. Um are there you know clinical operational improvements that you've seen due to AI um that's that
+2:10
+it's enabled in the past year or so? Yeah, I think actually AI and healthcare is going really fast. Um, I think the
+2:16
+need is urgent because we just don't have enough people to take care of patients and people that need care. And
+2:23
+therefore, I think uh the use of AI is finding its way and is finding its way to improve clinical outcomes. For
+2:30
+example, how can it help with um better diagnosing a patient when you take an
+2:35
+image, when you actually measure people through a monitor? Um how can you do
+2:40
+better decision support for clinical interventions uh to make them more accurate? um to prevent any mistakes to
+2:46
+be make to be made. So actually augment the clinician uh with very fast and
+2:51
+accurate data uh to support them in their daily work. And then there's a big piece which is also about operational
+2:57
+improvement because this is a huge admin burden in healthcare and how can you actually take away some of those steps
+3:03
+that nurses, technicians, doctors have to take that they really don't want to spend their time on and that's actually automating some of the workflow of the
+3:11
+care pathways and that's where we see rapid improvement. For example, if you do ambience listening in a patient room,
+3:17
+you don't have to actually uh have the clinician taking notes, um it actually
+3:22
+can be recorded at once and then actually uh uh they can um sign off the transcript and then actually they can
+3:28
+move on in their job. If a nurse that actually spends 15 to 20 minutes an hour
+3:33
+on admin tasks can be relieved by 10 or 15 minutes of that, she or he can spend
+3:40
+that time on the patient. So I think there's real meaningful progress and you see rapid adoption as a result in
+3:45
+healthcare of AI. I like this example of the nurse because that's a concrete outcome that's that's good for the that's good for the
+3:51
+patient, right? That that's not just something that's good for the business, it's good for everybody. Is that is that the way you view it? Yeah, I think um so we also describe it
+3:58
+as how can you give time back to the practice, right? In healthcare, it's all about how do you care better about the
+4:04
+patient? The clinician wants to spend more quality time in also having the conversation, having the kind of the
+4:10
+afterare from when you have a diagnosis, not only the hard fact of this is what you have, but also what does it mean?
+4:15
+How are we going to treat you? And the same with a with a nurse that wants to have actually quality time with the
+4:21
+patient. On average, it's 5 to seven minutes or 3 minutes that they can spend time. That's not a lot of time. And
+4:27
+actually, patients need better quality time for them. And that's where we can give time back and AI and agents can
+4:32
+give time back. So it's a different notion of you also improve productivity, you also improve clinical outcomes, but
+4:38
+there's also really quality aspect in giving something back to care that actually we have been missing or that
+4:44
+has become under bigger pressure because we just don't have enough people to do the job.
+4:49
+And do do you go ahead? I would say Royy's point is really important because I think one of the things we've really
+4:55
+learned is that we started a conversation around AI that was so focused on productivity and not actually
+5:03
+the full outcome. So in a related industry in pharma, we're seeing the same thing where one of the biggest
+5:09
+things when you take drugs to market is you have to comply all of the content to explain the drugs to physicians. You
+5:15
+have to comply with lots of, you know, regulations around the world. Most pharma companies have a lot of
+5:21
+different, you know, processes for that. And so we are working with a pharma
+5:26
+company where we standardize the processes. We now have content. They can do what took months today. So they're
+5:32
+able to get to market more quickly. But actually the most interesting insight
+5:38
+was that the people who used to spend time saying, you know, how do I get legal approval are now spending time
+5:45
+saying, who needs this? Was the content helpful? Because before, you know, if
+5:51
+once you got it approved, the last thing you wanted to do was update the content, you know, and go through the same
+5:56
+approval process. And so, much like the patient outcome, they're spending more time thinking about how to get the drug
+6:04
+to the right places, make sure they understand it, which of course helps revenue, but it's really helping
+6:09
+patients. And there are many examples of that across the globe in different
+6:14
+industries and different things where it's not just productivity and in fact our latest survey just this last quarter
+6:22
+um 78% of uh of CEO the seauite believe that AI is actually helping growth more
+6:29
+than productivity like in terms of like the the value of it. Uh, so I think it's a really important part and that's a
+6:35
+learning over the last 12 months as you've started to see a lot of these things begin to scale.
+6:40
+Thank you. Um, Ryan, I'm curious about agentic commerce. We we've been hearing about it for a long time. It seems like
+6:45
+2026 is the year that's actually really going to take off or people are predicting it. Um, and I'm wondering
+6:51
+what uh what you're seeing is sort of the next big frontier there. What are the what are the the challenges that you see coming with the with implementing
+6:57
+that? So I think last year most users, most
+7:02
+consumers started to use these platforms and these AIs to shop for things for discovery to look for, you know, move
+7:09
+off of maybe one of the search platforms or the commerce platforms, but then they actually when they actually went to buy something, they went to the native
+7:16
+merchant seller site. This year in 2026, I think most of us will continue to shop
+7:22
+on our AI platform of choice, but now we'll be able to buy natively on the platform. the buy button will be there.
+7:28
+I won't need to leave whether it's, you know, chat GPT or Gemini or Claude or Copilot or what have you. I think as we
+7:36
+start to emerge from 2026 and look beyond, that's when you'll start to see a shift of real agentic commerce. Not
+7:43
+just me pressing the buy button on one of these platforms, but me empowering an agent on my behalf to go shop for
+7:51
+something, find it, and then buy it on my behalf. But for that to work, to your question, uh, we need to invest in
+7:58
+trust. You need to trust your agent that they're not going to go crazy and buy something you don't want to buy or spend
+8:03
+more money than than you want them to spend. Merchants need to trust that if an agent is showing up, you know, at
+8:10
+their digital doorstep, that it's actually there on your behalf and you've empowered it. And your bank needs to
+8:16
+trust that when they get a request to authorize a transaction on your behalf, that you really wanted that to happen.
+8:21
+So for that all to happen, we are deploying AI ready cards, AI ready Visa
+8:28
+cards around the world that empower users to set the parameters to so that
+8:33
+they'll trust their agent. How much money can you spend? What's the size of the transaction? Where can you go buy? For how long do I want that open to buy
+8:39
+to exist? Things like that. We've rolled out a trusted agent protocol so that a
+8:44
+merchant knows that if a an agent is showing up on my behalf with a Visa card that it's a real one with a real card
+8:51
+that's actually empowered with the data payloads that you know I just described. And that finally, we've rolled out a
+8:58
+level of personalization so that all of us as Visa card holders, if we choose, can empower our agent to look at our
+9:05
+shopping history on my Visa cards and use that to personalize recommendations and shopping experiences and user
+9:11
+journeys and those types of things. So, I think we're on the brink of something that is going to be very powerful. I
+9:16
+think it's going to be a great time to be a consumer. Um, shopping is going to be easier. It's going to be more secure.
+9:21
+It's going to be more fun. It's going to be more efficient. Uh, and I think it's going to ultimately grow commerce and and be a great thing for merchants
+9:27
+around the world. Can I follow up a little bit on that last bit? When you're when you're talking about having an agent sort of understand my purchasing history and
+9:34
+transacting on my behalf. So, would this be something like it understands what I'm shopping for at the grocery store on on a on a weekly basis or a monthly
+9:41
+basis and and goes out and does that for me. It understands that yes, it's it's winter time and I'm maybe I'm starting to need a new coat. Like like how far
+9:47
+does do you envision this going? Yeah, I think the the the collective data of your shopping history on your Visa Visa
+9:53
+card over time is very powerful, but historically we haven't had the tools and the surfaces to allow users to put
+10:01
+that shopping history to work in a way that's very empowering for the user. So imagine a world going forward where, for
+10:07
+example, you go to your bank and you're able to, you know, empower your agent via your bank to leverage your shopping
+10:14
+history to tailor those purchases. um what what types what time of year do you do you um make travel purchases? Uh what
+10:20
+are the type of restaurant purchases that you make? That allows again your agent to have much more context than
+10:25
+what they're able to do from your normal user profile. Uh Am um you were on a similar panel
+10:31
+last year and I'm curious compared to this time last year where you've seen the most meaningful change in what AI
+10:38
+can support across your energy operations. Uh absolutely. You know, we have last
+10:44
+year I talked about 400 use cases that we came up with in Saudi Aramco. This
+10:51
+year we're talking about 500 use cases. 100 use cases went from the pilots to
+10:57
+actual deployments. We measure our progress in terms of what we call a
+11:04
+technology realized value every year. And you know we used to have like 200 to
+11:09
+$300 million in the previous years in terms of technology realized value. In
+11:15
+23 and 24 we achieved $6 billion. 50% of that is AI related. 25 we should publish
+11:23
+our numbers next month after we finish the third party verification and we're
+11:28
+looking at three to5 billion dollars also more than 50% is AI related. We've
+11:34
+seen uh the benefits of the in huge infrastructure that we have built over
+11:39
+90 years. The 6,000 talents that we uh
+11:45
+trained on AI. These are the subject matter expert that come up with the use cases not the data analysts. We have a
+11:50
+couple of hundreds of these. But it is the subject matter expert who understand where are the create the pipeline for
+11:57
+the opportunities. And the most important things we established the operation model basically uh
+12:06
+capitalizing on uh our digital company. We created digital company and the AI
+12:12
+center of excellence which established the pathway for taking ideas from the front lines to
+12:19
+full uh piloting and then full deployment. Establishing the processes
+12:24
+and taking it into account helped a lot in creating the pipeline. Now the pipeline keep increasing year year on
+12:31
+year. We were looking at two to four billion dollars a year. Now the team is asking for a much bigger target
+12:39
+considering the pipeline of the opportunities. So I think the development the training we found out
+12:45
+that we can scale much quickly and now the next step is working with the
+12:50
+hyperscaler is how do we commercialize these outside Saudi Aram to the market
+12:56
+because this is very important and has a significant impact. Everybody talks about AI the impact of AI but where is
+13:03
+the value where is in dollar figures and this is what we are able to establish.
+13:08
+We want to turn the energy sector to be more intelligent in terms of capitalizing
+13:15
+on AI and we have the applications and the talents and the infrastructure and
+13:20
+the most important things in all of these is the data quality. If garbage in, garbage out. If you don't have the
+13:26
+data quality and we have built data quality over 90 years, we kept everything because we had the
+13:32
+infrastructure that allowed us to scale now and uh be at this level. Another
+13:40
+important element that also helped in all of these is we have an venture capital arm. That venture capital arm
+13:47
+have more than seven half billion dollars approximately 7.5 billion dollar for investment. It find a lot of startup
+13:54
+across the world. These startups they want the injection of funds but the most
+13:59
+important things for them to pil it and uh scale their technology and this is what we offer not only funding but we
+14:06
+can scout for good uh technologies a lot of it AI related and then help funding
+14:14
+it and bing it piloting it and scaling it up and this is really helped a lot without the venture capital we could not
+14:20
+scout around the world for a lot of opportunities and is can you talk at all specifically about
+14:26
+where you found some of these savings where you found some of this uh you know the3 to5 billion dollars you're talking about
+14:32
+okay a lot of the savings you see upstream is is a high cost but the opportunities is a huge for example if
+14:39
+we use AI in increasing productivity in the subsurface
+14:45
+you we have what we call the intelligent earth model we can basically increase
+14:51
+the productive zone instead of we used to have over 80% now we have over 90% of
+14:57
+the productive zone capitalizing on AI we run in life while we are the geostering the drill bits underground
+15:04
+the intelligent earth model to understand where is the productive zone will be and we put place our uh wells
+15:12
+increase the productivity in some worlds by 30 to 40%. That is a huge it impact
+15:18
+not only your cost it impact also your emissions and how much you are emitting because you need less worlds
+15:24
+in I talked last year about corrosion it's a three trillion dollar uh market
+15:32
+and it helped us a lot using AI to reduce the amount of corrosion inhibitor the amount of uh uh cor pipeline
+15:41
+failures increased our reliability if you look at AI use in equipment
+15:46
+reliability and predicting failures and predicting when we need to take an equipment out of the surface before it
+15:53
+have a cat stratific
+16:00
+increasing uh operation efficiency of our equipments. If you look at uh by
+16:05
+pipelines in terms of inspections and how much we can save if you capitalize on an AI a lot of in if in downstream
+16:14
+which is not as big as upstream. We created a system where it allow us to
+16:19
+increase margin by looking at columns and maximizing the yield out of a column
+16:24
+instead of waiting for a a console operator to make a decision. You can
+16:30
+make the decisions in minutes and seconds now. and change the yield. So
+16:35
+there is a lot of opportunities that helped us but each of them is treated
+16:40
+like a project with a timeline deliverable and the impact and this is
+16:46
+what is important. This is where we were able to scale because we can see the benefits and we can brighterize every
+16:53
+use case before we take it from pilot to deployment and see uh the real value.
+17:01
+And when I mentioned the billions this is we didn't even keep it for our team
+17:06
+to decide this is how much we print third party they finished their work as
+17:12
+I said we hopefully next month they will give us the report in each item and how much is the saving that is AI related
+17:20
+that is digital related or is it captured right or it's not captured
+17:25
+right so the real value is and of course the most important thing you need to reward the people and recognizing
+17:34
+them for all of these achievements. And this is where the pipeline now is we
+17:40
+just have to prioritize which one that we can take it to a pilot and to a deployment because the number of
+17:47
+ideas that came from these 6,000 that we trained is endless. So, I'm noticing a
+17:52
+commonality here across all three of you, which is that there is this real focus on outcomes that you mentioned versus, you know, just sort of analyzing
+17:59
+data and trying to find efficiencies where you can. It's it's it's interesting. Julie, you've got a unique view that's broad across many companies.
+18:07
+Um, and I'm I'm curious uh since last year, uh, what what would you say has changed the most in how Accenture and
+18:14
+the large organizations that you work with are deploying AI at scale? Well, you know, there's a lot of
+18:20
+insights actually in what am just said uh in terms of, you know, where, you know, where are we now in terms of
+18:26
+scaling because there's scaling projects like an individual one and then there's scale really across the enterprise. And
+18:32
+so, Aramco is a great example of being able to scale across the company, not
+18:39
+only just uh you know, a few projects. And uh you know if you if you think
+18:45
+about what am I mean just said and you sort of extract that to industries what what you know we're helping clients do
+18:51
+and I've got to see a lot of this firsthand with um with Aramco in terms of the discipline and what they do is
+18:58
+that first of all they have the right technology stack and so AI has been a catalyst for companies to really look at
+19:05
+their technology. uh uh Aramco couldn't do what they did if they hadn't been investing for years, right? And so the
+19:11
+ability to like look at the tech stack and say what do I really have to do and and and to do that at scale uh data has
+19:19
+been something that's super expensive that for years people haven't wanted to do and the companies that have done it
+19:24
+early like a Ramco think about a McDonald's um who you know created their data foundation very early and now
+19:31
+they're surging ahead in how they're using it. So uh but in addition it's also about the operating model and the
+19:37
+processes which is what you also just heard and so now we're working with a lot of clients who are saying we have to
+19:43
+really rethink move from a project to how do we have to operate how do we have to have our operations and then the
+19:49
+biggest um one of the biggest uh barriers to scale has been the lack of discipline or willingness to say I'm
+19:56
+going to put a I have to get a value on this. I have to be able to see it in my P&L. I have to be able to embed it in
+20:03
+the objectives of my leaders. Uh all of these are like best practices where as
+20:09
+companies have said this is real. I've seen the value. You know, I I really
+20:14
+want to move ahead with that. And those are major transformations depending on where you start. And then when you think
+20:20
+about what Ryan said, I mean every place um every industry has battles that they
+20:26
+must win. So your best examples I mean were all in your core operation subsurface right it's not the you're
+20:33
+doing plenty in the you know corporate functions but that's not where the real value is coming right if you're a
+20:38
+consumer goods or retail agent commerce is a mustwin battle right now it's a
+20:44
+brand new channel uh it's rapidly evolving it may be early because you know you can't yet buy a ton in that way
+20:51
+but it's going to move fast and so companies are are looking at and saying in many cases there's a huge opportunity
+20:58
+before you get to advanced AI right processes that aren't standardized too many spans and layers but there are also
+21:05
+must-win battles and so there's much more sophistication now and really not talking about AI but going back to
+21:12
+basics what's my strategy are the basises of competition in my industry
+21:17
+changing and if so I've got to focus there while I build out the foundation
+21:23
+all all three of these companies that we onto your sitting here to the left or gentleman sitting to your left have
+21:28
+these rich data sets that they're able to, you know, to to dig into and look
+21:33
+for places where they can, you know, find value. What do you say to companies that are maybe newer that don't have
+21:39
+those or that that um you know, what's the challenge for a company that doesn't have that rich data set?
+21:44
+Well, keep in mind the stats are pretty stark. Over 90% of the data work that
+21:51
+companies have to do when you look across the globe is still to come. Okay? So we we you know like we have to get
+21:56
+very realistic about where we are. Uh and and of course the technology itself needs to continue to evolve. Uh and so
+22:03
+on the data foundation though it's it's not optional but it's also there's brand new ways using AI to build a data
+22:10
+foundation. Uh but that that work has to be done in order to scale. And so when people say why aren't things scaling
+22:16
+across the enterprise you have to have the data right. So uh uh but there's new ways to do it and we are working with
+22:23
+companies who are you know building up creating investment capacity by doing what I said like not you know focusing
+22:30
+on the basics I mean things like fragmented processes um uh too many
+22:36
+spans and layers in management like you know too many people those are things that everyone could have been addressing
+22:42
+over the last decade and many companies have right but that's a big opportunity today to make sure you're doing that to
+22:49
+create the investment capacity to help fund this. And we're working with many companies where it's a you know it's two
+22:55
+speeds like you get the foundation in place uh make sure you're using the technology you have the AI that's
+23:01
+already built there while and and then focus on where you need to have the data
+23:06
+in the must-win battles. Ryan, I'm going to come back to you if you don't mind. I'm I'm curious about
+23:13
+aentic commerce and I'm I'm wondering what kind of opportunities that's going to create for global payment systems that don't exist right now.
+23:20
+Well, I think um Julie talked about mustwins um for Visa, agent commerce is a must-win. You know, we uh if you think
+23:26
+kind of over the arc of time like when e-commerce first happened, Visa was a huge part of making that happen. Then
+23:32
+you saw the rise of mobile commerce um and we put in place standards technology to to make that happen. And now we see
+23:39
+this kind of aentic commerce as this big third wave of digital commerce that will happen around the world. I think it's
+23:45
+going to be an opportunity for a lot of different players to innovate. But you know you come back to this notion of
+23:51
+truly scaling AI. That's where we can play a unique role. You know we have 5
+23:56
+billion Visa cards around the world. We have 175 million sellers on our
+24:01
+platform. We now have 13 or 14 billion Visa tokens in the digital ecosystem. That's the kind of the basis or the
+24:08
+platform on which we we we build this. And you know, I think most people in the
+24:13
+audience traveled here on on Saturday or Sunday. They came up here to Davos. They didn't think about kind of how they were
+24:20
+going to pay for stuff when they got here. They knew that they had a Visa card in their wallet pers or phone. They knew that it would work when they got
+24:26
+here. And they as they walk down the prominade and buy a coffee or a gift to bring home, they know that transaction
+24:33
+is going to work. And so does the seller. trust from people from all different types of of countries around the world. That's the type of scale that
+24:40
+we're trying to put in place with Aentic Commerce in 200 countries and territories around the world. And you
+24:45
+know, you ask about the opportunities. I I I have a a thesis that Agentic
+24:50
+Commerce could be an amazing leveler and empowerer for small businesses around
+24:55
+the world. Today most of our commerce happens as users on a small number of
+25:02
+commerce platforms or search platforms. Um I I believe once we all are using
+25:07
+agents in the way that I described earlier to go search the world's inventory to find uh the right item for
+25:13
+my wife's birthday um the right price for that that maybe airplane ticket that
+25:19
+I want to take or the right combination of features that I'm looking for. uh you have small businesses all around the
+25:24
+world that have the ability to make their inventory available to to make their services available and you know I
+25:30
+think there's a real chance that this third wave of digital commerce this wave of agentic commerce will empower small
+25:37
+businesses um to grow significantly small businesses in countries around the world I might not have found a small
+25:44
+business around the corner from where I live in in my town in Northern California that I might not thought of to go buy running shoes because my
+25:50
+default instinct was just to go go to one of the larger commerce platforms. So I think it's a very I mentioned earlier
+25:55
+I think it's a great time to be a consumer. I'm very excited about the rise of of small and mediumsiz businesses in this third wave of agent
+26:03
+commerce. Just to to to dig in on that a little bit. Are you are you imagining a world where like like I can understand the
+26:08
+plane ticket example. You know I I you know I want to go to you know Ireland
+26:14
+sometime in the early fall. Please help me find the best week identify the best week in and plane tickets. Are you also
+26:19
+saying that maybe uh agenda commerce will enable purchasing things that I don't necessarily know about like like
+26:26
+to the running shoes example uh you know I don't a brand that I'm not familiar with uh a you know something I've I've
+26:33
+you wouldn't have even thought to ask it for. Yeah, absolutely. I I the speaking for myself as a consumer and I think on
+26:39
+behalf of most consumers, our search window for the things that we buy is
+26:44
+remarkably narrow given the availability of brands and inventory around the world. Just think about your own user
+26:50
+experiences and you know building on your running shoe example or whatever it is. Despite the fact of all these amazing brands and small businesses and
+26:56
+and products that are out there in the world, our search window remains remarkably narrow. With the power of AI
+27:04
+and with the proliferation of these platforms, users have the ability to search the world's inventory in real
+27:10
+time. And I I do think it's going to be a rise of brands that you and I might not otherwise have been aware of because
+27:17
+of the narrowness of our search window. I think it's going to be the rise of uh small businesses like I was mentioning
+27:22
+earlier, potentially even different types of trips that you might take. You know, you talked about kind of going to Ireland, which week to go. But as you
+27:28
+start to widen the aperture significantly on the different places that people could go, the different experiences that they might want to go
+27:34
+have, I think it's going to drive growth in commerce. I think it's going to drive growth in spending. I think it's going
+27:41
+to drive um a much broader, if you will, democratization of spending of all of our spending on goods and services
+27:47
+around the world. Sticking with this idea of what's coming next, uh Roy, I'm curious what breakthroughs in, you know, in AI
+27:54
+enabled clinical insights or complex tasks, complex healthcare tasks that you see on the horizon that you think are coming.
+28:00
+Yeah. Um maybe building on a theme of of agents, I think the the power of of agents in the clinical practice will be
+28:06
+really a breakthrough. uh because there's so many tasks that currently have to be done that as I said are under
+28:12
+time pressure. There's not a lot of data that can be put together uh easily and quickly. For example, if you're a cancer
+28:17
+patient, um it starts with the scheduling very mundane. How do I get
+28:23
+into the system? What is the information I need to get to? When you arrive in the hospital, how does the nurse or the
+28:30
+clinician have the holistic patient view pulling the data from all the different systems? Not only the EMR, but then also
+28:36
+the imaging data, then also the real-time data that can be done by an agent in preparation of the next step in
+28:43
+the process. If you need to prepare a tumor board deliberation currently is extremely uh laborious process, actually
+28:51
+that's something an Asian can do. And I think therefore reimagining the future of healthcare is kind of how you work
+28:56
+with workers and co-workers being agents together because we just don't have enough staff. We will not have enough
+29:03
+radiologists. We will not have enough technicians. We will not have enough nurses. So we need to reinvent in the
+29:08
+care pathway which are the tasks that actually we can give to an agent to reliably support the practice. And
+29:15
+actually that's already being done now in smaller parts. And what you will see this will grow in terms of which complete tasks they can do. They can do
+29:22
+outbound calling. When you're discharged and you're at home, you're recovering. There will be someone calling upon you.
+29:27
+Currently, we don't have the time to ask nurse to call you every day, every week. An agent can do that. That's not a
+29:32
+problem, right? And they can actually exchange with you, they can listen to you, they can actually feed that back into the healthare system to also if you
+29:39
+then combine it with monitoring on your body actually to have a more holistic view on how you are. They can check in,
+29:44
+but they also see the measurement. Now that actually will trigger a complete different system that becomes much more
+29:50
+proactive than reactive. So I think the future of healthcare will be one in which we can be really much more at the
+29:56
+forefront acting quicker because we can actually put the data together in a better way and then act upon it much
+30:02
+faster. But it does require to re reimagine the process because we
+30:07
+currently have and I think that's the big change and the big challenge. We really need to redefine how we work,
+30:13
+right? When you are going to adopt new workers in your workforce, you need to rethink how the team is going to play
+30:19
+together to do the same task. And we have hardwired current tasks in processes in IT systems, in standards,
+30:27
+in job descriptions. So the real breakthrough in adoption will be actually adapting all of those because
+30:32
+then you change the system versus changing one piece of it and then injecting AI and then okay if the person
+30:38
+is open to AI embraces it goes with it it will work but actually it should become a new way of working and I think
+30:44
+that's where it's turning to and that's a very I think um interesting phase but a hard phase because it requires all of
+30:51
+us to do different things breakthrough routines and that's the hardest thing especially also if you talk about patience because you don't want to break
+30:58
+routines with a risk for patients, right? It needs to be reliable, needs to be safe. So that's a component which
+31:03
+really of course comes into this whole um um uh redefinition because you need
+31:08
+to improve the practice from a reliability and a safety perspective. Uh and I think you can but then you also
+31:15
+need and maybe that's the last point to be fair to AI. What we currently see is we are not always fair to AI. I give you
+31:21
+an example. On average a doctor gets his diagnosis right in 82% of the cases. We
+31:27
+ask from AI before we adopt it in the practice. Often that needs to be 95% accurate.
+31:32
+That 13% gap between the AI accuracy and the clinicians accuracy is a huge
+31:38
+patient impact. Right? So we need to find the trade-off in terms of where do you put the boundary about where AI kind
+31:45
+of can be set free in a safe way versus kind of where you protect also patient
+31:50
+interest patient privacy and that's I think where we are moving towards learning together. um with an ecosystem
+31:57
+and maybe building on what you said earlier, how can people that do don't have um access to the data set
+32:02
+contribute. This is a real ecosystem play. As Philillips, we cannot improve
+32:07
+the healthcare practice alone, right? We are one of many actors in the system. So we need to work with open platforms
+32:14
+with OTM systems. We need to adopt or AI into our workflows. And we need to work
+32:19
+very closely with regulators, with the clinicians, with the healthare systems and with other kind of uh companies that
+32:26
+are innovating in this space to see what best is how we can move it forward in a
+32:32
+more standardized way. And I think that's where we need to really collaborate. Uh and that's I think the other piece of AI where people often
+32:39
+forget okay this is a technical play. No, it's a collaboration. It's really a collaborative play and the power of AI
+32:45
+really come forward if actually we rally around it together and not do our own
+32:50
+technical stuff because we can do that but then actually will not land because the system only change if you change all
+32:55
+the parameters. I I I'm I'm glad you came back to reliability so many times there. You you spoke about it again and again because I
+33:01
+think that's one of the concerns that um as as a healthcare consumer I'm going to have right. It's a natural thing that I
+33:07
+want to make sure that these systems that uh that you're implementing are reliable. How do you how do you how do you ensure that for to to patients to to
+33:13
+healthcare consumers? Yeah, I um I think it's extremely important. We talked about trust and trust in in AI. So as an example, we had
+33:21
+the national of medicine, academy of medicine um uh building an initiative
+33:27
+where we have worked across industry uh somewhere in in this room as well. We had Mayo, we had Google, we had
+33:32
+Phillips, we had patient advocate groups looking together at kind of what code of self-conduct we should apply in uh
+33:40
+applying healthcare or AI into healthcare because what we also realize is regulation cannot keep up with the
+33:47
+speed of technology. So we need to be ahead of regulation and self-regulate. So we need to have our own kind of rules
+33:53
+how we test, how we validate, what is the level of kind of rigor we apply,
+33:59
+what is the kind of the practices but also from biases that we take into account. So actually this something that
+34:04
+we own. You have your own accountability, you have an accountability as an industry, so the healthcare industry together and
+34:10
+actually by applying and living that self-conduct, we can make sure that this actually lives by the practice of uh of
+34:16
+good data. I will also give the other example. I often give the example of say if you are an cancer patient again
+34:23
+you're in phase three or four data privacy has a complete different meaning to you than if you're healthy
+34:30
+that really because when you're there I can guarantee you you want every data set in the world to be used to find the
+34:37
+cure for you so we also need to keep that perspective in mind of the patient that he also has
+34:42
+a right to get access to the data of the world so that we can innovate on those data and you can do that anonymously You
+34:49
+can't do that in a way that actually it doesn't touch in any way the privacy but we need to break through and that's
+34:55
+something we need to do in Europe that's something we need to do in the world because the power of that data play is where we will find really the next
+35:01
+frontier of solving healthcare challenges in the world that's excellent point um Matt can I please
+35:07
+you know one thing that as you're thinking about what we haven't talked about is talent because I I agree with I
+35:13
+mean Roy like the the point around process and having to reimagine things the point around this collaboration but
+35:20
+to reimagine you have to understand the technology in a depth because if you're thinking about in healthcare and you say
+35:26
+I've hardwired this I've done this for years we know this works the doctors
+35:32
+have to understand the technology right the regulators have to understand the technology and you know you have to have
+35:39
+the leadership that is then going to embrace the innovation right and you
+35:45
+know when we talk about AI is hard all of these things like rewiring the process is really hard. But it it you
+35:52
+have to have a different level of understanding than you did in the digital era. And that is a big barrier
+36:01
+um for organizations and it's also a barrier to building trust because it's
+36:06
+hard to trust something you know whether you're a consumer, a regulator, a doctor, a leader of a health system
+36:13
+until you understand it. And there's a lot more that has to be done kind of at all levels of the corporate world,
+36:20
+government, um, educational systems, uh, to, you know, really build in that kind
+36:26
+of level of understanding. And at Accenture, we talk about leader-led learning. Like we started actually with
+36:32
+our leaders because we said we can't rotate our business if our leaders don't understand the power of it. So that
+36:37
+there is still so much ahead uh to do at companies in order to ever be able to
+36:43
+scale and to really get the value out of AI and to move away from what's often
+36:49
+very incremental. And you know, companies ask me all the time, how am I going to operate in, you know, three years and five years? And I'm like, the
+36:56
+focus really has to be, are you able to do something you can't do today? Or do you have insights that you can't do
+37:01
+today? And that requires a depth of understanding of the technology and its power that a lot of us, you know, are
+37:08
+still working on. I I love that quote. I'm I'm going to come back to that at the end here. Um, I
+37:13
+mean, I'm going to ask you the same question about looking towards the future. One of the things that we've covered a lot in the past year, year and
+37:19
+a half are the energy demands of AI, but you sort of have a maybe a different perspective on that. Um, and I'm I'm
+37:25
+curious where you see, you know, AI creating new opportunities for integrated energy systems in the coming
+37:31
+years. Uh, to to sort of take the, you know, I think a lot of what I see day-to-day, especially in the United
+37:36
+States, is uh, you know, is concerns about data centers, concerns about about their power requirements, but maybe if
+37:41
+you could talk a little about how AI is is, uh, is going to enable some new opportunities there. I think the opportunities enabled by AI is endless
+37:49
+as I said you know u the only issues you need to continue to train more people in
+37:56
+terms of understanding AI and I always say you cannot scale uh without scaling the
+38:06
+talents and the people it's not it's about creating value it's not about eliminating people and this is the model
+38:14
+that needs to be used when you look at the future and what needs to be done and I think uh deministrating is very
+38:22
+important the use cases because a lot of people question what is the value it's not about buying ships and GPUs and it's
+38:29
+ensuring that you have the system the data qualities people think that they can by bringing chips and GPUs and
+38:37
+installing them you can create value no it's about also creating the talents and
+38:43
+making sure that you have the data quality that will help you. What we think of the future is that we will be
+38:50
+working with hyperscaler because the models and the use cases and the pilots
+38:57
+that we scale can be adopted across the industry. We can get to autonomous
+39:02
+operation over in the future without losing
+39:07
+uh control of our operation or safety which is very important. we are running in a business that is very uh accident
+39:16
+could happen. So I think demonstrating the value that can be creating while
+39:21
+maintaining operation control and the safety of the plants you know we are running and taking that with hyperscaler
+39:30
+and also our planned uh uh investment
+39:35
+now in a humane in the kingdom which will help not only nationally but internationally in terms of data centers
+39:42
+on all of it. I think the use of AI in every aspect of
+39:49
+operation is there but more value is not in finance or in translation or in legal
+39:58
+the more value that we see is in real operation when you look at the way you
+40:04
+are doing certain things this is where we put the billions of dollars in our operation you know if you think about it our capital program is 50 to60 billion
+40:11
+dollar today I have hundred billion dollars under construction. Imagine the integration
+40:17
+and the value that you can create across everything that you do by adopting AI.
+40:23
+But this is the create for the enterprise for Aramu and Aramco group. But for the future, you need to see that
+40:32
+intelligence in terms of running the operation scaled up across the industry.
+40:38
+And this is I think we are better off working with hyperscaler who have the access to the global industries to scale
+40:46
+because a lot of what also we adopt and we scale is not only good for the energy
+40:51
+industry it's good for other industries. It could for so many other industries
+40:57
+but hyperscalers that have access to all of these industries other than our energy industry can play a role. But it
+41:05
+is all about creating the right operation model,
+41:11
+the pipeline and also the decision making in terms of kill billet or scale.
+41:18
+You need to have a quick decision making otherwise if you don't have the right process to review prioritize kill if
+41:25
+need to be killed if it's not good to pilot or scale or even during pilots you
+41:32
+know you need to make a decisions quickly but you need to create the right operation model in your establishment
+41:39
+for you to be able to create the value that we are seeing today and this is what we are hoping through uh working
+41:46
+with uh hyperscalers in the industry. Accentur is a good example. You know, we
+41:51
+are trying to group our use cases and see which industry might be the best
+41:56
+user of them and how we can scale this across. We only have a couple or a few minutes
+42:01
+left and so I'm I'm going to ask each of you to maybe answer the same question and I'm going to start with you Julie which is uh so what lessons have you
+42:08
+learned especially over the past year or two years about scaling AI that you wish you had known earlier?
+42:15
+and and please do answer quickly because we just have a couple. Um I think it's it it's about human in
+42:21
+the lead not human in the loop. We will inspire people and we will run companies
+42:26
+with people and they will have a greater technology landscape but we need to completely change the narrative to
+42:32
+inspire people to paint the future. It is human in the lead not human in the loop. It's it should be a business bull
+42:42
+not AI or it bush. If the business is not involved you can buy it, you can
+42:50
+scale but you cannot have it across the whole establishment. So the business needs to be involved from day one for it
+42:57
+to be to capture the whole value across uh the establishment and the group.
+43:02
+I didn't realize it till 10 minutes ago but I should have hired Accenture. What what Julie said,
+43:10
+it hit me like 10 minutes ago what Julie said about leader le is so true at Visa. Like we went so fast by trying to
+43:18
+democratize access to all of these LLMs across the company. I preached it from
+43:23
+the top. the whole leadership team. talked about it for about 18 months and we didn't really see the breakthrough
+43:30
+until we got 300 of our top 300 people in the room for two days and we forced
+43:36
+them to go through hands-on keyboard training, build agents, be supervised, be evaluated and and to your earlier
+43:43
+point like once those top 300 leaders had confidence to to build use agents
+43:50
+and then lead their teams like that was the unlock for us and I wish I would have known it earlier. hired except
+43:55
+there's still time, right? I know, right? Still time. I'm learning. I'm always learning and and this panel was no exception.
+44:03
+Um I would say spend at least as much time on the adoption as on the
+44:08
+technology development. I think we're overexited often by technology and we are technology companies so definitely
+44:14
+speaking to myself. Um but actually if you want to have it really driving impact think about how you get it being
+44:21
+worked with which means that from the first moment you start to develop the technology think about how it lands in
+44:27
+the practice. So adoption is ultimately where measure success is measured and
+44:33
+actually you need to design that in from the get-go and that is much less about technology much more about understanding
+44:41
+the practice that it will actually serve and actually how you then indeed rally the humans around it that run that
+44:47
+business or run that practice. I think that's something that we have been learning in the in the last few years.
+44:53
+Well, thank you all so much. I um you know I think we we kind of came back to the same place we started about thinking
+44:58
+about uh about outcomes and not just not just operations. Um and I you know you
+45:04
+said something that I I wrote down because I thought it was so great which is it is hard to trust something until you understand it. I think we've all
+45:10
+come away with a lot better understanding of about uh scaling AI in large organizations. Thank you so much
+45:15
+everyone. Appreciate it. Thank you.
+45:21
+Heat.
+45:46
+Heat.
+46:05
+Heat. Heat.
+

@@ -1,0 +1,742 @@
+Coming Up
+0:00
+When it comes to stablecoins, one activity includes the issuance of it.
+0:05
+Another activity includes the distribution, and that's two different types of licenses, two different scopes of compliance requirements as well.
+0:13
+And when it comes to audits to even engage reputable auditors, sometimes
+0:18
+their engagement letters starts from hundreds of thousands of dollars.
+0:24
+So it's not a startup friendly cost. Therefore, the cost of compliance would probably quite a high market barrier
+0:33
+for the newcomers or for the startups who will be interested in launching their own stablecoins in the US.
+0:40
+Welcome to The Accountant Quits podcast, where we help accounting and finance professionals learn how to manage a business using crypto.
+0:48
+On July 18th, 2025, President Donald Trump signed into law the GENIUS Act
+0:53
+marking the first comprehensive federal legislation for payment stablecoins.
+0:59
+Now, even those stablecoins are borderless, they're locked within particular laws of specific countries.
+1:05
+This lack of regulatory interoperability creates both hurdles and openings for projects operating in multiple jurisdictions.
+1:14
+To help us navigate regulation for stablecoin issuance today, I'm thrilled to have Nestor Dubnevych, the Co-Founder and Head of Web3 at Legal Nodes.
+1:25
+From company formation, licensing, compliance, and legal structuring,
+1:30
+Legal Nodes is your one-stop shop to ensure you can operate your web3 project with peace of mind.
+1:36
+In this episode we'll cover, What the GENIUS Act really means for stablecoin issuers, new business
+1:42
+opportunities for off ramping and on ramping players, how stablecoin regulation compares across the US, UK, EU, the Middle East, and Asia
+1:52
+Pacific, compliance checklist for crypto payment gateways, and much more.
+1:58
+Lastly, if you're new to this channel, I'd really appreciate your support to help us grow by liking this video and subscribing.
+2:04
+Now, enjoy my conversation with Nestor. Nestor welcome and thanks for making the time to be here.
+2:12
+Thank you very much Umar. So to start, I want to dive straight into the GENIUS Act and what this
+GENIUS Act Explained
+2:18
+really means for stablecoins. Like I said in the intro, a few weeks ago, the U.S Senate passed this act, which establishes a regulatory framework for stablecoin
+2:28
+issuers and payment stablecoins. Now could you walk us through on what this means for stablecoin issuers in
+2:36
+the US, who actually gets to issue and redeems stablecoins and maybe
+2:41
+the relevant reserve requirements? Absolutely. So first of all, I completely agree with what you say that during the introductory
+2:51
+part that this piece of legislation is definitely a huge signal for the industry.
+2:58
+And many players started recognizing crypto and stablecoins as something
+3:05
+real and some something that can be used for the broader market, not just for the very particular groups.
+3:13
+Now, if we speak about the GENIUS Act, to be honest, I'm a bit skeptical regarding this act because for me personally, it looks like the act for
+3:23
+the existing market players rather than for the newcomers or for the startups,
+3:31
+or for some innovators or builders. And the reason of it is that this act allows the companies to issue the
+3:41
+stablecoins only if they are banks or certified entities or non-banking
+3:47
+institutions with the federal authorizations and the for the company
+3:52
+to obtain banking license or to obtain the certification that is required for
+3:58
+being or for operating as the issuer of the stablecoin takes a lot of effort,
+4:04
+takes a lot of time, resources, money, and to build this infrastructure,
+4:09
+it's like one task to do, but to maintain it, it's just another level
+4:15
+of effort and time and resources, etc. So from one side it is definitely a great signal for
+4:21
+the market, from the other side. It's still for the very, like limited group of companies are a number of market
+4:30
+players who will be able to afford this level of compliance and this level of
+4:35
+requirements for issuing the stablecoins. Okay, interesting. We'll go through the price of compliance in a bit.
+4:44
+But I want to ask you, and also we'll be comparing the GENIUS Act with MiCA in
+4:49
+Europe later during the episode, I wanna ask you what it means for the current stablecoin issuers operating in the US because for example, if we look at Tether,
+Winners & losers of GENIUS Act
+4:58
+they were delisted from major crypto exchange platforms in Europe as they were
+5:03
+deemed to be non-compliant with MiCA. Now, who are the winners and losers from this GENIUS Act?
+5:10
+I think that Circle and Tether will definitely be one of the key market leaders.
+5:16
+That's my assumption. These brands are really strong among the crypto community, however
+5:24
+considering that banks are allowed now to issue the stablecoins, the raw
+5:29
+players, which with much more broader networks, communities, user bases.
+5:35
+And that's where adoption would probably come from. So for, even for this strong big companies like Tether and Circle there might be
+5:44
+some sort of the risk that the bigger players will enter the market soon and
+5:50
+the stablecoins issued by, let's say Bank of America or by some other big players
+5:56
+might grab broader attention and that what will help them to win the bigger market.
+6:03
+However, if you take a look onto the electronic money, 20 years
+6:08
+ago, PayPal was founded and during first five to seven years of this
+6:14
+company, electronic money existed in a gray zone and many big financial
+6:20
+institutions were very skeptical to it. But then once the specific legislation was passed by the regulators across the
+6:29
+world, PayPal still kept its position as the key market leader of electronic money.
+6:36
+So we'll see how it'll go with Tether and Circle. They have a great infrastructure in terms of compliance, in terms of partners like
+6:44
+custodians, reserves, etc. I think that the, their chances are very high, but
+6:51
+let's not forget that there are much bigger players on the market that will now be able to issue stablecoins as well.
+Compliance costs
+7:00
+Now I wanna go through the price of compliance with the GENIUS Act. So the Act mandates strict compliance requirements.
+7:07
+For example, a 100% reserve backing, monthly attestations, quite a big one, and annual audits once stablecoin supply exceeds $50 billion.
+7:18
+Now, clearly these rules, they add significant operational and capital overhead making compliance easier for perhaps the larger players like Circle,
+7:26
+USDT, who can easily absorb these costs. Now, from your perspective, just how challenging is
+7:33
+compliance under the GENIUS Act? And could these more stringent rules stifle innovation in a
+7:39
+way by creating barriers, too high for the smaller players. I mean, you've gone a bit through it earlier.
+7:47
+The regulatory burden is really high, but it's understandable. We saw all the cases with Terra Luna and with some other projects that didn't
+7:56
+manage to keep everything in compliance when it comes to the separation of users, funds and the company's funds.
+8:04
+Some AML issues of some other projects, etc. So these standards should be high.
+8:11
+And just to protect the market and investors. But if we compare the approach to compliance in Europe, for example, that is
+8:20
+mostly focused on investors and consumers, in the US feels like it protects the
+8:26
+big financial corporations better and when it comes to the cost of compliance
+8:32
+that's also something that big financial institutions like to use as the protection
+8:39
+from the potential competitors, especially when it comes to some very innovative
+8:44
+solutions that can grow very fast. However, where this compliance requirements can be the market barrier
+8:53
+for them and for their growth as well. Therefore, when it comes to this compliance requirements, so first
+9:01
+it's important to focus on the activities that should be in compliance with the regulations.
+9:07
+When it comes to stablecoins, one activity includes the issuance of it.
+9:13
+Another activity includes the distribution, and that's two different types of activities, two different types of licenses, two different scopes
+9:21
+of compliance requirements as well. So when it comes to the first one, audits and AML measures is something
+9:29
+that should be properly implemented and when it comes to audits, to even engage reputable auditors, sometimes their engagement letters starts from
+9:39
+hundreds of thousands of dollars. So it's not a startup friendly cost.
+9:45
+But the big financial institutions, they already have their auditors. So I think that it should be relatively easy for them to just add more
+9:54
+work for their existing auditors. And also when it comes to custodians who can provide the custody for their
+10:01
+reserves, there's another like market segment that is not cheap and to be able
+10:07
+to onboard with such custodian, which can be the bank or other institution
+10:12
+that provides this depository services. And there is also a lot of things to do to become acceptable for
+10:19
+these regulated institutions. Therefore the cost of compliance would probably be, at least at the beginning,
+10:26
+it would be a big, quite a high market barrier for the newcomers or for the startups who will be interested in launching their own stablecoins in the US.
+10:37
+But in general even though yes, the price of compliance is steep
+10:42
+are you happy with the GENIUS Act? For me personally, I think that it's a great market signal that what we
+10:49
+discussed before and when it comes to the big financial institutions, there will probably be more products for the market and for the consumers.
+10:58
+It's that it would definitely have a positive effect. But from the entrepreneurial point of view, I think that without the
+11:06
+particular sandbox or some simplified type of license it would still remain
+11:12
+the opportunity for the bigger players. Yeah, I agree. Now, I also just want to give a quick shout out to LedgerLens we had them
+11:22
+on Episode 72 and they do provide attestation tools for stablecoin issuers.
+11:29
+So, if you wanna check them out, you can listen to the episode I did with Jeremy Nau, their Founder on episode 72.
+Future of stablecoins and banks
+11:37
+Now, I wanna move on to speaking more about the general outlook for stablecoin issuers.
+11:43
+So this act is due to become fully operative 18 months after the President has signed it.
+11:49
+So. If my math is correct, this is gonna be early Jan 2027 or late December, 2026.
+11:57
+Now the GENIUS Act, it opens the door for obviously more issuers to launch their own stablecoins.
+12:03
+I was reading recently that the Wall Street Journal reported that companies like Amazon and Walmart are exploring launching their own stablecoins as well.
+12:13
+Now, with this regulatory in place that has been long awaited, how do you see the
+12:19
+future shaping up for stablecoin issuers? And do you think traditional banks will adapt quickly enough to compete?
+12:27
+That's a really great question. When some first stablecoins was introduced probably five or even seven
+12:35
+years ago there were a lot of talks that transactions should become cheaper because the stablecoin transactions don't require any intermediaries,
+12:45
+but it ended up in the more expensive transactions comparing to just like
+12:51
+banking transactions or the transactions with some electronic money institutions. The reason was that the ecosystem and infrastructure was in the very
+13:01
+early stage, back to that time, and the compliance requirements plus regulatory uncertainty were too high back to that time.
+13:09
+It might happen one more time now as well, especially when it comes to this early stage of the legislation, when the regulators will work on it to make
+13:18
+it operational while the companies will work on it to figure out how to apply
+13:24
+this legislation to their own processes. And this first, like two to three years are usually the time that wouldn't
+13:32
+provide any sufficient benefits or competitive advantages, but after that,
+13:37
+there will probably be a huge shift and that's my assumption is that's one of the reasons why big players started interesting in this type of payment.
+13:46
+Because if you take a look into the traditional financial infrastructure that includes a lot of layers, a lot of intermediaries, a lot of
+13:53
+commissions, stablecoins might help to reduce this number of intermediaries
+13:59
+and as a result to make this transactions cheaper and faster. Now, when I was preparing this episode, I came across this
+On-ramping & off-ramping opportunities
+14:07
+term called stablecoin sandwich. I was not familiar with this term, but basically it's the process
+14:13
+that leverages blockchain and uses stablecoins as a middle layer for fiat-to-fiat cross-border transactions.
+14:19
+So just for example, I'm based in Portugal. Let's say I had to send money to Argentina. If I wanted to save on some banking fees, what I could do is
+14:27
+I could convert my Euro to USDC. I send USDC to that beneficiary in Argentina, and that recipient,
+14:34
+they would just then convert USDC to Argentinian Pesos. So by using stablecoins in this way to transfer funds internationally
+14:43
+we've eliminated as you know, the listeners, the inefficiencies of traditional banking systems with the delays and the high costs.
+14:51
+Now, this week I was speaking with someone, he works at an on-ramping
+14:57
+off ramping solution, and he was mentioning that they're currently discussing with freelancing marketplaces or neo banks who are looking to
+15:05
+also offer stablecoin payments. So given this trend, how do you see the landscape evolving for on
+15:11
+ramping and off ramping partners? Do you expect an explosion of such providers building on stablecoins?
+15:20
+From my point of view, it's already happening. Many freelancers, digital nomads, gig workers, they already use stablecoins
+15:28
+for international transactions and payments because it's very fast and cheap and convenient.
+15:35
+When it comes to these big platforms, I think that from one side, once the
+15:40
+legislation gets to the stage where it's fully operational it'll definitely
+15:46
+provide them with the opportunities to, add these types of payments. But I really liked how you mentioned that the beginning, this regulatory
+15:54
+interoperability or regulation interoperability for the global financial
+16:00
+system, and they, for example after USDT gets licensed in the US under this GENIUS
+16:06
+Act while being noncompliant in Europe. I'm afraid that all these big freelance platforms wouldn't be able to support
+16:16
+the payment by, let's say, a US based client to EU based contractor.
+16:21
+So yeah this regulatory environment will still remain a very important consideration for this big international platforms that provide the solutions
+16:30
+for the freelancers and gig workers. Before we continue, let's take a quick commercial break from our sponsor.
+Get 2 months for free with Request Finance
+16:37
+If you're serious about running your business using crypto, you need tools built for crypto.
+16:43
+One of my favorite apps, and yes, one that I use multiple times a month is Request Finance.
+16:50
+This app has been a game changer in how I invoice my clients and receive stablecoins
+16:55
+and crypto directly in my wallet. But hey, there's so much more to it.
+17:00
+Request Finance is the all in one platform for crypto operations, accounts payable, accounts receivable, expenses, and even accounting.
+17:10
+Plus they've got a killer multi-payee off-ramp to over 190 countries, meaning
+17:16
+you can pay someone with crypto and they get fiat in their bank account. Request Finance connects to over 20 blockchain networks, including Ethereum,
+17:26
+Solana, Base, Arbitrum, NEAR, and more. Here are some features that I love.
+17:33
+Batch payments using your preferred wallet of choice. A single dashboard to track all invoices with real time updates.
+17:42
+All invoices contain the transaction hash for easy audits. But hey, don't take my word for it.
+17:48
+Try that for yourself. Head over to request.finance/partners/theaccountantquits
+17:55
+and get two months for free with all the pro account features. Join 3000 finance leaders today using Request Finance and make crypto operations
+18:05
+simpler, compliant and less stressful.
+Yield-bearing stablecoins
+18:12
+So I want to go through another topic and staying on the GENIUS Act, which is on yield bearing stablecoins because the GENIUS Act, it bans payment stablecoin
+18:23
+issuers from paying interest or yield. I've had a guest previously on this podcast where we spoke about yield bearing
+18:30
+stablecoins, but I want to take, let's say, an example of a stablecoin issued
+18:36
+by Paxos, which is USDL, that's regulated through the Abu Dhabi Global Market
+18:43
+(ADGM) regime, but it's fully backed by US treasuries and cash equivalents and unlike
+18:49
+other traditional stablecoins like USDC or USDT, USDL is inherently yield bearing.
+18:56
+Just by holding it, you would be earning the US treasury returns, which would get distributed to you.
+19:03
+Now, yield bearing stablecoins like these, even if issued in the US, would not be permitted under the GENIUS Act, right?
+19:10
+But I think still good news for DeFi, and now you'll have, I mean,
+19:15
+an influx of like stablecoins, which can be transferred to DeFi protocols.
+19:21
+How do you see the GENIUS Act in terms of for projects driving innovation for those yield bearing stablecoins?
+19:30
+That's a great question, and I think it's very much related to some background of the GENIUS Act.
+19:36
+A couple of years ago there was a huge trend of CBDC or Central Bank
+19:41
+Digital Currencies and many countries started working on some pilot projects.
+19:47
+As far as I know at the moment, there are no successful projects within this like market category, but for the US it looked like some sort of
+19:56
+the , threat for their national currency. And the GENIUS Act is some sort of the way for them to
+20:04
+protect their national currency. And that's what applies the mindset a bit different mindset to the
+20:11
+stablecoins issued under the GENIUS Act, which are considered by the regulators as the payment method, not the investment instrument and that's
+20:20
+why they probably have a different piece of legislation, A Clarity Act,
+20:26
+hope it'll happen later this year. But for the GENIUS Act, there is a very narrow focus on making or adding
+20:34
+this new type of payment method. While in other countries stablecoins have more flexibility that they can be used
+20:41
+as the payment method like e-money tokens in Singapore or same e-money tokens in
+20:48
+the in Europe under MiCA and they also can be some sort of the combination
+20:53
+of payment and investment instrument which can provide them the yield or which can have yielding mechanisms.
+21:01
+And I also think that it's the matter of the protection of investors' rights because for the stablecoins that don't have these features or
+21:09
+where these features are prohibited, it's easier to control the market. And it's might look safer for both the regulators and users of
+21:19
+this new financial instrument. So maybe it's also some sort of more careful approach of the US regulator to
+21:26
+this new type of financial instrument comparing to the other countries.
+21:32
+Now you wrote a great article, Nestor, on where you compared stablecoin
+21:37
+regulation across different jurisdictions. So I wanna ask you, how does this US GENIUS Act stack up against the other
+Global stablecoin regulations
+21:46
+global frameworks that we already have in place, such as in Europe we have MiCA. When it comes to the reserve requirements probably one of the
+21:54
+reasons why also USDT was delisted or banned from operating under MiCA also
+22:01
+in terms of issuer authorization and the overall regulatory approach, is
+22:07
+there one that stands out right now ? Is the US GENIUS Act let's say more appealing for stablecoins
+22:14
+issuers to flock to the US. So from my point of view, US would probably remain the place for the big
+22:23
+market players when it comes to stablecoin issuers and therefore if there are
+22:28
+already, if there are some institutions that are already big they would probably be able to afford the US legislation from the perspective of compliance and
+22:37
+some other requirements to be able to issue the tokens, their stablecoins. However, when it comes to more startup friendly regulatory frameworks, recently
+22:48
+El Salvador and Hong Kong introduced their pieces of legislation and the requirements
+22:54
+are more democratic I would say. There is no, the strict requirement that only banks and some other certified
+23:00
+institutions can issue the stablecoins. Any company or any team can establish the company, get this to the level of
+23:09
+this compliance requirements, deploy the required authorized capital or the
+23:14
+reserve and it varies from country to country, starting from three millions in Hong Kong and then varying to like the lower number of reserves, like
+23:26
+a couple of hundreds of thousands of Euro in Europe, for example, or even a couple of thousand, dozens of thousands of dollars in El Salvador, for example.
+23:34
+So there are different levels of complexity of this frameworks and let's not forget that issuing is one type of activity and
+23:44
+the distribution is the other. So let's say if the stablecoin is issued under this El Salvador license, and
+23:51
+if the distributor that is licensed under Singapore legislation or Hong Kong legislation is comfortable with the stablecoin issued by
+23:59
+foreign issuers, it might provide a stablecoin with the global exposure.
+24:04
+So yeah, this regulatory interoperability is a huge topic for crypto and when
+24:10
+it comes to the country that is the most friendly for the stablecoins,
+24:15
+from my perspective at the moment, there is still no market leader because there are always pros and cons for each of the jurisdiction.
+24:23
+But the US, has a huge chances to become a market leader just because it's the biggest market in the world and it has a huge number of potential users of
+24:33
+this new type of financial instrument. All right. So next I'd like to speak about crypto payment processes under US law.
+Compliance for crypto payments gateways
+24:41
+So if you accept crypto from a customer and transmit fiat to a merchant or vice
+24:47
+versa, the FinCEN in the US treats you as a money transmitter, so you have
+24:53
+to have it's called an MSB license. So with the GENIUS Act, only these permitted stablecoin issuers can issue
+25:01
+payment stable points in the US right? So that means a payment processor in the very near future, they'll not be
+25:09
+able to offer or sell non permitted payment stablecoins in the US.
+25:15
+So I wanna ask you, Nestor, if you are building like a compliance checklist for a crypto payment gateway today, what items would you include
+25:23
+to cover both on the existing MSB requirements and the GENIUS Act?
+25:30
+First of all, when it comes to the new type of asset that the company implants to add into the basket of the tokens or the stablecoins that can be
+25:39
+processed or accepted by the merchants it's important to ask for the licensing
+25:46
+documentation of this new type of asset. That's one of the reason why all crypto exchanges that are licensed, like all
+25:54
+centralized crypto exchanges, they always ask about token legal opinion before being able to list the token on exchange.
+26:01
+Same will happen for the payment processor, crypto payment processors or crypto payment gateways and so this legal opinion is the first ask
+26:11
+or first question for the checklist. Then once these details are clarified, the second question is related to the
+26:20
+anti-money laundering requirements. So, currently there are some tokens that are privacy tokens, I would say,
+26:27
+or the tokens that can't be traced in terms of the chain of transactions or
+26:33
+the verification of the wallets and I think that the underlying technology of the stablecoin should provide this traceability and accountability also
+26:42
+because if anything happens with the stablecoins that were processed by this
+26:48
+payment processor, on the technical level or from the perspective of the AML, then it might result in some risks for this payment processor as well.
+26:58
+And of course, the information about the reserves and the audits of these reserves
+27:05
+is something very important as well. We saw these cases before. I mentioned that Terra Luna before, but there were some other cases.
+27:13
+We used this fully decentralized, permissionless stablecoins that there was a huge, it was a huge topic in 2021 and many companies tried to
+27:23
+launch their own native decentralized stablecoin with this fully autonomous
+27:30
+price stabilization mechanism. But it ended up really bad for some projects. So I think that's the third question for the checklist, what are the
+27:37
+reserves and how well established is the process of auditing it. From your experience in the industry, are there some other stablecoin projects that
+Geographical use case trends
+27:49
+maybe stand out for other use cases, like maybe there will be stablecoins more fit
+27:57
+for certain use cases, and some more for like, or other markets will be using them?
+28:03
+Like USDT is used a lot in, for example, Asia, Africa, South America.
+28:09
+That's a great question. To be honest, in terms of the geography, I think that some stablecoins will remain
+28:16
+more popular in some countries while the other will be less popular and we saw
+28:21
+the stablecoins that became very popular in the Middle East, for example, while in Europe, USDC is the stablecoin to go and some stablecoins backed with Euro.
+28:32
+Some local options are also very popular. While in the US, USDC and USDT would probably be the most popular
+28:39
+options to use and it also depends on the underlying protocol. Like the USDT on Tron network is probably one of the most popular in Asia while in
+28:51
+Europe and in the US the ERC-20 based, USDT are might be more popular as well.
+28:58
+So yeah, in terms of the geography, there will be different, different regions for different stablecoins.
+29:05
+But from the perspective of the use cases, that's really interesting question and I think that it'll depend on the distribution strategy of this big player.
+29:15
+So for example, once the PayPal launches their own stablecoin, they will probably be able to offer the stablecoin to all their e-commerce merchants.
+29:26
+So maybe PayPal stablecoin will become the most popular use case for the e-commerce
+29:31
+while for Stripe that is also in working on its own stablecoin, different SaaS
+29:38
+tools and some other tech subscription tools might be the go to market strategy
+29:43
+and that's where their stablecoin might get the most popular and for the big
+29:48
+enterprises or for some B2B transactions, maybe there will be one another like very different type of stablecoin.
+29:54
+The most popular one. So we'll see that's in the very interesting stage of
+29:59
+the market at the moment. I agree. I can easily see it going into that direction with the one that
+30:06
+you gave on Stripe and PayPal is yeah excellent examples. Now, Nestor, this episode is mainly focused on stablecoin regulation,
+RWA compliance
+30:14
+but we are lucky to have you today and I also wanted to ask you a question around regulation for RWA.
+30:23
+So as a quick refresher for the listeners, so real-world asset tokenization, it relates to when you convert a legal ownership of in physical
+30:33
+or financial assets as such as real estate, commodities, art or bonds into
+30:38
+blockchain based tokens, then, which you can then enable fractional ownership. You have 24/7 settlement and so on, you can access basically a
+30:48
+broader investor base, right? So in the US tokenized real-world assets are generally treated as securities.
+30:58
+I want to ask you about how any of these real world tokenization
+31:04
+platforms should approach regulation. How should they prioritize different jurisdictions?
+31:10
+And yeah, how should they deal with overall, like compliance right now?
+31:16
+That's a very high growing market from my point of view. Like five years ago, it was a very ambitious idea to tokenize something.
+31:25
+Today, it looks like a very real use case, but there is a huge lack of regulatory clarity still.
+31:33
+And there were a couple of reasons for it. Reason number one, it includes this variety of real-world assets.
+31:40
+It's not as simple as in case of stablecoins where you can have a highly liquid assets as a fiat currency or some government estate
+31:50
+obligations or state debt instruments. In case of RWA, there might be like secure matters of the land, real
+31:58
+estate, precious metals like gold or silver, different types of commodities.
+32:04
+Then it might be different tokenized stocks and some other financial instruments.
+32:10
+And even piece of the art can be tokenized, which is also the example of real world asset or some collectibles like collectible
+32:18
+cars or some other types of assets. And that's the big challenge because each of this asset has its own legal status
+32:26
+and until recently, the most common way to tokenize something was to first make
+32:32
+it the ownership of the legal entity and then to use this legal entity as the,
+32:38
+some sort of tokenziation vehicle or tokenization SPV, where the shares or the
+32:44
+membership interest of this entity can be tokenized or where the entity can issue the debt bonds or debt notes and tokenize it so that token holders can gather this
+32:55
+potential interest from the company. However, currently a couple of regulators are actively working on the
+33:02
+RWA regulatory framework there will be some updates in Europe next year and in the EU they recently introduced this clarity and what should be treated
+33:12
+as the security and what's not the security, especially when it comes to the tokens backed by commodities.
+33:19
+And that's something that US wants to solve with their Clarity Act which the
+33:24
+market expects as the Act that will provide them clarity on which assets
+33:31
+should be regulated by their commodities commission and shouldn't be like qualified
+33:37
+as the securities while what are the assets that will be will be controlled by the Security Exchange Commission.
+33:44
+And I think that once this division of the assets between those two categories
+33:49
+is finalized, that's what will unlock what will help to unlock the next
+33:55
+stage of the market development. So right now, because you're saying there's a lot of gray area when it comes
+34:01
+to like tokenization of RWA, I mean these projects, they cannot do much, right?
+34:06
+In terms of, I mean, they want to obviously in the future avoid like bad
+34:12
+surprises with a new regulation that comes up and they've not been prepared. But because there's a lot of gray areas you cannot do much.
+34:20
+Yes and this regulatory uncertainty was always a big growth barrier
+34:26
+for the whole crypto industry. Starting from the early days of the crypto exchanges that were always
+34:33
+in this regulatory scrutiny, what they can do, what they can't do. These fines and regulatory investigations was always the part
+34:41
+of their journey then there was this ICO boom and there were a lot of regulation uncertainty around tokens.
+34:48
+Then stablecoins, now RWA. So just the market cycles and every new every innovation requires this
+34:58
+gray area stage before it can get some regulatory clarity from the governments.
+35:04
+I agree. Now, in light of what we've discussed around stablecoin issuance regulation,
+Legal Nodes services
+35:11
+could you provide an overview of the services that you provide at Legal Nodes, but also please feel free to share everything else that you provide,
+35:18
+I mentioned in the intro that you guys are like a one-stop solution.
+35:23
+Absolutely. So our mission in Legal Nodes is to help crypto projects to enter the
+35:30
+market by reducing this high market barriers resulting in a lot of regulatory
+35:36
+and compliance requirements, without any harm for the compliance quality. And we do this by offering the virtual workforce for the crypto teams.
+35:48
+So when they are on the early stage, they usually need some guidance for the incorporation process for the best country to incorporate, etc. That's
+35:58
+where we have incorporation experts who can be engaged in Legal Nodes platform.
+36:04
+For more mature companies who, which usually experience some repeatable tasks
+36:09
+like compliance checks, like document review, like some other corporate and
+36:14
+compliance tasks, we have compliance officers and legal officers as well who can be hired through Legal Nodes platform.
+36:21
+And our goal is to help them to simplify this compliance burden without lacking the
+36:29
+sufficient level of compliance for their processes so they can grow faster and
+36:34
+that they can make their innovations real. And basically make the services better for the end customers because that's
+36:42
+the ultimate goal of this of this industry and for all innovations. I also want to give you guys a shout out for your excellent blog.
+36:51
+I think I told you this before when we were speaking Nestor, but a lot of times when I was preparing episodes, I was reading like the excellent
+37:00
+articles that you guys have, so you guys are doing really good, great work in terms of like content.
+37:07
+Thank you very much. We always wanted to open source all the insights that we have or that we've
+37:14
+collected so the broader market can use it and simplify their legal journey.
+37:20
+So really appreciate this feedback and hope listeners will be able to benefit from it as well.
+37:26
+Yeah, I would even say you guys are the industry standard when it comes to everything related to company formation, DAOs, like everything
+37:34
+related to, yeah, crypto licensing. It's very useful. So yeah, the listeners, you have to check it out.
+How Legal Nodes evolved since 2018
+37:41
+Now Nestor, I also want to ask you, so looking back to when you guys first started in 2018, if I'm not mistaken, how would you say your client needs and
+37:51
+your overall service model has evolved. Have you seen shifts in scope, complexity in the overall legal work that you've been
+38:02
+doing over the past seven, eight years? Yeah, that's a great question.
+38:07
+When it was 2018, the only compliance frameworks that framework that the most
+38:12
+of the crypto companies had to follow was the anti-money laundering framework.
+38:18
+The FATF back to that time it was 2016 or 2017, FATF issued the guidance to
+38:27
+provide some sort of the overview of the requirements for crypto companies, how to maintain their AML compliance and since that time, the number of
+38:39
+compliance frameworks grow up from one to 10 plus within every country.
+38:46
+So we have the project operates in three countries, that 3x multiplier to this compliance frameworks.
+38:53
+And that's something that substantially increased the scope of support that these companies required.
+38:59
+And that's where we figured out the mission that we want to pursue for this market to help these companies to reduce this market barrier by
+39:09
+providing them more affordable and more efficient compliance solutions.
+39:14
+Perfect. Now maybe a last question Nestor before we wrap up is on, now that the GENIUS
+Clarity Act
+39:23
+Act has been passed, what is next in, in terms of crypto regulation? Maybe we should do another episode on the Clarity Act in the future, and could you
+39:32
+already provide us with maybe a high level overview of what that entails and also
+39:38
+in general, where should digital asset providers be watching in terms of like regulation over the next 12 months or so?
+39:47
+So I would love to have another episode about the Clarity Act because that's what a lot of the market players are expecting now.
+39:55
+Unfortunately, the most of non-custodial solutions like DeFi protocols and non-custodial wallets still remain in a gray zone.
+40:04
+It's still unclear should they get licensed or not.
+40:09
+Should they verify their users or not? Should they run some audits of their funds, etc. So yeah, Clarity Act is
+40:20
+the piece of the legislation that should provide some clarity for it. And another big topic is RWA that we slightly touched today.
+40:29
+I think that will become a huge trend next year once the EU introduces this
+40:36
+regulatory framework and, a lot of the countries are now working on it as well. So yeah, that's probably something that crypto companies might take a
+40:45
+look, take a closer look because that might become a big topic very soon.
+40:51
+Perfect. Now, today's episode, Nestor was on stablecoin issuance regulation.
+Regulatory interoperability
+40:57
+As closing thoughts, has there been anything that we didn't touch on that you'd like to share with the listeners or how would you summarize
+41:05
+this episode today for the listeners? I think that in the next couple of years one of the biggest challenge for
+41:12
+the most of crypto companies that are borderless by default will still be this
+41:18
+issue of regulatory interoperability. So, as the summary especially for the projects that are on the early stages, I
+41:27
+would suggest to think about the primary markets because that's the markets where the license will be needed for the first time and the more countries
+41:37
+pass the specific laws for stablecoins and tokens, the harder for the web3
+41:42
+projects will be to operate globally. So this primary markets will be very important for builders very soon.
+41:51
+But I hope that in next like three to four years some activities,
+41:57
+some cross border activities of the regulators will start happening as well because that's what market requires to, for the projects to be able to
+42:06
+operate truly borderless with lower compliance costs for their operations.
+42:14
+Perfect. Yeah, we just pray that these new regulation, in a way, will not kill
+42:19
+the very ethos of blockchain, which has been so far yeah, pseudonymity,
+42:25
+being borderless and but probably in a way for more to achieve like this
+42:30
+mainstream adoption, we do need it, but we just hope it won't kill the innovation that these companies brought.
+42:36
+Now I have a last question, Nestor, which, and this is how I like to end the podcast, is do you have a favorite quote or like a maxim that either you live by
+42:47
+or you repeat to yourself like very often? Oh, that's a great question.
+42:53
+So, it's a very fast changing world and I think that, to be anti-fragile
+43:00
+is, one of the most important type of mindset for all entrepreneurs.
+43:05
+So that's something that I would like to share and wish to all builders and entrepreneurs who will be watching this video, this podcast to be anti
+43:14
+fragile and to learn really fast. So that, that's probably two things that help every company,
+43:21
+every project to succeed in the current business environment. Perfect.
+43:27
+I agree and thanks a lot for sharing and Nestor, so thanks a lot for your time today.
+43:33
+I think we recorded this episode at the right time when there's gonna be a lot of people looking into how to embrace stablecoins in their
+43:43
+business or how to issue stablecoins. So thanks a lot for your time today. If people want to learn more about Legal Nodes, if they want to reach
+Reach out to Nestor or Legal Nodes
+43:51
+out to you, where should they go? Our website would probably be the most the shortest way to, to get in contact.
+43:58
+But I'm also available in LinkedIn and on X. So always happy to talk to builders and discuss the recent regulatory updates in the crypto industry.
+44:08
+Perfect. Thanks again for your time today and we'll stay in touch. Thank you so much for having me here.
+

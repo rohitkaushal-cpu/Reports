@@ -1,0 +1,371 @@
+0:033 secondsHello everyone. Uh this is our first episode of our 3643 podcast. Uh and joining uh today is uh the director of
+0:1212 secondsand uh I guess director board member of the ERC 3643 association, my good friend and uh uh co-founder of of Tokeny uh
+0:2222 secondsLuke Lampton. Nice for thanks for joining me, Luke. Yeah, thanks a lot.
+0:2626 secondsIt's a great place. Great to see you. We don't see each other as that often. So, great to be here. Yeah, it's it's amazing. You you're truly uh my brother
+0:3535 secondsacross the world. Um uh for those who don't know, Luke and I are the original founders of the ERC 3643 Association. Um
+0:4444 secondsand we'll get into the whole history of that, but this is actually our first media event we've ever done together. Uh
+0:5151 secondswhich, uh is very very exciting. Yeah, definitely. And in New York, which is great. Yeah, absolutely. We have a huge
+0:5858 secondsweek of news which we we get into but um a lot of people ask us you know about uh 3643 about the association you know the
+1:071 minute, 7 secondsteam behind the scenes um how much of a machine it is become and how much it's grown and I figure what a better way
+1:141 minute, 14 secondsthan to to talk about it as a as our first episode um and get and get into it. So, so Luke, you know, obviously you
+1:231 minute, 23 secondspredated me in in uh learn building the 3643 standard. How did that come to be?
+1:291 minute, 29 secondsWhat was the thinking behind it? It was a it was a long journey because we we started uh almost 8 years ago now,
+1:351 minute, 35 secondsbelieve it or not. Um during the ICO craziness, so everything was tokenized suddenly, but
+1:441 minute, 44 secondsyou didn't know too much what was the projects behind. So we uh we like okay what if we bring real assets good assets
+1:511 minute, 51 secondson chain uh this infrastructure can scale and so what if we do things seriously that could be nice. Yeah. Uh so that was the uh the initial input um
+2:012 minutes, 1 secondand then we started to work with clients and we started to develop some smart contracts simple smart contract at the beginning it was the early days of um
+2:082 minutes, 8 secondsERC20. Mhm. Was great already to have some kind of standards. Wow. Simple standard but great. Um and step by step
+2:162 minutes, 16 secondswe realize we need to do better. We need to tokenize the asset but also to identify the investors properly in the blockchain to manage permissions to track ownership that kind of things.
+2:262 minutes, 26 secondsYeah. Um so working with our clients and their lawyers with the lawyers. Yeah.
+2:322 minutes, 32 secondsAnd what was great actually what people don't realize is that all of our clients came with their own legal advisory right
+2:392 minutes, 39 secondsfirms. So they were paying the law firms and we we discussed with I don't know hundreds of of law firms and they were
+2:462 minutes, 46 secondsall trying to understand it and to study and so so we we've learned a lot in in a few years and step by step we've developed the smart contracts to enforce
+2:542 minutes, 54 secondsthe holes on chain right yeah I I don't think people realize how many lawy legal firms are in our association uh I think you and I talked to legal firms uh a
+3:043 minutes, 4 secondsfair bit uh and it's amazing how good their questions are and how how really fundamental they to to smart contracts with the word
+3:123 minutes, 12 secondscontract being being in the phrase and this obviously was way ahead of its time back then right I mean we really hadn't
+3:203 minutes, 20 secondsseen the advent of any serious like token standards or anything around compliance at that time right this was
+3:263 minutes, 26 secondspretty early on yeah maybe in 2018 2019 we started to see some kind of standards of people trying things uh we started to
+3:343 minutes, 34 secondssee some um some permission tokens with simple white list of wallets but Um so we we looked at all of this new things
+3:423 minutes, 42 secondslike okay at least it's permission a little bit compliance at least it's not the uh ICO wild west anymore but still
+3:503 minutes, 50 secondsnot not there exactly um we didn't want to create a new standard to be honest we we are a small team we just wanted to provide solutions to our clients right
+3:583 minutes, 58 secondsum but we checked what was out there and it was not good enough as simple as that so we we keep building uh we kept
+4:074 minutes, 7 secondsbuilding for for years and u and two three years ago now I'm losing track of time but we we realize we we have a
+4:144 minutes, 14 secondsstandard maybe we are too humble maybe we are not ambitious enough or I don't know but we we should say it we should
+4:224 minutes, 22 secondspush it to the market we should package it we should open source uh all of this and that's what we've done and the the
+4:294 minutes, 29 secondsresults were incredible to to say the least I mean it's the largest RWA standard in the world today which is
+4:364 minutes, 36 secondsquite a story at at what point did you guys decide cuz it it's a very I find for a lot of engineering teams it's a
+4:434 minutes, 43 secondsbig leap some are more um open to it than others if they done it but to actually say we're going to make a
+4:494 minutes, 49 secondsformal Ethereum proposal of this you know when did that roughly happen how that how that come about what was that process like so it was called the T-Rex
+4:594 minutes, 59 secondsprotocol y uh token for regulated exchanges we made the white paper uh we we started to get some good visibility because we we had live token and clients
+5:085 minutes, 8 secondsin production. We tokenized the first equity in Europe. We started to do that kind of thing. So that was great. Um but it still sounded too proprietary and you
+5:165 minutes, 16 secondsknow it's it's blockchain. Yeah. So I see it if it's great uh we need to open source it and it needs to be a real ERC.
+5:245 minutes, 24 secondsIt needs to be something else than just some kind of brand. Um so we we started the process. It took a lot of time. Um I
+5:335 minutes, 33 secondsmean the process with the interum community was it scary like like what what was like a lot of trepidation but was everyone like all in on it like what
+5:405 minutes, 40 secondswas the emotional side of it? It was a lot of work because it forced you to respect some guidelines to document
+5:485 minutes, 48 secondsproperly to test properly etc etc. um we didn't get very interesting feedbacks on the code
+5:555 minutes, 55 secondsitself at the beginning now you have a lot of people using it so it's much more interesting but when we pushed it for to be an ERC honestly the feedbacks we got
+6:046 minutes, 4 secondswere not that uh that professional um but step by step we passed the uh the steps and uh and we got this uh this
+6:116 minutes, 11 secondsnumber uh ERC 3643 yeah it was assigned it it actually wasn't great it was assigned in the Canon uh VIPs and
+6:186 minutes, 18 secondsactually ERC 42 2 was available. So, we tried to get this one and say, "No, it will not work." So, we got 3,600.
+6:286 minutes, 28 secondsYeah, I know. It's like the DMV queue for Americans. Uh, you know, it's it's super random. I What are we up to? 8,000 ERC 8000s now. Yeah, it start to be a
+6:356 minutes, 35 secondslot because most of them are not used on a daily basis, I guess. Um, and you have extension of extension, so it start to be a bit messy. Um but uh but I think
+6:446 minutes, 44 secondsERC 3643 is very clear because it's an extension of ERC20. So it's compatible with the whole ecosystem of of crypto and defy. Yeah. So that's really really
+6:536 minutes, 53 secondsinteresting. So we we got that number. I think now we it makes some kind of club you know either you know the number or you don't. Yeah. Yeah. Yeah. Exactly.
+7:007 minutesBut of course we still call it the T-Rex protocol very often. Yeah. And for everyone because I guess out all the time T-Rex stands for token for
+7:087 minutes, 8 secondsregulated exchanges. Regulated exchanges. But mostly it was fun to remember. Yeah. Yeah. And and we'll we'll get into that more. Um it's
+7:157 minutes, 15 secondsamazing to me because there are so many EIPs that that don't go anywhere. Um and I think we I was around by then where we
+7:257 minutes, 25 secondsreached final status December of two years ago and I don't think I appreciated how big of an event that was. That was that was a big deal uh
+7:347 minutes, 34 secondsreaching that final status. I mean, for for people who don't know, that effectively means that 3643 is in the official cannon of standards. We're just
+7:427 minutes, 42 secondsas official as an ERC20 or 721 or 1155 as as anything, which which is incredibly special. Yeah, because indeed you have a lot of people proposing
+7:507 minutes, 50 secondsthings. That's why you have 8,000 y now, but for the final status, you don't have that many. I would not say numbers, but probably like 100, 200s, maybe more.
+7:597 minutes, 59 secondsYeah. s single hundreds or whatever which you know when you talk about tens of thousands or thousands of proposals that you know barely even make it to the
+8:088 minutes, 8 secondsthat's a lot of concepts and certainly a lot of attempts at uh doing that so I I I think people not to take for granted
+8:168 minutes, 16 secondsbut you know it kind of they almost seem as elusively obvious of what the benefit of standard is but it took a lot of work you know it took years uh to me and it's
+8:258 minutes, 25 secondsstill ahead of its time um you know I routinely tell people about you know the centralized identity comp piece of it which onchain ID now onchain ID is that
+8:348 minutes, 34 secondsits own EIP or standard or or what is onchain ID to to 3643 yeah so it's based
+8:408 minutes, 40 secondson ERC 734 735 I'm not sure it achieves the final status actually but but then we modified
+8:488 minutes, 48 secondsit a lot for um for for the different purposes we we had um we called it onchain ID in the code of ERC2643 you
+8:568 minutes, 56 secondshave something called onchain ID um but one of the project of the association as you know is to make it as well an ERC um
+9:039 minutes, 3 secondsto make sure people understand it's um it's open source as well it's not a KYC solution it's just a way to to bring identity proofs and verifiable
+9:119 minutes, 11 secondscredentials on chain because very often people think it's it's a proprietary KYC solutions we are not trying to to
+9:199 minutes, 19 secondsreplace KYC agents at all we just try to identify properly the different stakeholders on chain issuers their
+9:269 minutes, 26 secondsagents investors so you can apply permissions basically directly on chain.
+9:309 minutes, 30 secondsYeah. And I think a lot of people o overlook it. They fixate on on the token side the token controls but onchain ID you know is a very important part
+9:399 minutes, 39 secondsselfsour ID and um you know jumping ahead a little bit when we work with regulators around the world onchain ID
+9:469 minutes, 46 secondsactually gets a lot of questions. So it it's good to know that EIP3643 does that include onchain ID or yes it's fully
+9:559 minutes, 55 secondsfully included and um indeed the more we were looking at securities regulations all around the world the more we we found the common patterns basically uh
+10:0410 minutes, 4 secondsand the first thing is rules related to investors. um you need to control their jurisdiction. You are their status, if
+10:1210 minutes, 12 secondsthey are professional investors, qualified, accredited, whatever you call it in depending of the jurisdictions.
+10:1610 minutes, 16 secondsBut um all of this you cannot do it with a wallet, especially if they have several wallets or if someone got their private key and sometimes they don't
+10:2410 minutes, 24 secondseven know. So all all of these rules uh we we needed to properly identify people um individuals or corporates. So um so
+10:3310 minutes, 33 secondsthat was a great great start and now in ERC 3643 you have this two set of holes related to investors and related to the
+10:4110 minutes, 41 secondsoffering at the end. Yeah I I mean I think it's it's brilliant and um I think it's the reason why the the standard is
+10:4910 minutes, 49 secondsso successful um is that decentralized identity and and there was a lot back in 2018 around the centralized identity uh
+10:5710 minutes, 57 secondsthat really never took off. It's actually quietly one of the more successful self-s sovereign identities, right? It almost feels like a motorcycle
+11:0411 minutes, 4 secondswith a sidec car and you know people fix it on a motorcycle. Um and and as you say it's so fundamental. Um people don't
+11:1111 minutes, 11 secondsrealize how fundamental it is in terms of you know uh the claims different KYC claims even one of our crown jewels
+11:2011 minutes, 20 secondswhich is like account recovery is absolutely fundamental in that process and you cannot have it without some sort of self-s sovereign ID. Um so yeah we we
+11:3011 minutes, 30 secondshit uh final status in in December of 23 I think it was and I remember being part of that and that was extremely exciting.
+11:3711 minutes, 37 secondsUm and um you know from there by then we had already started uh the association.
+11:4411 minutes, 44 secondsSo a lot of people ask like how how did we come to create an association? I like to say that there's some like big
+11:5111 minutes, 51 secondsgrandiose plan. Uh but I think it was more of um you know you and I are both very entrepreneurial. We're very
+11:5911 minutes, 59 secondspassionate. We see that there's a lot of need. Um and I think we kind of like just kind of organically said you know this would be better if we had some sort
+12:0712 minutes, 7 secondsof like dedicated group around it. Yeah, definitely. And I think we realize that it's good to push some code but then you
+12:1412 minutes, 14 secondsneed to make it evolve. I mean we we work in the blockchain space. every day you have something new. Um, so it's good to have a first version, but we we knew that other versions will come later on.
+12:2412 minutes, 24 secondsYeah. New regulations as well, etc. So, we needed we needed some help, I guess, to to keep developing this uh from a
+12:3112 minutes, 31 secondstechnical point of view, but also an operational point of view. I mean, we were trying to build an ecosystem, right? So, um, so I guess it was making
+12:3912 minutes, 39 secondssense to to do this nonprofit association on top of the protocol.
+12:4212 minutes, 42 secondsYeah. Luxembourg nonprofit. Um and I think uh we are very uh community focused um which you know from coming
+12:5012 minutes, 50 secondsfrom my finance background is quite rare. Usually you're taught you know keep everything closed up, panning it all up and and keep it for yourself. Um
+12:5812 minutes, 58 secondsand I think we realized that um the community was certainly in need. Um there were conversations we thought we were having um very kind of distinctly
+13:0813 minutes, 8 secondswith different parties that we felt together actually it would be better uh with for themselves. I think it was what
+13:1413 minutes, 14 seconds23 early 23 we incorporated or 22. Uh honestly I'm losing track with
+13:2213 minutes, 22 secondseverything happening. It's it's quite insane. I mean the whole um the world market has totally changed if you just check the last 12 months. So uh so yeah
+13:3013 minutes, 30 secondsit's been a while. I I remember it being around um the FDX collapse because um I was doing a few projects that were
+13:3813 minutes, 38 secondscommunity focused and um you know one of the key challenges for great projects to survive was just connecting with the right parties whether it was clients or
+13:4613 minutes, 46 secondsservices or lawyers whatever and I remember saying uh to you guys you know we're having so many conversations around around the world people just
+13:5513 minutes, 55 secondslooking for resources especially you know around the token and around this whole uh um uh implementation, you know,
+14:0314 minutes, 3 secondswhat if we put them all together and what if we created like a members focused association. Um and so we did
+14:1014 minutes, 10 secondsthat. uh we called the ERC3643 association again very humble beginnings
+14:1714 minutes, 17 secondsright um and uh you know the a large part of the original team is still is still with us right so you know beyond
+14:2514 minutes, 25 secondsuh Luke and myself which do you know the majority of of the the PR the conferences the events we just held in
+14:3114 minutes, 31 secondstoken 249 which was very successful um there's a whole team of people behind us um and I want to give them a huge shout
+14:3914 minutes, 39 secondsout because without them the machine doesn't doesn't run. Um so uh I I'll go first because you know I think Shirang
+14:4814 minutes, 48 secondsum she's absolutely fantastic. Um she has great work. She's you know stretched super thin because of all the stuff now today but she was there with us from the
+14:5614 minutes, 56 secondsbeginning and um she continues to do do great work and you you found her actually. Yeah. Almost seven years ago.
+15:0415 minutes, 4 secondsYeah.
+15:0615 minutes, 6 secondsQuite a journey for sure. uh but yeah I guess we we came already you know with all the partners and clients of token
+15:1315 minutes, 13 secondsinitially and uh big part of our team as well and so it was quite easy to launch and to to bring the right people and and
+15:2215 minutes, 22 secondswe've met and uh and we yeah we started to to make it a nice story um I think we didn't take that much time to reach like
+15:2915 minutes, 29 seconds100 each members now very quickly very quickly we had big we had yeah very relevant members since since the past
+15:3715 minutes, 37 secondslike a few months after we we launched the association. So that's yeah that was very success. I mean and it's been totally organic and um another you know
+15:4415 minutes, 44 secondsJoe Cam obviously huge you know he was the one who actually created uh this standard along with a few others and
+15:5115 minutes, 51 secondshe's still you know helping us on a daily basis and I think overall what what is the team we rough we have we have about like five to six people
+16:0016 minutesfairly dedicated um big uh thank you to tokeny uh obviously that has to be said uh for um giving resources and and some
+16:0916 minutes, 9 secondsof the members give quite a lot of resources as well. My friend Paraguin where we could help. Marcelo, I'll give
+16:1616 minutes, 16 secondshim a little shout out. Danielle, obviously Coher, huge shout out for him.
+16:2116 minutes, 21 secondsUm, and frankly, many, many others that have come and gone um have made this all possible and um you know, the
+16:2916 minutes, 29 secondsassociation that we had um and continue today. So I you know I want to give them a huge thank you uh because you know the
+16:3716 minutes, 37 secondsamount of incoming we have nowadays like people don't realize we run a global enterprise a global nonprofit and when I say global I mean there are weeks where
+16:4516 minutes, 45 secondsuh I'm in London uh someone's in New York someone you know you or Joe Cam are in Asia and Hong Kong someone's in
+16:5316 minutes, 53 secondsSingapore and someone's on a plane flying in between all at the all at the same time um which makes meetings extremely difficult. Yeah. Um but it's
+17:0217 minutes, 2 secondsit's a testament to to what we've built, right? And um the members are very globally distributed. Indeed. And and
+17:1017 minutes, 10 secondswhat I like is that we we s successfully did an association where um you have good outputs like it's not a lobeing association. We're not trying to make
+17:1817 minutes, 18 secondsreports or things like this all the time. We uh we see concrete needs on the market and we we bring the right people around the same table and we fix this
+17:2717 minutes, 27 secondsissues. Like we just finalized a project around crosschain compatibility for 6643 tokens. Huge privacy. I mean everybody's
+17:3617 minutes, 36 secondstalking privacy now. We have three solutions for privacy on the with the RC2643. Um distribution is probably the next big topic. We want to bring some
+17:4517 minutes, 45 secondstransparency to show the ecosystem with the dashboard. So a lot of things ongoing and and we are more and more productive. Oh absolutely. And and on
+17:5217 minutes, 52 secondsthe regulatory side, we have I I think we sent a a a letter to a regulator and we said I think eight different
+18:0018 minutesregulatory buyers around the world, which is unbelievable. Um we've been featured in the UK, in Europe, obviously
+18:0918 minutes, 9 secondsextensively in the Middle East, um in Singapore, uh and recently HKMA in Hong Kong. uh which is amazing that you know
+18:1818 minutes, 18 secondsI think a big benefit of the association is that you know regulatory clarity that we work with the members on um
+18:2518 minutes, 25 secondsaddressing their concerns working with all different lawyer firms to engage um and we're not a lobbyist group you know we don't have a massive uh you know
+18:3418 minutes, 34 secondstreasury to go and you know lobby regulators um I'm proud of that fact because it is so organic I mean many
+18:4118 minutes, 41 secondstimes people will pay PR teams or pay to astro tariff interest in regulators, but actually for us, we are able to run a
+18:4918 minutes, 49 secondslean shop because your interest is so organic both from the membership side and the engagement side. Um, and we constantly get pinged by regulators
+18:5718 minutes, 57 secondsaround the world who want to learn more about it, who want to be educated about it. Uh, we know they are very interested in the standard and we are very
+19:0619 minutes, 6 secondspassionate about making sure the standard is available in every major sandbox in the world. uh and also you know recently in the United States which
+19:1319 minutes, 13 secondswe're which we're looking at to do a lot of stuff and it's great because regulators heard about the standard and also they have large financial
+19:2119 minutes, 21 secondsinstitutions coming to see them and say what do you think if we use this standard because it checks the box that that they need you know who is responsible of doing what and what are
+19:2919 minutes, 29 secondsthe permissions the security there's a recovery process amazing so you can do your custodian job etc so um um when
+19:3719 minutes, 37 secondsit's pushed by large regulated entities absolutely It helps. Yeah. I mean, we have been featured in some pretty awesome um pilot projects with
+19:4619 minutes, 46 secondsinstitutions. Um uh I won't name any of them in case uh but you go online and Google them. Um but some of the largest
+19:5319 minutes, 53 secondsbanks that everyone knows in the world, it's not even just localized to the west, but you know, in Asia and across and and concurrently still uh see our
+20:0220 minutes, 2 secondsstandard as the the de facto standard to to use. uh which is pretty incredible uh considering how little lobbying we we do
+20:1120 minutes, 11 secondsuh again you know it's these institutions coming to us educate them they they see all the benefits of it and they go and adopt and they take it and and I think that's incredible I think
+20:2020 minutes, 20 secondsnow it's it's a proven standard it's audited and we made it super easy to use because of course it's a speed of smart contracts you have like six smart
+20:2720 minutes, 27 secondscontract by default you can add other compliance modules but in one blockchain transaction you deploy the whole thing so actually it's not it's not complic to
+20:3620 minutes, 36 secondsuse. No, actually we've made it very fast and easy. I I I have to say I'm proud I am proud of of that. Um and especially the work you've done there uh
+20:4420 minutes, 44 secondswith the factory. I mean we've kept you know membership does have criteria now because we have so many but you know we've kept membership very easy for the
+20:5320 minutes, 53 secondsright people to join institutions to join. Um we've made the standard openly available and easily digestible. Um and
+21:0121 minutes, 1 secondyou know not everyone does that. Uh which which is a huge credit. Um and I think we're seeing now the benefits of of the association at large. Um we're
+21:0921 minutes, 9 secondsseeing a lot more adoption of the standard a lot more adoption across all asset classes. So a lot of people think oh 3643 used just for private markets
+21:1821 minutes, 18 secondsbut we've seen it from for everything from monies to equities to NFTTS even you could do anything you want in that
+21:2521 minutes, 25 secondsstandard uh which is pretty amazing. Um and we've seen it across all sorts big, small, defy, trady, uh big and large. So
+21:3421 minutes, 34 secondsthere is no like one category for the standard which I'm I'm very proud of. Um and you know even uh entities like uh
+21:4221 minutes, 42 secondsEthereum Enterprise Alliance and the Ethereum Foundation have have taken a note which you know again what are we?
+21:4821 minutes, 48 secondsWe're just, you know, a small team with this, you know, massive uh community and and it's really great to see their
+21:5521 minutes, 55 secondsexcitement and their engagement with the standard as well. Yeah, definitely. And uh and indeed can be used for for so many things. You can tokenize whatever
+22:0322 minutes, 3 secondsyou want and decide what this token represents. If you want to track ownership on chain, this is a standard you can use. for payment systems, for
+22:1122 minutes, 11 secondssecurities, for RWAs, for anything. It can be billion dollars funds or it can
+22:1622 minutes, 16 secondsbe nothing. Yeah, your your Rolex. We had a lot of projects for to tokenize
+22:2322 minutes, 23 secondseverything, but um of course we focus on on good things on token side, but the standard can be used to tokenize anything you want. Right. Right. Yeah. I
+22:3122 minutes, 31 secondsmean, we've seen a lot of aggressive adoption on on on private markets, which is amazing. um because I think that's probably the first port where people see value where they need have needed value.
+22:4222 minutes, 42 secondsUm and I think we've done a great job of understanding why standards are are so important. Um you know one of the things we've also worked with is with ISO and
+22:5122 minutes, 51 secondswith Anna as well um to understand what does financial standards look like in the future and using 3643
+22:5822 minutes, 58 secondsum as an exemplar right of that which is really really exciting and we're trying to connect to the financial ecosystem not not to recreate the standards you
+23:0723 minutes, 7 secondscan find in finance but just to link them to to the blockchain right basically so for example in the 643 you
+23:1523 minutes, 15 secondsalso have what we call asset ID which is nonchain identity but for the asset itself. Yeah. Same codes and the
+23:2223 minutes, 22 secondsidentities for the for the investor. So very convenient to use uh and directly in this asset ID you can add a lot of information certified information the
+23:3123 minutes, 31 secondsLEI for example. So the LEI is this identity for corporates recognized everywhere in the world. Uh now you have
+23:3823 minutes, 38 secondsthe DTI which is some kind of identifier for tokens. Um then you have a lot of information the NAV etc ratings or
+23:4623 minutes, 46 secondswhatever you want. Um so so you you can already deploy tokens easily and reach this tokens with compliance rules with
+23:5523 minutes, 55 secondsdata and then step by step distribute everywhere on blockchain rails everywhere and and on many blockchains.
+24:0224 minutes, 2 secondsUm a very common question I get is well where where is this standard available?
+24:0524 minutes, 5 secondsI mean technically any EVM chain it's available on which is something. Um and I I won't say which ones out of
+24:1224 minutes, 12 secondsconfidentiality, but there are several um other nonVM chains which we actively work with to see uh either a 3643 or
+24:2124 minutes, 21 seconds3643 inspired uh standard. And so that that has also been a big deal is that we've now uh reached out and seen the
+24:2824 minutes, 28 secondsstandard find adoption in in totally different ecosystems which is really really cool uh to see. But I think that goes to the heart of the association and
+24:3724 minutes, 37 secondswhy standards are important. Um because I think people miss that it's not about uh functionally you know building your
+24:4524 minutes, 45 secondsown smart contract that meets all these requirements in a bespoke manner. It's about accelerating adoption so that the next firm or the next institution or
+24:5424 minutes, 54 secondsnext art dealer whoever wants to use a standard doesn't have to reinvent the wheel or have to look at five different ways to make a wheel. They could go this
+25:0225 minutes, 2 secondsstandard is widely adopted. It's great for interop interoperability, right, which we we just did that. Um, because
+25:1025 minutes, 10 secondsthey have the same controls on both ends of the bridge, which is fundamental.
+25:1525 minutes, 15 secondsIt's great for regulators because they have a whole corpus of of precedent now of of work that's been done, review that's been done, uh, which frankly is
+25:2325 minutes, 23 secondsunrivaled from not just 3643, but other than ERC20 or 721, I don't know, I'm not aware of any other EIP that's had this
+25:3125 minutes, 31 secondsmuch scrutiny outside um, on the regulatory front. So, um, it it matters quite a bit in terms of we go to new
+25:4025 minutes, 40 secondsjurisdiction. And I was talking to someone who who had a a new jurisdiction in Southeast Asia and they were like, "Oh, we saw Singapore, we saw Hong Kong
+25:4825 minutes, 48 secondsadopt the standard. Can we import it?" I'm like, "Yes, it's very easy." And here's, you know, a huge email of like 50 links showing you like, you know, all
+25:5625 minutes, 56 secondsthe different reports and and work that's been done. Um, and that gives them confidence because they don't have to readjudicate all the different aspects of the standard. And you know we
+26:0526 minutes, 5 secondsreally can move on from saying well do we really need to invent this in a bespoke way just adopt the standard and move on because you know the standard is
+26:1326 minutes, 13 secondsan ends to a means not of itself. Very often you have new new rules uh or or new countries who wants to to to
+26:2026 minutes, 20 secondsprogress in the in the direction. um you feel that yes is the answer because it's always the same concept you know you
+26:2826 minutes, 28 secondsalways need um to have someone who is responsible for what's going on and to identify properly who are the token holders because they are the the holders
+26:3726 minutes, 37 secondsof the of the asset the owner of the asset so yeah643 works for all of these cases yeah we've had massive success in United Arab Emirates I mean in fact I
+26:4626 minutes, 46 secondsthink we were very smart to focus on there both from our own companies as well as the association. I mean, I think
+26:5426 minutes, 54 secondsuh between you and me and a few others, I think we've presented to every regulator. I there's over like what five
+27:0227 minutes, 2 secondsuh offshores in that in that one country. Um some very prestigious, some very fun, some in between and some very
+27:1027 minutes, 10 secondscrypto, right? Super crypto. And um you know, I think we should actually talk about that because the UAE for our
+27:1827 minutes, 18 secondsstandard has been really fantastic, right? it, you know, whether it's in Dubai or Abu Dhabi or or in between um
+27:2527 minutes, 25 secondswe've seen heavy adoption and use of our standard for all kinds of things. Yes, the energy is quite impressive. I agree.
+27:3127 minutes, 31 secondsYeah. Um I think uh you know the future we'll see for um you know standard or on
+27:3827 minutes, 38 secondsthe regulatory side or jurisdiction side still is in Asia. I think there's a lot of great work to do in Japan and Korea.
+27:4527 minutes, 45 secondsI mean we got a lot of interest from there. Uh we're very encouraged by Hong Kong. I think that's the first step of many uh in in that region. Um and uh I
+27:5427 minutes, 54 secondsthink even South America is very much on board uh to it. So you know in a few you know a few short years you know we'll
+28:0228 minutes, 2 secondsprobably have you know global coverage um at the highest level for really any any use case. I mean I'm aware of use cases from CBDC's all the way down to
+28:1128 minutes, 11 secondsNFTTS. Indeed. Yeah. I think we will um in the next few years we'll we'll keep building with large financial institutions. Right. they will all all
+28:1928 minutes, 19 secondsof them will step by step adopt the standard but hopefully then we will start uh tokenizing good assets in South
+28:2628 minutes, 26 secondsAmerica, Africa, India is finally moving forwards we that's right India we can really upgrade finance and you know a
+28:3428 minutes, 34 secondsbit like like with the internet when in Africa they didn't go to the computer stage directly went to the the mobile phone stage um I think we can do the
+28:4228 minutes, 42 secondssame and upgrade finance in all of the regions where people don't really have access to um to bank accounts or to any investment opportunities. Yeah. And give
+28:5228 minutes, 52 secondsthem the um control and clarity that they need. Um Luke, let's uh let's turn our attention to the the future of the
+28:5928 minutes, 59 secondsassociation because um you know, we just crossed 100 institutional members. Um I think more on the way. Um I think we'll continue to get some really great ones
+29:0729 minutes, 7 secondscoming, some you know, brand names everyone knows across the whole spectrum. I think we'll see some more stuff into DeFi as well. That will be
+29:1529 minutes, 15 secondsvery exciting. Um, but we have a couple of projects um, in the works and one I'm very excited about, uh, which is the the
+29:2329 minutes, 23 secondsT-Rex project. Um, so let's talk about the T-Rex project. Yes. I think the the idea that we already have now, um, a
+29:3229 minutes, 32 secondslarge B2B consortium. Yeah. With all of these companies, financial institutions, loium, tokenization platforms, web
+29:3929 minutes, 39 secondsplayers working all together for the future of the standard. Um and it's like okay it's great but what we want is mass
+29:4729 minutes, 47 secondsadoption. Yeah. So how do we do this? Um and in the same logic that we we open source the protocol now we need to open
+29:5429 minutes, 54 secondsthe community right and and even the governance of all of this. Um so we we needed to find I guess this balance
+30:0230 minutes, 2 secondsbetween um having an efficient governance but open bringing the um seriousness and of of large financial
+30:1030 minutes, 10 secondsinstitutions but still making it available to to the world. Yeah. Um so I think we found this uh this good spot
+30:1830 minutes, 18 secondswhere we're like we have the association who will keep developing the the standards making sure that it works well
+30:2530 minutes, 25 secondsproviding guidelines basically to the RW ecosystem and and now what we are trying to do is to open a community a DAO uh
+30:3330 minutes, 33 secondsthat we call the TRX network. Yep. Why not?
+30:3730 minutes, 37 secondsUm and uh and by the way, let's make it a bit fun. Of course, TX, we can play with this. So, why not? Um I mean, when
+30:4530 minutes, 45 secondsit's fun, people are uh eager to, you know, to learn and to to play with this. So, so it's really what we try to do.
+30:5230 minutes, 52 secondsSo, so now we are launching indeed this uh this DA this community. Um and we'll see how it goes. Um actually we we just
+31:0031 minutesannounced it like a few days ago and in in the last 24 hours we got like 10,000 followers on on ex and on Discord like
+31:0831 minutes, 8 secondsin a day. Um so it really shows that a lot of people want to access this tokenized assets. Um they know that it
+31:1631 minutes, 16 secondshas to be done in in a compliant way. So we not change all the rules bypass all the rules of course but u but we can still make finance more accessible. So
+31:2431 minutes, 24 secondswe we're going in that direction. uh and check network has three main targets.
+31:3131 minutes, 31 secondsWe have the um the asset owners wants to tokenize their assets. We have the application builders
+31:3831 minutes, 38 secondsum and also obviously we have the onchain investors and people wants to access all of this opportunities, manage their portfolio, leverage this in DeFi.
+31:4831 minutes, 48 secondsUm creating onchain finance basically.
+31:5131 minutes, 51 secondsYeah. For for a mass adoption. Um, and so yeah, I I think uh very well said.
+31:5731 minutes, 57 secondsI'm very excited about this. This is clearly the the one of the main key futures of of what we're trying to do.
+32:0332 minutes, 3 secondsAs you said, we'll keep ERC3643 as a nonprofit. Um, we have a lot of institutions there. Um, and that has a lot of serious work with it. And I think
+32:1232 minutes, 12 secondsI think the association has become a more serious endeavor by the nature of who's joined. And you know, I view that almost kind of like the the business
+32:2032 minutes, 20 secondsend. Um, and then I think underneath that there was a larger community that wanted to engage but wasn't sure how with the association kind of taking more
+32:2832 minutes, 28 secondson like this, you know, regulatory, enterprise, institutional focus. Um, and so to me it always made a ton of sense.
+32:3532 minutes, 35 secondsWe've seen other RWA ecosystems, you know, do similar. Um, and uh, I think we're working with a fantastic team internally uh, to realize this dream of
+32:4432 minutes, 44 secondsof of T-Rex, right? and and keep it more fun because at the end of the day, we want we want the community to engage in a way they couldn't before with with
+32:5232 minutes, 52 secondswith the association. So it's it's uh for everyone listening at home uh ERC36 nonprofit Luxembourg we'll keep it as is
+33:0133 minutes, 1 secondand then we're creating this whole new uh project um that is uh international focused um and DAO focused and actually
+33:0933 minutes, 9 secondsto do a real DAO is uh to me extremely exciting uh because at the end of the day we we adopt all aspects of
+33:1633 minutes, 16 secondsblockchain right and I think it's important for us to show uh you know the world that uh you know, you can do a
+33:2533 minutes, 25 secondsresponsible DAO and you can do a Dow focused on on what we're passionate about, which is compliance and control.
+33:3233 minutes, 32 secondsUm and that there's a much bigger community out there than just, you know, large institutions looking to tokenize a a trillion dollars. Um definitely, we
+33:4133 minutes, 41 secondsalways had great engagement um on the GitHub uh in the early days of the association. and we had a ton of projects and I think uh T-Rex is really
+33:5033 minutes, 50 secondsgoing to give us um you know a means to really take that community um and do some really cool things with this
+33:5733 minutes, 57 secondsstandard. I mean certainly and you know this very well standards is still very much in motion. People are continuing to adopt and build on top of standard.
+34:0834 minutes, 8 secondsYeah. And and we want this. We encourage this. We don't say it's a it's a magical standard and you can do everything. we just say it's a it's a solid basis uh to
+34:1634 minutes, 16 secondstokenize assets and then to build applications on top of this and actually the TX network will mostly be an app
+34:2234 minutes, 22 secondsstore available to to all of these users uh depending of what they're trying to do at what stage they are. Um we we need
+34:3034 minutes, 30 secondsto to create an ecosystem that is interoperable technically but also operationally it works well together. uh when a token arrives to a fund
+34:3934 minutes, 39 secondsadministrator or a distributor they need to understand what type of smart contracts it is that it is audited etc like checking the provenence of the
+34:4634 minutes, 46 secondssmart contract without any complexity uh it's exactly what we'll provide and I think it's great to have separated the
+34:5334 minutes, 53 secondsum the community with the um with the association because the association is providing the guidelines
+35:0035 minutesand the community will basically um be a large group of people with skin in the um
+35:0935 minutes, 9 secondsagreeing all together that they will follow the guidelines of the association because if you try to to put everything in the same bucket um I mean it's hard
+35:1735 minutes, 17 secondsfor a large community with people from all around the world different background different to decide anything um so with the
+35:2635 minutes, 26 secondsassociation we we ensure that the protocol we evolve in a right way in a serious way with resources human resources financial resources serious
+35:3435 minutes, 34 secondsinstitutions we have indeed big players Um and this is made available to the community and the community say okay we
+35:4135 minutes, 41 secondswill build on top of that but by respecting the guidelines. Yeah and I think that's hugely exciting because uh I mean building the association what we
+35:5035 minutes, 50 secondshave our channels also our social media channels are overwhelmed on a on a daily basis and you know I give a shout out to
+35:5735 minutes, 57 secondsthe internal team as well. I mean, I know you as well as me, it's it's overwhelming to deal with, but um people don't realize we we actually have a lot
+36:0536 minutes, 5 secondsof channels for uh for T-Rex now that they can engage in. I I I think you mentioned the expos. I think the Discord. What are some ways that if
+36:1436 minutes, 14 secondssomeone's watching this and say, "Oh, well, the association I get that's for like the serious enterprise, you know, suit and tie kind of stuff. I want to
+36:2136 minutes, 21 secondsjust build and and see if I could put my stuff on the app store." How how do they get involved with T-Rex? So the for the association the protocol itself is
+36:2936 minutes, 29 secondsmostly LinkedIn and GitHub and all their developer tools. Uh for the CH network is the community so it's more like and
+36:3836 minutes, 38 secondsthe discord discord channels indeed. Um we'll see how it goes. Uh yesterday the discord almost exploded. So
+36:4636 minutes, 46 secondswho knows who knows next week we will get organized but um but so far yes this is it works. Yeah and I think there's
+36:5336 minutes, 53 secondsgoing to be a ton of exciting stuff. um in that in that discord. I I mean for us I I always say that there's like largely
+37:0237 minutes, 2 secondsthree initiatives, but there's obviously more uh between you and me for all the stuff we do with the association, right?
+37:0937 minutes, 9 secondsWe we've expanded the standard to different versions. We've engaged very serious regulators and standards bodies.
+37:1637 minutes, 16 secondsBut the third one is a a good faction of our association is DeFi focused. And I think it's always was been a square peg
+37:2437 minutes, 24 secondsround hole with the association and some of the more DeFi stuff. And I I think that will fit really well into into
+37:3137 minutes, 31 secondsT-Rex uh in that sense because I think every let down like have a ton of fun.
+37:3637 minutes, 36 secondsUm we're going to meme the hell out of it. Uh it's going to be dinosaurs in suits and boardrooms. Um it's going to be tons of fun and we've seen that with other serious RWA communities as well.
+37:4637 minutes, 46 secondsAnd um I think it'll be a lot of fun on the surface and I think it will attract some very serious talent to really push 3643 uh into the future and the future
+37:5637 minutes, 56 secondsof distribution which we both agree is is clearly in DeFi. Uh some people call it RWAFi or whatever. But uh we don't
+38:0338 minutes, 3 secondswant 3643 tokens sitting dormant on on blockchains. We want them in the middle of it. We want them as part of it. We want them as a a key cornerstone of it.
+38:1338 minutes, 13 secondsYes. The challenge is not to create tokens and to block them in some wallet or at the bank or you know we've seen a lot of initiatives like this over the
+38:2138 minutes, 21 secondspast few years. Uh is to make sure that people use their tokens. Um so defy secondary market collaterization lending
+38:2838 minutes, 28 secondsetc. Um and this is already compatible technically. So there's no we just need people who are smart enough to create a
+38:3638 minutes, 36 secondsgood UIX specifically for this type of assets eventually with the right licenses because with securities you cannot do everything you want. Yeah. Um
+38:4538 minutes, 45 secondsbut we we have all of those people already. We just need to give them a framework where they can all work together and and we step by step we
+38:5238 minutes, 52 secondsbuild an audience of people interested in in that kind of things. Yeah, absolutely. And I think that's been one of our larger underserved audiences is
+38:5938 minutes, 59 secondsis some pretty amazing DeFi protocols who do reach out to us all the time. We have some amazing build teams as well that are are curious. And I think that's
+39:0739 minutes, 7 secondshonestly the future of of the standard, what we build. I think the strength of the standard will show that this is a great starting point and uh whatever
+39:1639 minutes, 16 secondsyour utility is, you know, whether you want to do a hyperlquid uh whether you want to do uh a or unis
+39:2339 minutes, 23 secondsswap or even something even crazier like a yield strategy or whatever, you know, you still want that complian control on on the asset. We got it right here in in
+39:3239 minutes, 32 secondsspades. And um you know we see a lot of uh I think industrywide uh you know the idea of bridging RWA into DeFi is become
+39:4139 minutes, 41 secondsmore and more obvious. Um but I think we saw it months ago from our association and from our community. Our community really was ahead of it and I think
+39:5039 minutes, 50 secondsthat's really what's exciting about the community. They tend to be six to nine months ahead of where everyone else is in this space. So true, it's absolutely
+39:5839 minutes, 58 secondsworth joining just just for that to be in the zeitgeist of of RWA, you know, on the heartbeat of it. Um, and for for D5
+40:0640 minutes, 6 secondsprotocol is great because you you don't have much to do. I mean, there are ERC20 tokens on steroids, but you don't you don't need that much to do. The world
+40:1440 minutes, 14 secondscompliance part is built in in the token. So actually, you can focus on what your app is doing without really thinking about the compliance rules.
+40:2240 minutes, 22 secondscompliance roles are already there and coded defined by the issuer of the token. So you don't even need to worry about that. It's a runaway train. Yeah.
+40:3040 minutes, 30 secondsyou know, I mean, basing things on on standards which don't have uh the composibility or or the uh control of
+40:3840 minutes, 38 seconds3643 I view as uh very risky, you know, and I even think friendly regulators who would even tolerate a permission to
+40:4640 minutes, 46 secondspermissionless conversation would really bulk at the fact that you have no way to shut shut the thing down or or or control it. at the end of the day, you
+40:5440 minutes, 54 secondsknow, especially in the cases where you're doing with securities, um, you need to have some sort of regulatory control or some sort of maybe not regulatory control, but just some way to
+41:0241 minutes, 2 secondslike, you know, handle things. And I think we saw, you know, what disasters can be with poorly constructed protocols, poorly constructed uh,
+41:1141 minutes, 11 secondssynthetic stable coins, algorithmic stable coins. Um, we've seen a lot of um, you know, attempts with RWA to
+41:1941 minutes, 19 secondsembrace synthetic stable coins or protocol stable coins. Um, we'll see whether that works out or not. I know the teams behind them are are very
+41:2641 minutes, 26 secondstalented and smart. Uh, but you know, we've had talent and smart teams have some pretty disastrous consequences and we we don't want another teruna
+41:3541 minutes, 35 secondssituation happening with with RWA where you know, everyone ran to uh to this and got it wrong. Um, and so I think that's
+41:4241 minutes, 42 secondsanother big benefit of of both uh the T-Rex uh community um and the DAO is, you know, really helping guide that in a
+41:5041 minutes, 50 secondsresponsible way. and I think being the key linkage and and I think this is unique among the entire landscape. I don't think there's a L2 or L1 that does
+41:5941 minutes, 59 secondsthis particular aspect of it from our community. Um, and I'm very excited to kind of accelerate that with with the T-Rex project. Yes. And now we launched
+42:0742 minutes, 7 secondsthis app store where we already have a lot of applications already already live actually because provided by different
+42:1442 minutes, 14 secondsmembers of the ecosystem uh to issue tokens to manage this tokens to to get access to the catalog of all tokens uh
+42:2242 minutes, 22 secondsto index blockchain data for our WAS uh we have all of these tools already available we just need to dashboards.
+42:2942 minutes, 29 secondsAnother big thing we get asked about all the time is, you know, uh, you 35 billion in assets tokenized on on 3643.
+42:3642 minutes, 36 secondsWell, can I can I go to rwa.xyz and and see it? And and I'm going to turn to the camera here. Yes, we have been asking
+42:4442 minutes, 44 secondsabout it. It it it's not an easy thing for us actually um because of the nuances of who uses it. Not everyone wants to market to, you know, put it to
+42:5242 minutes, 52 secondsprice. But I think one of the big uh things we'll do with T-Rex Network is is create those dashboards and really index those projects because by the nature of
+43:0043 minutesit, they're they're comfortable being more public. Um but uh the 35 billion is is actually probably a conservative
+43:0743 minutes, 7 secondsestimate across public public and private chains. I believe it captures uh which is pretty pretty amazing. So you know, we're getting you a dashboard.
+43:1543 minutes, 15 secondsIt's coming. Um but um there was some other big news. I'm conscious of time.
+43:2143 minutes, 21 secondsUh there was some other big news this week. Luke, would you would you like to share your your big news this week? Yes, why not? With pleasure. So um um Apex uh
+43:3043 minutes, 30 secondswhich is a large fund administrator, probably the largest privately owned fund administrator. So they they administrate uh $3 trillion of uh of assets. So it's not an asset manager.
+43:4243 minutes, 42 secondsThey do the the servicing. So everything to to manage a fund like accounting, reporting, transfer agent, etc. Um so so
+43:5143 minutes, 51 secondsbasically Apex is um as as a golden copy of all of these fonts. They are responsible of making sure that the cap
+44:0044 minutestable of this font the register is correct. Yeah. Um when they are subscriptions, redemptions, transfer etc. Um and this large player is very
+44:0944 minutes, 9 secondsvisionary. Um they're a member of the association for u members. Yeah. Um and
+44:1644 minutes, 16 secondsuh and yesterday we announced that they um acquired the token majority stake in token uh which is a software provider.
+44:2544 minutes, 25 secondsas some of the co at token as well. Um and and what it means for the ecosystem is that now we have this large player um
+44:3344 minutes, 33 secondsadministrating 20,000 phones something like this owning a lot of different entities all around the world 13,000
+44:4044 minutes, 40 secondspeople 50 countries they own a bank they own a lot of different things. Uh so they they have a large ecosystem and now
+44:4944 minutes, 49 secondsthey are fully supporting 3643 and they want to upgrade their ecosystem to blockchain rails. I love that. So that's
+44:5544 minutes, 55 secondswhat we're gonna we're gonna do. Um we'll see how long it takes, but uh but now with this uh with this acquisition, we have all the means to to make it
+45:0445 minutes, 4 secondshappen. Yeah, I think it's incredibly exciting. Yeah, my firm Pagan, we use Apex. They're a phenomenal team. We use them both in Abu Dhabi and Hong Kong. Um
+45:1245 minutes, 12 secondsbased out of Bermuda. Um I can't think of a no better steward of than Apex for token future. I think it's tremendous. I
+45:2145 minutes, 21 secondscongratulate uh Peter and the team and you guys on this. Um I think it cannot be understated how big this is for the
+45:2945 minutes, 29 secondsindustry. I think it paints a a bright future for the association, a bright future for the T-Rex project and a bright future for for token. And it's
+45:3845 minutes, 38 secondswhat the ecosystem is because when you have an asset to tokenize it, it's quite complicated. You need to find lawyers, you need to find a technology provider,
+45:4645 minutes, 46 secondsyou need to find a fund administrator. A lot of work. Usually you need to find a jurisdiction because it's still still complex. Um so with with this
+45:5545 minutes, 55 secondspartnership with Apex supporting the protocol basically you have end to end chop to make it happen. you know, it's it it's truly super scale for for for token and and for uh the association.
+46:0646 minutes, 6 secondsAnd I think that's really been the the big hockey stick moment is where can we find critical mass and you can't find critical mass without an apex, right?
+46:1546 minutes, 15 secondsThey are they are like basically the uh you know uh the warehouse the de facto warehouse for all fun admin work
+46:2246 minutes, 22 secondsworldwide. It's like a a scale of economies of scale that they've achieved that few have. Um, and so by championing
+46:3046 minutes, 30 seconds3643, um, this will just take us to a whole another stratosphere of of potential.
+46:3646 minutes, 36 secondsUm, so I think it's incredibly exciting news. I I know you guys were working really hard on it behind the scenes and um and big congratulations to you and
+46:4346 minutes, 43 secondsand the token team and and uh really looking forward to Apex helping us uh uh in the future with the association and
+46:5046 minutes, 50 secondsand the T-Rex project. It's a great achievement for for the team for sure.
+46:5446 minutes, 54 secondsUm but for for the whole ecosystem, I think because as you say, it's a it's just the beginning. Yeah. Yeah. Well, Luke, thank you so much for coming on
+47:0347 minutes, 3 secondsthe, you know, first episode of the 3643 podcast. So grateful that I got to do this with you and uh lots more to do in
+47:1047 minutes, 10 secondsthe future. So Luke, thank you so much for coming today. Yes, thanks to you.
+47:1347 minutes, 13 secondsGreat to see you and uh and and we we should do that more often. It's fun.
+47:1647 minutes, 16 secondsYeah, we absolutely should. Maybe we'll meet at an airport one day. Why not? Thank you.
+47:2247 minutes, 22 seconds[Music]
+
+All
+
+For you
+
+Recently uploaded
+
+Watched

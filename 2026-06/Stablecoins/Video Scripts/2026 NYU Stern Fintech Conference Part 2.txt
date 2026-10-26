@@ -1,0 +1,1377 @@
+Transcript
+
+
+Search in video
+0:07
+[GENTLE MUSIC] KATHLEEN DEROSE: Iñaki Aldasoro is a Principal Economist at the Bank for International Settlements,
+0:12
+and he joined the BIS in 2016.
+0:14
+Previously, he worked as a consultant for the European Systemic Risk Board,
+0:19
+the European Central Bank, and the International Monetary Fund.
+0:22
+He's the author or co-author of multiple papers on the adoption of both artificial intelligence
+0:26
+and the policy implications of stablecoins.
+0:30
+So today, he's going to share his insights from his seminal paper on stablecoin growth
+0:34
+and the implications for our financial system.
+0:37
+So, Dr. Aldasoro, over to you.
+0:39
+IÑAKI ALDASORO: So, first, good morning or good afternoon, everyone, depending on where you are.
+0:44
+Thank you, Kathleen and the rest of the organizing team at NYU Stern,
+0:47
+for giving me a chance to present this paper today.
+0:50
+I'll be talking about stablecoins and their links with safe assets
+0:54
+based on joint work with Rashad Ahmed, who is with the Anderson Institute.
+0:59
+And before I begin, let me remind you of the usual disclaimer,
+1:01
+that it's whatever I say today represents my views
+1:04
+and not necessarily those of the Anderson Institute,
+1:07
+nor those of the Bank for International Settlements.
+1:10
+There's going to be quite a bit of continuity with the presentation that Ronit just made.
+1:14
+So he did quite a bit of the legwork that allows me to skip discussion
+1:19
+of what stablecoins are and how they look like in general,
+1:23
+as the general state of the market today.
+1:26
+So we put out this paper, the working paper, the first working paper version.
+1:32
+We just updated it, but with the very first one around April last year, I think.
+1:36
+But, of course, the issue really took off a bit later as the Genius Act
+1:39
+moved through its legislative process and was finally approved in July.
+1:44
+This also became very clear in Ronit's presentation.
+1:48
+In fact, well after we put the paper out,
+1:50
+high-ranking U.S. officials came out with very explicit statements
+1:54
+about the issue we explore in the paper.
+1:56
+Here you can see a couple of those quotes, one by Treasury Secretary Bessent,
+2:01
+done around the passage of the Genius Act,
+2:03
+and then another one by then Fed Governor Myron in a speech delivered in November.
+2:08
+The emphasis here is mine, and it's basically there to highlight the themes
+2:13
+that we tried to study in this paper,
+2:16
+which we see as a sort of a first attempt to add some empirical grounding
+2:20
+to the discussions that started some time ago,
+2:24
+and then got a boost through the passage of the Genius Act.
+2:31
+Now, attention to the market we think is warranted, of course,
+2:34
+as probably became very clear from Ronit's presentation,
+2:36
+given the growth of the market and the centrality it takes
+2:38
+as part of the U.S. new strategic direction.
+2:41
+But most importantly, because with the largest stablecoins being pegged to the dollar
+2:44
+and putting their largest share of reserves in Treasury bills,
+2:50
+I mean, not that much for the case of Circle,
+2:52
+but still either Treasury bills or repos by Treasury bills,
+2:56
+stablecoins are already today an important play in Treasury markets,
+2:59
+both from a stock and a flow perspective.
+3:01
+In the graph on the left, we plot the major holders
+3:04
+of short-term U.S. Treasury securities as of the end of last year,
+3:09
+where you can see that stablecoins stand on par
+3:11
+with the largest government money market funds and also major jurisdictions.
+3:15
+And then on the right, we plot purchases over 2024,
+3:18
+so flows rather than stocks.
+3:21
+Sorry, over 2025.
+3:23
+And here, the image is even more stark.
+3:26
+So indeed, dollar-backed stablecoins purchase almost $40 billion
+3:30
+over the course of the past year,
+3:32
+similar to the largest U.S. government money market funds
+3:34
+and larger than most foreign purchases.
+3:37
+So this is not an exact one-to-one mapping to what Ronit showed you.
+3:39
+We are focusing explicitly on the three-month market here.
+3:45
+That's why the role of stablecoins is even larger than what he showed.
+3:49
+And I talked about that.
+3:50
+We'll talk about that in a second.
+3:52
+So what we do in the paper is try to quantify this.
+3:55
+We're trying to quantify the effect of stablecoin flows on Treasury bills.
+3:58
+And we do this using local projections.
+4:02
+We focus on the three-month T-bill rates in most specifications
+4:06
+because this is the preferred habitat of stablecoin issuers,
+4:10
+before G-news by real preference,
+4:12
+post-G-news by regulatory requirement
+4:15
+or potential regulatory requirement
+4:17
+when it gets expressed in concrete regulations.
+4:23
+In the paper, we discuss why if one were to do this
+4:26
+through a simple univariate local projection
+4:28
+of changes in three-month T-bill yields on stablecoin flows,
+4:31
+this would deliver bias estimates.
+4:34
+We document the extent of this bias.
+4:36
+And indeed, we show that naive linear projections of this type
+4:39
+will deliver implausibly large estimates
+4:41
+on the order of 25 basis points.
+4:43
+Decline in T-bill yields for every 3.5 billion increase
+4:47
+in stablecoin inflows,
+4:48
+which is roughly two standard deviations in our sample.
+4:52
+And for perspective, this would be in the ballpark of a Fed rate cut,
+4:54
+which is obviously unrealistically high.
+4:57
+So what we do is we include virus controls.
+4:59
+We control for the rest of the yield curve,
+5:01
+both forward and recent.
+5:02
+We include Bitcoin and Ether prices
+5:04
+to control for overall crypto market sentiment and developments.
+5:08
+We control for T-bill issuance.
+5:10
+So we build a daily time series of T-bill issuance.
+5:13
+We control for flows into money market funds,
+5:15
+a competitor in terms of demand for T-bills.
+5:19
+Also flows into treasury-billed ETFs.
+5:21
+And we also control for monetary policy shocks,
+5:23
+which we compute as standard in the academic literature,
+5:28
+looking at changes in three-month OIS rates
+5:31
+on a 30-minute window around FOMC meetings.
+5:35
+When we include this set of controls,
+5:36
+then the estimates go down by an order of magnitude
+5:38
+to the tune of two to four basis points.
+5:41
+But then to better identify the effects,
+5:43
+we also implement an instrumental variable approach
+5:45
+to try to instrument for stablecoin flows
+5:47
+using a daily version
+5:49
+and an enhancement of a crypto shock series
+5:52
+that we propose in another paper with BIS and ECB colleagues,
+5:57
+which delivers what we consider as our baseline effect.
+6:00
+And this ranges from 2.5 to 3.5 basis points,
+6:04
+which is more or less comparable
+6:05
+to what the literature has found for small-scale QE.
+6:10
+We do a good chunk of robustness checks
+6:14
+to the baseline results in terms of controls.
+6:17
+I'm going to be talking about a few of those.
+6:19
+I think the one I would like to highlight the most
+6:21
+is the fact that the effects that we find
+6:23
+are not there for yields in other tenors, basically,
+6:27
+outside of the three-month tenor.
+6:29
+I'll talk a bit more about that in a few minutes.
+6:33
+Then our baseline effect tends to be relatively large
+6:37
+when we stack it against evidence from the literature
+6:39
+for other treasury market investors.
+6:41
+So then what we did in the updated version of the paper
+6:44
+is we took a cue from recent work by Stein and Wallen
+6:47
+and Dabernas and Vanderveer at the Journal of Finance,
+6:50
+and we investigate state-dependent effects
+6:52
+by looking at liquidity regimes
+6:53
+based on the overnight repo facility at the Fed
+6:58
+as well as the prevalence of concerns
+7:01
+around the debt ceiling.
+7:03
+And the idea here is to try to split the sample
+7:06
+into low-liquidity periods and high-liquidity periods
+7:09
+along the lines of what these papers do.
+7:11
+And indeed, we find that effects are large
+7:13
+when liquidity is low, and they are small
+7:15
+and statistically not significant in general
+7:17
+when liquidity tends to be high.
+7:20
+So let me briefly tell you about the data sources
+7:23
+we are using for you to have an idea
+7:24
+what the sample looks like,
+7:25
+and then I go through some of the graphs
+7:27
+and some of the descriptives.
+7:29
+We have daily data that runs from January 2021
+7:31
+to March 2025.
+7:34
+We consider the largest six U.S. dollar PEX stablecoins,
+7:38
+which we then aggregate into a single number,
+7:39
+and then for which we compute the five-day change.
+7:42
+As I mentioned, we consider Bitcoin and Ether prices.
+7:45
+We consider the entire U.S. treasury yield curve,
+7:48
+build a series of daily treasury issuance.
+7:51
+And then from Bloomberg, we take money market fund flows
+7:54
+and treasury ETF flows.
+7:56
+And then we use tick data to construct
+7:57
+the monetary policy shock series.
+8:00
+And then as I mentioned earlier,
+8:01
+I would like to spend a bit more on the shock series.
+8:04
+We use this daily, we call it crypto shock
+8:08
+for want of a better name.
+8:10
+It is effectively the unforecastable component
+8:12
+of the Bloomberg Galaxy Crypto Index.
+8:15
+So what we do, which is by the way,
+8:17
+for those who are not familiar,
+8:18
+it's an index that collects a lot of crypto prices,
+8:21
+not stablecoin.
+8:22
+It doesn't include, doesn't have any input
+8:23
+from the stablecoin side of the crypto world.
+8:27
+And what we do is we try to purge
+8:29
+financial market developments from this index
+8:31
+through a simple supervised learning algorithm.
+8:34
+To do this, we use information on the VIX,
+8:36
+so Volatility Index, the CT Economic Surprise Index,
+8:40
+the S&P, oil prices, gold prices,
+8:43
+nominal effective exchange rates,
+8:45
+three-month yields as well, the term spread,
+8:47
+and also the Financial Condition Index from Goldman Sachs.
+8:50
+And on top of that, we also use previous observations
+8:53
+of the index itself.
+8:54
+And whatever remains unexplained
+8:56
+in terms of developments of the index,
+8:58
+after accounting for all of these things,
+8:59
+is what we consider our crypto shock series,
+9:01
+our instrument.
+9:03
+And the goal of this exercise is to capture
+9:05
+basically idiosyncratic crypto variation
+9:07
+that is unrelated to broader traditional
+9:09
+financial market conditions,
+9:11
+but could be used as a plausible instrument
+9:13
+for stablecoin flows.
+9:15
+Then we construct a series of shocks,
+9:16
+and then we take the cumulative sum
+9:18
+and then use it to instrument for stablecoin flows.
+9:21
+Now, this slide gives you a measure of the growth
+9:23
+of the segment of the stablecoin market that we study.
+9:27
+For this audience, I would imagine the graph
+9:28
+on the left is very well known,
+9:30
+and Ronit actually gave you exactly this graph.
+9:34
+So let me focus on the one on the right
+9:35
+that just gives you the treasury yields in our sample.
+9:38
+And here, the only thing I would like to highlight
+9:39
+is that the sample, despite being relatively short,
+9:43
+it actually captures quite a bit of action
+9:46
+in the treasury market.
+9:47
+We have the hiking cycle, we have the pause,
+9:49
+we have the subsequent decent period
+9:51
+that began around mid-2024.
+9:53
+We also have an episode of a clear curve inversion,
+9:56
+as well as you can see most notably
+9:58
+through the dark blue line going from the bottom
+10:00
+to the top of the yield curve complex.
+10:05
+These couple of graphs here give you
+10:06
+the stablecoin flows that we use in the analysis.
+10:10
+Aggregate on the left, the same,
+10:11
+but just split by stablecoin on the right.
+10:14
+Here, the booms and busts of the market
+10:16
+are clearly visible.
+10:17
+I will not go into detail,
+10:19
+but one could also clearly identify specific events
+10:22
+such as FTX, Terra Luna, SBB.
+10:26
+So those are clearly visible in terms of outflows
+10:29
+or rotation out of Tether into Circle
+10:32
+in the case of Terra Luna
+10:35
+and out of Circle into Tether in the case of SBB.
+10:38
+Stablecoin flows are positive on average
+10:40
+during our sample period,
+10:42
+and they are also highly volatile.
+10:44
+And of course, as you can see in the right-hand panel,
+10:46
+the largest contributors to total stablecoin flows
+10:49
+are USDT and USDC,
+10:50
+which is not surprising
+10:52
+given the very large market share that they have.
+10:56
+This gives you an idea of the cryptoshocks.
+10:59
+On the left panel,
+10:59
+we have the raw daily cryptoshock series.
+11:02
+It is very volatile with little or no autocorrelation whatsoever,
+11:06
+which suggests that the shocks are plausibly exogenous.
+11:10
+However, if we were to use them in the raw form,
+11:12
+they may not properly reflect periods of persistent
+11:15
+crypto booms and busts
+11:16
+that are typically associated with large changes
+11:18
+in the demand for cryptocurrencies
+11:20
+and therefore in the demand for stablecoins,
+11:23
+because as also Ronit made clear,
+11:25
+they have established themselves
+11:27
+as a sort of a settlement asset within crypto space,
+11:30
+and they tend to correlate quite strongly
+11:32
+with crypto activity.
+11:35
+In the right-hand panel,
+11:36
+what we do is we show the cumulative sum version
+11:37
+of the cryptoshocks,
+11:38
+and this cumulative series does not exhibit any trendy behavior,
+11:43
+which is good,
+11:44
+but at the same time does exhibit persistent booms and busts,
+11:47
+which is also good because this is the kind of activity
+11:49
+that we want to capture in terms of the instrument.
+11:54
+We argue in the paper more extensively than I will do here
+11:57
+that the shocks are a useful instrument for stablecoin flows
+12:00
+because they satisfy the typical two conditions
+12:02
+that an instrument needs to satisfy,
+12:05
+namely relevance and exogeneity.
+12:06
+With regards to relevance,
+12:08
+the cryptoshocks should be positively correlated
+12:10
+with stablecoin flows,
+12:11
+and this is what we show in this table
+12:13
+in what is usually referred to as a first-stage regression.
+12:17
+In column one,
+12:18
+we do the first-stage regression
+12:20
+using only aggregate stablecoin flows,
+12:22
+and then columns two and three show the split
+12:24
+for USDC and USDT, respectively.
+12:28
+Overall, cumulative cryptoshocks are significantly
+12:30
+and positively correlated with stablecoin flows,
+12:33
+and then we also have robust F-statistics
+12:37
+that are quite large,
+12:38
+which suggests that the risk of having a weak instrument is low.
+12:42
+And then we also argue that the cryptoshocks
+12:43
+satisfy exogeneity conditions as well.
+12:46
+Here, we argue that, to be sure,
+12:50
+the crypto market capitalization has grown quite a bit
+12:52
+and has stalled over the past six months to some extent,
+12:56
+but roughly $3 trillion, give or take,
+12:59
+is still dwarfed by traditional financial markets,
+13:02
+which suggests that shocks in cryptocurrency markets
+13:04
+are unlikely to have a systemic impact
+13:07
+and systematic impact in the market for U.S. treasuries,
+13:09
+which currently stands at roughly $35 trillion.
+13:13
+And then to further support this exogeneity condition,
+13:15
+I think it's also worth noting that cryptoshocks,
+13:19
+the way we construct it,
+13:20
+are the unforecastable component of cryptocurrency prices,
+13:24
+so it is unlikely for these shocks
+13:26
+to have any meaningful causal impact
+13:28
+on treasury bill pricing,
+13:29
+except through the stablecoin demand channel
+13:31
+that we try to document.
+13:35
+And then also in the revised version of the paper,
+13:38
+we also show that they are unrelated
+13:39
+to potential confounders, such as MMF flows, FCIs, and so on,
+13:43
+and that the instruments themselves
+13:44
+have predicting power for stablecoin market cap,
+13:46
+for future stablecoin market cap growth
+13:47
+and also future Bitcoin returns.
+13:51
+So let me now provide some first evidence
+13:53
+of the link between stablecoin flows and treasury yields
+13:57
+and doing this by looking at four case studies.
+14:00
+Two of these case studies represent outflows,
+14:03
+that is the collapse of Terra Luna
+14:05
+and the collapse of FTX in May and November 2022, respectively,
+14:10
+and two represent inflows or more recent events,
+14:13
+that is the US election in November 2024,
+14:17
+and then the issuance of the Trump meme coin in early 2025.
+14:24
+So what we do in this graph
+14:27
+is to summarize the evidence from these case studies.
+14:29
+So let me try to walk you through the graphs.
+14:31
+The first row gives you stablecoin flows and treasury yields.
+14:35
+The second row gives you crypto shocks and the FCI,
+14:39
+the Financial Condition Index of Goldman Sachs.
+14:41
+If you focus now for a time being on the first row,
+14:45
+this will show you the behavior of stablecoin flows
+14:47
+and the three-month treasury yields
+14:48
+relative to the six-month treasury yields
+14:51
+around the events.
+14:51
+We do it in a relative sense here
+14:53
+to try to see where there is any differential change
+14:55
+in the three months relative to the vicinity, basically.
+15:00
+The thick blue line that you see
+15:02
+represents the average across all these four events,
+15:04
+and then the solid blue lines give you the inflow events,
+15:07
+and then the dashed light blue lines
+15:09
+give you the outflow events,
+15:10
+and we multiply the latter by minus one
+15:12
+so that then we can show all together into a single graph
+15:14
+that we can interpret in a straightforward way.
+15:17
+Now, clearly, after these events,
+15:21
+on average, stablecoin market capitalization
+15:23
+goes up quite a bit to the tune of 10 billion,
+15:26
+and the three-month yield decreases,
+15:28
+treasury yield decreases quite a bit
+15:31
+relative to the six-month yield,
+15:33
+whereas before the events, both were rather flat, right?
+15:36
+And then in the lower row,
+15:37
+what you see is that the cumulative crypto shocks
+15:41
+kick in, basically, around the events,
+15:43
+which makes sense, or they pick up.
+15:45
+So these are seen as a positive crypto shock
+15:49
+or a positive boost to stablecoin, to crypto,
+15:51
+and therefore stablecoin demand.
+15:54
+And financial conditions remain rather flattish.
+15:57
+I mean, there is, to be sure,
+15:58
+like a small dip in financial conditions,
+16:00
+but this is also mechanical to some extent,
+16:02
+given that rates themselves feed into the construction,
+16:05
+are a subset of a very large superset of variables
+16:10
+that feed into the construction
+16:11
+of the financial condition indices.
+16:15
+So then we go about presenting more formal evidence
+16:17
+through local projections,
+16:19
+where, as I mentioned before, we include controls,
+16:21
+we include an instrument.
+16:23
+The idea here is that we aim to trace
+16:25
+the dynamic impact over time of stablecoin flows.
+16:29
+We are gonna do this all the time,
+16:31
+scaled to the two standard deviations,
+16:33
+which is roughly $3.5 billion of stablecoin inflows
+16:36
+in our sample.
+16:37
+And we want to assess the impact of this over time
+16:41
+on three-month treasury yield yields,
+16:44
+again, after controlling for a bunch of things
+16:46
+and also using an instrument
+16:47
+to get around potential endogeneity
+16:49
+between stablecoin flows and treasury yields.
+16:52
+I mentioned the controls and the instrument
+16:54
+in some detail before,
+16:55
+so let me skip over all of the symbols here
+16:59
+to just go straight to the results
+17:01
+to make sure that I'm able to present those
+17:04
+with a bit more time.
+17:07
+Now, this figure gives you the local projection
+17:09
+impact response function
+17:11
+after including controls on the left,
+17:13
+and then after incorporating on top of the controls,
+17:16
+also the shock series of the instrument
+17:19
+that I was discussing as an instrumental barrier
+17:21
+for the stablecoin inflows on the right panel.
+17:24
+So let me focus on the one on the right,
+17:27
+which is our preferred specification
+17:28
+because we're basically throwing the entire kitchen sink
+17:31
+in terms of trying to kill the effect.
+17:34
+So this is the one that includes controls
+17:37
+and the instrument.
+17:38
+And here we estimate that a 3.5-hour stablecoin inflow
+17:42
+will compress three-month T-bill yields
+17:44
+by about 2.5 to 3.5 basis points.
+17:48
+The bands are wider,
+17:50
+so it's less precisely identified,
+17:52
+but it's more or less similar
+17:54
+to the one only with controls.
+17:56
+So overall, the results point to substantially smaller effects
+17:59
+once one takes into account endogeneity concerns.
+18:04
+When we compare it to the naive version
+18:05
+of the 25 basis points,
+18:06
+the effects are considerably attenuated
+18:08
+already after including quite a large set of controls,
+18:12
+and they are also further,
+18:13
+if only slightly attenuated,
+18:15
+after including the instrumental barrier.
+18:18
+Now, as I mentioned earlier,
+18:20
+we do a bunch of robustness checks
+18:22
+that address potential concerns about the approach.
+18:25
+Here I will focus on only two,
+18:27
+but we have like four or five more in the paper
+18:30
+for those that are interested.
+18:32
+And by the way,
+18:33
+the paper has been already updated in the BIS website,
+18:36
+so that's the latest.
+18:39
+We've done a few changes after that,
+18:41
+but I think it's reflective of where the paper stands today.
+18:46
+So the first thing that we do
+18:48
+is we test where the effects on yields
+18:50
+are limited to the tenor
+18:51
+that is associated with stablecoin issuers.
+18:53
+I prefer Habitant.
+18:54
+Again, historically,
+18:56
+in most of our sample finishes before Genio,
+18:59
+so this was before investment
+19:01
+in a certain maturity range was mandated by legislation.
+19:06
+But before that,
+19:07
+the market had already converged
+19:10
+towards using three-month T-bills
+19:14
+as a weapon of choice, basically,
+19:17
+for parking reserves.
+19:20
+So what we do is we test the effects of stablecoin flows
+19:23
+on longer-term yields.
+19:25
+And the way we go about this
+19:26
+is by replacing effectively the three-month yield
+19:29
+as a dependent variable
+19:29
+with all of the other various tenors.
+19:33
+And the figure here gives you the case
+19:36
+where we look at the regression with controls
+19:39
+and with the instrument,
+19:40
+so our preferred specification.
+19:42
+And then we use one month, six months, and one year,
+19:45
+so that's the upper row,
+19:46
+and then two-year, five-year, and ten-year yields
+19:50
+following the same type of shock in terms of size,
+19:54
+so 3.5 billion stablecoin inflow.
+19:57
+There is a very mild effect on the one month,
+19:59
+which is not surprising
+20:01
+because there is some investment in the one-month bucket,
+20:04
+although most of it is in the three-month bucket.
+20:05
+And there is basically no impact for the others.
+20:08
+So these results are also consistent
+20:10
+with the impact of stablecoin flows
+20:11
+being concentrated among T-bills,
+20:13
+which are the securities that they directly purchase.
+20:17
+The estimates do point to some impact on the 10-year yield
+20:21
+after about 15 days, 15, 20 days.
+20:23
+We suggest the possibility
+20:24
+of some indirect spillover effect to selected maturities,
+20:27
+and this is something
+20:28
+that I think we probably would want to explore
+20:31
+further going forward.
+20:34
+A second thing to note
+20:36
+is that the effects will differ
+20:37
+as a function of liquidity regime.
+20:38
+That's the thing that I foreshadow
+20:39
+in my summary slide at the beginning,
+20:42
+kind of a takeaway slide.
+20:44
+In other words, the effects are state-dependent.
+20:47
+And the idea here is that
+20:48
+when the system is in states of relatively low liquidity,
+20:51
+then the effects are going to be strongest.
+20:53
+And in contrast,
+20:54
+when the system is in states of comparatively high liquidity,
+20:58
+the effect is either much more muted
+20:59
+or entirely, or vanishes, basically.
+21:03
+It becomes statistically insignificant.
+21:06
+As I mentioned earlier,
+21:07
+the way we go about this is to take inspiration
+21:08
+from a couple of recent papers in the Journal of Finance
+21:11
+and do two things.
+21:12
+We first look at regimes
+21:14
+based on whether the overnight reverse repo facility
+21:17
+is increasing or not.
+21:19
+That's the upper row here.
+21:22
+We take the 60-day change
+21:23
+to capture more sort of protracted liquidity regimes
+21:27
+rather than daily noise.
+21:28
+And this is, again, what we show in the first row.
+21:31
+We look at periods of no growth on the left,
+21:34
+which includes also periods of decline,
+21:36
+and then periods of growth on the right,
+21:39
+which is usually associated with lower liquidity.
+21:41
+And clearly, the effects are much stronger on the right
+21:44
+and become even insignificant,
+21:46
+or are insignificant on the left,
+21:49
+even though the median point estimates
+21:51
+do point, again, to a negative effect.
+21:54
+But the bottom line here from the first row
+21:56
+is that when you have low liquidity in the market,
+21:59
+then the effects of silicon inflows
+22:00
+can be substantially larger.
+22:02
+The effect on three-month T-bill rate
+22:04
+can be substantially larger.
+22:05
+The second thing that we do
+22:07
+is we look at Google Trends data
+22:09
+to have a continuous measure of intensity of concerns
+22:13
+around the debt ceiling during an hour sample.
+22:16
+And then after we have this daily time series,
+22:18
+then we take periods where the indicator
+22:19
+is below five on the left
+22:22
+and then above five on the right,
+22:24
+so less concerns on the left,
+22:26
+more concerns on the right,
+22:28
+which captures, if I recall correctly,
+22:30
+four big episodes during our sample
+22:32
+of debt ceiling standoff.
+22:35
+And again, when concerns about the debt ceiling
+22:37
+are strongest,
+22:38
+and hence when liquidity in the market
+22:40
+is usually taken to be shallower,
+22:42
+the effects of instrumented stablecoin inflows
+22:45
+on treasury yields are,
+22:48
+stablecoin flows, sorry,
+22:49
+on treasury yields are strongest.
+22:52
+Now, before wrapping up,
+22:54
+let me move to a broad discussion of implications.
+22:57
+And first and foremost,
+22:58
+what does this mean in the bigger scheme of things?
+23:02
+So Ronit was talking about their forecast for the market.
+23:06
+So in the paper,
+23:08
+we take the Treasury Borrowing Advisory Committee forecast
+23:13
+that they put out around the time
+23:14
+in which we were publishing the first version of this paper,
+23:17
+which now I understand, I think, much more better,
+23:19
+or much better than actually comes from Ronit and his team.
+23:24
+That's kind of the roughly 2 trillion market cap.
+23:27
+In that case, when we look at it, it was 2028.
+23:31
+Based on our estimates with controls,
+23:35
+with the instrument,
+23:36
+we can do a back of the envelope calculations.
+23:40
+You can check the details in the paper
+23:41
+about how we can come about this estimate,
+23:43
+which is such a simple,
+23:44
+it's just a simple indicative exercise.
+23:47
+And it's not just like a simple extrapolation.
+23:49
+It requires some assumption
+23:50
+about how volatility of stable conflows grows
+23:53
+with market size as well.
+23:55
+But be that as it may,
+23:57
+basically come up with an estimate that is,
+23:58
+you know, in the nine to 12 basis points range.
+24:03
+I think there are a couple of caveats here
+24:05
+that one needs to discuss,
+24:07
+and some of them were also foreshadowed by Ronit as well.
+24:11
+So the first one, which was not foreshadowed,
+24:13
+stems from the state-dependent results
+24:14
+that I was talking about, right?
+24:16
+So it seems that the equity conditions in the market
+24:19
+matter quite a bit when it comes to assessing
+24:21
+the effect of stable coins on treasury markets,
+24:25
+on treasury yield and the T-bill market.
+24:30
+So one should not forget this because,
+24:32
+you know, the market has been subject
+24:33
+to periods of severe illiquidity
+24:35
+and some dysfunctionality,
+24:38
+which has required interventions in the past.
+24:41
+And second, that of course,
+24:43
+and this is something that Ronit was foreshadowing
+24:46
+when he mentioned the issue of net demand for treasuries,
+24:49
+is that an exercise like the one I just presented you
+24:53
+in terms of having some ballpark estimate
+24:56
+of the impact of a certain growth in the market
+25:00
+on treasury bills, treasury bill yields,
+25:04
+implicitly assumes that all of that additional demand
+25:06
+for stable coins will come from funds
+25:08
+that are not currently directly or indirectly
+25:11
+holding treasury bills,
+25:12
+such that, you know, a growing stable coin market
+25:14
+effectively represents full net new demand
+25:17
+for treasury bills.
+25:21
+So what is nice for us in the context of this paper
+25:23
+is I think that this is a very reasonable assumption
+25:26
+from what we have seen so far over the past years,
+25:29
+where the market grew kind of organically
+25:33
+with a lot of, you know, retail money
+25:37
+and some small pockets of institutional money,
+25:39
+but institutional money that is not already invested
+25:42
+in treasury bills either directly or indirectly,
+25:47
+say through a money market fund
+25:48
+or an ETF that invests in treasury bills.
+25:51
+Now, I am, so this is a reasonable assumption,
+25:55
+I think, for the stock take up to today.
+25:57
+I'm not so sure, and I'm actually somewhat skeptical
+25:59
+that this will be true going forward,
+26:01
+especially if you remember Ronit's very first slide
+26:06
+when he was talking about the expectation
+26:09
+that institutional demand will grow
+26:11
+and will be a driver over the next five years,
+26:14
+which is a common theme you hear often,
+26:16
+which I find very sensible.
+26:17
+The likelihood that that type of money
+26:19
+is already invested in treasuries,
+26:21
+it's higher than what we have seen so far.
+26:23
+So I'm, so one should take, you know,
+26:25
+these estimates that we provide,
+26:27
+this back of the envelope estimates
+26:28
+with a grain of salt.
+26:30
+Be that as it may, I think our estimates suggest
+26:32
+that a growing stable coin market
+26:33
+may eventually suppress short-term yields
+26:35
+to an extent that meaningfully influences
+26:37
+the transmission of Fed monetary policy
+26:39
+to market-based yields.
+26:41
+The paper also has some policy implications.
+26:45
+First on reserve transparency.
+26:47
+I think these policies are set to interact
+26:50
+with stable coins growing footprint in treasury markets.
+26:53
+Here, the usual example, you know,
+26:55
+just think of how different is the visibility
+26:57
+that we have on some issuers versus others.
+27:03
+Then monetary policy is also set to interact
+27:05
+with the role of stable coins as treasury investors.
+27:09
+Going back to what I just said a few minutes ago,
+27:11
+in a scenario where stable coins become very large,
+27:14
+stable coin driven yield compression
+27:15
+may weaken Fed control over short-term rates.
+27:18
+And this is not just a theoretical
+27:20
+kind of a thought exercise.
+27:22
+We saw some things not that different
+27:26
+with the Greenspan conundrum a couple of decades ago
+27:28
+when the Fed's monetary policy was not transmitting
+27:30
+as expected to longer-term treasury yields.
+27:34
+And at the time, this was largely attributed
+27:35
+to outsized foreign investor demand
+27:37
+for treasury securities,
+27:38
+which was affecting treasury market prices.
+27:41
+And then of course,
+27:42
+there are also financial stability implications
+27:44
+that arise from stable coins
+27:45
+becoming large investors in treasury markets.
+27:47
+For one, stable coins remain a runnable instrument.
+27:53
+I have other work on this as well.
+27:56
+And they could subject the market
+27:58
+to fire sets potentially.
+27:59
+And here I should also like to point out
+28:01
+that our estimates are likely a lower bound in this regard
+28:06
+because they are estimated mostly
+28:07
+with the growing market.
+28:08
+In such a setting,
+28:09
+there is some leeway in timing your purchases.
+28:12
+When you have fire sales, however,
+28:13
+there is no such scope for discretionary timing
+28:15
+because the liquidation of assets
+28:17
+must be done on the spot to meet redemptions.
+28:19
+So there is some potential asymmetry here
+28:21
+in the effect on yields
+28:21
+and this can have important implications
+28:23
+for financial stability.
+28:25
+And finally, I think more generally,
+28:27
+our paper contributes to document effectively
+28:31
+the growing footprint of stable coins in treasury markets
+28:33
+and how this continues to blur the lines
+28:35
+between crypto markets and traditional finance.
+28:38
+So with that, let me stop there
+28:40
+and thank you all for your attention.
+28:42
+DEROSE: Thank you so much, Iñaki.
+28:44
+This was fantastic.
+28:45
+And I think one of the USPs of this conference
+28:47
+is actually hearing from both experts
+28:50
+from both the practitioner and commercial world
+28:52
+and from the academic world.
+28:54
+So combining those two perspectives,
+28:55
+I think you just validated
+28:57
+a lot of the earlier speakers' projections
+29:00
+and also raised some really interesting topics.
+29:02
+So hopefully this is very useful and informative
+29:05
+for our audience here
+29:07
+as institutional use cases develop,
+29:10
+as we see the impact on our financial system
+29:13
+and many other implications
+29:14
+that I think people will take away.
+29:15
+So thank you very much.
+29:17
+Really appreciate it. [GENTLE MUSIC]
+

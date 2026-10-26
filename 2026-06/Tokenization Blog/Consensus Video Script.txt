@@ -1,0 +1,585 @@
+
+Search in video
+0:12
+Larink and Rob Goldstein said in December to the economist that ledgers
+0:17
+haven't been this exciting since the invention of double entry bookkeeping. For context, it's the accounting system
+0:24
+developed by Italian merchants in the late n 13th century over 700 years ago
+0:30
+that records every financial transaction twice as a debit in one account and a
+0:35
+credit in another. I bet it sounds familiar. On one hand, we have CEO of the world
+0:41
+largest asset manager over 10 trillion AUM being that excited about blockchain tokenization. On the other, we have to
+0:49
+ask the question, who even wants tokenized AWAs anyway? And today with my lovely panelists, Nicola, Christian, and
+0:56
+Evan, we're going to answer that question. So, please briefly introduce yourself and help me with filling out
+1:03
+the sentence. The strongest real buyer of tokenized airw.
+1:10
+Nicola, why don't you start? Well, if we're starting with uh double book entry accounting, the panel can
+1:15
+only go up from here. So, uh, um, my name is Nicola White. I'm the VP of
+1:20
+crypto institutions at Robin Hood and also the GM of Bitstamp, which is our exchange product. Um, you know, spent a
+1:28
+decades in traditional finance before this and then made the move over to crypto primarily because I was really
+1:34
+enticed by the technology. Um, and so, Marson, to answer your point on on who's
+1:40
+using it today, I think we're seeing mostly institutions use it today. um in terms of of RWAs specifically around
+1:46
+tokenized money market funds um and you know really more efficient use of of
+1:52
+collateral um and that's what's been the main driver but really excited about what's coming next which is you know
+1:58
+tokenized equities whether it be public or private um and also you know various other use cases from art to real estate
+2:05
+I know everybody's not very excited about real estate today but I I think longer term that those are some of the things that we're talking about.
+2:12
+Beautiful. Thank you, Christian. Hi, my name is Christian. I'm heading uh global go to market for uh crypto for
+2:19
+Mastercard. Been with the company for 14 years, so not cryptonative by definition. Uh started my career in
+2:26
+traditional finance and then moved to technology. Um back to your question, I
+2:31
+would agree it's an institutional play for now. Um and I hope that it sort of
+2:38
+you know moves into more mainstream consumers and we we will cover that in the panel you know uh giving more
+2:44
+optionality and choice what I can spend what I can borrow against. Yeah. Beautiful. All right Evan.
+2:50
+Yeah. Uh Evan Oyang uh president of Animoka Brands. Uh we are an operating investing and advisory company uh in the
+2:57
+web 3 space. We're known for gaming as a start but we're no longer just in gaming. We're in multiple multiple
+3:04
+verticals including AI DPIN RWAS um and uh and and many other um sort of
+3:11
+verticals. Now um if you ask about RWAS I'll dive straight into it and basically
+3:17
+to say that the use case with RWAS is yet to come meaning that the adoption
+3:24
+yes institutions for now they're preparing for it but it is really the time right now to reimagine what the
+3:31
+future looks like with RWAS when you talk about uh sort of like you know the the ledger and all of that blockchain
+3:37
+itself is just a ledger right ultimately but what it does is that through the blockchain you're connecting in global liquidity. That's the meaning from it.
+3:44
+Now the most important thing for audience to understand is that there are quarter of the world's adult population
+3:50
+that are unbanked. This is the time alongside AI to connect the world right
+3:55
+with investing. There are private credit and there investment instruments all
+4:01
+over the world that are inaccessible completely right with this what we can see alongside AI the agents that you can
+4:08
+deploy into it the chain that puts you in the wallet it connects the language of investing together that actually puts
+4:14
+and democratizes financial access right and also you talk about 24x7 atomic
+4:20
+settlement liquidity alongside stable coins then what you get is that you can actually invest 10 Hong Kong dollars in
+4:26
+yield on an hourly basis. That's deeply deeply meaningful to us and that's why we're in the space. We can go a lot more
+4:32
+into it, but uh uh this is about on boarding the masses. You're talking about billions of people being able to
+4:39
+use your bank, which is your mobile phone in the future and deploying AI agents into it and it's going to be a
+4:47
+touch of a button. Everybody can do it. Fantastic. So, we have two institutions
+4:52
+and one like global distribution. Maybe let's ask our uh audience like raise your hand if you're holding or has ever
+5:00
+held any RWA in your wallet or any account. Okay, so we can see it's probably like
+5:06
+10% of the audience which shows probably like the institutions at least for now are the current players and the global
+5:13
+distribution is here to come. So I believe we had this three phases in tokenization. First stable coins
+5:19
+tokenizing the dollar and global currencies. Then treasuries we've seen it with Black Rockck Viddle, Vanic Vibil
+5:25
+and many other uh aspects out there. Now there is private credit, stocks and many
+5:30
+other categories. Which of those show real demand in terms of like pull or
+5:36
+push? Is it commodities, real estate as you mentioned, invoices, trade finance? What are you the most interested in in
+5:42
+2026 and years to come? Nicola, I I would say, you know, right now what we're seeing from our clients in terms
+5:49
+of uh demand is definitely on the tokenized stock side of things. So, uh
+5:55
+about 6 months ago, we launched our first tokenized product, which was uh tokenized listed equities in in Europe.
+6:02
+Um Europe was a really great jumping ground for us because there was clear regulation that allowed us to start
+6:09
+offering our clients multiassets in the region. So, you know, we had a crypto license. Um, you know, it really allowed
+6:15
+us to expand from not only crypto but to listed equities and ETFs and it also
+6:20
+allowed us to break down barriers, right? So, you know, European clients had a hard time getting access to US
+6:26
+equities and and that type of exposure and this was a really easy way to do that. It also came along with many other
+6:33
+benefits, you know, from fractionalization to 245 trading. You know, a lot of our a lot of our
+6:38
+customers get home from work and want to invest. they don't want you and traditional markets are closed. So
+6:44
+having the ability to offer them that liquidity outside of of regular market hours was really important to us and
+6:49
+continues to be important to us as we look to move to 245. Um but I think that
+6:54
+was definitely more of a of a pull than a push use case. And I think you're seeing that also with private equities.
+7:00
+We know that there is massive demand in the market for retail clients in particular to get access to private
+7:06
+markets as as companies start to stay private longer. Um, and so those are kind of some of the use cases we're
+7:12
+seeing from a poll perspective. Excellent. So, uh, trading stocks over the weekend, for example, which is like
+7:17
+a great use case, Christian. Um, I think what we and and as Mastercard, you wouldn't be surprised
+7:23
+that we typically come from a payment angle of sorts, right? And and we see that the ability to uh either use all
+7:32
+sorts of digital assets and typically at this point would be financial assets. So, it wouldn't be tokenized real estate
+7:37
+or art or anything, but the ability to say, "Okay, I want to put down stock or Bitcoin or Ethereum and I take a fiat
+7:45
+line of credit against it and then I can use that money to spend it." I think that is very interesting and that was
+7:52
+not possible before and with all you know very automated liquidation methods
+7:57
+you can make it nothing in life is risk-f free but you can you can make it uh almost risk-f free and then I think
+8:04
+what is also really exciting or the way um there is exciting if I have sort of
+8:12
+very risk minimal yield bearing assets like tokenized money market funds when there's a market where I can you know um
+8:19
+basically liquidate them in real time, spend them via card. So um um that that could be very interesting uh
+8:25
+complementing what we have today in terms of uh you know spending stable coins but then again I think the market
+8:31
+is not there uh in the sense that you know I can offramp immediately I still have these time delays so it doesn't
+8:37
+feel we're there uh in terms of I tap my card you know u money market fund is is
+8:43
+sold and I spent essentially uh spend stable coins so that's still ahead of us
+8:49
+but I think that is very interesting because then Again, we can offer optionality and choice what people want
+8:55
+to spend, what they want to borrow against. And we've we've come so so far in in the
+9:01
+payment side of things. I think people still forget that we're very reliant on the underlying rails. Like if you have a
+9:06
+tokenized money market fund, treasuries norm like still settle T+1. Yes, you can get T plus 0 settlement, but like not
+9:12
+after 1 p.m. Eastern. So I think, you know, we've come a long way, but there's still a lot more to go as as the
+9:19
+underlying rails need to need to come along for the ride, too. Yeah. Beautiful. Like making like more efficient and like truly globalized from
+9:26
+the get-go. Uh Evan, yeah. Um I I agree with Nicola. We're the first innings, right? If we're
+9:32
+talking about RWA is talking about uh uh trillions of assets going to onchain, which is inevitable. I think this panel
+9:38
+obviously believes in that. we're really at the um first first second of a
+9:43
+24-hour day. It's literally like that early. Now, if you look at the the the the the direct answer to your question
+9:50
+about what's what what's being bought today, it's really money market funds that are on chain because it's easy. Um
+9:56
+and uh and the other one is a home equity line of credit by figure, right? I mean, a lot of the RWA market is is
+10:01
+figures out uh you know, it's a it's a it's a very simple uh private credit
+10:06
+kind of an instrument. uh you have a track record as natively on chain and and the reason it's so um sort of that's
+10:13
+a dominant asset right now is because they've been early right and uh obviously Annie Mocha is is a is a
+10:18
+partner to figure and we believe in sort of Mike Kney's vision in distributing these these assets right but if you go
+10:25
+forward what's going to be interesting is that there are lots of players again if you look at even just around here in
+10:30
+this part of the world Chinese players looking at the RWAS right and we're looking into obviously here in this
+10:36
+region um uh at some point in time there'll be stable coins issued as well, right? And that would connect the realms
+10:42
+of RWBAs into sort of what are investable assets and a lot of players thinking about a lot of differentiated
+10:48
+assets. Right? Now what is interesting is that you know you people think about stocks, bonds and you know uh real
+10:55
+estate and all of that that can come on chain that would connect global liquidity. for example, somebody in
+11:00
+Japan can seamlessly purchase something in, you know, Hongjo Real Estate, for
+11:05
+example, if you really want that um seamlessly, right? You can do that. But there's a lot of underlying rails that
+11:12
+needs to needs to be created in order for that to happen in order for a seam seamless transaction to happen. We're
+11:18
+not quite there yet, right? But what is going to be very interesting are actually not just these assets. The
+11:24
+assets that people actually have some passion uh in collecting. For example, Animoka has tokenized the Aris Katarina
+11:32
+which is a you know you know 910 million instrument and over time that instrument
+11:39
+actually appreciates over time because it's a piece of antique right you fractionalize it becomes an investable
+11:45
+asset right and you get participation and people get it right people in who are in music may not get Bitcoin but
+11:51
+they get sort of why you invest into that there are other cultural assets that could be invested into you can
+11:56
+invest into football clubs Right? You can invest into basketball teams, right? For share of that profit. Again, the
+12:03
+regulatory rails once they come in because people feel that passion. You can also do things like concert tickets.
+12:09
+Individual concerts are being tokenized. It's just just this whole asset class is
+12:14
+coming in is well beyond just traditional financial assets, right? And the wave is coming, right? And we
+12:20
+haven't even gotten the AI yet. Yeah. Like haven't gotten even to the AI yet. That's a good closing over here on
+12:25
+that one thought because technically you can tokenize everything right the at the end of the day it's the question about
+12:31
+utility and also making sure that what's actually been on chain is uh helpful for the clients as striking statistics is
+12:38
+that 60% of currently tokenized are the yield bearing versions so the stocks
+12:44
+forex and many other categories are still to pick off pick up but I do believe there's going to be a very
+12:50
+strong demand in those with redstone as an oracle we usually look at the pricing and how uh the market is moving uh on
+12:58
+the traditional race versus offchain because when you look for example on the gold price over the weekend or silver
+13:04
+commodities then naturally you can have discrepancy of special specific tokenized asset versus the underlying
+13:10
+commodity at large but we are privileged to have three speakers from different parts of the world Nicolola US Christian
+13:16
+in the Europe and Evan in the Asia looking at those regions like which one do you believe is going to see the
+13:23
+biggest pickup of tokenized assets and why is it going to be some regulatory uh
+13:28
+limitations or maybe facilitation or uh the users are going to be more u
+13:35
+awaiting this tokenized asset in specific categories and countries. What do you think? Well, I mean as the as the US resident
+13:42
+here, I would say we're we're definitely uh you know take taking up the rear of the pack. Um, I think as like everybody
+13:49
+has probably mentioned this week, we're still waiting on clarity um to make any real kind of progress on on tokenized
+13:55
+RWAS. Um, I I think you know from a European perspective, there's been a clear path for years now. So, that's
+14:03
+been a natural place for us to kind of jump off in in our tokenized offerings. Um, and and you know, Asia, I would say,
+14:09
+you know, Evan probably knows this better than anybody, but led the pack originally before even before European
+14:14
+regulations. So um we have a lot of work to do in the US but I'm I'm excited about what could come and and what we
+14:20
+could unlock. But yeah, but I believe uh Robin Hood has has been also very interested in Europe, right?
+14:26
+Like when you did the whole announcement of the tokenized stocks last year at ECC and K that was in France, right? How do
+14:32
+you look at US versus Europe in that regard like in the for coming months at least?
+14:37
+I I think the Europe is a really great place for us to to kind of stress test
+14:42
+what we're doing um for our clients. you know, really work out a lot of the um you know, various uh operational issues
+14:49
+along the way. Um so, so for us, it's been a great a great place to kind of get involved and and get used to the
+14:56
+product and really, you know, get ready for hopefully, you know, if you look at Poly Market, I I think um there's a 60s
+15:02
+something percent chance that clarity is going to pass. Hopefully that that is true. I think the market could use a little bit of positive news these days.
+15:09
+Um but uh but yeah, I I would say Europe's been a really great place for us to work through some of the
+15:15
+operational issues, make sure we know how to scale the product for for when we have our our US launch.
+15:21
+Beautiful. Uh Christian, I would agree. So your field's most mature when it comes to the regulatory
+15:27
+framework. Um but then I think if you want to move the needle in financial services in in on the institutional side
+15:34
+quite likely that's going to happen or continue to happen in in the US right so
+15:40
+this this is where uh yeah a a lot of the relevant players sit this is uh
+15:45
+where a lot of um um institutional uh capital is allocated. So again from from
+15:52
+our side we see um Europe being advanced uh but very curious to see what what
+15:58
+happening in the US once clarity is there. um Asia also very interesting.
+16:03
+But if I compare it to Europe where you essentially have 400 million um uh
+16:09
+people living in a in a single European payment framework where you have portability of licenses uh both on the
+16:16
+traditional financial uh side as well as on the on the crypto crypto and digital asset side it's just a very homogeneous
+16:23
+market. So if you're like a company like uh Robin Hood pit stem you go in there and essentially you know out of Slovenia
+16:30
+you can speak to everyone right from Portugal uh to Poland right um so I
+16:35
+think that that makes it a lot easier. Yeah. Yeah. Like being a Paul I can tell you
+16:41
+that access for example to tokenized T bills or stocks in the US is not so straightforward. I'm a user of Robin
+16:47
+Hood for example and I'm very much looking forward for the further expansion of that side. Evan
+16:53
+um yeah I mean let's be let's be clear right the capital base is in the US right and uh also uh traditionally for
+17:00
+years and years the capital for innovation right not only Silicon Valley but New York so a lot of great companies
+17:07
+come out of cover US that's always going to be relevant now that's sort of I would say that US is a giant that's been
+17:13
+awakened because of the new administration looking into it people might have criticisms about how it's
+17:18
+being done but overall the trend is about being regulatory like friendly understand how to regulate
+17:23
+it. So that that's the part that's really real about it, right? But in terms of sort of if you talk about
+17:29
+doiciles, credible obviously US um uh different cities uh I think New York
+17:34
+that help is going to be very important but if you look at uh uh other places uh Hong Kong is a very credible um uh
+17:41
+itself right here right because of the regulations all office coming in think about uh especially think about RWAs and
+17:47
+Hong Kong as a capital window for China. So Hong Kong needs to be the the the
+17:53
+center that facilitates the capital flow. That's why everything through Hong Kong and Hong Kong is also becoming one
+17:59
+of the hot IPO markets. It's sort of everybody saying Hong Kong is back which is great to see everyone here as well.
+18:05
+And also Singapore, right? Singapore has always been very thoughtful about regulations about stable coins about you
+18:11
+know their share of as well. good for financial center but we haven't mentioned Middle East right that is very
+18:17
+important as well because there you got sort of what I would call there's not as
+18:22
+much baggage in terms of it being the the most important financial center in the world so it's always competing for
+18:29
+that part of liquidity ultimately it's about which doiciles captures that liquidity now Dubai has already captured
+18:36
+a lot of talent and ADGM on Abu Dhabi side is really becoming that center that
+18:41
+has that thought leadership that other regulators look to, right? It's very important. Now, I don't know where Europe is going to be, honestly.
+18:47
+Obviously, always thoughtful in regulations, but liquidity, innovation always sort of from my perspective, you
+18:53
+know, come on, let's let's let's go faster, right? But of course, you have great talent there as well. But this is
+18:59
+ultimately looking at sort of the convergence of innovation of sort of where liquidity is going to be. But
+19:06
+ultimately, we have to think again, you know, a little bit differently, right? I mean
+19:12
+I I mean I I talk about reimagining the f reimagining the future right when we
+19:17
+think about that it's no longer really about the doiciles that matter right it's about so how do these regulation
+19:24
+actually converge in a way right now you don't even have stable coin regulations that allow crossber trade right so that
+19:31
+needs to happen before for autobay to happen well as well so the future really when it's connected onchain will be more
+19:38
+in a decentralized manner not necessarily through centralized exchanges Okay, that's a world where you
+19:43
+can see lots of AI agents being deployed onto it and you really allow for financial inclusion in that kind of a
+19:50
+construct. But but I think one of the things we have to do is we need to work with regulators because if one of the things that we're seeing is is you know
+19:56
+regulators try to bring some of this on onshore right so whether you're a European stable coin and you need to
+20:03
+hold the cash in European banks like those are the things that kind of limit the crossber you know payment nature
+20:10
+right is and so we really need to work with regulators to educate them about why it's so important to be able to
+20:16
+seamlessly move money across borders really interesting so my take is on one
+20:21
+hand we have uh globalization everywhere around Spotify, Netflix, we use the same apps h we eat the same food pizza,
+20:28
+sushi, kebab and so on but finance has always been segregated in those siloses
+20:33
+like in countries in Europe oh my god like we had so many currencies right now at least we have euro that is somewhat
+20:38
+unifying and one thing about regulators I'm very curious about is to see what's going to happen when we are going to see
+20:44
+the first bigger failure and to bring you something to your attention maybe not everyone has saw about this fat
+20:50
+finger issue when Paxus mistakenly minted $300 trillion worth of PayPal USD
+20:58
+PYUSD during an internal transfer error. The amount was nearly twice the size of
+21:03
+global GDP and was burned after 30 minutes. Right? That was like exactly the fat finger uh problem that sometimes
+21:10
+you see in uh finance. How regulators are going to approach that? Right? Because it's a very much um according to
+21:16
+the book stable coin issuance. Okay. Okay, now going strictly to your areas of expertise. Nicola, we had some
+21:23
+interesting news about Robin Hood layer 2 today. Um, this chain is explicitly
+21:28
+created for tokenized asset issuance and DeFi composibility. How do you see institutional RWAs actually converging
+21:35
+with DeFi like Moro, Spark, A and so on? And where does the convergence break?
+21:42
+Yeah, that's a that's a great question and I I think you know from an institutional perspective, we're really
+21:47
+just starting on this journey. Um, and so there's a lot of education that's going on, right? You have institutions
+21:53
+that have been, you know, steeped in in processes and procedures for decades and we're really trying to get them to jump
+22:00
+to what the next level of technology looks like and innovation. Um, and so I I think where we're going to start is at
+22:07
+the infrastructure layer, right? What are things they can get comfortable with? they can get comfortable with onchain issuance. They can get
+22:12
+comfortable with DVP and atomic settlement, right? Things where they have risk in the market today and
+22:19
+they're really looking to reduce that risk. I think where it's going to take a little bit longer um for the two worlds
+22:24
+to converge is definitely at the application layer. So, you know, right now institutions are used to KYC and AML
+22:32
+and strong controls around compliance. I think that's a place where it's going to take them longer to get comfortable with
+22:39
+what the DeFi world looks like. Um, and and one of the places where we're going to just need, you know, better better
+22:46
+technology, better infrastructure. We're going to need to bring some of the learnings. I mean, look, there's been a lot of mistakes made in traditional
+22:52
+finance and in crypto. to your point, um, we we need to bring some of those best-in-class controls to the space so
+22:59
+that we we we, you know, get rid of some of those fears that they have about this DeFi space and um, and we actually teach
+23:06
+them about the benefits and uh, the efficiencies of the product. So, do you believe this year I will be
+23:13
+able to go to Robin Hood chain and borrow USDC against my Tesla stock or
+23:19
+it's not going to be there yet? Well, we just announc announced testn net today, so we have some work to do. Um, you
+23:25
+know, that's definitely our our goal would be that we're able to offer tokenized assets on the Robin Hood
+23:31
+chain. Um, you're able to to essentially pledge those assets as collateral, lend against them. Um, but, you know, early
+23:38
+days yet. Today's day one, we announced test net. So, if you're if you're looking to build on Robin Hood chain, it's out there for you to do it today.
+23:44
+And, uh, and there's going to be a lot more announcements about what we have planned later in the year. Beautiful. We'll definitely monitor
+23:50
+that. Christian, Mastercard is a huge company, $450 billion of market cap as I
+23:56
+checked recently. Actually, it's uh almost twice as much as Ethereum market cap right now. Uh as a as a fun fact, it
+24:03
+touches 3.5 billion card holders. Here's the real question. What does an ordinary
+24:09
+person actually get if Mastercard puts tokenized asset on its network? Better yield on savings or maybe instant
+24:16
+international payments, lower fees? What's the most important? Wow. Um, yeah. So, I think one one
+24:22
+important thing is to notice or to point out that nobody cares really how they pay, right? That it's just you have to
+24:29
+do it, right? You want to buy something online, you want to split a meal with people and you just today the
+24:35
+best-in-class user experience, you have a card sitting on your iPhone or your Android and you just pay it and people
+24:41
+typically don't even have to worry about, you know, what's happening in the background. And I think that is uh you
+24:47
+know core belief that needs to inform what we what we also do in in payment
+24:53
+when it comes to using digital assets. However, if as a consumer I going
+24:59
+forward have the ability to say I'm in my Robin Hood app or whatever and I can say okay please first deplete my USDC
+25:07
+euro whatever all my stable coins and then if I should run out of money I want
+25:13
+to I don't want to spend my Tesla stock but I want to take a fiat loan against it or I want to you know every money all
+25:22
+the money that I have um that I don't need right Now I put it in a tokenized money market fund but should I be should
+25:29
+I want to spend it I want to be able to spend it and even today if it's a tokenized money market fund I wouldn't
+25:35
+be able to spend it because settlement would be you know T+1 or whatever or T plus one and a half um and our mission
+25:45
+is essentially to work with with industry partners whether it's wallets exchanges fintex banks to give consumers
+25:52
+more choice what kind kind of assets they want to spend, what kind of assets they want to borrow against in order as
+26:00
+to use the global Mastercard payment network uh for safe, simple, secure
+26:05
+payments. And in that sense, for me, crypto is just an extension of fintech,
+26:11
+right? Fintech was the first time when we tried to make banking and payment a bit more like you you mentioned Spotify
+26:19
+and Netflix where before it felt a bit like a fax machine, right? Um and this
+26:25
+first generation of uh of fintech I think was a trailblazer putting your user experience mobile first you know at
+26:33
+at the center of the discussion and today we are at a point where the very essence of money or or assets can be
+26:41
+digitized and that opens up a whole lot of new opportunities what we can do with
+26:47
+that and then it's not for us to basically determine what you should or should not do as as long as it's
+26:53
+compliant, safe, and and secure, we we will offer it or we will work with
+26:58
+companies that offer it because again, nobody nobody has a card issued by Mastercard. It would be a a uh you know,
+27:07
+Robin Hood card. It would be a Revolute card, a Deutsche Bank card or whatever. And then all these players out there
+27:14
+like an Animo mocha card obviously uh um they they can choose what they want to
+27:20
+build in in this global framework. So I think that that's a bit our strategy if that makes sense.
+27:26
+Beautiful. I think there is also a strong statement I can share over here as well. In five years every fintech
+27:32
+company is going to be crypto company like every rails maybe not go ultimately only on chain but both of them are going
+27:38
+to interact like seamlessly with each other. Um, we are going towards the end of the pan, but Eva, I ser want to hear
+27:43
+your voice on Animoka invested over 600 blockchain companies and now you're expanding aggressively in stable coin
+27:49
+and RWAs. What does a regular consumer actually want from tokenized assets that
+27:55
+they cannot get from traditional finance currently? Um,
+28:00
+you you don't get you get you don't get the access you get a brick bulk, right? We talked about this earlier, right? Uh
+28:06
+Robin Hood's going for what's obviously stocks and the assets that you have on on chain. Mastercard trying to connect
+28:12
+payments using blockchain rails. I mean right now you get a you get a um you get
+28:18
+a problem where uh banking is essentially inaccessible, right? We have
+28:23
+moved again from sort of fiat based money from cash to digital wallets. Now you go to like we're in this part of the
+28:29
+world. Hong Kong used to use credit cards and people complained about taxis not having you know electronic payments.
+28:34
+You go to China, you don't even carry your wallets. You pull pull out your wallet and give them cash, people look
+28:40
+at you funny, right? Don't you know it's it's all electronic and and whatever amounts you have left in in terms of uh
+28:46
+on your digital wallet, you can invest it, right? It's already completely digitized, right? And that that's part of it's kind of like leaprogging in a
+28:53
+lot of ways, right? Now, if you look at the future, your wallet is going to be on chain. It's going to be on your phone, right? and KYC will be on
+29:00
+decentralized ID and then uh you have you know 10 12 agents uh you know doing
+29:06
+different things for you copy trading right uh accessing private credit markets uh uh accessing the new Dubai um
+29:14
+uh real estate tokenized real estate that you know in that good area they're in right so the world needs to be
+29:21
+reimagined in this way right and finance is reimagined I think a lot of banks are
+29:26
+now getting into the space because there's going to be a big disruption even for that for for banks ultimately
+29:31
+it's about the the cost right atomic settlement 24 by7 other than other other than T plus2 that is ultimate pool
+29:39
+ultimately I would say I'll conclude with this right why is there going to be adoption why do we believe in it why are
+29:45
+we going to the RWA because it makes sense ultimately if you just look at
+29:50
+nothing in terms of accessibility look at the transaction cost associated with using blockchain rails for settlement
+29:57
+and uh the the the the access to customers you otherwise have. This is just right for disruption. If you look
+30:03
+at the internet in 1996, right, you're like, okay, there's no one there. But
+30:10
+even like, you know, today, you can't leave home without your mobile phone. Beautiful. And I think that's a
+30:16
+fantastic closing statement. Tokenization lowers the cost, increases accessibility, and makes assets 24/7 all
+30:24
+over the world. And ultimately everything is going to go there and we are going to work next years to make that happen and a reality globally.
+30:30
+Thank you very much for that panel and thank you for the panelists.
+

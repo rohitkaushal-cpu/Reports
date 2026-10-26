@@ -1,0 +1,1426 @@
+0:00
+Welcome to the deep dive. Today we're
+0:02
+really digging into two huge EU
+0:05
+regulations impacting Luxembourg's
+0:07
+financial sector. That's right. We're
+0:08
+talking Micah, the markets and crypto
+0:10
+assets regulation and DORA, the digital
+0:13
+operational resilience act. Yeah, big
+0:15
+topics. So, we've looked at the
+0:16
+regulations themselves, the Luxembourg
+0:18
+laws, putting them into action and um
+0:21
+the key CSSF guidance. Exactly. And the
+0:25
+aim here is to cut through that
+0:26
+complexity for you if you're a legal
+0:28
+professional, a board member, director,
+0:31
+RCR, COC, anyone making decisions in
+0:34
+Luxembourg finance. We want to make this
+0:36
+clear, concise, and hopefully make the
+0:38
+really essential stuff stick. And just a
+0:40
+note, our info is current as of May 4,
+0:43
+2025. And we'll be mentioning specific
+0:45
+EU regs, Lux laws, CSSF coms throughout,
+0:48
+just to be clear on sources and, you
+0:50
+know, copyright. Okay, let's jump
+0:52
+straight into the mocha micica. What is
+0:53
+it? fundamentally well think of Micah as
+0:56
+the EU's first proper harmonized
+0:58
+rulebook for crypto assets specifically
+1:01
+the ones that weren't really covered by
+1:02
+existing financial laws like say MIFID 2
+1:05
+right because before Micah things were a
+1:06
+bit patchy especially here in Luxembourg
+1:09
+definitely patchy mostly focused on
+1:11
+AMLCFT
+1:13
+anti-moneyaundering MIA is much broader
+1:15
+so what are its main goals then it's
+1:17
+aiming for quite a lot actually legal
+1:20
+certainty which is huge better
+1:22
+protection for investors and consumers
+1:23
+customers market integrity, financial
+1:25
+stability, especially looking at stable
+1:27
+coins and encouraging innovation too.
+1:29
+Yes. And helping CASPs, that's asset
+1:32
+service providers, scale up across the
+1:35
+EU with just one authorization. The idea
+1:38
+is same activities, same risks, same
+1:41
+rules and being technology neutral.
+1:43
+Okay. So crypto asset under Micah, is
+1:45
+that a wide net? It is pretty broad.
+1:48
+It's basically a digital representation
+1:50
+of value or rights that you can transfer
+1:52
+and store electronically using DT or
+1:54
+similar tech. And Micah breaks these
+1:56
+down. Yeah. Into three main types.
+1:58
+First, you've got asset reference
+1:59
+tokens, RTS. They try to keep a stable
+2:01
+value by referencing other assets like a
+2:03
+basket of currencies or commodities.
+2:05
+Okay. Second, e-oney tokens, EMTs. These
+2:08
+aim for stability by referencing just
+2:10
+one official currency like the euro. And
+2:12
+third is kind of the catchall category.
+2:14
+other crypto assets including utility
+2:17
+tokens or you know the big names like
+2:19
+Bitcoin or Ether provided they don't fit
+2:21
+into the RT or EMT boxes and these CSCs
+2:24
+you mentioned who are they exactly
+2:26
+they're the businesses providing crypto
+2:28
+asset services professionally so things
+2:30
+like custody holding crypto for others
+2:32
+right running trading platforms
+2:34
+executing orders placing crypto assets
+2:37
+RTO receiving and transmitting orders
+2:39
+giving advice managing
+2:40
+portfolios it's a pretty comprehensive
+2:43
+list and Micah applies to Anyone doing
+2:45
+this in the EU or issuing crypto
+2:47
+essentially? Yes. Issuers, anyone making
+2:50
+a public offer, seeking admission to
+2:52
+trading or providing those CSP services
+2:54
+within the EU falls under Micah's scope.
+2:56
+Are there things specifically not
+2:58
+covered? Exemptions. Oh, definitely. A
+3:00
+big one is crypto assets that actually
+3:02
+qualify as financial instruments under
+3:04
+mythid 2, I think, security tokens.
+3:07
+Getting that classification right is
+3:08
+vital. And the CSSF has guidance on
+3:10
+that. Yes. Circular 25886 adopts the
+3:13
+ESMA guidelines on this. It's a critical
+3:15
+boundary. Also, unique and nonfgeible
+3:18
+tokens, NFTTS are generally out. Okay.
+3:21
+And then traditional financial stuff
+3:22
+like deposits, most funds, unless
+3:25
+they're EMTs, securizations, insurance
+3:28
+products, plus certain bodies like the
+3:30
+ECB, national central banks. So, zooming
+3:33
+in on Luxembourg, who's directly
+3:35
+impacted? Well, obviously the issuers of
+3:37
+these RTS, EMTTs, and other crypto
+3:40
+assets. based here and the CASPs
+3:43
+operating from Luxembourg, but it could
+3:44
+affect existing financial players too.
+3:46
+Absolutely. If you're already CSSF
+3:48
+regulated, a bank, an investment firm, a
+3:51
+MANCO, an EMI, and you want to start
+3:53
+offering crypto asset services, MOA will
+3:56
+apply to those activities, which is
+3:57
+quite a step up from the old VASP
+3:59
+registration. Oh, completely. That was
+4:00
+mainly AML focused. Micah brings in a
+4:03
+full credential and conduct of business
+4:05
+regime authorization, governance rules,
+4:08
+capital requirements, operational
+4:09
+standards, white papers, investor
+4:11
+protection, market abuse rules, the
+4:13
+works. That line between Micah and
+4:15
+Miffitus sounds like a real headache. It
+4:17
+requires careful analysis. Firms
+4:19
+absolutely need robust internal
+4:21
+processes to classify assets correctly.
+4:23
+Non-compliance isn't really an option.
+4:25
+Okay. Timing. Yeah. When did Micah
+4:26
+actually kick in? So EUwide, the rules
+4:29
+for arts and EMTs, titles three and
+4:32
+four, applied from June 30, 2024. The
+4:35
+CSSF expense full compliance for any new
+4:38
+activities from that date and the rest
+4:40
+of it. All the remaining bits like rules
+4:42
+for other crypto assets and CASP
+4:44
+operations applied from December 30th,
+4:47
+2024. And Luxembourg's own law,
+4:49
+Luxembourg was pretty quick. The law of
+4:51
+6th February 2025 was published Feb 10th
+4:54
+and came into force straight away. And
+4:56
+that law did what exactly? Crucially, it
+4:58
+officially named the CSSF as the
+5:00
+competent authority for AMA here. It
+5:02
+gave them the necessary supervisory
+5:04
+investigation and sanctioning powers.
+5:07
+Right. It also handled implementation of
+5:09
+related things like the transfer of
+5:10
+funds regulation, the TFR which is
+5:12
+closely linked crypto transfers and
+5:14
+importantly set out Luxembourg's
+5:16
+approach to transitional measures. Ah
+5:18
+yes, the transition period for existing
+5:19
+VASPs. That's important for many very
+5:22
+Luxembourg opted for the maximum period
+5:24
+allowed running until July 1st 2026 and
+5:27
+that applies to the ASPS virtual asset
+5:29
+service providers who are already
+5:31
+registered for AML purposes before
+5:33
+December 30, 2024. They can continue
+5:36
+their registered services until that
+5:38
+2026 date. But and there's always but
+5:40
+this isn't automatic Micah compliance,
+5:42
+is it? Not at all. This is critical. The
+5:44
+transition just allows them to continue
+5:46
+operating while they apply for a full
+5:48
+Micah license. It doesn't grant one. So,
+5:50
+they still need to apply. Absolutely.
+5:52
+Every VASSP wanting to operate as a CASP
+5:55
+under Micah after July 1st, 2026 or
+5:58
+wanting the EU passport sooner must
+6:00
+submit a full formal Micah license
+6:03
+application to the CSSF. No shortcuts
+6:05
+for existing players, no simplified
+6:07
+process. It's a full application. So,
+6:08
+the message is don't wait. Start
+6:11
+preparing and submit that application
+6:12
+well in advance to avoid any disruption.
+6:14
+Okay. So, the CSSF is ground zero for
+6:16
+Micah and Luxembourg completely. They
+6:18
+authorize and supervise CASPs and RTMP
+6:21
+issuers. They can do on-site checks,
+6:22
+demand info, impose sanctions, even levy
+6:25
+fees. And how do firms actually get
+6:26
+authorized? If you're new or an existing
+6:28
+VASP needing the license, you apply to
+6:31
+the CSSF. They actually encourage firms
+6:33
+to engage early, have a preliminary
+6:35
+chat. Makes sense. The formal process
+6:37
+then involves an initial meeting,
+6:38
+discuss your business plan, services,
+6:41
+governance, key people, followed by
+6:43
+submitting the complete application
+6:44
+file. Are there specific contacts? Yes,
+6:46
+the CSSF has provided email
+6:49
+addresses.ip at CSSF.U for CAPS and RT
+6:53
+issuers and white paper.notification at
+6:56
+CSSF.U for notifying white papers for
+6:59
+other crypto types. How long does it
+7:01
+take? There are minimum processing times
+7:03
+like 70 working days for a CSSP
+7:05
+application. But realistically, if the
+7:07
+file isn't perfect, it can take longer.
+7:10
+What about existing regulated firms like
+7:12
+banks or manos wanting to add crypto
+7:14
+services? Is it the same full
+7:15
+application? No. There's a potentially
+7:17
+simpler route under article 60 of Micah
+7:19
+for certain entities already authorized
+7:21
+under other EU laws, credit
+7:22
+institutions, investment firms, UCIs,
+7:25
+MANOS, AIFMs, EMIs, CSDs. Okay. They
+7:28
+might be able to provide certain CSP
+7:30
+services just by notifying the CSSF at
+7:33
+least 40 working days before starting.
+7:35
+Just a notification. Well, a
+7:36
+notification, but it's expected they'll
+7:38
+talk to their usual CSSF supervisor
+7:40
+first. The CSSF actually surveyed these
+7:43
+institutions back in mid 2024 to see who
+7:46
+was planning what. Right, let's quickly
+7:48
+recap some of those core MK requirements
+7:51
+for issuers. The big one is the white
+7:53
+paper mandatory for most offers or
+7:55
+admissions to trading. It needs to be
+7:57
+detailed, fair, clear, not misleading,
+7:59
+covering the issuer, project, the crypto
+8:01
+itself, rights, risks, tech, and
+8:04
+submitted to the CSSF. Notified to the
+8:05
+CSSF. Yes. And sometimes needs approval,
+8:08
+especially for arts and EMTs. than
+8:10
+published and the issuer is liable for
+8:12
+what's in it. Marketing also has to
+8:14
+align. Any specifics for arts and EMTs?
+8:17
+Yes. More stringent rules generally need
+8:19
+CSSF authorization, must hold adequate
+8:21
+reserves, meet own funds requirements,
+8:23
+offer clear redemption rights. EMT
+8:25
+issuers have to be credit or e-oney
+8:27
+institutions and redeem at par. No
+8:29
+interest payments allowed. Correct. No
+8:31
+interest on arts or EMTs and both need
+8:33
+recovery and redemption plans. Okay.
+8:35
+Okay. And for the CAPS, the service
+8:37
+providers, authorization is usually
+8:39
+needed unless they're using that article
+8:41
+60 notification. Organizationally, they
+8:44
+need to be a legal entity, registered
+8:46
+office in the EU, effective EU
+8:48
+management, at least one EU resident
+8:50
+director. Capital requirements. Yes.
+8:52
+Minimum capital, either a fixed amount
+8:54
+or based on overheads, and then a whole
+8:56
+suite of operational and conduct rules.
+8:59
+Judges, acting honestly, fairly
+9:01
+professionally in client interests.
+9:04
+clear, non-misleading info, including
+9:06
+interestingly climate and environmental
+9:08
+impacts of the consensus mechanism, risk
+9:11
+warnings, cost transparency, complaints,
+9:13
+conflicts, effective complaints
+9:14
+handling, managing conflicts of
+9:16
+interest, robust security for systems
+9:18
+and client assets, segregating client
+9:20
+assets. There are also specific rules
+9:22
+depending on the exact service provided
+9:24
+and market abuse. Yes, CASP's running
+9:26
+trading platforms need systems to
+9:28
+prevent and detect it insider dealing,
+9:30
+manipulation. ESMA is developing more
+9:32
+detailed standards on that. And of
+9:34
+course, full AML CFT compliance is
+9:36
+essential integrated via LUX law and the
+9:39
+TFR. And the CSSF keeps issuing
+9:41
+guidance. They do. In late April 2025,
+9:44
+they released a batch of circulars 2585
+9:47
+to 890 applying ESMA and EBA guidelines
+9:51
+under Micah. or does the governor things
+9:52
+like cooperation with non-EU regulators,
+9:55
+security protocols for issuers, crypto
+9:57
+transfer procedures, clarifying reverse
+10:00
+solicitation, criteria for classifying
+10:02
+assets as financial instruments, and
+10:04
+reporting templates for RTM issuers. It
+10:06
+shows the CSSF is really aligning with
+10:08
+the EU framework. So, Luxembourg's
+10:10
+strategy seems clear. Yeah, it looks
+10:12
+like they're positioning themselves
+10:13
+seriously. prompt CSSF designation
+10:16
+encouraging dialogue using the full VASP
+10:19
+transition advancing related tech laws
+10:21
+like blockchain 3 building on the fund
+10:23
+industry strengths. Exactly. Aiming to
+10:25
+be a key European hub for regulated
+10:27
+digital assets. Okay, let's switch gears
+10:28
+to DORA. What's the driving force behind
+10:30
+the digital operational resilience act?
+10:33
+It's really the EU acknowledging how
+10:35
+incredibly dependent the entire
+10:36
+financial sector is on ICT information
+10:38
+and communication technology and the
+10:40
+escalating risks that come with that.
+10:42
+Cyber attacks system failures precisely.
+10:45
+Payments, trading, asset management,
+10:47
+insurance, it all runs on tech.
+10:49
+Disruptions can hit individual firms
+10:51
+hard, but also potentially destabilize
+10:53
+the wider system because everything's so
+10:55
+interconnected. So, door is about
+10:57
+strengthening defenses. It's about
+10:58
+building resilience, harmonized, robust
+11:01
+digital operational resilience across
+11:03
+the EU. It's a shift from just having
+11:05
+capital buffers for operational risk to
+11:07
+mandating actual capabilities, the
+11:10
+ability to withstand, respond to, and
+11:12
+recover from ICT incidents. And it
+11:14
+consolidates previous rules. Yeah, it
+11:16
+pulls together various ICT risk rules
+11:18
+that were scattered across different
+11:20
+laws before. It aims for consistency.
+11:23
+Who does DORA apply to? Is it as broad
+11:25
+as Micah? Broader in many ways. It
+11:27
+covers about 20 types of financial
+11:29
+entities. Banks, investment firms,
+11:31
+payment institutions, insurers, manos,
+11:34
+Aifms, BSPs too. Yes, CSPs and art
+11:37
+issuers regulated under Micah are also
+11:39
+included plus critical infrastructure
+11:41
+like CCPs, CSDs, trading venues,
+11:44
+benchmark administrators, crowdfunding
+11:45
+platforms. It's a long list and it
+11:47
+reaches beyond financial firms
+11:49
+themselves. Critically, yes. It also
+11:52
+applies to ICT, third party service
+11:54
+providers deemed critical CTPs.
+11:57
+Think major cloud providers or data
+12:00
+service firms the sector relies on.
+12:02
+They'll face direct EU level oversight
+12:04
+by the European supervisory authorities,
+12:06
+the ESAs. Why the push for this now? It
+12:09
+reflects the reality of the modern
+12:11
+threat landscape and how central ICT has
+12:13
+become. Incidents can spread rapidly due
+12:16
+to interconnectedness. The old rules
+12:18
+weren't keeping pace. Dora aims for
+12:21
+consistently high standards for a stable
+12:23
+yet innovative system. Okay, let's break
+12:25
+down Dora's core components. I hear it's
+12:27
+built on five pillars. That's a good way
+12:29
+to think about it. Pillar one is ICT
+12:31
+risk management and governance. This is
+12:33
+fundamental. What does that involve?
+12:34
+Firms need a solid, comprehensive,
+12:37
+welldocumented ICT riskmanagement
+12:39
+framework. And crucially, it has to be
+12:42
+integrated into the overall risk
+12:43
+management system, not just siloed in it
+12:45
+and governance. Who's responsible? The
+12:47
+management body, the board, senior
+12:49
+management, they have ultimate
+12:50
+responsibility. They need to define,
+12:52
+approve, oversee, and be accountable for
+12:54
+the framework and the digital resilience
+12:55
+strategy. So the board needs to
+12:57
+understand ICT risk. Absolutely. Door
+13:00
+explicitly requires them to possess and
+13:02
+maintain sufficient ICT knowledge and
+13:05
+skills. That implies ongoing training.
+13:08
+They need to actively steer the
+13:10
+strategy. What does the framework itself
+13:11
+cover? It needs policies, procedures,
+13:14
+tools for the whole life cycle.
+13:15
+Identification mapping functions,
+13:17
+assets, dependencies, protection and
+13:19
+prevention security, access control,
+13:21
+change management, detection monitoring,
+13:23
+anomaly detection, response and
+13:26
+recovery, incident plans, business
+13:28
+continuity, disaster recovery, and
+13:31
+learning analyzing incidents using test
+13:33
+results to improve. Sounds
+13:35
+comprehensive. And existing CSSF
+13:37
+governance rules still apply. Yes,
+13:38
+things like CSSF circular 24860 on
+13:41
+general governance reinforce these
+13:43
+expectations. Okay. Pillar two, handling
+13:45
+incidents when they happen, right? ICT
+13:47
+related incident management and
+13:48
+reporting. Doris standardizes this.
+13:50
+Firms need processes to detect incidents
+13:52
+quickly, manage and resolve them
+13:54
+effectively using predefined procedures
+13:56
+and classification. Yes, you need to log
+13:58
+and classify all incidents based on
+14:00
+criteria set out in technical standards.
+14:02
+Things like impact, duration,
+14:05
+geographical spread, data loss,
+14:07
+criticality of services affected,
+14:09
+economic impact, and reporting. Major
+14:12
+incidents must be reported to the
+14:13
+competent authority, the CSSF for most,
+14:16
+CAA for insurers, without undue delay.
+14:20
+It's a standardized process using
+14:21
+specific templates, initial,
+14:23
+intermediate, and final reports. What
+14:25
+about just threats? You're also
+14:27
+encouraged to voluntarily notify
+14:29
+significant cyber threats even if they
+14:31
+haven't caused a major incident yet. How
+14:33
+does the reporting work practically in
+14:34
+Luxembourg? Through the CSSF edesk
+14:37
+portal, there's a specific DORA major
+14:40
+ICT related incident and significant
+14:42
+cyber threat notification form or you
+14:44
+can use an API. This replaces older
+14:46
+channels. Anything firms need to do to
+14:48
+use EES. Yes, you need a valid LEI code
+14:50
+and you must assign someone as the IT
+14:52
+incident notifier role within Eesk. If
+14:55
+you outsource reporting, you need to
+14:56
+tell the CSF first. Aggregated reporting
+14:59
+by third parties isn't currently
+15:00
+allowed. Weekend reporting, the CSSF
+15:02
+might require it for some entities. Yes.
+15:04
+Okay. Pillar three, testing resilience.
+15:07
+Exactly. Digital operational resilience
+15:10
+testing. Most firms except
+15:13
+microenterprises need a sound
+15:15
+comprehensive testing program. It has to
+15:18
+be proportionate to their size and risk
+15:20
+profile. What kind of tests? A whole
+15:21
+range. Vulnerability scans, network
+15:24
+security tests, physical security
+15:26
+scenario tests, performance testing,
+15:28
+endto-end tests, and something called
+15:30
+TPT. Yes. For significant entities,
+15:33
+there's a requirement for advanced
+15:35
+threat penetration testing at least
+15:37
+every 3 years. This simulates realworld
+15:40
+attacks by ethical hackers. Who does the
+15:42
+testing? Qualified testers, either
+15:44
+internal or external, who have the right
+15:46
+skills and independence. The Tyber EU
+15:48
+framework is often mentioned as aligned
+15:50
+with DORA's TLPT requirements. Right.
+15:53
+Pillar four sounds crucial. Managing
+15:55
+risks from external tech providers.
+15:57
+Hugely important. Managing ICT
+16:00
+thirdparty risk. Firms have to integrate
+16:02
+this risk into their overall ICT risk
+16:04
+framework. And remember, the financial
+16:05
+firm always remains fully responsible
+16:07
+even if services are outsourced. So what
+16:09
+do they need to do? Adopt and review a
+16:11
+strategy on ICT third party risk,
+16:13
+including a policy on using providers
+16:15
+for critical or important functions. And
+16:17
+the register of information ah yes, the
+16:20
+rorowi that's a big one. You need to
+16:22
+maintain a detailed register covering
+16:24
+all contractual arrangements for ICT
+16:26
+third party services. all of them and
+16:28
+keep it updated constantly updated and
+16:31
+ready for the CSSF or CAA if they ask.
+16:34
+The first submission deadline was May
+16:36
+31st, 2025 using a specific CSV format
+16:40
+via EDSK. The CSSF gave detailed
+16:42
+guidance on this. What about the
+16:44
+contracts themselves? Doré mandates
+16:46
+specific clauses in contracts with
+16:49
+ICTPs. things like clear service
+16:51
+descriptions, data processing locations,
+16:53
+security measures, incident notification
+16:55
+duties, access and audit rights for the
+16:57
+firm and regulators, and clear
+16:59
+termination and exit strategies,
+17:01
+especially for critical functions. Is
+17:02
+negotiating those easy? Not always,
+17:05
+especially with large providers. The
+17:06
+CSSF acknowledged this and encouraged
+17:08
+firms to flag systemic issues. What else
+17:10
+under this pillar? Assessing ICT
+17:12
+concentration risk, relying too heavily
+17:14
+on one or a few providers. having solid
+17:17
+exit strategies if you need to leave a
+17:18
+critical provider and complying with the
+17:20
+EU oversight framework for those
+17:22
+critical TPPs. And the CSSF has specific
+17:25
+guidance here too. Yes. Circular 25882
+17:28
+gives instructions for door entities on
+17:30
+ICT third party services including a
+17:33
+mandatory notification form if you plan
+17:35
+to outsource a critical function or
+17:36
+change its status. Great. The final
+17:38
+pillar pillar five information sharing
+17:41
+arrangements. Door encourages firms to
+17:43
+voluntarily participate in arrangements
+17:45
+to share cyber threat intelligence
+17:47
+within trusted communities to improve
+17:49
+collective defense. Exactly. But it has
+17:51
+to be done carefully respecting
+17:53
+confidentiality, data protection and
+17:55
+competition law. So door really shifts
+17:57
+ICT risk to the top of the agenda.
+17:59
+Absolutely. It's now a core strategic
+18:01
+and governance priority. The detail
+18:03
+especially around the rorowi and third
+18:05
+party contracts is a significant step up
+18:08
+and requires a lot of work and
+18:09
+understanding of your whole ICT supply
+18:11
+chain. Endora became applicable when
+18:14
+January 17th 2025 compliance was
+18:17
+expected from that date. How did
+18:18
+Luxembourg bring this into law? Through
+18:20
+the law of 1st July 2024 which also
+18:23
+applied from Jan 17 2025. This DORA law
+18:27
+does several things like designating the
+18:29
+authorities. Yes. It names the CSSF for
+18:31
+most of the financial sector and the CAA
+18:34
+for insurance as the competent
+18:36
+authorities under DORA. It gives them
+18:38
+supervisory, investigatory and
+18:40
+sanctioning powers, including fines.
+18:42
+Yes, fines and other remedies. The law
+18:44
+also transposes the related DORA
+18:46
+directive. What does the directive do?
+18:48
+It amends other EU financial laws, UCI,
+18:51
+AIFMD, MIFID 2, solveny SEC, etc. to
+18:54
+remove overlapping ICT rules and ensure
+18:57
+consistency with DORA which in turn
+18:59
+meant amending the corresponding
+19:01
+Luxembourg laws. Now the interaction
+19:02
+with existing CSSF circulars that caused
+19:05
+some headscratching understandably the
+19:07
+key principle is DORA takes precedence
+19:09
+over conflicting national rules since
+19:11
+Jan 17th 2025. This affected circulars
+19:14
+like 2750 on IT outsourcing 2286 on
+19:17
+outsourcing generally and 24847 on cyber
+19:20
+security but non-conlicting parts were
+19:23
+made. Yes, but to clarify, the CSF
+19:25
+issued that update package in April
+19:26
+2025. Can you quickly summarize the key
+19:29
+changes from that package? Sure. New
+19:31
+circular 25880 is for all payment
+19:33
+service providers, door or not, covering
+19:35
+EBA guidelines and LUX payment law
+19:37
+reporting. Amended 2750 now only applies
+19:40
+to non-door entities for general ICT
+19:43
+risk. Okay. Amended 20206 is now split.
+19:46
+For door entities, it only covers
+19:48
+business process outsourcing. BO ICT
+19:51
+outsourcing is under DORA and the new
+19:54
+2582 for non-dora entities in chapter 16
+19:57
+MNCOS 22806 still applies fully to both
+20:00
+BO and ICT and the new 25882 that
+20:03
+applies only to DORA entities it
+20:05
+complements DOA on ICG thirdparty
+20:07
+services clarifies things details
+20:09
+reporting like the outsourcing
+20:10
+notification form and keeps some
+20:12
+relevant bits from the old 2286 that
+20:14
+aren't in door itself so firms really
+20:16
+need to check their DORA status and
+20:17
+figure out which circulars apply now
+20:19
+absolutely essential. It sounds like the
+20:21
+CSSF has been quite hands-on in
+20:22
+preparing the market. They have
+20:24
+readiness surveys, reminders about LEIS
+20:26
+and EDS roles, detailed ROI guidance,
+20:29
+extending that deadline, clarifying
+20:31
+incident reporting, talking to ALFI and
+20:33
+EBBL. How's the CSSF approach perceived
+20:35
+generally as constructive and pragmatic?
+20:38
+They seem to recognize the challenges
+20:40
+like delayed EU standards, tricky TPP
+20:44
+negotiations. They've provided guidance
+20:46
+and engaged with industry, but they have
+20:48
+teeth now. Oh yes, the law of 1 July
+20:51
+2024 gives clear enforcement powers.
+20:54
+Significant fines up to 5 million euros
+20:56
+or public naming for individuals are
+20:59
+possible. So sport first then
+21:01
+enforcement. That seems to be the likely
+21:03
+path. Expect more active supervision now
+21:05
+compliance checks, maybe on-site
+21:07
+inspections to make sure DOR's
+21:08
+objectives are actually being met. Let's
+21:10
+focus on governance again. Both Micah
+21:12
+and Dora really put the spotlight on the
+21:15
+board and management, don't they? They
+21:16
+absolutely do. Compliance isn't just a
+21:18
+departmental task. It's a core
+21:20
+governance responsibility requiring
+21:22
+active leadership and oversight from the
+21:24
+very top, the management body. Micah has
+21:26
+governance rules, too. Yes. For RMD
+21:28
+issuers and PSPs, robust internal setup,
+21:31
+clear responsibilities, fit and proper
+21:34
+management. The door is even more
+21:35
+explicit about the management body's
+21:37
+role. Extremely explicit. Ultimate
+21:39
+responsibility for ICT risk management
+21:41
+lies with them. What does that mean in
+21:42
+practice? defining and approving the ICT
+21:45
+risk framework and resilience strategy,
+21:47
+overseeing its implementation and
+21:49
+checking it works, allocating enough
+21:51
+budget and resources, and ensuring they
+21:53
+have the right knowledge. Yes, ensuring
+21:55
+the board itself has sufficient current
+21:57
+ICT knowledge and skills, regular
+21:59
+training is implied, and actively
+22:01
+steering the whole approach, adapting as
+22:03
+needed. So, this needs to be woven into
+22:05
+the fabric of the organization.
+22:06
+Definitely clear reporting lines define
+22:09
+roles. CSSF emphasizes segregation of
+22:11
+duties, though maybe some flexibility
+22:13
+for smaller firms, maybe dedicated
+22:15
+committees integrated into overall risk
+22:18
+management. Crucially, ICT risk,
+22:20
+including third party risk, can't be a
+22:22
+silo. It needs robust internal controls,
+22:25
+regular assessment, and digital
+22:27
+resilience needs to be part of strategic
+22:29
+planning and budgeting. This sounds
+22:30
+expensive. It will require significant
+22:32
+investment, financial, tech, people,
+22:35
+upgrading systems, security tools,
+22:38
+resilience testing, training, including
+22:40
+for the board, maybe hiring external
+22:42
+experts. And the CSSF already focuses
+22:44
+heavily on governance, right? Always
+22:46
+has. General circulars like 12552 set
+22:49
+the baseline. They look at it in
+22:51
+specific contexts, too, like NAV errors.
+22:54
+So, it's almost certain their door
+22:56
+supervision will scrutinize board
+22:57
+oversight very closely. And there's
+22:59
+personal accountability very much so the
+23:01
+explicit duties under DORA the potential
+23:04
+sanctions including individual fines or
+23:06
+public reprimands it creates strong
+23:08
+personal accountability less mic
+23:10
+liability yes issue or liability for
+23:12
+white papers fit and proper rules for
+23:14
+CSP management board members senior
+23:17
+execs need to be demonstrabably engaged
+23:19
+they need to understand and oversee this
+23:22
+okay let's wrap up key takeaways
+23:23
+immediate priorities for our listeners
+23:25
+right first confirm your scope are you
+23:27
+under Micah Dora both which activities
+23:30
+which assets get that documented
+23:32
+classification is key gap analysis and
+23:34
+remediation if you haven't finished get
+23:36
+that gap analysis done against Micah
+23:38
+Dora and those crucial April 2025 CSS F
+23:42
+circulars then execute your action plan
+23:44
+third operational stuff for Dora yes
+23:47
+operationalize door reporting and ROI
+23:50
+make sure your LEI is valid your IT
+23:52
+incident notifier is set up in Ees
+23:55
+incident classification and reporting
+23:56
+process works via EES Ask finalies and
+23:59
+submit or correct that row I for ICT
+24:01
+contracts per CSSF guidance and
+24:03
+deadlines. Fourth MA authorization. If
+24:06
+you need a CASP license including
+24:09
+existing VASPS, engage the CSSF and
+24:12
+apply now. Don't wait. If you're
+24:14
+eligible for article 60 notification,
+24:16
+talk to CSSF and submit it before
+24:18
+starting. Issuers, ensure your white
+24:20
+papers and processes are compliant.
+24:22
+Fifth, those ICT contracts for DORA.
+24:25
+Review and renegotiate ICT contracts.
+24:28
+Systematically check all of them for the
+24:29
+mandatory DORA clauses. Prioritize
+24:32
+critical ones. Start renegotiating.
+24:33
+Document everything. Synthen governance
+24:35
+and training. Make sure the management
+24:36
+body gets it. Gets trained and actively
+24:38
+overseas compliance. Update your
+24:40
+frameworks, policies, controls. And
+24:42
+seventh, plan and execute testing. EO
+24:44
+implement your resilience testing
+24:46
+program. Schedule and budget for basic
+24:47
+tests. And if needed, TPT. Any strategic
+24:51
+points to consider? Well, Micah offers
+24:53
+that EU passport from Luxembourg, which
+24:55
+is attractive and strong DORA compliance
+24:58
+that builds trust. Could be a
+25:00
+competitive edge. And this isn't one and
+25:02
+done. Absolutely not. Ongoing monitoring
+25:05
+is critical. Compliance is continuous.
+25:08
+Regular reporting, testing, framework
+25:10
+reviews, ROI updates, TPP monitoring.
+25:13
+The regulatory landscape keeps moving.
+25:15
+Tech evolves. Threats increase. So,
+25:17
+embed it in business as usual. Exactly.
+25:19
+Embed Micah and Dora into your regular
+25:22
+processes, governance, strategy. Don't
+25:24
+just treat it as a project that ends.
+25:26
+These really are landmark regulations
+25:28
+reshaping things significantly here in
+25:30
+Luxembourg. No doubt. Micah brings
+25:32
+clarity and harmonization to crypto.
+25:34
+Door sets that vital baseline for
+25:35
+digital resilience. Proactive adaptation
+25:38
+seems key, not just for compliance, but
+25:40
+for grabbing opportunities in this
+25:41
+digital era. Absolutely. And keep
+25:43
+monitoring the official sources lex for
+25:45
+the laws, the CSSF website for their
+25:48
+latest guidance. ESA websites, industry
+25:50
+bodies like ALFI. Staying informed is
+25:53
+crucial.

@@ -1,0 +1,637 @@
+
+Search in video
+0:02
+Let each of you introduce yourselves. I'm Jonathan. I'm CTO at Open Zeppelin. Um Evar, why don't you go ahead and
+0:09
+we'll just do real brief intros. Yeah, thanks. Uh I'm Evar. I lead the EMIA business for uh for layer zero.
+0:15
+Uh Lorenzo here, one of the three co-ounders of USD. Uh uh Tommoer, chief product officer at the
+0:22
+Stella Development Foundation. Fantastic. All right. So our topic today
+0:27
+is dead capital and um let's start with
+0:33
+defining what are we talking about where are tokenized assets stuck today. We
+0:39
+know there are billions of dollars that are uh have already been tokenized on
+0:45
+public blockchains. Um estimates are US treasuries are almost 10 billion dollars
+0:51
+alone. Uh maybe can you explain to people uh
+0:59
+the why is the majority of capital unproductive today and what is
+1:07
+preventing them from being put to work. So we'll we'll go around give everybody
+1:14
+a chance to talk to what what's the what's the subject here? Ivar, why don't you kick us off?
+1:20
+Yeah, sure. Um so a lot of this tokenized assets and capital is not
+1:26
+being put to work right so it is tokenized it sits on a chain uh it is
+1:31
+not being used as collateral there's very little like integrations and
+1:36
+utility and I think that's how I would define that capital onchain um which is
+1:43
+very unlike what's happening in traditional finance where there's repo trades there's securities lending right
+1:49
+that capital is being put to work. Um, it's not being put to work for everyone because that's obviously a very shielded
+1:56
+world of access. Uh, and I think that's one of the things that we want to break through by moving this onchain. Uh, but
+2:02
+currently that is not happening for a lot of uh, tokenized assets yet. It's just, you know, it's tokenized. It sits
+2:08
+on a chain and that's about it. I would call it that capital. Echoing on everything that I ever said
+2:14
+uh, on our size one plus one. I totally agree there. Most of my
+2:19
+answers will be basically focused on one single RWA which is TA gold which is the one that we are focusing the most about.
+2:25
+Um we come from an onchain finance defi team. We've always been very very involved into uh the onchain finance
+2:32
+infrastructure and what people are actually building. Uh and one of our main missions is actually to try to put
+2:37
+tether gold to work within this whole suite of defy and onchain finance product. Uh it's been extremely hard.
+2:43
+Ter Gold launched in 2020 and only now we're starting to seeing the first big integrations that are effectively as you said putting this capital to use right
+2:49
+like a integrations in the lending side of things with ter gold as collateral etc etc and it's something hard there's
+2:55
+a lot of things that need to be figured out before we can actually reach mascular adoption pricing uh redeems
+3:01
+interoperability which is what we both of us I guess really take take care of uh but it's definitely something that we
+3:07
+I think we're going to have a lot of improvements especially in the next few months yeah I think Um, you know, like my
+3:13
+friends here said, there's the aspect of, uh, you know, for us coming, you know, from the native crypto space, we
+3:19
+think a lot about composability and interoperability. And so, uh, from that perspective, a lot of these assets are
+3:25
+kind of like they're not in the game, right? They're not in DeFi. They're not used as collateral. They're not in in in
+3:30
+liquidity pools. They're just kind of like not active. I would say that even before that there's another aspect of
+3:36
+you know what we we would call dead capital which is uh that there's just kind of like not significant
+3:42
+distribution. So a lot of times you go on rwa.xyz like oh this this is awesome. There's like a billion dollars of this
+3:48
+asset and then you look at the holders and there's like two to three balances or like two to three wallets are are actually holding this and this is
+3:54
+because an asset manager you know is is decided to tokenize. They took they took
+3:59
+this number from their database. they put it on on chain and they call it a day and I think that's kind of like not
+4:05
+very productive and and and so both distribution and composability are things that we need to work on.
+4:11
+Yeah. May maybe just to to add to that like I think distribution is gated in a number of ways right so integrations
+4:17
+super important like are there use cases that people can can access and there's
+4:22
+demand from a a broader set of users uh and there's also like restrictions by
+4:28
+having an asset maybe on only one chain right so the interoperability aspect is there also gating distribution or
+4:35
+actually unlocking distribution if your asset can move freely to whatever chain uh you see an opportunity or where you
+4:41
+can work on an integration or have a different use case. Um then that accelerates the distribution and it it
+4:48
+unlocks uh utility. I think we're getting there though like slowly slowly we're we're progressing
+4:53
+towards towards that point and uh it's it's definitely interesting to see. Uh there are things that happen quicker and things that happens slower.
+4:59
+RWA is definitely be on the slow side so far. Uh but I do think it's going to be kind of like a zero to 100 situation as
+5:05
+soon as we crack it and as soon as we uh properly lay down the railways under which all of those infrastructure move
+5:11
+is hopefully going to happen very quickly because I I do strongly believe that the way we are approaching our WAS today it is a strictly better form of
+5:18
+technology than how it used to be done before the the existence of crypto. So I'm a big supporter of the better
+5:24
+technology will win. So it's just a matter of when. Absolutely. And it also feels like you know people were initially focused on
+5:30
+okay how do we tokenize this asset right so like how does how does it all work and I think that part has been proven
+5:36
+there's by the way there's lots of things that you can still improve on in that in that process and and making it
+5:41
+more more easy even for a non-technical technical audience. Um but also in our
+5:47
+conversations we see very much a shift where maybe interoperability was an afterthought even like 10 months ago. uh
+5:55
+now there's in 2026 there's just no excuse for launching on one chain right so so people start extending that
+6:03
+strategy and think okay we know how to tokenize now what's the distribution strategy so the interoperability people think
+6:09
+that interoperability is the best breaking news
+6:15
+we need someone else to have a kind of view here yeah so are do you have examples do you
+6:20
+have good good examples you could give or you think of where
+6:26
+people are getting productivity onchain productivity for their capital
+6:32
+and and kind of related to that what do you think what what is like your belief
+6:39
+or your recommendation for people who are bringing capital on chain what what are the things they should be doing to
+6:45
+make sure they can unlock good thing you've invited to
+6:52
+I guess I guess so basically The thing is that as I said in the beginning, we're really focusing on Terra Gold. We think Terra Gold is going to be one of
+6:58
+the biggest things uh that are going to happen to crypto for for a long while. Uh and just it's been listed on a just
+7:04
+for the last few months and obviously the caps are still pretty conservative. I think there's like $100 million size
+7:09
+of deposit. We have another 60 70 million in borrowable asset. Uh we're focusing very hard and we're going to
+7:14
+have a bunch of products for the ecosystem to be able to scale up those uh those those those limits hopefully.
+7:21
+Um and for us it's just very very important that it it it is absolutely needed to make sure that all of those
+7:27
+financial infrastructure are deeply integrated with golden chain and that's where most of the focus of our of our
+7:32
+whole company is actually going towards and X80 is just a tool because in a situation where you can move without
+7:38
+slippage and without fees and in minutes rather than days uh between chains it
+7:43
+just just makes the whole infrastructure better. Just a few days back, we had the very first time that an XAT, not even X0
+7:49
+deployment, was launched on Binance Smart Chain powered by the USDG0 network listed on Binance, etc., etc. And we're
+7:55
+very looking forward to see what the BNB chain ecosystem actually does uh to integrate it and put the capital to use.
+8:01
+Yeah. So, I'm I'm happy to give two examples on two opposite end of the spectrums that we're seeing in uh in
+8:06
+Stellar. So one example is you know Franklin Templeton's Benji uh money market fund probably the first tokenized
+8:13
+uh like money market fund uh done in like 2019 um that is a very kind of like
+8:20
+traditional money market fund you know regulated in the US uh you know um you know Franken have been uh around for a
+8:27
+while they move uh you know they tread kind of like slowly carefully we see that start actually in the beginning the
+8:34
+onchain component was basically literally just mirror of their uh internal database. That was kind of like
+8:40
+the original filing. And what we saw is that as they were getting more and more comfortable with blockchain, they kind
+8:45
+of like removed the internal database part. And so the uh the blockchain became their like books and records. And
+8:52
+then uh even though it's like a closed loop asset, they started integrating uh more onboarding options uh allowing
+8:59
+other wallets. And so um you know it's when you're in crypto it seems like very slow but there's definitely progress
+9:05
+that we've seen there uh throughout the five years uh or six or seven. And uh on
+9:12
+the other end of the spectrum you have some of like the smaller uh more nimble issuers. Uh one example that I like is
+9:18
+Etherfuse. Etherfuse issues uh government bonds. They call these stable bonds. They the collateral is government
+9:25
+debt. Um and they're they issue outside of the US. So they adhere to different
+9:30
+regul regulatory regimes. So for example their settus asset which is backed by bonds in uh in Mexico is a completely
+9:38
+free floating asset um and completely composable in DeFi. We're seeing that
+9:43
+immensely useful uh for for D5 protocols that have like this alternative source
+9:49
+for uh for yield and that is completely composable in uh we're seeing this used
+9:54
+in um in lending borrowing pools. We're seeing this used in uh liquidity pools. So kind of like throughout the spectrum
+10:01
+all the way to being able to offramp to uh you know Mexican Bezos in your hand.
+10:06
+So uh these are kind of like two very ends of different ends of the spectrum, but I think that we're seeing more and
+10:11
+more um of these examples come up. Maybe another example to to add I think
+10:17
+is the excellent work that the centrifuge team is is doing with their with their platform like make it
+10:23
+interoperable from day one. uh we work closely together on that on that front but this like giving asset issuers a
+10:30
+full platform to have different optionality on on how to how to launch and where to launch. Um and then yeah I
+10:36
+would I would call um stable coins and UC0 also an excellent example of RWA
+10:43
+grown from zero to 4 and a half billion in a in a year. Yeah. 4 and a half 81.5
+10:50
+today billion in in total volume moved on on 20 chains uh all under 12 months.
+10:55
+So yeah, I would I would actually say that's one of the best examples of uh how to put capital to work.
+11:03
+Great. Well, let's uh let's so we we touched a little bit on interoperability.
+11:09
+Um is uh what what would be if if if
+11:17
+everyone here has agreed that supporting interoperability is important, what are what would you say
+11:24
+are the fundamentals of what some a someone who is moving forward on it
+11:30
+issuing tokens needs to think about in terms of interoperability?
+11:36
+What are the key principles that you would suggest they adhere to or how how
+11:41
+should they approach that? Start with the interoperability people. Yeah. Yeah. I can give that
+11:47
+I can give that a go. Um so
+11:53
+start with uh an omni chain strategy first, right? So, so, so don't get
+12:00
+yourself into a tricky situation by deploying on one chain and then on the
+12:05
+other chain and then thinking like okay, how should how how can I solve this and bring it back to a full mesh? You want
+12:11
+to have one global supply of your assets. So, uh make that as uh an
+12:18
+integral part of your strategy from from day one. And then the other very big
+12:24
+thing to focus on is security, right? Make sure that you own, control, configure your security. That is what's
+12:31
+important for institutions. That is what uh the risk and compliance teams will
+12:36
+ultimately look at and drill down. So you don't want to put your trust in other validators that you can't control
+12:43
+or can't influence. Uh you want to own and control and configure that security stack. Uh I think that's that's super
+12:50
+important. And then come things around, you know, partnerships, integrations, adoption, all of that. But security is
+12:57
+obviously paramount. Yeah. On on our side, we are somewhat pretty lucky because we kind of went on on on a
+13:02
+different path. Tether first launched tokens that were totally interoperable between networks. And then what we did
+13:07
+15 months ago was just testing out the what happens if you take what what we believe is the best stable coin in the
+13:13
+world. Then you just add this interoperability layer on top of it that allows anyone uh without in a fully
+13:19
+permissionless and transparent manner to just move those tokens between chains. And we went from moving less than 500k a
+13:24
+day to now I think yesterday it was $258 million in 24 hours uh of of movement.
+13:30
+And that's that's not because we did anything crazy or anything. We didn't reinvent the wheel as I usually say. We just took an amazing piece of technology
+13:36
+that the layer zero guys did and then we tailor made it for the asset we wanted to support. And to touch upon what whatever was saying 90% of our job is to
+13:44
+make sure that the security aspect is fully controlled by us and follows the best security standard. as you very also
+13:49
+well know Jonathan as we are larling clients and uh and it's it's been it's been challenging in the beginning but
+13:55
+then as as more and more people started to understanding the real reason why we do it uh it's become kind of like an
+14:02
+inevit inevitability I guess you can say yeah my my English is destroyed after today's um but yeah
+14:10
+basically it's just something that we we really like and uh we think it's very important we see it from we see it from a UX perspective right um if you need to
+14:17
+bring stable old coins and tether specifically to the to the next hundreds millions of people. Um 90% of those will
+14:23
+never know that there is a blockchain behind it. Uh 90% of people already don't even know that there is a blockchain behind it. They just know
+14:29
+that they can move it on Tron. Uh sometimes they move it on Ethereum. And what we're doing is we're just giving them an additional layer that says don't
+14:35
+worry about the blockchain just accept tether. And then what we're going to do is we're going to route everything through a single place or we're going to
+14:40
+allow you to have this unified equity layer layer that lives on top. Um, it's been very fun to actually see it happen
+14:46
+and it's been amazing to be able to partner with all of the different ecosystems, the arbitrum, the plasma, the polygon, the temple of this world,
+14:53
+uh, that actually decided to bet on our technology and were able to actually, uh, push it forward. I don't know, maybe someone else will soon join the flock or
+15:00
+or not, who knows? But yeah, um, I think I'm going to I'm going to
+15:06
+pour a bit of cold water on the on the whole like multi-chain stuff. I think that multi-chain is extremely important
+15:11
+as part of a distribution strategy, but a lot of people come into this thinking
+15:17
+that multi-chain is your distribution strategy, right? But at the end of the day uh especially with RWAs that have
+15:23
+like a very uh you know there's a lot of friction in the in the product experience around RWAS and so how you're
+15:30
+doing distribution you know what type of uh you know wallets treasury management companies are actually offering uh your
+15:37
+services that is what should define your distribution strategy and if uh if
+15:43
+multi-chain uh you know shows up to be an important part of that great that's awesome talk to these people they know
+15:49
+what they're doing. Uh but at the end of the day, if you're just thinking that, you know, I'm going to issue an asset,
+15:54
+I'm going to, you know, I'm going to implement the standards and then, you know, people will show up and use it, that's unfortunately, we're seeing this
+16:00
+not happen. And and it's a problem because we're seeing more and more RWAs. Uh the the selection is uh you know,
+16:08
+getting bigger and bigger, but we're not seeing enough distribution to actually match. So, we're getting a lot of
+16:14
+supply. Um but the demand side is really problematic right now in RWAs. Yeah. Yeah. I mean that's not cold
+16:21
+water. That's just uh the truth. Yeah. That's the truth, right? So like interoperability from a technology
+16:28
+perspective, it's solved. Uh but it removes friction to distribute. You still need to have a
+16:33
+strategy, but you still need to have um integrations, use cases, incentives
+16:39
+maybe, you know, users. So yeah, 100% agree. Yeah. And by the way, like it's absolutely what you said again 100%
+16:46
+agree. We're just we're extremely lucky we're building on an asset that which is USDT that people want to use inherently.
+16:52
+Uh so that's why adoption just grows so quickly and so yeah and I think there's there's a there's a strike difference between
+16:58
+something like a stable coin that's kind of like free floating and it's kind of like easier to work with than RWAs that
+17:03
+have like a lot more friction involved with them and you actually see it with the with the growth that Terold has actually been going through. like ter gold I think
+17:09
+launched in 2020 and only now it's starting to really expand and really uh really accelerate if you will uh which
+17:17
+is exactly what we were hoping to see. So one of the one of the blockers that I
+17:22
+often hear in terms of putting capital to use and even we all know to a certain
+17:27
+extent bringing tokens bringing assets on chain is the combination of concerns
+17:34
+around privacy and concerns around compliance. Um, and some of these things
+17:41
+in terms of compliance we're seeing solved in assets, but I think when you
+17:46
+try to put the assets to work now, you're you have other compliance concerns. Um, where are we at with
+17:56
+solving privacy and compliance? What, you know, can these things also be
+18:02
+resolved? privacy and compliance and and kind of where do each of you see the
+18:07
+current state of things and where where are we going? Maybe why don't you go ahead. Happy to get started. Yeah, we've been
+18:13
+working a lot on privacy in the past couple of years and I think before going into privacy, one thing that's really
+18:18
+important to recognize is that the transparency and openness of blockchains is a core value proposition of
+18:25
+blockchains for RWA issuers. And so we want to make sure that as we build in
+18:30
+you know various privacy protocols we're not taking away that core value proposition. An asset manager loves uh
+18:38
+going to a block explorer seeing the circulating supply seeing the highle distribution like these are things that
+18:44
+we don't want to take away from them. These are uh features not bugs. Okay. So as we bring privacy we need to make sure
+18:49
+that we're bringing privacy in a way that is completely uh optin that is configurable. Um I would say less kind
+18:57
+of like enshrined in the in the protocol but more in kind of like the application layer on top. Um standards are extremely
+19:04
+important especially as we're moving between uh between chains. So things you know we're just talking about T-Rex.
+19:10
+We're seeing a lot of um adoption for that. We actually have a project with you guys at Open Zeppelin um on an
+19:16
+implementation of that for for Stellar. Um so standards are important and the other important thing is to realize
+19:21
+there's not a one-sizefits-all. So um privacy for uh payroll looks
+19:27
+difference from privacy for emittances looks different from uh privacy for RWA issuers and and you know Mexico is
+19:33
+different from the US and so uh we shouldn't be um you know too aggressive on like one specific privacy protocol
+19:40
+just acknowledge that there's going to be a lot of them and figure out how to interoperate between them.
+19:47
+On our side we are a little bit more on the conservative aspect of it. We're still trying to figure out how we can work closely uh with with with chains
+19:54
+that are fully focused on the privacy side. USDT0 and X80 tokens are fully law enforcement compliant. Uh we have
+19:59
+compliance capabilities which means that we freeze, we blacklist, we reissue following law enforcement agency request. Uh it's it's difficult
+20:06
+trademark, not trademark trade if you will, right? Like on one side you have to always want
+20:11
+everybody to be able to have full financial freedom. On the other side, if a law enforcement request comes in because somebody got hacked, you want
+20:17
+the asset or you may you may want the asset that you're using to be able to be frozen. As somebody that has spoken with
+20:22
+a lot of people that were hacked and deals with this kind of stuff, basically every week we receive requests and we we
+20:28
+deal with those requests. Um it's it's a it's a difficult balance to strike, but it's something that I think is very very
+20:33
+important because at the end of the day, if we want to bring these tools to the next hundreds of millions of people, we also need a reliable uh compliance
+20:39
+system on top of that that follows uh the the the rules that that the many people and and the governments are are
+20:45
+setting. Um and what we usually tell tell people is that if you don't want that functionality to be on the asset
+20:50
+you hold, you're very welcome to use something else, something like Bitcoin or something like the centralized tables that do not have these capabilities. Um
+20:57
+on our side what we do is that we always do our best to protect users. Uh which means that still we have a pragmatic
+21:03
+view if you will uh but if if enforcement agency comes in we we act upon it.
+21:09
+Yeah maybe I like you know confidentiality better than privacy right because it has a level of you know flexibility that that uh depends on the
+21:17
+use case in the jurisdiction and and so on. Again from a technology perspective
+21:23
+it's it's all possible I would I would say right. So we work with lots of different asset issuers whether they are
+21:29
+stable coin issuers or funds or bonds or uh tokenized equities. Um so we have a
+21:36
+lot of uh visibility on the requirements and that is very you know flexible in
+21:44
+the layer zero messaging protocol to include. So whether that is blacklisting, whitelisting, rate
+21:50
+limiting even like u message inspector hooks right. So certain aspects of text
+21:57
+field need to be need to be in there for messages to move crosschain. Super
+22:02
+flexible, all possible. Uh but I think we're still early in the adoption of
+22:07
+certain certain standards and some assets are just easier because they're
+22:12
+more standardized than other assets. for example, like real estate, you know, there there's uh there's just more
+22:19
+bespoke requirements and different uh rules in different jurisdictions which I
+22:25
+think are um are making it a bit more, you know, complicated for these assets to really take off.
+22:32
+So, we work a lot in standards at Open Zeppelin. Um, do you
+22:39
+do you think there are do you think there's a need for more standardization
+22:44
+in terms of specifically in terms of putting capital
+22:49
+to work and being able to utilize it? Or if if not as as you said Tor there's
+22:56
+kind of like different there's a lot of different models that and we likely will
+23:02
+have multiple models in use. Um do you uh what what would you recommend to
+23:09
+people in terms of as they look at the standards what what do you see what's new? What should people be watching?
+23:17
+What do you what do you think is relevant to to those who are implementing?
+23:23
+Sure. Happy to get started. Um you know I think that the um you know kind of
+23:28
+like the the big main constructions that we're seeing are around uh confidential tokens on one side and various uh
+23:34
+permutations of privacy pools on the other. So confidential tokens are basically protocols that allow you to um
+23:41
+kind of like hide the what the amounts of transfers and balances while
+23:47
+maintaining kind of like visibility on the senders and the receivers. Um we're seeing this uh you know uh we're
+23:53
+actually working with you on implementation of this. We're seeing this um in the uh in use cases where the
+24:00
+counterparties are known and so there's no risk of uh of that getting leaked. So for example, if we want to do payroll
+24:07
+using a um uh confidential payment, everyone knows that I'm employed by SDF.
+24:13
+That's not a problem. The thing that I'm trying to hide is the actual amounts, right? Um the nice thing about about
+24:18
+these is you know from a performance and like scalability they're they have like nice characteristics. They're also
+24:24
+easier on the compliance side of things because you can still have like a complete graph of senders and receivers.
+24:30
+So you know actors like the various chain monitoring solutions can still have some insight on what's going on. Um
+24:38
+for use cases that require anonymity we're seeing various implementations of privacy pools. This is a paper that
+24:44
+Vitalik Aine and some others put out a few years ago. Um, and these are kind of like the next generation of mixers. So
+24:51
+the idea is that uh in addition to hiding the what like the amounts uh your
+24:58
+uh funds are also mixed with other participants in the pool and so you can see senders and receivers. Um this is
+25:04
+great. provides more anonymity but on the other hand it also uh is a risk
+25:10
+factor because it allows your uh funds to be co-mingled with you know potentially illicit funds. So the
+25:15
+privacy pools paper uh introduces something called an association set which is kind of like an allow list to
+25:21
+make it into the pool. Um and so that provides you some guarantees that when you're in this pool you've gone through
+25:27
+a specific level of of of compliance checks that uh the pool operator enforces. there can be many pools
+25:34
+enforced uh having like different rule sets enforced on them. Um we're still
+25:40
+trying to figure out kind of like the edge cases. What happens if someone uh for example uh you know was kosher when
+25:46
+they got into the pool but then something happened and has been kind of like removed from the allow list? How do
+25:51
+you uh you know kick them out in a way that uh you know still maintains um kind
+25:57
+of like the properties of the pool? Oxbow are doing something called rage quit which is kind of like a forced uh a
+26:03
+forced withdrawal for a forced um transparent withdrawal. Um and I think
+26:09
+eventually for the regulated assets we'll also need probably things like clawback which you know in crypto is a
+26:15
+bit of um you know is a bit of a triggering term but but if you are you know a regulated asset issuer in uh you
+26:22
+know in the US or other places you really need to have like a clawback uh capability. I'll be way quicker on our side. We we
+26:29
+are it's mostly R&D for us. We're we're looking at it. Uh it's it's something that has a lot of implications both from
+26:34
+a regulatory perspective as well from a as well from a technical perspective. I have to say that the technical perspective is probably easier to get
+26:40
+done than the regulatory one if you will. Um so for us it's just mostly R&D. Uh we're very interested in the subject
+26:45
+but it's something that so far is not the main the main focus. We prefer leave it up to third party uh and specifically
+26:51
+to blockchains because uh those are our main facing clients if you will. Uh so block blockchains like like Midnight for
+26:57
+example that are very privacy focused and so on and so forth is something that we like to work with. We we always do uh
+27:03
+but at the same time it's something that we it's still in a very inception phase for us if you will.
+27:09
+Yeah. And for us I mean similar like we work with lots of different different parties that take different approaches.
+27:15
+Um I think what Zama is doing is uh is is very interesting in terms of their confidential token uh approach and
+27:22
+ability to insert that. Uh but yeah, we also work with uh lots of different uh chains. Just announced our layer zero
+27:29
+endpoint on on canton. So a lot of activity obviously there as a more privacy focused uh institutional chain.
+27:36
+Um and it's just our role to make sure that people can move in and out of can of Canton and and have that full
+27:42
+connectivity to the rest of the world. Uh there's definitely privacy aspects to zero the blockchain that we've announced
+27:48
+as well. It's a little bit too early to talk about that. Yeah, very good. I think um we're down
+27:55
+to just our last few minutes. Um one of the things in terms of dead capital
+28:01
+putting capital to work I think we've noticed and and I'm curious if you've seen too and how it's influencing your
+28:09
+work is that the conversation is shifting a lot from tokens to vaults and
+28:15
+vaults are becoming kind of a primary area of focus. We're working with layer
+28:21
+zero on ovaults. Um we're working on 3643 vaults. Um what are you seeing in
+28:28
+terms of vaults? How is that shaping? What will be uh the opportunity to get
+28:36
+more utilization out of capital and what what do you think is coming up there that people should keep an eye on? It's
+28:43
+great like I mean a few days ago I don't know if you guys saw but there was a big announcement from uh which was a
+28:49
+partnership between VA a plasma and us uh firstly it's one of the coolest
+28:55
+thing that we've seen happening in a in a long time basically the idea is very simple when you are funding your W account or you're receiving payments via
+29:01
+WO via USDT the USDT are immediately uh you can accept them from basically I think whatever chain they are routed
+29:07
+through the USD zero network they're sent over to plasma deposited in a vault that then provides them on on it uh
+29:13
+which basically gives the ability to all of the web creators to earn I think it's around 6.6 six 6% APY which uh as
+29:20
+somebody that was very early on in DeFi doesn't look like much but for people using the platform it's actually better and they can get from a lot of their
+29:26
+from a lot of their traditional financial infrastructure um we love working with VA creator with vault
+29:32
+creators VA is just one the one that we we have faced the most being close to the to the ecosystem we think it's
+29:38
+there's going to be a very big need of of vaults being deeply integrated within consumer products uh the ter rumble
+29:45
+wallet other products that I may or may not disclose that are coming soon in the ter ecosystem are going to be in need of
+29:50
+some kind of permissionless yield being passed on to the users and uh and for stable coin vaults are absolutely
+29:56
+amazing. Uh we are personally very very excited about vaults built on the gold product as you can imagine because uh we
+30:01
+know tens if not hundreds of teams that are building uh what what we see to be the holy grail right now of the industry
+30:08
+which is uh sustainable yield on gold on chain. uh and we are building all of
+30:13
+those little building blocks that are needed to actually execute those those situations. Uh obviously most of the
+30:18
+deals come from the from the lending side of things. So we're focusing on liquidator of last resort deep liquidity to be able to process liquidations and
+30:24
+so on and so forth and it's something that uh that really excites us. Yeah, I share the excitement on on on
+30:29
+vault. think the zooming out what you see is just asset management being built on chain
+30:35
+um but then bring the composability and bring the programmability the transparency that that we that we know
+30:42
+from crypto to this you know massive uh you know asset management world. So I think what we are seeing is is just the
+30:49
+beginning uh and especially you know bringing that programmability and transparency will just unlock many many
+30:55
+many more use cases and and providing access to a broad much broader uh audience. So through our work with uh
+31:02
+OAT which is just like abstracting chain complexity away from from vaults uh we
+31:08
+get to see a lot of that activity and work with exciting teams whether it's like Morpho or Athena. So, uh, it's just
+31:14
+super exciting to see all of the activity that's that that's ongoing and I think, uh, this year and into the next
+31:19
+that will just only accelerate. But you have the last word. Yeah, vaults are definitely, uh, you
+31:24
+know, we talk about composability and defi, this is this is it. Um, and we are seeing some of, you know, I was talking
+31:30
+about stable bonds on Stellar. We're seeing some vaults utilizing these assets and this is great. Um I think
+31:35
+from discussions with the like the big asset managers in the states uh there's still you know obviously the regulatory
+31:42
+regime right now is much better than what it was uh a couple of years ago. Uh but I think in terms of the
+31:47
+composability and anything that looks like DeFi it's still problematic. I have asset managers telling me hey you know
+31:54
+like I you know I need to file reports to the SEC like I don't know what to put
+31:59
+for a balance that that's in a in a vault. like who's the entity that's uh that's that actually owns this thing. Uh
+32:05
+you know there are reporting requirements and and we're we're not in a place yet where trust minimized protocols are kind of like legit
+32:12
+entities to hold uh balances. So uh there's definitely some some some room to go there. Hopefully the you know the
+32:18
+Clarity Act will help with that. Uh if it passes. If it passes. Yes. Uh so you know
+32:23
+there's still room to go there. Well thank you all. Fun conversation. Thanks so much. Yeah. Thank you.
+32:29
+Thank you.
+

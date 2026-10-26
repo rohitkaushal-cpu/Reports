@@ -1,0 +1,985 @@
+
+Search in video
+Introduction and Welcome
+0:03
+Hello everyone. I'm delighted to be with you today for the first of two webinars on Hong Kong Stablecoin Regulatory Regime, which came into effect on the 1st of August, 2025.
+0:13
+In today's training, I'm going to focus on the licensing regime under the stablecoins ordinance, which will cover the scope of the licensing
+0:20
+regime, including the types of stablecoins and stablecoin activities it applies to,
+0:26
+as well as the eligibility criteria for licensing and the continuing obligations of licensed stablecoin issuers.
+Agenda for Today's Webinar
+0:33
+In the next stablecoin webinar, I'm going to be looking at the anti-money laundering and counter-terrorism financing obligations of licensed stablecoin issuers,
+0:41
+the regulatory restrictions on offering stablecoins, and the various offences that may be committed under the stablecoins Ordinance.
+0:49
+The foundation for this new legal framework was established through a public consultation process led by the Financial Services and Treasury Bureau,
+0:57
+FSTB and the HKMA, the Hong Kong Monetary Authority. It's an integral component of the Hong Kong government's strategic vision to cultivate a
+1:06
+dynamic virtual asset sector, as outlined in its October 2022 Policy
+1:11
+Statement on the Development of Virtual Assets in Hong Kong. The Hong Kong Stablecoins Ordinance came into effect on the 1st of August 2025,
+Background & Foundation of the Regime
+1:20
+making Hong Kong one of the first jurisdictions to implement stablecoin regulation. This new regime is a direct response to the Financial Stability Board's
+1:29
+2023 recommendations, which urged member jurisdictions to regulate
+1:34
+and supervise stablecoin activities to mitigate potential financial stability risks.
+1:41
+The FSTB considers stablecoins, particularly those pegged to fiat currencies,
+1:46
+to have the potential for widespread adoption as a payment method. Given that potential for becoming integrated into the mainstream financial system,
+1:55
+the FSTB has concerns that these fiat referenced stablecoins could serve as a channel for financial risk to spread from the crypto sector to the traditional financial
+2:05
+sector. The HKMA does not publish a list of stablecoin license applicants,
+2:11
+but according to press reports, the HKMA received 36 license applications before the end of September 2025.
+2:19
+The stablecoins ordinance applies to a specific subset of stablecoins, which the ordinance refers to as specified stablecoins.
+2:28
+The legal definitions of both stablecoin and specified stablecoin are set out in the
+2:33
+ordinance. Section 3 of the ordinance defines a stablecoin as a cryptographically secure
+2:39
+digital representation of value that meets several criteria. It must function as a unit of account or store of economic value,
+2:47
+and must be used or be intended to be used as a medium of exchange that is accepted by the public for paying for goods or services.
+2:55
+Settling debt or investment. Additionally, it must be capable of being transferred, stored, or traded electronically and operate on a distributed ledger or similar
+3:04
+repository. The defining characteristic of a stable coin, which distinguishes it from other virtual assets,
+3:11
+is that it must have the explicit purpose of maintaining a stable value by reference to a
+3:16
+specific asset or a pool or basket of assets. The key definition is that of specified stable coin,
+Definition of Specified Stablecoin
+3:24
+which is defined in section 4 of the ordinance as a stable coin that purports to maintain a stable value by referencing one or more official currencies.
+3:34
+Official currency for these purposes means a currency issued by a government, central bank, monetary authority, or an authorised note issuing bank of a
+3:42
+jurisdiction. The HKMA has the power to extend this definition by specifying other
+3:49
+units of account. Stores of economic value or digital representations of value that,
+3:54
+if referenced by a stablecoin, would bring it within the definition of specified stablecoin. Currently, however, only stablecoins that are pegged to
+4:03
+an official currency or currencies which are commonly referred to as fiat referenced
+4:09
+currencies are within the definition of specified stablecoin. The legislation does not, therefore regulate commodity linked
+4:16
+stablecoins such as gold linked stablecoins. It's equally important to understand what the ordinance explicitly excludes to avoid any
+Exclusions from Regulation
+4:25
+regulatory overlap. The definition of stablecoin excludes tokens that are already
+4:31
+regulated under other Hong Kong ordinances, such as those that constitute securities or
+4:36
+futures contracts under the Securities and Futures Ordinance or deposits under the Banking Ordinance. Tokens issued by central banks or governments,
+4:45
+such as central bank digital currencies. CBDCs are also outside this definition, as are limited purpose digital tokens like
+4:54
+customer loyalty or reward points, and in-game assets. By carving out these categories, the ordinance creates a clear framework,
+5:02
+ensuring that the focus remains on the specific risks associated with fiat referenced stablecoins.
+Licensing Requirement
+5:10
+The stablecoins ordinance creates a licensing requirement for any person who conducts a regulated stablecoin activity, which is defined in section 5 of the
+5:19
+ordinance as either issuing a specified stablecoin in Hong Kong or issuing a
+5:24
+specified stablecoin that references the Hong Kong dollar, whether in whole or in part outside Hong Kong.
+5:31
+This second part of the definition is particularly worth noting, as it operates extraterritorially, necessitating that an offshore issuer of a
+5:39
+stablecoin linked to the Hong Kong currency obtain a licence from the HKMA.
+5:45
+According to the HKMA explanatory note on licensing stablecoin issuers, in assessing whether a specified stablecoin is issued in Hong Kong,
+5:54
+the HKMA takes a holistic approach and makes the determination based on a comprehensive
+5:59
+review of all relevant facts. Key considerations include where the issue is day to day management and operations occur.
+6:07
+The issue has jurisdiction of incorporation where the minting and burning of the specified stablecoin takes place.
+6:14
+The location of management of the reserve assets backing the specified stablecoin,
+6:19
+and finally where the bank accounts are maintained for processing cashflows from the issue or redemption of the specified stablecoin.
+Offences for Unlicensed Activities
+6:28
+It's an offence under section 8 of the stablecoins ordinance, to conduct a regulated stablecoin activity, or to hold oneself out as doing so without
+6:38
+being licensed by the HKMA. The offence carries a maximum penalty of seven years imprisonment and a 5 million Hong
+6:45
+Kong dollar fine, plus a daily fine of 100,000 HKD. For every day the offence continues.
+6:51
+A person is regarded as holding themselves out as conducting a regulated stablecoin activity if they actively market in Hong Kong or elsewhere to the Hong Kong public that
+7:01
+they carry on an activity that, if carried on in Hong Kong, would constitute a regulated stablecoin activity.
+7:08
+This provision effectively prohibits offshore specified stablecoin issuers from actively
+7:13
+marketing their offshore issue of specified stablecoins to the Hong Kong public, unless they're licensed by the HKMA.
+7:21
+It's important to note here that active marketing to the Hong Kong public includes active marketing to any class of Hong Kong public,
+7:29
+and so active marketing to a group of potential investors could be within the scope of this provision. In determining whether a person actively markets to the Hong Kong
+7:40
+public, the HKMA will take a holistic approach, considering factors such as the language used in marketing messages and whether the
+7:47
+person's website uses Chinese. Whether the messages are targeted at Hong Kong residents.
+7:53
+The use of a Hong Kong domain name, and whether the person has a detailed marketing plan for promoting the activity it conducts.
+Eligibility Criteria
+8:00
+In terms of the eligibility criteria for licensing. The ordinance sets out extensive and robust criteria that must be met to obtain a
+8:10
+stablecoin issuer license. These provide a high bar for licensing and are aimed at ensuring financial stability in
+8:18
+the Hong Kong market, preventing money laundering, and setting high standards of investor protection.
+8:23
+Schedule 2 to the stablecoins ordinance sets out the minimum criteria that must be met by
+8:28
+licensed stablecoin issuers on a continuing basis under section 15(3) of the ordinance.
+8:34
+The HKMA will only grant a stablecoin issuer a license to an applicant if it is satisfied
+8:41
+that the applicant will meet the minimum criteria when licensed. These criteria apply on a continuing basis after an issuer becomes licensed,
+8:50
+and failure to comply with any of them is a ground for revocation of the issuers license.
+8:55
+While schedule 2 of the ordinance sets out the minimum criteria, the HKMA detailed guidance on how stablecoin issuers should meet these criteria are set
+9:05
+out in the HKMA Guideline on Supervision of Stablecoin Issuers and Guideline on
+9:11
+Anti-Money Laundering and Counter Financing of Terrorism, which I'll refer to going forward as the supervision guideline and AML/CFT guidelines,
+9:20
+respectively. Regarding incorporation under section 14 of the stablecoins ordinance.
+9:27
+A license applicant must be a company incorporated in Hong Kong or an authorized institution regulated under Hong Kong's Banking ordinance that is incorporated
+9:36
+outside Hong Kong, an overseas entity that is not an authorized institution that wants to
+9:42
+issue specified stablecoins in Hong Kong, would need to set up a Hong Kong subsidiary
+9:47
+to apply for a stablecoin issuer license. In terms of financial resources, specified stablecoin issuers have a general
+Financial Resources
+9:56
+obligation to ensure they have sufficient financial resources and liquid assets to
+10:01
+sustain their business, meet their financial obligations, and fund an orderly wind down in the event of ceasing operations.
+10:09
+In addition, issuers other than authorized institutions must have minimum paid up share
+10:14
+capital of 25 million HKD, or its equivalent in a freely convertible currency, as set out in section 4 of schedule 2 to the stablecoins ordinance.
+10:25
+These requirements do not apply to authorized institutions, which must instead comply with the requirements of the Banking ordinance and
+10:33
+relevant guidance. According to the supervision guideline issuers, liquid net assets should be funded by equity rather than by loans,
+10:41
+guarantees or similar borrowings. An issuer should take into account their projected as well as historical operating
+10:48
+costs when assessing sufficiency. Additionally, issuers financial resources that are maintained to meet the requirements
+10:55
+of schedule 2 to the stablecoins ordinance must be used solely for the stablecoin
+11:01
+issuers business activities and must not be diverted to dealings with its related parties
+11:06
+such as its shareholders, directors, affiliated companies or senior management. Under the minimum criteria, controllers,
+Fit and Proper Standards
+11:14
+chief executives, directors and managers of a licensed issuer must meet strict, fit and proper standards.
+11:21
+A controller is defined in the stablecoins ordinance as including a person who, alone or with their associates, can exercise or control the exercise of 10%
+11:31
+or more of the voting rights of the issuer or its holding company in general meeting, and a person in accordance with whose directions the majority of the issuer's
+11:40
+directors are accustomed to act. Issuers that are authorized institutions are also required to appoint a stablecoin manager
+11:48
+who is similarly subject to fit and proper standards. There is, however, no requirement for issuers that are not authorized institutions to
+11:56
+appoint a stablecoin manager by virtue of section 36(1) of the stablecoins ordinance.
+12:02
+The minimum criteria of schedule 2 also require officers of the issuer who are responsible for its day to day management and operations,
+12:10
+to have relevant knowledge and experience to execute their functions effectively. The standards of fitness and propriety are set out in the supervision guideline and
+12:20
+require an assessment firstly of the person's reputation and character, including any criminal record, particularly for fraud,
+12:27
+dishonesty or financial malpractice, and whether their past business conduct has
+12:32
+been deceitful or improper in any way. Secondly, the persons knowledge, experience,
+12:38
+competence and soundness of judgment must be considered. This requires an evaluation of the individual's specific knowledge,
+12:45
+qualifications, training, and proven experience in similar roles, with a focus on a demonstrated history of sound decision making in their exercise of
+12:53
+their responsibilities. Thirdly, a clear record of regulatory compliance is required.
+12:59
+The assessment must investigate any history of non-compliance with non-statutory codes,
+13:04
+as well as any disciplinary actions imposed by professional bodies or regulators, whether in Hong Kong or elsewhere.
+13:12
+Fourthly, the individual's professional track record in leadership roles must be examined and should involve a detailed review of their tenure as a controller,
+13:20
+director, chief executive, or manager of any entity that has been subject to regulatory censure.
+13:27
+Investigation, license revocation, winding up or insolvency proceedings.
+13:32
+In these cases, the seriousness of the circumstances, the extent of the individual's personal involvement,
+13:38
+the passage of time and their subsequent conduct are all mitigating factors to be weighed. Fifthly, the assessment should cover whether the individual's financial position
+13:48
+or other business interests could undermine the prudence and soundness of the issuer's specified stablecoins or the confidence of their holders.
+13:57
+In the case of independent non-executive directors, the assessment must scrutinise the existence of any direct or indirect financial or other
+14:05
+interests in the issuer's business and the nature of any relationships with the issuers significant shareholders.
+14:12
+The assessment of fitness and properness must evaluate the individual's capacity for the role, specify their ability to dedicate sufficient time and attention to their
+14:22
+duties, particularly when they hold external positions. Finally, it must determine whether any potential conflicts of interest could arise
+14:30
+from such outside commitments. A licensed issuer must have a chief executive and an alternate chief executive.
+14:38
+The HKMA's prior consent is required before a person can become a specified stablecoin
+14:43
+issuers controller, chief executive, alternate chief executive director or,
+14:48
+in the case of an authorized institution, a stablecoin manager. It's also a statutory requirement that each of these officers,
+14:56
+with the exception of directors, must be ordinarily resident in Hong Kong. In deciding whether to grant consent, the HKMA will take into account the fact,
+15:05
+as I just mentioned, licensed issuers must give written notice to the HKMA within 14
+15:11
+days of becoming aware of any change in its controller, chief executive, alternate chief executive directors,
+15:17
+managers or in the stablecoin manager of an authorized institution.
+15:22
+Section 7(3) of schedule 2 to the stablecoins ordinance mandates that a licensed applicant
+15:29
+must establish and implement adequate and appropriate systems of control to verify that
+15:34
+every individual holding the position of manager is a fit and proper person. For these purposes, section 2(1) of the ordinance defines a manager as any
+15:43
+individual, excluding chief executives, directors, or stablecoin managers, who is appointed by a licensed issuer to bear
+15:51
+principal responsibility, either solely or jointly with others, for conducting one or more specified affairs related to the issuer's licensed stablecoin
+16:00
+activities, which are listed in schedule 1 to the ordinance and include management of the
+16:05
+issuer's accounting systems and management of its AML and CFT control systems,
+16:10
+and risk management control systems. To ensure managers are fit and proper, a licensed issuer must implement a
+16:17
+comprehensive system of internal controls covering the entire employment life cycle.
+16:22
+This framework must include clearly defined roles and a formal process for selecting and vetting candidates before appointment.
+16:29
+It must also include ongoing oversight through performance appraisals that balance financial results with regulatory compliance,
+16:37
+alongside clear procedures for investigating misconduct and taking disciplinary action.
+16:44
+Finally, the system must provide for adequate training and ensure managerial vacancies are
+16:49
+filled promptly and be subject to periodic review by the internal audit function to
+16:54
+confirm its effectiveness. Under section 63 of the ordinance, licensed issuers must notify the HKMA within
+17:02
+14 days when a person becomes or ceases to be a manager and the specified affairs for which
+17:08
+they become or cease to be responsible. A cornerstone of the regulatory regime is that licensed issuers must ensure that
+Full Reserve Asset Backing
+17:15
+specified stablecoins are backed by reserve assets with a value equal to or greater than
+17:22
+the par value of their outstanding specified stablecoins at all times. This requirement for specified stablecoins to be fully backed means that the HKMA will not
+17:32
+license issuers of algorithmic stablecoins, as they are inherently unable to meet this
+17:37
+standard. The full backing requirement extends to all specified stablecoins,
+17:43
+including those that are temporarily subject to restrictions on access, transfer or redemption.
+17:48
+For example, because of a court order or enforcement action. This ensures that the issuer will be in a position to meet redemption requests in
+17:56
+respect of the relevant specified stablecoins once the restrictions cease to apply.
+18:02
+Reserve assets must be of high quality and liquidity and carry minimum investment risks,
+18:08
+according to the supervision guideline. Acceptable forms of reserve assets include cash bank deposits for terms not exceeding
+18:16
+three months, and government and central bank debt securities issued in their own currencies that mature within 12 months.
+18:23
+Cash from overnight reserve repurchase agreements is also acceptable as a reserve
+18:29
+asset, provided that the agreements carry minimal counterparty risk and are collateralized by the types of debt securities the HKMA is willing to accept as
+18:38
+reserve assets. Tokenized versions of these types of eligible reserve assets are also
+18:44
+acceptable, provided the issuer can demonstrate that they meet the requirement
+18:49
+for reserve assets to be high quality, highly liquid assets carrying minimal
+18:56
+investment risks. Issuers must establish risk management policies and procedures to ensure
+19:03
+their reserve assets are properly managed, so that redemption requests can be met without any undue delay.
+19:09
+These policies and procedures should delineate a clear governance arrangement with defined reporting lines and segregation of duties specified.
+19:18
+Detailed measures for complying with requirements relating to reserve asset management and set out detailed procedures for conducting operations with rigorous
+19:27
+authorisation controls in relation to the full backing of specified stablecoins.
+19:32
+Issuers are expected, in practice, to take into account the risk profile of their reserve assets and overcollateralized to provide a buffer above
+19:42
+the full backing level to ensure the full backing requirement is met, issuers have specified stablecoins must monitor and conduct regular reconciliations
+19:53
+between the market value of the reserve assets and the par value of their outstanding specified stablecoins.
+19:59
+Issuers must adopt a consistent and prudent method for calculating the market value of reserve assets that uses reliable data sources,
+20:08
+reflecting prevailing market prices. Valuations of reserve assets should use the bid price,
+20:14
+which the HKMA considers to be the more prudent price for the sale of financial assets. A consistent approach is also required for calculating the par value of
+20:24
+outstanding specified stablecoins, and issuers must ensure that their method of calculating the par value of their outstanding specified stablecoins is
+20:33
+consistent with their method of calculating the market value of their reserve assets.
+20:39
+Section 5(7) of schedule 2 to the stablecoins ordinance requires licensed issuers to
+20:45
+publicly disclose their reserve asset management policy, and an assessment of the risks associated with their reserve assets.
+20:52
+They must additionally disclose the composition and market value of their reserve assets and the results of regular, independent attestations and audits of their
+21:01
+reserve assets. These requirements are elaborated on in the supervision guideline,
+21:06
+which requires issuers to prepare daily statements of the par value of their outstanding specified stablecoins and the market value and composition of their reserve
+21:16
+assets. Unless otherwise agreed with the HKMA This information must be reported to the HKMA
+21:23
+weekly and published on issuers websites in a prominent position. The supervision guideline additionally requires licensed issuers to appoint a
+21:32
+qualified, independent external auditor, acceptable to the HKMA, to regularly attest to the market value and composition of their reserve assets.
+21:41
+The par value of their outstanding specified stablecoins, and whether their reserve assets are sufficient to fully back the par value of the
+21:49
+outstanding specified stablecoins as of the last day of the period covered by the Attestation Report, and as of at least one randomly selected business day during that
+21:59
+period. The frequency of attestation is a matter to be agreed between the stablecoin
+22:05
+issuer and the HKMA. The attestation report must be submitted to the HKMA within one
+22:11
+month of the last business day covered by the report and published on the issuer's website.
+22:17
+The annual audit of a licensed stablecoin issuers is also required to cover its reserve assets. Separately, licensed issuers are required to review their reserve asset
+22:27
+management policies and procedures regularly and at least quarterly. The policies and procedures, and any material changes to them must be
+22:35
+approved by the issuer's board. Issuers are additionally required to conduct regular audits to determine whether their
+22:42
+reserve assets are being managed in compliance with their internal policies and procedures, and the applicable regulatory requirements.
+22:49
+The audit results must be reported to the HKMA and the audit report should be provided if requested by the HKMA In addition, issuers must immediately notify the HKMA of
+23:01
+any breach of the statutory or regulatory requirements for reserve assets, any material noncompliance with their reserve assets management policies and any unresolved
+23:10
+discrepancies identified during reconciliation exercises.
+23:16
+Reserve assets must be held in the currency referenced by the specified stablecoin,
+23:21
+or if there is more than one reference currency in the same ratio as referenced by the specified stablecoin.
+23:28
+The HKMA's prior approval is required for holding reserve assets in a different currency to the specified stablecoins reference currency,
+23:36
+and that approval will only be granted if the HKMA is satisfied that there is a legitimate
+23:41
+reason for the currency mismatch, and that appropriate measures such as overcollateralization will be put in place to prevent the transfer of currency and other
+23:50
+risks to the specified stablecoin holders. Crucially, the pool of reserve asset backing any specified stablecoins issued by a
+23:59
+licensed issuer must be segregated from any other pool of reserve assets it maintains.
+24:05
+For example, a reserve asset pool backing any other specified stablecoins it has issued and
+24:11
+from the issuer's other assets. Issuers must ensure that the reserve assets backing their specified stablecoins are
+24:19
+protected against claims by other creditors of the issuer to ensure that reserve assets
+24:24
+are effectively segregated from the assets of the issuer and will be available to satisfy
+24:30
+redemption requests. Reserve assets must be held on trust. For holders of the specified stablecoins.
+24:36
+Issuers can either appoint an independent trustee or declare a trust over the reserve
+24:42
+assets, and issuers must submit a legal opinion confirming the effectiveness of the trust arrangements to the HKMA.
+24:49
+All income are lost generated from managing the reserve assets, including interest, capital gains and losses,
+24:56
+belong to the specified stablecoin issuer. The trust arrangement must therefore include a mechanism to allow the regular transfer of
+25:03
+excess assets, that is, those exceeding the internal target set by the issuer from the Reserve Assets account to the stablecoin issuers own account.
+25:14
+The mechanism should include a triggering mechanism and detailed procedures to ensure that only the excess assets are transferred out of the reserve assets.
+25:22
+Account issuers are also required to appoint a qualified custodian for the safekeeping of
+25:29
+the reserve assets, which must be a licensed bank or another asset custodian appointed
+25:34
+under an arrangement that's acceptable to the HKMA. Issuers must ensure that any arrangements they enter into with a custodian do not
+25:42
+compromise the full backing of the specified stablecoins. For example, account fees must not be paid out of reserve assets.
+25:50
+If an investment manager is engaged to manage the reserve assets, the issuer must ensure that it is qualified for the role,
+25:57
+in particular when conducting risk assessments and due diligence on a prospective custodian and or investment manager,
+26:05
+as required by the supervisions guidelines provisions on third party risk management, which I'll discuss later.
+26:12
+The issuer must take into account its size, capabilities, expertise, track record, reputation and Hong Kong presence.
+26:19
+However, the engagement of a custodian and possibly also an investment manager does not
+26:25
+alter the fact that the specified stablecoin issuer retains ultimate responsibility and
+26:30
+accountability for the proper management and safekeeping of the reserve assets.
+Redemption Rights
+26:35
+One of the regime's key investor protection provisions is that specified stablecoins must
+26:41
+be redeemable by their holders for their full face value in the reference currency of the
+26:46
+specified stablecoins, or in the same ratio as referenced by the specified stablecoins.
+26:52
+If there's more than one reference currency. The right to redeem must not be subject to the payment of any unreasonable fees or
+26:59
+conditional or unduly burdensome requirements as specified in section 6 of schedule 2 to
+27:07
+the stablecoins ordinance, issuers must have an effective redemption mechanism in place which ensures that valid redemption requests are honored within one
+27:16
+business day of receipt by the issuer, unless the HKMA has granted approval for redemption to be delayed.
+27:22
+The fact is relevant to determining whether a fee charged in connection with stablecoin redemption is unreasonable.
+27:29
+Include whether the fee is proportional to the issuers costs of processing redemption
+27:34
+requests, and how it compares with industry practice. The assessment of whether redemption condition is unduly burdensome should take
+27:42
+into account whether fulfillment of the condition is reasonably practicable, whether it reflects the issue as legal or regulatory obligations,
+27:50
+and whether it will cause undue hardship to holders of the specified stablecoins.
+27:56
+On completion of redemption of any specified stablecoins, the draw down of the issuer's reserve assets to honor the redemption request must be
+28:04
+reflected in a corresponding reduction in the par value of the outstanding specified stablecoins. Specified stablecoin holders must also be given specific rights on the
+28:16
+insolvency of the issuer. In particular, holders of specified stablecoins must have the right to direct the
+28:22
+sale of the reserve assets to redeem all outstanding specified stablecoins on a pro
+28:28
+rata basis and a right to claim against the issuer for any shortfall. If the proceeds of sale of the reserve assets are insufficient to redeem all the specified
+28:38
+stablecoins, issuers need to obtain an independent legal opinion confirming that
+28:44
+they have provided specified stablecoin holders with the required redemption rights and the rights I just mentioned that must be exercisable.
+28:52
+In the event of the issue is insolvency. the issuer must submit the legal opinion to the HKMA and an updated legal opinion must be
+29:00
+submitted if there are any subsequent material changes to the holder's redemption, right or rights exercisable on the issue as insolvency.
+Issuance Mechanism
+29:09
+Licence applicants must be able to demonstrate a viable use case for their specified stablecoins and the ability to operate in a prudent and sustainable manner.
+29:19
+Section 11 of schedule 2 requires that a specified stablecoin issue should be prudent
+29:25
+and sound from the perspective of the purpose, business model, and operational arrangements for the issue.
+29:31
+To comply with this requirement, issuers must adopt a strategy that will ensure the reliability of their specified stablecoins and have a viable business plan
+29:41
+that has a reasonable chance of generating sufficient demand for their specified stablecoins. Stablecoin issuers must maintain an effective stablecoin issuance mechanism.
+29:52
+According to the supervision guideline, they should only issue stablecoins to their customers, and issues should be made promptly after receiving funds and a valid request for
+30:02
+issue. Funds received from customers should be in the same currency as the specified
+30:07
+stablecoins, referenced currency or currencies, and in the same ratio if more than one.
+30:13
+Crucially, every issue of specified stablecoins must be matched by an equivalent increase in the relevant reserve assets pool.
+30:21
+Licensed issuers can issue more than one type of specified stablecoin, but must consult the HKMA before issuing a new type.
+30:29
+For example, a specified stablecoin referencing a different official currency to the first specified stablecoin issued, the issuer will need to demonstrate to the
+30:39
+satisfaction of the HKMA that it has adequate capabilities and resources to manage the
+30:44
+issue of different types of specified stablecoin, and that the issue of an additional type of specified stablecoin will not adversely
+30:52
+impact its existing activities. Licensed issuers that arrange for third party distribution of their specified stablecoins
+Third Party Arrangements
+31:00
+need to ensure that this does not negatively impact the specified stablecoins.
+31:05
+Licensed issuers must consider the legal and regulatory requirements in jurisdictions in which their specified stablecoins will be distributed,
+31:13
+and the licensing status of the third party distributors. If specified, stablecoins will only be offered by third parties in Hong Kong.
+31:22
+Any distributor must be a permitted offerer under the stablecoins ordinance. I'll be discussing the restrictions on offering specified stablecoins in the next
+31:31
+webinar on stablecoin regime. Issuers must also conduct risk assessments and due diligence on third parties,
+31:39
+as required by the supervision guidelines provisions on third party risk management and
+31:44
+in doing so, must take into account the third party distributors size, capabilities, expertise, track record and reputation,
+31:52
+as well as the adequacy of its governance, conduct, standards, risk management and internal controls.
+31:59
+Additionally, licensed issuers must ensure that their arrangements with distributors comply with applicable laws and regulations and the relevant jurisdictions,
+32:08
+and that distributors will not distribute specified stablecoins in any jurisdiction where this is unlawful.
+32:15
+As regards the engagement of third parties to provide secondary market liquidity for a
+32:20
+licensed issuers specified stablecoins, issuers are required to consider whether
+32:25
+their engagement is necessary and if so, the extent and scope of their engagement.
+32:31
+Given their business model and operations. Issuers need to ensure that the arrangements prioritize maintaining a relatively stable
+32:39
+value for the specified stablecoins in the secondary markets, and that all potential and actual conflicts of interest have been identified and
+32:46
+mitigated. Licensed issuers must comply with all relevant laws and regulations in the
+32:53
+jurisdictions in which they issuer offer specified stablecoins. To facilitate compliance, issuers must establish a robust framework of
+33:02
+policies and procedures, including measures to prevent the issuance or offering of specified stablecoins in jurisdictions where these activities are
+33:10
+prohibited, such as through verification of identity documents, geolocation checks using IP addresses or global positioning systems,
+33:19
+and access blocking. In particular, licensed issuers should implement controls to
+33:26
+mitigate the risks of location spoofing, for example, through the use of virtual private networks, issuers are required to review their policies
+33:35
+and procedures for the issue, redemption and distribution of their specified stablecoins regularly and at least annually.
+33:43
+Any deficiencies identified during these reviews must be promptly rectified, and all material updates must be approved by the board.
+33:51
+In addition, issues must perform regulatory and regular audits to determine whether their
+33:59
+operations are conducted in compliance with their internal policies and procedures, and applicable regulatory requirements.
+34:06
+The results of these audits and any material findings must be promptly reported to the HKMA. Issuers will also need to provide a copy of the audit report and supporting
+34:19
+documents to the HKMA if requested. To do so, issuers will also need to provide a copy of the audit report and supporting
+34:28
+documents to the HKMA if requested. To do so, issuers must immediately report to the HKMA any breach of the statutory or
+34:37
+regulatory requirements relating to the issue, redemption or distribution of specified stablecoins and any material non-compliance
+34:45
+with the licensed issuers. Issue redemption and distribution policies, including any that are due to third party
+34:51
+arrangements. License specified stablecoin issuers are prohibited from paying interest
+34:58
+on specified stablecoins, or allowing others to do so by section 15 of
+35:05
+schedule 2 to the stablecoins ordinance. For these purposes, interest includes any profit,
+35:10
+income, or other return payable to holders based on how long they've held the specified stablecoin or its Par or market value.
+35:19
+Issuers can, however, offer marketing incentives that do not amount to interest payments. The issue of specified stablecoins must be the principal business of
+35:29
+a licensed issuer, and issuers must have dedicated and sufficient resources to conduct
+35:34
+their licensed stablecoin business. The prior consent of the HKMA must be obtained before a licensed,
+35:41
+specified stablecoin issuer conducts any business activity other than issuing
+35:47
+specified stablecoins. Where HKMA consent is granted, the issuer must implement controls to ensure
+35:54
+that the other business activity will not pose a significant risk to its specified
+36:00
+stablecoin business, and that any conflicts of interest arising from the other business activity will be properly managed and mitigated.
+36:10
+This provision does not apply to specified stablecoin issuers that are authorized institutions, which must instead comply with the requirements of the banking ordinance.
+Risk Management Framework
+36:20
+Section 9 of schedule 2 to the stablecoins ordinance requires a licensed, specified stablecoin issuer to have in place suitable risk management policies and
+36:30
+procedures for managing the risks associated with its specified stablecoin activities.
+36:37
+These should be proportionate to the scale and complexity of the issuers operations, and must include controls to ensure the confidentiality and accuracy of data,
+36:48
+especially personal data and records, reliable mechanisms to identify fraudulent
+36:53
+activities and attempted fraud, and robust and tested contingency arrangements to manage disruptions to its operations.
+37:02
+The HKMA's consent is required if a licensed issuer will not implement risk management policies and procedures that comply with this requirement.
+37:12
+The supervision guideline provides detailed guidance on the extent of issuers risk management controls. It requires licensed issuers to establish a risk governance
+37:22
+framework that clearly defines the responsibilities of the board. Any specialised committees, senior management and their different
+37:29
+functions. The framework should enable the board and senior management to put in place a
+37:35
+sound business strategy. Monitor the issuers adherence to its risk appetite and risk limits and identify,
+37:42
+measure, manage and control risks. This should involve three lines of defense.
+37:48
+First, individual business unit should conduct ongoing risk identification, assessment, management and reporting.
+37:55
+Secondly, the issuer must have an independent risk management function which is responsible
+38:00
+for overall risk identification, assessment, monitoring, reporting, control and mitigation.
+38:07
+A separate compliance function is required to be responsible for managing compliance risk.
+38:13
+The third line of defense is an independent internal audit function with responsibility
+38:18
+for assessing the issuer's internal systems of control. The risk management, compliance and internal audit functions must have adequate authority
+38:27
+and resources and unrestricted access to the information they require, and be independent of the front line business units.
+38:35
+The risk management and compliance functions should generally report directly to senior
+38:41
+management, while the internal audit function should report to the board or a board committee. The risk management function should also have direct access to the board,
+38:51
+and the compliance function must be able to report matters directly to the board where necessary. Licensed issuers must have documented policies and procedures to
+39:00
+identify, assess, monitor, report, control and mitigate all material risks associated with their activities.
+39:07
+These risks include credit, liquidity and market risks, technology, operational and reputational risks,
+39:14
+and risks associated with money laundering and terrorist financing. Issuers need to evaluate their exposure to all material risks associated with their
+39:23
+businesses, and should establish measures to monitor their material exposures on an ongoing basis. These measures should include qualitative and quantitative assessments of
+39:33
+the issuers risk exposures and provide early warnings of risk materialization.
+39:39
+Risk reports are required to be submitted to senior management and the board, and these should include the results of the risk monitoring and any assessments of the
+39:47
+risk management framework conducted, for example, by the risk management or internal audit function.
+39:53
+Effective internal controls are required to be put in place to ensure, among other things, the provision of reliable financial information,
+40:01
+the confidentiality of essential data and compliance with applicable regulatory requirements. The internal control framework must address all material risks and contain
+40:12
+suitable policies and procedures for managing or mitigating those risks. The issuer's risk management framework and its key procedures,
+40:20
+and any material changes to them, must be approved by the board. The risk management framework should also establish procedures for monitoring
+40:28
+compliance with the issuer's internal controls, and define the consequences of non-compliance.
+40:34
+Licensed issuers must review their risk management framework and internal control system regularly and at least annually, and any shortcomings identified must be
+40:44
+addressed promptly and rectified by updating the issuer's policies and procedures.
+40:49
+Under section 5(6)(a) of schedule 2 to the AMLO, licensed issuers must have robust risk management policies and procedures for
+40:58
+managing their reserve assets to ensure timely fulfillment of valid redemption requests. The supervision guideline requires an issuers risk management framework to
+41:08
+address credit, liquidity and market risks and ensure that specified stablecoins are
+41:13
+fully backed by reserve assets at all times, including under stress conditions.
+41:19
+In terms of credit risk management in managing their reserve assets, issuers are required to manage their credit risk exposures to counterparties and set and
+41:29
+enforce internal credit exposure limits based on counterparty creditworthiness.
+41:34
+If limits are breached, issuers must follow established response procedures, including notifying the HKMA if the breach persists for more than one
+41:43
+business day, licensed issuers must have an effective liquidity risk management framework
+41:49
+to anticipate and monitor their liquidity needs to meet valid redemption requests under
+41:54
+normal and stressed conditions. This framework should include strategies to manage the liquidity characteristics of their
+42:01
+reserve assets, such as instrument types, maturities, and counterparties. In particular, issuers must establish liquidity risk
+42:10
+indicators such as cash ratios and the ability to convert assets to cash within
+42:16
+specified time frames, and should set internal limits for these indicators. Procedures need to be put in place to respond to a breach of these
+42:25
+internal limits, including HKMA notification where the breach lasts more than one business
+42:31
+day. In terms of market risk management, issuers are expected to monitor their reserve
+42:37
+assets. Market risk Using market risk indicators similar to liquidity risk,
+42:43
+issuers need to enforce internal limits and have response procedures for breaches,
+42:48
+including notification to the HKMA Where a breach lasts longer than one business day.
+42:55
+Licensed issuers must conduct stress tests regularly and at least quarterly, using severe but plausible scenarios to evaluate the resilience of their reserve
+43:04
+assets to credit, liquidity and market stress. The scenarios and assumptions used in stress testing need to be regularly reviewed,
+43:13
+and any material changes must be reviewed by the board. The methodologies, data sources and results of stress tests must be reported to the board
+43:21
+and the HKMA. HKMA Licensed stablecoin issuers must maintain a technology risk
+Technology & Operational Controls
+43:29
+management framework to ensure the adequacy of their information. Technology controls the quality and security of their technologies and the safety and
+43:38
+efficiency of their operations. In terms of token management, licensed issuers are required to document the
+43:44
+token standards and distributed ledgers used, and the smart contract architecture for each specified stablecoin.
+43:52
+They must implement authorization procedures appropriate to the degree of risk involved for each operation throughout the stablecoins lifecycle,
+44:00
+and ensure that high risk operations cannot be executed unilaterally,
+44:05
+for example by implementing Multi-signature requirements. Detailed procedures and appropriate controls must be in place to ensure that operations
+44:14
+are securely executed. Consideration should be given to imposing additional security measures such as velocity
+44:22
+limits on transactions, restrictions on issuing specified stablecoins except to whitelisted wallet addresses, and time locks for certain operations to
+44:31
+ensure that operational execution is robust and secure. Licensed issuers must only authorize suitably screened and trained staff to execute.
+44:41
+Operations and operations must be segregated among different staff members to provide
+44:46
+checks and balances. Licensed issuers must also conduct comprehensive assessments of the
+44:52
+robustness of the distributed ledgers on which specified stablecoins will operate,
+44:57
+by reference to factors including their security infrastructure, such as the cryptography used and their resilience to attacks.
+45:06
+Issuers are also required to appoint a qualified third party to audit the smart contracts at least annually, and whenever there are smart contract
+45:15
+upgrades, stringent controls are required to be put in place to cover the full life cycle
+45:20
+of cryptographic keys, from generation to usage to destruction. Higher security standards are required for significant seeds and or private keys
+45:29
+involved in the deployment or upgrade of smart contracts in relation to stablecoins
+45:35
+role management and operations that materially affect the stablecoins supply.
+45:40
+The stablecoins guideline sets out the HKMA's detailed expectations on the controls to be
+45:46
+implemented for each aspect involved in wallet and private key management, including hardware and software management, key generation and distribution,
+45:56
+key storage and inventory, key usage, rotation and destruction, and key compromise, backup and recovery.
+46:04
+In particular, licensed issuers must ensure that all hardware and software involved in
+46:09
+wallet and private key management is secure and reliable. Cryptographic seeds must be generated using robust cryptographic algorithms that ensure
+46:19
+randomness and prevent copying. The generation or derivation of private keys from seeds must occur in the same way.
+46:27
+Seeds and private keys must be generated in a secure environment, such as a hardware security module.
+46:33
+Generation of significant seeds in private keys should occur offline in an air gapped
+46:38
+environment, and have physical security controls in place. Licensed issuers are required to implement policies and procedures governing information
+46:47
+management. In particular, they must ensure that sensitive information is encrypted using strong and widely recognized encryption standards,
+46:57
+both during storage and transmission. This includes implementing end to end encryption protocols to protect data from
+47:04
+theft, unauthorized access, and modification when it's being transmitted to or from the issuer's systems.
+47:12
+As regards information retention and disposal, issuers must only collect and retain information that is strictly required for the
+47:19
+conduct of their business, and access to this information must be restricted to individuals with a legitimate need to know.
+47:28
+Issuers must have an information retention and disposal policy that limits the amount of information kept and the period for which information is retained,
+47:37
+which reflects applicable legal and regulatory requirements and operational needs. It must also include procedures for the secure deletion of information that's no
+47:46
+longer required. Licensed issuers are required to have policies and procedures in
+47:52
+place to manage their operational risks. They must additionally put in place policies for managing risks associated with third
+48:00
+party arrangements. Issuers must conduct thorough due diligence on third parties
+48:05
+covering the quality of their services or operations, financial stability, reputational and technical capabilities to ensure that the
+48:13
+services operations they provide will meet the required performance standards and comply
+48:19
+with applicable regulatory requirements. Issuers are also required to continuously monitor third parties operations and conduct
+48:27
+regular risk assessments to ensure that material risks arising from their arrangements with third parties are addressed.
+48:35
+Issuers must ensure that third party arrangements do not prevent the authorities, including the HKMA or the issuers auditors, from accessing data relevant to the issuer.
+48:45
+Issuers should also implement procedures to ensure that third party arrangements comply with the Personal Data Privacy Ordinance, and relevant codes of practice and
+48:55
+guidelines. Material third party arrangements, including arrangements for the custody of reserve assets,
+49:01
+distribution of specified stablecoins and provision of critical IT services must be
+49:07
+notified to the HKMA before they commence. In terms of disclosure obligations, licensed stablecoin issuers must publish a
+White Paper & Disclosure Obligations
+49:15
+white paper for each specified stablecoin they issue, containing comprehensive information about the stablecoin.
+49:22
+White papers must be published on issuers websites in a reasonably prominent position and written in non-technical language where possible.
+49:31
+The required contents for white papers include general information about the issuer and detailed information about the specified stablecoin,
+49:39
+including the arrangements for the management of the reserve assets. A white paper must also disclose information about holders rights to redeem,
+49:48
+including the redemption process and time frame, and any applicable redemption fee or condition.
+49:54
+The terms and conditions of a specified stablecoin must be included in the white paper, and must cover the arrangements for issuing redemption during exceptional
+50:03
+circumstances, such as hard forks and details of the transfer mechanism for the specified
+50:09
+stablecoin. Given the operations of the underlying distributed ledger, white papers are also required to disclose the issue and distribution mechanisms,
+50:18
+and any arrangements with third parties for distribution, as well as the underlying technology and the risks of using the specified stablecoins.
+50:27
+Licensed issuers must notify the HKMA before publishing or making material changes to a
+50:32
+white paper. Licensed issuers must submit their audited financial statements to the
+50:37
+HKMA within four months of their financial year end. These must be prepared in accordance with applicable accounting standards and cover the
+50:46
+reserve assets backing the issuers specified stablecoins. Section 14 of schedule 2 to the stablecoins ordinance requires licensed issuers to make
+50:55
+complaints, handling and redress mechanisms available to holders of their specified stablecoins. These mechanisms must be fair and efficient,
+51:04
+and must not impose any unreasonable cost, delay or burden on holders. Under the supervision guideline, complaints should be managed by competent
+51:12
+staff not involved in the subject of the complaint. Issuers must have effective policies covering all stages of the complaints process,
+51:21
+from acknowledgement to Resolution and follow up complaint records must be kept for at least two years and comply with personal data protection laws.
+51:30
+Issuers must remedy issues highlighted by complaints and report to the HKMA when
+51:36
+requested, or when complaints reveal compliance issues are repeatedly about the
+51:41
+same unresolved issue, the complaints handling system must be publicly accessible, and the complaints process and expected time frames,
+51:51
+as is required to be prominently displayed on the issuer's website. Complaints must be acknowledged within seven days,
+51:58
+and a full response is required within 30 days. If the final response can't be provided within 30 days,
+52:05
+the issuer should inform the complainant of the reasons for the delay and provide an indicative timetable for a full response, which should generally be provided within 60
+52:15
+days. Licensed issuers must also ensure that any third party distributors of their
+52:20
+specified stablecoins have procedures to effectively handle complaints.
+52:26
+Section 16(1) of schedule 2 requires licensed issuers to have a robust governance framework
+52:32
+for incident management and ensuring business continuity. Under the supervision guideline, the Incident Management Framework must ensure
+52:40
+a timely response to matters that can materially impact the issuer's business, operations, assets or reputation, or breach legal or regulatory requirements.
+52:49
+It should define criteria for classifying the materiality of incidents, establish detection and monitoring systems, and set indicators for activating response
+52:59
+procedures. These indicators are required to cover credit, liquidity, market, technology, operational, depegging,
+53:08
+reputation and legal risks. Issuers must develop response procedures to mitigate the impact of incidents,
+53:14
+including strategies for handling liquidity stress and maintaining reserve asset backing.
+53:20
+Issuers need to adopt measures to ensure the orderly issue redemption and distribution of
+53:25
+specified stablecoins, especially during operational disruptions. If third party distributors are engaged, issuers must have procedures for dealing with
+53:35
+disruptions to their services, such as identifying alternative distributors.
+53:40
+Measures must also be in place to deal with any material depegging of specified stablecoins in secondary markets and technological failures after an incident,
+53:50
+issuers must conduct a review to identify the cause and take rectification action where
+53:55
+necessary. In terms of business continuity, issuers are required to implement systems for
+54:01
+the recovery and continuity of their critical functions during significant operational disruptions. Issuers must have a comprehensive business continuity plan
+54:11
+outlining critical operations, activation criteria, recovery strategies, escalation and communication Procedures and containing the
+54:20
+contact details of key personnel. Systems must be in place for critical information to be backed up as soon as
+54:27
+possible, on a continuing basis at an off site location. Instantaneous backup should be implemented if issuers consider it appropriate for certain
+54:36
+types of information. Issuers should select alternative sites for business and IT
+54:42
+recovery, which must be ready for occupancy within the timeframe specified in the business Continuity plan.
+54:49
+Licensed issuers must review and test their incident management framework and business continuity and exit plans regularly and at least annually,
+54:57
+and following any activation of either plan. Any deficiencies identified during a review or test should be reflected in amendments to
+55:06
+the framework or plan, which must be approved by the board. Issuers also need to conduct regular audits to assess whether any execution of their
+55:15
+incident response procedures and business continuity recovery strategies comply with their framework and plans and applicable requirements.
+55:23
+The results of an audit and its material findings must be reported to the HKMA promptly. Issuers must provide the HKMA with contact details of the key personnel
+55:33
+responsible for implementing the Incident Management framework and business continuity and exit plans, and notify the HKMA of changes to these personnel and when the
+55:43
+framework or plans are likely to be activated. If an issue has incident response procedures,
+55:50
+business continuity recovery strategies or Business exit plan would delay its redemption
+55:55
+of specified stablecoins beyond the one business day allowed for redemption, it must obtain the HKMA's prior consent to the delay.
+56:04
+Under section 16(2) of schedule 2 licensed issuers must have procedures in place to
+56:09
+ensure that an orderly wind down of their business and orderly redemption of their specified Stablecoins could be conducted if necessary.
+56:18
+According to the supervision guideline, issuers must have an exit plan with detailed
+56:24
+procedures for liquidating their reserve assets under normal and stressed conditions,
+56:29
+facilitating the filing of redemption claims by holders, distributing the proceeds to holders and making arrangements with third parties.
+56:37
+Issuers need to assess the time and resources needed to execute their business exit plan,
+56:42
+to ensure they have adequate measures in place to conduct an orderly wind down if necessary. A licensed issuer must have a sound governance structure to ensure
+56:53
+effective decision making and proper risk management. This should comprise a clear organizational structure with defined reporting lines and
+57:02
+allocation of responsibility. The issuers board has ultimate responsibility for the issuers operations.
+57:09
+Independent non-executive directors should make up at least one third of the board. As I mentioned earlier, licensed issuers are also required to have
+57:18
+independent compliance and audit functions. Stablecoin issuers are required to establish a code of conduct,
+57:24
+setting out the standards of conduct expected of their directors, senior management and staff.
+57:30
+This should expressly prohibit conduct that could result in the stablecoin issuer breaching its obligations under the stablecoin ordinance or conflicts of
+57:39
+interest. The board is also responsible for implementing a remuneration policy.
+57:45
+There are additional continuing obligations for licensed issuers under the Stablecoins Ordinance, including a requirement under section 23 for a licensed issuer to display
+57:55
+its license number on all advertising materials relating to its stablecoin activities and on any consumer facing software applications.
+58:04
+This transparency measure is designed to protect the company and distinguish regulated
+58:09
+entities from unlicensed operators. Failure to comply with this obligation is an offence.
+58:16
+Licensed issuers also have significant reporting duties to the HKMA and should
+58:21
+appoint designated staff for for communicating with the HKMA. They must report to the HKMA immediately if they're likely to become unable to meet their
+58:31
+obligations, or insolvent, or about to suspend payments as specified in section 25 of the Stablecoin Ordinance.
+58:38
+Any change to an issue as address must be reported to the HKMA within seven days under
+58:44
+section 26, while section 27 requires a stablecoin issuer to report any material
+58:50
+change that could affect its ability to meet any of the minimum criteria under schedule 2
+58:56
+or its compliance with any condition attached to its licence, or otherwise affect its licensed business activities.
+59:03
+These obligations ensure that the HKMA has real time insight into the financial,
+59:09
+health and operational integrity of its licensed issuers, enabling it to act preemptively if risks arise.
+59:16
+An annual license fee of 113,020 HKD is payable within 14 days of the effective date
+59:24
+of an issuer's license, and annually on or before each anniversary of that date.
+Conclusion
+59:30
+So that brings me to the conclusion of this webinar. Thank you again. And bye.
+

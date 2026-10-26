@@ -1,0 +1,868 @@
+
+Search in video
+Bryan's background: from Evercore and Moelis to crypto
+0:00
+There's not a lack of people wanting to tokenize assets, but the key question is where is the demand coming from? A
+0:05
+cowpers or like a pension plan should be using stable coins to invest in different products that's on the
+0:11
+blockchain. Those are not billions but trillions of dollars that could really flow into the blockchain ecosystem. We have a very narrow window in my opinion
+0:18
+within the next 2 to four years. We will have major adoptions meaning like actual financial institutions settling their
+0:23
+trades, moving their money and people using stable coins through this new infrastructure that we built for so
+0:28
+long. Brian, welcome to Monad in the morning. It is awesome to have you here.
+0:35
+We've been on the show for about a half hour. So, um teed up a a brief intro
+0:41
+with the the live listeners, but would love to hear from your perspective. Um
+0:47
+quick little highle intro. What do you work on and and what's your background as well? Yeah, thanks for having me here today.
+0:53
+Brian Cho from RWXYZ. We focus on tokenized assets. We try to provide an analytics and a standard for
+1:00
+the industry. My background is I worked in finance uh before I joined for about 10 years and a lot of you know smart
+1:06
+people in crypto have worked in finance before but where I can bring a little bit of different perspective hopefully
+1:12
+is because I worked in the private markets meaning I worked started my career in M&A at Everore that worked at
+1:17
+a private equity fund at Molus and then I switched and did a lot of real estate private equity. So I've had a lot of
+1:24
+career in like investing in private markets and assets. So hopefully that brings a little bit different perspective here.
+1:30
+What got you into crypto in the first place? Oh boy. I think uh that's a very long
+1:35
+story but to make it short um we always have that one friend who's always like enthusiastic about Bitcoin and Ethereum.
+1:41
+I had one of those back in 2017 and he was telling me about all this stuff and that got me interested initially and I
+How stablecoins and capital markets pain points led to RWA
+1:47
+went down the rabbit hole like many of us here and what really got me interested was the stable coins at the
+1:53
+time because I think it was around 2021 that cycle like stable coin you know
+1:58
+narrative started picking up a little bit and I thought wait a minute this is very interesting it could be like related to payments but also a step
+2:05
+further it could be used for like capital markets because I saw a lot of pain points when I was at my real estate
+2:10
+private equity fund. We're raising money from investors that takes like 18 to 24 months, which is like unthinkable in
+2:16
+crypto. And after that, even if you raise like the way you call the capital, move the capital through the system and
+2:22
+invest it and report back to the investors, there's just a lot of different layers that are not very
+2:27
+efficient, for lack of a better word. So, uh, I started thinking maybe we could be using these kind of stuff. But,
+2:33
+um, at the time there was no real use case for this. And then I heard of um certain private equity funds that are
+2:38
+actually being tokenized on certain other blockchains. I thought this is very interesting. So I started digging in. Fast forward you know we saw the
+2:45
+bare cycle and then ironically through the bare cycle this tokenized asset narrative kind of picked up and I
+2:51
+started searching about this new RWA thing which sounded kind of like what I thought you know would take off a couple
+2:57
+years ago. Found the website and I was like well it's really interesting. they have all these different assets on
+3:03
+different blockchains and different platforms that are doing it. Uh got in touch with the founders, we started
+3:08
+talking and I think you know it was like a match made in heaven like we decided it would be good to like work with each
+3:13
+other. So now I'm here uh at the company I mostly lead research and I talked to a lot of institutional clients who are
+3:20
+interested in this space. So happy to share some insights and I also uh had the listing operations. So when new
+3:27
+products get launched into the market, I me and the team like review it to make sure like we understand what it is so we
+What crypto natives are missing about institutions
+3:33
+can properly represent it on our website. Yeah, I'm definitely curious for your perspective on a lot of things, but the
+3:39
+the institutional side in particular. Yesterday we filmed a a video with
+3:45
+Daniel Lynch who's at Consensus um and MetaMask focusing on the payments
+3:50
+side in particular. He was formerly Swift and he basically uh you know said
+3:57
+to me yesterday while we were filming this video, there's actually not an incredible overlap between people who
+4:03
+are very experienced in Tradfi and in banking and those who are experienced in
+4:09
+crypto. If you put it on a ven diagram, the overlap is like pretty small. You could put probably most of those people
+4:16
+in a single relatively intimate room. And so I'm curious, you know, what your
+4:23
+perspective is on the institutional side in particular. There's been a lot of
+4:28
+excitement around RWAs and payments and stable coins over the past year or two,
+4:35
+certainly more than we've ever seen historically. And so what do you think
+4:40
+the crypto natives are maybe missing or less aware of that is um you know
+4:47
+commonly talked about or you know a big focus for the institutional side right
+4:53
+now. Yeah, very interesting question and I think it can be tied back to um the lack of understanding on both sides to
+4:59
+be f to be quite frank because uh there's the cryptonative side which is a big part of this ecosystem but there's
+5:06
+also trfy people who are kind of looking into the system. It's almost like two different tribes are kind of converging
+5:11
+but the problem is we don't speak the same language and that's part of what we're trying to solve here. Um as for
+The three phases of tokenization: record, capitalize, compose
+5:18
+the traditional finance institutions I mean we heard the term that institutions are coming like long long time ago and
+5:23
+it's like the boy who cried wolf like when are they coming what are they doing so initially they got involved through
+5:28
+like the bitcoin ethereum and the digital assets or crypto assets we as we call it I I think the shift has been a
+5:35
+little different I mean that's still major part of their plans but they're also looking into this uh tokenized
+5:40
+asset space because for them a lot of their assets already exist in the offchain world on their balance sheet or
+5:46
+their counter party's balance sheet and they are seeing this as an opportunity
+5:51
+to dispute those products to a new market if if you will and that meta has
+5:57
+been slowly coming to the market. I think of so 2023 was like the proof of concept. You know, you had the Franklin
+6:02
+Templetons and some of the other early frontier people trying new proof of concepts and 2024 you have the Black
+6:09
+Rockck coming into the market that was like a watershed moment as we all know made a big splash with a big name and
+6:14
+like billions of dollars pouring in and I think that validated for people okay this is something worth looking into. So
+6:21
+we started receiving a lot of like initial interest from various people whether it be financial institutions,
+6:26
+banks or regulators even and the government government people. Um they were kind of reaching out to us saying
+6:32
+hey we're kind of interested exploring like what's out here? What do we need to know? Fast forward to 2025 and today
+6:39
+it's a little step further than that. It's no longer we're exploring this. It's more of like this is what we're
+6:44
+thinking. What are you guys seeing in the market? Does this make sense? Or who are the other players we should be connected with? So TLDDR, they are
+6:52
+looking not only looking into it, they're actively launching products as you we all know. So I I think it'll it's
+6:58
+a real uh movement here. Yeah. Speaking of launching products, we saw the announcement this morning and we
+7:04
+started to talk about it, but I I figure you're definitely more of an an expert than I am. Um announcement this morning,
+7:12
+$4.3 trillion mortgage provider Fanny May to accept cryptobacked mortgages.
+7:19
+Any thoughts on that announcement, what this might mean in terms of opening up new opportunities? I mean, $4.3 trillion
+7:26
+dollars alone is is pretty significant. Any any thoughts on on that announcement and um you know, the ways these use
+7:33
+cases are tracking from a forward-looking perspective. Yeah, admittedly, I haven't seen the announcement yet, but uh that's very
+7:39
+interesting. I think that means u people they'll be people will be able to submit their crypto assets as part part of the
+7:45
+underwriting for um what you can write against and the loan market in general obviously
+7:50
+mortgage is very big part of that I think the loan markets has a very native use case for blockchains especially
+7:56
+because unlike the public securities markets or public stocks as we know it it's already being actively traded and
+8:03
+people have connection to it you know you can use your Robin Hood app to like buy small pieces or fractionalize it so the concepts already exist
+8:09
+But for loans that are that's more difficult. It's also more often B2B meaning that institutions are creating
+8:15
+the product and aggregating all the loans packaging into security and then selling it to like different investors
+What allocation vaults are and why institutions care
+8:20
+who want piece of that. There's a lot of inefficiencies associated with the pro process and especially for mortgage back
+8:26
+securities too. They're like the lifeblood of like America and like know the world economy for lack of a better
+8:31
+word. So we see tremendous opportunities in like the securitization space as well as the loan space. So um and that also
+8:40
+compare you know is very compatible with the uh the DeFi markets that are kind of looking for that yield. So I it could be
+8:46
+a very interesting play for both sides. Speaking of that, uh you you wrote an article, I think twoish weeks ago about
+8:55
+allocation vaults called primer for institutional asset managers and uh yeah would would love to dig into that a
+9:02
+little bit and and speak about what first of all are are allocation vaults, how do they work? Um and what are you
+9:08
+seeing from institutional asset managers? Why is now the time to write that article and what is the response
+9:14
+you've been seeing as a result of that? Yeah, I think that you know goes back to the discussions we've been having with
+9:19
+institutions. A lot of them have reached out and specifically um like late last year and early this year a lot of them h
+9:26
+have been asking about these faults because uh you know these people are very well educated. They know the market
+9:31
+very well and they figured that DeFi infrastructure needs to be paired with their products but you know they needed
+9:38
+to go deeper than that and I think the lending and borrowing markets are it's more like the um the plumbings of the
+9:45
+world so it wasn't apparent to them what that exactly represented. it was hard to wrap their heads around it. But when the
+9:51
+fault meta kind of started taking off, I think that structure looked very familiar to them because it's very
+9:56
+comparable to a uh traditional fund vehicle or ETFs that they understand very well. So we heard a lot of inbound
+10:03
+saying, "Have you heard about this fault thing? Like we kind of understand it, but we want to better understand it. Are
+10:08
+there any good resources? Like who should we talk to?" And there are a couple good resources out there. Like we
+10:14
+weren't the first ones to write about this obviously, but a lot of them targeted towards more technical people
+10:19
+or more cryptonnative people and our goal was why don't we write a piece that explains in the language that these guys
+10:25
+speak and then use it the frameworks that these people are familiar with to help facilitate their understanding. So
+10:31
+our goal was for anyone to just print this primer and read it on their desk and then after they read it they can be
+10:37
+like all right I'm not an expert at this but I know enough to talk to like the morpho the a and the oilers and other
+10:42
+people of the world. So that was our goal and what prompted us to write this piece. So, so with that we see a
+10:48
+convergence uh of multiple ways that institutional capital uh is coming and playing on chain and as you said part of
+10:55
+this is through these allocation vaults where uh you know gives them a way to
+11:00
+essentially earn yield through these D5 native protocols. On the other side obviously you guys are focused on RWA
+11:06
+tokenization. So maybe for some of the listeners who are new to the space how would you explain real world asset
+11:13
+tokenization what that really means? uh and why that's relevant now how that's changed from as you mentioned you know
+11:20
+starting in 202122 we saw some of the first attempts of that what what does RWA tokenization mean today
+11:27
+yeah very uh important question because um there's a lot of misconceptions about tokenized assets mean and internally we
+How leverage loops and yield arbitrage actually work in DeFi
+11:33
+even have sometimes difficulty like drawing the line is where does the tokenization end here like is this a tokenized asset or is this not so
+11:39
+broadly speaking we define tokenized assets as any asset that's not natively originated on chain so like the uh the
+11:46
+bitcoin for example like that's not a tokenized asset because it was formed and lives primarily on the blockchain.
+11:52
+However, there are lots of assets tokenized treasuries for example like the black rocket securityizes uh b fund
+11:58
+that's not originated on chain like it's resides offchain but it's brought on chain and we call that tokenization
+12:04
+that's how we define it um I think uh the evolution of tokenized assets going
+12:10
+back to 2021 can be explained in the threephase arc that's how we've been kind of framing the story I think that
+12:16
+resonates a lot with institutional investors because um initially the play was it's an operational efficiency
+12:23
+improvement infrastructure. So Franklin Templeton actually is a great example. They launched their Benji product, their
+12:29
+um tokenized treasury product in 2021 and in the filing the S1 they filed the
+12:35
+SEC. It explains what blockchain network is and how it will improve their settlement and and improve the
+12:41
+redemption and subscription for example and that'll bring down the cost of the operations. But I think when people
+12:47
+started to realize that when they tokenize stuff on chain, there's some capital that's already on the blockchain
+12:53
+that likes to invest in these stuff. So for example, there's, you know, a lot of
+12:58
+blockchain networks have a lot of reserve capital. They need to tre manage their treasuries, for example. Um, they
+13:04
+could be invest in those products directly if those products are on chain. And through 2023 and 2024, these
+13:10
+institutions found that hey, it's not just like making our you know operations efficient which is a big part of the thesis. However, it's also a new
+13:18
+distribution market channel that we can use to like sell our products. So we call that the uh the first phase the
+13:23
+record phase where assets were represented on the blockchain and the second part is the uh the capitalization
+13:30
+phase where it's rep it's distributed on the blockchain. I think now we're at the third phase which I call the compos
+13:36
+phase and this is people realizing just because you have a product on the blockchain doesn't mean people naturally
+13:42
+buy it because there's a lot of products out there. You got to think about how do we connect it to the different infrastructures that's already on the
+13:48
+blockchain and understand the uh needs of the onchain investors so that together we can really you know drive
+13:55
+that demand for our assets. That's I think that's where we're at right now. and and what does that distribution
+What makes a blockchain attractive to institutional issuers
+14:01
+phase look like right now? How do you uh you know as you mentioned there's a challenge that's bigger than simply
+14:07
+issuing these assets on chain. Now it's about distribution access to capital. How how do these institutional
+14:14
+tokenizers actually market and distribute uh these new assets? Yes. So to touch on a question you asked
+14:20
+prior to this um a lot of it people ask like why are tokenized assets like taking off again? like why is it the big
+14:26
+talk of of the every conference? I think the reason goes back to it's very simple economics because um during the you know
+14:33
+the crypto bull market defi lending markets like crypton native lending markets rates have been very good. So u
+14:39
+people didn't really need to focus on this part but now we're for better or for worse we're in the bare market and the lending rates are way down because
+14:45
+people are less likely to borrow their stable coins using their crypto collateral. So the only thing that's
+14:51
+giving out high yields now is these off-chain assets that are not correlated with the um with the crypto markets. So
+14:57
+treasury products for example are still yielding like you know like 3 to 4% or even 5% in some cases. And if you can
+15:03
+borrow your stable coin at 2% for example and you invest in 5% there's that spread which they can capture. So
+15:10
+even if you're not philosophically aligned with this tokenized asset concept I think it makes sense for a lot of platforms a lot of networks and a lot
+15:16
+of players. I think that's why everyone's kind of looking at this saying this is the thing that makes sense. So very excited about it.
+15:23
+I did notice that we lost the light above your head and so I I want to uh
+15:31
+offer to pause if we can uh quickly get that rebooted. If not, that's okay. It's
+15:37
+still it still looks great, but we actually just did a renovation in the studio here. Um, and so it's best if we
+15:46
+give it our uh our best look overall. So, let's see if Thiago can uh
+15:53
+There you go. Nice. It's a very nice studio. Hope it's not a omen of sign of things
+15:59
+that hope hope not. This is episode two in this in this new studio. Yeah, thank you
+16:06
+for for bearing with us. Um yeah, I mean one one interesting thing that
+16:12
+allocators are doing is as you mentioned you're able to kind of arb this spread
+16:17
+uh between lending and borrowing and then you're also able to create leverage loops with this are how are you seeing
+16:23
+different people do that can you explain how that actually works yeah so that's the tricky part and I had to spend a lot
+16:30
+of time to understand it u but basically it's about supply and demand so you know the allocation vaults think of it as
+16:36
+like a mechanism or if you hold a stable coin and you don't know which market to lend it against. You're kind of
+16:42
+entrusting the curators of these vaults to say, "I'll pay you a fee, but you're the expert. There are hundreds of
+16:48
+different markets out there. You decide on behalf of me where to allocate my money and earn the best risk to adjusted
+16:54
+yield." And this evolution is interesting because um I think of how the markets are structured now. For
+17:00
+example, in the past, we didn't have a lot of different isolated markets. And at the time like anyone could just invest a stable coin into like a
+17:06
+platform or like a DeFi protocol itself and just earn a yield based on like multiple basket of assets. Now when you
+17:12
+have hundreds of different markets it's really hard unless you're in the trenches every day which I'm not and I assume a lot of people are not. You
+17:18
+don't have time and you know expertise to do that. You trust a trusted party to make that decision for you. And that
+17:24
+construct is very similar to what happens in trify world. people allocators in you know entrust actual
+17:31
+asset managers and investors to manage their money on behalf of them you know give them a fee and earn safe returns
+17:38
+going back to the mechanism the supply and demand so the vault will supply the stable coins into the actual lending
+Why headline risk keeps banks cautious about which chain to use
+17:45
+market and it's all about the utilization rate right now right because interest rate will depend on how much
+17:50
+stable coins there is and how much is being collateralized and being used so when you have more stable coins going
+17:56
+into these markets It'll in it'll decrease the utilization rate which means anyone with a collateral that's
+18:02
+yielding now can borrow the stable coins at at a lower interest rate which is attractive for them to start deposing it
+18:08
+and borrowing it and loop it as we call it. Now there's an equilibrium because that will drive up the utilization rate
+18:14
+which will kind of you know make it less attractive but then on the other side the vaults alloc curators will see that
+18:19
+you know the utilization rate is going up the yields are becoming more attractive so they'll allocate more to it. It's like a very dynamic
+18:26
+equilibrium. And when you have that a well- definfined market and a lot of
+18:31
+stable coin liquidity coming into it, that actually can drive the demand for the underlying asset because people if
+18:37
+they see there's an arbitrage opportunity or spread opportunity. They they'll buy more of the underlying loopit increase their yields. Obviously,
+18:44
+the reverse will also happen when the liquidity is drying out. So, it's a double-edged sword. I'm curious as well kind of zooming out
+18:51
+because RWA.xyz XYZ I think just sits in this really interesting spot where you
+18:58
+get perspective not only from the Trady side and the more cryptonative side but also um you know regulators as well and
+The demand problem: why tokenizing assets isn't enough
+19:06
+uh in a sense probably doing some like middlemanning and and translating and um
+19:13
+you know just looking to provide the best and most accurate information to help everyone make an informed decision
+19:19
+about what's going to be best for them and their business effectively. And so I'm curious what you think in
+19:26
+terms of the next few years. What characteristics of a blockchain are
+19:33
+going to be the most attractive or um be
+19:38
+the best position to catch this incoming wave of adoption that we're already
+19:44
+seeing. Yes. um we do sit in an interesting place where we have the privilege of
+19:50
+talking to um very interesting people like you guys too um and also the regulators and the players. I think it
+19:56
+converges on a few different factors obviously as everyone likes to talk about the fees and the fast settlement
+20:02
+that's like critical. However, I think we've gotten to the point where that alone cannot be the sole differentiator
+20:09
+of your network or product. what will be important is um how there's two issues I
+20:15
+think you know one way is to how do you incentivize asset issuers to issue the assets on your network and there are a
+20:22
+few different ways to go about it obviously I always tell people talk is cheap you know it's easy for me to be a
+20:27
+Monday morning quarterback and just like tell them like hey this is how it should be done but building it out is actually different
+20:33
+um so that means can you offer like a compliant solution like how secure is it
+20:39
+how stable is it how um you know how safe is it for me to deploy there because for these banks this is a
+20:46
+relatively small opportunity right now. They're betting that it'll grow in the future. That's why they're looking at it. But there's a headline risk if
+20:52
+something goes wrong. If a financial institution launches something on a specific blockchain and there's a hack or breach or whatever and that goes into
+21:00
+the headlines of Wall Street Journal, New York Times is really not a good look for you. So they're really cautious against that. The second part of the
+21:07
+equation that I think a lot of people are trying to figure out, a lot of different networks are trying to figure out is how do we get that distribution?
+21:13
+So we talked about the origination at the bottom which is the asset issuers. At the top there's distribution. That
+21:18
+means how do we get the capital to come in here? because the onchain capital is
+21:24
+that's natively on the blockchain like there's like you know hundred billions of dollars on on there right now and
+21:29
+that's a big number but there's a hard cap on that number meaning it it's not enough to satisfy everyone that's
+21:35
+building in this space it's like a PVP like you're fighting for the same scrap of money I think what's more interesting
+21:41
+for us as an industry and where we need to go is how do we bring that additional capital outside of the blockchain
+21:47
+networks into the ecosystem and there's different ways of doing it uh some People think stable coins and payments
+21:53
+are a way to like get the dollars flowing in. Some people like the DeFi mullet theory where you know if you
+21:58
+partner with like fintex who have these like floats maybe we can use them to like give them yields basically. Or some
+22:05
+people are doing it the hard way. They're talking with the uh investment advisors and private wealth managers like directly on it's like it's like a
+22:11
+very sweat equity type of work where you're building that pipeline basically and you know convincing that this is the
+22:17
+channel to deploy. So there's no proven playbook here but everyone's attacking it a different way and it's our hope
+22:23
+that you know we can help facilitate the pra uh process and also educate the uh
+22:29
+tra traditional financial people as well as the non-crypto people on what this means so there's less friction and like
+Where Monad fits in the competitive landscape
+22:35
+they can solely just evaluate it on a as a business decision instead of having to educate them. Yeah, it's interesting
+22:41
+that you um effectively paraphrasing, you effectively mentioned that we're like we're in the very early innings
+22:47
+here. Like the amount of capital that's come on chain already for these big banks is, you know, a drop in the bucket
+22:54
+effectively. And so, you know, blockchains have been around for a bit and over the last five years, we've seen
+23:00
+a lot of performant and low fee blockchain environments. I'm curious
+23:07
+like how close do you think we are on the
+23:12
+blockchain side to the starting line? Are we in the very early innings? Is this a a very very close race or are
+23:20
+some chains, you know, already pulling ahead of the pack and seem to have a
+23:26
+strong advantage to capture a lot of this opportunity? I think the answer will depend on who
+23:32
+you ask. Obviously people have different um answer to this and but our I try to
+23:38
+be neutral because we work with a lot of different parties and if you see our dashboards on RWXYZ we have a network
+23:45
+section we compares like different networks how much money is on there how much how many how how much stable coins are on there so you see like some
+23:52
+leaders at the top the usual names that have a lot of like TVL and a lot of
+23:57
+platforms that are working there so I think it's fair to say you know there's a little bit the top bucket and like the
+24:04
+rest of the followers. Having said that, even the biggest like blockchains like Ethereum, the TVL of tokenized assets on
+24:11
+there are very small compared to what the rest of the world has. So, we feel
+24:16
+like there's an edge or there's a way for it's not the early it is the early
+24:23
+innings, but we're not at the beginning yet, but I think we're at the end of the beginning. So, there's some factors that separate
+24:29
+certain players. However, I think the game is far from being completed. There's multiple ways to attack it. So,
+24:36
+I think each network that's trying to um explore this space and you know capture
+24:41
+it need to think about the competitive advantages of like what your blockchain offers. For example, if you're just
+24:46
+purely competing against someone like Ethereum on like liquidity, for better or for worse, they have all the native
+24:52
+capital that's already on there and they have a lot of traction and the brand brand awareness. So, if you try to compete with them on that factor, you're
+24:58
+probably not going to win. But uh if you have a different angle for example I know some blockchains have more edge with like different parts of the world.
+EVM as the QWERTY keyboard of blockchains
+25:04
+Some are more active in the Latin American world, some are more active in the Eastern Asian markets and some are more active in Middle East for example.
+25:11
+Those are important channels because within each geography there's demand for people to access dollar denominated
+25:17
+products and what better way is it than using blockchains to get those assets because um if you try to convert your
+25:22
+local currency to dollars some countries have very stringent um rules around it.
+25:28
+That's one. And number two, what types of different players are you talking with? There are platforms that are
+25:34
+talking with um small to medium enterprises, meaning that like regular companies who have some treasury stuff
+25:40
+and going to them and say, I don't think they even mention the word blockchain. They tell them, we have a fund product
+25:46
+that could be interesting for your treasury management. Would you like to like invest your money in here? Very low cost. And some of these companies say,
+25:52
+yeah, that looks more attractive than my like what I can get my local bank or like our prime broker. we'll use that
+25:58
+and that money actually flows into the blockchains or platforms that are managing it on the crypto side. That's one way to do it. Another way as we
+26:04
+discussed are the fintexs or the other distribution platforms that we talked about. So, so TLDDR I think you should
+26:10
+think about the comparative advantages and what what you can offer versus some of the other players 100%. Yeah, I mean I think we see this
+26:17
+even on the monad side. Similarly with with you know the unique edge being um
+26:22
+like a high throughput but also truly decentralized layer one the payments angle has been huge for us as as Danny
+26:29
+mentioned you know working really closely with with Mastercard uh consensus for example and MetaMask on
+26:35
+that um and at the same time having extremely native DeFi players where
+26:40
+utilization being lower this is still a newer DeFi ecosystem it's really attractive right now for new pools of
+26:46
+capital to come in and take advantage of of this period in time and we were just talking before this about how both DeFi
+26:52
+TVL and and stablecoin market cap I'm on at has has pretty much been up and to the right in in the four months that
+26:58
+we've been alive. One interesting thing that you mentioned is it almost sounds like the bottleneck to you know the
+How much capital is coming on chain by 2030
+27:04
+entire RWA TAM 100xing from here is still more about just the the total
+27:10
+dollars stable coin market cap on chain. How much do you think of that versus on the other side the the asset origination
+27:18
+like tokenizing things like I think one of the the trendy areas of RWA is that you know every VC at the end of the year
+27:25
+is like we're going to have all these crazy novel assets originated offchain
+27:31
+uh you know we'll have and we've seen experiments in like all types of private credit like financing now people are
+27:38
+talking about uh data centers like AI capex all these really hot topics How
+27:43
+how much do you think room is there to originate and tokenize net new things
+27:48
+and get like wacky RWA tokenize on chain uh versus how much is of it is simply
+27:54
+like yeah we just need more stable coin issuance and and things will naturally grow from there. Yeah, that's a very
+27:59
+interesting question and I think that's the question that everyone is asking and from our standpoint
+28:05
+we think there's a supply glut here meaning there's not a lack of people
+28:10
+wanting to tokenize assets whether it's for like pure like you know investment opportunities or their way of growing
+28:16
+the market share and we have seen the evolution of different products gets set tokenized some are very novel in our
+28:23
+opinion and very interesting but the key question is where is the demand coming from and right Now it's a PVP game
+28:29
+because we are attacking the same sort of capital that's still on the blockchain. The usual names that you
+28:34
+know that everyone reaches out to. I think for us to 100x from here we need to solve that demand problem which can
+28:41
+be achieved in a lot of different ways but like the end game should be something like a cowpers or like a
+28:47
+pension plan should be using stable coins to invest in the different products that's on the blockchain. Now
+28:53
+the difficult question and the answer for that is these people already have access to these all of these things
+28:59
+offchain like what what's the incentive for them to like you know make the hurdle go over the hurdle of bringing
+29:05
+that capital onchain because like if you talk to them they'll be like why like that's like you know crazy I already
+29:10
+have all these opportunities so I think that's something we need to solve I don't have a great idea I think one
+29:16
+thing that blockchains do offer is like the more um free subscription and redemption of things. I'm not talking
+29:23
+about like atomic settlement because that's very difficult with tokenized assets. But imagine if you're a uh
+29:29
+pension plan that invested in like these different like private equity or like hedge fund types. You only way for you
+The two to four year window to prove this all works
+29:35
+to get out of those positions is very difficult right now. You have to go through like uh secondary market brokers
+29:40
+or investment banks that you have to pay a lot of fees, a lot of time to make those transactions happen and often
+29:46
+costly too. If there's a way for us as an industry to like lessen the spread for them and you know lessen that time
+29:52
+for them to get out of these positions I think that's one value proposition for them us to say look you can invest in
+29:58
+the same things in the offchain but these are the core benefits for you that would be interesting and if we can crack
+30:04
+that those are not billions but trillions of dollars that could really flow into the blockchain ecosystem.
+30:10
+Yeah, I want to double click on one of the um comments like on the differentiation
+30:19
+for blockchains in general where we are seeing a lot of fast and and cheap
+30:24
+chains. You also mentioned that there's kind of this like translation issue where crypton natives not necessarily
+30:31
+speaking the same language as bankers and those who are really on like the traditional finance institutional side.
+30:38
+Do you think there's nuance to the fast and cheap conversation, at least in terms of what these big players actually
+30:46
+care about, or is it really um at least on like the technical and performance side, is it, you know, really just about
+30:53
+fast and cheap? And kind of what I'm getting at here is like does the EVM
+30:59
+matter? Does decentralization matter? Does the founding team behind a chain
+31:06
+matter? Um, do other factors matter or is it really about like fast and cheap?
+31:13
+And then you get into like, you know, where are the incentives? What relationships are being formed? Is this
+31:19
+ultimately, you know, something that institutions can look at and say, hey, this is lower
+31:25
+risk in terms of that like blow up headline issue that you were talking about as well. Yeah, I think it really depends on the
+31:32
+product that people are trying to uh bring on chain. for example, obviously it needs to be cheap and fast, but a lot
+31:39
+of the chains are sort of in the cheap and fast area. I mean, there are some they're cheaper and faster, but for most
+31:46
+people, I think especially try firms, I think it's got to the point where okay, this is like good enough for where I can
+31:51
+get started with it. Now, if it's just like private assets that aren't like traded heavily, like people just buy
+31:57
+bonds, for example, you just issue it, people buy it, and usually hold on until maturity, you don't really care if it's
+Can crypto and blockchain actually fail?
+32:04
+like a little bit more cheaper than the other ones. But if you're bringing on chain like derivatives or some stocks or
+32:10
+some things that are more highly frequently traded in volumes, I think it might matter more that something's
+32:15
+cheaper and faster. And one thing that we often talk about is um we care about
+32:22
+decentralization. We care about like you know which language like EVMs or non EVMs in the crypto community. Obviously
+32:28
+people have a lot of different opinions about it. And the trifi people actually do care about that stuff but from a different angle. They care about
+32:34
+decentralization not because of that philosophy of like you know the crypto philosophy or Satoshi Nakamoto's
+32:39
+philosophy but they care about it because they don't want some other counterparty controlling their transactions. I I think that's important
+32:46
+for them in a business matter. Same with the you know virtual machine side like it's not that they care that EVM is
+32:52
+better than some other other language is that they have developers working on EVM. How costly is it for them to then
+32:59
+translate it to a new ecosystem which means like ripping out their code and replacing it. I know it's easier with AI
+33:05
+nowadays but still like a commitment. So they're looking at it from a different angle but you were kind of coming to the same conclusion.
+33:10
+It was it was a really funny learning for me. This is back probably two years
+33:15
+ago now. Um, one of my first podcasts that I ran with James Hunaker, one of
+33:22
+the co-founders of of Monad. And I just thought it was so cool being naive and
+33:29
+and non-technical. I was like, "Oh, this this Monad thing is is so cool. You take
+33:34
+the EVM, this dominant virtual machine. It's like clearly a better virtual machine." just drawing an incorrect
+33:40
+conclusion that adoption and network effects means that ultimately it's a
+33:46
+better technology product. James comes on the podcast and he's like, "Well, the
+33:51
+EVM isn't better. There's other there's other VMs out there that you can make a great argument for, but all these
+33:57
+developers are already using it. All this capital is already in the system." And so, it has a huge head start there.
+What the industry needs to do right now
+34:04
+And so there are, you know, kind of interesting learnings that I've picked up along the way, uh, particularly from
+34:11
+James Aion and their expertise and experience on the traditional trading
+34:18
+side of things. And I think they're, you know, pretty objective about that. At the end of the day, the EVM was a choice
+34:25
+for Monad because of the network effects, because of the number of developers that were already familiar
+34:32
+with using it and building on top of it. Um, but yeah, it is it is funny how how
+34:37
+those things tend to go, but yeah, I mean, it is uh also going to be
+34:42
+interesting to see how it how it plays out over the the next few years, I think. Yeah, we liken it to the uh the
+34:49
+cordy keyboards, you know, as you know, that's not the most efficient way to type. There are
+34:55
+better keyboards out there. Oh, really? Yes. I But like the it was actually designed back in the days when they had
+35:01
+typewriters cuz people started typing too fast. So they it was actually designed to like slow down the typing.
+35:06
+However, everyone on here pro I'm assuming 99.9% of people use the cordy keyboard, including myself, because
+35:12
+that's what you learn and that's what everyone's comfortable with. Is it the best keyboard technolog tech
+35:18
+technologically or most efficient one? No. But um it's a standard. I think that's why the standard is very
+35:23
+important for us and that's what we're trying to do at Art XYZ to make sure the standards are set early because we're
+35:29
+sort of in the earlier innings. I won't say the earliest innings, but we're at the earlier innings where having those standards will be important and
+35:35
+hopefully getting it right, you know, measure twice, cut once. Hopefully getting it right will be correct. I I
+35:40
+will say this about Monad um and the other like newer relatively newer blockchains that are out in the market.
+35:46
+One thing that's at a disadvantage is the existing onchain capital is a little bit less because it's a newer ecosystem.
+35:52
+But on the flip side, it can be you guys are starting from scratch and you know all the problems that have existed for
+35:59
+the other players. So you have a better view of like okay these are the pain points. How do we work around it from like ground zero perspective? That's a
+36:06
+definite advantage. And because these existing blockchains often have a lot of people pulling them in different
+36:12
+directions because they have so much capital, so many people building on it, so many initiatives that it's not easy
+36:17
+for them to just focus on one thing and try to drive it, you know, in and try to create a wedge for yourself. I think
+36:23
+Monad has that uh is in that position where you you guys are you know co coming up with your strategies on what
+36:29
+can drive the blockchain and you guys can figure out what the pain points are and kind of same with us you know we we
+36:36
+like to say we like to be the Bloomberg of the industry but if someone asks like well Bloomberg is much bigger than you
+36:41
+know and has more resources and it has more establishment than you you guys are we acknowledge that but that's why we
+36:46
+decided to focus on very niche market and try to dig ourselves as deep as possible within that So that when we're
+36:53
+just measuring ourselves on this one industry and subsector, we hopefully we can say we're better than Bloomberg in
+36:59
+that sense. Yeah, totally. Totally makes sense. I'm curious like any kind of just general
+37:07
+prediction about how much capital is going to come on chain over the next say
+37:16
+five years or four years. We'll round it out to nice like 2030. Um,
+37:22
+do you think we're looking at incremental growth? Do you think we're looking at a massive multiple compared
+37:29
+to the amount of value that's on chain today? Um particularly because you're
+37:34
+saying like we're kind of getting towards the end of the early innings and
+37:40
+you know if we put it in the context of a a baseball game or any sports contest
+37:45
+honestly things tend to get more interesting towards the end of the game and that's where you get this like crazy
+37:51
+fast-paced action. and everyone's glued to the to the TV. And so, do you do you
+37:58
+think we're at this kind of inflection point where we're going to see hockey stick activity um and a massive multiple
+38:05
+coming on chain or are we still a little bit further out from that than many of the cryptonatives might think?
+38:12
+I would like to put a number out here because that's everyone loves those numbers. But um instead of doing that, I
+38:17
+will offer my perspective and our company's perspective on this is that we're early enough. That said, I think
+38:24
+there's a limited window upon which we can meaningfully drive change. So like
+38:29
+right now there's a lot of infrastructure that's built on the blockchain, but we're still like a niche
+38:35
+space within the entire financial industry. Our hope and the bet from our
+38:40
+company is that within the next two to four years, we will have major adoptions meaning like actual financial
+38:46
+institutions settling their trades, moving their money and people using stable coins through this new
+38:52
+infrastructure that we built for so long because uh we have a very narrow window in my opinion. And if we don't achieve
+38:59
+the things we're set out to do, I think then it's time to question ourselves and look in the mirror and say, are we
+39:05
+really thinking about this the right way? Or, you know, was it just like a nice idea that we all had, but it's not practical in reality. Now, that can be a
+39:12
+little gloomy statement, but I think it be also optimistic, meaning that we need to be very focused as an industry. You
+39:18
+know, stop focusing on like fighting other people, but like really think about like what do we all need to do?
+39:23
+because if the pie really grows 100 times from here, there's going to be enough for everyone that's building on this space to like you know benefit
+39:28
+from. So um I think and we're betting that you know we're trying to rewrite the history of finance and if it goes
+39:35
+right like everyone will look back you know fondly at this time and say wow we were like early and right about this now
+39:41
+everything everyone's accepting that as this is the infrastructure where things happen but if not like it'll just be
+39:47
+another book that will sit in the dust dusty shelf and you know people are not even looking at it anymore. I mean,
+39:53
+history will be kind to us because uh we intend to write it and I think our fate is in our hands to make that happen.
+39:59
+Yeah, I was going to basically just ask a followup there. I I think you know at this point um you know most people are
+40:07
+like crypto's here to stay. Bitcoin's gone over 100k like there's for the crypto natives there's really I think
+40:13
+very little doubt that crypto is not the future. Do you think there is a chance
+40:20
+that crypto and blockchain just fails altogether? Fail is a strong word because I feel
+40:27
+like Bitcoin and these some of these more established uh cryptocurrencies are here to stay because people like it
+40:33
+as an asset class. For example, even if you're not enthusiastic about the blockchain technology, people see Bitcoin as like an interesting
+40:39
+alternative asset that might be or not be correlated with the markets and can be leveraged in different ways. So, I
+40:44
+think that's here to say those those type of crypto assets. what we're focused on and a lot of people are
+40:49
+focused on is okay like we created this new technology and an asset class that's very interesting of itself and it kind
+40:55
+of connects with each other because um that's also creating like the capital markets from the money that's flowing on that side how do we use this
+41:01
+infrastructure to actually meaningfully change the existing systems we have that's what a lot of people are betting
+41:06
+on including a lot of the blockchain networks and monad so I think the existential crisis is on
+41:14
+that sector whether it'll remain like a niche. I mean, I'm sure some people will still use this blockchain technology
+41:20
+even if we utterly fail altogether. Like, it'll still have a place within our economy and financial systems. But
+41:27
+our hope and our bet is that no, it shouldn't be just a niche use case. It should be adopted by everyone just as
+41:32
+how internet is being used by every everyone that's doing business in the real world nowadays. If you don't use
+41:37
+the internet, you're behind. Hopefully the same will happen for this technology
+41:43
+and we are here to support that and help that in any way possible and and within that two to four year
+41:49
+window that we have what what can we do to actually en enact that change how do
+41:54
+we drive it and be on the right side and you know write the history books yeah so there's many many different ways
+42:01
+to go about it obviously we are focusing on the education and the adoption and making sure people understand I think we
+42:07
+have the unique perspective as a neutral party like we don't have a specific agenda to push because the if the
+42:12
+industry grows then we benefit directly from that because uh people will buy our data about the market and use the APIs
+42:20
+to you know inform their decisions and create their products for people that are building I think it's important they keep innovating but you know try to
+42:26
+understand the rules of finance I know there's a lot of like difficult things about the laws and regulation and some
+42:32
+are doesn't don't make a lot of sense but try to understand why that existed in the first place try to understand the
+42:38
+spirits of like why those laws were written in the first place and try to work with them because um the regulators
+42:44
+are looking at this and surely some kind of regulation is coming. We can't as much as we like it we we can't just
+42:50
+operate in this like the cowboy the wild wild west here because if that's really our mantra I think it's not going to
+42:56
+gain meaningful adoption. So we'll have to make some compromises which not everyone will be happy about but like
+43:02
+what kind of compromise should we make but what are the core principles that we brought on here that can be replicated
+43:08
+and hopefully make the world better and the infrastructures better. I think uh we need to ask those questions.
+43:13
+Definitely. Well Brian this has been a ton of fun and also a great learning
+43:19
+experience as well. Would love to run this back soon but appreciate the the time and the insights that you shared
+43:26
+today. It's honor to be here. Thanks for having me. Awesome. We'll cut to a quick intermission and we will be right back.
+

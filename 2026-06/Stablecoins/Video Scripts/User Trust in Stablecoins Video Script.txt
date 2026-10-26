@@ -1,0 +1,649 @@
+
+Search in video
+0:00
+Hello everyone. Hope you are enjoying stable summit so far.
+0:08
+Uh this next panel is about UX security and building user trust in stable coin
+0:16
+payments. We've seen a huge rise when it comes to the stable coin adoption. I
+0:21
+think last time I checked a few days ago the market was at 297
+0:27
+uh billion. uh but on this panel we will focus on some of the challenges uh in
+0:33
+the stable coin adoption and most importantly how we overcome those challenges. Maybe before we start we do
+0:41
+a short uh round of intros and also what you what you're building. Tell us a bit
+0:47
+what you're building. I'm maybe going to start with myself. So my name is Bianca Buzz. I'm head of deell at Chronicle uh
+0:54
+the Oracle for tokenized um assets. Chronicle has been around since 2017. In
+1:00
+2023, it spun out of Maker and uh today, as Nick was mentioning um earlier, it
+1:07
+powers um around 19 billions in um assets across DeFi and tokenized assets.
+1:15
+Maybe Julian, do you want to go next? Sure.
+1:33
+Um, hi, my name is Jill. I'm the chief operating officer at Symbiotic. Uh we've
+1:39
+built an economic coordination layer to secure um really thing that requires
+1:46
+trust on chain to provide the building blocks for economic security um through
+1:53
+through staking and uh security.
+1:59
+Hey guys, um can you hear me? Uh my name is Ron Barat. I'm not Ido. [laughter]
+2:06
+Ido couldn't come. He's uh he's had an emergency uh personal emergency so he
+2:13
+couldn't make it. Um I'm a solutions engineer at Blockade. Uh what Blockade
+2:18
+does is a security solution for uh basically anything web 3. We do um you
+2:25
+know things such as uh supporting end users through the wallets, monitoring of protocols, smart contracts, um fraud
+2:33
+prevention and um uh as well as operational security. So things like uh
+2:39
+co-signers uh additional offerings.
+2:44
+Hey everybody. Hey everybody. My name is Bryce Ferguson. I'm co-founder and CEO of Turnkey, which is a low-level wallet
+2:51
+infrastructure company that works with folks like Bridge, Poly Market, Moonshot, Axiom, Alchemy, a whole bunch
+2:58
+of other folks within the industry. Um, we power different key management flows
+3:04
+behind the scenes, whether that's businesses managing their own stable coin flows or enduser wallets where
+3:10
+users um, you know, use simple web two style authentication to access a
+3:16
+stablecoin wallet. Hey everyone.
+3:22
+Hey everyone. Hey everyone. I'm Yugo. I work at Imunifi. You may know us from the bug
+3:29
+bounty world. Um but these days we are um end to end onchain security platform
+3:35
+doing everything from monitoring and operational security to formal verification and um firewall. And we do
+3:43
+this with a bunch of partners on the security space because yeah, security can't be a one one man's game.
+3:50
+Love it. Thank you so much. Maybe we start with uh an overview of the current UX of uh stable coins. Uh what would you
+3:58
+say um a card level experience would look like when it comes to stable coins?
+4:08
+go in many ways. We're just going to share uh in in many
+4:13
+ways I think we're there actually. You look at some of the stable coin neo banks that are popping up and some of
+4:20
+the experiences around stable coins. And if you look at it from a user perspective, it's really really easy.
+4:26
+You you can use a normal card through someone like Rain. um you can lend that
+4:33
+out to a or Morpho and earn 8 or 9%. Um all these things are are really in
+4:38
+place. I think what we're missing is some of the connective tissue between traditional fiat. I mean on-ramps are
+4:44
+still tough. Some of the um ability to interoperate with other financial
+4:50
+platforms is hard. Stable coins are a little bit an island of their own. Um but a lot of the UX has been solved over
+4:56
+the last couple years. But I think trying these apps, it's it's pretty amazing.
+5:02
+I'll just compliment that in addition to like the friction and the ease of use,
+5:09
+the major issue is security. It's like people feel afraid and stable coins seem
+5:15
+stable but in front of us we have the presentation from the next speaker and he jokingly jokingly calls this the
+5:21
+unstable summit in Buenosirus and and that's [clears throat] what people feel because a credit card like the major
+5:28
+value of it is is fraud prevention or if someone wrecks you like you trust that the credit card company is going to make
+5:34
+you wall or is going to make you all in in a world where server coin payments
+5:39
+are are yeah dominant. But then the question that I would also like to to think about is whether stable coin
+5:45
+payments being dominant whether that's like desirable for us or not.
+5:51
+Um I would also just add that I think there's still like we've we have come a
+5:56
+long way and also saying this um as a business that operates almost entirely on stable coins like there's still a lot
+6:04
+to be done with respect to account abstraction and making it like even more seamless
+6:10
+still like relatively easy especially compared to like traditional banking. Um, but I I think the big unlock is
+6:17
+going to come also with like just easier access to credit. Um, most even like uh
+6:24
+crypto credit cards are still not actually credit cards. They're just cards. So, I think that's um that's a
+6:29
+really exciting thing that's being built. Yeah. I guess um one last thing to add
+6:36
+here is uh security is important like uh Yugo said and I think it security builds trust,
+6:43
+right? Um the problem we have in this space today is is lack of trust from
+6:48
+from end users. Um so so securing all of
+6:54
+the different steps of uh from from from the very uh you know first step of uh
+6:59
+issuing a stable coin and then uh implementing all of the different use cases uh is critical because once things
+7:06
+are secure trust will uh increase and then the users will come. So if you
+7:12
+build it, they will come. What would you say? Maybe uh building on
+7:18
+that, uh what would you say stable coins must do better than solutions like Visa
+7:23
+or Mastercard for them to become the default choice and not just an alternative?
+7:31
+Um yeah, so maybe I'll take it because I was left. Um,
+7:37
+so the stuff they need to do better, well, there's many different things. I'm I'm
+7:43
+going to speak about the the, you know, the area I'm I'm most familiar with, which is security. Um, and it it it
+7:51
+comes down to making sure that every different step of the process is
+7:58
+monitored. uh and you have uh the the right actions
+8:03
+in place when something happens. So for example, you want to make sure that if
+8:09
+[snorts] uh you know by any chance uh you have a uh $300 trillion mint by mistake. uh
+8:18
+that you're aware of it immediately and that you can take an action immediately
+8:24
+to to to make sure that your end users will continue to use your stable coin.
+8:29
+Um and and similarly uh you want to make sure if if [clears throat] you're a
+8:35
+protocol that's using stable coins, you want to monitor the uh the different aspects of those stable coins that that
+8:41
+you're using. Um and have the ability to uh maybe reverse a position if there's a
+8:49
+deep event. Um so all those things are are critical I think to increase uh
+8:54
+trust like I said. Um I can I yeah I'll add to that. Um was
+9:02
+the question was how can we do it better than it than is already Yeah. Um I think we have a huge opportunity to build it
+9:08
+better by um resolving a lot of the trust issues
+9:15
+inherent in like the modern payment system. And specifically if you even
+9:20
+look at like credit cards and how um how much friction is involved with um fraud
+9:27
+and and detecting fraud and um chargebacks and like that that whole
+9:33
+part is so such a big cost center for the for the card issuers but then also
+9:38
+such a pain point for the users. And um we can kind of
+9:46
+deal with those issues through um solutions like economic security through
+9:52
+yes like security and like having like secure systems but we can also deploy
+9:59
+like the the basic ethos and premise of blockchain which is um you know eliminating the need for trust because
+10:04
+you have incentives and economic security and so that's something that I think is a really cool opportunity for
+10:10
+us to collapse the friction that pre-exists um in payments and just uh
+10:16
+create something entirely new uh much more seamless and uh automated.
+10:22
+I think another piece here is um we're often talking about how does uh crypto
+10:27
+replace our our normal credit cards and day-to-day western financial services, but in reality those work really really
+10:33
+well. like my Visa is great and I can go and use that at a lot of different places and it is super low friction for
+10:40
+me and I get my rewards points and all that is really really nice. Um I think a more interesting question is where are
+10:47
+stable coins going to open up innovation in really 10x ways use cases that we
+10:52
+haven't imagined at all yet. Um one of the things that we talk about a lot at turnkey is what does money look like
+10:59
+when it is truly streaming in real time? you have agentto agent um co commerce
+11:05
+happening in a real way. You have um new kind of like uses with DeFi plugging in
+11:12
+to that that broader ecosystem. I think that's where things start to get much more interesting on the stable coin side
+11:17
+and it ties into a lot of the things that people have been saying here about security. I think the needs for guard
+11:22
+rails in that world where money is streaming and not just being sent in chunky transactions is really different
+11:29
+and the way that we have to look at that is quite different over time as well. And building on this and something
+11:35
+Julian said on on the previous intervention, I think that like there are two angles to payments even in in
+11:40
+this panel like one is the retail payments and the other will be um payments as as transactions especially
+11:46
+in in a business context and and for for stable coins to to win like first and foremost we should and notwithstanding
+11:55
+how great or convenient it is to use Vis and Mastercard and they earn their 1% or
+12:02
+whatever fees for having built this infrastructure in a world that was very much not digital and creating this
+12:09
+ability for people to travel and easily pay. But still now that's beyond they have become just dinosaurs and and are
+12:17
+rent seeking and and and the promise of crypto is to to make the world more efficient and and cutting into those um
+12:25
+old fat cats. And so if not Circle or Tether, other decentralized or centralized players should really have
+12:32
+the ambition to destroy Visa and Mastercard and create better uh networks
+12:37
+for payments in the world. If we want stable coin payments to make sense and to be something that that we uh want to
+12:44
+use and then of course with all the issues to be solved on on the on the on the security side and whatnot but then
+12:49
+on the payment side as well sorry on the transaction side as well I think that's
+12:54
+even more interesting because again payments have been solved and so it will be difficult to destroy Vis and
+13:00
+Mastercard but on on the on the on the business world it will be very much easier to perhaps destroy some of
+13:08
+the control of financial institutions in making business less friction um having
+13:14
+less friction. For example, you could have stable coin payments working with um or like stablecoin companies offering
+13:23
+factoring services to to their businesses and and creating a whole new uh tech stack on top of businessto
+13:29
+business payments that will make everyone's lives easier from invoicing automation purposes. But even that
+13:36
+because that's a software but on on the on the automation side of the payments and I think that's where the opportunity
+13:42
+lies to make something like really interesting on on this space.
+13:47
+We touched briefly on guard guard rails earlier but I think this is a very
+13:53
+important topic and I would like maybe to go a bit deeper. Uh what role uh do
+13:58
+you think features like watch hours, circuit breakers, uh spending limits um
+14:04
+play in this uh ecosystem but without making it uh feel too restricted or too
+14:12
+complex uh to users or maybe there is a way to abstract these guard rails. What's your what's your take on that?
+14:20
+I'll kick us off on this one. Um, so I I think it's going to be different depending on the application, and that's
+14:26
+maybe a copout answer, but the controls that a business that is sending billions of dollars through Crypto Pipes needs
+14:33
+are going to be very different from a consumer buying their coffee at their local coffee shop. Um, with that I I
+14:40
+think folks just need very very flexible building blocks for how they can
+14:46
+establish policies, how how they can have controls in place and make sure that that is able to serve this wide
+14:52
+variety of use cases cuz part of it is we we actually don't know we don't know all of the ways that people are going to
+14:58
+want to put controls in place. Um my gut is for most consumer use cases not
+15:04
+giving exposure to these controls is going to be more important. For business use cases giving deep control over these
+15:11
+with smart uh defaults is going to be the path forward.
+15:19
+Um yeah, I think like the role of watchtowers is just one of several tools
+15:25
+to enable things to be challenged and for there to be implications there and
+15:32
+like all of the the the infrastructure exists for that to be enforced and it's
+15:38
+it's critical. It's extremely important to be able to have all of these um measures in place and
+15:45
+um we can deploy them through um like for example watchtower is not the exact
+15:51
+same thing as an oracle but somewhat similar and um with symbiotic we're actually securing uh several oracles
+15:58
+through of the CCIP oracles with some of the networks that uh they work with and
+16:05
+we're seeing a lot of interest in that kind of usage for for staking and for slashing because it just makes a lot of
+16:11
+sense to have um not just networks secured by by economic security but but
+16:17
+also oracles and this idea of um you know actors behaving in a certain way
+16:23
+and if they don't act in the way that they're supposed to there being some sort of implications there and yeah so I
+16:29
+think that that's critical I agree with that uh abstracting that
+16:36
+layer and having these processes is uh automated based on actual onchain data. Maybe um same same same same direction
+16:44
+of the question still protecting uh users but um looking at it from the
+16:50
+point of view of expectations of users given that for so many years we've been
+16:56
+uh living in a [clears throat] world where users expect uh chargeback fraud protection um and really clear recovery
+17:04
+paths uh from traditional uh finance. How do we educate them? how do we mold
+17:10
+their mind if you want for um the onchain economy?
+17:17
+Um so I think I think it's uh it's going back to what I said already but I I
+17:23
+think it's u important to emphasize and maybe expand a bit. It's all about trust, right? Uh if users
+17:32
+feel like this is going to work for them, they're not going to lose their funds. uh there there's no risks.
+17:39
+They're not going to hear about any big uh you know Luna incidents
+17:46
+um or or or things of that sort. That's I think the main the main thing
+17:53
+that could uh bring new users into the space and start using stable coins more.
+17:59
+And I think if you're building stable coins, um
+18:05
+to to do that to to increase trust, you need to make sure that um that your
+18:11
+stack is secure. Um that the critical functions are being
+18:17
+monitored, that uh you know, you're you're minting, you're burning, you're pausing, you're freezing, all of the
+18:25
+different roles. uh all those are monitored and you have you know clear
+18:31
+actions including automatic actions that uh that can protect those functions
+18:38
+those roles um and that will increase trust right it it will uh
+18:45
+reduce substantially the number of incidents and uh and users will become
+18:50
+you know more um uh not sure what word I'm looking for
+18:57
+but [laughter] they they will uh they will start adopting more is what I'm trying to say.
+19:03
+No. Yeah, definitely. Um, on that end, I think it's also important to to just
+19:09
+separate what will be the decentralized stable coins from from the centralized stable coins here. And like on the
+19:15
+decentralized side, example, we at Unifi on the crowd sources security area. I've been working with a major project since
+19:21
+since practically and we keep on boarding very new cool decentralized stable coins with like a really good
+19:29
+approach to security. and even more recently one from from the itself, their
+19:35
+their latest project, but also a bunch of of new smaller very cool projects such as such as Pinto for example, um
+19:43
+offspring of of Beanstalk. But then on on the other side
+19:48
+like Circle and and Tether they have been on this yeah years long battle to
+19:54
+gain regulatory legitimacy or or or or to improve their trust with the powers
+20:00
+that be so that they can continue to to operate their businesses and they work with with some [clears throat] security
+20:06
+partners. But then on the other end there's a lot of opacity in in what their policies are. And um so far users
+20:14
+have been fine because there have been no major exploits in those like two market leaders. But
+20:20
+like it's just thinking that the world will will be the same tomorrow. And
+20:25
+whereas circle has um like a different um minting model with with with with a
+20:32
+bunch of parties that is operating on on a on a single um minting a single owner
+20:37
+minting model. And so it may be the case that one day they get acted and and and everyone will be wrecked. Um and even
+20:43
+though they they have other circuits in place, it's not great for user trust. They have that user trust because they
+20:49
+have the Lindy effect behind them of being the first player and have been operating for so long. But um it will be
+20:55
+interesting to see those centralized players adopt some of the practices that the rest of DeFi has been using if if
+21:03
+stable coin payments are to be anything else than just kind of a fintech play with crypto in its name.
+21:09
+I really like actually that you brought up uh this difference between centralized stable coins and decentralized stable coins. Maybe we go
+21:16
+a bit deeper and we look how do we actually build this uh resilient decentralized stable coins. What are
+21:23
+some of the best practices? Well, not doing what TEA did for sure.
+21:28
+Um, but yeah, I think that's also a topic for a stable coin design conversation. But I think bringing into
+21:34
+into just the UX security and and user trust here, I think just it's important to think of of stable coins as also
+21:42
+these very complex systems and and security is not just about like smart
+21:47
+contract security here. It's also mostly about economic security especially if we're talking about the the decentralized players as obviously. Um
+21:54
+but then I think what matters then is is to ensure that like the users are
+22:01
+finding a good experience and uh right now with stablecoin payments this only happens if there's a card attached to it
+22:08
+and I don't think there's any stable coin decentralized stable coin issued with a card attached to it. But it will
+22:14
+be interesting to see if we get that new network competing with Visa and Mastercard um that's kind of
+22:20
+cryptonative and how that can then integrate with with the rest of the world because then this brings us to
+22:25
+another topic which is that new network if it's peer-to-peer for example maybe you wouldn't need to comply with all all
+22:33
+the cumbersome um anti-inancial crime infrastructure that exists now on top of
+22:39
+Visa and Mastercard and um that infra infrastructure exists for a good reason.
+22:45
+But at the same time, it it also creates friction and so for the dream of the decentralized stable coins, it will be
+22:51
+interesting to see if if such a project could come up. And in this case, a card
+22:56
+can be just a virtual card, right? We don't care as much to use physical plastic or metal cards these days. It's
+23:02
+more just about does it work with Google Pay or Apple Pay.
+23:09
+Um, no, just something that you mentioned as well, like if you have a decentralized stable coin or anything
+23:15
+that's decentralized requires economic security. So, I would say that's an obvious best practice. Um,
+23:23
+and something else that you actually brought this up before, um, Bryce, about
+23:29
+the experience of people today that like their credit cards are are great and like why do we need something new? Like
+23:36
+I think that is very true. Uh and it depends on what jurisdiction you live in, but definitely in North America,
+23:41
+it's relatively easy to access a credit card and payments are really seamless. Um but I'm starting I [clears throat]
+23:48
+think people will realize soon, especially with all of these yield products coming on the market that are
+23:54
+like really abstracted and really easy to access and like you don't know what stable coin you're holding because you
+23:59
+don't really care. Like you just know that it's US dollar denominated yield. um that's like a huge disruptor to the
+24:08
+traditional products that are available to people. And I I think it's it might not be people realizing like oh like my
+24:15
+payment system sucks and like this is a better it could just be like oh I've been getting screwed by banks for so long I didn't even know that I could be
+24:21
+earning yield on my dollars if I had like a foreign bank account. So sorry not really answering the centralization
+24:27
+decentralization question. I already addressed that, but I think that that's like a a huge unlock for the um [snorts]
+24:33
+for the UX with um with stable coins like the the yield. Yeah, I totally agree. It feels like
+24:38
+that is where we're going to see mass migration to stable coins in the US and more developed markets. Um and again,
+24:45
+it's not necessarily going to be the way that people are transacting day-to-day, but it's still huge. I mean like the the
+24:51
+Coinbase product for earning yield is attracting so many people in the door because they're like, "Oh, there's a
+24:57
+trusted brand behind this." A a just announced their A app that has a million dollar insurance on balances. And it's
+25:05
+starting to have that feeling of, hey, this can be a true savings account for me, which I I completely agree with what
+25:10
+you're saying. Um [clears throat] we don't have uh much time left but uh I would like to wrap
+25:17
+this with some forward uh looking questions. Uh which innovations whether
+25:23
+those are uh technical or design driven do you think would make the biggest difference for mainstream credibility in
+25:30
+the next few years? I think right just said the thing that
+25:37
+was we were forgetting to talk about in this panel and I think it's it's kind of the holy grail which is the yield on
+25:43
+your standard account and um there's been a bunch of innovation over the past months on that this week as well we we
+25:50
+saw very interesting announcements coming up with a at least two days ago bringing something very interesting um
+25:56
+to market also with a $1 million user funds insurance I was surprised because
+26:02
+they call it insurance and I was thought they will just call it cover and and have some internal mechanism to cover in
+26:07
+case of issues but they really called it insurance and that's a big deal. The legal documents were not in display yet
+26:14
+they said they were going to release them upon the app release or something. Um but like the combination of those two
+26:21
+[clears throat] aspects like putting money to work for the user instead of for the bank on the one hand um even for
+26:28
+for accounts that typically due to convenience uh reasons will not be benefiting from that and then on the
+26:34
+other end also guaranteeing to the user up to very decent amounts like 1 million
+26:40
+um is really a powerful combo and so I'm really looking forward to see this coming up from other players in the
+26:46
+market. Yeah, maybe building on that, I I think the question of how do we bring more
+26:53
+users on board, a lot of this is actually just the boring elbow grease of distribution and folks actually using
+26:59
+the existing building blocks that have been built out over the last 5 years to bring really amazing products to market.
+27:05
+And we've been seeing a ton of really interesting uh attempts at this and it's early days but I I think part of this is
+27:12
+just like need to grind on that product, need to market it to folks, need to get
+27:17
+distribution through existing fintech players and that's where a lot of the adoption is going to come from over the next couple years.
+27:24
+Yeah, I think all that is is is great and I think uh you know absolutely on
+27:30
+point. Um, but to add to that, it's it's a question of uh ease of use
+27:37
+and and simplicity for for new users, right? Users who who have never dealt
+27:42
+with crypto, they there's a a knowledge gap and and
+27:48
+it creates fear. So people, you know, I've never done that. How how do I do it? So you need to to make it simple.
+27:54
+You need on-ramp to be simple. You need to do things like what Bryce is doing with uh uh [clears throat] you know
+27:59
+eliminating the the private key and just using web two uh level um interaction
+28:05
+with with the with the wallet. All of those things are are super important. Uh without that it's going to be very hard.
+28:14
+Yeah, I would say account. Yeah. Um the mo the more you can abstract away all of the underlying
+28:21
+technology just the more this will be successful. Like people need to just use payments and they use whatever is
+28:27
+fastest, cheapest, more most versatile. Like it doesn't really matter what's underneath. So I don't think we'll be
+28:35
+calling them stable coins or mo like the majority of 99% that don't care about or
+28:40
+know crypto. Like they're not going to use stable coins. They're just going to use the payments option that works best for them. Um, and I think a big unlock
+28:47
+to that in in addition to the account abstraction is [snorts] um just more products that are
+28:54
+compatible with stable coins. So like FX markets like other currencies in um
+29:02
+stable coin format. It's not as competitive of a market to build like you know a even like a euro denominated
+29:10
+stable coin or a Canadian dollar denominated stable coin. But like if we want to actually completely disrupt the
+29:15
+way that money moves around globally, you need those markets to exist. So I think that um those things are going to
+29:21
+get built as soon as it's makes economic sense to do it.
+29:27
+We kept um mentioning um today a a few times a bill about building this uh
+29:32
+trust and and reputation. So I think uh it would be maybe relevant to to touch
+29:38
+this briefly. Do you see this uh will happen onchain, offchain or maybe in a hybrid way?
+29:48
+I think it's going to be hybrid and we're already seeing that like a for
+29:53
+being one of the most decentralized protocols is bringing kind of centralized trust to this application
+29:58
+with the insurance that they're they're putting in place. Um which drives a lot of a lot of confidence there. um
+30:05
+insurance over time can be something that that's done on chain at scale, but I I think that is a bridge to cross from
+30:12
+a communication perspective with uh consumers and them being more comfortable with a centralized party
+30:19
+because that's what they've always known is I I think how we start to get people on boarded. Um, so feels feels very
+30:26
+obvious that people are going to be tackling this from a couple different angles, but centralized maybe will be the the first big wave of folks and then
+30:32
+decentralized will be the second big wave. No, I I definitely agree and that
+30:38
+example is also very interesting especially in light of another player outside of the stable coin world for
+30:44
+now. Uh, and the recent move for unification of a bunch of entities in
+30:49
+space. So, so on on the unis swap side and curiously Stani went on the governance forum and heavily criticized
+30:56
+their their their argumentation [clears throat] um and he was arguing for the a model
+31:03
+and how like their approach to decentralized um not corporate but the governance
+31:09
+structure would will be sufficient then to assure the trust in the rest of the model. notwithstanding the fact that
+31:15
+then the insurance uh component now is certainly centralized at least with information we have. Um and so it will
+31:22
+be interesting to see how this fight plays out now given that um with Trump's administration recent moves we are
+31:29
+seeing this trend away from decentralized models and and from the
+31:34
+need for this sophisticated governance apparatus to justify uh surviving
+31:41
+regulatory attacks especially in the United States and so there's clearly this fight going on on which will be the
+31:48
+prevailing most sustainable model going forward And um for now that means I read
+31:53
+is the answer but I'm looking forward to see the decentralized side winning this race at least on on the higher end more
+32:00
+abstract um top level governance model. Thank you for that. I think we might
+32:07
+actually have uh time for one quick question from the audience if anyone has a burning questions for our panelists.
+32:17
+I see there something
+32:26
+No. Can we get a mic over there
+32:33
+or just uh say the question and I'm going to repeat it here?
+32:55
+Yeah, great question. So to to repeat, what's the impact of nefarious
+33:01
+activities in like stable coin adoption and how do these play out? Yeah, like
+33:07
+nefarious activities are bad by definition. No one likes them. Crypto has these Yeah. kind of nuanced approach
+33:14
+to to dealing with nefarious activities for for the good reasons that that group
+33:20
+that defines nefarious can control other groups by changing the definition of nefarious. Uh but let's put that
+33:27
+question aside and just assume nefarious is bad for the sake of being bad. Um then I think what we're just seeing is
+33:34
+due to the market opportunity that exists both in payments and businessto business transactions like the stable
+33:41
+coin players both centralized and decentralized they want to to win market share and so they have to play by the
+33:49
+rules that are dominant in in that area and and currently there's a big
+33:56
+apparatus for for anti-moneyaundering and other financial crime prevention
+34:01
+um mechanisms and so everyone is playing by those rules and um I think that's
+34:06
+that's good. Now we just need to improve those rules because those rules haven't been designed for a world that can be
+34:12
+made more efficient by by our technology.
+34:17
+Yeah, that's a great point. I think uh to to add to that um you know different
+34:23
+protocols, wallets, uh exchanges need to have the right solutions in place also
+34:29
+to protect against such use cases, right? So if you have AML or really any
+34:35
+compliance, you need to be able to detect and block that. Um so that's
+34:40
+that's a critical component as well. Thank you so much. Unfortunately, we are
+34:45
+at the top of the time. I would have loved to continue the conversation. Uh thank you to our panelists. Thank you to
+34:51
+our audience and uh let's give our great panelist a round of applause.
+34:58
+[applause]
+

@@ -1,0 +1,512 @@
+0:011 second[Music]
+0:055 secondsWelcome to Regulatory Ramblings.
+0:1010 secondsOur podcast today is brought to you by the University of Hong Kong's Reg Lab, the HKUSF Fintech Academy, the Asia
+0:1818 secondsGlobal Institute, the HKU Edex Professional Certificate in FinTech, and support from the university's faculty of law.
+0:2727 secondsI'm your host AJ Shandasani.
+0:3232 secondsThe common theme for today's broadcast is fintech and web 3 at large with an eye towards digital assets and virtual
+0:3939 secondscurrency. In today's spotlight segment, we'll be speaking with a returning guest and dear friend of the program, S.
+0:4848 secondsMasher Ahmed. He's the founder and managing director of Finstep Asia. We'll be discussing the recently disseminated
+0:5656 secondsHK web3 blueprint, building a web 3 international financial hub report for which he was a co-lead along with Sha
+1:041 minute, 4 secondsLee of Web3 Harbor's policy committee and one of the key leaders of the blueprint task force. Following that,
+1:121 minute, 12 secondswe'll be chatting with local lawyer Joshua Chu on the recently passed Genius Act in the US and what it means for
+1:201 minute, 20 secondsmaking the US a stable coin hub along with Hong Kong's own stable coin ordinance. But first,
+1:271 minute, 27 seconds[Music]
+1:321 minute, 32 secondsthe Hong Kong Web 3 blueprint report should be seen as a road map for hastening blockchain development in the territory. For that purpose, Web Tree
+1:401 minute, 40 secondsHarbor joined forces with PWC Hong Kong to launch five action groups this past August on stable coins, funds, and other
+1:481 minute, 48 secondscritical segments. Ultimately, it's a call to arms for more investment to accelerate the development of blockchain infrastructure in the S. The report
+1:571 minute, 57 secondshighlights the quote transparency, security, and user empowerment end quote with decentralization.
+2:042 minutes, 4 secondsAs the SCMP put it, quote, "The blueprint seeks to leverage what it calls web 3 superpowers," quote unquote,
+2:122 minutes, 12 secondsthrough the development of five key enablers: talent, market infrastructure, standards, regulation, and funding, and
+2:202 minutes, 20 secondseconomic contribution. It calls on the participants to focus on open finance, trade finance, capital markets, asset
+2:262 minutes, 26 secondsmanagement, and carbon markets." End quote. In fact, Webpri Harbor's chairman Gary Leu, formerly CEO of the Post, said
+2:372 minutes, 37 secondsgreater private public collaboration was amongst its goals, but its primary goal was to be a guide for where the private
+2:442 minutes, 44 secondssector should focus its efforts. And now joining us are Mashermed and Sha Lee.
+2:522 minutes, 52 secondsMasher has over 18 years of extensive experience as an ecosystem builder in the realms of capital markets, fintech
+3:003 minutesand virtual assets, including a decade as a global markets trader prior to coming to Hong Kong to attain his MBA
+3:073 minutes, 7 secondsfrom HKU and London Business School's joint program. Since 2016, Masher has contributed extensively to building the
+3:153 minutes, 15 secondsregion's fintech and virtual asset ecosystem, particularly as the co-founder and as a concurrent board
+3:233 minutes, 23 secondsmember and the inaugural general manager of the fintech association of Hong Kong.
+3:283 minutes, 28 secondsFor almost 5 years, he's been the managing director of Finstep Asia, a firm which he founded. And in the interim from October 2022 to January
+3:373 minutes, 37 seconds2024, he served as a financial markets risk assurance lead with the virtual assets regulatory authority in Dubai.
+3:463 minutes, 46 secondsShaun Lee is an experienced leader in web 3 and fintech devoted to regulatory advocacy and transformation of digital
+3:543 minutes, 54 secondsassets and currencies. Currently, he's the co-founder and CSO of IDA, leading the strategic direction of its stable
+4:024 minutes, 2 secondscoin and digital asset business. Sha is also senior adviser to the crypto council for innovation, a global
+4:094 minutes, 9 secondsalliance engaging with regulators and policy makers to advocate for digital assets and cryptocurrencies.
+4:164 minutes, 16 secondsHe's also a mentor at the MIT entrepreneurship and fintech innovation node and elected member of the cyberport entrepreneurship committee advisory group of the Hong Kong SR government.
+4:284 minutes, 28 secondsBefore his work in the fields of crypto and blockchain, Shan held leadership positions in cloud computing and
+4:354 minutes, 35 secondsopen-source software development companies working closely with leading financial services institutions on Wall Street and in Asia. And with that
+4:434 minutes, 43 secondsgentlemen, thank you so much for joining us. Thank you for inviting us. Thanks for having us, AJ.
+4:484 minutes, 48 secondsThanks. So, let's start there. How do we get there?
+Chapter 2: Hong Kong Web3 Blueprint explained as a roadmap
+4:514 minutes, 51 secondsUm, I think the whole premise of our blueprint uh and also the the momentum that we have been driving in Hong Kong
+4:584 minutes, 58 secondsuh over the last few years uh is that you know for a for Hong Kong or really any country or city to be a digital
+5:065 minutes, 6 secondsasset hub um there are a number of things that need to be in place. uh regulatory clarity is obviously one of
+5:135 minutes, 13 secondsthem. Um but the at the end of the day just having regulation without an ecosystem uh doesn't exactly make you a
+5:215 minutes, 21 secondsdigital asset hub. So our blueprint was very much around uh what do we need to build the ecosystem to be uh from the
+5:305 minutes, 30 secondsperspective of the industry players that are both here domestically in Hong Kong uh as well as international players that sees Hong Kong and the greater China
+5:385 minutes, 38 secondsarea uh to be an area of uh of expansion and uh and and growth as well. So our
+5:455 minutes, 45 secondsour approach is very much around uh what the industry needs to do based on the regulatory frameworks that are already in place. Giving feedback in terms of
+5:545 minutes, 54 secondswhat future regulation frameworks uh may need to be put in place as well. Um and then at the same time more importantly
+6:026 minutes, 2 secondsuh give the industry some guidance on the areas that the government uh and the broader industry may uh may may feel
+6:106 minutes, 10 secondslike um or areas that needs to be added, innovated upon, adjusted um and or changed uh from that perspective so that
+6:196 minutes, 19 secondswe can have a a blueprint, a road map so to speak uh that we can pursue all together. So that's why you'll see in
+6:276 minutes, 27 secondsthe blueprint that we very much focused on um not only the the regulatory aspect and also the uh the infrastructure
+6:356 minutes, 35 secondsaspect. Uh we also have a lot of coverage around how do you bring in global liquidity. How do you build a
+6:426 minutes, 42 secondstalent uh development ecosystem both here in Hong Kong with the universities uh as well as from attracting talents
+6:506 minutes, 50 secondscoming to Hong Kong. Um and then al of course u being uh Hong Kong being where it is uh that interconnectedness
+6:576 minutes, 57 secondsuh along with China's strategy based on blockchain based finance uh and also CBDC as well. So all of those aspects
+7:057 minutes, 5 secondswere uh what we very much focused on as uh as a as a task force uh to put into the paper that you know went through a
+7:137 minutes, 13 secondslot of consultations with uh with the industry as well as with various uh sector within the government. Uh so all
+7:207 minutes, 20 secondsin all a team effort a really industrybased team effort uh and thus far I think the feedback has been uh very well received and also you could
+7:297 minutes, 29 secondssee uh from the recent uh announcement of the LEAP uh policy 2.0 statement uh as well as the Aspire road map that came
+7:377 minutes, 37 secondsout of SFC uh where I think the industry and the regulator all quite aligned in terms of the direction that we want to see Hong Kong to pursue into. Just to
+7:467 minutes, 46 secondssupplement what Sean has said and he's given you a comprehensive overview of the blueprint in addition to your uh introduction um AJ I think a key element
+7:567 minutes, 56 secondsfor us was we didn't want just like a research paper right so this wasn't a let's do an exercise to find what's
+8:038 minutes, 3 secondsmissing you know gap analysis and speak about it was truly about what are practical on the ground requirements uh
+8:118 minutes, 11 secondsa on the policy side b on the ecosystem building side and and and c was in terms of um stitching those two together uh
+8:208 minutes, 20 secondsand knitting them closely because we are in this era of um relatively you know newer for most countries in terms of the
+8:298 minutes, 29 secondsblockchain digital assets work and that provides Hong Kong with an opportunity to need not just regionally but globally
+8:368 minutes, 36 secondsright so what were the key ingredients and which we have highlighted upon and in addition to that we we weren't looking at just say a short-term fix or
+8:458 minutes, 45 secondsalignment. It was also to look at a five-year plan in terms of what can be built. Aligning in some senses with the with the approach that's often taken
+8:538 minutes, 53 secondsfive-year plans, but saying okay, here's our five pillars. We want to add towards it. We want to have the industry growing and this is kind of um your northstar in
+9:039 minutes, 3 secondsin which direction you can go. Uh I would go as far as saying that the blueprint is is a life document uh or a living document as some people like to
+9:119 minutes, 11 secondssay it wherein we will keep updating it from time to time. we have the different uh task force and groups that will be active starting in a few weeks time
+9:209 minutes, 20 secondswhich will take you know further action and going in deeper into verticals but this is stage one of uh how the industry
+9:289 minutes, 28 secondscan evolve and as Sean mentioned we're very pleased to see uh great feedback from the industry on this providing a
+9:359 minutes, 35 secondsstructured way of approaching the future for Hong Kong's web 3 but also seeing the alignment in terms of the government and regulatory policy uh being also
+9:449 minutes, 44 secondstowards pulling in the same direction and I'll pause there. Well, you know, it it seems to me that you guys as the
+Chapter 3: Talent and liquidity as Hong Kong’s differentiators
+9:519 minutes, 51 secondsauthors of this report uh were part of the team that authored it, you're not shy about thinking big because I mean, and I think something that resonated
+9:599 minutes, 59 secondswith a lot of people is that the report outlines how web technologies can drive sustainable
+10:0610 minutes, 6 secondsdevelopment and, you know, unlock economic growth, but but ultimately raise Hong Kong's digital finance
+10:1410 minutes, 14 secondsleadership footprint. uh not just not just regionally uh where some would be content with that but but globally you guys really do
+10:2410 minutes, 24 secondsthink big but you know as someone once said to me a dream is something you strive towards delusion it's something you live in does Hong Kong have the
+10:3110 minutes, 31 secondswherewithal the intellectual talent to drive it for you can build the hardware no problem but the real secret sauce
+10:4010 minutes, 40 secondssource is the people and I I this has been a lingering issue drawing the right
+10:4710 minutes, 47 secondstalent here is are high taxes I'm sorry high high salaries and low taxes enough
+10:5410 minutes, 54 secondsbecause many of these people not wanting to come to Hong Kong you know recent is 2019 to
+11:0111 minutes, 1 seconduh you know 2023 aside you know the protest the riots the you know the Chinese government the you know the
+11:1011 minutes, 10 secondscovid all of that notwithstanding notwithstanding the bad press we've gotten in recent the big the big impediment drawing people top talent here is the quality of
+11:1911 minutes, 19 secondslife issue. So again I say our high salaries and low tax is enough.
+11:2411 minutes, 24 secondsYeah. But I think stage one, right, um, Hong Kong has often had and and me as being in Hong Kong for 11 years, uh, one
+11:3311 minutes, 33 secondsof the things I often observe about Hong Kong is it tends to be low-key. It tends to be very much humble in in in terms of
+11:4111 minutes, 41 secondsat a global stage, right? We don't shout from the rooftops about our successes and how well we've done and the position we have.
+11:4711 minutes, 47 secondsAnd it only adopts things often times when it's been tried and tested in other jurisdictions. We we play it safe, which
+11:5411 minutes, 54 secondshas its virtues. But that also means then you're not leading, you're not innovating. And and this what I noticed that's different about this document is
+12:0312 minutes, 3 secondsthis really is a call to arms. Hong Kong, you've got to chart your own path and show people what you can do.
+12:0912 minutes, 9 secondsFrom a Hong Kong perspective, we are a top three financial hub, global financial hub, right? Um we have one of the deepest capital markets in the
+12:1712 minutes, 17 secondsworld. We are a top IPO hub here. So there's a lot of things that are big about Hong Kong at a global scale and it has shown leadership in bridging the
+12:2412 minutes, 24 secondseast and the west in particular with mainland China to uh other centers across the Belton road and beyond and so I think first is we have all the
+12:3312 minutes, 33 secondsfundamental foundations to think big and actually achieve tech number one. Number two to the point in terms of innovation
+12:4012 minutes, 40 secondsetc. I think yes the industry is more services based over the last two three decades but innovation is part of the Hong Kong fabric as I say right in
+12:4912 minutes, 49 secondscapital market structuring knowing ways of doing things in a proper regulated legal way and being able to build on top for various capital structures aligning
+12:5812 minutes, 58 secondswith mainland China aligning with the global financial services world and having uh a top regulatory framework has
+13:0713 minutes, 7 secondsbeen something Hong Kong has achieved and there is that deep talent people in Hong Kong understand capital markets like very few other places in the world
+13:1513 minutes, 15 secondspossibly New York and London at that scale and thirdly uh touching upon the point on talent is a very valid point
+13:2213 minutes, 22 secondstalent is a very critical element of any innovation ecosystem I do think we've seen significant work being done by the
+13:2913 minutes, 29 secondsgovernment supporting universities with millions of dollars of funding for uh startups and innovation uh besides what has been done with the with science park
+13:3813 minutes, 38 secondsand cyber port plus the fact that there's there's these multiple top talent schemes. Yes, there's been a large amount of talent coming from
+13:4513 minutes, 45 secondsmainland and China, but there is also very high quality top talent that's coming in. So, we don't necessarily always have to think about uh all the
+13:5313 minutes, 53 secondstime having very very international talent, which is very good to have. It provides a lot of diversity, but having top talent, be it from our uh from the
+14:0114 minutes, 1 secondgreater Bay Area or beyond is also very useful. And lastly, what I want to speak uh to on the innovation and uh and
+14:0814 minutes, 8 secondstalent world is with the government showing the support from from a leaf framework and one of the other elements
+14:1514 minutes, 15 secondswas about academic uh research about supporting talent and uh growing uh the ecosystem.
+14:2314 minutes, 23 secondspeople in Hong Kong have they've been very significant crypto firms, virtual asset firms, call
+14:3114 minutes, 31 secondsthem what you may, blockchain firms that have originated in Hong Kong, right?
+14:3514 minutes, 35 secondsEither started here or grew here significantly. And this is every big name has some Hong Kong connection or
+14:4214 minutes, 42 secondsthe other, which also tells that as a as a jurisdiction, we've had exposure to virtual assets and Bitcoin and blockchain for much longer than most
+14:5014 minutes, 50 secondsjurisdictions in the world. And we have people who understand both the technology and the business models, people like Sean, people like the those
+14:5914 minutes, 59 secondswe have in the web three harbor board who understand this and are able to make the transition towards what is now happening which is the tokenization of
+15:0615 minutes, 6 secondsmoney and that's the distinction between a crypto world to a tokenization of money and the web 3 world where we have that advantage of knowledge of capital,
+15:1515 minutes, 15 secondsknowledge of finance and knowledge of blockchain and crypto to bring all of those together and that's will be on the key elements to raise our level and
+15:2415 minutes, 24 secondsstandard as becoming the leader and and a global hub for uh virtual assets.
+15:3015 minutes, 30 secondsSean, if you want to add. I I think the only thing I would add to that will share is you know in this
+15:3615 minutes, 36 secondsspace uh liquidity is king people are naturally going to go where the liquidity is going towards and where the
+15:4415 minutes, 44 secondscapital is actually being deposited as well. So uh we've already seen a number of cycles. Uh as Mure mentioned before,
+15:5315 minutes, 53 secondsHong Kong used to be uh one of the top crypto hubs way back when when when the whole industry got started. Uh then of
+16:0016 minutescourse there were a lot of um uh a lot of restrictions from both from a regulatory perspective and also uh quite frankly from a from a incentive
+16:0816 minutes, 8 secondsperspective as well that other jurisdictions have come up with. So there were a lot of talents that left Hong Kong and went to places like Singapore and UAE and whatnot. Uh but we
+16:1716 minutes, 17 secondsare seeing though given the industry the industry is uh maturing uh institutions are picking up their game regulators are
+16:2616 minutes, 26 secondsproviding more clarity uh there's now actually a lot of people that are coming back to Hong Kong. So with these talents
+16:3416 minutes, 34 secondscoming back to Hong Kong being they are already kind of industry veterans that will naturally attract new talents
+16:4216 minutes, 42 secondscoming to Hong Kong as well. So I mean I I would probably say over the last 12 months or so the the entire landscape from a talent perspective has
+16:5116 minutes, 51 secondsdramatically changed. You could see from earlier this year when we had consensus uh that was being held in Hong Kong for
+16:5816 minutes, 58 secondsthe very first time uh there were so many people coming from abroad uh that came into Hong Kong understanding what the landscape looked like talked to the
+17:0617 minutes, 6 secondsgovernment talked to the regulator talk to the industry players here and many of them have committed to either open a branch here or actually some of them are
+17:1417 minutes, 14 secondsmoving here. So I I think the the future is looking very bright. Uh especially when you have public and private sector
+17:2317 minutes, 23 secondsboth working together towards a common goal. Um it is actually what you want to look for and I'm I I'm proud that we are traversing in that direction.
+17:3117 minutes, 31 secondsJust two two uh last points. I mean I think we understand the economic and the policy rationale but why why release the
+17:3917 minutes, 39 secondsreport now? And if we were to put this in terms of the average person as to what these long-term changes will mean
+17:4717 minutes, 47 secondsto them, I mean, yes, you and I can foresee that we're talking about the financial infrastructure of the future, but we had a guest on some time back,
+Chapter 4: Gen Z’s stake in future financial rails
+17:5517 minutes, 55 secondsBrian Michael, a Harvard Oxford trained economist, former research fellow at HKU Law School, who pointed out that
+18:0418 minutes, 4 secondspeople like us, policy makers, academics, pundits, journalists, we can talk about this all we want, but the net
+18:1218 minutes, 12 secondsresult is generation zed, he said, has no say in the financial infrastructure that's going to undergur and rule their future. I'd like to hear your thoughts.
+18:2418 minutes, 24 secondsThat's that's actually I think fundamentally where this entire industry is going, right? Like if you think about
+18:3118 minutes, 31 secondsthe notion of why Bitcoin was created or the Bitcoin white papers written in the first place, it was really to break through that very rigid, very
+18:4018 minutes, 40 secondscentralized power in the few uh type of hierarchy that the world lived in uh and continued to live in from a financial um
+18:4818 minutes, 48 secondsyou know services perspective. Uh now of course we also understand the LA from the last few years that you can't
+18:5618 minutes, 56 secondsexactly live in a completely trustless and decentralized world uh where money is freely flowing from one place to another because there's just too many
+19:0419 minutes, 4 secondsproblems uh that comes out of it. So we are now going towards a place where uh you're bringing that innovation that
+19:1219 minutes, 12 secondsspeed of uh that that that speed of the internet in terms of not only passing messages and content but now also
+19:1919 minutes, 19 secondspassing monetary value uh in into uh more more compliant uh centric
+19:2619 minutes, 26 secondsframeworks. Now I think it's giving people a lot more comfort in terms of where things are. Now your point about the Gen Z, right? Gen Z's are naturally
+19:3519 minutes, 35 secondsdigital, right? They're natively digital. So I actually have much less of a concern for the younger generation to accept this new form of technology.
+19:4619 minutes, 46 secondsNot not in terms of use of the technology, but the rules undergurting it. But the rules that are governing it.
+19:5119 minutes, 51 secondsWell, the the rules are the rules are in place. The rules are there for a reason.
+19:5819 minutes, 58 secondsuh it is you know we we all have to accept uh a world where when you have innovation uh that innovation still
+20:0620 minutes, 6 secondsneeds to play by some of the rules that the world um is predicated on right so it's just a evolutionary
+20:1420 minutes, 14 secondsuh behavior I guess I guess what I was thinking of we setting the rules that they will have to live by when they come of age
+20:2120 minutes, 21 secondsbut then they will also be the one adjusting the rules as they go along as well.
+20:2520 minutes, 25 secondsYeah. And and maybe just to add to that, right? Um I I hear where this is coming from. Probably this is the the the overall conversation of baby boomers
+20:3420 minutes, 34 secondshave set the the rules for the broader world and the millennials are kind of following that path and where does this leave Gen Z having to live through at a
+20:4220 minutes, 42 secondsvery macro level. So number one, forget forget that. What about us and Gen X?
+20:4620 minutes, 46 secondsYeah, we had to straddle the analog and digitally.
+20:4920 minutes, 49 secondsYeah, correct. Right. So I think as Sean mentioned, these are Gen Z is very digital natives, right? um they understand this world a lot better than
+20:5820 minutes, 58 secondsmost of us do. Um bitcoin, blockchain, dogecoin, memecoins, all of this is very natural to them. We had to learn and understand this. But for them, it's very
+21:0621 minutes, 6 secondsvery natural because they grew up in that era. So when it comes to defining the rules, I think they have a lot more say because they're kind of building the business models as well. Like if your
+21:1521 minutes, 15 secondsbusiness model is not impactful, then it's not going to work. And if they're the ones building the business models, they're also building the governance and the rules around it. And it's in
+21:2321 minutes, 23 secondstransition phase, right? So that's point one. Point two is we have to distinguish a little bit about your traditional
+21:3221 minutes, 32 secondsfinance and you know the that piece of uh of the industry which is what's happening with tokenization of finance right now which is where it's heavily
+21:4121 minutes, 41 secondsregulated uh which is a world that is not just about building rules but it's also about consumer protection and that's what is happening and being
+21:4821 minutes, 48 secondsshaped in Hong Kong. uh the beauty of Hong Kong's regimes are you have consultation process and everybody can give feedback and as with the blueprint
+21:5521 minutes, 55 secondsas well we engaged a host of different people and I would say that there was a mixture of young people and uh as well as u as experienced people as you would
+22:0422 minutes, 4 secondssee we had the blockchain club as well from HKU uh consulting club which was part of the conversation and supporting us as well so we have those inputs in in
+22:1222 minutes, 12 secondsour uh paper and we have had inputs broader industry as well and you're right they need to part of it and that's where the
+22:2022 minutes, 20 secondsblueprint comes in as enabling them to give that insight showcase and the web 3 world is very receptive and very open to
+22:2922 minutes, 29 secondsideas and concepts right so I think the Gen Z has a much bigger voice in today's world and through the blueprint and other places we can be the conduits to
+22:3822 minutes, 38 secondsrelay that messages to the uh government to the policy makers if it's if it's not possible for Gen Z so I would encourage
+22:4622 minutes, 46 secondsGen Z's to use us as a conduit it uh if they have differing views but we are very much aligned in terms of taking this to the next step and this is a a
+22:5522 minutes, 55 secondsbroader policy and it is about talent piece as you mentioned is one of our core five pillars and we do want to develop talent and not just in terms of
+23:0323 minutes, 3 secondshey tech talent but also talent that can take forward the industry from a business perspective as well and growing
+23:1023 minutes, 10 secondsthe industry with new business models that can be applicable and can have pick up uh in the modern context. Yeah, I guess that that that is the question.
+23:1923 minutes, 19 secondsHow democratized and how egalitarian will the web 3 uh ecosystem of the
+23:2623 minutes, 26 secondsfuture be? I guess what I mean one last point and I'll before we wrap up though and I'll put this to you guys. Any any closing
+23:3423 minutes, 34 secondsany closing thoughts you'd like to conclude with? We've gone through a lot of cycles economic, social, otherwise uh
+23:4223 minutes, 42 secondsin the last 10 years in Hong Kong and we've now reached a stage where uh policy makers, regulators and the
+23:5023 minutes, 50 secondsindustry are failure aligned especially when it comes to the future of finance uh in this city, right? And uh this is a
+23:5823 minutes, 58 secondsan opportunity for us. It's it's not just great for us to pat our uh backs that hey the regulators are aligned we are aligned the industry wants to do it
+24:0624 minutes, 6 secondsnow is the time for action and I'm pleased that there's a lot more on the ground work that players like Hong Kong cyber port science park all of these
+24:1424 minutes, 14 secondsguys are putting a lot of effort to galvanize the ecosystem and like us with the web 3 we also want to bring in the industry to actively participate and not
+24:2224 minutes, 22 secondsjust comment right so for me the the main element is now is the time for us to action we are among the leading
+24:3024 minutes, 30 secondscenters when it comes comes to completing the regulatory frameworks for virtual assets. In in a few months, we'll have almost everything covered if not everything and we have a mature
+24:3824 minutes, 38 secondsecosystem and it is a momentum for tokenization of finance. So, we should pick up that momentum and that would be
+24:4624 minutes, 46 secondscritical for us to reemerge as a more uh international center for the future of finance.
+24:5424 minutes, 54 secondsA short comment to wrap up. Uh I would say if you're a students that's listening to the podcast uh whether
+25:0025 minutesyou're in finance or tech or computer science or engineering uh doesn't really matter whether you're in a technical uh
+25:0825 minutes, 8 secondsdegree or not uh this is a space to watch out on uh this is a space that is uh fast evolving it is maturing uh we
+25:1625 minutes, 16 secondsare now living in one of the leading hubs and um I think this would be a great opportunity to identify where a
+25:2325 minutes, 23 secondspotential career could uh be you know going towards. So keep an eye out on that.
+25:2825 minutes, 28 secondsMashir Sean, thank you so much for your time. Thank you for having us.
+25:3425 minutes, 34 secondsThank you for having us. It's a pleasure and we'll be right back.
+25:3925 minutes, 39 seconds[Music]
+25:5325 minutes, 53 secondsAnd we're back. In this segment, we'll be discussing the enactment of the new Genius Act in the US on July 18th. In
+Chapter 5: Intro on the US GENIUS & Clarity Acts (stablecoins, market structure), and Hong Kong’s Stablecoin Ordinance - who’s covered and why it matters
+26:0226 minutes, 2 secondswhat was labeled crypto day during that country's recent crypto week, the h the US House of Representatives first passed
+26:1026 minutes, 10 secondsthe Clarity Market structure bill and then the Genius Act, the latter of which was signed into law by President Trump.
+26:1726 minutes, 17 secondsThese moves by Congress were seen as historic steps toward the regulation of virtual assets in the United States. Or
+26:2526 minutes, 25 secondsas one pundit put it, crypto, your time has come. The US legislation is the first standalone bill aimed at providing
+26:3426 minutes, 34 secondsclarity for the growing cryptocurrency ecosystem, particularly the regulation of stable coin.
+26:4226 minutes, 42 secondsIt it's these these these are heady times indeed. I mean, and it's nothing short of landmark legislation which
+26:5026 minutes, 50 secondsestablishes the first regulatory guidelines for stable coins in the United States. A recent chain analysis
+26:5726 minutes, 57 secondsarticle stated that there is no country in which the development of digital asset regulation
+27:0627 minutes, 6 secondsis more closely watched than the United States. And now with the passage of the Genius Act and progress with the Clarity
+27:1327 minutes, 13 secondsAct, the US joins a growing group of countries that are firmly on their way to establishing clear regulatory
+27:1927 minutes, 19 secondsframeworks for digital assets. The act focuses on establishing regulatory frameworks for stable coins, including provisions for consumer protection,
+27:2827 minutes, 28 secondsasset backing, and compliance with the 1970 Bank Secrecy Act. All heady stuff.
+27:3727 minutes, 37 secondsAccording to TRM Labs, stable coins now represent over 60% of all crypto transaction volume, up from just 35% two
+27:4527 minutes, 45 secondsyears ago. More than 90% of fiatbacked stable coins in circulation are pegged to the US dollar.
+27:5427 minutes, 54 secondsTRM estimates that 99% of stable coin activity is listen. Their speed, scale, quantity have made them appealing for
+28:0328 minutes, 3 secondsillicit uses as well, including ransomware payments, fraud, and terrorist financing. Now, the Genius Act, the acronym stands for guiding and
+28:1128 minutes, 11 secondsestablishing national innovation for US stable coins.
+28:1728 minutes, 17 secondsThe provisions for reserve requirements for stable coin issuers, consumer protection, and AML
+28:2528 minutes, 25 secondsaim to provide greater stability for and security for stable coin markets, ensuring they're better integrated into the broader US financial system. And
+28:3428 minutes, 34 secondsthis marks a key moment for the regulatory framework governing digital assets in the US and works to balance innovation with risk management. As for
+28:4228 minutes, 42 secondsthe Clarity Act, it addresses broader market structure issues within the cryptocurrency space. The Senate is working on its own market structure
+28:5028 minutes, 50 secondsbill. After both chambers have acted, they will conference reconcile their differences and finalized version of the clarity bill that will move forward and
+28:5828 minutes, 58 secondsthat'll be likely this fall. The passage of both bills reflects a significant effort to provide clear regulatory guidance for the crypto market, helping
+29:0629 minutes, 6 secondsto address the growing need for oversight as the industry continues to expand. Now, at almost the same time,
+29:1429 minutes, 14 secondshalf a world away in Hong Kong, the territory stable coin ordinance and related implementation guidelines issued by the Hong Kong Monter Authority
+29:2229 minutes, 22 secondscommenced operation on August 1st, 2025 with the with a transitional period grounded for solely issuance purposes.
+29:3229 minutes, 32 secondsThe new regime is touted as a significant milestone for the city's growing digital assets market. According to recent briefing by King and Wood
+29:4029 minutes, 40 secondsAllison's, it is quote relevant to institutions that wish to engage in the primary market issuance of fiat reference stable coins as well as other
+29:4829 minutes, 48 secondssecondary market transactions in or involving Hong Kong. Even if you're outside Hong Kong, you should pay attention to the restrictions imposed on
+29:5629 minutes, 56 secondsthe stable coins ordinance for any stable coin related activities with the Hong Kong Nexus. End quote. So what does
+30:0430 minutes, 4 secondsthat entail? Well, the new stable coin ordinance regulates issuers of stable coins and the structure of a stable coin
+30:1130 minutes, 11 secondsitself, offers of stable coins and thirdly related market integrity and conduct matters.
+30:2030 minutes, 20 secondsSo the ordinance regulates quote unquote specified stable coins which are stable coins
+30:2830 minutes, 28 secondsdeemed cryptographically secure digital representations of value that purports to maintain a stable value with
+30:3530 minutes, 35 secondsreference wholly to one or more official currencies or other HKMA specified units of account or stores of economic value.
+30:4430 minutes, 44 secondsAnd that comes under section four of the stable court ordinance. Granted, it's a technical definition, but essentially it captures
+30:5230 minutes, 52 secondsone, a stable coin linked to an official currency, and two, a stable coin linked to other units of account or stores of
+31:0031 minuteseconomic value. In each case, as designated by the HKMA, by notice published in the Gazette. To
+31:0731 minutes, 7 secondsdate, the HKMA has not specified any such units of account restores of economic value, but the expectation is that they may include commodities such
+31:1531 minutes, 15 secondsas gold. Now, with us to discuss these developments and their longerterm implications for our region and the world is Joshua Chu, returning guest and
+31:2431 minutes, 24 secondsfriend of the program. He's a prominent Hong Kong lawyer in all matters fintech and crypto and a prolific writer. His opinion and insights are much sought
+31:3231 minutes, 32 secondsafter by the local press and correspondents of major foreign news organizations operating in the city. You
+31:3931 minutes, 39 secondscan hear him often at his most candid on radio at RTHK and he's also co-chair of the Hong Kong Web3 Association and legal
+31:4831 minutes, 48 secondsadvisor the Hong Kong Blockchain Association. Josh, thank you so much for joining us. Oh, thank you for having me again.
+Chapter 6: First movers and FATF pressure - cutting through the hype
+31:5731 minutes, 57 secondsSo, what's what's what's all the hype about? Because I mean the general public like okay, ho han cryp crypto's been
+32:0532 minutes, 5 secondshere for a while and continue to be here. Um, but those that those that f the true acolytes, the true
+32:1332 minutes, 13 secondsobserver, the true crypto believers, they they have been over the moon in recent times because of all these
+32:2132 minutes, 21 secondslegislative developments. What's hype and what's what's substantive?
+32:2632 minutes, 26 secondsWell, actually the passage of these laws have drove both praise and criticism from people within the community, which I'll go into detail about it. But what
+32:3532 minutes, 35 secondswe have seen is uh a lot of overpoliticizing of these legislation that have been coming out with uh
+32:4132 minutes, 41 secondslegislators and politicians coming up to claim credit uh each jurisdiction for example both saying that the first
+32:4932 minutes, 49 secondsstable coin legislation uh for example Hong Kong's legislation was actually passed before the US uh
+32:5632 minutes, 56 secondsgenius act was passed and uh they just exh ignored the existence of each other with American polic politicians coming
+33:0533 minutes, 5 secondsout saying this is the first stable coin law being out there on the market. And when clearly clearly they they were playing
+33:1233 minutes, 12 secondsto the uh playing to the gallery the national audience domestic domestic audience indeed. But it also
+33:1933 minutes, 19 secondsseems that they are quite ignorant of a few facts. For example, the very first uh uh stable coin related reg uh
+33:2733 minutes, 27 secondslegislation actually came out years ago back in 2023 in Japan uh which actually
+33:3433 minutes, 34 secondscame up with the PSA uh the payment service uh services act uh back uh at over two years ago and that was actually
+33:4233 minutes, 42 secondsthe world's first stable coin legislation and we can see how it actually have significant influence and
+33:4933 minutes, 49 secondsone of the things that a lot of again politicians seem to have ignored is these bills are put forward by certain
+33:5633 minutes, 56 secondsparties, right? And um when they are put forward a lot of times it's they actually uh kind of gloss over the fact
+34:0434 minutes, 4 secondsthat a lot of these legis uh uh jurisdictions are only putting forward legislation because of uh regulatory uh
+34:1234 minutes, 12 secondsagendas set by the financial action task force which is an international body dealing with anti-money laundering
+34:1934 minutes, 19 secondsrelated crimes established under since the passage of the UN resolution um basically focusing on the need to
+34:2834 minutes, 28 secondsbasically have AML and counterterrorist financing. So that having been said uh again the first legislation that
+34:3634 minutes, 36 secondsactually came out was 2023 in Japan which actually was the first jurisdiction that acted on FATF's very
+34:4534 minutes, 45 secondsfirst indication that the uh that regulators really need to re in on stable coin because of uh certain
+34:5234 minutes, 52 secondsillicit payments being traced back to having been conducted using stable coin as an emerging uh sort of crime related
+35:0035 minutesum activities and we're actually seeing a lot of it. So, it's actually just getting in line with international
+35:0835 minutes, 8 secondsstandards and avoid being labeled as a money laundering haven. Uh and that's what we're seeing right now. I'm glad
+35:1735 minutes, 17 secondsyou touched upon the point about politicization because I mean within the US that there are those that say I mean
+Chapter 7: Stablecoins vs CBDCs - common-law and civil-law paths
+35:2535 minutes, 25 secondsfocusing more on the Genius Act now that say that they're encouraged by inclusion of sections 401 and 404 which they say
+35:3435 minutes, 34 secondsappropriately recognize the importance of international regulatory alignment mutual recognition pathways and crossber
+35:4235 minutes, 42 secondsexperimentation through regulatory sandboxes uh particularly with 40 se uh section 404 on international cooperation
+35:5135 minutes, 51 secondsaligning with the policy direction of the president's January 2025 executive order in subsequent white house statements on on preserving US digital
+35:5935 minutes, 59 secondsasset leadership and you know protected economic liberty rejecting central bank digital currency CBDC based models as
+36:0836 minutes, 8 secondsincompatible with US values what why is why is the US I mean is it because they're so doctrinire on free
+36:1836 minutes, 18 secondswhen it comes to free markets the market should guide things that why why why is CBDC's
+36:2536 minutes, 25 secondsan anathema in the US whereas I don't think anyone would accuse China or Hong
+36:3236 minutes, 32 secondsKong of being anti-free market people in other parts of the world are more are more open to it and and and beyond
+36:3936 minutes, 39 secondsbeyond that is it necessarily in the world's best interest to have the US guiding the shape of of of legislation
+36:4836 minutes, 48 secondsbecause certainly that's what the Americans would prefer.
+36:5136 minutes, 51 secondsWell, I I'm glad you brought up this uh this point because uh back when you talk about the crypto week um a lot of hype have been put into three pieces of
+37:0037 minuteslegislation that was aimed to being passed in the US. Uh the first one being uh the Genius Act, uh the Sable Act and
+37:0737 minutes, 7 secondsthe NC CDC act. Now in the US for example there's a long history of struggle between uh the central banks
+37:1537 minutes, 15 secondsand uh the the executive branch for example um I I believe it was um uh
+37:2237 minutes, 22 secondsAndrew Jackson one of his most famous struggles back in uh in the 1800s was uh he he
+37:3037 minutes, 30 secondsagainst the organization of a central bank. Yeah.
+37:3237 minutes, 32 secondsExactly. He he he was extremely sick and basic at one point of time and uh Congress and the Senate tried to rush
+37:4137 minutes, 41 secondscertain legislation in and he utilizes veto power to prevent to basically to fight against the very concept of
+37:4937 minutes, 49 secondscentral bank institution. Now of course one of the things that we need to keep in mind of um laws are at the end of the day uh when we peel away the
+37:5837 minutes, 58 secondsinternational influence uh laws are supposed to be a reflection of the value of the cultures that um that uh that
+38:0638 minutes, 6 secondsenact them on a local level of course uh and when we look in this regards um we
+38:1438 minutes, 14 secondssee uh two very distinct trends happening uh uh I always compare that
+38:2138 minutes, 21 secondsChina's law and Hong Kong's uh Hong Kong law the difference is between uh the continental system versus that of common
+38:2938 minutes, 29 secondslaw. Hong Kong was a British colony and therefore we gravitate towards common law and what we will see is in a lot of
+38:3638 minutes, 36 secondscommon law jurisdictions there is a huge significant favor towards stable coin for example versus the continental
+38:4438 minutes, 44 secondssystem mika in the in the EU and China which basically uh focus on the the
+38:5238 minutes, 52 secondscreation of CDBC and one of the interesting aspect about the stable coin ordinance that a lot of legal practitioners seems to have missed is
+39:0039 minutesthe fact that we have clearly delineated what a stable coin is versus that of a CDBC which is a clear intent of
+39:0839 minutes, 8 secondsbasically having an integration ramp uh between the two type of system and we will probably see Hong Kong being one of
+39:1539 minutes, 15 secondsthe more advantageous system out there and being able to cater to both the continental system uh which uh again
+39:2339 minutes, 23 secondsChina Chinese law for example has a lot of elements drawn from the continental system. That's why Chinese law have a
+39:3139 minutes, 31 secondslot of similarities with German law for example, civil law system versus that of Hong
+39:3739 minutes, 37 secondsKong. Uh and that is something to be seen. Of course, uh we're going to see a
+39:4439 minutes, 44 secondslot more developments coming our way as well with respect to how C uh how the uh the three leg pieces of legislation is
+39:5339 minutes, 53 secondsgoing to come together in the US. Uh uh, of course the NCB CDBC act as of today, the mo uh to the recording of this
+40:0140 minutes, 1 secondpodcast at least have only been passed in Congress, have yet to be been passed
+40:0740 minutes, 7 secondsin the Senate chambers. I I agree that laws are a reflection of the
+40:1540 minutes, 15 secondscultural historical context in which that they were passed and and certainly
+40:2240 minutes, 22 secondsthe Genius Act in that regard. It really it's tapped into the zeitgeist. It it's
+40:2940 minutes, 29 secondsit's um it's it's a reflection of the mood on the ground in the market right now. And
+40:3740 minutes, 37 secondswe've had, you know, Henri Arlanian, arguably the Deianne of all things
+40:4440 minutes, 44 secondsfintech and crypto and and uh point out that this last election in the US can
+40:5240 minutes, 52 secondsrightly be regarded as the the election that uh crypto bought or the election that crypto won because many people are
+41:0141 minutes, 1 secondoneissue voters and for them it was crypto and that they they had had it
+41:0841 minutes, 8 secondswith the Biden administration's anti-crypto stance and and and if you
+41:1441 minutes, 14 secondseven if you look at again section 404 of the Genius Act, I mean it it it echoes
+41:2141 minutes, 21 secondskey provisions. I mean particularly section 3B2 which requires reciprocal arrangements with foreign jurisdictions
+41:2841 minutes, 28 secondsfor foreign stable coin market access in the US and interoperability and global regulatory alignment. I mean some see it
+41:3741 minutes, 37 secondsas a constraint others say no it's not a constraint to US sovereignty then to the contrary it's a means of reinforcing it
+41:4441 minutes, 44 secondsbecause it ensures US standards and values and institutions shape the international rule book for digital assets so in that context
+41:5341 minutes, 53 secondsthey those that want America to lead say US leadership is not optional it's a strategic imperative personally I don't
+42:0242 minutes, 2 secondsknow if that's necessarily in the best interest of the rest the world and and so you know the crypto but but it's true the crypto and digital asset industry
+42:1042 minutes, 10 secondscannot scale without global coordination and and the US does have a vital leadership
+42:1742 minutes, 17 secondsrole to play in forging reciprocal frameworks with like-minded regulators I'm just saying I don't think it it
+42:2542 minutes, 25 secondsshould necessarily be the only one shaping those rules and and so you know there there in lies the quantry do you
+42:3242 minutes, 32 secondssee greater harmonization uh for crypto rules as we've seen in other areas of finance like say ISDA you
+42:4242 minutes, 42 secondsknow trading of swaps and derivatives and futures and the things of that nature. Now again um some of the uh
+42:5042 minutes, 50 secondsbefore jumping into this particular question uh I would also like to point out the fact that a lot of the people that have been criticizing this
+42:5842 minutes, 58 secondsparticular these part the legislative process in the US notwithstanding they're actually just trying to be fatalf compliant at the end of the day
+43:0543 minutes, 5 secondsso that they don't be end up lab being labeled as some moneyaundering haven uh is the fact that the Trump family has
+43:1343 minutes, 13 secondsbeen heavily involved within the crypto space and The question has actually arisen whether there are any conflict of interest. For example, uh the fact that
+43:2243 minutes, 22 secondsthe uh the legislation have came out uh uh would have actually meant that uh incumbent players would have to adjust
+43:3143 minutes, 31 secondstheir practices significantly or to a to a lot to a to an extent at least to be complying with the new rules that came
+43:3843 minutes, 38 secondsout. And with the uh world liberty being aimed at rolling out their own stable coin systems out there, is this going to give them a huge competitive advantage?
+43:4943 minutes, 49 secondsThese are all nuances that are going to be seen. And while on the surface the legisl legislation seem fine, you it's
+43:5643 minutes, 56 secondsalways up to regulators that will say that um that will see what um whether um uh
+44:0444 minutes, 4 secondswhether there are nuances uh with other players uh as to whether they're fully complying with the uh legislation on the
+44:1244 minutes, 12 secondslocal level. So again lots of development to be seen based on how the laws are going to be carried out by the
+44:1944 minutes, 19 secondsregulators and how the industry will actually continue to react. For example USDT the tether uh right after the
+44:2644 minutes, 26 secondspassage of the genius acts uh welcomes the passage of the acts because um it does a lot of crystallize a lot of this uh of uh legal
+44:3544 minutes, 35 secondsuncertainties in the past. nevertheless said that they will actually come up with a USP specific product for the US
+44:4444 minutes, 44 secondsmarket so that it will be uh it wouldn't affect it uh the practice of tether in general in the open space and we'll see
+44:5344 minutes, 53 secondshow this plays out of course uh the other thing of course is the clarity act essentially gave meme coins a free pass
+45:0245 minutes, 2 secondsand as we all remember uh Trump uh during the election Ron, one of his biggest focus was not so much as the
+45:1045 minutes, 10 secondselection but selling meme coins, the Trump token, uh the Melania token that have gained a lot of raised eyebrow for
+45:1945 minutes, 19 secondsexample. Uh recently they have actually used the memecoin as a way of getting access to the white house. the president
+45:2745 minutes, 27 secondsof course which as uh Trump has actually emphasized is in his personal capacity nonetheless to raise a lot of eyebrow
+45:3645 minutes, 36 secondsbecause we have major crypto player from Asia and Hong Kong flying into the white house being one of the top holders of
+45:4445 minutes, 44 secondsthe Trump token. So these are all interesting things that are happening now. uh some people even say that the
+45:5145 minutes, 51 secondsclarity at to a certain extent a form of deregulation because we have seen a lot of rock pools happening as well within the memecoin space.
+46:0046 minutesIt's interesting to note that um we have Bitcoin Asia that'll be held in Hong Kong.
+46:0946 minutes, 9 secondsYes.
+46:0946 minutes, 9 secondsAugust 28th and 29th. And I believe one of the Trump sons is one of the speakers. So it will be Eric Trump will be coming to Hong Kong.
+46:1946 minutes, 19 secondsAnd uh one of the other interesting things I've recently ri written about in Cointelegraph for example is how much
+Chapter 8: China’s quiet lever: liquidity via seized-asset sales
+46:2746 minutes, 27 secondsinfluence can China have within the crypto sphere. For example, China is actually known as the second largest
+46:3446 minutes, 34 secondsholder of crypto. And one of the upcoming strategies uh that uh chi China has pivoted of course is uh to liquidate
+46:4346 minutes, 43 secondsseize virtual assets through license exchange. Now this is actually very interesting because it gave it gives
+46:5246 minutes, 52 secondsessentially one government uh a significant leverage in influencing how this market plays out in the future. Uh
+47:0147 minutes, 1 secondliquidation for example can serve many function. Uh one of the biggest problem that the crypto markets have um in any
+47:0847 minutes, 8 secondsjurisdiction US, Dubai or Hong Kong is lack of liquidity in certain areas and this will be a liquidity injection
+47:1747 minutes, 17 secondsmeaning there are more assets available for trade in Hong Kong giving it a significant advantage but uh excessive
+47:2447 minutes, 24 secondsselling of it can basically drive price up or down. Now, a lot of people have actually um reacted quite in a panic way
+47:3247 minutes, 32 secondsand say, "Ah, does this mean China is going to crash the crypto market if Trump doesn't play ball?" Because that's one way of wiping out significant
+47:4147 minutes, 41 secondsportion of his uh family's portfolio. I wouldn't say that. It just means that the Hong Kong market, for example, can
+47:4847 minutes, 48 secondsplay many ways. Uh for instance, national team players within the private market can use accumulation t uh
+47:5747 minutes, 57 secondstechniques to basically scoop up a lot of crypto be a seiz crypto that is being liquidated in Hong Kong's market and
+48:0548 minutes, 5 secondsdrive up the price and uh this will basically be something that's very attractive to the Trump family but at
+48:1248 minutes, 12 secondsthe same time it can basically control it uh downwards or upward at its own discretion. So with the fact that Eric
+48:2048 minutes, 20 secondsTrump have to come to Hong Kong for to basically attend that summit, it shows how much influence that Hong Kong
+48:2748 minutes, 27 secondsactually have by comparison uh to other jurisdictions that are trying to fight for being the next crypto capital.
+48:3648 minutes, 36 secondsEarlier you pointed to the common law versus civil law divide.
+48:4348 minutes, 43 secondsCertainly I mean your your knowledge is better than mine. I mean, but those of us that, you know, studied endeavored to study
+48:5148 minutes, 51 secondscomparative law when we were in law school and took the, you know, basic courses of comparative law, conflicts of law, public international
+49:0049 minuteslaw, you know, international business transactions to get a to get a feel for it. um uh quickly uh uh one develops a
+49:0949 minutes, 9 secondssense that generally speaking and it's not always the case because there are common law jurisdictions that are that
+49:1749 minutes, 17 secondsquite frankly no one would want to enter. Uh but generally speaking, the sense is that common law jurisdictions
+49:2549 minutes, 25 secondsare more pro commerce. They're more pro business.
+49:3049 minutes, 30 secondsFreedom of contracts, these are all enshrined under common law at the end.
+49:3549 minutes, 35 secondsUh so with that in mind, is there something are common law jurisdictions better for
+49:4349 minutes, 43 secondscrypto? Are they more receptive to crypto? Can um are they better incubators
+49:5049 minutes, 50 secondsfor the development and and the growth and scaling up of crypto because of the way simply because of the spirit of the
+49:5749 minutes, 57 secondscommon law that it's more flex more fluid now spirit of common law even in the US for example we have talked about Andrew
+50:0450 minutes, 4 secondsJackson just now the whole idea of uh freedom of the markets freedom uh freedom of commerce has really been
+50:1350 minutes, 13 secondsenshrined by common law developments that have happened since for the past few centuries really. Um whereas civil
+50:2150 minutes, 21 secondslaw for example has an emphasis on stronger government control and market regulation. It's after all derived from
+50:2850 minutes, 28 secondsRoman, French, German legal tradition which has historically the Justinian digest. Exactly.
+50:3650 minutes, 36 secondsAnd even the philosophies are so different that in the US uh it's about antirust law. In the in the European context, they call it competition law.
+50:4650 minutes, 46 secondsThe Europeans are more about we want to we want to facilitate more competition.
+50:5050 minutes, 50 secondsThe Americans are like, "No, we don't mind if you have if you have monopoly, if you become a trust in your field, uh
+50:5850 minutes, 58 secondsthe sole power, sole juggernaut in your industry. Just be a good trust." and and so
+51:0651 minutes, 6 secondsyou you see that even though it seems though they're regulating trying to regulate the same thing
+51:1351 minutes, 13 secondsum very different underlying philosophies on what is the role of the individual the role of the government what are your rights you know what's the
+51:2251 minutes, 22 secondsdefinition of freedom and liberty and you know ideal policy goals for society I'm sorry I interrupt well again uh you pointed out very
+51:2951 minutes, 29 secondsdifferent culture uh uh so law jurisdiction does emphasize higher degree of government ownership of financial institutions. Uh and uh as
+51:3851 minutes, 38 secondsreflected in the past for example uh a lot of um a lot of people have actually emphasized
+51:4751 minutes, 47 secondsuh have been critical of government over overreach until there is a collapse. For example, uh I like to use FTX as an
+51:5551 minutes, 55 secondsexample. When FTX collapsed, it's actually only Japanese users that gets to withdraw their funds because of how
+52:0352 minutes, 3 secondsthe laws are so so how do I say it um pioneering at that time. They're the only uh jurisdiction with a
+52:1152 minutes, 11 secondscomprehensive set of regulations at that time and they don't get enough credit for it really. Uh the other thing is about uh the other thing that uh the
+52:2052 minutes, 20 secondsdifference is also about monetary sovereignty and policy tools that civil law jurisdiction does actually like to
+52:2852 minutes, 28 secondsuh emphasize centralized uh money for example and this actually can be traced all the way back to antiquity. We know how the
+52:3752 minutes, 37 secondsRoman Empire actually uh western Roman Empire actually fell because of attempts to control inflation and the issue that
+52:4652 minutes, 46 secondsthey have with essentially what we have in modern day issues of printing money, right? Uh the devaluation of the dinari
+52:5452 minutes, 54 secondsback in the day. Um uh and of course uh civil law.
+52:5952 minutes, 59 secondsThat's right. They would shake they would shave the edges off of coins.
+53:0353 minutes, 3 secondsYes. And and it goes it goes back to Gresham's law in economics. Good money drives out bad money. It's been understood to be people want to hang on
+53:1253 minutes, 12 secondsto their gold but they want to spend their paper money. So it's paper money drives out gold out of the economy.
+53:1853 minutes, 18 secondsYeah. And this is in contrast to common law jurisdiction where we have fa where we basically have significant uh
+53:2553 minutes, 25 secondsemphasis on private property rights and market efficiencies. Right? It's uh it's uh written into our constitution. It's
+53:3453 minutes, 34 secondswritten in it's enshrined in multiple aspects not just commercial law that really enshrines these right and common
+53:4253 minutes, 42 secondslaw system prioritize protecting private property uh and contractual freedom uh
+53:4953 minutes, 49 secondsuh and innovation through market mechanisms rather than direct state control. This is actually the pillar of
+53:5753 minutes, 57 secondsuh the uh the commonwealth economies really and they that is an influence
+54:0354 minutes, 3 secondsover a quarter of the entire globe. Uh so these are all things that uh uh that we can see.
+54:1254 minutes, 12 secondsMy concern with the US and its anti-CBDC position is they're giving the market
+54:2154 minutes, 21 secondstoo much of what they want. they're seeding too much ground. Whereas I I never thought I'd end up saying this, but I think China is adopting a more
+54:3054 minutes, 30 secondsprudent stable position and by saying no, this is an emerging technology. It has potentially great implications for
+54:3854 minutes, 38 secondsthe financial system and the broader economy and that the state ought to have some kind of presence or
+54:4754 minutes, 47 secondsought to have some kind of position or to be somewhat of a player in this. Yes, the private sector can do their stable
+54:5254 minutes, 52 secondscoins, but that doesn't mean that it's to the exclusion of CBDC's. The two are
+55:0155 minutes, 1 secondnot mutually exclusive. They serve different purposes. Why don't the Americans understand that?
+55:0855 minutes, 8 secondsWell, uh again, when the economy is going good, people always love not having too much intervention because they love the profits. Think of the
+55:1755 minutes, 17 secondsbubble right before the uh uh the 2008 financial crisis, right? Which uh I think about uh uh the time before Enron
+55:2555 minutes, 25 secondscollapsed. Everyone loves the bandwagon until things really hit the fan. Uh conversely, when layman brothers
+55:3255 minutes, 32 secondscollapsed, when Enron collapsed, when uh Terra Luna collapsed, everyone suddenly takes a U-turn and say ah regulators
+55:4155 minutes, 41 secondshave actually slept on the job. So this is fundamentally human um uh really a
+55:4755 minutes, 47 secondsproblem with uh how uh how uh human psychology really works at uh at the end of the day. Now you you did point out
+55:5655 minutes, 56 secondsone thing that's quite correct. Um uh look stable coin is only stable because it's pecked to a certain
+56:0456 minutes, 4 secondscurrency. uh stable coin was innovated at a time but preset stable coin era for example a lot of traders are dealing
+56:1256 minutes, 12 secondswith what we call hypervolatility within the crypto market. So at the end of the day when you're done trading Bitcoin
+56:1956 minutes, 19 secondsversus other digital assets you don't know if you are actually financially better off or financially worse off. And
+56:2656 minutes, 26 secondsthat's the whole concept of basically having a fiat reference uh from the early days was innovated inspired by how
+56:3556 minutes, 35 secondsthe Hong Kong dollar was of course packed to the US currency. Um and uh
+56:4156 minutes, 41 secondsdepending on basic and keep in mind uh uh the dollar dominance is being challenged and people are talking about
+56:4956 minutes, 49 secondshow the dollar is actually weaker than ever against the euro right now. So stable coin is only so stable depending
+56:5656 minutes, 56 secondson what they pack to uh these are things that I don't think people are really uh uh really awaken alert to at this
+57:0557 minutes, 5 secondsparticular juncture. Uh and uh these are risks that are actually absolutely out
+57:1357 minutes, 13 secondsthere. Uh now uh this is why certain stable coin that are not only just backed by uh treasury do uh treasury
+57:2357 minutes, 23 secondsbonds and uh uh and actual fiat deposits might actually uh end up being more
+57:3157 minutes, 31 secondssecure. For example uh certain uh issuers out there have in within their portfolio precious metals as uh assets
+57:3957 minutes, 39 secondsthat are basically sustaining the valuation of their tokens.
+57:4357 minutes, 43 secondsAnd uh and we will see how it plays out because uh uh gold for example
+57:5157 minutes, 51 secondsuh technically uh it's arguable that it's still outperforming Bitcoin to an extent.
+57:5857 minutes, 58 secondsSilver for example also have actual intrinsic use in the real world.
+Chapter 9: Risk radar: euphoria, meme coins, corporate BTC treasuries
+58:0558 minutes, 5 secondsMy my own view is that from having lived there, having studied law there, I mean, being a close admirer and watcher of the US for as
+58:1458 minutes, 14 secondslong as I have, it is an incredibly reactionary society.
+58:2058 minutes, 20 secondsIt was like only after 9/11 did they pass the Patriot Act, relevant moneyaundering provisions, terrorist
+58:2758 minutes, 27 secondsfinancing. Even though there were calls, if you examine the legislative history, people like Senator Leven, Senator Leven
+58:3458 minutes, 34 secondsof Florida calling for tighter AML CTF rules before 911.
+58:4158 minutes, 41 secondsUh again, same same with Enron had to fall for them to pass Sarbain Oxley.
+58:4858 minutes, 48 secondsThen you had the subprime crisis, you know, global financial crisis that ensued. Then they passed DoddFrank. It's
+58:5658 minutes, 56 secondsa very reactionary society and they only respond to crisis. But if we shift the focus away from the US,
+59:0559 minutes, 5 secondswhat what is it what does it mean for us here in Hong Kong here in Asia? What what what are the what are the challenges? What are the potential
+59:1359 minutes, 13 secondsperils? What are the possibilities? What are the opportunities? What what what does it what does it mean for us on a practical level? On the practical level,
+59:2259 minutes, 22 secondsit's always about risk mitigation because volatility is something that is uh you can't basically legislate your way to a perfect world where there's
+59:3059 minutes, 30 secondseconomic equilibrium and growth is the only direction forward. It's all there's a reason why there's a market
+59:3759 minutes, 37 secondscorrections and uh companies that for example uh another um piece of article
+59:4559 minutes, 45 secondsthat I've recently written about is the risk that uh a lot of uh listed companies are facing if they basically
+59:5259 minutes, 52 secondsdo the what we call bitcoin uh that jumping on the bitcoin treasury bandwagon uh because um uh for example bitcoin
+1:00:011 hour, 1 secondhistorically whenever it corrects have a 60 plus% correction uh we've seen that in 2017
+1:00:081 hour, 8 secondsuh 2022 but we have not seen that to this very date. The last correction is around 30 plus%. Now if you look at
+1:00:161 hour, 16 secondscertain listed company in the US without naming names but I think you can figure out which one it is um having been aggressively accumulating Bitcoin in the
+1:00:261 hour, 26 secondsleverage portfolio that's a huge risk because uh 60% correction might end up
+1:00:331 hour, 33 secondsbasically exceeding the entire market capitalization of their entire company. What does that
+1:00:411 hour, 41 secondsmean for the stock market? Will there be a contagion effect? We don't know. Now,
+1:00:481 hour, 48 secondsright now, we are looking at what a lot of economic analysts kept on saying is it's still a bull market, but bull
+1:00:551 hour, 55 secondsmarket doesn't run forever, right? Um so what are the risk mitigation measures
+1:01:021 hour, 1 minute, 2 secondsthat these institutions and uh entities have in place to protect the
+1:01:101 hour, 1 minute, 10 secondsstakeholders from risk in the in the eventual downturn that we will face uh eventually.
+1:01:201 hour, 1 minute, 20 secondsNow uh for example right now we do see greed index at alltime high whenever you have a lot of media out there that's
+1:01:271 hour, 1 minute, 27 secondsjust saying uh crypto is only going one direction the only way up uh it's significant indication of risk again
+1:01:351 hour, 1 minute, 35 secondsbecause that means a lot of people are jumping on at the tail end and they are being exposed to risk in that way
+1:01:441 hour, 1 minute, 44 secondsthere there is so much bandwagoning people jumping on it because they fear Fear of missing out. FOMO. The fear of
+1:01:511 hour, 1 minute, 51 secondsmissing out. They fear other people are getting rich on it. I better get in on it quick. And yeah, that that concerns
+1:01:591 hour, 1 minute, 59 secondsme that people coming in at the, you know, at the tail end. I I just fear too many people are going to get burned.
+1:02:051 hour, 2 minutes, 5 secondsOr just look at the recent passage of the stable coin ordinance and uh and what they have uh what uh Eddieu the
+1:02:141 hour, 2 minutes, 14 secondschief executive of HMA have said. uh essentially they're saying this huge market euphoria and it and I'm quoting
+1:02:221 hour, 2 minutes, 22 secondsfrom him because I've quoted him in my previous article so I have that quote on hand. He actually said what's more concerning is the growing uh uh froth
+1:02:321 hour, 2 minutes, 32 secondsfrothiness of the market and the recent hype surrounding stable coins has led to excessive exuberance. For instance, a
+1:02:391 hour, 2 minutes, 39 secondsmere announcement of intention to explore stable coin related business or digital assets is enough for some listed
+1:02:461 hour, 2 minutes, 46 secondscompanies to grab headlines and send the stock prices trading volume soaring. The problem is stock prices seems to have
+1:02:541 hour, 2 minutes, 54 secondssomething called gravity playing as well. And what happens when you have that correction coming back down? Goo is
+1:03:011 hour, 3 minutes, 1 secondgetting burnt, right? Uh these are all consideration that you have to have. uh when you want to basically have a
+1:03:101 hour, 3 minutes, 10 secondsmeasure of stability within the market because often times we see people jumping in at the last minute are the le
+1:03:171 hour, 3 minutes, 17 secondsare basically people with the most to risk but by which time the smart money is already moved on.
+1:03:241 hour, 3 minutes, 24 secondsExactly. And they are the least type group that is able to sustain the loss.
+1:03:291 hour, 3 minutes, 29 secondsAgain my own view is we have to cover crypto.
+1:03:351 hour, 3 minutes, 35 secondsIt is it is a technology that's going to be an integral part of the financial systems of the future. I personally am
+1:03:441 hour, 3 minutes, 44 secondsnot I'm not sold on it and frankly because I'm wondering where are these valuations coming from beyond that you
+1:03:521 hour, 3 minutes, 52 secondsknow there's no central market clearing system there with an exchange. I mean, and and be beyond that, I I I I do fear,
+1:04:021 hour, 4 minutes, 2 secondsyou know, perhaps not, you know, in the foreseeable future, a lot a lot of people are going to get burned. Josh, in the time we've got left before we wrap
+1:04:101 hour, 4 minutes, 10 secondsup, um any any closing thoughts you'd like to uh listen? Yeah, it's always
+Chapter 10: Takeaway: treat crypto as tech - build the infrastructure
+1:04:181 hour, 4 minutes, 18 secondsimportant to basically what if you're an participant to avoid being carried off by Euphoria. Uh uh Bitcoin has a lot of
+1:04:271 hour, 4 minutes, 27 secondsgreat applications or innovations that has yet to be the expo. But one of the warnings I've had is it's a technology
+1:04:351 hour, 4 minutes, 35 secondsat the end of the day. That means there's a tech technological life uh life cycle. Think about yourself right now. Are you using any piece of
+1:04:431 hour, 4 minutes, 43 secondstechnology? is your cell phone from 15 years ago. Bitcoin has been around for over a decade by this point. And you
+1:04:511 hour, 4 minutes, 51 secondshave to keep the technological life cycle in mind when you're looking into it. And that is why recently we have some of the oldest players within the
+1:05:001 hour, 5 minutescrypto market suddenly liquidating their entire Bitcoin portfolio and they're reinvesting in crypto infrastructure
+1:05:091 hour, 5 minutes, 9 secondsinstead as being something more long-term because even they are sensing the risk uh entail for an aging technology.
+1:05:201 hour, 5 minutes, 20 secondsJoshua Chu, thank you so much for your time. And to our listeners, thank you. Until next time.
+1:05:271 hour, 5 minutes, 27 seconds[Music]

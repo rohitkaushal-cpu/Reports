@@ -1,0 +1,665 @@
+
+Search in video
+0:03
+Thanks for for being here. Thanks for
+0:05
+listening to me. Actually learned a lot
+0:07
+again in in the previous presentations
+0:09
+and I can say a big plus one to the
+0:12
+points raised there. That was really
+0:13
+really cool. Um I fully agree with
+0:15
+Johannes on the need for multicurrency
+0:18
+stable coins. This is why I'm talking
+0:20
+about onchain FX and multicurrency
+0:22
+stable coins because there are more
+0:24
+currencies in the world um than than
+0:27
+just the dollar and there can be many
+0:28
+interesting use cases for for non-dollar
+0:32
+stable coins. Um and there's a big need
+0:35
+for onchain FX infrastructure. Um we
+0:39
+just heard it. It's the biggest market
+0:40
+in the world. There's more than 7.5
+0:43
+trillion dollars in trading every day
+0:45
+estimated by the BIS. So that is a
+0:47
+significant market um and therefore a
+0:50
+part of this market will also come on
+0:52
+chain because of all the properties um
+0:54
+that we have on chain. I also really
+0:56
+like the the presentation by by Max from
+0:59
+curve. He said um you can always buy TVL
+1:03
+but what you actually need is need and
+1:05
+what you cannot buy is product market
+1:07
+fit. This is something that you have to
+1:08
+build out in the ecosystem. I think uh
+1:10
+both points the need for local currency
+1:13
+stable coins and um the need for for
+1:17
+good product market fit are are also
+1:19
+part of of uh what I want to talk about.
+1:22
+I I just uh rejoined Cello as head of
+1:26
+stable coins and I think to that we
+1:29
+created this role there um speaks to the
+1:32
+importance of stable coins and FX um
+1:36
+especially uh for the Cello ecosystem
+1:38
+and um that's what I want to talk about
+1:41
+uh a bit um in the end um why are stable
+1:46
+coins and FX a so important use case for
+1:51
+Cello in the end is because from the
+1:53
+start how Cello was built there was a
+1:56
+big focus on on these types of use cases
+1:58
+on remittances on payments on payments
+2:01
+in different countries on payments with
+2:03
+different currencies on swapping
+2:05
+currencies on cell what you can do is
+2:07
+basically you can do transactions and
+2:09
+swap and and do anything with stable
+2:12
+coins and also pay for your gas fees in
+2:15
+stable coins. So if I send USDC
+2:18
+uh I pay in USDC if I pay send with
+2:21
+tether I pay in tether and if I send a
+2:24
+euro I pay for gas fees in euro and
+2:26
+therefore also there at the transaction
+2:28
+it's much easier for users that are not
+2:31
+cryptonative but also also there we can
+2:34
+take out a part of the FX risk and I
+2:36
+think this is really important um
+2:38
+especially we've just seen how volatile
+2:41
+currencies even in like the um uh yeah
+2:45
+the biggest currencies in the world, how
+2:47
+volatile they have become in in the past
+2:49
+like two three years. Um there's also a
+2:52
+focus on having ultra low gas fees.
+2:54
+There's a focus on mobile that users can
+2:56
+interact with the blockchain with their
+2:59
+mobile phone. Um because in many regions
+3:02
+of the world, people uh need to engage
+3:05
+in the financial system using their
+3:07
+mobile phone. They don't have um I don't
+3:10
+know the JP Morgan account or what have
+3:12
+you. And and this is what I already
+3:15
+mentioned. It is a multicurrency
+3:16
+ecosystem live on Cello. Um there are
+3:20
+many uh different currencies live and I
+3:22
+think for many use cases this is
+3:24
+becoming more and more important.
+3:26
+Getting access to a dollar in emerging
+3:29
+markets is a great use case especially
+3:32
+when you live in a country where there's
+3:33
+high inflation. Getting access to a
+3:35
+stable currency is amazing um because
+3:38
+you actually can get around that infla
+3:40
+inflation a bit. But you might be an
+3:43
+entrepreneur. Maybe you want to build
+3:45
+out a business. Maybe you want to get a
+3:47
+loan for your business. Maybe you want
+3:48
+to access credit. And here if you access
+3:51
+credit and your revenue is in local
+3:53
+currency, your loan should also be in
+3:56
+current local currency. Otherwise, you
+3:58
+would be exposed to FX risk. And again,
+4:00
+we heard FX risk can be real, can be
+4:03
+significant, especially in in these
+4:05
+countries where there is high inflation.
+4:08
+FX risk can be very significant. And
+4:10
+therefore there is a need uh for local
+4:13
+currencies and not only dollar based um
+4:17
+stable coins. Um the differentiation in
+4:20
+terms of what we've seen what is life on
+4:22
+Cello has led to a lot of interesting
+4:25
+partners that are working um on on Cello
+4:29
+and they have built on Cello. I'll talk
+4:31
+a bit more about Tether. I'll also talk
+4:33
+a bit more about Minipay. Um and for
+4:36
+those partners, Minipay is a wallet that
+4:39
+is built by Opera. Um these features
+4:41
+that I've mentioned are extremely uh
+4:44
+important.
+4:45
+Um so in terms of usage and this is why
+4:48
+I mentioned uh from the talk that Max
+4:52
+held from Curve earlier, you can always
+4:55
+buy TVL but you cannot buy product
+4:57
+market fit. This is why these features
+4:59
+on Cello that I've mentioned are so
+5:01
+important for for stable coin and FX use
+5:04
+cases. Um so for example on Cello we
+5:08
+have many currencies live and I
+5:10
+mentioned uh the importance of local
+5:13
+currencies that you're able to trade in
+5:16
+different currencies that you can access
+5:18
+a Swiss Frank maybe because you want to
+5:20
+get access to to Swiss Frank as a stable
+5:24
+currency but also maybe because you're
+5:26
+in institution that is based in
+5:28
+Switzerland and you want to engage in
+5:31
+your business with stable coins and you
+5:33
+don't want as business hold that FX risk
+5:37
+against the dollar um you want a a Swiss
+5:41
+rank stable coin um or you want a
+5:43
+British pound stable coin or when you're
+5:45
+a merchant in Kenya maybe you want a
+5:47
+Kenyan shilling stable coin so there are
+5:49
+Kenyan shillings Philippine pesos uh
+5:52
+Colombian pesos um Swiss Franks pounds
+5:55
+and so on uh live and and I think this
+5:58
+is a first important building block to
+6:01
+be able to engage in FX onchain
+6:05
+Um and these building blocks also
+6:08
+recently made Zello uh number one chain
+6:12
+for tether when it comes to weekly
+6:14
+active users. Um I think here we can see
+6:17
+there is product market fit. There are a
+6:20
+lot of users especially across Africa
+6:22
+now also across Latin America and many
+6:25
+other regions uh in the world that are
+6:28
+using stable coins very very actively
+6:31
+maybe because they don't have access to
+6:33
+traditional financial system maybe um
+6:36
+because they want to engage in trading
+6:38
+maybe they just want to send money cross
+6:41
+border or to their neighbor um and here
+6:43
+we see a lot of active users uh being
+6:46
+live on cell I think this interesting if
+6:48
+If you're building for stable coins with
+6:51
+stable coins, then um maybe you should
+6:53
+consider these building blocks that I
+6:56
+mentioned um when you choose the
+6:58
+ecosystem um you build in. Um and these
+7:04
+high user numbers that I've mentioned uh
+7:07
+are also one of the reason why uh Tether
+7:10
+chose Cello um as the second chain after
+7:13
+Ethereum mainet to launch their USAT uh
+7:16
+tether together with Anchorage Digital
+7:18
+Bank. I think it's very good that we
+7:21
+have like more of these stable coins.
+7:24
+this morning in the first panel we've
+7:26
+heard there's two forces here and like
+7:29
+more and more stable coins maybe lead to
+7:32
+fragmentation but on the other hand
+7:34
+these different stable coins uh cater
+7:37
+different use cases I think it's
+7:39
+important that you have infrastructure
+7:41
+that you can easily move between stable
+7:43
+coins but uh different currencies of
+7:46
+course serve different people in
+7:48
+different countries different stable
+7:50
+coins maybe some of them are uh genius
+7:54
+compliant. Some of them are mika
+7:56
+compliant in eur Europe the markets and
+7:58
+crypto asset regulation. Some of them um
+8:01
+provide yield or incentives or so I
+8:04
+think therefore it's good that more
+8:07
+stable coins launch and um because you
+8:10
+can give the users a choice uh which
+8:13
+stable coins uh they need but again what
+8:16
+you then need is proper infrastructure
+8:18
+to move from one currency to the other.
+8:22
+Um, one reason for the large user growth
+8:26
+we have seen in the past is mini. And I
+8:29
+think this is one of the products in web
+8:31
+3 that really has product market fit.
+8:33
+Uh, again I I mentioned how I like that
+8:37
+line. You can always buy TVL but you
+8:39
+cannot buy product market fit. I think
+8:41
+it's a good point. And here we see a
+8:43
+product that has product market fit.
+8:45
+It's a wallet that is built by uh Opera,
+8:48
+the browser company. Opera has a lot of
+8:50
+users uh worldwide. I think there are
+8:53
+around 300 million users using the Opera
+8:56
+browser worldwide and many of these
+8:59
+users don't know how to engage with
+9:02
+blockchain or don't know how to engage
+9:04
+for example with the FX markets and uh
+9:07
+in the wallet they have basically
+9:09
+abstracted away all the complications
+9:12
+that come with uh sending a stable coin
+9:15
+or the complications that come with
+9:17
+blockchain infrastructure. Here you
+9:19
+basically can find new users via their
+9:21
+phone number. You can send uh stablecoin
+9:23
+to their phone number. You can swap
+9:26
+easily between different currencies. So
+9:28
+you see these pockets here in the mini
+9:31
+pay uh wallet. Um you see a USDT pocket
+9:35
+and a USDC pocket. And if you want to
+9:37
+swap from USDT to USDC, you just drag
+9:40
+and drop one pocket on the other and
+9:42
+then you've swapped. And I think this
+9:44
+like very easy to use um functionality
+9:48
+is important for for many of the users.
+9:50
+And this is why we're seeing uh close to
+9:53
+half a billion transactions now in this
+9:55
+in this wallet and uh more than 15
+9:58
+million active wallets growing uh
+10:00
+heavily now in 60 countries um of the
+10:03
+world. What I think is is really really
+10:05
+cool and I've mentioned FX is really
+10:08
+important. It's the largest market. Also
+10:10
+in the intro we've heard um BIS um
+10:14
+estimates $7.5 trillion in um FX market
+10:19
+uh every day and therefore um all the
+10:22
+features that we have on chain are great
+10:26
+for this large market because even
+10:28
+though it's the largest market in the
+10:30
+world the market for currencies it's not
+10:33
+247 uh it settles in t plus two days
+10:37
+when you do when you engage in the FX
+10:39
+market uh offchain. If there's a bank
+10:42
+holiday in between or weekend, then uh
+10:44
+it doesn't even settle in in within two
+10:47
+days. Um it's not accessible to
+10:50
+everyone. Um it runs off many different
+10:52
+uh rails. So FX is needs new
+10:57
+infrastructure, needs this technology,
+10:59
+and therefore I think uh large part of
+11:01
+the FX market can can move on chain. I
+11:04
+think that's an important opportunity
+11:06
+for blockchain um as a whole. We've also
+11:09
+seen this was already last year uh a
+11:12
+very volatile year last year for the
+11:14
+dollar. I think over two years the
+11:16
+dollar to the euro lost around 16 17% to
+11:20
+the Swiss Frank. We saw it in the last
+11:22
+presentation even more. So if we want to
+11:24
+work with institutions outside of the
+11:26
+US, if they're in Europe or if they're
+11:28
+in Singapore or Switzerland or wherever,
+11:30
+then it's important to offer basically
+11:32
+other currencies or easy ways to swap
+11:35
+between different currencies. Um the FX
+11:38
+market is important here. I've mentioned
+11:40
+all of these numbers, but just to see
+11:42
+like a uh a large line against a few
+11:45
+other smaller lines against I don't know
+11:47
+the equities market or the bonds market.
+11:50
+It is just a huge market, the market for
+11:52
+currencies and uh and blockchain
+11:55
+infrastructure is is ideal for that.
+11:58
+There are few things I would like to
+11:59
+call out in terms of infrastructure. So
+12:01
+for example, if you're typical uh crypto
+12:05
+person, then you want to trade, you want
+12:07
+leverage, you want like maximum exposure
+12:10
+even when it comes to currencies, even
+12:12
+when it comes to currencies that are
+12:14
+less volatile than I don't know the
+12:16
+latest shitcoin, then you want to
+12:18
+leverage yourself up. And then there's,
+12:20
+for example, an FX uh market uh FX stex
+12:25
+that allows you to leverage your FX
+12:28
+perpetuals. It's called up down
+12:30
+updown.xy XYZ where you can then engage
+12:33
+in speculative FX trading. Um there's
+12:37
+also Mento, this onchain FX decks. Uh
+12:41
+Mento gives you currently access to 15
+12:44
+different currencies. And what is
+12:46
+different with Mento to other
+12:49
+decentralized exchanges is typically
+12:52
+price finding on a decentralized
+12:54
+exchange happens via basically um the
+12:58
+relationship of the two assets that are
+13:00
+traded on this decentralized exchange.
+13:03
+the price adjusts if someone takes out
+13:05
+the asset from one side of these pools
+13:08
+um and and puts something in on the
+13:10
+other side and then the price directly
+13:12
+adjusts. Here in the FX market, in this
+13:15
+huge market, prices are determined
+13:18
+offchain. They're determined in the
+13:20
+interbanking market. They're determined
+13:22
+on FX desks in London or Singapore or or
+13:26
+here um in in New York. They're not
+13:29
+determined on chain. So a euro2 dollar
+13:33
+pool um in this setup doesn't really
+13:36
+make sense because someone constantly
+13:38
+has to adjust the amounts of euros and
+13:41
+dollars in these two pools so that it
+13:43
+reflects the off-chain price. And here
+13:45
+this is the difference of mentor as an
+13:48
+onchain FX desk. Uh Mento uses like all
+13:51
+the popular um oracles out there,
+13:54
+Chainlink infrastructure, Redstone
+13:56
+infrastructure and so on, Pith um to
+13:59
+query FX rates and allow users then to
+14:02
+swap stable coin at the FX uh rate when
+14:06
+there's an update. If there's no update
+14:08
+on the weekend, for example, then this
+14:10
+reverts to an AMM type of market, which
+14:14
+then allows users already to constantly
+14:17
+trade in the um FX market. I think this
+14:20
+infrastructure is important to to to be
+14:24
+built out more that we can see more FX
+14:27
+happening on chain. Uh my time is
+14:29
+already up. Uh I'll be around most of
+14:32
+the day here. Um let me know if you have
+14:34
+any questions then maybe outside. Thank
+14:36
+you very much.
+

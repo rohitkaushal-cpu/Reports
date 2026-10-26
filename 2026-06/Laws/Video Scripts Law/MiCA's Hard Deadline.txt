@@ -1,0 +1,292 @@
+
+Search transcript
+0:1212 secondsToday we are joined by Dr. Michael Salmon, a global recognized leader in digital finance and payments innovation
+0:2020 secondsand a CEO of payments innovation consulting. He has advised central banks across different continents including
+0:2828 secondsEuropean Commission and major financial institutions on opening bank CBDC's and future of money. He has been advising
+0:3737 secondssome of the key countries and regions in Asia as well. We will get into that in detail later on. So let's get started.
+0:4646 secondsSo Michael, great to have you. Let's start with the book you wrote. What is the positioning of the books given
+0:5454 secondsthere's so many books on topics in finance and even on money?
+0:5757 secondsWell, thank you to for having me for a pleasure to be here.
+1:011 minute, 1 secondYeah. Uh the book which is coming out now from Springer which we're very proud of. One of the best publishers in the world is I think the only one that looks
+1:091 minute, 9 secondsat this topic from all dimensions. Looks at it from the consumer, from the merchant, from the regulatory side, from the risk side. Um and we've got 30
+1:181 minute, 18 secondsauthors from around the [music] world who are looking at it from their perspective and I think that's quite unique. So you are one of the four editors.
+1:251 minute, 25 secondsThree one of the three you are one of the three editors. How is it divided into different functions to cover really
+1:331 minute, 33 secondsreally deep dive into different topics including AI including CBDC and stable coins and just tokenizations of money.
+1:421 minute, 42 secondsYeah that's right. I mean we tried as I say to look at the topic in all dimensions. Uh tokenized money is now coming in 17 different forms CBDC's and
+1:501 minute, 50 secondsstable coins and deposit tokens and tokenized money markets and repos and everything. So um indeed with our three
+1:591 minute, 59 secondsuh editors we've tried to use our network to get the leading voices around the world on all these topics and um the
+2:072 minutes, 7 secondsthree editors are one a c central banker another one a professor and me [music] who's a practitioner so we look at it
+2:142 minutes, 14 secondsfrom the regulatory side from the academic side and from the practitioner.
+2:202 minutes, 20 secondsInteresting. What is the outlook in the at the end of the book if you fast forward? So, Steve, what's the take on that? [laughter]
+2:282 minutes, 28 secondsWell, this is probably the chapter that will cause the most controversy, I think, uh where we've tried to summarize all what we've learned over the 30
+2:362 minutes, 36 secondschapters into an outlook of what the future may be. And since nobody has a crystal ball, we've actually developed a few scenarios. It may go this way, this
+2:452 minutes, 45 secondsway, this way with some probabilities attached. Not everybody will like every scenario and every probability but that is part to the fun of this debate is to
+2:532 minutes, 53 secondsmake sense of where this whole movement is going.
+2:562 minutes, 56 secondsYou mentioned regulation that will play a big role and many throughout all the chapters. What are some of the things
+3:033 minutes, 3 secondsyou think when it come out that regulator is not going to take a bat and maybe they got [music] it wrong and in your view you can tell them a few things?
+3:123 minutes, 12 secondsWell, at the moment the regulators are still establishing positions in this. We only have very few regulations. We have the Mika which is the world leading
+3:213 minutes, 21 secondsregulation on stable coins as Europe as usual Europe is the first to regulate but it's actually a very good regulation
+3:283 minutes, 28 secondsin my view. There's the Genius Act in the US and a few others are coming out now. So I think all the regulators are putting the first iteration in place but
+3:373 minutes, 37 secondswe already see with Mika they're already discussing what Mika 2 would look like.
+3:413 minutes, 41 secondsLet's talk about Mika being where you're at in Europe. What do you see Mika is leading? What do you see Mika is still lacking?
+3:503 minutes, 50 secondsUh I think Mika sets at last [music] a legal framework so that people can issue stable coins with legal certainty. I
+3:583 minutes, 58 secondsthink that's hugely important. So we're getting away from this mad crypto world where people could do all sorts of things and there was a lot of fraud and
+4:064 minutes, 6 secondsand it was on the verge of legality often and people weren't quite sure where they're going to get fined.
+4:144 minutes, 14 secondsNow we know what the rules are and we can issue uh money with all the advantages of crypto speed and efficiency and 24/7 but with legal
+4:234 minutes, 23 secondscertainty and that's moved the crypto world into a proper legalized uh new world which is super exciting
+4:304 minutes, 30 secondslike any regulations set up a sandbox and there's transitional periods and the key transitional periods coming to an
+4:394 minutes, 39 secondsend at the end of June. Is [music] there any specific impact that would have for existing license holders or the future application?
+4:474 minutes, 47 secondsI think that's old news quite honestly.
+4:494 minutes, 49 secondsThe June deadline this year uh is sort of formally coming to an end where people need to move into this new world.
+4:554 minutes, 55 secondsBut Niko's been around 2023 2024. So interested parties have had quite some time to get moving and they are uh we
+5:045 minutes, 4 secondshave 17 licenses already for new stable cards not just sort of circle and tether like in the US there are 17 in Europe
+5:125 minutes, 12 secondsand there are over 190 crypto asset service providers as they're called who will facilitate this new ecosystem they all been licensed already and of course
+5:205 minutes, 20 secondsthey're plating more in the future and there are ones that are also already obtain license for stable coins so let's
+5:275 minutes, 27 secondstalk about that a bit How does MA set up this advent of stable coin issue coming?
+5:345 minutes, 34 secondsYeah, so these 17 companies or 17 stable coins that have now been licensed, they are mostly euro stable coins. So they're
+5:415 minutes, 41 secondsback to one to one with the euro. So if I send this crypto token across uh the the internet, there's actually one real
+5:495 minutes, 49 secondseuro behind it. So it's a onetoone mapping and that of course is a modern efficient way of money sending money rather than going through various corresponding banking hops and whatever.
+6:006 minutesUh but the 17 are not only euro there's what's GBP uh stable coin there's a chick money stable coin the Polish money
+6:086 minutes, 8 secondsstable coin so there are a few others and now they have legal certainty of how to do this and that's the and one of the key things looking at the
+6:166 minutes, 16 secondscorridor of EU and China payment is how Chinese merchants can enter [music] and establish themselves in Europe. Does
+6:256 minutes, 25 secondsthis particular stable coin within the framework of Nika help?
+6:306 minutes, 30 secondsOh, absolutely. I mean, in fact, this is the key for me because a lot of people in Europe are asking, why do we actually need stable coins and tokenized money?
+6:376 minutes, 37 secondsWe already have efficient 24/7 instant free payments. But the rest of the world isn't like Europe. uh in US, in Africa,
+6:476 minutes, 47 secondsin some many other parts of the world things are quite expensive, slow, take several days. So the stable coin now
+6:546 minutes, 54 secondsopens a global way of sending money instantly, free immediately and that of course very much
+7:037 minutes, 3 secondsincludes China, which is a big uh partner of of the European Union and the rest of the world. But China does not
+7:107 minutes, 10 secondsissue or allow the use of stable coin within China as merging. How would that solve their last mile and actually
+7:187 minutes, 18 secondsgetting the Fetss and the Yeah, that is indeed the problem. In fact, this whole that is what we address a lot in this book is you know this is
+7:267 minutes, 26 secondsthe shiny future that we're seeing but there are still a lot of problems that need to be solved right and those need to be discussed in the wrist and one of
+7:347 minutes, 34 secondsthem is indeed how to do all the connections to the last mile and China has a particular case because of course as you rightly say China has banned
+7:427 minutes, 42 secondsstable coins they want only the digital one and therefore the last mile of the merchant in China is a bit problematic
+7:497 minutes, 49 secondsat the moment the market is working around that by using companies in Hong Kong in Singapore and things but that of course can't be instead
+7:587 minutes, 58 secondsand what are the risk on that from a EU or MIA compliance point of view? Well, uh the big risk uh is of course fraud
+8:078 minutes, 7 secondsbecause uh we've seen in other parts of payments and the payments economy before this exploded it is really uh uh getting
+8:158 minutes, 15 secondsout of control quite honestly and of course the fraudster also discovered stable and say oh this is very efficient. I think I'll use that as
+8:228 minutes, 22 secondswell. So we uh need to make sure that we get the corruption out of the system and ensure we have proper KYC and AML and
+8:318 minutes, 31 secondstracing and everything and in fact blockchain technology is tracing to be done better than with traditional money.
+8:378 minutes, 37 secondsSo it's actually sometimes bad news for fraudsters for Europe and even though [music] it's EU as a union but there are countries
+8:458 minutes, 45 secondsand markets that are particularly active in this with Nika and with the stable coins. What are the some contribut?
+8:548 minutes, 54 secondsYeah that to me was one of the surprises. It's actually the German banks that are particularly active. I don't think everybody was expecting that
+9:019 minutes, 1 secondbecause you always think that the Germans a bit conservative and especially the German financial sector is especially conservative but no uh the
+9:099 minutes, 9 secondslargest country proportion taking me licenses is Germany and many of them are banks.
+9:169 minutes, 16 secondsInteresting. How about from the merchant point of view? What are some of the obvious red flags that they need to look
+9:239 minutes, 23 secondsfor when they engage a CASP or ASP as we know it?
+9:299 minutes, 29 secondsI mean the merchants are super excited about this because of course for them convergence conversion uh and uh are key
+9:389 minutes, 38 secondstopics. So uh both for CBDC and for stable coins and for various other forms of tokenized money they see the
+9:469 minutes, 46 secondsopportunity that they can get money much more quickly that they can get it cheaper they can uh reach more customers
+9:549 minutes, 54 secondsuh and I think a lot of that is true this is a huge opportunity for merchants stable coin promise faster cheaper cost for the payments but the watchdog have
+10:0310 minutes, 3 secondskeep reminding us that reality is messier let's zoom into the China EU corridor specifically theory versus reality.
+10:1310 minutes, 13 secondsWhere are the biggest loss model bottlenecks when a Chinese exporter working with the EU try to use stable
+10:2110 minutes, 21 secondscoin in the middle of the pool chain and using [music] FX conversion banking relation KYC everything one history you
+10:3010 minutes, 30 secondsmean as we said before there's a specific problem with China that we can't get into China and out of China because stable coins are banned there
+10:3810 minutes, 38 secondsbut China is working very hard to internationalize its currency and become more connected to the world in the finance space. Uh I mean the Mbridge
+10:4610 minutes, 46 secondsproject for example where it connects with the various other regions to to interoperate CBDC's. We know that China [music] has ambitions in Africa and the
+10:5510 minutes, 55 secondsvarious other places to internationalize its currency. So there is obviously a move to make this more international. We just need to now [music] get the various
+11:0411 minutes, 4 secondsstrands that are happening the European and the dollar and the yuan into a a global and referendum. And there are
+11:1111 minutes, 11 secondspeople working on that. There are standards that are happening. There are platforms that are developing. Uh there are all sorts of exper
+11:2111 minutes, 21 seconds[music]
+11:3111 minutes, 31 secondstokenized money.
+11:3311 minutes, 33 secondsYeah, maybe more for CBDC and for some other things like open banking.
+11:3811 minutes, 38 secondssurprisingly uh central Asia's been have done some really innovative things around that. uh um also in the Middle
+11:4611 minutes, 46 secondsEast. I think it's really interesting to see how uh countries are saying I want to be the hub of the world for this new
+11:5511 minutes, 55 secondsfinance and developing for example tokenized uh uh real estate. So you can buy a fraction of a flat in Dubai over
+12:0412 minutes, 4 secondsthe internet using tokenized money and tokenized uh typle deeds. So it's quite interesting to see that there's a
+12:1112 minutes, 11 secondscompetition happening now globally to who can be the most advanced in this space.
+12:1612 minutes, 16 secondsWhen you advise the central banks and the bankers, what do you normally approach or foot when they say who want
+12:2312 minutes, 23 secondsto be the hub and what other thing you have to I mean one key thing is to be clear about the goals and this is I think that
+12:3212 minutes, 32 secondsis something that's gone a bit wrong with CBDC in the past. We actually did a survey around the world. What are you trying to achieve with the central bank
+12:4012 minutes, 40 secondsdigital currencies and we got 40 answers. If you're trying to solve 40 things at once, then you're probably not going to be solving anything. And this
+12:4912 minutes, 49 secondsis something that really plagues CBDC that there isn't a focused uh goal. And that's the first thing the regulator
+12:5612 minutes, 56 secondsneeds to be clear of. Do I want to solve efficiency? Do I want to prove inclusion? Do I want to guarantee that my state money remains the key anchor?
+13:0613 minutes, 6 secondsThere are 40 reasons which explained in the book of course uh uh which I think it's first of priority and that will then shape your policy after that
+13:1413 minutes, 14 secondsthe advent of CBDC started about you and [music] tell us where we at right now.
+13:2013 minutes, 20 secondsYeah, that's quite an interesting story actually when uh uh the lovely Mark Zuckerberg who everybody likes started Libra and Dion and everybody [music] got
+13:2913 minutes, 29 secondsthe shriek of their life thinking oh my god suddenly uh Facebook is going to take control of the monetary system I can just send money from one Facebook
+13:3713 minutes, 37 secondsapp to another around the world and everybody said we don't want this right we don't want Facebook uh to be in control of the monetary system all the
+13:4513 minutes, 45 secondscentral banks had a tanic reaction in my view and 34 central banks around the world. So basically everybody said we've got to launch our own kind of money.
+13:5513 minutes, 55 secondsThat was the wrong reaction in my view.
+13:5713 minutes, 57 secondsThey should have said, "How do we make sure that things like Libra and Dion could only happen in a regulated safe way? And how do we strengthen our existing feed system?
+14:0814 minutes, 8 seconds[music]
+14:1914 minutes, 19 seconds[music]
+14:2414 minutes, 24 secondsBut instead they said no let's do our own kind of states driven money which I think is a big mistake. Uh meanwhile
+14:3114 minutes, 31 secondsmost of them have realized that of the 130 odd central banks three are left now and they are and they are Bahamas and a
+14:3914 minutes, 39 secondsfew others all of which haven't gone very well but they're still holding on to their early pilots. And the only ones who are really driving that are China
+14:4714 minutes, 47 secondswhich we could talk a little bit about and of course Europe who's both investing billions into this topic and putting hundreds of central bankers into
+14:5414 minutes, 54 secondsthis topic and that's also a thing we could have a little critical look after yeah and why China has come out of it
+15:0415 minutes, 4 secondsright I mean China contrast to many of the others have very clear policy goals they want to uh make sure the reindu is a is
+15:1415 minutes, 14 secondsa that the anchor evo if the economy they want to internationalize it's a
+15:2215 minutes, 22 secondsdigital form of the wimi is of course great for getting into Africa and things they also want to keep some limits on
+15:2815 minutes, 28 secondsthe private sector like for example ant uh so they have some very clear and few goals which they really want to achieve
+15:3615 minutes, 36 secondsto that and that is part of the plan and how's China CBDC interacting with
+15:4315 minutes, 43 secondsthe other or the rest of the world's EBDC issues.
+15:4715 minutes, 47 secondsI mean, as we said, there aren't many CBDC, so there aren't many to interact with, unless you just want the China Bahamas corridor. Uh, but uh in their
+15:5615 minutes, 56 secondsdefense, they've put a lot of effort behind the BIS uh project on in bridge.
+16:0316 minutes, 3 secondsBIS is the central bank of central banks as I'm sure you know. So, they are um interoperating with various other major
+16:1116 minutes, 11 secondseconomies and showing that interoperability of CBDC's across the world can work and we can create a glo a new global money system that way but
+16:1916 minutes, 19 secondsbecause of the lack of interest of CBDC around the world I'm not sure that's going anywhere do you see the CBDC there's somewhere it
+16:2916 minutes, 29 secondsinteracts with stable coin and less of a competition but collaborate no I see it more as a war at the moment
+16:3716 minutes, 37 secondsit's quite extraordinary act uh lagards will get up and say stable coins are evil and then some stable coin people
+16:4316 minutes, 43 secondswill guess stand up and say CBDC is evil and even within the euro system we get disagreements [music] the bank defos
+16:5216 minutes, 52 secondsrecently contradicted the euro rest of the euro system and it's a complete fight at the moment as which of these
+16:5916 minutes, 59 secondsmany versions of the tokenized money are going to win what keeps traditional banks most nervous about letting corporate clients
+17:0717 minutes, 7 secondsreotlight on stable [music] coin in the corridors involved and all the sanction exposure AML risk wouldn't they be
+17:1717 minutes, 17 secondsreally nervous about uh for commercial banks it's as always a an opportunity in the risk the the the
+17:2417 minutes, 24 secondsopportunity is you can make much more efficient ways of tying your corporate customers to you and treasury management
+17:3317 minutes, 33 secondscost order flows and everything you look at what JPM is doing with rock nexus and things that super exciting stuff and huge opportunities and huge cost savings
+17:4117 minutes, 41 secondsand brilliant. Uh the risk for the commercial banks is more the deposit
+17:4817 minutes, 48 secondsflow for example because if people start putting their money into CBDC for example, it [music] goes onto the state's book instead of the bank's book.
+17:5817 minutes, 58 secondsSo your deposits start moving out and that impacts your lending and may cause risks in [music] fragile times. So um as with every story there are advantages and disadvantages.
+18:1018 minutes, 10 secondsBut these smart banks are getting into this in very clever ways and trying to mitigate the risks and expert the opportunity.
+18:1818 minutes, 18 secondsThere are talks about tokenizing deposit. What's your view on it and when you advise the banks [music] and open
+18:2518 minutes, 25 secondsbets? What is this give them when they say let's try tokenized the coffee?
+18:3018 minutes, 30 secondsI'm a big fan of that actually. I mean basically there are three forms of this tokenized [music] money. One is sort of state driven the
+18:3718 minutes, 37 secondsCEDC which I'm not sub then there's the sort of market driven which is the stable coins which I think is super exciting and then there's the bank
+18:4518 minutes, 45 secondsdriven which is the tokenized deposit so the banks issue these uh crypto tokens
+18:5218 minutes, 52 secondsuh against their own books and so that's a very direct route that means the regulation is easier for them it's
+18:5918 minutes, 59 secondsbasically regulated as with the banking with Basel and with all the stuff they've been used to they don't even need Miko for
+19:0619 minutes, 6 secondsSo they they they have a very direct route to market and they can lend against the money that they actually issu as tokens whereas with stable coins
+19:1419 minutes, 14 secondsthe money is is in some reserve which they can't touch. So deposit tokens have a lot of advantages for commercial banks.
+19:2119 minutes, 21 secondsWhat I think the banks of region has really been looking into this and actually close to income.
+19:3019 minutes, 30 secondsYeah. Again, this is the huge global competition and as always, America is ahead, right? With Circle at Tether,
+19:3619 minutes, 36 secondsthey've really shown how stable coins solved lots of problems or created trillions and billions of of dollars in listed in this new form.
+19:4819 minutes, 48 secondsBut Europe is accelerating. I think it was a times 17 volume in the last 12 months. And every country around the
+19:5619 minutes, 56 secondsworld of course is waking up to this topic and saying we've got to be in on this be part of this.
+20:0120 minutes, 1 secondAnd in practicality how does [music] bank really cover this?
+20:0620 minutes, 6 secondsWell they can take various roles. Well what one is to become a stable coin committ for example I can issue a euro
+20:1320 minutes, 13 secondsstable co my bank and you see that [music] in Europe for example Kalis consortium of 37 banks have got together
+20:2020 minutes, 20 secondsto issue stable coins in Europe. So we're just get dollar stable coins as well also get euro stable coin from very [music] large. So that's one role. You
+20:2820 minutes, 28 secondscan be an Isra. But what a lot of banks are doing are becoming CASPs crypto asset service provider as it's
+20:3620 minutes, 36 secondscalled in the Mika regulation and called VASPs in in your world. Uh which means they provide some service for this
+20:4220 minutes, 42 secondscrypto that be could be on off round FX custody exchange whatever and that is of
+20:5020 minutes, 50 secondscourse all stuff that banks are really good at and so they can play a very big role in this new reality. I know you uh
+20:5720 minutes, 57 secondsyou just returned from Japan. Japan is a whole different country that is not only a very unique business but quite strong
+21:0521 minutes, 5 secondsin the jungles yin. How does the tokenized deposit or in general the cast or that of the world happening in Japan?
+21:1321 minutes, 13 secondsJapan's also exploring all the different avenues. There's some people thinking about the digital yen and some people started emitting for stable coins. Some
+21:2221 minutes, 22 secondsare doing deposit tokens. all these in fact we have one or two Japanese authors in the book as well uh who who who
+21:2921 minutes, 29 secondsexplain all that Japan is traditionally very conservative and consensus oriented so they they don't want something sort
+21:3721 minutes, 37 secondsof leap ahead they want the e system to move which I think is very smart because of course al you do need an ecosystem to
+21:4521 minutes, 45 secondsmake it work you can't just have some emitter and nobody can accept it and nobody can transfer it so there's a lot of discussion going on and I meet with
+21:5321 minutes, 53 secondsthe central regularly and with many of the other market players and um I'm sure there's lots of exciting things will happen there.
+22:0122 minutes, 1 secondWell, you're also familiar with Asia quite a bit in the comparative deal of the regulatory frameworks in Asia. Which
+22:1022 minutes, 10 secondsone do you see is in your book if ahead which one you think is also upcoming?
+22:1722 minutes, 17 secondsYeah, at the moment it's a very dark skin because China is putting all its money on the digital one, not banning
+22:2422 minutes, 24 secondsstable coins. Hong Kong is probably the other way around or whether they're very close. Uh Japan, as I said, they're in
+22:3122 minutes, 31 secondsthis consensus way sort of working all the options. There's Central Asia which is going a different way. India with the
+22:3922 minutes, 39 secondsUPI is thinking about how to turn that into digital tokens. So, everybody has their own story here.
+22:4622 minutes, 46 secondsAnd there is also Singapore. [music] Singapore I mean they are obviously famous in being super ahead and super
+22:5422 minutes, 54 secondssmart thinking and the monetary authority of Singapore. I remember being so impressed already many years ago when open banking started which I think is
+23:0223 minutes, 2 secondsone of the biggest underrated topics in finance around an I think that's super exciting. Uh you know Europe mandated
+23:1023 minutes, 10 secondstwo APIs that every bank should offer so that third parties can can access bank accounts. They developed a catalog of
+23:1723 minutes, 17 secondsover 140 APIs if I remember right. So, so the API [music] basically the whole of financial services and so I'm always been a big fan of it.
+23:2623 minutes, 26 secondsTalk about Central Asia. You're heading to Chan. Yeah. Why?
+23:3223 minutes, 32 secondsQuite honestly, this is for me to learn as well because I'm I've only done a few small projects in Kaku in the past, but I've known them to be very clever
+23:4123 minutes, 41 secondsthinking there and have some very specific solutions for their region because of course Pazabai John isn't exactly like pinballs or like Italy. So
+23:5023 minutes, 50 secondsthat's a lesson that you learn every single time for every van for every region. There is no silver bullet.
+23:5623 minutes, 56 secondsYou've always got to find the uh the thing that works there. And I'm excited to learn what the Azobai chari specifics are.
+24:0624 minutes, 6 secondsSo this is where we get a little bit rapid fire. One word kind of a little bit fun. First one. Okay.
+24:1324 minutes, 13 secondsOkay. [music] Most overrated buzz word in fintech right now. Programmability. Why?
+24:2024 minutes, 20 secondsUm because you're going to have programmability all levels. We've had programmability forever. When I get out of my Uber, the the driver gets paid
+24:2924 minutes, 29 secondsautomatically. So some people pretend like this is a [music] new function which is now suddenly only available and it should be embedded deep in the bowels
+24:3724 minutes, 37 secondsof the blockchain whereas actually the topic uh is has been with us for ages and needs to be done in a completely different way. It's connected to smart
+24:4524 minutes, 45 secondscontracts which is neither smart nor a contract. We've had if statements in finance for a long time and that's all
+24:5224 minutes, 52 secondssmart is and a contract means it should have legal value which means I can hold it up at court which I can't. So programmability and smart contracts I
+25:0125 minutes, 1 secondthink are two words I think we should be careful on the other side [music] what's the most underrated words in the payment um I mentioned before I I I think it's
+25:0925 minutes, 9 secondsopen bank open hardness the API the finex so that you actually allow clever
+25:1625 minutes, 16 secondsnew startups uh fintex to access bank accounts initiate payments look at the data it's like putting an app store on
+25:2325 minutes, 23 secondsyour bank it's like a move from a Nokia phone where the only thing you got was there programmed into it and suddenly you have the smartphone where hundreds
+25:3225 minutes, 32 secondsof thousands of clever ideas come from what you can do on this platform. So if we were to really unleash this open banking with standardized KPIs and
+25:4025 minutes, 40 secondsstandard rules you get these clever third parties who develop new services on top of the bank makes the bank more valuable. It gets new consumer services.
+25:4825 minutes, 48 secondsCBDC in one word the greatest waste of state resources ever.
+25:5425 minutes, 54 secondsStable coin in one word. The biggest opportunity for revolutionizing the global monetary system. Tokenized deposit in one word.
+26:0326 minutes, 3 secondsThe best route for banks. RMD as a global currency. Uh, exciting and scary.
+26:1226 minutes, 12 secondsHong Kong's digital asset future. This worked out. Very positive.
+26:1626 minutes, 16 secondsRegulation accelerator or a really a handbrake?
+26:2026 minutes, 20 secondsI'm a fan of regulation. I think that's what stalks the crypto world because it's this mad world where anybody can do
+26:2826 minutes, 28 secondsanything and has caused so much harm and so much corruption. I think regulation which sets good rules, good regulation which sets good rules and gives the
+26:3726 minutes, 37 secondsmarket certainty and investment certainty is a very very good one.
+26:4026 minutes, 40 secondsOne country whose payment system that the rest of the world still underestimates.
+26:4826 minutes, 48 secondsIt's one of the things I notice when I travel around the world. Everybody's looking at Europe. And in Europe, we always convey and say, "Oh, we're so far
+26:5626 minutes, 56 secondsbehind and the Asians and the Americans in Brazil. Everybody's the Europe a
+27:0427 minutes, 4 secondsjoined up system, instant, free, immediate, connected, addressible.
+27:1227 minutes, 12 secondsIt is actually one of the best systems in the world. We in Europe don't always realize. One of the chapter you mentions
+27:1927 minutes, 19 secondsAI agent is really important to address that particular things from a different point
+27:2627 minutes, 26 secondsof view sort of regulation and ethics and execution [music] and from technology. So what would you like to
+27:3427 minutes, 34 secondsprioritize when you tell people about the first name you talk about? I mean I think it's the intersection between AI and tokenized money that is really
+27:4227 minutes, 42 secondsexciting. It's obviously we're creating AI, right? At at the kind of Vista and when these agents sort of look around
+27:4927 minutes, 49 secondsthe world overnight to see where you can put your money, where the best COA drop fees are, where you can get the best
+27:5527 minutes, 55 secondsreturns, where you can shop for for a cheap flights and everything. They're going to need to pay at that moment while you're still asleep or while
+28:0428 minutes, 4 secondsyou're at work. So, these autonomous agents will need to be able to pay themselves. So, how do you then get them to pay? They're not going to fill in a separate credit transfer with the IBAN.
+28:1428 minutes, 14 secondsThey're going to want to have some digital money like a stable coin etc. So that's why I think this fits beautifully
+28:2128 minutes, 21 secondstogether. And in fact also uh agents will probably create whole families of agents sub agents like for example a
+28:2928 minutes, 29 secondsmarketing campaign in your world right there you will have one designer and one editor producers one working out new subjects to interview etc. And these
+28:3828 minutes, 38 secondswill all need to be paid. So agent will need to pay it sub agent and that sub aent will pay its sub sub aent. So you're going to pay really small amounts
+28:4628 minutes, 46 secondsjust a sub sub aent to buy design a nice logo but we haven't cracked the micro payment topic in our industry yet until
+28:5428 minutes, 54 secondsnow. How do you send one cent to somebody immediately instantly without any beasel? So ster coins solve not only
+29:0229 minutes, 2 secondsthe digital payments for agents but also the microp payment issues also in the B2B context you know when you just want to pay for one screw that is being put
+29:1129 minutes, 11 secondsinto [music] the car etc. So there's a whole new avenue of micro payments, on demand payments, pay-per- use pays that is opening up the gent.
+29:2229 minutes, 22 secondsWell, talk about ethical side of it.
+29:2429 minutes, 24 secondsThat's all wonderful when it works seamlessly. But what if something go wrong? Do you blame the agent or do you blame the bank?
+29:3229 minutes, 32 secondsThat's the liability question is still heavily dictated. You see that also in autonomous driving. If a car runs somebody over, is it the car's fault? Is
+29:4129 minutes, 41 secondsit my fault? Is it the manufacturer's fault? Is the programmer's fault? Um, I think it's gradually becoming clearer
+29:4829 minutes, 48 secondsthat it's the the car's fault. So, the cars have to be liable for this. And I think similarly in the AI worlds, we're
+29:5629 minutes, 56 secondsgetting clear and clear liability regimes that they have to be finalized and regulated. And I expect Europe is going to be the first to do that.
+30:0430 minutes, 4 secondsIf I were at the machine, I would say I hallucinated and so in that part until we solve that
+30:1230 minutes, 12 secondstechnology point to a zero error, it's going to be still do you think people will play in sandbox or they will some
+30:2030 minutes, 20 secondsbanks will take the lead and let's see let's do I'd like to contradict you a little bit or have a different opinion if I may
+30:2830 minutes, 28 secondsbecause that's voiced a lot that the AI can only happen if there are zero errors.
+30:3330 minutes, 33 secondsAnd I don't think that's true. The comparison should be with humans like uh with autonomous driving, autonomous cars, they will still make errors. They
+30:4230 minutes, 42 secondswill forever make errors. But if they are significantly better with humans, which they already are and will get even so, then I think that's a good reason to go more into AI and autonomous driving.
+30:5230 minutes, 52 secondsSo the comparison should not be zero, but we're never going to get there. is the comparison with humans and there AI
+30:5930 minutes, 59 secondsis going to be a serious challenger but still the viability question doesn't go away when they do make mistakes who is then responsible and that does need to
+31:0731 minutes, 7 secondsbe sort do you envision a sandbox or the regulations how how would the regulator face this
+31:1531 minutes, 15 secondsuh I mean what I'm seeing is the regulators putting fairly prescriptive regimes in place which I think is good for example saying there always needs to
+31:2331 minutes, 23 secondsbe a human in the loop like for example medical diagnosis or a loan uh granting there still needs to be a final view by
+31:3131 minutes, 31 secondsa doctor or by a banker to say what what the final opinion is but I think over time we will get to rely more and more
+31:3931 minutes, 39 secondson AMI and this is a journey which we need to judge carefully and keep looking at the boundaries and we sure if it's
+31:4631 minutes, 46 secondssuper important let's talk about also for we it AI when in different regions of
+31:5531 minutes, 55 secondscontrol of data. Do you think the regulator would eventually control or regulate data usage versus directly to
+32:0432 minutes, 4 secondsthe AI? I mean, there already is some data usage regulation like you can't or you
+32:1132 minutes, 11 secondsshouldn't people do that screen for uh New York Times articles off the internet and use that to train your model or use
+32:1932 minutes, 19 secondsthat. So there are some already some some regulations in place and this is a very fast moving scene where the
+32:2732 minutes, 27 secondsregulator the biggest challenge for the regulator is to keep up with the developments.
+32:3232 minutes, 32 secondsI think the some of the most of the hobs at the moment fairly clear actually putting that into practice in a word in a way that actually works in two weeks.
+32:4432 minutes, 44 secondsUh that that's the challenge. That brings us to the topic of global geopolitics and the risk. With all the
+32:5332 minutes, 53 secondsbackdrops of not only the war but the competition going on, where do you see that geopolitical risk comes in when it
+33:0033 minutescomes to CBC versus stable boy or a point?
+33:0533 minutes, 5 secondsYeah, aentic AI there's this huge competition around the world is who can move the fastest and I think uh Europe
+33:1333 minutes, 13 secondshas quite a clever positions at the moment. I think I mean it doesn't make sense to develop yet another but let's develop things on top of that which are
+33:2233 minutes, 22 secondsused for industry for example in the BD context you know really applications don't try to compete with claude or with
+33:2933 minutes, 29 secondschat BT you're not going to manage that but maybe we can come up with a better application of this especially in the needs of these best so that's a huge
+33:3733 minutes, 37 secondscompetition at all levels uh the geopolitics of token as money that is a
+33:4433 minutes, 44 secondssuper exciting topic. I mean, we're already seeing that the US is trying to make the US dollar the even more global
+33:5333 minutes, 53 secondsdominant currency. [music] In fact, this is written explicitly in the Genius Act.
+33:5733 minutes, 57 secondsTrump has written it in various executive order. He wants to make America the global dominant power and using stable pops to do it. That is
+34:0634 minutes, 6 secondsexplicitly written there. So that is quite in your face and they are being quite successful because certainly and
+34:1334 minutes, 13 secondstether are massive and Europe now is putting some stakes against that and of course China also has an agenda of
+34:2134 minutes, 21 secondsbecoming the global superpower and is using the digital line to become a global power in countries outside its
+34:2934 minutes, 29 secondslocal geographic sphere. So the due politics of this are super exciting and everybody's using different methods. For example, staple coins are actually
+34:3734 minutes, 37 secondsfunding the US deficit. It's a very it's not called the genius act for nothing which is super clever. They are getting
+34:4534 minutes, 45 secondsthe money from all over the world putting us to buy T bills treasury bills i.e to fund the US deficit. Super exciting.
+34:5334 minutes, 53 secondsWell, we got to watch the national debt clock again another time see how it accelerate the minutes. So that's stable in his accent staff is real.
+35:0335 minutes, 3 secondsHow about just in general the geopolitics and political risk of China merchants and entering the rest of the
+35:1235 minutes, 12 secondsworld from Europe to Africa to Latin America.
+35:1635 minutes, 16 secondsI think the concern then more with people like Shane and Timu sort of adhering to quality standards. It's not
+35:2535 minutes, 25 secondsso much in the uh in the payment space but the the the dominance. Yeah.
+35:3435 minutes, 34 secondsSo the Okay, very good. When you look at crossber payment industry today, what is the single biggest failure in the
+35:4135 minutes, 41 secondstraditional payment rails that we need to fix?
+35:4535 minutes, 45 secondsWell, we've tried for decades to get seamless flows from everybody to everybody and the G20 project [music]
+35:5335 minutes, 53 secondswhich is addressing that has been going for 10 years and they themselves admitted it's not going very far very
+36:0136 minutes, 1 secondfast. So this is a real failure of the world but all the technology all the resources all the money that is being born all the inefficiency that this
+36:0936 minutes, 9 secondscauses we still have this correspondent [music] banking where we hop from one bank to another. each time causing fees and delays and losses and transparency.
+36:1836 minutes, 18 secondsThat is that's been big critic and this is of course what tokenized money.
+36:2236 minutes, 22 secondsWe've seen a growing professional community in hybrid intersection of trapi and digital infrastructure today.
+36:2936 minutes, 29 secondsWhat type of professional or mindset do you think shines brightest in this field? I mean what I'm really enjoying
+36:3636 minutes, 36 secondsis that the trify the existing banks and pro providers that they are jumping into this topic and really making it work in a professional regulated scalable way.
+36:4736 minutes, 47 secondsIt used to be sort of the DeFi worlds these challenges two guys and a dog in a garage who said he would disrupt the banking system. That is not happening.
+36:5636 minutes, 56 secondsIt's actually the new ideas from the from this crypto world man emerging with the experience and scalability and
+37:0437 minutes, 4 secondsregulation and and reliability of the banking world to produce a new world and that's exactly what we should be doing.
+37:1037 minutes, 10 secondsFantastic. Thank you so much Michael and this has been a pleasure. Thank you. Thank you.
+37:2437 minutes, 24 secondsThank you everybody for watching. Uh this is Middlesa. Uh have a good evening, night, wherever you are. Cheers.
+37:3237 minutes, 32 secondsCheers. Cheers. Still happy Friday. Still happy Friday.

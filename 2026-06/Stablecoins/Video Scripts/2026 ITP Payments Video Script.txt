@@ -1,0 +1,785 @@
+Transcript
+
+
+Search in video
+0:10
+coins. So, bringing new products and solutions to our existing clients. The other area is about serving firms in the
+0:17
+digital assets ecosystem. There's a whole ecosystem of fintech firms that are growing up in this space and they
+0:24
+need banking services. We will live in a world where trady and DeFi are going to
+0:29
+live in parallel for for quite a while uh if not forever and these firms need banking services. So how do we serve
+0:36
+that could mean liquidity that could mean FX services on and off ramps which are really critical in this space. So
+0:43
+bringing those capabilities to the the fintexs and the firms in the digital assets ecosystem.
+0:50
+So good morning. My name is Larry Pros. Uh I'm a managing director at a company called Strategic Resource Management.
+0:56
+We're a full service consulting company advisory services. My area of responsibility is emerging and
+1:03
+disruptive uh financial technology. So I get to do all the cool stuff like stable coins, tokenized deposits, digital ID,
+1:10
+quantum computing, artificial intelligence. Um we have a lot of clients uh banks and credit unions as
+1:17
+well as fintexs that we serve that are very much interested in kind of this evolution of money the digitization of
+1:23
+all things money related and obviously stable coins and tokenized deposits fall
+1:28
+within that realm. So glad to be here. Great. Thank you both. And just to build on what you said that's what we're
+1:35
+seeing as well on the Visa side. We're embedding stable coins across our infrastructure and starting to see some
+1:40
+really interesting use cases pick up um and learnings along the way. And so
+1:46
+folks in our time what we're going to do is three things. First about 6 months on for the Genius Act, what boundaries has
+1:53
+it created for the ecosystem? What does it take to launch and run a digital asset solution? And what is the 12 to 24
+2:01
+month outlook and what should you be planning for now? But before we get into that, I want to ask for your help by
+2:08
+getting out your phone to help with the slideo question. And our goal here, this one is anonymous, is to help ground us
+2:15
+in terms of where we stand as an industry in terms of real progress. And
+2:21
+this one also helps to get at some of the questions that I get that are implied in a lot of the conversations
+2:26
+that I'm in, which is am I behind or what are others doing? So what we wanted
+2:31
+to cover with you is where does your organization stand today in its approach to digital assets? Are you actively
+2:38
+developing or piloting a solution? Um live and market with an active solution,
+2:44
+exploring proof of concept or internal research, monitoring the space but not
+2:49
+currently a strategic priority or not on your road map at this time.
+2:55
+And Larry, while folks are answering and yourself as well, what what problem
+3:02
+would you expect to be most in focus for those that are responding as having an active solution?
+3:07
+Uh, in terms of those that are responding, probably the big focus is the Genius Act, at least here in the US,
+3:14
+the Genius Act, and there's 180 days kind of rule making that is going to be occurring. a lot of that outlining the
+3:22
+requirements for issuing stable coins, the requirements for um on an offering being stable coins. So I would say those
+3:29
+that are starting to get an early start on that and there are a number of financial institutions that are doing that need to be working very closely
+3:36
+with your regulators and watching the the legislation that's come going to be coming out of Congress whether that's
+3:42
+kind of updates to the Genius Act by the Clarity Act or again the various rule making processes that the various
+3:50
+federal agencies are doing. I think the earliest one out the gate was FDIC and they provided some uh guidance around
+3:57
+stable coin issuing requirements. Fabulous. Thank you. And Elizabeth, who
+4:02
+do you think the end customers are here for those solutions? Yeah, thank you for asking that question. I think that's really really
+4:08
+key. It's easy. There's so much happening in this space. Um and and the technology is so interesting and and
+4:16
+enables so many different things. It's easy to just get enamored with it, right? with all the noise and the hype and the technology. I think
+4:22
+fundamentally certainly coming from a bank, right? We have to be smart about what we do and how we do it and what we
+4:29
+prioritize. Grounding it in the end customer is so critical, right? So, thank you for asking that question. I
+4:35
+think that's really really important. So anyone that's either, you know, starting to think about it or like when I look at
+4:40
+the results here, thinking about a proof of concept, to me the biggest piece of advice and what I've learned over these
+4:46
+these many months is think first and foremost what's the problem that we're solving, right? Who is our customer?
+4:52
+What are we solving for? Uh and that really brings clarity. the big use cases that we've seen and and the the end
+4:59
+customers that we've been focused on. One is um we see a lot of use cases in the BTOC or C2B space meaning uh
+5:08
+marketplaces uh firms that are in the gig economy that are paying employees sort of and
+5:13
+they want that sort of 24 by7 or easy crossber payments. We've seen a lot of
+5:18
+activity in that space. P2P clearly is is is a big one, right? So remittances
+5:24
+especially in difficult corridors uh people paying family members back home
+5:29
+uh in across the world. But then the other one that we see that's quite big and and really promising and I think
+5:35
+will disrupt and particularly relevant at this conference is in the B2B space
+5:40
+and that may be initially a little counterintuitive right because a lot of people when we talk about digital assets
+5:46
+there's a lot of hype around 24/7 real time immediate a lot of payments in the
+5:51
+B2B world don't have to be you know they have payment terms right they don't have to be immediate they're not paying over the weekends however it brings a lot of
+6:00
+programmability which I think for the B2B payment space is really critical. Um, you know, we use
+6:06
+the word smart money. So, being able to program it to have conditional payments,
+6:11
+to have eventbased payments, the data and the information that comes with the payments, that's where we're seeing a
+6:19
+lot of interest in ways that the technology in the past was really struggling with with enabling that,
+6:25
+right? We all wonder like why do checks still exist in the B2B world, right? Why do why do firms pay each other? And
+6:32
+quite frankly, it's because the data, right? They can print the remittance information and the check, staple them
+6:37
+together, and the payment and the data traveled together. There's still a lot of inefficiencies in the B2B world that
+6:44
+this technology now now enables. So, um, that was a very long answer, I know, but
+6:50
+thinking about because every bank has a different market, different clients, different needs. Who is the client? What
+6:56
+problem are we solving for? and staying very very clear on that and not get lost
+7:02
+in all of the hype and noise because it's very easy to do that in in this space. Well said.
+7:08
+If I can add on to that from a B2B standpoint, you know, about 5% of businesses have exposure overseas where
+7:15
+they're either have employees overseas or they're getting vendor payments overseas and those people want to get
+7:21
+paid instantly and in US dollars. So, stable coins very much solves that
+7:26
+problem. So, that handles that component of it. And then if you think about the US workforce about 18% of our workers
+7:33
+are foreign based foreign workers based in the US and they are sending remittance home. That's another use
+7:39
+case. And then the last one you mentioned the gig economy. This number surprised me but 30% of
+7:46
+uh consumer businesses workers here in the US are associated with the gig economy. These people are living
+7:51
+paycheck to paycheck. They don't want to wait till once a month or every other week to get paid. They want to get paid
+7:58
+immediately and so they're seeking out instant real-time payment solutions. Many of which are coming through the traditional payment rails but many of
+8:04
+which are coming through these new stable coin rails especially because they are by native programmable.
+8:10
+Well said. So really agree with what you both said. I think keeping that customer
+8:15
+at the center learning mindset as this is a new technology can be very clarifying in terms of those of you that
+8:22
+are monitoring or still in that exploration phase. And I what we're doing at MIA is doing co-design with our
+8:28
+customers, lots of time interviewing them to really learn and be with them to understand what are the challenges that
+8:34
+they're facing and how you might grow from there with this new technology rather than starting with the technology and trying to apply it um unilaterally
+8:41
+across. Okay, thanks for your participation. We'll keep going with one more question
+8:47
+um before we dive more into the content. So our next question is which forms of
+8:53
+digital money is your organization actively evaluating or prioritizing
+8:58
+stable coins, tokenized deposits, both or neither? So if I can ask for your
+9:04
+participation again
+9:11
+and as these responses roll in, let's compare these responses against some of
+9:18
+the foundational concepts created by the Genius Act legislation to see if it might be influencing them. So Elizabeth,
+9:25
+the act defines a payment stable coin as a digital asset that is not a bank deposit. So for those in our audience
+9:32
+that are prioritizing stable coins, how does this distinction change the risk profile and capital treatment for a bank
+9:40
+issuing a stable coin versus a bank that's issuing a tokenized deposit?
+9:46
+Yeah, the the easiest way to think about it um for me is a tokenized deposit
+9:51
+uh very very similar for all intents and purposes. It is like a traditional deposit. The technology underlying it is
+9:58
+different and enables all the benefits we just talked about with the use cases. So it enables all those benefits but it
+10:04
+but it sort of acts and and is treated uh from a regulatory a legal perspective
+10:10
+FDIC insurance accounting perspective. It is it is treated like a traditional deposit that that has a mirror on on
+10:18
+onchain. So in in many ways from a bank perspective those are sort of an easier
+10:24
+first step right it feels familiar it is familiar it's sort of an an an ability
+10:30
+you can enter this space in a way that that just feels a little safer and more familiar whereas a stable coin is is
+10:37
+quite different right a stable coin can be issued by a bank or a non-bank so suddenly we enter into a world where
+10:44
+where we are competing and and dealing with um firms that are not our traditional
+10:50
+peers in the industry. Um, from an accounting and legal perspective though, there are also quite different both for
+10:56
+us and for the end customer, especially in the B2B world, corporates, there's implications for them of of having
+11:02
+stable coins. Um, and and one of the biggest difference is a stable coin has
+11:07
+to be onetoone back against uh HQLA, a high quality liquid asset. So there's
+11:14
+all sorts of implications both from a banking perspective uh as well as as
+11:19
+from the the end customer. We believe and it's interesting I love looking at at these results and it's interesting
+11:26
+that the the majority here or not the majority but little less than half but the the biggest answer is both here. I
+11:32
+find that interesting. I personally believe that because I've talked to a lot of my peers in the last many months
+11:39
+at other banks and some are very much tokenized deposits, others are stable coins. I believe both will exist. We
+11:47
+will live, we will move forward in a world where both will coexist. And as a bank, we have to be doing both because
+11:54
+different the different use cases we spoke about earlier, some of them lend themselves better to tokenized deposits
+12:01
+and others lend themselves better to stable coin. So I I do think so, I'm glad to see that that the the biggest
+12:08
+answer here is is both. Um, I I do believe that both will will exist and and we have to be looking at both.
+12:15
+And and for for those of you I know everyone in this room is smart enough to know this, but for those of you that aren't looking at your deposit outflows,
+12:23
+look at your deposit outflows and see where those deposits are going. Just because your customers aren't asking for these solutions today doesn't mean that
+12:30
+they don't need these solutions and aren't getting them through say third party fintech type relationships because
+12:35
+a lot of them ask where they're getting them from today. Yeah, I think that that's great insight. And then if if you're a bank who's thinking about what
+12:42
+to do next, you picked up on a point for FDIC insurance earlier and I wanted to
+12:47
+ask you a little bit more about that. So since stable coins are legally barred from FDIC insurance, how how are you
+12:54
+messaging the safety of these assets to corporate treasurers who might be used to more of a gold standard in terms of
+13:01
+deposits? It it's a it's a different way of looking at it. Um, early on when the whole
+13:07
+debate came around stable coins and paying yield and not, I heard a lot of news articles pushed the concept like,
+13:12
+well, stable coins aren't safe. They're not FDIC insured. They can't be FDIC insured. And I often would respond,
+13:18
+well, of course, that's the case because they're full reserve banking as opposed to fractional reserve banking. So,
+13:23
+stable coins have to be fully reserved by, you know, cashlike uh instruments.
+13:29
+So treasuries last 93 days, repos, reverse repos, bank deposits, those
+13:34
+sorts of things. So in some aspects they could be arguably safer than the
+13:40
+traditional deposit where we need to can kind of consider that difference um even
+13:46
+from a treasurer but also from just a general bank standpoint is what happens when we see the next financial crisis.
+13:52
+Like what we saw during SVB was we saw a lot of large depositors which understood
+13:57
+the difference between like full reserve banking fractional reserve banking and what's insured not insured fleeing uh
+14:04
+the SBB to other larger more systematically important institutions. Well, we have another one of those. They
+14:12
+might actually flee to stable coins which are fully reserved, bankruptcy
+14:17
+remote, fully segregated. um arguably a safer place to have it
+14:22
+than deposits, particularly if you're a large depositor. So, you have to start looking at these differently. They both
+14:27
+have different use cases, but stable coins again are that full reserve financial instrument that may or may not
+14:34
+offer yield. We'll kind of talk about that later, I imagine. Yeah, great insight there. And what about any risks for tokenized deposits?
+14:41
+How would you classify those? I I think uh so from the end customer
+14:47
+perspective, they're the same risk as a regular deposit. So no more or less risky uh than than a regular deposit.
+14:55
+From a bank perspective, and we will have to monitor this carefully. It's hard to un to see what the behavior
+15:01
+might be down down the road, but because they're more easily moved, right? We talked about that instantaneous 24/7
+15:08
+real time movement of of funds. Does it change the behaviors of of customers?
+15:15
+What does it mean from a bank's own liquidity management? What is the treatment of these deposits? Uh and and
+15:23
+sort of so that we have to think very carefully about that. Again, it's very early days. It's difficult to say what
+15:30
+will happen. um and and in some ways you know with real time rails we're starting you know real time rails also you can
+15:38
+move you know 24/7 and all that so I don't know that it will uh change things
+15:43
+that drastically but we have to monitor and and just understand what is
+15:48
+happening I do think the other thing that'll be very interesting is as we move into a world with tokenized money
+15:55
+market funds and tokenized deposits do we see a lot more movement between those
+16:01
+right if your corporate treasurer, even if you have just intraday balances, why would you move them into a tokenized
+16:07
+money market fund and then just move them in and out or even make payments
+16:12
+out of your tokenized money market funds? So, I think we're going to see an evolution of behaviors. It's a little
+16:18
+hard now cuz it's so new and these products haven't been around that long and the adoption uh rate is not high
+16:24
+enough to really be able to identify the long-term risks, but we're we're closely monitoring that. What one key
+16:31
+distinction too between tokenized deposits and stable coins is who the liability lies with. Right? So tokenized
+16:38
+deposit the li is a liability of the bank. A tokenized I'm sorry a stable coin is a liability of the issuer who
+16:45
+may or may not be a bank related entity. So again they're very different liabilities. Um stable coins are more
+16:52
+like a bearer instrument too. There's no preunding or anything like that. So there there are some distinct differences between the two of them.
+16:58
+tokenized deposits are a lot more like a traditional deposit. Well said. And so if we think about kind
+17:04
+of these aspects together, we stay on sort of predicting the future. Um the
+17:10
+given the act prohibits stable coin issuers from paying interests or rewards, which of course is a very
+17:15
+active debate right now. One implication of this could be that stable coins are used primarily for high velocity
+17:21
+payments whereas tokenized deposits are used more for institutional liquidity. Is that how you see it come into play?
+17:28
+It is. And again, early days, right? So no, no one has a crystal ball. But when we think of of sort of money and what
+17:34
+purposes does it serve, right? There's really three per big purposes. A unit of account, a store of value, and a
+17:43
+movement or transfer of value, right? So we think of those those um things. In the old traditional fiat world, we use
+17:49
+the same tool, if you want, or underlying instrument to do all three of those things. We're now moving into a
+17:55
+world where depending on what you're looking to do, you have a toolkit, different tools. So, so to your point,
+18:02
+right, stable coin, we may enter a world, and again, I'm thinking more in the in the corporate business world. I think retail consumers may be different,
+18:09
+but in the corporate world, I could see a scenario that plays out to your point where stable coins are used for the
+18:17
+movement or transfer of value and then tokenized deposits are used or tokenized
+18:23
+money market funds are used for the store of value. Um, and and they can
+18:29
+move back and forth. So I I if any of you have heard this expression, right, the stable coin sandwich,
+18:35
+which means that you're using the stable coin just for that movement. So you may go from either a traditional deposit or
+18:41
+a tokenized deposit. You transfer it into a stable coin to do the money
+18:47
+movement around the world cuz it's a lot more interoperable, right? Interoperability, as we all know, is
+18:52
+critical in payments. So you use the stable coin for that movement of value and then at the receiving end it's again
+18:59
+moved back either into regular deposit fiat or or tokenized um deposit. So
+19:05
+that's what we call a stable coin sandwich. So I do that's again early days what we're starting to see but I
+19:12
+think it's important to think about what are the different purposes right that unit of accounting store of value
+19:18
+movement transfer of value what are we solving for and recognizing we now have a toolkit which is great by the way we
+19:26
+have better tools that are better suited for these various scenarios and use cases which is a great benefit to us and
+19:33
+to our end customer I I would I would argue that that stable Stable coins in particular do pose a
+19:39
+disintermediation threat to a number of key businesses for traditional finance. So obviously have a payment mechanism.
+19:46
+If it takes off it could pose some threat to say interchange and the card networks. I don't think that's where a
+19:52
+lot of the risk is with stable coins. I think the initial risk is around deposits. Um back in April of last year,
+19:59
+Treasury Department had done a study where they looked at it potentially $6.6 6 trillion dollars of deposit flight
+20:06
+could be at risk of moving to stable coin and that was really dependent on a bunch of things I don't think we'll see that much but that's a fairly large base
+20:13
+of the US deposit uh deposit base out there and then the last one is stable
+20:19
+coins come from the crypto world I wouldn't look at them as crypto I'd look at them as a new payment rail because
+20:24
+that's largely how it's being used in traditional finance but with that these things are programmable and uh think
+20:31
+about it as a digital digital dollar, a digital dollar derivative sitting in a wallet or a digital wallet. You can put
+20:39
+that to use while you're not using it for a payment. So, I could entered into say a liquidity contract or a DeFi
+20:46
+contract and earn yield on it or lend it back out. So, there's there's this whole
+20:51
+other world around DeFi and lending that's about a $300 billion business.
+20:57
+And as we think about some things that are being talked about today from a regulatory standpoint, I'm thinking about Trump's kind of 10% interest cap.
+21:04
+And I don't think we anyone in this room believe that's going to happen. But if anything like that does, it's going to
+21:11
+push those individuals that we can't appropriately risk based repric into alternative lending solutions. We might
+21:16
+find stable coins finding a niche there as well. So it could potentially disinate disintermediate payments,
+21:24
+lending, and deposits. And so you need to be very aware of these tools and get
+21:30
+involved in them early, right? So that you you're not disintermediated. Yeah. Well said, Larry. One other question for you, kind of picking up on
+21:37
+some of the recent discussions on this yield for stable coins, which of course could change a little bit the future
+21:42
+that we're talking about is is still uncertain. How do you see that in speaking with your financial inst
+21:48
+institution customers? And how important do you think it is for regulators to address that topic? So yield was already
+21:53
+addressed by Ingenious Act and it explicitly said as an issuer of the stable coin, you could not pass yield
+22:00
+directly to the holder of the stable coin. Uh what that didn't say was that
+22:06
+you couldn't pass yield to an a third party intermediary. So stable coins in a traditional crypto parlance, what a lot
+22:14
+of them would do, I'm a stable coin issuer. I make money by holding, you know, deposits and putting them in US
+22:20
+treasuries and earning yield on that because people give me the money so they can use their stable coin.
+22:25
+I since it's a very profitable business, I want people to have access to it. To have access to it, you have to have a
+22:30
+distribution network. The traditional distribution network for uh stable coins were crypto exchanges. So, I might have
+22:37
+a partnership with Coinbase where I pay Coinbase some sort of my revenue. So
+22:43
+they encourage their customers to trade stable coins, right? Because then they make money on the trading. Um that kind
+22:50
+of revenue agreement was not addressed within Genius. So what we found was that stable coin issuers were passing
+22:58
+rewards, yield, money back to the exchange and the exchange was passing that directly to the holders of the
+23:03
+stable coin. Whether or not that gets addressed in uh the upcoming clarity act
+23:08
+which is being debated in Congress right now and the bank lobby would like to have that loophole quote loophole closed
+23:14
+it still doesn't solve the issue with yield because again the stuff is programmable money and I can enter it into DeFi contracts where I can earn
+23:21
+yield by entering it into a liquidity pool or lending my stable coins out and as these things start to work their way
+23:28
+into a retail transaction which I don't think is going to be immediate but you can imagine why a merchant might want to
+23:34
+use a stable coin. It's select more efficient way of processing a transaction. You don't have to worry
+23:39
+about chargeback and dispute and the cost of that transaction might be two to three basis points versus a historical
+23:45
+card transaction which is a whole lot more. We might see merchants start to offering rewards for using stable coins.
+23:51
+So there's a lot of additional places that rewards or yield could come from outside of just that third party
+23:57
+loophole that everyone's talking about in Congress. So at the end of the day, I think yield finds a way. I think that's
+24:03
+a bad argument tried to be chasing down. Um there's some historical relevance to
+24:09
+like when money market funds were introduced or when banks were prohibited from like you know offering people you
+24:16
+know yield rewards for signing up for a new checking account they were giving away toasters. So like I'm not sure the
+24:22
+banking industry is really going to win the yield question. They might get locked down a bit but I I think there's bigger questions to answer.
+24:28
+By the way I agree with that. I don't think we're going to win that argument. I think there's going to yield will in one way or another get get paid. Um
+24:35
+they'll find a way. Um I actually think the the biggest threat to bank deposits is tokenized money market funds,
+24:42
+right? When Black Rockck and other big money market fund providers are tokenizing all their funds, uh they're
+24:48
+paying yield. They're paying good yield and and I think we're going to see some movement there as well. So I I agree
+24:54
+with you. I think as a as a banking industry, we should think about how do we prepare and and address and start
+25:02
+solving for that rather than than arguing against it and adopting them and selling those as solutions and products to your service.
+25:08
+Even through if it's through wealth management and you're offering a money market fund, then do that and earn some money that way.
+25:13
+Yeah, agreed. Well said both. So, if we stay on the unique position that banks
+25:19
+are in and we start to compare to some of the other different types of rails that are out there, um, with the OC now
+25:27
+licensing non-bank issuers as federal qualified stable coin issuers, have we
+25:32
+seen that banks have a natural advantage perhaps because they have historically had strong compliance infrastructure?
+25:39
+What's your take, Larry? Nei, I'll start with you. Yeah. So it I mean banks have historically used regulation as an oath
+25:46
+and and that's worked reasonably well and it's regulation is important right we if we're a fully compliant business
+25:52
+that's super important stable coin issuers and those kind of the fintexs
+25:58
+have a disadvantage because they don't have that regul regulatory experience
+26:03
+that said all of those companies guess what they're hiring compliance folks from the banking sector so they're going
+26:09
+to get up to speed with that uh the genius act explicitly says that stable coin issuers, whether you're a private
+26:15
+stable coin issuer, whether you're doing it through a subsidiary, a bank or a um
+26:21
+subsidiary of a credit union called they have to be compliant with BSA, AML,
+26:28
+anti-moneyaundering, all of those know your customer, they've got now the same regulatory
+26:33
+requirements. So while it may take them a while to get as good as the banks in
+26:38
+kind of managing those risks, they're going to get there. So that regulatory barrier is gone. They have a
+26:45
+technological advantage because they are using systems that are a lot more efficient than kind of our, you know, maybe 20 years, 30 year cores. We as
+26:53
+banks are going to have to get up to speed on how to leverage that technology because we're going to be at a disadvantage, I think, from a technology
+26:59
+standpoint and we're not no longer beyond a level playing field. So I would say we need to look at adopting that
+27:06
+technology understanding that regulatory moves are not going to protect us anymore and uh and compete on a on a
+27:13
+level playing field. But the good news is is the fintex are going to have to compete on a level playing field as well.
+27:18
+Yeah, I I I agree with that. I think look right now for the moment again things are moving very rapidly. Our
+27:25
+starting point as banks we do have some some advantages right one is our client base our distribution. Building out the
+27:31
+distribution takes a lot of time and scale. We have that. We have those relationships. So we have that. We do
+27:38
+have the compliance, the risk management, the ability to scale in financial services and and deploy at
+27:44
+scale. We have trust which is really critical. You know, you talked about in the SVB scenario, right? There was a
+27:50
+flight towards safety. If there is a stress event uh in this space, there will be a flight to safety. Banks have
+27:57
+that that trust uh right now. And then we also have those on and off ramps we talked about, right? We will live in a
+28:03
+world of tradi and defi for a period of time and and banks have that ability to
+28:09
+to u bridge both of those worlds and do the on andoff ramping. So I do think we
+28:15
+should start from okay what are the what are the advantages that we have and build out our solutions and and
+28:21
+capabilities. But I agree with your point as well, right? We have old technology. These fintexs have an
+28:26
+innovation mindset. They're faster. they're more nimble. They have new technology. Um, so my view is let's
+28:34
+cooperate, right? Like let's there these these firms are competitors, but they're
+28:39
+also partners and they're also potential clients, right? How do we think about these relationships where where instead
+28:47
+of thinking about we're going to compete with them, how do we work together to deliver at the end of the day a better
+28:54
+solution for our clients, right? and and and to me as a product person, shame on
+28:59
+me if I can't figure out how to deliver a better product to my client that solves their problems and and and can't
+29:07
+compete, you know, with with these fintech. So, I I do think competition makes all of us better in the industry
+29:13
+and it keeps us all on our toes and delivering better solutions to our clients. So, I I welcome that
+29:19
+competition as long as it's on a level playing field. And one one thing that's going to be a real advantage for banks
+29:25
+is if you start to adopt this technology and you will for stable coins or even tokenized deposits because the way these
+29:32
+things work, they don't work on kind of traditional ledgers. They work on a shared ledger which means you're going to have to set up digital wallets.
+29:38
+There's this big push and talk in the industry about moving away from accountbased activity to wallet based
+29:44
+activity. So we need as an industry to be ready for that shift. And a lot of
+29:50
+times that's kind of this through a blockchain that's attached as a side core to our traditional cores. You know,
+29:55
+if you think about how cores have evolved over the years, we went from these like on-prem mainframe systems to
+30:01
+the cloud. Uh Bank for International Settlements talking about this concept of a unified ledger, the the regulated
+30:07
+liability network was this idea of kind of a shared ledger platform amongst large banks. Whether or not we get there
+30:14
+eventually where we're all sitting on kind of a shared ledger, I'll leave that up to the pundits. But um I think we're
+30:20
+headed that direction. And if you can adopt some of this technology and build those wallets, start to move to a wallet
+30:26
+based as opposed to account-based, you're going to be future proof. Uh you're going to kind of more future
+30:31
+proof the business than if you just stick with kind of the core business and technologies as we know it today.
+30:37
+Well said. And in this section, I want to cover one more point on speed to market and the question around
+30:43
+technology companies or cryptonnative firms. Do we think that they have a speed tomarket advantage or what might
+30:50
+we learn from them? And when you think about how what it takes for a bank to be quick to market in this context.
+30:56
+Yeah. And I So they do in terms of the development, right? So the the point we were just making, they're they're
+31:02
+nimler, they're more innovative, they have that culture um and and the newer technology. So in terms of developing
+31:08
+capabilities and technology, clearly they're quicker speed to market. However, speak to market to me is not
+31:15
+just developing a product or capability, but actually having it being used by
+31:21
+clients and that's where the bank the ability to scale, the ability to distribute, the ability to get this in
+31:27
+the hands of customers, that's where a bank has has the benefit and that's where I come back to there's really a
+31:34
+benefit to cooperating and bringing those two together. We both bring strengths. Um but but yeah so it it
+31:42
+depends when you say speed to market is it getting in the hands of the end customer or is it developing the
+31:47
+capability. So I think and and we we both have advantages in that. Well said. All right. So we'll turn to
+31:55
+our next section which is more on the financial reality of actually running these types of solutions. And I see some
+32:00
+questions in there's a lot of questions. Do we want this some of those? And folks please keep your questions
+32:06
+coming in. And if we don't have time to get to them all, we'll we'll we'll follow up after this session. So, one
+32:11
+aspect of the Genius Act is that stable coin reserves must be held in the high quality liquid assets that you were
+32:17
+talking about earlier. And given tokenized deposits can stay on the balance sheet and support a lending
+32:24
+franchise, Larry, to what extent do you think this stable point model is less
+32:29
+attractive for a bank's net interest margin? For sure, it's less attractive for the net interest margin. There may be there
+32:36
+are other revenue sources associated with stable coins, but it's not going to be nearly as attractive as being able to
+32:42
+lend that money back out on a fractional reserve basis. So, stable coins will tie up liquidity. Um, there is an
+32:49
+opportunity for some banks and some banks have gotten into custody those stable coin assets on their behalf. Um,
+32:56
+right now as an issuer of a stable coin, you cannot rehypothecate those loans.
+33:01
+They're fully reserved. they have to be sitting there for the benefit of the stable coin customers. I think in the
+33:07
+future though we're probably going to see a world where some of that at least
+33:13
+stable coins say if I'm a bank and I've got customers that have stable coins and I bring them onto the books. Yeah, I can
+33:20
+hold it on behalf of the uh customers. I can't right now today really bring them onto the books of the bank. However, if
+33:28
+you think about a stable coin as a cash derivative and if these things become ubiquitous and you can use it to pay
+33:33
+vendors, use it to pay employees, it's just another cash instrument, there's no reason, I don't think that we couldn't
+33:39
+take a fully reserved stable coin in onto our balance sheets and then lend it
+33:45
+back out on a fractional reserve basis to purchase securities, etc. A lot of things would have to change from a
+33:50
+regulatory standpoint for that to happen. But as it stands today, stable coins do tie up a lot of liquidity in
+33:57
+the system, which obviously puts pressure on lending, puts pressure on capital formation, and I think there's a
+34:02
+general understanding and a more of an understanding in Congress and the traditional finance that that could be a
+34:09
+problem. Now flip side is it does provide purchasers for US treasuries and the
+34:15
+government needs US treasury buyers to to fund the business but the the government but that's another topic.
+34:21
+Well said. So if we look at kind of the other side here on more on the tokenized deposit side. So given they can enable
+34:28
+247 instance settlement. Elizabeth, how are your Treasury teams adjusting liquidity coverage ratio models to
+34:35
+account for the risk of a programmable bank run uh that could happen outside of Fed wire hours?
+34:41
+Yeah, we touched a little bit on that earlier. I think we're monitoring it, right? and and seeing what the behavior
+34:47
+is and and thinking about how do we value these deposits? how do we manage them and and monitor them and and also
+34:53
+as I said earlier in many ways it is similar to sort of what corporate treasurers have if if they adopt sort of
+35:00
+the real-time rails right so that ability to to move money around the clock um right now we have not seen
+35:08
+massive shifts but very very early and and our and our own treasury uh
+35:14
+department is is monitoring it very carefully that's great and I'm seeing a few
+35:19
+audience questions questions around the the impact of this on FX and kind of challenges that are arising through
+35:26
+digital assets and opportunities perhaps as well. Do either of you have a perspective on this?
+35:32
+I I would say at least for US stable coins, they are all denominated in US dollars. So there's no real FX
+35:38
+component. There are other stable coins in the world that are denominated in euros or others. So there could be FX
+35:45
+components. I think that you do get into FX when you're transferring that US
+35:50
+dollar stable coin to another country. Now, often in another country, people are looking to hold US dollar
+35:55
+denominated assets, but if they wanted to spend that locally, they've got to either offramp that and there's an FX
+36:00
+component. There is some interesting ideas and Visas, one of them in particular where they're looking at
+36:06
+putting a Visa debit card in front of that stable coin transaction so they can handle that transaction at the point of
+36:12
+sale, do the FX conversion. The merchant gets paid in the local currency, don't have to worry about it. So, um, and
+36:18
+likewise, you could kind of do a push to card, push it back into your local bank account, give it a debit card in local
+36:25
+currency, and use stable coin to kind of push it through Visa system, which I think was some big discounts in the last
+36:32
+week or two. But there are opportunities to address FX and anytime you've got FX, you've got spread and fee opportunities.
+36:38
+So, that that's a plus. Yeah, agreed. I think it where the stable coins reach the fiat in the local
+36:45
+market. That could be through a car, that could be through an account, that could be through a a different type of wallet. I think that there are still
+36:52
+those opportunities because ultimately that's how you're going to get it to a consumer or business using it on the other side.
+36:59
+All right, so we are winding down on our time and I I will we can kind of weave in some of these questions coming
+37:05
+through perhaps into your your responses, folks. But if we think back to the beginning, and you've touched on
+37:11
+this a little bit, Elizabeth, for those that are on the leading edge with a solution that's in in market or proof of
+37:17
+concept that's out there, what do you think it's going to take for that solution to really take hold and scale
+37:23
+rather than just being a proof of concept? Sure. Yeah. And and and I I will weave it into sort of some of the questions
+37:29
+here. One of the questions that's come up is is are tokenized deposits in stable coin a new income stream
+37:36
+opportunity or is it replacing conventional sort of the the the
+37:41
+payments and deposit income and capabilities and so and this goes to that sort of lessons learned as we think
+37:46
+about it. I I actually think it's both right and I think we do need so again number one advice sort of ground
+37:53
+yourself in the customer. What's the problem that we're trying to solve? Don't unsolve solved problems. Right?
+37:59
+Again, it's tempting to use the technology and like the things we've solved for like like there's plenty of unsolved problems. So, let's think about
+38:06
+the customer. What are the frictions that still exist? What are the value added opportunities that that we can can
+38:13
+bring to market? So, again, is is it a is it just replacing the the existing
+38:19
+revenue or creating new revenue streams? I do think it's both. one on the one hand the technology
+38:25
+will become the pipes the plumbing right I think it is fundamentally just better
+38:30
+technology to replace so as a bank there's opportunity for efficiencies we see a ton of opportunity even internally
+38:37
+without even thinking about the end customer and and greater revenue there's opportunity for us to save money to be
+38:43
+more efficient to have operational benefits um and and so and it will be
+38:49
+better pipes and better plumbing for the end customer but I do think it also brings greater revenue uh ways like we
+38:55
+can be creative the ability to to think about smart contracts programmability all of the functionality around the data
+39:03
+and the capabilities there's new revenue streams there we don't fully know what they all are we have to think about it
+39:09
+we have to be creative but I do think it will be both it will enable greater
+39:14
+efficiencies and capabilities and better plumbing both for ourselves and our customers and it will enable value added
+39:22
+products and services we just could never do in the past and and now we have that opportunity to to do it.
+39:27
+Well said. And Larry, I'll give you the final word today with my last question. So for those that are still on the edges
+39:33
+that are maybe monitoring or have not yet started to develop their strategy in this space, what is any kind of final
+39:40
+parting words of advice that you would? So for for any technology to to to get
+39:45
+implemented as a disruptive technology, you have to ask who benefits from it. And this is one of those technologies
+39:51
+that everyone benefits from it. Banks can benefit from it. Merchants can benefit from it. The end customer can benefit from it. Governments can benefit
+39:57
+from it. Like across the board there benefits. There's also obviously risks. Um as a financial institution,
+40:05
+you don't have to have a stable coin offering. You don't have to have a solution. You have to have had to
+40:10
+thought about it. You have to have a informed decision around it. Because if
+40:16
+your board, your investors ask you why or why you didn't do something with the
+40:21
+stable coins in two years from now, you better have an answer. Um because it may be dependent on whether or not you're
+40:27
+still in business. So, you know, think about that. This is transformative technology. This is a new faster payment
+40:34
+rail. This is something that around the world is driving huge value and huge amounts of money movement. A lot of that
+40:41
+still associated with crypto, but probably $10 trillion of it associated with true payment activity. Most of that
+40:47
+B2B, most of that cross borders, but $10 trillion in growing is nothing to sneeze at.
+40:53
+Thank you both for being here and thank you all in the audience for your great questions. We'll be following up with those after the session because I know
+40:59
+we did run out of time and a couple of us will be hanging around after. Thank you so much. Thank you.
+

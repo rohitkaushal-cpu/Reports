@@ -1,0 +1,1539 @@
+0:00
+Welcome back to IMF World Bank Week at
+0:01
+the Atlantic Council. I'm Josh Lipsky,
+0:03
+chair of international economics at the
+0:05
+council, and we are thrilled to be
+0:06
+hosting today's station on stable coins,
+0:09
+tokenization, and what will come next in
+0:12
+the future of digital asset. And I am
+0:14
+joined by Fire Sherzad, chief policy
+0:16
+officer, Coinbase, Tiffany Smith,
+0:18
+partner at Wilmer Herald. Tiffany, fire,
+0:20
+thanks for joining us today.
+0:21
+Thanks for having me.
+0:22
+Thanks, Josh.
+0:23
+So, fire, let me start with you. Yeah,
+0:25
+and we're debating clarity. We've talked
+0:26
+about clarity a lot this week, both in
+0:28
+private and public sessions. I want to
+0:30
+look past clarity a little bit, assuming
+0:32
+we get legislation at some point. What's
+0:34
+the next chapter? What needs to happen
+0:36
+both here in the US and around the world
+0:38
+to ensure the safe, stable, and
+0:41
+innovation continues to flow on digital
+0:43
+assets?
+0:44
+Yeah, so the US story is a story of
+0:46
+basically four chapters. Um, two of
+0:48
+which are actually being written as we
+0:49
+speak. One is the adoption of crypto as
+0:52
+a payment mechanism. So stable coins,
+0:54
+the Genius Act passed by Congress last
+0:56
+year, landmark historic piece of
+0:58
+legislation, it's being implemented as
+1:00
+we speak. So that's huge. It settles the
+1:02
+question of what the settlement layer
+1:04
+will be to settle onchain transactions.
+1:07
+Um the second part of it is the crypto
+1:08
+markets themselves. What what's the
+1:10
+regulatory framework around that? And I
+1:12
+think that is uh what's working through
+1:14
+the Senate at the moment uh to get
+1:16
+market structure legislation. The third
+1:17
+part of it is the tokenization of
+1:20
+broader financial assets. And that over
+1:23
+the next week or two, you'll actually
+1:24
+see the SEC making a major announcement,
+1:26
+but it'll follow a series of
+1:28
+announcements that the CFDC and SEC have
+1:30
+already made encouraging the
+1:31
+tokenization of the of those markets.
+1:34
+And then the last chapter will be the
+1:35
+tokenization of real world assets. And
+1:38
+the legislation that we're going through
+1:39
+right now helps establish what we call
+1:42
+the taxonomy of digital assets. In other
+1:45
+words, which regulator under which
+1:46
+circumstances regulates which token? And
+1:49
+once that's settled definitively in the
+1:52
+American system legislatively, it'll
+1:54
+unlock um developer activity to be able
+1:56
+to build those financial assets, those
+1:58
+real world assets and then the US will
+2:01
+do a fast I'm sorry, the rest of the
+2:02
+world will do a fast follow based on
+2:04
+what the US has done.
+2:05
+Okay. So that's an optimistic view of
+2:07
+what can happen. Tiffany, I want to turn
+2:09
+to you on this financial markets point
+2:11
+that fire brought up. I've heard that a
+2:12
+lot this week talking to finance
+2:13
+ministers. We had the ECB's Pier
+2:15
+Chipalone and he's talking about the
+2:16
+Euro area's goals on tokenization of
+2:18
+financial markets. What are the
+2:20
+regulatory hurdles to get there? Because
+2:22
+now we're moving outside of assets into
+2:24
+the broader financial system.
+2:26
+Yeah. So, so the regulatory hurdles um
+2:28
+are really just actually having clear
+2:30
+legislation and so we have it when it
+2:32
+comes to payment stable coins. We don't
+2:34
+have market structure yet, right? And so
+2:36
+the way that legislation works in the US
+2:38
+is once you actually have a law signed
+2:40
+in to signed into law, then you actually
+2:42
+need to go to the rulem phase. And
+2:44
+that's when you start to see all of the
+2:46
+implementation challenges. And so with
+2:48
+the Genius Act, which actually has been
+2:50
+signed into law, there's over 12
+2:52
+different rulemakings that the banking
+2:54
+agencies have put out there. And then
+2:56
+you're going to start to see comments
+2:57
+and feedback as to how to actually
+2:59
+implement the regulations. And so once
+3:02
+we get to that phase, you're going to
+3:03
+start to see what the where the pain
+3:05
+points are and then and then we can
+3:07
+actually implement it and have the
+3:08
+regulations and then the rest of the
+3:10
+world can kind of follow the standards
+3:11
+that the US has led.
+3:12
+And you co-chair the blockchain and
+3:14
+cryptocurrency working group at Wilmer.
+3:16
+What has changed in that space over the
+3:18
+past few years? I imagine that was a
+3:19
+role that didn't exist 5 years ago.
+3:21
+So it existed uh believe it or not. Um
+3:24
+we have more of a more of a a larger
+3:26
+role I would say now. And so the past
+3:28
+couple of years we were really focused
+3:29
+on enforcement actions. A lot of our
+3:31
+clients were subject to enforcement
+3:33
+actions to litigation both at the
+3:35
+federal and state level. And since
+3:37
+there's been a change of administration,
+3:39
+really focusing on the regulatory part
+3:40
+of it. So it's talking to the SEC, the
+3:42
+crypto task force, talking to other
+3:44
+regulators about what it looks like to
+3:46
+have onchain markets and regulatory
+3:48
+clarity. And as a result, we've seen a
+3:50
+lot of our clients who were before uh
+3:53
+creating US uh uh non- US affiliates or
+3:56
+even um uh um purchasing non- US
+4:00
+companies sort of coming back to the US
+4:02
+and really investing here because of the
+4:04
+regatory clarity.
+4:05
+So fire, we've hosted you here before.
+4:07
+I'm curious your view so far. We're
+4:09
+toward the end of the week bank week.
+4:11
+the tone of the meeting when it comes to
+4:13
+cryptocurrency, digital assets, how it
+4:15
+varies or different from past meetings
+4:17
+and the conversations you've been having
+4:19
+both privately and publicly.
+4:20
+I mean, Josh, you know this better than
+4:22
+anyone. If you look back at the last
+4:23
+several uh annual meetings and spring
+4:25
+meetings, the discussion was what is
+4:26
+tokenization and why does it matter? I
+4:29
+think my takeaway from this week has
+4:31
+been um the question of tokenization of
+4:33
+payments and the tokenization of assets
+4:36
+is now settled. people understand that
+4:38
+it's a better, more effective, more
+4:39
+efficient way uh to hold, record and
+4:42
+transfer value in the financial system.
+4:45
+Um the hard question which I which is
+4:48
+not yet sort of front of mind for a lot
+4:50
+of the officials here but but I suspect
+4:52
+will be a big topic of discussion and
+4:54
+maybe some angst in the annual meetings
+4:56
+u in October will be once we've
+4:59
+tokenized these financial assets what's
+5:02
+the role of the traditional financial
+5:03
+intermediaries in intermediating the
+5:06
+transfer of those assets our financial
+5:08
+systems predicated on the fact that
+5:11
+technology required us to have a broker
+5:13
+a clearing house um a transfer agent, a
+5:16
+bank, all those sorts of things. Many of
+5:18
+those activities, including the
+5:20
+regulatory and compliance elements of
+5:22
+it, can be embedded into smart contracts
+5:24
+and you can essentially have a much more
+5:27
+democratized system where we can trade
+5:28
+peer-to-peer. That is going to really be
+5:31
+a a mindbender. And so, should we
+5:33
+tokenize? I think the global answer is
+5:35
+yes, and it's just a matter of how we
+5:36
+get there. Do we then allow people to
+5:39
+have democratized ability to hold and
+5:41
+move value? That's the issue on the
+5:43
+table. I don't think many of the people
+5:45
+here have really thought that through
+5:46
+yet, but but folks like Tiffany are
+5:48
+working on sort of the hard questions
+5:50
+that come up um as you figure out how to
+5:53
+adapt the new technology to the old
+5:55
+framework. But I think the policy makers
+5:57
+will catch up and realize that's the
+5:58
+issue in front of them.
+5:59
+I think you've given us a good topic for
+6:01
+our session in Bangkok where I hope you
+6:02
+both will come and I agree with you
+6:04
+that's coming down the pipe. You can see
+6:05
+it bubbling but it hasn't quite got to
+6:07
+that point yet.
+6:08
+I want to ask you the domestic versus
+6:10
+the international. People want to
+6:11
+tokenize their financial markets within
+6:13
+their country system, whatever
+6:15
+regulatory bodies they have. Yeah. Is
+6:17
+there enough thought at this point about
+6:18
+how that will work crossborder because
+6:20
+that seems to be to be key if we're
+6:22
+really going to unlock potential here.
+6:25
+Yeah. Look, I I think our our
+6:26
+perspective at Coinbase that there
+6:28
+should be um partnerships, task forces,
+6:31
+dialogues on a crossber basis between
+6:33
+governments. One that we were very
+6:35
+supportive of was the USUK partnership
+6:37
+um which um which I think is really one
+6:40
+of the really most important ones
+6:41
+because two big financial centers, two
+6:43
+big important currencies, two big rule
+6:46
+of law jurisdictions with high-end
+6:48
+regulators, much of the US story should
+6:50
+be the UK story and vice versa. So I
+6:53
+think that will work well. Some of this
+6:54
+is actually going to be harder like the
+6:56
+internet made the ability of people to
+6:58
+move data um less controlled. The
+7:02
+ability to move value will will change
+7:04
+the sort of the paradigm will change
+7:06
+somewhat and it'll become harder. So
+7:08
+there are obvious questions like that
+7:10
+will come up like for example is there
+7:12
+any reason why we shouldn't allow global
+7:14
+investors to access investments in the
+7:17
+US market bring more investment capital
+7:19
+into the US
+7:20
+conversely for countries that are trying
+7:21
+to develop their markets the EU UK more
+7:25
+emerging economies
+7:26
+uh they'll want to do the same the
+7:28
+technology with the embedded smart
+7:30
+contracts with the embedded compliance
+7:31
+controls can allow you to do that allow
+7:34
+investment capital to move more freely
+7:36
+across uh border
+7:38
+Uh but policy makers have to kind of get
+7:40
+their arms around it.
+7:41
+And Tiffany, that brings up the
+7:42
+regulatory questions because as hard as
+7:44
+the domestic regulations are, these
+7:46
+crossber international standards as
+7:48
+we've seen in traditional banking, we're
+7:50
+on Basel 3 now and all everything that
+7:52
+goes around it. How do you think about
+7:54
+that from your perspective?
+7:55
+Yeah, it so it's it's difficult. I I
+7:57
+think um in the US at least, you know,
+8:00
+the SEC other regulators have
+8:01
+acknowledged that the goal is
+8:02
+harmonization. when it comes to crypto,
+8:05
+you have a truly global market. And so
+8:07
+for for the first time, you have the
+8:08
+same exact asset that can trade in the
+8:10
+US that can trade globally. And so
+8:12
+they're thinking about it, but sort of
+8:14
+because of the fact that we don't have
+8:15
+clear regulation here. It's kind of hard
+8:18
+to develop a universal global standard
+8:20
+when we're still trying to figure out
+8:21
+the standards here in the US,
+8:23
+right? And that's where I feel that we
+8:25
+want to do work across the G20 this
+8:26
+year. We have the US G20. We've all been
+8:28
+working on these issues. They had
+8:30
+meetings yesterday right below us on
+8:31
+that. And then the UK has the G20 next.
+8:34
+So there's opportunity potentially for
+8:35
+some continuity fire. To your point,
+8:38
+let's go back to stable coins. You know,
+8:40
+six months ago, we were sitting here, we
+8:41
+were talking about stable coins. We're
+8:43
+nine or 10 months into genius at this
+8:45
+point. Obviously early days, but F, your
+8:48
+perspective, how do you think it's
+8:50
+working? What's left to do on
+8:51
+implementation?
+8:53
+Uh uh well, Tiffany said it well.
+8:54
+There's a number of rulemakings that are
+8:56
+already in flight. We we're obviously
+8:58
+waiting to see those settle out. Yeah.
+8:59
+So that we can have a framework under
+9:01
+which people can issue compliant stable
+9:03
+coins.
+9:04
+But I think the metric that I uh I often
+9:08
+cite is that there have been at at
+9:10
+minimum about 200 stable coin projects
+9:12
+announced since Genius was signed into
+9:14
+law.
+9:15
+And for sure crypto companies have been
+9:17
+involved in that. All the largest
+9:18
+payment processors, Visa, uh, Stripe,
+9:22
+um, all the big banks are involved in in
+9:24
+this, corporates, um, the adoption is
+9:29
+big, broad, and and comprehensive and,
+9:33
+um, and I think we'll see adoption
+9:35
+across the board. Uh, you know, in
+9:38
+different ways. The most obvious use
+9:40
+case for stable coins is crossber
+9:41
+transfers because they're particularly
+9:43
+slow, expensive, and cumbersome. uh but
+9:46
+I think it'll start getting integrated
+9:48
+not just only um into um uh domestic
+9:52
+corporate transfers but then also uh
+9:54
+capital markets activity. So the CFTC
+9:56
+has already um said that you can use
+9:58
+stable coins for certain um as a cash
+10:01
+collateral equivalent for certain
+10:03
+derivatives transactions. I think that
+10:05
+will sort of build on itself and it'll
+10:08
+become fully integrated into our system.
+10:10
+And Tiffany, how do you see the rules
+10:11
+around stable coins in other
+10:12
+jurisdictions outside the US? And I'm
+10:14
+thinking specifically in the EU at this
+10:16
+point. We've heard a lot about that this
+10:18
+week. EU, there's been some concerns
+10:20
+about stable coins. I think they've been
+10:21
+more vocal about them this week.
+10:23
+Yeah. I mean, the the the the UK
+10:25
+regulations tend to focus on keeping
+10:27
+their their issuers within the the UK,
+10:29
+whereas Genius kind of enables a way for
+10:32
+non US stable coin issuers to actually
+10:34
+have their stable coins in the US. So,
+10:35
+it's totally different models. Um, but I
+10:38
+think as we have like, you know, more
+10:40
+growth and more countries come in line
+10:42
+because if we're talking about global
+10:44
+asset, it's kind of like it's going to
+10:45
+be behind every country to figure out
+10:48
+how to have standards that will allow
+10:51
+stable coins and other types of onchain
+10:53
+assets to kind of flow in and out and
+10:55
+figure out how to do it in a way that's
+10:57
+consistent with their their GDP and
+10:59
+other goals of the country.
+11:00
+And when it comes to Mika, you know,
+11:02
+this is what we've heard a lot this
+11:04
+week. Yes, you're debating clarity. you
+11:05
+want to have market structure. Uh but
+11:07
+the Europeans say we have our bill and
+11:09
+you're going to pass this and then tell
+11:11
+us to align with you and as you both
+11:12
+know who do a lot of work in Europe, uh
+11:14
+Europe views things sometimes in the
+11:16
+opposite direction. So Tiffany, maybe
+11:18
+I'll start with you on how you see Mika
+11:20
+and potential alignment with clarity and
+11:22
+then fire to you.
+11:23
+Yeah, I I I think it's challenging at
+11:25
+this point. I I think that we actually
+11:27
+need to have clarity pass to understand
+11:29
+what our standards are and then once we
+11:31
+actually have that we go to the
+11:32
+implementation phase and then I think
+11:34
+we'll be in a better position to figure
+11:36
+out what the pain points are and where
+11:38
+it makes sense to harmonize and maybe we
+11:40
+can get to glo more of a global standard
+11:42
+but it's sort of hard for us to be the
+11:44
+leader in a space where we don't have
+11:46
+clear guidelines here
+11:47
+and how do you see it from your end when
+11:49
+you discuss with European counterparts
+11:51
+well because two things one is the um
+11:54
+the regulation of crypto intermediate
+11:56
+Aries, it was actually quite a good
+11:57
+framework and they beat the US in in
+12:00
+implementing it. So, you know, a lot of
+12:01
+credit for the Europeans, particularly
+12:03
+the staff at the European Commission who
+12:05
+were very thoughtful on this issue and
+12:06
+developed a really good framework that
+12:07
+they were able to shepherd through their
+12:09
+process and and finalize the stable coin
+12:12
+framework. Um, reflects some unease in
+12:16
+the European system about the role of
+12:18
+stable coins relative to um uh a digital
+12:21
+euro that the European Central Bank is
+12:23
+hoping to issue. And at the moment you
+12:26
+have a number of banks in the U in
+12:28
+Europe who are coming together and have
+12:30
+announced that they're working on
+12:31
+various um stable coin projects. We'll
+12:34
+see how those um scale and take off.
+12:37
+They're elements of their model that uh
+12:39
+that I think probably over time will
+12:41
+require some reassessment. Um but it's
+12:44
+good to see projects come live and then
+12:46
+policy makers begin to get a real
+12:47
+feedback loop on whether the rules work
+12:49
+or not. Yeah, I asked Pierre Tripolone
+12:51
+about that this week and I asked him,
+12:52
+could you give me a real life use case
+12:54
+for the digital euro if it launches in
+12:56
+2029? Take me through and he gave me an
+12:58
+example of someone in Spain who buys
+13:00
+milk and it was a good example. It
+13:01
+brought it to life because sometimes we
+13:02
+talk about this so theoretically and you
+13:04
+lose the well what is my use case as a
+13:06
+person who may or may not want to use
+13:08
+this asset [clears throat] but I agree
+13:10
+you know Europe is going to have to
+13:11
+figure out integration and then we're
+13:12
+going to have to work together on these
+13:14
+issues. I want to go back to tokization
+13:16
+of financial markets. Could you explain
+13:19
+what the opportunity here is and how
+13:21
+it's different from regulation of
+13:22
+financial markets today? Because when I
+13:24
+talk to folks about it, there's
+13:26
+obviously an unlocking of capital that
+13:28
+can come with tokenization of financial
+13:29
+markets, but there's some concerns about
+13:31
+all the real time trading that can
+13:33
+happen in financial markets, which is
+13:35
+not really how regulations around the
+13:36
+system are built today.
+13:38
+Yeah. So, I think so it's an
+13:39
+opportunity. I think putting aside
+13:41
+tokenization, there's all traditional
+13:44
+marketers are trying to go online 24/7.
+13:46
+Right.
+13:47
+Right. And so even with that, there's
+13:49
+going to be challenges that have to be
+13:50
+dealt with. And so I think people should
+13:52
+think of tokenization of a way to get to
+13:54
+true financial inclusion, a way to have
+13:57
+broader, more global capital markets,
+14:00
+create products, innovative products.
+14:01
+Like for example, now you can use your
+14:03
+your Bitcoin as collateral for your down
+14:05
+payment to get a mortgage, right? With
+14:07
+true onchain markets, you have new
+14:09
+products, new services. You're able to
+14:11
+to fractionalize. And so if we think
+14:13
+about the benefits and kind of lead with
+14:15
+that, then we can figure out the risk.
+14:17
+But we need to be honest about the fact
+14:18
+that markets, traditional markets are
+14:21
+also changing and this is an opportunity
+14:23
+as chair Atkins at the SEC has said to
+14:25
+actually modernize our current markets
+14:27
+and if you think about it through that
+14:28
+broader lens, I think we can deal with
+14:30
+whatever whatever issues come into play.
+14:32
+So fire, let's talk geopolitics a little
+14:34
+bit. This is the Atlantic Council. We'd
+14:36
+like to talk geopolitics and finance
+14:38
+together. This is not just about
+14:40
+tokenization of US financial markets.
+14:42
+It's also about the dollar and the
+14:43
+future of the dollar and I think the
+14:44
+administration's been very clear about
+14:46
+that. What do you see as challenges to
+14:48
+the dollar and what do you see as the
+14:49
+opportunities of doing some of this work
+14:51
+on tokenization as potentially being
+14:53
+beneficial to the dollar?
+14:55
+Well, for the US there's two issues. One
+14:56
+is there about $300 billion of stable
+14:58
+coins in circulation. 220 billion of
+15:01
+which are issued outside the US. So 300
+15:04
+billion dollars of US dollar stable
+15:05
+coins um 70 plus percent or whatever are
+15:09
+issued outside the United States outside
+15:11
+of US oversight not subject to the
+15:13
+Genius Act and all the rigors and audits
+15:15
+and redemption rules. And so that's a
+15:18
+real issue that US policy makers have
+15:20
+tried to confront with the Genius Act,
+15:22
+but we'll see how it plays out whether
+15:23
+the Genius Act does actually onshore a
+15:26
+dollar market that's now largely an
+15:28
+offshore market. Um the second issue is
+15:31
+the competition between the dollar and
+15:33
+other currencies. The dollar stable
+15:35
+coins are 98 plus% of stable coins at
+15:38
+the at the moment. Um but other
+15:42
+currencies want to compete as as you and
+15:44
+I uh both observe the people's bank of
+15:46
+China announced six weeks ago, eight
+15:48
+weeks ago that they're going to start
+15:49
+paying interest in yield on the remnant
+15:53
+uh CBDC. perfectly timed because we're
+15:55
+having some legislative deliberations
+15:57
+around this issue and and so other
+16:00
+countries are going to step up to the
+16:01
+challenge. They'll step up in part by
+16:03
+trying to promote dollar issuance in
+16:07
+their jurisdiction. So Hong Kong,
+16:08
+Singapore, UAE, others have set up
+16:10
+regulatory frameworks to maintain an
+16:13
+offshore US dollar stable coin uh
+16:15
+issuance uh market and then other
+16:18
+currencies want to provide an
+16:19
+alternative. And you've seen now uh
+16:21
+China together with Russia with the UAE
+16:24
+and some other economies have come
+16:26
+together to create uh cryptobased or
+16:29
+stable coin based uh crossber exchange
+16:32
+rails.
+16:33
+Um and that has geopolitical
+16:36
+significance because if the dollar is
+16:37
+not and the US um financial rails are
+16:40
+not the default uh transmission
+16:42
+mechanism for global FX movements uh
+16:45
+that has real significance in terms of
+16:47
+the ability of the US project power
+16:48
+through sanctions and what have you.
+16:49
+Yeah, exactly. One thing we often say at
+16:51
+the Atlantic Council is we shouldn't
+16:52
+just sort of wag our finger at countries
+16:54
+who are pursuing alternatives. We should
+16:56
+build the best financial systems through
+16:57
+the best technology and make countries
+16:59
+want to be part of that system instead
+17:01
+of a coercive way. Let's talk tokenized
+17:04
+deposits, Tiffany. You know, we've had
+17:05
+this debate a couple times with central
+17:07
+bankers over the week. I it seems, you
+17:10
+know, this stable coin tokenized
+17:12
+deposit. I'm curious different
+17:13
+regulatory provisions. One thing that
+17:15
+was said to me when I had this debate
+17:16
+with someone earlier was one is actual
+17:18
+and one is theoretical and so you can't
+17:20
+actually compare these apples to apples.
+17:22
+But I wonder how you see the two.
+17:25
+I mean I see them as being uh distinct,
+17:27
+right? Tokenized and deposits are issued
+17:29
+by a bank and most of the time you're
+17:31
+talking about their current client base
+17:33
+and it's sort of limited in that way. Um
+17:36
+when it's talking about stable coins,
+17:37
+you have a global reach. I view it as a
+17:39
+different use case and having the
+17:40
+ability to to touch and give people
+17:43
+access to the dollar or other hard
+17:44
+currencies they don't have access to.
+17:46
+And so I think we're in a a place where
+17:48
+they can both exist and that's why you
+17:50
+see instances of banks having both
+17:52
+tokenized deposits and stable coins. And
+17:54
+I think market demand is going to
+17:56
+ultimately drive which one fails fails
+17:58
+or succeeds. But it could be a case
+18:00
+where we have both because they're
+18:01
+different use cases.
+18:02
+And how does that work internationally?
+18:04
+If I when you think about this work and
+18:06
+the work you do, you're going to have
+18:07
+just different optionality for customers
+18:09
+depending on
+18:10
+I think that's healthy. I mean there'll
+18:11
+be a diversity of options that uh will
+18:13
+be available in different markets. Uh
+18:16
+tokenized deposits, tokenized money
+18:18
+market funds, um stable coins plus CBDC.
+18:21
+So those are the four potential payment
+18:24
+mechanisms. The stable coins are the
+18:26
+most um nimble, versatile, programmable,
+18:30
+uh universal of the option set. Uh but
+18:33
+there's room for tokenized deposits for
+18:35
+sure, tokenized money market funds and
+18:37
+and so on.
+18:38
+I mean one interesting dynamic that
+18:39
+you've you you you've observed and you
+18:41
+know well is a commerce will be um occur
+18:46
+with stable coins as the payment
+18:47
+mechanism. And so we're quite proud at
+18:49
+Coinbase have developed a a special
+18:51
+protocol that allows every website uh to
+18:54
+be able to communicate with a with an AI
+18:56
+agent. Interesting. and they can
+18:58
+potentially um uh essentially obscure
+19:02
+their access to the website unless
+19:04
+there's a payment from the agent to
+19:07
+access the website which then deals with
+19:09
+some of this monetization kind of
+19:11
+quandry that's been existed in the
+19:13
+internet and so uh this X42 protocol
+19:16
+which we've now um brought in some
+19:19
+partners like Stripe and and Cloudflare
+19:22
+to put into an indep you know sort of a
+19:24
+independent foundation so that it
+19:26
+becomes truly a part the internet
+19:28
+infrastructure is a is the first
+19:30
+gigantic step towards agentic payments.
+19:32
+The Gentic payments will be executed off
+19:34
+of stable coins because they're
+19:35
+frictionless, universal, um, and low low
+19:39
+processing fees. Uh, and you know, the
+19:42
+other instruments will have a harder
+19:43
+time being a part of that, but all of
+19:44
+them have a will have a use case.
+19:46
+I'm really glad you raised the Gentic
+19:48
+Payments, and this has come up in
+19:49
+several sessions. Tiffany, it te up a
+19:51
+perfect question for you which is we're
+19:52
+just trying to catch up on market
+19:54
+structure and we're not there yet and
+19:56
+now we're thinking about this next phase
+19:57
+on agentic payments. What does
+19:59
+regulation need to look like in that
+20:01
+field?
+20:02
+I mean I think it needs to be technology
+20:04
+neutral and it needs to be flexible
+20:06
+right and I think sort of like when
+20:08
+we're thinking about the financial
+20:10
+markets generally and the regulation
+20:11
+generally and bringing markets onchain
+20:13
+we need to make sure that we're thinking
+20:14
+about both what happens today as well as
+20:17
+what's going to happen down the line.
+20:19
+And so once we get past the legislation,
+20:21
+we get into this rule making phase. Um
+20:23
+that's really important for for
+20:25
+companies and other people to comment
+20:27
+and provide feedback to make sure that
+20:29
+we're not solely focused on today. But
+20:31
+we're thinking about agentic payments
+20:32
+and whatever is coming next.
+20:34
+So two more questions in the limited
+20:36
+time we have remaining. Fire, let me
+20:38
+start with you. We've had a lot of
+20:39
+conversations on sanctions, elicit
+20:41
+finance. How do you think about this in
+20:43
+the digital asset space? I think you
+20:45
+know we are sort of in the bastion of
+20:47
+guardrails of the global economy IMF
+20:49
+World Bank smallc conservative how they
+20:51
+think about these issues it's been an
+20:53
+evolution over years but obviously
+20:55
+that's a conversation that they want to
+20:56
+have in understanding the safety of the
+20:58
+system. Yeah, look, it's a really
+21:00
+important question. If you talk to um
+21:02
+kind of line prosecutors, they'll tell
+21:03
+you there huge advantages to illicit
+21:06
+activity that occurs on the blockchain
+21:08
+as far as law enforcement is concerned
+21:10
+because the records of the transactions
+21:11
+are public, they're immutable, they
+21:14
+can't be destroyed, and uh for law
+21:16
+enforcement, it takes so many of the
+21:18
+frictions out for them to be able to
+21:20
+trace the movement of illicit funds. So
+21:22
+there's a discoverability dimension to
+21:25
+blockchainbased
+21:27
+uh transaction that has uh has
+21:30
+advantages for law enforcement and a
+21:32
+huge disadvantages for for bad actors
+21:34
+and that's why companies like ours work
+21:36
+with um law enforcement in the US and
+21:39
+internationally using our blockchain
+21:41
+analytics so that when there is an
+21:42
+illicit activity we can help them
+21:44
+through through our blockchain analytics
+21:46
+be able to determine potentially who's
+21:48
+the sending wallet, who's the receiving
+21:49
+wallet and and kind of be able to make
+21:52
+sure they get to the bad guys. You can
+21:54
+also embed into smart contracts whether
+21:57
+it's for for tokenized capital market
+21:58
+activity or what have you u sanction
+22:01
+screens. So so for example you have a
+22:03
+wallet that's associated with a
+22:04
+sanctioned entity or indivi or um
+22:06
+jurisdiction uh um the smart contract
+22:09
+can be pre-programmed to prevent access
+22:11
+to it. And then you also have a
+22:13
+situation where um if you have an
+22:15
+illicit actor that has access to a USDC
+22:18
+or or a or a stable coin um you know um
+22:23
+uh law enforcement can go to the issuer
+22:24
+and have the have the token actually
+22:26
+shut off. So there's a menu of things
+22:28
+that are a different approach to law
+22:30
+enforcement uh the transparency and the
+22:33
+and the and the follow-up capabilities
+22:36
+that are really interesting. And so
+22:38
+there's a new opportunity in terms of
+22:40
+rooting out elicit finance. But policy
+22:41
+makers have to kind of change the old
+22:43
+sort of framework that they brought
+22:44
+brought to it which was putting pressure
+22:46
+on the intermediaries to surveil
+22:48
+customer transactions and then
+22:50
+sanctioning or imposing fines on them
+22:52
+when they when they inevitably fail or
+22:55
+to build a new paradigm and we want them
+22:56
+to build a new paradigm.
+22:58
+Tiffany I mean to fire's point that's
+23:00
+how regulations and policy makers and
+23:02
+oversight were built to do things
+23:03
+exactly the way he said. Have they
+23:05
+adapted? Are they adapting to understand
+23:08
+everything fire is saying about the
+23:09
+potential and the tools? Do they know
+23:11
+how to do this inside of government to
+23:13
+screen appropriately with the new
+23:14
+technology?
+23:15
+I think they're in process like right we
+23:17
+we know but with respect to some of the
+23:19
+data analytics programs like they have
+23:21
+certain tools that are only available to
+23:23
+the government and certain tools that
+23:24
+are public. So we know that the tools
+23:26
+are there. I think they're getting up to
+23:27
+speed on their available on their
+23:29
+availability. But I think having
+23:31
+engagement and and allowing even with
+23:33
+this rulemaking phase allowing people to
+23:35
+comment, right? I think it's critically
+23:37
+important. And I think generally when it
+23:38
+comes to AML regulation and privacy
+23:41
+concerns, like we're at a we're in a new
+23:42
+chapter and we're actually looking at
+23:45
+revising those rules and thinking about
+23:47
+what makes sense in this new paradigm.
+23:49
+And so we're not quite there, but I
+23:50
+think I have heard of some healthy
+23:52
+discussions that are taking place.
+23:53
+Okay. So final question, we like to do
+23:55
+this. What's the benchmark for success?
+23:57
+Fire. A year ago, we had you. I went
+23:59
+back to the vide tape here like Tim
+24:00
+Russert used to do. You said we need to
+24:02
+pass the Genius Act in the United
+24:04
+States. So well done. Uh you called it.
+24:06
+What do we need to do next time? We hope
+24:07
+to have you both in Thailand in 6
+24:09
+months. What do you want to see 6 months
+24:10
+from now?
+24:11
+It has a clarity act, the market
+24:13
+structure bill done. Yes.
+24:14
+And we need to um um see what the SEC
+24:17
+puts out with the innovation exemption
+24:18
+that's coming out in the next couple
+24:20
+weeks maybe. uh and uh hopefully it
+24:23
+matches the ambition that the pro
+24:24
+president laid out on the campaign trail
+24:26
+and chair Atkins has laid out in his
+24:28
+various speeches. So those two things
+24:30
+having them out and done would it was
+24:32
+going to be enormous.
+24:34
+Tiffany, what do you want to see?
+24:36
+I agree 100% but I think an indication
+24:38
+of those things happening is more
+24:40
+announcements about traditional
+24:41
+companies uh coming online coming
+24:43
+onchain as well as uh non- US companies
+24:46
+coming to the US. So I think those are
+24:48
+indisha of us doing the right thing and
+24:49
+really leading the way when it comes to
+24:51
+regulation.
+24:52
+Okay, Tiffany fire, thank you for being
+24:54
+with us. We'll check in in Thailand and
+24:56
+see how we're doing. So hope to see you
+24:58
+both there and thank you all for joining
+25:00
+us for this session. We're going to have
+25:01
+another session on digital assets later
+25:03
+today. We have upcoming sessions on AI
+25:05
+and then we'll wrap up the meetings at
+25:07
+4:30 with our macro takeaways. So stay
+25:10
+tuned for everything the Atlantic
+25:11
+Council is doing at atlanticconsil.org
+25:12
+or you can find our programming on our
+25:14
+app. And we wish you a pleasant rest of
+25:16
+the day.
+

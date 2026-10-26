@@ -1,0 +1,377 @@
+0:1010 secondsHeat. Heat.
+0:2020 seconds[music]
+0:3030 secondsHeat.
+0:4747 secondsHeat. Heat.
+1:101 minute, 10 secondsHeat.
+1:121 minute, 12 seconds[music]
+1:251 minute, 25 seconds[music]
+1:331 minute, 33 seconds[music]
+1:381 minute, 38 seconds[music]
+1:581 minute, 58 secondsGood morning, distinguished guests, ladies and gentlemen. Welcome to this fantastic panel on tokenization. I'm
+2:052 minutes, 5 secondsKaren show, anchor of Squawkbox Europe on CNBC.
+2:092 minutes, 9 secondsNow, just to remind you how we arrived at today. It was a few years back I was at a property conference in the city of London. I left the conference convinced
+2:182 minutes, 18 secondsthat just about every physical asset would be tokenized at some point would be buying a piece of the Shard, the Empire State Building. Pretty much any
+2:262 minutes, 26 secondspiece of real estate was up for some sort of fractional ownership. But talk went quiet, superseded by AI fever. But
+2:322 minutes, 32 secondsit's readily apparent in 2026 that there's been a ton of work happening in the backdrop. We've got banks, we've got
+2:402 minutes, 40 secondsasset managers, crypto players, other innovators have been quietly working on the innovation. And of course, the Trump family not so quietly storming to the
+2:482 minutes, 48 secondsspace promising to bring real estate assets onto the blockchain and to tokenize Trump properties this year.
+2:552 minutes, 55 secondsNow, is tokenization on the cusp of a breakout year in 2026? Is it the future of global finance? We have a terrific panel and just a reminder you can get
+3:033 minutes, 3 secondsinvolved on socials #WF20 uh 2026. So on the panel today we have
+3:113 minutes, 11 secondsjoining us Francois Veroy Daloo who's the governor of the central bank of France also ECB governing council member Bill Winters group chief executive
+3:203 minutes, 20 secondsstandard chartered bank also international business council Valerie Oane chief executive officer Euroclear Belgium Brian Armstrong co-founder and
+3:283 minutes, 28 secondschief executive officer Coinbase and Brad Garlinghouse who is the chief executive officer of Ripple. Thank you so much for joining us today.
+3:383 minutes, 38 secondsWell, Governor, I want to kick off the conversation exploring why we are here today talking about tokenization. France has the G7 presidency this year. You've
+3:473 minutes, 47 secondsput innovative finance on the agenda already talking about tokenization. Why?
+3:533 minutes, 53 secondsUh good morning Karen. Good morning to you all. Let me first stress that tokenization and stable coins might be the name of the game really this year.
+4:034 minutes, 3 secondsIf we had been in Davos one year ago, remember nobody spoke about stable coins and now it's very fashionable. I hope it
+4:114 minutes, 11 secondswill be still more important this year than Greenland, but we'll see. Uh, and let me stress that tokenization is for
+4:184 minutes, 18 secondsthe better. I really believe it will bring progress in global finance, delivery versus payments, uh, diminish of cost of financial transactions, etc.
+4:294 minutes, 29 secondsBy the way, we don't know yet how far the use cases will go. If if you look at the forecast for the volume of stable
+4:374 minutes, 37 secondscoins, including on the US market, the bracket is very wide. And it's interesting because at present the use cases are concentrated on the crypto
+4:464 minutes, 46 secondsexchanges and a bit cross border. I think it will come to domestic financial transactions very significant. Could it
+4:554 minutes, 55 secondscome to domestic quote unquote economic transaction including retail? The jury is still out but anyway it will develop
+5:025 minutes, 2 secondsand I think develop for the better. Z said there are threats and as I am a central banker let me insist a bit on at
+5:105 minutes, 10 secondsleast I gave a speech two weeks ago with a triangle of threats and a triangle of answer but let me sum up. The first
+5:175 minutes, 17 secondsthreat is privatization of money uh and loss of sovereignity for for many jurisdictions. And we know this is a
+5:255 minutes, 25 secondsreal fear especially in emerging countries. But uh if we have only a currency in the future which is private
+5:345 minutes, 34 secondsand let this be honest which is issued by American uh issuers, private companies then we will have a question
+5:425 minutes, 42 secondson sovereignity. Here's the answer is CBDC and let me be very brief on what we do in the European field because we are
+5:515 minutes, 51 secondspioneers there. Everybody is focused on the retail side and the so-called digital euro but I will insist more on
+5:585 minutes, 58 secondsthe wholesale side because as I said the most important use cases will be all sale on the financial here we develop a
+6:076 minutes, 7 secondswholesale CBDC and let me stress that the URI is completely pioneer we will have this year thanks to the so-called
+6:136 minutes, 13 secondspontest project a pilot wholesale CBDC first worldwide and then we will have a so-called API project more comprehensive
+6:226 minutes, 22 secondswith a European ledger or European network. But let me insist and I will stop there Karen. I don't want to be too
+6:296 minutes, 29 secondslong that we still need a two-tier monetary system with public central bank money which is the anchor but which also
+6:376 minutes, 37 secondsprivate tokenized currency in euros and not only in dollars and this is a
+6:446 minutes, 44 secondsquestion of stable coins in euros and or tokenized deposits. The jury is still
+6:516 minutes, 51 secondsout. It's up to European banks to to to develop and to choose. Uh we could have both of them stable coins in Euro and
+7:007 minutestokenized deposits in Euro bank deposit but if we have known of them I would be a bit worried about soity and what I say
+7:097 minutes, 9 secondsfor the euro area is still more important as I stressed for many large emerging economies. Governor, a terrific
+7:167 minutes, 16 secondsscene set and we'll circle back to some of those topics, but let's hear from Valerie next up because you're a clear part of the infrastructure in Europe.
+7:247 minutes, 24 secondsYou've been looking at pilots tokenizing Euro bonds, UK guilds, gold with partners. What is tokenization promise
+7:327 minutes, 32 secondsto achieve and how transformative do you think it will be?
+7:367 minutes, 36 secondsWell, I think tokenization is uh we we see that as an evolution of the financial market of the the financial
+7:427 minutes, 42 secondssecurities trans market in the sense that um with tokenization you will certainly be able to reach out to a
+7:517 minutes, 51 secondsbigger range of investors. You will give access to finance to many more people.
+7:567 minutes, 56 secondsSo when we talk about inclusion, financial inclusion tokenization definitely uh is is part of the game.
+8:038 minutes, 3 secondsBut I think it's also important for issuers because if indeed you start reducing the time to market, you start reducing the cost of issuing, I mean
+8:118 minutes, 11 secondsthat also it's a it's a benefit for for the for for for the for the issuer side.
+8:178 minutes, 17 secondsHaving said that um as you as governor was saying um the use cases um start coming. So I think we start seeing
+8:268 minutes, 26 secondsemergence of uh uh interest and and um and uh interest and volumes into into
+8:338 minutes, 33 secondsthe the digital assets especially on the on on the security side. I think um we have started an initiative with Bongo
+8:408 minutes, 40 secondsFrance to tokenize the commercial paper in France. I think for me it's a very interesting initiative because it is the
+8:488 minutes, 48 secondsfirst time that we are really trying to move a full market a full ecosystem on tokenization because today what is very
+8:558 minutes, 55 secondsdifficult is that you have issuers for example we are willing to uh issue digital assets but then the investors
+9:029 minutes, 2 secondsare not really coming on very fast you know so with this um uh project on the commercial paper it's it's 300 billion
+9:099 minutes, 9 secondsof euro so it's not small but it is small enough to make sure that we can all learn their lessons and see how we can transpose this initiative uh in a broader sense.
+9:199 minutes, 19 secondsBill, let me come to you. You're on the record as saying most transactions will be tokenized by 2028. Are we really two years out from sweeping moves towards
+9:279 minutes, 27 secondstokenization for transactions or was that too optimistic?
+9:309 minutes, 30 secondsI'm not sure I said 2028. I I definitely said that the the the end state is one where most things will settle in in digital form uh and you including real assets. Uh but not everything of course.
+9:429 minutes, 42 secondsUh but uh we're I think at a major inflection point right now. I'm not sure no one was talking about stable coins a year ago, but but clearly it's it's
+9:509 minutes, 50 secondsgathering momentum. Uh it's gathering momentum because we've made the leap in many many fronts between the the the crypto world where stable coins are
+9:589 minutes, 58 secondsabsolutely embedded and the trady or or traditional finance or or fiat world uh where stable coins and and related
+10:0610 minutes, 6 secondstokenized instruments are finding their way into the mainstream. Uh I would say so far it's in pilot form in many sandboxes. It's initiatives like the the
+10:1410 minutes, 14 secondswholesale euro CBDC. Uh you know there have been other earlier stages with with ECNY uh but not really using commercial
+10:2110 minutes, 21 secondstransactions uh the Chinese currency in the same way. Uh but this is this is the year when this is happening in scale and
+10:2810 minutes, 28 secondsuh I I I have no doubt no less conviction than I did a year ago that eventually all things will will settle
+10:3610 minutes, 36 secondsin digital digitized form. uh how we get there I don't know uh I we as a bank we're operating in in 60 countries on the ground another 60 that we that we
+10:4410 minutes, 44 secondsyou know deal in very actively and uh that means we've got 60 plus regulators with 60 different regulatory regimes so
+10:5310 minutes, 53 secondshow we get from point A to point B is will be heavily influenced by regulation uh but it doesn't change the direction of travel
+11:0011 minuteswe can pick up on the regulation point in a moment in the meantime Brian you are one of the the biggest advocates for tokenization in the room you've talked talked a lot on CNBC about the
+11:0911 minutes, 9 secondsinstitutional demand that is coming into the mix. What real world problem does tokenization solve and how does it promise to improve the future of finance?
+11:1811 minutes, 18 secondsYeah, well tokenization solves a lot of problems. I mean there's an efficiency aspect to it. You can have real-time settlement, lower fees, but maybe the
+11:2511 minutes, 25 secondsmost powerful part of it is just democratization of access to investment in highquality products. You know, a lot of people have heard about the unbanked.
+11:3411 minutes, 34 secondsThere's actually an unbrokered segment of the world as well. there's about 4 billion adults who don't have access or any ability to invest in highquality
+11:4111 minutes, 41 secondsassets like the US stock market or you know real estate or whatever. So what tokenization can do is it's just like uh
+11:4911 minutes, 49 secondsyou know you have an underlying unit of that asset you now have a token that's one to one representative of that the the first version of this was stable coins that's another version of
+11:5711 minutes, 57 secondstokenizations tok so stable coins have have been growing enormously we're now seeing that happen with uh US equities real estate it'll happen with corporate
+12:0612 minutes, 6 secondspaper um you know commodities like all all kinds of things will come on chain and this is just going to allow the people of the world to participate in
+12:1412 minutes, 14 secondsthis engine of wealth creation, which most of them don't have access to if they're only dependent on their labor uh for some source of income. So, it'll be
+12:2212 minutes, 22 secondsa great bo for capitalism. Uh it'll create more demand. When we when we speak with funds like at Black Rockck and Apollo, they've said, you know, they want to tokenize every single fund that
+12:3112 minutes, 31 secondsthey have and they just know that it'll increase demand for their products. So, Coinbase launched a product called Coinbase tokenize which is helping uh institutions do this and we're
+12:4012 minutes, 40 secondsincredibly bullish on it. If I can make one other point um just to build on what the central bank governor here said earlier um you know I do think that um
+12:4912 minutes, 49 secondsstable coins are going to play a major role. I think uh central bank digital currencies can also play a complimentary role and you know people think about our
+12:5812 minutes, 58 secondscurrent financial system as kind of sacrosanked and it's the only way to do it but you know if you study the history of money really it's got created in like
+13:0713 minutes, 7 seconds1971 when Nixon went off the gold standard in the US and we currently have the system where most central banks don't have any link to a hard commodity
+13:1413 minutes, 14 secondsunderneath. Um I think fiat currencies are going to continue to exist for a long time. Uh but we're also seeing the
+13:2113 minutes, 21 secondsbirth of a new monetary system that I would call the Bitcoin standard instead of the gold standard. And in the crypto
+13:2813 minutes, 28 secondsspace that is a return to um you know sound money and uh something that is inflation resistant because democracies
+13:3613 minutes, 36 secondsaround the world once we came off the gold standard are struggling to balance their budget. They're all running deficits and it's caused inflation in
+13:4413 minutes, 44 secondsfiat currencies. And so there is a real segment of the population that is looking for a new system based on hard money.
+13:5113 minutes, 51 secondsBrad, on that note, there are lots of sound bites there, lots to respond to.
+13:5413 minutes, 54 secondsYou've already seen the momentum. First up, tokenized assets on Ripple's XRP ledger surged over 2,200% last year.
+14:0214 minutes, 2 secondsJust weigh in from your perspective.
+14:0514 minutes, 5 secondsWell, I think I agree with a lot of what was said here. You know, I do think the the first poster child of tokenization is really stable coins. You saw as Brian
+14:1314 minutes, 13 secondsobserved you know massive growth last year I think you know uh went from in 2024 $19 trillion of transactions on stable coins last year and 2025 is 33
+14:2214 minutes, 22 secondstrillion so about 75% growth I think many in our industry would say that's going to continue I I think to the
+14:3014 minutes, 30 secondsextent there's space between uh what Brian was just talking about and how I think about the the Bitcoin idea at
+14:3714 minutes, 37 secondsBitcoin standard I I look at that and I I think it's much more of the marriage.
+14:4214 minutes, 42 secondsYou know, sovereignty of fiat currencies, I believe, is for many countries sacrianked. Uh Ben Bernanki spoke at a Ripple event many years ago
+14:5114 minutes, 51 secondsand he made the point that governments will roll tanks into the street before giving up monetary supply, giving up the control of monetary supply, which stuck
+14:5914 minutes, 59 secondswith me as yeah, that makes sense. And so at Ripple, we very much focused on building the bridges between traditional finance as Bill was describing, you
+15:0615 minutes, 6 secondsknow, what we now call tradi and decentralized finance. And that has meant working with a lot of the banks around the world to kind of build those
+15:1315 minutes, 13 secondsbridges. [snorts] Governor, you have to address this. Is the euro in danger from a Bitcoin standard?
+15:1915 minutes, 19 secondsNo, I am a bit skeptical, Brian. Sorry to say it about this idea of the Bitcoin standard.
+15:2615 minutes, 26 secondsWe left the gold standard. Uh but the gold was only a technical mean. What is important is what you say B that
+15:3415 minutes, 34 secondsmonetary policy and money is part of soity and we live in democracies and I think the public role is key
+15:4415 minutes, 44 secondsand if we lose that really you lose a key function of democracy. That said
+15:5115 minutes, 51 secondsI always keep repeating that money as long as it exists for centuries has been a public private partnership. You need a public anchor whatever its form is.
+16:0216 minutes, 2 secondsRemember in silver and gold were sovereign assets. So it was on the public side and then you had bank nodes and you will have CBDC.
+16:1216 minutes, 12 secondsBut anyway the most important part of payments is in the private sphere and this is the development of tokenized
+16:2016 minutes, 20 secondsprivate money. But this tokenized private money must be regulated to inspire trust, confidence and this is
+16:2816 minutes, 28 secondsanother danger we should treat that tokenization could develop uh if not
+16:3516 minutes, 35 secondssafe enough financial risk with the multiplication [clears throat] of stable coins which are very different very different which uh are fragmented.
+16:4516 minutes, 45 secondsThis is the issue bill you mentioned and so we must have safe enough regulation.
+16:5016 minutes, 50 secondsThis is Mika in the Eura. This is now genius in the US which is welcome. Uh
+16:5816 minutes, 58 secondsbecause if stable coins are not enough, we could have the risk of a somewhat Gresham slow you know this famous one
+17:0617 minutes, 6 secondsthat the bad currency is more used for transaction and the good currency which would be CBDC would be kept for store
+17:1417 minutes, 14 secondsvalues. So I think we are on the right track to to regulate. we could improve mika still more improve genius perhaps
+17:2117 minutes, 21 secondsand the question of compatibility you raised we discuss it in the BIS I happen to chair uh the BIS there is a so-cal
+17:2917 minutes, 29 secondsagura project uh and we will discuss it in the G7 in the French presidency but regulation is not the enemy of
+17:3717 minutes, 37 secondsinnovation once more it's a guarantee of trust it's fascinating that you say that Brian you mentioned a complimentary role that
+17:4517 minutes, 45 secondsyou could play is there a complimentary role in Europe when there's so much regulation and it is about the digital euro.
+17:5117 minutes, 51 secondsYeah, I actually think these these are very positive some. So crypto just broadly is a technology to update financial services. So it's going to help with stable coins and you know
+18:0018 minutestokenized equities and crypto assets and trading and by the way borrowing and lending is also getting updated. So I
+18:0618 minutes, 6 secondsthink that uh crypto is very good for fiat currencies. Um it's very good.
+18:1218 minutes, 12 secondsBitcoin is a good as a check and balance on deficit spending because when there is a lack of trust or people you know from like in a US context if people are worried about inflation or maybe in
+18:2118 minutes, 21 secondsplaces like Argentina or Turkey or Nigeria um they are going to flee to the thing that they believe is going to store value more. So um I think in
+18:2918 minutes, 29 secondsgeneral it's going to be very complimentary and like you said I think it comes down to trust and so if if uh fiat currencies can maintain trust and
+18:3818 minutes, 38 secondsnot have you know the money printer uh kind of debasing everybody um then they'll survive. But if they countries
+18:4618 minutes, 46 secondsthat you know have bad behavior on that dimension um Bitcoin doesn't have a money printer. The the supply is fixed and people will go to it in times of
+18:5418 minutes, 54 secondsuncertainty kind of like they did with gold. The the guarantee for trust is independence on central bank side and we have a common mandate and we are
+19:0219 minutes, 2 secondsaccountable to that but sorry to say that I trust more independent central banks with a democratic mandate than
+19:0919 minutes, 9 secondsprivate issuers of bitcoin which have a very useful role but bitcoin is a decentralized protocol
+19:1719 minutes, 17 secondsthere's actually no issuer of it so that's that's in the sense that central banks have independence bitcoin is even more independent there's no country or
+19:2419 minutes, 24 secondscompany or individual who controls it in the world. And so anyway, I I think it's a healthy competition because um uh
+19:3119 minutes, 31 secondsbecause if people can decide which one they trust more and I think it's actually the greatest accountability mechanism on deficit spending. Bill, come in.
+19:3919 minutes, 39 secondsYeah, I'd like to come back on the trust comic. We're talking about the trust in the instrument itself, which is key and uh obviously the trust and sovereignty
+19:4719 minutes, 47 secondsare two conflicting objectives and the the Bernanki tank point is is very real.
+19:5219 minutes, 52 secondsIt's very real. And I'm I'm sure he's right. I'm sure he's right today as well. But there's also trust in the infrastructure. So uh to for a monetary
+20:0020 minutessystem to be effective, you have to have the instruments that work and you have to have the pipes that work and the people who are custodians of the pipes and the people who are the custodians or
+20:0920 minutes, 9 secondsthe market that's a custodian of the instrument need to be trusted by the sovereign entities. Uh unless sovereigns are prepared to give up power and go to a completely decentralized world. But
+20:1820 minutes, 18 secondsthat's not the way it seems to be happening. And I think we'll probably hear about that later today as well uh in in a very different context. Uh so uh
+20:2420 minutes, 24 secondsyou know power matters uh when it comes to money. So uh the trusted entities in
+20:3120 minutes, 31 secondsthe financial system today are many but I'll put banks at the center of that mostly because we've been regulated to the point of extinction in some cases.
+20:3920 minutes, 39 secondsUh but you know we we've been we've been regulated aggressively uh on the back of of misdeeds. Uh so there is an there is
+20:4720 minutes, 47 secondsan embedded trust uh in the banking system which is why Senator Chartered has has been I say at the forefront of a few of these initiatives because we want
+20:5420 minutes, 54 secondsto parlay the the trust that we can bring we collectively as banks can bring to the system uh and lever these fantastically powerful new instruments in a complimentary way.
+21:0421 minutes, 4 secondsThere's an element of trust but there's also an element of momentum. We're seeing it in terms of the swing away to gold which is now just a momentum trade as trust has eroded. Brad, do you want
+21:1321 minutes, 13 secondsto come in on this in the element of trust?
+21:1521 minutes, 15 secondsWell, I certainly think momentum is a big part of this and I I think, you know, frankly, I personally think the crypto environment and stable coins
+21:2421 minutes, 24 secondsincluded, even tokenization, momentum is so much on our side of of that direction. And that's partly because you're seeing the US, the largest
+21:3221 minutes, 32 secondseconomy in the world, has been pretty openly hostile towards facets of crypto and blockchain technologies. And that
+21:4021 minutes, 40 secondshas shifted dramatically, you know, starting with the White House, but certainly, you know, the work that the industry based in the US has come together and helped elect a much more
+21:4821 minutes, 48 secondspro- crypto, pro-inovation uh Congress, and you're seeing that play out. So, I think momentum is a big part of this and
+21:5621 minutes, 56 secondsuh you know continuing to make sure that we're playing into that in a nice way but also demonstrating real results because look if this is just hype you
+22:0422 minutes, 4 secondsknow I think part of the tokenization topic the main topic today part of that is like we shouldn't tokenize everything just to tokenize something there has to be a positive outcome of efficiency or
+22:1422 minutes, 14 secondstransparency or you know some of the the root benefits of being tokenized otherwise it's just like okay it's nice science experiment I'm surprised no one's throwing
+22:2222 minutes, 22 secondsdemocratization of the market to me and that's typically the argument when when we have some sort of innovative approach to an asset class you want to come in on this and the
+22:3022 minutes, 30 secondsperspective that you have because today as we talk about real world assets there is a huge switch towards alternatives and you're looking at what that means in
+22:3822 minutes, 38 secondsterms of access to some of those products and and absolutely and frankly coming back on the point on trust we just
+22:4522 minutes, 45 secondswanted also to to bounce back on that um I think also as the the market mature I mean people are looking als also for you
+22:5322 minutes, 53 secondsknow um trusted uh party who can really um continue to bring um safety for for for the market but they're also looking
+23:0223 minutes, 2 secondsfor uh institutions which are bridging um different uh zones you know different uh um pools of of liquidity and this is
+23:1123 minutes, 11 secondswhere a financial market infrastructure starts playing a role because indeed we need to first see how the market is emerging but then when we are starting
+23:1823 minutes, 18 secondsto reach a certain level of maturity then indeed um having a financial market infrastructure which can allow interoperability
+23:2623 minutes, 26 secondsbetween different pools of liquidity but also with a traditional finance has a lot of value. And to come back on your point about alternatives, it is indeed
+23:3523 minutes, 35 secondsuh correct that the market is in search of um investment products which are meeting more their needs. Maybe
+23:4323 minutes, 43 secondssometimes traditional finance has not evolved sufficiently fast to really attract those investors and and and I do see as well tokenization but also
+23:5223 minutes, 52 secondsalternative to be a way to increase the um attractiveness of the European capital markets. uh typically we know that we have lots of European savers but
+24:0124 minutes, 1 secondnot investors and having instruments which are really addressing their questions in terms of uh um risk profile
+24:1024 minutes, 10 secondsbut also in terms of access uh ease and ease of access will certainly be good as well for the European capital market.
+24:1824 minutes, 18 secondsalternative tokenization, you know, um, as you were saying, complimentarity between the Bitcoin and the traditional finance. I think all of that, I think,
+24:2524 minutes, 25 secondsis is good for the growth of the financial markets.
+24:2824 minutes, 28 secondsThe attractiveness of the asset also in some parts comes down to yield. And it's funny, you know, gold's been so attractive, but doesn't pay a yield.
+24:3624 minutes, 36 secondsThere's a fight brewing state side around regulation. And I know Brian, you've had issues with the Clarity Act, and now it's stalled thanks to some of your opposition. You've been talking
+24:4424 minutes, 44 secondsabout whether there should be a reward paid for some of these tokenized assets almost like a dividend. Just explain that notion to us because the Chinese
+24:5324 minutes, 53 secondsare pushing ahead with a revamped yuan that pays some sort of a dividend. Why is it necessary in your view? Is it just pushing the agenda for Coinbase or is it good for consumers?
+25:0325 minutes, 3 secondsYeah, so the legislation in the US has been making good progress on market structure and I wouldn't say it's stalled. I'd say there's a good round of
+25:1125 minutes, 11 secondsnegotiation happening. Um, and so I think that that's positive. What we shared publicly was that we want to make sure any crypto legislation in the US
+25:1925 minutes, 19 secondsdoes not um, ban competition uh, for tra traditional financial services, banks or traditional uh, securities brokerages.
+25:2725 minutes, 27 secondsAnd in our reading of the draft, that's what it did. It actually unfairly penalized uh, crypto companies. We think they should be able to compete on a level playing field. And when there's
+25:3525 minutes, 35 secondscompetition, that's how uh, you know, the consumer benefits. And I think there's very forward thinking bank CEOs like Bill Winters and and others that
+25:4225 minutes, 42 secondshave just really been leaning into this as an opportunity. They recognize change is you can think of it as a threat or you can think of it as an opportunity.
+25:4925 minutes, 49 secondsSo the the smartest bank CEOs are leaning into this. Some of their lobbying organizations in DC are trying to put their thumb on the scale and and
+25:5625 minutes, 56 secondsban their competition which I have zero tolerance for. So we're going to speak up if we ever see that happening. Um but yeah, I think there's two main reasons
+26:0426 minutes, 4 secondswhy um in this case the main debate is around stable coins paying rewards.
+26:0926 minutes, 9 secondsFirst, um it just puts more money in consumers pockets, right? So I'm I think people should be able to earn money more money on their money, right? That's that's the high level. It's also about
+26:1726 minutes, 17 secondsglobal competitiveness though, like you said. Uh China did just come out recently and say that their central bank digital currency is going to pay interest. Okay. And then there are
+26:2626 minutes, 26 secondsoffshore uh stable coins um that are actually larger than the US regulated ones right now. And they would love it
+26:3426 minutes, 34 secondsif US stable coins could were banned from paying rewards because it allows them to flourish offshore. So we need from a US legislator point of view, they
+26:4226 minutes, 42 secondsshould be ensuring US regulated stable coins are competitive. Same thing from a European stable stable coin point of view. I hope you know Eurocoin and etc.
+26:5026 minutes, 50 secondscontinues to grow and um we're in a global competition. And we need to make sure that consumers benefit and these each country puts their interest first.
+26:5726 minutes, 57 secondsGovernor, to that point, does the digital euro need to pay some sort of an interest?
+27:0227 minutes, 2 secondsOh, the answer is no. In our case, why?
+27:0427 minutes, 4 secondsAnd no, no. Let let me explain perhaps with a somewhat philosophical remark on this apparent opposition between innovation and regulation.
+27:1427 minutes, 14 secondsBecause I'm a bit fed up with this opposition. Let me explain. There is this idea that Europe would be only on the regulation side and innovation only
+27:2327 minutes, 23 secondsin the US. Uh there is an apparent contradiction. I agree. But there is a common purpose in the long run which is
+27:3127 minutes, 31 secondstrust and we mentioned it. Uh regulation without innovation I am not interested.
+27:3727 minutes, 37 secondsI I say to the central bankers it would be status quo statism. I'm not interested.
+27:4427 minutes, 44 secondsuh but uh innovation without regulation it could create serious trust issues.
+27:4927 minutes, 49 secondsFinancial crisis exist and they are born sometimes of misleaded or dangerous
+27:5727 minutes, 57 secondsfinancial innovations and financial crisis have a very high cost. This is why we need regulation. So uh I think
+28:0428 minutes, 4 secondsit's common interest to to find the right balance on this question of remuneration of stable coins and or
+28:1228 minutes, 12 secondsCBDC. We have a look at the effect on financial stability on the banking system. I don't want to enter the US
+28:1928 minutes, 19 secondsdebate. We see where where the interests are. They are also private interests.
+28:2428 minutes, 24 secondsThey are legitimate. But the public purpose should be also to preserve the the stability of the financial system.
+28:3228 minutes, 32 secondsIn our case, CBDC and especially the digital euro is
+28:3928 minutes, 39 secondsnot intended to uh attack the the banking system and its deposits. So we should be cautious on the transfers. I
+28:4828 minutes, 48 secondsstrongly believe in complimentarity on public private and this has been the monetary system for centuries. It's a
+28:5528 minutes, 55 secondschange of technology today, but it's not a change of principle.
+29:0029 minutesBrad, come in on this because you're the innovator in the room, but you also believe in regulation.
+29:0429 minutes, 4 secondsYeah, I I think what's going on in the US right now uh is a classic dynamic of when you create new law, uh it's never
+29:1229 minutes, 12 secondsgoing to be perfect. And you know, I think what's you the dynamic within the industry and working with uh Congress
+29:1929 minutes, 19 secondshas been kind of I subscribe to the idea that perfection is the enemy of good and you can't get to perfection. And so uh I
+29:2729 minutes, 27 secondsthink Brian's exactly right. We are we we're as close as we've ever been in providing that clarity. As some in the room probably know, you Ripple lived
+29:3529 minutes, 35 secondsthrough a five-year battle with US government being sued because of the lack of clarity. Uh so we are very much
+29:4229 minutes, 42 secondsan advocate of clarity is better than chaos. Uh so look again I think Brian's right we are very close. Uh I don't know
+29:5029 minutes, 50 secondsif we reward side rewards dividends interest. Is it necessary on stable coins?
+29:5529 minutes, 55 secondsYou know I mean I Ripple doesn't have as much of a dog in that fight as others in the industry. Uh and so we you know there's others that have stronger
+30:0330 minutes, 3 secondsopinions. It doesn't directly affect Ripple's business as much. I I agree in some ways that like look competition is
+30:1230 minutes, 12 secondsgood and I agree very much the idea of level playing field. Now I also think a level playing field goes two ways and that crypto companies should be held to
+30:2030 minutes, 20 secondsstandards that banks are and banks should be held to standards that crypto companies are in in order to compete. So I don't think that's a one-way street
+30:2630 minutes, 26 secondsthat somehow team crypto gets to have you know a certain pass in some way.
+30:3230 minutes, 32 secondsBill, let's hear from the banker in the room. There's pragmatism. You know, money goes where there are returns and where there's the best option. Your bank
+30:3930 minutes, 39 secondsalso operating big corridors across Asia as we talk about digital yuan as well as in Europe. So, how do you see this playing out? Do do any of these tokens
+30:4830 minutes, 48 secondsneed to have some sort of an interestbearing element?
+30:5130 minutes, 51 secondsI I think [clears throat] if I can be very simplistic about it, I think tokens are going to be used for two things. They'll be used as a medium of exchange. No particular need to to
+30:5930 minutes, 59 secondsbear interest for a medium of exchange because they'll be instantly transmitted. uh and they'll be used as a store of value and as a store of value they're much less interesting if they
+31:0731 minutes, 7 secondsdon't if they don't carry a yield. Uh but there will be tokens uh that are called stable coins. There'll be tokens that are called tokenized bank deposits which will probably bear yield. And
+31:1631 minutes, 16 secondsthere will be tokens that are called tokenized money market funds which will definitely bear yield. That's the whole point. Uh right now stable coins are big
+31:2231 minutes, 22 secondsand liquid. Super uh the CBDCs don't exist yet in in in a commercial scale.
+31:2731 minutes, 27 secondsMaybe they will. I hope they will in in in the right form. and uh tokenized money market funds of which we've issued in currencies like Hong Kong dollars uh
+31:3631 minutes, 36 secondsor eventually will be it'll be uh CNH Chinese currency uh will exist and they will be useful as a store of value and
+31:4531 minutes, 45 secondslike I mean our research estimates everybody's got their own numbers and maybe we'll get to $3 trillion of outstanding stock of stable coins in the next three or four years the bulk of
+31:5431 minutes, 54 secondsthat is going to be in developing economies where there's lack of confidence in the local currency and stable coins of whatever form could be
+32:0232 minutes, 2 secondsBitcoin will be used as a store of value. Bitcoin is quite volatile that everybody knows that the dollar is the US dollar. You like it, you don't like it, but you know what it is. So that money is going into stable coins today.
+32:1232 minutes, 12 secondsIt may go into tokenized money market funds in the future if they're available and if they're bearing yield.
+32:1832 minutes, 18 secondsFrankly, we don't care as a bank. We don't care. We want our customers to get the best thing for them. So if it's if
+32:2632 minutes, 26 secondsit's the medium of exchange, we want to provide them with the entry point and the exit point. And we do that today.
+32:3132 minutes, 31 secondsThey like us for it and we'll keep on doing that. When it comes to store of value, especially in emerging markets, got to be compliant, right? I mean, there's probably a black market
+32:4032 minutes, 40 secondstransaction someplace that gets that local currency out of the local currency into US dollars. Sometimes it's legit, sometimes it's not. That's always been
+32:4732 minutes, 47 secondsan issue. And as a bank, we're a policeman. That that's our job is to is to try to prevent that. Unfortunately, banks don't prevent most financial
+32:5532 minutes, 55 secondscrime. But Valerie, come in on this because we've spent all week talking about European competitiveness and if we are talking about different regulation, different
+33:0333 minutes, 3 secondsapproaches here. Is Europe going to be left behind?
+33:0733 minutes, 7 secondsI'm an optimistic person and I'm a European. So I I well I don't think that Europe will
+33:1333 minutes, 13 secondswill be left aside, but Europe has to to accelerate. I think it's and I think 25
+33:2033 minutes, 20 secondshas been a year where everybody realized that there is a need indeed for fair competition for a level playing field
+33:2733 minutes, 27 secondsbut also for acceleration in in innovation and um I think there is a willingness in Europe to do so and uh
+33:3533 minutes, 35 secondsagain in my field which is securities business um well Euro here as has as a global footprint uh we have been
+33:4233 minutes, 42 secondspioneering on the issuance of digital assets about four years ago um we start also seeing the value of tokenization
+33:5033 minutes, 50 secondsfor probably collateral management because one of the um I think the thing that we are really adding to the financial markets is liquidity and if
+33:5833 minutes, 58 secondsyou can start you know increasing the liquidity the the the movement of the collateral management different
+34:0534 minutes, 5 secondsthrough different um pools of liquidity that will also again benefit uh the I mean the the whole capital markets. So
+34:1434 minutes, 14 secondsto to your point, no, I think Europe has to indeed innovate faster, but at the same time, I think there are a number of
+34:2234 minutes, 22 secondsbanks, there are a number of financial market infrastructure, there are a number of players who are definitely willing to be part of that game and we
+34:3034 minutes, 30 secondswill be at the wrong Quick one Brian before we open up to the audience. Is there a geopolitical element here? We've got so many stable coins backed by US dollars. You've got
+34:3734 minutes, 37 secondsthe yuan moving at pace as well. the reality of the future if there's more transactions in both of these currencies
+34:4434 minutes, 44 secondsbypassing other elements. Does that have consequences for the relevance of say the euro and other currencies?
+34:5234 minutes, 52 secondsI do think that uh they're in global competition absolutely China, US, Europe going down the list, Japan, I mean in some ways Europe is ahead of the US
+35:0035 minutesbecause they passed Mika legislation. Uh so they have comprehensive crypto legislation while the US only has about half of it right done right now with the
+35:0835 minutes, 8 secondsstable coin act. Um, and we're now working on market structure. So, Europe is ahead, but the vast majority of stable coins are actually US
+35:1635 minutes, 16 secondsdollarbacked still. And so, uh, you know, when I meet with leaders in the in the Europe, I I basically encourage them to move faster, allow some of these
+35:2535 minutes, 25 secondsthings like, uh, rewards on stable coin, which is different than interest and yield. Um, that would allow them to be globally competitive. So, I do think
+35:3235 minutes, 32 secondsEurope, uh, I'd like to see them move faster on European stable coins.
+35:3635 minutes, 36 secondsGovernor, no. I think on this question of sovereignity and geopolitical balance, first we are all from advanced economies
+35:4435 minutes, 44 secondsand this is perhaps missing in the panel because this development of tokenization, you mentioned it, Bill, is probably an increasing challenge for
+35:5335 minutes, 53 secondssome developing countries or emerging economies because it could mean a full dollarization.
+36:0036 minutesLet let me put it this way. On the other side, it will bring serious economies cost savings on the crossber business
+36:0836 minutes, 8 secondsand this is a huge benefit I hope for the developing world. But here uh obviously the worry about tokenization
+36:1636 minutes, 16 secondsis bigger in the south to put it up and we had discussion in the G20 by some very important emerging countries uh
+36:2436 minutes, 24 secondsemerging powers saying we should forbid cryptos which I think it's not it's not a good solution. we we would lose
+36:3236 minutes, 32 secondsinnovation. But be be aware there is there is this issue. Uh if I may add uh to two other points uh on your point,
+36:4136 minutes, 41 secondsBrian, I agree that tokenization is probably an accelerator of the diversification of the monetary system
+36:4936 minutes, 49 secondsand diversification of currencies. At present, most stable coins are in dollar for a very simple reason. It's linked to
+36:5736 minutes, 57 secondsthe main use case which is crypto exchanges. But if we come to financial transactions and still more to economic
+37:0537 minutes, 5 secondstransaction, your prediction, Bill, I would be ready to to bet for for 28 for financial transaction,
+37:1437 minutes, 14 secondsnot less for for economic, but we'll see. Uh but if we move to this other use cases, we will have this diversification
+37:2337 minutes, 23 secondsand here infrastructures will matter much. I agree with Valeri. This APIA project I mentioned is ready to ID to
+37:3237 minutes, 32 secondsbuild an integrated infrastructure in the European market. It will accelerate capital market union.
+37:3837 minutes, 38 secondsNow I'm going to take some questions from the floor. So if you do have a question, just put your hand up and we're going to bring a microphone down to just in the meantime to our online
+37:4637 minutes, 46 secondsaudience. Remember you can get involved #26.
+37:5037 minutes, 50 secondsUh I think we've got a microphone here in the front. If you want to pitch a question directly to anyone on the panel, please feel free. Yes. Oh, stand
+37:5837 minutes, 58 secondsup. Okay. So, hello. Thank you very much. Fantastic panel. My name is Fernando, the chief economist of a big Brazilian bank. So, my point is, uh,
+38:0638 minutes, 6 secondswhat do you think would happen with credit leverage, with, um, duration transformation and monetary policy in a world where stable coins win the game.
+38:1538 minutes, 15 secondsLet's say this way. Just would love to hear your views. Thank you, governor. Very simple question.
+38:2338 minutes, 23 secondsYou come from a Brazilian bank. You said Brazil is a very interesting example where as you are aware at present the
+38:3138 minutes, 31 secondsBrazilian central bank developed a fast payment system which is probably the most efficient worldwide with picss and
+38:3738 minutes, 37 secondsthere is now the idea of extending this infrastructure also to a kind of CBDC with directs
+38:4438 minutes, 44 secondsuh so if stables only win the game this would mean it's an extreme case that
+38:5238 minutes, 52 secondsmoney would be completely privatized I wouldn't be completely reassured to use a euphemism we had in the past again
+39:0139 minutes, 1 secondtechnology only doesn't change the philosophy uh we had example in the past where money was completely private
+39:0939 minutes, 9 secondswithout a serious central banks take uh what existed in the US in the 19th century under your control and there was
+39:1739 minutes, 17 secondsno real fed or uh or or central bank and there were many crisis of confidence So
+39:2439 minutes, 24 secondsI don't say at all that central bank currency will be dominant will have a significant market share but it's an
+39:3239 minutes, 32 secondsanchor of confidence and it's why I insist so much on complimentarity. I think it's the interest of stable coins
+39:4039 minutes, 40 secondsto be fully equivalent at par one to one without fees to a central bank currency.
+39:4739 minutes, 47 secondsBrian coming quickly so we can take another question too. Yeah, I I would just say in a world where stable coins grow to that extent, um you know, I wouldn't say that they're entirely
+39:5539 minutes, 55 secondsprivate money. I mean, in the US, at least under the Genius Act, um all the stable coin reserves have to be held in short-term US treasuries. So, they're really backed by US treasuries, u but
+40:0440 minutes, 4 secondsthe privately issued the token. And then I think what will happen is you you you mentioned like the transformation or
+40:1140 minutes, 11 secondsmaturation comment. I think that um in that world, you're going to have companies that are just have a 100% reserve of people's money held in US
+40:2040 minutes, 20 secondstreasuries. There's not going to be a concept of fractional reserve if they don't want to get licensed as a bank, right? And so what does that mean? It means people can earn rewards on those
+40:2840 minutes, 28 secondsstable coin balances, but if they want to earn a higher return, the customer can opt in to lending out their money.
+40:3340 minutes, 33 secondsUm and the lend, you know, that'll have to pay a higher rate than what they could get in short-term US treasuries.
+40:3840 minutes, 38 secondsSo it it actually flips the banking model a little bit on its head, right? Another question here.
+40:4340 minutes, 43 secondsHave a much more basic question. Unless I'm mistaken. Uh tokenization built on blockchain technology. Blockchain technology requires compute and
+40:5240 minutes, 52 secondselectricity. Uh given the fact that we already have uh an issue in terms of uh having enough capacity uh to cover all
+40:5940 minutes, 59 secondsthe AI that's coming down on us. How are we going to cover all the tokenization that's coming down on us? Brad, does is that one for you?
+41:0741 minutes, 7 secondsSure. I I'll comment briefly. Uh I mean not all layer 1 blockchains are created equal. Some use as you're describing proof of work, some use proof of stake,
+41:1641 minutes, 16 secondssome use other consensus models. So uh I wouldn't uniformly put all of the kind of blockchain infrastructure in kind of
+41:2341 minutes, 23 secondsone power uh lens. And uh so I I don't think it's as big as a deal. And what you're seeing is most of the activity of
+41:3041 minutes, 30 secondsstable coins today is on more power efficient blockchains either use proof of stake or a consensus mechanism. Just to add to that, proof of stake uses
+41:3941 minutes, 39 seconds99.9% less energy than proof of work, right?
+41:4341 minutes, 43 secondsWhich most of the tokenizations happening on Ethereum blockchain, um, which uses proof of stake. Another question here.
+41:5041 minutes, 50 secondsYeah. Uh, I'm Eric. I, uh, I'm the founder of, uh, the largest payments company in Latin America that's not non-bank. Uh, I see a lot of countries
+41:5841 minutes, 58 secondsin the global south that don't have, uh, don't control their own currency. Um, why haven't they been on chain already?
+42:0542 minutes, 5 secondslike and what do you think needs to happen to move their whole payment infrastructure uh to the blockchain and perhaps to have stable coin uh replace like the dollars they use locally?
+42:1542 minutes, 15 secondsWho wants to take that one?
+42:1842 minutes, 18 seconds[clears throat]
+42:1842 minutes, 18 secondsThey haven't because of the sovereignty concern and most developing economies are still not all obviously there's some examples of countries that have gone
+42:2642 minutes, 26 secondsentirely digital and they've given up the sovereignty of their currency.
+42:3042 minutes, 30 secondsOthers have accepted dollarization and they've given up the sovereignty of the currency. Most are resisting that for for the reasons that that the governor
+42:3742 minutes, 37 secondsmentioned at the outset. Uh so then it just happens through the back door. Uh and you end up with a deacto dollarized system. As Senator Tarter, we operate in
+42:4542 minutes, 45 secondsmany de facto dollarized economies. They work. It's not bad at all actually. But the government has an extremely
+42:5342 minutes, 53 secondsimportant lever of of power. uh these are not typically democracies although they may be in some cases but the government loses a lever of power to
+43:0143 minutes, 1 secondcontrol the destiny of of their people which typically isn't popular with the people. So uh but but if it doesn't happen through the front door it happens through the back door but the better
+43:0943 minutes, 9 secondsoutcome by far is to have a legitimate monetary regime in the first place that's managed by a legitimate central bank and obviously many countries in the
+43:1743 minutes, 17 secondsworld have achieved that not least the European Central Bank. So let's be serious. I mean like how many countries have hit their inflation
+43:2543 minutes, 25 secondstarget uh you know consistently over a period of time. I mean we're struggling with that right now. So anyway, but you
+43:3343 minutes, 33 secondsguys are are our experts and and you're dealing with Can I only add on a positive note? I completely agree with what Bill just
+43:4043 minutes, 40 secondssaid that many of these emerging uh countries and still more developing economies are very innovative and fast
+43:4943 minutes, 49 secondspayment systems. So they are more on the infrastructure side than the currency side itself. But I am impressed by the
+43:5643 minutes, 56 secondsfact that advanced economies are not the most innovative in fast payment system.
+44:0144 minutes, 1 secondAnd Pix is not the only example. Take UPI in India. Take South Africa. There are very interesting things happening on the payment systems.
+44:1044 minutes, 10 secondsRight. I want to push on to an issue that impacts Western markets, developed markets, emerging markets. If we have more fractional ownership, does that
+44:1944 minutes, 19 secondsdrive speculation? Because we've seen it in many areas where there's fractional ownership. You've seen it in the retail investor getting involved in many
+44:2744 minutes, 27 secondsplaces. You actually have an escalation of that asset class. You think about single homes and there was an announcement recently from the president trying to keep out institutional
+44:3644 minutes, 36 secondsownership. And if you put that together, was that a preemptive strike ahead of some of the changes that are coming in tokenization? Brad, do you want to touch
+44:4344 minutes, 43 secondson that? Does it does it provoke more speculation in asset classes? And where does it leave the average owner?
+44:4944 minutes, 49 secondsWell, you're you're choosing the word speculation. I I I subscribed to Brian Armstrong's comment earlier of like opening up investment access and
+44:5844 minutes, 58 secondsinvestment versus speculation. I I put it in kind of two different buckets.
+45:0245 minutes, 2 secondsThey both have a purpose. They both uh have active market participants. But I I think the opportunity around
+45:0845 minutes, 8 secondstokenization for certain uh verticals is in fact the democratization of access to investment less so on the speculation
+45:1745 minutes, 17 secondsside. Uh I I don't know enough about uh you know Trump's decision to you know make steps towards banning institutional investment and residential real estate
+45:2545 minutes, 25 secondsto comment there. I do think if if you want expo e economic exposure, investment exposure to a commercial
+45:3245 minutes, 32 secondsbuilding in Miami and you have, you know, $10,000 US, you can't do that today. And I think opening that up and I
+45:4045 minutes, 40 secondsknow Brian's example is even better because it's the many billions of adults who don't have any access uh that you know my example is not perfect for that,
+45:4845 minutes, 48 secondsbut the point look I investments or speculation, two sides of the same coin versus transparency, right? So when you have in
+45:5645 minutes, 56 secondsa fractionalized world, you'd have much more transparency. Transparency is typically good for systemic stability in the long run. Uh although it can lead to
+46:0546 minutes, 5 secondsbubbles or or bouts of short selling that that induce volatility. On balance, I think where we've had nasty financial crisis, they've been when they've been
+46:1346 minutes, 13 secondsproblems that some in the market have seen but couldn't act on and couldn't normalize that. So I I would always vote for transparency, fractionalization to lead to transparency.
+46:2146 minutes, 21 secondsGovernor, 10 seconds. No, just to say that yes to increase access to investment as you said, but it must go along with increased awareness of risk
+46:3046 minutes, 30 secondsand this is the question of advice by the financial industry to the customers and financial literacy. So it should go
+46:3846 minutes, 38 secondstogether. If not, it could be a catastrophe at the end.
+46:4146 minutes, 41 secondsValerie, I completely agree. I think it's two sides of the same coin. I think it's al according to the risk profile of the people, but access doesn't mean speculation necessarily.
+46:5146 minutes, 51 secondsI'll take a different take which is um I think the top 10 fiat currencies of the world will have enough trust to persist
+46:5946 minutes, 59 secondsand the next hundred should either get dollarized or replaced by Bitcoin. And on that note, we are right at time.
+47:0747 minutes, 7 secondsThank you so much.
+47:0847 minutes, 8 secondsWe are definitely missing a developing country.
+47:1247 minutes, 12 secondsThank you so much to our terrific panelists. We do appreciate you waging.
+47:1647 minutes, 16 secondsI think we've all learned a lot about tokenization. So we do appreciate it. Remember to get involved. #Weft26.
+47:2147 minutes, 21 secondsAlthough I'm not sure if we're still hashtagging anymore. Brad, are we still hashtagging? We're still hashtagging.
+47:2547 minutes, 25 secondsOkay, we're still hashtagging. Thank you so much for joining us.
+47:2947 minutes, 29 seconds[applause]
+
+All
+
+From World Economic Forum

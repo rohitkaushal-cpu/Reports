@@ -1,0 +1,359 @@
+In this session, PIPO and Demether discussed how RWA and tokenization are evolving in 2026, why real-world assets are becoming more relevant on-chain, and where the next wave of opportunities may emerge.
+
+Speakers:
+Melania Georgieva, Business Development at PIPO
+Kartik Swaminathan, Lead Contributor at Demether
+
+Moderator:
+Roman Wiligut, CMO at PIPO
+
+Read the full AMA recap here:
+https://blog.pipo.vc/ama-recap-rwa-to...
+
+Follow PIPO:
+X: https://x.com/pipo_stocks
+Blog: https://blog.pipo.vc/
+
+0:055 secondsUh so yeah uh yeah today uh of topic our uh AMA
+0:1313 secondssession it is RWA in 2026 we will we are going to discuss about the liquidity problems and its solutions.
+0:2323 secondsUh today uh I'll be your mod. Uh yeah and we have two speakers uh it is a
+0:3131 secondsMelania and Kartik. Uh Melania represent uh PIPO uhvc as a business development
+0:3939 secondsuh manager and Cartik as a lead contributor of uh dether.
+0:4545 secondsSo uh welcome everyone uh to this uh AMA session. I'll be glad uh if u Melania
+0:5353 secondswill present uh herself and introduce a bit about the piper and what we do.
+1:021 minute, 2 secondsAll right. Hello everyone. Uh one more time. Um so yeah, my name is Maran. I work on the business development side uh
+1:081 minute, 8 secondsfor PIPO. Um in typo we're uh giving regular people access to uh pre IPO equity on early
+1:181 minute, 18 secondsstage startups. So that means not SpaceX uh with no upside because it it worth trillions already. Like for example uh
+1:271 minute, 27 secondsyou want to buy any like you would like to to buy into a company before it list on NASDAQ.
+1:331 minute, 33 secondsNormally that's impossible like if you're a regular person like you and me.
+1:371 minute, 37 secondsUh that's also like that's only reserved for uh VCs, family offices, like insiders and all those type of uh like
+1:431 minute, 43 secondsbig big sharks. Uh in our case, what we do is that we issue a warrant, a token that gives you uh the right to buy
+1:521 minute, 52 secondsshares at a fixed price. Uh say the strike is $10 for example. Uh if the stock list at $20, you just made 2x on
+2:012 minutes, 1 secondthe equity move. Um but there is the the leverage part the the warrant itself
+2:082 minutes, 8 secondsmight have cost you just only $1. Uh because track is the price you have to pay uh to get a share physically. It's
+2:162 minutes, 16 secondsan option not a obligatory. So your actual return isn't 2x. It could be it will be actually 10x. That's the
+2:242 minutes, 24 secondsasymmetry. And um you can trade the warrant on the secondary before uh the IPO IPO ever happens. you're not locked
+2:342 minutes, 34 secondsin at all like you're completely all right on this side. So that's what Pipo does shortly.
+2:442 minutes, 44 secondsThank you so much. Thank you. Uh uh Kartik, now it's your turn.
+2:512 minutes, 51 secondsHi everyone. Thank you so much for having me on again. It's a pleasure. It was so much fun last time, so we we couldn't resist joining again. Um for those of you that don't know me, my name
+2:592 minutes, 59 secondsis Kartik. I'm the lead contributor of the DEA project. Um I'm based in Sydney, Australia, so this is like an ideal time
+3:073 minutes, 7 secondsin the evening in winter to kind of dial in and talk about RWAs. Um we are an RWA
+3:133 minutes, 13 secondsyield app. So we provide a very kind of easy and friction-free way for normal investors to get access to yield on
+3:223 minutes, 22 secondstokenized stocks. We'll be expanding like very soon. We would love to integrate things like preipo stocks and the warrant mechanism sounds incredible.
+3:303 minutes, 30 secondsSo I'm I'm super happy to kind of uh get to speak to you guys again and watch your your phenomenal progress.
+3:423 minutes, 42 secondsThank you. Thank you so much. Uh great introduction.
+3:463 minutes, 46 secondsSo uh we are moving to the next uh question. Uh here we discussed more about the market context in general and
+3:553 minutes, 55 secondsuh the second question is regarding the RWA in 2026 and uh where do we actually
+4:024 minutes, 2 secondsstand uh here uh so Melania
+4:094 minutes, 9 secondsthank you. So honestly this is the year of RWA like stopped
+4:164 minutes, 16 secondsbeing just a narrative. Um we've gone from a few billion to over 30 billion on
+4:234 minutes, 23 secondsin on chair area worth assets. Uh and that's not already only like anymore
+4:304 minutes, 30 secondsonly cryptonative money like uh Black Rockck uh Franklin uh Templeton and even the DTCC
+4:394 minutes, 39 secondsare uh actively building here. Um that's not a signal actually to ignore.
+4:464 minutes, 46 secondsThat's not signal to ignore at all. So uh to be like let's be honest uh 30 billion is still like tiny next to
+4:544 minutes, 54 secondshundreds of trillions sitting in global private markets real estate private equity and preipo deals. uh we are at
+5:035 minutes, 3 secondsthe very start of the curve not the middle but uh the infrastructure is being played right now and uh that's
+5:105 minutes, 10 secondsexactly where PIPO is positioned like um what fundamentally fundamentally change
+5:185 minutes, 18 secondsis that legal and regulatory base like uh it's moving forward for years like
+5:255 minutes, 25 secondsLWA tokenization was just like a great idea you know but uh actually there was no clear action on it and uh no clear
+5:335 minutes, 33 secondspath to to compliance. Um that's shifted already. Uh we now have regulatory frameworks uh emerging across multiple
+5:425 minutes, 42 secondsjurisdictions that actually allow tokenized securities to exist uh be traded and uh to be held by non very important to say non US uh investors.
+5:535 minutes, 53 secondsThat's what finally letting uh in serious institutional and real capital like uh retail capital sorry um for us
+6:016 minutes, 1 secondat PIPO this isn't abstract uh we are like preip pre uh IPO has
+6:096 minutes, 9 secondshistorically been one of the most liquid uh access restricted um asset classes on the planet uh with minimum ticket size
+6:186 minutes, 18 secondsin hundreds of thousands locked up for years and available only to handful of u
+6:256 minutes, 25 secondsaccreditated US investors. Blockchain changes that uh
+6:316 minutes, 31 secondsthat fundamentally uh like uh uh fractional ownership uh programmable
+6:396 minutes, 39 secondsliquidity and uh global access from like day one. That's that's what the the change right now. Um and that's the gap we are closing.
+6:546 minutes, 54 secondsAbsolutely 100%.
+6:586 minutes, 58 secondsUm yeah, let's give the words about uh to the measure uh what he thinks about this. Um Cartik, your turn.
+7:087 minutes, 8 secondsYeah, absolutely. I mean, I I love the fact that like two things are happening.
+7:137 minutes, 13 secondsUm number one is that we very much seem to be following the trajectory of stable coins. So, initially stable coins were used as something that you kind of hold
+7:227 minutes, 22 secondsin between playing crypto. So, you know, like you know, putting your money on the bench and uh keeping it flat for a little while and until you're ready to kind of get back into the game again.
+7:317 minutes, 31 secondsBut then the whole market evolved, right? So, the stable coin DeFi space exploded. Utility was created and people realized, hey, actually, I don't need to
+7:407 minutes, 40 secondsbe in volatile cryptos at I can keep like a permanent uh like measure of my portfolio based out of stables as a
+7:487 minutes, 48 secondspoint of diversification and there's many many cool things to do now and it feels like we are very much at the early innings of RWAS and the reason I say
+7:577 minutes, 57 secondsthis is because if you look at the trajectory of how u TVL has evolved it's gone from something like 20 something billion to 32 billion so you know adding
+8:058 minutes, 5 seconds50% in the space of a year is absolutely phenomenal but what's most exciting is DeFi ITBL. So the RWAS that are used in
+8:148 minutes, 14 secondsDeFi in you know borrowing and lending platforms in market making sorry uh liquidity pools and AMMs indexes and and per um has gone from 2 billion to 3.2.
+8:278 minutes, 27 secondsSo we're also experiencing massive increases of people actually finding utility on chain and that's exactly the
+8:358 minutes, 35 secondsintersection at which Deita plays. So we are super interested in providing utility on chain. I think it's miraculous that you know a whole bunch
+8:428 minutes, 42 secondsof new investors can get access to uh products that only accredited us would have otherwise had access to but then
+8:508 minutes, 50 secondsthe magic just keeps on going when you can generate like double digit triple digit yields in some cases on exactly the same assets and that's something
+8:578 minutes, 57 secondsthat you just can't get access to infire right even if you were an ultra high net worth in the US passing accreditation or a US hedge fund um you still couldn't
+9:069 minutes, 6 secondsgenerate those kind of riskadjusted returns and we can't wait to show the rest of the world exactly what we're doing and um how things can really turn magical in D5.
+9:219 minutes, 21 secondsGreat. Great. Thank you. Thank you uh thank you both uh for the full answer on this question. Uh I'm pretty sure yeah
+9:309 minutes, 30 secondsthat's exactly where we are. And uh another uh point that uh I wanted to
+9:389 minutes, 38 secondsmark uh in this AMA uh it's mostly about the liquidity and uh what we saw u the
+9:469 minutes, 46 secondshype around the space and there was how to say uh more liquidity that expected
+9:569 minutes, 56 secondsand what do you think about the liquidity in general in RWA?
+10:0110 minutes, 1 seconduh who actually has it or who not?
+10:0910 minutes, 9 secondsI guess it should be me the first one, right? Yeah. Yeah. Yeah.
+10:1310 minutes, 13 secondsOkay. Um well on the public side um tokenized treasuries, money market um
+10:2010 minutes, 20 secondsfunds um and large cap equity tokens have real deep liquidity. Uh that's because they are already an established
+10:2810 minutes, 28 secondsmarket behind those assets. Um tokenization here is mostly um delivery mechanism. It makes existing liquid
+10:3710 minutes, 37 secondsassets more um accessible and um uh composable onchain. Uh the liquidity was always there.
+10:4610 minutes, 46 secondsBlockchain just improves improves the retail. Um where it gets is uh in private markets including preipo.
+10:5710 minutes, 57 secondsUm but there is height like there there is one thing there is very important thing uh that's actually the most um
+11:0411 minutes, 4 secondsexciting part of the the whole RWA story uh those sets didn't have a
+11:1111 minutes, 11 secondssecondary market before like never before uh at all uh a preapp um position
+11:2011 minutes, 20 secondsin a late stage private company was essentially liquid um by design uh you
+11:2611 minutes, 26 secondsheld it until an exit event or you were just stuck. Uh there was no private uh
+11:3411 minutes, 34 secondsdiscovery, no secondary trading, no way out like literally. Uh token to tokenization isn't comp competing with
+11:4111 minutes, 41 secondsexisting liquidity on the on the private side. It's creating liquidity where there was literally no. That's
+11:4911 minutes, 49 secondsfundamentally different uh value proposition like extremely important also value proposition. So yes, the
+11:5611 minutes, 56 secondspublic side is liquid today. Uh the private side the private side is being built but the private side is also the
+12:0412 minutes, 4 secondsbigger price because the uh because the delta between no liquidity and some liquidity in is just
+12:1212 minutes, 12 secondsenormous. Um and that's the the exact gap is uh designed to close. uh we are
+12:2012 minutes, 20 secondsinto we are not improving on uh something that already works. We are building infrastructure for a market that couldn't exist before. That's the main difference.
+12:3512 minutes, 35 secondsYeah, that's absolutely true. Uh fully agree that market let's say changed since
+12:4212 minutes, 42 secondssince last times uh especially uh APO stages. Yeah. So market is absolutely
+12:4912 minutes, 49 secondsdifferent. Uh Kartik, what your thoughts about this?
+12:5512 minutes, 55 secondsYeah, I I love this discussion because when I think back to my days as a byside
+13:0113 minutes, 1 secondVC uh at Anamoka Brands for two years, um I saw so many RWA projects pitch,
+13:0813 minutes, 8 secondsright? And the two biggest questions I asked were number one, who wants this asset? And number two, where does the
+13:1513 minutes, 15 secondsliquidity come from? Because if you start tokenizing, I don't know, something random like real estate in different buildings, it's impossible to
+13:2313 minutes, 23 secondsmake it funible. You don't really know what one building should be valued at versus another. And then the question is like how do you get specialized funds to
+13:3013 minutes, 30 secondsactually trade this on chain? The great great news is that we have moved on from this paradigm towards fungeible assets.
+13:3613 minutes, 36 secondsAnd I think that is like absolutely groundbreaking because people thought that it was absolutely amazing when we brought T-builds on chain and then you
+13:4613 minutes, 46 secondsstart to put that on public equities and private equities like you guys and people's minds are just blown like hey like you know I I don't need to park my
+13:5413 minutes, 54 secondsmoney for a tiny bit of yield according to whatever the Federal Reserve says. I can generate yield any way I want using DeFi on assets that I want to hold for
+14:0214 minutes, 2 secondsthe long term and not just parking capital. So I think the liquidity question has moved on but there is a massive bottleneck and that is
+14:1014 minutes, 10 secondsregulatory licensing. So if you look at what the major market makers have been doing in the equity space um there was a
+14:1714 minutes, 17 secondsmassive round of M&A. I don't remember like everyone fully noticed it but like every other week you had like um uh DWF
+14:2614 minutes, 26 secondsuh applying for a license or buying something in a new jurisdiction. uh you had gsr make a a very big acquisition actually in the US in order to acquire
+14:3514 minutes, 35 secondsthat broker dealer license um and then you had wintermute doing something very similar as well I think they applied for a license so the big three had gone out
+14:4214 minutes, 42 secondsof their way to try and position themselves for regulated assets so what's holding people back I I frankly don't know I mean I in constant contact
+14:5014 minutes, 50 secondswith these market makers and of course they don't need to tell me what their secret strategy is but the level of excitement that they have on bringing their services into TrackFi is huge and
+14:5914 minutes, 59 secondsI think that's because The altcoin market has fundamentally failed us, right? Liquidity has fallen off a cliff.
+15:0515 minutes, 5 secondsAnd it wasn't just because of auto deleveraging happening like five times.
+15:0915 minutes, 9 secondsI've lost count. It's happened so many times to kind of mess up retail. But the fact is like retail's interest has moved on, right? They they want to hold assets
+15:1715 minutes, 17 secondsfor the long term and not get caught up in rugs, hacks, and um semi- Ponzi schemes. Uh they want real value. So I
+15:2515 minutes, 25 secondsthink you guys launching and us kind of focusing on on the public equity side is such a boon and liquidity is going to naturally pick up and the market makers
+15:3215 minutes, 32 secondsare going to work out very very quickly as to how to navigate the uh regulatory licensing and then we will have something amazing unfold onchain defy.
+15:4715 minutes, 47 secondsGreat great uh fully support here too.
+15:5115 minutes, 51 secondsUh yeah just from my side nothing to add uh yeah uh let's move to the next uh
+15:5915 minutes, 59 secondspart of our AMA. Um so there will be two uh questions uh directly to the
+16:0716 minutes, 7 secondsprojects. Um so the first project uh is for the for the millennia. Yeah. Um
+16:1516 minutes, 15 secondslet's share to the uh community and our listeners. Um What exactly uh why we are different
+16:2416 minutes, 24 secondsfrom the uh think just to go to buy on the bigjet or binance or other any
+16:3216 minutes, 32 secondsexchange uh what's different to buy uh directly on pipo or go there and buy
+16:4016 minutes, 40 secondssome RWA assets what's different will be interesting to hear yeah that's a great question thank you
+16:4816 minutes, 48 secondswell um honestly the the exchange interest in tokenized uh equity is the best uh thing that could happen to to
+16:5716 minutes, 57 secondsthe whole space because it proves the demand is real and massive right now. Uh but there is a critical
+17:0517 minutes, 5 secondsdistinction worth making like Binance uh Bay Vitex for example they they're mostly
+17:1317 minutes, 13 secondstokenized tokenizing sorry um already public stocks like April Tesla NVM you
+17:2017 minutes, 20 secondsname it um does price does price exposure to companies that any anyone
+17:2617 minutes, 26 secondscan already buy on the on any broker uh useful more more accessible sure but um
+17:3417 minutes, 34 secondsit's not new it's basically it's not a new access to new value doesn't give any new value at all. Uh so we've seen this
+17:4317 minutes, 43 secondsand it's great that we have uh um that we have this exposure and already uh regular users can do this but it's
+17:5117 minutes, 51 secondsactually not adding any value on top like anything new uh pipe is built for the part they can't easily touch so
+17:5817 minutes, 58 secondspreipo not just over like uh SpaceX or open AI uh and we got a pretty clear
+18:0618 minutes, 6 secondsproof of that gap recently like when SpaceX became the hot the hottest name uh in space. Several exchanges rushed uh
+18:1518 minutes, 15 secondsto offer tokenized IPO access. Uh they didn't have the right structure. So what happened next it was that um they
+18:2318 minutes, 23 secondscouldn't secure the actual shares had to uh refund users. Um that that's not a small operational issue. That's a
+18:3218 minutes, 32 secondsfundamental structural failure. Uh preipo isn't a feature you bolt on. Uh
+18:4018 minutes, 40 secondsit requires a purpose built legal and financial architecture. Uh what PIPO issues
+18:4818 minutes, 48 secondsum is a regulated warrant a real legally enforced right to equity at a fixed
+18:5518 minutes, 55 secondsprice fully backed with a direct conversion path into NASDAQ list shares
+19:0219 minutes, 2 secondsum at IPO. not synthetic exposure, not a promise, an actually instrument with
+19:0919 minutes, 9 secondsactual rights behind it. That's extremely important. Uh so the market isn't crowded for us. It's clearly divided. Exchanges own the public site.
+19:2019 minutes, 20 secondsOkay, that's we agree on it. But PIPO owns the pre uh IPO site, the site where
+19:2719 minutes, 27 secondsthe value is created uh before anyone else gets in. So that's the highlight I believe for us.
+19:3519 minutes, 35 secondsThis is where we are different for you and where the value comes from.
+19:4019 minutes, 40 secondsThank you. Thank you so much for explanation. Uh yeah that is 100% different and thanks for the advices uh
+19:4919 minutes, 49 secondsof our community listeners. Uh Cartik uh now I'll be glad to give you a words u
+19:5819 minutes, 58 secondsto the your personal question. Um uh so it's mostly um about them also solving liquidity.
+20:0920 minutes, 9 secondsYeah. And capital fragmentation. So uh uh Dether is building uh around uh
+20:1620 minutes, 16 secondsautomating yields using defy protocols and how does uh this map onto the
+20:2420 minutes, 24 secondspermissions uh on RWA and uh what does it uh managing risk control in practice
+20:3220 minutes, 32 secondsfor tokenized assets in Dether?
+20:3820 minutes, 38 secondsYeah, thank you. That's um a great question to kind of give you a cross-section of what we're up to now.
+20:4420 minutes, 44 secondsSo um we have always had uh the idea and the mission of bringing DeFi yields to
+20:5120 minutes, 51 secondsthe mass market and we went through many iterations over the years of exactly how we do this because um we wanted to
+20:5820 minutes, 58 secondsonboard as many people as possible and we were so lucky to have been in the right place at the right time to start focusing on RWAS and the big innovation
+21:0821 minutes, 8 secondswith RWAS was that many new uh asset issuers came to market fully permissionless. So it meant that we
+21:1521 minutes, 15 secondsdidn't need to go through KYC KYB. Um the users most importantly as like the biggest um area of friction didn't have
+21:2321 minutes, 23 secondsto go through KYC either in order to interact with our protocol. So the way we think about um bringing RWA to the
+21:3121 minutes, 31 secondsmass market is number one there cannot be any kind of UX friction. We have to abstract away everything related to blockchain and in fact we even subsidize
+21:4021 minutes, 40 secondsgas. So we really want it to be fully abstracted and the only reason you know it's blockchain and not a fintech is
+21:4721 minutes, 47 secondsbecause you have to deposit USDC. But we're working on it and soon we'll have like IBAN and you know accounts set up where you just send dollars and it
+21:5621 minutes, 56 secondsmiraculously becomes you know USDC or stable coins on chain. Um the second thing that we focus on absolutely
+22:0422 minutes, 4 secondsreligiously is risk. And the reason why we're so obsessed is because when you look at the average uh D5 protocol, uh
+22:1322 minutes, 13 secondsthe usual thing is to push all of the risk to the user. What the protocol tries very hard is to manage operational risk. So they're not going to be hacked.
+22:2322 minutes, 23 secondsThey're not going to have like some kind of spontaneous liquidity drain or their token fall off a cliff. It's many things that you have to manage. And then very
+22:3122 minutes, 31 secondsgood protocols take that one step further by also managing your strategy.
+22:3422 minutes, 34 secondsSo, for example, if you're leverage looping, then um if the uh interest rates go against you and you're no
+22:4122 minutes, 41 secondslonger making money, then it withdraws the position. But the funny thing is like the vast majority of protocols don't even do that. So, you have to take
+22:4822 minutes, 48 secondsa 100% risk of getting hacked and also of the strategy falling apart at 2 a.m.
+22:5322 minutes, 53 secondsin the middle of the night when you're asleep.
+22:5622 minutes, 56 secondsSo even if we manage both of these two risks, there's one massive problem when it comes to RWAS and that you have
+23:0223 minutes, 2 secondsfundamental risk. If Tesla for example is in this leverage loop strategy and it goes into earnings season, um in the
+23:1123 minutes, 11 secondspast three years, Tesla's biggest move has been 24% in three hours on the back of an earnings announcement. So what
+23:1923 minutes, 19 secondshappens to your strategy? you're not only blowing it up and losing money, you're absolutely getting nuked because you're going to have a a kind of full
+23:2723 minutes, 27 secondscollateral draw down and um that will trigger uh deleveraging, right? So, you're going to basically lose your entire position. Um we protect against
+23:3523 minutes, 35 secondsthat and that is one of the biggest differences that we have against anyone who you think may even be vaguely uh
+23:4323 minutes, 43 secondscompeting against us. We manage fundamental risks. So that is not necessarily a promise but something that we are working very very hard to make
+23:5223 minutes, 52 secondssure that normal retail investors are not attracted by the yields only to get burnt by something going wrong. Try and mitigate that risk as much as possible.
+24:0324 minutes, 3 secondsAmazing. Amazing. uh I'm pretty sure that uh your neural niche uh will help
+24:0924 minutes, 9 secondsto solve many problems uh between defy and rwa and that's that is that is
+24:1824 minutes, 18 secondsactually very cool very cool um we are moving to the next block uh it
+24:2524 minutes, 25 secondsis about mostly about the future and uh how can we solve many pro problems uh So
+24:3424 minutes, 34 secondswe discussed about the liquidity in general and uh just probably might be
+24:4124 minutes, 41 secondsinteresting to hear uh what in your opinion and uh how actually uh the
+24:4924 minutes, 49 secondsproblem this liquidity might be fixed uh and NWA how do you see that? So Melania your turn.
+24:5824 minutes, 58 secondsThank you. Uh well for me it all comes down to trust because liquidity follows trust not the other way around. Uh
+25:0625 minutes, 6 secondspeople trade freely when they believe uh two things that the token is genuinely backed by uh something real and that
+25:1425 minutes, 14 secondsthey can actually get out uh where they need to so they are not restricted or anything trapped. uh remove either of
+25:2225 minutes, 22 secondsthose and liquidity dies up uh the moment is uh is tested like that's 100% sure and they've been seen many times in
+25:3025 minutes, 30 secondsthe past I think uh so the fixes that actually matters matter aren't about making um about market making or uh
+25:4025 minutes, 40 secondsincentive programs um their structure a verifiable onchain
+25:4625 minutes, 46 secondsproof of reserves from a custodian uh but the cryptographic proof anyone uh can check in in in real time. Basically
+25:5525 minutes, 55 secondsum the project like their projects cutting corners on structure exposure um
+26:0226 minutes, 2 secondsdressed up as ownership custodians nobody can audit that's my favorite legal um rappers that haven't uh that
+26:1226 minutes, 12 secondshaven't been tested. Uh they look like fine in a bull market because you know bull market everybody loves bull markets. uh liquidity appears healthy.
+26:2126 minutes, 21 secondsUm but the first real moment of stress expose like expose everything like uh it makes it collapse. Uh that's exactly
+26:3126 minutes, 31 secondswhat happened with SpaceX IPO launches like recently. Uh the structure was
+26:3726 minutes, 37 secondsweak. Um the pressure like there was a pressure that hit and users got refunds
+26:4426 minutes, 44 secondsliterally instead of returns. And like that's that's that's a good example how can like how everything can go wrong. Um
+26:5326 minutes, 53 secondsat PIPO the structure is the product basically. Uh the warrant is regulated.
+26:5826 minutes, 58 secondsUh the backing is verifiable. Uh the exit path is uh defined at um issuance.
+27:0527 minutes, 5 secondsUm that's literally not nice to have.
+27:0827 minutes, 8 secondsThat's a mandatory. It's it's the only way to build a preIPO market that uh survives
+27:1527 minutes, 15 secondsum contact with reality and that that's what we what we are good at I should say.
+27:2527 minutes, 25 secondsAbsolutely correct. Uh yeah the overhyped space 6 IPO I'm not actually I
+27:3327 minutes, 33 secondsI do believe in Mars but I'm not sure that this technology is like you can feel that
+27:4127 minutes, 41 secondsit's too early in my opinion and this kind of be a first learner in the world
+27:4827 minutes, 48 secondsso world is getting crazy completely balanced I would say like some people have access to a and some are completely out of the picture.
+27:5927 minutes, 59 secondsYeah. Yeah.
+28:0228 minutes, 2 secondsUh yeah. Cartik, what's your thoughts on it?
+28:0928 minutes, 9 secondsYeah. I'm not going to comment on on SpaceX. I think it's like it's highly polarizing. All right. I mean, everyone wants to believe in Elon, but at the same time, you have to believe in Elon.
+28:2028 minutes, 20 secondsSo, I think it's like almost flipping a coin. But anyway, we'll leave that there. on liquidity. Um I think you raised some really brilliant points.
+28:2728 minutes, 27 secondsHonestly, I I don't even I didn't even start thinking in the same way, but you you're so right when you talk about like the level of trust that you need to have that your assets not going to rug you
+28:3628 minutes, 36 secondsbefore you start to put money into liquidity pools. And I we fell into the trap of just believing it to be true. So yes, I think you're right and that's a
+28:4428 minutes, 44 secondsfantastic point that everyone should take note of. You have to do your own research and fully kind of understand what you're getting into with these asset exposures. Um so for me okay let's
+28:5328 minutes, 53 secondsassume that the asset exposure is correct and the legal structure is in place then the next thing I I think about is the fact that um onchain what's
+29:0129 minutes, 1 secondhappening with DeFi and any kind of involvement of TVL um uh sorry so value
+29:0929 minutes, 9 secondsbeing locked in a smart contract versus just freely traded onchain is only 10% right so we have so much further to go
+29:1729 minutes, 17 secondsin terms of bringing RWA liquidity onchain such such that people can actually do something useful with it and
+29:2429 minutes, 24 secondstap the full potential of DeFi. How do we get there? I think one of the points I made earlier was on regulatory licensing. So that is definitely
+29:3129 minutes, 31 secondshappening and a few people already have market makers already have their license. So naturally liquidity will pick up and then I think the second
+29:3829 minutes, 38 secondsdimension is the number of assets right so the mega caps that are currently listed and SpaceX etc. All of these guys
+29:4629 minutes, 46 secondsare like over a few trillion in in value. Um what people I think will get really excited about is maybe a few niche assets appearing as well. So in
+29:5529 minutes, 55 secondsorder to make sure that we don't fall into the trap of just endless nonfgeable random tokens um like real estate which
+30:0230 minutes, 2 secondsis like really difficult for retail to wrap their head around. I'm not questioning the value. I just think like it's difficult to kind of get onchain transaction value with that kind of
+30:1130 minutes, 11 secondsstuff. um it's thinking of new innovative ways to bring ill liquid assets uh in the form that people can trade and one of the best ways that I've
+30:2030 minutes, 20 secondsseen is stable coins. So, I don't think I've ever been been such a big believer of real estate on chain until I saw a number of stable coins that were
+30:2830 minutes, 28 secondstokenizing yield from mortgages like Prime uh or bringing you know other rental um uh figures uh through a yield
+30:3830 minutes, 38 secondsbearing stable coin framework which I thought was like super smart and that is the way to onboard the mass market and I think if we can present enough value on
+30:4630 minutes, 46 secondschain then people will naturally come and liquidity will pick up by itself.
+30:5330 minutes, 53 secondsYeah, absolutely. Absolutely.
+30:5830 minutes, 58 secondsUm, yeah, let's move to the la uh almost last questions. Uh, almost last
+31:0431 minutes, 4 secondsquestion. Uh, how do you see the RWA in uh 3 five years? Uh, and maybe can you share some piece of advice to our listeners regarding that?
+31:1731 minutes, 17 secondsAll right. Uh well um I believe that in three to five years tokenized capital
+31:2331 minutes, 23 secondswill simply become capital. Um the line between onchain assets and traditional infrastructure will vanish and like 24/7
+31:3131 minutes, 31 secondstrading of company shares with uh instant settlement will become the norm.
+31:3631 minutes, 36 secondsUm the catalyst for this will be the creation of infrastructure for institutional players like once NASDAQ,
+31:4531 minutes, 45 secondsWall Street and major issuers fully engage with the process market volumes will surge from billions to trillions. I
+31:5431 minutes, 54 secondsthink I believe like at least this is what what I would expect uh on my advice
+32:0132 minutes, 1 seconduh to investor like my my my only advice actually to investors
+32:0832 minutes, 8 secondsuh it will be before buying any um tokenized word assets ask one simple
+32:1632 minutes, 16 secondsquestion why is like who is behind this token and where um the fear shares
+32:2432 minutes, 24 secondsactually being purchased like vet the company uh whose shares you are buying like examine its financial metrics uh
+32:3432 minutes, 34 secondsgrowth stage um like who is behind it in general um what
+32:4132 minutes, 41 secondsare the concrete plans for an IPO when it would be uh look at facts like look at like all the details like the deio is
+32:4832 minutes, 48 secondsin the detail and it's about facts and like factchecking and everything related not just about marketing promises,
+32:5632 minutes, 56 secondsactivities and you know like all the all the fluffy stuff like that's my advice.
+33:0133 minutes, 1 secondLook very well at uh like who and why uh is like who is behind the token and
+33:0933 minutes, 9 secondswhere are the shares actually being purchased.
+33:1433 minutes, 14 secondsAbsolutely correct. uh and uh here I see that it's very different from the some type of mem coins or some anonymous
+33:2433 minutes, 24 secondscoins that we saw on the ICO hype. There are many companies that came and where they now they fully disappeared. Yeah.
+33:3333 minutes, 33 secondsUh here absolutely different market. Uh Kartik uh what do you think uh on it?
+33:4033 minutes, 40 secondsUh what your thoughts there will be very interesting to hear.
+33:4633 minutes, 46 secondsYeah. So, um I mean to to kind of understand where the industry goes in three to five years time, it's really good to take a look at where we came
+33:5433 minutes, 54 secondsfrom. If you rewind five years ago, DeFi or actually RWA TVL in total was about
+34:0034 minutes300 mil and almost 100% of that was just commodities and that's a label that they put on on DeFi Lama. But the reality is it's all kind of Tether and Pax gold.
+34:1034 minutes, 10 secondsThat's it. That's all you had, guys. In the space of five years, we've come 100x
+34:1634 minutes, 16 secondsin terms of TVL. So, can I extrapolate like another 100x? I absolutely can because that'll only get us to like
+34:2534 minutes, 25 secondsbetween two and three trillion. That is one of the mega caps, right, out of the top 10 in the S&P 500. And we're not
+34:3334 minutes, 33 secondseven, you know, giving any ground to stable coins and T- bills and other global markets out there that will um
+34:4134 minutes, 41 secondseventually and imminently end up on chain. So I really believe yeah in five years time we could be a 100x more uh
+34:4834 minutes, 48 secondslike a larger market uh than we have now. And um that's such a short space, right? That's just like one and a little
+34:5534 minutes, 55 secondsbit cycles in in Bitcoin terms. Um so I'm so excited to kind of watch all of that unfold. Of course, we're very much
+35:0235 minutes, 2 secondsrooting for the equity side because I think there'll be some very very exciting things that we can get retail into on that front uh in the long term.
+35:1035 minutes, 10 secondsIn terms of advice to um uh any kind of investor out there, I mean we don't give advice of course, but as a a former
+35:1835 minutes, 18 secondsregulated professional and 18 years in the capital markets, there is one thing that is always on everyone's side. Like forget about the rugps, forget about the
+35:2635 minutes, 26 secondsbets that went wrong. It's time. So the earlier you get in, don't time the market, spend time in the market, start
+35:3435 minutes, 34 secondsto experiment, start to fully appreciate where the risks lie, do your own research, and by learning, you'll be so far ahead of everyone else. And then, of
+35:4335 minutes, 43 secondscourse, you want to um make sure that these investments are appropriate for you before you yolo in. But if you hold on for the long term, I think amazing
+35:5135 minutes, 51 secondsthings can happen. Let's just put that into perspective very, very quickly, right? So, if in 1999 you'd put $1,000 into Nvidia at the time
+36:0136 minutes, 1 secondof IPO, which back then would have been, you know, crazy level of bullishness in the tech hype cycle. Very similar to what we're seeing with the AI cycle now, you'd be sitting on $5.9 million, right?
+36:1336 minutes, 13 secondsThat's like an astronomical amount of money. I definitely wouldn't be on the show, by the way. I would be retired on a beach somewhere if I had that kind of money.
+36:2136 minutes, 21 secondsBut if I'd just given you 2% more yield, so you put it in some really lame, super boring lending market or something on a
+36:2836 minutes, 28 secondsas an example, like let's talk about new paradigm, you'd be sitting on over 10 mil. So you would have you probably would have retired like five years
+36:3636 minutes, 36 secondssooner than you know us having this conversation in 2026. Um amazing amazing things happen when you took a long-term view. So I would really encourage people
+36:4436 minutes, 44 secondsto not think about what we have now but imagine what we could have in the future and use that inspiration to start to explore the space.
+36:5536 minutes, 55 secondsYeah, that that is true. that is uh too early and uh I also fully support you
+37:0137 minutes, 1 secondhere that uh the market or FWA is not so
+37:0737 minutes, 7 secondsbig as it might be uh quite soon because it open markets to the uh third world
+37:1437 minutes, 14 secondscountries actually that the people who previously they didn't have any uh any
+37:2337 minutes, 23 secondstype of access to global market but Now they can and it's absolutely ch changing
+37:3037 minutes, 30 secondsthe market wall market. Um yeah so the last um the last part uh of our uh AMA
+37:4137 minutes, 41 secondssession there we got a couple questions from uh community from Q&A and uh the
+37:4837 minutes, 48 secondsfirst question will be to the cartic uh so the yields on the app are the
+37:5437 minutes, 54 secondsaverage around 10%age uh in your app across uh Tesla Nvidia and other. So
+38:0338 minutes, 3 secondswhere does the yield actually come from and how do you keep it uh sustainable once uh initiatives dry up?
+38:1538 minutes, 15 secondsYeah, that's a great question and it's something that we we probably need to do better about like putting into our app to explain it to people uh because we've only got like one line and we we hope
+38:2338 minutes, 23 secondsthat people will trust us. Of course, it you know the whole blockchain ethos is trust um but verify.
+38:3038 minutes, 30 secondsLet me help you verify it. Um, number one, uh, the biggest strategy that we're running at the moment that has the highest yields is concentrated
+38:3738 minutes, 37 secondsliquidities on chain. So for us, we are live on Salana mainet. We're very proud to be on Salana for like the past nine
+38:4538 minutes, 45 secondsmonths and it's an amazing ecosystem and we've made a lot of friends. But um the way we generate your yield is by taking a very specific concentrated position
+38:5438 minutes, 54 secondsaround the midpoint of the price and then we move that in accordance with the the range sorry we move the range in accordance with where the price goes. So
+39:0239 minutes, 2 secondsif the price moves up 10% in a day then we rebalance your range and make sure that you are capturing all of the trades that are happening at that time and then the fees we pass 100% on to the users.
+39:1339 minutes, 13 secondsSo that's why we have like 15 to 30% uh in terms of yields across most of our uh assets. The second one which we released
+39:2239 minutes, 22 secondsvery very recently with um version three which just um launched two weeks ago is lending. So really simple I don't think
+39:2939 minutes, 29 secondsI need to explain lending. We put your asset into Camino and then you're generating yield against it. So you're
+39:3639 minutes, 36 secondsright. I mean there are definitely some incentives behind this that's boosting the yield especially lending but that's the whole point right so people need to
+39:4639 minutes, 46 secondsknow that these mechanisms exist to generate yield on stocks and the best way is to incentivize people to play and
+39:5339 minutes, 53 secondsthen watch the market evolve and given that tradine markets are you know astronomically larger than crypto it's guaranteed to attract a lot of interest
+40:0140 minutes, 1 secondthat will be you know there for the long term so we're optimistic that we need we don't need to add too many more incentives to hook people and convince
+40:1040 minutes, 10 secondsthem that it makes sense to keep their assets in crypto. Thank you for the question.
+40:1440 minutes, 14 secondsThank you for the answer Kartik. I think that uh we heard a full answer on it and
+40:2340 minutes, 23 secondsuh I just want to wish your platform uh good luck this development and
+40:2940 minutes, 29 secondsuh to getting bigger in that niche. So uh the last question uh for the
+40:3640 minutes, 36 secondsmillennia uh and our community. So um it's a question about the how do how do
+40:4440 minutes, 44 secondsI know that company is real and valation isn't just made up? How does PIPO verify assets before any company listing?
+40:5440 minutes, 54 secondsThat's really great question. Thank you.
+40:5640 minutes, 56 secondsThank you very much for this one. uh so I can think of about like couple of points um that we can go through like we
+41:0341 minutes, 3 secondscan start with legal uh entity verifi ver verification like we check corporate registration founding documents
+41:1041 minutes, 10 secondsownership structure and cap table uh we don't have any anonymous um startup
+41:1741 minutes, 17 secondsstartup sorry uh only companies with transparent verifiable legal standing so that's a mandatory then I can think of
+41:2641 minutes, 26 secondsfinancial due diligence s like this is another step that we that's a mandatory one. Uh we review financial statements
+41:3341 minutes, 33 secondsuh revenue data and prior funding grounds like valuations on PIPO are benchmarked against real comparable
+41:4341 minutes, 43 secondsdeals in private equity markets not founder uh wishful thinking you know like uh those like I mean the the the
+41:5141 minutes, 51 secondsone the one thing that you find on the on the paper like sometimes on your on a pitch deck very often doesn't have anything uh to deal with the real world
+42:0042 minutesand actually what the company valuation is. So we we are checking this like due diligence is is like financial due diligence is extremely extremely
+42:0742 minutes, 7 secondsimportant and then we have smart contract audits. um
+42:1442 minutes, 14 secondsthe the code governing token holders rights um goes through a full technical audit like I that's again that's
+42:2242 minutes, 22 secondssomething standard I I believe I it's impossible to to not do this and uh audit reports are public uh you can
+42:3042 minutes, 30 secondsverify them in independently so like basically we do all the checks and then
+42:3642 minutes, 36 secondseverything is public so uh whoever a person like on dessert and an investor and like someone who would like to check
+42:4542 minutes, 45 secondsby themsel they can do it as well. So it's like triple check almost. Um and the last one I would say it's the
+42:5342 minutes, 53 secondsonchain uh transparency again yeah every like this is the blockchain again related stuff but every
+43:0143 minutes, 1 secondtransaction and token distribution is visible onchain so I think that's transparent enough
+43:1043 minutes, 10 secondsuh we do not like we definitely don't list everyone who applies for the fourth reason that I already
+43:1743 minutes, 17 secondsmentioned uh most submissions get rejected at the due diligence stage to be honest and uh
+43:2643 minutes, 26 secondsthat's our quality filter like uh our reputation because if our reputation is only as strong as the asset we put on
+43:3643 minutes, 36 secondsthe platform so if we do not uh do all those stuff like that I mean that's the most important value for us our
+43:4443 minutes, 44 secondsreputation we need to do this for us and for actually our users So yeah.
+43:5243 minutes, 52 secondsYeah. Thank you. Thank you for the answer. Uh thank you guys for the wonderful uh presentation of both
+43:5943 minutes, 59 secondsprojects. Yeah. Uh so just my final thoughts on it. Uh just want to mark
+44:0644 minutes, 6 secondsthat uh market is very different what we saw previously.
+44:1244 minutes, 12 secondsuh new major uh players are entering in the market. They're trying they're they
+44:2144 minutes, 21 secondstrying to touch uh everything uh and uh to to see to see
+44:2844 minutes, 28 secondshow this um uh to see more opportunities uh how to to get uh more niches as they
+44:3644 minutes, 36 secondscan. But we are as startups of course we will be here firstly because we are
+44:4344 minutes, 43 secondssmaller but we have more opportunities instead of them because they're more in
+44:4944 minutes, 49 secondsbureaucracy we have field uh to navigate more than there. So I just want to wish
+44:5644 minutes, 56 secondsuh all of you uh a great uh week ahead uh and thank thank you all. Thanks for the wonderful presentation.
+45:0845 minutes, 8 secondsThank you guys. Thank you. Thank you all.

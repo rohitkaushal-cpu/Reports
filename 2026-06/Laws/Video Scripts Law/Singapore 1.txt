@@ -1,0 +1,1157 @@
+
+Search in video
+Introduction
+0:00
+Policy makers and industry have been actively building practical templates
+0:05
+for tokenized finance including crossber trials and an operational playbook for
+0:11
+scaling tokenized funds in Singapore. In project guardian, a crossber sandbox led
+0:17
+by policy makers and the financial industry, Singapore has been running trials across multiple currencies and
+0:25
+products covering tokenized funds, bonds, stable coins, and tokenized bank
+0:32
+liabilities with an explicit focus on interoperability, risk management, and
+0:37
+regulatory frameworks. In November 2025, that work translated into a concrete
+0:44
+guidance, a playbook for launching and scaling tokenized funds and an operational readiness checklist
+0:51
+published with industry bodies and international counterparts covering operating setup, legal rights and
+0:57
+disclosures. Anti-money laundering and customer due diligence expectations and operational controls before go live.
+1:15
+Welcome back to by the rules. I'm Dr. And in this episode I will map the regulatory parameter and the compliance
+1:23
+implications including what tokenization changes uh for investor protection where
+1:29
+operational risk concentrates and what firms should be able to evidence in
+1:35
+practice if they want to operate uh credibly in Singapore's ecosystem. And now let us begin.
+Disclaimer
+1:45
+So today's digital token case is in Singapore. Now you should be asking why
+Strategic Context and Rationale
+1:52
+Singapore. So Singapore's strategic rationale in digital tokens is best
+1:57
+understood as an extension of its financial center strategy. This is to remain a trusted hub by modernizing
+2:04
+market infrastructure while tightening managing systemic consumer and financial crime risks. Its regulatory approach is
+2:12
+deliberately activity and risk based using defined licensing and conduct
+2:17
+parameters for digital token services while progressively tighten retail facing exposure and marketing and
+2:23
+directing higher standards toward custody operational resilience and investor protection where it's
+2:30
+tokenization in intersects with capital markets. In parallel in Singapore's geopolitical advantage is less about
+2:37
+geography in the abstract right and more about convenient power. So the monetary
+2:42
+authority of Singapore known as mass increasingly treats international collaboration as part of its policy
+2:49
+method combining domestic coalition building with crossber experimentation
+2:55
+that can influence how tokenized finance scales globally. So this outward facing
+3:01
+posture is reflected in joint engagement with international standard uh setting and polish forums and in structured
+3:09
+crossber pilots that taste multicurrency settlement and tokenized market
+3:14
+infrastructure in realistic conditions including multi- central bank settlement experimentation and bilateral innovation
+3:22
+bridges by coupling supervisory credibility with institution grade experimentation rather than promoting
+3:29
+specul relative uh retail adoption. Singapore has positioned itself as a reference jurisdiction. It shapes not
+3:36
+only domestic rules but also the practical templates, risk controls and interoperability pathways that
+3:43
+crossborder uh partners and market participants can reuse when building a
+3:48
+compliant organization and settlement models. Let us now look a little bit on the key
+Key Regulators and Definitions
+3:54
+regulations and definitions. So in other words, who are the key regulators of digital token and clearly provide the
+4:00
+definitions of those digital tokens. So it is worth noting that in Singapore, the regulatory approach to digital
+4:07
+tokens is functional and highly regulator with MAS playing the most important
+4:14
+role. The primary is the primary regulator. M licenses and basically supervises also payment services
+4:20
+involved in digital payment tokens under the payment services act 2019 regulates
+4:25
+capital markets activities where a token is a digital representation of a capital markets uh product under the securities
+4:33
+and futures act and oversees the financial services and markets act 2022
+4:38
+regime for digital token service providers that operate from a place of business in Singapore or are
+4:45
+incorporated in Singapore but provide digital token services outside Singapore and also the suspicious transaction
+4:52
+reporting office within the Singapore police force functions as the financial unit. This is for um receiving
+4:58
+suspicious transaction reports and supporting investigations into money laundering, terrorist financing and
+5:05
+related financial crime. And also we have the minister of flow which supervises the anti-money laundering and
+5:11
+countering and the financing of terrorism obligations for certain non-financial sectors outside the
+5:18
+monetary authority licensing. Now how is digital token defined by the Singaporean regulators within the financial services
+5:25
+and markets act of uh 2022? A digital token uh means either a digital payment
+5:31
+token or digital representation of a capital markets product that can be transferred, stored or traded
+5:38
+electronically basically excluded digital token. A digital token now service provider is any person providing
+5:44
+a digital token service and a digital token service user is any person using
+5:50
+that service such a service. Singapore's policym is not a linear
+Singapore’s Digital Token Policymaking Process
+5:58
+innovation first or let's say restriction first model. It is a discipline cycle including the setting
+6:05
+of a riskbased strategic parameter consulting to refine controls and
+6:10
+expectations and deliberating through controlled real world testing and then
+6:16
+recalibrating rules and supervisory intensity as risks market practices and of course uh crossber conditions
+6:23
+involved. detailed explanation of uh Singapore's digital token policym will be released and we will also contrast it
+6:29
+to Australia's one um in the next episode. So let's look now into the rule book.
+Payment Services Act 2019
+6:37
+In Singapore, the Payment Services Act in 2019 is a core law that regulates
+6:43
+payment services and payment systems. And it also places digital payment token
+6:49
+activity within defined regulatory parameter by treating digital payment
+6:55
+token service as a regulated payment service. So where does that parameter
+7:01
+actually begin in your user journey in your transaction flow or in the way you
+7:07
+market the service? The starting point is of course the license. Okay. Specifically, a person must not carry on
+7:14
+a business or providing a payment service in Singapore unless licensed or
+7:19
+exempt. And this applies across the payment service categories listed in the
+7:25
+act including digital payment token services. But what does carrying on a
+7:30
+business mean in practice especially if your core product is not payments? So
+7:35
+the act is also designed to prevent avoidance through business structuring.
+7:40
+So where a person provides a payment service while carrying on another
+7:45
+primary business the act can treat that as a carrying on a business of providing
+7:51
+the payment service and this is um not uh avoided simply by arguing the payment
+7:57
+element is incidental. So if the token future is incidental does that keep you
+8:03
+outside the act or does it pull you in anyway? And and if you split functions across entities such app custody,
+8:09
+liquidity, does that reduce regulatory exposure or does mass assess the arrangement as a whole? But what does
+8:16
+digital payment token mean? And just equally important, what is not a digital payment token under this definition? So
+8:23
+the act is very precise about it. It defines a digital payment token as a
+8:28
+digital representation of value that is not denominated in any currency and not
+8:33
+paid by its issuer to any currency. And that is intended or designed to be used
+8:40
+as a medium of exchange accepted by the public or a section of the public as payment for goods or services or for the
+8:47
+uh discharge of a debt. It is um paid to a currency. It likely will not meet the
+8:53
+digital payment token definition. So, which regime might apply instead? And is
+8:59
+your token really designed to function as a medium of exchange or is it primarily an investment or access asset?
+9:07
+It must also be transferable, storeable or tradable electronically. This matters
+9:13
+because it draws a legal boundary for what the act targets as a payment token. And by implication, it helps distinguish
+9:20
+it from other digital asset that may be treated differently depending on their characteristics and use. So is it
+9:27
+accepted as payment by the public or a section of the public or only within a
+9:32
+closed loop and how would mass view that in practice? So the activity parameter
+9:38
+is then set through the statutory definition of a digital payment token service which is internationally broad
+9:46
+and reaches beyond the buy and sell. If you facilitate or arrange exchange
+9:51
+without taking a principal risk are you still performing a regulated service? It
+9:57
+captures activities such as dealing in digital payment uh tokens, facilitating
+10:02
+their exchange, transferring digital payment tokens, arranging for those activities and custody related roles.
+10:08
+For example, safeguarding a customer's digital payment token or having control over it on behalf of a customer. So here
+10:16
+is basically the operational test. Who has control over the token at any point on behalf of the customer? If you can
+10:23
+freeze, recover or move asset through admin keys or smart contract permissions, is that effectively uh
+10:30
+custody? And if you outsource custody to a third party, does your compliance risk
+10:36
+disappear or does it become third party risk you must evidence control over? In
+10:42
+practical terms, the regulated parimeter covers not only trading facing businesses but also key infrastructure
+10:49
+roles. What does that mean? like transfer and custody for example where consumer harm, technology risk and
+10:55
+financial crime risk can concentrate. The act basically links these activities to a tired licensing model including and
+11:03
+standard payment institution license and a major payment institution license with
+11:08
+a major payment institution uh category linked to specified threshold and scale.
+11:14
+If your growth strategy works, is your licensing strategy rate for the moment you cross those uh thresholds? It also
+11:21
+includes operational requirements that support your provision. For example, requirements concentrated to have an
+11:27
+established presence in Singapore and maintaining proper records and transaction uh books. Beyond firm level
+11:34
+licensing, the act also empowers mass to oversee certain payment systems. So
+11:39
+specifically, it can require information about a payment systems operations and
+11:44
+where necessary designate a payment system for closer oversight when
+11:50
+disruption could have wider effects such as systemic impact or loss of uh public
+11:55
+confidence. So if your service went down for 24 hours, would it be an
+12:00
+inconvenience or could it trigger a wider loss of confidence and supervisory
+12:06
+scrutiny? The supervisory to in the act is not limited to licensing. It includes
+12:11
+powers to inspect and investigate which support compliance monitoring and
+12:16
+enforcement where the mass suspects contraventions or offenses. If mass
+12:22
+asked to model for transaction records, governance documentation and control evidence, could you produce it quickly
+12:30
+and coherently? It also contains emergency powers that allow intervention where a payment entity cannot or is
+12:38
+likely to become unable to meet its obligations including mechanisms that support control and stabilization
+12:46
+actions. The act additionally supports crossber regulatory cooperation by allowing the mass to provide um
+12:52
+assistance to foreign regulatory authorities subject to uh statutory conditions and the safeguards. Finally,
+12:59
+the act regulates not only how payment services operate, but also how they are
+13:04
+presented to the public. It prohibits unlicensed persons from holding out that
+13:10
+they provide payment services and restricts offers and advertisements of
+13:15
+payment services to the public in Singapore without a license or exemption
+13:21
+including in crossber uh contexts for anyone building marketing or distributing token related payment
+13:28
+services into Singapore. The key compliance takeaway is that regulatory
+13:34
+exposure can arise both from what a business does in the transaction flow
+13:40
+and from how it solicits its or represents its services to the
+13:46
+Singaporean market. So do your disclaimers match your actual conduct or are you relying on wording that a
+13:52
+regulator may treat as form over substance?
+Digital Token Service Providers Regulation & Financial Services And Markets Act 2022 Guidelines On Licensing For Digital Token Service Providers
+13:58
+The financial services and markets act applies to many financial institutions such as banks, finance companies,
+14:04
+financial institution approved under the financial service and markets act, payment services, act licency, providers
+14:11
+of digital token service, license under the financial services and markets act and many other. But what are the
+14:17
+licenses activities for digital token service providers specifically? Licensing activities include number one
+14:25
+buying or selling digital payment tokens commonly known as cryptocurrencies. Second, providing a platform to allow
+14:32
+persons to exchange the digital payment tokens. Number three, transmitting or
+14:38
+arranging for the transmission of the digital payment tokens. Number four, provision of custodial wallet services
+14:44
+for digital payment tokens. Number five, actively facilitating the buying or
+14:50
+selling of the digital payment tokens without possession of monish or digital
+14:56
+payment tokens. By the way, mass on its website provide licensing selfch check tools for providers to check if they
+15:03
+need the license for their payment services and their eligibility to apply for a license too. Now, according to the
+15:09
+guidelines, the applicant need to do what? First, it needs to demonstrate a
+15:15
+commercially coherent business model with credible reasons for not providing digital token services in Singapore.
+15:22
+Also, operations that do not raise mass concerns and are already supervised
+15:27
+against internationally agreed standards. This includes for example or FAT and a business structure that
+15:34
+enables compliance with regulatory obligations. Partnerships must have at least one Singapore resident partner or
+15:42
+manager and corporations must have at least one Singapore resident executive
+15:48
+director. No governance ownership requirement applies to those individuals. The applicant must also
+15:53
+satisfy must that the entity and all relevant persons including the uh sole
+15:58
+proper partners, managers, directors, co stakeholders and employees are fit and
+16:04
+proper under the guidelines on fit and proper criteria with the owners on the
+16:09
+applicant to demonstrate this to mass including considerations such as the uh
+16:15
+integrity, competence, financial soundness, conflicts of interest, time commitment and the absence of adverse
+16:22
+reputation especially regarding financial crime and um sanctions compliance. The applicant must also
+16:29
+ensure its key individuals as I mentioned earlier sle propriator partners managers executive director co
+16:36
+they all have sufficient digital token services industry experience and the sound understanding of the Singapore's
+16:42
+digital token service providers regulatory framework and where managing
+16:47
+and sizable team have the competencies influence and the leadership experience to exercise the effective oversight and
+16:54
+control also taking into account relevant educational qualifications and
+17:00
+professional certifications. The applicant must maintain a permanent place of business or registered office
+17:06
+in Singapore with secure storage for books and records and appoint at least
+17:11
+one person on site to handle customer curious complaints and respond to authorities inquiries and requests for
+17:19
+information. A licensed applicant must also demonstrate ongoing compliance with the financial services and markets act
+17:25
+base capital requirement, maintain a capital buffer above the minimum as a
+17:30
+rule of uh thumb sufficient to cover around 6 to 12 months of operating expenses and implement monitoring and
+17:37
+reporting to ensure the requirements is met at all times. The minimum base capital is around 250k
+17:45
+of the Singaporean dollars. The applicant must also implement effective compliance arrangements with adequate
+17:50
+resourcing proportionate to the nature, scale and its complexity of its business while also ultimate accountability for
+17:58
+compliance with applicable laws and regulation rest you know with the people involved like the partners, the
+18:05
+managers, the CEO, the directors. Minimum expectations include either an independent Singapore-based compliance
+18:12
+function with suitable qualified staff or compliance support from a holding or
+18:17
+overseas related entity with uh demonstrable oversight. But in all cases, the applicant must appoint a
+18:25
+management level Singapore-based compliance officer with relevant
+18:30
+expertise and authority, maintain governance for compliance and the
+18:35
+anti-moneyaundering and counterterrorist financing, including targeted financial sanctions with escalation to the board
+18:42
+or a committee where appropriate and be able to evidence a clear understanding of the firm's compliance and money
+18:49
+laundering, terrorist financing risk. and the controls used to manage them. Applicants must also conduct a
+18:55
+penetration test of the proposed digital token services, remediate all high-risk
+19:00
+findings, and obtain independent validation of remediation effectiveness.
+19:05
+This is not required before applying but must be completed before the license is
+19:10
+granted. The applicant must establish also independent audit arrangements to
+19:16
+regularly assess the adequacy and effectiveness of uh procedures and
+19:21
+controls and compliance with regulatory requirements proportionate to the nature scale and complexity of its operations.
+19:29
+And these audits may be performed by an internal audit function, an independent
+19:35
+internal audit team from head office or an outsourced third party provider. The
+19:41
+applicant must apply to meet the annual audit requirements under the section 158 of the financial services and markets
+19:47
+act 2022 appointing an auditor at its own expense to audit its accounts and
+19:54
+transactions and its compliance with uh relevant regulations and uh requirements. Where appropriate, mass
+20:01
+may also require to the applicant to produce a letter of responsibility or for example letter of undertaking from
+20:08
+its majority stakeholders, parent company or for example related company using a mass provider template issued if
+20:15
+the application is approved. MASH basically also may consider the applicant track record and financial
+20:21
+condition including for instance that of its holding or related corporations were applicable. operational readiness and
+20:27
+ability to comply with uh regulatory requirements, risk awareness and risk
+20:33
+management. For example, this includes identification assessment and mitigation of uh key business uh risks and whether
+20:41
+granting the license services the public interest. New digital token service provider license applicants must submit
+20:48
+with the application a legal opinion from a reputable law firm covering the regulated digital token services to be
+20:55
+offered under the proposed uh business model. What that might include? So this includes for example a clear summary of
+21:01
+the business model and its proposed service or product. For example included asset funds flows and the parties
+21:07
+involved. Also, it includes a detailed assessment of whether its proposed service or product is a regulated
+21:12
+digital token service under the Financial Service and Markets Act 2022 with a comprehensive analysis against
+21:19
+the relevant regulatory parameter including applicable legislation notices, guidelines, circulance, and
+21:26
+frequently asked questions. where relevant a reasoned explanation of any claimed exemption or exclusion and
+21:32
+acknowledgement that the opinion will be disclosed to mass and mass may also request the second legal opinion if the
+21:38
+first one is unclear. Upon being granted an principal approval, this is known as IPA. An applicant would be required to
+21:46
+appoint a qualified independent external auditor to perform an independent
+21:51
+assessment of its policies, procedures and controls in the areas of technology
+21:56
+and um cyber security risks. A digital token service provider license must
+22:02
+comply on an ongoing basis with the financial services and market act 2022
+22:07
+and other applicable laws supported by processes, systems, policies and procedures. This includes also required
+22:13
+applications and notifications to mass and must stay current and up to date
+22:18
+with regulatory developments. Key ongoing obligations include ant money laundering and counterterrorist
+22:23
+financing compliance including targeted financial sanctions, submission of periodic regulatory returns, cyber
+22:30
+hygiene, safeguards, technology risk management, business conduct requirements. This includes the records
+22:35
+they were received, free rate disclosures, business hours and compliance with prohibitions or
+22:41
+restrictions. Also accurate license cop representations and required customer
+22:46
+disclosures with timely updates and annual appointment of an auditor to
+22:51
+audit the accounts whatever transaction and regulatory compliance with the auditor's report submitted to mass. They
+22:58
+have a very specific form for this. Now for a digital token service provider license application, the applicant
+23:04
+should also ensure it meets the admission criteria and submits an application that is complete,
+23:09
+error-free, consistent and supported by the required documents together with a business plan that clearly explains the
+23:17
+business model and demonstrates management capability and evidences
+23:22
+compliance with the FSM act and subsidiary legislation. The business plan should cover at minimum
+23:28
+jurisdictions served as evidence of licensing supervision to international standards including IOSKO or FAR for
+23:35
+example targeted clientele product services and states by states assessment
+23:40
+of which regulated digital token services are performed. This is separately from its uh service type
+23:47
+reasons for not providing services in Singapore despite being formed operating
+23:52
+there. A detail funds flow and process diagrams for a product or flow, end to end transaction steps, consumer
+23:59
+interaction and funds movement, timelines and uh settlement cycles,
+24:04
+innovation points and all the third parties involves their BS and responsibilities, implementation plans,
+24:10
+launch timeline like for example system processes, K third parties whether services are incidental with other
+24:18
+offerings or other mass regulated activities and exempted unregulated activities for global groups. The
+24:26
+Singapore entities role, group support resourcing, license and registration details for all entities and uh
+24:32
+disclosure of enforcement investigation, very holistic risk assessment, for example, including token list and
+24:38
+governance, full token list and classification under the mass framework and consumer access business conduct
+24:44
+measures. For example, operational control safeguarding, customer tokens, daily uh reconciliations, monthly
+24:51
+statements, controls over asset movement and uh customer disclosures. For technology risk management, the
+24:57
+applicant should describe its uh framework for identifying, assessing and managing technology risks and implement
+25:04
+safeguards to protect customer data transactions and system that are not
+25:10
+commensurate with the risk profile, service complexity and uh supporting technologies with reference to mass
+25:17
+notice, FSM, the N30 which is technology risk management and then there is
+25:22
+another cyber hedging notice and and 31 and the technology risk guidelines too
+25:29
+for compliance and audit. What does the applicant should provide in line with the proposed business model? So
+25:36
+anti-moneyaundering and counterterrorist financing policies and procedures that demonstrate compliance with mass notice
+25:43
+number 27 and targeted financial sanctions including oversight of agents
+25:49
+and third party partners doesn't matter local or overseas and enterprisewide
+25:54
+money laundering and terrorist financing proliferation financing risk assessment including the tax evasion risk
+26:00
+anti-moneyaundering counterterror financing governance escalation and reporting arrangements and join senior
+26:06
+management including the sole propriator partners managers director co oversight
+26:11
+and resolution of the anti-money laundering and counterterrors financing issues implementation plans for compliance management arrangements
+26:17
+processes rolled out and systems to be used the name and CV of the compliance
+26:23
+officer including any formal accreditation for example they have something from aams compliance staffing
+26:29
+and reporting lines including full details of any outsource compliance for example location relationship,
+26:36
+licensing, registration, status and oversight and internal and external audit.
+Anti-Money Laundering
+26:42
+Let us now look properly into the anti-money laundering for digital token payments in Singapore. Let's see the
+26:48
+whole book in more detail. So Singapore's anti-money laundering counterterrorist financing of terrorist
+26:55
+laws for digital token payments are basically very robust and primarily governed by MASH under the payment
+27:02
+services act the PSA and the financial services and markets act FSMA
+27:09
+2022. Note that antimoney laundering rules for digital payment tokens are outlined in mass notice number 27 and
+27:17
+the guidelines to notice I think it's notice number two on prevention of money laundering and countering the financing
+27:24
+of uh terrorism digital payment token service uh released I think this was released in uh April 24 Singapore ant
+27:32
+money laundering and countering the financing of terrorist requirements for payment services providers under mash
+27:38
+this is in notice 27 Seven onward in risk based approach. So everything is centered to the risk based approach. A
+27:44
+payment service provider is expected to take appropriate steps to identify
+27:50
+assess and understand its risks of money laundering. Terrorist financing and
+27:55
+proliferation financing taking into account risk factors across customer types, countries or jurisdiction,
+28:02
+products and services and delivery channels. The risk understanding must also cover risks arising from branches
+28:09
+and subsidiaries including those located outside Singapore. The purpose of the risk assessment is uh very operational.
+28:16
+In other words, it should determine how stringent uh the provider's controls must be including customer due diligence
+28:23
+depth screening intensity monitoring focus and escalation thresholds. Customer due diligence is a core control
+28:31
+and the notice default expectation is that identification and verification measures are completed before
+28:38
+establishing business relations or before carrying out a transaction when there is no business relationship.
+28:45
+Deferral of verification is permitted only in limited circumstances. For example, where it is essential not to
+28:52
+interrupt the normal conduct of business and only where the provider can
+28:57
+effectively manage the associate risks where the deferral is used. The
+29:03
+remaining verification must be completed as soon as is reasonably practicable. If
+29:08
+the provider is unable to complete the required customer due diligence measures, it must not continue business
+29:15
+relations and must not undertake the transaction. In such circumstances, the provider is expected to consider whether
+29:22
+the facts and context give rise to suspicion and therefore warrant
+29:27
+suspicious transaction report. The notice also addresses existing customer population by requiring that consumer
+29:34
+due diligent measures be applied to customers that existed before licensing within a time period detainment by mass.
+29:41
+The notice sets clear boundaries around simplified customer due diligence. Simplified customer due diligence is not
+29:47
+a general relaxation of standards. Right? It is permissionable only where the provider has assessed and can
+29:55
+substantiate that the risk is lower and where the reduced measures remain sufficient for the provider to identify
+30:02
+unusual or suspicious activity through ongoing monitoring. A specific operational limit is of course included.
+30:08
+Simplified customer due diligence must not be applied where cumulative transactions exceed 20,000k Singapore
+30:16
+dollars in any one-year period. This functions as a hard trigger. Once activity reaches that level, the
+30:23
+provider must apply customer due diligence measures that are appropriate for the customer's risk profile and
+30:30
+transaction behavior rather than continuing to rely on simplified
+30:35
+measures. Beneficial ownership requirements are treated as substantive part of a customer due diligence, not a
+30:41
+formality. The provider must inquire whether beneficial owners exist. Where
+30:47
+beneficial owners exist, the provider is required, for example, to identify them in accordance with the notices
+30:54
+requirements for legal persons and legal arrangements including the relevant parties to a trust. Beneficial owner
+31:01
+identification is therefore not satisfied by obtaining only the name of the legal entity. It requires the
+31:06
+provider to obtain specified minimum information about beneficial owners and
+31:13
+to apply the measures in a manner that is commensurate with the risks and the nature of the customer structure.
+31:20
+Screening is another explicit requirement with defined triggers and documentation expectation. The provider
+31:26
+is expected to uh basically screen the customer persons also acting on behalf of the customer connected parties and
+31:33
+beneficial owners against relevant information sources and lists. So screening is expected on boarding or as
+31:41
+soon as reasonably practicably thereafter before set transaction where there is no business relationship
+31:48
+periodically during the course of the relationships and when relevantly are updated. Screening outcomes should be
+31:55
+recorded so the provider can demonstrate of course that screening has been performed and how alerts were resolved
+32:02
+and what actions were taken where matches or potential matches were identified. The notice also frames
+32:09
+obligations in the context of valid transfers. It defines value transfer and
+32:14
+includes expectation that screening extends to the value transfer originator
+32:20
+and value transfer beneficiary against relevant lease. This is particularly
+32:25
+relevant for business models involving transfers of value across parties or
+32:30
+networks because it reinforces that screening and controls are not confined
+32:36
+to initial on boarding. They must also be applied to transactional parties and
+32:41
+flows were required. Across these requirements, the noise links compliance gaps to clear operational outcomes
+32:48
+where customer due diligence cannot be completed. The provider must not proceed
+32:54
+with establishing or continuing the relationship or carrying out the transaction and it must assess whether
+33:01
+the situation is suspicious and should be of course reported. In practical compliance terms, the notice therefore
+33:08
+what does it specify? What risks must be assessed? This includes the proliferation financing. What due
+33:14
+diligence must be completed and when? The conditions under which deferral is
+33:19
+permitted and how it must be managed. the limits on the simplified customer
+33:24
+due diligence including this 20k Singapore dollar1 year threshold, the need to identify beneficial owners using
+33:31
+required measures for legal persons and legal arrangements and the concrete screening triggers and records keeping
+33:38
+expectations that support sanction compliance and ongoing risk control.
+33:44
+Singapore's anti-money laundering and countering the financing of uh terrorism
+33:49
+framework is explicitly aligned with international standards and international transaction architecture
+33:55
+and the applicable guidelines expects payment services providers to operationalize that alignment in uh
+34:02
+concrete controls. The mass nish framework treats exposure exposure to
+34:08
+jurisdictions in relation to which the financial action task force has called for a counter measures as a higher risk
+34:15
+indicator that should drive stronger customer due diligence enhanced monitoring and it also recognizes
+34:22
+equivalent foreign financial institutions as those supervised for anti-malaundering and countering the
+34:29
+financing of terrorism requirements consistent with the FAT standard. in the
+34:34
+limited context where the risk based adjustments are permitted. In parallel, the the guidance links proliferation
+34:40
+financing controls to the United Nations Security Council sanction system. So
+34:46
+basically Singapore issues financial services and market sanctions regulations to implement obligations
+34:52
+binding on Singapore by virtue of United Nations Security Council resolutions and
+34:58
+firms are expected to screen customers and relevant parties against the latest
+35:04
+United Nations screen and council sanction list maintain arrangement to detect list updates and take follow-up
+35:10
+action with a reasonable period as required by applicable laws and regulations.
+35:16
+The guidance also reinforces that international organization politically
+35:22
+exposed persons are within scope of politically exposed persons. The PEP controls so firms should have processed
+35:29
+to identify and manage the heightened corruption and misuse risks associated
+35:35
+with political exposed persons including those linked to international organizations. Together, these requirements mean that compliance is not
+35:42
+only domestic. Firms are expected to embed the fat frisk signals into risk
+35:49
+assessments and enhanced measures and to treat the United Nations Security
+35:54
+Council based sanction screening and timely action as core operational
+35:59
+obligations. Of course, supported by many documented controls, escalation, and ongoing monitoring.
+Stablecoin Framework -SCS framework
+36:07
+Singapore currently regulates the Bitcoin activities under the payment services act as digital payment token
+36:14
+services the DBT right what's the bitcoins are covered there so only
+36:19
+single currency stable coins paid to the Singapore dollar or a G10 currency for
+36:25
+example USD euro GBY issuers must be based in Singapore so stable coins ped
+36:33
+to other assets or issued outside Singapore will remain under the current
+36:39
+uh digital payment token rules. Requirements are very very much
+36:44
+specific. As far as composition is concerned, reserves must be denominated in the currency of the stable coin peds
+36:51
+and held in cash equivalents or debt securities with up to three months residual maturity issued by the
+36:57
+government or central bank of the ped currency or for example organizations that are of both a governmental and
+37:04
+international character with a minimum credit rating of AA miners. As far as uh
+37:10
+valuation is concerned, reserves must be at least equivalent to the per value of single currency stable coins in
+37:16
+circulation at all times and valued on a mark to market basis daily. As far as
+37:23
+segregation and custody are concerned, reserves must be held in segregated
+37:28
+accounts on trust and held by with permitted custodians, namely financial
+37:34
+institutions licensed by mass in Singapore to provide custodial services or overseas based custodians with a
+37:41
+minimum credit rating of a uh minor that have a branch in Singapore regulated by
+37:46
+mass to provide the custodial services. As far as the independent extension and audit are concerned, reserves must be
+37:53
+independently attested to an one and monthly basis with the report disclosed
+37:58
+on the entities website and submitted to mass and to be subject to an annual
+38:03
+audit with the audit report submitted of course to mass. As far as redemption at paper is concerned, holders must have a
+38:11
+direct legal claim for redemption at par, be able to make redemption request at any time, receive timely redemption
+38:18
+to no longer than five business days, and any redemption conditions like if
+38:23
+any, must be reasonable and disclosed upfront. As far as credential requirements are concerned, the base
+38:29
+capital requirement is uh the higher of uh 1 million Singaporean dollars or 50%
+38:35
+of final operating expenses known as OPEX. Solventry requires liquidity asset
+38:41
+valued at the higher of 50% of final operating expenses or the amount
+38:46
+assessed to achieve recovery or an orderly windown with the assessed recovery windown amount to be
+38:52
+independently verified and business restrictions. prohibiting the single currency stable coins issuing entity
+38:59
+from providing other non-issuant services. For example, lenting, staking or dealing in divities uh other than the
+39:06
+single currency stable coins being issued and recognized as mass regulated
+39:12
+stable coin and also require that the single currency stable coin issuing entity cannot have a stake in any other
+39:19
+entity. As far as the white paper issuance is concerned, a white paper must be issued disclosing details
+39:25
+including but not limited to general information of the issuer. The operations of the single currency stable
+39:31
+coin for example include the value establishing mechanism and the technology which has been adopted risks
+39:37
+arising from the use of the risk of the single currency stable coins and the rights and obligation related to the
+39:43
+single currency stable coins. For example, here we have the redemption. And then we have of course the anti-money laundering and the countering
+39:48
+of the financing of terrorism. So existing anti-money laundering and counter terrorist financing standards
+39:54
+applicable to DPD service providers and banks of course apply here including for example the as we mentioned earlier the
+40:01
+customer due diligence the travel rule and screening. Now looking to the technology and cyber risks. So existing
+40:08
+technology and cyber risk management standards applicable to DBD service providers again here apply.
+Singapore's Digital Tokens Initiatives
+40:15
+Singapore has moved tokenization for concept to coordinated execution through a very a set of initiatives that test
+40:23
+the full stack. How tokenized assets are issued how they settle and what controls make them scalable. So are we building
+40:30
+tokenized products or building the market infrastructure that makes them
+40:35
+safe to run at scale? Now I'll cover four initiative project guardian uh the
+40:41
+GL1 bloom and project orchid. And as we go keep one practical, very practical
+40:46
+thing in mind. Where does risk concentrate in your model? Investor rights, custody and operational
+40:54
+resilience or crossber settlement finality.
+Project Guardian & Tokenisation
+40:59
+Project Guardian is a collaborative crossborder sandbox led by policy makers and the financial industry to improve
+41:06
+the liquidity and efficiency of financial markets through asset tokenization supporting industry trials
+41:12
+across multiple currencies and products such as tokenized funds, bonds, uh
+41:17
+stable coins and tokenized uh bank liabilities. A playbook was basically launched in uh November 2025 for
+41:25
+launching and scaling organized funds covering topics related to legal structure, legal views of the
+41:30
+interoperability and the settlement finality, use cases, technology and operations and road to scalability and
+41:37
+adoption as well as the identification of important enablers. include know your customer on boarding, network feds,
+41:44
+vational race controls, market structure and liquidity and technical standards and user experience as key milestone to
+41:50
+ensure scalable adoption. Its aim is to standardize interoperable protocols for issuance trending and settlement and to
+41:58
+develop risk management and regulatory frameworks for example custody settlement finality compliance security
+42:05
+and operational resilience to enable scalable crossber implementation across
+42:10
+jurisdictions. The policymaker group includes from Singapore we have MASH we have Australia from Australia we have
+42:16
+ISIC from France we have bank to France from Germany we have Deutsche Abundance
+42:21
+Bank from United Kingdom we have the FCA from Japan we have the financial
+42:26
+services agency and from Switzerland we have the Fenma and also we have some
+42:32
+other organization including the national morator fund and the world bank as international institutions. Now the
+42:38
+project guardians tokenization work on funds sets out a practical framework for how investment funds can adopt
+42:45
+blockchain in progressively deeper ways while keeping investor protection and legal certainty at the center. It
+42:52
+describes three archetypes for tokenized fund source registers including the digital mirror. This is an internal
+42:59
+non-authoritative onchain copy of off-chain register. Digital twin models where an onchain register becomes
+43:06
+authoritative for a distributor nominee or a tokenized feeder fund that provides
+43:11
+access to an existing traditional fund and digital native. So a fully onchain
+43:17
+authoritative register with subscriptions, redemptions and transfers executed via smart contract. As
+43:23
+tokenization becomes more integrated, the framework highlights that ownership
+43:28
+and investor rights can change materially. Investors may have more direct rights
+43:35
+into mirror narrative structures, whereas the digital twin structures often introduce indirect ownership and
+43:42
+rooted enforcable rights through intermediaries like for example a feeder fund, vehicle or a distributor nominee.
+43:49
+Crucially, the guardian emphasizes that tokenized funds require enhanced
+43:54
+disclosure and operational risk controls, including clear comprehensive risk disclosures. For example, laser
+44:01
+unpredictability, transaction irreversibility after theft, fraud manipulation risk and private key
+44:08
+loss, prelatch penetration and resilience testing, robust custody security and ongoing blockchain
+44:15
+monitoring, especially for digital native models. It also flags that scaling to organized funds across
+44:21
+multiple chains raises complex questions around interoperability and settlement finality where common brids designs lock
+44:28
+and mint and burn and mint may be economically equivalent but legally
+44:34
+uncertain in terms of whether a new property asset is created how title transfers and whether transfers are
+44:40
+final and protected against uh insolveny. Guardian's key message is that in the absence of clear staticary
+44:48
+finally regimes for tokens, market participants may need stronger contractual rule books and continued
+44:54
+regular industry coordination to ensure multi-chain innovation does not outpace investor protection even when the
+45:02
+technology allows uh tokenized funds units and payment to settle together in real time like 24 into 7. Project
+45:09
+Guardian straces that real world scaling is still constrained by how funds actually operate today. Particularly
+45:17
+minor market funds typically calculate net asset value only once per day. So
+45:22
+transactions after a cut off settle at the next uh day that limits in their day
+45:28
+price formation and makes a truly uh continuous uh secondary market harder to achieve. They frame also tokenize
+45:34
+settlement as a clear risk opportunity trade-off. The upside is global scalability with programmable compliance
+45:40
+but only if the ecosystem can manage risks like uncertain settlement finality
+45:46
+across jurisdictions, liquidity uh fragmentation across chains, operational or technology failures and cyber attacks
+45:54
+targeting smart contract settlement logic. M the investment management association of Singapore, the FCA in
+46:00
+Singapore and the Investment Association published in uh November 2025
+46:06
+operational readiness checklist for issuers and investors designed to maximize investor participation and
+46:13
+operational efficiency while uh minimizing risk and maintaining legal adherence a tokenized product scale. In
+46:20
+practice, it starts with clarifying the operating setup, service providers and scope, target client segment and any
+46:26
+licensing regulatory requirements across the relevant uh jurisdictions. Then moves to product and legal design, uh,
+46:34
+investor protection controls including the anti-money laundering and know your customer wallet screening and added
+46:39
+privacy, the token structure, the legal rights attached to the token and holder and any additional disclosures needed in
+46:46
+uh, prospectuses or uh, fats followed by operational chains and oversight new or
+46:52
+modified processes and audit frameworks. It then shifts into implementation readiness, selecting the blockchain
+46:59
+protocols, designing interoperability and chain-to-chain mechanisms, integrating with existing
+47:06
+infrastructure, defining smart contract token management across issuance uh transfer redemption, also maintaining
+47:14
+records or the trails, aligning with organized cash where relevant and ensuring business continuity and future
+47:20
+proofing. Finally, it emphasizes run the business controls before launch user training shops and incident response
+47:29
+documentation independent uh smart contract insurance audits reviewing liability insurance implications
+47:36
+completing the UAT and end to end validation including low testing testing interoperability and failover and
+47:43
+completing go live checklist and sign offs. Then we have the global lay layer one
+Global Layer 1 (GL1)
+47:51
+the GL1 initiative published by mass with contributions from uh BNY city MUFG
+47:58
+bank onyx by JP Morgan and associated general forge is exploring a short
+48:05
+ledger infrastructure intended to support tokenized financial assets and transactions as foundational uh digital
+48:12
+arrays for the industry. It basically envisages hosting both cash and
+48:18
+securities on the same shared ledger enabling atomic settlement. For example, delivery versus payment so that both
+48:25
+legs of a transaction either complete together or fail together thereby
+48:30
+reducing settlement and counterparty default impacts. A central design requirement is clear settlement finality
+48:38
+defining when settlement becomes irrevocable and unconditional with the GL1 assuming the need for deterministic
+48:45
+consensus. For example, finality once a predefined number of uh designated validator nodes rates consensus due to
+48:53
+the fact that the GL1 is intended to operate across markets. It operating entities may be treated as financial
+49:00
+market infrastructure and or crucial service providers in some jurisdictions implying substantial governance risk and
+49:06
+regulatory engagement. The proposed development path includes a twopoint
+49:12
+model. So independent operating companies to build and run the GL1
+49:17
+alongside a nonprofit body to stayward common principles, standards and best
+49:23
+practices while use case studies under consideration include uh domestic and crossber payments, securities insurance,
+49:30
+collateral management and security settlement.
+Bloom Initiative
+49:36
+Bloom stands for borderless a liquid open online multicurrency. It is a mass initiative that builds on project orchid
+49:42
+to strengthen Singapore's financial infrastructure for tokenized settlement. It focuses on enabling the use of
+49:49
+regulated sentiment assets included tokenized commercial bank money and
+49:55
+stable coins that meet regulatory expectations across multiple currencies the G10 and Asian for domestic and
+50:03
+crossber wholesale payments for example corporate treasury trade finance and agent payments. Key focus areas include
+50:09
+distribution and clearing to coordinate disparate networks for seamless transfer and redemption of settlement assets,
+50:16
+programmable controls to standardize and automate compliance checks, reducing compliance costs and uh and
+50:22
+consistencies and payments that use AI agent to execute transactions
+50:28
+automatically within defined limits and conditions. The initiative's members span banks of
+50:34
+fintech and infrastructure providers including uh anchorage digital and international shackle coinbase DBS DB
+50:42
+Morgan Caseicorn Bank OCBC parture scanders standard charted
+50:50
+straits xstripe timob and x-wave
+Project Orchid
+50:56
+project orchid is a practical learner by doing initiative led by mass developed with the public private group that
+51:02
+includes uh DBC Bank, Overseas Chinese Banking Corporation, United Overseas Bank, Nets uh Singapore's domestic
+51:10
+electronic payment network, Timasc Faz Grab and public sector digital teams
+51:15
+such as open government products. So basically the initiative explores how programmable digital Singapore dollars
+51:21
+could function as national payment infrastructure for targeted payments and value distribution rather than a retail
+51:28
+speculated product. Its central concept is uh proposed bound money digital value that carries enforcable conditions about
+51:36
+how, where and when and by whom it can be used. In practice, this means funds
+51:41
+can be restricted uh to approved merchants limited to specific purposes
+51:46
+made valid only within a defined time window or released only after defined
+51:51
+conditions are met. A key theme is that scaling programmable money requires both
+51:57
+innovation and safeguards. So the work basically highlights tradeoffs that
+52:02
+matter for real world adoption. For example, maintaining reliable interchangeability
+52:07
+between different forms of digital Singapore dollars, ensuring strong controls against fraud and misuse and
+52:13
+designing user experiences that are simple for recipients and merchants. It
+52:19
+also recognizes operational constraints that affect visibility including the cost and variability of transaction
+52:26
+phase on some networks. and it uh discusses models where the creator of
+52:31
+the proposed bound money covers those codes so recipants are not burdened. In parallel, it emphasized that a credible
+52:37
+approach must include strong financial crime controls including appropriate customer due diligence, ongoing
+52:43
+monitoring and mechanisms that can support verification uh without
+52:49
+undermining usability. The initiative it's tested through realistic use cases
+52:54
+that Singapore already runs at scale. For vouchers, it explores how purposebound money could embed
+53:02
+authenticity and reduce reconciliation friction through shared records while still supporting straightforward
+53:09
+merchant acceptance. In one pilot, DBC bank issued digital Singapore dollars as tokenized deposits to test automated
+53:15
+campaign rules and faster settlement for commercial vouchers trials linked major
+53:21
+ecosystem actors and payment processors so that value could be accepted digitally and converted into Singapore
+53:28
+dollars for merchants. for government payouts. The work built on uh Gasp tech
+53:33
+check replacement service delivered with overseas Chinese banking corporation and
+53:39
+the central provident fund board and linked to the live CG application
+53:44
+developed with the government technology agency of Singapore enabling recipients to view payments and access funds
+53:51
+through familiar channels such as accountbased transfers or cash withdrawal options for learning and
+53:58
+training support. A pilot structured around skills future Singapore tests how
+54:03
+funds could be released only after specific verification steps are completed before training providers
+54:10
+receive the value and convert it into ordinary deposit if needed. One additional point worth highlighting is
+54:16
+what this initiative is and is not. It is best understood as capability building for future readiness rather
+54:23
+than a decision to launch a retail central bank digital currency. The initiative explicitly notes that there
+54:30
+is no urgent case for a retail central bank digital currency in Singapore at present. Instead, it focuses on
+54:37
+developing and testing proposed bond money as a practical mechanisms that
+54:42
+could be applied across different forms of digital money. It is also a clear
+54:48
+evident about infrastructure choices. Different technology uh architectures present different policy trade-offs
+54:54
+including questions of accountability, resilience and service level reliability
+55:00
+and the need to balance transparency with personal data protection.
+Key Takeaways
+55:06
+Let us conclude with uh what the key takeaways from the digital tokens in Singapore case study. Singapore's
+55:12
+approach to digital token is best understood as a strategic extension of its financial center model. Tokenization
+55:19
+is treated as market infrastructure that must remain trusted, resilient and
+55:24
+internationally interoperable. The significance is not only domestic mass
+55:30
+uses conveying power crossborder pilots, multicurrency experimentation and
+55:36
+alignment with global standards to shape reusable templates for compliant
+55:42
+tokenized finance position in Singapore as a practical reference jurisdiction
+55:47
+for institution grade adoption. The regulatory architecture is um
+55:53
+deliberately functional and parimeterdriven. Mass is the primary regulator but
+55:58
+obligations depend on what a token is in law and what activity a firm performs.
+56:04
+Payment token services fail mainly under the payment services act. Capital markets representations can trigger the
+56:10
+securities and futures act and the financial services and markets act
+56:16
+extends oversight to digital token service providers with Singapore Nexus even when serving markets outside
+56:22
+Singapore. This matters because the compliance question is rarely served by labels. It is solved by mapping
+56:29
+activities place of business links and consumerf facing conduct into the correct legal perimeter within the
+56:35
+payment services act. The practical takeaway is that licensing risk is activity based and anti- avoidance is
+56:41
+built in. Digital payment token service reaches far beyond buying and selling
+56:46
+capturing facilitation transfers arranging and especially custody control
+56:51
+areas where consumer harm and financial crime risk concentrate. In practice,
+56:57
+firms should assume supervisors will test substance over form. Incidental
+57:02
+token futures outsourcing or corporate structure do not necessarily remove exposure if the regulator service is
+57:09
+being delivered in the transaction flow or through control points. The financial services and markets act digital token
+57:17
+service providers framework reinforces that Singapore's expectations are governance heavily and evidence-led.
+57:24
+Licensing is not merely an eligibility exercise. It requires a coherent business rationale, fit and proper
+57:31
+standards, a real operational presence, a credible leadership competence and
+57:37
+demonstrable compliance arrangements, auditability and technology resilience. The
+57:43
+significance for industry is that mass is effectively assessing whether a firm can operate safely under stress
+57:50
+operationally, legally and from a financial crime perspective uh rather than whether it can produce a compliant
+57:58
+narrative. Antimaundering counterterrorist financing is treated as operational discipline not abstract
+58:04
+policy. The regime is risk based and designed to drive a concrete decisions when due diligence must be completed
+58:10
+when simplified measures are prohibited or must be escalated when screening must
+58:16
+occur and be evidenced and when a firm must not proceed and should consider
+58:21
+filing a suspicious uh transaction report. So the key value for practitioners is that the rules
+58:27
+translate directly into controls, thresholds, uh escalation logic and documentation expectations that can be
+58:34
+tested in supervision. Singapore stable coin approach illustrates how it narrows scope while raising standards to make
+58:40
+stability legally meaningful. The initiatives show that Singapore is building the full stack needed for
+58:47
+scalable tokenized markets. Project Guardian operationalized organized finance through uh practical fund
+58:53
+archetypes and readiness checklist while highlighting hard problems for example like investor rights custody and
+58:58
+crosschain sentiment finality. So that bring us to the end of today's
+59:04
+episode on Singapore's digital token bull book and what it signals for institution grade organization where
+59:10
+licensing parameters sit why custody and operational resilience attract the
+59:15
+highest cranity and how antimmalaundering expectations translate into practical controls. If you found
+59:22
+this useful, please like the video, subscribe to the channel and share it with everyone working in regulation,
+59:28
+compliance policy or digital assets. I would also love to hear your view as tokenized markets scale. What do you
+59:36
+think is the hardest point to standardize across jurisdictions? Investor rights and disclosures,
+59:42
+operational resilience and custody or settlement finality across chains and borders. Leave a comment below and if
+59:50
+you want more episodes like this, turn on notification so you do not miss the
+59:55
+next one. Thanks for watching and I will see you in the next episode of By the
+1:00:01
+Rules.

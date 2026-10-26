@@ -1,0 +1,2533 @@
+
+Search in video
+0:00
+Well, thank you everyone for uh being here this afternoon.
+0:05
+Unfortunately, our president uh Mrs. Pervas can't be with us uh this afternoon. So she asked me to uh pass
+0:14
+her on best regards and to thank you all for being with us uh this
+0:19
+afternoon and it is a real pleasure for the air to co-organize this seminar with
+0:27
+the University of especially thank you for all the work we have done
+0:33
+together. It was very pleasant. You all know what stable coins
+0:38
+are. Um you all know that they act uh or can be presented as let's say a bridge
+0:46
+between what we now call the traditional finance and let's say the crypto
+0:55
+world they have one core characteristic which is their one for one peg with
+1:02
+crypto with that currencies sorry USDC and uh US sorry dollars and euro
+1:10
+This ensures at least three things. Firstly, they represent uh
+1:16
+globally accessible store value. They are presented often like uh
+1:24
+very efficient crossber transaction tools and at the
+1:30
+end this enhance liquidity across digital market.
+1:36
+So before we starting really the seminar, I just want to
+1:43
+have some figures to know what we are talking about and if some of you still
+1:48
+think that stablecon are just a new tool or an experiment uh you might be
+1:53
+surprised by those figures. I will invite you to uh step
+1:59
+with me to take a step back with me. Uh first last year the
+2:06
+transaction volume of stable coin reached 35 trillions of dollar which
+2:12
+mean that they clearly outpacing Visa and Mastercard together.
+2:20
+Secondly, the number of active addresss have more than doubled in a year
+2:25
+reaching about 30 million active address and the total amount of stable
+2:33
+coins sorry the amount of stable coin supply exceed more than 200 billions um
+2:39
+of in February 2025 which mean that it was more than 60% growth in a year In
+2:48
+short, you have an explosive growth and an increasing
+2:54
+adoption. So when you know that you have to have in mind a landscape in stable
+3:00
+cocon is quite easy. The landscape is quite clear. You have USDT and USDC
+3:06
+which remain dominant even though new players are coming and maybe we are talking about uh USDE from Athena. Yet
+3:15
+despite this rapid growth I just mentioned, stable coins remain 100 times
+3:22
+smaller than the total amount of M1 value. And if you compare to euro, it's
+3:30
+50 times smaller than the euro M1 money supply.
+3:36
+So even though they are not a niche innovation anymore, I think we can't yet
+3:45
+say that they are a fundamental pillar of finance. The path forward is so very
+3:50
+important and is also becoming clearer in Europe. Mika regulation is bringing
+3:57
+much needed clarity maybe paving the way for institutional adoption and I'm sure the industry
+4:04
+welcomes that but in the US things are more uncertain as you know I'm sure the new
+4:12
+administration has issue let's say not maybe not hundreds but a great number of
+4:18
+executive orders since January and one of them is banning CBDC
+4:24
+so the central control buying digital currencies while actively supporting stable coins. And from my understanding,
+4:32
+a working group has been set up to propose a federal regulatory framework within the next six months. So, it's
+4:38
+going to be quite fast. So, here we are at a turning point. Institutional adoption seems to
+4:45
+be looming, regulations are shifting, and the industry is evolving fast. This
+4:52
+is why I'm very happy that we have this discussion today so we can explore the
+4:58
+challenges of stable and ma regulation and how they can help to preserve Europe
+5:04
+strength and strategic autonomy because this is what we have to have in mind
+5:10
+what discussion we might have. So thanks to all our guests for
+5:17
+kindly accepting the invitation. Thanks again Anastasia for all the work and we
+5:23
+do the George you are represented uh you're representing sorry link letters so I know you have few words to tell us
+5:29
+so I will now give you the floor I wish you a good seminar to everyone thanks for being with us
+5:35
+[Applause]
+5:46
+today ladies gentlemen good Afternoon. I wish you a warm welcome at
+5:52
+linkators. So today we are pleased to host this new event coorganized by the fair and the
+5:58
+university and this outstanding panel of experts that will be having exciting
+6:03
+discussions about this very hot regulatory topic table coins. Hot topic for in my view three
+6:12
+main reasons. First, as all of you may know, Micah, which definitely entered
+6:17
+into force at the end of last year, regulates across EU member states the provision of services on crypto assets,
+6:24
+including on stable coins, which under Mica are subcategory of crypto assets.
+6:30
+Nika also addresses offering to the public and admission to trading of stable
+6:36
+coins. However, stable coins raise a number of queries beyond Nika.
+6:42
+Indeed, certain stable coins also qualify as electronic money. This means that the provision of certain services
+6:49
+on these stable coins could be viewed as payment services which as a principle
+6:54
+may only be provided by payment services providers. In this respect, particular
+6:59
+attention will need to be paid in the coming months on the ongoing discussions between the European Commission and DBA
+7:06
+on the interplay between PSD2 and MA. Finally, stable coins are also at
+7:12
+the core of the discussions around the implementation of central bank digital currencies. At the European level,
+7:19
+various works have been conducted over the last years by the ECB to implement a digital euro alongside physical money.
+7:28
+While the industry would welcome a wholesale digital euro and notably for settlement of tokenized asset purposes,
+7:35
+a recent report from DCB casted doubts on the need for consumers of a digital
+7:40
+euro as a new payment method. Thank you for your attention and I wish you a great conference. And now I
+7:47
+will hand over the the mic toast. [Applause]
+7:58
+So ladies and gentlemen, dear colleagues and friends, um I would like to warmly
+8:05
+thank the for the organization of this event and also the institute Lu Basel
+8:12
+that for its uh valuable contribution. Our keynote speaker today is Donato
+8:19
+Messino that uh uh did us an honor to come from Washington DC today uh to join
+8:28
+us and to present the um international standards and practices. So, Donato is a
+8:35
+legal uh expert at the uh department law department of the international monetary
+8:41
+fund and previously he has served positions at the European Central Bank
+8:46
+and at the bank of Italy. So, Donato, your the floor is
+9:00
+yours. Good afternoon everyone. I thank Anastasia and the organizers for inviting me. I'm particularly glad to
+9:07
+take part in this event as it brings together speakers from the industry, the legal professor profession, the academia
+9:14
+and public institutions and inputs from different perspectives will be beneficial to today's discussion. uh
+9:21
+stable coins are attracting growing interest from market participants, standard sectors and regulators and
+9:28
+innovative uh legal thinking is required to address their risks and opportunities. My presentation will be
+9:34
+structured as follows. First, I will point out the tradeoffs underlining um
+9:40
+underlying policy and regulatory approaches on crypto assets. Then I will introduce the notion and use cases of
+9:47
+stable coins highlighting potential benefits and risks. And finally, I will give an overview of the international
+9:53
+standards and practice developed uh so far to address such risks. Before I begin, I need to clarify that the views
+9:59
+expressed here are of my own and do not necessarily reflect those of the IMF, its executive board or uh management.
+10:07
+The IMF has been collaborating with the financial stability board to to build a policy and regulatory strategy on crypto
+10:14
+assets. Regulatory responses seek to address risks arising from crypto assets
+10:19
+without stifling the opportunities connected to fintech innovation. Such responses must fit
+10:26
+smoothly in the legal and institutional structure of member states and to this
+10:31
+end international standards are high level and just set objectives that can
+10:36
+be achieved through different solutions by member states. However, fragmented
+10:42
+national approaches might be may be ineffective as crypto assets are borderless in nature and operations and
+10:49
+therefore regulatory approaches need to be comprehensive, consistent and coordinated across jurisdictions. On top
+10:56
+of that, cooperation and sharing of information among national authorities are of the essence. As a matter of fact,
+11:03
+legal frameworks on crypto assets still broadly differ. Some jurisdictions face
+11:08
+challenges in the implementation of the recommendations due to lack of resources, lack of data, lack of a
+11:15
+common taxonomy. However, the first building block of national legal frameworks uh
+11:22
+should be the strengthening of legal clarity in different areas of law related to crypto assets. Notably,
+11:28
+private law should be modernized with a view to clarifying the classification of
+11:34
+crypto assets and rules governing their transactions and this includes the
+11:40
+fundamental question regarding the nature of the rights of crypto investors visav firms and their treatment in ins
+11:47
+insolveny as well. Are they proprietary rights unaffected by insolveny or are
+11:52
+they personal claim ranking paribasu with all the other firms creditors? We
+11:58
+know that courts in different jurisdictions are giving different answers to this fundamental question
+12:03
+which we're going to see is quite relevant in the case of seable coins. Clarifying the treatment of crypto
+12:10
+assets under financial law categories is also and establishing transparent and predictable tax law frameworks for
+12:16
+crypto crypto assets. Legal clarity is especially relevant in the case of stable coins. As I'll say in a minute,
+12:23
+clear rules and transparent information on reserve asset composition, custody arrangement, and redemption rights is
+12:30
+key in mitigating the risk of brands on stable coins.
+12:36
+Crypto assets advocates point out the benefits associated with them. Depending
+12:42
+on the circumstances, they can include cheaper and faster payments as certain technologies have a potential for
+12:48
+avoiding or reducing centralized intermediation and uh time and fees uh
+12:54
+which come with with them with it. connected to these crypto assets could enhance financial inclusion of the
+13:00
+unbankked population as users can obtain alternative access to payment services
+13:06
+again allegedly at lower fees than those imposed by banks and just using their smartphones. Innovation and market
+13:13
+competition. The source code of public blockchains is available is generally available. So further development and
+13:19
+reuse are possible and new financial services can easily be created. transparency and traceability of
+13:25
+transactions as this would typically be allowed by the DT architecture. And uh
+13:31
+finally, decentralized finance is also presented as a potentially more secure
+13:37
+means in so far as it minimizes risks associated with central points of failure and benefits would be greatest
+13:44
+in the case of stable coins. Among all crypto assets, stable coins have as a
+13:49
+distinctive feature the existence of a stabilization mechanisms and such
+13:55
+mechanisms purports to maintain a stable value by pegging the tokens to a real
+14:00
+world asset. So stabilization mechanisms should overcome one of the limits of
+14:06
+unbucketed crypto assets that is their price volatility. Price volatility
+14:11
+arises from the lack of a fundamental value associated to the token and due to
+14:17
+price volatility unbucket crypto assets have mainly been used for speculative uh
+14:22
+for speculative purposes. By contrast, stable coins aim to maintain a stable
+14:28
+price through the backing of reserve assets or through algorithms that that respond to demand and supply. However,
+14:35
+it's worth clarifying already at this stage that according to the FSB high level recommendations on global civil
+14:42
+coin arrangements that I will discuss later algorithmic stabilization mechanisms are not sufficiently
+14:49
+reliable. For sure, this stance of the IMF is mindful of the failure of TerraUSD May 2022. Stable coins are
+14:57
+generally denominated in a monetary unit of accounts such as the dollar and may pledge to redeem into cash at bar. As
+15:04
+such to a certain extent they can represent an alternative to currency as a store value and as a means of
+15:11
+payments. And as a matter of fact recent studies find for instance that stable coins are increasingly being adopted in
+15:19
+uh crossber remittances as the organizers were reminding at the at the outset.
+15:25
+However, the purported stability of stable coins is also a potential source of
+15:30
+risks. Widespread adoption of stable coins in a country could threaten the
+15:36
+effectiveness of monetary policy in that country. People who choose to receive
+15:41
+payments or make transactions in a stable coin instead of the local currency are in fact rejecting the money
+15:48
+printed by their own central bank. And this makes it difficult for central banks to influence their economies
+15:54
+through interest rates and other monetary policy tools. The risk of currency substitution, cryptoization if
+16:02
+you will, is particularly strong for countries with unstable currencies and weak monetary frameworks and with a
+16:09
+banking system which is perceived as being untrustworthy or antiquated.
+16:14
+In such countries, people can be attracted by stable coins denominated in foreign currencies as they could offer a
+16:21
+less volatile alternative to the domestic currency. Compared to commercial banks, crypto asset service
+16:28
+providers could also offer easier and cheaper solutions for transferring money
+16:33
+globally. Moreover, crypto lending platforms promise higher returns than a
+16:39
+deposit in a bank. And this also can attract investors to convert traditional
+16:44
+currency into stable coins and park their savings there. Also, compared to reserve currencies like the dollar or
+16:50
+the euro, access to stable coins could be seen by some as smoother or more
+16:55
+profitable. Connected to these, the risk of bank disintermediation also arises. A
+17:02
+significant shift from bank deposits into stable coins or more generally into
+17:07
+privately issued digital assets could have implications for lending and intermediation by the banking sector. If
+17:14
+banks were to lose wide amounts of deposits, their ability to channel credit to the real economy would be
+17:21
+jeopardized and this would have a negative impact on financial stability.
+17:27
+In this respect, it must also be considered that bank deposits fully
+17:32
+benefit from the financial safety net, including from deposit insurance. As long as stable coins are not insured,
+17:38
+their alleged stability alone doesn't make them fully comparable to bank deposits as a s of value. The
+17:46
+implications are different. The risks of currency substitution and bank disintermediations are currently
+17:52
+addressed by jurisdictions by way of setting volume limits. Sometimes these can be fixed in regulation such as under
+18:00
+Mikar or left to the discretion of the supervisor such as in Hong Kong. Market risk related to stable
+18:08
+coins may affect the stability of financial institutions. To a certain extent, the traditional financial sector
+18:15
+is exposed to crypto assets. On the one hand, some financial institutions hold
+18:20
+crypto assets and provide credit and financial services to operators like trading platforms and wallet providers.
+18:27
+On the other hand, some financial institutions provide credit and financial services to investors in
+18:33
+crypto assets. Altogether, these financial institutions are therefore exposed to sharp declines in crypto
+18:40
+asset prices. Mismatch between stable coins and the
+18:45
+assets that maintain their peg is a source of liquidity risk as well. Often
+18:51
+stable coin reserves are not fully liquid but consist of a mix of commercial paper, shortterm securities
+18:57
+and cash and this limits the amount that can be redeemed at par on a short note.
+19:03
+The liquidity mismatch between stable coins and reserves also gives rise to the risk of brands as happened with mon
+19:10
+markets funds in 2008 and 2020. Stable coin issuers could could feel the
+19:15
+pressure to invest in risky assets and achieve higher returns. Hence they could
+19:21
+deviate from a prudent composition of reserve assets. If investors lose
+19:26
+confidence in the value of a stable coin they will want to redeem their holdings. If the assets backing the stable coin
+19:33
+cannot be sold quickly, the pressure to redeem the tokens will increase and the run might get worse in a vicious circle.
+19:41
+In addition, the sale of reserve assets could put pressure on liquidity in the reserve assets markets, treasuries,
+19:48
+commercial paper and what's not. Not by chance. Several jurisdictions already require issuers to maintain reserves of
+19:56
+high quality liquid assets to ensure price stability and protect holders in
+20:01
+situations where they wish to redeem their stable coins quickly, such as in a
+20:06
+stress scenario. Several vulnerabilities in crypto asset markets increase credit
+20:13
+risk. Essentially, they boil down to the opacity of crypto assets. Disclosure and
+20:18
+reporting requirements for stable coin arrangements have long been lacking not only on their reserve assets composition
+20:25
+but also on governance aspects. Individuals or entities who are responsible for crypto assets operations
+20:31
+are often unknown. In other case, governance is uh scattered among
+20:36
+multiple entities that have control or influence only over certain aspects or activities. This affects lenders
+20:44
+capacity to assess and monitor borrowers creditworthiness. But it also affects
+20:50
+users ability to understand the risks of participating in crypto assets
+20:55
+markets. Excessive leverage in crypto assets markets amplifies credit risk. It
+21:00
+weakens borrowers balance sheet positions and raises counterparty risks.
+21:05
+over collateral collateralization mechanisms could not be enough to
+21:10
+mitigate this risk. Funds borrowed in one instance could be reused as collateral in other transactions. And as
+21:17
+a matter of fact, in crypto asset markets, investors have been able to build increasingly large exposures
+21:25
+starting from a given amount of collateral. Operational risk arises from technological dependency and blockchain
+21:32
+infrastructure. Crypto asset markets in general depend on complex and rapidly evolving technologies. Maintaining and
+21:39
+developing such technologies required in turn specialized knowledge and technical
+21:45
+and cyber security issues might generate losses for market participants. Of course, operational and cyber incidents
+21:51
+are relevant for any technological system, but they would become especially pressing for a very widely adopted
+21:58
+stable coin. Now so far I have provided an overview of the main risks associated
+22:04
+with stepbookcoin. In the next part of my presentation I will summarize the steps taken by international standard
+22:11
+setters so far to mitigate such risks. Several risks are addressed by the IOSCO
+22:17
+guidance on the applications of the principles for financial market infrastructures to stable to stable coin
+22:24
+arrangements of July 2022 by the IMF policy paper of February 2023 on
+22:30
+elements of effective policies for crypto assets by the FSB high level recommendations of July 2023. These are
+22:38
+two distinct se sets of recommendations. the first for crypto assets in general and the second for global stablecoin
+22:44
+arrangements. In addition to those, in November 2023, an FSB report reflected
+22:50
+on the financial stability implications of multi multifunction crypto assets
+22:55
+intermediaries based on the assumption that the combination of functions on a single player in this sector may
+23:02
+concentrate and amplify risks and may pose challenges in terms of conflicts of interest. And this is especially the
+23:09
+case considering that in certain jurisdictions crypto asset service providers due to lack of regulation are
+23:16
+allowed to combine function that they that cannot be combined in traditional funds.
+23:22
+In terms of method, all say documents conform to the same principle to one
+23:27
+principle, same activity, same risk, same regulation. Where crypto assets and
+23:33
+intermediary perform an equivalent economic function to one performed by instrument instruments and
+23:39
+intermediaries of the traditional financial sector, they should be subject to equivalent regulation.
+23:45
+This principle is particularly useful to introduce the first of the documents I have just mentioned that is the AOSCO
+23:52
+guidance on the application of the principles for FMI to stable coin
+23:58
+arrangements. The guidance recognizes that stable coin arrangements can perform an equivalent function to
+24:05
+financial market infrastructures in cases where they are primarily used for making payments. Stable coins usability
+24:12
+as a means of payment relies on the transfer function of the of a stable coin arrangement. Stable co arrangements
+24:20
+stable coins arrangements enable the transfer of coins between users and this typically happens through the operation
+24:26
+of a system a set of rules for the transfer of coins among participants and
+24:31
+the mechanism for validating transactions. So the transfer function of a seable coin arrangement is
+24:36
+comparable to the transfer function performed by other types of FMIs. As a
+24:42
+result, a seable coin arrangement that performs this transfer function is considered an FMI for the purpose of the
+24:49
+application of the principles if it is systemically important. Of course, incidentally, the guidance among other
+24:56
+things also offers elements for the assessment of the systemic importance of a stable coin arrangement. However,
+25:04
+semol arrangements present distinctive features as compared with traditional financial market infrastructures and
+25:10
+these features pose new challenges specific challenges. This is why the
+25:16
+guidance provides directions on the specific principles connected to such
+25:21
+features and challenges. As for governance, IOSKO principles in general
+25:26
+outline the expectation that an FMI should have documented and disclosed governance arrangements with clear and
+25:32
+direct lines of responsibility and accountability. Such arrangements should also specify the roles and
+25:38
+responsibility of the board of directors and management. A first issue arises with reference to
+25:45
+stable coin arrangements governance that is partially or fully decentralized in cases where no legal
+25:53
+entities or persons are in control of the FMI function. In particular, the transfer function within the stable coin
+25:59
+arrangement can be set up as a smart contract on a permissionless ledger and it can be performed solely by software
+26:06
+without a human in the loop. In this respect, the guidance aims at avoiding
+26:12
+situations where there is no entity or person responsible or accountable for the performance of the transfer
+26:18
+functions. Sable coin arrangements are expected to make sure that there are identifiable natural persons at the top
+26:25
+of the chain of control who are in charge and will ultimately bear responsibility and be accountable for
+26:31
+the operations. A second issue concerns flexibility in decision- making.
+26:36
+Governance implemented only by software can turn out to be inflexible. As such, it could not be
+26:44
+suitable for a changing environment and could be unable to deal with unforeseen
+26:49
+situations. Such situations sometimes require expert judgment and discretionary decision making. In this
+26:56
+respect, the guidance calls for the possibility of timely human intervention.
+27:01
+Similar expectations on governance of Sebcoin arrangements are set out by the financial stability board in its fourth
+27:08
+high level recommendation on global cable coin arrangements also beyond their transfer function. As for risk
+27:16
+management principles expect FMIs to have a framework in place for the comprehensive and effective management
+27:23
+of risks. In this regard, an issue arises as seocone arrangements fulfill
+27:28
+multiple interdependent functions in addition to the transfer function. Some of these additional
+27:35
+functions are not under the umbrella of the FMI function and as such they're out
+27:41
+of the scope of application of the AOSCO principles. For instance, think of the Israel's redemption and value
+27:47
+stabilization functions. They are not typical of payment systems. Now while such functions could be operated by
+27:54
+independent entities they still have risk implications legal credit liquidity
+28:01
+risk implication on the transfer functions and the other way around. Therefore the guidance expects
+28:07
+seable coin arrangements to develop integrated and comprehensive view also the risks to the FMI function arising
+28:14
+from the other functions and to introduce measure to mitigate such risks. Again, similar expectations on
+28:21
+risk management frameworks have been laid down by the FSB in its fifth recommendation on global stable coin
+28:27
+arands. Seable coin Androids are therefore expected to comprehensively address all material risks associated
+28:34
+with all their functions and activities also beyond their transfer function.
+28:40
+One more key element in the AOSCO principles for FMIS is the required clarity and certainty of the settlement
+28:46
+finality which is critical to mitigating systemic risk. Now in certain seable
+28:51
+coin arrangements models the finality of the transaction relies on types of consensus uh where the algorithm is
+28:59
+probabilistic. So the probabilistic finality doesn't allow the determination of the precise moment of operational
+29:05
+finality. Under these models, the validation of a transactions on a ledger
+29:11
+can never be achieved with absolute certainty. It only increases as more
+29:16
+transactions are added onto the ledger. And in some instances, even forks may
+29:22
+occur, disagreements between nodes leading to bifurcations in the development of the ledger. In these
+29:27
+respects, the guidance expects SEO arrangements to clearly define the point at which a transfer is irrevocable and
+29:35
+unconditional to make sure that a clear legal basis supports the finality of the settlement and to prevent or neutralize
+29:42
+competing states of the ledger that could affect the settlement finality. Finally, one last issue arises with
+29:49
+reference to money settlements. In respect of principle 9, that is the principle setting the expectation that
+29:55
+an FMI should conduct its money settlement in central bank money where practable practical and available or
+30:02
+otherwise use a settlement asset with little or no credit liquidity risk. Now,
+30:09
+in stable coin arrangements, a stable coin is used as the settlement asset.
+30:15
+Therefore, participants will be subject to the credit and liquidity risks of the stable coin itself of the issuer of the
+30:21
+stable coin and or of the settlement institution if different. This may result in a greater amount of risk than
+30:29
+little to no credit and liquidity risk and may not enable the FMI and its
+30:34
+participants to readily transfer their assets into other liquid assets such as claims on a central bank.
+30:42
+To tackle such concerns, the guidance expects a stable coin arrangement to make sure that the credit and liquidity
+30:48
+risks of the stable coin that it uses for money settlements are minimized and
+30:54
+strictly controlled. To this end, stable coin arrangements should make sure that
+30:59
+the stable coin is an acceptable alternative to the use of central bank money based on several elements listed
+31:05
+in the guidance. And now we are going back to the to what I was saying at the beginning because these elements include
+31:12
+the clarity and enforcibility of the legal rights accorders of the stable coin and seo sable coin arrangement
+31:19
+participants visa v the issuer also with reference with the reserve assets and in the context of insolveny. Remember the
+31:26
+nature of the right insolveny of the issuer of the reserve manager of the
+31:31
+custodian the nature and sufficiency of the stable coin arrangements reserve assets and the clarity robustness and
+31:39
+timelessness timeliness of the process for converting the stable coins into other liid assets. Now this is all with
+31:46
+reference to the OSCO guidance and it's already a lot. Of course as I already say the stable coin arrangements are
+31:52
+also subject to FSB recommendations that set out more general expectations. These
+31:58
+include appropriate regulatory and supervisory frameworks being in place with public authorities having adequate
+32:05
+legal power and financial resources to pursue their mandates and the timely drafting of appropriate recovery and
+32:12
+resolution plans allowing the orderly winding up of civil coin arrangements as
+32:17
+need be among FSB recommendations. It's worth mentioning those on disclosure
+32:24
+requirements and redemption right and stabilization mechanism. They are of paramount importance from two different
+32:30
+perspective uh perspectives that is consumer protection and financial stability. In fact, the reliability of
+32:37
+the stability command commitment of a stable coin arrangement at the end of the day will depend on the reserves
+32:43
+backing the coins. Therefore, civil coin arrangements are expected to hold
+32:48
+reserves that based on their amount, quality, and composition can actually allow for the timely conversion of the
+32:55
+coins into cash. In turn, custodial arrangements for reserve assets should ensure safe custody, proper record
+33:02
+keeping and segregation, shielding the assets from claims of the creditors of
+33:08
+the issuer of the stable coins issuer. At the same time to mitigate run risk,
+33:14
+redemption claims should be based on solid legal grounds and should be processed without undue costs and undue
+33:20
+delays. For these arrangements to be effective to effective, authorities will have to require stable coin arrangements
+33:27
+to disclose in advance to the general public all the necessary information to understand the functioning of the stable
+33:33
+coin arrangement. In conclusion, as stable coins
+33:39
+um use as a means of payment and store of value has grown, several elements of
+33:45
+the financial safety net are in the process of being extended to stable
+33:50
+Colorado. Licensing requirements, credential and conduct of business rules, supervisory powers, resolution
+33:57
+regimes. This process at the end of the day should lead to mitigating risks and
+34:02
+allowing stable coins to coexist with the two-tier monetary system. However,
+34:08
+structural features exist that separate and will separate stable coins from fiat
+34:13
+money. Stable coins are digital claims against privateers and as such they are
+34:19
+not backed by promise of the state. They circulate as barrier instruments and
+34:24
+they are traded on secondary markets. As such, sable coins have a prevailing
+34:30
+market price and an exchange rate that fluctuates away from
+34:35
+par. Both values reflect at the end of the day the credibility of the issue
+34:41
+specific promise to redeem the coins for cash. Finally, stable coins only settle
+34:47
+in central bank money where when tokens are redeemed for cash or conventional deposit in which case they are deleted
+34:54
+or burned. All in all, stable coins display a structural and inevitable
+34:59
+otherness to fiat money. In many ways, this is a potential source of friction
+35:06
+in the convertibility of stable coins into other forms of money. These frictions cannot be eliminated for good
+35:13
+and can provide the case for further elaboration of dedicated rules on stable
+35:19
+coins. Thank you. [Applause]
+35:27
+Thank you very much for your insightful presentation and you have set light on
+35:32
+the risks that stable coins pose for the financial stability and the recommendations of the international
+35:39
+standard setters. Now we give the floor to my colleague Alexis Der who is
+35:45
+professor of economics at the University of Alexis is going to talk about the
+35:51
+role of coins and as an economist he's going to give us some deep. So thank
+35:57
+you. Thank you Anastasia. Um so when we
+36:02
+constructed the the program we are not sure that everybody in the audience were up to date with the basic facts about
+36:09
+stable coins. So we decided to uh to include a short presentation of of the
+36:16
+current situation of stable coin market. So uh this is the modest objective of
+36:22
+this presentation. So I have 10 minutes in the program so it will be relatively short.
+36:30
+Um so uh let's begin by some facts. Um the first fact is that if
+36:37
+stable coins were one single aggregated cryptocurrency, it will be uh the third
+36:44
+one in terms of market capitalization. So uh we we can see with this aggregate
+36:50
+view that stable coins are already a very important crypto assets alongside
+36:57
+Bitcoin and and the second fact is that we we we are
+37:04
+witnessing a very important uh growth rate of stable coin market cap
+37:11
+uh especially since uh late 23 uh with a with a very high growth
+37:20
+without a sign of slowing down. And this is why
+37:27
+uh we we can predict it's not unreasonable that the total value could
+37:33
+surpass the $1 trillion possibly at at the end of the decade. So it is already
+37:40
+a very big market but expectations are very optimistic
+37:46
+about the future of this kind of of
+37:51
+market. Uh a third fact is that the market is very concentrated among
+37:57
+limited set of of actors. uh titter uh is the leading
+38:05
+u providers of tablecoin historically and and presently with 62% of of market
+38:12
+share and beyond sitter there is circle um which contrary to sitter which is
+38:18
+unre unregulated and offshore circle is a US-based regulated provider and uh the
+38:27
+two make up nearly 20% of the market. So it is a very concentrated market because
+38:34
+they were [Music] early actor in the market. So they they
+38:43
+benefited from uh from network effects a
+38:48
+lot. Uh the last fact is that the current situation is dominated largely
+38:55
+by the dollar stable coin. If we compare dollar stable coins and stable coins
+39:01
+that there is very huge gap between the two. Uh the the market cap total market
+39:07
+cap of stable coins is nearly $500 million compared to
+39:15
+$235 billion for dollar stable.
+39:20
+So the the Euro market is is is is
+39:25
+lagging by a large margin and uh it's also not worthy that the the first
+39:31
+provider of Euro stable coin is circle which is US- based company. Um so yeah
+39:41
+the comparison between the the two two markets is
+39:50
+Okay. Um, now if we go back to why the stable coins are a success and are
+39:58
+largely adopted worldwide, we can see that there are several utility of
+40:04
+holding stable coins. First, transfers of tableau coin are highly efficient today. Uh you can have cash request
+40:12
+instant transfer 247 uh borderless transfers and also uh
+40:19
+today you can transfer large amount of stable coins with fees below 1 cent uh
+40:27
+not in all blockchain but in uh in blockchains like B
+40:34
+or also uh this cryptocurrency is is
+40:40
+generally pegged to the dollar. So it's not volatile compared to other cryptocurrencies. So it is a better
+40:46
+store of value than many other cryptocurrency. Uh you can hold the dollars worldwide
+40:53
+without having to open the US bank accounts. So it's very practical. Uh
+41:00
+because it circulates on the blockchain, there is much less intermediaries in the
+41:06
+process. So the the fees are are much less and uh operations are handled by
+41:12
+smart contract. Um and so it is also to some extent efficient in term of of
+41:19
+fees. [Music] Um so uh those utilities open up
+41:26
+multiple use cases for stable coins. The first one is stable coins are are seen
+41:33
+as a store value by many users in in the world especially in mid- income
+41:39
+countries where inflation can be very high. uh also payment for transorders
+41:46
+uh payments like remittances uh businesses and end users underserved
+41:53
+by bank and fintex can manage their cash cash with stable coins. Uh this is also
+42:00
+used for spec price speculations and uh in France deferral
+42:06
+of capital gain taxation and on top of that if you have
+42:11
+stable coins you can get a yield uh either in centralized exchanges or in
+42:19
+decentralized finance uh which can be quite
+42:25
+interesting. Um so how do uh stable coin providers
+42:31
+operate behind the scene? Uh let's take the let's take the example on the left
+42:36
+of of circle. Circle has a very simple balance sheet. Uh because the mechanism
+42:44
+is relatively simple. Every time a circle means one token, it invest $1 in
+42:52
+financial markets in liquid or tempt usually USD bills and a fraction of the
+43:01
+reserve is deposited in in banks for easing redemptions and presently the
+43:10
+fraction is 14% uh which is an anecdotally much less than what is
+43:18
+required by by for example and compared to bank's balance sheet it is much more
+43:24
+simple to some extent much more safer because uh providers do not transform
+43:31
+risk do not transform maturity so there there are no no such risk in in this
+43:39
+type of business so uh it is deserve to for to this regard have more lightly
+43:47
+more light regulation. I think um given that we can see that stable
+43:54
+coins can be a very profitable business. Uh for instance, for instance, if we
+44:00
+compare Titter and and Black Rockck, uh in 2024, uh Titter
+44:08
+had net profit higher than Black Rock despite having much much less employees,
+44:15
+100. And why is that? because uh you can see think of t or even circle as a big
+44:23
+money market fund with the exception that exception that the yield from the
+44:29
+money market is not distributed to the end users but kept by the provider. So
+44:36
+you can imagine that that at the end of the day the profit can be very huge.
+44:43
+Um given that uh it activity can be very
+44:49
+profitable it is no wonder that many in institutions are entering the market. So
+44:55
+uh we assist uh apparently to a second phase of the development of of stable coins market
+45:03
+because all those fintexs banks or asset asset managers uh brings or will bring
+45:11
+millions of users to the opportunity to to hold stable coins in the future.
+45:18
+They are currently your binwood, PayPal, Black Rock, Stripe has acquired a
+45:24
+startup bridge payment associate general with it's
+45:30
+visibility has announced a stable coin and the bank of America has also announced if lawmakers
+45:39
+pass legislation the second largest bank in in United States would enter the market.
+45:45
+So the market is really uh entering into a new new phase new dimension
+45:52
+uh presently and to finish this short presentation I would like to to outline
+46:00
+that stable coins are not only a financial innovation but also uh has can
+46:07
+be a geopolitical instrument. Uh I will quote Scott Ben US secretary of
+46:14
+treasury. We are going to keep the US the dominant reserve currency in the
+46:19
+world and he will use double coin to do that and this this contrast
+46:26
+with the the quote recent quote of Kia head of the European stability
+46:32
+mechanism. If plans by the US administration to launch massive payment
+46:37
+solutions based on dollar stable coins were to succeed, it could affect the monetary entry and financial stability
+46:46
+of the RO zone. It is urgent that the ECB makes the digital euro reality to
+46:51
+safeguard Europe's strategic autonomy. So we can see that not only stable
+46:58
+coins are promised to fast development but also could become a weapon in the in
+47:06
+the in the border battleground of of monetary policy across the world and I
+47:13
+will end on this quest. [Applause]
+47:22
+Thank you very much, Alexis, for your insightful thoughts on the utility of
+47:27
+stable coins. Um, I'm going to present uh the Mika regulation. I'm going to
+47:34
+give uh first a general overview of this regulation and then a critical
+47:41
+assessment. So um as you all know BA regulation
+47:46
+which is the applicable legal framework in Europe for crypto assets and stable
+47:51
+coins is the most farreaching and uh thorough regulatory approach to crypto
+47:59
+assets globally. However, Europe is not
+48:04
+currently home to the largest players in the crypto industry.
+48:10
+So the market dominance and the value is largely concentrated in the US and in
+48:17
+Asia. So if for example we look at the uh 2024 global um crypto adoption index
+48:26
+which is published by chain analysis no EU member state ranks among the tw the
+48:32
+20 top countries. So this leads us to the following question. Why did the
+48:38
+European Union legislature decided to adopt such a comprehensive regulatory
+48:46
+framework? Um the main reason lies on the famous
+48:53
+Libra project which was launched in June 2019 by Facebook uh from Geneva with the
+49:03
+aim to create a global stable coin um backed by a basket of official
+49:08
+currencies and low asset uh lowrisk assets and the announcement of this
+49:16
+Libra uh project faced with significant backlash from European and national
+49:23
+policy makers who competed one another to be the strongest opponent uh to the
+49:30
+concept of a global digital private money. Uh but this was not the only reason. The
+49:40
+absence of an applicable European framework, the regulatory fragmentation
+49:46
+in Europe with some countries like France that had adopted a national
+49:52
+legislation, the law pact um and also
+49:58
+the EU's ambition to be the leader in the tech regulation. All these reasons
+50:05
+urged the European Union to act and to act quickly and
+50:11
+decisively. So this this was the origin of Mika. Now which are the objectives
+50:18
+that Mika regulation pursues. So Mika um actually aims to
+50:24
+protect investors that use uh crypto buy crypto assets and use crypto asset
+50:31
+services. It also aims to preserve financial stability and the smooth
+50:37
+functioning of payment systems and also of the monetary policy. It also uh aims
+50:45
+to avoid uh regulatory fragmentation and to allow companies to um engage in uh
+50:53
+tokens issuance and services um on the basis of a single license and not 27
+51:01
+separate licenses and 27 separate supervisors.
+51:06
+And also it aims to u provide a clear uh
+51:11
+a clear um rule book um and therefore um
+51:20
+providing legal security and ensuring fair competition and fostering
+51:26
+innovation. Um now what does Mika actually do? First, it introduces a
+51:33
+taxonomy of crypto assets and it also imposes requirements
+51:39
+on crypto assets issuers and service providers. But I will focus on the uh
+51:45
+requirements imposed on uh stable coin issuers. So, which is the taxonomy that
+51:51
+Mika introduces? Um it distinguishes between asset um reference tokens,
+51:59
+emanate tokens and other tokens. Asset reference tokens and
+52:04
+emanate tokens both are types of stable coins but they differ in the way that
+52:11
+they try to stabilize the value of the stable coin. The asset reference tokens
+52:19
+aim to stabilize the value by referencing to a basket of assets which
+52:24
+may be composed by financial instruments, cryptocurrencies, official
+52:29
+currencies, commodities or by referencing to a single asset. But this single asset should not be an official
+52:37
+currency of a state. By contrast, I imanate tokens try to refer to stabilize
+52:45
+their value by referencing to an official currency and this is euro or
+52:51
+the US dollar. And this concept of eman tokens stems from a concept that we know
+52:59
+in Europe the concept of eman which is regulated and the requirements also of
+53:05
+mika stem from the regulation of eman.
+53:10
+Now having said that which are the requirements that are imposed on the
+53:16
+issuers of stable coins I will start with the issuers of asset reference
+53:21
+tokens. So issuers of asset reference tokens need to be authorized
+53:28
+uh from their home member state and they also need to publish a white paper that
+53:34
+needs to be approved by the national competent authority.
+53:39
+Furthermore, they need to uh meet uh own fund uh requirements and also they need
+53:48
+to meet certain um asset reserve asset reserve
+53:55
+management standards related to custody segregation investment policy of the
+54:03
+assets etc. And uh they also uh they are obliged to
+54:10
+redeem the the holders of the asset reference tokens at any time and at
+54:15
+their request and they are prohibited from granting interests to their
+54:22
+holders. Now what about uh issuers of IMAN tokens?
+54:28
+Issuers of IMAN tokens need to be regulated credit institutions or IMAN
+54:37
+institutions. So only these entities can issue Iman tokens and unlike issuers of asset
+54:46
+reference tokens, they don't need to get their white paper approved by the
+54:52
+competent authority. they only need to notify their white
+54:57
+paper. Furthermore, they need to uh to meet own fund requirements and
+55:06
+also asset management requiresments that they are similar to the requirements
+55:11
+imposed on the uh issuers of asset reference tokens. They also um uh need
+55:19
+to redeem the the the the holders. They are prohibited from granting interests
+55:25
+as well. But unlike issuers of asset reference tokens, issuers of e- money
+55:31
+tokens need to hold 30% of the funds that they receive in exchange of the
+55:37
+e-man tokens they issue in separate accounts held in credit institutions.
+55:45
+But Mika introduces also another um
+55:50
+notion the notion of significant stable coins significant asset reference tokens
+55:57
+or emanate tokens. So uh these are uh
+56:02
+stable coins that exceed certain thresholds and related to market value
+56:08
+or the volume of transactions. that we're going to talk about these thresholds. And if these thresholds are
+56:15
+met, the issuers of these significant stable coins uh need to comply with
+56:21
+higher credential governance and liquidity requirements and most
+56:27
+importantly they are they need to be supervised. They are supervised by the
+56:32
+European Banking Authority. But this does not end here.
+56:38
+Mika introduces also another layer on the stable coins hierarchy which could call we could call
+56:46
+super significant. These are uh asset reference tokens or e- money tokens that
+56:53
+they are referenced they're referencing an official currency of a non-EU member
+56:59
+state. If these tokens reach certain thresholds, for example, um more than
+57:05
+one million transactions per day or if their value is over 200 million euros
+57:11
+per day, uh calculated over a period of three months, then their issuers are
+57:17
+prohibited from making new issuances. So they should stop issuing their stable
+57:24
+coins and furthermore they should submit a plan to the competent authority on how
+57:30
+they could reduce their usage in order not to exceed these
+57:36
+thresholds. So this is the reason is to protect actually the euro and the
+57:43
+official currencies of the member states as the a means of payment.
+57:50
+Having said that, what could we think about Mika regulation? This is my
+57:55
+personal view. So it seems to me that Mika um tries to pursue um some
+58:04
+conflicting policies relating to stable coins because on the one hand it
+58:11
+enhances their adoption by providing a clear legal
+58:16
+framework but on the other hand it uh prevents then their widespread use.
+58:24
+So we could understand this conflicting policy if we think about the objectives
+58:30
+of of Mika which are investor protection on the one hand and monetary policy and
+58:37
+um on the other hand. But before the rise of the stable coins these objectives were pursued by in different
+58:44
+areas of law. So financial markets law and monetary and payment services law.
+58:51
+But here we have a single instrument mika that combines everything and I
+58:56
+think there are some conflicting issues that could create some uncertainties. I will give you an
+59:03
+example. Let's think about um a stable coin uh from its issuance to reaching
+59:10
+the status of super significant. So we could say that Mika enhances its
+59:17
+adoption by providing uh strong investor protections. But when this stable coin
+59:24
+reaches certain thresholds, then the issuer the Mika bans its issuer its
+59:30
+issuance and even obliges the uh the issuer to submit a plan to reu to reduce
+59:36
+its its use. So how we the market react to this back and forth? I think this
+59:43
+creates significant uncertainties for issuers. Furthermore, I think that Mika
+59:52
+uh create significant privileges for the traditional uh financial industry. For example, if
+59:59
+you are a credit institution and you want to issue asset reference tokens, you don't need any authorization.
+1:00:09
+In addition, Mika uh creates significant
+1:00:14
+and this is my view barriers to um issuers from third countries because if
+1:00:22
+you want if you are an issuer from established outside the Europe and you want to offer your stable coins in the
+1:00:29
+European Union, you need to create a separate legal entity in one of the 27
+1:00:35
+member states and meet Mika requirements. ments. So there's no
+1:00:41
+deviation from this rule. Even if you are highly regulated and supervised in your home
+1:00:47
+country and unlike traditional financial regulation, Mika does not provide for
+1:00:54
+the recognition of equivalence regimes which is quite unique. So I think that
+1:01:01
+Mika actually um is open to uh stable coinances but
+1:01:09
+only if they comply with the EU rules only if they are based in the European
+1:01:16
+Union and only if they respect the predefined limits that it sets.
+1:01:23
+So uh will Mika become um the leader uh
+1:01:31
+regulation in stable coins? Uh I'm not sure and I'm not sure Europe will become
+1:01:39
+the leading industry. So this is one of the points that we're going to discuss
+1:01:45
+over the round table. Uh we have uh distinguished experts that
+1:01:52
+um and that represents all voices from industry industry
+1:01:58
+regulators and also uh lawyers. So I invite you to join us uh Stephanie Lou
+1:02:43
+Okay. So I will first present our distinguished panelist. H I will start
+1:02:50
+with uh Luis de Almo. Luis de Lulmo is an economist and insurance actuary. He's
+1:02:59
+a senior expert at the European Banking Authority and previously he had held
+1:03:04
+positions at the Bank of Spain and he was also a professor of finance at the
+1:03:10
+University Complutenc Madrid. uh then Matthew Vain uh who is uh um who
+1:03:21
+works in the fintech hub of the French regulator the asset pair so he's uh u in
+1:03:29
+contact with uh projects with fintech projects and uh stable coins issuers
+1:03:36
+perhaps and he has uh followed the Mika the the adoption of the Mika regulation
+1:03:44
+Um so some voices from the industry um Stephanie Kabosoras
+1:03:51
+um that has who has actively um engaged in the development of the um crypto
+1:03:59
+asset environment in France. uh she's currently uh a general secretary at the
+1:04:07
+associate general force force who is a stable coin issuer and previously she
+1:04:13
+was the managing director of Binance France and she has also held uh
+1:04:18
+important positions at all French authorities AMF uh bank of France and
+1:04:27
+yes um so another voice industry, Pierre P
+1:04:33
+person who is a CEO of Usual that engages with uh the
+1:04:39
+development of stable coins and Pierre was a former member of the French
+1:04:45
+Parliament and I think that he has engaged in the adoption of the national
+1:04:50
+legal framework of the law pact. Um and finally we have uh
+1:04:58
+one with us one of the most prominent legal experts in France on crypto assets
+1:05:05
+fintech and banking and financial regulation I deoplan who is partner at
+1:05:11
+Morgan US and he has participated in
+1:05:17
+every in all financial market low committees
+1:05:22
+u and he's currently consulting fintech and uh fintech firms. So thank
+1:05:30
+you all for being here today. Uh I will we will start the disc discussion with
+1:05:37
+uh I will start with the regulators and uh Louis and Mat. So I think I will
+1:05:43
+start with the European banking authority. Um so Louis can you explain um the uh
+1:05:51
+role of EBA in the implementation and enforcement of Nika regulation.
+1:06:01
+Sure. Thank you. Good afternoon everybody. Thanks for the invite. It's a pleasure to be here indeed. I try to a
+1:06:07
+little bit explain what we have been doing on on on this bill at the ABA from
+1:06:13
+different angles during this last years and and what comes afterwards.
+1:06:20
+So you may remember once Mika is is is there is published the ABA as
+1:06:26
+traditionally happens also with the banking activities receives a number of mandates and our first role was
+1:06:32
+precisely from a regulatory view to elaborate develop a little bit the level
+1:06:37
+one text maker through a set of different type of technical standards
+1:06:43
+guidelines and and so on around more than 20 standards have been published.
+1:06:49
+Thank you. by the ABA so far. Hopefully they will be approved little by little by the commission and
+1:06:56
+and and implemented quickly. So the the the the range of type of standards is
+1:07:02
+very wide as you may have seen is I I I can share with the industry the complexity of the issue and the effort
+1:07:08
+and and the analysis of all so many rules now but it's a new business
+1:07:13
+activity and this requires of course a a good regulation. Um this as I said
+1:07:20
+ranges basically from different aspects, authorization, governance and mainly importantly credential requirements as
+1:07:27
+was said before here covering basically on funance requirements, research requirements,
+1:07:33
+liquidity management requirements and and in addition to that and also very importantly all the
+1:07:39
+reporting requirements that are necessary to be able to develop, manage and supervise these
+1:07:45
+activities. In addition to that also from a regulatory point of view you may
+1:07:50
+be aware if you are more or less familiar with ABA we have a Q&A tool
+1:07:56
+where everybody's basically invited to be able to raise their questions and get
+1:08:02
+answers from from EBA. The second step from our side is
+1:08:09
+now more from um supervisory point of view. the the ABA receives some mandates
+1:08:14
+also in terms of of supple
+1:08:21
+um at this stage is basically to try to to cooperate in
+1:08:26
+coordinate work on supervision with competent authorities. So in the
+1:08:34
+beginning as was explained when the tokens arise and are considered as
+1:08:39
+non-significant subvision corresponds to the relevant authority but this is a new
+1:08:44
+business this is a new activity and requires a lot of joint efforts a lot of discussions a lot of um analysis and
+1:08:51
+what ABA was mandated and did was to set up a standing committee which is called crypto asset standing committee that is
+1:08:57
+regularly meeting with all the competent authorities the European commission
+1:09:03
+the different agencies, ESMA, the central bank in order to
+1:09:09
+ensure that there is a let's say a minimum convergence harmonized approach
+1:09:16
+from a supervisory point of view so that minimum level playing field is ensured
+1:09:21
+and that there are not let's say divergences across the different competent authorities that the different
+1:09:28
+let's say the various tokens are similarly that the same type of risk profile of tokens across different
+1:09:34
+competent authorities. It might be treated similarly and that does not create let's
+1:09:41
+say privileges or disadvantages in seeking authorization in one or another
+1:09:47
+member state and differently treated. So, so this is the the the main
+1:09:53
+important point that now from a supervisory point of view the ABA is developing. Another story is as well
+1:10:00
+said there might be a a direct subvision role whenever there's uh there are
+1:10:06
+significant tokens in in place. Um the ABA in addition to to this
+1:10:14
+um is mandated to to to let's say elaborate in parallel tasks. One of them
+1:10:22
+is about classification of the tokens either or emani tokens and and and this
+1:10:30
+is something that can be requested by competent authorities simply to clarify which is the the type of
+1:10:37
+basically mechanism of stabilization that is expected behind reunit the minimum conditions as imit or or man
+1:10:46
+token is a let's say a consultative role that a develops
+1:10:51
+So it basically culminates with the issuance of let's say non-binding
+1:10:57
+opinions for the relevant authority normally in the process of of the
+1:11:03
+authorization because it makes a lot of difference of course from a regulatory point of view whether the the final
+1:11:09
+token the final crypto asset is classified as a as an asset reference token or as a as an e- money
+1:11:16
+token. Um in addition to this the the ABA will also need to run regularly
+1:11:22
+significance assessments on a yearly basis. Um this will be the first year of
+1:11:28
+course to do it. We will talk about this a bit later I understand. So then I will
+1:11:33
+not try to anticipate too too much on on this. So so basically I would say that
+1:11:39
+this is the the the the most important steps that we are taking at the moment from the perspective of implementing the
+1:11:46
+regulation. uh the regulatory part let's say is basically to great extent done at
+1:11:51
+the moment is the first step of course as as we said this is just a um the
+1:11:58
+start of the of these activities in the EU at a point in time there might be a need to review regulations but hopefully
+1:12:05
+not very soon and we can give time to the industry to participants to stabilize
+1:12:12
+with the with the rules in place assess its application and whenever if it's needed so proceed to any adaptation of
+1:12:19
+them. Um so basically this is what I might yeah thank you very
+1:12:26
+much and m is your experience as a national supervisor.
+1:12:33
+Yes. Um thank you very much and good afternoon. So I will start with a
+1:12:39
+general comment on Mika then I will share with you some initial project uh
+1:12:44
+sorry feedback on the different selected the ACP. So um as a general comment I can
+1:12:52
+say that AC supported the elaboration of Mika because there was a real lake. So
+1:12:59
+now we have one of the first comprehensive legal framework in the world for crypto asset.
+1:13:06
+um we were in favor of the application of a rule based on the EMD2 for stable
+1:13:13
+coin issuer and align with the FSB recommendation. Also I would say that um Mika more or
+1:13:23
+less address the main concern of the pair. Obviously uh there are provision
+1:13:30
+to protect the financial stability but also we have provision to protect the
+1:13:35
+user with the redemption right uh also uh the white paper and
+1:13:42
+management of the reserve rule on the protection of phone and uh we think also
+1:13:48
+we believe that Mika can promote innovation by fostering
+1:13:53
+an orderly development of crypto asset we think that the fact issuer has been authorized
+1:14:00
+is can reassure their potential partner including bank and also of course the
+1:14:07
+user. So um now uh concerning the first bit uh
+1:14:15
+piece of feedback I can share with you uh you will see that many of my comment
+1:14:21
+concern EMT electronic money token because at CPA we authorize to issure of
+1:14:27
+electronic money token. We have some projects to for the issuance of asset
+1:14:33
+reference token but at this stage they are less mature and I think this is a
+1:14:38
+finding shared the European level. So uh we have a contact point at the AC pair
+1:14:46
+for stable coin issue project where we assess the plan activity. uh we try to
+1:14:52
+identify to to understand the project of course and to qualify the token to
+1:14:58
+identify the regulation applicable. Um as this is a new activity
+1:15:05
+of course some project raise some difficulties. When this is the case, we can coordinate our interpretation with
+1:15:12
+other competent national authority through the European super
+1:15:17
+authority of course with for example the guideline on the classification of crypto asset or the Q&A tool of the EBA
+1:15:24
+or the ESMA and we have also a sort of internal task force to discuss classification of crypto
+1:15:31
+asset. So um I would say that one of the main issue for an authority such as the
+1:15:38
+AC pair is to be sure that when the crypto asset is qualified as a stable coin is really stable. In fact I mean
+1:15:47
+that the promise made to the user on the stability of the value will be kept and
+1:15:54
+that for the redemption and I add for the redemption at a pair value. This is very important. One other issue for us
+1:16:01
+is the double statue statues sorry a lot
+1:16:06
+of issuer um are several activities and we have to assess if they need to have
+1:16:15
+another authorization when this is the case we have to discuss with for example
+1:16:20
+our colleague of the AMF to um to discuss how to apply the credential
+1:16:27
+requirements. Now some piece of feedback on the the difficulty that the issue can
+1:16:34
+face. Uh there are difficulty concerning antimony laundering concerning the
+1:16:40
+protection of phone the amount of on phone and also for the business model.
+1:16:46
+So um concerning antimony laundering obviously they have to apply the
+1:16:51
+antimony laundering framework even if in the field of crypto asset it is not easy
+1:16:58
+uh in practice sometimes but they have to apply KYC measure to identify their D
+1:17:06
+client and uh J client who acquire their stable
+1:17:12
+coin or would distribute the stable coin they have issue. And also they have to be able to to
+1:17:20
+track the transaction made on the blockchain with their stable coin uh in order to identify potential transaction.
+1:17:28
+For that they can use solution provided by OAT the blockchain analytic
+1:17:35
+tools concerning the protection of under article 54 of MA. um issue of stable
+1:17:44
+have to protect the phone collected. For that they have to find a bank to deposit
+1:17:51
+the client fund on a dedicated [Music]
+1:17:58
+equity to find a a bank. But that could change in the future if for example the
+1:18:04
+size of the issuance become larger or significant under Mika or
+1:18:10
+if authorized in that cases they will have to find several banking partner and
+1:18:16
+that could be difficult and concerning the business model
+1:18:24
+um as you know in the bank the payment sector um most of the review come from
+1:18:31
+the interest earned on the phone collected and if in the future the
+1:18:39
+interest rate situation change that can be a difficulty for them and they will
+1:18:46
+have to find maybe new sofa from you and in fact that can be a challenge for them. Thank you.
+1:18:54
+Thank you Matthew for your insights. So um
+1:19:00
+Stephanie yes uh could you please tell tell us which
+1:19:06
+are the main business challenges in complying with Mika?
+1:19:11
+So what are the concerns of uh stable coin issues?
+1:19:17
+Yeah I first before concerns explain a bit how how we are regulated. So,
+1:19:23
+Associate General Forge is a one of the first issuers of a Euro stable coin uh
+1:19:28
+in Europe and we were one of the first to be regulated under Mika uh under the
+1:19:34
+ACPR supervision. Uh we got this license in the last July. So almost the first
+1:19:41
+day of entry into application of of Mik. Um what is this stable coin? So it's
+1:19:50
+quite common. It's a crypto asset issued with a stable parity with the euro only.
+1:19:57
+Uh the specificity of the stable coin is that the reserve account so the reserve
+1:20:03
+the stable coin is held 100% in cash. So we have not applied the the possibility
+1:20:10
+to diversify the reserve and this cash account is held at Soci General Group.
+1:20:16
+So under a tier one bank so so far to my knowledge it's the first and the only uh
+1:20:23
+stable coin issued by a banking entity and uh with the very limited
+1:20:30
+counterparty risk because of the the reserve account is at at the tier one
+1:20:36
+bank. So was it difficult to apply Mika? Uh honestly for for a banking subsidiary
+1:20:45
+uh it's it's well it's normal practices. The state general forge has also other
+1:20:51
+licenses, investment firm license, VASP license,
+1:20:59
+Agrean and all the controls and regulatory environment with Mika is
+1:21:05
+quite similar to traditional finance in terms of governance, of controls, of
+1:21:11
+cyber security, of financial you know
+1:21:17
+management of flows etc. So it's not easy but it's banking grade
+1:21:24
+expectations. What is more difficult is for crypton natives for entities which
+1:21:30
+are not coming from traditional finance. Uh I'm speaking here with a bit with my
+1:21:37
+hat of of member of the board of ADAN which is the crypto asset professional association. for new players there there
+1:21:45
+is really a question of maturity about Mika because all these new players need
+1:21:50
+to upgrade their level of regulatory maturity to the level of uh traditional
+1:21:58
+finance. So it's it's a bit it's a bit difficult. However, Mika is really a a
+1:22:05
+good news for the ecosystem and for the the emergence of the stable coin because
+1:22:11
+it creates regulatory clarity around these assets around the issuance of the
+1:22:18
+asset and also around the services provided around these assets. So, custody, exchange, uh execution, RTO
+1:22:27
+etc. So this helps and this will help traditional finance to adopt these new
+1:22:35
+assets and for the stable coin issuers to develop uh
+1:22:41
+services in uh the banking and traditional financial
+1:22:46
+industry. For example, for us maybe two examples uh the stable coin is used
+1:22:52
+primarily for crypto trading. So this is really a use case dedicated to crypto.
+1:22:58
+So we have partners crypto exchanges or crypto brokers for example bit stomp or
+1:23:04
+bit panda and we have also crypto market makers crypto liquidity providers well
+1:23:10
+uh distributing the coin in this environment and we are working also on two other use cases. uh first the
+1:23:18
+payment industry to integrate the stable coin as a payment
+1:23:25
+asset in all payment industry. So we are working with a payment services provider and it's only
+1:23:33
+possible because the issuant the issuance and the management of the asset is regulated. If we were to develop
+1:23:40
+payment services with an unregulated asset, but of course it won't be inside the bank. But even for payment services
+1:23:48
+provider, it would be difficult to refer it. And for merchants and end users, it
+1:23:53
+would be also very difficult to adopt because the quality of the asset would be uh questionable.
+1:24:01
+Uh the other use case I have in mind is uh is a wel settlement of
+1:24:08
+transactions. Uh stables coins can become uh one of one settlement asset
+1:24:15
+for financial transactions. So for example with so general forge we have
+1:24:22
+done the first transaction of settlement of a tokenized bond in stable coin. So
+1:24:30
+it means that we have issued a bond on the blockchain and this then this bond
+1:24:36
+was settled was bought with our stable coin. So we were able to tokenize on the
+1:24:42
+blockchain the whole uh the whole transaction the securities leg and the
+1:24:47
+cash leg already. Now there are uh market
+1:24:52
+infrastructures in Germany. Unfortunately uh under the pilot regime
+1:24:57
+who have developed uh market trading venue trading venue um secondary market
+1:25:04
+of tokenized bonds of tokenized asset and the settlement asset is stable
+1:25:10
+coins. So this is a this is kind of things that are able to develop with a
+1:25:16
+mika regulation. Maybe last point on the concerns. Uh so for me Mika is a is is
+1:25:24
+really comprehensible and there it's right it's really broad everything is
+1:25:29
+covered there may be two points that are problematics uh the first point is uh that mika
+1:25:38
+forbids uh the distribution of interest on stable coin so issuers of stable coin
+1:25:45
+are forbidden to uh to to distribute the interest generated by the reserve and
+1:25:53
+crypto asset service providers. So, exchanges, brokers are also forbidden to distribute this interest to holders. So,
+1:26:02
+this create major problems. First, a competitiveness problem for all EU
+1:26:08
+actors because this is not a market practice. The world market practice is
+1:26:14
+that all stable coins outside the EU distribute the yield because this yield is not monetary
+1:26:23
+creation. This yield is generated by the reserve. When you give one euro of
+1:26:29
+stable coin, you get one euro of fiat money. This fiat money is in a reserve
+1:26:36
+account either in cash or in a liquid asset. And the yield is generated by
+1:26:43
+this result. Everywhere else in the world, this yield is redistributed to
+1:26:50
+the final holder of the sable coin except in Europe. So we have here a big
+1:26:56
+competitiveness problem for EU players. The second problem is a problem of
+1:27:01
+investor protection. Uh because basically uh it's it's almost political.
+1:27:07
+We say to uh to um investors uh people
+1:27:14
+who are saving money in the EU and users that they are not allowed to get the
+1:27:20
+money generated by their assets and basically Mika is confiscated this money
+1:27:26
+this yield to the profit of financial imagery. So I expect that in the medium
+1:27:31
+term when this will people will really understand what's going on it's a major
+1:27:36
+investor protection problem. So for me if there is one point to modify on Mika
+1:27:42
+it's only this uh because uh we are not at all at the level of market practice.
+1:27:48
+The second problem is is not really about Mika. Uh it's more about AML and
+1:27:55
+the application of anti-moneyaundering uh rules to
+1:28:00
+defy because uh stable coins are widely used in DeFi in decentralized finance
+1:28:07
+decentralized protocols which are basically uh financial institutions with
+1:28:13
+nobody behind. They are protocols created to operate financial
+1:28:19
+transactions automatically. Stable coins are are a
+1:28:25
+core asset in this world uh because they are settlement asset and mika says that
+1:28:32
+defy is not covered by the obligation. So ma defy protocols can provide crypto
+1:28:39
+asset services without being licensed. However, the AML regulations do not
+1:28:46
+specify how they apply to this environment. So, so far there is uncertainty
+1:28:53
+uh and by uncertainty normally uh AML should apply meaning KYC meaning
+1:29:00
+transaction monitoring etc which is not possible. So for EU players, the the the
+1:29:06
+the the development of stable coins into DeFi is a major problem and AML
+1:29:13
+regulations should be advented to precise that. Thank you Stephanie and thank you for
+1:29:19
+highlighting the problems with Mitra. Um so let's turn to
+1:29:25
+significant stable coins. Uh Louis perhaps can you talk about the
+1:29:31
+thresholds the um additional requirements for issues
+1:29:36
+and if we have a significant stable coin is in Europe.
+1:29:43
+Yeah thank you. So yeah as I as I was saying this is the first year that we need to run and the significance
+1:29:49
+assessment in theory is an annual exercise that we we'll need to do it. This year is
+1:29:55
+particularly particularly special because it's the first year that the rules enter into place and for sure for
+1:30:01
+the final assessment um the official reporting data needs to be available.
+1:30:06
+There's as you may know some special uh timeline for this for this exercise and
+1:30:13
+and and therefore the exercise will will run a bit a bit later than
+1:30:20
+expected. Um I think that the concept of significance at the end of the day in
+1:30:25
+MEGA is trying to reflect how how impactful a a stable coin token or an IT
+1:30:32
+can be in the the financial system in in general in general terms. Um well this
+1:30:38
+is an aspect that has been very much um been on top of the table since the beginning of Mika. um because of the
+1:30:44
+requirements that become visites, the the high amounts of of deposits that need to be placed with great
+1:30:50
+institutions in in in the EU, mandatory deposits trigger significant concerns for the regulator and and this is an
+1:30:57
+aspect that at the end of the days is considered as a as an important aspect. One of the criteria indeed to assess
+1:31:04
+there are seven criteria in the regulation to assess one of the criteria is the highly interconnectedness with
+1:31:10
+the financial system. It's a qualitative criteria and and to some extent the
+1:31:16
+commission intended to try to provide some clarification or some help to
+1:31:21
+assess via delegated regulation and refer there to some potential factors that one might look at. And basically
+1:31:28
+the idea is to assess how much the the token might impact the financial system
+1:31:35
+but also vice versa how much the financial system might also impact the the stable coin. And therefore the idea
+1:31:41
+is to look at the type of investments that issuers of of tokens do to try to
+1:31:46
+understand how much they are concentrated how much they are impacting
+1:31:51
+into into the provision of these financial instruments in the market. Um and on the other hand the other way
+1:31:59
+around of course is also to understand somehow how much the the the financial
+1:32:05
+instruments they might invest in can impact the the stable coin. Another important
+1:32:11
+um aspect another criteria is related to the international scale of the of the
+1:32:17
+token right um because obviously it's also about how much impact it might
+1:32:24
+trigger in the general EU economy and there also the commission provided in
+1:32:29
+this delegated regulation some ideas of how this could be looked at basically paying attention to the market
+1:32:36
+capitalization the relative market capitalization that the token at a global level might have or at the
+1:32:42
+amounts of the crossber transactions that this token might be used. Again, this is a kind of a qualitative
+1:32:48
+criteria. These two are the most qualitative ones for which there's no specific threshold. So there's a need
+1:32:54
+for some type of let's say assessment.
+1:33:00
+Others are like more uh quantitative defined and here the the regulator
+1:33:06
+refers to some minimum amounts of the number of holders, the volume of the transactions, the number of the
+1:33:12
+transactions. Um they also refer basically to whether the institution the
+1:33:18
+issuer also provides other type of crypto services
+1:33:24
+or or or issues more than one token. So these are a little bit more objective
+1:33:30
+let's say to some extent but they're also a combination of qualitative and quantitative
+1:33:36
+criteria. So this will be a an exercise as I said that needs to be and the consequences or the implications that
+1:33:43
+for a token to be classified as significant is very much linked to the requirements because in this is the logical consequence right if it has a
+1:33:50
+expectedly a more impact on the general financial system in principle should be better covered or more more strictly
+1:33:57
+covered let's say and therefore for significant tokens there are specific requirements in the
+1:34:02
+regulation basically related to liquidity that need to ensure to
+1:34:08
+resilient reserve of assets as was mentioned to ensure the stabilization of the of the value. A proper liquidity
+1:34:15
+management of of the reserves basically very importantly the need to run liquidity stress tests. This is a a very
+1:34:23
+important item as well because indeed the regulation refers to the stability and the stress and and and also once
+1:34:32
+requirements because it's also about about the solveny of of the of the institution. So there are implications
+1:34:39
+from from a from a potential perspective that are very very much straightforward defining the regulation in Mika and
+1:34:45
+developed via regulatory technical standards. um when a token is is is considered as
+1:34:52
+significant then there's also a transfer of supervisory powers to the to the European banking authority depending on
+1:34:58
+the type of token of one kind or or of another type of kind of powers and if a
+1:35:05
+token is also considered significant then the next step is also to set up a supervisory college which is basically a
+1:35:12
+consulted a consultative um let's say forum composed by the relevant authority
+1:35:18
+ities, central banks etc. H in order to a little bit play the role as
+1:35:24
+traditional banking of of the qualities of supervisors. So basically this could
+1:35:29
+be a summary of what a significant assessment means in practice and what is
+1:35:34
+the the expected implications. Thank you very much. Thank you Luis. So let's jump
+1:35:40
+uh to another topic. the interaction of Mika with other regulations and
+1:35:45
+especially the payment services to directive. So we bear what do you think?
+1:35:51
+How does Mika interact with this directive? If we transfer emanate tokens
+1:35:57
+is this considered as a transfer funds. Therefore we apply payment services to
+1:36:03
+directive. Uh this is a good example of what we as
+1:36:08
+a mistake if I may uh because it is an
+1:36:14
+unexpected issue which has not been discussed during the
+1:36:20
+Mika discussion if I may and this is due to the legal qualification.
+1:36:26
+Uh it is due to political decision by the EU commission but with the support
+1:36:31
+of the ECB of course to consider um uh electronic money token which are defined
+1:36:38
+by the way as a crypto assets in the same time to be considered as electronic
+1:36:45
+money. More specifically it it says Mika says e- money token shall be deemed to
+1:36:52
+be electronic money. In this sense, uh, EMT electronic money token falls within
+1:37:00
+the definition of funds. It was unexpected because nobody
+1:37:06
+discussed this topic and it is due to the importance of the legal
+1:37:12
+qualification. If we consider that EMT are crypto there is no
+1:37:18
+issue and again electron token is part of the definition of of a crypto. It is
+1:37:24
+a crypto assets. We have various types of crypto assets, crypto assets in the Mika and EMT is part of the definition.
+1:37:33
+But this sentence has been added specifically to u to consider as a
+1:37:41
+hybrid definition both as crypto and electronic money. when something when
+1:37:48
+something is hybrid per definition it is complex and if I may per definition there is a lot of issues and potentially
+1:37:55
+it doesn't work what does it mean in practice it means that there is dual nature of EMT uh dual regulation uh both
+1:38:03
+as a crypto asset under Mika and as electronic money under a payment service directive
+1:38:09
+uh and it it creates of course complexity for CASP crypto asset service providers offering services involving
+1:38:17
+EMTs, which is the case for all of us and all of them. When a cast provides
+1:38:22
+service relating to EMTs that correspond to the definition of a payment service under PSP
+1:38:28
+PSD2, it should not not must today but it should either hold authorization as a
+1:38:35
+PSP provider under PSD2 when uh with an authorized PSP. In
+1:38:41
+case of dual authorization both as a CASP and PSP for the provision of services involving EMTs, actors are
+1:38:49
+faced with a dual regulatory framework for engaging a single activity. When we
+1:38:55
+transfer an EMT, you transfer an an EMT, it is one business, one business but two hats. Uh
+1:39:04
+bad luck. Uh in case of providing payment services through a third party
+1:39:10
+uh as a as a uh as an external provider, the regulatory burden is reduced of
+1:39:17
+course, but the cost of the service provided by the CASP increases due to the involvement of an additional actor
+1:39:24
+in the provision of the service. In this context, the EBA
+1:39:30
+um sorry is examining potential regulatory approaches for CASP that wish to provide
+1:39:36
+crypto asset services classified as a payment services. One of the options under discussion is whether CASPs could
+1:39:44
+be authorized as an agent. And you see the discussion is not okay, it is a
+1:39:50
+mistake. we will define differently and we consider that uh electronic money
+1:39:56
+token are no longer qualified as as a fund. No no no no the answer is okay
+1:40:03
+maybe not as a payment service provider but as an agent which is more or less the same issue. Uh but the discussion
+1:40:10
+today is to consider whether CASP could be authorized as an agent as a payment
+1:40:15
+service provider which is funny if I may is in the same time with the PSD3 in
+1:40:21
+discussion. Quick answer you reddraft the PSD3 and you say in the PSD3 that uh
+1:40:28
+crypto asset are no longer or are not uh uh payment services or funds. It is
+1:40:33
+easy. You just have to discuss this point on the on the PSD3. Surprisingly it is not the case. Um well
+1:40:41
+we have divergent position today between member states which is not so good uh
+1:40:47
+regarding the interaction between MIA and PS in the and the PSD2 in the
+1:40:53
+absence of the clear stance provides national regulators with some discretion
+1:40:58
+at least today. For instance, the ECPR uh has expressed opposition to applying
+1:41:04
+PSD2 to CASPs, which is good. Uh furthermore,
+1:41:09
+the EBA has indicated pending European level clarification, it does not it does
+1:41:14
+not intend to take enforcement by chance uh to take enforcement action against
+1:41:21
+national regulators that choose not to apply PSD2 to CASP.
+1:41:27
+the discussion we are not and enforce you to oblige cast to be to follow PSD2
+1:41:34
+and recently again funny if I may the EU commission sent a letter to the EBA in
+1:41:39
+coordination with the ESMAR requesting the issuance of a non- action letter which is quite rare by the way
+1:41:46
+concerning the enforcement of authorization requirements under PSD2 for CASPs
+1:41:52
+uh in the case of CASP are providing service involing involving EMTs
+1:41:57
+This request arises from concern that certain CAS activities might by chance
+1:42:03
+fall within the scope of PSD2. Now the proposed non- action letter will temporarily suspend the
+1:42:10
+requirement for CASP to obtain PSP authorization when EMTs are used exclusively for investment or trading
+1:42:17
+purposes rather than as a means of payment. You see the distinction. The EBA has committed with the ESMA to
+1:42:24
+publish this action letter by April 25 quite soon. Uh it is expected to include
+1:42:30
+clarifications on the regulatory overlaps between Mika and PSD2 in alignment with the forcecoming PSD3
+1:42:37
+framework. Additionally, the EU Commission has uh has indicated it it uh
+1:42:44
+intent to further clarify its position through a Q&A uh aimed at providing
+1:42:50
+guidance on the application of this PS2 for caps. Well, just to illustrate the
+1:42:55
+complexity of the situation when there is not a mistake a political decision
+1:43:00
+which is a mistake as an economic point of view and the answer is not to okay it
+1:43:06
+is a mistake sorry about that. We will by chance we are discussing on PSD3. We have the possibility to review this part
+1:43:14
+of the discussion. We will clarify the fact that crypto EMT are not funds but
+1:43:19
+no we continue to be in the same situation and maybe there will be a situation where the caps could be an
+1:43:26
+agent or a PSP but well it is it is nightmare. Uh and just to continue to
+1:43:33
+illustrate this nightmare if I may uh sorry to be but for those who know me I like to be such situation. Um uh in fact
+1:43:42
+uh we have just illustrate two to two two situation uh the transfers of EMTs
+1:43:48
+between accounts held by the same person right Stephanie for instance uh you have
+1:43:55
+accounts uh and you you want to transfer EMT from one of your wallet to the other
+1:44:00
+wallet or one account to another account. As of today for payment services, the ABA has indicated that
+1:44:06
+when an individual transfers funds uh between their own account bank, such
+1:44:13
+transaction qualified as a payment transfer under PSD2. You transfer
+1:44:18
+between two banking account. It is a transfer of funds. However, it remains unclear whether the same principle will
+1:44:24
+apply to transfer EMT between you two wallets. We don't know. custodial
+1:44:31
+wireless provided by CASPs. This may qualify as a payment account under uh
+1:44:37
+PSD2 provided that they facilitate the transfer of FMT to and from third
+1:44:43
+parties and this is the situation that you you illustrated. Well, it's just few
+1:44:48
+words to say in the EU we we made clear that we
+1:44:54
+have now the Mika which is good globally speaking but uh policy makers I EU commission made a
+1:45:02
+political choice this political choice as other for instance the yield of of of
+1:45:08
+EMT is a mistake but we continue to be in the mistake and even though we have
+1:45:14
+the possibility to clarify the situation this something that I don't understand. Thank you.
+1:45:21
+Of course. Thank you for this uh very interesting
+1:45:27
+point you made. Um so we talked about Mika. Let's talk about what is outside
+1:45:34
+Mika. Stephanie already highlighted decentralized finance. We have a recital
+1:45:40
+recital 22 in Mika regulation that states that if a crypto asset service is
+1:45:46
+provided in a fully decentralized way it does not fall under the scope of Mika
+1:45:52
+even if recital have not binding force. Uh we consider that decentralized
+1:46:00
+finance is not covered by Mika. So Pier, do you want to shed some light on
+1:46:07
+decentralization and decentralized stable coin protocols? Sure. Um, thank
+1:46:12
+you very much for the invitation. So maybe a first point because everyone said that the toughest job in crypto is
+1:46:19
+to be entrepreneur. I think also the toughest job is to be regulator because clearly uh things are moving very fast
+1:46:25
+and this is really difficult to also fit with the actual state of the technology and really as an entrepreneur um the
+1:46:33
+current state of the art in crypto is totally different it was in 2021 and
+1:46:40
+really really different uh that it was in 2016 2017 when I started as a member
+1:46:45
+of parliament to to work on it. So clearly um my point on on regulation
+1:46:51
+have always always been to be uh pragmatic to be open to what's going on
+1:46:56
+and as we are in a world of Latino law it's really also difficult and and and
+1:47:02
+sometimes we we don't um we we love categories and and so on that create also some some friction. Um so
+1:47:10
+decentralization is one of these of those categories if I may may add and um
+1:47:15
+and really the complexity is to determine what's what's a decentralized project. Um and you may have uh seen
+1:47:23
+some some decentralized protocol that say that they are immutable. They are working on their own totally automatic
+1:47:31
+without any funders behind that. And that's pretty rare because clearly in DeFi currently the state-of-the-art is
+1:47:38
+that if you want to to to start building a protocol, you need to be centralized. You need to have a team behind that, you
+1:47:44
+need to have someone that creates the first stone and and build on top of that and after that maybe can converge to
+1:47:50
+something that is decentralized on the long term. But really that's not current currently the the major state of of of
+1:47:56
+the uh of the art in in D5. Uh and so we we cannot hide behind the
+1:48:03
+decentralization to not be regulated because I think it's it's a false um
+1:48:08
+objective really. I think that in the long run maybe yeah the law will determine what should be the state of
+1:48:15
+the regulation what should be uh the protection for a decentralized protocol but currently we need to build also with
+1:48:21
+regulators some common place where we fit with also what's the letter of the
+1:48:27
+mission of the regulator and that have been said very well before uh two things first protect um the uh global system
+1:48:35
+and even if I'm not totally align with the fact that we put threshold and so on. Yeah, there is a subject about this
+1:48:43
+paration of stable coin in general because it will have also an impact of the liquidity on the market for banks
+1:48:49
+and so on. So that can also make things we can think about it and the second stuff is also protection of of the users
+1:48:56
+of people who are uh investors and so on. So that's really really important. So on decentralization if I may just um
+1:49:04
+speak a little bit about that you have few state uh of uh decentralization.
+1:49:11
+First, a full decentralized protocol is something that is immutable where you
+1:49:16
+cannot change anything from the code that have been uh written before uh where the founders are the builders
+1:49:22
+initially uh are not able to modify uh the the code as a contract and defy is
+1:49:29
+just about a contract. We speak about smart contract but it's it's a contract where you just specify the rules of the
+1:49:35
+execution of what will happen and and and so on. So clearly the full decentralization exists but it's pretty
+1:49:43
+rare in DeFi. After that you have the possibility to create um different
+1:49:48
+stadium if I can say that step of decentralization. First there is automaticity of the system. the system
+1:49:54
+are automatic and and you uh have no longer um the centralization of someone
+1:50:01
+a supervisor a creator uh someone that is uh taking care of the transaction
+1:50:06
+just authorizing the transaction and so on. So that creates a lot of complexity especially on KYB because clearly uh
+1:50:12
+crypto is about secondary market it's about permissionless stuff and having some some permissionless network create
+1:50:19
+also the incapacity to know very well who is behind a transaction who is
+1:50:24
+behind an address and so you just have some criteria some some some
+1:50:29
+some fodis sorry for for the term in French to determine if the the
+1:50:35
+transaction is legit or after that at every step of each project
+1:50:41
+if you want to be decentralized and and and for for myself my my opinion is that
+1:50:47
+yeah I think decentraliz decentralization brings some positive aspect uh in finance in general uh you
+1:50:55
+start centralized and you are a project that race found uh you are a team that build a protocol and after that on the
+1:51:01
+long run you say okay my protocol is major uh all the actors that are participating in the protocol
+1:51:07
+um are well equiliiberated and so you decide to uh either give to the
+1:51:12
+governance so people that have the possibility to vote and this is also another topic because clearly uh as you
+1:51:19
+can see in democracy there is a lot of challenge to uh have a fair and and
+1:51:25
+balanced and also efficient governance. It's the same for D5 protocol because uh
+1:51:30
+the governance in D5 protocol is not totally working well currently because people are not reparticipating. you have
+1:51:36
+different of uh interest, you can also uh let's say game the game. So uh find a
+1:51:42
+way to uh to to over go over the the the the governance. So clearly having a
+1:51:49
+system that is um democratic is something that is tough and that if you
+1:51:54
+want also to be efficient. So on the long run I'm pleading for yeah a lot of
+1:52:01
+discussion I think with regulators institution in in general because that's really a complex subject.
+1:52:06
+Decentralization is not just a political view. It's also a matter of efficiency or neutrality. I really think that we
+1:52:14
+can have also some infrastructure that are neutral uh that are not governed by centralized interest or shareholders
+1:52:20
+that are well known and that offer also some common place or common good for for
+1:52:26
+for new step of finance. But really uh this will not happen tomorrow. Um and
+1:52:32
+clearly DeFi currently is not totally prepared to be fully decentralized and that's not bad because clearly we have
+1:52:39
+to reach also some some new step to offer good product uh in an ecosystem that is clearly an innovation um for the
+1:52:47
+moment every people that are putting money in defy um I think should should
+1:52:52
+be protected but less protected than someone that is operating with a bank because the cost and the barriers at at
+1:52:58
+at the entry is so high in term of complexity that you cannot plead that you uh you you were not aware of of this
+1:53:06
+product. So we need to to to have better sandbox. We need also to have better
+1:53:11
+discussion sometimes with uh institutional actors and political actors because I was one of them and
+1:53:16
+clearly the level of comprehension is really low. And the idea is that on the long run, yeah, maybe uh we should have
+1:53:23
+some global term for for the DeFi and maybe a last point um because
+1:53:29
+clearly this subject is clearly a subject about sovereignty and uh the the
+1:53:36
+fact that we abboard Mika as a as a defensive manner uh is also one a part
+1:53:42
+of the problem that we will see I think in the next coming months because I think we will agree on on that in 2021
+1:53:50
+we were sharing the common um um view on stable coin is also a monetary war
+1:53:57
+monetary sovereignty. uh when you see tetar that have more than 115 billions
+1:54:03
+of of dollar and behind that a part is also tial that are financing the budget
+1:54:09
+of United States you cannot consider that uh spreading uh tetar is not
+1:54:15
+helping the US and it's why US is okay with that even if clearly uh we can
+1:54:20
+consider that they are not uh totally uh totally regulated they're okay because
+1:54:25
+they can track also the the transaction and they also finance the depth of of
+1:54:30
+United States. So what I want for Europe and I plead guilty guilty on that because my stable coin is denominated in
+1:54:36
+dollar. So I will not uh speak too much about that. Um uh but I really think
+1:54:41
+that in Europe we have a chance to also have a clear um a clear state of of the
+1:54:48
+art in term of law in term of regulation and we need to take that to create also new uh I think champions people that can
+1:54:56
+can build a really um effective and powerful uh stable coin network in Euro
+1:55:03
+uh denominated because I think this is clearly um what is the most important aspect if We want to be sovereign on on
+1:55:10
+our gear currency. Thank you very much Pierre. So for your insights
+1:55:19
+and what is the opinion of on decentralization?
+1:55:27
+Thank you briefly. Yes briefly. Um
+1:55:33
+but concerning D5 Mika is not enough clear that's on the what is inside the
+1:55:40
+scope or what is outside the comp the scope. This is very difficult to know because there is no clear
+1:55:46
+criteria. Um a lot of people think that because there is no real issuer
+1:55:53
+um defy services could could be or should be excluded from the scope of the
+1:56:00
+regulation. But uh in fact where there is an entity of a group
+1:56:06
+of person able to implement some change on the protocol the question to request
+1:56:12
+an authorization for this entity arise in fact. So the at ACP consider defy as
+1:56:21
+very risky in term of antimony laundering of course also um because uh
+1:56:27
+without any rule to protect the user we think this is also very highly risky for
+1:56:32
+them and that justify our close monitoring of all um decentral so-called
+1:56:39
+decentralized issuance of stable car um even if there is no real issue in
+1:56:47
+it is possible to regulate defy. Uh last year with the SAP with our colleague of
+1:56:53
+the AMF we lead a working group on the topic of the certification of smart
+1:56:58
+contract used in the defy and uh we try to find a way to to implement such
+1:57:04
+certification in a European legitation. So um the report um contain three parts.
+1:57:13
+The first one on the main principle of a standard. The second one on the the
+1:57:19
+different option to make audit of the smart contract and the last one on how
+1:57:25
+to implement such a a certification in a regulatory framework. So
+1:57:31
+the report there was a consultation a public consultation which ended on the
+1:57:38
+10th March and the result of the consation will be released before July.
+1:57:43
+So maybe we will have a good proposition we will say thank you. Okay thank you
+1:57:49
+very much. Um so let's talk about uh the global implications of Mika K touched
+1:57:56
+upon this point and talked a bit about the competition with
+1:58:01
+uh global players. Stephanie, what do you think? I fully share your views Pier um on the
+1:58:11
+Mika is really a powerful tool in terms of sovereignty. Why? because first it it
+1:58:17
+it enables Europe to ban nonregulated stable coins meaning stable coins which
+1:58:24
+do not respect the rules we have inside the EU. Uh so one example is a USDT so
+1:58:31
+the Tether stable coin which is the biggest in the world is currently being banned from Europe. It's not possible
+1:58:38
+for Tether to issue it in Europe and uh it's being delisted from all uh crypto
+1:58:45
+exchanges, brokers, etc. uh all around Europe. So, it's a powerful tool to
+1:58:50
+impose to third countries uh our our rules. But at the same time, uh it
+1:58:57
+should be also a way to uh foster uh the use of stable coins. Why? Just because
+1:59:05
+what you explained uh stable coins are a mean to collect liquidity from all
+1:59:12
+around the world from retail people from professionals from everyone and to
+1:59:18
+invest it locally in your country. Why uh is the US promoting stable coins and
+1:59:24
+forbidding CBDC? This is exactly why. Because stable coins, everybody
+1:59:30
+currently uses dollar stable coins because they were the first to be issued in the world. So uh dollar stable coins
+1:59:38
+collect liquidity directly from people without all the intermediaries without
+1:59:43
+losing money in the way and all this money is invested in the US in treasury
+1:59:50
+bonds. uh tether. So the issuer of the USDT is
+1:59:56
+the 18th holder. No, I saw it fourth.
+2:00:02
+Fourth bar maybe fourth fourth holder of treasury bills in the
+2:00:09
+world. One company of 100 people holds more treasury bills than the whole
+2:00:16
+Germany or than the whole Australia. I don't you know if when I learned that
+2:00:23
+I was really baffled one company has more power than all the financial
+2:00:29
+players all the retail people everyone in Germany so you see so the potential
+2:00:36
+in terms of financing uh public debt uh companies defense
+2:00:43
+etc is absolutely huge and that's why I'm I'm I'm speaking about that because in reaction to uh this US tends to uh
+2:00:52
+promote stable coins and forbid CBDC. We have now in Europe I feel a debate which
+2:00:58
+is C TBDC versus stable coin on the other way meaning that in reaction we
+2:01:04
+are very strongly in favor in of CBDC and against stable coin for me we
+2:01:09
+absolutely need both assets we need CBDC for financial stability for world
+2:01:16
+transactions it's absolutely key uh for financial stability but stable coins are
+2:01:22
+the new way the new commercial money and this is also something absolutely
+2:01:28
+indispensable if we want to finance our future economy and have a strong economy
+2:01:34
+in the future. Thank you Stephanie.
+2:01:40
+Um could you please u um explain us the regulatory policy in
+2:01:47
+other jurisdictions for example in the US or the UAE? I will maybe just add some
+2:01:55
+one of two other figures uh with with Stephanie. We saw uh few minutes ago uh
+2:02:02
+the total volume per day exchange uh on on TA if I remember well it is
+2:02:08
+40 billion dollars per day. Am I correct?
+2:02:17
+Yes. which means the double volume on Euronex just for one stable
+2:02:25
+coin. Just to imagine this is interesting because usually we compare
+2:02:30
+the market capitalization of crypto assets with the market capitalization of shares or or other financial instrument.
+2:02:37
+It has no sense in for stable coins. sub account are more comparable with uh
+2:02:44
+with legal money, legal tender in circulation. And in this case, if you
+2:02:49
+look about total capitalization of of stable coin, 250 more or less a billion
+2:02:56
+of dollars, what is the total amount of USD in coins and in banknots in
+2:03:02
+circulation? Three billion 3,000 billion USD i.e.
+2:03:09
+is not so so far 3,000 billion USD in circulation in form of coins and
+2:03:15
+banknotes compared to 250 billion uh stable coin and then it is more
+2:03:22
+comparable to come back to your point interesting to see in the Emirates uh
+2:03:27
+they specifically in Abu Dhabi they have enacted the last year um a stable coin
+2:03:34
+regulation or or law which inspired by Mika but not with those
+2:03:41
+issues if I may because it is possible to to be interest on on the Emirates. It
+2:03:46
+was clearly a political choice uh because they saw what happened in the in the EU and they say okay we know but we
+2:03:54
+do differently. Same for the reserve. Of course, the reserve is is very well u
+2:04:00
+monitored, but with if I may more flexibility in one sense compared to the
+2:04:06
+to the to to the EU. What about the US? You know, we have this two draft bills.
+2:04:12
+The one is named stable and the second is named genius. It's not me. And the
+2:04:19
+genius uh bill is very interesting because it is a draft but it is um a
+2:04:25
+co-partisan draft between Republican and Democrats which is quite rare
+2:04:30
+specifically today and these bills not bills these draft bills has been
+2:04:35
+discussed last week uh to the banking committee of the Senate and the banking
+2:04:41
+committee has agreed uh on the content of the draft bill which means that this
+2:04:47
+bill this draft bill will be discussed now to the Senate uh as a whole and
+2:04:53
+potentially it will be the the next bill in the US and interesting to see about
+2:04:59
+uh the the changes um after the discussion at the banking committee of
+2:05:04
+the US Senate if I saw my notes sorry because I am not a US lawyer. Uh the
+2:05:10
+definition of payment stable coin has changed if we compare with the first
+2:05:15
+draft because in the first draft it was possible uh it was not prohibited to
+2:05:21
+differently to to to be interest or to be uh um yield after the banking commission there
+2:05:28
+is a prohibition as for the EU surprisingly or not u um stable coin issued under
+2:05:37
+this this genius act will be prohibited to to be interest
+2:05:42
+or yield. Uh and what does it mean? That means stable coins that are not governed
+2:05:48
+by the act i.e. stable coins who offer yield or interest cannot be used for
+2:05:55
+interbank settlement. This is something of the of the of the changes after the
+2:06:02
+banking commission. Something interesting again is IML. you discuss on the IML issuers will be treated as a
+2:06:09
+financial institution under the banking secrecy act uh with additional IML sanctions protection uh but rules will
+2:06:17
+be tailored to the size and complexity for each issuer which is not one is
+2:06:24
+flexibility if I may governance we see something similar than in the EU stable
+2:06:29
+co issuers with balances of greater than 50 billion USD must get an audit
+2:06:36
+You remember that the discussion about TER and the audit two or three years ago
+2:06:41
+uh it is now those who want to get the protection of the
+2:06:46
+FDIC must be audited. But just to be sure that the genius draft bill is a very important
+2:06:55
+one. Um I post often on LinkedIn on this topic because it will uh clearly be uh
+2:07:02
+uh uh the the next and the future regulation in the US.
+2:07:09
+uh they saw what is what is the Mika regulation they are doing a little
+2:07:14
+differently than us but the discussion about interest and yield is I'd like to to investigate myself because it is
+2:07:21
+something new that it was not happened and why they have changed in their mind I don't know perhaps to protect the
+2:07:27
+banks perhaps to protect the bank perhaps I don't know but perhaps usually
+2:07:34
+it is the answer Thank you very much. Do you want to add
+2:07:41
+something? So, thank you very much for your insightful discussion. Perhaps the
+2:07:47
+audience are we do you have any questions?
+2:07:59
+Michael,
+2:08:08
+thank you for the discussion. I have one question concerning what you said Stephanie about uh the non-yield on
+2:08:15
+stable coin why uh it has been decided and by whom? And second question, uh,
+2:08:24
+Tesar doesn't provide any income or I say something wrong. So the biggest
+2:08:31
+stable coin which which is completely unregulated according to me doesn't provide any yield. Uh so uh it's a
+2:08:39
+little sorry
+2:08:47
+it it provides yield and when you hold it on crypto exchanges you get yield
+2:08:52
+from the liquidity you have from from tar yeah and and they provide how much
+2:08:57
+compared to what they get when you met they don't have sorry you
+2:09:04
+don't have no I don't know exactly I think it's 20 25% Because it you just have to compare with
+2:09:11
+the revenue and the revenue and after that you you just take a look to the TV right and after that you know what they
+2:09:17
+keep and what they what they and the yield in crypto exchanges it's generally between five to eight 8%. Yeah. Yeah.
+2:09:26
+Because you have different and that's also the difficulty with stable coin issuer because sometimes they have loan
+2:09:33
+n so they they they they lend their stable coin to other institution. We
+2:09:39
+don't know if they are 100% collaterized. I bet that let's say in 2019 2020 Teta was not fully
+2:09:46
+characterized and maybe give some loan so print some tetra USDT to some certain
+2:09:51
+actors let's say market makers and so on and the risk free rate in crypto is around 12% between 10 and 12%. So you
+2:09:59
+have a lot of uh actors financial actors that are okay to pay 12% interest just
+2:10:06
+for having some stable coin. a part of the of the of the business of teter also is to lend a part of the
+2:10:12
+supply the question was mainly was this supply was fully characterized at the moment I think now yes but that's really
+2:10:21
+an open question for the past just to try to answer to your question who has decided again we come back to the
+2:10:28
+question of definition if we consider an EMT as a monet you know that the monet
+2:10:35
+cannot be reminerated as itself itself an account a banking account can be reminerated but the money itself doesn't
+2:10:42
+produce any interest it is the account which produce interest by whom by the
+2:10:48
+control by the aon provider by the bank it is not the state the the the the ECB
+2:10:54
+or any central bank who uh uh uh uh uh remineration on on the order and which
+2:11:03
+is strange in the reasoning is in one sense we Some consider that EMT are are
+2:11:10
+not which is true legal tender are not is not money but the reasoning to uh uh
+2:11:17
+to prohibit uh uh remineration is to consider as a money. It is totally
+2:11:22
+strange. The the origin of that is exactly what
+2:11:27
+you say is that some people consider stable coin as money and money don't
+2:11:32
+create interest. But at the same time the problem is stable coin is between the two. It's also it's a it's it's a
+2:11:40
+money but it's also like an investment product and basically it generates
+2:11:47
+yield. It's it's it's a it's a fact. When you immobilize uh the reserve account the reserve is creating money.
+2:11:55
+So there's no justification at all that this money created with the savings of
+2:12:02
+investors is not given back to the investors and is captured by financial
+2:12:07
+intermedies. Politically there there's no there there's no rationale behind that. So the problem as you said is
+2:12:15
+exactly that is that we wanted to apply two regulatory uh frameworks and two
+2:12:20
+notions on stable coins money and financial asset whereas we should have
+2:12:27
+fully engaged in the direction of defining a new crypto asset. Well it's a
+2:12:32
+new asset. It's something totally new. uh and we create a regulatory framework
+2:12:38
+only for that and we recreate a transfer of fund uh regulation and so without this clear
+2:12:47
+definition of a stable coin we won't be able to to really capture what this new
+2:12:53
+notion and this is important because this this is a new money on chain the
+2:13:00
+new money on chain will be a money which creates yield
+2:13:05
+This is how it should be. This is why I said sorry to to continue the discussion. It is a mistake. It is not
+2:13:12
+only it is not a political mistake because a political mistake is never a mistake. It is it is a decision. It is a
+2:13:19
+mistake. It is a legal mistake in the sense that it is money or
+2:13:24
+it is assets but cannot be both. If it is both it does not work.
+2:13:31
+If I may add something, the official justification in Mika regulation because if you read the recital, they say in
+2:13:38
+order to ensure that stable coins are not are means of exchange even not means
+2:13:44
+of payment and not means of store of value. So this is the official
+2:13:49
+justification. Maybe I will be the the lawyer of the devil. No, but I I get the point because
+2:13:58
+in certain sense you don't want to unbalance uh the financial system because if you are saying okay stable
+2:14:05
+coin yield the money market fund rate uh and the money market fund rate is not
+2:14:10
+totally accessible to to retails currently a lot of people are losing are losing a lot of money because they're
+2:14:17
+not edging their their their met even in a bank you know so clearly you're offering a product that is yeah very
+2:14:23
+effective for uh for retails for users but you can create also traction from uh
+2:14:29
+from banks to stable coin issuer that can lead also to an unbalance of their balance sheet and create also some
+2:14:35
+disparency in in the world economical uh financial system. So I understand the
+2:14:40
+point but really we'll need to find a way because uh especially for
+2:14:48
+transfing to an asset manager a stable coin is uh is something that shouldn't shouldn't exist because you you don't
+2:14:56
+give a money to someone without finding any interest and tet is that teter is
+2:15:01
+yielding all the money for themsel and exist also with that because it offer another product on top of money the
+2:15:08
+product is payment is trading counterparties and so on. Uh but clearly in general is tomorrow you have some
+2:15:15
+money market fund that are let's say distributive so pegged to $1 and yield at least the the risk-f free yield of
+2:15:20
+the underlying you will not have any uh uh purpose of having tet because tet is
+2:15:27
+not efficient in term of financial design. Thank you. Um other questions
+2:15:43
+Thank you very much. Uh maybe a question about the the same topic. Um
+2:15:49
+uh I guess that in the electronic money device uh the electronic money directive
+2:15:55
+you can have yields on the money uh
+2:16:00
+electronic money not EMT electronic money directive.
+2:16:07
+This is the difference between EMD directive and payment services directive
+2:16:12
+and it is quite easy to understand if I may uh because uh um it is the same
+2:16:19
+reasoning to be short I electronic money is viewed
+2:16:24
+as a money even though it is legally speaking a mean of payment it is viewed economically speaking as a money and
+2:16:31
+this is why the money doesn't produce per se or itself
+2:16:36
+remineration. Uh but the the question why not considering that the account of
+2:16:43
+electric money can produce interest not the money but the the the account provider but the electronic money
+2:16:51
+directive prohibit uh and this is why we have this prohibition too for the for
+2:16:56
+the Mika because Mika refers to electronic money directive because actually um I had to do the research um
+2:17:04
+about where does it come from and I saw that on the MAP project the first draft
+2:17:12
+there was no prohibition of interest yield it appeared actually when the the
+2:17:18
+European council add the the commission text so it was actually my question
+2:17:26
+uh isn't it political isn't it something sense between you and me it is the ECB
+2:17:32
+to be sure because it was not in their report didn't talk about yields in their report
+2:17:41
+of the council. Yes. But pushing it was discussed discussed this question.
+2:17:48
+That's true. So EMD electronic is sur of bugs and not there is no
+2:17:55
+interest and yes it was a long discussion at the conceal and if it's
+2:18:00
+forbid it's because there were more um
+2:18:05
+country who voted against that. It's true. Maybe it's not a good decision for
+2:18:10
+the business. I don't know. But it was it is a true. Okay. Thank you.
+2:18:19
+Other questions? Thank you very much. Thank you very much for your valuable insights and see very
+2:18:27
+interesting discussion. So the discussion can continue over the cocktail. So I invite you to join us.
+2:18:34
+Thank you. [Applause]
+

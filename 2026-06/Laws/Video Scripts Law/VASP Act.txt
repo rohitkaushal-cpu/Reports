@@ -1,0 +1,727 @@
+
+Search in video
+0:01
+[Music] [Applause] Please be advised that this recorded webinar has been edited from its
+0:07
+original format, which may have included a product demo and other engagement features. To set up a live demo, please
+0:14
+complete the form above on our website. If you currently are not on our website and are watching this on our YouTube
+0:20
+channel, there's a link to the website in the description of this video. Thank you. Hello everyone. Welcome to today's
+0:27
+webinar, the VAS act explained. why it matters. Now, my name is Annie
+0:32
+Tribbleleti and I will be your host for today. So, we have a great lineup of speakers joining us today. You'll be
+0:39
+hearing from Richard Mundon who is a partner at Kerry Olsen and Summit Goch who is the director of capital markets
+0:45
+at CSC and also guiding us through the session today as our moderator is Jonathan Hanley who is the managing
+0:52
+director for global capital markets at CSC. So without further ado, I'm going to hand things off to Jonathan to get us
+0:58
+started and to introduce our speakers. Great. Thank you, Annie. Uh delighted to be here and very excited for today's
+1:05
+webinar on uh virtual asset service providers uh in particularly focusing on
+1:10
+Cayman Islands. Um I guess from our perspective uh very timely and very opportune uh for a couple of reasons. So
+1:17
+we've recently seen phase two of the implementation of the regulatory framework in Cayman. Uh and that appears
+1:24
+to have driven a lot of activity or additional activity in the Cayman Islands in the vast space. Um and from
+1:30
+that perspective, we both have Richard and Sam who are in a position to provide us some very practical advice just in
+1:36
+terms of what's required in terms of uh setting up and running a compliant um
+1:41
+entity. So, uh, Richard, really from your perspective, just to to get us going, I thought it'd be useful just to
+1:47
+give a fairly broad question, but just some background. Can you give us a brief overview of the VASPACT and and and what
+1:54
+it means? Yeah, sure, Jonathan. I mean, firstly, thanks very much for inviting me on um to talk with you and Sam about this. Um,
+2:01
+it's a area of of law that's kept us very busy um for the last five years.
+2:08
+Um, uh, so so to kick off, what is the Vaspack? Last act is the Virtual Asset
+2:13
+Service Providers Act. It's a piece of legislation that came into effect in the Cayman Islands in um 2020. Um there's
+2:22
+been some amendments uh to the act since. Um you already touched on that around phase one, phase 2 implementation. We'll get into that a
+2:28
+little bit later. But uh broadly what it uh seeks to do is to provide a
+2:33
+regulatory framework within which businesses engaged in virtual asset
+2:38
+services uh will be subject to the oversight of the Cayman Islands Monetary
+2:43
+Authority which is the regulator in the Cayman Islands that already regulates other financial services sectors
+2:49
+including funds, insurance, securities, investment business. Um the
+2:57
+uh starting point really for any uh conversation on the VASP act is you know
+3:02
+what is it that is is regulated and I think the the kickoff point to understand is it it regulates virtual
+3:09
+assets and virtual assets have a specific definition and it doesn't cover every single type of
+3:16
+um token that might be out there in in uh in the world um you know at the
+3:22
+moment and which with which people interact. So a virtual asset is effectively a subset of that universe of
+3:27
+tokens and it's a defined as being a digital representation of value uh that
+3:33
+can be used for payment or investment purposes. And so there are tokens out
+3:38
+there in uh in in the world that for example just allow a holder of the token
+3:44
+access to some service or product commonly known as sort of say utility token. that kind of token often falls
+3:50
+outside the scope of the the vaspact as not being a virtual asset. Conversely,
+3:56
+uh the sort of tokens people will commonly hear spoken about cryptocurrencies for instance, say
+4:02
+Bitcoin obviously is the most uh famous example um that is something that can be
+4:07
+used for payment or investment and so that would fall within the act. So the
+4:13
+um once you're dealing with a token that has the characteristics of a virtual asset as set out in the act then you
+4:20
+need to look at the business um or the activities being undertaken um to see
+4:26
+whether you come within the parameters of the act and then the the types of activity that are regulated by the act
+4:32
+are the business of transferring or providing a transfer service for virtual assets. So transferring virtual assets
+4:39
+on behalf of the customer from a wallet to another wallet. Uh the business of exchange. So that would be for example
+4:47
+uh facilitating the purchase by somebody of Bitcoin. So somebody may pay fiat
+4:52
+currency US dollars in exchange for Bitcoin. Um and that is that is an exchange or they may use one virtual
+5:00
+asset to buy another virtual asset. Um so for instance a stable coin used to
+5:05
+buy another kind of virtual asset. So a virtual asset for virtual assets exchange is covered as well. Um custody
+5:12
+services is another type of virtual asset services regulated. So that is holding custody of a customer's virtual
+5:18
+assets. And then the act also speaks to
+5:24
+financial services provided with respect to the issuance of a virtual asset. And
+5:29
+finally, a uh issuance itself or it's sort of an issuance of tokens to the
+5:36
+public broadly is is what we should talk about. There's a little bit of nuance there, but broadly if if you are a
+5:41
+Cayman entity looking to issue tokens, um then in many cases that would also be
+5:46
+something caught by the act. If you're caught by the act because you're doing one of those activities uh with respect
+5:52
+to a virtual asset, then the act provides for two regimes. One is a requirement to be registered with the
+5:58
+regulator and the other is a requirement to be licensed um with the regulator. Um
+6:03
+I'll just pause there Jonathan because that's quite a lot of quite a lot of information I think. Um but it does set
+6:08
+the set the scene. Yeah. No that's really useful. Okay. Uh thank you for that. So Sam I I guess on
+6:16
+the basis that we fall within Rich's definitions both from a token perspective and from a a business
+6:22
+perspective um or the activities the business undertaking in practical terms
+6:28
+what is required in order to establish a VASP and and potentially just talk us through you know just local
+6:34
+establishment and then that registration and licensing process. Can you give us a sense of what's what's required there?
+6:40
+Sure. Yeah. So to carry on from uh where Richard left off uh so once uh it has
+6:48
+been established that uh the activities uh are captured within the VASP uh
+6:55
+parameters then the next step is uh to look at it as a SEMA regulated and
+7:01
+registered uh entity uh which as uh uh Richard alluded to is not very different
+7:10
+uh from what a fund or or an insurance product uh would look like. Uh so here u
+7:20
+the the foundation of the structure would uh essentially be uh a company uh
+7:27
+more than likely than any other form of corporate entity. So the uh a company in
+7:34
+uh uh used for offshore structures in Cayman is typically called an exempted
+7:39
+company uh which is uh exempted from doing business in Cayman. Uh so that
+7:46
+company should now have a registered office provider, should have directors
+7:51
+and should have a raft of service providers uh which are mandated uh under
+7:59
+under the SEMA rules and also there could be other service providers uh for
+8:06
+good governance or other reasons. uh it would be very uh prudent on the part of
+8:14
+whoever is looking to register themselves uh under the vast fact and um
+8:20
+arrange and organize a business in Cayman that uh they go to uh a a
+8:26
+reputable law firm uh and then seek out a set of service providers uh registered
+8:32
+office providers uh custodians auditors and anything else that is required to
+8:40
+make the fund whole. Now, obviously between uh a law firm
+8:46
+such as Carrie Olsson and CSC, uh we would typically find ourselves being a
+8:54
+first stop uh where an exploratory conversation is had and then we can
+9:00
+assist uh in finding other service providers and getting the ball rolling.
+9:05
+Then the next step would be the actual application. And uh here it is very
+9:11
+important that we manage our uh uh clients your uh if you are our client
+9:18
+your expectations around uh the the application process how long it's likely
+9:25
+to take and in our experience uh this is a new law but speaking from our
+9:32
+experience of having registered uh literally thousands of funds and other
+9:37
+uh SEMA registered entities It's very important that the application is done correctly and like all the boxes are
+9:45
+ticked. Uh otherwise there is an unnecessary delay which uh often
+9:51
+translates into not just uh a bad experience for the arranger but also
+9:56
+translate into uh opportunity lost. Very good. And I I guess that that
+10:02
+raises an interesting question. We we've had sight of some of the registration
+10:07
+volumes and the different business activities being undertaken by by people who who've gone ahead and and registered
+10:13
+for for VASP with SEMA. Um Richard, I'm I'm assuming you you've seen quite a few
+10:19
+come through your law firm. I'm just curious and and I think it'd be interesting to understand what are the the challenges that that some of those
+10:26
+applicants have seen and what have you learned through through that process? I mean, can you can you talk us through some of those?
+10:32
+Yeah. Absolutely. I mean, look, I think you you touched on a point that that Samid also touched on. I mean, look, it
+10:38
+is a relatively new law. Um, we can see from the public data that SEMA makes
+10:45
+available that currently there's only actually 18 registered entities under the the BASPAT. Um, you know, our team
+10:52
+here at Kerry Olsson, you know, we have close to close to sort of 25% of that
+10:58
+slate and are working on these on an ongoing basis. I mean look the most common issue that people encounter frankly is
+11:05
+the processing time by the regulator. Um I
+11:11
+at the moment you know we advise clients we work with that it's unlikely they will get the application approved in
+11:17
+quicker than perhaps eight months from from the point of submission. Um now how
+11:24
+how applicants can help themselves is to make sure that the data that they or the
+11:29
+information they're they're providing at the point of submission is comprehensive and in the form required by the
+11:35
+regulator and you know there are uh standards established by the regulator
+11:41
+with respect to for example authentication certification of documents that get submitted um that you
+11:46
+know there's just no no leeway really uh uh with those um you know there is a standard we need to get And our role in
+11:53
+working with clients is to make sure everything that is coming in is going to meet those standards. Um and that goes both to form and to substance. So on the
+12:00
+substance side um you know there are a number of policies that must be submitted um together with the
+12:06
+application and those policies need to cover all the points that we believe the
+12:12
+regulator will be looking for. Now the regulator has published quite a useful sort of library of materials with
+12:17
+statements of guidance and rules and so on so forth as to you know how to comply
+12:22
+with the regulatory requirements. Um and part of our process as council working with clients is making sure that the
+12:30
+submission that goes in shows clearly to the to the regulator that the way the
+12:35
+business is set up and the way the business will be managed once approved is going to be compliant. Um what tends
+12:41
+to happen is posts submission the regulator will come back with effectively a range of questions um
+12:48
+based on the information it's received and clearly the volume of those questions and the complexity and time it
+12:54
+will take to answer those questions is going to be a direct directly correlated to the quality of the information that's
+12:59
+being provided up front. So in terms of trying to get the optimal timeline and the smoothest process, to me that all
+13:07
+keys off the the quality of the preparation of the documents um of the documents going in. Another thing we
+13:13
+commonly do with clients to um help streamline the process is have effectively a premeating um with the
+13:20
+regulator where we will go in and the uh founder team together with advisers um
+13:27
+will meet with the regulator explain the business and effectively sort of you know uh tee up uh the type of
+13:34
+information that is then going to be submitted in the in the formal application.
+13:40
+Very good. um summit uh topic that keeps coming up uh in every structure globally
+13:46
+and we even saw it uh earlier this month when President Trump signed into law that the Genius Act is KYC AML
+13:54
+counterterrorist financing. Um can you talk us firstly sort of what what the
+13:59
+requirements are from a VAS perspective and and how best to manage those? Um I think it's just an interesting topic to
+14:06
+to cover off. Sure. So uh from our understanding the
+14:11
+the vast regime uh would look at uh the Cayman company which is uh providing the
+14:20
+services and which is going to be registered as a registerable entity. Uh
+14:25
+the typical requirement is if it is in scope of AML which it most likely will
+14:31
+be uh there are requirements for three offices. Uh there's a requirement for uh
+14:37
+a compliance officer, moneyaundering reporting officers, MLRO, and a DMLRO,
+14:42
+which is the deputy moneyaundering uh reporting officer. Uh we obviously
+14:47
+provide all of these services. There there is an expectation that uh this
+14:54
+service uh would be outsourced by uh the
+15:00
+arranger or the sponsor of the vehicle. uh to a Cayman service provider who has
+15:07
+experience with providing these services and uh who understands uh the the pains
+15:14
+that Cayman has gone through over the years to come to where we are today. And
+15:20
+one of the keys to uh the success of our fund and insurance business uh which we
+15:26
+are known for is our regulatory regime and how it is um widely accepted as as
+15:35
+robust and in in the world of uh
+15:40
+regulations. this this regulatory certainty and the fact that you can have three AML offices
+15:47
+and have a policy and procedure and say and do the things that you're saying you
+15:53
+will do in your policy then it it gives the regulatory certainty that was
+15:58
+missing you mentioned the Genius Act prior to the Genius Act uh there was uh
+16:04
+considerable lack of certainty around uh how SEC would look at something and so
+16:10
+on uh So over here at CSC in Cayman, we are able to definitely assist with the
+16:18
+outsourcing of the AML offices, putting together a team of service providers and
+16:24
+u our AML officers can lay with the uh the fund administrators make sure that
+16:31
+uh the rules uh that are described are
+16:36
+are being followed particularly in in terms of uh how uh uh the assets are
+16:46
+being transferred through the system uh who the originators are of uh of the
+16:52
+digital assets and who are the beneficiaries and how the thing is uh traveling through the system also known
+16:58
+as travel routes. Okay, that's really helpful. Thank you. Uh quite a bit quite a bit in there to
+17:05
+unpack. The other role we're we're seeing more and more demand for and and I guess it's a very particular role is
+17:12
+the independent director and a suitably qualified independent director in the Cayman Islands. Can you give us a sense
+17:18
+of how important that role is and and what what typical profile you see of
+17:23
+someone who's suitably qualified uh to to act on a on a vehicle that's registered and ultimately licensed by by
+17:30
+SEMA. Right. So, so uh I I will let Richard
+17:36
+speak on the recent u legislation which uh has been hardcoded and hardwired into
+17:43
+the law of the of the need for uh an independent director. But uh to to first
+17:50
+address your question about uh the quality of the director and what is it that we can offer. So uh we obviously
+17:58
+have a team of uh uh qualified professionals here who sit in boards of
+18:03
+uh funds and other vehicles uh that are registered with SEMA. They are registered with SEMA as a SEMA
+18:09
+registered director under the applicable law in Cayman. Uh they are members of uh
+18:15
+various professional and uh other boards, industry boards. uh most of our
+18:22
+directors have 10 plus years of experience uh with funds. So uh you know
+18:29
+we we are very experienced in dealing with uh even though the digital assets
+18:35
+itself uh is is an evolving phenomena. Uh we are used to dealing with auditors,
+18:42
+custodians, exchanges and so on. Uh I will let Rich speak on the requirement
+18:47
+for directors and and the legislation around that that came into effect recently.
+18:53
+Yeah, sure. And thanks thanks Summit and I think just before I jump into that just picking up one point because it's a
+19:00
+little bit thematic to um to what we've been talking about. I mean a summit spoke to um you know AML compliance and
+19:08
+the AML framework is you know something that's um very very well known to anybody in the financial services
+19:14
+industry in the Cayman Islands continually involving continually improving um you know to align with with
+19:20
+global standards and as Sammit was alluding to you know there's this bedrock of knowledge um that has come
+19:26
+from the effectively the funds industry in the Cayman Islands over the last three to four decades and a lot of that
+19:32
+skill skill set on the ML side is immediately transferable to working with digital assets clients. There's also the
+19:38
+additional layer on top that goes with the the different asset class, but the bedrock is there. And um the thematic
+19:44
+point I wanted to touch on is that when making the application to the regulator for um for the uh license or
+19:52
+registration, you know, one of the things you do have to demonstrate is how AML will be dealt with, who the AML
+19:58
+officers are. And we know firsthand that um SEMA does look generally positively
+20:06
+on people using outsourced uh professionals who have this depth of knowledge in working within the AML
+20:13
+regime in the Cayman Islands. Be that for funds, be that for other other product types, but it again is
+20:18
+immediately transferable to to to virtual assets. Conversely, we've worked with clients who have tried to or have
+20:25
+put up to SEMA that they will solve um the AML um framework and the ongoing AML
+20:32
+compliance using professionals from other jurisdictions and and SEMA has raised questions around how those people
+20:39
+are trained as to Cayman law standards and in those examples you often have to demonstrate how training will be delivered to to sort of you know close
+20:46
+close the gap. Um sorry that's not answering the question. see Sam asked me to to to go to sorry just on the point
+20:52
+of um independent directors I touched on at the top of the call that even in the
+20:58
+short lifespan of the um of the legislation there's been a few rounds of amendments already um the most recent
+21:06
+wave of amendments took effect uh from 1 April this year 2025 so that's why you
+21:12
+know this seminar is pretty topical um in April what came into effect were certain amendments that were published
+21:18
+back in December 24. Amongst those amendments was a hard requirement that a
+21:26
+uh a virtual asset service provider which encompasses both registered and licensed entities is required to have a
+21:32
+minimum of three directors including at least one independent director without a
+21:38
+vested interest in the business. And so what we now have as a hard
+21:44
+requirement of the law is this need for an independent director. Prior to um
+21:51
+prior to that law coming in, we had dialogue in a number of cases with SEMA
+21:56
+in which SEMA suggested it would be good for the corporate governance of a vehicle to have an independent director involved.
+22:03
+And we have seen applications in which SEMA frankly indicated that that would be a condition to approval. But now with
+22:10
+the new law coming in or the amendments coming into effect from April, it's black letter law a requirement for at
+22:16
+least one independent director. Um similarly I would argue to what I just
+22:22
+spoke about around AML officers. Whilst there isn't um a firm requirement that
+22:29
+the independent director be a professional independent director based in the Cayman Islands. Um, I think it's
+22:36
+an easy jump to expect SEMA to be able to get comfortable with an independent
+22:43
+director with a long track record in the Cayman Islands working on regulated activities compared to an independent
+22:48
+director from another jurisdiction. I I think it'd be natural to expect SEMA to perhaps um place greater scrutiny on an
+22:57
+independent director from another jurisdiction on the basis that Sema probably quite reasonably would assume
+23:03
+that that person doesn't have a comparable level of understanding of the
+23:08
+Cayman regulatory framework as a director that's worked in the jurisdiction for for several years albeit on a slightly different um uh
+23:15
+asset class. Okay. No, that that that makes absolute sense. Okay. Well, look, I I think that gives us some sense of the licensing and
+23:22
+registration process and some of those key requirements or sort of more fundamental requirements. Um, once
+23:30
+registered and licensed, what from Richard, what from your perspective are the key risks of of someone operating a
+23:37
+VAS in the Cayman Islands? I guess that's a a question people would like to consider. Yeah, sure. I mean, I think um I think
+23:45
+there's two ways of looking at that. I think one is general business risk and one is let's say regulatory risk. Let me take the second one first um because
+23:51
+obviously that's more my more my area as as as council to registered entities. I mean I think I think it it needs to be
+23:57
+understood that um it's this isn't a sort of a oneanddone process. It's not
+24:04
+apply become registered and licensed and then you're away to the races. you know, there is an ongoing relationship with
+24:10
+the regulator and there will be ongoing supervision by SEMA um which is likely
+24:16
+to um involve either uh on-site inspections of a of a regulated entity
+24:23
+or what they call desk reviews which is effectively sort of you know a remote inspection whereby SEMA runs the rule
+24:30
+over the registered um entities compliance with the policies that it presented to SEMA and which SEMA
+24:37
+reviewed. raised questions on and ultimately approved. So, you know, there will be this ongoing oversight uh of the
+24:45
+entity. The entity needs to appreciate that SEMA will frankly, you know, open
+24:50
+all the cupboards and open all the drawers and understand what's going on within the business. And if they find
+24:56
+things they they are unhappy with as with any other regulated uh sector, you
+25:02
+know, there is potential for for fines to be imposed, you know, uh uh remedial
+25:08
+action to be taken within deadlines um set by the regulator. So I think I think
+25:13
+people just need to be mindful of that. It's not um talking the talk in terms of what the policy says, but it's walking
+25:19
+the walk, delivering on those policies and understanding that SEMA will be will be staying on on on top of uh regulated
+25:27
+entities to make sure they are they are compliant. Um stepping away from the regulatory oversight. I mean, I think um
+25:34
+you know, it's it's somewhat common sense. the digital asset sector has
+25:39
+particular risks around um I guess the common word we would use is a hack risk but that's effectively sort of a data
+25:45
+security risk or a coding risk um with whatever um you know code is used within
+25:51
+the business depends a little bit on the nature of of the business and um you know one of the points that the
+25:57
+regulator is very keen on is a understanding cyber security policies um audit of cyber security policies on an
+26:04
+ongoing basis that the registered applicant will basically continually assess whether it is adopting the right
+26:10
+measures as technology advances which obviously does very very quickly. And then the other limb to that we are
+26:16
+seeing now with the advent of the licensing regime in phase two is SEMA
+26:21
+asking for evidence of um a segregation of any client assets that that a uh an
+26:28
+entity may hold if they provide custody um you know along proper fiduciary
+26:33
+credential principles you'd see in in other sectors. Um but also then they're now asking for evidence of uh insurance
+26:40
+policies to to perhaps protect against loss of uh client assets uh assets,
+26:47
+excuse me, or other losses that clients may suffer as a as a direct consequence
+26:53
+of some issue around cyber security affecting um the platform. And that's that's you know that is a 2025 sort of
+27:01
+development with phase 2 licensing. Yeah. clear clear learnings from the
+27:06
+past there. Um so interesting. Um Sam I I guess just quickly are there any other
+27:12
+pitfalls that you would see in terms of running a VASP? So I mean Richard's kind of particularly run through the the
+27:18
+cyber security risk and I guess the the regulatory side but just from your experience pitfalls worth touching on.
+27:25
+Yeah sure. Uh so uh on on the coming back to the point of of the director uh
+27:32
+and having the independent director uh I think that that is a key rule r rule and
+27:38
+and we can certainly assist by providing um CSC uh employed directors. uh we we
+27:46
+look at that as um the directors providing confidence to the vaspruct uh
+27:53
+structures uh investors and arrangers uh by having the ability uh to deal with uh
+28:02
+funds like Richard said it's a transferable uh uh trade uh in dealing
+28:09
+with custodians exchanges decentralized finance structures
+28:15
+because that is in our DNA as providing directors that we make sure that the
+28:23
+fund is or the SEMA registered entity is actually doing what it says it will do.
+28:30
+Uh then there is uh at the operational level uh we all know that uh we now live
+28:37
+in a world of administrative fines. So it's it's very important that all of the deadlines related to uh annual returns
+28:45
+uh audits uh whatever reporting deadlines that is applicable to the vast
+28:51
+act is is done and and done on time and most importantly if we feel that a
+28:58
+deadline is about to be missed then rather than uh you know be subject to a
+29:04
+penalty ask for extension and we do have uh you know appropriate uh channels
+29:09
+through which uh we we can solve those problems. Uh the most important problem
+29:15
+that I think we can solve is uh in our experience there is almost no SEMA
+29:22
+registered entity which is uh uh not required to have an audit. So there will
+29:28
+be a requirement for an audit more than likely for for structures. Uh we've spoken in general
+29:36
+terms with a senior partner of of a major um accounting firm and accounting
+29:42
+and audit firm and uh what what we found out was that uh at the moment uh the
+29:51
+audit firms are hesitant uh to offer uh
+29:56
+their services because they're not 100% sure as to what the valuation would look
+30:02
+like, what the what uh the custody arrangements would look like and whether
+30:07
+they would be able to give a clean opinion or whether they will end up with a qualified opinion. So uh these these
+30:14
+are conversations uh that we uh routinely have with auditors in in other
+30:20
+spheres for example open-ended and closedended funds uh questions around
+30:25
+valuation questions around custody arrangements. So we we can definitely
+30:31
+assist the ranger of the VASP structure with those conversations and hooking up
+30:37
+with the light the right service providers, the right auditors, the right accountants, the right uh uh uh fund
+30:45
+accounting firms who who can uh assist with those uh what is still an evolving
+30:52
+uh sphere I would say. Very good. Very very good. just wrapping up I guess a couple of things uh just to
+31:00
+touch on. So we we we touched on very quickly Richard uh the publication of uh
+31:06
+registration and licensing numbers on the SEMA website and you know they do publish information just in terms of the
+31:13
+business or the business areas that that people are looking at in terms of custody trading exchange and so on and
+31:19
+so forth. um on the basis of what we've seen to date and and you know accepting it's kind of limited information just to
+31:25
+sort of the the 18 or 19 entities um any any clear trends emerging and I guess
+31:30
+based on on your ongoing conversations with with existing applicants um I mean I think that's a it's a great
+31:40
+question and I don't know how much we can extrapolate really from what what SEMA publishes I mean I think the way I
+31:45
+would answer that question is that you know there's a whole myriad of different uses
+31:52
+for virtual assets and sometimes those uses bring you within the virtual asset
+31:57
+service providers acts. I mean obviously if someone is setting up an exchange great you know that's clearly within the
+32:04
+parameters and it's very easy to think of virtual asset exchanges and you think of you know the headline names you see
+32:10
+them emlazed on Formula 1 cars and on on Premier League jerseys and so on so forth right so everybody knows about
+32:16
+exchanges they're firmly within but you know there's a there's a lot of other businesses that will engage with virtual
+32:24
+assets that may need to come within the scope of the act um you know my mind
+32:29
+goes to potentially uh RWA real world asset um structures uh which involve the
+32:36
+issuance of a token and that token represents an investment in an underlying asset broadly. Um as we
+32:43
+touched on before if you are issuing that from a Cayman entity that is probably within within the scope of the
+32:50
+act. Um we have looked carefully at some structures where for instance you invest in a collective investment vehicle and
+32:56
+you put in fiat as an investment. Um so you put in US dollars sorry to just keep
+33:02
+it easy. Um but if you have a right to redeem out and receive say bitcoin for
+33:07
+sake of argument should that be considered being in the business of exchange because an exchange happens. Um
+33:14
+but you would I guess try and argue well maybe that's not the business of exchange. you're not providing, you're providing an investment uh structure.
+33:21
+You're not providing exchange per se, but there is an exchange happening. Um, so we've seen other examples for example
+33:28
+where people will use a credit card linked to a to a virtual asset wallet. Now, what happens in the background
+33:33
+there is if you go into Starbucks and you buy a coffee on that credit card, Starbucks is receiving dollars,
+33:40
+but the client has ultimately used virtual assets from his wallet. So, there's an exchange happening there. So
+33:46
+again, depending on the transaction flows, what the customer thinks they're getting, so on so forth, you may or may
+33:53
+not have an argument that that comes within the act. Um, video games as well, we see, you know, massive multiplayer
+34:01
+games that have an in-game currency and potentially in-game NFTts around weapons, skins, or whatever it may be.
+34:08
+If those can come outside of the closed loop of the game and be traded in the
+34:13
+open market on exchanges or peer-to-peer again there's a question there is anything that that game provider doing
+34:20
+perhaps an issuance if you use that in-game currency to buy uh NFTs in the
+34:25
+in-game shop is that an exchange so I don't think we can extrapolate from what we see on those listed entities I mean
+34:32
+obviously some of those names are straightforward to understand I look at that that list and I see liquidity
+34:37
+providers I exchanges. Um, I see stable coin issuers. Um, I see custodians, but
+34:45
+I dare say there's others on that list that do some more interesting stuff that fall outside of those headlines, but
+34:52
+have elements of it. Um, and that's part of the role that we go through with our clients is working out whether what the
+34:59
+client wants to do, you know, are you within the parameters of the act? And, you know, it's not always it's not
+35:05
+always black and white. Um, it's a very interesting process. Yeah, it's very, very interesting. Very interesting. I hadn't appreciated the
+35:11
+breath of it. Um, very good. We're almost to time and I'm very conscious of time and we've had quite a few questions
+35:16
+come through. There's a couple of themes and I was just going to pick out two before we wrap up. Um, people are
+35:23
+commenting clearly on the the Genius Act given it was only signed into legislation uh in the middle of this
+35:28
+month. um accepting that that you guys are are very much Cayman based and this is a a Cayman focused um webinar, but I
+35:37
+I guess the qu it does beg the question from your perspective, what do you think all of this activity and frankly some of
+35:44
+the this greater clarity in this space will mean just generally in the industry and and specifically for the Cayman
+35:50
+Islands. So I'd let either of you answer that question. Um I'll go I'll jump in. Um, I mean,
+35:56
+look, I think I think uh the Genius Act, I think Mika in Europe, I think the
+36:03
+approval of ETFs in uh in Bitcoin and other developments in in America. To me,
+36:10
+it's all um encouraging a more widespread adoption of the use of virtual assets, not only across
+36:16
+businesses, but at the retail level. So I think what that is just going to drive
+36:22
+is a growth of the market generally um globally um and I just think that can
+36:28
+only be a net positive ultimately for Cayman because you know there are reasons people use Cayman um stepping
+36:35
+away from the fact that we have regulatory certainty around digital assets under the vast regime you know
+36:40
+that that of itself is not the reason only reason people use Cayman. Um, so
+36:46
+those other factors come into play and as I say, greater use of virtual assets around the place is going to be the uh
+36:52
+the tide that raises all all ships across many jurisdictions. Very good. Very good. Sam, I don't know
+36:59
+if you Yeah. Uh so yeah the the three bills including the genius act that was passed
+37:04
+uh um last week or last last week and and the and the mic rules in Europe as
+37:11
+he he alluded uh to Richard uh they from uh what I've read in financial press is
+37:18
+uh already the world of uh uh digital assets has crossed $4 trillion uh just
+37:25
+by the announcement without clarity on what the AML and the travel rules around
+37:30
+originator and beneficiary reporting would look like. Um the other thing that is worth uh mentioning is that uh there
+37:38
+were other jurisdictions uh uh in in the so-called tax haven world uh which
+37:45
+created sandbox structures and so on and I think Cayman hasn't gone in that direction. Our uh we have come uh come
+37:54
+into the game with with a set of rules with regulatory certainty. So hope
+37:59
+hopefully Cayman uh by all indications Cayman will be a jurisdiction of choice
+38:05
+uh for virtual assets and digital assets web three etc industry uh because looks
+38:11
+like we are not repeating uh the mistakes that some of the urgent jurisdictions outside of US and Europe
+38:19
+has uh uh made and and you know fell into uh the bad books of the regulators.
+38:26
+Very good. Uh thank you both to Richard and Zam. I think that was really interesting. As I say, really timely. uh
+38:32
+seems to be a lot going on in the space and we're beginning to see some activity in Cayman and and it's been a really
+38:38
+good time just to pause and consider what it means for for other people particularly as they look at the registration licensing process.
+

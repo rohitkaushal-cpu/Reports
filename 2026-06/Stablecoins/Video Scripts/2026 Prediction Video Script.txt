@@ -1,0 +1,528 @@
+Chapter 1: Introduction
+0:00Right now, Visa stable coin settlement is about three and a half billion dollars of annualized volume for within stable coins for uh
+0:088 secondscard payments. That's up from 250 million in May. So, you can kind of see how quickly that that growth has has come.
+0:1515 secondsI I expect that right now by the end of next year, Visa stable coin settlement will be over hundred billion annualized
+0:2323 secondsup from three half billion today [music] and will be the fastest growing part of Visa's business. Welcome to Tokenized, the show focused on stable [music] coins
+0:3232 secondsand the institutional adoption of tokenized real world assets. My name is Simon Taylor. I'm your host for [music] today, author of Fent Brain Food and head of market dev over at Tempo. And
+0:4141 secondsjoining me for this predictions special is my co-host, my friend, the man in the hour, the man with the power, Kai Sheffield. How are you, sir?
+0:4848 secondsI'm great. This is going to be fun. It It was an amazing year. Uh so much has happened. Yeah, we got to look back. We got to grade ourselves and then we got to look forward.
+0:5656 secondsYeah, we are. We're going to do that.
+0:5858 secondsUm, but uh we're also joined by some perfect guests to give us some predictions for next year. Uh, first
+1:041 minute, 4 secondsmaking his third appearance is Rob Haddock, who's GP over at Dragonfly. How you doing, Rob?
+1:111 minute, 11 secondsDoing well. Thanks for having me, guys.
+1:141 minute, 14 secondsI'm glad we could steal you away from Empire for a little moment for for this one. Uh, do stretching some different podcasting muscles over here.
+1:211 minute, 21 secondsThis is my favorite listen. So, you know, and you guys are on my list every single week. So, you know, I'm glad that I could be part of the the 2026 prediction pod. So,
+1:301 minute, 30 secondsyou got to you got to set us up right for the new year. Um, and joined by a debutant, Tyler Mayius, who's CEO and co-founder of Smart Media Technologies.
+1:381 minute, 38 secondsHow you doing, Tyler?
+1:391 minute, 39 secondsYeah, doing fantastic, Simon, and uh honored to uh to be here. Big uh big fans of the of the podcast and Rob and Kai. So, thanks.
+1:481 minute, 48 secondsLet's do this. All right. Before we get into the content, two quick reminders.
+1:511 minute, 51 secondsuh views and opinions of contributors today are their own and might not reflect those of companies they represent. Please don't take anything we say as tax, legal, or financial advice.
+2:002 minutesDo your own research and consider this forformational purposes only. Um and before we get into
+2:082 minutes, 8 secondsthe review of Cayle and myself's last year's predictions, let's just hear from our sponsors who make the show possible.
+2:162 minutes, 16 secondsTokenized is also brought to you by our friends at Centrifuge. Through every crypto cycle, Centrifuge has been building and today they are the market leader in tokenized real world assets.
+2:272 minutes, 27 secondsBack in 2017, uh they were one of the first to mint a stable coin backed by real world assets
+2:352 minutes, 35 secondswith Maker. uh they now launched an RWA lending capability with RV which is over a billion in total value locked and
+2:442 minutes, 44 secondsCentrifuge works with major institutional partners to tokenize and distribute their funds from treasuries
+2:522 minutes, 52 secondsto credit strategies. Centrifuge connects traditional finance to decentralized markets creating new ways to access and put capital to work.
+3:053 minutes, 5 secondsCentrifuge is more than simply part of a tokenization wave. They've been kind of driving it in many, many ways. Whether
+3:123 minutes, 12 secondsyou're an asset manager or a fintech exploring tokenization or a stable coin allocator seeking highquality institutional yield, look no further
+3:213 minutes, 21 secondsthan Centrifuge. This episode, if it isn't already obvious, is sponsored by our friends at Visa, the leader in
+3:283 minutes, 28 secondsdigital payments. Visa's tokenized asset platform or VTAP uses smart contracts
+3:353 minutes, 35 secondsand cryptography to help banks bring fiat currencies onchain. Whether it's launching a stable coin or deposit
+3:443 minutes, 44 secondstokens or something else. Vap allows financial institutions to issue fiatbacked tokens, improving financial
+3:513 minutes, 51 secondsefficiency and enabling programmable finance. Check out the links in this episode's description to express your interest in VAP.
+4:004 minutesThis episode is sponsored by Stripe.
+4:034 minutes, 3 secondsStable coins are the building block for borderless financial services, making money move around the world as easily as
+4:104 minutes, 10 secondsdata. With Stripe, you can use stable coins and crypto to reach untapped customers, reduce crossber fees, and
+4:184 minutes, 18 secondssettle payments in minutes instead of days. Best of all, it works the same way other Stripe products do. via API all right inside the Stripe dashboard.
+4:274 minutes, 27 secondsMeaning you don't have to worry about the intricacies of which blockchain or what wallet to use. From Shopify to Vel
+4:354 minutes, 35 secondsglobal businesses trust Stripe's complete crypto solutions to unlock new markets and reach more customers.
+4:434 minutes, 43 secondsBorderless Finance built on Stripe. Learn more at stripe.com/crypto.
+4:494 minutes, 49 secondsThank you to our sponsors. All right, I'm going to start by giving us some grading for last year's prediction. So, we did have Yuval Ruse from Digital
+4:564 minutes, 56 secondsAsset on the show. So, I'm just going to read his out, which feels a little unfair because he's not here to defend himself, but Uvel's everywhere at the
+5:035 minutes, 3 secondsmoment and Canton's doing well. So, um first one, uh is that the US moves from regulation by enforcement to regulatory
+5:125 minutes, 12 secondsclarity. That's a straight A, but it was also maybe kind of obvious. Um this one
+5:185 minutes, 18 secondsI loved. RWAS will reach 25% of stable coin market cap um and that was quite a
+5:265 minutes, 26 secondsgap um back then and it is now still it's it's not quite there. So maybe a C++ because it has doubled as a
+5:335 minutes, 33 secondspercentage from 3 1/2% to 7% but you that's not 25% so C plus. And then he
+5:415 minutes, 41 secondssaid crypto derivatives volumes will double. A+ um because this did come true. Um and CME for example recorded
+5:495 minutes, 49 secondsalmost 1 trillion worth of derivatives volume in Q3 2025 alone. Um so safe to say that was a good one. So Ural um is a
+5:595 minutes, 59 secondsbit of a profit. My uh predictions I said stable coins uh will become mainstream off the back of B2B payments
+6:076 minutes, 7 secondswhich will become which will come to dominate in stable coins. I'm going to give myself a B here because they did
+Chapter 2: Grading previous year's predictions on stablecoin and AI narratives
+6:146 minutes, 14 secondsbut also the Stripe acquisition made that kind of obvious that it was going to be payouts and Treasury Management uh when when they acquired Bridge. Um and
+6:226 minutes, 22 secondsthen I said that AI and blockchain becomes what drives the next bull cycle.
+6:276 minutes, 27 secondsThat's a straight D minus because um there was no bull cycle. Um [laughter] but you know that meta is still out
+6:346 minutes, 34 secondsthere. Um and then Kai's um growing demand for stable coin linked cards and
+6:426 minutes, 42 secondsyeah that's an A+. I don't think you can move for stable coin neo banks at the moment. um the rise of stable of
+6:506 minutes, 50 secondsbankisssued stable coins and nond dollar denominated stable coins B minus we are seeing some banks coming
+6:596 minutes, 59 secondsalong the lines it's starting to happen maybe a little bit slowly and Euro C has 3xed in market cap although it's still
+7:067 minutes, 6 secondssmall as a percentage um and then of course uh the intersection of crypto and AI becomes consensus uh B+ maybe C have
+7:147 minutes, 14 secondswe got product market fit X42 did happen though. Um, so you know that that became a big old narrative. Uh, Kai, any
+Chapter 3: Skepticism on the near-term viability of AI and blockchain crossover
+7:227 minutes, 22 secondsthoughts from you looking back at last year's predictions overall like I'm going to be a hard grader. I'm going to give us a C because none of these were really quantifiable.
+7:317 minutes, 31 secondsWe didn't really give a number. They were all just like directional and sure like it was moving in the right direction generally. So we have to be
+7:387 minutes, 38 secondsbetter this year in putting a number out that we can then go back and and measure a year from now. Uh but other than that,
+7:457 minutes, 45 secondslike directionally we were we were there.
+7:487 minutes, 48 secondsGood on you, Bal for doing that. Rob, your thoughts on last year's predictions uh from Kai and myself.
+7:537 minutes, 53 secondsYeah, I think there were a few uh a little bit of low hanging fruit going on there. Just the stable coin linked cards from the guy who works at Visa, right?
+8:008 minutesAnd [laughter] AI crypto is going to do well and and and whatnot. And and obviously regulation like that was that was clear.
+8:078 minutes, 7 secondsBut um you know, you guys you guys you guys did okay. Got caught up in the AI hype. I'm I'm still uh I would say a skeptic. Uh so maybe we can chat about
+8:168 minutes, 16 secondsthat a little bit, but um you know, I think this year we we'll take it to a next level. I feel really good about this.
+8:218 minutes, 21 secondsTyler, your thoughts on on the the narrative, sir?
+8:258 minutes, 25 secondsYeah. No, um I'm excited to see this year's predictions and uh put some uh some measurable outcomes against those so that uh we can look back on it.
+8:358 minutes, 35 secondsSo before we jump into Rob's first prediction, let's just do that AI thing for a second. You're you're a skeptic, Rob. Tell me tell me tell me where you stand on that.
+8:448 minutes, 44 secondsYeah. So the AI crypto crossover obviously has a lot of you know different ways of what you can think about it different verticals. I think
+8:528 minutes, 52 secondsfor the purposes of this podcast you guys have been doing uh a lot of you know guest appearances by people who are building on X42 and building on a lot of
+8:598 minutes, 59 secondsthe different call it like payment standards within you know stablecoin linked uh you know agentic payments. it.
+9:069 minutes, 6 secondsI was talking about this with somebody last week there there while there is so much conversation around it. There was a lot of building around it. There are
+9:149 minutes, 14 secondsstill also like 12 standards and those 12 standards will probably be 24 standards within you know by the time the podcast gets released. And if you
+9:219 minutes, 21 secondsthink about the history of the internet when until you can agree on a standard I don't think you can actually agree on or you won't see real scaling and this like
+9:299 minutes, 29 secondsproduct that actually exists. And so I'm not so much bearish around that agentic payments, especially agentic to agentic might exist using stable coins over time
+9:389 minutes, 38 secondsand and probably will. I think agentic to human there's more of a a conversation there. But I I just believe
+9:459 minutes, 45 secondsit is probably much further out than a lot of people that you've been talking to and then maybe this maybe you guys personally believe. And then I also think you know if we go across to the
+9:549 minutes, 54 secondsother AI crypto stuff when it comes to inference and it comes to um a lot of the stuff we've seen around the foundational models using uh using
+10:0210 minutes, 2 secondsblockchains uh we've actually started to see those people pivot away because you know blockchains are latent right like you don't actually want to do workloads
+10:1010 minutes, 10 secondson Ethereum or even on on Salana it doesn't actually especially with the amount of data the amount of compute that you need and so I I think it's a I
+Chapter 4: Visa stablecoin settlement to exceed $100 billion annualized by 2026
+10:1910 minutes, 19 secondsthink there are places where it makes sense for that to play. I think a gentic payments over time, you know, we'll probably use stable coins, but I don't expect there to be that much crossover personally.
+10:2810 minutes, 28 secondsYeah. What one of the traps that I acknowledge that I I fall into myself is it's intellectually fascinating
+10:3710 minutes, 37 secondsuh the the crossover like the intersection of AI and crypto and stable coins. And you I remember this time last year it was like oh the story of goat uh
+10:4510 minutes, 45 secondsand all these like you know agentic you know exbots that were doing all sorts of things and making it was just like
+10:5310 minutes, 53 secondsreally interesting. It almost felt a bit like the NFT days but as fast as it grew it it went away because there wasn't like enduring
+11:0111 minutes, 1 secondfundamental value. Uh, and so like we see these flashes, they're really exciting and interesting, but we might
+11:0911 minutes, 9 secondsbe 10 or 20 years away. Like it might be a long way away. And so we'll we'll talk more about it. I have one prediction in it that I will put a number to that
+11:1811 minutes, 18 secondsmaybe is is more of a a a conservative number, but you know, we'll we'll get Yeah, I've come all the way around on that. I'm increasingly convinced as as
+11:2611 minutes, 26 secondsmuch respect as I have for X42 and what those guys are building. we had them on the show that its power is a meme rather
+11:3311 minutes, 33 secondsthan um real builders and and volume and uh whereas I look at you know I speak to other people building aiccommerce and I
+11:4211 minutes, 42 secondssee lots happening with you know Visa's intelligent commerce protocol and um the uh Aentic commerce protocol ACP and like
+11:5011 minutes, 50 secondsWalmart is live and Etsy is live and Instacart is live and they're doing volumes on that now and that's where that's where the focus is. So we we'll
+11:5811 minutes, 58 secondssee. All right, Rob. um kick us off first prediction from you. Uh what is going to happen in 2026?
+12:0612 minutes, 6 secondsOkay. Um I I think I got front reign a little bit today by an announcement that Kai had this morning uh with uh lead
+12:1412 minutes, 14 secondsbanking cross river, but you know my prediction is around stable coin linked cards. They right now Visa stable coin
+12:2212 minutes, 22 secondssettlement is about $ three and a half billion dollars of annualized volume for within stable coins for uh
+12:2812 minutes, 28 secondscard payments. That's up from 250 million in May. So you can kind of see how quickly that that growth has has
+12:3512 minutes, 35 secondscome. I I expect that right now by the end of next year Visa stable coin settlement will be over hundred billion
+12:4312 minutes, 43 secondsannualized up from $3.5 billion today and will be the fastest growing part of Visa's business. Uh on the transaction side I think right now Kai correct me if
+12:5112 minutes, 51 secondsI'm wrong that's the Visa direct business. Um, I think that'll be the stable coin settlement business and I think that uh we will start to see Visa
+13:0013 minutesactually pull out stable coin settlement as a another line item on their earnings by this time next year.
+13:0813 minutes, 8 secondsOh, I mean that would be Christmas commole. Kai, do you think it's realistic and how much can you share given what you see? I I don't think I I
+13:1613 minutes, 16 secondsdon't think I could comment on on any of that other than like the announcement today like I think what's exciting and significant is you
+13:2413 minutes, 24 secondsknow when we launched you know stablecoin settlement you know we really started these pilots kind of running regularly in 2023 it was all outside the
+13:3213 minutes, 32 secondsUnited States uh and it was all with non-bank principal members who tended to be you know very cryptonative I think
+13:4013 minutes, 40 secondswhat we've seen over time and as regulatory clarity has has happened In the US, you actually have a set of banks
+13:4813 minutes, 48 secondswho are some of the most innovative, you know, fastmoving banks and what we think of as like partner banks that play a really important role in our ecosystem,
+13:5613 minutes, 56 secondsyou know, helping to enable card programs, you know, both issuing and and acquiring.
+14:0014 minutesThey are now recognizing that moving settlement volume on chain is a more efficient way for them, you manage their business and to scale these programs.
+14:0814 minutes, 8 secondsAnd so I think being able to have not just crypto companies but banks that are you know using public blockchains
+14:1614 minutes, 16 secondsinteracting with Visa for settlement is is a really big deal. And then you know being able to do it in the US um and we just see more and more demand from
+14:2314 minutes, 23 secondsclients coming to us. So uh I I can't say anything else about Ralph's predictions other than like we're excited about it and and the announcement today I think is a good pro
+14:3114 minutes, 31 secondspoint. Yeah, that announcement uh I think may have got lost on some people who forget that sometimes settlement windows behind the scenes can take three
+14:3914 minutes, 39 secondsto seven days for different banks to settle up between each other if you're in that space. And so getting to instant is like amazing if if it goes from Visa
+14:4714 minutes, 47 secondsto your wallet right now, whether you're a merchant or an issuer, the more that happens kind of the better. Tyler, your thoughts on that? Do you think the the
+14:5414 minutes, 54 secondshundred billion annualized and a line item in earnings, do you think it's coming?
+14:5814 minutes, 58 secondsUm I'm I'm gonna go with that one. Uh yeah, definitely. I think uh looking at the overall trend um that we're seeing,
+15:0615 minutes, 6 secondsI think, uh that's got some legs. So, all right. Well, um I I love you, Kai.
+15:1215 minutes, 12 secondsUm but I'm going to take the under on that. Um I'm going to say, you know, like yes, I can I can see it hitting 30, 40, 50, like 10x growth from where the last one was uh by the end of the year.
+15:2215 minutes, 22 secondsThat would 10x is not nothing. Let's let's be real here. Like 10x is not nothing. Um, and if that happens, that will still be all Christmases come
+15:3115 minutes, 31 secondsearly. But 100 is a big old brave number. So, you guys are making my job hard. Come on. [laughter]
+15:3915 minutes, 39 secondsYou know, we're um we're investors in a business called Rain, which has been one of the biggest drivers of this, uh, on the Visa network. And when I, you know,
+15:4615 minutes, 46 secondstalk to them and I hear, you know, what the pipeline looks like, the type of people they're talking to, the type of flows they're talking about bringing, you know, onto the Visa network using
+15:5315 minutes, 53 secondsstable coins, um, I I I could not be more bullish about this specific category. Like, I think this is great for Visa. It's great for Rain and the
+16:0216 minutes, 2 secondsother uh, issuers. It's great for the banks. I think we'll actually see a large bank, potentially a GIB, do a stable coin backed card next year and
+16:1016 minutes, 10 secondsannounce that publicly. I think this the train has left the station and this is going to move quicker than anybody realizes right now.
+16:1616 minutes, 16 secondsI love that bonus prediction there. I'm not going to let that one slip. GI will do a stable coin linked card next year.
+16:2216 minutes, 22 secondsThat's like a little bonus one. We we're keeping that one for the highlights.
+16:2616 minutes, 26 secondsThat's for sure. Um and look, I I think given your seat, that's fascinating. And what I love about Rain is there's a brand new modern issuer processor in the
+16:3416 minutes, 34 secondslandscape that happens to be building on stable coins that's a direct member of Visa. Like you could have said that to
+16:4116 minutes, 41 secondsmy payments nerds folks 5 years ago and they'd have been like, "Oh my god." But this is also possibly the fastest
+16:4816 minutes, 48 secondsgrowing issuer processor in history. And that in itself sounds like it could be a case study if it keeps going for those.
+16:5516 minutes, 55 secondsSo kudos to everybody involved. All right, I got one for you.
+16:5916 minutes, 59 secondsum tier 2 and smaller banks start to put settlement volume through smaller closed
+17:0617 minutes, 6 secondsloop stable coin linked settlements rails as an alternative to correspondent banking. So think signate for banks and
+17:1517 minutes, 15 secondsthey will do uh more than hundred billion of settlement in these little closed loops like Kalis the uh European
+17:2217 minutes, 22 secondsgroup of banks by the end of 2026. And the reason I feel good about this is uh especially in the European context,
+17:3017 minutes, 30 secondsthere's actually no instant settlement despite there being a se separ instant because of the nature of uh each country
+17:3717 minutes, 37 secondshaving different central banks. You cannot easily settle across all of the the regions. And then there's lots of tier 2 banks who aren't correspondent
+17:4617 minutes, 46 secondsbanks in their own right who see correspondent banking as expensive and slow and having to go through their partner. So why not build something
+17:5317 minutes, 53 secondsthat's regionwide and then they're already talking about issuing their own consorciabacked
+18:0018 minutesstable coin and that reduces the overall credit risk versus doing tokenized deposits where you've got to figure out the credit risk of everybody. Here you
+18:0918 minutes, 9 secondsfigure out the credit risk of the consorcia that's backed by deposits at all of these banks. So I think we'll see many more of those start to emerge.
+18:1618 minutes, 16 secondsThere's one, you know, I'm going to it's not my most confident one. I throw a big old number out there. Um maybe this will take a little bit longer. Um but I
+18:2418 minutes, 24 secondsdefinitely see the opportunity and the demand for this is really really hard.
+Chapter 5: Tier two banks adopting closed-loop stablecoin settlement rails
+18:3018 minutes, 30 secondsThat's it's a question of timing. You know, I think Cavalis publicly they said they're going to go live like back half of 2026. So you might have half a year to work with on Cavales. Uh and I think
+18:3918 minutes, 39 secondsthey are one of the more you know convincing approaches to you how this would get done. Um so I think the question is how how quickly do they go
+18:4718 minutes, 47 secondslive? How much do they scale? And then I think there are like half a dozen banks that are you know have been announced as part of that consortium like do you end
+18:5618 minutes, 56 secondsup having many more banks that join and including you know tier 2 ones. Um so I think that'll be really interesting to
+19:0319 minutes, 3 secondsto see and I think we'll see more of these bank consortiums pop up. It's just anytime you're setting up a consortium, you know, the trade-off is, you know,
+19:1119 minutes, 11 secondsthe speed, you know, how how quickly can you operate and some of the complexity of having competitors kind of getting together. But, um, I I think at at some
+19:1919 minutes, 19 secondspoint like you get I'll take the under on the 100 billion for end of 2026. Uh, but I think that they will be live and
+19:2719 minutes, 27 secondsyou'll see the first real commercial volume going through it and then maybe 2027, you know, by the end of 2027 next time.
+19:3319 minutes, 33 secondsI had to throw my neck out there. Rob, are you a believer or a disbeliever in this sort of thing for the banks?
+19:3919 minutes, 39 secondsSo, I it's interesting because I think you're right that they have to. This is an existential moment for the tier 2
+19:4719 minutes, 47 secondsbanks. You know, you're you're coming at it and from a European standpoint and obviously Kavalis is focused on the European banks, but you know, we've also
+19:5519 minutes, 55 secondshad people in the US like a Fiserve talk about trying to do, you know, somewhat something similar. Um, there's a bunch of startups thinking through doing that
+20:0220 minutes, 2 secondsin the US as well. I I think not to call Fifth Third a a tier 2 bank, but you know, I heard Tim Spence maybe a month
+20:1020 minutes, 10 secondsago talk about how like this is c like adopting stable coins is core to how they survive today because of the fact
+20:1720 minutes, 17 secondsthat they aren't, you know, maybe in that leading seat like a like a GIB. I think generally there are a lot of headwinds for banks. I know Simon, you and I agree on that point. And you know,
+20:2720 minutes, 27 secondsthere are 4,000 banks in the US or sorry 5,000 banks in the US. Probably only 500 of them need to exist, right? And so the rest are figuring out how do I digitize?
+20:3520 minutes, 35 secondsAnd so things like this are how you survive. And so I expect we see tailwinds uh like you mentioned on some
+20:4320 minutes, 43 secondsof these smaller banks that are more digitally native that are trying to figure out what the future holds on doing settlement like this. But also
+20:5120 minutes, 51 secondsbanks are slow and so I'll probably take the under on the the 100 billion for for 2026.
+20:5720 minutes, 57 secondsYeah. My uh my hope is somebody like the Cross Rivers, the leads, the smaller ones, they start to to take a lead on this. And maybe it's not a consorcia
+21:0521 minutes, 5 secondsthat does it. You know, it's it's if you can include that, too. But Tyler, help me out here.
+21:1021 minutes, 10 secondsYeah, Simon, I'm sorry. I'm going to I'm going to be taking the ender on that one. Having uh started my last company in Europe and spending four years there,
+21:1821 minutes, 18 secondsum I'm not quick to adopt anything. So So I want a point of clarity. It was groups like Kales, not necessarily
+21:2621 minutes, 26 secondsKalis. If I could uh if I could have a a mullyan on the definition there, it's that banks settling between each other.
+21:3321 minutes, 33 secondsSo bankto bank settlement.
+21:3521 minutes, 35 secondsYeah. So maybe like the the other interesting question to measure would be like which bankto bank settlement actually does the most volume in 2026
+21:4421 minutes, 44 secondsand like is Kavalis like the most likely to what about Vas Bank in USBC like what they're doing with Uphold? Like you know
+21:5121 minutes, 51 secondsyou could see that you know there could be volume moving through I think that's live or like close to live. And so what will be you is JPMD
+21:5921 minutes, 59 secondsum like that doesn't count because it's just internal like you got to have a bank to a bank like we got to like set the parameters of what we're what what
+22:0722 minutes, 7 secondsqualifies there's some argument that you know Kexus is already doing much more volume than this right because they're doing it from like MAS to the US right and so you
+Chapter 6: Tokenizing loyalty programs versus creating merchant stablecoins
+22:1622 minutes, 16 secondsknow if you think about call it outside of call it the the large G sibs it's probably not happening today but you could you could state that you probably
+22:2522 minutes, 25 secondsthink JP Morgan and will be doing this themselves between you know their partners and you know international banks uh right at this exact moment.
+22:3222 minutes, 32 secondsSo we had JP Morgan on the live show um the the one where you uh that the same day you interviewed Guy from Athena and
+22:3922 minutes, 39 secondsuh Basak said that um in the prior 12 months they'd done more than a trillion of settlement in Kexus. So I mean JP
+22:4822 minutes, 48 secondsMorgan sneezes and it blows the entire stable coin market out of the water. Um, so I but if that ever went open loop and
+22:5622 minutes, 56 secondsthey were doing it outside of their closed loop of Kexus, which now they have partnered with DBS to potentially include other people in it, then maybe.
+23:0523 minutes, 5 secondsBut I don't know if I'd count that. This is specifically intra bank doesn't count. It's got to be between two banks. I you got to qualify
+23:1223 minutes, 12 secondslike between two banks and that like I don't know what the number is. If you had to guess today how much value has
+23:1823 minutes, 18 secondsmoved on chain between two banks directly in a stable coin tokenized deposit whatever it is
+23:2723 minutes, 27 secondslike I I don't know what that would be but it's I it's it's hard to think of a case where it's like over a billion.
+23:3423 minutes, 34 secondsYeah. in tokenized deposits. I could see it becoming more next year because you've got um sort of the uh likes of
+23:4123 minutes, 41 secondsAMP Financial who are now live with HSBC and City and JP Morgan and they're doing 24/7 instant settlement and but they
+23:5023 minutes, 50 secondshave their own bank where they're sort of managing that. You could see that sort of coming um if you were to include it. But my thinking on this number is if
+23:5823 minutes, 58 secondsbanks do adopt something again is nothing for them to move 100 billion right this if that makes sense for them in a business case they'll they'll maybe
+24:0524 minutes, 5 secondsmake it sense but uh we'll we'll come back and judge this one harshly I suspect in about 12 months time um Rob and Kai you actually had a very similar
+24:1424 minutes, 14 secondsone as as your next prediction. So Rob do you want to you want to go first?
+24:1824 minutes, 18 secondsYeah I'll kick it off. I I think uh and I'm interested what Tyler has to say about this because I view this one from I think maybe a different lens than Kai
+24:2624 minutes, 26 secondsdoes but similar theme which is that I expect a major corporate will announce that they're changing their loyalty
+24:3424 minutes, 34 secondsprogram which exists on balance sheet and and traditional loyalty points today and they'll collapse that into maybe some sort of stable coin powered or
+24:4124 minutes, 41 secondstokenized asset powered uh program uh this year right not just a a P and call it a new thing that exists to the side
+24:4824 minutes, 48 secondsbut collapsing an existing program. Um, and I I think specifically it'll be around using stable coins to provide
+24:5524 minutes, 55 secondscash back because I think cash is king and that's what all of the, you know, kind of retail consumers want today.
+25:0125 minutes, 1 secondBut, um, I think maybe Kai and Tyler would view it as broader than that, but that's what I think the the the driving force behind this will be.
+25:0925 minutes, 9 secondsYeah. I I want Tyler to to explain. My my starting point on this is that I think tokenized loyalty points are
+25:1625 minutes, 16 secondsactually a really interesting model and structure that could potentially solve a lot of problems and be a much better product than how loyalty points are
+25:2525 minutes, 25 secondsdesigned today. And you know, we've gotten a bunch of merchants that have come to us and asked like, should we create our own stable coin? And like my initial reaction in most cases is
+25:3325 minutes, 33 secondsprobably not. Like it's just like it what does that actually solve? But I think it could make more sense for merchants to tokenize loyalty programs
+25:4125 minutes, 41 secondsthan it could for merchants to try and create a brand new separate stable coin product. And and I think that the you know some of the value props which Tyler
+25:4825 minutes, 48 secondscould talk more about is you know if you wanted to partner and have your loyalty program accepted by a complimentary brand well if your loyalty program runs
+25:5725 minutes, 57 secondson chain and it could be accepted you know with anyone who could accept an ERC20 that's much easier than if they're in proprietary databases. Uh, and I
+26:0526 minutes, 5 secondsthink that the the structure of being able to, you know, back in design loyalty programs with similarities to stable coins with the opportunity to to
+26:1426 minutes, 14 secondsearn yield and economics with it being off balance sheet like they're these really interesting properties. So I credit Tyler's we've been doing a bunch of work with smart media and he's
+26:2226 minutes, 22 secondscontinuing to pull me down the rabbit hole and yeah maybe can talk through Tyler like why you have so much conviction you know on the space and
+26:2926 minutes, 29 secondsthen I I want to get like a number that we can measure on the prediction when we come back next year and so we got to figure that out next but Tyler you're you're
+26:3726 minutes, 37 secondsyeah um yeah so there's a there's you know a lot of dynamics that are that are taking place so you know one there's
+26:4526 minutes, 45 secondskind of a recent announcement between Mastercard and Visa around the settlement on interchange and giving 50 basis points back, right? And so rewards
+26:5326 minutes, 53 secondsprograms are under pressure um in that, you know, with as interchange fees, you
+27:0027 minutesknow, continue to um to come down, it's going to be difficult to to be able to give that 1% cash back um to for on
+27:0927 minutes, 9 secondsevery swipe. So, we're going to need new ways of funding rewards programs.
+27:1427 minutes, 14 secondsThere's no better way to do that than to be able to generate yield off of the reserves. Um, just to kind of frame
+27:2227 minutes, 22 secondsthis, it's it's estimated that there's nearly a trillion dollars of unused point liability trapped on corporate
+27:2927 minutes, 29 secondsbalance sheets. When you look at the reserves that are backing that, that would make loyalty points as a currency the third largest currency in the world behind the dollar and the euro, right?
+27:3927 minutes, 39 secondsSo, um it's a it's a massive opportunity to be able to tokenize that and start to generate yield. Um and the latest
+27:4727 minutes, 47 secondsearnings call from United, um they just um paid off their $5 billion, um revolving line of credit that was
+27:5527 minutes, 55 secondsactually securitized against their $8 billion in point liability. So, we're going to continue to see large corporates and your biggest programs
+28:0428 minutes, 4 secondsactually tokenize that liability to make it a yield bearing asset. Um, so that's one. Two, um, users want, you know, to be able to utilize their points, right?
+28:1528 minutes, 15 secondsAnd so, um, we're going to see the ability for points to become a new funding source source tied to your
+28:2228 minutes, 22 secondscredentials. So, I can tap to pay with my debit card. I could tap to pay with my crypto, and then I can tap to pay with my points and actually settle um,
+28:3128 minutes, 31 secondsand swap those points into a stable coin and then do an off-ramp into fiat to be able to actually settle. So you're going to get a tremendous amount of utility
+28:4028 minutes, 40 secondsaround that. And now that you have a interoperable programmable point and that point can start to act and look
+28:4828 minutes, 48 secondslike a currency, we're going to move from points just being a marketing expense to it now being a new revenue
+28:5528 minutes, 55 secondsstream that every merchant can actually sell to their sponsors or to their direct consumers. So what does that
+29:0329 minutes, 3 secondsmean? That means I can now go to, you know, I like Starbucks is the analog.
+29:0829 minutes, 8 secondsYou get more rewards if you pre purchase the Starbucks points using PayPal, using
+29:1629 minutes, 16 secondsyour debit card or a rather than using a credit card. So effectively, every
+29:2229 minutes, 22 secondsloyalty token will become a branded stable coin that will enable those merchants to launch their own closed
+29:3029 minutes, 30 secondsloop payment network. So I can purchase those miles directly and then use to and use that branded stable coin to actually
+29:3829 minutes, 38 secondsmake the purchase and then I as the consumer will reap the benefits in terms of the cost savings um that the the
+29:4529 minutes, 45 secondsmerchant was able to reap. Do you know it's interesting we we spoke on the last show Kai about um needing to come closer to the definition of what is a stable
+29:5329 minutes, 53 secondscoin because there are so many things that get called a stable coin from USD which is more collateral like in its behavior to algorithmic things to genius
+30:0230 minutes, 2 secondscompliant to tokenized loyalty that uh you can denominate in dollars and tokenized loyalty that uh has a
+30:1030 minutes, 10 secondsyieldbearing capacity for the merchant just sounds like a no-brainer. Like if you've got all these liabilities sitting there, do you want yield on them? Yes or
+30:1830 minutes, 18 secondsno? Yes, I do. Okay, here's the technology that enables you to do that.
+30:2230 minutes, 22 secondsUm, and then do you want to be able to unlock uh kind of new capabilities with those that that kind of tracks. I do want to come back to Rob's point though,
+30:3030 minutes, 30 secondsum, and try and stir up this debate a little bit on the cash back side because if interchange is coming down, where's the money for cash back? And you also had something in your written answer which was um, gift cards.
+30:4130 minutes, 41 secondsYeah. Now, that one struck me as interesting. And you also said cash is the thing.
+30:4630 minutes, 46 secondsCash is king. When I think about stable coins, I think about stable coins are like better cash. They're instant.
+30:5130 minutes, 51 secondsThey're 24/7. They're global cash that I can stick in a teleporter and they can show up at the other side of the world.
+30:5730 minutes, 57 secondsThey're amazing things. And gift cards are like super high fraud. Um super high breakage. They're not very very consumer
+31:0531 minutes, 5 secondsfriendly. Um why wouldn't those be stable coins? Like that then gives me some new optionality there. So um do you
+31:1231 minutes, 12 secondsstand by your cash back then? you still with it even with even with what Tyler shared about the pressure on Interchange?
+31:1831 minutes, 18 secondsYeah. So, so I do I I understand what Tyler's saying and we're obviously seeing a lot of tailwinds behind uh you know taking on balance sheet liabilities
+31:2731 minutes, 27 secondsand taking them off balance sheet, right? And trying to figure out ways to do that and tokenization is a is a good way to do that. I actually think a good correlary here is to think a little bit
+31:3531 minutes, 35 secondsabout CLA and what they announced with Corner USD, right? And one of the things that they they talked about or they didn't actually talk about was loyalty,
+31:4331 minutes, 43 secondsright? But they did talk about, hey, well, they're going to have a consumer wallet and my guess is they will have a merchant wallet, right? And they will have CLAUSD of which, you know,
+31:5231 minutes, 52 secondsobviously I believe that's being uh issued by by bridge. Uh where I expect that they will have most of, you know, whatever the um you know, the interest rate on that is right 3 and a half 4%.
+32:0332 minutes, 3 secondsRight? uh that allows them to incentivize people to stay in that wallet, right? Um they that alone is essentially a cashback program, right?
+32:1332 minutes, 13 secondsThey can decide that how much of that to share with that end merchant or that end consumer, but it is basically a cashback program for or its interest for or you
+Chapter 7: 1 billion in tokenized loyalty collateral by end of 2026
+32:2332 minutes, 23 secondsknow rewards uh under the current definition of genius for having somebody sit in that wallet. All right, interchange is coming down, but there is
+32:3132 minutes, 31 secondslikely to be, especially if you talk about stable coinbacked cards and some of these call it, you know, non-bank issuers like a rain that we talked about
+32:3832 minutes, 38 secondsearlier, there's likely to be more share of interchange with call it, you know, whoever the wallet holder is or wallet provider is, right? So, somebody like a
+32:4732 minutes, 47 secondsCLA could theoretically have more of the interchange than they have today, which is usually zero. And because Clara
+32:5532 minutes, 55 secondsitself, by the way, the the way they make money today is actually merchant rebates or the merchants pay them, right? So now they're getting, you know, some share of the interchange, right?
+33:0333 minutes, 3 secondstheoretically if they have a stable coin backed card and they have the interest from the stable coin itself within the the the wallet and they can probably say
+33:1133 minutes, 11 secondsokay well this is 3 12% plus we're getting some share of you know call it the 2% interchange and we can if you
+33:1833 minutes, 18 secondskeep x amount of balance in your account we can give you 5% back right and I expect there to be uh a lot more
+33:2633 minutes, 26 secondsprograms that look like that which maybe don't you know and maybe we're um using the term loyalty a little interchangeably in ways that you know
+33:3433 minutes, 34 secondsTyler doesn't mean it to to to work. But I think that'll be the way in which people try to increase their mousetrap and hold people into their uh programs
+33:4333 minutes, 43 secondsand that it will essentially be a new form of loyalty. City uh put out a report or maybe it was JP Morgan put out a report that 63% of consumers today say
+33:5233 minutes, 52 secondsthey prefer cash back to any other type of loyalty on their credit cards. uh and only about 58% of cash back is what um
+34:0034 minutesis is is the amount of loyalty that or rewards that go back to people and that 63% has been growing year-over-year and
+34:0734 minutes, 7 secondsI think more and more and more there's an expectation that the you know other types of tokenized ass sorry other types of of loyalty assets are devaluing and
+34:1634 minutes, 16 secondscash is king and so that 63% will come up and the ability to do these types of programs with stable coins and maybe sharing interchange will be the de facto
+34:2534 minutes, 25 secondsway of which these called more consumerfriendly companies start to engage, you know, with their consumers.
+Chapter 8: Regulatory clarity and competition in tokenized money market funds
+34:3034 minutes, 30 secondsYeah, there there are so many interesting questions to unpack here.
+34:3334 minutes, 33 secondsIt's like where's the line between a tokenized loyalty point and a stable coin? What does that mean around what the reserve assets are? Who the issuer?
+34:4134 minutes, 41 secondsIs it under the Genius Act, you know, or not? You know, is this a new way to create co-brand cards that has a lower barrier entry that any merchant can
+34:4834 minutes, 48 secondscreate a co-branded stable coin? Um, is this a private label kind of? So you could take all of these like payment products that have existed for decades
+34:5734 minutes, 57 secondsand go one by one gift cards and say how would you build that from the ground up using some type of a tokenized loyalty
+35:0435 minutes, 4 secondsor stable coin construct. I don't know what the right answer is and which of these is going to take off like for the sake of trying to measure ourselves next
+35:1135 minutes, 11 secondsyear. One interesting question would be like today if you say what is the like market cap of a tokenized version of a
+35:2135 minutes, 21 secondsloyalty point where there's some underlying reserve that's sitting you know uh in in a bank or in a custodian
+35:2935 minutes, 29 secondsbacking a token that's issued connected to loyalty like Tyler I don't know if you have a sense of like what that is today but I don't I don't think it's
+35:3735 minutes, 37 secondsvery high. So my my prediction was going to be we get to a billion. It'd be like a new stable coin goes live and grows
+35:4435 minutes, 44 secondsfrom zero to a billion, which we've seen in a year multiple times. We've seen that from USDG. We've seen that from RLUSD. So it could be a single merchant
+35:5335 minutes, 53 secondsthat launches and their loyalty program grows and they have, you know, a billion dollars of value back yet. Or collectively all hedged with like all loyalty programs issued in this way.
+36:0436 minutes, 4 secondsthere's a billion dollars and so they make up what would be like the sixth seventh largest stable coin. Um but Tyler does that Joel do you have a
+36:1336 minutes, 13 secondsdifferent prediction on the number and like what if you had to guess like what's the value today? It seems like it's so early that like there's not a
+36:2036 minutes, 20 secondsmeaningful amount that that exists in circulation. Yeah, I I would from what we know currently there isn't um any
+36:3036 minutes, 30 secondsmeaningful tokenized reserves that are pegged to the loyalty value. Um there is
+36:3736 minutes, 37 seconds$300 billion worth of point liability issued every single year. So Kai, I I was coming in on that same, you know, I think this is the year we'll see a
+36:4536 minutes, 45 secondsbillion dollars of tokenized collateral that's generating yield that is, you know, pegged specifically against um
+36:5336 minutes, 53 secondsloyalty points. Um and that's sort of, you know, in line when you look at total stable coin um market cap and then even
+37:0137 minutes, 1 secondlike, you know, real world assets, right? So, we're at about that 5% of tokenized loyalty liability will make up
+37:0837 minutes, 8 secondsfive 5 to 10% of the real world assets that are tokenized um in 2026.
+37:1337 minutes, 13 secondsOo, nice nice metrics, Tyler. Thank you for bringing the data. I I appreciate that. Look, I'm going to move us to uh my next prediction which is uh
+37:2237 minutes, 22 secondsregulation related. So, a couple of like binary ones. I think the Clarity Act will pass. I think the UK will pass
+37:2937 minutes, 29 secondsfully its stable coin regime. Um and we saw in parliament the draft bill is is now complete. So um take about another
+37:3737 minutes, 37 seconds12 monthsish to go. So this that one will be pretty tight. Um but then um I believe that the reason JP Morgan
+37:4437 minutes, 44 secondslaunched the NY the money fund is because they believe clarity is going to pass and that that's going to give them a lot more air cover to get into non um sort of tokenized deposit like assets.
+37:5537 minutes, 55 secondsAnd as a result money becomes bigger than Bidd. That's my um sort of measurable prediction. Uh Biddle, as we
+38:0438 minutes, 4 secondsknow, is the largest like branded kind of um money market fund that's tokenized. Uh Black Rockck has done an
+38:1138 minutes, 11 secondsamazing job getting close to the stable coin issuers and being the money market fund of choice, but it's only available to like five or six customers. JP
+38:1938 minutes, 19 secondsMorgan's going to go out to everybody else and they're going to place a win because uh that's what the uh the Borg does. they will assimilate you and they
+38:2738 minutes, 27 secondsare the largest in the universe and never get a bet against JP Morgan. Um Rob, your your thoughts on this one. Um your thoughts on the regulations more
+38:3538 minutes, 35 secondsbroadly and uh if somebody like a JP Morgan can play in in the tokenized money market fund space.
+38:4038 minutes, 40 secondsYeah, I've been I think probably more bearish than the average person on clarity or you know some sort of reconciled you know version of clarity
+38:4938 minutes, 49 secondsuh passing. It still feels like from the conversations we're having in DC to be a bit of a coin flip. Uh it really depends on who you talk to and the time that you
+38:5838 minutes, 58 secondstalk to them. I absolutely hope it passes. Uh that said, I don't know if it actually matters that much for the next
+39:0639 minutes, 6 secondscouple of years, right? So I I believe that what is going to happen if we don't pass clarity is that you'll just see rule
+39:1439 minutes, 14 secondsmaking that gives us you know some level of comfort anyways from the SEC and from the CFTC in the near term. The real
+39:2439 minutes, 24 secondsconcern is not what happens during this administration but it's if you only have rule making is there you know call it a
+39:3139 minutes, 31 secondssnapback and you know a potential change in the way that the regulators think about it you know po you know post a 2028 election right so I think
+39:3939 minutes, 39 secondsregardless of clarity or you know some you know reconciled version of that I think in the US anyways we're going to
+39:4739 minutes, 47 secondsget you know JP Morgan is going to continue doing these types of products we're going to get uh continued innovation uh but there'll just be more concerned about what happens post 2028.
+39:5539 minutes, 55 secondsBut I think my perspective is from the people I talked to is that the train has just left the station and there is just no way to put the genie back in the
+40:0340 minutes, 3 secondsbottle um to torture a bunch of analogies and there will probably be uh which would be far enough along and so
+40:1040 minutes, 10 secondsthat's why people are doing this. So I don't know. I think it's a coin flip on clarity but but I hope I hope you're right. Um, and I don't have a good view
+40:1840 minutes, 18 secondsinto what's happening in the UK. So, I would just uh I would just um seed that to you. I actually don't think that that
+40:2540 minutes, 25 secondsMY will get bigger than Bidd though, right? Cuz I I do agree that you're right that JB Morgan will start distributing it to everybody. But the second that Black Rockck sees that
+40:3440 minutes, 34 secondshappening, they'll just do the same thing, right? And they are more call it credibly neutral player relative to the other banks, to the other, you know, wirehouses, the other people who would use a potential uh money market fund.
+40:4440 minutes, 44 secondsAnd so I I expect there to just be kind of increased competition, but that Black Rockck will do a good job uh you know meeting meeting JP Morgan where they are.
+40:5340 minutes, 53 secondsI'm I'm interested in what happens with with Biddle over the next year. I'm looking at the chart now. Um and Bidd
+Chapter 9: 2 billion in annualized merchant stablecoin payment volume by 2026
+41:0141 minutes, 1 secondgot up grew very quickly. Got up to close to three billion in supply and then over the past you month or so it's
+41:0841 minutes, 8 secondsnow you dropped quite a bit down to like 1.8 billion. There's still only a 100 holders. Shout out to rwa.x rwa.xyz you great data source for this.
+41:1941 minutes, 19 secondsUm there are only 100 holders technically in terms of number of addresses. Now that could you represent you know larger entities but how much do
+41:2841 minutes, 28 secondsthey push this and there's a high minimum. I think you have to have 5 million you to buy it. Um the initial focus was seemed very cryptonative. you
+41:3641 minutes, 36 secondsknow, a lot of the holders were stable coin issuers that were using it to to back a stable coin or like a DAO or cryptonative, you know, treasury that
+41:4541 minutes, 45 secondswas holding it. And so it doesn't seem like Bidd has gotten meaningful traction with institutions that are
+41:5241 minutes, 52 secondsnon-cryptonative. It's been like a crypto product and even the name Biddle is like, you know, it's a crypto meme.
+41:5841 minutes, 58 secondsAnd so it was amazing that Black Rockck did that, but like it seems like a crypto product. And so I'm interested to see the positioning of as JPM launches
+42:0542 minutes, 5 secondsthis. I would be surprised if they position it just as a crypto product.
+42:1042 minutes, 10 secondsIt's probably going to be more mainstream institutional investor focused. But then a lot of it comes down, okay, what can you do with it? You
+42:1842 minutes, 18 secondsknow, can you, you know, put it in a protocol and be able to borrow against it? Like if if it's just, you know, equivalent of you're buying and holding it the same way you buy and hold an
+42:2542 minutes, 25 secondsoffchain money market fund doesn't solve a huge problem. But uh I'm excited to see the you know just those charts the
+42:3242 minutes, 32 secondscomparison of where's Bidd end of 2026 where is uh man how do you like the the
+42:3942 minutes, 39 secondsmoney uh you know where where are those two the end of 2026 I would bet is still ahead um but I I
+42:4842 minutes, 48 secondsthink it could go either way so that I think that'll be good to by the way so here's some addition like maybe they should just win on the ticker alone they should definitely win on the ticker
+42:5642 minutes, 56 secondsm Yeah, is that where money is?
+42:5942 minutes, 59 secondsYeah, it's phenomenal ticket. Um, here's my thinking.
+43:0443 minutes, 4 secondsJP Morgan moved a trillion dollars through Kexus and that was before stable coins became a thing and before Kexus became the central strategic pillar of
+43:1243 minutes, 12 secondstheir entire payments business, the biggest payments business in the world.
+43:1643 minutes, 16 secondsAnd so if this is the central pillar of your biggest payments business and corporate treasurers are your customers, what do corporate treasurers do? They build the water flow. They have their
+43:2543 minutes, 25 secondsovernight cash, their money market funds, and then into your sort of tier 2 assets. That's the waterfall you build.
+43:3243 minutes, 32 secondsIf I can do instant 24/7 tokenized deposits through Kexus, why wouldn't I want an instant 24/7 swap for a money
+43:4143 minutes, 41 secondsmarket fund? That I think does solve a real problem for people. So, little bit of a cheat code there, which is like, I've already got a bunch of customers. I
+43:4843 minutes, 48 secondscould just distribute this to people who are already doing it, but they weren't necessarily distributing those money market funds before. So, they get into a new business line for those corporate
+43:5643 minutes, 56 secondstreasurers. So, that was kind of my my thinking on this one. Um, Rob, you had another interesting one um as your next one. You want to read this guy out?
+44:0444 minutes, 4 secondsYeah. So, we saw a I think what actually kind of went under the radar announcement uh around IBKR taking
+44:1244 minutes, 12 secondsstable coin deposits uh powered by Zero Hash. Uh I think it was either earlier this week or last week.
+44:1844 minutes, 18 secondsUh I and we PayPal mentioned or or they announced back in July um sort of a pay with crypto uh widget that they were
+44:2744 minutes, 27 secondsgoing to be launching and some of these announcements haven't got a lot of airplay because there's a lot of I think general disbelief that you know there
+44:3644 minutes, 36 secondsshould be call it merchant payments or there should be you know e-commerce payments in stable coins. I think even for people who are stable coin believers because there's so much conversation
+44:4344 minutes, 43 secondsabout B2B and correspondent banking uh etc. But but my belief is that if you
+44:5044 minutes, 50 secondsuse CLAUSD as this call it canary in a coal mine of more and more of these fintexs wanting
+44:5844 minutes, 58 secondsto push their the marketplace that they have of you know merchants and users on stable coin and tokenized rails that
+45:0745 minutes, 7 secondsyou'll they'll more and more people will just see this as a cash equivalent and will want to be able to use this wallet.
+45:1345 minutes, 13 secondsAnd so I think what we will see by the end of next year is that there will be a call it a pay with stablecoin or pay
+45:2145 minutes, 21 secondswith crypto widget on almost every major e-commerce marketplace and website by the end of next year. And that volumes
+45:2845 minutes, 28 secondsthere will actual, you know, merchant usage will increase to I'm I actually hadn't thought about this number before,
+45:3645 minutes, 36 secondsso I'm I'm pulling this out of uh out of thin air right now, but I think we'll see um over call it a $2 billion of of
+45:4545 minutes, 45 secondsannualized usage for merchant pay with crypto um uh you know, acceptance or or payments by the end of next year. I was
+45:5445 minutes, 54 secondsgetting ready to come in with like a big objection and then you said $2 billion.
+45:5845 minutes, 58 secondsI was like, "Yeah, it's not huge." Okay. [laughter] Like $2 billion.
+46:0246 minutes, 2 secondsThe bigger point though like talk about the bigger point.
+46:0546 minutes, 5 secondsYeah. So first like we go to the data like one of the most interesting case studies to look at is how is Shopify
+46:1446 minutes, 14 secondsdoing with their direct acceptance of USDC on base. You know Shopify one of the most innovative fastest growing e-commerce marketplaces. you know,
+46:2146 minutes, 21 secondscovers like, you know, all different types of of e-commerce, you know, retailers, you know, worked with Coinbase and Bass to design a
+46:2946 minutes, 29 secondsspecialized protocol, you know, to solve for refunds, returns, like all these like innovative features, recurring
+46:3646 minutes, 36 secondssubscriptions to accept USDC. You know, great PR moment. Shopify now accepts USDC. You know, on one hand, I think
+46:4546 minutes, 45 secondswhat a lot of people don't realize is by doing that, I now have a public dashboard where I monitored or bookmarked what Shopify's USDC volume
+46:5246 minutes, 52 secondsis, which a lot of merchants are not usually familiar and comfortable [clears throat] with that level of of transparency of of their volume. But
+47:0047 minutesdoes anyone have any guesses of how much in total volume Shopify has accepted in USDC since they launched in June? 100 grand.
+47:0947 minutes, 9 secondsMay I I'm going to say a million.
+47:1247 minutes, 12 seconds600k. So more than Rob but le less than Simon. And so I think that's where like you just look at like what the scale is
+47:2147 minutes, 21 secondsand it is very very low. So I have no doubt that like you will only see more merchants add a pay with stable coins
+47:2947 minutes, 29 secondsacceptance button. Like there's no reason for a merchant not to and like there'll be providers that do it. I think the question is for a traditional
+47:3647 minutes, 36 secondse-commerce merchant, how many consumers choose that option and go in and like change behavior to
+47:4347 minutes, 43 secondshow they normally pay? And you know, I think that that's what we've like yet to see. And you know, Shopify, I think, is also giving 1% back. And so it's not
+47:5147 minutes, 51 secondseven like there's no incentive. It's like they're they're like actively like doing things trying to to drive adoption of it. uh we have not seen demand for
+48:0048 minutesconsumers to switch how they pay right now in e-commerce and pay with the stable coin and so I think you'll see a lot of experiments and different
+48:0748 minutes, 7 secondsapproaches to try and do that. I think depending upon the merchant category it matters a lot. I think large value, you know, high-end purchases. We see real
+48:1548 minutes, 15 secondsestate. We see car dealerships. We see like, you know, there are plenty of these categories where direct stable coin payments make a lot of sense and
+48:2248 minutes, 22 secondsthey're replacing, you know, what might have been a wire like a bank transfer that didn't work very well. Um, but to me, like the the long-term metric that I
+Chapter 10: 5x growth in on-chain lending using tokenized real-world assets as collateral
+48:3148 minutes, 31 secondsreally care about is how much volume happens in stable coin link cards and how is that growing? uh which is actually volume that's coming over our
+48:3948 minutes, 39 secondsnetwork versus how much volume is happening in a stable coin directly at a merchant which is h which is you know over a blockchain and I think today
+48:4848 minutes, 48 secondswe're seeing more demand and faster growth and more activity in stable coin link cards than we've seen in direct stable coin acceptance and a lot of the
+48:5548 minutes, 55 secondsdata is public so it's you don't you can just look at it um and we don't see that changing anytime soon but it'll be
+49:0249 minutes, 2 secondsreally interesting to to watch both what new acceptance happens and then more importantly, does anyone want to use it?
+49:0849 minutes, 8 secondsSo, let me maybe let me rebuttle that before you you jump in just real quickly, which is I I think my
+49:1549 minutes, 15 secondsperspective here is that you're completely right because right now people don't want to take their primary
+49:2349 minutes, 23 secondssource of money, which is, you know, in a bank, it's digital, but it's not tokenized. It's not a stable coin. Maybe it's a card and go and then swap that to
+49:3249 minutes, 32 secondsUSDC and then, you know, pay that to Shopify, right? The long pole here is are they actually holding stable coins and are the merchants actually holding
+49:4049 minutes, 40 secondsstable coins, right? And so you need somebody to distribute wallets, stable coins, acceptance so that it looks like
+49:4749 minutes, 47 secondsdigital money, right? If you look at the data right now on e-commerce, um something like 66% of e-commerce volume
+49:5649 minutes, 56 secondstoday is um in some sort of digital payment format, right? account to account is the fastest growing part of payments in e-commerce today, right?
+50:0550 minutes, 5 secondsIt's, you know, a much lower denominator. So, you start to think about like this type of digital payment that people are getting comfortable with and stable coins if they are already
+50:1350 minutes, 13 secondsholding them are likely to grow really quickly in my my mind. And so this is why I use CLA again as an idea around
+50:2050 minutes, 20 secondsthis because if you give people and you incentivize people you give them wallets and you incentivize them to hold the stable coins and then it looks like cash is accepted like cash then they will use
+50:2950 minutes, 29 secondsthe stable coins at the merchant right and so that's I think the infrastructure level and the in um incentive level is what you have to solve for. you and I
+50:3750 minutes, 37 secondsare both, you know, very bullish on the cards, right? But I think that this will be a also extremely fast growing as
+50:4450 minutes, 44 secondspeople get more comfortable with that type of digital wallet.
+50:4850 minutes, 48 secondsWe have three more predictions to get through. So, I'm just going to wrap this one with um I actually thought what's interesting about the theme so far from from this episode is uh you hear a lot
+50:5750 minutes, 57 secondsof people say there are no domestic use cases for stable coins and here we've talked about loyalty. Um you know, we talked about instant settlement. Um, and
+51:0551 minutes, 5 secondsreally where I thought you were going with this, Rob, was actually um cash wallets and you know, sort of holding digital money and there being some
+51:1251 minutes, 12 secondsincentive to the the merchant or the brokerage to just hold that as a stable coin. And if a consumer just loads that with Visa Direct or AC or whatever, but
+51:2151 minutes, 21 secondsit's held as a stable coin and they don't see that happening, that's where I actually thought you were going to go because those wallet balances just make a ton of sense if I'm broker and then
+51:3051 minutes, 30 secondscan do other stuff with it. Um but Kai in the interest of time um your next one sir.
+51:3551 minutes, 35 secondsYeah. So next we we've been talking a lot about you know onchain credit u and the opportunity there on on the show and
+51:4151 minutes, 41 secondsso you know my prediction is that the collateral for onchain stable coin
+51:4851 minutes, 48 secondsdenominated loans that is a tokenized real world asset or non-doll stable coin
+51:5451 minutes, 54 secondsis going to grow 5x in 2026. Uh so so what does what does that mean? You know, in 2025, you know, we saw onchain
+52:0152 minutes, 1 secondlending loans issued, you know, denominated in a stable coin through a smart contract grow uh about 175%. You
+52:0952 minutes, 9 secondsknow, there's about $250 billion in stable coin denominated loans originated, you know, onchain, which a lot of people still don't realize. They're like, whoa, like that's a lot.
+52:1752 minutes, 17 secondsHowever, if you break down what those loans look like, about 75% of the collateral, they're all collateralized.
+52:2452 minutes, 24 seconds75% of the collateral, they're crypto assets. So it's people borrowing against their their Bitcoin or ETH only 1.8% 8%
+52:3252 minutes, 32 secondsyou know about you know 1.5 billion are tokenized real world assets and so this is exactly what we talked about like what's the point of a tokenized real world asset well you can use it as
+52:4152 minutes, 41 secondscollateral you know to be able to borrow against you know through a smart contract that is a kind of net new feature and so I could see as more
+52:4952 minutes, 49 secondstokenized assets come on chain as more non-doll stable coins emerge uh that's going to grow significantly and so I could see $10 billion of real world
+52:5852 minutes, 58 secondsassets or non-dollar stable coins being used as collateral, you know, to borrow on chain. And one of the use cases I
+53:0653 minutes, 6 secondsthink is the most interesting is I've now talked to like at least a handful of companies that are trying to solve the
+53:1253 minutes, 12 secondsonchain FX problem uh through you know new types of onchain lending where you can lock up a local currency stable coin
+53:2153 minutes, 21 secondsor local uh tokenized treasury and borrow dollars pay your supplier in dollars um to your stable coin and then
+53:2953 minutes, 29 secondswhen you get paid back you repay the loan. And so they're basically saying that to do an FX swap, you know, from a local currency, South African RAM to
+53:3853 minutes, 38 secondsUSDC, you know, it's much more expensive than to just take a tokenized South African rand, use it as collateral,
+53:4553 minutes, 45 secondsborrow USDC, pay your supplier, wait till you get paid dollars again, and then repay the loan. And so I think you're going to see these really interesting new use cases that are, you
+53:5353 minutes, 53 secondsknow, onchain lending that have nothing to do with Bitcoin or ETH as the collateral, you know, that are going to grow significantly in in 2026.
+54:0154 minutes, 1 secondOoh, that's a whole show. That is a really interesting like FX conversation cuz everybody's like, where are they non- US dollar stables? And it's like,
+54:0954 minutes, 9 secondsdo we even need them for anything other than collateral for moving dollar stables around? Tyler, any thoughts on this one? Yeah, I, you know, as we're
+54:1954 minutes, 19 secondslooking at how we're holding collateral, um, you know, there's JA, J Treasury, I'm seeing a lot more of the tokenized
+54:2854 minutes, 28 secondsassets that are coming on that just have higher yield that are giving us access to be able to to fund those reward programs. So, I think that that's going
+54:3554 minutes, 35 secondsto be a pretty big opportunity. So, um, I'm going to go with the over on Kai's prediction on that one. Ooh, Rob, your thoughts?
+54:4354 minutes, 43 secondsI I totally agree. I I think this is a big theme for next year. Um, and I would probably take the over as well. So, I think this was a a great prediction.
+54:5354 minutes, 53 secondsI'm going to say that as a bonus prediction, we'll see at least two, possibly three NEO banks get into um
+55:0055 minutessome sort of collateralized or onchain lending, uh, each doing more than a billion of real world assets themselves as an alternative to getting into
+55:0855 minutes, 8 secondsbalance sheet lending because I think that's a fascinating business model. Um but um another one from me here which is
+55:1455 minutes, 14 secondsuh the DTCC will go live with all US stock entitlements on chain. Um and what
+55:2155 minutes, 21 secondshappens next could be fascinating. My boldest bet is that Robin Hood announces a plan to go token native following this
+55:2855 minutes, 28 secondsshift and gradually remove all of their infrastructure from uh traditional clearing and settlement towards using token native clearing and settlement. So
+55:3755 minutes, 37 secondsit's a it's not a numerical measure. Um it's DCCCC will go live uh which they've stated their intent to do. But the
+55:4555 minutes, 45 secondssecond thing is I believe Robin Hood's going to go token native and try and move their infrastructure away from that. Um any thoughts on like stocks um
+55:5455 minutes, 54 secondsRob and and the entitlements around that? I know Robin Hood did the thing with arbitrum but the DTCC move. Um I don't I think people are not sleeping on
+56:0256 minutes, 2 secondsthis one. They're not paying enough attention to it.
+56:0456 minutes, 4 secondsOh, I 100% agree. uh the DTCC has been working on, you know, tokenized uh settlement and clearing for for equities
+56:1356 minutes, 13 secondsfor actually a while, right? I I do think that, you know, maybe the you're a little early for this specific
+56:2256 minutes, 22 secondsprediction because as far as I story of my life, man.
+56:2656 minutes, 26 secondsWell, listen, like you be a great venture investor, so you know, come come work with us. Uh [laughter] no, but the the conversation I'm hearing
+56:3456 minutes, 34 secondsa little bit more is actually more on private equity than public equity for the near term. And that's because there is actually no central clearing, right,
+56:4156 minutes, 41 secondsfor private equity. And so, you know, everybody always talks about, okay, well, tokenized private equity is going to be huge, right? Because you can more
+56:4956 minutes, 49 secondseasily divvy up and fractionalize these shares and you can move it more easily, use it as collateral, etc. But um I think a lot of people would tell you
+56:5756 minutes, 57 secondsthat big part of the reason that hasn't grown is because these exist in silos at you know these counterparties that people don't necessarily want to trade with and that they'd rather have you
+57:0557 minutes, 5 secondsknow some sort of centralized clearing system. And so if the DTCC offered tokenized private equity and people got more on board with that in a consortium model that maybe you'd see that grow
+57:1457 minutes, 14 secondsreally quickly. And I think that might happen at a faster rate than call it the the public equity side. That said, I totally agree that that's where the
+57:2257 minutes, 22 secondsmarket's going. There's a lot of push for this. I'm going to disagree with your Robin Hood point. And the only reason I'm going to disagree with that is because Citadel and Robin Hood are in
+57:3057 minutes, 30 secondsbed together so deeply and Citadel has been so publicly anti-clarity. Uh, and they're very publicly anti- a lot of the
+57:3957 minutes, 39 secondstokenization efforts that actually their competitors have been supportive of. And so I'm interested to see how that relationship evolves.
+57:4757 minutes, 47 secondsOoh, yeah. Citadel secretly runs the world. K, yours is the next uh and last prediction for the show. Um, your last 2026 prediction.
+57:5557 minutes, 55 secondsYeah.
+57:5657 minutes, 56 secondsYeah, we I think we we covered this a bit in the discussion at the beginning.
+57:5957 minutes, 59 secondsUm, I'm still fascinated by X42. So, I'm going to throw X42 prediction in here.
+58:0458 minutes, 4 secondsUh, just cuz I think it's it's really fun and and interesting to to watch. U, so from what I've seen, uh, I think
+58:1258 minutes, 12 secondsthere's been about $36 million of volume that's gone through X42, you know, to date. Um while it's hard to estimate
+58:2158 minutes, 21 secondslike the sense we get is at least 90% probably more of that is tied to memecoins where people are just you know
+58:2958 minutes, 29 secondsminting a memecoin through x42 and so it's not it's not really agentic and it's not even really like selling a good or service. It's just another way to to
+58:3758 minutes, 37 secondsmint a memecoin. Um, so I would say in the most optimistic sense, maybe there
+58:4358 minutes, 43 secondshas been like $2 million of non-mecoin activity in the kind of most, you know,
+58:5058 minutes, 50 secondsoptimistic and and that's mo and I'd say after memecoins, the second use case has been uh crypto data services. There are
+58:5858 minutes, 58 secondsa number of servers that sell crypto data and I think that actually makes sense where you have developers that are building all tur all types of experimental onchain trading products.
+59:1059 minutes, 10 secondsUm you know how successful they are like we who who knows. Uh but you have like an ecosystem that wants to create an agent that can autonomously you know
+59:1959 minutes, 19 secondseither trade or balance find the best yield in a protocol. And so we're seeing a bunch of those companies pop up. And so I could see a world where those
+59:2859 minutes, 28 secondsdevelopers, you know, want to be able to buy data uh that they use to then make, you know, these decisions. So there's a little bit of that happening. My
+59:3659 minutes, 36 secondsprediction is that in 2026 there will be some major like big tech SAS provider
+59:4359 minutes, 43 secondsthat will actually sell a product on an X42 server. Um, and I would say that there there could be, you know, at least
+59:5259 minutes, 52 seconds5x growth. So maybe we have $10 million of real volume going through X42. And I think that server is likely to be a
+59:5959 minutes, 59 secondsserver is just a merchant in the X42 language. Something that's very developerfacing. uh and so a developer
+1:00:061 hour, 6 secondstool you know that someone needs and and I think the use case is if I'm vibe coding in cursor and I want to buy some
+1:00:131 hour, 13 secondsyou know service that I need to finish my project instead of having to leave cursor go create an account go grab an API key you know put a payment method on
+1:00:221 hour, 22 secondsfile wouldn't it be great if inside cursor you know I could then you have a wallet that I could then pay for some
+1:00:301 hour, 30 secondsdeveloper tool that I need without leaving the environment so I think there's this really interesting early B2B developerf facing economy. Um I
+1:00:391 hour, 39 secondsdon't think 2026 it's going to like hit escape velocity. I think we're still kind of years away but I think we'll see it the first examples of it going from
+1:00:481 hour, 48 secondsmemecoins or crypto data to some actual useful service that someone is buying uh even if it's at a a small scale. So
+1:00:561 hour, 56 secondsthat's the the prediction and Rob might say 10 years too early that like and there'll be 100 other standards like in terms of where where this goes.
+1:01:051 hour, 1 minute, 5 secondsUh Rob any thoughts?
+1:01:071 hour, 1 minute, 7 secondsWell well Kai did say uh maybe on some small scale and so you know there's a little bit of hedging going on there so I'll give him that. But listen I mean
+1:01:141 hour, 1 minute, 14 secondsthe fact that Cloudflare talked about doing this on on X42 is obviously I think um uh a bit of a you know call feather and Kai's cap and so we'll see
+1:01:231 hour, 1 minute, 23 secondswhat happens there with Cloudflare. I I do think it's far too early to pick X42 versus something else, right? ATXP or
+1:01:311 hour, 1 minute, 31 secondsyou know call it and depending on like what happens with ACP and AP2 and like these other you know type parts of the stack and then how people kind of you
+1:01:381 hour, 1 minute, 38 secondsknow change the way or who they work with etc. Um but yeah maybe on a small scale. Uh I I the one thing I will
+1:01:461 hour, 1 minute, 46 secondsdefinitely give AI generally is that it continues to move at a quicker pace than anybody could ever have imagined 3 years
+1:01:551 hour, 1 minute, 55 secondsago. And you know there are or there is a lot of money being thrown at aentic payments. And so um this is one where
+1:02:041 hour, 2 minutes, 4 secondsyou know maybe just my past belief of how quickly things move uh is needs to be recalibrated but probably too early.
+1:02:121 hour, 2 minutes, 12 secondsThe wild card as you say is Cloudflare.
+1:02:151 hour, 2 minutes, 15 secondsIf Cloudflare turns this on let's see because um was it Disney or Warner Brothers or somebody did a deal Disney
+1:02:211 hour, 2 minutes, 21 secondsdid a deal with um Open AI to use their characters in the Sora the video generation model. We've seen New York Times, Wall Street Journal, others have
+1:02:291 hour, 2 minutes, 29 secondsdone sort of these bilateral deals and you got to think, okay, those are the people that were going to give you a big lawsuit that would give you a headache, but what about every other bit of IP and
+1:02:381 hour, 2 minutes, 38 secondsevery other bit of content? Like there's there's a maybe there. Um, and Cloudflare could fit into the middle of it, but how high up their agenda for
+1:02:471 hour, 2 minutes, 47 seconds2026 is that, especially given they've had some outages and some cyber issues recently. I'm sure they're much more concerned with that stuff. Well, um,
+1:02:551 hour, 2 minutes, 55 secondswhat a place to leave it. Um, we went full circle on the maybe we were too early with the Gentic and Kai respect for for coming back around and trying to
+1:03:021 hour, 3 minutes, 2 secondsput some metrics to it. Um, that's our 2026 predictions for this year. Um, thank you so much for listening or watching wherever you are. Um, I'm going
+1:03:101 hour, 3 minutes, 10 secondsto do that annoying host thing and ask you to like like and subscribe and spam your friends to watch this show too
+1:03:171 hour, 3 minutes, 17 secondsbecause it actually helps people find it. If you want to get nerdy and get weird in 2026, you know where to find the tokenized podcast. And if people want to find uh Tyler and everything you
+1:03:261 hour, 3 minutes, 26 secondsguys are doing, where do they go to do that? Yeah, best place is LinkedIn, Simon. Thank you.
+1:03:311 hour, 3 minutes, 31 secondsThank you so much, Tyler. And Rob, how about you and Dragonfly?
+1:03:341 hour, 3 minutes, 34 secondsYeah, um hadock mal initial uh on Twitter uh or or LinkedIn.
+1:03:401 hour, 3 minutes, 40 secondsUh Kai, how about you? Kai Sheffield and visa.com/crypto. You'll find me at sytail or over at tempo.xyz and you'll
+1:03:481 hour, 3 minutes, 48 secondsfind me at fintechbrainfood.com screaming into the void. Thank you so much for watching and we'll catch you next time.
+1:03:571 hour, 3 minutes, 57 seconds[music]
+
+Sync to video time
+
+All
+
+Startup company
+
+Podcasts
+
+Related
+
+For you
+

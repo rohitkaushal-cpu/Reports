@@ -1,0 +1,923 @@
+
+Search in video
+0:17
+Heat.
+0:29
+Heat. [music]
+0:40
+[music] Heat. Heat.
+0:45
+[music]
+0:51
+Heat. Heat. [screaming]
+0:58
+[music]
+1:04
+[music] [music]
+1:20
+[music]
+1:32
+[music] Heat. Heat.
+1:48
+Heat. Heat.
+2:06
+[music]
+2:18
+[music]
+2:25
+[music]
+2:31
+Heat. Heat. Heat. Heat.
+2:38
+[music]
+2:45
+[music]
+2:56
+[music]
+3:05
+[music]
+3:13
+Heat. Heat.
+3:43
+[music]
+3:50
+[music] There were no controls. Good afternoon everyone. I'm Jessica
+3:56
+Lesson, the founder of the information and I couldn't be more excited to be here this afternoon with an allstar
+4:02
+panel on AI infrastructure and uh the future of this important area. So, I'll
+4:08
+uh introduce our panelists and um really look forward to the conversation. We
+4:13
+will leave time for questions at the end. So, um please be saving those. Uh
+4:19
+to my left, we have Pang Xiao who uh is the head of G42 out of the UAE and
+4:26
+pretty much has his hands in every interesting AI project that of the moment. So, we're thrilled uh to have
+4:33
+him. Sarah Frier, the CFO of Open AI, who has been doing business deals
+4:39
+[laughter] um with everyone in the ecosystem and of of course um is leading one of the world's most important AI companies. Um
+4:46
+Michael and Trader, the CEO of Coreeave um which also needs no introduction. And
+4:52
+um Rob Goldstein, the chief operating officer of Black Rockck. Rob, I'm going to start with you because
+4:59
+thought it was last. You know, I'm going to mix it up. You keep everyone on the edge. Please, you are all experts on every topic. So feel
+5:06
+free um to chime in even if a corre question is not directed at you Rob just
+5:12
+minutes ago you were telling me that the on the topic of AI and infrastructure
+5:18
+the future is limitless. Let's elaborate and then maybe poke holes in that afterwards. But let's start with that.
+5:24
+What is it when you stare at 2026 that leaves you with that feeling? Sure. Well, what what is remarkable to
+5:30
+me and I think people very quickly lose sight of is that three years ago at
+5:36
+Davos, the conversation was you have to go check out this thing called chat GPT
+5:44
+which was a brand new thing amazing and everyone was like playing with it like how do I drive from X to Y like the
+5:51
+most basic basic basic things and I think we forget People talk about what
+5:58
+inning this is. Uh to use a US analogy of baseball, I think the national anthem
+6:06
+is still happening. I don't even think this has started yet. And if you think about the cycle as being sort of
+6:14
+buildout, then adoption then transformation. We're still early in the buildout stage. And if anything, I think
+6:22
+there's so much dialogue right now on bubbles
+6:27
+when in reality the the bigger issue at least for the next, you know, one 2 3
+6:32
+years is rationing capacity. So to us at BlackRock a as as the COO
+6:41
+when I say the opportunity is limitless I just see if you're someone who's involved with operating a company for
+6:47
+example we're just starting to recognize the
+6:53
+transformative capabilities of these technologies and I think that when you really think
+7:01
+about the company there isn't any aspect of the company that can't be transformed formed. You know, we were talking
+7:07
+earlier about Davos and the nature of of Davos and the amount of organization
+7:13
+that's required in terms of the many meetings that you have. Think about in a few years everything will be automatic.
+7:20
+You'll know that you bump into someone in the street, you'll know who they are, the business that you do with them, what
+7:27
+you should ask them. So, the productivity cycle I don't even think has started
+7:34
+yet. Mhm. And I think it's limitless in terms of at least my career. The
+7:41
+opportunity for transformation will be enough to keep me busy for the
+7:48
+next 10 20 years easily. So job security easily at least for me jobs
+7:54
+the and so if we talk about let's break it down a little bit. We're talking
+7:59
+about infrastructure here. We've got to build things. We've got to finance things. We're seeing this gold rush. Um,
+8:05
+but but there's also been talk about, you know, power. Uh, how can we support
+8:11
+this? Are data centers going going fast enough? Maybe to you, Michael. I mean,
+8:16
+what are you are there some bumps along the way in this moment of scaling? What
+8:21
+needs to happen in 2026 to to get to the next step? And then I'll come to you Ping on the same question.
+8:27
+So, uh, first of all, thanks for the opportunity to speak. Um, look
+8:33
+um, it's such a fascinating business because, um, the, you know, the the way
+8:40
+the the funnel works is is like everyone sees
+8:46
+these unbelievable um, products that are coming to market that
+8:52
+have changed the world and will continue to change the world over, you know, the foreseeable future in ways that, you
+8:58
+know, we we haven't even contemplated Um and that is one part of the market.
+9:06
+Underneath that it is physical, right? The the defining characteristics of the boundary that
+9:15
+exists right now is a physical boundary. Um and those physical boundaries occur
+9:20
+in a bumpy world, right? And it's about it's about power. It's about concrete.
+9:26
+It's about copper. It's about uh um uh human resources. And when we think about
+9:33
+human resources, you're talking about the trades. You're you're you need plumbers. You need electricians. They
+9:38
+need to be trained. Um you know, four years ago, we were building a data
+9:43
+center. You had, you know, a 100red electricians. 80 of them were experts
+9:50
+and 20 of them were beginning their career. And now you have 2,000
+9:56
+electricians and 80 of them are experts and everyone else is beginning their career. Like there's there's a
+10:04
+physicality to the business right now that the world is struggling to
+10:09
+translate into valuation into public markets into um
+10:17
+the path to delivering these products that are
+10:23
+generationally and and I don't even mean like one generation. I mean like this in
+10:28
+my mind goes down as a stepping you know the wheel intelligence it's sort of like
+10:35
+that scale of of of change that's occurring and behind the scenes of that
+10:40
+it's it's so uh you know like to go to one of these data centers to walk into like what is
+10:47
+functionally the Death Star and you walk through these things and you're just like wow there is a lot of building
+10:52
+there was a lot of cables there's a lot of optics There's an incredible amount of carpenters that are working here.
+10:59
+It's it's wild, right? Ping, how do you feel about sort of the pace of these projects and are we are
+11:08
+they at the pace that we need to to be meeting the demand? Um, and how and then
+11:14
+I'm cross border as well. What is the state on that? Well, let me first say that the top
+11:19
+expert here in building is is Mike who just spoke to you on the subject very eloquently. We do have a G42 a branch of
+11:26
+our business also focus on building what we call token factories. This is basically core and shell and also uh GPU
+11:34
+management uh business. Um to put this in context to answer your question right now some of you already
+11:41
+know this uh Abu Dhabi is undertaking the build out of five gigawatt AI campus
+11:47
+which were announced last May when President Trump visited Abu Dhabi. Um I
+11:52
+have a simpler view again because I'm not a technical expert in business centers. My view which I discussed with
+11:59
+Sam multiple times and you also sorry is eventually in the long term the cost of
+12:06
+intelligence will equal the cost of energy eventually. This is a unique
+12:11
+advantage why we are drawn G42 and UE Abu Dhabi drawn into this business because we have a national advantage in
+12:20
+energy production to have five gigawatt on the grid and no permitting issues to
+12:26
+be able to build it's a blessing and this is why we're working with open AI Microsoft many others to provide
+12:32
+capacity to them as speak as we speak right now there are over 7,000 construction workers in the desert with
+12:38
+over 100 cranes building about 250 megawatt per quarter
+12:45
+to deliver on this 5 gawatt project plan we have. So we're obviously very bullish
+12:51
+and we believe UEE will consume a big chunk of that but we also will be able
+12:57
+to export those tokens as packages intelligence to the rest of the world.
+13:04
+So in a UEE to give you perspective you mentioned that seem to be doing everything
+13:09
+um because we are serving as as a uh fairly large company a fairly small
+13:15
+country we're serving the entire society using AI and one of the tasks we have
+13:21
+KPIs this year is to produce over 1 billion AI agents
+13:27
+to boost our GDP. These agents range from everything from
+13:33
+coding agents to petroleum engineers to cyber security analysts.
+13:40
+So we did our calculation if we actually can deliver one billion agents AI agents
+13:47
+by the end of this year and they are actually working even just 12 hours because they can work non-stop just 12
+13:53
+hours a day. they'll be consuming probably close to one gigawatt
+13:58
+of AI infrastructure. This is how bullish we are and uh why we're building
+14:03
+this infrastructure in UAE. Wonderful. So Sarah, you need to buy a lot of this
+14:08
+capacity um and have done so through just a number of different partnerships. I think it's the one-year anniversary of
+14:14
+Stargate. It is today which um how's that project going? So incredibly this time last year we
+14:21
+announced Stargate to the world and then very quickly actually had um our president um alongside Masan Sam um and
+14:30
+Chuck Robbins actually from Cisco and Larry Ellison from Oracle um stand up in
+14:35
+in the Roosevelt room and talk about the importance of that build. And what's wild today, um, our Oracle campus, for
+14:43
+example, we said at the time we do, um, upwards of 500 billion dollars and we're
+14:49
+already well over halfway in terms of getting that built out. We are actually training models in that Oracle campus
+14:56
+today on the latest chip. So, it's gone kind of, I think, better than we all dreamed a year ago. It's almost a pinch
+15:04
+me moment. I think more broadly like to kind of pull the threads together a year
+15:10
+ago or a year and a half ago, opening eye felt like a little bit on one-dimensional. We worked with one CSP
+15:17
+technicore under microscope Microsoft um one chip provider Nvidia. We had one
+15:23
+product chat GPT and one business model a subscription for $20 today. So I think
+15:30
+of it as like a corner of a Rubik cube almost. Today we have a base of infra that is almost every CSP you can
+15:38
+mention. We are diversifying our chip portfolio including our own inference chip that just taped out. On the product
+15:45
+side we've gone from a consumer product that was really a chatbot to now be a task worker that can do things like
+15:51
+healthcare for you. on the enterprise side, something that can go from a simple chat GPT wall-to-wall deployment
+15:58
+to APIs to now agentic behavior throughout the enterprise. We believe we're there and then an API platform and
+16:06
+of course Sora because now we have multimodal. Um so the product platform
+16:11
+is multi-dimensional and then finally the business model is becoming multi-dimensional from simple subscription through SASbased pricing
+16:18
+through enterprise licenses through credit based pricing through commerce into advertising and then ultimately I
+16:25
+think we can do some real value sharing for example in drug discovery what if we took a a license down the line to the
+16:32
+drug that is discovered and use that as a way to pay for it. So, if I think of that Rubik's cube analogy, now you spin
+16:39
+it and you say, "Okay, I want I'm going to take a low latency chip like Cerebrris that we announced a few weeks
+16:44
+ago. I'm going to create a high-end really fast coding skew, literally best
+16:50
+in the world, and I'm going to have a high-end um subscription price for it. It's like I've turned all the the
+16:56
+yellows. I've created a a block." And that brings you back to this conversation about build. We are just
+17:02
+getting started, right? used baseball since I'm a you know kind of American but a Brit under the surface I'll go to
+17:09
+electricity I'm not going to do a sports analogy but I think we've wired the house and turned on the lights but we
+17:15
+have not explained to people that now they could heat the home they could cook in that home using electricity they can
+17:21
+have entertainment and so the capability overhead is massive even if models
+17:26
+improved zero from today there is still so much productivity to be had just with
+17:33
+what's in people's hands. Are I think OpenAI's also said you're building your own data centers. Is that
+17:39
+part of the mix in terms of your infrastructure footprint? And today I'd say we're on a journey. We really are
+17:45
+utilizing our CSP partners because it's a way to stay lighter weight on the balance sheet and frankly to be able to
+17:52
+work with folks like for example when we work with G42 and UAE they have the local expertise. They know how to do the
+17:58
+land power shell. Um, when we get inside the data center, as Mike knows, we will tend to bring to bear a lot of a very
+18:06
+strong point of view on what the the kit and the rack and so on looks like
+18:12
+sitting in that data center. We have a whole scaling team whose job is to make
+18:17
+sure that frontier models can get trained on that large fabric and therefore what does that fabric need to
+18:23
+look like? What is the chipset? What's the cooling? What is the power? How is it just connected? And so that's a place
+18:30
+where we've created a lot of I would say our own IP. So we're on a journey. Um we
+18:36
+are we made an announcement with SoftBank Energy to do our first colo kind of build the suit. So think of that
+18:42
+more as the next step. We're not all the way to build our own today because frankly we have great partners to work
+18:47
+with. But you know where will we be in three years? I I think you said it well when just three years ago Chad GBD was
+18:54
+just a new thing. So we're still young in our journey. But your new chip is being tipped out already. That's
+19:01
+impressive progress. That's the heart of data center. Yeah. Um that new chip has, you know,
+19:06
+it'll be an inference specific chip and it's all about how do we keep driving down cost on the inference side, right?
+19:12
+I find it amazing that from chatbt4 where it cost about $33 per token per
+19:18
+million tokens today chatbt5 um mini cost 9. like $33 to9 is a 99%
+19:28
+reduction in costs in about two a little over two years. That kind of blows my
+19:33
+mind. Back to the point about just getting started because now you're creating a cost backdrop that actually
+19:40
+allows you to give access to everyone. The the other thing that it does is and it
+19:46
+doesn't do it yet because you're still in a market that's pinned, right? Like OpenAI can consume the capacity of the
+19:52
+world. there's five other models that can consume the capacity of the world. Um, which gets to part of what you were
+19:59
+saying, but the the drop in cost being as precipitous as it is,
+20:05
+how many more ideas are going to get an opportunity to right um come into existence. And that's what
+20:10
+I mean by like we don't collectively everyone on the stage, everyone in this room, I would argue we don't know what
+20:19
+our clients or who our clients are [clears throat] going to be yet because there is a um
+20:28
+[snorts] uh it is a natural um uh you know like supply and demand don't work yet,
+20:34
+right? because the market is literally pinned to the red line and so it's always up against the top. But as
+20:44
+we begin to say and markets are good at this and so you know like they will ultimately bring supply and demand into
+20:50
+some sort of balance which will allow for um the creation of tons of new
+20:56
+things that we just don't know about yet. And that's really exciting also. Matter of fact, it's probably the most exciting part of it for me because I
+21:02
+just think it's, you know, um just as people conceived of what exists right
+21:08
+now that blows us away, they'll have an opportunity to do it again. The demand is still very much in the early discovery stage.
+21:14
+Yeah. A and I think that one of the things that often gets overlooked going back to the the reinforcing nature of
+21:20
+creating this intelligence, the number of lines of code in the world is going to increase exponentially. We
+21:27
+were talking about this yesterday and just from a a Black Rockck perspective, our ability to leverage our engineers to
+21:36
+just be exponentially more productive. The net result of that is we need more
+21:41
+compute for like the old stuff. Yeah. So I think that we are going to have a
+21:47
+phase where just the old cloud requirements are going to grow even
+21:52
+faster than people expect. in addition to this and then you add on it. It's
+21:58
+very clear almost all the software in the world in the next 20 years you can
+22:03
+figure out if it's in the next two or the next 18 almost all the software in the world is going to be interchangeable
+22:11
+with the AI capabilities that we're describing. So everything will be inference in terms
+22:18
+of how it actually operates. So, I think the nature of the technology and the innovation it enables winds up being
+22:25
+self-reinforcing in a way that's only going to accelerate. I had the opportunity to interview Andy
+22:30
+Jasse yesterday and he was m that's the AWS argument about the growth in cloud.
+22:35
+He called it the middle of the barbell right now. Um staying on chips for a second, he also talked about trrenium
+22:42
+which um he also believes will be necessary to get the costs down as well as the individual efforts. I wonder in
+22:50
+the infrastructure stack, how much change do you think we'll see in on the chip side of it? Obviously, Nvidia is
+22:57
+the leader, but um Michael, maybe to you. I know you're you're I think you're all invidia maybe at Corewave right now,
+23:05
+or are you do you see a world in which you're you're working with other chip providers?
+23:11
+So um the way that we've built our business is we are led by
+23:18
+clients and the best solution in market um
+23:24
+is and has been the Nvidia uh technology set and we can't keep up with our
+23:33
+demand for Nvidia. It's hard to allocate resources to um for a company that's
+23:40
+growing as fast as we are and and you know we are you know with the exception of everyone else on this stage
+23:46
+[laughter] um uh unique right in terms of our our our growth prospects and that that is a
+23:52
+um uh [snorts] that is said with the the the you know like it's an incredible set
+24:00
+of companies that are doing incredible things and going through a growth profile that that is you at any other point in my career would
+24:06
+have looked at and would have like caused my head to break. Um so look you
+24:12
+know our our belief and um the way that
+24:17
+we have constructed the company is uh [snorts] and our and our northstar is take the best um uh computing
+24:25
+infrastructure. build the best um um software solution
+24:30
+to be able to orchestrate and deliver it which will lead to the best product to
+24:36
+enable the most companies to be as productive as they can in bringing their products to market. um
+24:44
+you know from from where I sit there's going to be lots of different uh alternatives um there's a lot of
+24:49
+different ways to define best whether it's cost whether it's uh capacity whether it's what you can do with it
+24:55
+flexibility there's you know like the concept of best is not that simple in this space as we look forward in time
+25:02
+and think about uh the different ways that compute is going to be consumed so
+25:08
+from my seat um and from the business that we are building and the scaling that we are going through. Um, uh, we
+25:16
+think that the world will have lots of alternatives, but the best
+25:22
+infrastructure out there is going to be built by Nvidia. It's going to be built on a platform that is like ours, if not
+25:31
+ours, and is going to have a software layer that's able to deliver it to the market in its most performant configuration. And um until the market
+25:39
+explains to me otherwise and markets have a good way of doing that um that that's our plan. That's our strategy and
+25:45
+we're going to keep our head down and keep hammering. So another key component to all of this
+25:50
+is capital of course and I think last year brought a variety of new flavors of
+25:55
+financing deals from um offbalance sheet deals to all sorts of new partnerships.
+26:01
+I mean maybe Rob from the investor side are are you seeing um I don't want to
+26:07
+call them novel because they're not novel in the history of finance but what are you seeing in terms of vehicles for
+26:13
+financing data centers that's catching your eye? Well, I think this is a a generational capital opportunity where
+26:21
+if you think about the numbers we're talking about and if you think about, you know, we have this this term within
+26:27
+Black Rockck, the fast river, and you want to put your your boat in the fast river to have it help you along the way.
+26:34
+And this is one of the fastest rivers I think any of us will experience in our
+26:40
+careers. I think we're seeing uh creativity as there always is in the
+26:46
+financial engineering side but at the same time I think we're seeing more and more people looking to create the
+26:53
+ecosystem in terms of not only having it as capital partners but having it as true
+26:59
+strategic partners and if you go back for example to uh black rockck and some of the things
+27:06
+we've done we've actually looked to create investment vehicles that bring
+27:12
+together as GPS people like MGX so leveraging the
+27:17
+incredible innovation of Abu Dhabi people like Microsoft people like Nvidia
+27:23
+and bringing that ecosystem together so that way you're able to prioritize focus
+27:29
+in terms of actually bringing these projects to completion. Sarah, what are you seeing and how do
+27:34
+you think about this? Yeah, so I mean I think I think it starts with compute. So compute is the
+27:40
+defining characteristic of what we need to supply the demand. It is the binding constraint today and I think it is a
+27:47
+core competitive advantage because there's not enough of it and so if you don't have it you get slowed down and we
+27:53
+have faced that a lot in the past year. People always ask like well what you know if you had more compute what would
+27:59
+have happened? I'm like it's quite simple. If we had more compute we'd have more products. We'd have more revenue. We would literally have had frontier
+28:05
+models pulled in by six months, 12 months, 18 months because we got to know what we want to do. And it's not just
+28:12
+revenue. I mean, I'm a CFO. I care about our business model. I'm going to come back to in a second, but like we are
+28:18
+talking about breakthroughs in areas like healthcare. And if I'm a cancer patient who with that breakthrough
+28:24
+actually gets my life saved, right? In some ways, speed is even more of the essence right now. So, I think we're
+28:30
+holding stuff back that just would help the world writ large. That said, from a a CFO sitting in my
+28:37
+seat who now has to work through how to pay for that. I mean, there's nothing beats a good business model. First and
+28:43
+foremost, cash flow is king. And so, what we have seen is as we have invested in compute, our revenue has kind of
+28:50
+risen to meet the challenge, right? I use often in these rooms talk more about ARR because it's the true load of the
+28:56
+business. It's the compute I need. It's the business I need to sustain it. So AR has gone from 2 billion to six billion
+29:02
+to over 20 billion just in the last so in that moment where Chat GBT burst on the scene. There's never been a company
+29:08
+like it, right? To Mike's point, I was a research analyst at Goldman Sachs for over a decade of my career. If someone
+29:14
+had showed me that model, I would have said that that's crazy. Like you're you're wrong. Um and we see just this
+29:21
+continued momentum as we hit 2026. By the way, it's not stopping. Our consumer
+29:27
+business is hitting daily highs, which is super fun to see. And our enterprise
+29:32
+business is kind of shooting through the roof, right? Jessica is not wrong. Davos is just an incred incredible moment to
+29:39
+go talk to CEOs and and folks who are making these business decisions, right? I was saying to her as I hit the floor,
+29:45
+I was just with the CEO of a large, like if I said at like a world famous bank who, you know, was feeling a little bit
+29:51
+behind. had just spent time yesterday with Carlos Torres, who's the chairman of BBVA. BBVA wants to be an AI native
+29:59
+bank. They've gone from 10,000 seats deployed to over 120,000 seats deployed. They're rethinking their call centers.
+30:05
+They're rethinking um their credit um how they do credit decisioning. They're in 25 countries, so they have to do
+30:11
+multilingual. I mean, totally new way of thinking about enterprise growth. To
+30:16
+finance it, we are trying to be creative. Both we've done equity based financing. We did the largest equity round ever, $41 billion last year. We
+30:25
+have done unique partnerships. Our AMD warrant structure I'm really proud of
+30:30
+because it's a great alignment of incentives. If we buy those AMD chips, uh, we could get all the way up to
+30:36
+owning almost 11% of the company. And we think that if we do buy all of those chips, we really help create a lot of
+30:43
+market cap for Lisa and team. And they deserve it. They're incredible company. as well. We have um talked about our um
+30:49
+partnership that's brewing with Nvidia to fund us as we buy gigawatts of their chips as well. And so what we see is the
+30:56
+ecosystem kind of rising to work with us and that includes private equity shops as well have been very very interested
+31:03
+in how can we deploy into their portfolio companies and with that create a business model around it. So we are
+31:08
+just getting started. Um, but I do think it's important that the ecosystem rise together. Otherwise, we're just going to
+31:15
+go slower. I'm back to where I started. That means that that patient, that child in school or whatever is not going to
+31:21
+get access to intelligence. some there's a habit in my industry and I I I'm not
+31:28
+saying I believe this but I interested in your reaction to it to calling these circular financing deals in the sense
+31:34
+that the the sense is that all these deals basically amount to some amount of risk in the system. Sarah, how do you
+31:41
+think about that? I mean there's an implication behind it though that the demand is not real
+31:46
+somehow and I I think I mean we can all just start at the beginning of the panel again. I don't think that we can deny
+31:54
+that the demand isn't here. And I think in particular people are still have like
+32:00
+a lot of the folks who are working on Wall Street or working in in your world, Jessica, lived the the bubble bursting
+32:07
+before in the internet generation. And that's because when I think about what the internet was like at the time, the point of emails, there were only like
+32:13
+three people on the thing, right? You still had to send letters in the mail. I would say to all of you right now if I
+32:20
+went around the room, is Chat GPT not making a difference in your life? Like do you not immediately see value in it?
+32:27
+And again, like for our frontier users, they're using effectively if you look at tokens as a measure of um intelligence
+32:35
+usage. They're at 7x what just the average user today is using because they're coding, they're doing deep
+32:41
+research, they're in a university lab. Countries, we've looked at it on a country level. the frontier countries
+32:48
+are using 3x the amount of tokens already. And so that's where I think the
+32:53
+the idea of kind of circularity and so on. It's it's that implicit like, oh, the demand's not there. They're all just
+33:00
+like trying to shore it up that I completely refute. And so instead, I just view it as the
+33:05
+ecosystem, you know, the folks in this on this DS right now, right? We all feel
+33:11
+like we're short the thing. And so if we can push because Abu Dhabi and Pang who
+33:17
+are the most AGI pilled of them all [laughter] are have the power and Mike
+33:22
+over here has knows exactly how to build a data center and to really think about the tech behind it
+33:28
+and Black Rockck is doing incredible things to create financing vehicles and
+33:33
+actually has gotten very deep in data center technology itself. Right? Those are all good things because everyone is
+33:40
+bringing their expertise to the table. I'll add one more thing to if you don't mind maybe zooming out even further and
+33:46
+Rob and I had a discussion about this uh during lunch which is I'm a bit worried about many of
+33:53
+our conversations here in the west becoming self-referential. I want to point out another country
+34:00
+called China. They may not have the best models in the world, the best compute in
+34:05
+the world, but they're doing what you termed as ruthless adoption. Yeah.
+34:11
+They are driving use cases in every aspect of the society. In fact, there are model for many of us to emulate.
+34:17
+They are charging ahead to use AI. And guess what? Being a user influencer
+34:24
+traffic, getting the intelligence out can circle back to create better models. Test time compute. Yeah,
+34:30
+exactly. So, uh, study the Chinese usage adoption
+34:35
+of AI technology is a lesson for all governments. Sarah, I want to ask one
+34:40
+more follow up on the business model question you talked about because um some of your competitors here at Davos
+34:47
+have raised questions about why you guys are going to advertising so soon. I don't know if you saw those tweets
+34:52
+earlier today, but you've talked about your plans to and outlined your principles, but um I don't know if you
+34:59
+have a reaction to them saying, "Oh, it's a little bit early. They must need the money." How do you think about the ad opportunity? Um, so I mean first and
+35:06
+foremost like the why goes back to my Rubik's cube. Remember at the top layer I'm trying to create as much optionality
+35:13
+as possible. What I know today is that 95% of our users for chat GPT are free
+35:20
+users because our mission is AGI for the benefit of humanity not for the benefit
+35:26
+of humanity who can pay. And so in order to create access I have to create a really strong business model. I early is
+35:33
+a weird word because in ad models you have to be at scale.
+35:38
+Subscale ad models don't work. So that would be early. But when you have 800
+35:44
+million weekly active users, you're already far beyond the scale of many companies who started in that model. But
+35:51
+I think we have to be principled. Number one, we are not going to change the output of a model based on advertising.
+35:59
+We have to make sure users remain fully trusting us that you always get the best
+36:05
+answer, not the benefit of humanity and an advertiser who sponsored them. Right?
+36:10
+Second, we are going to be very careful about not sharing your conversations to
+36:15
+advertisers nor selling your data. And number three, we want always want to make sure there's adfree on-ramps if
+36:22
+that is your preference. But for many folks and I particularly find it at Davos because you are talking about a
+36:28
+globe where what I love about technology it is the ultimate democratizer because
+36:34
+uh I'm from Northern Ireland. I already said this once. If you take a farmer in Northern Ireland, they can literally
+36:40
+have the same phone with the same chat GPT level of intelligence as Bill Gates
+36:45
+or Elon Musk or pick the richest man in the world at the moment. Hopefully woman in the world soon too. [laughter]
+36:51
+Um literally the same. They can't drive the same car probably. They can't have the same size of house. They don't go on the same fancy vacations, but they can
+36:58
+literally have the same technology at their fingertips, but it is our mission
+37:03
+to make sure that that can be the case. And so, we want to be able to pull all levers along the way. Um, we know our
+37:11
+users are using Chat GPT not just for things like health, but also for commerce. It's very natural to come down
+37:17
+that funnel because you've had a very deep conversation. And you might have started by saying, "Hey, I'm expecting a
+37:24
+new baby. I really need a new baby stroller. What are the best out there in the market? But here's my price point
+37:29
+with memory." Chat actually really understands a lot of this already. Might give you some interesting other ways to
+37:35
+think about that purchase. And then what we hear our users saying is, "Help me just consummate it." And that's where a
+37:41
+very interesting conversation with an advertiser can begin, but I think appropriately so because you're adding
+37:47
+value to the end user. And I think that again, we have to remember our north stars. That's actually why we started by
+37:53
+publishing our principles first before we even started testing. I'm going to go to questions in a
+37:59
+moment. But Ping, you you brought up China and um it reminded me of a conversation I had 15 minutes before I
+38:05
+walked into this room. I was talking to an entrepreneur who's um I don't want to
+38:10
+give too much away, but building an AI company that's not based in the US. M um
+38:16
+and I said, "Where do you train your models?" And this person says, "It doesn't matter because I can do it so
+38:22
+much more efficiently than everyone else." And I didn't have time to grill this person on what they were using or
+38:28
+how they got it per se. But it did make me wonder um in I guess both
+38:35
+specifically has China figured out something around training from a sort of
+38:41
+research side to fundamentally change this equation. And I know this came up in Deep Seek. There was a little
+38:47
+speculation. And then more broadly, if all of a sudden breakthroughs in AI
+38:53
+itself lead to training models much much more efficiently, is the infrastructure
+38:59
+opportunity limitless or or do we kind of hack that somehow on the the model
+39:04
+side? Maybe Michael, maybe Ping. Yeah. Yeah. I'll comment on the first. I'm not an expert in this this area, but I can
+39:10
+tell you from my personal point of view, China is very good at engineering.
+39:16
+I think they're superb in squeezing every bit of engineering advantage, all of the infrastructure they do have. Uh
+39:24
+but I believe they are certainly behind on fundamental research and model
+39:30
+breakthrough. That's my view right now. This is why earlier I mentioned where China leads today in my opinion is
+39:36
+adoption. It's in fact ruthless adoption as as Bob said uh Rob said earlier.
+39:42
+This is where they potentially can gain an edge. If we're still debating can we
+39:48
+use it? Should we use it? How do we use it? Well, the other nation or nations
+39:54
+are moving ahead to adopt it will be falling behind even with the best model in the world. And in terms of
+40:01
+uh shortcut to uh AI infrastructure consumption, I think
+40:08
+when you look at China's usage today, it's really actually consuming more inferencing capacity.
+40:14
+It actually needs more capacity to meet the demand of billions of people. Uh
+40:19
+training I think they are limited. But on inferencing I believe globally there
+40:25
+will be a lot more demand. Um I want to reframe the question.
+40:30
+Sure. Uh I think that it is important that we all take as a
+40:39
+basic truth that there will be order of magnitude step functions and improvement
+40:45
+and efficiency within this technology within the next 5 years. Pick your flavor. like the the Deep Seek Step
+40:52
+Function shocked everybody except anybody who even remotely touches AI.
+40:58
+This technology, the way that we're using it, what we're doing, right? When Deep Seek came out, and you know, there
+41:06
+there's two things that matter about when Deep Seek came out. It was, you know, what two years after Chat GPT3.
+41:17
+Yep. Okay. So like the world kind of picked its head up and said, "Oh, AI, I get it
+41:22
+at Chad GB." And two years later, like the technology is going through this incredible ramp of maturation. You have
+41:29
+to work from the assumption that we will make step functions on the physical infrastructure. [clears throat] We will
+41:35
+make step functions on the logical uh infrastructure. There are going to be unbelievable breakthroughs. And the
+41:43
+whole world trembled when that happened. certainly the financial world, right? The other thing that mattered is
+41:49
+every single one of my clients picked up the phone and started screaming at me, "Get me more GPUs now. I need more tokens. I need more tokens. Get me more
+41:55
+GPUs now." Right? And so that that's a
+42:01
+indication from where the rubber hits the road, right? Where people are building
+42:08
+products, where people are serving inference, where people are monetizing AI. that is telling you that
+42:14
+that was an acceleration of the business not a fundamental change of the
+42:20
+business. Um the improvements that were uh exhibited
+42:27
+in the technology from deepseek were impressive. Full stop.
+42:34
+But we also took tokens from $30 down to 9. Yeah.
+42:39
+Okay. So there's a counterveiling component of this which is okay hit me
+42:44
+with another deepsek let's take the nine cents down to 0.001 cent and tell me
+42:50
+what gets built. The world is going to absorb the tokens. The world is going to consume.
+42:57
+It's not the infrastructure that's endless. It's the it's the voracious appetite for intelligence that is
+43:04
+limitless. That's the part that we have to focus on. and every single step function in
+43:11
+the foreseeable future, certainly within the horizons we're working on, are going to do nothing more than accelerate the
+43:17
+business, right? And that's the way I look at it. That's the way I' I've positioned myself
+43:22
+to build my company as I look forward in time. And I think, you know, whether or not people are are are working through
+43:29
+it to the same conclusion, if you're in this business, you have somehow someway gotten to that
+43:36
+point where you're saying, "Yeah, intelligence is a net positive. It will continue to be a net positive until
+43:42
+human extinction." Okay. I mean, can could I just though just really fast on the training because I
+43:48
+think we're I think oversimplifying as well. remember what we know today because again three four years ago but
+43:54
+there's pre-training which still needs large compute fabrics lots of data and incredible algorithms coming from the
+44:01
+smartest minds on the planet but then post-raining is where we got to the reasoning paradigm and our researcher
+44:07
+would tell you post- trainining so kind of what we call our O series of models is still probably more akin to chat GPT3
+44:14
+the GBT model which is the large is already we're at five um but O which is then when we do the
+44:21
+post training um is still we have a lot that we can still do there and then
+44:26
+there's um exactly what Pang said test time compute so at the moment where you're making a call there actually can
+44:32
+be real training done at the on the infrance side like maybe even down at a device level and it's combatorial it's
+44:40
+not like you know 1 plus 1 plus is three it's multip it's it's combatorial um and
+44:47
+so again I think there's um a reduction ism that the world likes to use. Markets
+44:52
+love to use it, right? A single thing. It's also complicated to understand. But yes, totally. [laughter] But it's but it's
+44:58
+much more rich and diverse than I think the market often gives it credit for. And that's why I think you get these
+45:04
+wild swing moments like deepsek or before it was actually the laws of scaling are dead. Yes.
+45:10
+Then there was the deepseek moment. And so market loves these moments. But I
+45:15
+always say if you look back at a stock chart or a market chart, it's like it looks like the biggest divid of all time
+45:20
+and in reality what we've just seen is this ongoing kind of motion for for more
+45:25
+catalytic. I think if you zoom out what you have to believe is that nothing is
+45:32
+more positive for economic growth than productivity step functions. Mhm.
+45:37
+And if you believe, which I strongly do, we strongly do that AI presents a
+45:44
+generational opportunity for a productivity step function, whatever accelerates that is positive overall,
+45:52
+even if in the short term there's a little bit of disruption. So, I'm going to take the last question and oh, sorry, I'm guess one more and we
+46:00
+do it fast because we have to end on time because some people have some places to go. Um, so what worries you
+46:05
+all? This is a very rosy p. I mean, it's a very exciting picture. I think it, but but what could go wrong or what could
+46:12
+throw a bigger speed bump in the way? Uh, so
+46:17
+you took such a deep breath in that we're going to let you [laughter] go. Um, look, um,
+46:26
+this is like the Kool-Aid stand up here, right? Like we we are I'm trying to put a little something.
+46:31
+This is This is We have all drunk the Kool-Aid. We're all on board a pill. Yeah. Okay, we'll go with that one. um
+46:40
+what we're doing exists in a broader backdrop
+46:46
+and there are uh geopolitical there are
+46:51
+you know like there are a lot of things that occur outside of our
+46:59
+uh important but narrow um or at least narrow and expanding. Let's let's put it
+47:05
+that way. um uh line of business. So what worries me there's there's you know
+47:10
+uh geopolitical um
+47:15
+um interactions that can uh distort the
+47:21
+market. They can you know in terms of protectionism. They can distort the market in terms of cost of capital. It
+47:26
+can distort the market in terms of accessibility. It can it can do all kinds of wild generations. And if I were
+47:33
+to put on the top of my list what I think about from a how I manage risk at
+47:39
+our company, um, which I spend an enormous amount of time on. Uh, that's
+47:44
+that's got to be first and foremost. Okay. I I jumped on that because I a very quick question because I want to
+47:49
+make sure to get to one and we're going to end right on time. Okay. So, um, AI is scaling much faster
+47:55
+than planetary systems can regenerate. So my question is what will heat first
+48:00
+[snorts] regulation or water energy and carbon and who should be responsible for that?
+48:10
+So I I'll I'll start but the the builders of the underlying should also definitely chime in. So I was going to
+48:17
+to answer both your questions. I was going to say speed and the ability to bring people along um so that they
+48:23
+trust, right? If if we all like we live it, we breathe it every single day. But if you are just a kind of normal person
+48:30
+living your life out there in the world, this can all feel like kind of tech gobbledegook is one of my favorite
+48:36
+words. And it there's a lot of trust that still has to be earned. And I do worry that we talk in tech talk, not in
+48:44
+like real people speak. Like what does this actually mean for me? If I'm a mom of a diabetic kid, I work hard all day.
+48:50
+I come home, I've got 30 minutes to cook dinner and it needs to be healthy for my child. How are you going to help me? And
+48:57
+the answer has to be actually I've got this thing on your phone called Chhatt GBT. You could take a photograph of your fridge right now. It'll give you a
+49:02
+recipe you can cook in 30 minutes or less. That is exactly what you can your kid can have. Like you're like
+49:08
+hallelujah, thank you. And so then to come to your question, um I think we also have to build trust in communities.
+49:14
+Communities who are going to have a data center springing up. Is that a good thing or a bad thing? it's going to bring me jobs or is it going to ruin my
+49:20
+community? Is it going to use my water or are they going to be thoughtful about it? Is it going to raise my electricity
+49:25
+prices or are they going to help protect my community because I still have to put bread on the table for my child. And so
+49:32
+I think we all have a real onus up here to be bringing along communities and
+49:38
+talking in their language, not at them, but with them, taking their feedback, and really thinking about how we put
+49:44
+that into how we build our businesses because we can get a little bit in our ivory tower.
+49:50
+I'm going to end it there for time. Thank you all for the fascinating conversation. [applause]
+49:57
+Good to see you. Sure.
+50:04
+[music]
+50:10
+[music]
+50:15
+Heat. Heat.
+50:38
+Heat.
+

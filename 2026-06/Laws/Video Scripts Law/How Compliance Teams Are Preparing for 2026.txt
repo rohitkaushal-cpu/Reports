@@ -1,0 +1,1103 @@
+
+Search in video
+0:01
+[music]
+0:06
+All right. Um, good morning everybody. Um, my name is Robert Whitaker with Merkel Science. We are having another
+0:12
+Merkel meet. So, good morning if you're in the US, good afternoon if you're in UK or wherever you're in the world. Uh,
+0:18
+good day to you. So, um, this morning it's going to be the year in stable coin
+0:23
+oversight, how compliance teams are preparing for 2026. Um this year in 2025
+0:29
+has been kind of a whirlwind. Things have been happening very quickly. Um and stable coins are certainly out front
+0:35
+leading um kind of this new technological advancement and payment systems. And it's going to be a great
+0:41
+panel. We have um four very very experienced uh persons in in compliance,
+0:47
+not only that, but stable coins as well. And I'm going to let them introduce themselves because I could do some real
+0:53
+damage to their reputations if I try myself. So, uh, I'm going to start with Lauren first and then Laura and then
+0:58
+Justin and then Carolyn. So, Lauren, if you want to start off on, uh, the introduction.
+1:05
+Sure. Um, hi everybody. My name is Lauren Benjamin. I am the chief compliance officer for Kraken's US
+1:11
+operating entity. We are a digital asset service provider or a centralized exchange here in the US, one of the
+1:17
+largest. And, um, I've been in crypto for six and a half or so years. And then
+1:24
+prior to that I was a former banker was what we usually say in the crypto environment reformed banker and um I was
+1:30
+in the AML world and in the form of finance institutions for about the prior
+1:36
+I don't know seven eight years before that. Excellent. Excellent. Thank you Laura.
+1:42
+Hi Laura Dalvidia. I am a PBC a London office but I work globally across our
+1:49
+business. I lead our digital assets regulatory side in the UK. I work a lot
+1:55
+um in risk and compliance and also hold the relationships with um especially the
+2:01
+UK regulators and authorities. Nice. Very nice. Justin.
+2:07
+Hi everyone. My name is Justin Lavine. I'm a senior associate at Davis Pulk. I'm based in New York. Uh I work in the
+2:14
+financial regulatory group with a focus on crypto regulatory issues. Um, in
+2:20
+particular, you know, I've been very focused on stable coin regulation for some time, both with the New York's uh,
+2:26
+bit license regime and now focusing quite a bit on the Genius Act, um,
+2:32
+advising both crypto natives and a lot of stable coin issu existing stable coin issuers as well as various banks and
+2:39
+fintexs that are um, pursuing stable coin opportunities and various uh,
+2:45
+clients that are looking to uh, license get licensed. under the Genius Act as as
+2:50
+the act comes into effect. Um I'm also an advisory board member uh of
+2:57
+Stablecoin Standard which is a global uh trade group for stable coin issuers and
+3:03
+other crypto companies advocating for uh clear and harmonized rules across
+3:09
+jurisdictions. So I think this is a great topic and very timely topic and excited to speak with you all about it.
+3:15
+Excellent. Excellent. Thank you Carolyn. Nice to see you again this morning. Good to see you, too. I will keep it
+3:21
+short and sweet so we can get to the meat of the discussion. Uh, my name is Caroline Hill. I'm at Circle, which um I
+3:27
+hope you all know, but is the issuer of USDC and EURC, the largest regulated US stable coins or US dollar stable coins.
+3:35
+Uh, I've been at Circle for about four years, where I've been focused on all things AMLCFT and Genius related uh way
+3:41
+before Genius was even uh a term. Uh it was called many different things um
+3:48
+before we had the genius act uh signed into law. Before circle, I spent the majority of my career at Treasury
+3:53
+working on sanctions and AMLCFT work. Uh uh and uh that intersected as you can
+4:01
+imagine when I started at Treasury in 2014 intersected with the advent of digital assets and and uh in 2014 we
+4:08
+thought only people were doing using digital assets to buy illegal illegal things and by the time I left Treasury
+4:15
+uh we had a very different opinion on the utility of digital assets which led me to circle. So, I'll turn it back to
+4:21
+you, Robert, and uh looking forward to the discussion today. All right. Thank you very much. So, as
+4:26
+you can see that we have a star-studded panel here this morning. Uh this morning, we're going to talk about um
+4:32
+not only Genius Act, but we're going to talk a little about Micah and the EU, and we're going to talk about the UK. Um Laura's here from the UK, and I'm sure
+4:39
+she has some great insights for us. Um and we're going to talk about how things
+4:44
+are shaping up. the Genius Act, Micah, EU standards, UK, um, and Glover over O
+4:50
+oversight. And the panel before everyone got here this morning, or at least two of them, uh, were talking about
+4:55
+reciprocity. Um, and I think this that's going to be a great addition to the whole thing is reciprocity on how things
+5:01
+are shaping up around the world globally. So, I'm going to kick off the first question here and uh, let's um,
+5:08
+I'm just going to throw it out. So, whoever wants to take it, we can take it. So, let's uh, let's get started. So
+5:13
+the first question we have for the panel is how are the US, EU, UK and APAC
+5:19
+stable coin regimes converging or diverging and what early supervisory pattern should issuers treat as signals
+5:26
+for 2025 and 2026 licensing and then we'll get into a follow-up but that's
+5:31
+the question here. So how are these uh regimes around the world I guess converging and diverging? What's uh
+5:37
+what's the early supervision patterns and how are we going to see this developing in 25 and 26?
+5:45
+Well, why don't we start with Laura then? She's from the UK. She can give us a international perspective. Yeah. So, let's start. Um, well, the
+5:53
+good news is that they're moving along. So, um, all all the biggest hubs um the
+5:58
+the usual ones we often talk about, they are making progress at slightly different speed. Obviously, EU's got the
+6:05
+the rules already. um the likes of Hong Kong, Dubai, and the US um close behind
+6:12
+and then you've got the UK maybe slightly more behind, but we're getting
+6:17
+there. Um but um the the and and the
+6:22
+rules when you look at them on a high level, they look very similar. you've you've got your redemption, you've got
+6:28
+your credential, you've you've got your basic um compliance and uh and sort of
+6:34
+controls requirements. But then when you dig a bit deeper,
+6:39
+there are some differences um some of the examples for instance the UK is uh proposing or the bank of
+6:46
+England in the UK is proposing holding limits for systemic stable coins.
+6:52
+Um and and sometimes the redemption rules can be different. Sometimes it
+6:57
+might be 24 hours, sometimes it might be 5 days. Um so so those are sort of
+7:04
+operational um pain points or things that firms will
+7:09
+need to consider um at all sides throughout the ecosystem, how to make those work. Um
+7:17
+I think and and from a to your next question you talked about um the supervisory um patterns
+7:26
+what we like to say at PWC at least within reason we like to go with the sort of bank level standard of all the
+7:33
+requirements and then make sure that the the sort of 10% digital assets is there as well but that's probably sort of the
+7:41
+most sensible in most cases if you're a global firm the way you want to So um to
+7:46
+just make sure that you you can manage the different rules in the easiest possible way because otherwise you might
+7:52
+end up with implementing um different rules for different jurisdictions but
+7:58
+then actually um and keeping track of all those might actually be harder than
+8:03
+just having the goal standard across the board in the first place. Interesting. Um, I'm gonna I'm gonna
+8:10
+toss it over to Lauren and then Carolyn because those Lauren and and Carolyn both are working, you know, for one for
+8:16
+an exchange and one for a stable coin issuer and I think the perspective along with uh Laura's perspective could be
+8:23
+very interesting here. So, Lauren, what do you think u about that first question? Um, I think Laura hit it right on the
+8:31
+nose. I mean I I think the the challenge that as a global exchange as a centralized global exchange that we face
+8:37
+is that we do operate globally and that you do have various regulatory regimes and slight differentiations between how
+8:43
+those regimes approach it. And so even though you have you know we have a global exchange but we have different operating entities that are registered
+8:50
+or licensed in all of the jurisdictions that we serve. And so we do have this sort of peacemeal approach to regulatory
+8:58
+alignment. you know what you do in the UK is slightly different and the reporting requirements are different than what you do have to do across the
+9:04
+EU and it can even vary you know depending upon the the EU member states
+9:10
+that you're operating in what the requirements are and then there's the US which al obviously has a different sort
+9:15
+of approach and a different stage in its adoption of of rules and so I think
+9:21
+Laura's comment with regards to having a global standard or having you know one
+9:27
+sort of strictest common denominator that you want to adhere to across the board globally for your organization is
+9:34
+the sort of unicorn that you you want to reach. Because the challenge is when you have various sets of data, you have
+9:41
+different reporting requirements, you have different net capital worth requirements, you have different
+9:46
+redemption requirements across the board. You not only have to make sure that each of your operating entities are
+9:53
+aligning to that but then you also usually have some sort of global operations force that has to implement
+9:58
+those same rules so that you can ensure that your global functionings are adhering to the different jurisdictional
+10:06
+rules and requirements that you have on the ground locally. So that's that's an absolute challenge. Um I I do also tend
+10:12
+to agree and I think in the US especially I know this is a follow-up so I can talk about that later but I think
+10:17
+the the sea change that we're seeing in the US is this sort of alignment to bank
+10:24
+grade or bank-like standards for across the board and that's a definite shift for the way that digital assets
+10:31
+especially are approached in the US and from a a registration standpoint from a
+10:36
+a functional standpoint the frameworks that you set up whether it be AML CFT sanctions or consumer protection
+10:43
+requirements or you know your bank grade um you know I think you called it
+10:48
+credential that's a very UK way of approaching it but you know like the financial requirements that you have to have in the background on the US side
+10:55
+all of that is definitely a shift as we move more towards having the formal financial financial institution level
+11:01
+approach to to how you're adhering to regulatory framework. So I I think those are probably the two biggest hits that
+11:08
+you'll see in the US. Very interesting. Very interesting. Carolyn, what what's uh what's your
+11:14
+perspective? You know, we've been really excited to see over the last 5 years regulation
+11:21
+come online. I mean, EU was first with Mika and I think uh in my opinion was
+11:26
+because they already had an e-money framework and so they could already apply this this payments framework.
+11:32
+Well, here in the United States that doesn't have a a a payments regulator and a payments framework took a little
+11:37
+bit more time. Mostly though or additionally what we've also been excited uh in the rhetoric
+11:44
+around these regulations coming online is governments understanding that stable
+11:50
+coins are inherently a global crossber instrument um and they are very
+11:56
+cognizant of the fact that they want to have um sound regulatory regimes at home
+12:01
+but also not lose that global fungeability and that's really challenging that's very different than traditional finance where you have
+12:08
+assets in a country managed by that supervisor versus a global stable coin
+12:14
+that can you know move atomically uh and settle instantly. Um, and so I think as
+12:21
+we have seen Mika and and now the Genius Act and and several APAC countries that
+12:28
+Laura mentioned and Dubai coming online, that's kind of the the next horizon of how do we make sure there's there's a
+12:35
+lot of overlap between these regimes. More overlap than not overlap, but how do we make sure we protect that global
+12:41
+fungeability? And then of course as as countries are thinking about how to protect their own monetary policy and
+12:46
+their own uh currencies at home. Robert, you raised reciprocity and and that's
+12:52
+something that uh is really important in Genius. Uh Treasury has the ability in
+12:58
+in Genius to recognize a foreign jurisdiction as having a reciprocal
+13:03
+regime. Uh and then allowing a a payment stable coin issuer to be headquartered
+13:09
+and regulated and supervised in that country and still uh have access to US
+13:14
+exchanges and consumers and the like. This is important not only because it
+13:19
+protects US consumers uh it it you know allows access to that but it also
+13:25
+uplevels other countries regulation around stable coins uh and so there
+13:30
+there's a clear standard and I think a lot of countries will be quickly hurrying to meet the genius level of
+13:37
+foreign reciprocity uh so that you know stable coin issuers can be headquartered there uh in their own countries and and
+13:45
+still have access to the US market which of course issuers want as well. Yeah, absolutely. Um, global uh
+13:51
+fungeability that's uh that's an interesting term. I I don't think I've ever heard it put just like that. Obviously, we all understand what
+13:57
+fungibility around the world means, but global fungibility that's that's going to be a new definition somewhere in a
+14:02
+book somewhere. Um, I can't take credit for it, but I will on this call. Okay, great. Great. Uh Justin, I have uh
+14:10
+the second part of that question which I really want you to follow up with because um I think from a US federal
+14:15
+state multi- agency oversight um really the Genius Act uh what does it mean
+14:21
+right what's what's coming online in the United States and I think you're probably a great person to handle that call. So the question quite simply is
+14:28
+how should issuers navigate overlapping US, federal, state and multi- agency oversight as they prepare for genius and
+14:36
+the coming national regime. So that's uh that's more of a US uh center question. So Justin, I'll leave that one to you.
+14:43
+Sure. So the short answer is that Genius is going to remove a lot of that
+14:48
+fragmentation when it becomes effective. Um, so there we're in an interesting
+14:54
+period right now of Genius Act being enacted, but not yet effective. Um, but
+15:00
+I'll start with how it reduces the fragmentation. Um, so first off, it just creates a
+15:05
+unified concept of what is a payment stable coin and who can issue it in the
+15:11
+US. And there's three categories. subsidiaries of insured depository institutions,
+15:17
+uh, federally regulated institutions that would be regulated by the OC, and
+15:22
+then for issuers that issue under 10 billion uh, in outstanding stable co
+15:28
+payment stable coins, uh, they could they could be regulated primarily at the state level as a state qualified issuer.
+15:34
+if that state has a stablecoin regime that's deemed uh substantially similar
+15:41
+to the federal regime under Genius. Um an important part of of Genius is it
+15:48
+also preempts state license state licensing laws. So state money transmitter laws um and also other
+15:54
+virtual currency specific laws. Um, so today, you know, stablecoin issuers in
+16:00
+the US, like one of the key regulatory licenses that they often obtain is these
+16:05
+state-by-state money transmitter licenses. Um, after Genius is effective,
+16:11
+those should be preempted. And I think the preeemption is a bit stronger for issuers that choose the federal route
+16:17
+over the state route, but there is clear provisions as well for state qualified
+16:22
+issuers to get a degree of pre preeemption as well. Um the other
+16:28
+important fragmentation uh that I think genius addresses is as I
+16:33
+said what is a stable coin? It resolves any lingering debate to the extent that
+16:39
+there still is of stable coins or a payment instrument. They're not securities. They're not commodities.
+16:46
+Issuers of a stable coin are not potentially an investment company. uh
+16:52
+there is a dedicated regime that is as as Lauren said you know it's a banklike
+16:58
+frame it framework but it is specifically tailored for this novel payment instrument
+17:05
+as I said at the very beginning this the reduction of fragmentation is you know as the genius act comes online the
+17:12
+effective date for the bill is the earlier of 18 months after enactment so
+17:17
+that's January 2027 for 120 days after
+17:22
+any final rules are issued. Uh there are countless I think there's somewhere
+17:28
+around like 20 different rules that will have to be issued under the Genius Act. Uh and I that's one major theme I
+17:36
+actually have. Sorry to take a quick tangent. Uh but one major theme I have is a lot of the Genius Act in the US and
+17:43
+I think across the world a lot of the details still have to be written. So on
+17:48
+your earlier question of convergence, I think like the core framework of what is like a fiat box stable coin and what
+17:55
+should the reserves be? What should redemption rights and and reporting and attications all that is like converging
+18:03
+at at the highest level at least the details I think is it's a bit too soon to fully say where things might diverge
+18:10
+because a lot of it is going to be drilled down in the implementing rules. So I think anyone in this space should
+18:16
+really be closely following those comment processes and seeing how those rules shape out. Um but as I said the
+18:23
+rules is one one tie to the effective date. So I what I'm seeing right now with a lot of clients [snorts]
+18:29
+um if they are not already a stable coin issuer is you know how do they deal with
+18:35
+this interim period? um if you issue a stable coin today, you know, before the
+18:41
+Genius Act comes online, like would you have to go out go about and get, you know, close to 50 different money
+18:47
+transmitter licenses just for it all to be preempted in in, you know, potentially under a year? um you know
+18:53
+there's there's other forms of preeemption for national banks under under the national bank act and there's
+18:59
+there's various considerations in play there but I think that timing gap is something people are thinking about and
+19:06
+you know a broad recognition that a lot of this fragmentation is going to be removed by the Genius Act.
+19:13
+Yeah, thank thank you very much for that Justin. Um there's going to be some challenging times with the rules coming
+19:18
+up and and how those play out. I I think uh the first things that came to mind, well, I I had two thoughts while you
+19:23
+were talking. One was um difference and how deference is going to apply um to
+19:28
+all these rules when they come into place because we just had that Supreme Court ruling on on the Chevron deference not too long ago. in um I I wonder how
+19:36
+18 the you know the US uh 1860 law is going to impact Genius or the vice versa
+19:42
+how Genius is going to impact 1860 and and how companies or just in general
+19:49
+people in general are going to um deal with that. So just my thoughts around that uh not worth much but uh uh made me
+19:56
+think a little bit. Um those are good points and if sorry to interrupt if I could just add one thing based on what you said of of the rules
+20:02
+and potential divergences. One thing that's important under Genius is there
+20:07
+are various uh federal payment regulators, payment stable coin regulators, which are basically the
+20:13
+existing banking agencies. They're required to issue rules in coordination
+20:18
+but not jointly uh which is potentially relevant. So the
+20:24
+hope is that each of the different agencies, the Fed, the OC, the FDIC, the NCUA are going to issue, you know,
+20:30
+fairly standard rules together jointly, but they don't actually have to. They just have to be in coordination. So
+20:36
+that's actually one area where there's a risk of potential fragmentation based on the different regulated entity types.
+20:44
+Yeah, very interesting. It'd be it'd be great if they all got together and made, you know, and and actually uh coordinated on a rule instead of each
+20:51
+having a rule or something like that. So, um I think I'm going to knock send
+20:56
+this next question over to Lauren. Um and then we'll go around the wheel again. Uh so, how are firms adapting
+21:04
+their risk and reporting frameworks and what tools or workflows are providing most effective in meeting new
+21:10
+supervisory expectations across the multiple jurisdictions? Now, we just covered I think a lot of those points,
+21:15
+but if we could go just a little bit deeper on um you know, what are the new supervisory expectations across the
+21:22
+jurisdictions as they're unfolding and how are are you know people or or
+21:29
+companies like Kraken and Circle and legal firms and PWC all considering
+21:35
+um the new supervisory oversight? Um I'm going to kind of hearken back to
+21:41
+something that Caroline said. she first got on because it it as something that I I had a very similar reaction. So I
+21:48
+first my first introduction to crypto was back in I want to say like 2015 or 2016 as well and I was working with
+21:54
+banks and it was FBI agents or uh DHS agents coming into the bank to inform
+22:02
+and the the FIUS of how crypto is essentially utilized by criminal
+22:07
+organizations for the purchasing and selling of illicit activity. you know, drugs, human trafficking, smuggling,
+22:13
+terrorism financing. That's all we ever knew about crypto. And so, it wasn't until I got into crypto that you start
+22:19
+to see these practical applications, this concept of financial freedom, global adoption, etc., that sort of
+22:25
+drive the ethos of the community. And um I think with the coming of Genius and
+22:31
+then hopefully clarity act, you know, it's still the conversation on on the
+22:37
+hill and then throughout the sort of public I perspective, especially from the banking side and those that are much
+22:43
+more familiar with the formal financial world is that it's still very much the wild west in many ways with how they
+22:49
+perceive crypto to be. And so I think the risk frameworks that we are
+22:54
+implementing are and the supervisory requirements that are embedded in these laws are still very much around consumer
+23:01
+protection, ensuring the safety and of custodial assets and the responsible
+23:06
+actions carried out by issuers and and centralized exchanges. And so, you know,
+23:12
+I think the approach that we should have is not just educational, but how to
+23:17
+adopt a risk framework to ensure that we are appropriately meeting those consumer
+23:23
+protection requirements, that we're appropriately meeting the AML CFT requirements. And so I I think um you
+23:30
+know like with anything the the approach to a risk framework is the adoption of
+23:35
+appropriate policies and procedures, controls, putting in place data mapping
+23:40
+and acquisition and and structuring internally to be able to to build sound
+23:46
+segregation processes, sound reconciliation, sound um
+23:52
+rebalancing processes, being able to meet your liquidation and your reserve requirements. I think that the focus of
+23:57
+the the regulators and the supervisory structures are going to be very closely
+24:03
+inspecting how we approach that aspect of stable coin issuing and then you know
+24:08
+being able to to be the dispersing agent so to speak as a a centralized exchange.
+24:13
+So, um I think what they're looking for is for us to prove that, you know, um
+24:20
+FTXs don't exist that, you know, not don't exist, but like that we are not those types of actors, that we are
+24:25
+responsible actors in the playing field. And I I think the other um the other comment that Caroline had was that
+24:32
+having this global reciprocity or um a a global adoption of this global framework
+24:39
+or of global payment system will bring up those exchanges that exist outside of
+24:44
+those regulatory supervisory regimes to a higher level so that we don't have to worry so much about competing with those
+24:51
+extra you know not extr territorial but like those extra regimes that don't exist
+24:57
+within supervisory framework regimes and environments. So, you know, I think um
+25:04
+with regards to how we're approaching the rich framework, it's very largely
+25:09
+about ensuring that you have the appropriate policies and procedures put in place, that you have testing and
+25:15
+control mechanisms to accurately check and review on a very regular cadence,
+25:22
+that you're meeting your regulatory requirements, that your reporting capabilities and your transparency are
+25:29
+active and open and consistent that you have sound governance from a
+25:35
+leadership perspective that you know your your leaders are appropriately aware of the processes that you're
+25:42
+putting in place that they're reporting up to the board that they're responsible actors and they are the responsible liable parties from a a supervisory
+25:50
+standpoint in order to ensure that your agency or your organization is meeting your supervisory requirements. Um I
+25:57
+think that is really going to be the key to to things like you know Genius Act
+26:03
+and the other other environments in which these laws are being enacted.
+26:09
+Yeah, thank you Lauren. That um that's a good perspective. Uh and I think what I heard a lot there was you know the the
+26:17
+supervisory requirements are kind of the same as as you would see around a bank already. Um, it's just raising your or
+26:25
+your company's level up to the bank standard. I think you're probably already there. I mean, I don't know. I
+26:30
+don't work for Kraken or anything, but I think you're probably already there. Um, it's just a matter of applying a different uh risk approach to it. Um, in
+26:39
+some ways, um, I I think I think I want Carolyn to to jump in next and and
+26:44
+that's because I want to get the international perspective and UK's perspective from Laura last. So, um,
+26:51
+Carolyn, you want to take a shot at it and then we'll go to Laura and we'll come back to Justin after that. Yeah, absolutely. I'm going to focus on
+26:57
+the AMLCFT question, um, specifically because we also got a question in the chat about how AMLCFT requirements are
+27:05
+converging and diverging. So, I'll actually go a little bit in that direction if that's okay, Robert. But um
+27:11
+yeah I I think that has been AMLCFT continues to be an an area of focus um
+27:18
+you know all the way up to the FATF on a you know international super government level uh certainly a focus on genius. I
+27:26
+think luckily the ANLCFT conversation around digital assets has has been a
+27:32
+focus for 10 plus years. um you know the fat of having early standards on this finen giving very early guidance on on
+27:39
+how uh that you know vas but here in the United States MSBs uh exchanges should
+27:46
+be regulated as MSBs as well as issuers. I think there are questions around the
+27:53
+margins of this but the core requirements remain the same. uh you know, KYC programs, transaction
+28:00
+monitoring programs, uh CDV, etc., etc., etc. The the challenges around the
+28:07
+margins I think involve things like uh the issuers's ability to freeze and seize assets. Uh some of the questions
+28:15
+uh around that cooperation with law enforcement, particularly in a secondary market. Um and then there are of course
+28:22
+the the traditional uh aspects that continue to differ right
+28:29
+travel rule thresholds but that's been a challenge for many years. Um
+28:34
+I I think you know to put simply there are
+28:40
+uh there's there's a lot of focus and industry cooperation on how to mitigate
+28:47
+some of the the North Korea threats in in AML in in digital assets uh visav AMLCFT tools. But the the core
+28:54
+requirements to me aren't aren't changing drastically. Interesting. So the core requirements
+29:00
+are really just kind of staying the same. you're just change a little bit of policy and and it's a lot more
+29:06
+complicated than that I suppose but I mean at the end of the day that's uh kind of what it comes down to. Um Laura
+29:12
+it's the same question except from a a more global perspective
+29:18
+um what the supervisor expert expectations um are now um
+29:24
+you know and what's what's most effective. Well, I I think we're going to see um
+29:30
+sort of more scrutiny for crypton natives as we have previously, but as the frameworks develop and and that's
+29:37
+rightly or wrongly and part of the reason is that quite honestly many of the regulators are lacking the skill set
+29:44
+and expertise and knowledge in this field. So what is the best way to learn is to stay close to the firms. So it is
+29:51
+for that reason as well um rather than being suspicious.
+29:56
+But but for instance in the UK if you are crypton native you have to register
+30:02
+under the FCA um or with the FCA under the AML KYC rules and from next year
+30:09
+onwards the new framework is expected to come in that will then raise the bar towards the the banking level of
+30:16
+authorization and we've got about 53 firms I think currently registered under the FCA and
+30:23
+and they believe that it's going to go down quite a bit with the new FSMA based rules because firms just are not there
+30:32
+basically. Um there might be several reasons but one of them is that the expectations will be quite a bit higher
+30:38
+and um yeah some firms just for whatever reason don't think that they can meet
+30:44
+those or don't want to meet those focus on other jurisdictions instead instead
+30:50
+perhaps but um so yeah there's a lot of work that firms need to do globally but
+30:56
+one of the great things I think is I I in my previous life I worked with uh threadfi especially banks um and um
+31:05
+building operating models. And what I think crypton natives have in their advantage is that they don't have the
+31:12
+decades old IT systems that they now have to adapt for these new rules. But
+31:19
+they're a lot more agile to build something new um real time um automated
+31:27
+AID um all these screening tools and scenario playbooks and event reporting
+31:33
+and and and various bits and pieces that you you need for um bre and controls
+31:39
+perspective and operationally. So that's that's a good thing at least um that
+31:45
+you've got more of a blank sheet to play with and then build that best practice.
+31:52
+You know that's a very interesting point. years ago um 18 19 um I would
+31:59
+often get questions about how good can compliance actually be in the crypto space and my explanation was the crypto
+32:06
+space is building compliance tools from the ground up with the latest technology incorporated and now with AI it's even
+32:13
+it's even better I think um at least making links is much better whereas the
+32:18
+banks out there are working with 40year-old technology and they're trying to put these these nice pretty layers
+32:24
+over top so it looks nice, but it's still the same technology on the back end because how are you going to replace
+32:30
+someone like just like Bank of America with all their data? How are you going to take that offline and and replace a
+32:36
+system? You know, I can only imagine the IT people going out over there going, "We're going to roll out an update
+32:42
+tonight, guys." You can just about hear the panic going on when they say things like that because of all the data and
+32:48
+the massive infrastructure they built on their their IT stack. So, um, great point. Great point. Um, and I think
+32:56
+regul I think compliance in the crypto space is far better than than the banks have. Um, and I think it it's going to
+33:03
+continue like that. But we'll see, right? It's it's it's a wait and see thing. Um, Justin, I saved this question
+33:09
+for you just so you can go last because I think this is right down right down uh your expertise alley. So, um, it's it's
+33:17
+in the same risk framework question. Uh, it's just part two. uh where should issuer responsibility end? So where
+33:24
+where should I as an exchange or somebody in where's my responsibility end and where does the ecosystem
+33:30
+responsibility uh begin? So you know that's almost like an innovation sandbox question you know
+33:36
+where where where is where am I you know responsible and where does just you know we can't control these risk over here
+33:42
+because you know it's part of the ecosystem it's what it is. Yeah. So I would say issuers are are
+33:51
+expected to control the risks that they create or you know they are in the power
+33:56
+of addressing. So in terms of issuing a stable coin, it's it's the the obvious
+34:02
+things like the reserves, the redemption practices, the governance, the AML practices for who's holding who you're
+34:09
+issuing your coins to. In terms of the broader ecosystem, I think a main
+34:14
+category to think about is the custodians and the wallet providers that
+34:20
+are holding, you know, that could be holding stable coins on behalf of customers. Um so from a US perspective
+34:27
+and I think other jurisdictions are taking a similar approach of imposing
+34:33
+customer protection requirements um particularly around asset se segregation and a proh prohibition on
+34:42
+coingling customer property with the custodian's property. Um the Genius Act
+34:47
+has strong protections there. There are limited exceptions that I think are
+34:53
+really smart and make sense. So generally you a custodian cannot co-ingle customer stable coins with
+35:00
+their own proprietary assets but the custodian could hold a small amount of their proprietary assets to pay gas fees
+35:07
+on behalf of customers. So so things like that otherwise though clear segregation and anti-commingling
+35:13
+restrictions. Um and then also ingenious act is is a directive for custodians to
+35:21
+take appropriate steps uh to protect customer property from creditor claims
+35:26
+in the event that a custodian went bankrupt. Um Genius Act also has you
+35:32
+know detailed provisions for a potential issuer insolveny but at the end of the day most people are hold you know people
+35:39
+are holding their stable coins either in their own self-custodial wallets or through third party custodians. So it's
+35:44
+important to address those things as well. So in terms of the ecosystem, that's the first thing that comes to
+35:50
+mind like the custodians um broader ecosystem. Another kind of
+35:55
+thing that comes to mind is just the third party risk analytics and you know compliance firms. Um I think that's
+36:04
+going to be a really important area. Um in terms of the AML expectations, I
+36:10
+think you know Genius Act and other other laws and other jurisdictions are really clear. You know these laws apply
+36:17
+to you. You have to have these policies and procedures. But I think the actual details at least in the US of like what
+36:23
+exactly you have to do to police or not not necessarily police but monitor
+36:28
+secondary market transactions. So, you know, when the stable coin is just out in the wild being transacted
+36:33
+potentially, you know, among anonymous actors, like how can you do that risk analytics? And I think there's a lot of
+36:39
+blockchain analytics companies that are out there that do these things. Um, and I think it's that's going to be one key
+36:45
+area like to see what Treasury and the other regulators uh say in their rulem like what the
+36:51
+expectations are in the secondary market there.
+36:57
+So I I you know they they say every rule has a name associated with it and I
+37:03
+think in this case genius probably has a couple of the the recent examples of FTX Celsius and a few others that kind of
+37:10
+you know brought all that about which I guess is is the US taking a lesson out of some of the recent failures um um
+37:17
+certainly with co-mingling customer funds and custodial issues. So yeah, thank you very much for that. So, we're
+37:24
+going to move on to the next question. Um, Lauren, I'm gonna start with you and we'll go to Carolyn again, then we'll do Laura and we'll we'll get down to uh
+37:30
+Justin in the end. So, um and and I think I think this is probably one of
+37:38
+the the biggest things questions for the very early adoption of Genius and then
+37:43
+how how we move down the run down the line and it's uh what are regulators today most focused on in early
+37:50
+applications. So, you know, we got the Genius Act. It's it's signing the law. We're still waiting for the Clarity Act,
+37:56
+but um you know, regulators are right out of the shoot. They're just looking at this. What uh what are the regulators
+38:02
+most focused on in these early applications and early early stable coin adoption?
+38:09
+I I think it's, you know, the things we've already really sort of touched on already. It's it is the the policies and
+38:15
+procedures around segregation of assets of custodial holdings of the ability to
+38:20
+to maintain your reserve requirements and be able to permit you know active
+38:26
+and and instant redemption when and where possible. um you know responsible acting on on the financial side on the
+38:34
+AMLCFT side you know I think we you guys are all spot on you know as as a global
+38:40
+exchange you know and it's a US-based exchange the you know we are money transmitter licensed we have to now
+38:46
+register on the federal level irrespective of preeemption and reciprocity and all that the expectation
+38:53
+is that you will have a sound AML CFT and sanctions program in place and meet
+38:59
+those sort of global best practices with regards to your KYC, your CIP, your transaction monitoring, your um you know
+39:07
+your appropriate suspicious activity or suspicious transaction reporting depending upon the jurisdictions you're
+39:13
+located in. So I think the expectation should be that as you apply for
+39:18
+registration in these various areas that you have sound mechanisms, governments, policies, procedures and controls in
+39:25
+place to meet your fiduciary requirements of of reserve holding of
+39:31
+you know reciproc or not reciprocity of of redemption and of appropriate segregation of not
+39:37
+just customer and operational funds but also operational and customer funds between operating entities. you know,
+39:44
+they want to see what your intercomp receivables look like. They want to see what your permissible investment report
+39:49
+look like. All of those sorts of like requirements and reporting are going to be keyed in by the regulators, I think,
+39:54
+immediately. Um and you know I I think and this is something that um I sort of
+40:00
+hark on anytime this sort of question comes up but for new applicants or newer
+40:07
+fintexs or even those of us that have been around for you know multiple years the the key to developing any framework
+40:14
+and the the anticipation of an application process should be forthinking. You want to build your
+40:21
+structure, your policies, your procedures, your program with the thought of, okay, what am I going to
+40:27
+need once I have an examination? How am I going to pass that examination so I don't get findings so I don't get
+40:34
+recommendations that will then cost me more money to have to remediate and implement new processes and procedures?
+40:41
+And I think, you know, Robert, you touched on this earlier with regards to crypto compliance versus trady
+40:47
+compliance. I totally agree. Yeah, I think in in many ways crypto AML or like the AML and
+40:54
+compliance world on the crypto side of things is stronger than you would find in traditional finance. Um, and it's not
+41:00
+just because of the fact that we all come from fintech and so we have this newer technology, but the blockchain
+41:06
+itself enables for a stronger monitoring process for an asset across
+41:13
+multiple jurisdictions, multiple wallets. you can trace the path a lot better because of the the ledger and the
+41:19
+way that the technology is built. So I I think with all of that in mind, if you
+41:26
+build the system thinking, okay, what is what is my gold standard? What do I want
+41:31
+my system and my program to look like at the end, you save yourself a whole lot
+41:36
+of trouble later on and money if you just do it right from the outset. So I I
+41:42
+think that is is how you should be approaching the application process is like and approach it like an
+41:48
+examination. How do you prepareation so that you're ready at the outset?
+41:53
+Yeah. Very very good. That makes me think and I watch I'm going to give this I'm going to kind of change it up just a
+41:58
+little bit for Carolyn. Um but I'm listen to Lauren. I'm thinking to myself, are regulators coming in the
+42:05
+door to crypto places now and certainly with stable coin issuers and saying, "I know technology is much better here.
+42:12
+Show me something that I wouldn't normally ask from from Tradefine." Is that is that an issue, Carolyn? Is that
+42:18
+something you see going on? Yeah, absolutely. I think
+42:23
+I think the digital assets industry have done an incredible job and and I I I don't want to be patting myself on the
+42:28
+back but you know the industry at large about educating on the benefits of blockchain transparency and and frankly
+42:35
+the blockchain analytics companies have been at the forefront of this and I think regulators are pretty familiar
+42:42
+with the similarities and differences in trapi right we have very similar KYC programs we have similar um you you know
+42:49
+CIP CD DD programs and yet transaction monitoring sure looks similar when you look at your
+42:56
+customer and one hop away but it looks very dissimilar when you think about blockchain transparency and so I think
+43:03
+that um we've been talking about best practices for years and now the question
+43:08
+to treasury uh to finen and the broader office of TFI is what what should be the
+43:15
+obligations and and how do you uh memorialize right blockchain transparency and tracing is a best
+43:21
+practice and you know any regulated entity in the United States worth their salt is doing that. Um but how do you
+43:29
+translate that into regulation? You know you'll never get a regulator to say okay you have to trace five hops past your
+43:36
+exchange or past your VASP or past your CASP because then what do the criminals do? They go six hops, right? You know so
+43:42
+but but yet they want you to take a risk-based approach and they want you to adopt these best practices. I think
+43:50
+what Genius did really well uh is provide a a 30,000 foot framework. Uh
+43:57
+Congress did did not prescribe every
+44:03
+regulation down to the detail and nor should they, right? It's really hard to change laws. Congress uh doesn't pass
+44:11
+many of them. And so they provided this framework but and a and a really aggressive framework really aggressive
+44:17
+timeline for regulators to adopt and make rules around this framework which is now what regulators are doing but
+44:23
+they have a lot of questions and they have a lot of um details to work through. Treasury for instance asked 56
+44:32
+58 56 questions uh earlier this year going through basically every line of
+44:38
+genius and saying what does industry think about this? what does industry think about this? Uh the benefit, the
+44:44
+good thing is that they're asking industry, not just issuers, but digital
+44:49
+assets industry, blockchain analytics, stratify, um anyone who has a role or wants to have a role in this is
+44:56
+responding to these questions. Um so there's a lot of work to be done. uh uh you know we even had
+45:03
+representative style today who's the sub or yesterday who's a subcommittee chairman of of the house financial
+45:08
+services committee on digital assets uh encourage regulators to meet the timelines um that they've been given to
+45:16
+implement rulem uh because it's a really tough timeline so we'll we'll see how 2026 shapes up but there is an
+45:23
+incredible amount of of work going on right now thank you for the perspective and I
+45:28
+didn't I knew there a, you know, question and answer session for the rulemaking, but I didn't realize there was 56 questions that were posed. Um,
+45:35
+maybe I should look into that, right? Yeah. And that's just from Treasury, right? Uh, so you have the Fed writing rules, the Justin said, right? You have
+45:43
+the banking regulators writing rules as well. Um, and they're also, you know, there will be notice and comment for
+45:49
+their proposed rules. But, uh, I think something like 370
+45:54
+380 people responded to Treasury's 56 questions. So they have to go through all that feedback and then draft their
+46:02
+positions. Oh, and by the way, we just had the longest government shutdown ever, right? So there's a lot uh going
+46:08
+into this. But I I'm really happy and and not surprised to see the amount of
+46:14
+um questions and collaboration that the government's giving to the to the industry right now.
+46:21
+Yeah. And I think that comes down to the crypto space is kind of a very it's it's not so much small as it is um
+46:27
+communicative. It talks back and forth and and I think a lot of stuff gets shared in the crypto space where you don't necessarily see that to some
+46:34
+extent in the trade world. Um um Laura like I changed the question up just a
+46:40
+little bit for Carolyn, but I'm going to pose the same question to you from more of an international perspective. um you
+46:46
+know when it comes to technology in the crypto space and the compliance what
+46:51
+what what are you seeing from a more um global perspective on what regulators want technology and how they're framing
+46:59
+early uh adoption and what what what's going on out there. Yeah. Um thank you. I agree um with
+47:07
+everything that has been said so far, but actually to your point about technology, it's not only about that. So
+47:14
+what I spend a lot of time talking about with crypto firms, not just stable coin
+47:19
+but crypto natives overall is actually about governance structures. So at some point firms need to grow up a bit on
+47:25
+that. They yeah everybody wants to be nimble and agile and move fast and break
+47:30
+things. But the reality is that in financial services you you need to have certain committees. You need to have
+47:37
+certain oversight. you need to make sure that you have the right people with the right experience um and skill set in the
+47:44
+right roles and that it's not just a couple of people making decisions behind the closed doors. So this is what the
+47:51
+regulators will want to see more and more um and the and the second one that would incorporate technology is stress
+47:58
+testing um and crisis scenario testing. So it's one thing of having all these policies written down, but the regular
+48:05
+testing is required and that's what regulators anywhere everywhere will want to see.
+48:12
+Interesting uh perspective on the let's move fast, be nimble and break things. Uh in the startup world, that's kind of
+48:18
+what you get when you first meet with a CEO in a startup is, hey, we're going to go really fast. We're going to break some stuff and we'll we'll ask for
+48:23
+forgiveness later, basically. Um but I I I I agree with you. This is not that
+48:28
+world anymore. this world has changed. Um, and I think, and no disrespect to a
+48:34
+lot of friends of mine who like to wear their Chuckies and a pair of jeans and a shirt says Bitcoin on it. Um, I appreciate that. We can't judge books by
+48:40
+their cover, but people want to see more of the professional seauite these days. Um, doing, you know, doing more
+48:48
+regulatory financial uh, compliance in the crypto space. I think it builds a lot of comfort around um, what you're
+48:54
+what you're doing. So, um, thank you for your perspective, Laura. That's uh, very interesting. Um Justin, we have just
+49:00
+about three or four minutes left before we need to get some questions and I thought this last question would be perfect for you. Um [clears throat] from
+49:08
+your perspective. Uh what will define a credible globally trusted stable coin
+49:13
+ecosystem by 2026? That is a [snorts] huge question to unpack, but if you could do it in a couple minutes, that'd
+49:19
+be great. Yeah, what a what a question to to answer and sum it up in a minute. Um
+49:27
+I think you know one one way to tackle that is I think
+49:33
+integration of stable coins into financial infrastructure like the traditional financial infrastructure and
+49:40
+increased usage for real economy use cases for for stable coins. I think
+49:45
+having clear rules of the road were was just critical for that to happen. And
+49:51
+now we are entering the stage for I think all sorts of companies to start
+49:56
+using stable coins at scale for new use cases and taking advantage of what you
+50:03
+know real time settlement on a public blockchain can provide. Um I'm seeing
+50:08
+all sorts of companies beyond just looking to be a stable coin issuer but integrate stable coins into existing
+50:15
+flows or using it say as collateral for existing you know say for derivatives
+50:21
+transactions. The CFTC is doing a lot of work on that. Um but I think that is
+50:27
+kind of the the key thing I'm looking looking forward to seeing is integration of stable coins um not just by you know
+50:35
+the issuers but throughout all sorts of financial infrastructure going forward.
+50:43
+Okay, great. Um interesting perspective. Appreciate it. Um, I I have a couple
+50:48
+questions here from the audience. And uh I I think this one right here is one
+50:55
+that I'd like to get to. And if I could just take maybe 30 seconds from each person to to answer this. Um, what
+51:03
+measures in the Genius Act and Micah do you consider most likely to change in
+51:09
+the future? Um, and the example they gave here was prohibition to pay interest yield. Um, so between the two,
+51:17
+Micah and Genius, what do you think is most likely to change and maybe even come into alignment with each other? Um,
+51:24
+Lauren, 30 seconds. Um, I I think the question about reciprocity
+51:31
+is important, trying to figure out exactly where different regimes are going to need to be registered across
+51:36
+the globe. I I'm not sure that that's a change so much as a as a decision that
+51:42
+needs to be formalized and finalized. I do think the yield question is a really interesting one. It's one that you
+51:47
+definitely find within the crypto community as being pushed for. You know, why how do we implement yield on on
+51:54
+stable coins effectively and keep it out of, you know, securities level
+51:59
+understanding, but also um be able to permit it and and regulate it and and
+52:05
+appropriately store it. So I I think that that's definitely one that's going to be in in the world of a question that
+52:11
+we're going to have to figure out within the next number of years and we'll be for yeah the the yield um products the earn
+52:18
+products along with the loans um I think in stable coins is is a major draw for
+52:23
+for the customer base. So, you know, if we ever found a situation where we were making that much more complicated or
+52:30
+changed the rules or framework around it, I think I think it would really take a lot from stable coins.
+52:36
+Yeah, centralized be an interesting part. I mean, decentralized lending you see a lot in in the crypto space. So, I
+52:43
+think moving that on to the the more regulated side is going to be an interesting question as well. Yes, I agree. Laura, want to take a shot
+52:50
+at that? Sorry. Um I'm there that was a prank in
+52:57
+the line. Okay, sorry. Uh so I'll I'll pose the question again. Uh what measures in the Genius Act um and Micah
+53:04
+um do you consider most likely to change in the future uh maybe coming into alignment? And the and the example was
+53:11
+uh the prohibition to pay interest yields. Oh, um
+53:19
+I would like to just see and hope to see more passporting, more legal uh
+53:25
+regulatory equivalence between these and other um reputable jurisdictions. So
+53:32
+that that's I suppose my sort of catch all high level answer. [laughter] Okay. All right. Perfect.
+53:40
+Caroline, I know you got some thoughts around this. Um, on on the yield issue, I mean, I think Congress have intimated
+53:48
+or more than intimated that that they're not going to revisit Genius at this time. Um, but, you know, devil is always
+53:54
+in the rulemaking details. However, I think the the the
+53:59
+federal banking regulators that are writing these rules have closely worked with Congress when they are drafting
+54:04
+genius. And I don't think you're going to find uh a major right turn in the rule making. I think um paying exchanges
+54:11
+paying rewards is not a stable coin issuer paying yield. It's two very different things. Um so I I don't think
+54:17
+you're going to see major changes there. Um you know we've kind of for years talked about Mika 2.0 which is looking
+54:25
+at DeFi. I think uh the United States is very far from looking at DeFi. you know,
+54:30
+we're still looking at market structure, but that still remains a a regulatory question mark is um what are uh what are
+54:38
+the standards and possible regulatory framework over DeFi?
+54:43
+Yeah. So, DeFi is going to be a much well uh there's a lot of things going on in DeFi. It's not it's not a simple
+54:49
+question at all. It's it's it's a tough one to unpack. So, um I'd love to see the US come around to doing that in a
+54:55
+responsible way. Um getting some regulation out with it. Um Justin, the
+55:02
+the question here, the last part, um you know, what
+55:09
+[sighs] what do you see going on with with the regulation that's coming out with Genius and the rulem? What would be kind of the
+55:17
+worst case scenario for the rule making versus the best case scenario? I know it's a lot for for a few minute answer,
+55:23
+but you know, there's a lot of rules that are being written right now. A lot of agencies are looking at uh the Genius
+55:30
+Act. Um and to really make it work, you're going to have to have the rules. So, what would be the worst case versus
+55:36
+the best case scenario? I think the worst case is some
+55:41
+combination of uncertainty and and divergences of rules across the
+55:47
+different regulators. I think what's key is clarity, clear rules of the road.
+55:53
+more so you know obviously what the rules actually say is critically important but I think like one of like the first thing is just having clear
+56:01
+standards um and then as I said earlier the the rules the reg the various
+56:06
+regulators implementing this have to coordinate but they don't actually issue the rules jointly so I
+56:12
+hope I hope the coordination leads to actually you know still doing it jointly
+56:18
+even if it's not strictly required but worst case would be unclear rules and different standards
+56:23
+for, you know, stable coin issuers that are regulated at the federal level versus as non-banks, stable coin issuers
+56:30
+that are subsidiaries of banks versus state uh versus stable coin issuers
+56:36
+regulated at the state level. I think we want to see harmonization and clear rules.
+56:41
+Very good. Very good. that I think that's what we're all hoping for is some some you know overarching regulation
+56:46
+that clears up a lot of the the lesser jurisdictions um you know and all the
+56:51
+registration that has to go through you know MSB and then MTL and then you know all these different and then each 50
+56:57
+state having their own different regulation on top of that um it can be quite the quite the nightmare I've had
+57:03
+to deal with that so um yeah thank you very much I hope I hope the best case scenario is what we see um ladies and
+57:09
+gentlemen we are out of time. Uh we are right up against our limit now. Um so I
+57:15
+want to thank Lauren, Laura, Justin, and Carolyn for joining me today. Um super
+57:22
+super panel. Some tough questions. I agree. Some of those questions were tough. Um but you guys, as usual, knock
+57:28
+it out of the park. Um I appreciate everything uh you've done for us this morning and thank you for joining us.
+57:34
+I'm Merkel Meets and have a wonderful day, a wonderful evening depending on where you are and uh let's do it again
+57:39
+sometime. Thanks, Robert. Thank you, everybody. Have a have a
+57:45
+great day. Bye-bye.
+

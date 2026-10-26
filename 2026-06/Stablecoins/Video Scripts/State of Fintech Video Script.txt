@@ -1,0 +1,1444 @@
+
+Search in video
+State of Fintech 2026: What Matters Now
+0:00
+Today we are releasing one of our most anticipated episodes of the year, the state of fintech in 2026. Simon Taylor
+0:06
+has just published an awesome 110page deck on the subject. If you love charts
+0:11
+and you want to go deep on the biggest trends impacting fintech this year, then this conversation is for you. We cover
+0:18
+lots of important subjects like how hyperscalers such as New Bank, Revolute, and Robin Hood are starting to compete
+0:24
+with big banks. Yeah. So last year I talked about the fintech hyperscalers back at the day I
+0:30
+think what did cler have 85 million customers when we did this report last year. Now they've reported
+0:36
+both abroad and domestically. We cover where and how agentic commerce is
+0:42
+starting to take off with support from companies like OpenAI, Stripe and Shopify. We also cover the rapid rise of
+0:49
+stable coins and what is driving adoption. Hint, it's not peer-to-peer, although maybe that will start to
+0:55
+change. But the most important thing was the growth in that stable coin volume has
+1:01
+completely decoupled from crypto prices. And we even cover things like the rise of prediction markets from companies
+1:07
+like Kshi and Poly Market, but we do that and a bunch more. And make sure you stick around until the very end if you
+1:13
+want to hear Simon's most important predictions for 2026. I think the
+1:19
+long-term most important one is it's a great conversation. Really
+1:24
+looking forward to it. I'm sure you'll enjoy it as well. So, let's dive right in. Simon, great to have you with us.
+1:31
+Great to be back. Right, cuz it feels like too long since we've done this, buddy. Hope you're doing well, sir. Happy New Year to you and uh happy state
+Hyperscalers: Nubank, Revolut, Robinhood
+1:38
+of fintech. We we'll make this an annual tradition for sure. Absolutely. And happy new year to you, too. Well, I guess let's go ahead and
+1:44
+dive right into what are the big trends this year. Um, and I think the first one
+1:49
+and the one that I'm probably most excited to dive into is the fact that fintech's largest companies keep getting
+1:57
+larger. So maybe add some context here and then I'll chime in with some of my thoughts. Yeah. So last year I talked about the
+2:03
+fintech hyperscalers people with uh you know sort of uh back at the day I think
+2:08
+uh what did cler have 85 million customers when we did this report last year. And now they reporting 114
+2:14
+million. New bank had 110. Now they're reporting 127. Revolute from 50 million
+2:19
+to 64 million. And this is in European markets. Like Europe, not a place known
+2:25
+for its dynamism or a cheat code like Brazil or many many others. And you look at the assets under custody of Robin
+2:31
+Hood. Robin Hood seen as the stock trading app has more than almost doubled
+2:37
+its assets under custody. I mean that's wild. Absolutely wild. than you know Stripe adding 40% of total process
+2:44
+volume in a 12-month time period. That's meaningful, but how they're doing it is
+2:50
+meaningful. It's product expansion and it's geographical expansion and you're seeing the valuations follow that Rex.
+2:57
+Yeah. And I think the thing that's interesting to me, I'm obviously based here in the US, is that there are
+3:02
+markets that are way ahead of the US in terms of consumer fintech adoption. If you live in Brazil, new bank has been a
+3:09
+thing for a long time and is now the dominant thing. But if you live in the US, we don't have anyone who has, you
+3:15
+know, 50 million or 64 million customers. But to your point, someone like Robin Hood is really starting to
+3:21
+scale. They've got over 13 million, I think, monthly activives, and they've scaled their gold, their subscription
+3:26
+program from like, you know, about a million to, I think the last number I saw is about 4 million. Those are
+3:33
+meaningful numbers where an average bank like JP Morgan has 70 million consumer households. It used to be you couldn't
+3:39
+even see these companies on the y-axis compared to the incumbents in the US.
+3:44
+Now you can see them in the y- axis. And if you zoom out and you look globally, you look at markets like Brazil and
+3:49
+you're like, "Wow, you know, these new uh startups are dominant." So I think
+3:54
+that's what's super interesting to me. It just bears repeating is like the hyperscalers are actually starting to take over. Yes, globally, but also
+4:00
+within US markets. But there's still a lot of work to do. It's an inflection point. So that I and this is one you can just
+4:06
+kind of keep and you probably follow this trend for the next 5 10 years of them just continuing to go.
+4:11
+Yeah, I'm going to do this slide every year. I think it's my opener now. Uh next one talking about public
+4:18
+markets. So um this kind of relates to what we were talking about before. You want to unpack some of the data here?
+Public Markets: New Winners Emerging
+4:24
+Yeah, sure. So look uh public fintech companies uh in general so this is like
+4:30
+your legacy fintech companies your legacy payment companies underperformed major market indices like FICO Ferve FIS
+4:38
+but if you look at Robin Hood and New Bank and Shopify they had a great year so there's this bifocation of the market
+4:46
+which is kind of what we were speaking to before especially in the provider space so you come away from consumer and
+4:51
+you start looking at the provider side like a Shopify and and many others. This is really interesting. The generation of
+4:57
+fintech that was never going to disrupt the banks, that was never going to be a threat to traditional finance has caught up and is growing faster.
+5:04
+Yeah. And this, you know, kind of rhymes a little bit with with what is going on more broadly in the S&P 500 where the
+5:10
+MAG 7, you know, the AI focused companies have accounted for something like 50% of the increase in market cap
+5:16
+over certain time frames. And if you zoom into fintex specific indexes, yeah,
+5:21
+some of these incumbents are down, but some of the new folks are are up quite a bit. Now, it's also worth calling out
+5:26
+Robin Hood is trading a little bit like a meme stock. So, there's, you know, sometimes a little bit of inflation
+5:31
+relative, but the core metrics are still ticking up and to the right even if it's trading at a a premium
+5:39
+100%. And I think that's the key point. Uh, and then next, this is probably one
+5:44
+of the most kind of thought about. I know when we record our episodes, one of the things people are most interested in
+5:49
+is what is happening with e-commerce. Well, the biggest day of e-commerce happened uh over Thanksgiving, Black
+AI Shopping: 1-in-6 Black Friday Buys
+5:54
+Friday. Why don't you walk us through some of the things that happened there? Yeah, one in six Black Friday purchases
+6:00
+was AI assisted. What does that mean? So, chat GPT, uh, I think you might have
+6:06
+done it before. You're thinking about buying that new widget or that new gift. You don't know which one's the best one.
+6:11
+You used to go through all of the review sites. Now chat GPT does that before you. But did you know that that's one in
+6:17
+six purchases on Black Friday? That's enormous. And that was uh Salesforce
+6:22
+data. But I also saw Write Sonic and ATest um kind of come with something similar. Um there are some debates about
+6:30
+uh does chat GPT convert higher than ads? Some places say no, some places say
+6:35
+yes. Um, some of the examples here from a test were saying anywhere between 2 and 6x higher conversion from chat GPT
+6:42
+clicks um, versus traditional search. I think that's the one I'm less confident on, but that's the really interesting
+6:49
+one to track because does the LLM become a shopping channel that you pay a lot of attention to? I think you kind of have
+6:55
+to and you can we'll talk later a little bit about you know some of the investment stripe and others are making
+7:01
+and open AI into turning the LLM and the chatbot into a shopping destination but
+7:07
+as of now it is certainly the thing you do before you go shopping on a more complex purchase.
+7:14
+Yeah, I certainly use AI all the time to do research, but I feel like I'm still doing a lot of the underlying analysis,
+7:21
+even if that an the data I'm looking at is surfaced in, you know, an AI chat window. And the execution
+7:29
+folks like OpenAI are partnered with Stripe and Shopify and Etsy to start actually doing the execution all in context as well. But we're still early,
+7:36
+but it's definitely changing a lot of consumer behaviors. How are you using this? like when you're are you making purchases? Are you using this a lot
+7:42
+yourself or are you still doing it the old fashioned way? We we got a new TV for the holidays and
+7:48
+uh I definitely use chat GPT and it gave me a link and I clicked that and I you know cuz I not only do I ask it what's
+7:54
+the best TV but I ask it where's the best place to buy it? Where is it on discount? Where's got the best warranty? And it gave me those answers as well.
+8:01
+And so I found the the uh store that I wanted to use and the warranty that I
+8:07
+wanted and all of that and uh just went and clicked through from that. So I would have been in that higher
+8:12
+converting side. I then went and completed an e-commerce purchase. It wasn't baked into the the chat
+8:17
+experience that's not available in the UK yet and I wasn't using a VPN because then I wouldn't have been able to use the retailer I needed. But um that's
+8:24
+that's kind of one key example. But in in pretty much everything, I mean, I don't know about you, but voice noting
+8:30
+uh your LLM is massively overpowered. Um it is like just have like a 2-minut blah
+8:37
+at chat GPT or Claude or something and it'll make sense of it and turn it into something quite sensible. Claude with
+8:43
+Claude skills producing documents now like you need to on board a new employee,
+8:49
+brain dump your thoughts into it and your little assistant writes you up a pretty decent document that you can tweak and kind of get done. Um, that's
+8:56
+that's something that I think's becoming normal for a lot of us, but it's uh, you know, it's still a tiny fraction of the
+9:02
+population that's using this um, multiple times a day. It's definitely changed how I start to think about
+9:08
+buying things. Yes, like a TV, but something I was reflecting on recently is it's also even changed the types of
+9:14
+things I'm willing to search for and think about buying. For example, I was trying to find like a destination where
+9:20
+I could do like a certain set of activities with the kids. that would be like you know a hotel or some sort of other experience and trying to like
+9:26
+search for that on Google is really really slow but in catchb you can actually be like hey I want to look at these dates with
+9:32
+this driving distance with these kinds of like amenities build me a table and a list and like a rank I I can't do that
+9:39
+on Amazon I can't do that in Google very well so I think it's not only going to change like our traditional flows it's
+9:45
+going to change the kinds of products that can be discoverable and that's pretty exciting as Well, there's a whole
+9:52
+another I don't know if you can see just behind me here, there's a Sonic the Hedgehog on a replica Sega Dreamcast like games
+9:59
+console. Um, I was looking for things that would go in my office that are esoteric that you know like a fun little
+10:05
+video game references that would make a nice background shot and I'm a big Sega guy. Uh, and that was one of the things
+10:11
+that came up in Etsy and uh, if I was in the US I would have been a click purchase right through there and AI is
+10:17
+perfect for that sort of thing. Yeah. So, I'm both looking forward to seeing, you know, platforms like Etsy start to share more data about how the
+10:23
+stuff is converting and performing, how much performance it's driving for them, but also just the way in which commerce is going to change uh more broadly. All
+10:30
+right. And now we've got on to another big trend. I mean, we've already hit a bunch of big trends and we haven't even talked about this one, which is stable
+Stablecoins: Growth Beyond Crypto Prices
+10:36
+coin growth. So, what's going on with stable coin growth? Yeah. So, look, um the numbers are
+10:42
+enormous for for stable coins, uh passing I think something over 350
+10:47
+billion in in total stable coin supply. Um but the most important thing was uh
+10:53
+the growth in that stable coin volume uh has completely decoupled from uh crypto
+10:59
+prices and that is the beginning of a durable trend. Um that stable coins have
+11:04
+product market fit for payments. they have product market fit in onchain markets. Um and there was something
+11:11
+really interesting in the Visa earnings call um that just passed. Uh they
+11:16
+announced that I think it was actually 3.5 billion of annualized total process volume in stable coin linked cards. Now
+11:24
+that is a tiny fraction of the 15.7 trillion total process volume they did
+11:29
+in 2024. But my estimate would be like if you look at that growth range that
+11:35
+has 3xed in a quarter. Um if that 3xes for a few more quarters, you're going to be really in sort of the 50 70 100
+11:45
+billion TPVS in the not too distant future. This could become the fastest growing segment of Visa, faster than
+11:51
+Visa Direct, um if it continues at the rate it's going and all signs are it will for at least a little while yet.
+11:57
+So, um, really pay attention to the volume that's coming from stable coin linked cards, B2B payments, and
+12:04
+corporate treasury. I think the genies out of the bottle on this one, and we'll start seeing that come on stream.
+12:09
+Yeah, and that's one of the things we're going to dive into is yes, you can see the stable coin growth is coming up, but let's unpack peer-to-peer transactions
+12:16
+versus B2B transactions versus some of these new modalities like increased card issuance. So, that's one of the things
+12:22
+we're going to dive into here for sure. Um, next one up. Um, you're probably
+Prediction Markets: Sports Fuels the Boom
+12:28
+hiding a rock if you missed this one, but a lot happened with prediction markets. You want to walk us through
+12:34
+what's going on there, uh, and what the big unlock was that is kind of, you know, in some ways disappointing for
+12:40
+some folks who are excited about what prediction markets started as, but, other people are very excited because it's driven a lot of a lot of volume.
+12:46
+Yeah. So, look, um, you can see a real spike in volume around uh, the start of football season. uh and uh it's no
+12:54
+surprise that adding sports as a category has seen a massive amount of
+12:59
+volume come into prediction markets. Um and the previous November peak was of course around the time of the election.
+13:06
+So uh the problem with elections is they only happen every four years or so. Um and getting that level of activity
+13:12
+consistently is much much harder. Um but prediction markets have gone on to be taken very seriously by Wall Street. Um
+13:20
+so the recent poly market raise included I think about two billion from the New
+13:25
+York Stock Exchange's parent ICE. Um I think Citadel may have invested in them or Koshi like Wall Street is seeing an
+13:34
+entirely new asset class whilst I think the sports market FanDuel and DraftKings
+13:40
+are seeing a competitor. And the CFTC is something that's very different than it
+13:45
+was maybe a year ago when they were trying to say um sports has got nothing to do with prediction markets and events
+13:52
+contracts. today uh you know that that debate is kind of rumbling on and so I I
+13:58
+I feel so conflicted about this topic because um if you look at the data um
+14:03
+from about 30 days out they have a 95.6% accuracy on future events. That is wild.
+14:11
+Now one might argue maybe there's some incentive to create those events and create those outcomes. Who knows? But
+14:19
+they're also like 79% of Cali's volume I think in the October time period was from sports and what is the utility of
+14:27
+sports data versus weather data versus something else that could move a market.
+14:32
+So um I I believe that in the long run this is going to be a little bit like
+14:37
+crypto. There was that weird memecoin phase where it was kind of ugly and brutal but you kind of hoped it could
+14:42
+turn into something more and now you got stable coins. I think prediction markets are going to go through something
+14:47
+similar over the next four or five years where they go from being kind of crass and maybe not always the most ideal
+14:54
+thing to something that is actually a part of the fabric of how we how we do business. Everything from insurance and
+15:00
+beyond could be repackaged as as an event contract. Yeah. And they continue to grow. I saw a
+15:06
+post very recently. Col said they had crossed a h 100red billion in annualized volume. So this is the latest data we
+15:12
+have. It's from October. But if that's the case, I mean, this chart has continued already to go up and to the
+15:17
+right and to your point, mostly being driven uh by sports. Indeed.
+15:22
+U we'll get into that a little bit more later. Uh and then another one, something we've been tracking for a long
+15:29
+time is the important of open finance, consumers ability to own their own data.
+15:34
+There's been some interesting well depending on your perspective, backsliding or progress on that. So what
+15:39
+is the big some of the big changes now in and around um open finance?
+Open Finance: Banks Start Charging for Data
+15:45
+Yeah. So we saw that initially the uh the 1033 rules around uh open data
+15:51
+access were kind of walked back um and uh under the new uh administration and
+15:57
+as a result uh JP Morgan and now others started charging for API access to
+16:03
+customer uh permission data and so uh that was that was kind of something
+16:08
+where the banks were always uh unhappy with it. Um, we will potentially get some new rules soon, but already many of
+16:15
+the major companies like Plaid and others have have started to pay those fees because they need to. Um, now I
+16:22
+actually think, okay, at least we've got certainty now. Like, okay, there's fees involved, but can we just get on with
+16:28
+business? Because now we're in a place where banks don't have any arguments against this. they can recover the costs
+16:35
+from some of their data access, meaning they're not going to block access, meaning Open Finance should work more
+16:41
+often. Maybe they could even collaborate on fraud and credit data sharing. Everybody wins gets some upside. Um, and
+16:49
+better yet, they start to consume some of that data for their own underwriting because we know cash flow data is
+16:56
+amazing to a lender or somebody that's trying to uh go into that market space.
+17:01
+And this is kind of the other point. I think cash flow data has found product market fit. Um just about everything
+17:08
+cash flow being used like your last month of transactions are always a
+17:14
+better predicate of whether you can pay back a loan than do you have a credit
+17:19
+history. Um and even large incumbents like FICO and Experian are seeing that as key to their growth. And so in that
+17:27
+world where we're talking about the ability to lend and in fact FICO has partnered with Plaid I believe to do some new new
+17:34
+scoring around that and then Plaid itself has moved a little bit towards you know a FICO in that they're a consumer reporting agency a CRA which
+17:40
+means they can sell signals and insights as opposed to oh we're just plumbing plumbing for data. We don't actually
+17:46
+have opinions about how you should interpret that data. So I I think and maybe this is the the
+17:53
+optimism and I'm a lover not a fighter in me but um banks are going to move from being adversaries in this world to
+17:59
+being great customers and uh that that could actually be net bullish for um for
+18:05
+plaid and and the companies like it. Uh, and next trend. I think this one has
+18:11
+really surprised folks in terms of how quickly things have turned around from this being a dead zone for approximately
+Bank Charters Return: Why Now?
+18:18
+15 years to really coming back. Bank charters are coming back. Um, let's talk
+18:25
+about that. Yeah. And in many flavors as well. So, um, there's the traditional bank charter
+18:31
+that you think of as the FDI ins FDIC insured full charter. So this is what
+18:36
+you know Chase and most of your banks have that a consumer full stack. They
+18:42
+have access to the Fred discount window. You get your $250,000 of FDIC insurance.
+18:48
+Um and there are a bunch of companies applying for this. So there's new bank uh Arabbor and we saw just before the
+18:54
+holidays uh Mercury has applied for that and they they have their reasons for why. Then there's the National Trust
+19:02
+Bank. So, Circle, Ripple, Paxos, BitGo, and Bridge have all applied for those.
+19:07
+Now, these are more like custodians. They can hold on to depository, but they wouldn't lend. They wouldn't make yield
+19:14
+and all of that sort of stuff. There's no FDIC insurance, but what they do get access to is Fed Wire. So, if they are a
+19:22
+payments business and they're in stable coins and you want to clear that, that can be really meaningful. And then
+19:28
+lastly, there's the MALP known as the Georgia Charter. Um, and this is what
+19:34
+Stripe and Checkout are applying for, which means they don't need a sponsor bank to get direct access to Visa and
+19:41
+Mastercard and become a principal member in the United States. Um, and that gives them better unit economics. And so why
+19:48
+is all of this important? Well, uh, over the past, uh, sort of, uh, if you look
+19:53
+at the time series from maybe, uh, the mid1 1980s to, I think it was 2020,
+20:02
+we were averaging about a,000 uh, uh, no, sorry, 132 new bank charters granted
+20:09
+in a given year. That that was kind of the running norm. Um, from 2020, I think
+20:16
+it was. Yeah. Oh no, from 2010 sorry uh [snorts]
+20:22
+we've averaged six per year. So it became unreasonably hard to get a charter um across multiple um you know
+20:30
+red and blue administrations. Uh it was just incredibly difficult. that has now turned around and I think a big part of
+20:36
+it is we saw with Synapse and uh all of the consent orders um there's probably
+20:43
+an upside here that uh you know when things go wrong in the arbitrage that we
+20:49
+had of like fintech company on top of middleware on top of very small bank uh
+20:54
+one of the ways to de-risk that as the fintech company is to go get your own charter one of the ways to de-risk that
+20:59
+as a regulator is to say we're going to give people an ability to be directly
+21:04
+supervised. And these things are big enough now that they probably start to look like banks and maybe um maybe we
+21:10
+should be thinking seriously about who comes into that. That's a real coming of age moment for for fintech companies, I
+21:15
+think. Yeah, there's a menu of different kinds of charters you can get. People are picking more things off of each of those
+21:22
+menu line items. And there are also even some talk about what new types of, you
+21:28
+know, charter is not quite the right word, but it's directionally correct in terms of how you would interact with stable coins and that sort of thing.
+21:34
+And that'll be interesting to see evolve as well. Um, great. That's those are the kind of
+21:41
+trends I want to cover. Now, let's go deeper into a bunch of them. Um, I think
+21:47
+starting with the agentic commerce uh trend and the changes there. I think one
+Agentic Commerce: The Internet’s Next Shift
+21:53
+thing that's worth reflecting on is that you know the original business model of the internet is advertising. That's what
+21:59
+Facebook, Google, even Amazon now is largely driven by Amazon. So when we
+22:04
+talk about agentic commerce, we're talking about the discovery which happens online which is related to and
+22:11
+touches against the core business model of the internet for a long time. So this is where I think the internet and fintech like really come together in a
+22:18
+pretty material way in terms of understanding. So that's like why this matters. It's it's a lot of the future
+22:24
+of you know how we're going to buy but also um how businesses are going to monetize.
+22:29
+Just to level set first though, why don't you give us a sense of how quickly this technology AI has been adopted
+22:36
+versus some of the other consumer technologies that led to the growth of of e-commerce and the internet.
+22:41
+Yeah. So, if you have 800 million users, you're still not touching most of the planet um like the mobile phone is, but
+22:47
+you are doing um doing so faster than the cell phone ever did. So the technology distribution is is just
+22:55
+incredible. Uh so what is it the fastest mass adoption in history? Something like 20 25% of the population in the west is
+23:02
+using um generative AI on a weekly basis. That is incredible. And of course
+23:08
+this has happened in companies as well which is truly incredible. the amount of
+23:13
+uh genai used in companies in at least one function uh up to 79% and I would be
+23:19
+surprised if that wasn't 100% very very soon. uh you know I have seen so many waves of technology come and go um
+23:26
+whether it was cloud whether it was mobile I've lived trying to implement those in finance and you know what
+23:32
+you've got some cloud adoption now in the largest institutions it probably took about four or five years for most
+23:38
+of them to do a very basic mobile app they are all actively using um aentic AI
+23:44
+for uh software engineering most of them are using cursor or devon or something like it I've never seen enterprise move
+23:52
+so quickly. Um, and that's because there's a lot of lowhanging fruit and a lot of value there.
+23:58
+Yep. And let's go back to the slide we opened with, which is about AI's use in
+24:03
+um, Black Friday. We talked a lot about how that is already starting to happen in pretty material ways.
+24:09
+Yeah. And I think it's uh, the line we missed when we covered it was that half of all consumers are using these AI
+24:16
+tools to research purchases. So if you're not thinking that way, then you're missing half of your consumer's
+24:22
+activity. You got to think about meet the customer where they are. Yep. And one of the other things too,
+24:28
+and this is where we're still early, I think, in terms of figuring out what it's going to look like, is what is the actual business model for Atentic
+24:36
+Commerce, but also upstream of that for these foundational model companies, especially someone like OpenAI who's
+24:42
+much more consumer focused. We have had some hints of that. So, why don't you talk about what it's likely to look like
+24:47
+and like the little hints we've seen of what it could look like? Yeah. So, um we've seen rumors and and
+24:54
+talks of like uh OpenAI and Chat GPT are going to launch ads and OpenAI and chat
+24:59
+GPT are going to charge like a fee for the transactions they send through or for completing a payment on behalf of a
+25:06
+merchant. Um but none of that's really been implemented yet at scale. Um the
+25:11
+smallest thing that like the one thing that has happened is they are charging something to Etsy but that's one
+25:16
+merchant and we don't know how much right like that's a very very small thing compared to the scale of
+25:22
+uh their consumer platform but one has to wonder what would that be
+25:27
+over the long term so you can sort of see um I gave you a menu here of like take rates um so uh and and this comes
+25:35
+from Freda Duan alimter she did an amazing blog sort of um breaking all of
+25:41
+this down, but you know like your card payment uh is not necessarily advertising to anybody. It's like 2 and
+25:47
+a half% uh just to make the payment happen. Whereas a BNPL provider will say we'll take some cash flow risk to
+25:53
+improve your conversion. And a booking agent is will bring you loads of customers and of course uh Google is
+26:00
+that's what they do. They bring you loads of customers. So the more customers you bring somebody typically the more you can charge. And Chach GPT
+26:07
+is in this interesting place where they can bring you customers but they can also convert the payment. So if you say
+26:14
+that the top of funnel traffic for Google blurs out around somewhere around 15% just to take a median and if you had
+26:21
+a like higher converting payment like BNPL, could you get it to 5% and then
+26:27
+make a tax of about 20%. Sure. I think you you could probably justify that. Um,
+26:32
+but the nature of this is probably start much lower at like 2% and then you gradually increase it year-over-year
+26:39
+just like Netflix is doing now. They've got us all hooked. Yeah. And this relates to another
+26:45
+question like so one question is what is the new paradigm? Another question is how do you monetize the new paradigm?
+26:51
+And then a third question is who actually wins in this new paradigm? Is it is it brand new companies? Is it the
+26:57
+incumbents? And this is something I think about and struggle with as an early stage investor is I'm always
+27:03
+getting pitched agentic payments businesses which is a very broad nebulous term. And then you look at what
+27:08
+some of the incumbents are doing and they're doing quite a lot here. So why don't you walk through some of the large partnerships that the when I say
+27:15
+incumbents I should say both in you know incumbents but a lot of these are also startups or one startups themselves
+27:20
+PayPal and Stripe. So what are some of the large existing players doing around aentic payments? Yeah so there's always stuff happening
+27:27
+isn't there? So um the I think the most interesting starting at the bottom is the card networks. Um so they are making
+Payments Protocol Wars: Cards, 402, X42
+27:33
+it possible for agents to use the card rails themselves. So an agent you would
+27:39
+give it a mandate to buy a specific type of item and uh it would have a budget
+27:44
+and then through the card network itself um they would validate at the merchant side that hey look an agent has just
+27:51
+landed on the website. Does it have permission from this user to be able to complete this purchase? If so, let it
+27:58
+through. If not, decline the payment. So, the card networks could decline a payment based on what the agent has been
+28:04
+allowed to do or not. That is fascinating. Um, and I think going to be a real unlock, but then there's a bunch
+28:10
+of other use cases as well, which is not just like an agent is paying for a thing. Maybe they want to get access to
+28:16
+the Wall Street Journal or maybe they want to get access to an API like uh, you know, sort of Google location data
+28:22
+or Stripe or something like that and they want to pay for access to that. um and get the API key, but they don't have
+28:29
+a credit card. So the internet itself has HTTP 402 which could handle this. Um
+28:36
+and so Cloudflare, which sees about 20% of internet traffic, and Coinbase have got together to build X42, which is a
+28:44
+way of letting agents buy digital things to write software. So if you think about agents writing you software or building
+28:51
+things and just running off and doing tasks, that could play really really well. So that's like a whole different
+28:57
+use case to a user wants to buy an item if it goes below $100. So Google came
+29:04
+along and said, well, why don't we give it this idea of like a mandate that it could do it and it could do it in the
+29:10
+future. That's great. we've got this like middle problem solved of like uh I
+29:15
+want to buy that thing and I give you permission to go buy that thing with these card details I've already got at
+29:20
+some point in the future and it has a bunch of other payment flows as well and so Google and PayPal and others are
+29:26
+working on ATP but none of that's like most of what commerce is most of what
+29:31
+commerce is like I kind of want a thing and I want to hit pay and so um the
+29:38
+merchant needs to be able to see all of that so what um Stripe and Open AAI did It's fascinating. They kind of made it
+29:44
+so that a checkout from a merchant can appear inside the LLM, but the merchant
+29:50
+still sees all of the fraud data, all of the risk data that they would normally see just as if you'd landed on the
+29:56
+website. So the problem with LLM is like a merchant shared like a nice little demo of this I
+30:02
+think back in September October time frame where it's like from chat GBT into a window where you're buying something
+30:09
+on Etsy but Stripe is helping facilitate the payment which gives you a sense of how all these folks are trying to build
+30:14
+these tangled webs of partnerships to make things happen right but this is a protocol right so um
+30:20
+the Etsy does not process on Stripe that's the really interesting thing
+30:26
+about that story is like the payment protocol was built by Stripe, but Etsy
+30:31
+is not a Stripe merchant. And so what they did is they built a protocol that enables any payments processor, any
+30:38
+merchant and any LLM to be able to talk to each other and display a checkout uh
+30:44
+inside the LLM, have the merchant see everything they need, have the payments processor see everything they need. And
+30:50
+now the problem here is okay so that's great for that use case but where does that fit with A2P and X42 and everything
+30:57
+the card networks are doing. So this space is like there are more standards than there are transactions at the
+31:02
+moment and it's just like how's all of this going to come together and that's where I think it feels like the early internet where there's a time
+31:08
+where like are we going to have a graphical browser like it seems so obvious now it was not at all obvious at the time
+31:14
+there you know people are inventing the video tag the image tag and it's similar where we we don't have standards yet and
+31:21
+we haven't aligned on what these standards are going to be there was a time when it wasn't obvious that HTTP was going to be the standard
+31:27
+um there was the whole gopheret for a long time and and yes, we're very much in that place.
+31:33
+Yeah. And I don't know that we're going to resolve that in 2026. Do you think we're going to have a clear sense of who
+31:38
+the winner is? I I think there's going to be more volume and maybe a the field
+31:44
+will have stabilized in terms of new things being thrown out there because a lot of the big players have already done
+31:50
+something. But I I don't see it becoming clear who's going to be winning or which protocol. I completely agree which
+31:59
+I I think volume comes and uh these things coexist and then over time they
+32:06
+coales together a bit like you've got HTTP and CSS and uh like Java
+32:12
+they don't they kind of like complement each other more than they overlap and they fit into a bigger ecosystem. I
+32:18
+think these things aren't actually as adversarial as they look over the long run and they will coexist.
+32:24
+Yeah. And this is again it's one of the probably most interesting things to be tracking. I don't think enough people
+32:29
+are paying attention to it in part because the volume isn't there yet. So there's a lot of people who really care
+Stablecoins: Why It’s Not Peer-to-Peer
+32:35
+about these things talking about it, but it's not something that individuals can experience um directly themselves.
+32:41
+[snorts] All right, let's move on to stable coins.
+32:47
+Um, so backing up, uh, same slide as before, stable coin growth is way, way
+32:53
+up, but this is what we kind of promised we would start to talk about, which is the growth is not peer-to-peer. So what
+33:00
+is the growth and why and where is it happening and and will that change B2B payment uh payouts using stable
+33:07
+coins? So this is uh people who want to get paid um for payroll in in far-flung
+33:13
+markets. People who want to pay suppliers uh into harder to get into markets um and payments companies uh
+33:20
+like uh DLO and Nuv and Flyw Wire to move dollars around the world for
+33:26
+treasury management especially into markets where the correspondent banking system is especially slow or expensive
+33:31
+and they don't have a good deal to make that happen. Now, you can have instant 24/7 payments if you are a JP Morgan
+33:38
+customer in all of the markets where JP Morgan operates. But if neither of those things are true, you're in a market
+33:44
+where they don't operate, then liquidity gets trapped, and then that's when
+33:49
+stable coins win. And this has really got product market fit. I've spoken to two banks this week that have asked me
+33:56
+um how they can support their customers who want to use them as an off-ramp. That's this week. Um, and that's going
+34:02
+to become a really big thing. Yeah. And remember, JP Morgan has risk controls, right? And they only select
+34:08
+certain customers that do certain kinds of business. And so, there's huge demand for a lot of folks who are locked out
+34:14
+from these rails. I do think this is one of the things why people have hard time intuiting how stable coins are changing.
+34:21
+If you live in the US, you get to use the US dollar. You're not actually using stable coins. You're like, why are they useful? If you're a business and you
+34:27
+have in your domestic business, still not using them. But if you're a global business, so it's just it's invisible I
+34:33
+think to a lot of people. There are some interesting early things though like you talked about with stable coin issuance
+34:39
+um backing cards which is starting to happen. Before we talk maybe about that though, I want to move on to um the next
+34:46
+slide here which is talking about this is almost something that's so obvious that we don't acknowledge it but it's
+34:52
+something that could change and that is not going to be beneficial to the US and
+34:57
+its interests. um which is one thing I happen to care about. Maybe you in the UK care about it less or you're based
+35:03
+somewhere else. But uh let let's state the obvious here and how that might change. Yeah. So 99% of uh stable coins are US
+35:11
+dollar denominated. Um but the fastest growing uh stable coin is a euro uh
+35:17
+stable coin euro. Um and uh there are a number of challenges with the euro um
+35:23
+being as dominant as the US dollar in that there isn't a single European sovereign debt market. there is 28
+35:30
+different countries, 27 different countries. So there isn't a T-built equivalent for Europe. Um whereas in the
+35:36
+US there is and so um it's it's quite complex but you are seeing the Brazilian
+35:42
+raale uh you are seeing the Mexican peso, you are seeing Singapore dollar um
+35:47
+Hong Kong dollar stable coins start to emerge and these are the ones where there's lots of import export um and
+35:53
+crossber activity. These are the ones where the correspondent banking system isn't always amazing. And if you can
+35:59
+have a stable coin that's in local fiat and a stable coin that's in US dollars, you can swap in and out of those as fast
+36:05
+as you 24/7 and and at low cost. And so there's a lot of push to make that happen. Um most people most of the time
+36:13
+will probably still hold the dollars. Um but expect it to start to change. But I also don't expect it to be like the US
+36:20
+dollar disappears anytime soon. I think it's more um it goes from 99% to
+36:26
+something like 90. And why is that bad? Like there is a rest of the world. Maybe
+36:31
+they can have their own currencies. That might be useful. Um but don't expect it to change overnight either.
+36:37
+Yep. And [clears throat and cough] another thing I want to talk about is just touching on how stable coins change
+36:44
+some of what you can build and how you can build it. Uh and so I think remittance providers are a good example
+36:51
+um that you've covered there. And this starts to get to a little bit of the more consumer oriented
+36:57
+uh use cases. So what's going on with um stable coins and remittances?
+37:03
+Yeah. So um Western Union announced their own stable coin and um I think money's probably the most interesting.
+37:10
+their stablecoin wallets. Um, essentially uh uh kind of an enduser
+37:16
+wallet. So, historically a remittance business, I walk into a location, I choose to send money to somebody and
+37:22
+they can pick it up at the nearest Monogram or Western Union location and they get the cash and they walk out. I
+37:27
+charge the person sending the money, but the beneficiary, the recipient, I never see them. If I give the recipient a
+37:33
+wallet, um, not only can they receive those stable coins instantly and all they need to do is download a mobile
+37:39
+app, um, and then they can get cash or do whatever, potentially I can start to sell them other products once I've got
+37:45
+that mobile app into their hands. I could offer them yield. I could offer them, uh, kind of loans. I could start
+37:51
+to expand my TAM as a business. Yep. And I think that's interesting
+37:57
+because you're talking about some of the consumer use cases like why would you want a card that is um backed by uh
+38:04
+stable coins or that transacts in stable coins. It's like well if if the user has a stable coin balance there's there's
+38:10
+more demand for that sort of thing. Um, and exactly. Yeah. And then yield is can come and be
+38:17
+baked in and yield can be baked in. And I think it's becoming a a bit of a killer app,
+38:22
+right? Because uh historically the only way you could give yield was by being a bank and offering interest rates. But
+38:28
+now you can just package T bills right in their tokenized T bills and somebody can swap and they can hold money market
+38:35
+funds as their savings account and they can hold stable coins as their cash account. And if they want to exit money
+38:41
+market funds and get into stable coins, they can do that instantly. Um or yeah, now there are um borrower markets. So I
+38:48
+think um Coinbase has uh facilitated more than a billion dollars in borrowing
+38:56
+through the Morpho protocol this year. And the way that works is Coinbase customer um parks their uh Bitcoin into
+39:05
+a vault and then they can use that as collateral to borrow against and then they repay the loan without ever selling
+39:12
+down the principal. Um and that sort of collateralized lending model is one
+39:17
+where the yields on that can be quite substantial. Uh if you're an investor into one of these vaults, you can be
+39:24
+making anywhere from 6 to 12%. It looks a little bit like private credit but for
+39:29
+the mass market. And so if I'm a neo bank and I don't have a banking charter,
+39:36
+maybe this feature is one where I can have something that looks like lending and I can take a little bit of the
+39:42
+spread on that yield um and monetize my users with a new product.
+39:47
+Yeah. And I think one of the ways we'll really see that stable coins are
+39:52
+starting to win is when they've really become ubiquitous, but also starting to be invisible. And like I think this
+39:58
+example you have from Felix Pago is a good example of that. Um that's on the transfer layer. What I'm
+40:04
+not seeing it at all yet is on the like holding of funds layer. Like everywhere that I hold stables, I'm very aware that
+40:10
+it's a stable and it's kind of hard to make it interact uh with I think that's changing. go download
+40:16
+something like Sling Money or go play with um uh what's the one I was just
+40:21
+thinking of? There's a there's I mean if you look at stripe financial accounts more and more the letter at the end of
+40:29
+USD is disappearing and you're just seeing USD and I think that is uh going
+40:35
+to be the future versus USDC or USDT or like I don't think about holding US
+40:42
+dollars from JP Morgan or from City um because really holding dollars with them
+40:48
+represents the credit risk of them right like are they going to be subject to a bank run. Um, and I sort of have to
+40:56
+think about that for Circle and Tether and others. Um, but it's a it's a dollar
+41:01
+ultimately. And if these things become uh national trust banks, then effectively they can clear like dollars.
+41:08
+Um, and you could have something that goes USDC to regular fiat super easily backwards and forwards. So, to all
+41:15
+intents and purposes, it's fairly dollar-like. I I think the big trend of
+41:20
+2026 is the letter after the coin will start to um start to fade away a little bit.
+41:25
+Yeah. And one thing we talked about a little bit before is like how are banks going to react to the world of increased
+41:32
+stable coin usage. We've already talked about one which is they're increasingly interested in using them, but there's another answer as well. So walk through
+Tokenized Deposits vs Stablecoins
+41:39
+what that is and how these two relate. Yeah. So JP Morgan announced something
+41:44
+called JPMD uh the JP Morgan deposit token. Um and that is uh an ability to
+41:51
+have an actual JP Morgan deposit but existing onchain. So as a JP Morgan
+41:57
+customer uh if I wanted to uh sort of settle a trade uh onchain in a crypto
+42:04
+market or uh DeFi market or somewhere else, I could do that with JP Morgan
+42:10
+deposits quite easily. or I could swap that JP Morgan deposit for an existing stable coin and on and off ramp really
+42:17
+quite elegantly. And the reason this is important is because um a lot of Fortune
+42:23
+500 CFOs are looking at their banks and saying, "I want this instant 24/7 thing,
+42:29
+but I want you, my bank, to do it, and I want all of the things that you do to to kind of take care of that." So tokenized
+42:35
+deposits are one way of of making that happen. And I and I think these two things will coexist. You know,
+42:40
+initially, um, the bank said, "What do you want a stable coin for? You could just have a tokenized deposit. Surely
+42:46
+that's better because it gives you yield." And now the conversation started to evolve a little bit to where actually
+42:53
+stable coins have this superpower, which is if I send you a stable coin, I don't
+42:59
+care that you're a JP Morgan customer or not. You've got it and it works. It's a bit like cash. But I can't send you a JP
+43:06
+Morgan deposit token because it's a deposit. like you couldn't receive that.
+43:11
+You're not a JP Morgan customer. And so there is a limitation to deposit tokens that kind of get um misunderstood. And
+43:19
+then you've got the central banks and whether or not they're going to tokenize money, what we used to call CBDC's,
+43:25
+which seems to get some people really scared, but is actually kind of sensible, which is instant 247 crossber
+43:32
+clearing of central bank money. That makes a lot of sense if you're a bank or you operate at that scale. And these
+43:38
+things will all start to coexist in time. Yep. And I think either way, uh, whether
+43:45
+it's tokenized deposits or it's stable coins that hints to a future a lot more
+43:51
+things are onchain. Um, definitely I you can't unsee it now. And
+43:58
+and I think look, I've been I was head of crypto R&D at a bank 11 years ago now. And uh it's taken a long time. Uh
+44:06
+it was it was always inevitable. The question was when um but now I think with the regulatory clarity we've got
+44:11
+we're over a tipping point. Um it's really coming and to be reductionist. The one thing
+44:17
+that crypto or blockchain is really good at is building a ledger um that's very hard to tamper with and that you can
+44:23
+have visibility into. And we've had deposits that can be tradable on deposit networks for a long time. But you've got
+44:29
+like a centralized ledger out. like it's just a a harder system to manage and to integrate into with technology. And so
+44:37
+in some ways this is just improving the underlying ledger for a lot of the activities that we're already engaged
+44:42
+in. Yeah, that's that's an awesome thing. And it's making it remixable and
+44:48
+composable. Like what if Robin Hood shipped a feature on their ledger, you don't necessarily get that as a cash app
+44:55
+developer, but if somebody ships a feature on Salana, anybody can use it. And I think that that is going to create
+45:02
+a compounding effect that people have have underestimated. Yeah. And I guess one thing that's very
+45:08
+important to think about with respect to tokenized deposits versus stable coins is when I send you a stable coin, well,
+45:13
+the stable coin is still backed by treasuries. If a tokenized deposit gets sent from one person or to another
+45:19
+person, it might not be a peer-to-peer transaction at all. It might just be who has the right to use those funds to facilitate a loan. because remember your
+45:26
+dollars sitting in a bank account are actually being extended as credit to someone else. And so that's the big way
+45:32
+in which I think the um tokenized deposits will be very different is how they actually impact who can use what
+45:37
+deposits for what kinds of loans. And that will be quite different from the stable coin uh world.
+45:43
+Indeed, [snorts] I think it's a good jumping off point to just talk about how banks are fairing generally. Um how how are the how are
+Banks Are Fine… But Risks Are Building
+45:51
+the big banks there's all this disruption going on. There's all there's these fintech hyperscalers. There's changing in e-commerce. They must be
+45:58
+terrified and doing horribly. Nope. [laughter] They're doing just fine. Um deposit stopped leaving.
+46:05
+Consumer is strong. IPOs are back. Um Wells Fargo and City um came out of
+46:11
+regulatory purgatory and they're kind of ending their transformation. They can grow again. And they're sitting on a lot
+46:17
+of excess capital at this point. They have probably never been healthier because rates are high. rates look like
+46:23
+they're coming down. Um, and that could be trouble. So, are they going to do
+46:28
+anything with those profits? Let's see. Yeah, I think if you're a banker, you're probably feeling pretty good about the
+46:34
+state of the world. Like, yeah, rates have started to come down. The consumer has been surprisingly resilient. Um,
+46:40
+you've got record IPO fees coming in. That could continue to be the case. Um, these are all the things you're talking
+46:46
+about. The regulatory light touch, like you're coming out of all these consent orders and other things that happened. you're getting less pressure now. You're
+46:52
+getting less pressure on the capital front. But I think the big slide that maybe people aren't paying attention to
+46:58
+enough if you're a bank is the fact the hyperscalers, they're already here abroad and they're starting to happen in
+47:05
+the US. So I think that's the big thing that maybe the big banks are not thinking enough about. And and I also
+47:10
+don't think it's a zero- sum game. Like what if you could grow like they are with AI now? Uh it can understand all of
+47:17
+your compliance. like you you can figure out the compliance. Um you don't need a program management office to do the per
+47:24
+paperwork. Like the paperwork can be made to go faster. What is your excuse for not growing as fast as some of these
+47:30
+companies? All right, you're a tier one gib. You have uh constraints that they don't. But what about the banks that are
+47:36
+coming up towards being that themselves? It's like I think you should benchmark the products you deliver to your
+47:43
+customer always against the best in the market whether they're a bank or a not. Banks for a long time wanted to be in
+47:49
+the middle of the pack. But uh there are and I see this a little bit with JP Morgan is every now and then they'll
+47:55
+just do this thing that's like really quite surprisingly good. and uh you know they they're moving away from proxy
+48:02
+voting um being outsourced and they've uh they're now going to do uh they have an AI tool that they've built and put
+48:09
+together for for how they're going to recommend people vote on shares. Things like that. It's those little details
+48:16
+that a complacent bank who's very happy about their returns to shareholders in the past rate environment would not do.
+48:23
+And that's why uh JP Morgan I believe has outperformed every other banking
+48:28
+stock is because they keep pushing the boundaries of what they can be and
+48:33
+working hard and doing it over multiple years. Now is a great time to invest. Um now is not a time to c the champagne and
+48:40
+say we did it guys we made it through the financial crisis and we are back. No you're not. The market is very different
+48:47
+and it's time to become something better than what you are. Yeah. So that that's the banks um and
+48:54
+they should be paying attention to what the neo banks are doing. So let's talk about what some of the the neo banks are
+Neobanks: Bundles That Finally Work
+49:00
+doing. I know one of the things I always think about is just how are they scaling their underlying user base and then how
+49:05
+are they launching and building new products so they become multi-product companies that actually compete with the
+49:11
+big banks. So the big banks have all these product lines yes for the consumer but even outside of the consumer. So I
+49:16
+thought it'd be good to walk through some of those and you've done a great job calling them out. We can start with New Bank um and Revolute which here I
+49:23
+guess maybe a lot of the story is scale but you have some other points you wanted to make as well. Yeah, but look um they've also both done
+49:31
+stable coins um and so it's never been easier to be a global neo from day one and I think there's a new generation of
+49:38
+um stable coin neo banks that are emerging cast Altitude uh Fuse all of
+49:43
+these companies coming up um that will be household names eventually. Um but then also BNPL providers um and many
+49:51
+others they're sort of slowly becoming more neoank like so who becomes the new
+49:58
+bank of the US. So a firm you know they're adding cards and that cards credit line is starting to look a bit
+50:05
+neoanky and wallety. Um and that sort of single card that's both debit and credit
+50:11
+is something that people really like. And the affirm card has got 2.8 million users. Clonicod's got 3.2 million
+50:18
+globally. They're they're getting users like they're neoanky looking things.
+50:24
+Yeah. And I think this is one of the biggest questions I have is what do these product bundle look like for these
+50:29
+neo banks. There's some whom the product bundles has kind of coalesed and you can see it. We've already talked about Robin
+50:35
+Hood once. They have a card. They have a cash account. They have trading. They have retirement accounts and they're
+50:40
+growing all of those products. Then there are other places like a firm and CLA where you can see and they actually
+50:46
+have pretty good scale even with some of their new products, but I feel like they're still figuring out exactly what that bundle is going to look like
+50:53
+100%. And and then you even have I mean what do you think about PayPal? I feel like I I kind of get what a firm and Cler are
+50:59
+trying to do in terms of you know look we have individual uh loans for
+51:05
+individual transactions and then CLA it's much higher frequency but the dollar value is like 7x lower. So maybe
+51:10
+they're more positioned to be more of a repeat use case than a firm. Maybe not. Maybe you can make the different argument, but I can kind of see what
+51:16
+they're doing. I have a harder time understanding what PayPal is doing with Venmo. Maybe you have a a better
+51:23
+perspective though. No. [laughter]
+51:28
+Uh no, I don't. I I think they are still um trying to find their way a little bit. They've launched a bunch of new
+51:34
+features over the past 12 months. Um but actually if you look at Cash App, that is something that's got its act together
+51:41
+that knows what it wants to be. It wants to be um kind of like they've launched the Cash App school. Um and they're
+51:47
+launching kind of more AI assistance and so on. So they've gone all in on lending
+51:53
+in a way that I think uh Chime has. Um they're borrowing scale to uh like 22
+51:59
+billion in originations. they are becoming um like a meaningful player as
+52:04
+primacy as your default banking app even though you know it's not a traditional
+52:10
+bank in the traditional sense. So that repeat usage short duration high velocity low loss rates um this is a
+52:18
+good product and they've made a made a lot out of these segments as has chime. Yeah, and they they do have crypto, they
+52:24
+do have investing, and I this was a good slide that you put together. I kind of missed the extent to which they had
+52:29
+scaled their lending operations because it wasn't that long ago they started it and they're now at pretty sufficient
+52:35
+scale. So, I think they're definitely one to look at. And then like we talked about earlier with the data stuff,
+52:42
+they're also doing interesting things around the underwriting side of stuff.
+52:47
+Yeah, Cash App Scroll is fascinating. and could they offer credit scoring as a standalone service? Um, could it become
+52:55
+an alternative to for people who have no FICO score or thin credit files? Like I
+53:00
+I really think that idea of like there's this other score out there and it happens to be in an app that happens to
+53:06
+target people who have thin credit files. I I think that's going to be something really interesting to watch. I
+53:12
+think there's there's money to be made in playing in different scores. Um the
+53:17
+FICO moat is looking more and more perilous by the day. Yeah. Um so yeah, I think Cash App is
+53:24
+doing a good job on building that bundle. We already talked about Robin Hood. They're doing they've done a good job with their bundle. Probably have the clearest one, but there's even new stuff
+53:31
+that's still coming that you know we is early and could change the types of customers they have here. So we want to
+53:37
+talk a little about private banking. Yeah. And they're rolling it out to try
+53:43
+and bring those private bank features quote to the masses. Um, so, uh, what
+53:48
+this will end up being is kind of going to be interesting to see, but I imagine knowing Robin Hood, uh, it's the stuff
+53:55
+you used to get is a lot of, uh, advisory like I have this house. I have this, um, you know, kind of set of
+54:02
+investments. I've got all of these things over here. What should I do with it? How do I optimize it? You know, sort of that that advisory and that guidance.
+54:09
+um that ability to access um certain restaurants, get it like this sort of almost personal financial assistant uh
+54:16
+for your money was always the thing that the private banking gave you versus mass affluent. And uh with AI, could you do a
+54:24
+lot of that stuff? Yeah, I think you could. Like you can ingest a whole bunch of data about somebody and know a lot
+54:29
+about them and then you are just primed to cross-ell to them once you've got all of that data in. So um it'd be
+54:35
+interesting to see how that does. Can they take on Schwab and can they go after that space? It would be interesting. Maybe Robin Hood Platinum
+54:43
+uh is the next layer up after Robin Hood Gold. Yeah. And I think they've done a one of the things I'll be watching 2026. How do
+54:49
+they exit? How do they scale some of their existing products like card, but what do their new products look like? And private banking is their biggest new
+54:56
+product they've talked about recently. Um, and they're really good at getting people excited about stuff even before you know exactly what it is, which is
+55:03
+No, but like they've launched 11 new businesses that generated more than 100 million in annualized revenue
+55:10
+in those new businesses combined. Um, and they're aiming for 50% of their revenue to be from international in in
+55:17
+10 years time. Like this is somebody that's thinking really long term. Uh, and they're doing quite well in the UK.
+55:24
+Like the amount of US companies that have landed on these shores just to find out it's actually quite hard is un
+55:31
+astonishing. The story not told is yeah they're quietly here and they're quietly crushing. Like it's become a thing in a
+55:38
+way that maybe only Chase has in the last 10 years in the UK. That's a big US
+55:43
+brand. Um and so if you want to look at the companies that are growing fastest,
+55:48
+they're the ones with the fastest product velocity. So Robin Hood is a masterclass in that. Revolute is another
+55:54
+masterclass in it. And now in the past six to 12 months, Cash App as well.
+55:59
+Yeah. And you know, maybe looking at folks like Revolute, Robin Hood is aiming for, and you call this out here,
+56:05
+50% international revenue in 10 years. Um, which is quite interesting and ambitious, especially they're going to
+Coinbase’s Everything-App Strategy
+56:12
+continue to be scaling dramatically their US-based revenue 100%.
+56:18
+I think the bundle that has most surprised me because I just wasn't really paying attention to it um or
+56:25
+expecting it uh is Coinbase. So maybe talk about the stuff that they
+56:31
+have and I'm actually user I have the card right here. I like to try a lot of these products but it's been fun trying this one. So talk a little bit about
+56:36
+what they launched and then I'll share some of my thoughts too. So they've done prediction markets as
+56:41
+you would expect tokenized stock trading um and token sales. They're rolling out their base wallet now, which is their
+56:47
+non-custodial wallet. Uh they do a lot in stable coins. They're becoming a payments business. Uh but they also just
+56:53
+announced they're going to do regular old equities, not tokenized at all. They're going to do stocks. And I think
+57:01
+they've sort of uh for a long time seen Robin Hood snapping at their heels to be the everything app. And now they're kind
+57:07
+of coming the other way because there's a Coinbase card. Um and it did pretty well. Um, yeah, let's not. I mean, this is a 4% up
+57:14
+to 4% cash back card, which I was like, "Oh, I'll try that out." And then I kind of came back into the app because I
+57:19
+usually just have some crypto there and I don't touch or think about it. I'm like, "Oh, wow. They are making a bid to
+57:25
+be an everything app." I just stuck them over there and cryptoland and didn't realize the extent to which they had all these other products coming down the
+57:31
+pipe. Oh, no. It's very much the intent and stated objective of them to be the
+57:36
+everything app. And uh I I guess if you want to bring everything on chain, you've also got to go to all of the
+57:43
+things to be able to bring them on chain in the first place. So um but it' be interesting to watch.
+57:49
+Yeah, some of the experiences in the app are a little clunky, but it is interesting to see truly like onchain
+57:56
+um balances and lending. So you can deposit cash, you can hold in USDC, and then you can lock it up in the Morpho
+58:02
+protocol like we talked about earlier. And that all happens and it's a DeFi protocol under the hood that's facilitating lending that's fully
+58:09
+collateral collateralized uh by someone's. So it's interesting to see that part of like DeFi actually become
+58:15
+real in a consumer app because I feel like that was one of the problems is it was never accessible to consumers. It's still a little bit clunky but it you can
+58:22
+actually do it. And so they're definitely someone to watch watch out for. It's just going to become a feature in every app. In the next 12 months, you
+58:29
+will see uh DeFi lending and stable coins in just about every NEO bank.
+58:35
+Yep. Um all right, let's jump ahead and talk about uh prediction markets. All
+58:40
+right, so remind us um some of the big developments with prediction markets this year.
+58:47
+Yeah. So look, uh Wall Street investors are coming in. The New York Stock Exchange owner invested more than two
+58:52
+billion in polyarket. Citadel joined in uh as part of the uh latest funding
+58:58
+round for Kelshi where they've raised a billion at 11 billion and events contracts are believed to be the future
+59:05
+of derivatives. Why? Because they're very simple and they're very low cost compared to traditional derivatives. Uh
+59:12
+it's a simple yes no outcome with a simple date in the future and that gives it retail appeal which broadens the
+59:19
+possible buyer universe which again is interesting to Wall Street and of course you can hedge these real world events
+59:26
+like is there going to be a weather event or anything like that that it's very hard to get insurance for weather
+59:33
+and but it's an event it's something you can get uh an event contract on and if
+59:39
+you were to take the overunder on that there are ways you could start to think about how that might hedge it and also
+59:44
+how that data can be useful because there is wisdom in the crowd, but the wisdom only comes out if they put money
+59:50
+where their mouth is. Yeah. And you've pulled the data on kind of how accurate these things are and
+59:56
+they'll probably only become more accurate uh over time, but you know, unfortunately a lot of this accuracy is
+1:00:04
+just about the sports side of things. I will say one of the things that I'm kind of um interested in and have been
+1:00:12
+excited to see I think you have it in here somewhere. Uh yeah, it's actually on the previous slide which is talking
+1:00:19
+about the fact that you know folks like CNN are actually going to start featuring some of these things for
+1:00:24
+politics, news, culture, economic facts. That's super useful because it used to be very frustrating. and you read a news
+1:00:29
+article and they're like this thing might happen and you're like like with what probability like that there's an
+1:00:36
+answer to that question now you're in the business of news you should be showing me that answer not
+1:00:42
+and now they're they're starting to do that. Um and so that's something I'm excited to see is if major media outlets
+1:00:47
+start incorporating this for the types of events that I actually care about.
+1:00:53
+Yeah. And does that drive a flywheel of other people starting to take it seriously and does that drive it away
+1:00:58
+from sports TBD? But I I hope so. Yeah. Now will it drive meaningful volume to Coli relative to sports even
+1:01:06
+if this also grows? There's a lot of appetite for doing things around sports.
+1:01:12
+So I think that seems um seems to be a little bit u difficult. What are your
+1:01:17
+views on how this is being regulated and ends up being regulated?
+1:01:23
+Uh yeah, that's an interesting one. So um there are certain people who believe uh it's gambling, therefore it should be
+1:01:30
+subject to state oversight. Um the CFTC had a proposed rule that explicitly
+1:01:36
+defined sports outcomes as gaming, therefore banned under their regulations, but that was actually
+1:01:42
+pushed back by uh one of the courts. Um I think it was uh Kelshi versus CFTC. Um
+1:01:50
+and yeah, it was uh struck down um regarding elections um previously. So
+1:01:56
+sports, you know, there's a precedent here. If it was struck down regarding elections, the CFTC was on the back foot
+1:02:02
+under the previous administration and on the front foot now under a new administration to be trying to do
+1:02:09
+something else. Um so uh there's a kind of uh ruling that says gaming means
+1:02:15
+playing a game, not trading on it. um should we get to a point where uh it's
+1:02:21
+considered hedging? Um and that's what the Colts appear to be uh suggesting. Um
+1:02:27
+now the goal here is to allow some economic utility. Um so could a stadium
+1:02:33
+owner hedge against loss if the home team loses? Like it's it's pretty
+1:02:38
+contrived. Um but you can sort of see that there are potential economic utility there. Um and I think that point
+1:02:46
+on economic utility might become something uh that uh maybe future
+1:02:51
+administrations future clarity sort of starts to drive more of a wedge in. And
+1:02:56
+there's a thesis from some VCs I know that have been deep into the prediction market space which is look um this is uh
+1:03:03
+sports are like uh bootstrapping these markets with liquidity just as memecoins
+1:03:08
+did to crypto um and that over the long term the value here is not in necessarily sports. It's going to be
+1:03:15
+everything else. It's just going to take this weird phase to get there. Maybe I I
+1:03:20
+just can't help but wonder what are the costs of doing that to people who may have a gambling problem and are using
+1:03:25
+this. Yep. And I think the X factor for me here is what happens in the court of public opinion. I've already seen an
+1:03:32
+increasing number of headlines about, you know, person addicted to gambling has terrible life outcomes.
+1:03:39
+Okay, what do we want to do about that? And so um we have a regulatory regime
+1:03:45
+that's more accommodative right now, but depending on what happens in the court of public opinion, that could also start
+1:03:50
+to shift over time. Um and also comes down to the extent to which what kind of self policing and self-regulating these
+1:03:57
+platforms uh do. That's one of the things I'll be paying attention to uh next year. Well, um
+1:04:04
+we've talked about prediction markets. The thing I want to wrap up with are predictions. So, your predictions. Um,
+1:04:13
+let's go ahead and dive in there. Um, I
+1:04:18
+guess first of all, which of these predictions is the one that you think is
+Predictions: Tokenized Stock Market Moment?
+1:04:23
+worth paying the most attention to? And then we can talk about maybe which one's the most controversial or you have the
+1:04:28
+most certainty around. But first, what's the most important one to pay attention to?
+1:04:36
+Uh, I think the long-term most important
+1:04:42
+one is the DCCCCC stock market tokenization, making tokens a default.
+1:04:48
+Um, I think people haven't really quite realized what happens when every single
+1:04:54
+US stock could be a token. like that's so disruptive to all of the
+1:05:00
+infrastructure and all of the plumbing and everything that can happen with stocks. Stocks become the next stable
+1:05:06
+coin and they become available in inside every software wallet and you can unleash a whole bunch of new product
+1:05:13
+innovation. So I think we'll look back on that just as we look back on the computerization era and the mobile era
+1:05:20
+as being like a defining turning point in finance uh as as a really key point. Um, so pretty confident that one's going
+1:05:27
+to happen, but we're not going to see it next year. Um, well, that will happen next year. The event will happen next
+1:05:33
+year, but we're not going to look back on it next year and go, "Oh, this amazing thing that happened this year." Like in 2007, people weren't like, "Uh,
+1:05:39
+oh, there was an iPhone moment." It's it's only with the benefit of history you see that. So, I think that'll be the
+1:05:45
+most important thing. Um, I think another big one that I want to focus on is the consumer distress.
+1:05:51
+Mortgage delinquencies are currently where they were in 2008. Just back up to the DTCC one. DTCC, they
+1:05:59
+hold all the stock certificates for all the publicly traded securities. They're behind all of the different uh derivatives. They're all recorded there.
+1:06:05
+So, they're it's 500 trillion in gross notional value. That includes a few
+1:06:11
+hundred trillion for various derivatives and then I think 37 trillionish um for
+1:06:17
+securities. That's like you know the S&P 500 etc. So when I saw a headline like oh wow they are actually actively
+1:06:23
+talking about tokenization that was not something I expected to happen in 2025 to your point what it looks like to be
+1:06:28
+determined and when exactly it gets rolled out but it it does appear to be coming. So that is a pretty big thing
+1:06:34
+that um folks should be paying attention to but you want to talk about that. My prediction specifically, my prediction
+1:06:40
+specifically is that that happens next year, that it gets switched on next year. Um, and that uh instead of being
+1:06:47
+innovative, people will start to see tokens as the safer, smarter choice. Um,
+1:06:52
+just as people will start to see self-driving as safer than having a human behind a wheel.
+1:06:58
+And maybe this make that material, too. Like there's the whole meme stock controversy. It's like, oh, Robin Hood is doing terrible things to benefit
+1:07:05
+Citadel at the expense of retail investors. That was not actually the story. The story was that we don't have
+1:07:10
+same day or real time clearing. So you have to post a bunch of collateral. The person who sets that rule or people
+1:07:16
+associated with the DDCC and they aren't able to do real time clearing because well banks are slow to change and then
+1:07:22
+like the DDC's technology doesn't support it. So something like that means sock controversy if you are on tokenized
+1:07:28
+infrastructure does not happen because you eliminate a lot of the requiral um
+1:07:33
+uh the collateral requirements and that's what happened is DTCC called up Robin Hood one day say hey this stock is
+1:07:39
+now so volatile the amount of collateral you need to post with us just went up a lot and Robin Hood's like well we don't
+1:07:46
+have that money and they had to find that very quickly from investors. Yeah, I would have put my own business. Yeah.
+1:07:52
+And so this is a real thing that has real consequences and um you know, we've actually seen that kind of bubble up
+1:07:57
+into the public consciousness. The public just didn't really realize that, you know, tokenization is one of
+1:08:03
+the things that can address this. Uh so anyways, back to your prediction though about the the consumer. Yeah. So look, delinquencies are at 2008
+1:08:10
+levels. Consumer confidence is low. Um there's pain in the real economy. I think the the sheer performance of AI um
+Consumer Stress: Delinquencies Warning
+1:08:18
+and sort of the whipssaw effect on GDP of actually having uh less of a a trade
+1:08:24
+deficit. You know, like the less of a trade deficit you have, the more that pumps GDP and the more it looks like GDP
+1:08:31
+is doing really well, but actually the overall amount of economic activity is not going down because GDP is a really
+1:08:38
+weird metric. like it's calculated with your imports minus your exports and and like if you're in a [snorts] deficit
+1:08:43
+that's that's a drag on GDP. So if you make your imports smaller your GDP looks
+1:08:49
+better. Like I don't know if everybody's realized that that's what's going on. But then also you've got consumers in
+1:08:56
+the middle of a cost of living crisis and you can see that in the fact that every incumbent in the west gets uh
+1:09:01
+unelected every single time uh there's an election and that is going to really
+1:09:06
+snap back in a in a really big way next year. And it's some of it's turning into anti-AI sentiment and anti-tech
+1:09:12
+sentiment which broadly freaks me out and and I don't think is right. But I think it's also because uh tech and the
+1:09:19
+mainstream is not addressing the problem that the consumer is hurting and that while the banks are having this great
+1:09:25
+time cing the champagne on uh you know the consumer is resilient, the consumer spending is really great, we're in great
+1:09:32
+shape, delinquencies are creeping up and that's the kind of sign that that what follows that loss provisions creep up
+1:09:38
+and what follows that the consumer is in such a terrible shape that interest rates have to come down and then bank
+1:09:45
+profit margins has squeezed up both sides. That will happen. There's time to get in front of this. Um and the time is
+1:09:51
+now. I don't think we will. Um but I think that's going to really show next year and I think it's going to impact
+1:09:57
+everybody in uh financial services. Yep. Um what of these predictions do you
+The Most Controversial 2026 Calls
+1:10:04
+think is the most controversial?
+1:10:09
+I don't know. Am I a controversial guy? What do you think is the most controversial? I think of these um
+1:10:18
+I think there for a group of people the idea that AI stocks are going to deliver astonishing returns is pretty
+1:10:24
+controversial because they just want it to be a bubble so much. Um but some of the analysis I've seen is
+1:10:30
+that you know these are big companies producing a lot of earnings growth and it's not debt fueled. So I think there
+1:10:36
+are other people are very comfortable um with that. Yeah, there's there's a big um anti-AII narrative um that's sort of
+1:10:43
+emerging and I think it is coming more from this point about there's a lot of consumer distress and AI companies are
+1:10:48
+doing extremely well. So I I think that disparity is kind of the issue that I'm diagnosing here. But actually, you know,
+1:10:55
+go look at Meta's earnings or Google's earnings. Um the fact that they are able to use foundation models now for
+1:11:01
+advertising is making their ads dramatically more relevant which is driving up their revenue. that's why
+1:11:08
+those stocks are growing. Like I don't know if again that's a really simple idea when you say it like that but I
+1:11:13
+don't know if that's really computed in some of the oh you know AI is obviously a bubble. Maybe there's a capex bubble
+1:11:19
+going in the energy sector and in the memory sector and the chip sector maybe
+1:11:25
+with Nvidia to some extent but the the Mag 7 and specifically the advertising
+1:11:30
+businesses very different story. [clears throat] Yeah, I will say and maybe this is a little bit orthogonal, but
+1:11:37
+I have a lot of uncertainty around certain macroeconomic things in part driven by our administration and
+1:11:44
+policies and just world events. But there are a lot of technologies that are starting to come to the forefront beyond
+1:11:51
+just AI that I don't think people are thinking enough about that could underpin, you know, the next 10 years of
+1:11:58
+growth. So AI is amazing, but we're also making fundamental breakthroughs on how we produce energy. That's a little bit coupled to what's going on with AI as a
+1:12:04
+buyer of that stuff. What's going on with batteries is quite large. What is going on with um pharmaceuticals? The
+1:12:12
+fact that we have GLP1s and agonist and that lit I saw an analysis saying hey if you roll these out we could basically
+1:12:18
+eliminate 80% of uh obesity. Now there's all sorts of issues with actually doing that. It would cost a lot of money, but
+1:12:24
+there's lots of different avenues for new technologies coming to the forefront
+1:12:30
+that can have very real material impact on economic life and consumers life. I
+1:12:36
+mean, if you're an obese person, you're no longer obese. That has all sorts of implications for your longevity, for
+1:12:41
+your daily existence. Um, it has implications for the kinds of things that you're buying and where you're buying them. And so I think um
+1:12:49
+I maybe that would be a prediction of mine is that I or I would like people to be a little bit less AI obsessed not because I don't think AI is impressive
+1:12:57
+but because I think there are a bunch of other things that are happening and a lot of these things are also interrelated. So that's one of my
+1:13:02
+excitements about about this year. Indeed looking forward to a big man.
+1:13:08
+Well until till we do it next time my friend. This has been really really fun. Um yeah you can find me at
+Where to Find Simon + Closing
+1:13:14
+fintechbrainfood.com. Um, I'm working over at tempo.xyz these days. Um, big shout out to my friend,
+1:13:20
+uh, Yennus Jev. Uh, absolute hero. Uh, creator of uh, Popular Fintech. Uh, did
+1:13:26
+uh, did a lot of work on this pack as well to to kind of get it done. So, do check out Popular Fintech and everything
+1:13:32
+he does. Yeah, thank you, Simon. Always a pleasure. And thank you, Jeb, for all your uh, work here as well. Um, and so
+1:13:37
+you guys should check it out and we'll see you again for this conversation next year.
+

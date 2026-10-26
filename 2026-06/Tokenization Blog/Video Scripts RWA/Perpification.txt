@@ -1,0 +1,279 @@
+0:033 secondsI'm just going to sit between you two to, you know, keep the peace. Want to set some ground rules first. Obviously,
+0:1111 secondsI don't want any name calling, no low punches. Okay, we're going to keep this dignified and respectful. I think the
+0:2020 secondsbest place to start maybe for folks in the audience who are unfamiliar um with maybe the concept of purp
+0:3131 secondstokenization. We can sort of start with how the models defer in a sense and the maybe the different user bases or client
+0:4040 secondsprofile that your two platforms securitize and oium serve. Um, so maybe we can kick things off with an opening
+0:4848 secondsstatement, if you will, that addresses that point. Um, I'd like to thank Centeruge and the Commission of
+0:5555 secondsPresidential Debates for having us here today. And based on the coin flip that I did in my head, we'll start with Kildora.
+1:041 minute, 4 secondsThank you, Frank. Thanks, guys, for having us. Um, I'll kick off just quickly a little bit of context on who I am. I'm Kaledora uh CEO and co-founder
+1:131 minute, 13 secondsof Osteium. We are building a global markets trading platform that takes a perpetuals first approach. Uh and I'll
+1:201 minute, 20 secondsbe arguing the side of purp is a term I coined. Um so for those unfamiliar with said term, uh the way I
+1:281 minute, 28 secondswould define propification is basically as a perpetual swaps or perpetual futures first approach to onboarding
+1:351 minute, 35 secondstraditional assets or non-natively crypto assets on chain. Um, in contrast to tokenization, which I perhaps will like Carlos define, but is a approach
+1:451 minute, 45 secondsthat, you know, holds in custody the asset that you want to represent on chain and then has some minting and redemption process and then represents
+1:511 minute, 51 secondsthat through a token itself. Um, purpe efficient approach and one that better serves the needs and demands of onchain
+1:591 minute, 59 secondsusers today. uh and confers all the benefits of what I believe and I think the data bears out as being by far the
+2:072 minutes, 7 secondsbest and most sort of userfriendly uh non-spot primitive in crypto. Um perpetual swaps for those who are
+2:152 minutes, 15 secondsunfamiliar are the leading derivative in in crypto. Uh per 70 times larger than the options market in the space. Um very
+2:242 minutes, 24 secondssimply to define what a perp is or sort of a perp like instrument, it's an instrument that is synthetic. So one that doesn't give you claims on the underlying um that allows you to track
+2:332 minutes, 33 secondsthe price exposure and sort of take a directional position on the price of an asset um in a synthetic fashion easy to long or short offer some amount of
+2:422 minutes, 42 secondsleverage obviously platform dependent um and then as the name suggests is perpetual so does not expire um these
+2:502 minutes, 50 secondsinstruments are are linear uh I think very simply the reason they've become so large and have become the dominant primitive in the space is because they
+2:582 minutes, 58 secondsallow people generally prefer they they want to take a position long or short.
+3:023 minutes, 2 secondsThey want to bet on a direction. They want to adjust their relage based on based on risk tolerance. Um much simpler than than say options and other uh
+3:103 minutes, 10 secondsinstruments that you have to roll and so forth. So to summarize uh we believe that pers are sort of the dominant and the best retail primitive or the primit
+3:183 minutes, 18 secondsuh derivatives primitive out there and are a far more capital efficient way of onboarding traditional assets into the space and that's what we're doing. So uh
+3:273 minutes, 27 secondsvery different from sort of the the tokenized approach.
+3:303 minutes, 30 secondsPerfect. And Carlos the uh tokenization perspective is what?
+3:343 minutes, 34 secondsSo um first thanks uh to the friends from Centrifuge for the the invite.
+3:393 minutes, 39 secondsThey've been doing tokenization as long as they've been doing together. Um so almost uh eight years now in the space and the the whole thesis of tokenization
+3:473 minutes, 47 secondsis the following. So capital markets are have a lot of inefficiencies and they've been built with technology from the 70s and most of the activities you do in
+3:553 minutes, 55 secondscapital markets involve updating ledgers. You have to update the ledger of record of who owns a security when you move them. You need to update the ledger of record of of the dollar that
+4:034 minutes, 3 secondsis involved in the transaction etc. So everything you do in capital markets today is about updating ledgers and those ledgers are very outdated. And then you know public blockchains are a
+4:124 minutes, 12 secondsbetter form of ledger that allows you to basically upgrade capital markets. So tokenization is about taking existing regulated financial products and then
+4:204 minutes, 20 secondsupgrade them to a better ledger technology that allows you to do you know better fractional ownership you know more democratization of the asset
+4:274 minutes, 27 secondsbetter faster settlement eliminate counterparty risk provide higher liquidity etc. So this is about taking a real world problem which is capital
+4:364 minutes, 36 secondsmarkets and upgrade it and and make a better version of it that makes it more accessible and more available and uh and a better version as I mentioned. So
+4:444 minutes, 44 secondsperpication is basically is perpetuating the the casino that crypto is by providing another way for people to gamble on on the asset price without
+4:524 minutes, 52 secondsproviding an intrinsic value. It's an unregulated activity. This is why it's prohibited in the US as opposed to tokenization which is regulated and have some friends from the SEC here that probably will have a an opinion later.
+5:035 minutes, 3 secondsSo for you to understand this is about the main difference is whether you want to uh speculate in price and have fun with it which is you know fair enough
+5:125 minutes, 12 secondsbut you know taking all the risks of being liquidated or operating in unregulated unlicensed platforms that are offshore etc versus actually owning
+5:195 minutes, 19 secondsthe real asset and being you know subject to all the investor protections that today the capital markets have but with a better version of the same
+5:265 minutes, 26 secondsassets. So just to make sure everybody understands this is like um you know some people like to go and see Master Chef on TV and that's great you have a
+5:345 minutes, 34 secondslot of fun watching and some people actually like to go to a Michelin star restaurant and eat a good meal right so these are two very different experiences one of them is pure fun you don't get anything out of it the other one you
+5:425 minutes, 42 secondsactually get a really good meal that has been built by somebody that has worked as a chef for many many years and produced something for you uh of value
+5:505 minutes, 50 secondsso so these are two different things the user profiles are obviously very different you know per you know crypto DJs that just want to figured on price.
+5:585 minutes, 58 secondsWe are trying to help people build better futures and more savings etc by providing you know better assets in a better uh ledger format.
+6:056 minutes, 5 secondsOkay, there's a lot to impact there.
+6:076 minutes, 7 secondsThere are some fighting words from Carlos. I mean he's basically equating is the Michelin star restaurant of
+6:146 minutes, 14 secondscrypto financial innovation whereas pers are the McDonald's. What what's all right well I have to respond to those fighting words. Um, all right.
+6:226 minutes, 22 secondsYeah.
+6:236 minutes, 23 secondsAnd I'm going to try I'm going to try to keep you guys at a one minute 2 minute minimum. Uh, so I might cut you off, but I'll give you that minute and a half
+6:306 minutes, 30 secondsrebuttal and then I'm going to ask the first question.
+6:326 minutes, 32 secondsOkay. Um, the claim you made is a straw man argument. Uh, if that were true, you'd be dismissing the entire value of all derivative or non-spot markets in
+6:416 minutes, 41 secondsthe first place. And I will just say this is something that's been said time and time again. every time there's been a new derivative primitive that has
+6:496 minutes, 49 secondstaken off. People said the same thing about grain futures in the 1900s. They said it was going to lead to a bunch of speculation on wheat. Uh commodity
+6:576 minutes, 57 secondsfutures have obviously become the lynch pin and backbone of the you know global physical commodity markets. People said
+7:047 minutes, 4 secondsthe same thing about S&P futures. They are now the most liquid index market in the world um in the 80s when index futures were started. So people say this
+7:137 minutes, 13 secondsall the time. Uh there's a classic saying in tech that goes the next big thing will start out looking like a toy.
+7:197 minutes, 19 secondsUm I think the same is true in crypto and and honestly I people said this about Bitcoin in the beginning. We wouldn't all be here in
+7:277 minutes, 27 secondsthe first place and this wouldn't be, you know, a space that exists if some people didn't take a bet on uh on an instrument that looked like a toy and
+7:357 minutes, 35 secondsthat many argued the the argument that was used to dismiss basically all of crypto and everything that we've built in the space and and Bitcoin in the
+7:427 minutes, 42 secondsbeginning was was a was an argument that sort of uh put it into the bucket of pure speculation without any intrinsic value. So I would say that is a st a
+7:517 minutes, 51 secondsstraw man argument and there is it it uh there's demonstrable evidence that having novel derivative primitives that
+7:587 minutes, 58 secondsallow uh anybody to hedge they start out looking like a toy they start out looking like a tool for speculation and in almost in all of the cases I denoted
+8:068 minutes, 6 secondsin many more uh I'm just waiting for when onion futures roll out on on aium because that's if if
+8:138 minutes, 13 secondsanybody's familiar with the 1942 52 onions act onion futures is that so let's start maybe with stocks.
+8:218 minutes, 21 secondsCan I do I have a do rebuttal or No, you everybody gets rebuttal.
+8:258 minutes, 25 secondsSo let's start with the first question which is which is pertaining to stocks.
+8:298 minutes, 29 secondsI think a lot of people when they're either thinking about tokenization or pification purp
+8:388 minutes, 38 secondsum they think about credit which is in the domain of Carlos. So they think about um different assets like oil and gold which I think you guys give users
+8:478 minutes, 47 secondsaccess to. But for the lion share of investors who care about investing in US equities, maybe they don't see the problem. US equity markets are the most
+8:558 minutes, 55 secondsrobust liquid in the United States. The New York or in the globe, excuse me. And uh on a daily basis, New York Stock
+9:039 minutes, 3 secondsExchange trades a billion um shares a day. For most investors, costs are near zero to trade equities.
+9:129 minutes, 12 secondsWhy should they be excited about PERBs?
+9:149 minutes, 14 secondsGreat question. So, I think um we are incredibly privileged to have very advanced and well functioning capital
+9:249 minutes, 24 secondsmarkets in the US. That's not the case for most people around the world. And I think sometimes it's uh maybe difficult for us to like grasp the lack of access that most people have around the world.
+9:349 minutes, 34 secondsUm, US equities are certainly very easy for people in the US to access, but not for people in many other jurisdictions.
+9:429 minutes, 42 secondsThey usually can't actually buy the underlying asset. They have to jump through all sorts of hoops. Um, if if they can't access the underlying asset, they usually go through shady offshore
+9:509 minutes, 50 secondsFX brokers that have usually very interesting brokers in the house.
+9:559 minutes, 55 secondsSo, instead of going through an shady FX broker, you go through a shady pers uh unregulated exchange offshore. What's the difference?
+10:0510 minutes, 5 secondsUh the difference is uh the value providing everything through a transparent onchain platform that people can access with a wallet and that
+10:1310 minutes, 13 secondsprovides universal transparent access to assets.
+10:1710 minutes, 17 secondsYou know that the reason US equities are difficult to offshore is because they're regulated right and a lot of countries of sure they don't have the proper regulation to offer US equities and the
+10:2510 minutes, 25 secondsreason that now perible to offshore is because they are unregulated. So people basically don't follow any regulations.
+10:3110 minutes, 31 secondsThis is why they're accessible. if if they were regulated you will have the same problem like but if we think about the topic of transparency it could be argued that
+10:3810 minutes, 38 secondssecuritiz relative to osteium is not as transparent and against no our assets are on chain how is not that transparent
+10:4610 minutes, 46 secondsI mean it's a centraliz how do you defend the model's centralized nature so so in in anything regulated in crypto
+10:5410 minutes, 54 secondsthere's going to be a centralized component and a decentralized component right like nothing in crypto is really fully decentralized like a hybrid of a central ization point with a
+11:0311 minutes, 3 secondsdecentralization point including pers by the way. So so this is uh this but would you not say that they are more decentralized than securitized? Well, because they aren't regulated, right?
+11:1211 minutes, 12 secondsSo, if they were regulated, they will have to like add KYC, let's say, like we do, right? Like she she was talking about the standard and poor futures being the most liquid thing blah blah blah. That's because they are regulated.
+11:2311 minutes, 23 secondsI have to step in here and those are those are regulated that means you have to do KYC, you have to on board investors, maybe white list wallets, etc. And then the actual trade
+11:3111 minutes, 31 secondsof movement of the assets can be decentralized, which is what you do with tokenization. So, of course, when something is fully unregulated, um, then
+11:3811 minutes, 38 secondsyou can make it fully decentralized. the moment it's regulated, you have to add some degree of investor protection, KYC, etc. Rebuttal.
+11:4511 minutes, 45 secondsYeah. So, I thought you said no rebuttals. No, I said everybody gets one. Okay.
+11:5011 minutes, 50 secondsThere's uh I would say that's another strong argument. There's you're conflating a lot of different things into a single into into one point. There
+11:5711 minutes, 57 secondsis uh I think decentralization actually I would try to define this term a little bit more clearly. There is uh censorship
+12:0512 minutes, 5 secondsresistance. There is uh transparency, there is levels of verification. Um you
+12:1312 minutes, 13 secondscan build something that is that has identity verification. For instance, you could have a front end that verifies someone's identity in order to onboard and blocks them from interacting with
+12:2112 minutes, 21 secondsthe front end and the same and the infrastructure itself or the set of smart contracts that's deployed is decentralized, whatever you want to call
+12:3012 minutes, 30 secondsit. tokenization is I mean look you still have to custody the underlying asset right there's still
+12:3712 minutes, 37 secondsa very clear centralization a fallacy this is not true so so every entity in the US that um the asset the custody of the asset basically it's an
+12:4612 minutes, 46 secondsentry on a ledger right so if you use a public blockchain as your underlying ledger the asset is not a physical asset that you have to custo if you were to
+12:5312 minutes, 53 secondstokenize gold or commodities when you tokenize security secities are dematerialized they're not they don't exist physically anywhere. When you say people custody the asset, it means there
+13:0213 minutes, 2 secondsis a a regulatory intermediary that controls an entry on a ledger. So if that ledger becomes a public blockchain, that's the only place where the asset
+13:1013 minutes, 10 secondsactually exists. If you do native tokenization, of course there's a bunch of people doing derivatives where they use a broker dealer to issue a derivative, etc. That's a different
+13:1813 minutes, 18 secondsstory and I agree with you, that's a bad model. But native tokenization just means that the the regular intermediary that issue the security or control
+13:2613 minutes, 26 secondssecurity uses a public blockchain and that's the only place where the entry of the ledger exists on a blockchain.
+13:3113 minutes, 31 secondsSure. Okay. Sure. But nonetheless that doesn't discount my point that there is a there is obviously a centralization point. You as securitize can obviously
+13:4013 minutes, 40 secondsblacklist certain wallets. I mean you can only do transfer of the securities that you guys issue on whitelisted wallets because they're regulated. and send a
+13:4813 minutes, 48 secondssecurity to somebody in North Korea. Do you agree that's a good thing? By the way, I don't think that's a good thing. My point is we should send secities to North Korean
+13:5613 minutes, 56 secondspeople or Hamas or I I'm not advocating for that. Uh but my point is you are conflating multiple thing. You are conflating
+14:0414 minutes, 4 secondsdecentralization of the infrastructure or some level censorship resistance on the way that contracts are deployed and the way that people can interact with
+14:1114 minutes, 11 secondsthe system with identity verification itself. Those two can be the same thing, but they're not necessarily. Um but by the way the ledger we use let's
+14:1914 minutes, 19 secondssay if you use public Ethereum blockchain is censorship resistance right so nobody can go and tamper with even even a centralized actor will not be able to actually modify the cont
+14:2714 minutes, 27 secondscontent of the ledger right because it's recorded there. Yeah.
+14:3014 minutes, 30 secondsSo so if somebody tries to tamper with it you it will be sensor resistance as opposed to traditional capital markets technology where somebody can actually
+14:3714 minutes, 37 secondschange a database and nobody will will know that you've you know changed the records and things like that.
+14:4214 minutes, 42 secondsYeah that's certainly true. Maybe we can approach the conversation from the vantage point of product market fit and which aspect or which approach maybe is
+14:5014 minutes, 50 secondsis finding better product market fit. I think we were at a dinner not too long ago or an event where someone raised a point that obviously pers are the
+14:5914 minutes, 59 secondsbiggest product in crypto. So it'll be easy to make that argument.
+15:0215 minutes, 2 secondsCorrect. Um you know why?
+15:0315 minutes, 3 secondsWell because speculation is very interesting. No and because they aren't regulated. Anybody can access them.
+15:0815 minutes, 8 secondsSure. But a lot of things in crypto that were unregulated later became under the regulatory
+15:1615 minutes, 16 secondsmarket. So will be per but let's focus maybe on on something that's been you know said about tokenization of different types of
+15:2415 minutes, 24 secondscredit funds that it's really just a way to to market funds that don't have um appeal to the traditional market. So
+15:3315 minutes, 33 secondswe slap crypto on it so that it's more interest that's actually not true. So the the tokenized the two tokenized trade funds we have both of them are billion dollar
+15:4215 minutes, 42 secondsfunds from two of the most reputable you know create institutions one is Hamilton Lane and the second one is Apollo and
+15:4915 minutes, 49 secondsthose funds have already market feed on Tati with billions of dollars of AUM and now they're trickling down into into crypto so it's not taking and by the way
+15:5815 minutes, 58 secondsand I agree with you that tokenization at the beginning was similar to let's say crowdfunding where it had a an adverse selection problem where like the
+16:0616 minutes, 6 secondsthe shitty deals that nobody wanted in Trafy will come to crowdfunding or will come to tokenization. But that that's not no longer true. Today you have high
+16:1416 minutes, 14 secondsquality issuers that have billions or trillions of dollars in some cases like Black Rockck that are bringing those assets to crypto because it's a it's a
+16:2116 minutes, 21 secondsbetter way of representing the assets and moving them around and do things with them, leverage uh the asset, etc.
+16:2716 minutes, 27 secondsIs it a better way of representing the asset that's doesn't represent the assets speculate on price through it through through tokenization?
+16:3416 minutes, 34 secondsI I think or expressing a view on an asset.
+16:3716 minutes, 37 secondsI I think um look I would differentiate between the value of taking a spot or a
+16:4416 minutes, 44 secondsdriven first approach. I I I also think um maybe just to recenter the conversation it is
+16:5116 minutes, 51 secondsuh we're serving two fundamentally different customers and two fundamentally different value propositions. Got it. So Huritiz's customers are asset managers who want a
+17:0017 minutesway to experiment with having holding assets in a blockchain without having to build all the infrastructure in house.
+17:0617 minutes, 6 secondsAnd so they go and they abstract that for them. And your customers are largely they're they're asset managers. They're people they are we also have the investors on the other side, right?
+17:1517 minutes, 15 secondsWho want to buy the Yes.
+17:1617 minutes, 16 secondswho want to consume the asset. So sure, it's a two-sided market, but fundamentally you are primarily servicing asset managers, making it easy for them to make their funds available
+17:2417 minutes, 24 secondsto other people. we have a completely different market and I think it is you know not not to say straw man again but I I think it's a straw man to pit spot and derivatives against each other they
+17:3317 minutes, 33 secondswork together there the the argument that I'm making is that for most assets and for most of the demand that exists
+17:4017 minutes, 40 secondson chain today people don't there there isn't actually demand to sit on the entire universe of traditional ass to to
+17:4717 minutes, 47 secondsto sit in spot on uh most traditional assets certainly if you are a protocol and you have a treasury and you want to
+17:5517 minutes, 55 secondsput your capital into something that is safe and that is yield bearing, build might be a great solution. But for most of the demand and for most of what people are doing on chain today and also
+18:0318 minutes, 3 secondsas the space matures, people want to people are are largely trading. The space is driven by a lot of trading and also by being able to express
+18:1118 minutes, 11 secondsdirectional positions over shorter time periods, not simply sit passively in assets. And so the markets that we are,
+18:1818 minutes, 18 secondsbut to be clear, I think I know what you're going to say and you're going to you're going to talk about retail versus institutional. Look, uh, trading
+18:2518 minutes, 25 secondsplatforms, Robin Hood, for instance, obviously services both a retail and an institutional clientele, but a different institutional clientele. The, you know,
+18:3418 minutes, 34 secondscitadels and hedge funds of the world that are on the other side of those trades and that they also interface with who are equally clients as perhaps their retail facing clients are also
+18:4318 minutes, 43 secondsinstitutional. But it's it's just a different profile. And to argue that there is only value in servicing asset
+18:4918 minutes, 49 secondsmanagers and you know long-term you know just simply sitting on assets long term that there's no value at all uh in in
+18:5918 minutes, 59 secondsand basically building out you know liquid markets for trading through better instruments. By the way the the argument I made at the very beginning is
+19:0619 minutes, 6 secondsthat perpetuals are one of the single best inventions in crypto. I think there's three really good inventions in crypto. AMMs, prediction markets, and
+19:1319 minutes, 13 secondsper. And I think there are three examples of two things that are truly novel to crypto. One thing is repackaging stuff from the traditional markets. If you want to look at things
+19:2119 minutes, 21 secondsthat are truly novel and innovative and interesting, and I think probably everybody is here today because you're interested in the technology and it's
+19:2819 minutes, 28 secondsthe only I think one of the only places where you see true pace of market structure innovation. Perpetuals are in that category. They are one of the
+19:3619 minutes, 36 secondscoolest things. I imagine probably many of you have nerded out about this.
+19:3919 minutes, 39 secondsThey're one of the coolest things in the space and uh you know they start out looking like a toy. Yes, they serve as some speculative interest but ultimately
+19:4719 minutes, 47 secondsthere is always they wind up these instruments that allow people to express views in a novel way always ultimately wind up being very important venues for
+19:5619 minutes, 56 secondshedging from an institutional perspective as well. And so I I yeah the debate is not retail versus institution. So first our we are decided marketplace. So yes, we have asset
+20:0420 minutes, 4 secondsmanagers on one side but we have you know retail sort of individual investors and institutional investors on the other side buying things. So it's not that we are only serving asset managers and
+20:1220 minutes, 12 secondseverything we do is what for the benefit of the asset manager. It's actually the opposite unless we do things that the investors want you know the asset manager will not work with us because the asset managers ultimately what they
+20:2120 minutes, 21 secondswant is more aum. So that's actually not two second like you're conflicting uh um you know marketing innovation with allowing retail people to take a 100x
+20:3020 minutes, 30 secondsleverage and be liquidated at any time without knowing what they do on an offshore unlicensed and regulated place.
+20:3520 minutes, 35 secondsThat's what I think is fundamentally wrong and it's true that derivatives are very big in the US but because they're regulated and the most of the people trading derivatives are not retail
+20:4320 minutes, 43 secondspeople because the retail people are not allowed to trade derivatives freely for a reason and Robin Hood does the retail but Robin Hood is a regulated institution so you can't compare what
+20:5220 minutes, 52 secondsRobin Hood does with what you know offshore pers uh do so so I think the fundamental problem here is allowing retail people to participate in an area
+21:0021 minuteswhere you can get like a 100x leverage and get liquidated without know what you do you know without any invest protections. I think that's fundamentally wrong and that's you know
+21:0821 minutes, 8 secondswhat led to FDX going down and Celsius and so many companies that were basically well FDX was a centralized entity the
+21:1521 minutes, 15 secondsdecentralized matter you're still you're still allowing people to participate on markets that they don't understand and take a massive leverage and could be
+21:2321 minutes, 23 secondsliquidated uh without them knowing what they do. So they look retail are in every single country the only common thing about regulation in every single
+21:3221 minutes, 32 secondscountry is investor protection for retail people because if you're an institution and you know you get liquidated that's your problem you're an institution you have money or you close
+21:3921 minutes, 39 secondsit down the shop and that's it. But if you're a retail person and you're gambling away with your you know savings and then you lose them because you're
+21:4621 minutes, 46 secondsdoing something that didn't have the right investor protections or disclaimers and you lose your money you basically are losing your savings for life. You're losing your pension. you're
+21:5521 minutes, 55 secondslosing, you know, the ability to pay your mortgage. So, so we should take more seriously how we exposing retail people to these highly risky assets just
+22:0322 minutes, 3 secondsfor the sake of a speculate. This is like building another Las Vegas, another casino, but you don't even get free drinks.
+22:0922 minutes, 9 secondsSo, do you think that there should be no dexes um no KYC lending protocols or I think anything that touches finances
+22:1722 minutes, 17 secondsinstruments that retail people have access to should have some degree of investor protection. Yes.
+22:2322 minutes, 23 secondsAnd by the way, KYC is a different story. KYC is not about investor protection. KYC is about money laundering. Do I think that we should
+22:3022 minutes, 30 secondsprevent terrorists from accessing you know money illegally? Yes, I do think so because otherwise they kill people. So I
+22:3822 minutes, 38 secondsdo firmly think so. Is is there a way to do it in a way that you don't stop like look I'll give you another example. In 2016 when I first open an account I
+22:4622 minutes, 46 secondsopened an account in a very large exchange. I'm not going to mention the name because no need to shame anybody, but you could open an account, a crypto
+22:5422 minutes, 54 secondsexchange account with a username and a password and they will limit like how many bitcoins you could check per day that back in the days things were measured in
+23:0123 minutes, 1 secondnumber of bitcoins not anymore. Um and then you know obviously there was a lot of illicit activity happening in crypto for the for the right reason because it was all anonymous and permissionless.
+23:1223 minutes, 12 secondsAnd then you know all regulators worldwide they force decentralized exchanges because that's how they can control it to introduce KYC. And a lot
+23:1923 minutes, 19 secondsof crypto people were telling me oh crypto trading is going to tank. Nobody wants KYC. Guess what is like maybe grown 100x in terms of trading volume
+23:2723 minutes, 27 secondssince KYC was instituted. Why? Because more people access it more people felt comfortable with it. So, so the fact that you have to KYC, it doesn't mean that people are not going to use it.
+23:3623 minutes, 36 secondsLike look, I mean, you were talking about Robin Hood. Robin Hood does KYC and it has 40 million active users. So, nobody cares about that thing. People
+23:4423 minutes, 44 secondsunderstand that it's something you have to go through. It's very frictionless these days because it's all automated digital uh very quickly and and that is
+23:5123 minutes, 51 secondsthere for a reason, right? So centralized exchanges trading volume in the US or in worldwide in crypto which
+23:5923 minutes, 59 secondshas KYC is like a hundred times more volume or a thousand times more volume that you know non KYC dexes. So in
+24:0724 minutes, 7 secondsaggregated like the def it's not a debate about KYC or no KYC. I don't have a strong I I I don't disagree
+24:1624 minutes, 16 secondswith a lot of the broadstrokes of what you said but I think you're making two fundamental claims that I think are mistaken. The first one is assuming
+24:2324 minutes, 23 secondsyou're looking at the current state of affairs and you're assuming that either one there is a clear regulatory framework for a lot of these new primitives and the new types of
+24:3124 minutes, 31 secondsinstruments that are being invented in the space and assuming that there won't be a path forward for those things that the regulatory environment won't evolve.
+24:3924 minutes, 39 secondsThere was absolutely you know zero environment 10 years ago. I mean I think it's all it's kind of crazy how much the
+24:4724 minutes, 47 secondsspace has changed in the last couple of years. Who would have thought that there would be, you know, Bitcoin ETFs, that governments would be buying Bitcoin?
+24:5324 minutes, 53 secondsThat seemed that was an absurd proposition 10 plus years ago. So, the space evolves, the regulation catches up. I'm not arguing that the stuff will
+25:0125 minutes, 1 secondnever be regulated in some fashion. And I think that would be a good thing. I think it would be wonderful if there were updated regulatory frameworks for some of these longer tale novel
+25:0825 minutes, 8 secondsprimitives, things that are fundamentally new that don't fit neatly into something. And secondly, I would say there's a reason why people are building this stuff in the space because
+25:1725 minutes, 17 secondswhen there isn't a clear framework, innovation has to come from the outside.
+25:2125 minutes, 21 secondsThere's a reason why the taxi companies didn't build Uber Uber.
+25:2525 minutes, 25 secondsThere's one element. There's there's there's We're running out of time. No, they gave us more time. Really? Yeah. I I tipped I tipped the bouncer.
+25:3325 minutes, 33 secondsYou tipped the bouncer? Okay.
+25:3425 minutes, 34 secondsSo, they gave me five they gave me a few more minutes.
+25:3725 minutes, 37 secondsYou just want to make sure you do the closing statement.
+25:3925 minutes, 39 secondsYeah, of course you'll get the closing statement. I mean on one side of what you're saying is yes speculation and leverage is an issue on the other side
+25:4725 minutes, 47 secondsright there's more capital efficiency there depends what you want what capital efficiency for what for speculating on price for sure
+25:5425 minutes, 54 secondsbut you know that capital efficiency and that liquidity liquidity comes at a price like these are two completely two different things in one place you are
+26:0326 minutes, 3 secondsactually owning an asset that you know there's there's protections about what you actually own and you own the asset to build long-term value and the other one you specul on
+26:1126 minutes, 11 secondsprice. This is like going to Las Vegas, right?
+26:1426 minutes, 14 secondsI don't think you're going to win the argument that only spot is relevant and we shouldn't care about that's not a good argument.
+26:1926 minutes, 19 secondsThat's not true. Like the in the US there's very healthy derivatives markets that are regulated and that for the most part no what happens if they get a separate
+26:2626 minutes, 26 secondsargument around regulation which if they get regulated in some capacity then where's your argument? No, they get regulated. A lot of the things they do like 100x leverage for retail will
+26:3526 minutes, 35 secondsdisappear and then perbs will not be as attractive as people think they are to fit into a regulatory regime. You don't need to modify your product.
+26:4226 minutes, 42 secondsThat's that's apparent to me. And I think if you look at how we could issue permissionless, look at Bance's expansion into the US or
+26:5026 minutes, 50 secondsanything else. You have to I mean it's that's it's not an argument. Like if you have to fit into the regulation, every country is going to have different rules and will require different things of
+26:5926 minutes, 59 secondsyou. You modify your product based on their expectations. If there isn't a clear framework, you don't fit into that expectation. You can modify it, but it doesn't necessarily change the core
+27:0727 minutes, 7 secondsvalue proposition or the core architecture of the product. You can modify like that. It's not rocket science to modify regulations don't
+27:1427 minutes, 14 secondschange like tokenization is predicated on using a better ledger technology, right? And then the SEC in this new SEC that we have now has uh publicly
+27:2327 minutes, 23 secondsadmitted that you know let's say transfer agents like us can actually use a public blockchain as the ledger of record to record the securities which means native tokenization is now legal
+27:3127 minutes, 31 secondsin the US. So do regulations do evolve and then you're going to start with an assumption because we started doing that tokenization using a public blockchain
+27:3827 minutes, 38 secondsas a transfer agent without having 100% regulatory clarity whether it was legal but was it like an assumption that this was going to become legal because it was
+27:4627 minutes, 46 secondsnot a um you know a departure from from the investor protection rules etc. Yes.
+27:5127 minutes, 51 secondsSo but there's certain things that obviously are are completely different and and I think just besides the regulatory issue I think that the the main um topic is who who you're serving
+28:0028 minuteshere. Are you serving It's serving crypto people. I mean, if you look at the lines, no, but within crypto f first, first first I think that yes, that's a that's
+28:0828 minutes, 8 secondsa crypto digent thing. I might just No, no, no.
+28:1228 minutes, 12 seconds80% of the people that use bill are just people that used to put their in stable coin and want to yield
+28:1928 minutes, 19 secondstoday. But the the idea is to the first 99% upgrading capital market. Why is only crypto people using tokenization?
+28:2628 minutes, 26 secondsBecause you know to use tokenization you have to interact with wallets, with blockchains, with t stuff like that that the the traditional investors have
+28:3428 minutes, 34 secondsfriction using, right? But this will disappear, right? Like now stable coins are legal, which were not before. That was a point of friction. So that point of friction will disappear. Then probably we're going to get at some
+28:4328 minutes, 43 secondspoint wallets integrated with like browsers and with brokerage accounts and then that friction point will disappear.
+28:4828 minutes, 48 secondsThe same way that connecting to internet at the beginning was had a lot of friction, right? you had to download a TCP IP stack and then you have to install modern software and connect the
+28:5628 minutes, 56 secondsmodel and do dialab and blah blah and then that disappear and now you open your laptop or your phone and you're connected to the internet. The same thing will happen to blockchains and
+29:0329 minutes, 3 secondsthen tokenization will just be an upgrade for existing capital markets as opposed to something which is pure you know casino price speculation thing that
+29:1229 minutes, 12 secondsdoesn't solve any actual problem. It just allows people to gamble better or more.
+29:1729 minutes, 17 secondsI uh it looks like we're coming up on time. I I we don't we don't know the time. Are we still going to be okay here now?
+29:2429 minutes, 24 secondsAre we still going to be okay to go to Peter Luger's scenario?
+29:2729 minutes, 27 secondsWe're having dinner together by the way, so we actually like each other. But somebody might have to warn them that, you know, so maybe we can do some You keep the steak knives away from both of us.
+29:3629 minutes, 36 secondsNo, seriously. I'm very concerned.
+29:3829 minutes, 38 secondsWe were trying to be controversial on purpose, by the way.
+29:4029 minutes, 40 secondsThey were very nice on the call. I don't know what's going on.
+29:4529 minutes, 45 secondsI feel like, you know, who's going to keep the family bible once these two get do the closing. Uh let's we'll do our closing statement. I
+29:5329 minutes, 53 secondsthink this has been a very fruitful thing.
+29:5429 minutes, 54 secondsOne minute for the closing. I'm kind of Yeah, I'm from I've stated my case. I will um I want to just go back to first principles on like why we're all here. I think probably
+30:0330 minutes, 3 secondseveryone's here for slightly different reasons. But what brought me into the space in the first place was two things.
+30:0830 minutes, 8 secondsone the values which we uh have not always been perfectly espoused by everyone in the space but I think the
+30:1530 minutes, 15 secondsthe vision and values of increasing market access permissionless to some degree obviously it's on a spectrum of
+30:2430 minutes, 24 secondsnew uh primitives experimentation uh just of of new market access
+30:3130 minutes, 31 secondstransparency uh censorship resistance those values I think it is incredible how how much the space has evolved in the last couple years and how
+30:4030 minutes, 40 secondsinstitutional it's become and I'm you know grateful for um how the space has evolved but I think staying true to some
+30:4830 minutes, 48 secondsof those core principles and not compromising on all of them is an important thing and the second thing is on actual just the the nerdiness of the
+30:5830 minutes, 58 secondsof new primitives and and new market structure I think um for those of you who maybe haven't looked into perpetuals into too much detail I would I would
+31:0531 minutes, 5 secondsmaybe highly suggest you go down the rabbit hole perpetuals are an extremely elegant instrument and I think are currently dramatically underrated as a
+31:1231 minutes, 12 secondsmeans of uh just expanding both you know to as he alluded to some to some degree speculation but also hedging capacity on
+31:2031 minutes, 20 secondstraditional markets and I think there's a huge green field opportunity in applying per which have clearly found product market fit in crypto and truly
+31:2931 minutes, 29 secondsnot just because of the speculation case I think they are just a simply more elegant instrument and you see this with the fact that they're nearly 100 times
+31:3631 minutes, 36 secondslarger than the options market and expanding that to other traditional assets. So, um, both have a place. I,
+31:4431 minutes, 44 secondsyou know, I'm not going to mistakenly pit spot and derivatives against each other. They both should work in tandem and work in concert. They service different use cases in different
+31:5231 minutes, 52 secondsdifferent customers. Um but I think the uh in to frame this as like a bitcoin BTC ETH ratio I would say the
+32:0032 minutestokenization to perpication ratio has peaked and I think the more are starting to see the opportunity in pers and I
+32:0732 minutes, 7 secondsthink they are dramatically uh underestimated as a means of not only being very useful in crypto but ultimately being useful in traditional markets and I think you're going to see that change a lot in the coming years.
+32:1732 minutes, 17 secondstell.
+32:1932 minutes, 19 secondsAll right. Um, first I just want to admit something. Pers are fun. Yeah, definitely they're fun. This is like, you know, when you go out drinking on the way back home, you know, you stop at
+32:2732 minutes, 27 secondsa gas station and buy sushi and it feels really good and you bought sushi in a gas station and the day after you you regret doing that.
+32:3432 minutes, 34 secondsThe Mazo is that Mazou. What's the Spanish beer? The what? Maz the the Spanish beer. The red one.
+32:4232 minutes, 42 secondsThe what? The hobo beer that the hobos drink.
+32:4432 minutes, 44 secondsOh, ma. Oh, so yeah, this is something that is short-term rewarding and you feel bad the day after and you regret you've done it. Uh, so this is very different than
+32:5332 minutes, 53 secondstokenization when you're actually getting a real asset that you can own.
+32:5632 minutes, 56 secondsYou can earn yield on it, you can insert it, you know, it can help you with uh, you know, your retirement, you know, it's regulated, it's safe, is there for you to do it. So at the end of the day,
+33:0433 minutes, 4 secondsthis debate since we're like probably running out of time, it boils down to like two very different things. One thing is do you want to take you know a trillion dollars of assets that are in
+33:1333 minutes, 13 secondsoutdated ledgers inefficient that are not accessible that have all sort of like you know rentseker people and intermediaries and tolls etc and take
+33:2133 minutes, 21 secondsthat trillion dollars and improve it and make it more accessible and you know more uh you know higher yield generation
+33:2933 minutes, 29 secondsor more uh tradable you know remove intermediaries and cost of owning the asset etc or you want to take a trillion dollars on you know margin calls for
+33:3733 minutes, 37 secondsretail people you playing in a casino that doesn't even you free drinks, right? So that's basically what uh I think the difference between perbs and
+33:4433 minutes, 44 secondsuh and tokenization is. So thank you. Thank you. Thank you guys.
+33:5333 minutes, 53 seconds[Music]

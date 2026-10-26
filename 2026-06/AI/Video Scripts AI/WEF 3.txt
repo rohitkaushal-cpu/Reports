@@ -1,0 +1,935 @@
+
+Search in video
+0:00
+Heat. Heat.
+0:12
+[music]
+0:18
+[music]
+0:24
+Heat. Heat.
+0:34
+[music]
+0:44
+[music]
+0:57
+[music]
+1:32
+[music]
+1:38
+[music]
+1:50
+Heat. Heat. [music]
+1:59
+Heat. Heat. [music]
+2:08
+[music]
+2:32
+NATO. Here we go.
+3:14
+[snorts] All right. Hello everybody.
+3:20
+Uh, I'm Nicholas Thompson. I'm CEO of The Atlantic. I will be your moderator today. Thank you for joining us. Thank you for moving to the front. Apparently,
+3:27
+there are a couple hundred people on the waiting list who are coming in late, so they'll be joining in in the back rows.
+3:32
+We have the best panel in Davos today. We're going to be talking about the future of AI. We're joined by Yosua
+3:38
+Benju, one of the creators, known as the godfather of AI, turning prize winner, just amazing. Ejun Troy, not to be
+3:44
+outdone, a MacArthur prize winner, a professor at Stanford. actually such a good professor at Stanford that she sent
+3:51
+me an email that was so clear and concise I sent it to my kid and said she should take her class just for that and Eric Zang who of course is one of the
+3:57
+absolute pioneers in this field building all kinds of cool stuff and the head of MBU AI. So the topic of the conversation
+4:05
+today is what's next in AI. The premise is that most of the progress in AI up to
+4:12
+now has been through scaling, more data, more compute, and that that is still
+4:17
+useful, but there are other better things. So, I'm going to ask each of our three wonderful panelists to talk a
+4:23
+little bit about what they're working on. Now, by the time we're done with that, our fourth panelist, Yuval Noah Harari, will arrive and he'll join in
+4:31
+and try to catch up. So, Yosua, you're working on scientist AI, which is incredible. explain what it is and how
+4:38
+it's different from previous paradigms of AI. Thank you. Thank you. So what's
+4:44
+motivating the scientist AI and also the new uh nonprofit I created to uh engineer it called law zero is um how it
+4:54
+it addresses the question of reliability of the AI systems we're building
+5:00
+especially the gentic systems uh how uh it deals with the issue that current AI
+5:06
+systems can have goals sub goals that we did not choose use and that can go
+5:13
+against our instructions and this is something that's already been observed and it's uh you know even more prevalent
+5:18
+in the last year across a number of experimental studies but also in the deployment of AI for example with
+5:24
+psychopensy uh it's an issue uh that is uh kind of very concerning when you look
+5:29
+at behavior of self-preservation where AIs don't want to be shut down and want to evade our oversight be willing to do
+5:36
+things like blackmail in order to escape our control so uh even uh things like
+5:42
+preventing uh misuse. The the companies put monitors and guardrails, but somehow
+5:50
+this still doesn't work really well enough. And the core of our thesis is
+5:55
+that we can change the way that AIs are trained. So it could be the same kind of architecture but the training objective
+6:02
+and the way we message the data uh is going to be such that we obtain uh
+6:08
+guarantees that the system will be honest in in a probabilistic sense. Okay. So how do you do that?
+6:15
+How do you do that? So the the core of the idea which is connect I'm trying to do it with my kids. Yes. So the core of the idea which is
+6:22
+behind the name is take as an inspiration not to imitate people but to
+6:28
+imitate what science at an ideal level is trying to do. So think about the laws
+6:33
+of physics. The laws of physics physics can be turned into predictions and those predictions will be honest. They don't
+6:39
+care about whether the prediction is going to help one person or another person. So it turns out that it is
+6:44
+possible to define training objectives for uh neural nets so that they will
+6:49
+converge to what something like you know scientific laws would predict and then
+6:55
+we get something that we can rely for example we can rely on to uh create
+7:00
+technical guard rails around agents that we don't trust. So if an agent is proposing an action uh for each action
+7:07
+that the agent proposes uh a honest predictor could tell us whether that action has some probability of creating
+7:13
+a particular kind of harm and of course veto that action if that's the case. But you still are then going to be
+7:19
+required to put in some threshold of when it will take that action. Right? If it has a percentage odds of harm of more
+7:25
+than one in 10 or one in a thousand wherever you put it you still have some human concern. You still have some
+7:30
+potential harm. Absolutely. So when we build a nuclear plant, we have to decide where we put the threshold.
+7:36
+Oh, so we're okay. Right. And uh for nuclear plants, it might be, you know, one in a million years that something bad is going to
+7:41
+happen because it's so severe. Depending on the kind of harm that we're trying to prevent, society, not AIS, have to
+7:47
+decide where we put those thresholds, right? I've always thought it was interesting that uh for most things, we'll accept
+7:53
+like a one in a 10 million chance of nuclear plant exploding, but we continue to build AI even though general predictions that it might wipe out
+7:59
+humanity are like 10%. Um all right Ejen why don't you talk a little bit about some of your work in continual learning
+8:04
+and you of course have been a brilliant critic of scaling laws for a long time including on a panel last year with Yoshua so tell us what you're working on
+8:11
+now all right so uh let me step back a little bit before I do continue learning
+8:17
+um you know right now AI is like super impressive but it's a little bit jagged
+8:22
+intelligence right in that it's amazing at bar exams and you know some of these like really difficult uh international
+8:29
+methia other problems yet uh you know you're not going to rely on it uh for uh
+8:37
+you know doing your tax return or even like uh making some important transactions because you may not be able
+8:43
+to click the right button on your computer. Um so why is it that is because right now the way that we train
+8:49
+AI LLM general AI is too data dependent and it's one time training and then you
+8:56
+deploy it and it may or may not make a mistake. So here are a few really important things that I think we need to
+9:02
+solve in order to get to the next next intelligence. So the first first of all
+9:07
+um continual learning. So you know like 101 machine learning 101
+9:14
+is that you separate out training from testing. It's almost a sin to mix the
+9:19
+two. But human intelligence is not like that. From the day one a baby is born,
+9:26
+it's in the deployment mode. It has to, you know, figure things out. It's real
+9:32
+life. So, humans can learn during the deployment time and we need to somehow
+9:38
+figure out how to ensure AI can learn continuously during the test time. So,
+9:44
+it's test time training that I'm working on. Another angle that's really important is that currently the reason
+9:51
+one of the key reasons in my mind why AI is unreliable sometimes and you know we
+9:56
+need to worry about the safety concerns as well that you know for example paperclip
+10:02
+uh you know scenario where you you ask LLMs to generate you know as many paper
+10:07
+clips as possible it might kill all of us in order to produce one more paperclipip right so in order to avoid
+10:14
+that kind of a silly situation that's harmful for humans. Uh AI should really figure out how the world works for the
+10:22
+sake of learning how the world works as opposed to just passively learning you know whatever uh data that's even given
+10:29
+to us. So I think a fundamental challenge here is that LLMs learn passively as opposed to proactively.
+10:37
+It's not really thinking for itself. is just trying to memorize all the texts given to us and then try to solve all
+10:44
+the math problems given to us as opposed to you know us humans being curious about how the world works and trying to
+10:51
+think for ourselves. And then lastly, it's a way too data dependent. Wherever
+10:57
+data, you know, wherever data is rich, it works. Wherever data is not rich, it
+11:02
+doesn't work. That's how things are right now. And then you know safety is hard because we have to create all the
+11:08
+safety data and you know red teaming jailbreaks these are not area of domain
+11:14
+where there's a lot of data. So um in order to fix this problem I think we
+11:19
+need a entirely different learning paradigm where it's really about thinking for itself almost trading off
+11:27
+data with compute. So you know learning with way less data but with more mental
+11:33
+efforts quickly ejing but if you have continual learning doesn't that open up a whole new spectra of problems like right now
+11:39
+you build a model you run a bunch of tests eventually you refine it few months later you do it again if it's
+11:44
+continuously learning how does that not become just suddenly infinite right I mean if you are learning from every answer and you're giving feedback and
+11:51
+like a baby's like in its crib it's walking around it's contained but if you have you know a few billion people using
+11:57
+a model at any time and it's learning constantly. Doesn't that open up whole whole new vectors of wonder but whole new vectors of problems?
+12:04
+Uh yes and no. So it could in theory in in a you know long long term but uh it's
+12:12
+so far off in my mind in the sense that humans can also continually learn but
+12:17
+there's a limit as to how much we can really reach. But another problem is that um after the system has evolved
+12:25
+sufficiently through this continual learning all the safety tests that we did previously may not be valid anymore.
+12:31
+So I think there's a real safety risk that you're pointing to. Uh yes. So my hope is that uh if AI is
+12:41
+trained correctly from day one uh so that it really understand human norms and values not just math problem solving
+12:49
+but human norms and values such that uh it will build its worldview and
+12:55
+everything else on top of it and then it's going to behave based on that. And how do you deal with reward hacking?
+13:02
+In other words, even if it understands human values, it might have optimized
+13:08
+something that is not quite what we want. We know what that gives. So reward hacking implies that
+13:14
+you know we just go with reinforcement learning and that's all we got. No, it shouldn't be all we got. No human
+13:22
+being is uh optimizing for one reward for the rest of their life, right? like we have so many different goals that are
+13:29
+at ours and we make some sacrifice you know I might want to do something but I
+13:35
+might not do it because you know I respect other people right so AI should be exactly this that they should
+13:41
+understand that values are at odds in real life in human life and that it needs to know uh how to make the
+13:48
+tradeoffs such that it's going to not violate laws it's not going to harm
+13:53
+people and whenever it's not clear what to do because There are always situations in which it's not clear what
+13:59
+the gold answer is. It should consult with humans and release the decision making to humans.
+14:05
+All right, but we're going to move to Eric. Eric, you have recently built a big new big new model K2 think you've
+14:10
+had a whole series of innovations in it. Explain what's you've done what you've done that's novel and what's different
+14:16
+from the amazing stuff that Ejing and Yosua are working on. Well, I have the rest of my boot. So uh
+14:22
+yeah as uh Nick just mentioned uh we at MPCI uh are among a few maybe the only
+14:28
+university that is actually building those uh foundation models from scratch. From scratch meaning that you know you
+14:34
+gather your own data you implement your own algorithm you build your own machine and then you train from top to bottom
+14:41
+and then you release and serve the whole process. I thought that this important for academic to be a player like this so
+14:48
+that uh we can share the knowledge to the public so that people can study many of the nuances you know in building this
+14:55
+and also understand the safety and risky issue. In fact I want to say that it is by no means easy it's very very
+15:01
+difficult. In fact I almost want to say that AI systems and softwares are
+15:07
+actually very vulnerable. They are not very robust and they are not very powerful. you remove one machine from
+15:13
+the cluster, you can crash the whole thing already. Now, what I'm building right now and know uh is of course to
+15:19
+improve uh AI performance. But um I want to maybe add on your question uh a
+15:26
+comment you know on uh what do we mean by intelligence and how to break it down
+15:31
+because if I tell my engineer say hey build a software that is intelligent they don't know what to do. So many
+15:37
+people have different opinions on intelligence. There are Nobel Prize winners, you know, in economy who may
+15:42
+not do very well in their stock inspection. You know, their wife may do better than them. You know, that's actually reflecting already different
+15:48
+level of intelligence and different utilities. In my opinion, what LM right now is delivering is a limited form of
+15:55
+intelligence. I would call them maybe textual intelligence or maybe visual intelligence which is actually on a
+16:02
+piece of paper in the form of language or maybe video but uh these are like
+16:09
+book knowledge if you want to put it on action. I was actually hiking a week ago in in the Austria Alps. I do the GPS I
+16:17
+do the Google I got all the train you know guides and even Google map in my hand. When I walk to the mountain you
+16:24
+still cannot rely on paper. You have to rely on yourself. You know, you you have all these unexpectations. Snow is too
+16:31
+deep and the weather is no good and uh you cannot see the past anymore. What do you do? So, this requires already a new
+16:38
+type of intelligence that is not available right now in which we call physical intelligence and that's
+16:43
+actually where people hear about the topic of war models. Word model is about understanding the word able to generate
+16:50
+the plans and the strategies and the sequence of actions purposefully so that
+16:56
+you can execute it and you can actually deploy it and also you can adapt to
+17:01
+changing environment but still this is uh not necessarily the smartest thing
+17:07
+that we could imagine because uh you know uh I would call the next level beyond physical intelligence would be
+17:13
+social intelligence you know right now we don't actually two LMS collaborating yet they don't really understand each
+17:19
+other in the form that we human do right there is no definition of a self what is
+17:25
+my limitation what is your limitation how can we divide the job into two or 100 so that we can you know break them
+17:31
+into parts therefore you can never you can never ask LM you know or model to help you run a company or run a country
+17:38
+because they don't understand this kind of nuances of interactive behaviors I
+17:43
+would put in fact also a last layer of intelligence that is still even further
+17:48
+which I would for the sake of for the lake of good name I call them philosophical intelligence which is that
+17:54
+is LM or AI models itself curious to discover the word to look for data and
+18:01
+to learn things and then to explain without you know uh being asked to explain that's probably where Josh is
+18:08
+very very uh concerned about because uh that's where you start to see definitively some sign of uh identity
+18:15
+and agent I want to say that we are not there yet. We are very far from there. Even the current physical model uh the war model
+18:22
+is very primitive because it is primarily rely on a run architecture that is directly a offspring of the LM.
+18:30
+So what my work is involving right now is to come up with new architectures
+18:35
+which uh represents the data do the reasoning and also do the learning using different ideas. People may heard about
+18:42
+Yanakun's architecture of Japa, right? It is a architecture behind many of the current world models. We have alterative
+18:49
+model called the JP which does the following. First of all, your representation of knowledge needs to be
+18:55
+richer, need to be containing both continuous and symbolic signals so that you can reason at different level of
+19:01
+granularity. And secondly, you need to have the right architecture which can carry a long way. People play with the
+19:07
+Sora probably have that experience. How many seconds of video can generate? Maybe 10 seconds, maybe a minute. It's
+19:14
+not because they run out of memory. It's because going beyond 1 minute or 10 minute, you don't have the ability to
+19:20
+track consistency, to reason consistently. In fact, you can try a very interesting experiment. You just
+19:27
+ask the Sara or maybe Jimny to generate you 360 degree of a round view around
+19:33
+you and then turn back to your degree zero. Did you see the same thing or not? it is not guaranteed. That's actually a
+19:39
+lack of consistency already in the system. And then stateful representations, you know, and also um
+19:46
+uh there are things like a continuous learning paradigm is a problem, right? Right now all models are in the form of
+19:54
+what we call passive learning. You feed the data and uh and then the model will be trained on those data. In machine
+20:01
+learning, we knew in the past a new paradigm called the active learning or proactive learning where the system
+20:07
+should hopefully be able to identify where they want to learn uh more you
+20:12
+know by using asking for more data but we are not yet there not alone go out and looking for data and create data
+20:19
+themselves. So I think you know uh AI uh as of now in my opinion still is a very
+20:26
+prime age. We have a lot to do to really get it to work. that you've all you w this is the handsome man at the end of
+20:31
+the panels. You've all know Har probably already know that. Welcome. How are he's late for the same reason that like everything is complicated in Davos which
+20:38
+is geopolitics. Apparently Macron went late and pushed his panel back. So here we are. Um you've all we've been talking
+20:44
+about is different paths, new research Joshua's been doing that Eugen's been
+20:50
+doing. You just walked in what Eric has been doing. Lots of different promising ways to make AI go faster. I'm going to
+20:56
+just ask you a philosophical question, which is, do you think that as we look for new models of AI,
+21:03
+we should be trying to make it more like the human mind or less like the human mind? This is something you've written
+21:09
+about beautifully, but I haven't heard you talk about this in the last while. No, I think it's completely different
+21:14
+from the human mind. The whole question of when will AI reach the same level of human as human intelligence, this is
+21:21
+ridiculous. It's like asking when will airplanes finally be like birds. They will never ever be like birds
+21:28
+and they shouldn't be and they shouldn't be and they can do many many things that birds can't. And this will be the same with AIS and
+21:35
+humans. They are not on the same trajectory behind us. They're on a
+21:40
+completely different trajectory for better or for worse. I'm very happy to hear that it is still that AIS I'm again
+21:47
+I'm not sure to what extent we can rely on it how long it will continue but the
+21:52
+fact that AIS for instance cannot cooperate so far this is wonderful news I hope it's true I hope it will remain
+21:58
+like that otherwise we are in very very deep trouble for me the lesson from from
+22:04
+history about intelligence you don't need a lot of intelligence to change the world and potentially to cause havoc
+22:11
+uh you can change the world with relatively little intelligence. And the other thing we've learned from human
+22:16
+history about intelligence, I'm not referring to anybody in particular. [laughter]
+22:23
+And uh the other thing we've learned about intelligence is that the most
+22:29
+intelligent entities on the planet can also be the most deluded. Human beings
+22:35
+are by far so far the most intelligent entities on the planet and the most deluded. We believe ridiculous things
+22:42
+that no chimpanzeee or dog or pig would ever dream of believing like that. If
+22:47
+you uh uh go and kill other people of your species, after you die, you go to
+22:52
+heaven and they'll live blissfully ever after because of the wonderful thing you did that you killed the these other
+22:59
+members of your species. No chimpanzeee will believe that, but many humans do, at least where I come from. And
+23:07
+um you can again when I say that you can change the world with relatively little intelligence. Humans have already done
+23:13
+much of the of the hard work for the AIs. Like if you drop an AI in the middle of the African savannah and tell
+23:20
+it take over the world. It can't how it will do it impossible. But if first you
+23:26
+have these apes who build all these bureaucratic systems like the financial system and then you drop the AI into the
+23:34
+existing financial system and you tell it okay now take this over that's much
+23:40
+much easier the financial system you don't need motor skills you don't need even to understand the world and AI can
+23:48
+understand the financial system is the ideal playground for AI it's a purelyformational like to train Train
+23:55
+AIS to make a million dollars. Create a million AIs, give them some some seed money, let's see you make a million
+24:01
+dollars. Now, if you have a few AIs has succeeded in doing that, replicate them.
+24:08
+What happens to the world if um more and more of the financial system is shaped
+24:15
+by AIS that developed bet even though they can't walk down the street
+24:21
+they know how to invest money better than humans it's a very very limited
+24:27
+intelligence but again think about social media um
+24:32
+social media is run to some extent by extremely primitive AIs these algor
+24:37
+algorithms that control our our news feed and so forth. Look what they did in 10 years. We created a human system
+24:44
+media and then we introduced the AIS into our system and it's anformational
+24:51
+system and they took it over and they to a large extent wrecked the world.
+24:58
+They are not the only reason for for for the mess now in the world. But if you think about what extremely primitive AIs
+25:05
+did within the human created system of of media
+25:12
+then well I'm going to I'm going to move this to Yasha because he in fact has invented
+25:17
+AIS or is working on inventing AIS that if dropped into the financial system and told to wreck it would not be able to
+25:23
+correct that's the hope respond to you all. Um I I I want to add something going back to
+25:29
+your first question connecting humans and AIs and whether we should build AIs
+25:34
+at our image. Yeah. Um and indeed they're quite different from us. The problem is we interact with
+25:41
+the many people interact with them with the false belief that they are like us and uh the smarter we make them
+25:49
+um the more it's going to be like this and and there will be people who want to make them even look like us. So it's going to be video first eventually maybe
+25:55
+physical form but it's not clear that it's it's good in in many ways in terms
+26:01
+of uh how u you know humanity has developed norms and uh expectations and
+26:08
+psychology that work because we interact with other humans but AIs are not really
+26:14
+humans for example they could be immortal right once an AI is created uh
+26:19
+in principle you could just you know copy it on more computers and we can't do do that with our brain as Jeff Hinton
+26:24
+has been highlighting many times and many other differences like they can communicate with each other a billion
+26:30
+times faster than we can do with between each with us with ourselves. And so
+26:36
+there, you know, there's going to be this illusion that we build machines
+26:42
+that are like us, but they're not. And and this is a dangerous illusion that could lead us to take wrong decisions.
+26:49
+Um the problem part of the problem is the scientists themselves like in in the
+26:55
+last 40 years that I've been working on AI uh in the whole community really we
+27:00
+took inspiration from uh human intelligence right like you were talking about continue learning because we're
+27:06
+good at that and we see that it's lacking in in AI and and that's fine
+27:11
+that's how research has been moving but I think we also have to think of what's going to happen when this uh gets to be
+27:17
+deployed in society more and more and people will anthropomorphize and and do weird things.
+27:22
+It's it's an amazing question. Let's let's let's move this to a to a topic that I think connects to this pretty well which is uh back to the
+27:28
+architectural questions or you know foundation questions which is the question of open source and there's actually been more and more discussion
+27:34
+here in Davos in part because Europe is recognizing they need a counterweight to the USA models. Eric you're building
+27:40
+open source models ejing you have strong views on them. Yosua you have strong views on them. Um Eugene why don't we start with you? What do you think of the
+27:46
+notion that it would be good if there were many more open source models that
+27:52
+we all started to use as much as we use the large foundation models? Yeah. So the way that I like to think
+27:59
+about open source is democratization of generative AI which is a powerful powerful tool. And what I mean by
+28:06
+democratization of generative AI is that it should be AI should be of human for
+28:11
+human by humans. AI is of human because it's really drawing from the internet
+28:16
+data. That's the artifact of human intelligence. It reflects our values. It
+28:21
+reflects our knowledge. By the way, values including horrible value, you know, that we do to each other. It
+28:28
+happens to be on the internet and so AI picks up on that. Uh there are sci-fi movies in which you know AI kills us all
+28:34
+and as a result that's what AI, you know, might actually say because it's uh written in the internet. Um AI should be
+28:42
+for humans in that uh you know humanity at large and all of the humans not just
+28:48
+some humans who happen to be in power. I deeply care about this that AI should
+28:54
+be really for all humans. And by the way worse than AI for some humans is AI for
+29:00
+humans or humans for AI even worse. It's really
+29:05
+good to think about how we build and design AI so that we work on problems that could really make humanity better
+29:12
+as opposed to you know just uh increase subscriptions and uh win the
+29:18
+leaderboard. And then lastly AI by humans. So what I mean by that is that AI should be created AI should be able
+29:25
+to created by you know different countries and different uh not just the
+29:31
+private sectors but public sectors and nonprofit or even academia. The reason
+29:37
+why I think about this way is that well I'm US citizen now but I used to be a Korean person and it's a very wonderful
+29:44
+thing if we we know how to create this even from Korea or from other countries as opposed to them having to just rely
+29:52
+on a country or two providing all the services for them. But would your would your goals be
+29:57
+satisfied if a Korea had a closed foundation model or do you want there to be a universal open model that everybody
+30:03
+is able to contribute to? Eric, you agree? People can choose to close or open. But
+30:09
+the reason why for the time being I really support open source is because uh
+30:14
+it takes too much of resources to build something really really good fast. And
+30:21
+so unless you're capable of you know really uh making very large data centers
+30:26
+and own lots of GPUs really fast it really helps to help each other to uh
+30:33
+share the scientific knowledge and everything so that uh the development goes much faster and by doing so by the
+30:39
+way we can make small models much more powerful so that uh a lot of organizations who cannot afford as much
+30:47
+can build LLMs that serve just their their needs, not like a general LLM that
+30:53
+can do everything, but something that really serves a business need really well. Right, Eric? So, you nodded at one point
+30:59
+and shook your head at another point. So, I need you to uh respond quickly here. Yeah, I I think open source, you know,
+31:05
+isn't really the goal. It is basically, you know, a philosophy or a way of doing things which come very naturally with
+31:12
+science with any of the scientific What do you mean it's not the goal? Like, it's not like you're not doing it
+31:17
+for the sake of open source. You're doing it because it's a more efficient way to reach the outcome. No, no, no. It is really a almost like a
+31:23
+responsibility or a natural style of doing the research of AI. You know, uh
+31:29
+in fact also pragmatic values. For example, I often ask do you prefer there is only one car maker in the world that
+31:35
+makes you feel safer or you actually see 10 or 100 is better. Right? Open source basically is about sharing knowledge to
+31:41
+the general public so that people can use it also people can study it and understand it and improve it. Of course
+31:48
+the assumption is that this technology you know uh is not a evil okay it's not
+31:54
+you know something that you really want to get rid of. I don't think technology itself by definition any technology is evil. It's really about the people who
+32:00
+use it in a wrong way. But uh by closing sourcing it you don't actually stop that. So open sourcing you know over the
+32:08
+the the benefit from open sourcing in my opinion overweights closing it because uh you know first of all you cannot stop
+32:15
+you know the way of using it and secondly by open it you actually you know are promoting more adoption and
+32:21
+more understanding of that. I also want to go back to uh the issue that Josh uh
+32:26
+just mentioned about the the the the impersonalization in of human air
+32:32
+technology creates the risk. Well, that is how we see it now. It's it's kind of
+32:38
+also you know implicitly assuming that we human being you know do a lot to learn you know from the new experiences.
+32:43
+In the past if you look at the history there are many magical inventions which may make certain population godlike but
+32:51
+then after some time people actually get comfortable with it and start to form
+32:56
+better judgment and also better understanding. I think the way of really you know making people safe and
+33:04
+comfortable and coexistent nicely with AI is to use more AI and also get
+33:10
+quickly adapt to it. It's like you are in a natural environment you had the virus and so forth. Of course you want
+33:16
+to uh think about stopping it but sometimes the nature choose to let you
+33:22
+coexist with the virus so that you become stronger. you know there are some risk some casualty but as a population
+33:29
+as a society we together evolve stronger. Yeah sure I have a question for you. So as a university professor you know
+33:34
+I've been promoting open source and of course open science for all my life but
+33:39
+uh if you start asking ethical questions then you you you know at some point you
+33:44
+start hitting a a problem which is some knowledge can be dangerous when it is
+33:51
+available to everyone. So, I'm going to give you a simple example. Uh, biologists are working on how to create
+33:56
+new DNA sequences that can actually create new uh, viruses that don't exist.
+34:02
+And if you know a sequence that gives rise to a virus that could kill half of
+34:07
+the planet, should you publish it? And and the answer should be obvious in this case, right? So, current AI systems
+34:15
+that are open sourced are net positive. It helps um it helps safety. It helps
+34:22
+democratization of AI and I'm as worried as you are about concentration of power.
+34:30
+Uh I'll come back to that. Uh the problem is if the capabilities of AI
+34:35
+continue to grow along the directions that we've been talking about, uh at some point we end up with AI systems
+34:41
+that are like well not the sequence itself but the machine that can generate the sequence that can kill half of the
+34:47
+population. So when AI reaches that stage um we should not just you know
+34:53
+give it to everyone because there are a lot of crazy people there are dangerous people there are people who want uh to use it you know for uh destroying their
+35:01
+enemies and military ways. So we should be very careful when we reach a level of capability where AI can be weaponized.
+35:09
+Now I agree about the issue of concentration of power but there are other ways than open sources. when we
+35:15
+get to that point where AI could be weaponized, I think and before we get there, we need to think about it. We
+35:20
+should really think of how we can manage um a few uh not just one uh a few AI
+35:28
+systems that will be dangerous in the wrong hands and where the power to
+35:33
+control these things will be decentralized. Right? So what we don't want is one entity, one government, one
+35:39
+corporation to dictate, you know, what the world should be. Um but I think that there are solutions to this and we have
+35:46
+experienced this sort of thing in the uh the international arena uh with
+35:52
+international treaties what we've done with nuclear weapons what Europe has done with the EU and so on. I think that
+35:57
+there are solutions and we should think about ways to both avoid catastrophic use and uh abuse of power in in the
+36:05
+hands of just this is I want to bring in you all here because this is like this is an amazing philosophical question right there's the
+36:11
+you know incredibly powerful technology are we safer if everybody's contributing to it and everybody has a say over but
+36:18
+everybody kind of has access to it or are we safer if a relatively small number of people who can be controlled
+36:23
+are answerable to governments and are all here in you know this somewhere in in the congress center um have control
+36:28
+of it. Have we ever faced this historically you've all has there ever been a moment like this and what was uh
+36:34
+what happened? I welcome Okay. Um I think the main point is that we
+36:39
+just don't know. We are at a point when we are conducting this huge historical
+36:45
+experiment and we just don't know. The key question for me how do we build a
+36:50
+self-correcting mechanism into it? How do we make sure that if we get the answer wrong, we'll have a second
+36:57
+chance? And the model for me is the last big technological revolution, which is
+37:03
+the industrial revolution. When the industrial revolution begins in the early 19th century, nobody has an idea
+37:10
+how to build a benign good industrial society. This immense new power, steam
+37:16
+engines, railroads, steam ships, how do you use them for good? And different
+37:21
+people have different ideas and they experiment. And European imperialism was
+37:27
+one experiment. Some people say the only way to build an industrial society is to build an empire. You cannot build an
+37:34
+industrial society on the level of one country because you must control the raw material and the markets. You must have
+37:42
+an empire. Then you have people who say it must be a totalitarian society. Only
+37:47
+a totalitarian system like bullsheism or like Nazism. The immense powers of
+37:53
+industry can only be controlled by a totalitarian society. Now looking back
+37:59
+from the early 21st century where you can say oh we know what the answer was. We think we know it took 200 years of
+38:06
+terrible wars and hundreds of millions of of casualties and you know injuries
+38:11
+that are not healed even today to find out how to build a benign
+38:17
+industrial society and this was just steam engines. Now we are dealing with potentially
+38:23
+super intelligent agents. Nobody has any experience with building a hybrid human
+38:30
+AI society. We should be a lot more humble in the way that we think we know
+38:36
+how to build it. No, we don't. How do we make sure? I don't know what the answer.
+38:41
+The question is how do we build a self-correcting mechanism? So if we take the wrong bet, this is not the end. I
+38:49
+want to bring the conversation from philosophical back to more like a
+38:54
+practical part because uh it's about where the checkpoint should be right you talk about a dangerous virus filing a
+39:02
+virus actually not easy you know the idea of a nuclear bomb for example is published somewhere you can google it
+39:07
+you cannot build it because you need to get the materials you need to get the labs there are a lot of checking points already you know uh you know we learned
+39:14
+from generations and centuries of governance and regulation ation and the human practices we set in many places
+39:21
+already after all AI is a piece of software it is software living in the computers and uh when it does the
+39:28
+physical harm it need to go out of computer that's already one extra checkpoint humans can do it for for the AI and
+39:35
+eventually there will be robots that will do it and humans are subject to checkpoints as well right virus on the other hand does
+39:41
+not but let me let me ask you this since since this is all this panel is all about like how to best construct the
+39:46
+next generation of AI I probably all agree here on this panel that we we want
+39:52
+lots of checkpoints and good checkpoints. We maybe disagree on whether we have enough right now. What is the sort of methodology or
+39:57
+architecture of AI that has the most checkpoints? Eugen, you got one right there. Yeah. Um I I mean I have a proposal uh
+40:05
+to handle this situation better. I think fundamentally the the problem is that AI
+40:11
+is too dumb. It's going to learn on any data that you give to it and if you
+40:16
+happen to give data about how to do cyber attacks or how to generate
+40:22
+bioweapons, it's just go ahead and you know learn from it, right? That's the fundamental challenge we're dealing
+40:28
+with. On the other hand, if we build AI, maybe following Yosha's AI scientist
+40:34
+direction that really learns, think for itself and really acquire human norms,
+40:41
+understand that that's what it should really abide by. And then when it reads
+40:46
+the training data given by some other human, it refuses to learn. When it
+40:52
+knows that this is illegal, it refuses to learn. And by the way, that's what humans also do. Like a lot of us of
+40:58
+course there are you know people who want to do bad things but a lot of us if I give you how to kill humans I mean
+41:04
+like you know through boweapons would you you know internalize it for yourself no because you you don't want to act on
+41:10
+it so I think we may need to rethink about how we design AI training algorithms such that it it has more
+41:17
+agency about like how to choose what to learn or to just not train on Reddit at all.
+41:23
+Yeah, I just want to mention that there because we've been talking about the technical aspects u of these questions
+41:30
+right now the way we design AI systems there is no boundary between uh data and
+41:37
+instruction so in normal programming it's two different things right so a program will read files and then there's
+41:44
+the code itself and the programmers write the code and they know that whatever is in the files the behavior is
+41:50
+going to be according to the with the way that we're building our AIS, there's no distinction. And so
+41:56
+that's the reason why it's so easy to in the data put instructions. That's how
+42:02
+you get jailbreaks, right? And and other security issues that we have with AIS. Um, and so I think that in order to get
+42:12
+more safety from the AI, we we need them to understand the distinction between what we want and what is instructed in a
+42:20
+way that's been socially kind of regulated. So who decides what the norms are and so on um, and what it reads as
+42:27
+data, what when it has an interaction with a user, we don't want the user to be able to make the AI do anything that
+42:34
+it that they want, for example. So is that like a set of like master controls you're trying to build? Is that like a
+42:40
+No. So in the scientist AI the the the way that we're doing this is we're
+42:45
+training the AI to make the difference between what people will say will write
+42:50
+uh which could be motivated which uh the AI should not take as truth or what it
+42:55
+should be necessarily doing and um other forms of information which uh contains
+43:02
+underlying truths or underlying causes of what is being seen and and that
+43:08
+second channel is one that is trustworthy. where we, you know, we don't necessarily give that access to uh anybody using the
+43:15
+AI, for example. But it's also a way to make sure we get AIs that understand the difference between uh what people will
+43:22
+say and what is actually, you know, the cause of what they say and if they what they say is true. So they get hotesty.
+43:29
+So we have just a few minutes left. We've talked about a lot of new architectures. We've talked about some new agent tech systems. We've talked a lot about open source. We've talked
+43:35
+about continual learning. We've talked about different ways of looking at data. And we've kind of talked about all the new systems as though they're good. Are
+43:41
+there any sort of new architectures or methodologies that people are excited about? Maybe ones that we've talked
+43:46
+about on stage that you think are actively bad and that we should not pursue maybe Eric and Een.
+43:53
+What do you mean by a bad architecture that the consequence are bad or the performance are bad? Either either works fine.
+44:00
+I think you know in fact uh maybe that is even compatible with what Josh is what about building a system that is uh
+44:08
+not in a closed loop fashion that you purely do uh thought experiments and uh
+44:15
+embedding internally in some kind of a latent representations and uh complete
+44:20
+all the training uh before emerging to the real world to validate in my opinion is a bad system
+44:26
+because first of all performance-wise uh there isn't really uh enough
+44:33
+checkpoints to even uh control uh and uh visualize or understand any of the uh
+44:40
+risking points and also it is very hard to connect a system to a uh uh action
+44:47
+conditioning points you can steer it, you can navigate, you can manipulate. On the other hand, you know, um it is going
+44:54
+to consume, you know, uh data and energy and the resource and the money, you
+44:59
+know, uh for too long before you actually see the end outcome. uh I'm not going to name any specific uh
+45:06
+instance of this architecture but it's actually pretty prevalent that people sometimes believe that I don't need to
+45:12
+really uh you know uh compare you know uh the content from AI system with real
+45:18
+world data constantly before you know I achieve a super intelligence and secondly I also think the current
+45:25
+learning paradigm which I totally agree with Yash and Yin about is uh a very
+45:32
+very primitive and maybe a uh unproductive one you know uh the data
+45:37
+you know right now you know is uh uh really you know uh the master of the
+45:42
+algorithm and of the system and the system itself uh is basically a oneshot
+45:48
+learning in a sense you train it and then when now I'm using GPTs or any
+45:53
+models they don't actually learn from that experiences and just like oursel
+45:58
+when we in the conversation I'm already learning from both of you and all of you you new points. I enjoy that. And the AI
+46:04
+system isn't built for that kind of functionality yet. And can you imagine that a system of that kind of dumbness
+46:11
+can become super intelligent and come back and go after us. I just don't feel
+46:16
+the dots can connect, you know, it doesn't have that kind of a task oriented type of data that guides you,
+46:23
+you know, beyond just pattern matching but actually do the reasoning and so forth. So if our goal is to build
+46:29
+smarter and more powerful system there are needs to explore new architectures.
+46:35
+Of course there is a separate issue but how do we measure the risk? I don't really know the exact answer but uh I
+46:41
+want to actually uh hear Josh uh your opinion is the solution to not doing that or do that with a very very uh
+46:50
+conscious and quantitative kind of approach to measure the risk to
+46:55
+experiment with all the scenarios very quickly. Yes, we we need to measure
+47:00
+the risk on the fly, not just once when [clears throat] we evaluate those models. Um, and uh we need to make sure that we
+47:08
+also have the right societal infrastructure. So even if we knew how to build really safe systems, uh there
+47:14
+are lots of bad things that can happen because humans are humans and so you know we need technical guardrails and we
+47:19
+need societal guardrails. Absolutely. Yeah. All right, let's wrap this up. Um your
+47:25
+book came out, Nexus came out about a year and a half ago. you have some real concerns about AI. You've just been here
+47:31
+with three of the smartest, most influential AI, you know, researchers and uh in the world. They've won every
+47:36
+prize imaginable. Do you feel like we're getting onto the right track or do you
+47:42
+not? I think we are thinking on different time scales that when people a
+47:48
+lot of the conversations here in Davos when they think that when they say long term, they mean like two years.
+47:55
+When I say long term, I mean like 200 years. It's like again it's an
+48:01
+industrial revolution. The first commercial railway has been opened between Manchester and Liverpool in
+48:07
+1830. This is now 1834, 1835. And we are having this discussion. People saying
+48:13
+the industrial revolution is moving so slowly. They told us that railways and
+48:18
+steam engines will change the world. So what? So a few people are going between Manchester and Liverpool. didn't change
+48:24
+anything. This is all science fiction because the time scale that we have no
+48:30
+idea even if the all progress in AI stops today the stone have been thrown
+48:38
+into the pool but it just hit the water. We have no idea what are the waves
+48:44
+created even by the AIS that already have been deployed say a year or two
+48:50
+ago. Social consequences are a completely different thing. You cannot
+48:57
+run history in a laboratory and see what are the social consequences of invent.
+49:02
+You can test for accidents. You create the first h steam engine. You can test
+49:08
+for accidents. You cannot test what will be the geopolitical implications of the cultural implications of steam engine in
+49:14
+the laboratory. It's the same with AI. So um it's just far too soon to know and
+49:22
+uh I'm mainly concerned about the lack of concern that you know we are creating
+49:28
+we are deploying the most mainly the most powerful technology in human history and a lot of very smart and
+49:36
+powerful people are worried about uh you know what will the investors say in the
+49:43
+next quart quarterly report. they they think in terms of a few months
+49:48
+or a year or two. Um Joshua just just quickly uh I want to thank you
+49:55
+Ari because uh he's talking about lack of concern and I've started a new organization a nonprofit that's trying
+50:01
+to implement the scientist AI and Uvel has graciously accepted to be on the board. uh we need people like him to
+50:08
+look uh with a independent oversight on on what we be be doing with AI on with
+50:14
+society in the coming years. All right, time scale 000000. Thank you so much. This is an amazing
+50:20
+panel. You're all absolutely wonderful. Thank you for the work you do and thank you for participating here. Thank you.
+50:35
+[music]
+

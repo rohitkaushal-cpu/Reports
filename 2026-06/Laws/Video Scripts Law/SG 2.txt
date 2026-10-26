@@ -1,0 +1,680 @@
+
+Search in video
+Introduction
+0:00
+Regulators are not just looking at crypto. They are hardening the perimeter around platforms, custody, and financial
+0:08
+crime controls while still experimenting with tokenized settlement behind the
+0:14
+scenes. That shift matters because it changes the question from is tokenization coming to under what rules
+0:22
+and with what compliance burden. In this episode, I will compare Singapore and
+0:29
+Australia as two very different governance models for digital tokens. We
+0:34
+will map who regulates what, how its country's regulatory language has evolved over time and what their policym
+0:42
+cycles look like when you view them through a simple four- stage lens. Strategy, consultation, deliberation,
+0:48
+and evaluation. And importantly, we will close with the real world adoption drivers. what actually pushes uh token
+0:55
+activity forward each country and what holds it back. Singapore runs a
+1:01
+regulator activity based model where mass anhor supervision and the rule book depends on
+1:09
+what the token is in law and what service is performed. Australia on the other hand applies a multi- agency model
+1:16
+across treasury ASIC Astra and the Reserve Bank and the AP with treatment
+1:22
+depending on the activity and legal perimeter. Both jurisdictions are moving toward tighter parameter clarity but
+1:30
+they do it in different ways. Singapore's model is high trust and high compliance
+1:36
+organized around token character and regulated activity with strong
+1:41
+institutional experimentation alongside firm retail risk controls. Australia's
+1:47
+model is multi- agency and implementationdriven increasingly integrating digital token
+1:54
+activity into mainstream financial services expectations while expanding financial crime coverage and building a
+2:01
+clearer market structure regime for platforms and custody.
+2:19
+And now let us begin. So we will start basically with the
+Regulatory Architecture and Key Institutions: Who Regulates What
+2:24
+regulatory architecture and the key institutions. Who regulates what, right?
+2:32
+Singapore's regulatory framework for digital tokens is based on the regulatory activity and the legal
+2:37
+character of the token and is implemented through a multi- agency architecture. The Monetary Authority of
+2:44
+Singapore is the primary regulator. It licenses digital payment token services under the payment services act 2019.
+2:52
+Regulates tokens that constitute capital markets uh products under the securities and future act and applies the financial
+3:00
+services and markets act 2022 regime to digital token service providers that are
+3:06
+based or incorporated in Singapore but provide digital token services to
+3:11
+persons outside Singapore. So in this framework a digital token is what it
+3:17
+basically includes either a digital payment token or a digital representation of a capital markets
+3:23
+product that can be transferred stored or traded electronically here to say
+3:29
+that it's excluding the excluding excluded digital tokens. All right. Now a digital token service provider is a
+3:36
+person that provides a digital token service and the digital token service user is the person that uses such a
+3:43
+service. Now, the suspicious transaction reporting office within the Singapore Police Force receives suspicious
+3:49
+transaction reports and supports financial crime investigations while Minister of Flow oversees anti-money
+3:55
+laundering and countering the financing of terrorism obligations for designated non- financial sectors outside monetary
+4:02
+authority licensing. In Australia on the other hand, oversight of digital asset activity is assured across multiple
+4:09
+regulatory bodies and regulatory treatment of course depends on the activity being performed and the
+4:15
+relevant linker parameter. The Commonwealth Treasury leads policy and legislative design for the national
+4:22
+digital asset market structure framework, including proposed reforms intended to bring digital asset
+4:28
+platforms and tokenized custody platforms more explicitly within the financial service regimen. The
+4:33
+Australian Securities and Investment Commission administers and enforces
+4:39
+corporations and financial services law, including licensing, disclosure, market
+4:44
+integrity, and misconduct rules, and it issues guidance on when digital asset
+4:50
+arrangements are treated as financial products or financial services under existing law. Ostra is the anti-money
+4:58
+laundering supervisor and financial intelligence agency. It regulates
+5:03
+relevant designated services including digital currency exchange services which
+5:09
+require registration and compliance with antimaring and counter terrorism
+5:14
+financing program customer due diligence the reporting and uh record keeping
+5:19
+obligations. Now in Astra's established terminology, digital currency is a digital only currency that can be
+5:26
+exchanged for goods or services or for physical currency and and is not issued by or under the authority of a
+5:33
+government. In parallel, Australia's anti-moneyaundering reform program increasingly uses virtual asset services
+5:41
+concepts as part of staged legislative chains. The Reserve Bank of Australia
+5:47
+leads work on payments system policy and experimentation relevant to settlement
+5:52
+and central bank digital currency. While the Australian Credential Regulation Authority sets credential expectations
+6:00
+for um regulated financial institutions including risk management expectations where entities engage in um crypto asset
+6:08
+activity. So overall Singapore runs a regulator
+6:14
+activity based model okay where mass andor supervision and the rule book
+6:20
+depends on what the token is in law and what service is performed. Compliance is determined by activity mapping like this
+6:27
+includes the platform transfers custody issuance marketing not by labels right
+6:32
+Australia on the other hand applies a multi- agency model across treasury ASIC
+6:38
+abstract and the reserve bank and the AP with treatment depending on the activity
+6:44
+and legal perimeter. Now firms must manage compliance across multiple interfaces and evidence obligations
+6:51
+consistently across agencies. Let us now see the regulatory to
+Regulatory Tone Language Over Time
+6:58
+language how it has changed over time. Let's start with Singapore. Singapore's regulatory language on digital tokens
+7:05
+has evolved in four phases with a consistent underlying principle. So regulation is organized around
+7:11
+activities and risks and innovation is acceptable only where it is compatible with market integrity consumer
+7:18
+protection and financial crime controls. So in about between let's say 2017 2018
+7:26
+we had the boundary center setting and classification. So 2017 18 was all about
+7:32
+boundary setting and classification. At that time the tone it was primarily definitional and perimeter focused.
+7:40
+Policy mergers clarify that digital tokens are not regulated as a category in themselves. Instead regulation
+7:45
+applies to the activities carried out and to the legal character of the token. Tokens that function like securities are
+7:52
+treated with an existing securities law. The practical meaning here is that early
+7:57
+messaging prioritizes legal classification and risk identification over promotion of adoption. Now from
+8:04
+2019 to 2021 we had more about formalization and
+8:11
+supervisory operationalization. The language here becomes more technical
+8:16
+and supervisory as the payment services act in 2019 establishes a licensing
+8:22
+parinter for payment related token activity coupled with explicit
+8:28
+expectations on governance systems and controls and of course anti-money laundering and countering the financing
+8:34
+of terrorism measures. The regulatory register shifts from where the boundary is to what license fees we must do
+8:42
+signaling that market participation is conditional on demonstrable compliance
+8:48
+capability. Now between 2022 and 2023 what we can see is retail risk
+8:55
+tightening with a parallel institutional innovation track. the tone becomes noticeably more cautionary and
+9:02
+restrictive for mass market exposure. So policy communications emphasize
+9:08
+speculative risk and impose stronger expectations around retail facing
+9:13
+conduct including restrictions on public promotion. At the same time the state continues to support structured
+9:20
+institution grade initiatives in uh tokenization and settlement infrastructure. So here we have more
+9:26
+about like tightening retail pathways while continuing controlled innovation
+9:31
+in wholesale and regulated environments. Between 2024 and 2025 we have the
+9:39
+perimeter extension and we have more a perimeter extension and higher compliance thresholds for offshore
+9:45
+facing models. So we look a little bit outside the borders. The language now becomes explicitly compliance forward
+9:54
+focusing on licensing ongoing obligations and for stability for entities operating from or
+10:02
+incorporated in Singapore while providing services to customers outside Singapore under the digital token
+10:08
+service provider framework. So here the message is clear that Singapore will host digital token activity only where
+10:15
+governance financial crime controls and supervisory accessibility meet a high threshold. Models that depend on weak
+10:23
+controls or regulatory arbitrage face limited tolerance. Now let's look into
+10:29
+Australia. Australia's regulatory tone and language on digital tokens evolved
+10:34
+in four phases with a consistent shift from cautious observation to clearer
+10:40
+perimeter setting and then to implementation oriented market structure
+10:46
+reform. So between uh 2017 and 2020
+10:52
+cautious observation and uh perimeter signals are observed. Official messaging
+10:58
+primarily frames crypto assets as speculative and peripheral to monetary
+11:03
+policy while highlighting points of interference with the regulated system.
+11:08
+For example, we have where crypto meets banking and the payment trails. So the
+11:14
+language is exploratory and risk aware with really emphasis on monitoring
+11:20
+developments, understanding payment system implications and signaling that
+11:25
+existing financial services law may apply depending on how products are
+11:31
+structured and marketed. Now between 2021 and 2023 stronger risk emphasis
+11:37
+with control expert experimentation is observed. the tone becomes more operational and enforcementoriented.
+11:45
+So, regulatory communications increasingly stress consumer harm, misleading promotion, custody and
+11:53
+operational risk and anti-money laundering compliance obligation. At the same time, central bank digital currency
+12:00
+and organization discussions are framed as controlled evidence building
+12:05
+initiatives rather than commitments to w retail deployment. And the dominant
+12:10
+message is that innovation may proceed but only within robust governance, clear accountability and compliance
+12:16
+parameters. So from 2024 to 2025 we have same activity, same expectations,
+12:22
+consolidation. So the language increasingly normalizes the view that
+12:27
+digital asset business models should be held to mainstream financial services
+12:33
+outcomes including appropriate licensing if required and where required, market integrity, disclosure and conduct
+12:40
+standards and demonstrable systems and controls. Policy communication shifts from how we interpret existing rules
+12:47
+toward to how the parameters should be modernized. preparing the ground for a
+12:52
+dedicated market structure framework for platforms and custody. A little bit at the end let's say of 2025 and 2026 we
+13:01
+see implementation driven market structure and expanded financial crime coverage. [snorts] Now the tone here
+13:08
+have started become more concrete and execution focused. Treasury's exposure draft work and subsequent legislative
+13:14
+steps move from discourse from consultation to propose statutory architecture explicitly bringing digital
+13:21
+asset platforms and tokenized cash to the arrangement into a clearer licensing
+13:26
+and supervisory perimeter. Now in parallel the anti-money laundering trajectory becomes more time bound than
+13:34
+operational. Astra sets stage commencement milestones, publishes implementation
+13:40
+guidance for newly captured sectors and progressively expands the scope of
+13:46
+regulated virtual asset related services. The overall meaning of this phase is not that they do deregulation,
+13:54
+right? It [snorts] is formal integration. Digital token activity is increasingly treated as a part of the
+14:01
+core financial system parimeter with clearer authorization pathways and higher more explicit compliance
+14:08
+expectations. So looking at both countries, Singapore's language matures from parimeter setting to enforceable
+14:14
+licensing and controls to tighten retail risk measures and then to higher
+14:20
+thresholds for offshore facing models with Singapore and a high trust high
+14:25
+compliance pathway. It becomes very very clear. Now innovation is viable but only
+14:31
+with demonstrable governance and financial crime controls. Australians on the other hand tone it basically moves
+14:38
+from cautious monitoring to a more clear perimeter setting and then to
+14:43
+implementation focused market structure reform increasingly applying the same
+14:48
+activity same expectations and the takeaway here is formal integration into mainstream financial regulation with
+14:54
+raising expectations for platforms custody conduct and anti-money laundering maturity.
+The Four-Stage Policy Cycle
+15:02
+Now let us look a little bit on the four stages of the policy cycle. So basically
+15:07
+to keep this comparison clear I'm going to use this simply policy process lens just to remind you that we have already
+15:13
+covered these uh processes the previous episode in episode six. So remember in policym we broadly have let's say when a
+15:21
+government wants to create the policy for a new technology let's say broadly they follow four processes the strategic
+15:29
+consultative deliberative and evaluative processes. Now strategic processes are
+15:35
+about the direction and the ownership meaning like who takes the lead, what objectives dominate and how the balance
+15:42
+is framed between innovation, investor protection, anti-moneyaundering and counterterrorist financing and the
+15:47
+financial stability. Now the consultative processes are about who gets to speak before willen. So here we
+15:54
+have public hearings, warnings, speeches, guidance papers, calls for evidence and generally consultations.
+16:00
+Then we have the deliberative processes. Those are about where institutions translate broad principles into concrete
+16:06
+governance. So here we have legal text, we have authorization thresholds, we have licensing conditions, we have
+16:12
+disclosure duties, we have supervisory expectations and enforcement tools. And then we have the evaluative processes.
+16:18
+This is where the loop is closing. So the authorities here react to market developments, failures, enforcement
+16:24
+cases and crossber risks. And then they decide what to tighten, what loopholes
+16:29
+to close, and what to redesign as the market evolves. Let's now go and apply
+16:34
+these four policy processes into Singapore and Australia.
+How Policy Is Made in Practice: Singapore’s Cycle vs Australia’s Cycle - Singapore
+16:40
+Singapore digital token policym can be described as let's say the four state
+16:46
+cycle again strategic direction I guess consolidation, deliberation through controlled experimentation and
+16:52
+evaluation. It's built on an activity and riskbased philosophy that regulates
+16:58
+what the token does and what the intermediary does rather than you know
+17:03
+treating crypto as one category. Basically, let's look at it in a chronological order. Let's focus first
+17:10
+between 2017 and 2025. So from 2017 onward, Singapore's core strategic
+17:15
+choice has been to regulate digital token activity through targeted risk controls. So tokens that function as
+17:22
+securities are addressed through existing securities laws while payment related token activity is brought into a
+17:29
+modular licensing parimeter under the payment service act 2019 strategy then
+17:36
+tighten around three priorities. Number one making strong anti-money laundering
+17:42
+and countering the financing of terrorism controls precondition for market access. Number two, constraining
+17:47
+retail facing exposure and speculative harm through conduct and access
+17:53
+measures. Number three, sustaining institution grade innovation into market
+17:59
+infrastructure. So basically this trajectory uh culminated in a clearer
+18:05
+offshore facing parimeter by 2024 to 2025 through the digital token service
+18:10
+provider regimen for entities operating from Singapore or incorporated in
+18:16
+Singapore while serving customers outside Singapore are combined by an
+18:21
+explicit high bar posture for licensing. So after August 2025, strategic
+18:28
+direction continued through public commitments and policy signaling around scaling wholesale sentiment innovation.
+18:35
+For example, trials involving tokenized government in instruments and expanded wholesale central bank digital currency
+18:42
+experimentation. Okay. Together with renewed emphasis on crossber settlement
+18:48
+partnerships to modernize realtime foreign exchange and digital asset settlements. Now looking into the
+18:55
+consultation. So basically the consultations in Singapore blends formal
+19:01
+public consultations with structured engagement and um concrete risk measures. So domestically consultation
+19:08
+has been used to refine licensing expectations, strengthen conduct requirements for digital payment token
+19:14
+services and develop market integrity and uh consumer protection measures. Now, internationally, consultation
+19:22
+increasingly connects Singapore's domestic rulemaking to global consistency and starters alignment,
+19:29
+particularly on market integrity, investor protection, financial stability, and financial crime controls.
+19:36
+close to the end of 2025. This consultative function is also reflected in the issuance and updating of
+19:42
+interpretive guidance that clarifies how existing security law applies to the
+19:48
+tokenized capital markets products and what good market practice and basically disclosures should look like in
+19:54
+tokenized issuance and trading contexts. Now let us look a little bit on the deliberation processes. So deliberation
+20:01
+through control experimentation how it looks like in in Singapore it is kind of like transitional the regulator and
+20:08
+ecosystem use structure pilots to test what can work safely in real market
+20:14
+conditions and to convert leations into scalable and infrastructure expectations. The sequence runs from
+20:21
+early experimentation in distributed ledger settlement and controlled sandboxing to deeper engagement with
+20:29
+decentralized financial risk and wholesale use case to multi-jurisdiction experiments on crossber settlement
+20:36
+including P platforms designed for international sentiment using digital currencies issued by multiple central
+20:43
+banks and collaborative work on tokenization of financial assets and wholesale funing. markets. Again, a
+20:50
+little bit at the end of 2025, the same deliberative logic continued through
+20:56
+further settlement initiatives designed to taste and extend whole settlement capabilities that connect tokenized
+21:03
+assets with regulated forms of tokenized money and this includes uh work exploring settlement using tokenized
+21:09
+bank liabilities and well- reggulated stable coins. Now, let's look into the evaluation processes. So Singapore's
+21:16
+evaluative approach is continuous and sock responsive. Policy is tightened when risk signals strengthen when market
+21:23
+failures reveal consumer harm or when supervisory experience shows where controls are insufficient. So this
+21:30
+evaluative poster explains the progressive tightening of retail facing rules, repeated reassessment of stable
+21:37
+coin risks and safeguards and movement towards conservative credential treatment for a high-risk crypto asset
+21:44
+exposures in the banking system. In the end of 2025, the evaluative tightening
+21:50
+is also visible in measures aimed at strengthening discipline in digital marketing and online promotion of
+21:57
+financial products which reflects a judgment that consumerf facing distribution channels required stronger
+22:03
+quite trials uh based on observed conduct and exposure risks. Before we
+22:08
+basically summarize the differences between them, let's look the Australia. Australia's digital token policy making
+How Policy Is Made in Practice: Singapore’s Cycle vs Australia’s Cycle - Australia
+22:14
+can be again we will look at it from the four processes in Australia the responsibilities are distributed across
+22:20
+the commonwealth treasury market design and legislation the reserve bank of
+22:26
+Australia this includes payment monitory system analysis and the pilot and the
+22:31
+Australian securities and investment commission. So here we have the financial markets conduct the licensing
+22:37
+and the enforcement under corporations and financial services law. We also have the anti-money laundering. This is
+22:43
+covered under Orak. So OTRA is responsible for anti-money laundering supervision and financial intelligence.
+22:49
+Let's look at the strategic processes. So Australia strategic approach has been
+22:54
+incremental and technology neutral. Explore new reforms of digital money and
+22:59
+settlements infrastructure while progressively tightening consumer protection and financial crime controls.
+23:06
+So early reserve bank work treated crypto primarily as speculative and assessed implications for payments and
+23:13
+monetary policy then evolved into more structured exploration of central bank
+23:20
+digital currency and wholesale settlement use cases. Now if we look
+23:25
+from 2022 and onward the strategic emphasis sharpened around risk
+23:30
+especially consumer harm and anti-money laundering obligations. After August 25, the market structure agenda moves from
+23:37
+policy design towards the legislation, including the bill introduced to parliament in late 25 to define the
+23:43
+concepts and tailored application of financial services law to digital tokens, digital asset platforms, and
+23:50
+tokenized custody arrangements. Now in parallel, arrform program set explicit
+23:57
+implementation milestones that expand anti-moneyaundering coverage to additional virtual asset related
+24:03
+services from 31st March 2026 and extend obligations to broader transit to
+24:10
+sectors from uh 1st of July 2026. Now consultation it's the spine of
+24:17
+Australia's let's say market structure development. The Treasury's token mapping work in 2023 emphasized a shared
+24:24
+policy vocabulary and evidence-based to support later parameter decisions followed by targeted consultations on
+24:31
+how to regulate digital asset platforms within the existing financial services architecture. This consultative thread
+24:38
+continued after let's say I think August to 25 with exposure draft legislation
+24:44
+published in September 25 to bring digital asset platforms and the
+24:50
+tokenized custody platforms with an more clear regulatory parameter. In the same
+24:55
+periods, the Australian Securities and Investment uh Commission progressed interpretive and guidance work on how
+25:02
+existing law applies to digital asset and updated its guidance in October 25
+25:09
+to 2025. I mean to improve clarity and provide transitional support as reforms
+25:14
+advance. Astra also signaled a structured implementation pathway including a commitment to publish sector
+25:21
+specific guidance for newly captured sectors at the end of January 26. Let's
+25:26
+look into the deliberation. Deliberation in Australia is an in um controlled
+25:32
+pilots that translate policy questions into operational evidence particularly
+25:38
+in wholesale payments and tokenized settlement. Reserve Bank collaborations
+25:43
+with research and industry partners developed into more structured initiatives such as the project Accessia
+25:51
+which explores how different forms of uh digital money and supporting infrastructure could enable wholesale
+25:57
+tokenized asset markets and settlement and um efficiencies. So this experimentation functions as uh
+26:04
+deliberation right it informs physibility governance risk controls and interoperability before widescale
+26:11
+regulatory commitments are finished. Let's look into the evaluation processes. uh Australia's evaluative
+26:16
+processes saw a clear shift from viewing crypto as like peripheral to avoid
+26:21
+treating stable coins to digital asset platform failures as issues with
+26:26
+meaningful consumer protection and market integrity implications and as
+26:32
+such requiring clearer perimeter rules and stronger enforcement capacity. This is reflected actually in sustained
+26:39
+enforcement focus on misleading conduct and investor harm and in aruck's growing
+26:45
+emphasis on systems and controls maturity and the expansion of the anti-money laundering parimeter. Now
+26:52
+after the August 25 evaluation is visible in basically two practical
+26:57
+moves. So first we have the arract stage reform milestones. This includes the
+27:02
+January 26 guidance and the March 26 commencement for expanded virtual asset
+27:09
+coverage. And then the second is the legislative and supervisory design intending to reduce uncertainty by
+27:16
+bringing platform and custody activities into a more explicit licensing and
+27:22
+conduct regime adding the financial services law into both countries.
+27:28
+Singapore's policym is not linear innovation first or restriction first
+27:33
+model but it is a discipline cycle which includes the setting of riskbased
+27:40
+strategic parameter consultation to refine the controls they have in place and the expectations deliberation
+27:47
+through controlled real world testing and then recalibration of rules and supervisor testing as the risks market
+27:54
+and practices and the crossborder Their conditions evolve highly and rapidly.
+28:01
+Tokenization is supported mainly through supervised institution grade roots with
+28:07
+rising expectations for auditable controls and operational resilience.
+28:13
+Australia's approach is incremental and technology neutral but it starts being
+28:19
+increasingly executiondriven combining consultation lead market structure design with control pilots and stronger
+28:26
+consumer harm and of course high emphasis in antimalaundering. There is a movement from interpretation
+28:32
+to statutory architecture with clearer licensing and conduct expectations for
+28:38
+core intermediaries. Now in Singapore, digital token adoption
+What Pushes Uptake and What Holds It Back
+28:45
+is shaped by a tightly coupled set of policy, economic and social cultural
+28:50
+drivers with government actions and regulatory choices operating as the primary catalyst. So first government
+28:57
+initiatives, partnerships and policy direction plays a decisive role by creating an enabling environment while
+29:05
+simultaneously setting the boundaries of what is acceptable and scalable meaning
+29:10
+adoption is strongly mediated by how innovation supportive regulation is
+29:16
+perceived to be. Second adoption is influenced by the interaction between the market fundamentals and cost
+29:23
+frictions. So demand and supply dynamics of course matter but so do transaction
+29:28
+cost fees particularly because Singapore already has efficient and cheaper financial artilleratives making thus the
+29:36
+adoption more contingent on whether digital token offer a clear like competitive advantage. Third we have
+29:42
+social cultural conditions that shape the uptake. This include the expertise the perceived usefulness and trust. So
+29:49
+awareness alone of course is is insufficient and just knowing about the crypto it's just as efficient and the
+29:55
+insufficient and the complexity of digital tokens makes specialist capability a key enabler. Perceived
+30:04
+usefulness supports adoption yet public trust can remain fragile due to concerns about scams, fraud and risk even when
+30:12
+usefulness is recognized. Finally, Singapore's adoption pathway is also affected by structural and network
+30:19
+factors like including its small let's don't forget that it's a small domestic market which can reduce the immediate
+30:26
+scale advantages of mass adoption and its role as the broker connecting
+30:31
+financial and technological networks which supports diffusion through institutional and ecosystem linkages
+30:38
+rather than purely consumer-led uptake. Now what about Australia? Australia's
+30:43
+digital tokens adoption is influenced by a multi-layered interaction of geopolitical slash let's say legal
+30:51
+economic and socioultural dynamics. So looking geopolitically speaking adoption
+30:57
+is shaped by the ongoing tension between decentralization and regulation supported by the Australia's political
+31:04
+stability and uh reinforced by the influence of central actors within financial policy networks illustrated
+31:11
+through the role of uh they say for example that senator Andre Brax played a
+31:17
+huge role when we look at it from the economic perspective the way Australia's adoption is strongly affected by
+31:23
+marketing and perceived economic benefits from promoting digital tokens indicating that adoption is partly a
+31:30
+market narrative driven rather than purely technology or costd driven. Now socioulturally speaking, knowledge and
+31:37
+awareness are uncknowledged but I mean knowledge and unawareness they do play a
+31:42
+role but they treat it as as sufficient. Okay, it's not enough knowing or being
+31:48
+aware of the digital tokens. So what does it play where what exactly is playing a role here? Expertise expertise
+31:55
+is a decisive and alert. Why? Because of the complexity of digital tokens and
+32:00
+their implications. However, adoption is also a constraint by trust related
+32:06
+frictions. For example, we have public trust and we have the perceived fear of
+32:11
+digital tokens in in Australia. This is because they are often associated with
+32:16
+scams with fraud which can harden let's say the adoption even if perceived usefulness exist. Then we have
+32:23
+Australia's relative geographic isolation playing a role because it may reduce the frequency and ease of direct
+32:30
+interactions compared with more proximate regions while shared cultural
+32:35
+norms with the UK for example support social relatedness. Yet Australia still
+32:43
+uh displays a distinct diffusion pattern characterized in um by a heightened fear
+32:50
+related uh to the UK's let's say stronger investor appetite. So overall
+32:55
+digital token adoption in Singapore was saved by government direction and
+33:01
+regulatory design with institutionled initiatives creating templates for
+33:06
+tokenized markets. Economic uptake depends on clear advantage over efficient um incubants and social
+33:12
+cultural uptake depends on expertise and trust. Again here let me remind you that
+33:18
+awareness is is not that much important. So basically the diffusion for digital
+33:24
+tokens tend to be infrastructure and institution driven not purely consumer led. In Australia on the other hand,
+33:31
+adoption reflects tension between decentralization and regulation which influenced by marketing and perceived
+33:38
+economic uh upside and is constrained by trust frictions linked to fraud scam
+33:44
+concerns. Uh structural distance can also affect the network interaction compared with a more let's say
+33:51
+approximate regions. So the risk perception and credibility signals play
+33:56
+an an outsized role alongside policy design.
+34:02
+So that bring us to the end of today's Singapore versus Australia comparison.
+34:08
+The key is that both jurisdictions are moving toward tighter parameter clarity
+34:13
+but they do it in different ways. Okay. So Singapore's model is high trust and
+34:19
+high compliance organized around token character and
+34:25
+regulated activity with strong institutional experimentation alongside firm retail risk controls.
+34:32
+Now, Australia's model is multi- agency for sure and implementationdriven,
+34:37
+increasingly integrating digital token activity into mainstream financial services and expectations while
+34:44
+expanding financial crime coverage and building a clearer market structure regime for platforms and custody. So if
+34:52
+you found this episode useful then subscribe and share it with anyone
+34:58
+working in regulation compliance policy or digital assets and I would like to
+35:04
+hear your view. Where do you think the hardest regulatory convergence point will be platform licensing custody
+35:11
+countability or financial crime controls across borders? So, you can leave a
+35:17
+comment below and turn on notifications so you do not miss the next episode of
+35:22
+By the Rules. Thank you for watching and I will see you next time. [music]
+35:33
+[music]
+

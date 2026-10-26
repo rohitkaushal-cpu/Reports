@@ -1,0 +1,208 @@
+0:00Hey everybody. Uh I'm Colin. I lead tokenization for Chainlink. Uh and formerly at Centrifuge. So the Real
+0:099 secondsWorld Asset Summit is near and dear to my heart. Uh excited to be back and very excited to have these fine panelists with us today. Um
+0:1818 secondsDaniel, let's start with you. We're going to talk a little bit about I'd like to know you're obviously leading Tokeny. Tokeny
+0:2727 secondsbecame a part of Apex. curious to just talk us through at Apex what is your organ how is your organization thinking about tokenization and given kind of
+0:3535 secondsApex's background how you're thinking about bringing that into the onchain ecosystem that we have here well the first thing that we have
+0:4444 secondsdiscussed when I joined Apex is to stop talking about tokenization um tokenization is a capability um that
+0:5252 secondsdoesn't exist as a product itself but more as a feature that we want to bring into the existing product line of Apex So being a closedended fund, open-ended
+1:011 minute, 1 secondfund, stable coin, stable coin may be more relevant, but it doesn't change the nature of the asset, right? An open-ended fund remains an open-ended
+1:081 minute, 8 secondsfund even if it's tokenized. Um, so we have agreed that let's uh look at the infrastructure play. Let's look at tokenization as a feature that we should
+1:181 minute, 18 secondsplug into any assets and create a representation on chain of that asset on demand. Not everyone needs to have a
+1:251 minute, 25 secondstoken. You know, if I invest in a private fund that has five years lifetime, I'm a passive investor. Why would I need a token, right? Uh I'm
+1:341 minute, 34 secondsgoing to wait a five years, get my investment back. I may want to have a token to see a consolidated view of my portfolio in in an app, but other than that, I'm not interested. If I want uh
+1:421 minute, 42 secondshave access to secondary because it's taking too long for the fund to liquidate or if I want to characterize my interest, I should be able to request my token, right? That's how we see
+1:511 minute, 51 secondstokenization. That's what we implementing at at Apex.
+1:551 minute, 55 secondsKirthy JP Morgan no stranger to tokenization you've been there a while is JP Morgan thinking about tokenization
+2:042 minutes, 4 secondswhere does it sit where are you in your journey right now given all that's happening yeah for sure um so yes we have been on
+2:112 minutes, 11 secondsthis journey for a long time um with the blockchain space itself since 2015 and the tokenization space since 2018
+2:192 minutes, 19 secondsum and I think you know this year even looking back at the announcements over the last couple weeks With the launch of JPMD, it's clear that we're at a pivotal
+2:282 minutes, 28 secondspoint in our journey um and able to take all of the learnings and all the infrastructure that we've built around tokenization over those last, you know,
+2:362 minutes, 36 secondssix, seven years and actually start to deploy them across public ecosystems as well. The name of the game with tokenization for us has always been
+2:442 minutes, 44 secondsaround solving our very real problems um through the advent and integration um of
+2:512 minutes, 51 secondsblockchain solutions or tokenbased solutions. thinking about, you know, not just the idea of like launching the
+2:592 minutes, 59 secondstoken and expecting a market to follow, but actually again solving for things like driving more efficiencies around
+3:063 minutes, 6 secondssettlement um timings and and orchestration or driving for 247 movement of funds and of assets. Um and
+3:143 minutes, 14 secondsnow I think we're really excited to see that bridge into uh the public space as well with our institutional client base alongside us.
+3:233 minutes, 23 secondsNow Paul Adrian Spyo, you've been interacting on public chains for quite some time. Talk to us a little bit, you
+3:303 minutes, 30 secondsknow, these are larger organizations where we we're just talking about the size of your team versus maybe the size of a JP Morgan Kexus. Where does, you know, the journey you've been on. Tell
+3:393 minutes, 39 secondsus a little bit about how where you all are and where you're thinking about it next for tokenization.
+3:433 minutes, 43 secondsYeah, so he's talking. So basically we launched at Spyo a year ago the first um USIT
+3:513 minutes, 51 secondsmoney market funds on chain. Um, USIT is the for those who don't know it's the European Union equivalent of the US uh,
+3:583 minutes, 58 secondsmutual funds setup framework and the funds we launched are as you said 100% on chain. Uh, all the franchises are
+4:054 minutes, 5 secondsissued as tokens on public blockchains and the reason why we chose to operate to launch on public blockchains is for
+4:134 minutes, 13 secondstwo reasons mostly. One is transparency and the other one is transferability. um transparency because by tokenizing the shareholder register you give a read
+4:214 minutes, 21 secondsaccess to anyone on the register and when it comes to money money market funds having like a real-time view on the investor concentration of the
+4:294 minutes, 29 secondsvehicle you basically allocate cash to is is quite valuable for for capital allocators um the second one as I
+4:364 minutes, 36 secondsmentioned is transferability the fact of you know operating on a global infrastructure live 247 um creates value
+4:464 minutes, 46 secondswhen it comes to tokenizing the the fures and transferring the fentures. Um so they are that's the the main reasons
+4:544 minutes, 54 secondsat the moment we have $400 million in assets under management and we are trying to bridge the gap between the US money market fund industry which is sort
+5:025 minutes, 2 secondsof 10 times larger than the European money market fund industry and to do to do that we use public blockchains which are better infrastructure in our view.
+5:105 minutes, 10 secondsGot it. Now if we're talk Ky I want to come to you on this one and just kind of start from the institutional view is there's a lot of different components
+5:185 minutes, 18 secondsthat enable an institution to do this at scale and I'm sure given your time at Kexus you all have looked at different pieces of this puzzle right it could be
+5:265 minutes, 26 secondscompliance it could be some of the other pieces that are crit critical given where we are in the cycle or in the journey at Kexus what are some of the
+5:335 minutes, 33 secondsthings that are critical for JP Morgan Kexus or your clients to enable this thing to really unlock its scale
+5:425 minutes, 42 secondsYeah, for sure. I mean, I think again like when when we have looked at um the tokenization space, as I mentioned
+5:515 minutes, 51 secondsearlier, it's always been around solving sort of like the traditional problems with uh the use of tokenization.
+5:585 minutes, 58 secondsUm and and and what comes with that are are two things that we have to like reconcile with. The first is that a lot
+6:056 minutes, 5 secondsof our clients are accustomed to interacting with our a with their assets in a particular way already. Whether
+6:126 minutes, 12 secondsthat's through their existing, you know, broker dealer channels, whether that's through their existing order management systems, whether whether that's through
+6:206 minutes, 20 secondstheir existing execution venues. Um, when it comes to operating at scale, it's really important for our clients to
+6:276 minutes, 27 secondsbe able to plug in their activities with securities or other types of assets or or cash into their existing processes
+6:366 minutes, 36 secondsfor how they both record and riskmanage their assets. So I think one big thing that we've had to think through across
+6:446 minutes, 44 secondsour years of development as well as what we'll have to think through even when we're interacting with public ecosystems as well is how do we ensure that
+6:526 minutes, 52 secondsbridging between legacy infrastructure and onchain infrastructure continues to proliferate across the ecosystem both through our own work as well as the work of our uh clients and partners as well.
+7:037 minutes, 3 secondsSo that's definitely one piece of it. I think the other two pieces um that we think about quite a bit, one centers around identity and thinking about
+7:127 minutes, 12 secondsscalable forms of of onchain identity and Dan and I were actually just talking through sort of like the different mechanisms that have um come to exist in
+7:217 minutes, 21 secondsin the onchain sort of like world to date. Um, but I think again for our purposes it's like you know with with
+7:287 minutes, 28 secondsthe the type of like first steps forward that we're taking in our public chain products, something that works like an
+7:357 minutes, 35 secondsallow list probably wouldn't work when we're trying to operate at a much larger scale. So thinking about different forms
+7:427 minutes, 42 secondsof of um achieving identity whether that's through verifiable credentials or other um sorts of like onchain um
+7:507 minutes, 50 secondsmechanisms I think is really important too. And then the last piece um which is one that we have you know experimented
+7:587 minutes, 58 secondsquite a bit with um over the last few years is thinking about different ways of achieving privacy or the preservation of privacy for um our our clients. Again
+8:078 minutes, 7 secondsit's one thing for a client to you know invest in one tokenized fund or or trade a particular position and be totally
+8:158 minutes, 15 secondsfine with that being completely visible on a block explorer for everyone to see.
+8:198 minutes, 19 secondsIt's a completely different question when it comes to like your entire trading strategy across all of your traditional assets being equally as visible and equally as accessible. So I
+8:288 minutes, 28 secondsthink when we think about scale in the sense of like at what scale does JP Morgan operate in today and bringing
+8:358 minutes, 35 secondsthat into the onchain world as well that's another piece that you know we'll have to unlock and have to work through.
+8:428 minutes, 42 secondsDaniel let's come to you next. Thanks for that Ky. Um, just given the size of like JP Morgan, right, and then Apex,
+8:508 minutes, 50 secondsright? What I guess I would retool the question just a little bit. What's critical to Apex at this moment right now? Like specific to the Apex business for critical infrastructure for y'all?
+9:009 minutesWell, what is critical for us is is what is critical for everyone. It's it's adoption.
+9:069 minutes, 6 secondsIt's um I mean we've been playing in the space for um previous time with token and same for you for eight between eight
+9:139 minutes, 13 secondsand 10 years. So um and and this is a journey right? Um it's great to hear all those folks talking about liquidity and
+9:229 minutes, 22 secondsand all the markets is developing but most of those people are looking at crypto um instrument that are not regulated uh that have liquidity because
+9:309 minutes, 30 secondsyou're dealing with instrument that are liquid. It's like trading USD or euro they are liquid. you go on any exchange you have liquidity right if we start
+9:389 minutes, 38 secondsdealing with regulated instruments that's a different game um first you need to have fund administrator fund serer that needs to be in control of the
+9:469 minutes, 46 secondsassets so if you don't implement the technology at the level of the asset servicesers there's no way that you can issue a tokenized funds because they cannot ensure the control of that
+9:559 minutes, 55 secondsinstrument verify KYCL etc that means that they cannot operate as per the mandate they've received from the asset managers and that's just an example of
+10:0310 minutes, 3 secondsthe journey in order to create a representation of that asset on chain to the third parties servicing servicing them and then creating the value for the
+10:1110 minutes, 11 secondsinvestors because here we're talking mostly about operation efficiency which is great but then we have to focus also on delivering the value to the investors
+10:1910 minutes, 19 secondsso the key question what really keep us busy now is how do you do that at scale how do we implement that technology at scale and one thing that we have been
+10:2710 minutes, 27 secondsdoing kind of behind the scene for the last two years at Tokany was to plug into fund accounting system because it's it's great to do one fund And I I you
+10:3510 minutes, 35 secondsknow kudos to securityize black rockck bidd um this is amazing success but it's one fund with 12 investors
+10:4410 minutes, 44 secondsright um apex operate 30,000 fund for 14,000 investors how do you implement that at scale so you need to have
+10:5210 minutes, 52 secondssolution to automate the issuance you need to have solution to automate the compliance what we've been announcing um yesterday with chainlink implementing
+11:0111 minutes, 1 secondthe automatic compliance engine together by away with GLive. Hello Alex. Uh linking that with a proper identity solution so that you can reference those
+11:1011 minutes, 10 secondsasset into existing traditional um banking system like Olympus. You know you need an icing code to reference that
+11:1711 minutes, 17 secondsthat that asset into a banking application. So if you don't leverage the way that you identify those assets that you enforce compliance 24 by7 you're never going to achieve liquidity.
+11:2811 minutes, 28 secondsSo scale working with all the participant all the building blocks fund accounting uh fund administrator uh numbering agencies automatic compliance
+11:3611 minutes, 36 secondsoracle protocol all this value chain needs to coexist and work together. It is not the winner takes it all. Sorry to
+11:4411 minutes, 44 secondssay that but one party cannot win in this business by itself. So we need to work together in industry building standard together and implementing
+11:5111 minutes, 51 secondssolution that will enable indie to handle those assets at scale. liquidity in private asset will come with scale not from a single asset.
+12:0012 minutesThank you Paul Adrian. Any additional thoughts?
+12:0312 minutes, 3 secondsYeah maybe maybe one additional point on like regulations and and the need for more regulatory clarity because um and I think this is especially true it's
+12:1212 minutes, 12 secondsprobably true in the US but especially true in Europe because when it come to securities law um there is a big lack of harmonization across the European Union.
+12:2112 minutes, 21 secondsSecurities law is national. So the tokenization framework that is in place in France is different from the one that is in place in Luxembourg, Ireland etc
+12:2912 minutes, 29 secondsetc. Um and when you get into the details of what it mean to actually tokenize a security if you want to do it properly. So the security being you know
+12:3712 minutes, 37 secondsthe actual security and not just a wrapper or derivative on top of the securities that is of chain then you get you get into a lot of complexities and
+12:4612 minutes, 46 secondsthat is not even mentioning the listing space. Um at the moment we don't even have a legislation in the European Union
+12:5312 minutes, 53 secondsthat allows for the listing for the creation of and the listing of tokenized securities at scale. There is a sandbox which is called the pilot regime but
+13:0113 minutes, 1 secondit's a temporary regulation. There are caps. So it's really not something that you know can actually scale uh at this
+13:0913 minutes, 9 secondspoint in time. So a lot of work I think to be done u in terms of harmonizing regulations at the European Union level and also enabling tokenization of listed
+13:1813 minutes, 18 secondssecurities if you want like u tokenized ETFs at scale this sort of stuff uh a lot of a lot is not possible at least from a regulatory standpoint at the
+13:2613 minutes, 26 secondsmoment uh and this is clearly something that is slowing things down a lot there is some complexity but I want to
+13:3313 minutes, 33 secondsdraw attention to a report that has been or report a note that's been published by ESMA a couple of days ago that says that You know a security is a security
+13:4113 minutes, 41 secondsno matter what infrastructure you represent it. Uh that was already the case in Luxembourg. The Luxembourg government and regulation is very agnostic to the type of uh underlying
+13:5013 minutes, 50 secondsinfrastructure you use. ESMA again make the statement that you can pick up the technology you want. So you're free to represent your security on chain as long
+13:5913 minutes, 59 secondsas you enforce control and compliance and the regulatory framework around that security. This node will be submitted to the European Parliament. We wait to see
+14:0714 minutes, 7 secondsthe response from the European Parliament. But that means that public chain is a suitable infrastructure to issue securities. Now there are indeed
+14:1414 minutes, 14 secondssome specific requirements. If for example you want to custody the representation of the asset, you need a cash license. Yes, that's inherent to
+14:2114 minutes, 21 secondsthe technology itself. But you can issue today's security on public chain.
+14:2714 minutes, 27 secondsVery helpful. Paul Adrian, I want to kind of pivot now into maybe more the deployment side, the integration side.
+14:3314 minutes, 33 secondsRight. So starting with you, talk to us a little bit about some of the things that you've learned as you've gone through the integration process, building Spyo, either when you thought
+14:4114 minutes, 41 secondsabout engaging users, driving liquidity, getting utility on chain for some of the money market funds that Spyo is representing, or if you think about the
+14:5114 minutes, 51 secondsconversation we just had about some of the critical pieces of infrastructure integrating legacy systems, right? What are some of the key learnings that you'd like to share with the audience?
+15:0015 minutesYeah. So I mean from my point of view the integrations with the legacy system has not been too difficult honestly. Um
+15:0815 minutes, 8 secondsat Spyo we are trying to address to address one very um specific problem which is basically providing a super easy access to money market funds in
+15:1615 minutes, 16 secondsEurope which is um maybe for our US friends um a bit strange but not a
+15:2315 minutes, 23 secondscommodity at this point in time. Um if you are an individual, if you are a small company, if you are a fintech and you go to your bank, you ask for access to a money market funds, uh in most
+15:3215 minutes, 32 secondscases that won't be possible. They will nudge you towards term deposits, toward structured products, etc., etc. And we decided to build new money market funds
+15:4015 minutes, 40 secondsbasically from the ground up and to select the best technology to do that.
+15:4415 minutes, 44 secondsSo for us, it was public blockchain when it came down to uh the shareholder register and how we would operate the transfer agent um infrastructure. um
+15:5315 minutes, 53 secondsthen it was an API to facilitate access to the fund subscriptions redemptions all this stuff and then stable coins and that's um a point that I would like to
+16:0116 minutes, 1 secondhighlight today uh most of the subscriptions and redemptions still go through the traditional uh fiat
+16:0816 minutes, 8 secondssettlement system so separational transfers this is long and this is
+16:1516 minutes, 15 secondscostly so the next frontier is using tokenized e-oney instead of traditional uh fiat um and and settling everything
+16:2216 minutes, 22 secondson the blockchain. And this um to your point uh Colleen is not that easy because if you want to do it properly, you need your depository bank, your
+16:3116 minutes, 31 secondscustodian bank to have wallets uh and to be able to operate wallets in addition to traditional bank accounts. Um most of them are still not equipped or not ready
+16:4016 minutes, 40 secondsto go into production uh on this sort of stuff. And there are also a bit of regulatory uncertainties in some jurisdictions when it comes to what is a
+16:4716 minutes, 47 secondsstable coin. So we're discussing the Genius Act in the US at the moment. So we don't really know till the act passes what a stable coin is. In Europe we have
+16:5616 minutes, 56 secondsMika but Mika is sort of ambiguous on the one end it's a crypto asset on the other end on the other end it's e- money. So I think there's a bit of work
+17:0417 minutes, 4 secondsto be done also and and you know regulatory clarity to to have on uh just clarifying the fact to your point
+17:1217 minutes, 12 secondsDanielle that um a stable coin is a form of e- money. It's e- money. It's using a blockchain but it's e money at the end of the day just like a tokenized security using a blockchain for the
+17:2017 minutes, 20 secondsregister. just to tokenize just as security as as any other. Daniel, your thoughts?
+17:2817 minutes, 28 secondsWhat was the question? What was the question again?
+17:3017 minutes, 30 secondswhen you look at the uh moving just from the integration side, right? Or from like the infrastructure that's important to the actual integration that has to be done. When you're thinking about the
+17:3917 minutes, 39 secondsintegration work that you all have to do to actually make this successful, whether that be more of the web 3 tooling or existing integrations with
+17:4717 minutes, 47 secondsthe legacy systems, what's a key learning that you've had
+17:5517 minutes, 55 secondsover the long term? Um I I think that first of all, yes, everything will be tokenized because I spent 10 years at
+18:0418 minutes, 4 secondsClearstream. I work for CSD understanding the pipe and how we represent assets.
+18:1018 minutes, 10 secondsIt should be obvious to everyone that the moment that you remove all the silos and everyone operate on a single infrastructure. This is a game changer.
+18:1818 minutes, 18 secondsUm it's going to be a world of apps that will provide value to those assets and you will be gateway being asset
+18:2518 minutes, 25 secondsservicesers and others. Today someone was mentioning by the way that um I think it's guy from Coinbase that you know asset servicesers will disappear.
+18:3318 minutes, 33 secondsUm no they will not disappear is because regulated instrument need asset servicesers to control those assets. The rule will change the business model will change. They will not disappear. Um but
+18:4118 minutes, 41 secondsthere will be a world of application that will create value for those assets and you will get gatekeepers that will um um allow to access the investor data
+18:5018 minutes, 50 secondsor the assets to make that happen. We need standards and I know everybody's talking about standards and every week I
+18:5818 minutes, 58 secondshear a new standard. This is sorry pisses me off. We we we wor for eight years to build a standard DRC3643 and I agreed the identity part could be
+19:0719 minutes, 7 secondsimproved but we did that eight years ago when there was nothing. So bear with us you know look at R3 eight years ago what they did um so uh so yes um we did what
+19:1619 minutes, 16 secondswe could at that time but now we have you know one of the only official standard out of Ethereum that went to final stage so it's fully open source uh
+19:2419 minutes, 24 secondswe have 140 members now in a nonprofit association where token Apex is one vote so we're not driving this forward now right so we want this industry to drive
+19:3319 minutes, 33 secondsthis forward and we have members from the all industry we have um wallet infrastructure we have fireblocks we have DFNs we We have uh all the networks
+19:4119 minutes, 41 secondsum we have arbitum we have polygon and we have name it right we have zinko we have amma we have of course chainlink
+19:4919 minutes, 49 secondsCCIP we have wal we have uh so why because those application will not exist if we don't provide a framework for the
+19:5619 minutes, 56 secondstoken to exist amongst those application and part of the reason why we made this collaboration with chaining is also to enforce this compliance across all those
+20:0520 minutes, 5 secondstokens across all those infrastructure across all those application because it will not be possible for any asset serer
+20:1220 minutes, 12 secondsno matter how big they are to enforce that in every local jurisdiction where those tokens will be issued distributed and plug into whatever liquidity
+20:2120 minutes, 21 secondssolution that will enhance the yield to those assets. So standardization is key and yes you know what we did with the
+20:2820 minutes, 28 secondsRC3643 maybe not the best solution. Uh it can still be improved but if we work together as an industry to improve it to
+20:3520 minutes, 35 secondsbuild on top of that instead of replicating every week a new standard then we can achieve the critical mass that the industry needs.
+20:4520 minutes, 45 secondsThank you.
+20:4720 minutes, 47 secondsOh I have a take on this question as well because Oh I was coming to you next.
+20:5420 minutes, 54 secondsWell, dealing with legacy system integrations has been like part of the job for the last like seven, eight years. Um, and I think my take is
+21:0321 minutes, 3 secondsprobably one that sounds really obvious, but it's something we feel very deeply, which is there's no driver quite like
+21:1121 minutes, 11 secondsdemand. And the more the the more and more that there are traditional products issued onchain with features that you
+21:2021 minutes, 20 secondscould not typically access offchain like the ability to exit a fund at any hour of the day irrespective of where you're
+21:2821 minutes, 28 secondsat. The more traditional institutions will start to feel that pressure of demand from their client bases who want
+21:3621 minutes, 36 secondsto access the onchain product because it has the same risk profile as the off-chain product but with more features or or more things or that they can do
+21:4421 minutes, 44 secondswith it or more utilities and that will drive the legacy system integration work that needs to be done because if you
+21:5221 minutes, 52 secondsthink about like you know the large mass of institutions that are out there and they're very extensive
+21:5921 minutes, 59 secondsroad maps that already exist to deal with their traditional client bases, to deal with changing regulation, to deal with all the things that they normally
+22:0522 minutes, 5 secondsdeal with, feeling the pressure from their clients that they want to access this like new sort of like plethora of
+22:1322 minutes, 13 secondsonchain products that are being issued through Apex or or issued through ho hipp. Um, I think that is really going
+22:2122 minutes, 21 secondsto be the piece that's necessary in order for those legacy systems and operators of those systems to choose to integrate with um, onchain products as well.
+22:3322 minutes, 33 secondsI agree. And so with the little time we have left, we're going to start with you KY and come back this way. When we think
+22:4022 minutes, 40 secondsabout I mean you you talked about JPMD, right? That's a pretty big milestone.
+22:4522 minutes, 45 secondsBut as we look out and we think about institution, there is no driver like demand, right? Like you said, what is what are the next milestones for us in
+22:5422 minutes, 54 secondsthe institutional journey that we've been on, right? What are going to be the next things from your view that really will indicate
+23:0323 minutes, 3 secondsthat demand on chain that institutions the the traditional organizations their hands going to be forced? this is going to be kind of those steps in the
+23:1123 minutes, 11 secondsright direction that that signal to the audience here to the the market broadly that we are we're making the steps in the timeline that we want to make them.
+23:2023 minutes, 20 secondsSo I thought long and hard about this question once you sent it via email um and I think you know I've always seen it
+23:2823 minutes, 28 secondsor have maybe not articulated it this way but see it through like three sort of like views. Um, the first is like,
+23:3823 minutes, 38 secondsyou know, something that I think the entire market can like look at and be like, "Oh, that's like, you know, we're we're here." And I think since like
+23:4723 minutes, 47 seconds2018, we're like if at some point there's like a major sort of like again,
+23:5523 minutes, 55 secondsI don't know, prediction, um, major IPO that's underwritten by traditional underwriters but distributed entirely on
+24:0224 minutes, 2 secondsa public chain. To me that's like a very large milestone that like we are here we have arrived people want tokenized
+24:1024 minutes, 10 secondsassets on public chains. So that's one piece. I think the second which is like perhaps less visible to like the wider market but like anecdotally would be
+24:1824 minutes, 18 secondsvery telling to like our team at JP Morgan would be like the level of conversation that we have with clients.
+24:2624 minutes, 26 secondsIf it's less around, hey, what does tokenization mean and what does it mean for me to hold this tokenized product and what does it mean for me to, you know, what infrastructure do I need?
+24:3524 minutes, 35 secondsWhat additional documents do I need? And it becomes more just part of the conversation about the products that they're trying to access. So like less
+24:4224 minutes, 42 secondseducation and more just this is the way in which we do business. That's another indicator and another like major
+24:4924 minutes, 49 secondsmilestone that I think indicates that like again we're here and and adoption is here. And then the third thing which
+24:5724 minutes, 57 secondsis my again personal view is I think the minute you start seeing um the traditional institutions also leveraging
+25:0525 minutes, 5 secondsand also utilizing constructs within DeFi to provide liquidity out to clients and pairing that as part of their
+25:1325 minutes, 13 secondsstrategies um to provide more of like a holistic sort of solution to like their different activities. That's the third indicator to me and in no particular
+25:2225 minutes, 22 secondsorder do I expect any of those things to happen. But those are the milestones I look out for. Daniel and Paul Adrian.
+25:3125 minutes, 31 secondsWell, first I think that we need to be reasonable with expectations. As I said, we're not dealing with crypto instruments. We will regulate it. So it the fact that we we see what's happening
+25:4025 minutes, 40 secondscrypto create expectation and lead us to believe there's no demand. there is demand but there is a stage um where you know we need to that we need to achieve
+25:4825 minutes, 48 secondsfor the you know technology to mature enough so that it become easy to access and and and then we will see the first
+25:5525 minutes, 55 secondsapplication deliver value etc. I I just want to highlight it with one example.
+25:5925 minutes, 59 secondsWe all have mobile phones, right? Um and um maybe for those who are old enough like me, in the beginning of roaming,
+26:0626 minutes, 6 secondsyou had to put your GPS access point in your phone to have data roaming and everybody was saying, "Oh, data roaming is not working." No, because it was so
+26:1426 minutes, 14 secondscomplicated for people to put that GPS access point that nobody was making use of it. And then you had overda provisioning when you travel now, you
+26:2226 minutes, 22 secondsroam. You don't have to put that access point. Everybody's roaming. I think we need to come to a certain point with the usability of the technology to remove
+26:3026 minutes, 30 secondsthat perceived complexity. We will have a couple of use case demonstrating why we have to do it and then you're going to hit the tipping point and that's it.
+26:3826 minutes, 38 secondsFinal thought.
+26:3926 minutes, 39 secondsYeah, to I think to conclude I would say that it's a bottomup journey like crypto started as a sort of retail fringe movement. Now we are talking about
+26:4626 minutes, 46 secondstokenization institutions and stuff and it's you know changing pretty fast. the in our case the first tokenized money market funds in Europe was launched by a
+26:5426 minutes, 54 secondsstartup spyo. So um start small and then gradually I think the institutions will join in our view that's exactly what we
+27:0227 minutes, 2 secondsare doing. We are now focused on small companies then we'll go mid-market enterprise etc etc and it's it's a journey.
+27:0927 minutes, 9 secondsWonderful. Thank you all for your time today. Thank you.

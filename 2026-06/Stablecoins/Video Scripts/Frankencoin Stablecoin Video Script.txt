@@ -1,0 +1,561 @@
+
+Search in video
+0:03
+So today I'm going to talk about the
+0:04
+other 3%. Um but actually I was being
+0:08
+very generous because right now
+0:11
+about or more than actually more than
+0:13
+99% as you very rightfully said of the
+0:16
+stable coin markets is in dollars and um
+0:22
+that has some effects and I would like
+0:25
+to dive into that what it actually means
+0:27
+what that means on different levels and
+0:29
+and uh what we should or if we should do
+0:32
+something about that
+0:34
+Now if you look at stable coins um most
+0:37
+people always talk about transactions
+0:39
+you know moving value from one party to
+0:43
+another crossber transactions payments
+0:46
+settlements all those kind of things.
+0:49
+Now I argue there is a second use case
+0:52
+and that second use case is a store of
+0:55
+value. You want to be able to hold your
+0:58
+assets somewhere which um you know might
+1:00
+be gold, might be bitcoin but you might
+1:02
+want to have something which is a bit
+1:03
+less volatile and which is well should
+1:07
+hold value and that's really what I'm
+1:11
+interested in. Now if we think about
+1:14
+transactions
+1:16
+um you have to think about how the world
+1:18
+was before. Um on legacy rails you
+1:21
+typically have a t plus2 or t++1
+1:24
+settlement. Uh there's a lot of money
+1:26
+stuck in transit really. It's just a
+1:30
+substantial I don't have a number here
+1:31
+actually how much it is but I think it's
+1:33
+in the teens or in the tween even um
+1:36
+part of the money supply is just
+1:38
+constantly stuck somewhere being sent
+1:40
+from A to B in a settlement layer uh in
+1:43
+a collateral layer and so on and that
+1:45
+money um needs to be minted that is
+1:48
+money supply. Now, when we think about
+1:51
+stable coins in general,
+1:55
+settlement becomes basically immediate.
+1:57
+You know, um think about Ethereum, you
+1:58
+have a 10-second settlement time. Uh
+2:01
+with other stable coins or excuse me,
+2:03
+with other layer ones, that's even
+2:05
+shorter, you know, sub 1 second. But
+2:07
+even with 10 seconds, that is basically
+2:09
+there is no chance to risk. No one is
+2:11
+really holding it. It doesn't really
+2:12
+matter how the asset you're exchanging
+2:16
+in is moving.
+2:19
+And
+2:21
+that has a profound effect on how
+2:23
+financial rails can work and right you
+2:25
+don't need a dollar to to hold it. It
+2:27
+just momentary thing. So if I want to go
+2:30
+let's say I I am Swiss, right? I like
+2:32
+the Swiss Frank. But maybe someone likes
+2:34
+gold. They can have their assets in gold
+2:37
+perpetually. They don't need to hold
+2:39
+dollars or whatever to spend it. Just at
+2:41
+the moment when you do the transaction
+2:44
+you want to have one liquid currency or
+2:47
+one liquid asset in which you can swap
+2:50
+into very efficiently and that is again
+2:52
+it can be you know we're not there yet
+2:54
+but it can be on a technical level a lot
+2:56
+more efficient than it can be with
+2:58
+traditional rails and you immediately
+3:00
+swap out of it anymore. So you don't
+3:02
+have to have like multiple legs and
+3:03
+multiple venues. It's enough if you have
+3:06
+one shared
+3:08
+asset which is just liquid to everyone.
+3:10
+And this is somewhat an explanation of
+3:13
+why the dollar is so dominant in this
+3:14
+space. And that is good, right? You
+3:16
+know, you don't need more. Um you just,
+3:19
+you know, have very very small assets
+3:21
+you want to hold
+3:22
+and then you if you want to exchange,
+3:24
+you go buy it over
+3:27
+but you don't really hold it, right? You
+3:29
+just go in and out again.
+3:32
+And if you think about what are stable
+3:35
+coins actually now I'm I know I'm in the
+3:36
+US now and I I was on um stage yesterday
+3:40
+with the in Paris for example with the
+3:42
+the Bank of England with the British
+3:44
+central bank and they have very very
+3:46
+strong opinions on this because
+3:48
+effectively
+3:50
+every stable coin dollar you know tether
+3:53
+um or circle or al even the
+3:56
+decentralized ones in fact what you're
+3:57
+holding is some form of US treasury
+4:00
+because there's someone taking out the
+4:02
+yield somewhere, but they're not
+4:04
+actually even giving it to you, which
+4:05
+even worse. That's kind of the worst
+4:07
+part, right? You you don't you hold the
+4:08
+risk of the US Treasury, but you don't
+4:11
+get paid for it. And we see that quite
+4:14
+nicely here. Uh Tether is actually one
+4:16
+of the largest holders of US government
+4:18
+debt. And I just pulled this little list
+4:21
+yesterday and um you can see it's, you
+4:23
+know, in between Israel and South Korea.
+4:25
+Um I think there's not a single private
+4:28
+player that is even closely holding that
+4:32
+much US treasury bonds. Now from the US
+4:35
+perspective this is obviously very nice
+4:38
+because you can finance yourself like
+4:39
+this. You have people who buy your
+4:41
+treasure bonds. From a sovereign
+4:43
+perspective from other countries they
+4:46
+don't like them very much because they
+4:47
+would like to sell their own
+4:50
+their own goies right and not just that
+4:52
+everyone just buys the American ones.
+4:56
+And this is kind of this overview of and
+4:59
+and I'm just re like referencing to that
+5:02
+panel I had yesterday with the with the
+5:04
+French bank uh with yeah said the Bank
+5:06
+of England um the head economist of of
+5:10
+St. I was kind of the odd one out
+5:12
+because the Swiss people have different
+5:13
+problems. Um but they were all saying
+5:16
+hey we you know either we do something
+5:17
+about this now and we actually level the
+5:21
+playing field and we become players in
+5:23
+that market and we create regulation
+5:26
+that allows us to you know play the game
+5:30
+or the dollar is just going to eat the
+5:32
+world and there's nothing we can do
+5:34
+about it. Um so yeah I mean that's just
+5:37
+a nugget of where the policy makers
+5:40
+stand in European Union.
+5:42
+Switzerland is different because
+5:44
+Switzerland
+5:46
+um is more on that side, right? Because
+5:49
+I was now always talking about
+5:50
+transactions
+5:52
+and if you hold value, so if you want to
+5:56
+stay in that currency and if you look at
+5:58
+stable coins as a store of value, then
+6:01
+the denomination starts to matter
+6:02
+because it's not a 10-second exposure
+6:04
+anymore. It is now it can be years, it
+6:08
+can be decades. And um
+6:12
+yeah, the dollar is not a very good
+6:14
+store of value. I just, you know, put
+6:17
+that here into the room. I know I'm in
+6:19
+the US. Um
+6:22
+but I'm basically here, you know, making
+6:24
+this point that this is the Swiss Frank
+6:25
+versus the the US dollar since 1975. Um
+6:29
+it's about I think uh 300% appreciation
+6:32
+in value. Um
+6:35
+and it's not does look like it's
+6:37
+stopping. Now this is the other side of
+6:38
+that same metal right uh where and it's
+6:41
+also geopolitically from the US it's
+6:43
+it's something they want from
+6:44
+Switzerland not so much because
+6:45
+Switzerland is an expert country so
+6:47
+Switzerland doesn't like to have too
+6:48
+much of a strong Swiss Frank but you
+6:50
+investors you can actually use that and
+6:53
+um that's where I'm making my case for
+6:56
+Frankencoin. I've never I've not said a
+6:58
+word about Francoin yet but what is
+6:59
+Frankencoin? Uh Francoin is actually the
+7:01
+the digital version of the Swiss Frank,
+7:02
+right? We're the largest decentralized
+7:04
+Swiss Frank stable coin. um currently
+7:07
+about and this is all in in Swiss Frank
+7:09
+so in dollar it's a bit more it's about
+7:10
+$80 million US in TVL um you have a very
+7:14
+high yield on it and uh it's super
+7:17
+liquid and it's fully decentralized so
+7:19
+basically what you're getting with this
+7:21
+is an asset that is not depreciating
+7:26
+but it's just holding its value and you
+7:28
+have control over it there's no you know
+7:31
+uh bank that can lock your account that
+7:33
+can take the money away from you it's
+7:34
+yours and I think this uh is a pretty
+7:37
+interesting value proposition for big
+7:40
+big parts of the world that do not
+7:42
+necessarily want to be exposed to an
+7:44
+extractive financial system.
+7:49
+I just supporting that, right? Um it's
+7:51
+not an issue at holding reserves. It's
+7:53
+fully fully decentralized.
+7:57
+And I just want to close this and I I
+7:59
+why I'm here why am I do doing this this
+8:01
+keynote is really uh I want to kind of
+8:04
+open the eyes saying okay well well what
+8:05
+do stable coins do right it's
+8:07
+transaction is one thing which many
+8:09
+people are the majority is just talking
+8:10
+about but there's also this other side
+8:12
+of things for uh the store value for
+8:15
+holding your assets and that's where we
+8:18
+need to have diversity and that's um
+8:20
+where this other you know 1% or we want
+8:22
+to build out uh this into at least this
+8:25
+3% um come in and are you know there to
+8:30
+be a hedge against turmoil to be
+8:32
+accessible to be beheld and to be
+8:35
+globally accessible.
+8:37
+I have brought a book um just to finish
+8:40
+up it's the history of the Swiss Frank
+8:43
+over the last 250 years. People who've
+8:45
+seen me speak before maybe have actually
+8:46
+seen that book. I am more than happy to
+8:49
+give it away. So if you want one and
+8:50
+sometimes I do question I'm not doing
+8:52
+that today but if you would like that
+8:54
+book come to me and happy to give it.
+8:56
+It's a quite interesting uh thing
+8:58
+because it's it very nicely
+9:03
+shows the you know what is a currency
+9:06
+where does the value of a currency come
+9:07
+from over a longer period of time and
+9:09
+and how intertwined it is with the
+9:12
+political environment with the
+9:14
+geopolitical environment um and even
+9:16
+with the culture environment of of of
+9:18
+you know of periods and and of countries
+9:21
+and um I have 40 seconds so one last
+9:24
+sentence now you know we're 2026. I'm
+9:28
+rather young. There's some people are
+9:30
+older than me in this room. There's some
+9:31
+people younger than me. But um
+9:34
+going very deep into currencies. The one
+9:37
+thing would you say is do not expect the
+9:40
+status quo how it is now to be the
+9:43
+status quo in 10 years because things
+9:45
+change and currency environments can
+9:47
+change very very quickly and um not
+9:51
+because they've been like this for five
+9:52
+years. They will be for like this for
+9:54
+the next five years. Thank you very
+9:55
+much. I think I have time for one
+9:57
+question maybe. Yes.
+9:59
+Thank you very much.
+10:04
+Question I have is how do you manage the
+10:06
+deep risk?
+10:07
+Deep risk. Um so this is CDP that would
+10:09
+be completely other keynote happy to go
+10:12
+into it but it's uh basically
+10:14
+even your collateral.
+10:15
+Yes. Exactly. So it's it's it it comes
+10:17
+down to collateral risk management right
+10:19
+the collateral basket. What is it backed
+10:20
+by? How much is it over collateralized?
+10:23
+And then you want to have a look at look
+10:24
+how do you manage DPAC risk shortterm
+10:27
+which is a lot harder than long-term
+10:28
+because short-term it's market forces
+10:30
+right it's market making basically while
+10:32
+long-term you say okay as long as the
+10:34
+collateral is worth more than the the
+10:37
+asset which is issued against it there
+10:39
+should not be a DEC
+10:42
+theoretically
+10:43
+yes
+10:44
+it will be worth less because Swiss
+10:48
+Frank would I mean
+10:49
+against a dollar yeah but that depend
+10:51
+depends exactly that depends what you
+10:52
+have as a collateral. That's why there's
+10:54
+a lot of gold for example in there or
+10:56
+Swiss Frankly nominated assets which is
+10:58
+the hard part.
+11:00
+Thank you very much.
+

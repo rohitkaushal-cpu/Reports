@@ -1,0 +1,861 @@
+
+Search in video
+0:00
+Good morning, afternoon. Uh good morning, afternoon or good evening depending on where you are
+0:07
+joining us from. Uh welcome to today's webinar on the crypto services licensing
+0:13
+in the UAE. My name is Ireina and I'm a virtual legal officer in legal notes.
+0:21
+Legal notes is an AI powered platform that helps founders um solve their
+0:27
+crossborder legal matters with a single point of contact and backed by a network
+0:34
+of vetted legal partners across 70 plus jurisdictions.
+0:39
+Uh we at Legal Nodes continuously contribute to our resource center on the
+0:45
+platform where you can find free educational information on many startups
+0:50
+hot topics there including the company company setup process, fundraising, key
+0:58
+regulatory considerations, privacy matters and many more. Additionally, we
+1:03
+welcome you to like this video and subscribe to our YouTube channel where we explain in simple words and with
+1:11
+visuals tech and in particular web three sectors legal considerations.
+1:19
+Today we will dive deep uh into the regulatory frameworks governing virtual
+1:26
+assets in the UAE. will cover the licensing requirements across count's
+1:31
+key jurisdictions uh which is uh the virtual assets
+1:37
+regulatory authority VAR in Dubai, the Dubai Financial Services Authority DFSA
+1:44
+in DFC and the Financial Services Regulatory Authority in Abu Dhabi global
+1:50
+markets. We are not covering the securities and commodities authority and
+1:56
+central bank of the UAE in this webinar. Uh this is a regulator on a federal
+2:02
+level that applies to some security tokens and stable coins. Um we might
+2:07
+have a separate session to cover uh this regulator and the frameworks dedicated
+2:15
+to those tokens later on. So we'll start with overview of the UAE
+2:23
+um regulatory landscape and VAR as a licensing authority.
+2:29
+Uh UAE has steadily built out its legal infrastructure for digital assets uh
+2:38
+from federal law in 2018 that recognized virtual assets and established AML CFT
+2:46
+obligations for service providers to cabinet resolution
+2:51
+um that ex exempted most virtual assets um most virtual
+2:58
+asset transactions from the UAE's 5% VAT
+3:04
+that is effective since November 2024. So this latest action offering economic
+3:12
+incentive shows the commitment to become the world's uh hub for virtual asset
+3:18
+services and development. The UAE is a federal jurisdiction with multiple
+3:25
+regulatory bodies as we saw on the previous slide. Here it is.
+3:30
+One of the UAE's key advantages is its dual tiered um regulatory structure. Um
+3:38
+the crypto oversight operates at both the federal and the emirate levels
+3:44
+coordinated between several bodies and um the country has seven emirates
+3:51
+and numerous free zones, free economic zones in each emirate. Um each freezone
+3:58
+and entra companies are subject to licensing from distinct regulatory authorities.
+4:05
+And when it comes to VRA, it governs the licensing of virtual asset service
+4:12
+providers in Dubai for mainland companies and for all free zone
+4:18
+companies except DIC free zone, Dubai International Financial Center free
+4:24
+zone. VAR was established under law number four in 2022 by Dubai government and um
+4:33
+it's known to be the first dedicated uh virtual asset regulatory authority in
+4:40
+the world. Um and uh uh on the screen
+4:46
+you see seven license types offered by VAR along with the industry native
+4:53
+language examples. Some of the activities can be combined depending on
+4:58
+the project features and qualification of those features by the regulator
+5:04
+except for the custody. Custody is always a separate licensed activity and
+5:11
+may require a distinct legal entity to handle custodial services.
+5:19
+Some wallet services that are non-custodial, for example, purely client controlled
+5:25
+keys, might not require a full license, but can still fall under VA's NOC
+5:32
+requirements, non-objection certificate requirements. Vera offers an interesting approach to
+5:40
+token issuance activities. Token launch activities are divided into two
+5:47
+categories. Category number one includes fiat reference virtual assets and asset
+5:54
+reference virtual assets. These must obtain a viral license before issuance
+6:00
+begins. Category number two covers any virtual asset issuance that is neither category
+6:07
+one nor exempt and no license needed from VA prior to issuance of tokens um
+6:18
+if the tokens are closed loop and non-transferable
+6:23
+um and basically redeemable um utility tokens that cannot be exchanged for
+6:31
+virtual assets methods or fiat are exempt from licensing and supervision.
+6:37
+Important to note that Vera has a ban on anonymity enhancing tokens.
+6:45
+And on the next slide, we'll go uh through a stepbystep
+6:52
+u process on how to obtain viral license, how to apply for viral license.
+6:59
+So um first of all it need you need to be incorporated in Dubai outside of DFC
+7:07
+free zone. The process of Vera licenses licensing is quite complex.
+7:14
+Farah encourages early contact before filing the initial disclosure
+7:20
+questionnaire. Um many applicants um arrange introductory or scoping calls with
+7:28
+Vera's licensing and authorization team to confirm whether their planned
+7:34
+activity falls under VA's licensing scope and clarify which license category
+7:41
+or categories apply. Um then um the team
+7:46
+would need to discuss potential structuring issues. For example, whether
+7:51
+the C custody element of the product or service must be separated into another
+7:58
+entity. Often uh the application process is done
+8:03
+through an appointed legal or consulting representative rather than directly by
+8:08
+the founders because of the complexity of the uh documentation that is to be
+8:13
+submitted and the whole process. Uh the first step would be uh the legal
+8:19
+entity registration pre-approval. So applicant must be a legal entity
+8:26
+established in the emirate of Dubai on the mainland or in any other free zone
+8:31
+outside of DFC as we mentioned and many free zone authorities assist founders in
+8:38
+the communication with Vera. So if you are planning to be based in one of the
+8:44
+Dubai free zones, you can communicate with the free zone authority about um
+8:50
+assistance they can provide when it comes to obtaining any specialized
+8:56
+licenses. Next step is a submission of that initial disclosure questionnaire to VAR.
+9:04
+Then applicants pass fit and proper assessment which means that VA wasps
+9:10
+must appoint at least two UAE resident full-time employees of sufficient
+9:16
+seniority who shall be responsible for the VASP's compliance with all legal and regulatory
+9:24
+obligations. Um this would include full KYC CVS, police clearance for directors,
+9:31
+senior management and significant shareholders, financial soundness checks
+9:38
+on personal uh and on corporate level. Then uh the applicants also submit a
+9:46
+business plan. Um the license um applicant um must include a detailed
+9:54
+description of that business model, product, service, target market,
+9:59
+projected transaction volumes, operational and uh governance structure
+10:05
+charts in that business plan. And then um if all those documents are um all um
+10:14
+submitted properly, VAR issues pre-approval. At the preapproval stage, applicants pay
+10:21
+50% of the licensing fee and will cover the fees um soon. And um at this stage,
+10:30
+the applicants obtain provisional approval before starting any commercial
+10:35
+activity. with this provisional approval the commercial license not the actual um
+10:43
+crypto license just the commercial license which is the UAE's equivalent of
+10:49
+an entity incorporation certificate can be issued by the respective authority or
+10:56
+department of economic development and tourism of Dubai or the freezone
+11:01
+authority the remaining list of documents needs to be submitted to VAR uh following this
+11:09
+provisional approval and that includes corporate documentation, certificate of
+11:15
+incorporation or um so-called commercial license in the UAE, memorandum and articles,
+11:22
+shareholder and UBO details. Uh compliance and risk frameworks would
+11:29
+uh include IMLCFT compliance policy aligned with UAE laws. Um risk
+11:37
+management framework covering operational cyber security market and
+11:44
+liquidity risks and sanction screening procedures.
+11:49
+when it comes to technology and security requirements.
+11:54
+Um, IT architecture overview, cyber security policy and data protection
+12:01
+controls will be analyzed by VAR. Incident response and disaster recovery
+12:08
+plans will also be reviewed. When it comes to capital requirements,
+12:14
+um we'll also cover it on a separate slide, but the proof of meeting various
+12:20
+minimum paid up capital requirements is uh to be submitted at that stage uh
+12:26
+after the provisional approval and the capital uh requirements vary by the
+12:33
+license type. Um so um uh additionally to that uh
+12:40
+insurance professional indemnity insurance um is applicable
+12:46
+and um uh if the company is outsourcing any parts of the processes to third
+12:53
+parties um um any third party arrangements
+12:59
+involved um uh will have to be disclosed to VAR
+13:04
+like the tech providers, custodians, KYC vendors and other relevant contractors.
+13:12
+Um when it comes to client asset protection measures,
+13:17
+um uh the applicant will have to submit a proof of segregation of client assets
+13:23
+from company funds if that is applicable. Custody arrangements and
+13:28
+safeguarding procedures will be analyzed in that case. Applicants commit to maintain records
+13:36
+for at least eight years and that's on the transaction um records and to submit
+13:43
+financial compliance risk periodic reports and to complying uh comply with
+13:49
+inspections and audits by VAR. And finally at this stage after the
+13:57
+submission of all those um uh documents and policies uh the um remaining 50% of
+14:07
+VAR's fee application fee is to be submitted. And here we have a slide with
+14:16
+some ranges of fees and ranges of minimum paid up capital
+14:22
+required. Um so the fees you see on the screen are
+14:27
+VA fees only and are exclusive of the third party legal advisory service
+14:35
+provider fees. Um application fee starts from 40,000
+14:42
+dirhams which is approximately $10,000 for advisory transfer and settlement
+14:48
+services. And uh those fees uh reach 100,000
+14:55
+dirhams which is close to $27,000 for broker dealer, custody, exchange,
+15:02
+lending, borrowing, asset management uh type of services.
+15:09
+Annual supervision fees uh which are equivalent of renewal fees
+15:15
+are double of the initial fees and are $80,000 dirhams for advisory and
+15:21
+transfer services and $200,000 dirhams which is close to $54,000
+15:28
+for other services. Um, VA wasps must maintain paid up
+15:35
+capital at all times either as the fixed amount or a percentage of fixed annual
+15:42
+overheads whichever is higher according to the business activity license. For
+15:47
+example, exchange services applicants capital requirements are higher of
+15:53
+800,000 terms, which is around $217,000
+16:00
+or 15% of the fixed annual overheads with a a viral licensed custodian
+16:07
+partner. Otherwise um if you don't have viral licensed custodian partner uh your
+16:15
+capital requirements would be higher of 1.5 million jerhams or 25% of fixed
+16:23
+annual overheads. Custody services um um
+16:28
+minimum paid up capital would be higher of 600,000 jams or 25% of fixed annual
+16:36
+overheads whichever is higher. If licensed for multiple virtual asset
+16:42
+activities, VA wasps must hold the required capital for each activity
+16:48
+calculated on exclusive fixed overheads per activity and reconciled monthly.
+16:58
+Um and um important to note that that capital must be held in a UAE licensed
+17:05
+bank uh trust account with Vera as a beneficiary or in a shorty bond naming
+17:13
+Vera with no expiration quite complex. So it's h better to
+17:20
+engage an experienced legal provider early in the process to avoid any delays
+17:27
+in the licensing. Um now uh we will move to the overview
+17:33
+of the Dubai uh financial services um authority crypto licensing in DFC.
+17:41
+DFSA regulates financial services in DFC free zone. It's their um dedicated
+17:48
+regulator, independent regulator and um
+17:55
+uh the DFSA regulates virtual asset service providers through its existing
+18:01
+financial license categories with specific permissions for cryptoreated
+18:07
+activities under cryptotoken regime which is effective there since November
+18:13
+2022.
+18:20
+So these are the DFSA financial services suitable for crypto token sector.
+18:27
+And um additionally when you are um looking
+18:32
+to apply that crypto token regime there will be an additional authorization and
+18:38
+fee applicable on top of the standard licensing fee for general financial
+18:44
+services. Obtaining a DFSA license to operate as a VA wasp in DFC um also
+18:51
+involves a thorough authorization process ensuring um the applicant can
+18:56
+meet DFSA high standards for governance resources and compliance. Uh key
+19:04
+application requirements um and steps include the
+19:10
+um application um the incorporation in the DFC.
+19:17
+Um a dedicated DFC company with its own board and governance must be set up.
+19:25
+Firms should first engage the DFSA through an initial inquiry.
+19:31
+The DFSA requires a pre-application form
+19:36
+via their e portal outlining the proposed crypto business model,
+19:42
+products, target clients, and the specific financial services permissions
+19:49
+sought. Um applicants must demonstrate that shareholders, directors and senior
+19:56
+management are fit and proper and have relevant experience in crypto or
+20:01
+financial services. Key roles like CEO, finance officer,
+20:07
+compliance officer, money laundering, reporting officer need to be um
+20:12
+identified. Um and these authorized individuals must
+20:18
+be approved by DFSA and resident in the UAE to ensure hands-on control.
+20:26
+Uh the application must include a detailed business plan and operating
+20:32
+model description. The firm must show it has adequate financial resources to meet minimum
+20:39
+capital requirements and we'll cover those capital requirements in a separate slide. Uh the formal application
+20:47
+involves submitting the core DFSA license forms.
+20:53
+uh along with extensive documentation like in the VUS case constitutional
+20:58
+documents audited financial if if applicable if the company is operating
+21:03
+already compliance manuals IML policies IT security policies business continuity
+21:12
+plans etc. uh DFSA um authorization team
+21:17
+will evaluate the application through an interated iterated process. So um they
+21:25
+often come back with follow-up questions or requests for clarification if needed.
+21:31
+Once all issues are resolved, the DFSA will issue an inprinciple approval
+21:39
+outlining any final conditions. And after conditions are met, the DFSA
+21:45
+grants the license, financial services permission.
+21:50
+That whole process can take um 6 to 12 months.
+21:56
+Um and similar timelines are applicable for bar licensing too. It could even
+22:02
+take longer if the regulator has many applications on the table.
+22:08
+Uh the licensing fees uh depend on the scope of financial
+22:14
+services and category of license. For DIC crypto firms, this generally ranges
+22:21
+from $15,000 and up to $70,000. The fees double if the group has a
+22:28
+multi-layer corporate structure um holding company or a setup in
+22:35
+multiple jurisdictions. Existing authorized firms in TFC that
+22:41
+wish to add cryptoto token activities to their existing licenses must apply for a
+22:47
+variation of the permission with a fee of $20,000
+22:54
+and they have expended based capital minimum.
+22:59
+actual capital must be the higher of BA base capital versus 13 weeks of fixed
+23:06
+expenses. Uh DFSA doesn't have token issuance
+23:12
+licensing. Instead, it has a token recognition system.
+23:18
+Under the token recognition process, any person, issuer, developer, or sized firm
+23:24
+who applies to have a specific crypto token recognized by the DFSA must pay a
+23:32
+fee of $5,000 per token for DFSA to review
+23:38
+um and if criteria are met added to the recognized crypto tokens list.
+23:46
+And um general crypto token recognition criteria would include regulatory status
+23:53
+which means um they will evaluate whether the token recognition and regulatory status in other jurisdiction
+24:01
+has been registered and recognized. um transparency matters. So clarity
+24:08
+regarding the tokens, purpose, protocols, consensus mechanism,
+24:14
+governance arrangements and information about key stakeholders
+24:20
+will be evaluated. also the size, liquidity and volatility
+24:25
+of the market for the token. The adequacy and uh suitability of the
+24:31
+technology used in the token's operation and um measures addressing governance,
+24:39
+legal and regulatory issues, cyber security, anti-money laundering, market
+24:46
+abuse and other financial crimes. Um so if um all those criteria are
+24:52
+satisfactory the DFSA would add the token to the uh
+24:57
+list of recognized tokens. That was all on the DFSA.
+25:04
+Now we are moving on to the financial services regulatory authority in ADGM
+25:12
+uh which regulates virtual asset services by um requiring specialized
+25:20
+authorizations for activities like dealing custody exchanges with a strong
+25:26
+focus on technology governance anti-inancial crime and investor
+25:32
+protection. Um uh so ADGM is also a free zone. It's
+25:41
+in Abu Dhabi and FSR it's um it's the
+25:47
+ADGM's independent regulator. So um to be able to apply uh for FSR
+25:56
+license um you would need to be set up in ADGM Abu Dhabi global markets free
+26:02
+zone. And here we have uh the activities
+26:08
+uh that are offered by this regulatory authority
+26:13
+only accepted virtual assets those um assessed under FSR
+26:20
+um uh rule books um based on the traceability security market profile are
+26:27
+allowed for this activities. So basically it has a similar to the IFC model where it adds the tokens to um an
+26:37
+a recognized list for um activities
+26:43
+um um for activities uh that are subject to licensing in this uh licensing
+26:50
+authority. Now the application requirements and licensing process also is similar to the
+26:57
+previously reviewed. The pre-application engagement includes um um the early
+27:05
+engagement with FSR to discuss proposed business model detailed technological
+27:11
+demonstrations and regulatory planning. Um the formal application includes a
+27:17
+completed virtual asset application form, a detailed um launch plan
+27:24
+outlining operational and compliance steps and payment of application fees.
+27:32
+And the approval phase um goes in two steps. in principal approval where the
+27:39
+FSR is satisfied with the applicant's readiness and plans and it's uh it
+27:45
+issues this in principle approval and then the final financial services
+27:52
+permission which is granted after conditions are met and operational readiness is verified possibly including
+28:00
+third-party system verifications. Now on the fees and on the capital
+28:08
+requirements, uh the capital requirements are calculated based on months uh 6 or 12
+28:17
+months of operational expenses of the applicant. um uh for uh certain activities um which
+28:26
+you see on the left side the requirement is equivalent of six months of
+28:33
+operational expenses and the two activities which are of a higher risk.
+28:39
+Um the minimum paid up capital is equivalent of 12 months of operational
+28:46
+expenses of the entity. Um application fee also um vary depending on activity
+28:54
+complexity and whether custody is included. FSR also charges registration and
+29:01
+supervision fees and um they don't really have a a publicly available fee
+29:09
+schedule. uh but they provided an example of calculation
+29:16
+um of their fee which you can see on the screen. Additionally, multilateral trading
+29:23
+facilities using virtual assets are required to pay a trending levi to the
+29:29
+FSR on a sliding scale basis payable monthly in USD.
+29:36
+uh the specifically by amount depends on the trading volume and other factors.
+29:42
+interesting that FSR may may also impose additional fees if a substantial
+29:48
+additional regulatory burden is imposed and um it has the discretion to reduce
+29:57
+or wave all or part of any fees um if it considers it fair and
+30:04
+reasonable to do so in a specific case. So applicants and authorized persons are
+30:11
+encouraged to discuss any questions relating um to fees with FSR as early as
+30:20
+practicable. Um now I'd like to also um discuss the
+30:26
+sandbox regimes offered by those three regulators.
+30:31
+uh VAR has no formal open access regulatory sandbox
+30:37
+but instead um innovation occurs um via targeted pilot programs in collaboration
+30:45
+with licensed WASPs. Uh real world um uh real world pilots
+30:52
+include initiatives like real estate organization and other web3 projects
+30:58
+under supervised controlled uh conditions. Uh DFSA operates a formal
+31:05
+regulatory sandbox via its innovation testing license
+31:11
+um uh that was established since 2017 and re is regularly updated in terms of
+31:18
+what activities are eligible for that um innovation testing license.
+31:26
+The tokenization regulatory sandbox launched in 2025 is part of this regime
+31:34
+allowing firms to pilot tokenized products like tokenized bonds, funds,
+31:40
+securities in a controlled environment with um regulatory guidance
+31:48
+and the evaluation um of the applicants based on business clarity, readiness and potential policy
+31:56
+impact. FSR uh does not run a public virtual
+32:02
+asset sandbox uh per se but offers rag lab and digital lab as innovation
+32:09
+sandbox type initiatives for collaboration between startups,
+32:14
+financial institutions and regulators. uh these enable testing of fintech and
+32:22
+virtual asset models through a close regulatory engagement.
+32:29
+Uh so UAE regulators VAR in Dubai, the DFSA and DFC
+32:35
+um and the FSR in ADGM um have each built strong but distinct
+32:42
+distinct frameworks for virtual assets balancing innovation with investor
+32:49
+protection. With the right structuring and early regulatory engagement,
+32:55
+projects can successfully navigate licensing and uh position themselves for
+33:00
+growth in one of the world's most forwardlooking digital asset hubs. Um,
+33:06
+with that overview complete, I'd now like to open the floor for the year for
+33:13
+the Q&A. So if you have any questions, submit them to the Q&A box or chat box
+33:22
+and we will try to cover them. Thank you Arena so much for your
+33:29
+um in-depth presentation. So the questions are already rolling in. Uh
+33:34
+there is one in there's two in the chat from Martin Repka and from Jabbran Shri.
+33:41
+I don't know if you could see it. So there's two already in the chats um and then in the Q&A box. So we could sort of
+33:49
+take that since Martin's question came first and then Jabbron's.
+33:54
+Okay. Um Okay. So Martin's question, could we address the part about token
+34:00
+issuance a little more? Given that the licensing process is so complex, it
+34:05
+would be good to understand how a UAE entity can issue tokens without the need for viral licensing. Now Martin to
+34:14
+properly answer this question we need to deeply understand uh the type of token
+34:20
+um its use cases uh you are trying to uh launch
+34:26
+um um and basically uh from there I would be able to give you um um some
+34:34
+answer not a detailed consultation of course but um maybe some guidance. So,
+34:39
+if you can submit a bit more information about uh the token features uh to the
+34:46
+same uh Q&A box, that would be great. Uh so, Jabbrron's question is which of
+34:54
+these regulators would apply to Ragda? Thanks for the question, Jabbrron. It's a great question. So because um Russell
+35:03
+Hmer um is u is not covered by Dubai or
+35:08
+Abu Dhabi regulators, a licensing of such firms is subject to uh securities
+35:16
+um and securities exchange commission. Um most probably if the token or uh the
+35:24
+type of service you provide involves financial services. Um but uh to um to
+35:32
+navigate the exact process, the requirements and whether your activity
+35:38
+qualifies for um the licensing by the federal regulator, it's best to connect
+35:46
+with your Russell Hmer um freezone authority and they will assist you with
+35:54
+the preparation process or you can engage um you can engage with um a legal
+36:02
+um advisor or a consultant that will assist you through the application
+36:07
+process. And again um we would need to understand your activity or your planned
+36:14
+token type a bit better to even uh um respond to the question whether your
+36:20
+activity requires a license. Now we have anonymous attendee who's
+36:26
+asking how strict are the UAE residency requirements. Is it common to work with nominees or
+36:34
+will projects usually required to hire actual employees?
+36:39
+Um so UAE is one of the strictest uh um
+36:45
+strictest jurisdictions when it comes to regulatory requirements
+36:51
+and um as we mentioned uh both VARA or DFSA in Dubai or um FSR in Abu Dhabi
+37:00
+they have a part of the application process which involves fit and proper um
+37:07
+test for the top management of the company and that's where they evaluate
+37:13
+CVs and um uh those uh top executives must also be resident in the UAE. So um
+37:22
+I'm not sure whether it's uh um uh it's available in terms of the nominee
+37:29
+service but um if so um anyway that person needs to have uh specific
+37:36
+qualifications and specific background to be able to qualify
+37:42
+um to pass that fit and proper test. So, uh it's probably just worth hiring um a
+37:50
+UAE resident employee for that role. Um however, of course, you need to budget
+37:57
+in the salary for that employee to be able to maintain e that economic
+38:04
+substance required uh to qualify for the license.
+38:10
+and uh Martin repar u provided some additional information to his question.
+38:16
+So my question was general I'm trying to understand the exempt category more closely. Okay. So would this only relate
+38:24
+to tokens which are non exchangeable for fiat in any way?
+38:29
+Uh yes. So um uh the tokens that are redeemable and not exchangeable are
+38:36
+fully exempt. So if it's a purely utility token giving access to a service
+38:42
+or product and um is burnt basically after uh the token holder uses that
+38:50
+token to access the service or product uh that token would be fully uh exempt.
+38:56
+If you're planning to uh ch exchange those tokens to trade on exchanges,
+39:03
+uh that would fall under category two. And um when it comes to VAR, uh um that
+39:12
+category two for tokens is not subject to full licensing uh requirements. It's
+39:21
+exempt from its own licensing, but you need to use licensed uh distributors
+39:28
+like licensed um viral licensed exchange or viral licensed launchpad um or viral
+39:36
+licensed broker to distribute to exchange your tokens. So then that um
+39:43
+licensed uh third-party distributor is then responsible for uh compliance
+39:51
+process for AML CFT compliance um when the tokens uh change uh hence I hope uh
+40:01
+that covered the question. If you'd like um uh to learn more about uh how tokens
+40:10
+how token issuing activities and token distribution activities are um licensed
+40:16
+in various jurisdictions. We have plenty free articles on our resource center on
+40:23
+on the legal nodes website dedicated articles to utility tokens to tokenized
+40:30
+real world assets. uh feel free to use those materials uh to enhance your
+40:37
+knowledge in this sector. And u now we'll review the webinar chart
+40:43
+questions. I have Robert who's asking, I've heard that getting banking services
+40:49
+in the UAE um as a crypto company can be difficult. Can you comment on this?
+40:54
+Obviously, it's impossible to operate without banking services. Uh yes Roberts
+41:00
+to some extent um because crypto activities are high-risk activities
+41:05
+those companies sometimes face difficulties when it comes to bank account opening but we need to uh to
+41:13
+analyze which entity are you planning to open a bank account for. If your entity
+41:18
+is purely involved in software development, uh then it shouldn't be an issue. But if
+41:25
+your company is um trading crypto um or you know it's a
+41:33
+entity that's that issues tokens. Uh um first of all you would need full
+41:40
+licenses. Um additionally uh well basically depending on the type of
+41:45
+service and type of token and then if um all um licenses uh the commercial
+41:52
+license which is the equivalent of a company registration and the crypto
+41:59
+license by the dedicated regulator is issued. I don't think um you will have
+42:05
+difficulties with the banks um because as I mentioned if you reached to the
+42:12
+point where you have uh sufficient substance to obtain the license that
+42:18
+would be also sufficient substance for the banks to accept you as a client.
+42:26
+Next question is from Victor. We have three regulators. Do you have a
+42:32
+review of pros and cons for each of them? How to actually choose between the regulators?
+42:38
+Um, great questions. Thanks, Victor. I think it really depends on where you are you want to be based. If you um if you
+42:46
+aim to be in Dubai, your choice would be either DFC or Vera.
+42:53
+And uh VARA is uh a dedicated regulator uh which supervises only virtual asset
+43:01
+service providers where the DFC's regulator DFSA also regulates all other
+43:08
+financial services in that uh free zone in Dubai International Financial Center.
+43:15
+Um so um again their fees um vary, their
+43:21
+capital requirements vary and even uh the uh um the strictness of the
+43:28
+application process might also vary. So, it's really a question on where where
+43:35
+you'd like to be based and what what budgets are you ready to um uh to plan
+43:44
+for the licensing activity for the licensing uh process. Um um so I think
+43:52
+those are the the key criteria you need to be looking at when you are choosing
+43:58
+your regulator. Um okay and um I think that's it on the
+44:07
+questions. I we have one more question from uh Ryan
+44:15
+interested in tokenizing funds assets to Finn instruments. The question is how
+44:22
+best to structure licensing in UAE happy to established and seek local authorization. This includes custody of
+44:29
+the tokenized fin instruments. Um we recently released um a couple of
+44:37
+articles on tokenizing real world assets and UAE is definitely a great
+44:45
+jurisdiction uh to consider. They are very innovative when it comes to RWA
+44:52
+tokenization. Um and uh the question is how best to
+44:59
+structure licensing in the UAE. Um I think it's it's a very extensive
+45:04
+extensive question um that goes beyond the licensing process itself. It would
+45:10
+also include the corporate structuring strategies um and a deeper understanding of those
+45:20
+assets um who's going to be managing those assets. Uh what are the rights of those
+45:27
+token holders um that you are uh looking to link to those tokens
+45:34
+and to those tokenized assets. Um so try to schedule um a free call with our
+45:41
+sales team. Maybe they can give you a guidance on um what you need uh to plan
+45:48
+for in terms of um the corporate structuring and other steps in the legal
+45:55
+road map generally to actually fulfill that idea.
+46:03
+Okay, I think that are all the questions.
+46:08
+Okay. Hi. Yeah, thank you so much Arena for taking our time and thank you everyone for uh
+46:16
+joining in today. As we have said, we will be sending the recap uh to your
+46:22
+emails. So, rest assured that if you want to revisit any part of the webinar, um you will get you'll get to revisit
+46:30
+that. Um equally we'd also like to inform you that um in case you didn't join early um we at Legal Nodes are a
+46:39
+tech enabled legal consultancy company for um businesses across different
+46:44
+stages of growth. So whether you're a startup, whether you're a mature business, um legal knows it is here to
+46:51
+enable you to get you know accelerate your growth by uh giving you um roadmap
+46:58
+focused legal solutions. Uh so think about the fact that if you want to
+47:04
+engage in any legal service, right, typically you'd have to consult with multiple, you know, companies, u
+47:10
+multiple um firms and multiple um consultants, right? But however, legal
+47:16
+nodes acts as a one point of contact for 40 plus types of legal task. So from
+47:22
+incorporation to privacy compliance to DORA compliance. Um you can leverage legal
+47:29
+notes for that service. So feel free to um we'd also be sending this information in the recap email obviously. So please
+47:37
+feel free to check out uh legonotes.com. Currently, we're s we're sort of having
+47:43
+like a bandwidth issue with our website. However, that will be resolved shortly so that we um can accommodate your
+47:50
+request if you need to be in touch with any of us. And also feel free to um send
+47:55
+a message to Arena if you want to talk to her at arena klegal.com. Um please feel free to send us a a
+48:03
+message anytime if you you want to. And uh thank you for taking our time to speak to us and yeah, we'd be in touch.
+48:10
+Thank you everyone. Thank you Arena. Please enjoy the rest of your day. Take care and we'll see you in the next one.
+48:16
+Bye. Thanks everyone. Was pleasure hosting this webinar. Have a nice day.
+48:22
+Bye bye.
+

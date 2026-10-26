@@ -1,0 +1,841 @@
+
+Search in video
+0:03
+Hey everyone, my name is Dante Reminik. Uh we're going to be talking about stable coin settlement in card networks
+0:08
+and crossber payments. In my opinion, this is probably one of the use cases that has the highest levels of PMF out
+0:16
+of any use case in stable coins and we have an absolutely stellar lineup today who are going to be here to chat about
+0:22
+it. Um, so I have a million questions for all of you, but I'm going to leave some hopefully some time at the end uh
+0:29
+for all of you in the audience to ask some questions as well. But without further ado, let's get started with some
+0:34
+introductions. If we could just go down the line, who you are, and also more importantly, what your company does and
+0:40
+sort of the the payment stack. We have a really interesting mix of people here today and also how you guys are using stable coins. So, let's let's get
+0:47
+started. Yeah. Hey, uh, good to meet everyone. So, Malcolm Cart from Western Union. So,
+0:52
+Western Union, you know, really small company about 175 years old. Um, we're using stable coins in three big ways.
+0:59
+So, we launched our own stable coin asset called USDPT. Um, we have liquidity management with
+1:05
+that asset between ourselves and our agents to remove capital. We have a digital asset network which allows
+1:11
+partners to use our offramping for cash and on-ramping for cash around our
+1:16
+5,000, sorry, 500,000 global agents. And then we're about to launch a stable card
+1:22
+with you our friends Visa and some others. So happy to be here and talk about this.
+1:29
+Uh hi everyone, my name is Ahmed Zifsaf. I'm the head of crypto partnerships at Global Payments. We used to be World
+1:34
+Pay, but we've recently merged. Today we're now the largest globally uh merchant acquire payment service
+1:41
+provider. Um we do about $4 trillion in global payments volume. When it comes to
+1:46
+stable coins, we I mean more generally, we sort of sit as this infrastructure player in between the card networks and
+1:53
+the merchants. So, think of if you're going to like a Walmart or any sort of you know global company and you're
+1:58
+making a transaction, we essentially operate as like that payments infrastructure layer allowing for and I
+2:04
+think uh the introduction included like things like fraud prevention, chargebacks, authorization. That's
+2:10
+that's sort of our bread and butter in what we do. When it comes to stable coins, you know, unlike Western Union,
+2:15
+we will not launch our own stable. We are not going to launch our own wallet. Uh we're going to be pretty agnostic
+2:21
+when it comes to what types of tools and assets that we use. Similar to the fiat world, you know, we support, you know,
+2:27
+dozens of different currencies across 170 countries. We view stable coins and sort of digital assets as just an
+2:34
+addition to already the fragmentation that we already deal with and how we kind of collect it. Um so yeah, pretty
+2:40
+excited about this panel. Um, I pretty much know everyone on this one, so it's uh, I think a great one.
+2:45
+Yeah, good friends up here. Hi everybody. Nice to meet you all. My name is Brian and I lead payments and partnerships at Polygon. Um, I actually
+2:52
+was formerly on the Visa crypto team. And so I, uh, I helped lead stablecoin settlement there and stable coin cards
+2:57
+specifically. Stablecoin settlement has been booming over the past two years. Went from $50 million in run rate when I was there to now over five billion. I
+3:04
+don't know what the new number is. Maybe uh, over seven and a half. That's a big number. Don't spoil anything.
+3:10
+Yeah. Yeah, we'll get to it. Um, and I'm currently at Polygon right now, and I'm sure you all understand, um, that
+3:17
+Polygon is a legacy blockchain company, been around since 2017, moving trillions of dollars in stable coins. But ever
+3:22
+since January of this year, we acquired two companies. Uh, one called Sequence, the other called Coin Me for a quarter
+3:27
+of a billion dollars. And those two companies brought us on and off ramping capabilities in the United States. We now have 35 money transmission licenses.
+3:34
+We have non-custodial wallets we issue globally, custodial wallets as well. And the reason we did all of this is because
+3:40
+when I was at Visa, I saw it very much plainly. A lot of these enterprises, you know, don't want three vendors in order
+3:46
+to get into this space. They need one contract. They need all the infrastructure to do it. You know, when I was at Visa and somebody wanted to do
+3:51
+something with stable coins, you'd point to one wallet company, one ramp company, and you need it all in one in one condensed stack. And so that's why I
+3:57
+joined Polygon because we offer that full stack infra for these enterprises to get on chain. And yeah, uh John
+4:03
+Eaggan, our chief product officer, has a saying at Polygon where it's it's full stack or die. Um, and I I tend to agree
+4:08
+with that. Yeah. So, Brian, good to see you. He's also my former manager, Pete. So,
+4:15
+um, yeah. So, um, this is Pete from Visa, uh, Visa Crypto. Um, we are a
+4:22
+large global payment network that I think many of you have heard of. Um, we,
+4:28
+I think, have around five billion uh, Visa credentials uh, throughout the world. Uh I think last year we did
+4:34
+around $15 trillion uh in payment volume settlement uh on core visa um that is um
+4:44
+historically done over uh fed wire and swift right so when we're talking about
+4:50
+settlement which is the topic today um historically that is done over over banking rails um that I think most
+4:57
+people are probably pretty accustomed to that uh has been augmented and added we've you enabled stable coin rails as
+5:04
+well to settle obligations so issuers can settle obligations to us uh in stable coins. We can settle obligations
+5:09
+to acquirers in stable coins. That is changing the way money moves. Um you know we are a network of network and and
+5:16
+this is just other networks that we're incorporating into our full stack if I may steal steal steal a line. Um and uh
+5:25
+yeah I mean we support u five stable coins today across nine chains. Um and
+5:30
+it's a kind of burgeoning area for us and as well we support uh a lot of crypto exchanges as well as
+5:36
+non-custodial wallets with card issuance. So I think we have like 130 some odd programs around the globe where
+5:43
+people are spending down a it could be a bitcoin balance they could be spending down a stablecoin balance and they're
+5:48
+able to to uh you know get access to 175 million merchants that accept Visa today. So a lot of work we've been doing
+5:56
+and a lot more work to follow. Awesome. I hope that you guys see why I'm so excited for this panel. Um, first
+6:03
+real question for you guys and we can Pete start with you and go reverse. I think a lot of the times when companies
+6:08
+come into the stable coin space, they think about it in terms of oh, how many users have stable coins or how many
+6:14
+merchants are willing to accept stable coins. But the reality is throughout the entire payment stack, the companies
+6:20
+themselves and the stakeholders in that payment flow can also use stable coins themselves to improve their own systems
+6:26
+and to make sure that they can become more efficient. Um, so Pete, again, starting with you, how are you guys
+6:32
+using stable coins internally, not just offering it as a solution to people? What does that mean for customers who
+6:37
+might not even know that stable coins exist? Yeah. So, you know, I I've talked to a lot of merchants, a lot of very large
+6:44
+merchants uh over the last couple years and a lot of them actually come to us and said um you know, we're interested
+6:49
+in accepting, you know, Bitcoin as a form of payment or we're interested in accept No, it's like really I've gotten
+6:54
+these questions um uh or we're interested in accepting stable coins as a form of payment. Um and I'm like, "Oh,
+7:00
+that's interesting. That's great. Oh, by the way, you actually already accept Bitcoin. You already accept stable coins
+7:07
+because, you know, of the fact that we've put credentials around a lot of these wallets. So, people are able to
+7:12
+actually spend those today, you know. So, we've kind of obiscated that and and enabled that to occur kind of naturally
+7:18
+through the Visa network. And then when you talk about kind of the use of stable coins, like you know, when I mentioned
+7:25
+that we use them for back-end settlement, like we're that is not a front-end consumer concern, right? like
+7:31
+as you guys use your cards whether you're using a fiat based card or a cryptolink card you know your concern is
+7:36
+not the settlement that occurs between issuing banks and acquiring banks and you know but that's a concern for us um
+7:43
+and that's what we operate every day I mean that's that's we connect 15,000 banks and we facilitate settlement in a
+7:49
+whole host of currencies all over the globe you know 200 plus countries um so
+7:54
+we've looked at you know stable coins as a plumbing layer to make that more efficient and there's a lot of
+7:59
+advantages that we're we're seeing with that. You know, first and foremost, the fact that we can do this seven days a week, right? Uh because as I mentioned,
+8:06
+you know, these banking rails that we've had used historically, hey, they're only available, you know, when when banks are open during the week or hey, there's a
+8:12
+bank holiday, they're not open, money doesn't move. Um obviously that's changed with these these rails and you
+8:20
+know, we already have plenty of issuers that settle their obligations to us every day of the week. And one question
+8:26
+we get when we talk about that is like, well, why why would anyone want to settle with you faster? Like, what's the
+8:32
+point in that? Because why wouldn't I hold my funds? Well, it's a great question. It's a very logical question.
+8:37
+Um, but the thing to to take note of is that, you know, we're a network that
+8:43
+connects these partners and distributes funds. Um, we don't necessarily trust everyone. So, we're going to hold
+8:50
+collateral, you know, from an institution because we need to make sure if they don't pay that we can pay out
+8:55
+the other side. In paying us more frequently, they've reduced our collections risk. And then when they
+9:01
+reduce our collections risk, we return collateral back to the institution, back to the Visa principal member. That's
+9:07
+been really impactful for our partners because it's kind of a perverse thing where, you know, if you are more
+9:13
+successful, you you actually have to provide us more collateral. That's that's a perverse thing. So, we're
+9:19
+fixing that. Yeah. So, I come from the Pwexer coaching tree, so we might speak the
+9:24
+same language a couple ways, but just to tag on to it. So, specific to the settlement piece you were just talking
+9:30
+about for issuers paying more frequently and getting a reduced collateral requirements from that. That has a trickle down effect to the consumer at
+9:36
+some point. But, let's just talk about it from a a collateral standpoint. So, the way it works right now is there's a weekend gap and there's sometimes a
+9:42
+holiday on Monday. That means traditionally a bank cannot pay their issuing balance to Visa until like the
+9:48
+next available bank bank day that it's open. And what that leads to is, you know, Visa again doesn't trust you. So they're going to hold, you know,
+9:54
+multiple millions of dollars worth of payment volume, right? In order to make sure that if you don't pay like on that day you're supposed to, they can pull
+10:00
+from that collateral and perform net settlement like they always have to, right? And so when you can perform
+10:05
+settlement seven days a week, you can reduce those collateral requirements. And what that leads to is about like
+10:10
+three to eight basis points you just opened up for your your payments experience, right? Because now you're getting this money back and you can put
+10:16
+it in higher ROI initiatives. You can go put it in your marketing spend, your product spend, whatever it needs to be things that yield six to 7% as opposed
+10:23
+to Visa just holding the money for you, right? And what that leads to is a trickle down to the consumer at some point, right? Like think about uh back
+10:30
+in the day, right? People used to use wires. AC was not a thing, right? And it actually used to cost money to send money from one place to the other. Like
+10:36
+switching banks was a huge issue. And now a is a is available. It's been available for like what 1015 years. And
+10:42
+then companies like Chime came in and said, "We're going to offer free accounts, right? We're going to make it really cheap to be able to fund our accounts." And these new fints have come
+10:48
+and use these lowcost rails in order to acquire new users. And you're seeing the same thing with stable coins now and these stable cocoin neo banks popping up
+10:55
+acquiring users because they can offer better cost efficiencies than the traditional infrastructure can.
+11:01
+Yeah, I guess um I like the the the topic of trust and I guess I would call World Pay Global Payments um like the
+11:07
+protector of the untrustworthy of some sort. Um you know we represent the merchants like to the networks. So in in
+11:15
+that way everything that they're talking about the trickle down effects like we are I guess like the first big stop in
+11:20
+terms of how the trickle down uh really comes comes about. when I think about how we internally use stable coins um
+11:26
+and I think Pete used the word plumbing like I already consider the company as a whole the plumbing infrastructure when it comes to payments so everything that
+11:34
+we do both in stables or not can be kind of considered both backend and front end in some way shape or form when it comes
+11:40
+to stables that's really interesting is like everyone talks about T+1 or T+2 and in those moments where you know funds
+11:46
+are not being settled back to the merchant essentially companies like world pay are offering financing to these merchants so when we talk about
+11:52
+moving to a T plus0 or even a real-time payments. What we're talking about also for a company like World Pay is that we
+11:58
+don't have to extend credit that much. Uh we can use that money especially in like a a high interest rate, rising cost
+12:04
+of capital environment. It's both good for our business and then good for the merchants themselves. Um so I think uh
+12:11
+kind of to your point Brian it's like yeah the trickle down effects are almost immediate when it comes from our vantage point and then we it's like our
+12:17
+responsibility to then make sure that the merchants themselves benefit.
+12:22
+Okay. So we sit on both sides. So we settle with Visa um occasionally. No,
+12:30
+thank you. Um we are moving to the stable coin rail with Visa. But for us,
+12:35
+how we're looking at this, we're looking at it from a two-sided picture. So much like we settle with our agents. So at
+12:43
+the end of our chain when you send money is an agent which is a physical store. So they have cash sat in register that
+12:50
+we will pre- park when it's a weekend or a holiday. So we have a capital funding
+12:56
+challenge which is cost that means globally we move $130 billion plus a
+13:01
+year that capital cost is high percentages. So with a stable coin we
+13:07
+can now settle to the agents instantly directly into their wallets 247 365.
+13:14
+They use that and exit to cash locally. So they take the FX, they decide when to do it and how to do it. We earn yield on
+13:21
+what is not parked anymore and not used. So we've gone from a negative capital to a plus capital cost purely by changing
+13:29
+the mechanism of settlement with that stable coin. So that's the economics that we drive with settlement in stable
+13:35
+coin. It's a very different play than using the fiat rails. Now we'll still be fiat and there's still fiat because our
+13:41
+customers predominantly still want cash. So the challenge then is the last mile. So that's how we look at it from a
+13:47
+treasury point of view. Now the opposite side to that is making the stable coin liquid for customers. So with a stable
+13:54
+card, which we've mentioned a few times, which is essentially a card which has a stable coin balance as a true balance
+14:00
+available. Customers can now move that through the network, take it on a digital card, which means it doesn't go
+14:06
+through the agent network. It's instantly available. They spend it in Visa. They take it out in cash in store.
+14:12
+So, we're reducing even further the capital cost of sending fiat. And then lastly, we have the open network side
+14:18
+where we have a bunch of partners that will use our networks, whether it's agents or they're taking funds in and
+14:23
+they settle back with us. Much like the Visa problem, we give them credit lines, we underwrite them, we hold collateral.
+14:30
+If they settle in coin, then we don't need to take as much collateral. They need to send collateral at a weekend or
+14:36
+need to refund us back at a weekend. They run out of credit, so they can't give our customers money. So, we're
+14:41
+really two-sided in this play. So, not only sending out, but settling back so they can continue to pay out for the
+14:47
+customer. So, that's how stable coins is really changing the business for us in a very rapid way.
+14:54
+Malcolm, you mentioned that last mile is always the hardest. More questions. Sorry, can't can't
+15:00
+escape that easy. You mentioned last mile is always the hardest. I hear this time and time and time and time and time again. First mile and last mile is
+15:07
+always the hardest. And part of the reason for that is today it feels like there's sort of two different
+15:13
+ecosystems. There's the onchain ecosystem and there's the off-chain ecosystem. Um, when is the last time you
+15:18
+guys tried to on-ramp with like a a credit card? Show of hands. Anyone tried to do that recently? Yeah, you laugh
+15:25
+because it's really really hard to do, right? Like the reason for this is because there's this thing called MCC
+15:31
+6051, a merchant category code, which basically says that anytime you try to use your credit card, and it's not just
+15:37
+stables, it's like all crypto, you're going to see really, really low acceptance rates across the board, holy,
+15:45
+right? And that's because of MCC 6051. How do we fix that gap between the
+15:50
+onchain economy and the off-chain economy? And again, this is not just a Visa thing. everywhere. Really, really
+15:57
+hard to get money on chain with cards. How do we make sure that that line between onchain and offchain is blurred,
+16:03
+invisible, gone? Yeah. So, I think Peter's here today because he's announcing he's going to
+16:09
+personally fix it. Well, personal announced that it's already fixed.
+16:14
+It's done. So, question. Next question. No. Um, I think you've got to look at it in two ways. um you have to give more
+16:22
+opportunity for normal customers to on-ramp into the digital asset space. So
+16:28
+most of the customers in Western Union and I think general terms they don't care whether we're moving stable coins,
+16:34
+unicorns, rainbows, emojis, they really don't give two monkeys. So for us going
+16:40
+that was a good catch by the way. Yeah, I nearly swore. Um, so using the store to bring cash in
+16:46
+and load it in into a digital asset that then they can use to buy crypto, do things in that crypto ecosystem is one
+16:53
+opportunity where you reduce the need for that. In store using a credit card, we're still going into the same
+16:58
+challenge because that still exists. Then on the opposite side of offramping, you know, that network is there as well
+17:04
+to do it. So I think you look at it in giving that opportunity. I think until the networks themselves, you know, see
+17:11
+stable different than a crypto and the risk is different and because it's not a tradable asset, it's a monetary, you
+17:18
+know, movement of a value that is already in a treasury bank. That change has to happen and maybe there's a new
+17:24
+MCC code. Like sounds like a license plate you should put on your car. That code. Yeah. So Pete just needs to step up and
+17:29
+solve. Pet the voice of Visa in stable needs to step up. I I think I should go last.
+17:37
+Let's have you go last. Yeah. Yeah. I mean like this like the question I I really like just because um
+17:42
+I mean that's like core to what World Payer Global Payments does. Like in the crypto industry, we've been doing
+17:48
+exactly card acceptance for crypto purchases since 2014. So if you have in
+17:53
+the last I don't know 12 years bought on an exchange or a wallet using your credit card, it's often like our
+17:58
+infrastructure that you're using. So we're quite familiar with you know the I guess like the pros and cons to like what the current system looks like. Um,
+18:06
+to your point, Malcolm, I think ultimately this just becomes like a definitional sort of uh thing where I I
+18:12
+mean, correct me if I'm wrong and I'm going to keep I guess using our our visa guys, but um the MCC code was initially
+18:18
+created for I think travelers checks and like foreign exchange. So, you can imagine that what we're talking about is
+18:24
+not even purchasing a digital asset. uh it is actually the stable coin settlement piece, but it's already
+18:30
+derived from something that in and of itself is a very different primitive than what we're talking about as a as a whole. Um so I think I'm guessing it's
+18:37
+just a matter of time before like this is sort of fixed. But um I'll let like
+18:42
+one more speaker and then Pete can kind of Pete, you're getting beat up here, man. No, no, I got your back. Don't worry.
+18:49
+So I'm very comfortable. So, I think the obvious solution here is
+18:55
+obviously there should be an MCC code for crypto and there should be an MCC code for stable coins. I think that's pretty pretty frank, right? Like
+19:00
+cryptocurrency is an investment. Stable coins is a payment mechanism. And so, that's where you're going to have to
+19:05
+start. Um, actually at Polygon, we let people onramp with debit cards and also with cash on-ramp. So, you can go to
+19:12
+like an ATM at a Walgreens and on-ramp. And you know, I don't know if you've ever went through the on-ramping experience of cash into Bitcoin or like
+19:18
+into stable coins, but there's like eight warning screens when you're doing it because they're so scared. Grandma is on the phone with a fisher like walking
+19:25
+them through the entire thing. But, you know, still people have to do it for remittances, right? And same thing with debit cards. Um, and this is not new,
+19:31
+right? Like credit card I'm not sure credit cards are going to be used to buy stable coins. Like you don't use a credit card to get zel money. You don't
+19:37
+use a credit card to get Venmo money, right? They don't accept that at the end of the day. And like these are because these are P2P payment systems, right?
+19:44
+Like the money is going to leave and Visa is not going to be able to go figure out who they sent the money to,
+19:49
+claw it back, right? That's why you use a credit card, right? When you're paying for something online because Visa, and
+19:54
+they're really good at this, handles disputes, right? And that's what a credit card is really used for. So, I
+19:59
+don't think it's the right battle. Personally, I don't think Pete's going to be able to change that where you can use a credit card on-ramp into stable
+20:05
+coins because you just don't really see that today with like other P2P mechanisms as well. So, I got your back, Pete. Trust me. Don't worry. Okay. Is it
+20:13
+my turn? It's your turn. All right. All right. Cool. So, um, first of all,
+20:19
+taking a step back, MCC's stand for merchant category code. Um, every
+20:24
+merchant fits into a merchant category code. Other merchant category codes could be quickserve restaurants,
+20:30
+airline, you know, sporting goods stores, you name it. So, just the concept of an MCC is not a bad thing.
+20:36
+It's actually a good thing. It's just a it's just a remark on what the what the you know the merchant actually is and
+20:42
+what bucket they fit into and there's a lot of obviously data and analytics and other things that kind of fit into that
+20:47
+and there's rules of course in respect of those various MCC's. So an MCC by its nature is not a bad thing. Just first
+20:53
+off, um, when we talk about, you know, the MCC for for crypto purchases, one of
+21:00
+the things we've done more recently is provide, uh, an ability um, for the
+21:06
+payment processor for to tag what type of purchase it is because I think you
+21:12
+alluded to this point, Brian, like there's a difference between purchasing Bitcoin versus purchasing meme coins
+21:18
+versus purchasing NFTts versus purchasing stable coins. Those are wildly different purchases, right? Um
+21:25
+and at the end of the day, like it's not Visa who is saying yes, approve this transaction or no, you know, um reject
+21:31
+this transaction. You know, the transaction flows from the point of sale, you know, through the acquiring
+21:36
+bank, through Visa to the issuing bank ultimately and all the way back. Decisioning is, you know, and there's some fraud controls and other things
+21:42
+that, you know, along the way, of course, but like that decisioning is happening at the issuing bank. They need more information, right? So now they're
+21:49
+starting to get more information that that defines what this transaction is. Oh, this is a $100, you know, stable
+21:55
+coin like on-ramp versus this is a $9,000 NFT purchase and my balance is
+22:01
+$10,000, right? And well, that looks a little strange. They might want to reject that transaction. I don't blame
+22:07
+them, especially if you've never made purchases before in that category. That, you know, hits a fraud check that would
+22:12
+say, hey, this we should probably reject this transaction. That's appropriate. that I think you actually want that as a
+22:17
+customer. So I think a lot of what's been happening historically is starting to get resolved as we've provided more
+22:24
+delineation in those transactions. I don't disagree that in the past that that's been hard. So I'm not going to
+22:30
+sit here and be like, "Hey, there's no problem." Like you guys are all wrong. Um I'd like to say that, but um but I
+22:35
+think that we've actually, you know, fixed this and improved this dramatically uh in recent time in the last few months. and we've actually
+22:41
+issued that out I think even well over a year ago, but it's only starting to get kind of fully implemented across the
+22:46
+board now. Um, so I think you'll see a lot of improvement there. Awesome. I love it. So Pete, you're off
+22:52
+the hook. You can rest easy. Yeah. Exactly. Exactly.
+22:58
+Brian, I want to double click into something that you said, which is like, you know, you don't use your credit card to go and, you know, buy Venmo money or
+23:06
+zel money or whatever it is, but at the end of the day, stable coins are just money, right? So, like, I still use
+23:11
+dollars to send money on Zel. I still use dollars to send money on Venmo. I still use dollars to, you know, buy a
+23:18
+can of soda at the bodega, whatever it might be. And so you have all of these really different sort of versatile use
+23:23
+cases for stable coins. Given that stable coins can do all these things and they're actively using all these things,
+23:30
+what are we missing right now? Like where do the gaps lie? You're like, "Oh, I wish I had this for stable coins or I wish I had that for stable coins that
+23:37
+would allow all of you guys and all of your incredible networks to go out there and better work with these stable coins
+23:43
+across the whole span of use cases." Ryan, go for it. I'm happy to go. Um, I just moved to New
+23:49
+York two weeks ago and I'm still getting used to bodega. I I still am like, what is a bodega? Um, I'm figuring that out as I go. But
+23:56
+they're awesome. Yeah. Yeah, that's what I get anything at 2 am. That's that it sounds like a liquor store, but I'm just like, okay, bodega.
+24:01
+Cooler way to say it. Um, but to your question, I think like what needs to change is stable coins are still very
+24:08
+different from fiat, right? And the reason why is because the regulation of it and you know these stable coins are
+24:14
+not treated like dollars on chain, right? Polygon does on and off ramping for so many different companies right
+24:19
+now. You know, millions of dollars a day. And the reason why is because these companies don't want to hold the stable coins, right? There's a fear in that.
+24:26
+So, we're still like in this world where we're bridging the traditional fiat infrastructure to the stable coin infrastructure. We're doing it quite
+24:31
+often because stable coins are great for the A to B payment, but they're not really good when it comes to holding because people don't have FDIC
+24:36
+insurance. There's hacks. There's scary things that happen out there. And so what we need to change, you know, and
+24:41
+this is going to be dictated by regulation and also just time is, you know, these stable coins being treated as actual digital dollars. Now, I think
+24:49
+you're seeing some progress on that front. I don't know if anybody from SoFi is in the room, so I'll shout you out for a second, but SoFi USD specifically
+24:55
+is a stable coin that can go from a tokenized deposit within their own network, right? It's a a tokenized deposit that's also FDIC insured
+25:02
+actually, and then it can go into a second mechanism which becomes like a stable coin more so, and you can send it across the globe. But when it's in that
+25:07
+tokenized deposit world, it's FDIC insured. You have more protections over it. That is something I'm comfortable holding, right? But I'm not comfortable
+25:14
+holding like, you know, just a ton of USDC or UST, even though they're great stable coins, but you know, a lot of these enterprises are still not going to
+25:20
+be taking those risks. So, you need stuff more like that when it comes to SoFi USD and like, you know, adding more
+25:25
+regulation, more safety into the space. Yeah. I mean, to add on, I would say
+25:32
+from our vantage point, it's not necessarily like a technological or like product gap. Um I think a lot of what we
+25:38
+think about is is there standardization of what it means to have like settlement finality I think across different
+25:44
+networks across different assets as we've already kind of alluded to like there's very different mechanisms and
+25:49
+very different treatment. So without that standardization how do I as an acquirer like know what is actually
+25:55
+settled on which chain at what time. Um, so I think that's like a pretty big factor and I think that'll just take
+26:01
+time of of you know large enterprises as well as the government and regulator working together to like purely define
+26:07
+what that means so that we have comfort in saying we can accept all sorts of stable coins that adhere to that
+26:13
+standard. I think the second and I'm sure we'll talk more about this is is like sort of the chargeback dispute
+26:19
+mechanism. Like what does that look like um throughout uh like this this payment
+26:24
+life cycle? Are we going to have like a reserve pool that you then are refunding from or are there going to be smart
+26:30
+contract like escrow that we accept? Like there's a lot of different options. Um and it's sort of just a matter of
+26:36
+time in my view in term in ter until we get there. But like those in my head are like the biggest gaps that need to be
+26:41
+solved for this to kind of really go mainstream. So there's there's many ways to kind of
+26:48
+think about this and answer this. Um I'm going to start with the flow that we
+26:54
+really look at today. So for Western Union, you have a customer that starts a
+27:00
+send process. So they're KYC to AML. So we bring them in, they're a known actor.
+27:05
+We can give them a non-custodial wallet. It goes globally. So it starts as a
+27:10
+regulated KYC payment in the US. Then we send it to another foreign country. that
+27:16
+person receives a stable coin, sits within a non-custodial wallet, it's a completely different legislative place
+27:24
+that potentially doesn't have any rules or has some very strict rules. So, understanding that difference in what a
+27:31
+money transmit means in a stable coin, it's the same as fiat. So, those rules still apply. Those things happen. When
+27:38
+they have that and the exit, then they're in a store instance and you check the KYC and you revalidate them.
+27:44
+So from a charge pack finality within our closed network, we have that pretty well covered. Then you're bringing the
+27:50
+second place which is the agent piece. So that agent piece, we know the agent, we KYC them, we know their business, we
+27:56
+know who they are. So we can settle to that agent based on what they need. They can settle back much like Visa. There's
+28:01
+a trust relationship. We're good. But the legislation in their region is very different. So in Bolivia, they can
+28:07
+accept USDT because it's a currency. They can't accept my stable coin because it's not a currency. It will be very
+28:12
+shortly. So they want to swap and they want to flip. The second they start flipping and swapping into all the other
+28:18
+stable coins, you lose the trail. So then anything that happens beyond that, it's their risk and they have to
+28:23
+understand that. The last side of it is we still have that end liquidity problem. So the gap for me is how do we
+28:31
+orchestrate out between exchanges, OTC desks, local small exchanges, local
+28:37
+banks so they can take out some of the cost side and keep that regulation side whole. So if you take the I send $100 to
+28:45
+an agent in Bolivia today, they go through an exchange, there's BIPS, there's FX, there's rates, it's cheaper
+28:52
+for me to send it through the co the corresponding banking layer. So the industry has to evolve a little bit to
+28:57
+understand this is no longer retail. It's no longer consumer. It's no longer crypto bro and girls holding it. It's
+29:03
+businesses. It's legitimate exchanges going into legitimate agents. That
+29:08
+orchestration needs solving. And it doesn't need solving just for the US. It's a global solve. So, I think that's
+29:14
+where we're heading up to the biggest challenges we're starting to face is that off-ramping into, you know, the
+29:20
+fiat world because at the end of the day, grandma wants cash. She's going to need it. She doesn't know what a stable
+29:26
+coin is. She doesn't a Visa card. She'll probably tap it and she may pay a bill with it. She still needs cash. The cash
+29:32
+world is still very relevant mostly places in the globe. Sweet. Pete, take a guess.
+29:38
+Um, yeah. Yeah, I mean I'll just add super quickly because I think there are a lot of good content here. Um, you
+29:43
+know, we're kind of in a similar position in that we, you know, we utilize stable coins every day. We move stable coins every day. We're not in the
+29:50
+business of holding stable coins either, right? So, we're going to receive stable coins. We're going to we're going to burn them off. We're going to use like
+29:57
+let's say if it's a Saturday, we're going to use RTP Rails and we're going to get we're going to go back to to fiat. Um that's a that's a position of
+30:05
+you know like um you know just concern of the asset of the stable coin asset the lack of insurance to the asset um
+30:12
+you know and obviously the comfortability we have with with fiat strictly as well you know mind you like
+30:19
+we're basically balancing to zero every day so all the inputs that come in all the funds that come in equal funds going
+30:24
+out we're kind of think of it as like a zero dollar balance account at the end of the day so we're not really in the business of holding these um I think
+30:30
+from a consumer perspective Ive I think especially outside the US you're seeing people that are very comfortable holding
+30:36
+them and I think even you know to credit for for Malcolm you know where they're you know they're having a wallet you know the consumer is going to hold that
+30:43
+stable coin they're going to hold USDPT and that's really a wealth preservation mechanism for them if they're sitting in
+30:49
+Argentina or Turkey it's really awesome I like what they're doing um and I think there's comfortability in in that so I
+30:56
+think actually you're seeing consumers to be fair especially outside the US that are actually more comfortable with
+31:01
+than uh than actual uh businesses. Um that should change over time. You know,
+31:06
+Brian made the point about, you know, SoFi's stable coin as well. Um and we'll see how people utilize these uh you
+31:13
+know, these like B funds and other things over time and how they gain comfort with that. I I think we'll see the progression. Love it. I mean, you
+31:20
+mentioned chargebacks, fraud protection, all of the stuff that people who hate stable coins bring up when they want to
+31:26
+try to say that stable coins don't matter. So, I want to talk about this Pretty much all of you up here have had
+31:32
+organizations that have spent decades and hundreds of millions if not billions of dollars solving these problems. The
+31:39
+fraud, the chargeback, you name it. What does that look like in terms of an asset
+31:45
+that can be sent and instantly final from point A to point B? How do you guys build out those mechanisms?
+31:51
+I can go first. So, we already work in an asset that exits and is final and goes out it's cash. So for us, moving to
+32:00
+the stable coin rail and the stable coin actually brings in more capability than we have today. So if you send money
+32:07
+fraudulently to somebody in a country and they walk out with cash, the second they walk out, even and if the store
+32:13
+doesn't catch that fraud, it's gone. It's done. It's dusted. So that chargeback, that recovery and the money
+32:18
+transmit flow is is very difficult, which is why we have all the controls. In the wallet side, you have the ability
+32:24
+to track it through chain. You can freeze it, you can pause it, you can recheck it, you can revalidate it. You
+32:29
+have plenty of tools out there that look for bad actors, look for known, you know, institutions that are doing this.
+32:35
+Our friends in North Korea do this very often. Um, they also defraud us in cash as well. You know, that's just the game
+32:42
+name of the game. So, I think you have to look at the benefits that this brings you in an onchain experience. So, people
+32:48
+think of onchain as, you know, there's a dark web, the DeFi space, the people, you know, moving funds around and money
+32:54
+wandering. There's also this great, you know, ability to track it right through the chain until it turns up in your
+33:00
+store and you have that moment to do that. So, it's the risk is still the same whether it's cash or stable for us.
+33:06
+It really doesn't change. We just have a few more tools on top.
+33:11
+Yeah, I won't I won't try to repeat like I guess what I said before. Um, I think personally I believe in a world in which
+33:18
+it's less likely to be sort of any sort of reversal like type of technology that's like introduced. I do think like
+33:25
+I like this idea of there sort of being like a forward refund where you see the transaction that went through and that
+33:31
+gets put on the blockchain but then you also see the fact that like an equal transaction also went through reversing
+33:36
+that transaction and that's pretty interesting in terms of just like being able to view what the history is of a particular wallet or whatever it might
+33:42
+be. Um, outside of that, I think like most companies or like acquirers or maybe it's going to be the the issuers
+33:48
+or the merchants themselves, like there will have to be some sort of reserve that's like maintained in order to kind
+33:54
+of like execute against um against those sorts of like things that we expect to
+33:59
+to happen anyway. Um, again, I think it's going to take the effort of a lot of companies coming together to agree on
+34:05
+like what those rules will be, what those definitions will be, what is the process that like we want to kind of put
+34:11
+out there. Um but again it's a matter of time. I think the one thing that I'm also quite interested in is once we move
+34:17
+to a world in which transactions are machine to machine so like machine to machine payments. This can get pretty
+34:22
+novel when it comes to this type of mechanism because machine is you know not going to be like a North Korean sort
+34:28
+of like example that was was mentioned here. Although I guess it could be backed by them and coded by them. It's pretty much going to be North
+34:34
+Korean. But but all to say that you can like you can look and inspect the code itself and you can code within that this
+34:41
+type of functionality especially for those type of transactions which you know you would have to believe are going to really increase in volume and
+34:47
+magnitude over the next few years. Yeah, just to to add, so I do think when
+34:53
+it comes to chargebacks, disputes, like you're talking about like these recall functions, you know, I'm going to sound like a Visa Maxi, but Visa has solved
+34:58
+that, right? They've like set those rules. And I think stable coin cards are are really good like um I guess next
+35:04
+step when it comes to people actually spending with stable coins, but still getting those consumer protections of being able to say like, you know, I
+35:10
+didn't sanction this transaction. My card got stolen or something like that and you can get your money back. And Visa has been doing that for a long,
+35:16
+long time, right? And when it comes to stable coin cards, the beauty of them is it's still the same UX, you know, it's
+35:21
+your Apple Pay, it's your Tat Pay, which is a great payments experience, right? Like I don't know if you get less friction, you know, right? If you
+35:27
+actually get less friction with probably like Apple Pay and like, you know, it just scans your face when you go up to the terminal and it just knows to to pay, that's probably uncomfortable,
+35:33
+honestly. So, it's the perfect amount of friction. So, it's kind of already been solved. So, when it comes to the chargeback stuff, you know, the stable
+35:39
+coin card, it lets stable coins do what they do best, which is operate on the back end. And then Visa can still handle like the chargebacks and disputes if we
+35:45
+need to. Now, if you're going to take that outside, let's say, of uh the like stablecoin link card world and people
+35:50
+just have QR codes at their merchants like, you know, pay my Coinbase wallet, well, you're going to run into a lot of trouble. Like, you know, there are
+35:56
+interesting technologies like recall functions. You know, you can put a wrapper on a stable coin, that stable coin can be sent, you have 48 hours to
+36:02
+reclaim it, but then you run into more issues as well. So, the problem is is like with chargebacks and disputes, you know, we might be able to get to a point
+36:08
+where a consortium could do it, but it's really got to kind of be somebody in the middle playing cop, right? saying like,
+36:13
+you know, no, this is the this is the dispute. This is what they wrote. This is what happened. We got to get the money back now. So, you kind of do need
+36:18
+that type of person in the middle. Um, at least for now. Thank you, Brian. That was good. That
+36:25
+was good. I, you know, I kind of echo Brian's uh sentiment there. Um, and
+36:31
+really settlement is is is net settlement is disjoint. So, you know, what's happening, you know, with the
+36:37
+consumer and their spending and their returns, cancellations, what have you, that all kind of reconciles out in a net
+36:43
+settlement world because this is all being batched and settled as a whole for a card program to to Brian's point
+36:48
+around these like stable coin link cards. So, they have that stuff built in, which are the consumer protections
+36:54
+people want. So, I think we've given the people what they want, I hope. Um, and and they use them. I use it personally,
+37:00
+like I have an Ether card. I'm maybe earning 6% in a D5 pool and I'm spending it down. Yeah. You like
+37:06
+that? 6%. Yeah. So, you know, um but I'm getting all those protections as well. So, like if I want to return the shoes, I return
+37:13
+the shoes, you know, and it function, right? So, um I I think we've built well for this. And then kind of to the
+37:18
+comment of like let's do direct accept of crypto, right? Well, obviously you can do that. People do that. There's
+37:24
+some merchants that do that. But if you're going to have those functions like an ability to like get a refund,
+37:30
+return, whatever, and you're let's say wrapping it, putting a smart contract on it, and you know, not necessarily
+37:35
+releasing the funds kind of wholly, well, then there's no like all that kind
+37:41
+of allure of like the atomic nature of it just goes away, right? So, um it's
+37:46
+like be careful what you wish for, right? I love it. We have about a minute left here, so we're going to do one more question on on kind of a speed round.
+37:53
+Talk a little bit about timeline. Lots of regulation stuff popping up. Lots of, you know, technology that's rapidly
+38:00
+improving. Right now though, stable coins are still really, really, really small in terms of proportion of total
+38:05
+commerce, proportion of of total payments. What are your predictions on timeline? And this is the opportunity for you guys to either look like
+38:11
+geniuses or, you know, get quote tweeted later on and and uh made fun of. So Pete, why don't you start? We'll we'll
+38:17
+go down the line. All right, let's make fun of me for a one, huh? Yeah. Um, so like timeline
+38:24
+it's now. Like we're doing this now. Like the timeline is right now. We are moving money via stables right now. Full
+38:31
+stop. That's continuing to grow. Every month we do more than the last month. So the timing is now. The the complexity I
+38:38
+think revolves around the um the regulatory or the lack of regulatory
+38:44
+clarity because that's still a big question mark. Um so you know hopefully that gets ironed out. Um, but that's,
+38:50
+you know, kind of the biggest thing I see. Yeah, I would just say that it's the enterprises that are really going to push this industry forward. And you saw
+38:58
+that, you know, when Bridge got acquired by Stripe, you know, that probably paid for a lot of people here, right? You know, so I remember that day actually
+39:04
+when it happened, I talked to people like, "Wow, our team just got more important." So, it's going to be the enterprise that keep pushing it. But,
+39:09
+you know, I don't know if you guys know Jack Zang, the CEO of Airwalks. I don't know him. I know his name. But, uh, he actually tweeted out, I remember a year
+39:15
+ago saying like, "Why do we need stable coins?" because his company has spent the last 15 years building like local on and off ramping in 100 plus markets,
+39:22
+right, in order to make crossber payments seamless. And kudos to him, he did it the hard way, right? Unfortunately, stable coins are now
+39:28
+enabling companies like Sling, which is like a Venmo with stable coins on the back end, right? To expand to 150
+39:34
+markets within two years. And that's just like the the what we're in now, right? You can access these markets from
+39:39
+day one. And that's why people are building on stable coin rails, right? Who wouldn't want global accessibility? So, it's just a it's an inevitable,
+39:46
+right? like money should move at the speed of the internet. When my mom asked what I do, that's what I always say. I make money move at the speed of the
+39:51
+internet. And so if you believe in that, then you're going to need, you know, full stack infrastructure to get all
+39:57
+these companies on chain. Not saying all money will be on chain, but a lot of it will. Yeah. Um I mean, I think one thing that
+40:04
+like I always want to level set is like very easy when you're in these types of rooms to like kind of get, you know,
+40:09
+high in your own supply of like what we're doing like the money movement and internet. The thing to really kind of
+40:15
+check yourself is like the the real payments world is so much bigger than what stable coins represent. And these
+40:21
+type of things are both relying on network effects as well as sort of technology and compliance gaps to to
+40:26
+kind of be closed. I mean I think like the Visa network which I guess was called something else back when it started. It still took like 25 years to
+40:33
+kind of become like widely accepted and used. I think you know with technology today it's probably going to be half
+40:39
+that time um to kind of reach that when it comes to this type of asset. So I think by like the early 2030s it'll be
+40:46
+sort of ubiquitous that stable coins are like accepted as a payment method but even then I don't think they will be the
+40:51
+majority of transactions but they will be a significant portion of like crossber and and sort of a lot of those types of use cases.
+40:58
+I think for me the the story I tell the exec team in Western Union we're a three
+41:04
+to five year journey. So the game is scale. So it's easy easyish to get the
+41:10
+infrastructure stack get the stable coin launched issuing bank you know liquidity
+41:16
+is a little bit harder with exchanges and OTC desks then it's scale so much you much to the point here it's going to
+41:22
+take a period of time for that scale to take place consumer acceptance is not the game here the underlying
+41:27
+infrastructure will start moving the coin consumers will get more comfortable with use cases there are very few stable
+41:33
+coins that have vertically integrated use cases that consumers is the general consumer not the crypto bros or girls or
+41:40
+people in this room high on our ourselves will hold stable coins in wallet and earn against that. So those
+41:47
+vertically integrated use cases will start driving out but they take time. So stable card issuing later this month we
+41:54
+get really quick into a number of markets versus a general issuing program. They're going to hold US
+42:01
+dollars for certain markets as Peter mentioned they already do that today. That's a win. the US customers, they're
+42:07
+not going to hold US dollars in a car. They already do that. Like why do I need a stable coin? It's novelty. So I think
+42:12
+because of that, you're on a journey which has very much started. It's a backend thing. In some regions, it will
+42:18
+be front, but it's a three to five year journey for us where we're not going to be fully ramped through for that period
+42:25
+of time. And we'll always use fiat. Love it. Love it. Ladies and gentlemen, these are four of the smartest people at
+42:30
+four of the most influential companies in all of stable coins.
+

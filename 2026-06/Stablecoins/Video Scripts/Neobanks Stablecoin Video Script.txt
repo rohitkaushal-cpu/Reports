@@ -1,0 +1,397 @@
+
+Search in video
+0:03
+Hi everyone, I'm Pod founder of stable
+0:05
+channel and very important topic today I
+0:08
+wanted to cover. So how onchain yield is
+0:10
+replacing the bank savings account. So
+0:14
+let's look on the market structure
+0:16
+first. uh the credit card APR uh
+0:20
+national average in US is at 21%
+0:23
+highest in very long time and at the
+0:26
+same time the savings APY uh is at 0.61
+0:30
+61 lowest also in quite a long time and
+0:34
+that is more than 20 percentage points
+0:38
+of a spread widest spread on record.
+0:41
+What is not visible here is that
+0:43
+consumer sentiment in US is in the
+0:46
+lowest spot in 75 years of tracking. uh
+0:49
+the US households are sitting on almost
+0:54
+190 bill uh of depth and the midterm
+0:57
+inflation is expected to be at around
+0:59
+four to 5%. So the math is pretty
+1:02
+simple. If the inflation is that high
+1:05
+and the savings account are paying us
+1:08
+almost nothing then this is guaranteed
+1:10
+loss and not really uh savings account.
+1:14
+Then consumers feel it and they're
+1:16
+looking for alternatives. If we looking
+1:19
+at the bank mergins, uh, then we see
+1:21
+that they're pretty jazzy. It's like
+1:23
+3.4%
+1:25
+at the moment, and that's more than five
+1:28
+times than what they're paying us, uh,
+1:30
+on the savings account. Uh, the problem
+1:33
+is that banks can't really share more of
+1:36
+those yield, more of those uh, more of
+1:38
+the money with us because of the macro
+1:41
+environment. So looking at this chart,
+1:44
+banks entered a lot of commercial real
+1:47
+estate loans back in 2020 especially.
+1:49
+There's a really big maturity event
+1:52
+happening last year also this year.
+1:55
+Almost 900 bill of Siri debt is maturing
+1:59
+this year and almost 400 bill of that is
+2:02
+sitting directly on the uh banks of the
+2:05
+uh balance sheets of the banks. The
+2:08
+problem is that they entered those loans
+2:11
+when the rate uh rates were much lower
+2:14
+at 1.5 to 2%. But most importantly the
+2:18
+prices of real estate dropped from that
+2:21
+time. So banks are sitting at the moment
+2:23
+at around 300 bill of uh unrealized
+2:27
+losses and if they would like to operate
+2:30
+as intended under under the Basil 3
+2:33
+regulation they need to hold enough of
+2:35
+equity capital uh on their balance
+2:37
+sheet. So they need to build healthier
+2:39
+balance sheets. They need to just save
+2:40
+more money and because of that they
+2:43
+can't fight with each other and share
+2:44
+more of this yield uh with users with
+2:48
+depositors. So have we ever have kind of
+2:52
+like similar situation kind of. So like
+2:54
+in 1982
+2:56
+uh MMFs hit the market. We've seen a lot
+2:59
+of outflows from savings accounts at
+3:01
+banks and they've been captured by MMFs
+3:04
+at around 220 bill. Banks reacted very
+3:07
+fast because back then the balance
+3:09
+sheets were much healthier. uh they
+3:11
+launched MMDA so money market depository
+3:14
+accounts recaptured most of those
+3:16
+outflows and even more around 300 bill
+3:19
+in just three months but uh today's
+3:22
+situation is different so banks are in
+3:25
+much uh worse situation and the threat m
+3:28
+is much bigger fed reserve is expecting
+3:32
+that they're going to be trillion uh
+3:35
+dollar migration from the banks to these
+3:38
+stable coins and because of that banks
+3:41
+will have less than uh more than 1.3
+3:45
+billion uh capacity for lending. Um and
+3:50
+uh because of that we can say it's not
+3:52
+anymore uh niche crypto story but really
+3:56
+big macro events and something like this
+3:59
+never happened earlier. Um so Jamie
+4:02
+Diamond said something very important in
+4:05
+his latest letter to uh shareholders in
+4:08
+April that the whole new set of
+4:10
+competitors is emerging and that of
+4:13
+course includes stable coins and other
+4:15
+form uh of tokenization. the fintex uh
+4:19
+the thread fivey banks already seen that
+4:21
+banks are frozen and this is providing
+4:24
+us uh and the fintex space in the crypto
+4:27
+space with really big opportunity to uh
+4:30
+capture that so if we look at the uh
+4:33
+payment railways they already been
+4:35
+changing from the old architecture to uh
+4:38
+being settled on chain PayPal QAD uh
+4:41
+reach more than four bill um in deposits
+4:45
+over very short And when we look at
+4:48
+fintex, the Robin Hood gold cash sweep
+4:50
+account is paying 3.35%
+4:53
+APY. That's more than five times uh
+4:55
+national average in US. It's pretty
+4:57
+similar when it comes to Europe and
+5:00
+Revolute. And I believe that we at
+5:04
+crypto were positioned really well to
+5:06
+capture um those users needs because we
+5:10
+are building neo banks from scratch
+5:12
+based on those crypto railways. And in
+5:15
+the recent months, we've seen more than
+5:17
+100 uh of those companies um coming to
+5:21
+the market from like Plasma One, Anom
+5:23
+Pay, Ether, you probably know quite few
+5:25
+of them. And the yield in their cases is
+5:29
+generated totally different than how to
+5:31
+generate it uh on the Treasy side or at
+5:34
+FinTex. First way normally is to do that
+5:37
+through vaults and the problem is uh
+5:39
+with that is that uh they need to hire
+5:42
+risk curator to manage the funds perform
+5:45
+some underlying strategy. Um but
+5:48
+curators take no responsibility for the
+5:50
+funds if in most of the examples and
+5:53
+we've seen some blowoffs in the recent
+5:55
+months uh depositors been left on ice
+5:58
+unfortunately. Second way uh is lending.
+6:02
+But the problem here is that the yield
+6:04
+concentration is very narrow. It's
+6:07
+mostly running on leveraging of two
+6:10
+assets. And if either of them would
+6:12
+rubble, then once again depositors would
+6:15
+be um left on ice. We've seen problems
+6:19
+with liquidity or even bad depth uh
+6:22
+within this model. So at stable watch
+6:24
+we've been working a lot on research and
+6:27
+risk uh when it comes to yield bearing
+6:29
+stable coins or yield bearing assets and
+6:32
+we think that there is a better solution
+6:34
+which is um SUSDS uh issued by sky it's
+6:39
+currently the biggest yieldbearing
+6:41
+product on chain fully transparent you
+6:44
+can see what's the backing on the
+6:46
+graphic on the right side of the screen
+6:49
+balance sheet consists of yeah more than
+6:51
+11 bill at the moment And the rate if we
+6:54
+compare it even to uh Robin Hood or
+6:57
+Revolute is pretty competitive I would
+6:59
+say even for the western world 3.6% 6%
+7:02
+APY. Uh more than half of the balance
+7:05
+sheet is uh instant liquidity sitting in
+7:08
+USDC. A lot of the other assets on the
+7:10
+balance sheet, they are um they have
+7:14
+very short time to liquidity as well.
+7:17
+But what's the most important and what
+7:19
+excites uh new banks and any kind of
+7:22
+platforms, wallets maybe would like to
+7:25
+integrate this asset is the very clear
+7:28
+uh and easy to understand risk
+7:30
+framework. which is based on basil 3
+7:33
+regulation. So this a regulation which
+7:35
+is pushing banks now to accumulate more
+7:38
+capital. So in this scenario there's
+7:41
+almost 200 mil of this risk capital.
+7:43
+It's easy to understand towards the
+7:45
+waterfall of losses. There's junior
+7:48
+tranch mezine senior one and some side
+7:51
+pocket. Uh and once again it's uh very
+7:55
+clear to understand what going to happen
+7:58
+uh when something wrong. uh will appear
+8:02
+and up until now it was not that easy to
+8:04
+integrate uh SUSDS into your products
+8:08
+and at Osero we've built um our first
+8:12
+product Osero Earn around that it's 10
+8:14
+lines of code so super seamless
+8:16
+integration can be done in our uh and
+8:18
+put into new bank or wallet uh some
+8:21
+first use cases went live last weeks
+8:23
+with anomay for example where you can
+8:26
+get your yield fully private for such a
+8:28
+use case uh in crypto I believe and at
+8:32
+the moment 250 bill uh of stable coins
+8:36
+are no yields um in any space and if we
+8:39
+think the same as federal reserve that
+8:42
+uh they're going to be trillions of
+8:44
+migration into stable coin market then
+8:46
+uh it's very big opportunity so if you
+8:49
+would like to talk about that you can
+8:51
+hit me on uh telegram that's the upper
+8:54
+uh QR codes uh I promise I don't miss uh
+8:57
+install malware on your Guys, if you're
+9:00
+interested in the data uh and the whole
+9:03
+picture about our thesis around this
+9:05
+migration, we've prepared the full
+9:07
+report. You can see that uh if you scan
+9:10
+the bottom QR code. I also got some
+9:12
+physical copies so you can catch me and
+9:14
+and grab one. Thank you very much.
+

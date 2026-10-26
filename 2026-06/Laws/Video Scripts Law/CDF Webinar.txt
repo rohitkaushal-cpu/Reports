@@ -1,0 +1,1535 @@
+
+Search in video
+Introduction and Welcome
+0:00
+Good morning everybody. A very warm welcome to Crypto in the Caribbean: Threat or Opportunity. Uh my name is
+0:07
+Dennis Augustinine and on behalf of the Caribbean Digital Finance Alliance or CDFA, it's my great pleasure to welcome
+0:15
+you today. We're thrilled to see such a remarkable turnout. I know in the audience today we have senior
+0:22
+representatives from the central banks, securities commissions, financial intelligence units, ministers of finance
+0:29
+from across the region. We also have fintech innovators, leaders from commercial banks, compliance
+0:35
+professionals, and advocates for the small and medium-sized businesses that are the lifeblood of our Caribbean
+0:42
+economies. Your presence here underscores the urgency of this
+0:47
+conversation. The CDFA is an independent alliance. We're dedicated to fostering safe,
+0:54
+innovative, and inclusive digital finance for the Caribbean. We believe in the power of dialogue to navigate
+1:00
+complex challenges, and that's precisely what we're going to focus on over the next 90 minutes. So, let's set the
+1:08
+scene. We're here to talk about virtual assets. Now, that can sound complicated, but at
+Understanding Virtual Assets
+1:15
+its core, we're talking about digital representations of value that can be
+1:20
+traded or transferred. Think of them in a few broad categories. First of all,
+1:25
+there are cryptocurrencies like Bitcoin. There are stable coins that are hedged or underwritten by things like the US
+1:32
+dollar and other digital tokens that can represent ownership of an asset or in a
+1:39
+project. So why does this matter right now for the Caribbean? It matters because in our
+Regulatory Landscape in the Caribbean
+1:46
+region and indeed across the world, governments and regulators are grappling with how to approach this new
+1:52
+technology. We see a dynamic landscape. Some jurisdictions like many of the
+1:58
+Eastern Caribbean currency unions have moved forward with licensing frameworks
+2:04
+to supervise the sector. Others are actively considering different paths.
+2:09
+The recent tableabling of a virtual assets bill in Trinidad and Tobago, for example, has catalyzed this as a
+2:16
+critical regionalwide discussion about the best path forward. Now, it's very
+2:23
+important that I set some clear ground rules for this discussion. This webinar
+2:28
+will not critique or interpret the specific text of any single piece of
+2:34
+legislation currently under parliamentary consideration. Our purpose today is not to analyze a particular
+2:40
+bill, but rather to use the broader regional and global experience to
+2:45
+explore the fundamental policy question in our Caribbean context. Is it the more
+2:51
+prudent posture to pause and prohibit virtual assets or is it to proceed with
+2:56
+caution under proportionate and riskbased approaches? To help us explore this, we're going to use some objectives
+3:03
+focused frameworks. We're going to focus on the what we want to achieve together.
+3:09
+Whether it's protecting the integrity of our financial systems from illicit actors or fostering the kind of
+3:15
+innovation that can solve real world problems for our people. We want to
+3:21
+ensure that our small businesses can survive and thrive in the digital economy. Our discussion will be grounded
+3:27
+in these circumstances. I'm so blessed that we have such an outstanding panel of experts to guide us
+Panel Introduction
+3:34
+through this complex arrangement. Mark Pereara is the founder of Zed Labs and
+3:39
+works in Trinidad and Tobago. As an operator, he is at the forefront of this
+3:44
+issue. He's seeing real world demand and the operational realities every single day. So, he's going to ground us in the
+3:51
+realities on the ground. Next, we'll turn to Annie Bertrand, my colleague at the CDFA. Annie has been deeply engaged
+4:00
+with the evolution of the global AML anti-money laundering and CTF countering
+4:06
+the financing of terrorism standards from the financial action task force in particular around the critical and often
+4:14
+overlooked matter of financial inclusion. She's going to help us to understand the international context and
+4:20
+the implications of FATF's latest guidance. And finally we have professor
+4:26
+Louie doker or louisie as he's prefers to be called. Professor doker is a
+4:31
+globally recognized expert on anti-moneyaundering law and has advised governments and institutions around the
+4:38
+world on developing effective and pragmatic regulatory frameworks. He's going to share with us his deep
+4:44
+expertise on practical pathways and potential pitfalls of different regulatory approaches. So let's begin.
+Realities on the Ground: Trinidad and Tobago
+4:51
+First to you Mark, can you help us uh paint a picture? Setting aside any specific proposed legislation for a
+4:58
+moment, what's the reality on the ground? Why are individuals in particular small businesses in places
+5:04
+like Trinidad and Tobago turning to virtual assets? And what does the scale
+5:10
+of that activity look like from your vantage point? Thank you, Dennis. One of a very key
+5:17
+point of Trinidad and Tobago is to understand something that was introduced in 1993
+5:24
+which is the manage float. That essentially means that the central bank of Trinidad and Tobago allocates us to
+5:29
+banks and then the banks will then distribute the US dollars to the private
+5:36
+sector and economy and individuals. The distribution of that currency has not
+5:42
+been transparent. But also, as you can imagine in times like this, it generally
+5:48
+favors the more fortunate. And what has been happening since 1993 is the growth
+5:55
+of because of this managed control and the forex flows are lessening because of
+6:01
+our reducing exports. Trinidad Tobago has a rising black market. So that means that the central
+6:09
+bank states that the rate is 6.78. But in the open market, individuals are
+6:15
+finding creative ways to purchase US dollars outside of the banks. And what
+6:23
+does what's the big problem of that? It's unregulated. And usually the people willing to make take that risk are
+6:30
+unregulated providers. essentially individuals and businesses purchasing US
+6:37
+dollars peer-to-peer which as Louis will dig into is where a lot of
+6:42
+moneyaundering does happen. So that black market is not just individuals finding creative ways to get us but it's
+6:48
+giving rise to criminal industries and giving criminals a lot more power and economic validity. So what fast forward
+Challenges and Opportunities in Virtual Assets
+6:57
+the 2009, Bitcoin is created and an entire financial innovation industry happens from there. Stable coins are
+7:03
+created which is essentially a cryptocurrency backed by the US dollar. So what that means is you've moved
+7:09
+currency into this innovative rail and this innov innovative foundation and individuals are now
+7:17
+enabled to just download a wallet within and within seconds receive any amount of USD stable coin. What does that mean for
+7:24
+the forex market is that it's even easier now to receive us. It's great for
+7:31
+financial inclusion and for access to forex and that is currently how
+7:36
+businesses in Trinidad and Tobago are finding forex. We ourselves because of
+7:42
+the gray area in the virtual or the lack thereof of a virtual asset bill. This is also something that we do ourselves is
+7:49
+we purchase cryptocurrency which is a means of accessing forex and essentially
+7:55
+what's happening now is that the small man and the small businesses who were
+8:01
+enabling themselves with this access to forex this newfound democratized access
+8:07
+to forex they're now being clamped down again and going back to the previous situation where you know the
+8:14
+beneficiaries of the US from the allocations of the banks are again non-transparent and then the small man
+8:20
+and the small business are left holding their hands out to the sky and saying what do we do here? So really and truly
+8:27
+what this means for the progress of a nation is that this blanket prohibition
+8:33
+is also shutting out innovative providers of virtual assets. So there
+8:39
+was informal routes which did give birth to let's just say nonregulated and risk
+8:46
+risky investment schemes and I would attribute that to the lack of regulation
+8:52
+and then also there's innovative providers in Trinidad and Tobago who are offering virtual assets with compliance
+8:59
+mechanisms built in. The birth of the industry has happened and they're moving towards regulation. However, this
+9:05
+blanket ban is now being introduced and for over two years, so it's until
+9:11
+January 1st, 2028, is when they will unpause the blanket ban and allow
+9:18
+industry players to start to offer virtual asset services. However, two
+9:23
+years for a startup, for an innovation sector is a death sentence. That's setting the context for exactly from a
+9:30
+private sector and an industry's perspective as to what's currently going on in Trinidad and Tobago.
+Regulatory Compliance and KYC
+9:37
+Now Mark, you're a regulated provider and a regulated operator. So tell me, what sorts of information do you collect
+9:45
+on your clients or monitor with your clients that might be helpful to a regulator in making sure that the system
+9:52
+is safe and secure? Yeah, being a regulated provider, the
+9:57
+internet at Tobago, we have rules to adhere to, but also from a business
+10:03
+perspective, insights into our customers is invaluable when it comes to monitoring transactions because as a
+10:09
+business, you need to keep your systems clean and and make sure that you're not aiding in assisting criminal activities.
+10:17
+So what we do is we have a fully digital on boarding system and we take
+10:23
+everything from an individual's we gather their ID information. So that's their first name, last name, their date
+10:29
+of birth, their address. We even do facial recognition and liveless checks
+10:35
+and then we operate within tiers as well with our KYC is what this is called.
+10:41
+Know your customers collecting ID on individuals. So we have a tiered approach which is again another
+10:46
+innovative approach where let's say an individual does not have all the ID credentials maybe they migrated to the
+10:52
+country for a better life we still have that tier which limits them in their amount of money they can spend up to
+10:59
+7,000 TT but allows them to digitize and be within a safe environment where
+11:04
+they're not walking around with cash. So that is just collection of the first name, last name and the residential
+11:09
+address as well as their date of birth and where they're born but not I verifying it and every tier after that
+11:14
+if they want to engage with the banking sector if they want to let's say purchase cryptocurrency or virtual
+11:20
+assets one day they'll have to verify their identity which is their residential address their first name
+11:27
+last name a picture a liveless check and uh if it's a business then we require
+11:33
+their beneficial owners the certificate of incorporation and the list goes on.
+11:41
+Thank you very much Mark. That it's a powerful illustration I think of both the demand. We're seeing a lot of demand
+11:47
+for that in particular to help small and medium business facilitate trade. So
+11:52
+that's obviously a powerful tool for that and really you've described is it's significant. It's economically driven.
+11:58
+The activity is already happening at scale. We've in our previous discussions, we've talked about the the
+12:06
+peer-to-peer transactions as Louie has mentioned previously. So, from your operational standpoint, and I'll thank
+12:12
+by the way any of our other panelists if they'd like to chime in and all of you on the call today, if you want to put
+12:18
+your questions in the chat, our colleague from the CDFA, Melissa, will monitor that and raise some that are
+12:25
+relevant to the discussion. But from your standpoint, Mark, these the risk of these peer-to-peer transactions, can you
+12:31
+perhaps speak a little bit to the peer-to-peer risk and how operators like yourself might help mitigate that?
+12:39
+Yeah. P as I as we've been correctly informed by professor Droka Luis said
+12:44
+rightly that within the peer-to-peer market is where majority of the of money
+12:51
+laundering takes place and the peer-to-peer market in Trinidad and Tobago with the purchasing of
+12:57
+cryptocurrencies is a completely non-transparent industry. So I'll give you an example.
+13:03
+You take cash which is a non-traceable asset issued by the central bank which is a which it's not cryptocurrency
+13:10
+that's unique in the fact that it is used as a moneyaundering mechanism. Cash is also one of the biggest mechanisms
+13:17
+for money laundering. So you take cash which has high risk of money laundering and then a peer-to-peer or an individual
+13:23
+who has cryptocurrencies. This is also non-traceable if you do not have the KYC information that you can
+13:31
+tie to that address of the individual. So you have two unidentifiable characters. One is pseudonmous which
+13:38
+means you can identify the address if you know whose address it is. But in this case two totally anonymous
+13:45
+individuals to the central bank. The government doesn't know if it's happening in Trinidad, out of Trinidad. And essentially what having regulated
+13:53
+providers allows is you onramp an individual through the
+14:00
+wallet. The KYC that I just talked about is tied to the address of a peer-to-peer individual. And then once the that
+14:08
+individual transacts, if it's with cash and on a peer-to-peer market or if they trade it externally, you will then be
+14:15
+able to see exactly who is the owner of the address. And then once these circles start to get tied together, you now have
+14:20
+insight over the entire cryptocurrency trades that are maybe one or two layers
+14:26
+of abstraction away from an individual who did on ramp into crypto. So essentially what it means is no
+14:32
+transparency, no insight into the industry currently. And with the blanket prohibition, the same exact thing.
+14:38
+However, with regulated providers, you now can start to gain way more insight into the cryptocurrency trades because
+14:45
+the blockchain is a completely transparent ledger. You can go onto the blockchain right now with no login
+14:51
+credentials, no API access, and just look at an account, see the balance, and see the transactions. So, that's just
+14:58
+how transparent cryptocurrency is. But you need just an insight into transparency by tying the address to
+15:04
+KYC. And that is a really interesting point when you start to understand the way the technology works. These
+15:10
+peer-to-peer transactions being more in the dark. Even things like cash transactions are not really transparent.
+15:17
+I can hand anybody cash and I won't be able to trace that. But including folks
+15:22
+in the digital ecosystem also adds to that transparency. I think that's a
+15:28
+great transition over to our colleague and ring leader over at the CDFA, Annie
+15:33
+Bertran, joining us from Barbados today. And Annie, you've been a involved in the
+Financial Inclusion and FATF Guidelines
+15:41
+evolution of the standards particularly around financial inclusion at FATF.
+15:46
+Recently, they published some financial inclusion guidelines and why don't you let us know how that's relevant for our
+15:52
+discussion today. Great. Excellent. Thank you so much, Dennis. Let me first you see my screen
+15:58
+because I have some slide. So let me just briefly tell you a little bit about what is FATAF. So the
+16:06
+financial action task force essentially is the global financial watchdog. It has
+16:12
+40 members and but it expects that all countries comply to their standards and
+16:18
+their standards essentially involve 40 recommendations to prevent serious crimes. And here we're talking about
+16:24
+moneyaundering, especially drug trafficking and human trafficking, terrorist financing, and proliferation
+16:30
+financing, which relates to weapons of mass destructions. So all things we don't want on this planet. What's
+16:36
+important to note is that PAB doesn't really have any legal authority on the countries but it conducts uh mult what
+16:45
+we call mutual evaluation reviews through either either itself or through regional bunnies like in the Caribbean
+16:51
+we have the Caribbean financial action task force and they rate countries on their technical compliance to these
+16:58
+standards. So they will look at if there are laws and regulations in place to comply with these standards and not only
+17:04
+if they are there but if they are effectiveness. So do they impose sanctions to enforce the regulations and
+17:10
+if they fail this has terrible economic consequences on the country because it
+17:15
+increase the cost of capital sometimes it removes access to capital entirely. It reduces investments and for us in the
+17:22
+Caribbean which is particularly important is it can cuts off our correspondent banking relationship.
+17:29
+Now over the years SATA noticed an overcompliance to its standards
+17:34
+especially in developing countries. So in June of this year, FAF published new financial inclusion guidance and updated
+17:40
+its recommendation. Essentially, it's saying that applying an overly cautious approach to IML AML CFT standard
+17:48
+safeguards can have unintended consequences of excluding legitimate businesses and consumers from the
+17:54
+regulated financial system. So in the past we thought like like everybody was understood that financial inclusion was
+18:00
+harming individuals and businesses but now FATAF emphasizes that financial
+18:06
+exclusion actually represents a real risk to achieving the effective implementation of the FATAF standards.
+18:13
+Therefore countries and financial institutions must implement measures to
+18:18
+reduce financial exclusion. And if you look into the guidelines you can find them online. They provide many examples
+18:24
+from other countries where the riskbased app approach has been implemented effectively and they provide guidance
+18:29
+also and examples on implementing simplified due diligence Mark was explaining related to the tiered
+18:36
+approach. But why is it so important? Essentially exclusion affects financial in integrity. So it limits transparency
+18:43
+and it undermines the effectiveness of safeguards. So safeguards like wallet
+18:48
+size or due diligence whatever it is in place because it we cannot see them and it increases the risk of crime and
+18:56
+fundamentally such recognition is important because to me it means
+19:01
+reducing the black market reducing the cash economy so that everyone can have access and benefit from the global
+19:08
+digital financial system. But what is financial inclusion? So Fataf published
+19:14
+a new definition. So it's the ink access to and active use of an adequate suit of
+19:21
+appropriate, safe, convenient, affordable financial services and products by individuals and entities
+19:29
+that would benefit from such services. And again, if you go to paragraph 22 of the definition, you can also see
+19:34
+additional information on how they define appropriate. Appropriate means tailored to customer needs, but also
+19:41
+delivered transparently and fairly. So that brings us to my final slides about the different approaches to regulations
+19:48
+of virtual asset providers. So recommendation 15 is about new technologies. It's about virtual
+19:54
+regulating virtual asset service providers. And basically what it says is they must be regulated for combating
+20:00
+moneyaundering etc. They must also be risk assessments and the risk by supervision implemented as a result and
+20:07
+VAS must also be either licensed or registered and small jurisdictions
+20:12
+sometime often time they start with registration requirements because registration regime often time is
+20:19
+simpler to develop and manage initially and it also enables some level of a
+20:24
+sides and it facilitates a more comprehensive risk assessment to better define the licensing framework and the
+20:30
+risk by supervision. after. But given the challenges of regulating this industry, FATF issued
+20:37
+additional guidance over the years to help countries define the most appropriate approach. And in 2021, FATAF
+20:43
+actually added that countries have the discretion to prohibit and or limit
+20:49
+virtual activities in their jurisdictions if they want to. Now, in the latest update on virtual asset and
+20:56
+VASPs published at the same time as the financial inclusion guidance, we found
+21:02
+that the majority of jurisdictions have already a licensing or registration regime, but 20% of them have chosen to
+21:10
+prohibit partially or fully the use of virtual assets and virtual asset service
+21:16
+providers. This creates some concerns because FATAF also realize now that
+21:22
+implementing the prohibition is actually very difficult. In fact, they found that a recent assessment they published that
+21:29
+result showed that only one jurisdiction that took a prohibition approach has met
+21:34
+the relevant requirements for recommendation 15. Given this new financial inclusion guidance that I just
+21:41
+mentioned, perhaps this is revealed the importance of keeping financial activities in regulated channels. So
+21:47
+perhaps the prohibition can create additional problems and concerns for FATF when conducting their mutual
+21:53
+evaluation reviews. So I'll stop here. This is far from an exhausting review of the global financial framework, but I
+22:00
+hope that this information can help you understand the context but also engage in this fascinating discussion. Dennis,
+22:06
+thank you so much and over to you. Thank you so much, Annie. Just maybe just one quick followup. There's been a
+22:11
+robust discussion in the chat and this is exactly what what this forum is
+22:17
+really all about. Tell us if you would the relevance of FATF to the Caribbean.
+22:22
+We might say we're an we're sovereign nations. We can do our own thing. Why is
+22:28
+the FAT regulations so relevant to the Caribbean? And what is the risks for us
+22:34
+if we're not in alignment with those regulations? But as I said countries have committed to obey or apply and
+22:41
+adopt these standards. So the therefore the country the fataf what it does is as I said they do mutual evaluation reviews
+22:48
+and when they do this evaluation they verify if the countries have the proper legislation and regulations in place to
+22:54
+meet those standards and when they find that the countries don't meet those standards they blacklist them or grrey
+22:59
+list them. And when the countries are gray or blacklisted, this is when it has
+23:05
+economic consequences on the country because then the cost of capital increase and then we may lose our
+23:10
+correspondent making relationship. So it has very negative consequences. So we don't have to obey if we don't have to
+23:17
+but if we don't then we get blacklisted or greylisted and then we have perhaps no corresponding banks perhaps we have
+23:24
+we we start living in isolation because we don't have access to capital and investments. So that's really the reason
+23:29
+why we have to comply with them. Thank you so much Annie. I think that's
+23:34
+it's a great context to have and especially the perspective of the priority being financial inclusion. You
+23:41
+mentioned during your presentation something that that Louie has spoken about which is having a register first
+23:49
+sort of approach as being a great way to to start that. And I wonder Louie, we've
+23:54
+discussed that things like the pause and prohibit approach. From your global
+24:00
+experience, what are the common pitfalls of a strategy like pausing and prohibiting? And what are the
+24:07
+alternative sort of pathways that we could follow? What's been working in other jurisdictions that we might want
+24:12
+to look at here in the Caribbean? Thank you, Dennis, and thank you also
+24:18
+for this invitation. I'm have behind me sunrise in Melbourne, but it's actually
+24:24
+10:30 at night and I'm not in Melbourne. I'm in Port Moresby in Papa New Guinea.
+24:29
+The issues that you raise here are relevant globally.
+24:34
+The developments in technology that we're dealing with are putting pressure on all governments and all regulators
+24:42
+and all supervisors globally. more so in smaller jurisdictions, more so in
+24:48
+smaller island jurisdictions where the activity rate and capacity is often
+24:55
+difficult to match. And that is why it's fully understandable that a pause or a
+25:02
+ban might look like an attractive option, but it's an option filled with pitfalls.
+25:09
+Let's first start with the pause. We haven't seen many examples of a
+25:15
+pause. We've seen examples of bands, but not a pause. And a pause adds a further
+25:22
+layer of complexity because if you're running a business and you're being told that continuing to run the business now
+25:30
+will become criminal, but in two years or three years time it won't be any
+25:35
+longer. Then there is a lot of incentive to think how to survive
+25:43
+for the next 2 or 3 years. One choice is to continue in the jurisdiction and to
+25:49
+challenge them. So you continue to act but you take the regulator to court and
+25:55
+drag the processes out in the hope that the clock runs out. We've seen that
+26:01
+strategy being followed even where there wasn't a pause. The other possibility is
+26:07
+just to up sticks and move to a different jurisdiction for the time being because you've got a time frame.
+26:14
+It is just a period that you need to survive. But it means from a regulatory
+26:19
+perspective, it actually undermines the objectives of that regulation.
+26:26
+But it's such a human response to such a pause that I think it it should be
+26:31
+considered with care. coming to a ban. The problem with the ban is and that was
+26:38
+recognized by fatty from the start is that it is also fairly resource inensive
+26:44
+because a ban can't just be imposed and then be left in place. It needs to be
+26:50
+enforced and policed by government. So it requires resources. So instead of
+26:55
+fintex then in this space contributing to the economy, it becomes a cost
+27:00
+because you need to set regulatory resources aside to monitor that the ban
+27:06
+isn't being breached. And that's one of the big reasons why so few countries that have followed this route have got a
+27:13
+complete green tick of compliance from FATIF because it's easy to adopt the bill. it's more difficult to re resource
+27:22
+this investigation and enforcement. And while you're doing that, because the
+27:27
+market is developing globally, you also need to continue your assessment of risks. Furthermore, it means that most
+27:35
+of the crypto activity that is relevant to your jurisdiction will be carried on
+27:41
+outside of your jurisdiction, outside of your control. that disempowers you in
+27:46
+relation to legitimate business in relation to criminals. They're already
+27:52
+breaking the law. So they are not necessarily to going to comply with the ban. But as you've mentioned, there is
+27:59
+real concern that the vast majority of criminal funds involved in virtual
+28:06
+assets follow the P2P route or unhosted wallets. And we're dealing here with
+28:12
+currency that's been designed or with an asset that's been designed not to require any intermediation.
+28:19
+It's been designed for personal trading. What is regulated under the fatty
+28:25
+standards are those who act as intermediaries. They add a lot of value to clients in
+28:33
+the space, but they're not necessary. They certainly not as necessary as banks, for instance, to the current fiat
+28:40
+system. Therefore, if criminals don't want to subject themselves to that layer of
+28:46
+transparency, to identification processes, to AML laws, they just deal
+28:51
+with each other on a one-toone basis through the dark web. And we've seen
+28:57
+that there are various mappings that have been done. Some says most of the criminal money is in unosted wallets.
+29:04
+This changes from year to year, especially as virtual assets are becoming mainstreamed in in the economy,
+29:12
+but it's clear that's a significant part of the criminal money and that remains
+29:19
+the option. Then if you can't trade legitimately, then you just disappear
+29:25
+into the dark web and into P2P trading into unhosted wallets. and that doesn't
+29:31
+strengthen financial integrity in the country. So it brings us back to what the regulatory objectives are. All of
+29:38
+these options carry a cost but some also hold some benefits.
+29:45
+Bans and especially pauses seem to hold perhaps the least benefit of all.
+29:53
+I think that your point with regards to the psychology of the situation is a
+29:59
+really important one. We can get geeky about the legislations and the processes
+30:05
+and whatnot, but your point around the justification when folks feel that they
+30:10
+need to use these things or that they're going to be better for them financially if they're using those and they think
+30:16
+it's going to come into we're going to be allowed to do that a little bit later on. I think that is such an important point that we must consider the
+30:23
+psychology of the folks who might not necessarily want to even break the law,
+30:29
+but they're thinking it's going to be legal later on. So, let me just get there. Now, now you've mentioned the
+30:34
+resources and that I'm sitting here in Dominica, the nature island of the Caribbean. We're a rather small nation
+30:40
+under 60,000 people supposedly on the island. Our resources are limited. And really to I think to all of you that
+30:47
+we've talked about the problems, we've talked about some risks. How do we in particular resource constrained nations
+30:54
+like we find here in Dominica get to the point where we can have an effective regime in something that is so new where
+31:01
+we're trying to discover what are the practical steps that we can get from here to there. And I'll just ask each of
+31:08
+you to help us make that a little bit more concrete in particular for the benefit of the regulators that are on
+31:13
+the call here today. So interesting that the Caribbean digital finance alliance was seeded from the UN initiatives and
+Public-Private Partnerships and Regulatory Approaches
+31:21
+UN stakeholders. So the UN has the PPP framework which is essentially designed
+31:28
+the public private partnership framework which is designed to align public policy goals with private sector innovation.
+31:34
+and why I keep pushing this the PPP framework with our government because it's an innovative approach but it's
+31:41
+also a great approach in terms of increasing your capacity with individuals who are on the ground who
+31:48
+are willing to work with you and I think Trinidad actually is poised incredibly
+31:53
+well to showcase the benefits of the PPP framework purely from just anecdotal
+31:58
+evidence from this bill. So for example, this bill was proposed. The reaction to
+32:04
+the bill being proposed was that the fin fintech association of Trinidad and Tobago quickly mobilized created a
+32:11
+virtual asset working group including stakeholders within the industry. So I think what the the SEC and the central
+32:18
+bank wanted to see was who is the players actually develop doing things in the industry. So a ban was put out and
+32:23
+the industry players stepped up immediately and you're seeing virtual finance guap wam paywise TT exchange as
+32:31
+all individuals that are part of the industry who are engaging in virtual asset exchanges but also doing it the
+32:38
+right way KYCing on either end adhering to the travel rule. Then we propose the
+32:43
+virtual asset working group and we end up sitting in front of the minister of finance and members of the SEC and FIU
+32:48
+to engage in a proposal on how we amend the bill and then there's maybe two or
+32:55
+three simple additions that could allow the a sandbox
+33:00
+and already existing FIS to help engage in the regulatory frameworks that they already adhering to to move into a
+33:07
+sandbox with the other players so that the central bank gains insight from industry, from the private sector to
+33:14
+then implement a progressive virtual asset build. So that public private
+33:20
+partnership framework with the virtual asset working group of Trinidad Tobago can bring in a sandbox which is the
+33:26
+riskbased approach that FATF recommends and a simple approach because the difference between the sandbox and
+33:33
+prohibition is as Louie mentioned, you're going to have to make the effort to prohibit. Putting out a blanket
+33:40
+prohibition doesn't prevent it from happening. Again, if anything, it exacerbates the criminal activity. So
+33:47
+why not increase your capacity with private sector and allow them to gain the insight because our enemy is the
+33:53
+criminals too. So why we are going to work with you to fight the unregulated
+33:58
+providers as well because like we have shown that we are willing to become
+34:03
+regulated to then offer virtual assets. So essentially that is the approach that the the Trinad and Tobago government can
+34:10
+take and look like global leaders adopting the PPP framework adopting the
+34:16
+risk based approach from FATF meeting IO3 which is the technical
+34:21
+recommendations from FATF by working with technical providers and then implementing a comprehensive and
+34:27
+progressive virtual asset bill and it's two or three amendments on the bill. It's nothing crazy, but it's a
+34:32
+progressive approach to an incredible financial future. I wanted to just add something.
+34:38
+This is great because this is precisely what the Carbon Digital Finance Alliance is trying to do, right? We're trying to
+34:43
+foster collaboration across sectors, not only within countries, but also across countries. So, we're putting this this
+34:49
+seminar today together building on the knowledge and expertise of also others
+34:54
+around the world who can help us. So this collaboration is a starting point and it's applaud mark for making the
+35:00
+extra efforts with the industry at the national level but we can also with the carbon digital finance alliance leverage
+35:06
+our relationships in each country. For example in St. Kits and Navis we do have a virtual asset business regulation that
+35:12
+also allows registration at the moment. So we can tap into our relationships in St. Kits and Navis and say look can we
+35:18
+share your can we look at it and can we share our experience? Have this worked for you? What are the risks? What are
+35:23
+the concerns? so we can leverage each other and also leverage our colleagues in the alliance all over the world. And
+35:30
+I'm going to want to turn it over to Luis to see what he has to add to it. Thank you and thank you Mark. I fully
+35:37
+agree that a sound public private partnership is a very important part of
+35:42
+the solution. We can't expect small governments to build capacity on new technology and to
+35:51
+be on top of the technology and the risks to the extent that those in their
+35:57
+jurisdiction are who are at the cutting edge of the technology in the field
+36:03
+itself. And we also need to recognize that we need to be very careful of
+36:08
+regulatory capture. But as long as that is positioned,
+36:14
+there's a lot of space to collaborate. A sandbox may be a great idea if new
+36:22
+technologies have to be tested or linked to registration if it has to be used to
+36:30
+enhance the test and learn approach. So you may recall a number of years ago
+36:35
+when technologies started to emerge in this space regulators first allowed
+36:42
+action but basically to see how it develops in the field and then to craft their
+36:50
+regulation that developed or that spawned the regulatory sandboxes that we now have. So somewhere in between
+36:57
+depending on the needs of the jurisdiction depending on the maturity of the industry in that jurisdiction at
+37:03
+that stage there might be an answer in between those two points as to what would be the ideal but it would be
+37:10
+important to collaborate with industry experts in a way that
+37:17
+empowers the government and the regulator and not through regulatory capture disempowers. So it must be about
+37:24
+empowerment. But for example, the the government and the regulator requires
+37:30
+the ability to monitor the market for any new players who should be registered
+37:36
+and who are acting unregistered. That's where the industry can play a
+37:43
+crucial role because they've got their ear to the ground. They know their market. They speak to their customers
+37:48
+who know about other options. That's a tremendous source of information that
+37:54
+can be provided to government that lessens the burden on government to make
+37:59
+available that capacity itself but provides it with high-grade information and with the market playing a role in
+38:06
+ensuring that the right information is provided to the regulator. The idea of interjurisdictional collaboration in the
+38:13
+space is also incredibly important for smaller jurisdictions. So not only
+38:18
+collaborating with the market players in your jurisdiction but also collaborating with the other regulators and the
+38:24
+countries who are facing the same challenges that you are is empowering.
+38:31
+I'm going to give a compulsory plug to the CDFA in that we have set up the CDFA
+38:37
+to be a collaboration between innovators like Mark regulators financial
+38:44
+institutions. These are all our constituents. I've seen some, including a question to Mark that we'll pose right
+38:50
+after this. But for a moment, Mark, I want to get a little less academic if you would pardon me. With you, get a
+38:56
+little bit more personal. I'm a a person who loves to start businesses myself and
+Personal Insights and Future Prospects
+39:02
+I know the grind can be difficult. I've been rather surprised to see and I think
+39:08
+the perception of crypto or blockchain advocates are these are people who
+39:13
+advocate for the Wild West. But as I've come to know you through the CDFA, we've
+39:18
+seen that you've been very thoughtful about how you can make things work from
+39:25
+a safety. You have some of the same goals it seems that the regulators and the audience will have. But on the
+39:33
+personal note, I and I if I may, what does something like the prohibitions
+39:39
+that are being tabled at this point mean for you personally and for your journey and what all that you have invested in
+39:45
+the space and potentially what sort of an effect would it have in 2028 to the
+39:52
+ability of the nation and indeed the regulators themselves to move forward. So a brief history on my background is
+39:59
+that the company Zed Labs that I founded in 2018 in Sydney, Australia is a blockchain company. Until 2024,
+40:09
+we primarily our income was primarily cryptocurrencies.
+40:14
+So I think it's an interesting take where also taking this blockchain based
+40:20
+company we gained international notoriety and once I gained an international clientele that mobilized
+40:27
+me from Sydney Australia to meet my long life goal of coming back to Trinidad and
+40:32
+making it a better place like we're aligned in terms of making Trinidad a better country and that's why everything
+40:38
+that I do I live and I breathe patriotism to push this country forward.
+40:43
+If a blockchain based company comes to Trinidad and Tobago who builds mobile wallets and starts to build a mobile
+40:49
+wallet in Trinidad and Tobago and adheres to regulation, I think that's a big signal of what's to come in the
+40:55
+future. And while people think that crypto is the wild west, there's always opportunity in unregulated markets. As
+41:01
+we've seen with the internet, there's bad actors and good actors. There's bad actors that drive on roads. There's bad actors. There's good actors that drive
+41:07
+on roads. Public infrastructure allows all players to exist. But if you inhibit
+41:13
+the good players essentially you start to give rise to the bad actors and where
+41:18
+this is public infrastructure and it's not going away and this is enabling both good and bad actors. So in terms of me
+41:25
+personally what this does to me for an individual who's come to Trinidad to innovate. I now have this and this has
+41:32
+not been an easy road. I just want to put that out there. Every step of the way in Trinidad and Tobago as and
+41:37
+running a startup has just been hurdle after hurdle. And then as a virtual asset company natively when you when you
+41:44
+are I literally propose the stable we set up a meeting on the 28th of August with the central bank to propose a
+41:50
+Trinant Tobago virtual asset on the 18th of September. On the 12th of September
+41:55
+the bill comes up. So the timing is just horrible. And then what it does for me as a Trinadian who's investing in the
+42:01
+country where do what does it mean for me? That's a that's one of the biggest blows for me as a citizen who's trying to push
+42:08
+forward the country and blockchain has only been a mean for me to financially empower myself and that's the goal for
+42:14
+me to do it in Trinidad and Tobago. This is a co-working space that I developed and I made it for Trinidad individuals
+42:20
+in Trinidad and Tobago. Every single piece of furniture here was bought with a cryptocurrency asset because we
+42:27
+couldn't get US from the banks. So in essence, when you think about that, like the everything here, the essence of it
+42:33
+is all Caribbean. We're pushing Caribbean forward. And the the main thing about it that is really hurting me
+42:41
+as an individual is step by step, I've shown Trinidad that I want to push this place forward. And every single step of
+42:47
+the way, we meet with regulators. I went on the stage in 2023 with the central bank to push forward the country and
+42:54
+towards cryptocurrency. We've had so much consultations with the IMF, with the local industry,
+43:01
+enough time to to issue a virtual asset bill. However, we're now met at this
+The Impact of Non-Progressive Legislation on Innovation
+43:08
+time with a non-progressive bill that does not represent the innovations in the private sector. It does not
+43:13
+represent the capabilities of Trinadians. So, that's where this hurts the most is just you're pushing out
+43:19
+innovation and innovation like cryptocurrency is the most innovative asset in fintech. driving us into the
+43:25
+future. Swift just announced that they're moving towards blockchain ledgers. The whole world is moving in
+Global Trends in Cryptocurrency and Blockchain
+43:30
+that direction. So, it's just that Trinidad and Tobago is not showcasing its potential with this bill. And that
+43:38
+is the biggest red flag. And I'll tell you what, locally the newspapers are lighting up right now with this crypto
+Local and Regional Reactions to Crypto Regulations
+43:44
+ban. And it hasn't been approved in parliament yet. If it does, that's going to be a global issue. So I don't think
+43:51
+coming with the budget it's a good time for us to push a bill that's nonprogressive because we're not going to look good Turks and CO issued
+43:58
+yesterday they're pushing a virtual asset bill. Bahamas we have a small scam in Trinan Tobago that's making us up in
+44:04
+arms. Bahamas had FTX a global scam where individuals were litigated and put
+44:11
+in jail and they still have a virtual asset bill that's progressive and years ahead of everyone else. So I think it's
+44:17
+just a time to start to look at Trinad and be like we can more than do this. The timelines are fat for nothing in
+44:22
+comparison to our capabilities and it's time to take a progressive step forward. Mark first of all I'm really glad I
+44:29
+asked we asked you that because I think it is very important Annie you know that
+44:34
+we humanize these discussions about the impact that they have on individuals and
+The Role of Financial Inclusion and Regulatory Challenges
+44:39
+our societies. Now as a CDFA we are trying to create this forum for this discussion and of course we also see the
+44:48
+difficulties so of what the regulators must be facing themselves in particular
+44:55
+just coming into this new sphere. So we have to be sensitive to that as well. But having folks like you Mark who are
+45:01
+willing to participate in the discussion and this is the thing I think is most important that we include each other in
+45:08
+this discussion especially when I think as I mentioned you we were at fintech islands not long ago and we met with
+45:15
+regulators people in FSUs bankers and so forth to a person we found that we
+45:22
+shared the same goals to move forward safely and it's only going to happen through this sort of dialogue just to to
+45:29
+you Annie. I mean Mark has spoken to the impact of that on somebody like himself
+45:34
+as a as an innovator. Can you maybe speak to the impact from a financial inclusion perspective on the individuals
+45:42
+and what sort of threats do we face from excluding people in that sense and what kind of positive or negative impacts can
+45:49
+these decisions have on the individuals and then Louie I'd ask you as well maybe comment on the previous statements but
+45:56
+also help us take the view of the regulator how do we get there in an
+46:01
+achievable way and you've mentioned something that's very interesting about the a register first and perhaps not
+46:07
+criminalizing the activity but non-registration. I think that's an interesting approach and I'd love for you to talk about that in the context of
+46:14
+the test and evolve sort of mentality that you've proposed. Annie, if you would. Yes. I want to just say that I've been
+46:20
+working in financial inclusion in the region for many years and I've been training financial institutions and
+46:26
+regulators financial regulators also on the new financial inclusion guidance in
+46:31
+other areas. So it is incredibly important and we can and we understand that all of us that we that are in this
+46:37
+meeting today. But the problem is that the technical requirements to make progress in this space are very high.
+46:44
+All of the financial authorities that I've worked with are highly competent individuals and understand the process.
+46:50
+But if you dig deeper into understanding how to implement those simplified due
+46:55
+diligence for example, there's a lot of things that it involves a lot of things. For example, it has to be based on
+47:00
+national risk assessment. And the national risk assessment is not just, oh, we recognize that these enterprises
+47:07
+involve low risk of money laundering and nobody's involved in financing terrorists. So, it's beyond that. It has
+47:14
+to be all documented properly using specific additional guidance. So when we say it's a white color sort of issue, it
+47:20
+is because it requires a lot of documentation, a lot of wording, a lot of assessments that makes it difficult
+47:26
+for regulators to comply within a certain time frame. The reason I'm happy about these new official financial
+47:32
+inclusion guidance of FATAF is now it makes the whole aspects more related to
+47:38
+international development. And we're going to see hopefully more international development organizations being willing to build the capacity not
+47:45
+just of the MSMES directly but also the capacity of the regulators so that they can serve MSMES more effectively using
+47:52
+digital financial services including cryptocurrencies. So thank you so much Annie Lou I'd love
+47:59
+you to chime in and right after Melissa if you would you're going to come on right after that and let us know about
+48:04
+any questions that we might have that we want to field at this time as well. So folks, if you have questions, do put
+48:10
+them in the chat or message them directly to Melissa Bhutin there who's been paying attention as much best she
+48:16
+can. Louie, if you would. Thank you, Dennis. We're addressing different tensions here. The crypto
+Registration and Regulation Approaches for Virtual Assets
+48:24
+market is now worth I think around 4 trillion US. It it is huge. It is now
+48:32
+part of the mainstream financial system. All countries need to respond to that.
+48:39
+But there's a particular challenge for a small jurisdiction. So if you've got 60,000 people, you probably speaking
+48:46
+about one regulator, perhaps two, perhaps a fraction of a regulator having
+48:53
+to look after this important part of the market. So I fully understand the need
+48:59
+for caution but I think the best starting point is
+49:04
+getting a good idea of who is in the space how many providers are there and
+49:10
+that you do through a registration process. It's not a licensing process and it's allowed by fat if to choose
+49:16
+either registration or licensing. It means people funnil their business
+49:22
+details with you as businesses that provide virtual asset services. That's a
+49:30
+great starting point because then you know what the community looks like. You may have two businesses, you may have
+49:37
+20, you may have 200. It gives you a starting point to plan.
+49:43
+And I do think that needs to be combined with some consumer education because we
+49:50
+seeing a rise in scams. We seeing a rise in losses. We seeing a rise in fraud in
+49:55
+general. So it's important to make it clear to people that registration is not
+50:01
+an endorsement. It's just mere registration. And they need to be careful. this is still a market for
+50:08
+people with a level of sophistication in terms of understanding of the products.
+50:13
+I think that is an important message going out from regulators until matters have stabilized. So using a building
+Sandboxing and Testing Regulatory Frameworks
+50:21
+block process once you've registered once you know who you're dealing with you can start forming that public
+50:27
+private partnership. I've also seen a number of comments around sandboxing and
+50:33
+whether sandboxing is appropriate or not. And I just want to point out that
+50:38
+sandboxing is not about the idea. Many of the ideas have now been tested in other countries. It's about testing your
+50:45
+regulation in relation to that model because it may work beautifully
+50:50
+elsewhere but you may have gaps in your system and you're not aware of them
+50:56
+until you test it. The other option is you allow it and then through trial and
+51:02
+error you discover where the weaknesses are. That's not ideal. So the sandbox is
+51:08
+from that perspective ideal to test what is required in the laws of a small
+51:14
+country. what is required in terms of regulatory capacity in the country and I
+51:20
+also mentioned what might be required in terms of registration fees because regulation will require resources and
+51:28
+ideally those who apply for registration should fund the regulatory costs
+51:34
+involved but what is a reasonable fee again start with scoping and registration. Thank you Dennis.
+51:42
+Thank you. I actually surprisingly saw Mark nod his head slightly when he said about those being should bear the cost.
+51:49
+I'm stunned, but he understands that as an investment. I think we at the CDFA as
+51:54
+well. I from an education standpoint understand that's part of our roles. If you would like to continue to be engaged
+52:00
+with the CDFA, go to caribbean digital finance.org. There is a pre-registration
+52:07
+there. So, we're just getting going with that and later on we'll engage with you. you'll have the opportunity to receive
+52:13
+some member onlyly benefits that you'll see on that site at the membership page.
+52:19
+Sign up there as well. Follow us on LinkedIn as well. So you can be part of this dialogue because it will take all
+52:25
+of us collectively to come to the right solutions. Louie, I'm a I'm a geek
+52:30
+myself, but not in terms of policy and the legal aspect with regards to software and digital. And we have
+52:37
+something that's been working well over the last 20, 30 years, more agile software development where we'll try to
+52:45
+start with something small and achievable, learn rapidly and iterate quickly. And we found that's perhaps one
+52:52
+of the most effective ways to make inroads with technology. And just from your nodding, I think is probably also a
+52:58
+really great way to make inroads with policy because no plan is going to survive encounters with reality. you
+53:05
+have to put it into place, learn and adapt quickly. And I certainly with something as fast-paced as crypto and
+53:12
+we're going to have to do that. Melissa, if you would kick yourself off mute, is there any questions that you want to
+53:18
+really Marcus got his hand up. He wants to comment and then Melissa, you can mention the question. Yeah, I just want to answer to what you
+53:24
+just pointed out that we're willing to pay the price. When you look at just the brass tax of it all as a business and
+53:31
+you think of the country as a business, we understand there's maintenance that needs to happen. There's regulations
+53:36
+that need to happen. These are all costs that businesses have to do as well. We are 100% willing to pay tax obviously
+53:43
+and just from rudimentary calculations because of how lucrative this industry can be and beneficial to the economy.
+53:50
+This will more than pay for the regulators and public infrastructure that is required to regulate virtual
+53:58
+assets. So it's not going to be something that's a major burden on Trinidad Tobago. It's actually for the
+54:03
+regulators going to be less of a burden financially because of the income that it does bring into the country. So just
+54:08
+to note that this is something we have considered and offered up to the Ministry of Finance. It's nice to see that you're willing to
+54:15
+play on the team, Mark. That's a that is that this is a success in the Caribbean. I fully believe is going to be a team
+54:22
+sport. Every nation, all the different stakeholders working together. We're in this boat together. Melissa would if you
+54:28
+would any questions that we want to pose to our panelists. Yeah. Hi Melissa. Not many questions but
+54:35
+there was some earlier one asking I guess this may be for Louie which one
+54:42
+jurisdiction was successful with prohibition. I'm not sure if you can answer that or
+54:48
+anyone else on the panel. That was said by Annie actually.
+54:53
+Yeah. In the latest report, the latest update at FATAF on virtual asset on the regulation of virtual assets and VASPs.
+55:00
+The latest finding is that one jurisdiction has successfully met the
+55:06
+compliance requirements of FATAF using the prohibition approach. But it depends
+55:11
+al your question is not clear in a sense that how do you define success. So if
+55:16
+the success is to meet the requirements of fataf is one thing. If the success is to reduce moneyaundering and financing
+55:22
+of terrorism it's another thing. But so far as what we have found based on the
+55:28
+surveys that FATF conducted, I think it's about 163 jurisdictions around the world only one of those who did the
+55:35
+prohibition approach met the requirements of FATAF recommendation 15 going forward. So what it means is that
+55:42
+the countries seems to not being able to implement the prohibition successfully
+55:47
+because it requires identifying the stakeholders. It requires implementing sanctions and these involves a lot of
+55:55
+resources and challenges to do. So I think what I expect is that FATAF will be a bit more stronger in fourth making
+56:02
+sure that the countries take the route of regulation as opposed to prohibition because clearly the experience around
+56:08
+the world have shown that the implementing a prohibition effectively can be done given the challenges. And
+56:15
+Annie, do you know which jurisdiction that was or is I guess we could
+56:20
+reference the report? No, but the report I can I'm going to show the report in the chat. I'm going to show the link. But the survey the
+56:28
+information that FAF collects from its countries is confidential. So they're not going to necessarily reveal who has
+56:34
+done what and what but the information is there and can be analyzed thoroughly because the report
+56:41
+is quite quite extensive. Thank you. And I did note a question
+56:46
+from Jiren Paul in the chat for Mark. Who should be allowed to join this
+56:52
+sandbox that you're mentioning? What kinds of businesses who should have access to this sandbox in your view?
+56:58
+Okay. So, I want to bring home what Louie has mentioned. Louie mentioned a
+57:04
+registration approach which is even lighter than the sandbox where you bring visibility over the industry players.
+57:10
+That to me is the most ideal approach because you have existing players who are currently operating allowed to come
+57:17
+into visibility with the regulators and the other side of things is that
+57:24
+after being register you that currently is within the bill is that you have to declare that you're a virtual asset.
+57:30
+You've been providing virtual asset services. However, there's after that you have three months to cease
+57:36
+operations. So it's more of a registration to be able to be admitted into the sandbox which is an approach
+57:42
+that I favor. Reason being is that so if you just look at baseline operations as
+57:48
+a financial institution there in Trinidad and Tobago that there are a lot of things that help protect your
+57:54
+customers and the citizens of Trinidad Tobago. That is having a board of directors that is appointing a
+58:00
+compliance officer. That is customer due diligence, enhanced due diligence. That
+58:06
+is making sure that you are in adherence with policies and procedures within your organization. That is auditing and
+58:13
+reporting, recordeping, making sure that your technology that you're using is up to standard, isn't at risk of being
+58:20
+compromised. And along with that is the transaction monitoring and reporting. So
+58:25
+these are the baseline recommendations for financial institutions globally. And
+58:31
+that is something that I think would need to be met by virtual asset service providers and that I think can would
+58:37
+would be terms in which the sandbox governs. However, the sandbox can allow individuals to get up to speed to meet
+58:44
+those requirements so that you can rightfully offer these services safely
+58:50
+to the citizens of Trinidad Tobago. Now, that's interesting. You've mentioned some kind of pre-existing
+58:56
+frameworks for financial service providers in general, financial institutions. So there's perhaps a way
+59:02
+to as well then look at you're providing a financial service virtual assets
+59:08
+notwithstanding you're providing a financial service. So there's some frameworks that you have to adapt you have to comply with in any case. So
+59:16
+perhaps that you want to comment on what sorts of things that are already in place widely throughout the region even
+59:23
+three virtual assets that could help start there with some level of rigor
+59:28
+might be things like KYC and etc. What are the bits because we're trying to plot a a a progressive path towards this
+59:35
+that's manageable for people. So what's already in place that can be adapted to the virtual sphere that can give these
+59:42
+regulators some more confidence and to give innovators some clear guidelines as
+59:47
+we plot out the path to the future. So Dennis, if I can jump in there. Yes,
+Financial Institutions and Virtual Asset Service Providers
+59:53
+please. A virtual asset service provider is a normal business. It needs to comply with
+59:59
+all of the normal laws that a business needs to comply with. That's the starting point. If it's a company, it
+1:00:04
+needs to comply with the company law that applies in the jurisdiction. If on
+1:00:09
+top of its services, it provides financial advice that triggers
+1:00:15
+compliance with any laws that regulate financial advice in the jurisdiction.
+1:00:21
+The registration process that I'm that I've mentioned is registration for purposes of AML CFT law your compliance
+1:00:31
+that is also accepted as a given. Andy if you can maybe continue where he's
+1:00:36
+left off. What sorts of things are already in place from a financial institution perspective that's going to start to set that framework that we can
+1:00:43
+perhaps piggy back on? Service providers, financial institutions. where Louis had started
+1:00:48
+talking about a progressive path towards that. How would you see especially resource constrained jurisdictions that
+1:00:54
+might already have existing laws starting to plot that path towards a virtual asset kind of regime?
+1:01:01
+And Mark, you were talking about you want to continue? Yeah, this is actually a part of the one
+1:01:07
+of the red lines that we did implement in our proposal to the to the amendments
+1:01:12
+to the bill. It essentially is that existing providers
+1:01:18
+should be able so existing financial institutions who meet these baselines requirements should almost get a shoe
+1:01:24
+into the sandbox essentially and that way you meet one of the FATF
+1:01:30
+requirements which is IO3 which is the the technicality of the regul of the
+1:01:36
+regulations so that you as an a financial or virtual asset service provider get in and meet the
+1:01:42
+requirements so that if you are existing operator and you wish to operate as a virtual asset service provider you apply
+1:01:48
+that to your existing framework and us as mis we report weekly to the central bank. So additionally on top of that we
+1:01:55
+can just fit that into our reporting and that would be that would
+1:02:01
+meet immediately needs of a technical sandbox that yes sorry
+1:02:07
+the regulation is important to help the fintech service providers have access to
+1:02:12
+the financial services that they need and because we have seen in the Caribbean in particular this debanking
+1:02:20
+it's beyond just de-risking because it just sometimes don't want to manage risk because the there it's difficult to
+1:02:27
+manage risk when you don't have regulation to assess the risk against of so debanking is a problem in the
+1:02:33
+Caribbean but not unique to the Caribbean banks refusing to serve fintech and but that is a problem for
+1:02:40
+the for the perspective of financial inclusion in the new financial inclusion guidance that FATAF issued they
+1:02:46
+specifically address the problem of de-risking and debanking and they are encouraging countries is to address
+1:02:53
+those concerns. And meaning that when a company is considered high- risk for
+1:02:59
+whatever reasons based on their own institutional national risk assessment or the risk assessment of the customer
+1:03:06
+which could be a fintech which could be a crypto VASP. When they consider that
+1:03:11
+the VASP, for example, is high-risk, then they can implement enhanced customer due diligence for that
+1:03:18
+VASP, meaning that they could maybe limit some transactions level, they
+1:03:24
+could limit the wallet size, they could verify certain additional things on the criminal records of these entities. So,
+1:03:30
+there's a lot of things that can be done when the VASP is considered high-risk in order to service them. The same thing
+1:03:36
+apply for the VASP itself. when they're recognizing that some of their customers are high risk then they can implement
+1:03:43
+different risk mitigation measures to ensure that their customers do not engage in money laundering and financing
+1:03:50
+of terrorism. So to answer your question the whole world is moving towards reducing the banking and de-risking and
+1:03:55
+the financial inclusion guidance provide examples. Just one example in Australia, the regulators have actually officially
+1:04:02
+launched new guidance and recommended banks to stop their approach and start revising their risk mitigation
+1:04:08
+strategies for ensuring that BAS gets the services that they need to serve the last miles. This is the context
+1:04:14
+internationally. Thank you so much Annie. Mark, there's a followup on the point about the sandbox.
+1:04:22
+Should only EMIs, I suppose that is electronic money issuers in TNT, I guess
+1:04:27
+in the specifically in the TNT context be able to be admitted to this registration sandbox.
+1:04:34
+No, I think what I said needs to be explained a little more. Only
+1:04:41
+every single player who currently is offering virtual asset service services
+1:04:46
+should be allowed to as Louie mentioned register and then within that
+1:04:52
+registration move towards still being operated I guess with light approvals
+1:04:58
+and the so that's like the baseline that we're fighting for is that all virtual asset service providers should be
+1:05:04
+allowed to continue operations. However, the one of the purposes of prohibition
+1:05:12
+was to disallow the continuation of cryptocurrency operations and to monitor
+1:05:19
+that is not a light lift for the government. What we are offering is a lighter lift to a and an amendment to
+1:05:26
+the bill which is simply clause 44 states that a license or certificate of registration issued under another
+1:05:33
+written law prior to the commencement of this act shall not be considered as per permitting an activity under subsection
+1:05:40
+two. What this means is that they're stating that existing financial institutions cannot offer virtual asset
+1:05:46
+service cannot become a vasp just out the box and they cannot offer these services. What we're stating is that is
+1:05:53
+a that is also another heavy statement along with the ban and that if you amend
+1:05:58
+the bill and state that a license or certificate of registration issued under the law, it would allow another entity
+1:06:06
+already subject to supervision provided such activity is conducted within and subject to the conditions of the
+1:06:12
+regulatory sandbox. So we will have to under registration or sandbox meet certain requirements that already
+1:06:19
+existing financial institutions have checked major boxes and that will be a lighter lift for the governing bodies
+1:06:25
+and that is an approach to help with the capacity of regulating virtual asset
+1:06:30
+service providers so that we can immediately meet the demands of the FATF requirements. So this is this is all
+1:06:37
+developments that are happening. Our main goal is to have the virtual asset service providers exist in the current
+1:06:42
+form but obviously as a financial institutions along the way you will have to meet basic requirements of an FI that
+1:06:50
+is just a development in the future that could happen. So that yeah that not to be misced in
+1:06:56
+terms of us being an EMI unbiased towards rig allowing us so financial institutions have the role to play.
+1:07:02
+you're talking about even increasing that competition and environment and that is a healthy thing for innovation.
+Final Remarks and Future Directions
+1:07:08
+We're going to start to wind up here. I would just give each of our panelists a chance to make some final remarks and
+1:07:15
+then we're going to invite Edward Marno from the UNCDF to have some closing
+1:07:22
+remarks. We're so thankful to have the help of the UNCDF and establishing the
+1:07:27
+CDFA. It is a forum as we've said before that we can engage in some discussions
+1:07:32
+that perhaps some of us in our regular day jobs be it in ministries of finance
+1:07:38
+uh institutions and regulators can't really engage on so this is a nice safe space for us to have that that
+1:07:44
+conversation we thank the UNCDF for their help there but let's wrap it up start to wrap it up and Louie Annie Mark
+1:07:51
+if you would just go in reverse order and then we'll hand over to Edward I want to thank each of you on behalf of
+1:07:58
+the CD DFA. I want to reiterate our commitment to being a partner in these vital conversations. So, we're here to
+1:08:05
+make this a safe, innovative, and inclusive digital financial ecosystem in the Caribbean. And if you're interested
+1:08:11
+in coming along for that journey with us, I want to thank you. There's been almost 100 people in this call, right at
+1:08:16
+the top of our limit of our particular Zoom account. We're going to need a bigger Zoom room the next time around,
+1:08:22
+Annie. But if you're interested in continuing with us along this important discussion, go to caribbean
+1:08:27
+digitalfinance.org/membership and check out what it will entail when we launch that membership program. But
+1:08:34
+Louie, Annie, Mark, and then Edward, why don't you take us home? Thank you very much for the invitation
+1:08:40
+to join you. I'm very excited about the collaboration that has run through as a
+1:08:48
+golden line in the remarks, the offer to participate in the discussion and to
+1:08:55
+highlight risks and benefits and possible alternatives to help inform
+1:09:01
+regulators who are really under pressure to make the right decisions. No one and
+1:09:08
+certainly no regulatorator wants to make the wrong decision. But they are under pressure to take action
+1:09:15
+and they are under pressure because consumers are being defrauded. There is
+1:09:20
+money laundering happening. There is terrorist financing happening. So joining them in the way that this forum
+1:09:26
+has been constructed and the and the discussion conducted is I think a very constructive way for the Caribbean to
+1:09:34
+move forward and good luck on that journey. Thank you Louis. It's a pleasure to have
+1:09:40
+folks like you along with the journey allies from across the sea and the rest. Thanks for staying up with us and we
+1:09:47
+enjoy your evening. Annie, would you give us your remarks? Thank you so much Dennis. I'm actually very excited because I think this kind of forum is
+1:09:53
+exactly what we want to do at the CDFA and we just we this is really we didn't even launch yet but we still want to
+1:10:00
+felt that it was important to facilitate this discussion because of what is happening right now Trinidad and Tobago
+1:10:05
+but essentially we the carbon digital alliance we we went through an accelerator program organized and
+1:10:12
+delivered by the global alliance of fintech associations and when I went through this program with my co-founders
+1:10:19
+I realized is that talking with the other fintech associations around the world that this is one of the main value
+1:10:26
+added of a fintech association of an alliance like us because it's the idea
+1:10:31
+that now the regulators whenever they issue new directives or they want to issue new regulations or supervisory
+1:10:37
+framework they reach out to that fintech association or that digital finance alliance to get feedback and that's the
+1:10:44
+most important that's the value added because it facilitate the collaboration and it avoids the regulatory capture
+1:10:49
+that Louis mentioned that sometimes regulators may have and in the Caribbean region it's even more important because
+1:10:55
+realistically we're not going to have a fintech association that is strong enough to support the regulators
+1:11:00
+effectively in each island we're too small so having this alliance together among the different countries and we
+1:11:06
+define the Caribbean by being an island in the Caribbean Sea or a member of CARICOM so essentially once we are now
+1:11:13
+in the process of we've just got our registration this is our first activity but when after that we have done the
+1:11:18
+official launch, we'll be able to invite members to collaborate and support our efforts so that we can have legal
+1:11:25
+advisors in our team that are constantly reviewing those directives and also
+1:11:30
+facilitating the harmonization of these legalations as they evolve across the different countries in our region.
+1:11:36
+Thank you Annie from Barbados, Dennis over here in Dominica. Freedom of travel
+1:11:41
+started between Dominica, Biz, Barbados and St. Vincent and the Grenadines just
+1:11:48
+yesterday underscoring again the need for us to collaborate and to get things
+1:11:53
+in a consistent manner as much as possible our particular national context notwithstanding but yes Annie we're
+1:12:00
+excited to go along this journey and so thank you so much for leading us to establish the CDFA and of course thanks
+1:12:07
+to colleagues like our friend Mark here Mark why don't you give us a closing remark yeah I think it's great to see that
+1:12:13
+we're all stakeholders in this and we're aiming for progressive regulations and
+1:12:19
+the main goal is to really innovate and provide means of diversification for our
+1:12:25
+nation. This is one of the most promising elements for emerging markets for
+1:12:31
+financial freedom and it goes all the way up to corresponding banking relationships which we this now provides
+1:12:39
+a mechanism to help us stand alone and represent our current our currencies on
+1:12:45
+different financial rails. It's thus liberating our currencies, thus liberating our people. And how great
+1:12:52
+would it be if we all had our own island nations currencies on a blockchain that
+1:12:57
+we can swap freely with each other rather than have to go on the swift rail up to US and back down paying $40 US up
+1:13:04
+and $40 US down giving away 15% of our transaction fees to a slower archaic and
+1:13:11
+restrictive rail. This is a liberating instrument for us, not just financially.
+1:13:18
+I think it's time that we all band together and really push for this. Let us work with the regulators in Trinidad
+1:13:24
+and Tobago and push them and bring them up with us to meet the other Caribbean
+1:13:30
+island nations and twin island nations of the Caribbean that are progressing and making innovative strides towards
+1:13:37
+regulation. So again, let's I love that we're banding together, especially in the Caribbean Digital Finance Alliance,
+1:13:42
+and this is just a great next step towards the future. Mark, I'm so glad that we w we're
+1:13:48
+wrapping this panel up with that kind of very optimistic note about liberation.
+1:13:54
+Something that should be so near and dear to each of us here in the Caribbean given our history and the belief that
+1:14:02
+not just belief, the understanding that we can do it together. This is fully within our capabilities to do. If we
+1:14:09
+come together, we can plug some of that leaky hole in our financial systems by leveraging these innovations and we can
+1:14:15
+start to empower folks. And so I really want to thank each of you, Mark, Annie,
+1:14:21
+Louie, for your contributions here today. And of course, each of you have almost hundred of you who have joined.
+1:14:27
+Please do spread the word about the Caribbean Digital Finance Alliance. We're looking forward to having you to
+1:14:34
+join the conversation. We're looking forward to supporting our various jurisdictions.
+1:14:39
+And let's just right now we're going to call on Edward to take us home, give us
+1:14:45
+some closing remarks. And Edward, I joked with you that I hope that you're going to have your proud daddy moment
+1:14:51
+with regards to the CDFA and what we're able to do. On behalf of the UNCDF, why
+1:14:57
+don't you close us out here today? Thanks so much, Dennis, and everyone. I think first of all let me take this
+1:15:04
+opportunity to thank our distinguished panelists Mark Annie and Professor Louie
+1:15:10
+for such a rich and insightful discussion and to our audience thank you
+1:15:15
+for your excellent questions and deep and deep engagements throughout the session. I'm also happy to notice
+1:15:22
+participation from um financial alliance from Haiti. I think let's take that
+1:15:27
+participation seriously and see how best we can corabulate One of the things that
+1:15:32
+you try to do is just to summarize what are the key themes of the conversation
+1:15:37
+just to make a summary but I want to emphasize that today's webinar was organized by the CDFA the Caribbean
+1:15:45
+digital financial alliance and this is an independent body that has emerged from the UNCCDF work on digital
+1:15:52
+financial inclusion in the Caribbean. One of the core objectives for the CDFA
+1:15:58
+is to converge a diverse of players across the financial sector from fintexs
+1:16:03
+and banks to legators and the civil society to speak with one voice in a
+1:16:09
+dialogue with policy makers and government across the region. For me it it has been a very exciting
+1:16:16
+and insightful I think we are now doing a 90 minute one and I think I have summarized four key themes that have
+1:16:23
+come out clearly supported both by global as well as regional best practices. First I think we have heard
+1:16:31
+the real and growing use and demand of virtual assets especially amongmemes.
+1:16:36
+This is not in the distant future. This is a pleasant day reality and we have to acknowledge that. The second thing that
+1:16:43
+I have heard is the need for regulatory clarity which also has been underscored.
+1:16:49
+Ambiguity and stiff innovations, precision in language of what we are
+1:16:54
+writing is essential for building effective frameworks. The third thing that I I noticed was how
+1:17:01
+we have explored a range of practical risk based tools available to policy
+1:17:06
+makers from simple registration to dynamic sandbox and phase licensing
+1:17:11
+within the virtual assets. I think we cannot overemphasize that
+1:17:17
+these riskbased tools offer constructive pathways to engage with the digital
+1:17:22
+financial services and products safely. Finally, as a fourth theme that I've
+1:17:28
+gathered is how we return to a core issue of transparency or and visibility
+1:17:33
+in everything that we do. We need to notice that effective legation brings activity to light where it can be
+1:17:41
+monitored, understood and supervised and ultimately strengthening the financial integrity of our system.
+1:17:48
+Ladies and gentlemen, I want to assure you that the UNC DFDFS for is committed
+1:17:53
+to continue building capacity in virtual assets and regulations in the financial sector. This is something that we have
+1:18:00
+been doing since 2022 in the region and we are committed to continue to do that.
+1:18:05
+We are also committed to support innovative risk based approaches to financial service regulation in the
+1:18:12
+region. Finally, in the interest of time, as we look ahead, I'm pleased to
+1:18:17
+share that the official launch of the CDFA is tentatively scheduled for November 2025, and we will be
+1:18:25
+communicating to all our stakeholders in due time. We want to again warmly invite
+1:18:32
+all stakeholders whether you're a fintech innovator, a financial institution, a policy maker or a civil
+1:18:39
+society advocate to join the CDFA and be part of shaping the future of digital
+1:18:45
+financial services in the region. Once again, I want to thank you all and
+1:18:51
+looking forward to continue this important conversations with you all. I would end here Dennis and over to you.
+1:18:57
+Thank you. Thank you. I think there's no more words that need to be said other than to say
+1:19:03
+thank you for each of you. We've had wonderful responses in the chats and via emojis and whatnot. And we're just
+1:19:10
+really looking forward to seeing you the next time for our official launch in November. Thank you all. Thank you
+1:19:16
+Louis. Thank you Annie. Thank you Mark. Thank you Edward and the UNCCDF. And thank you all. Thank you Melissa for
+1:19:22
+your assistance as well in the chat. Have a great day everybody. Let's go forward and be productive together.
+1:19:28
+And thank you, Dennis, for moderating. A real pleasure. A real pleasure. Anytime. Bye. Excellent job. Thank you.
+

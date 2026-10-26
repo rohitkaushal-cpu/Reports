@@ -1,0 +1,426 @@
+
+Search transcript
+0:044 secondsWelcome here. I am Juliano Castellano.
+0:077 secondsI'm the director of the Asian Institute of International Financial Loop or as we call it Eiffel. uh Eiffel was
+0:1616 secondsestablished in 1999 and um it was the uh these faculties
+0:2424 secondsfinancial law center and it was established with a mandate that uh sit exactly with the talk that we are going
+0:3333 secondsto have tonight. to studying, researching, examining the legal architecture of finance is as it is
+0:4343 secondsreshaped depending on new asset class, new financial activities, uh new market
+0:5050 secondsforces or even as we will hear tonight uh activities that were not considered
+0:5959 secondstraditionally as a form of finance. So it is precisely for this reason that I'm
+1:061 minute, 6 secondsvery uh proud and honored and elated to have tonight professor Marco de Lerba.
+1:141 minute, 14 secondsUh Marco well first of all is a good friend but that doesn't qualify him alone as one of the leading scholar in
+1:221 minute, 22 secondsthe field of crypto as well decentralized finance let's say regulation and financial regulation more
+1:281 minute, 28 secondsbroadly. Uh Marco is a um chair uh of financial and corporate law at the
+1:361 minute, 36 secondsUniversity of Zurich where he's also part of the uh blockchain and law and digital society initiative. He's a
+1:461 minute, 46 secondsfellow at the NYU uh law school at the Institute of Corporate Governance and global fellow at the Wilson Center.
+1:551 minute, 55 secondsMarco is a prolific writer. I would say probably is one of the first that also tackled the legal and regulatory aspect
+2:042 minutes, 4 secondsof ICO when ICO were popular. Of course, now he moved on and more recently
+2:112 minutes, 11 secondsactually his uh um Oxford University Press monograph published in 2024
+2:182 minutes, 18 secondsuh approached the development of decentralized finance uh from a complexity standpoint. um complexity
+2:262 minutes, 26 secondstheory standpoint, shedding lights on how markets and regulation co-evolve and
+2:332 minutes, 33 secondsthen actually indicating possible new areas of uh um inquiry. Now, uh Marco
+2:412 minutes, 41 secondsdid not stop writing. I'm trying to stop him, but it doesn't. And so, uh he's actually sharing tonight with us his
+2:492 minutes, 49 secondsrecent re research on decentralized finance tokenization. this draws I can say from a series of papers some of
+2:582 minutes, 58 secondswhich are forthcoming in leading journals um but actually is trying to make a cohesive story and a cohesive
+3:053 minutes, 5 secondspoint uh advancing his argument in this field so without further ado please join
+3:113 minutes, 11 secondsme in welcoming professor Marco de Lerba Marco the floor is yours
+3:203 minutes, 20 secondsthank you so much Juliano for this invitation for your two kind awards. Um, I'm really happy to be here. Uh, I'm
+3:283 minutes, 28 secondsgrateful to the University of Hong Kong for your warmth of hospitality and I'm also grateful to Hong Kong as a city
+3:353 minutes, 35 secondsthat welcomed me uh so nicely these days and it's a pleasure to share before with
+3:433 minutes, 43 secondsyou and even our friendship and our common interest in in the field. I hope you can hear me well. Does it does it
+3:513 minutes, 51 secondswork? Okay. So um I'm also happy to present this work that I've been doing uh um in in the last few months. It's
+3:593 minutes, 59 secondsthe very first time that I'm presenting this. It's a a reflection on on the relationship between law, finance and
+4:074 minutes, 7 secondstechnology. Building upon some of my uh previous works and uh some more recent
+4:144 minutes, 14 secondsanalysis that is really focusing on trying to understand what are the implications on uh the legal
+4:234 minutes, 23 secondsarchitecture of finance. And my interest for technology has always
+4:294 minutes, 29 secondsbeen shaped by uh the analysis of the networks. How do uh financial institutions and financial instruments
+4:374 minutes, 37 secondspart of the network are related and how they lead to important changes in terms of market structures which is what I
+4:464 minutes, 46 secondsfind uh incredibly fascinating and today I'm going to talk about two different uh problems that are shaking uh the legal
+4:554 minutes, 55 secondsarchitecture of finance one tokenization related to the increasingly uh relevant financialization of the society And
+5:045 minutes, 4 secondsanother one more technical uh connected to the problem of understanding and
+5:115 minutes, 11 secondsclassifying uh centralization, understanding the true nature of the centralization and seeing how regulators
+5:215 minutes, 21 secondsare dealing with this problem. And I will do this by mostly focusing on a case study, Hyperliquid, a famous uh
+5:295 minutes, 29 secondsmarket leader in crypto uh trading uh especially derivatives perpetuals. So um
+5:395 minutes, 39 secondsI will start I I will keep the two parts separate and then we will draw some common conclusions starting from u
+5:475 minutes, 47 secondstokenization. This uh builds upon uh two recent papers that I've been writing tokenization and the expansion of
+5:555 minutes, 55 secondsfinance and tokenization and the legal architecture of finance but also on my on my book technology in financial
+6:026 minutes, 2 secondsmarkets where I was uh uh analyzing the uh emerging networks in crypto and uh a
+6:106 minutes, 10 secondsfew other u works that are available on SSRN focusing on some of financial institutions and financial instruments
+6:186 minutes, 18 secondsemerging in this area. So starting from um the context I will do this for
+6:256 minutes, 25 secondstokenization and for u defi uh there have been three important uh uh element and points of development. Black Rockck
+6:346 minutes, 34 secondsuh Larry Fing um CEO of Black Rockck announced that there was the beginning of the tokenization of all assets
+6:436 minutes, 43 secondslargest asset manager in the worlds makes public the fact that there's been institutional commitment towards this uh
+6:516 minutes, 51 secondsnew uh technology asset class we will see what it is then New York Stock Exchange in November 2025 announces the
+6:586 minutes, 58 secondslaunch of a 247 trading platform for blockchainbased securities. Um, and finally, the DTCC
+7:077 minutes, 7 secondsreceives SEC authorization to tokenize real world assets in its own custody.
+7:137 minutes, 13 secondsUh, the plumbing at the central US capital markets um goes on chain and this is an important infrastructural
+7:217 minutes, 21 secondsdevelopment also related to all the dynamics and the problems connected to corporate governance, proxy planning
+7:277 minutes, 27 secondsthat blockchain was trying to solve. And as I suggest here, these are not experiments. These are they go farther.
+7:357 minutes, 35 secondsThese are institutional commitment.
+7:387 minutes, 38 secondsStarting from tokenization, uh I I find interesting a very um central question.
+7:447 minutes, 44 secondsWhen you tokenize anything, could be a treasury bond, could be a painting, a piece of virtual real estate, what
+7:547 minutes, 54 secondshappens in terms of legal system that governs all of this? And this question is not just descriptive. It's not just
+8:028 minutes, 2 secondstheoretical. It is structural because tokenization is triggering some regulatory uh considerations and
+8:098 minutes, 9 secondsconsequences that are spread among different areas of law including property laws, securities laws, insolveny laws as well as central
+8:188 minutes, 18 secondsbanking law and more generally public economic law. And we've seen this with uh the emergence of the Libra debate
+8:278 minutes, 27 secondswhen Facebook at the time launched this uh global uh stable coin. Um
+8:348 minutes, 34 secondstokenization I suggest is not just a new technology. It is a structural expansion of finance itself. And this expansion is
+8:448 minutes, 44 secondsforcing financial law to become something different to scale somehow to become a sort of foundational layer that
+8:528 minutes, 52 secondssystematically interacts with different areas of law. Now let me give you just one minute background on this project. I
+8:598 minutes, 59 secondsstarted this project when the metaverse was emerging and I was thinking about the metaverse exactly as if we think about financial instruments a a sort of
+9:089 minutes, 8 secondssynthetic universe relying on finance so permitted by financial law as a sort of
+9:159 minutes, 15 secondsconstitution but then I understood that there was something more than that the problem of finance permating the society
+9:239 minutes, 23 secondswas broader it's not only about perating a synthetic virtual universe It's it goes farther in the sense that
+9:319 minutes, 31 secondsit permeates the entire society and social economic environment as we know it and I found this especially fascinating and this is what I'm going
+9:399 minutes, 39 secondsto try to explore today with you. So how did we move from the materialization to tokenization?
+9:479 minutes, 47 secondsIdentify three stages. First one, securitizations. Starting in the 70s when the shadow banking system emerges,
+9:559 minutes, 55 secondsthere is this uh um frenzy to uh make all these illquid
+10:0210 minutes, 2 secondsassets very liquid by distributing them to the public at large. Then a second stage starts the materialization very
+10:1010 minutes, 10 secondsmuch connected to technology in the sense of infrastructure. Here paper certificates become something different.
+10:1810 minutes, 18 secondsuh going up to database entries and here we also observe the uh uh prominence of
+10:2610 minutes, 26 secondsplatforms that are created and the merge with connected dataification of finance that Juliano has uh studied and theorized in some of his seminar work.
+10:3610 minutes, 36 secondsUm then it's at this stage that we observe the emergence of tokenization.
+10:4110 minutes, 41 secondsAny asset financial or physical becomes in principle programmable fractionally owned. will see what does this mean and
+10:4810 minutes, 48 secondscontinuously tradable. Starting from securitization, we all know what we're talking about here. You certainly
+10:5610 minutes, 56 secondsremember what happened in 2008. The financial crisis of 2008 highlighted the problem that transforming uh illquid
+11:0411 minutes, 4 secondsassets into something liquid by uh in principle dispersing the financial and liquidity risk was something that was
+11:1311 minutes, 13 secondsjust an idea but not a concrete possibility. The collapse of structured products and exotic uh derivatives as
+11:2211 minutes, 22 secondsthey were designed by the major investment banks made this quite clear.
+11:2711 minutes, 27 secondsSo the structural lesson is that packaging risk does not eliminate risk.
+11:3311 minutes, 33 secondsIt relocates it. It makes it invisible until the system fails. Uh and what it demonstrated the limits of financial law
+11:4211 minutes, 42 secondswhen the instruments it must regulate evolve faster than its doctrines with the SEC and other uh regulatory
+11:5111 minutes, 51 secondsauthorities uh captured by the industry and and their complexities.
+11:5711 minutes, 57 secondsThen dematerialization and tatification ownership becomes a database entry. This
+12:0412 minutes, 4 secondsis not just a technical evolution. It goes further than that because the concept of possession in law began to
+12:1212 minutes, 12 secondsconstrain against a purely notional reality. How's that possible? Physical share certificates gave way to
+12:2012 minutes, 20 secondselectronic book entry records. financial infrastructure became hardly separable from the digital infrastructure and at
+12:2912 minutes, 29 secondsthe same time we witness the emergence of platforms uh we all know big techs uh both here in China and uh Hong Kong
+12:3812 minutes, 38 secondsChina and and the US Google Amazon and then crypto platforms ecosystem becames
+12:4612 minutes, 46 secondsboth beneficiaries I say and drivers of financialization beneficiaries because they realize on data that was monetized
+12:5412 minutes, 54 secondsthrough through financial mechanisms. At the same time, however, these platforms relied heavily relied on financial
+13:0213 minutes, 2 secondscapital uh different kinds of uh private and public capital and they began extending as service providers into
+13:1113 minutes, 11 secondsfinancial services. So there is a new market actor emerging beyond banks beyond traditional traditional uh shadow
+13:2013 minutes, 20 secondsbankers but still financially significant. And finally tokenization here I I I I suggest this very colored
+13:2913 minutes, 29 secondsand this very colored figure that we witness an expansive uh role of finance.
+13:3613 minutes, 36 secondsWe start from stock and bonds then securitizations tokenization of real world assets and finally a new stage
+13:4413 minutes, 44 secondstokenization enabled activities. I'm referring here to prediction markets for
+13:4913 minutes, 49 secondsexample and uh game five um token tokenized stocks are the lowest hanging
+13:5813 minutes, 58 secondsfruit. There's much more and this is showed by the 24 billion tokenizer award
+14:0514 minutes, 5 secondsasset market in 2025 with a projection of 19 trillion uh for 2033.
+14:1314 minutes, 13 secondsAnd what is interesting is that beyond securitization, unlike securitization, tokenization can
+14:2014 minutes, 20 secondsreach virtually any asset and convert it into a programmable, fractionally owned, constit continuously tradable uh unit.
+14:3414 minutes, 34 secondsNow, very briefly, what uh tokenization actually is. The BIS definition is still very accurate. I I think the digital
+14:4314 minutes, 43 secondsrepresentation of claims on programmable platform embedding ownership records, transfer rules and contractual
+14:5014 minutes, 50 secondsconditions directly into programmable digital objects that execute automatically via smart contract.
+14:5814 minutes, 58 secondsThis is as also the BIS suggests the next logical step after the materialization is is really a stage farther on the treatment of the tokens.
+15:1115 minutes, 11 secondsWhat does this mean? Identifying different categories of tokens. Now more or less uh the majority of the key uh
+15:1815 minutes, 18 secondsregulators are converging towards the classification on securities utility and payment tokens with key characteristics
+15:2715 minutes, 27 secondsand key uh regulatory um treatments. On top of that we have um NFTTS that are
+15:3615 minutes, 36 secondsunique non-interchangeable rights to digital art virtual land and physical objects. Now uh they derive NFTTS derive
+15:4515 minutes, 45 secondstheir value from these inprincipal unicity and impossibility to uh separate
+15:5215 minutes, 52 secondsthem. However, fractional NFTTS alerts as something that brings into the NFT
+16:0016 minutessphere logics and characteristics generally connected and rooted into the securities laws securities exchange uh
+16:0916 minutes, 9 secondsmechanisms. they are divisible unique assets that begin in fact to look like securities.
+16:1716 minutes, 17 secondsI suggest also that the tokenization doesn't really u reorganize doesn't really eliminate intermediaries but it
+16:2616 minutes, 26 secondsrather reorganizes them. So in terms of pure market structure this is a a not significant depart from what we
+16:3316 minutes, 33 secondsexperienced in the past. Uh we still have issuers uh technology providers, ledgers, smart contracts providers
+16:4116 minutes, 41 secondsoperating the uh programmable infrastructure, tokenization platforms and more generally market infrastructures
+16:4916 minutes, 49 secondsincluding custodians with this fundamental role of bridging digital tokens and underlying
+16:5616 minutes, 56 secondsassets. And we also have traditional gatekeepers uh regulators, lawyers and
+17:0317 minutes, 3 secondsfundamental um quasi public actors um such as uh market makers dominating the markets.
+17:1417 minutes, 14 secondsUm why did I say that with tokenization finance goes beyond even real world
+17:2217 minutes, 22 secondsassets? Because it enables new activities. I'm not going into the nitty-gritty details of prediction
+17:3017 minutes, 30 secondsmarkets, but you all know that this has been really a fierce uh analysis and contrast in in many different
+17:3817 minutes, 38 secondsjurisdictions. Uh you have the example of poly market that converts uncertainty itself into something that you can bet
+17:4617 minutes, 46 secondson. What is the outcome? And here C fully collateralized uh token on the polygon blockchain. uh
+17:5517 minutes, 55 secondshere there's uh the advantage of eliminating counterparty risk in comparison to traditional betting
+18:0318 minutes, 3 secondsmarkets and uh it's very hard to draw a clear line between uh uh the betting and
+18:1118 minutes, 11 secondsthe investing market in in the US the CFTC is heavily involved in this debate another example um of finance going
+18:2018 minutes, 20 secondsbeyond the traditional perimeter gamefi I'm not referring ing to the gamification of finance. I'm really
+18:2718 minutes, 27 secondstalking about video games here. Uh integrating NFTTS, cryptocurrencies and any sort of speculative logic into
+18:3618 minutes, 36 secondssomething that is directed and targeted at the broader audience including uh
+18:4218 minutes, 42 secondslots of children. Uh regulatory implications even in this case remain kind of unresolved in many jurisdictions.
+18:5218 minutes, 52 secondsNow talking more specifically about the law and its legal uh architecture.
+18:5918 minutes, 59 secondsSuppose that we tokenize this table where we are talking. We we do this through an SPV that then issues these
+19:0719 minutes, 7 secondstokens and uh there might be at least at least five legal regime that are involved at once that have to be
+19:1519 minutes, 15 secondscoordinated with an increasingly relevant securities law layer. property law fundamental question about the
+19:2319 minutes, 23 secondsobject of this desk does token transfer convey title to the underlying object I don't want to answer to all these
+19:3019 minutes, 30 secondsquestions I'm just sharing with you the broader dimension that I'm concerned contract law uh there's always when when we talk about contract there's always a
+19:3919 minutes, 39 secondsproblem of uh uh rights and duties what rights do token holders actually have against the SP
+19:4819 minutes, 48 secondsthere's also a secondary market dimension that directly triggers securities regulation. Does the economic
+19:5719 minutes, 57 secondssubstance of the token qualify as an investment contract? And here you will see there are different answers from different jurisdictions. Corporate
+20:0520 minutes, 5 secondsgovernance on how to arrange agreements among the token holders and also incredibly important insolveny law
+20:1220 minutes, 12 secondsbecause insolveny law clarifies how vague the asset of rights and obligation is. uh proprietary claim, secure claim
+20:2220 minutes, 22 secondsor unsecure contractual right are involved in the tokenization process.
+20:2720 minutes, 27 secondswe'll see uh the market experience what will suggest I anticipated three jurisdictions three
+20:3520 minutes, 35 secondsapproaches the United States uh solved as so up until now when the a couple of
+20:4220 minutes, 42 secondsmonths ago the SEC and the FTC came with a joint declaration on uh the taxonomy on digital assets that solved the
+20:5120 minutes, 51 secondsproblem with the howi test a four-prong test that was uh functional to determining whether a token was an
+20:5920 minutes, 59 secondsinvestment contract or a security according to the howi test an investment of money in a common enterprise with the
+21:0621 minutes, 6 secondsexpectation of profits from others efforts. These are the four prongs that you will find as uh defined by the
+21:1321 minutes, 13 secondsSupreme Court. Uh utility token also the SEC said is absolutely relevant. We don't care. We care about the economic
+21:2121 minutes, 21 secondssubstance governing uh the relationship between token holders and the rest of the market. On the private law side,
+21:2921 minutes, 29 secondsthere has been uh a significant advancement in 2022 when the USCC amendment introduced the notion of
+21:3921 minutes, 39 secondscontrollable electronic records, something that Juliano and I will explore in in the coming days. probably
+21:4721 minutes, 47 secondshopefully a new property like category for uh digital assets that then has been implemented in the 33 countries. Uh the
+21:5621 minutes, 56 secondsUK uh came up with a disruptive approach very much criticized because in the
+22:0222 minutes, 2 secondsproperty act 2025 formally created a new category of personal property for uh
+22:0922 minutes, 9 secondsdigital assets uh very much distinct from things in possession and things in action. Um on the more doctrinal
+22:1922 minutes, 19 secondsperspective, now courts can grant proprietary remedies over crypto assets using uh ordinary doctrinal uh tools.
+22:2822 minutes, 28 secondsBut uh again here the debate on the need for creating a new uh category in the context of private law and property law
+22:3622 minutes, 36 secondsaltering uh uh a millennial uh interpretation of the law triggered a
+22:4422 minutes, 44 secondslot of concerns among law professors and uh and and judges. Um in the European Union we have a dual uh uh uh system.
+22:5522 minutes, 55 secondsMika governing crypto assets that are not financial instruments and methid governing everything that is financial.
+23:0323 minutes, 3 secondsOn the private law side there is a sort of gap that emerges from a lack of harmonization among fragmented
+23:1223 minutes, 12 secondsuh regulatory approaches implemented by uh the member uh states.
+23:1923 minutes, 19 secondstwo points that are very relevant here that I want to emphasize and strengthen.
+23:2223 minutes, 22 secondsA legal proprietary effects are legal achievement not a technological consequence. And this is demonstrated by
+23:3023 minutes, 30 secondsthe fact that a token has been transferred on chain does not by itself lead to a a transfer of the legal uh
+23:4023 minutes, 40 secondsunderlying legal rights involved. And insolveny law is really the stress test that reveals your capacity in in this
+23:5023 minutes, 50 secondsprecise field. And when I'm referring to insolveny law, I'm referring to three of the major crashes happening in the
+23:5623 minutes, 56 secondscrypto ecosystem uh that uh revealed structural problems of different sort in
+24:0424 minutes, 4 secondsthe relationship between uh uh investors and the market infrastructure in the case of FTX. uh in the relationship
+24:1224 minutes, 12 secondsbetween the investor and the intermediary as in the case of three arrow capital. And finally uh between
+24:2024 minutes, 20 secondsthe infrastructure and and and the intermediary sits the algorithmic stable coin terra that by providing a money
+24:2924 minutes, 29 secondsmarket function to the crypto market is really something in between the infrastructure and and an intermediary.
+24:3624 minutes, 36 secondsAnd in all these problems, in all these in all these collapses, there was a a similar concern, there were unsecured
+24:4524 minutes, 45 secondsclaims uh attached to these collapses that ended up uh creating significant
+24:5224 minutes, 52 secondsproblems in terms of investor protection. Now, what does this mean in terms of financial complexity and systemic risk? we have these three
+25:0025 minuteslayers uh that uh have become increasingly interconnected starting from the 70s. So the traditional problem
+25:1025 minutes, 10 secondsof liquidity uh the fundamental lesson of 2008 was that it's impossible to transform something that is absolutely
+25:1825 minutes, 18 secondsliquid as mortgage back securities into something liquid by simply distributed distributing all these instruments to
+25:2625 minutes, 26 secondsthe public at large. Well, the uh uh October 2025 crypto crash was something
+25:3325 minutes, 33 secondsvery similar to uh uh what the the traditional financial market experienced in 2008. And you can clearly see this
+25:4125 minutes, 41 secondsfrom the mechanisms with the uh on on your right for sales against shallow order books. Then bit ask spreads widen
+25:5025 minutes, 50 secondsdramatically and finally liquidity that tokenizations appear to create can evaporate faster than any regulator can
+25:5825 minutes, 58 secondsrespond. This is the consequence of 20 billion leverage positions that were liquidated in 24 hours in both
+26:0626 minutes, 6 secondscentralized and decentralized exchanges including IP liquid. You'll see why this is relevant. uh more than 1.5 million of
+26:1426 minutes, 14 secondstraders affected and intraday split dislocation in altcoins that uh um as
+26:2226 minutes, 22 secondsmarket makers withdrew between 40 and 90%. So here we are talking about something that uh we would we wouldn't
+26:2926 minutes, 29 secondsbe we wouldn't have any doubt in saying systemic systemically relevant if we were in the traditional uh environment.
+26:3726 minutes, 37 secondsHere we are mimicking that kind of complexity. So what are the new risks involved? Certainly systemic risk. I
+26:4626 minutes, 46 secondsexplicitly mentioned this concept of crypto shadow banking in the past few years by referring to a new network where financial institutions, new
+26:5526 minutes, 55 secondsfinancial institutions and new financial instruments mimic the role and the functions of the traditional shadow
+27:0227 minutes, 2 secondsbanking system emerging in in the market as a consequence of a lot of different forces in prim deregulation from the 1970s.
+27:1427 minutes, 14 secondsAnd second, investor protection at the frontier. Tokenization penetrates uh everyday digital environments. What does
+27:2227 minutes, 22 secondsthis mean? It means that an increasing portion of the of the population of a country, an increasing portion of u not
+27:3027 minutes, 30 secondsnecessarily market actors but consumers are affected by financial logics without
+27:3627 minutes, 36 secondsrelying on similar uh uh toolkits and and mitigating uh instruments designed
+27:4427 minutes, 44 secondsfor the securities market uh that serve the purpose of protecting all of them.
+27:5127 minutes, 51 secondsAnd this has been clear in many different situations. So there is no uh parachute in the context of
+27:5827 minutes, 58 secondsfinancial like mechanisms going beyond the traditional perimeter of finance.
+28:0528 minutes, 5 secondsIt happened that many different um institutions first of all traditional banks and shadow banks then platforms
+28:1428 minutes, 14 secondsthen fintech companies and crypto shadow banking entities and instruments uh contributed to making this system incredibly complex.
+28:2428 minutes, 24 secondsNow what does this mean in terms of law as a foundational layer as I promised in my title? Um there's a problem.
+28:3228 minutes, 32 secondstokenization scales. Financial law increasingly mediates property contract insolvency consumer protection and
+28:4028 minutes, 40 secondscentral banking law. So here I suggest we should think about financial law as a foundational layer dealing with all
+28:4628 minutes, 46 secondsother areas of law and I want to stress a point here. I'm referring to a dual
+28:5328 minutes, 53 secondsapproach to governance that first of all uh addresses one problem scale,
+29:0129 minutes, 1 secondliquidity and marketization that are the triggering criteria in my view for uh thinking uh about an increasing
+29:1029 minutes, 10 secondsimportance of financial law that is by nature designed for mitigating systemic risk and uh investor protection
+29:1729 minutes, 17 secondsconcerns. um where tokenization leads to widespread fractional ownership, active secondary trading and investment driven participation.
+29:2729 minutes, 27 secondsExisting financial regulations applies and this is the the qualification the nature of the asset involved is
+29:3529 minutes, 35 secondsabsolutely irrelevant. What is increasingly important is scale, liquidity and marketization.
+29:4329 minutes, 43 secondsuh but the fi financial law doesn't really substitute it coordinates so it does not replace this is not what I want
+29:5229 minutes, 52 secondsto uh say as a financial lawyer as a financial scholar I'm not saying that financial law should take over everything I'm suggesting a different
+30:0130 minutes, 1 secondway of coordinating and thinking about different traditional categories for the purpose of implementing a uh consistent
+30:1030 minutes, 10 secondsuh uh strategy that will protect the financial system from systemic risks and uh investors from investor protection
+30:2030 minutes, 20 secondsconcerns as they emerge in this new markets at the frontier of law, finance and technology. In this way, we would
+30:2830 minutes, 28 secondsavoid a lots of problems and how do we design all this by I would say relying on international coordination from the
+30:3730 minutes, 37 secondsbottom up. uh pursuing something important that is uh uh oversight proportional to risk investor type and
+30:4630 minutes, 46 secondsmarket rich two non-negotiable elements in this uh let's call it uh framework that I'm
+30:5530 minutes, 55 secondssuggesting one mapping emerging systemic risks uh trying also to anticipate the trends and this is where uh uh complex
+31:0431 minutes, 4 secondsuh systems and adaptive forms of regulators regulation would suggest ways for anticipating trends and supporting
+31:1331 minutes, 13 secondsuh regulators in identifying and implementing strategies before we reach a non a point of non return. And second,
+31:2231 minutes, 22 secondsequally important, financial and technological literacy uh are an essential complement to formal regulation for the same reason I was
+31:3131 minutes, 31 secondsmentioning before. increasingly relevant and bigger portions of fire of of of the population are exposed to this uh very exotic and opaque instruments.
+31:4531 minutes, 45 secondsOpaque from a technological and a financial perspective. The way to solve this gap or at least to contribute to solve this gap is by uh implementing
+31:5431 minutes, 54 secondsstrong educational um uh sessions at different levels of uh
+32:0232 minutes, 2 secondsuh of schools and and and academia.
+32:0932 minutes, 9 secondsNow we've been discussing about the perimeter of finance that becomes uh increasingly uh relevant. I I'll I'll go
+32:1632 minutes, 16 secondsback to that. The concept that what I want to leave you with is the fact that if everyday life is increasingly
+32:2432 minutes, 24 secondspermitted by finance then we should be well equipped with an appropriate regulatory framework that protects us
+32:3032 minutes, 30 secondsfrom this concern. Now I'm moving to another problem to a problem that is more structurally connected to the way
+32:4032 minutes, 40 secondsfinancial laws uh rely on intermediaries identifications of point of control and
+32:4632 minutes, 46 secondshow technology reshapes these problems and how technology affects again the legal architecture of finance and I want
+32:5532 minutes, 55 secondsto do that from a more specific uh point of entry here uh the problem of understanding the centralization from the lenses of a protocol.
+33:0733 minutes, 7 secondsLet's start again from two important headlines here. Black Rockck and Uniswap partnered uh to let institutional
+33:1533 minutes, 15 secondsinvestors trade tokenized shares of a regulated fund directly on a public defy protocol. So you see we are again
+33:2433 minutes, 24 secondstalking about intermediaries. Now we have to understand what is the shape and the regulatory treatment of these intermediaries that rely on a different
+33:3233 minutes, 32 secondstechnological framework. Second S&P 500 uh Dow Jones licensed S&P Dow Jones
+33:4133 minutes, 41 secondslicensed the S&P 500 to a decentralized derivatives platform XYZ running on
+33:4833 minutes, 48 secondsHyperlid that is a platform where you can build your own protocols enabling what perpetual future futures entirely
+33:5733 minutes, 57 secondsonchain. As I said for what for for tokenization I want to say I want to stress the point. These are not
+34:0534 minutes, 5 secondsexperiments. They are production deployments of regulated financial products with with a current designed on
+34:1334 minutes, 13 secondsa permissionless infrastructure. But the problem is that we struggle with understanding what is this
+34:2234 minutes, 22 secondsinfrastructure for example liquid which suggests a much deeper problem. We struggle with
+34:2934 minutes, 29 secondsunderstanding what decentralization is and how do we distinguish centralization from decentralization and we always hear
+34:3734 minutes, 37 secondsthis story that decentralization does not exist. We are all centralized. Yes and no. There are a lot of uh there are a lot of nuances that have to be
+34:4534 minutes, 45 secondsproperly categorized in order to uh implement the appropriate regulatory structure and uh uh helping regulators
+34:5534 minutes, 55 secondsto act as catalysts of market changes.
+35:0235 minutes, 2 secondsSo the problem with the binary thinking current framework start from a fundamental assumption. The centralization is a switch is a yes or a
+35:1035 minutes, 10 secondsno. It's not a dial. Um, so decentralization instead I suggest is a trajectory. It's not a threshold. But regulation does not acknowledge that.
+35:2235 minutes, 22 secondsMika reset 22 for example says if not fully decentralized then there has to be full fully compliance with uh uh with all the regulations from day one.
+35:3435 minutes, 34 secondsThere's no middle ground.
+35:3635 minutes, 36 secondsand how actually uh defy develops is something much different from what regulators have in mind at the moment of
+35:4435 minutes, 44 secondsthe launch. This is a a concentrated governance structure within clear points of centralization where the founders at
+35:5335 minutes, 53 secondscontrol then at the mature stage generally distributed knowledge
+35:5935 minutes, 59 secondscontrolled exercise by the by the um founders but we say hyperlquid sits
+36:0836 minutes, 8 secondssomewhere in between hyperlquid is shows a transitional situation there's latin centraliz ization vectors. But there
+36:1736 minutes, 17 secondsthere's also a clear active decentralization trajectory. What does this mean? There's a gap. The binary
+36:2536 minutes, 25 secondsview generates a regulatory vacuum that is not helpful. Um transitional protocols fall into a gap existing laws
+36:3336 minutes, 33 secondscannot really address. So we suggest um myself and my co-author um that we should define a new category work in
+36:4236 minutes, 42 secondsprogress defy. a third legal category for protocols mid transition that are not centralized intermediaries but
+36:5036 minutes, 50 secondsthey're not fully autonomous uh infrastructures.
+36:5336 minutes, 53 secondsThis this binary thinking leads to two two main problems. First the calibration
+37:0137 minutes, 1 secondforcing a partially decentralized protocol into either a regulated inter intermediary or a curve out like Mika
+37:1037 minutes, 10 secondsone uh is a problem when because neither accurately describes the state-of-the-art of that product and
+37:1737 minutes, 17 secondssecond there is an inference error what do I mean by that treating the existence of centralization vectors as equivalent
+37:2537 minutes, 25 secondsto their routine exercise over protocol execution settlement or user outcomes is also a problem. It's like saying a fire
+37:3337 minutes, 33 secondssuppression system exists but we do not classify a building as a fire hazard because it has one, right? It's a very different situation.
+37:4537 minutes, 45 secondsHow do we uh suggest this? By developing a methodology. This methodology relies on the tri function control legal
+37:5337 minutes, 53 secondsanalysis. We start from identifying the economic function uh with an explicit
+38:0038 minutesquestion uh does this match existing financial categories? Well, yes or no comes with different answers. And then
+38:0938 minutes, 9 secondsat that point we focus on the control attribution. Who is actually controlling this protocol? No one. Then we are in
+38:1738 minutes, 17 secondsthe sphere of genuine defy. Everyone the founders then we are in the situation of a centralized intermediary. If we are in
+38:2438 minutes, 24 secondsthe middle somewhere in between control capacity exists but is not routinely deployed over deterministic functions
+38:3238 minutes, 32 secondsthen uh we can say that the protocol has a trajectory towards the centralization
+38:3938 minutes, 39 secondsmaking it something somehow sitting in between these two categories and at that point there's a legal analysis uh that
+38:4738 minutes, 47 secondsis more explicitly solving the problem of which regulatory framework should be applied and finally How should we
+38:5438 minutes, 54 secondsstructure uh more broadly a regulatory uh design uh treatment of uh D5? So what
+39:0339 minutes, 3 secondsis this work in progress? defy that we define. Protocols that retain centralization vectors at one or more
+39:1039 minutes, 10 secondsarchitectural layers show no routine discretionary control over deterministic functions do not match the
+39:1839 minutes, 18 secondsorganizational structures that intermediary regulation uh presupposes.
+39:2339 minutes, 23 secondsAnd also again I want to stress this display a clear uh um trajectory of active vector
+39:3239 minutes, 32 secondsreduction through verifiable governance changes
+39:3839 minutes, 38 secondsand this also important as how do we distinguish potential versus actual centralization?
+39:4739 minutes, 47 secondsThe mere existence of centralization vectors does not resolve any regulatory classification at least on the basis of
+39:5639 minutes, 56 secondswhat we observe. When matters is whether those vectors are routinely exercised over execution, settlement, governance or user outcomes.
+40:0640 minutes, 6 secondsUh Latin control capacity within a decentralized decentralizing trajectory defers from exercising a systematic
+40:1440 minutes, 14 secondsdeploying of control powers. This is completely different. So a protocol should not be classified as centralized
+40:2240 minutes, 22 secondssolely because it contains some uh vectors of centralizations in it. This would be too much and this distinction
+40:3140 minutes, 31 secondsis absolutely important for the way we then design the regulator.
+40:3640 minutes, 36 secondsThere are three analytically distinct outcomes. So everything you see on your left, bitcoins, ethereum, a unis swap,
+40:4440 minutes, 44 secondsthey are genuine defy structures on the other spectrum uh Coinbase,
+40:5240 minutes, 52 secondsBinance, Kraken, they are traditionally centralized intermediates.
+40:5840 minutes, 58 secondsUm, hyperlquid sits in between. And now I want to say something about Hyperlid.
+41:0441 minutes, 4 secondsUh, you've all all have heard about Hyperliquid. you know, it's a it's a trading infrastructure.
+41:1241 minutes, 12 secondsIt's a purpose-built layer one blockchain similar to Ethereum uh integrating trading settlements and
+41:1941 minutes, 19 secondsprogrammability in a single execution environment.
+41:2341 minutes, 23 secondsHyperbft is the consensus mechanisms and it's a fully non-custodial
+41:3041 minutes, 30 secondsinfrastructure. So execution, margining and liquidation are deterministically at the protocol level and IP tokens operate
+41:3941 minutes, 39 secondsas collateral staking collateral gas and governance instrument. Here you can see
+41:4541 minutes, 45 secondsuh the uh structure of this infrastructure with the different layers and when referring to the different
+41:5441 minutes, 54 secondslayers I'm also echoing the traditional definition of decentralized finance as a
+42:0042 minuteslayered infrastructure where uh the uh perpetuals and swap and spot order books
+42:0842 minutes, 8 secondssits really on the top where you read uh spots and hyperbft is the foundation of the uh hyperlquid blockchain.
+42:2042 minutes, 20 secondsWe considered how did hyperlquid performed under stress and if you remember from the first part of the of
+42:2742 minutes, 27 secondsmy presentation I was referring to uh the the major liquidation taking place on on October 2025 the largest single
+42:3642 minutes, 36 secondsday leveraging event in crypto derivatives markets. Hyperliquid actually in this context what did it do?
+42:4242 minutes, 42 secondsIt processed tens of billions in transactions on these instruments and remained fully operational. What is
+42:5142 minutes, 51 secondsinteresting to light for the purposes of centralization and centralization is the fact that liquidations executed were
+42:5942 minutes, 59 secondsexecuted strictly under pre-established onchain rules. There were no other people that were saying selectively
+43:0743 minutes, 7 secondssuggesting now we should uh um liquidate this asset or that asset at that time or
+43:1443 minutes, 14 secondsat the other time. No, it all happened on a on the basis of pre-written onchain rules which suggests that even if there
+43:2343 minutes, 23 secondsare some several centralization vectors, the protocol could somehow uh rely on predetermined rules.
+43:3643 minutes, 36 secondsU centralization vectors persist in uh hyperlquid. We don't deny that. at the
+43:4443 minutes, 44 secondssettlement layer, at the asset layer, the protocol layer, at the application layer. Nonetheless, hyperlquid uh is a
+43:5343 minutes, 53 secondswe defy. It does not satisfy genuine defy because there are uh centralizing
+44:0044 minutesvectors. It does not conform at the same time to fake uh defy, centralized defy
+44:0844 minutes, 8 secondsbecause everything happens on a non-custodial basis. And that stress test showed that certain market functions take place outside the control
+44:1744 minutes, 17 secondsof the founders. So we suggest this is a calibrated characterization. Whip defy then would suggest that centralization
+44:2644 minutes, 26 secondsvectors appear largely latent but not systematically exercised and there's a difference between potential and natural centralization.
+44:3644 minutes, 36 secondsum there's also a documentary trajectory documented trajectory towards the centralization taking place in the last
+44:4444 minutes, 44 secondsthree months. Now I will conclude on the comparative aspect. So what different jurisdictions suggest us we can say
+44:5244 minutes, 52 secondsthere are different degrees of compatibility between this work in progress defy and the existing frameworks.
+45:0245 minutes, 2 secondsThe European Union shows a very low compatibility. Uh it's interesting to see that in the same clusters the US
+45:1145 minutes, 11 secondsshows a medium degree of compatibility depending on the on the political posture uh as we witnessed in in the
+45:1945 minutes, 19 secondslast few months. And there's a second cluster where there are architecture sensitive uh uh regulators and
+45:2745 minutes, 27 secondssupervisors. Uh at the at this point uh in time I would just put Dubai here. Uh
+45:3545 minutes, 35 secondsBermuda is also very promising but it only has uh uh pilot projects. Nothing
+45:4445 minutes, 44 secondshas been developed. So the European Union adopts a very static approach that really collides with the possibility of
+45:5245 minutes, 52 secondsintending the centralization as a process. There are three major rule three major regulations uh mikarid and dora on cyber security and ICT reliance.
+46:0746 minutes, 7 secondsUnited States um they came up with a a more flexible approach in the last few
+46:1346 minutes, 13 secondsmonths reliance on no action relief and formal guidance and perimeter clarification rather than a static
+46:2246 minutes, 22 secondsclassification on uh on the basis of Mika style. So there's a structural openness to infrastructural analysis and
+46:2946 minutes, 29 secondsfinally the most interesting one Dubai the virtual assets regulatory authority uh elaborated this pilot regime that
+46:3846 minutes, 38 secondsimplements three pillars outcomebased regulatory principles based conditional licensing supported by mandatory onchain
+46:4646 minutes, 46 secondsreporting and importantly real time supervisory monitoring so treats onchain
+46:5346 minutes, 53 secondstransparency as a supervisory capability rather than a compliance burden on the style of Mika again and this is the
+47:0247 minutes, 2 secondsclosest operational that matches the web defy characterization developed in my work policy implications two concrete
+47:1047 minutes, 10 secondsregulatory implications one treating decentralization as a developmental trajectory not something static yes or
+47:1847 minutes, 18 secondsno like a click and treat onchain transparency as a supervisory resource And this is what I want to stress which also
+47:2747 minutes, 27 secondsconnects to Juliano's work on data governance. Protocols like Iper liquid generate continuous publicly verifiable
+47:3647 minutes, 36 secondsdata on trading liquidation leverage accumulation and stress propagation and
+47:4347 minutes, 43 secondsthe October 2025 liquidation cascade could be reconstructed in real time which is a great advantage that we didn't have before from onchain data
+47:5247 minutes, 52 secondsalone. Regulators should then invest and this is what I say to regulators who are in the room if any should invest in the
+48:0148 minutes, 1 secondtechnical capacity to use this not to replace entity based oversight where appropriate but to extend supervisory
+48:0948 minutes, 9 secondsreach into architectures where it currently cannot operate going towards architectured sensitive uh operations.
+48:1848 minutes, 18 secondsSo uh all in all we touched two different points. one that seems to be very
+48:2648 minutes, 26 secondsconceptual right on tokenization expanding the perimeter of finance. But these are very traditional problems if
+48:3448 minutes, 34 secondsyou think about it. And even the problem of uh uh understand the technological uh
+48:4348 minutes, 43 secondsinfrastructure is point of entry to understand where old problems and new problems match. And
+48:5148 minutes, 51 secondsit's important to rely on traditional tools uh but also acknowledge the fact that the entire architecture of finance
+48:5948 minutes, 59 secondsevolves uh towards new paradigms that technology neutrality for example may not be able to uh explain and implement.
+49:0949 minutes, 9 secondsSo uh for the future we should really think about a point of connection and intersection among traditional tools and
+49:1849 minutes, 18 secondsinnovation that private practice certainly pushes for but the regulators also should acknowledge for mitigating
+49:2649 minutes, 26 secondssystemic risks and again protecting investors from any concerns. I will stop here. Thank you so much for your attention.
+49:3849 minutes, 38 secondsBrilliant. A lot to unpack. I will uh ask to the public if they have any question and uh while
+49:4849 minutes, 48 secondsthe audience is thinking maybe I start I fire up the first one. So you uh well say let me pick one point.
+50:0050 minutesYou mentioned well that we needed to have a uh not a binary approach and I fully agree with that. Decentralization is a spectrum even if there is control.
+50:1150 minutes, 11 secondscontrol intended as a decision making power not necessarily in the private law como understanding of control over
+50:1850 minutes, 18 secondsassets but actually control over the infrastructure which I believe is exactly what you were pointing out but then also you went further and says like
+50:2750 minutes, 27 secondswell even if we identify potential decision making uh well nodes vectors centralization vectors as the lit the
+50:3650 minutes, 36 secondsliterature call it um the fact that they exist per se is not telling us necessary and then you gave us the example of
+50:4450 minutes, 44 secondshyperlquid in a sense that actually but here is where I'm uh you know challenging or actually asking you to
+50:5250 minutes, 52 secondselaborate a bit more. So the hyperlquid event actually showed us that there is a
+50:5950 minutes, 59 secondsmarket concentration since the majority of the 19 billion that has been
+51:0651 minutes, 6 secondsliquidated has been liquidated overnight or 24 hours on a decentralized platform
+51:1351 minutes, 13 secondseven though there was no human intervention. And I agree with that there was a problem with smart contract connected with oracles and so on so
+51:2051 minutes, 20 secondsforth. From a regulatory standpoint this is as as you also said is a systemic event. So if we do have a potential form
+51:3051 minutes, 30 secondsof centralization potential control that's also where regulators should act.
+51:3751 minutes, 37 secondsSo it's like saying I don't know that you know if we look at 2008 there were several banking institutions that were
+51:4551 minutes, 45 secondsformally healthy but then actually the domino effect created a series of problems and then actually they collapse
+51:5251 minutes, 52 secondsand so when we are dealing in a prudent manner from a credential standpoint well actually we do have to act also when
+52:0152 minutes, 1 secondthere is a potential uh uh uh u point and so this distinction than otherwise
+52:0852 minutes, 8 secondswill become very difficult from an institutional standpoint to and also from the market perspective to know whether they are regulated or not
+52:1752 minutes, 17 secondsbecause we are shooting at a moving target. You have a gun but you don't shoot. You don't respect fire safety
+52:2452 minutes, 24 secondsrules but then I don't intervene. Well then we will say you know regulation should be proactive in a sense.
+52:3152 minutes, 31 secondsAny comments?
+52:3352 minutes, 33 secondsLots of comments. Um, no, thank you for for your question.
+52:3952 minutes, 39 secondsWhen talking about uh centralization vectors in Hyperlid, I just mentioned the uh market crash of October 10. It
+52:4852 minutes, 48 secondswas another uh problem the the one in uh in March, April 2025 that is called the jelly incident. Actually, jelly jelly.
+52:5952 minutes, 59 secondsThat's a it's it's a sounds really funny anytime. Jelly, jelly, jelly. It makes me laugh. Um, in that case, there was an
+53:0953 minutes, 9 secondsattack that was uh targeted at Hyperlquid. A whale shorted uh lots of
+53:1753 minutes, 17 secondsuh uh spot contracts causing a major problem. Now you would say okay
+53:2653 minutes, 26 secondsum how did um hyperlquid perform in that case because there is no intervention
+53:3353 minutes, 33 secondseverything happens on chain right well that uh the jelly jelly incident shows that uh hyperlquid
+53:4253 minutes, 42 secondspresented some centralization vectors that in that case saved the protocol
+53:4953 minutes, 49 secondsbecause they helped the system to react uh very uh fast uh diminishing any any
+53:5853 minutes, 58 secondsany risk. Yes. Yes. Yes. So um
+54:0554 minutes, 5 secondswhen when we say that the regulations should be uh proactive first of all there's a problem of legal
+54:1354 minutes, 13 secondscertainty that uh seem to be undermined and this could this is a critique that I
+54:2054 minutes, 20 secondswould do to my whipify uh definition then the problem is to solve that issue
+54:2754 minutes, 27 secondsof legal certainty in designing and con in appropriately construing a uh legal
+54:3454 minutes, 34 secondscategory that would be helpful to pursue goals that the current binary structure
+54:4154 minutes, 41 secondscannot do. Otherwise, we multiply problems and uncertainties and we uh institutionalize a situation in which
+54:4954 minutes, 49 secondsregulators will never be able to intervene. But this is not what I want to say and that's why I strengthen the importance of designing an appropriate
+54:5854 minutes, 58 secondstrajectory uh to prove the centralization and uh uh require
+55:0655 minutes, 6 secondsobligations to to to comply with stringent obligations and duties unless differently proven.
+55:1555 minutes, 15 secondsWould you regulate the infrastructure?
+55:1855 minutes, 18 secondsUm I would think about it. Um
+55:2655 minutes, 26 secondsI would regulate infrastructure. I I would partially regulate infrastructure.
+55:3055 minutes, 30 secondsSo everything that is centralized should be subject to some sort of oversight.
+55:3555 minutes, 35 secondsBut this doesn't mean that the entire protocol and the entire activity would require the same degree of regulation as a fully centralized uh infrastructure.
+55:4755 minutes, 47 secondsSo I would think that I would say that it wouldn't be proportional to treat liquid uh in the same way we would treat
+55:5455 minutes, 54 secondsand regulate Coinbase or Binance to uh strengthen and and and emphasize the importance of of central
+56:0356 minutes, 3 secondsdecentralization which also helps to clarify the nature of the centralization itself as a as a
+56:1056 minutes, 10 secondsprocess and I'm not the first one mentioning this. If you think about uh
+56:1756 minutes, 17 secondsa debate on whether Ethereum and Bitcoin were uh securities or commodities and
+56:2556 minutes, 25 secondswhere they were centralized or decentralized, uh the SEC commissioner a few years ago when we was systematic
+56:3256 minutes, 32 secondsapply said okay probably we should apply another uh framework. There is one from I in I think if I if I if I uh remember
+56:4156 minutes, 41 secondswell um suggesting that Ethereum and Bitcoin might have probably started as a
+56:5056 minutes, 50 secondsa centralized protocol but then they migrated and became something different
+56:5656 minutes, 56 secondswho fully decentralized. So, uh, the SEC, uh, already suggested something similar in the past.
+57:0857 minutes, 8 secondsThank you very much, Marco. Thank you again. Thank you. Thank you.

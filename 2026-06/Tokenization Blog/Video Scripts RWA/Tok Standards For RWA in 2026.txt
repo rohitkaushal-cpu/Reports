@@ -1,0 +1,1139 @@
+
+Search in video
+0:05
+All right, welcome everyone to this webinar hosted by Redstone. We're
+0:10
+welcoming Reed from Figure, Graham from Security Ties, and Luke from Apex to Tokeny. Uh, which as a lot of us may
+0:18
+remember, Apex did acquire Token a while back. Uh, so before we kick off guys, why don't we get a quick intro from each
+0:24
+of you? Uh, and then I'll kick it off.
+0:29
+Sure. Sure, I can I can start. Uh I'm Breed, uh president of Digital Assets, um from Figure. Uh our business, we've
+0:36
+been around, we're public company in in the US. Uh we've been around since 2018. Um we've taken a pretty expansionist
+0:43
+view on rebuilding not just one segment of capital markets, um but really the the entire ecosystem on chain. We're
+0:51
+probably best known for tokenizing Heliloc. We've done about 22 billion um natively tokenized onchain and um
+0:59
+expanding across a host of different asset classes and uh excited to have the conversation today with uh with everyone
+1:05
+here. Hey everybody. Uh I'm Graham, head of ecosystem at Securitize. Um we've been
+1:12
+around since 2017. Uh one of the leaders in tokenization. You might know us from
+1:18
+our work tokenizing with several large asset issuers. um Black Rockck, Hamilton Lane, Apollo, uh you might know us from
+1:25
+our Black Rockck Battle Fund, uh the largest tokenized money market fund out there. Um and yeah, Jason, thanks for
+1:32
+hosting and uh exciting to be here. Hi everyone. [snorts] So, I'm Luke. Uh
+1:38
+thank you for having me today. Um so I'm the CEO at Token. Token was um a leading
+1:44
+tokenization provider, a pure tech player. uh we we're tokenizing asset for
+1:50
+almost a decade now and indeed last year we got acquired by the Apex group which
+1:55
+is uh one of the largest fund administrator in the world with $3.5
+2:01
+trillion dollars under administration. Uh so so now uh I'm the global head of
+2:06
+technology for Apex and my role is to make sure that we uh tokenize as much as
+2:12
+possible all the assets under the administration of Apex to make sure we bring efficiency and also and mostly
+2:19
+some added value for for investors. We are trying to open finance uh but in the
+2:25
+right way by following the compliance rules which is quite a quite a
+2:31
+challenge. Awesome.
+2:36
+Awesome. Thank you guys. My name is Jason Barza. I'm our institutional BD lead here at Redstone. Redstone being a
+2:41
+top three oracle in this space and we power a lot of great RWAs like Bidd, Apollo's Ared, uh many stable coins and
+2:48
+ecosystems such as Tempo and a variety of others. Uh in addition, you guys
+2:54
+might know of an acquisition we made last year, Cordura, which also does DeFi risk ratings, onchain analysis, right?
+3:00
+to be able to quantify risk with that's newly introduced with the blockchain being involved. And with that everyone
+3:06
+again thank you for joining us. Make sure you share this over to appropriate audiences you guys they you guys think
+3:12
+should be listening to this or the recording will be available. Uh but really the point of the conversation today revolves around a report we uh put
+3:19
+out about a month ago and this report was really focused on tokenization standards. The idea here is, you know,
+3:26
+we uh there are different ways of tokenizing assets and we've seen different models uh and and a lot of it
+3:33
+revolves around where the compliance layer lives. Um for anyone that did not read the report, highly encourage you to
+3:39
+find it on blog.redstone.inance, but essentially a part of it that we
+3:44
+broke down was a few different categories of tokenization platforms. To kind of go over them a little bit, the
+3:49
+first one was manager controlled tokeniz tokenization environments. Those are the ones where like the asset manager kind
+3:55
+of owns the whole onboarding process, really wants to work with um and own the the relationship with their existing
+4:01
+clients. And some examples might be like wisdom tree through their wisdom tree prime through connect for institutions uh or
+4:08
+Benji as well through Franklin Templeton. The second model was institutional operating systems um and
+4:15
+regulated issuance partners kind of like securitized the way that black rockck will work with securitize to use their
+4:20
+technology but securityize is a regulated entity to to help that through. The third model was standards
+4:26
+and composibility first platform. It's kind of like ERC 3643 or what token has done a lot of work there with T-Rex. All
+4:33
+right. And and f last but not least uh what we the vertically integrated
+4:38
+blockchain native capital markets which is what a lot of what figure is doing essentially from origination all the way to the end distribution
+4:45
+utility. So again there are different ways of tokenizing assets. I kind of just summarized uh the ways that we kind
+4:52
+of broken them down and hence why we had our three guests here representing different perspectives there. So with
+4:57
+that guys um to kind of kick it off I think uh maybe just want to get a quick overview on your thought processes from
+5:03
+your companies on why you approached tokenization you did um and then we can get into the details
+5:12
+whoever would like to kick it off. Sure I mean I I can kick it off. Um so I
+5:17
+think uh I think Figer is an interesting case because the company was really founded um and I think you know the the
+5:23
+financial success of it today is is built on operating on blockchain right
+5:28
+and so we built a business um that exists in in the trady world of originating credit to real people in in
+5:35
+the real world um but it's all powered by blockchain and we're able to do that more profitably more efficiently um and
+5:42
+scale with with better outcomes but I think you know if you think about and I think a lot of us will will share this
+5:48
+view is like our view is that everything shouldn't be tokenized um and there are certain things that should and I think
+5:55
+um you know the reason for for tokenizing or lending on chain can't just be for quicker settlement or you
+6:01
+know faster um faster uh transfers it you know the question at least for for
+6:08
+lending is why lend on chain at all um and I think the answer needs to be and this is the view we've taken is uh you
+6:15
+know It needs to be for assets that either technically couldn't be lent
+6:20
+against because of you know some technical unlock that uh tokenization and um and uh crypto rails unlock or
+6:29
+assets that you didn't have you didn't have access to um in kind of tradi and
+6:34
+so you know our first asset class was heliloc um $500 billion of home equity
+6:40
+that's been trapped behind uh an institutional moat of bank balance sheets and our product democratized
+6:46
+prime that delivers that you know it's a catchy name but the idea of it is is ultimately the ethos of the company
+6:52
+which is democratizing those access democratizing access to those type of
+6:57
+assets that historically people haven't had access to even smaller institutions haven't had access to uh and so breaking
+7:04
+down those modes uh and using tokenization and defy as a means to broaden access
+7:10
+yeah I think I think uh the the great advantage of token organization really
+7:16
+needs to tap into what crypto's core value proposition is which which Reed was kind of getting at that but is the
+7:21
+ability to efficiently and widely uh and cost effectively distribute assets
+7:26
+globally and for us at securitize we do this in a highly regulated
+7:32
+compliancefriendly capacity right and so uh I think from the beginning and again we've been around for uh nine years
+7:39
+which is a long time in the crypto industry talking about tokenization it's been exciting to see tokenization get so
+7:45
+much airtime uh in recent years. Uh but I think you know for us the approach has
+7:50
+always been all right we need to be the experts. There's a reason why the largest asset managers in in the world
+7:55
+trust us. Uh but for us it started by uh accumulating the right licenses and
+8:01
+regulatory frameworks to be able to uh build out these products in tandem with these these asset managers. So we have
+8:08
+an ATS uh an alternative trading system. We have a broker dealer license. We have a transfer agency right? And so because
+8:14
+of those we're able to offer a truly full stack solution for uh our our clients in terms of what we decide to
+8:21
+tokenize. I also totally agree. I don't think everything needs to be tokenized. There's right now such a crazy backlog
+8:28
+on the on the supply side in terms of everybody and their brother wants to tokenize all sorts of random stuff. Uh
+8:34
+but what we need to do and this is still something that uh we're figuring out as an industry is trying to determine all
+8:40
+right what are the assets that people actually want? how do we embed them uh and distribute them um using our
+8:47
+regulatory compliance frameworks via crypto rails and that's the real unlock and so I think for us we're still
+8:55
+figuring out what utility looks like I said there's such a uh crazy backlog on
+9:01
+the supply side but figuring out all right how do we actually um make these assets behave more like cryptonnative
+9:07
+assets that are uh widely distributed today right and how do We um you know
+9:13
+build that at least in securitiz we build that into the token standard. All of the uh compliance that's required is
+9:20
+built directly into our digital securities token. Uh we are the uh
+9:25
+architects behind the digital securities protocol. And so that's our uh that's our mo. But I think what we're starting
+9:31
+to see finally for the first time is utility being brought to these types of products. And um there's there's nothing
+9:37
+that uh um communicates utility like financial incentive to move assets on
+9:43
+chain and it's figuring out what's the best way of of getting people to to move their funds um onchain in a trusted
+9:50
+capacity. [snorts] On my side I would say that um [snorts]
+9:55
+I mean in 2026 it's not a question of is tokenization works or not. Anyway, now
+10:00
+it's trendy. Everybody wants to tokenize. Uh, but it's mostly that institutions now they want the same
+10:07
+assets to move across multiple platforms, multiple chains, multiple distributors. Uh, and I think that's the
+10:14
+problem we're all converging on. Um, so that's basically what we had in mind 10
+10:21
+years ago when we started. um step by step we work with with clients. We we
+10:26
+build up smart contracts and at some point we're like okay we we have this full speed of smart contracts what we we
+10:32
+are calling the the TX protocol and we should open source it to make sure that people stop reinventing the wheel at the
+10:39
+smart contract level that step by step we create a value chain that makes sense. So we we open sourced the smart
+10:46
+contracts. It became the ERC3643 complicated name because we didn't
+10:52
+choose it [laughter] was from the EON community. Um but um
+10:57
+thanks to this we could meet a lot of regulators, a lot of large financial institutions and say look there is this
+11:04
+protocol it's free it covers all your needs as a financial institution. uh you
+11:10
+can enforce compliance controls at the token level. So it can be used on public
+11:15
+chains, it can be used on private chains uh but uh you will still be able to control what's happening with with your
+11:22
+asset. So it was quite quite successful [snorts] um and more and more we have
+11:28
+users uh directly taking this and not reinventing the wheel and just bringing the added value on on top of it building
+11:35
+automation platforms connectivity between distributors. Uh, so I think it's really where where I'm interested
+11:41
+in in going and and I see this with Apex clients wants to tokenize because they
+11:47
+want distribution because they want more use cases for their clients. They want to be more appealing for for their
+11:53
+investors. And I I think in a few years from now, if your asset is not tokenized, your asset will not be
+11:59
+compatible with digital collateralization or with peer-to-peer transfers. and and this will be an issue
+12:06
+for for many many asset managers and and issuers. Yeah. And I appreciate the overview
+12:13
+there, guys. And and you're right. I mean, look, at the end of the day, there's a lot of standards going on and therefore dstandardization, I think,
+12:18
+right now of of the industry. And I think when a lot of people talk about interoperability, people usually refer
+12:23
+to it like crosschain, but then you have to talk about like legacy systems, back and middle office also plugging in and
+12:29
+being able to absorb some of like the onchain activity and then interoperability between different
+12:34
+assets as well. Uh which again, you know, a lot of them can and a lot and some of them might not be able to just
+12:39
+as easily. uh with that um generally the you know when it comes to the compliance
+12:45
+level uh the more control and compliance you build in the harder it seems to plug into DeFi um and and some of you guys
+12:51
+may or may not agree with that. So curious to hear your take on that but if it is true I mean do you think that that's a temporary engineering problem
+12:58
+or more of a permanent market structure trade-off that we're that we're working with here? Yeah I I have a I have a lot of thoughts
+13:04
+on this. So um please as a as a as a crypto native myself, I've been in the space uh for the last 5
+13:11
+years. Um I am very much used to permissionless assets. Uh I'm used to
+13:16
+DeFi which is built on the backs of pools of assets that are fundamentally comingled, right? That's that's what we
+13:23
+what we know in DeFi. Um and you know at at Securitize because we are regulated
+13:28
+as a transfer agent uh we have to know who the owner of the asset is uh at every point in the process, right?
+13:34
+Right. And that's how that's how traditional finance works. And so, uh, I think, you know, initially, and I have to give credit to, you know, the folks
+13:41
+or the founding team at Securitize for this, is they've been talking about this for for quite some time. And it's been a
+13:48
+bit of a slog, I think, historically, trying to get these types of assets integrated into DeFi protocols, crypto
+13:53
+exchanges. But now what we're starting to see and this is just frankly I believe a sign of the times and a sign
+14:00
+of uh the crypto industry becoming frankly more serious in understanding that if there are going to be
+14:06
+institutional like serious institutional investors coming on chain and investing in their products uh these institutional
+14:11
+investors are going to require certain protections which is what they're accustomed to in traditional finance.
+14:17
+And so what we're seeing now and this is the most exciting part of of my role is
+14:22
+we I sit very uniquely in between the uh tread and crypto intersection. But
+14:29
+what's what's exciting is we're seeing protocols finally for the first time be asking the right questions of all right
+14:35
+how do we reconfigure our protocol architecture to be able to track who owns what asset. So if you're familiar
+14:40
+with a horizon we were design partners for that protocol. They built a bespoke
+14:45
+uh model to be able to issue non-f fungeible, non-transferable uh receipt tokens uh that track individual
+14:51
+positions within the protocol. Right? We did a similar uh integration with our friends over at Loop Scale within the
+14:57
+Salana ecosystem. Uh today we have um six different protocols, different D5
+15:02
+protocols that have accepted these changes uh including uh unis swap x with um availability for trading bidd. So I I
+15:10
+think our approach has historically been all right let's go for top protocols blue chip teams uh that are you know
+15:16
+have always been on the cutting edge of what's coming next in the industry let's work with them um help them figure out
+15:22
+what's required to list these assets because we really believe that that's where the industry is headed
+15:30
+go ahead [laughter] yeah so look uh I I've had to do some soularching in the evolution of of my
+15:37
+career in crypto this is my my 10th year and you know starting at the wild west and blockchain.com and and kind of
+15:43
+moving to where we are today. um you know these I think there was this uh animosity and sort of anti-radfi
+15:51
+anti-bank um and I think that ethos has has certainly dissipated um and I think
+15:57
+you know the reality is there are certain things that tradfi does better than than defi and there are certain
+16:03
+things that defi does better than tradfi and I think one of the challenges that that Graham pointed out um was one of
+16:08
+the things that you know we noticed when we started building figure which was we couldn't just occupy sort of a single
+16:14
+role and then I think the challenge around uh compliance and and KYC is how
+16:19
+do you then articulate that with every other kind of partner you have in the mix. Um, and so the approach that we
+16:24
+took was, well, we're just going to build the whole stack, right? So, we're a public regulated company. We have an
+16:29
+ETS license. We have lending licenses in every state. Um, we have our, uh,
+16:35
+transfer agent. We have VAS for so like you can do all of these different things, but it makes it a lot easier if
+16:42
+you sort of have built the entire ecosystem. Um, you can choose at what compliance layer you're going to deliver
+16:48
+what and to whom and how. Um, and I think that's been sort of one of the big successes for us, whether it's selling,
+16:54
+you know, $300 million of of AAA um, uh, securizations to the the biggest firms
+17:01
+in in Wall Street. Um, but also being able to distribute permissionlessly in DeFi with say Prime at a $600 million
+17:10
+um, market on on Camino. So, um, I think but that wasn't just coincidence and
+17:15
+that's not sort of like taking short steps. Um it's because we've really built every one of the elements um in in
+17:21
+the ecosystem and that gives us a lot of flexibility on product design. What is
+17:27
+the product going to look like? What's the regulatory structure of it? How is it going to be distributed? What are the partnerships? And sort of like um it I I
+17:35
+think I think the the question of like you know do you need to build the whole ecosystem? I don't know that that's
+17:40
+necessarily true. I think there are probably certain elements of the the ecosystem that you can partner with. Um,
+17:47
+and we've seen, you know, great work by by other firms in in building out standardization and and partnerships.
+17:52
+So, I think I think that question is still yet to to be determined. Um, but
+17:57
+um it's it certainly is an interesting one. I I think we are seeing um I mean
+18:04
+everybody's saying DeFi, but DeFi is disappearing. Uh step by step, we see onchain finance. I think it's a it's a
+18:10
+good thing. Um once you have permission tokens embedding all the compliance
+18:16
+rules you need, you can use any type of D5 protocol without losing this compliance. Uh when you tokenize an
+18:23
+asset with the RC 643, it's an 20 on steroid. So it's compatible with D5
+18:29
+protocols, compatible with the RC20. So you don't really need to adapt your your D5 protocol to make it work, but you
+18:36
+need to adapt it for uh for the right business workflows, for the right users.
+18:41
+uh for financialians who don't even know uh how to manage their wallets. Um and I think this is where we uh we we we bring
+18:48
+value step by step. Um now we we see um
+18:54
+now you have the tokens and you can um link your token to other smart contracts
+18:59
+to put more data on the blockchain for example and therefore you can do more things where DAPs can directly check
+19:06
+this data or get validations to to perform operations. So it's becoming very simple to build new applications,
+19:13
+new D5 protocols, new onchain finance protocols. Uh because we have the world tech stack. Uh we have good blockchain
+19:20
+networks and we have uh good permission tokens uh compliant operated by
+19:27
+regulated entities and and this tokens can travel from one platform to another, one protocol to another. So um I think
+19:35
+now the next step is not really how to enforce compliance at the D5 protocol level um if you have compliant tokens.
+19:44
+It's more about finding the right use cases for your clients and making sure that they have a an easy to use smart
+19:52
+contract and and app interface to to interact with it. So it's becoming very very modular but factually
+20:00
+compliant DeFi works today with with security tokens. Um then is unis swap uh
+20:07
+a regulated exchange or not? Uh that that's the issue. Uh but but for issuers
+20:14
+um you're you're still in control of your your assets. So Luke, you have it more on the on the
+20:20
+protocol level and you're saying like your yours is compatible with a lot of others, right? Um, have you seen any
+20:26
+push back where you it's not accepted where you have to change or issue an asset a different way?
+20:31
+Yeah, of course. And um um people always think that because it's a standard, it's a it's take it or leave it. It's a it's
+20:39
+an ERC20 token plus additional functions. So we try to use the com to
+20:44
+leverage the composibility of it. And actually everything you plug like compliance modules, it's other smart
+20:50
+contracts that you can plug to your token. So if you respect this compatibility [snorts] uh this
+20:56
+modularity you can do a lot of things but yes you need to take some uh choices sometimes for example smart contracts
+21:04
+are in solidity so it works on any VM chain Solana a bit less uh that's why we
+21:10
+work with the Solana team to make some equivalent some bridges but it's not exactly the same thing so you you cannot
+21:16
+make a standard that fit for everything but the standard needs to be as modular as possible And we we really see the
+21:23
+value of this because um once you issue uh one of these tokens from the official
+21:29
+uh factory smart contracts you get the provenence of this token. So during the
+21:34
+full value chain your transfer agent any type of distributor defy protocols they can check in an instance if your token
+21:42
+was deployed from the right token factory and therefore they have the guarantee that it's an audited code.
+21:49
+There's no back door. they don't have to do any type of uh of technical checks or
+21:55
+audits etc. So everybody save a lot of time. Honestly, now it's commoditized.
+22:01
+All of this is open source. So the value if you try to tokenized assets is not to reinvent the wheel at the token level.
+22:08
+Uh it's more oh can you bring good assets on chain and good use cases for for your clients.
+22:16
+Interesting. Okay. So so you guys have it at the protocol level which sounds like it's pretty interoperable although
+22:21
+and then travels with the tokens right across the life cycle. figure you guys have have built everything start to
+22:27
+finish and so you guys have the most design flexibility while securityized I think I think one of the things that you
+22:33
+guys have had to adapt to when it comes to DeFi was like the vault registar you guys put out right to to be able to have ownership at the station which I think
+22:39
+is pretty interesting right but it's something you had to that lives outside of the token it's something additional
+22:45
+that they had to do to be able to uh to to be defi you know compatible if you will but also still keep the compliance
+22:52
+on transfer agency side um one more thing on compliance before we move on to to to a different topic here which is
+22:57
+identity that I want to touch on. Um I think right now a lot of people do their own KYCl institution A might not even
+23:04
+accept institution B's KYCL they want to do their own. How do you guys think this will evolve or are we going to keep it
+23:09
+that way? Is there universal identity with layers? How do you think identity will evolve with the blockchain? Um with
+23:14
+I think the end goal for all of us probably being like as transport portable identity as possible.
+23:23
+Yeah. Yeah. Yeah. Go ahead. Go. I think it's Yeah, I think it's I think it's very complicated. Um it's something
+23:30
+that our team has has looked into um over the years in terms of trying to
+23:35
+figure out the best way to to simplify, but I think it's funny when I first started Securitize, I was I was
+23:41
+surprised as our a lot of our users that show up to our platform and realize that every single product requires its own
+23:46
+KYC uh process, right? Right. So, I've actually had uh investors, individuals come up to me and be like, "Can we have
+23:53
+like a a kitchen sink function where we just throw all of our documents for all of your products?" And you kind of sip
+23:59
+through that and sort through that. Um and again, I think it's this is also just an example of another growing pain.
+24:04
+Um similar to the requirements that protocols have to adhere to to list securitized assets. uh there's a reason
+24:10
+why your Chase bank account requires a different login and password in KYC versus like your City Bank or Bit Bay or
+24:17
+or any other bank, right? And so I don't think there's necessarily going to be I think we're we're at least from my perspective I think we're a long ways
+24:23
+away from one unified KYC layer uh just because that's that's not how the
+24:30
+traditional world of finance works. But you know, I know that there it's a question that comes up a lot. I I would
+24:36
+love it if that were to exist. it would make my job and life a lot easier. It
+24:41
+would simplify the user experience for a lot of our folks that we work with. But um from from my perspective, I don't
+24:48
+really see a unified layer coming anytime soon uh that falls in line with
+24:53
+the regulatory uh frameworks and guidance that we're working with today. But I could be wrong.
+25:00
+I agree with you. It's not a technical issue. uh technically we can create
+25:06
+identities on the blockchain and it's a trust issue. Every financial institution
+25:11
+has its own um compliance rule as to respect some uh some obligations. Um it
+25:18
+will work only if we add self- sovereign identities which once again we we have
+25:25
+technically speaking but the end users they cannot they don't know to manage their own identity because you could uh
+25:32
+get your identity on the blockchain and give access to to to your data and to
+25:37
+[snorts] uh to different providers in an easy way. Um but people don't do that.
+25:43
+They don't update it the same way. Um and also in in traditional finance it is now it is not how it works. Every time
+25:50
+you open a bank account you need to prove who you are right. [snorts] So so the end users are not used to manage
+25:56
+their identity information to secure it and then to give access to to different providers. The truth is that when you
+26:01
+open a bank account and you give your data it's still your data but for some reason the bank thinks that now it's its
+26:08
+data. [laughter] Um so so it's going to be complicated but we can anyway try to standardize the
+26:15
+way we deal with this information and this verifications on the blockchain. Um
+26:20
+step by step we see that we are all converging in the same direction of um running some kind of attestations um on
+26:28
+chain so your smart contracts can verify if you are authorized for a token or for
+26:33
+a platform um with verifiable credentials. I think this is very beneficial but mutualized KYC it's still
+26:41
+a dream and will will remain a dream for quite some time.
+26:46
+Yeah. I mean centralized repository of personal information. Um I don't know
+26:51
+that that makes anyone who's dealing on chain um excited uh from from sort of
+26:57
+like the centralization aspect. I mean look at the the news in in France. Um I
+27:03
+I think I think a lot of the so I agree with with a lot of what's been said um and KYC Reliance I think a lot of these
+27:09
+things emanate from the uh certainly the higher levels of investor qualification
+27:15
+and sort of risk from sponsors of of certain financial products versus like your KYC for you know trading crypto
+27:23
+right um so we're building out a standard with our open protocol um and again I think partnerships and
+27:29
+ecosystems that flow between I there um that is really the avenue through which
+27:35
+um you know through through which we can make most progress um KYC is the law in
+27:41
+a lot of cases in some edge cases it's not um but you want to have broad access to to products for a broad use of of
+27:48
+utility functions and so I think for us you know the focus has been on it's helpful having your own ecosystem in in
+27:55
+that regard because you share the information um but I think building out partnerships for you know defined flows
+28:02
+um is really kind of like the medium-term path for for success. But I also don't I'm not super optimistic on
+28:08
+some, you know, silver bullet or um at least in in maybe the western world.
+28:16
+Yeah, it sounds like consensus here is no, there's no universal. Probably going to take forever if there ever will be.
+28:21
+But more so um I like what you said there Reed about a partnerships ecosystem and and maybe there's something where you can at least on a
+28:27
+lighter touch be able to have some level of acceptance between each others um or again different levels. Um Luke I think
+28:33
+you had kind of attested to that too. There's alo the what something you said Luke here which was it's not a tech
+28:39
+thing it's a trust thing and and that kind of leads me to towards the DeFi side of things. April brought a lot of
+28:45
+uh exploits social engineering some of it not necessarily blockchain native more so just personal stuff. Um, and
+28:52
+then there's of course decision- making or poor decision-m sometimes when it comes to infrastructure. Um, with that
+28:58
+said, um, I I know Graham, you kind of you touched on this lately earlier on on building trust with it comes to DeFi.
+29:05
+You mentioned trans transfer agency. This is actually something I brought up on on my panel last week as well. Uh,
+29:11
+but I guess have anything else to add into how you're reassuring institutions about assets living on the same or
+29:17
+similar rails as DeFi? uh would love to hear about that. Um but otherwise would
+29:22
+also like to hear about if there is increased demand for DeFi access from the institutions you guys are working
+29:28
+with. What is driving that demand? Is it back and middle office and just tokenization in general like type of
+29:34
+efficiencies? Is it access to new markets or new structures? Just anything you guys can talk about DeFi reassuring
+29:40
+and use cases or for demand. Yeah. Yeah. I mean, I think uh if there's anything we've learned over the
+29:46
+last month or two, it's that we we have a long ways to go. Um I don't want to say that we're an unserious industry,
+29:52
+but it does, you know, I I live in New York City. Most of my friends work in traditional finance and it's almost
+29:58
+become a meme in our group chat. Whenever there's a new crypto hack, they send it to me and they're like laughing
+30:04
+at [laughter] me in the industry, right? Uh and it's something that I've I've just grown accustomed to. Um and it is
+30:11
+unfortunate but I do think you know for what we're doing at securitize um we are
+30:17
+the serious people in an unserious industry or I would say an industry that's becoming more serious over time
+30:23
+and I think for us the uh reassurance that we're able to provide our issuer partners uh and we work with several the
+30:30
+largest is that you know we build everything that's required from a regulatory compliance standpoint to be built directly into the token standard
+30:36
+itself. And so that means anything from mint, burn, freeze, force transfers, corporate actions, upgradeable
+30:42
+compliance rules, we're able to handle all of these things. So they do actually have the protections so that uh a
+30:48
+situation like uh or some of the situations that have happened over the last few months would not happen to
+30:53
+them. And so that really goes a long way with them. I think uh we we still as an
+30:59
+industry have a long way to go. I feel like we are getting all this stuff out of our system. It's absolutely necessary, but um you know, I think we
+31:07
+we still need to to make quite a bit of progress before we're able to continue
+31:12
+to welcome in in the masses. Yeah, I agree with uh I agree with
+31:18
+Grant. Um we we think of it in in kind of two two levels. One being like the
+31:25
+primary, right? So for us, we're the transfer agent for for yields, which is a a yield bearing security. It's face uh
+31:32
+face certificate uh which interestingly enough it's this weird esoteric uh
+31:37
+defined security from I think like the 70s or 80s um and it doesn't require
+31:42
+broker dealer to transfer so it has P2P um uh rights uh it's registered so
+31:48
+retail can hold it in the US um and that is sort of the settlement currency for
+31:54
+our entire ecosystem so when we look at a product like democratized prime um which is structured as a borrow lend of
+32:01
+yields against um against uh perfected um helocks um you know that provides a
+32:09
+lot of cover in in sort of the primary market. So Dart is a lean registry that Goldman, Jeff and Texas Capital use on
+32:15
+chain on Providence when we post loans um to them and that is also we're seeing a ton of institutional demand for that
+32:22
+product for all of the reasons that we saw with call it tririccolor and and first brands earlier where a blockchain
+32:29
+is immutable. So you cannot double pledge definitionally and technically uh a loan on provenence. You can't double
+32:36
+pledge it. So we've seen a lot of institutional demand um come on uh both for transacting and settling um on chain
+32:45
+um but also um you know for for those type of technical unlocks and then in
+32:51
+the secondary you know market I agree with Graham again on sort of like an unserious industry right but I also
+32:58
+personally believe and and figure believes that like if it's your asset you should generally be able to do what you want with it um and so those primary
+33:06
+protections that we talk about exist in primary activities. secondary where you go take that and you do something else,
+33:12
+you know, in a secondary, whether it's looping or depositing into something else. Like at the end of the day, that
+33:17
+was really the issue we saw with Kelp and a lot of these um these other uh other hacks is underneath of those hacks
+33:24
+is is a bearer asset, right? There's no safeguards around it. Um and so with us
+33:29
+we think we kind of play that that um that that neutral role where you have the protections of uh investor
+33:36
+protections uh lenture but you do have the flexibility to sort of take on your your
+33:42
+own risk with um with composability.
+33:47
+Unfortunately April was not a great month for for DeFi. Definitely not. I think it's like $600 million of loss or
+33:55
+something like this. uh like 28 incidents I have read is somewhere it's
+34:00
+crazy um but if you see where where were the issues it was in in in bridges it
+34:06
+was in in unpacked synthetic tokens that kind of things um with
+34:12
+proper tokenized securities you don't have most of this issues I'm saying this for years but we we keep having the same
+34:19
+use case where we have um investors contacting our client and saying hey
+34:25
+everything disappeared from my wallet accept your tokens. Can you help me to to get back my my my crypto tokens? No.
+34:32
+Um and why this is happening is because we do permission tokens. So if you're not authorized to to receive them, you
+34:39
+cannot receive them. So the hacker, he has no incentive to to to hack your your wallet with the security tokens because
+34:46
+he cannot send them to himself anyway. Um, and even if he successfully do this,
+34:52
+the issuer or his transfer agent can revert the transaction. You can recover
+34:58
+or lost tokens because anyway, even if you have the token in your wallet, you're not necessarily the owner of this
+35:04
+tokens. With the RC43, the tokens are linked to your onchain identity.
+35:10
+So anyway, you're not the owner if you have it in your wallet, only if your onchain identity has changed. Um so so I
+35:18
+think we have a lot of safeguards already to to make things better. I would not say uh the same um level of
+35:26
+securityurities and tradly
+35:31
+closed and and secured. Now we try to use a shared infrastructure so it's a bit more challenging. Uh but I think we
+35:38
+are getting there. We're definitely getting there. So, so the challenge is to find this balance between u using a
+35:47
+shared infra but still with the proper processes and controls compliance from
+35:53
+regulated financial institutions. So yes, it's a bit boring in comparison of
+35:58
+crazy DeFi and yes you can do very very fun stuff but it's what's what is needed
+36:04
+if if you want to guarantee the ownership for for your investors. they cannot lose their tokens just because
+36:09
+North Korean is is a bit angry today. So, so tying this back to to kind of
+36:15
+like the theme of the webinar here in standards, Luke, you guys essentially are preventing the token from even
+36:20
+moving to begin with uh because of of them being permissioned. And then if
+36:25
+something were to happen like this, and this is where we kind of get to where compliance lives, like whether inside the token at the protocol level or even
+36:31
+outside of it. Um, but for anyone follow that listening in that maybe is a little lost on on on how it would work
+36:37
+practically if something were to happen and your tokens were to move or your wallet gets hacked. At the end of the day, the transfer agent has the record
+36:43
+of like who owns what amount and whatever. So, they could burn those tokens that were hacked and just reissue
+36:48
+you new ones to your new wallet. Hopefully, this new wallet doesn't get hacked or or or you don't lose your
+36:55
+keys, right? That's like one of the things that you have that legal recourse and and availability uh enabled by where
+37:01
+compliance lives here versus in the fully DeFi world it's it's kind of impossible. Your money's lost and to put
+37:07
+in other terms you know those are bearer assets right so over whoever holds and owns them. Um so with with that said
+37:14
+guys uh want to move on to to uh some of the other institutional motivations here
+37:19
+uh for any of the institutions that haven't already jumped in uh which honestly a lot of them we've seen a huge
+37:25
+surge already already show interest into tokenization world that's a big finally the the talk of town oh it's only taking
+37:30
+forever uh but there's always a question that they have to uh to answer I think and it depends on why they're tokenizing
+37:37
+or why they're trying to bring a business model on chain and it's the buy build or lease question. Um, meaning are
+37:43
+they going to build it all inhouse? Uh, have a full digital assets unit, build their own tech and own all of it, uh, or
+37:50
+are they going to work with someone, a tech provider that they trust and and maybe co-build
+37:56
+um, or just acquire someone, which we've seen as well. And I think you get you three also encompass those three models.
+38:01
+Anyways, so uh what advice or how would you advise an institution that's or an asset manager entering tokenization
+38:07
+today on how they should approach building their environment or who to work with and so forth? How how does
+38:13
+that decision get made? I will say that um you need you need to
+38:19
+build only if tokenization is your product. uh what what we do basically
+38:26
+here are the three of us. Um because as you said technology otherwise you will
+38:31
+just lose your time and money to to rebuild what's what exists already. Um so you should lay a platform if you're
+38:38
+an asset manager and you want to go fast something that is proven uh audited
+38:43
+already integrated within an ecosystem. Um about the standard I think it's non
+38:49
+non-negotiable in 2026. I mean why reinventing the wheel at the the
+38:55
+standard level at least try to use um standard of tokens which are compatible
+39:00
+with with wallets and with exchanges and and with providers um and then you can
+39:07
+make the choice to partner with a vertically integrated platform if you um
+39:13
+if you want to tokenize a font an SPV yes it's better to go directly to a to a
+39:19
+partner who can do all of this in a tokenized way. Um, and actually that's why I'm very happy that Tokeny joined
+39:26
+Apex because before we had to explain to issuers where to click and it works. Uh,
+39:32
+now it's Apex managing everything. So you want a phone, great. You want a digital phone, great. We can do it as
+39:39
+well and you get your your tokenized font. Um so so I think now the mode for
+39:45
+for clients is more about what type of product you want to tokenize and for which use cases uh rather than
+39:52
+reinventing the wheel and rebuilding everything. Yeah, I would say uh let us let us help
+39:58
+you. [laughter] Um I think you know for us we like I said we work with I mean Black Rockck's
+40:04
+the largest asset manager globally. There's a reason why they trust us. We know what we're doing. We're also, you
+40:10
+know, we have the full stack as well. And I don't know if folks here saw, but uh adding to that, I mean, FINRA approved securitized for custody and
+40:18
+underwriting of tokenized securities. So, at this point now, we're um truly full stack for uh and this has been a
+40:25
+focus for us as of late is for tokenized equities and being able to be a part of the IPO process uh for firms that do
+40:31
+want to go um that do want to go public. So I think for us uh you know we have the beauty license, we have the TA uh we
+40:38
+have the ATS. These are things that take time to to collect. Um and so I would say look at the uh look at the trust
+40:46
+that a firm like Securiz has had uh from these large issuers and I think it's a no-brainer. We know from start to finish
+40:53
+how this works from issuance to distribution. Um I think a misnomer that a lot of uh issuers have is that it's a
+41:01
+automatic fundraising mechanism. tokenization is uh that's not the case. There's a lot of work that goes into
+41:07
+figuring out the demand side of things, right? Like I said, we have no shortage of supply, but uh as we start to get
+41:14
+more clarity on regulatory and as the crypto industry gets more comfortable with regulatory, uh the distribution
+41:19
+side of things is really going to fill out nicely. Yeah, I mean, I think we've we've covered a lot. Um and and I agree with
+41:26
+largely everything that's been said. I think though, you know, I think there needs to be like a very genuine and like
+41:33
+internal look into why are you wanting to tokenize. Um because I think if you
+41:39
+if you are looking for, you know, you have an adversely selected product and you want to raise capital, you're going to waste a lot of time. If your sole
+41:46
+reason is you think there's some, you know, everpresent bid for anything that's tokenized, not the case at all.
+41:52
+Um, I think you need to have like a a quite linear reason for how it ultimately impacts your business at the
+41:59
+end of the day rather than sort of like, you know, wanting to do something that's that's cool or like, you know, be seen
+42:07
+as as edgy. Um, so, but as I said, there there's a host of different partners um
+42:13
+that are going to, you know, fill a a different sort of scratch a different itch uh for different for different
+42:18
+firms. But um I think the thing I would emphasize the most is um if you are genu
+42:25
+genuinely uh embracive of building from a kind of
+42:30
+crypto or crypto rails um first approach and you have a defined reason that feeds
+42:37
+back into your current business um I think you'll be very successful. Um
+42:42
+otherwise I think it's a very it I think it will likely underperform.
+42:49
+Yeah, I love what you said there, Graham, too, on on, you know, it's not a magic wand. Investors don't just appear and, you know, at rate, as you kind of
+42:55
+alluded to, sometimes the motivation is is is part of the, you know, what the technology enables when it comes to like
+43:01
+double pledge or the lack of double pledging thanks to the blockchain or or even in the back middle office when it comes to loans, you can, you know, if
+43:08
+you have immutability, you don't have to re audit everything. If nothing changed, you can just audit what's not. That
+43:13
+comes with savings. Um, but again it comes down to the business model and therefore or the business use case and
+43:18
+therefore that kind of helps determine who to work with or whether you truly need to build it yourself like Luke was
+43:23
+attesting to or buying one. Uh, which is kind of what Apex is doing more more of a service provider in that in that
+43:29
+sense, right? uh versus an asset manager being more of an issuer and and trying to extend utility which I like to say
+43:35
+for a lot of my consulting clients too in the past was you know like there's no point in tokenizing anything if you're not going to increase its utility or
+43:41
+it's going to benefit you in one way shape or another that you couldn't do in offchain right which a lot of this could
+43:46
+just live offchain anyways. Um, so glad that that's kind of getting some gears turning with people, especially as the
+43:52
+industry is maturing a bit more when it comes to compliance, when it comes to use cases and and who to work with and
+43:59
+obviously who not to work with. Um, with that, um, you mentioned IPOs, Graham. Uh
+44:05
+I want to get a take from from everyone here but maybe start with you just given the focus on on equities but the DTCC's
+44:11
+tokenization service is launching October 2026 uh covering the Russell 1000 equities
+44:17
+ETFs treasuries etc. um they have a soft launch coming up in July, you know, for
+44:23
+for independent tokenization platforms. Is is their entry a tailwind that validates the category, you know, as
+44:29
+such tokenization or as a competitor that's pulling issuers into its own rails kind of what we've seen in the
+44:34
+past, right? Just BTCC being in right in the middle. How how do any views on on their entrance here?
+44:41
+Yeah, it's a good question. Um so I'll start by saying I think anything regard anything anything in regards to
+44:47
+tokenization is a good thing generally speaking especially from large entities large trusted traditional financial
+44:53
+entities. Uh but I think the uh the misnomer on that is that the DCC model is really just uh it's a tokenized
+45:00
+entitlement right it's it's not um uh it's not self-custodial and for us at
+45:06
+securitizing we're firm believers in the native tok to tokenization model where you maintain custody of the asset program uh compliance checks all that
+45:14
+happens at the token level um just from a transferability ownership perspective we believe that that's far more in line
+45:20
+with um DeFi crypto values and that's just been our approach. But I do think
+45:27
+uh you know for us it's a it's a step in the right direction as an industry. Uh and I think the the jury is still out
+45:33
+like I said earlier. I mean it's still still very early. Um but uh you know certainly excited to see that there are
+45:40
+um steps being taken toward tokenizing the masses. So, I'm happy to be a lot more
+45:48
+controversial here, which is like the DTCC shareholders are exactly the problem that anyone that is building
+45:54
+tokenized self-custody assets is trying to solve. Like the idea that they're going to tokenize, you don't need to
+46:01
+have DTCC in a world of self- settlement, self-custody, self-clearing
+46:06
+um atomic. So the idea that like them coming into the space is somehow going to like open and broaden access like the
+46:14
+shareholders of DTCC are all of the incumbents for all of the things that anyone building on chain is generally
+46:20
+trying to disintermediate. So um I think it is much a do about nothing and the
+46:26
+real innovation and unlock comes from self-custodied tokenized equities uh
+46:31
+trading on the venues that um you choose to.
+46:36
+Yeah. Yeah. I think we we've seen this in Europe as well for quite some time. Uh the role of CSDs in the blockchain
+46:42
+world. Um maybe you're familiar with the DT pilot regime in Europe. Uh basically
+46:49
+you cannot do any uh secondary market if you're not a CSD. Um and indeed
+46:55
+blockchain is supposed to replace a lot of functions done by the the CSDs. Um
+47:01
+however they are still very important player in the market of course organizing everybody. Uh so they they
+47:08
+create some kind of not say consortium but some kind of rules for the um for
+47:13
+the ecosystem which I think is is good. Um so I'm quite happy to see the TCC
+47:19
+going in in that direction massively. I think it proves that we uh we are going
+47:24
+all in the right right direction. Public stocks are very complicated in terms of
+47:30
+compliance. So if they successfully tokenize public stocks in in a compliant way on
+47:37
+public chains, I think it would be a great sign that can basically tokenize a
+47:43
+lot of different type of assets in a proper way on chain. Um, I would prefer DTCC tokenizing stocks than what we've
+47:50
+seen in the past with tokenized stocks to be honest. Uh, with with BR instruments and uh with a great ways to
+47:57
+to lend their money. So, so I think it's good for the industry. Um, we we don't
+48:03
+really necessarily think that public stocks are the use case for for blockchain to be honest. Um it's more
+48:11
+about private markets or we can bring more accessibility and uh and better portfolio management with with private
+48:18
+markets. Um if you want to to buy April shares, you you can already do it in a
+48:23
+in a very easy way. Um so we'll see how it goes. Um I think I agree with that
+48:29
+what they try to do is mostly for the settlement. It's more like a technical thing. uh we will see if they if they
+48:35
+push the concept far enough to to interconnect platforms and distributors
+48:42
+and players um up to the investors wallet but I think we we need to wait
+48:49
+for a few years to to see yeah I know that again everyone has a
+48:54
+perspective on this one for sure um you know for for anyone listening by the way these are essentially like you have your your book entry or your you know the the
+49:02
+the stocks that they're already holding for you the TTCC and then if you wanted the tokenized version just debit it here
+49:08
+and credit or credit it to you in token form right but it's like there's still that ecosystem involved so I know you
+49:14
+guys kind of brought up the idea of like native tokenization [clears throat] where like the share is or the token is
+49:19
+the share um which also brings back kind of conversation that happened I think late last year or maybe earlier which
+49:25
+was around like the rapper model right where it's it's it's kind of like you you technically own a share of an SPV
+49:30
+that owns the share of the the company And it's something that's starting to to bring a lot of attention uh just in
+49:36
+terms of like the different ways that people are structuring that uh kind of to to Luke's point there. Uh what what
+49:42
+the ownership means as well as you know other use cases. Sure. Maybe the rapper model is good for access you know where
+49:48
+where other jurisdictions maybe have or people living in other jurisdictions maybe have a harder time accessing US
+49:53
+capital markets and so forth. But again it it you know everyone at the end of the day invest in what they'd like to and just do your own research. at the
+50:00
+end of the day know what you're actually investing into. I think recent news anthropic I think it was that came out
+50:05
+saying basically like hey this is not allowed with our shares do not SPV our shares and tokenize that like we need we
+50:11
+as the issuer or the the company need to be in accordance like this right in
+50:17
+which case it sounds like they would probably go more the the native tokenization route um so um I know we're
+50:23
+we're kind of coming up on time here almost so um a lot of food for thought here and I guys I appreciate your
+50:28
+perspective for anyone in the audience of course make sure to hit anyone up here that if you want to learn more
+50:33
+about how you guys could work with each of these uh platforms. But as we really the goal of the webinar here everyone
+50:38
+was to kind of break down different ideas of of how uh different use cases may need different uh providers and and
+50:44
+and and whatnot and the ways that securityize that figure that token and others like them are approaching
+50:50
+tokenization. Um kind of like the the pros and cons if you will and the trade-offs here. Uh I want to end it
+50:56
+with uh scalability here. Um I think tokenization for sure is is coming strong. uh no one's asking if it's
+51:02
+coming if it's coming anymore like it's here now it's again the how the importance and the maturity of the
+51:07
+infrastructure and the technology um that's every platform handles things
+51:13
+differently uh but how would you guys talk about two infrastructure later becoming more critical which is like
+51:19
+pricing data and standardized risk assessment you know should price feeds and risk ratings converge on shared
+51:24
+industry standards or just do you think tokenization needs fundamentally like a completely new model.
+51:31
+I can start. Um I think it's similar uh because if I
+51:37
+mean an asset that you tokenize is still the same asset just in another format but it's still the same asset. Uh so for
+51:43
+example for the valuation of your asset h it's not because you put it on chain that suddenly u you need new sources of
+51:52
+of data you still have a valuation agent. Um, however, what would be quite
+51:57
+beneficial in my opinion is to standardize a bit the way we uh we input
+52:03
+all of this data on chain and link it to to the tokens. Uh there are many different ways to to do that. Um we've
+52:10
+seen a lot of things coming from the crypto world but also from from um
+52:16
+Trafi. For example, BNY has done something like this in in RC643. You get
+52:22
+an asset ID where you can attest information, sign the NAV, sign some ratings. So you can authorize any type
+52:29
+of auditor to to attest data. And thanks to this um it becomes programmable. So
+52:36
+you can perform operations based on this data. For example, you want a proof of
+52:41
+reserve. You cannot mint more tokens than what your asset ID is saying as a
+52:47
+reserve. So we we we need to standardize a bit more because for the moment everybody is doing it its own way but
+52:54
+but I think we we already have um great players pricing oracles uh and writing
+53:00
+agencies who can do the job properly. Um I'm very happy to see newcomers as well.
+53:06
+For example, um players rating this assets and taking into account the
+53:12
+blockchain dimension or is it tokenized? Is it really secure?
+53:17
+Do you have the proper functions in the smart contracts to guarantee ownership etc. So that's new um new skills for for
+53:25
+for create agency for writing agencies. Um so so I think it's good to see all of
+53:30
+this but uh it's still very early but we don't have enough tokenized assets to
+53:37
+have enough token any uh uh enough standardization for this but I think
+53:42
+it's it's coming. Yeah, I think uh look I agree with you.
+53:48
+Um, I think I'm absolutely for standardization here and I I want to touch on something actually Jason you
+53:54
+mentioned a bit ago uh regarding wrapped assets and how inherently wrapped assets
+54:00
+actually uh destroy any sort of semblance of of standardization
+54:06
+um and and really hurt the the user experience. I think you did mention that to an extent wrapped assets are what
+54:14
+crypto users today are accustomed to in terms of onboarding, but when you have a
+54:19
+hundred different um Tesla stocks floating around, how could you ever
+54:25
+possibly standardize the risk for all of the like it just doesn't make any sense and it it fragments liquidity and it
+54:32
+ultimately causes users to uh to have to do a lot more research to figure out what they're actually purchasing. And
+54:37
+so, um, I think in line with that, I like you, like Luke said, I I completely agree. I think, um, as more
+54:44
+institutional capital moves on chain, uh, it's going to require us to figure
+54:50
+out how to standardize the ratings for these these types of assets. And, um, it's another uh, another great bull case
+54:58
+for uh, native issuer-led tokenization.
+55:03
+Yeah. So at figure we have a saying of you know replacing trust with truth. Um,
+55:10
+and I think a lot of the points that we're talking well the first anytime a human is involved right I don't know
+55:16
+that like enforcing standardization is like a real is a real ask um and there's
+55:23
+there's human error and I think um in from a technology perspective like we've
+55:28
+seen what has happened in DeFi and the evolution and maturation and lessons learned and like competition there was
+55:34
+something that was needed to happen otherwise everyone everyone would have been hap act in in sort of you know one
+55:41
+fell swoop. Um I think that the tension sort of stems from the fact that um I
+55:46
+think it's twofold. One is fiat cash does not move on the same rails as
+55:53
+any of the assets that you know the the the three of our firms are are tokenizing right and and that I don't
+55:58
+know is going to go away. Um we can approximate it with with stable coins
+56:03
+and genius and and securities. Um, but I think the the second piece of it is also
+56:09
+the fact that a lot of these RWAs and tokenized assets have a meaningful component that lives offchain. Um, and
+56:16
+again, you can't you can't really enforce that entirely with a Tradfi off-chain system that's going to require
+56:23
+some type of human human involvement. Um, so I think um we we'll we'll we will
+56:29
+eventually solve it. I don't think that there is a standard is a standard right now that is worth you know forcing
+56:35
+everyone to to adapt. I think it's going to be competition and I think it'll also be the na natural evolution of more
+56:42
+assets not not having their primary instance live um offchain. Um but again
+56:49
+I I said this earlier I think the partnerships that you can form across um use cases and platforms and customer
+56:56
+bases like I think those are going to be the the important wins in the the shorter term um because you'll have sort
+57:02
+of trusted standards amongst them and then everyone likes competition and um you know I think uh we'll all learn from
+57:09
+each other. Great great takes guys. I mean from our side look we are we do do ratings
+57:15
+through Cordura uh which a lot of it is yes the the asset itself right and then
+57:20
+you have markets and then you have vaults you know the three layers to them right and we do our best to try to map them back to your traditional A3D
+57:27
+ratings here um so you have some level of resemblance of of familarity there uh
+57:33
+but at the end of the day they are there are new things to take into consideration new risks we plug in directly so these ratings update every
+57:40
+24 hours uh which something to be said about just having a little bit more close to real time uh
+57:46
+visibility. But again, you know, to your guys' points, you know, there's there's new methodologies that need to be
+57:51
+evolved as new asset classes come on board, as there's new uh ways that these assets are represented on chain or are
+57:58
+the assets on chain, right? Um so, so a lot of food for thought for everyone there, but we are coming up on time. So,
+58:04
+I want to thank all of the three of you for joining us and obviously all our listeners here, anyone listening, of
+58:09
+course, if you guys uh want to work with Reed, Luke or Graham, feel free to hit them up. I'm sure they're available. We
+58:14
+love to uh work with other institutions. And if you are think that someone else should be listening to this, you know,
+58:20
+obviously, please send that over to them. Uh for anyone that did not read the report, it is available at blog.redstone.inance.
+58:27
+And last uh we are hosting the tokenized this conference June 23rd through the 25th in
+58:33
+New York City uh which is three days of pure tokenization and institutional use cases really getting into the into the
+58:39
+weeds uh kind of like we did on this webinar here on multiply that by three days. So hope you can join us at
+58:46
+tokenize this. Gentlemen, thank you for joining us here and with that we'll sign off.
+58:51
+Thanks for hosting. Thanks guys. Thank you everyone. Thank you.
+

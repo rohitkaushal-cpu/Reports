@@ -1,0 +1,1054 @@
+In this video
+
+
+
+Chapters
+
+Transcript
+Search in video
+Cold Open & Studio Intro
+0:00
+Do you think there's a shot that one of the current traditional financial players will like properly venture into
+0:05
+this? We talked about JPMC already and properly venture to into this and then kind of give all these new up andcoming
+0:10
+players a run for their money. What are the chances of that? I think every time we've thought that the empire won't strike back, it does
+0:17
+figure out a way to strike back in a different format, different fashion. I think the probability is pretty high that one of the big global players with
+0:25
+true global vision, yeah, will take a shot at it. Whether they succeed or not is going to come down to
+0:30
+whether they change the operating models and the way they operate today. [Music]
+0:38
+Hello and welcome to the 6040 podcast. The only podcast that deep dives Asia's tech and business headlines with the
+0:44
+leaders actually driving the change. My name is Maria. I'm here with my co-host Peter and Pashant and Miracle of
+0:49
+Miracles. We are all here in studio. Unbelievable. A full studio session. I know. You know, it's F1. When was the
+0:54
+last time? It's definitely F1 week in Singapore. Last time we were all here together. F1 last year. I don't know yet,
+1:01
+dude. It's easily been like three, four months. Four. Yeah. Three or four months. It's been a long time. Long time.
+1:06
+I get to see you all together. It's pouring today. It is pouring today because Singapore is cloud seating. I totally agree with that.
+1:12
+Yes. I I'm I'm I buy into the cloud seating. Uh Singapore managed the weather during F1 week.
+1:17
+Definitely. Joining us today is Melind Sanavi, the co-founder of XWeave, a startup that is building the pipes for
+1:22
+the next generation of stable coin infrastructure. They've just raised a seed round backed by Jungle Ventures, Light Shift, and Minala. All on the
+1:29
+promise of shaking up the $30 trillion crossber payments uh market. Melind, welcome to 6040.
+1:34
+Thanks a lot. Thanks for having me around. Looking forward. And we should correct it. We It's not Mala anymore. It's called Liinal. Liinal. Oh, it is called Liinal.
+1:40
+The artist is formerly known as Minala. Yes, you're right. You're right. The goal of having Melind on today's
+1:46
+podcast is to really be able to deep dive stable coins. We've talked about a few different times. I think the technology is obviously super new, super
+1:53
+interesting, and not that well understood. And so, we're using this as a crash course 101 uh session for
+1:59
+ourselves. I look forward to learning. Yes, exactly. But before we get there, we want to quickly run through some
+Headlines: OpenAI, Agentic E-Commerce & the Buy Button
+2:05
+headlines that kind of piqu interest within our group chat and also related to the later stable coins discussion. So
+2:10
+this week, Open AI rolled out something new, a direct buy link inside of Chad GPT. Um they're starting first with Etsy
+2:17
+and I think they said they're going to roll it out to Shopify later this month. And so the question is, is this the
+2:22
+finally the first step towards enent ecommerce? Um and where AI is obviously
+2:28
+not just recommending products, you're doing it. And then like what else should we expect to see from here? Look, I think we talked about this a few times
+2:33
+and we said at some point we will see Open AI go up the stack into the application layers and this is a very
+2:39
+profound one. In fact, I think we discussed this a few weeks ago which is why I was you know very curious to see this come up so quickly. I think
+2:45
+I think we nailed it. We nailed it. I think we pretty much said we pretty much we will have a time where research will
+2:51
+be done in an AI LLM context. Uh the recommendations will then be compiled
+2:57
+into a table and all that will be missing would be a buy button. And here we are, right? We have a buy button. And
+3:02
+I think what was more profound is that they also came out with this new protocol ACP which is agent commerce
+3:08
+protocol which allows uh small brands whether they be D2C brands or Shopify you know storefronts to actually now
+3:16
+effectively open up their inventory their products onto the agents from Chad
+3:21
+GPT. So I think it's quite profound. I think the discovery uh has fundamentally changed as we see the search volume on
+3:27
+Google and the click volume on Google come down and the context inside of
+3:32
+these LLMs go up. I think you know you we'll start seeing more and more discovery here. So I could actually go
+3:38
+to CHP very soon and say hey find me pair of shoes that are on sale under
+3:44
+$100, right? So and it would find me those shoes and then I could say show me this in black. Right? So, I could
+3:50
+actually have an interactive shopping carousel. Um, and then I could have it even kind of, you know, recommend and
+3:57
+personalize a lot better because it has memory. And then finally, I just get to click and buy. And I could even say,
+4:03
+okay, well, wait till this thing shows up on sale and then go buy it, right?
+4:08
+So, I think we're heading in a beautiful direction now. But there's there are profound effects, right? If you're a Walmart or if you're Amazon or if you're
+4:14
+some of these uh big box retailers, you're now saying, "Man, I acquired all these customers, but my customers
+4:20
+historically came to me through Google or Yahoo and now those customers are on
+4:26
+OpenAI. Do I open up to OpenAI and kind of have it become the connector or
+4:32
+do I try to keep my customers on my side?" I think that's going to be interesting to watch. Yeah, I like the business angle of this.
+4:37
+Um, I also pair this launch with just a few weeks ago, Open AAI updated their
+4:43
+long-term cash firm forecast. They had previously said they were going to burn $35 billion until the year 2029.
+4:50
+They modestly increased that cash burn up $80 billion. They now say they're
+4:56
+going to burn $115 billion in the next three or four years.
+5:01
+Pay for that Oracle. The pressure they got to pay for the Oracle deal. Clearly the the pressure to
+5:07
+monetize is going to start to build quite rapidly and the two most obvious
+5:13
+places to go are advertising and commerce, right? Those are the two most obvious and voila. So those two things
+5:19
+are not coincidental. Have you all tried it? Cuz I I got on Chat GPT and it it is only available to
+5:24
+us uh shoppers right now. But I just wanted to see and so I was like go to Etsy, find me some gold rings or
+5:30
+whatever. And then but the thing that I realized I think it's gonna put pressure on the chat function because you don't
+5:35
+shop via words right like all e-commerce sites are beautifully displayed photos.
+5:41
+Yeah. And so even if it's going ahead and fishing out that information for you in the table I do think like I actually
+5:46
+think the UI of Chat GPD over time will start to shift to actually be able to accommodate for but it already does that
+5:51
+like if you if you say hey show me the stock and show me the performance of the stock over the last you know 6 months it
+5:57
+actually actually has a chart right? Yeah. But I will show you their search their shopping search results. I think yeah girls the no girl shopping
+6:03
+like that. So I I think they will probably bring it. Yeah. Maybe I don't get what it looks like. Right.
+6:08
+It's like but yeah look I think they'll come up with a carousel at some point. Yeah. It'll get better. Yeah. But actually the interesting part is if you
+6:15
+look at our part of the world there's a ton of conversational commerce already happening right on WhatsApp and messengers on Tik Tok all of that. So it
+6:23
+is going to be interesting how it works in different parts of the world.
+6:30
+I know what it's discovery.
+6:36
+Yeah. chat GPT or OpenAI going from 35 to 80 to 100 in terms of a burn that's
+6:43
+all fine but I think the they will steal a lot of business share from commerce
+6:49
+from hotel sites from compared to I think I think as a as a end user it's
+6:54
+going to be exciting because they're just going to come out with so many new products and experiences to drive
+7:00
+monetization and it will it will be things like you've never seen right you know just a completely different experience
+7:06
+experience and it's going to be very exciting as a user. Do you guys feel like people are going to start shutting down their websites
+7:12
+and their back order systems to find out even so today for example you can go on GP and say find me that black shoe in
+7:18
+Singapore and give me a comparison on price that's because they can access it but you think that that merchants will
+7:25
+stop shutting it down to own the traffic. I I think if uh you know typically you you see merchants opening
+7:33
+up where traffic already is right so if large amount of commerce related traffic
+7:40
+is on chat GPT then I think they will be compelled in some ways to this it's a this is classic prisoners dilemma right
+7:47
+it it'll be very interesting I think it just extends the I think on this issue it just extends the trend and
+7:52
+put it on steroid that ultimately in the end if you're a if you're a manufacturer something to the end consumer.
+8:00
+Value is acrewing more and more and more to the brand. Yes. Right. And the thing is commoditized,
+8:07
+right? So it is all about brand building and all about value accretion to the brand. Sonos.
+8:13
+Yeah. Over 20 years. The the hardware itself, although it was great speakers and great engineering and
+8:19
+stuff like that, but to be honest, a huge amount of the cache was the brand
+8:24
+as you know, actually the functionality was replicated many years ago until the
+8:29
+debacle over the last year. But the main thing about the debacle over the last year with Sonos was the destruction of
+8:35
+the brand. And so you will capture high margins in a very duse world.
+8:41
+Yeah. If you have brand. Yeah. So D2C easier then. Yeah. I mean you see you're buying cars now
+8:47
+directly from the brand, right? You buy Tesla from the brand. Exactly. So we never did that. We always went to a dealership. We had to test drive it. Uh
+8:54
+so the world is changing in that sense. So now you could actually go and comparison shop your car and buy it on
+8:59
+chat. The last thing I'll say on this is that I feel like brands are going to have to open up to these conversational
+9:05
+conversations. It's like it's like when you had a mom and pop shop inerson store
+9:11
+like physical retail store and you didn't want to go online because you wanted to preserve your in-person traffic and that was a terrible idea and
+9:16
+we saw ultimately everybody go to digital commerce because that's where the traffic ends up being and there's still that like very important
+9:23
+experience of having the inerson part. So I just think that no like I think maybe some people will try to close off
+9:28
+their their systems to it but it's just that's a futile Yeah. totally futile. Okay. Now
+9:34
+stable coins. Yes. stable. So, but it's good because obviously the other question is like as we move into a world of agent commerce,
+9:41
+how do we actually power and finance and build out those infrastructure rails? So, let's go to stable coins
+9:47
+specifically and maybe we can start with the foundational questions which is meind if you don't mind putting on your
+9:54
+professor hat for a second. Tell us what are stable coins? Um how do they work?
+Stablecoins 101: What They Are and Why They Matter
+9:59
+Like what's the technology powering them? And then what gets you so excited about about this technology? Yeah. I
+10:05
+mean, and are they indeed stable? Fair enough. To be very honest, in stable coins,
+10:10
+there's like multiple different things. There's something called algo stable coins and there are true stable coins. So, the way I think of a stable coin is
+10:16
+kind of fully programmable money um that is backed one to one or some amount of a
+10:22
+regulation that oversees what is out there. Uh and it it is actually completely movable on the chain. It is
+10:29
+superpowered in terms of what it can do. Um but what's also really cool about it in my perspective is that it's the
+10:36
+regulators actually approve it and so there is a way where you can come back and say look I have one of X stable I
+10:43
+want one of what is the backing uh currency behind it and that gets delivered to you you know in that
+10:49
+format. Uh I think what's what's really and and most of it is onetoone or like what's the yeah that I'm very interested
+10:55
+in like what does the backing mean? Um yeah that's like Pandora's box a little
+11:01
+bit but I think most of them based on the regulation that they sit in based on the markets that they sit in I would say
+11:07
+the majority of the ones that are being used today are onetoone backed u there are options like I said there are these
+11:12
+algo tables which are like much more complicated in terms of what they hold and how to redeem them but they're
+11:18
+probably on the edges of what is going to be I think the future in some format or the other. I mean, I've been in
+11:24
+payments a long time and every time we've thought of binary worlds or like, hey, this only this will exist and this
+11:30
+won't exist. Uh, I think we've always proven wrong, right? So, I think there's always going to be different varieties
+11:36
+and kind of I would say spins angles on this whole stable coin concept. Uh, but
+11:41
+I think at the core core basic of it is look, it's fully programmable. You can do different things with it. Uh, it's
+11:48
+allowed by certain jurisdictions. More and more jurisdictions allow it. Um, and
+11:54
+one version of the future will exist powered by stable coins. For sure. For our viewers, just explain what do
+11:59
+you mean by it's fully programmable. When something's on the chain, there are things that can be in a very simplistic
+12:07
+world, you can add things onto it like provenance, proof, or whatever you want to call it, you can attach it to that
+12:13
+coin. So, for example, when I send you something, I can say, "Hey, I'm paying you for this." and potentially put the
+12:20
+receipt or even the rewards or the warranty or something like that behind it. Now, there's very few people doing
+12:26
+that and but that is a use case that can exist. Um there's also the ability to do
+12:31
+kind of all of the KYC and KY what you know know your customer what's the kind of is this clean or not is the customer
+12:37
+clean or not and attaching that onto it. And so that's why I think of it as it's a bunch of code that has the ability to
+12:43
+be superpowered and add a lot of things onto it. It adds a different level of complexity. But I think the way I think
+12:51
+of the entire stable coin world right now is it's an ecosystem that's just starting out. If we step away from our
+12:58
+LinkedIn where like stable coin all over the place. Um the the reality is sorry
+13:03
+I think that's just your LinkedIn. That's not my LinkedIn. Like
+Programmability, Regulation & The “Clean Money” Future
+13:08
+I just got Nike. Um but I think it's an ecosystem that's
+13:14
+being built in real time. I think there's use cases being built in real time. Uh but we think of it as very very
+13:20
+early uh primarily because of the use cases that are sitting on right now. Okay. So stable coins is a form of
+13:25
+digital currency regulated and all stable coins are are uh tagged to some
+13:31
+fiat currency, right? So like most of them not necessarily most of them are tagged to USD. No, not necessarily. So you could
+13:37
+actually like like he was saying I think you could my understanding correct me if I'm wrong here. Yes. Most commonly it's
+13:45
+pegged to a US dollar. So someone takes a US dollar from you and gives you one US dollar
+13:50
+stable coin XUSD, right? But the other way to do it is I could also create a basket of cryptos
+13:56
+and I could take a value of those cryptos and I could issue against those, right? And typically you would
+14:02
+overcolateralize that. So you would say because the cryptos are so volatile in their price, I would take $155 or $180
+14:10
+worth of cryptos like it could be Ethereum, it could be a bunch of coins uh in there in that basket and then I
+14:16
+would give you one US dollar equivalent, right? Because in case there's some fluctuation, I still
+14:21
+I'm going to be overizing. You're kind of almost hedging through the basket. Basket. Exactly. The reason that exists
+14:27
+in the past here 24 is there weren't many choices for stable
+14:33
+options. Correct. Now with the emergence of US dollar back stable coins, isn't that a more logic? Like isn't it just
+14:39
+easier and more it's more preferred? I would say it shortcuts everything. What would you say? Would you say it's
+14:44
+more preferred to have a dollar US dollar especially after the Genius Act? I'm sure we're going to touch on that. Yeah, I mean I I think with the way the
+14:51
+regulation is moving um you will see more and more of like what is one to one
+14:57
+back the problem that comes in when you're not one to one back there's a decent amount of upside potential that
+15:02
+you're sitting on in some sense but if you're looking for stability and usability and you know it's like wait
+15:07
+why do I know that one sing dollar note is worth one sing dollar is because I know what it's worth
+15:13
+um and and I think there is a beauty in that simplicity and I think that is what is going to drive more utility over
+15:20
+time. It also feels safer because then you're like in order for an XUSD or USD S sorry
+15:26
+SGDC or whatever it might be to be like there's a regulator behind it and and so
+15:31
+it feels like you know more stable than your typical crypto transaction.
+15:36
+Yeah. I mean I think it's a different angle to it. Uh I I I think the word more stable is always a bit dangerous,
+15:42
+right? When it comes to it's called stable coin like why like
+15:48
+what are you saying? What I what I was trying to say with that was basically it's not like an algo's table is not stable, right? It's
+15:55
+just it has different mechanisms that power it and therefore potentially different use cases.
+16:00
+I mean the US Fed runs on an ALGO effectively, right? Like it's not goldbacked. It's called Donald Trump.
+16:07
+No, but it's it is effectively an algo, right? Is looking at all these factors. So that's the ultimate stable US dollar,
+16:14
+right? So sorry. I'm also like the weird guy at the crypto conference that's saying, "Yeah, regulation is really good. Like we like
+16:20
+regulators. We want very clear regulation." Most of the time I'm almost thrown out of those conferences. Is that right? Even now like pretty
+16:27
+obvious that would help. There's very clear two there's still the religious left or whatever the left whatever
+16:35
+the token bros the token bros live on and I think there's a use case for the token bros too right for sure but I
+16:42
+think for the way if you look at long-term viability and about you know
+16:47
+how do you kind of create the commerce around it how do you create utility around it we think regulation is really good
+16:53
+right and at xweave like that's what we're focused on is we're only doing regulated businesses we're only working with regulated partners and you know
+17:00
+there's enough conversations and we were just having this earlier like are we pushing max depth and we're okay to not
+17:06
+push max depth because you know there's things still being figured out. Yeah. Okay. So stable coins uh supposedly
+17:12
+marry the efficiency of crypto with the stability of fiat. What are the use cases for that right now? If you look at somewhere
+17:19
+anything between 60 to 85% of the volume that's happening on stable coins is what's called exchanges paying liquidity
+17:25
+providers or it's kind of within that ecosystem. What's now starting to happen is you're starting to see remittance players
+17:32
+starting to use it. Lots of PR around it. You're starting to see a lot of treasury moves that are happening where I'm
+17:38
+moving money around countries in some cases you know between almost ledgers if
+17:43
+you want to call it that. uh and there's a very very strong use case for for stables that over there um and I think
+17:50
+that there's a version of stables that's just starting to emerge which is local um local stables.
+Real-World Use Cases: Remittances, Trade & Local Stables
+17:56
+Is the big near-term prize the international remittance market or is it more trade routes and manufacturers in
+18:04
+Bangladesh wanting more stable trading with their seller in America?
+18:09
+I think the answer is option E. all of the above. Um because
+18:14
+we're so early in this ecosystem journey where there's going to take different things and different like almost silly
+18:20
+putty on the wall to figure out what's going to stick. Uh and also this is now you're getting a generation of like boring guys like me
+18:26
+who've been in the web, you know, the old school payment side. And we're starting to marry the strengths of one and the strengths of
+18:32
+the other. And so you're going to see remittances move in different ways than they do today with, you know, real-time
+18:38
+settlement being literally intrinsic to it. So the most bullish case for stable coins is like literally reworking all
+18:45
+the financial rails of the world. Yeah, why not? I mean, I think if you're if you're if you're hanging out in
+18:50
+LATAM, I mean, we have this the curse of, you know, or the advantage of being in Singapore, right? So we don't think
+18:55
+about these problems. We're also holding a currency that's very stable relatively, but if you're in Latan or
+19:02
+Yeah. or if you're in in Africa, your currency is deflating 100% month on
+19:07
+month, right? So, you're you're going to want to get out of that currency. Historically, you've had to kind of find
+19:12
+a bass player in some remote part of the world who would onboard you and you don't really know if you have that money
+19:19
+or if the bass player is regulated or compliant. Now, actually, you get to have an onchain play. So I if I'm
+19:25
+sitting in uh Turkey or if I'm sitting in Africa, the first thing I'm doing is I'm taking my uh my currency, home
+19:32
+currency, converting it onto US dollar stable. Yeah. And then whoever will accept it, you
+19:38
+have my business. Just building on that, you know, we operate a business in Bangladesh and what Bangladesh has been
+19:45
+through with the political turmoil over the last year, their currency's gone like this. And there was a time where
+19:51
+the Bangladeshi central bank put capital controls. Yeah. Money couldn't leave the
+19:56
+country. Yeah. And trade got frozen. Yeah. And there was no other way to get money
+20:01
+in or out. And so stable coins provides a solution for when countries go through those periods.
+20:07
+What's also really interesting is as you think of kind of what what historically
+20:13
+up till now crypto and stable and all of that stuff has been you needed to be technologically advanced, right? you
+20:18
+need to understand a cold wallet, a hard wallet, like all of that stuff. We're saying look, like you don't need to worry about it. We're going to
+20:23
+abstract it out and we're going to put real utility behind it. And I think to your question, like it's really hard to
+20:29
+say like this is the winning thing. I mean, obviously from where I sit today, I think crossber or crossber commerce or
+20:35
+some amount of money movement is significantly more inefficient today if you're in non- US dollar moves. Uh and
+20:42
+so I think there's a like a sitting use case for that. But I think you're going to see a lot more utility where people
+20:48
+are paying merchants in stables already starting, right? Numbers are small, but they're growing pretty fast.
+20:54
+All right. Can you educate us on the different the key players in the overall stable coin value chain, right? Like you're talking about chains, regulators.
+21:02
+I mean, like obviously is is I provenence. Yeah, provenance. I know. I was like, "Let me explain to you a complicated
+21:08
+comp." I I think I said that so my mom would be proud that I I I knew the word
+21:14
+by throwing more big words at you. Okay. But but like I mean you're talking about chain. So it's like is are the best
+21:20
+decoins built on Ethereum, Salana or you know like what like yeah it's like so
+21:25
+who are the key like what are the key steps in the overall value chain and which one should we like really be paying attention to?
+Who’s Who: Inside the Stablecoin Value Chain
+21:31
+We don't know who's going to end up winning. Each one of them believes they will win. and they have a path to
+21:36
+victory and different scale and hard
+21:44
+look, you've got a stablecoin issuer, you got a network that runs on it, you've got processors that figure out
+21:50
+how to move it, you've got guys who give you wallets. Wait, wait, wait, wait. That's going really fast.
+21:56
+Yeah, we need a whiteboard. Yeah. So, you had the issuers. Yes. Right. Cuz I actually want to learn about a couple
+22:01
+of these steps, right? And then you said what? Then you have the guys who give you the wallets.
+22:06
+Then you have the network which is the Ethereums of the world. That's like the Visa Mastercard
+22:13
+analogous. Uh yeah, you can jump but they're still primarily W gardens in some senses.
+22:18
+Um sorry, I've just realized behind the issuer is one more thing. It's called a bank. Yeah, the regulator. Oh, the uh bank.
+22:26
+Isn't the bank is the issuer? So wouldn't like JP Morgan issue? JP Morgan does. It's called JPMCoin.
+22:32
+They do issue it. Oh my god, JPM got the Jamie diamond coin. Jamie coin.
+22:38
+But the point is like where does the how does the issuer let's actually back up, right? So how do I give you a stable?
+22:43
+You have to give me cash. You have to give me US dollar. I have to hold the dollar somewhere and against that US
+22:49
+dollar that I hold somewhere. I give you a currency, right? A digital currency.
+22:54
+Now that digital currency needs a rail to run on which is called the networks. Mhm. The rails need endpoints to kind of sit
+23:02
+somewhere and those are you know the wallets. Uh and then you need like there's a bunch of players like us who
+23:08
+are basically saying look how do we move it across different rails different wallets different markets all of that
+23:15
+right but if you look at the core ecosystem of this this is what it is it's the end pipes the pipes that run on it.
+23:22
+So the bank is JP Morgan by way of example. Yes, JP Morgan does issue as well.
+23:30
+Would somebody like Wise by be the wallet? Would that would that would that be an example? No, the wallet that we're talking about
+23:36
+here is a crypto wallet or it's a I would say an exchange or a wallet. Um
+23:41
+so like crypto do wait an exchange crypto.com crypto.com wallets. Got it. And the network would be like
+23:49
+the chain itself. Yeah. Yeah. Yeah. Yeah. Okay. The chain is actually where all the power actually
+23:55
+sits from a programmability blockchain perspective. The chain that can hold the warranty what you were talking about
+24:00
+earlier. The chain also basically decides the cost of what it costs to move that thing and to build utility around it and to
+24:06
+build incentives around it. Uh the issuers are right now in the the
+24:12
+target zone just because of you know obviously circle's gone public at a beautiful valuation and a beautiful bump
+24:18
+in the stock. There's also genius which is going to now make a lot of these stable coins actually count as good as
+24:24
+cash. Yeah. If that happens, I can now hold stable coins on my treasury and from a
+24:30
+liquidity perspective, it's not considered an a high-risisk instrument. Mhm. This ecosystem is still being worked on.
+24:37
+Yeah. Um and players keep coming in and out of it. So, I mean like the the chains themselves are reasonably well
+24:45
+established at this point, but I guess there's there's always there's more chains always coming. Exactly right. Wallets I feel like probably a a
+24:52
+relatively I mean again a crowded market but still a lot of room to play in especially as you're getting move as um
+24:57
+companies and it goes into more of a B2B use case probably. Yeah. More issuers around the world. There's going to be more issuers
+25:03
+and but the banks are the banks. Yeah. I mean I think there's a holder of value like I I I don't maybe banks is
+25:08
+banks is where it is today but like who's going to someone the custody of the fiat. Yeah. In the US you don't always have to
+25:15
+custody with a bank, right? You can custody with a a velocity would be a custody. Yeah. Uh okay.
+25:21
+So, so where do you see the biggest white space? So, I think there's a lot of play on the issuers still coming, right? If you look
+25:27
+at most stable coins today, they're still US dollar backed. In reality, the market is run by two big stables.
+25:34
+If you think of a world today where why do I why do we have a Sing dollar? Why do we have an Indian rupee? Why do we
+25:40
+have a Hong Kong dollar? Whatever it is, why does the world only need US dollar stables?
+25:45
+Right? If I say that at the same time that I have a bank account, a wallet, a card, whatever you want to call it,
+25:52
+there should be a currency that is digital friendly that exists in all markets. uh the the question I think to
+26:00
+your which is a white space is which regulator will actually set a very clean
+26:05
+set of rules to build in that space and not maybe to a certain extent not restricted just to a sandbox but say
+26:12
+look let's go like build realtime use cases around this and what we're finding as XV is like the system works today
+26:19
+it's just inefficient it can be significantly more efficient but why do I need the third US dollar
+The White Space: New Issuers, Local Currencies & Rules
+26:24
+stable coin issuer there's different advantages I I think what you're going to see is these
+26:29
+different stable coins or the next gen of stable coins that will come will have to bring something additional. Yeah.
+26:37
+Like a differentiator on top of like where US dollar stable coin, right? I think yield is a great example.
+26:42
+Okay. So some some like user perks basically. So you start differentiating based off on like features
+26:48
+on the features of the of the blockchain. Yeah. Like at the core it's it's a US dollar.
+26:54
+And is it the issuer that designs the blockchain specs? Who designs the
+27:00
+blockchain specs? The network does. The network does. Every time your card is accepted,
+27:07
+uh there's there's value exchanged and you're charging someone for it. So, I'm sure Circle doesn't just want to
+27:14
+take your cash and give a bunch of stable coins out, right? And that's a great business, but they want that that
+27:20
+Circle USDC to go around. And the more it goes around, the better for that
+27:25
+ecosystem. And so they'll incent the behavior to have you spend it or burn it
+27:31
+uh and me accept it. So they want more acceptance of USDC, I presume. And they want more,
+27:37
+you know, issuance of USDC where people that's how the ecosystem thrives. We were at PayPal together. This is it.
+27:43
+Like you basically want the network to be alive. I think it's more than the word acceptance. It's utility.
+27:49
+Right. What are all the different utilitarian use cases of my spend of my asset, right? Either where you spend the
+27:56
+money, how does it reach the other place, like is it better, is it faster, is it cheaper, like all of those things.
+28:01
+In the old days, a lot of the stable coin economics which was really helping it was the yield and you got higher
+28:06
+percentages for holding it. But the reality is, and I think this is where XV really starts to get exciting, right, is
+28:12
+we're saying we don't know who's going to win. We don't know this race or whatever you want to call
+28:19
+it.
+28:25
+Um in terms of utility that is there. Can you describe for someone who doesn't
+28:31
+know a lot about um stable coins or anything we've just been discussing say
+28:37
+like me what XWeave is actually doing. I think the way we look at it is money moves today through a remittance player,
+XWeave.io: Building the Pipes for Digital Money
+28:44
+through a treasury, through a bank, through whoever it is. It moves using a certain system that was built a decent
+28:50
+amount of time ago. Uh and what we believe is there is a next set of let's call it protocols,
+28:56
+right? because we used that term uh earlier as well where you can actually take money,
+29:01
+digitize it, send it across borders and show up instantly or near instantly
+29:09
+at costs over time that will be cheaper or at least comparable at best and have
+29:16
+complete regulatory clarity. That is what XWeep does. So what we do is we go to somebody today who's moving
+29:23
+money using player X like a large remittance company global remittance company what
+29:28
+they do is they make you hold a certain amount of money with them as security. What we're saying is look if I take fiat
+29:35
+from you in one market we work with a regulated exchange in that market. We
+29:40
+convert it into a digital currency. We throw the currency over to the receiving
+29:46
+market and the receiving market takes that currency and turns it back into fiat instantly
+29:52
+and then delivers it to the last mile. And so what we're doing is we're stitching a network or like kind of
+29:58
+connective tissue to move that money. Most people will say, "Oh no, this uh sorry, this issuer is the best or this
+30:05
+network is the best or uh this wallet is the best." What we're saying at Xviv is
+30:11
+you don't have to worry about it. We abstract it out for you. We've run we run in what's called an optimizer and we
+30:17
+say this optimizer figures out what's the cheapest best way to land the money. Okay.
+30:22
+Feels like you're making the the B2B transactions easier. We are. Um so we work only with
+30:29
+businesses. They may have a consumer behind them. They may have a business behind them. What we do is we help them
+30:34
+create a wallet with our exchanges that we work with. So it's their money, their wallet.
+30:39
+They're on your network and we are a set of APIs. That's why I call us connective tissue because
+30:45
+so you least cost routing is what you're trying to do. Absolutely. Yeah. So if you're growing your business,
+30:50
+you're basically systematically going and creating more nodes on your network. So you you got Singapore dollar, you got
+30:58
+someone in Philippines, then you go get someone in Indonesia, then you'll go get someone in Australia. So and the more
+31:03
+nodes you have, then the more end to end combos you can you can enable. And then on each node you will have multiple
+31:10
+providers in a grown-up state. And so if a provider in that second is
+31:15
+not you know performing as well as it should we can switch you realistically
+31:20
+to the next one. But how do you make sure so like okay so I'm a let's let's assume I'm a exchange
+31:26
+in Philippines right and I'm happy to issue the Philippine Filipino peso but
+31:32
+how do you convince me to accept Sing dollar? I think the reality is what if
+31:38
+you get people who are actually wanting to move on a specific asset, right? Like when you went from big rocks to small
+31:44
+rocks as as currency formats, what happened is people wanted to move those small rocks around and the big rocks
+31:49
+couldn't move. And so the reason the other guys were forced to expect accept the small rocks is because they said, "Oh, somebody's actually going to give
+31:56
+me a small rock." It's about can you make this cheaper than what you do today. So to your use case that you were
+32:03
+asking about is today the way we do it is we go through USDC right when you have your local stable if you can create
+32:11
+and look some of it this is still early and it has to play out but you have to go to them and say hey look like I've
+32:16
+got 100 million of volume that comes every year on this local stable will you clear it for me and there's an entire network
+32:23
+of like liquidity providers and stuff which we didn't draw up here because it gets super complicated but the point is there are market makers and liquidity
+32:30
+providers that sit up there whose entire job is to make sure that every transaction works and you can actually
+32:36
+go sell your asset and get fiat in in return. If you can't create a Naira to pesos,
+32:43
+what you would do is you go Naira USDC USDC pesos and that is going to be a
+32:48
+little bit more expensive, but it's possible because you can always do the
+32:54
+two hop and on all part all parties will accept that. See, wait, why wouldn't you just go US dollar? But if your expenses on the
+33:01
+Filipino side are in Filipino pesos, you will effectively want the last mine
+33:07
+currency cuz you're paying your people not in US dollar. You're paying your people maybe in pesos. So that's where you have to
+33:14
+convert. But yeah, you're right. You could you could always hedge and you can always The more interesting thing is longer term.
+The Genius Act: America’s Digital Dollar Power Play
+33:20
+Do you start paying your people in stable coins and let them figure it out?
+33:25
+This is this is what the this is the genius act you're going into, right? This is basically saying if everyone now
+33:31
+can just trade in US dollar does the demand for US dollar go up and hence does that effectively put the US back in
+33:37
+a very dominant position right so good thanks thanks for making that point here
+33:42
+yeah great segue thank you okay so let let's talk about the Genius Act um and this is exactly well yeah
+33:50
+this is exactly what we came to realize after our last conversation because at the end of the day money is power right
+33:56
+and so what the Genius Act does is It obviously regulates um US stables and we
+34:02
+it obviously is a way to kind of maintain US currency uh dominance on a global level. And so I think the
+34:08
+questions on this one a was this the explicit one of the explicit intentions of the Genius Act to begin with? Um two
+34:14
+and do other currencies have a shot of of kind of like challenging the US tables? Two different answers on that one. One
+34:20
+is we don't know. Uh but I actually think that people will take a shot at
+34:25
+it. Uh and I I it may not be you won't have like whatever 90 stables that are
+34:31
+winning. I think you're going to have a basket of four or five euro. I think it's going to be trade
+34:36
+driven right if I'm if I'm a large exporter a large importer it actually again I it doesn't make sense over time
+34:46
+if you think of the ecosystem why do we have any other currencies right whether it's for domestic payments even for
+34:52
+crossber payments right like UPI works over here with pay now to a certain extent some of that is still going to exist and
+34:58
+there are ways to do it much more efficiently um using programmable currencies or blockchain based
+35:04
+yeah the question isn't monopoly. The question is, is the Genius Act positioning the US dollar to extend its
+35:11
+dominance, the dominance that it has today? Yes. Cuz here too, for if you'd have say this this question a year ago, there were
+35:18
+lots of questions about whether the US dollar was was actually going to be the fiat currency for the world.
+35:24
+Yeah. Well, I mean, I think it's you have local currencies because when you go to a certain country, you can only
+35:29
+spend that local currency. But the whole point about stable coins is that and especially as they become w more widely accepted is that you may not have like
+35:37
+like you may not need local currency. You can just go for these stables that are universally accepted.
+35:43
+I think for our listeners can you describe the genius act? So like we kind of blown through it, right?
+35:48
+I think this was um US's attempt to bring back a little bit of control and I
+35:54
+think their view was and I could be wrong now that it's been a few months um if you issue US dollar stable coins to
+36:02
+Americans you can still issue US dollar stable coins outside the US but if you
+36:07
+if it touches Americans then you must be registered and regulated in the United States right and effectively what
+36:14
+they're saying is it it can be backed by cash procashlike instruments. If you're issuing US dollar stable coins and it
+36:21
+touches Americans, uh you're going to back it by US dollar uh which will be held in one of the US banks or the US
+36:29
+Treasury. So that actually is a great way to again export US dollar dominance
+36:36
+in the digital world. And I think this is as we get more clarity on how it gets implemented. I think this is actually a
+36:42
+great step forward for the US. In addition to the to the administration itself, for the listeners out there,
+36:49
+most of the listeners across Asia listening to this podcast would know how fractious and how screwed up the US is
+36:55
+right now. There's about nothing that is bipartisan. That's right. This this law
+37:00
+passed with bipartisan solid support, both the House, the Senate. twothirds
+37:07
+majority. This thing was was popular was very was one of the few things that
+37:12
+America has just kind of gotten behind and that's says a lot that says a lot. It also like I think look
+37:19
+I took the position and this was my personal view and Alexi corrected me and I think we had a debate last time and
+37:24
+let's bring it back to our conversation. I said look effectively what you do is if you drive up the demand for US dollar
+37:32
+through USD currency now you can effectively you can go out and print
+37:37
+more um and you're actually effectively selling off more debt in the background
+37:42
+right um and so those are all second order effects of the Genius Act hence I thought it was genius in the first place
+37:49
+uh Alexi disagreed with me I I think we just kind of left it at at an open debate but yeah over to you man yeah I mean I think also the US Treasury
+37:55
+was already sitting on a bunch of crypto um from from stuff that had seized as well, right? Which is now
+38:01
+didn't know what to do with it. Bunch of others. Yeah. Yeah. Like is one of them. But but I also think that it's
+38:07
+a great way to say look the future's coming and we're going to lead from the front, right? Um now the question is
+38:13
+will the others follow or will they say oh we'll go back to a US dollar-based economy? I don't know, right? Like I I
+38:19
+think going back to your geopolitics, it's going to come down to how much do you weaponize the Genius Act?
+38:25
+And I put weaponize in quotes, right? Because it's going to be like, well, if you're if you're going to say like, oh
+38:30
+well, no, now I control whether you can buy US dollar stables if you're outside of the US, but you can, you know, is it
+38:37
+can you still buy it just like you can buy US treasuries? So, we're going to have to figure all of that out. A lot of
+38:43
+that book is still being written. Yeah, the regulations are still being written. But if we go down the the the the law, it it you know, as a layman,
+38:50
+when you kind of read the highlights, like the anti-mon anti-moneyaundering act still applies, KYC requirements,
+38:59
+like it's a proper regulation, right? It's they regulate it to make it safer, to
+39:04
+make it more accessible, to make it more like widely adopted, which is what government should do. And
+39:09
+it builds security of mind for a user as well. I think that's a really important thing. I
+39:16
+think you use the word legitimizes somewhere in there and if you legitimize something now you're like well the
+39:21
+adoption goes up and I and I think look the big kind of challenge in my head is like you have USDT
+39:28
+which is the tether and you have USDC right in terms of volume I would think
+39:33
+USDT kind of dominates just crushes but in terms of valuation if you look at
+39:39
+circle circle enjoys much better valuations maybe because it's onshore US
+39:47
+I think USDT or Tether is in Hong Kong. I think again like there's you know I think there's some favoring of
+39:53
+kind of a an environment which is regulated understood
+39:58
+um by Americans and so there's a reason why Tether's actually gone out and now launched USAT which is
+Asia’s Response: Singapore, Japan & the Philippines
+40:05
+a new coin launched by the same company but is going to be fully Genius Act compliant.
+40:10
+Got it. So it's a stable coin. Yep. It's another stable. Yep. Well, so they will put a entity in the
+40:15
+US and they'll get like they'll hold US treasury. Honestly, I don't know the specifics around it, but we know that it's going
+40:21
+to be G genius at compatible because I was speaking to somebody about it two days ago. You heard it here first, guys.
+40:29
+I'm curious to see the traffic, the volume between USDT and UST over time,
+40:35
+right? Because like why wouldn't you go for the safer one? Yeah. Okay. Okay. So then closer to home here in Asia, like which governments and
+40:40
+which uh regulators do you think are a little bit more forward thinking about this? I think you mentioned a little bit earlier at the top of the show about uh
+40:48
+you know obviously there's some stuff happening here in Singapore in Japan. So who in Asia is making a good play at
+40:54
+this? I think everybody's trying right the MAS is very forward. I think the BSP in the Philippines is very forward. Hong Kong
+41:00
+is also doing it. And I think their stables will come out in sometime in Jan
+41:05
+26. Japan's also very progressively looking fast. Um, everyone's working on it.
+41:11
+I think what you're going to see, right, is that I I actually think of Genius as a tailwind into a lot of the other
+41:17
+regulators saying, "Look, okay, maybe we don't need to be as anti as we were before. If a stable
+41:23
+concept exists and then is now considered legit, clean, all of that, it's very easy for me to then create the
+41:30
+rails and the boundaries, I would say, which is weird, right? Like if you really think of a lot of the stables
+41:36
+that exist today, they're still walled, right? Like I can't move between them. I have to literally sell one, go buy
+41:43
+something else and buy the other. And I think there's this entire breaking of the wall garden or like a a back door if
+41:49
+you want to call it that into each of these wall gardens. And I think the regulators are going to provide that kind of clarity around it.
+41:55
+Um which which will drive to your point again growth, comfort, all of that.
+42:00
+Okay. So then can we play hypotheticals for a moment which is if you look at both um the countries where the
+42:06
+regulators are actively working on it are a bit more pro-stable at least exploring it and then where the demand
+42:12
+will actually come from like where like which stables do you think would actually do well
+42:17
+so I think Prashant talked a little bit about this it's also about which stable that gets written or drawn or issued
+42:25
+that has funability into it right so for example like Japan Brazil is a monster
+42:30
+corridor been even when we were at PayPal like if the yen comes out and for some reason if the yen stable isn't
+42:36
+clearing into Brazil it's going to come down to what else are you going to build in how open your doors are going to be
+42:43
+and I think whoever builds open doors while controlling it in some sense so it's like I think of it as like how do
+42:49
+you ride a bike when you first put on the two wheels on the side and that's who's going to kind of loosen those wheels up and say look this
+42:55
+thing's riding now on it's like if you want the freedom of a car you better have road rules right because Everybody else wants the freedom
+43:01
+of the car as well and a driver's license. Yeah. But naturally like demand for like a I don't know what's a really small country
+43:09
+like you know like demand for like a local Guatemalan pesos table would be like relatively
+43:15
+low. Like that's probably not going to happen. Yeah. So let me give you a counterpoint though, right? Just to just to put it out there.
+43:21
+The amount of money that actually probably gets remitted back to Guatemala where Guatemalans need to pay for something might create a use case where
+43:28
+that country might need it. and do really well with having a digital USDC. I wonder if the if what ends up
+43:34
+happening is Guatemala's economy, we're picking on Guatemala. I'm sorry for Guatemala
+43:41
+out there. Yeah, it's a very good a very beautiful place I'm sure. Um to uh what
+43:47
+like in in subscale countries with high volatility, would the local economy
+43:52
+naturally start sprouting out stable coins on US dollar? like would it just naturally why would you pay to your
+43:58
+local back to the back to the t-shirt manufacturer in Bangladesh I'll just pay my workers in stable coin and then if
+44:04
+you're the worker I'd prefer stable coin because I can buy my bread in stable coin or I can then go because downstream
+44:12
+as long as the last person on that on that value chain can accept it you're good at any point if that person is not going
+44:19
+to accept it that's where you have to switch yeah and and by the way that that last mile acceptance is expensive like you
+44:24
+know I today grab just or yesterday grab announced something with OKX which is an exchange but I I'll just say one thing I don't
+44:31
+think it comes down to only subscale economies it actually comes down to how the currency behaves
+44:36
+which if I've got a deflationary currency and I've got costs where I'm eventually paying let's say like I'm forward paying a year out I'm going to
+44:43
+have to pay dollars to somebody I'm not going to move out of my currency right move out of a dollar or whatever
+44:49
+to your use case that you're talking about so I think it's a pretty complex system it's why do people hold different
+44:54
+effects, right? Some of it is it's proprietary or prop and I want to see the value go up, but some of it is
+45:00
+utility. I think that's what drives um this one point I know we're probably going to wrap pretty soon on this. So,
+45:06
+one point I think we're I want to tie this back to aentic commerce uh and agentic uh everything agentic, right?
+45:13
+Put a bow on it. Look, buckle up. So, I actually think we're missing the
+45:18
+point of what stables can do, right? So, so one of the things I've always kind of thought that the US dollar is quite
+45:23
+limiting even PayPal is that we have two decimal places, right? Like say you have 1.99,
+45:29
+right? And then that's it. But I think we're going to move into a world where more and more of these websites going to close off, right? Actually, they may not
+45:36
+close off if they have this, you know, their MCPs. What'll happen is if I am
+45:41
+OpenAI's crawler um and and I'm, you know, effectively looking for shoes that
+45:48
+Peter wants to buy, I'm going to try and negotiate with you, Mr. Walmart MCP. Um
+45:54
+and you will basically provide me a search result for 1,000th of a US dollar
+46:00
+or one 10,000th of a US dollar. That search result, right? Like on your inventory perhaps, right? um or your
+46:07
+airline or your you know your like Expedia and you're going to give me your travel deals for 1,000th. Now today, if
+46:14
+I want if I was an agent had to do this, I'd have to park a bunch of money, right? But now I can move 1,000th of a
+46:20
+stable coin or 1 millionth of a stable coin in for this particular transaction. And we could do very very fractionalized
+46:28
+agentto agent negotiations, right? Um and and better better FX rates
+46:34
+had much better FX rates and much better throughput guarantees no settlements no old cruddy bank rails because all those
+46:41
+things were built for XY y right or x do y z um
+46:48
+and so I think that's another dimension that's going to open up with infinitely divi divisible stable coins uh where
+46:56
+agents kind of go out and and I want the I want the cheapest shoes. Congratulations. I saved you 1 millionth
+47:02
+of a cent. No, but that's what it cost you to go to like and you could say, "Hey, this search, you're allowed to spend
+47:08
+Yeah. 10 cents." Yeah. And you're going to spend that 10 cents by going to a million sites and you give
+47:14
+them all a little tiny tiny amount and not park money in different sites. And I think like where where I agree
+47:20
+with you is all of these use cases are still being written. Yeah.
+47:25
+We don't know how where it's going to end up. like we'll figure out who does it better than everybody else and who
+47:30
+and and look the reality is everybody's learning from each other as well. All right, I've got two final questions.
+47:36
+Um, one is okay, we've established that stable coins could basically upend the
+47:41
+entire traditional financial system. Do you think there's a shot that one of the current traditional financial players
+47:47
+will like properly venture into this? We talked about JPMC already and properly venture to into this and then kind of
+47:52
+give all these new upand cominging players a run for their money. What are the chances of that? I think every time we've thought that
+Will the Empire Strike Back? Big Banks vs. Startups
+47:58
+the empire won't strike back, it does figure out a way to strike back in a different format, different fashion. I
+48:04
+think the probability is pretty high that one of the big global players with true global vision
+48:10
+will take a shot at it. Whether they succeed or not is going to come down to whether they change the operating models
+48:16
+and the way they operate today because everything is so ingrained in in the corporate culture and I mean, yes, we see that all the time. It's like it's
+48:22
+super easy to say there's a there's literally a million reasons to not do something like this. Yeah. Right. And you need somebody to champion
+48:28
+it, pull it through kind of like just drag it through the entire organization and the organizational economics, the
+48:35
+politics, all of that. And then at the same time, by the way, you got to keep adding value to your end customer.
+48:40
+Um, and I think that's what's hard at some of these large organizations. Yeah. For you personally, uh, you've
+48:47
+been, you know, in large corporates all your life. This is your first entrepreneurial journey if I'm not
+48:52
+mistaken. Uh it's my first founder journey. I've done a little bit more entrepreneurial stuff. Okay. All right. How's it been?
+48:58
+It's it's been a journey. I think it's it's uh that's safe to say. I think uh
+49:04
+everyday is learning. I I have good friends who've uh who push me over the edge in terms of taking the shot but
+49:09
+also support me through it. Everybody says this. In fact, one of my investors told me this the other day. It's a lonely journey. Find your friends, find
+49:16
+your kind of board of directors to help you through it. and super lucky to have a wife who's like, "Yeah, dude, like we're we're behind you. Go do it." Uh,
+Founder Reflections: The Lonely Road of Yeses and No’s
+49:23
+but it's interesting. I think for me, we had a concept around X-wave and when we came out of the MASX incubator, we we
+49:30
+were we we were actually the counter trend like last year when we were talking about stables and using this,
+49:36
+nobody was talking about it. There were like maybe four or five of us. And then, you know, a few big events happened and
+49:41
+now stable coin or death like as I like to call it, uh, has happened. And so it's been great to kind of bump into it,
+49:47
+but then also keep our head on straight. Like I said, my maybe it's my LinkedIn. Uh but it's it's fun. It's super hard
+49:52
+and super great like great team and um it's it's everyday every day you take a
+49:58
+couple of whacks but then you just bounce back and and keep building. What has been the most surprising thing in terms of being a founder
+50:03
+specifically? I think people tell you that it's a learning journey and you hear it but I
+50:08
+don't at least for my case you don't I didn't feel it. I was like yeah how hard can it be? like yeah I mean it'll be
+50:13
+hard like yeah the business will be hard we'll build the business but I think it's not just the business it's the for
+50:19
+me you know it took a little bit of getting used to is the number of people who tell you no uh the number of people who are like oh
+50:24
+dude you're you're not that smart uh or your idea is really stupid I don't know if you can see say that but uh but the
+50:31
+but the fact worse don't exactly so so I think like having like building
+50:37
+the harder outer shell to say like you just got to like keep pounding away at
+50:42
+It was surprisingly hard. Like I've done a bunch of other 0 to1 stuff and you keep fighting. Even in big
+50:48
+organizations, you fight for stuff, but in a startup like it's, you know, it's also like so much passion
+50:53
+driven and like you're literally figuring out new things every day and it's it's a lot of fun. I love it.
+50:59
+Awesome. A that's so great. Can you can you close us out, Peter? Would we do we want a poem?
+51:04
+Yeah, we want a poem. We want a poem. Let's do a poem about stable coins.
+The Stablecoin Poem (Yes, Really)
+51:10
+A little This is a little playful one. Nothing philosophical. Sure. There once was a coin called So Stable.
+51:17
+It danced on the digital table. It zipped round the globe in a dollar draped robe making greenbacks forever
+51:25
+more able. But
+51:30
+you can borrow that. You can put I'm gonna put it on t-shirt just says I want the dash. Peter
+51:36
+card just like Yeah. Poet, dreamer, podcaster,
+51:41
+stable coin vision, poet laurate of stable coin.
+51:48
+Meen, thank you so much. This was incredibly educational. I feel like I learned a lot. Lots to think about and
+51:54
+it's really exciting. I mean, it really feels like the entire world is kind of being rethought, re redeveloped right. Yeah,
+52:01
+it's super cool. Thanks for having me. I love the chat. Love the conversation. Absolutely. Okay, everyone. Thank you
+52:07
+for tuning in to this episode of the 6040 podcast. As always, you can drop any nominations for speakers or feedback
+52:14
+at 6040 podcast at techkenasia.com. And we will see you in two weeks time. Bye.
+52:21
+[Music]
+

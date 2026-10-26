@@ -1,0 +1,1277 @@
+Intro
+0:00
+We interface with financial institutions all over planet earth. We were early and aggressive. I I mentioned we just
+0:06
+started experimenting in blockchain. We began to understand that maybe there's a number of different blockchains that are
+0:12
+going to be winners here. Blockchains are technologies. They'll continue to iterate in the information-based
+0:17
+economy. We think of these as just utility rails. So, [music] we want to be on as many of those ecosystems as we can
+0:25
+because that's where we're going to find customers eventually.
+0:33
+This episode is brought to you by Treasure. Treasure makes beautifully crafted hardware wallets that allow you
+0:38
+to easily and safely store your crypto assets. Treasure has been in the game for a very long time. Since 2013, they
+0:45
+were the pioneers of hardware wallets and the seed phrase setup. And their hardware wallets are open-source. In
+0:52
+fact, my favorite is the Treasure Save 5. It's a beautifully designed and easy
+0:57
+to use hardware wallet, guys. And uh it's my go-to. And they support a variety of coins. All your top crypto
+1:03
+tokens, your bitcoins, your XRP, Ethereum, Salana, and much more. And even new coins, even Black Rockck's
+1:10
+Biddle token. So they support coins on the institutional side where you have tokenization of different assets and
+1:17
+much more. And they even offer a great service that helps you to get your treasure device set up. you get
+1:22
+one-on-one customer support from their team. So, you can check that out as well. So, once again, I'm a big fan of
+1:28
+this hardware wallet. So, if you'd like to learn more, visit the link in the description. Hey everyone, welcome into
+1:34
+the Thinking Crypto podcast. I'm your host, Tony Edward. And we are recording at Station 3 in New York's financial
+1:40
+district. And joining me today is Roger Baston, who is the head of digital assets at Franklin Templeton, which is
+1:45
+one of the largest investment firms in the world, managing over $1.6 trillion in assets. Roger, great to have you.
+1:53
+Yeah, thanks for having me. Roger, I'm excited for this conversation. Franklin Templeton is leading the charge in many different
+1:58
+ways as it relates to digital assets. So, I have lots of questions for you. Awesome. But I would love to start with your
+Roger's background
+2:05
+background. Tell us a bit about yourself. Where you from? Where'd you grow up? And how did you end up at Franklin Templeton? Wow. Well, um, yeah, I actually grew up
+2:11
+in in the Midwest, um, central Illinois, but I came kind of the East Coast to do my undergraduate work at the University
+2:17
+of Virginia. I came to Wall Street in New York uh in the mid80s, spent about
+2:23
+three years here, and I found myself heading to the West Coast to go to graduate business school at UCLA. Uh
+2:29
+once I got to uh UCLA in the wonderful California sunshine, um I was like,
+2:35
+well, this is going to be a good place to be. Uh ended up uh being hired uh out of business school at was in at what
+2:42
+then was known as Franklin Group of Funds. Wow. um in 1991 and I've actually
+2:47
+been at Franklin and then you know as as we've been a a net acquirer of asset
+2:53
+managers over time Franklin Templeton. Yeah. Since 1991. Who do you have on your show who's been at the same firm
+2:58
+that long? Nobody. That's an incredible tenure. Um so did you want to go into finance? You
+3:04
+know was that your target goal? So, I had some exposure when I was younger because my father was one of the first
+3:11
+persons who took the CFA exam. And that CFA exam program is a um kind
+3:17
+of a there is an organization CFA, but there's a lot of um professionals that
+3:23
+aid in like creating the exam and grading the exam and you know, they really draw on the whole community of of
+3:29
+CFA participants in order to be able to um make that whole thing work. B and HUM and this was many years ago now, but a
+3:35
+lot of those CFA people had investment, they were investment people, right, in the investment community. And so I had a
+3:41
+lot of exposure to a lot of different um investment professionals having been around that CFA institute um early in
+3:49
+my, you know, when I was, you know, in junior high and high school and those, you know, college formative years. And
+3:54
+so I had a pretty good idea that I wanted to be doing investment investment related things. And so when I went to
+4:00
+graduate when I came to New York, I actually was working for a company that was then called Bankers Trust Company uh
+4:07
+and uh we were you know in several locations in the city but I was I was in the index fund group. So like think
+4:14
+about the you know period of 1986 toward 1989 which is when I was there explosive
+4:20
+activity in the number of pension funds who were thinking about hey maybe I can
+4:25
+you know put some lowerc cost index fund passive investment strategies in our
+4:30
+portfolio at a lower cost rather than paying high-cost active management fees. So that's kind of where I cut my teeth.
+4:36
+Um and it's been a a great career. I've seen a lot of things over almost four decades of experience now in these
+4:41
+markets. Oh yeah, I'm sure you have a plethora of knowledge and I'm curious what your point of view is or take of or
+4:47
+perspective I should say on how the markets have changed especially as they become digitized and with the internet
+4:54
+and now blockchain. Well, I think in the in the big thematic
+4:59
+one is the fact that all of these technologies have continued to drive down the um pricing of asset management
+5:07
+services. I I think of the world in two camps. Those who have capital M and then those who want capital, so have
+5:14
+capital would be like big major retirement plans, pension plans and that kind of stuff. Those who want capital,
+5:20
+businesses, you know, who want that and anything else in between in the intermediary role in between that take
+5:26
+out rents between those two that that prevent the have capital for getting the most return on their capital and the
+5:34
+want capital to get the lowest cost of capital. Inside of all that are a number of different actors and what we've seen
+5:40
+is keep hollowing out of those actors and those rents in between. And I think you know where we've arrived now with
+5:46
+blockchain technology because a lot of those rents in between those two actors are really a a legacy of like
+5:54
+we have this record, you have that record, it's going to take us five days to settle a stock. I mean that's when I
+5:59
+first started, right? because we have to get these records moved back and forth and this whole distributed ledger
+6:04
+technology where you have a record, I have a record and it's the same record dramatically changes all of that. So,
+6:10
+I've seen that whole path, you know, um keep shrinking down and I think that's ultimately to the benefit again of the
+6:17
+the owners of capital to get higher returns on capital. I think there's a whole bunch of other things happening
+6:22
+with blockchain and distributed ledger technologies that expand the opportunity set uh for those u investors as well.
+6:29
+But those are some of the themes I think I could point to. So is it like a natural evolution of the technology that you know the macro
+6:36
+internet based companies the ability to move data real time uh settle real time
+6:42
+with now stable coins and tokenized assets. It's it's a natural evolution of how maybe things started in the 90s with
+6:49
+the internet. Well, I mean, you say it started with the internet, but I mean, all of these activities started a long long long time
+6:55
+ago, right? I mean, like one of the one of the basic um I guess laws, securities laws that
+7:01
+govern a lot of these things. Um like our projects like Benji, our tokenized money fund are called the 40 act.
+7:08
+They're called 40 act funds because the law was written in 1940. And
+7:14
+so, you know, how we did things in 1940, um, where we were passing paper
+7:19
+certificates around to each other and you needed to self-custody, you know, this particular asset by holding the
+7:25
+piece of paper and you had some sort of fire safe or or we started having these big custody um businesses who were like,
+7:31
+well, we'll take care of that for you so you don't have to worry about that. That is all just rapidly changing because of these technologies. And yes, it might
+7:38
+have been the internet and the networking of um you know businesses and
+7:43
+planets and entities all over planet earth. But it's arrived at a pretty exciting time. In those 40ome years that
+7:50
+I've described in my career, I've never seen more opportunities in asset management than I've you know ever. So
+7:57
+it's it's pretty exciting time to be able to be in the space and exploring quite frankly. Roger, there are still
+Why Blockchain & Tokenization
+8:04
+some skeptics out there who said, "Who needs this blockchain stuff? Why why does tokenization matter?" So, I'm
+8:09
+curious if you could answer that question from a perspective of what Franklin Templeton's building. Is this
+8:15
+an a test? Is this an R&D project or is this something you are looking to build that's going to be the fabric of of the
+8:22
+business? I think that's a really great question. Um because a lot of times when technologies come forward and we start
+8:29
+doing things and you know we've been aggressive in tokeniz exploring tokenization
+8:35
+um and we have a you know a a big branded you know product um that we're
+8:41
+really kind of talking to clients all over the globe and that's a a tokenized money fund. money funds are are
+8:48
+securities and we still operate within the kind of geographic borders of various securities laws all over planet
+8:54
+earth. We have a number of different Benji. We have a US Benji, we have a CCA USITS eligible Benji, we have a
+9:00
+Singapore Benji. You know we have a number of those things. Um and you know
+9:06
+we have been and and we we have you know over billion dollars of customer client
+9:12
+assets in it. That doesn't feel like a proof of concept really. But I think what we've really uncovered because the
+9:19
+question gets asked a lot. You call them skeptics, but it's really like the current system seems to work.
+9:25
+So what are we doing that's differently, right? But what we have uncovered and and and Benji, we just had this idea. I had this
+9:31
+idea. Hey, how do we use distributed ledger technology in our business? I
+9:37
+mean ledger, that word ledger is really important. As I mentioned, the whole industry is full of records.
+9:42
+Yes. um whether it's asset management, whether it's capital markets, records is what I'm honing in on. And this idea
+9:49
+that this technology would be disruptive and disruptive means it could, you know,
+9:55
+impact your current business. It could also create opportunities for you meant
+10:00
+that we were just like, hey, let's start and do something. And now we started that some eight years ago. Um
+10:07
+so it at that point I think it was a proof of concept but what we unpacked was being on these new rails created new
+10:15
+utility and that utility acrru to the users and the shareholders and the customers of
+10:21
+the product. Now in Benji's case that utility kind of is in two form. one, you
+10:27
+and I can I can um transfer Benji back and forth to one another literally as
+10:33
+fast as a new block can be appended onto a blockchain. So those times are, you know, fractions
+10:39
+of a second. So I can move an interestbearing asset back and forth between economic actors, individuals,
+10:46
+companies, whatever in less than a, you know, in fractions of a second. number
+10:51
+one. But because the blockchain is composable, we have been able to take the 24-hour
+10:58
+cycle of interest um decompose that into
+11:04
+seconds and for however many seconds, minutes, or hours you hold Benji, I can
+11:10
+pay you for those portions of the day rather than us being on this 24-hour
+11:16
+clock. Now that that may you know for you and I as individuals I don't know if that's you know super interesting but
+11:23
+for the tremendous the billions and trillions of dollars that flow through the capital markets and financial system
+11:28
+every day an interestbearing asset that if I hold it for five minutes my asset is sweating
+11:35
+big thing so big new type of markets that unfold because of the utilities of
+11:40
+using these new blockchain rails in order to build products and services on
+11:46
+top of that's what we've discovered. Pardon the interruption. Hi, I'm Tony. I'm the host of the Thinking Crypto
+11:52
+podcast. I wanted to ask you if you can please support the podcast by hitting the like button, subscribing if you
+11:57
+haven't as yet. You can leave a comment below as well. And if you're listening on a podcast platform such as Spotify,
+12:03
+Apple, or wherever you get your podcast, please be sure to follow and hit the five-star rating. I'll let you get back
+12:08
+to the content. Thank you so much. Now, you mentioned uh there's a different form of Benji across the globe in the US markets and different markets.
+12:15
+Tell us a bit about is that all connected to a central hub so to speak all running on the same blockchain rails
+12:21
+but just categorized in different regions. Well, I I think the way in in in our exploration of uh deploying these
+12:29
+tokenization platforms, we um you know, we started on one chain, but we quickly
+12:35
+began to think about how and and when we started that process, by the way, again,
+12:41
+we wanted to be a user of blockchain, right? We weren't sitting here looking back and saying, well, do cryptos X, Y,
+12:48
+and Z have value? You know, how do we extract value from those? It's like, oh, these are new and interesting and vastly
+12:55
+improved, you know, data record systems. Uh, this idea that we both have the same
+13:01
+copy of the ledger at any given time. Let's experiment and do things on those.
+13:07
+Um, and we we found efficiency gains in in the part of the securities business
+13:12
+that we call transfer agency. So if we are in the business of issuing securities, we have rules and
+13:19
+responsibilities uh wrapped around transfer agency to receive permission to issue those
+13:25
+securities. And those are those are records that we have to maintain forever. Those are records of who you are, where
+13:32
+you are. Um and those are kept in more private database systems that you know
+13:39
+don't expose personal identify information out into the marketplace. But it's the transaction records. So it
+13:45
+is the things that say, "Hey, you subscribed, you redeemed, you reinvested a dividends." These transaction recordkeeping systems are large and
+13:52
+large and they grow and we have to keep them forever. And so we were just kind of thinking maybe the blockchain would
+13:57
+be a better place to house those records rather than in our centralized monolithic database system that we um
+14:06
+had inside of our transfer agency system. And so in that experimentation, you know, we covered big efficiency
+14:12
+gains and that gave us super big confidence that this wasn't something that was just a fad, but these were
+14:19
+going to be rails. These were going to be new infrastructure for the capital markets, asset management moving
+14:26
+forward. And so we kind of put more chips on the table to develop what those outcomes would be.
+14:32
+You just mentioned something that these are going to be the rails for the capital markets. So is that where the
+14:37
+puck is heading in? Uh where banks, investment firms, stock exchanges, you
+14:43
+name it in and with plugged into the government with the treasury and so forth. All these things will be running on blockchain.
+14:48
+Yeah, I might go back you you made a a a statement that I was kind of raising eyebrows about. They're still skeptic
+14:55
+still skeptics. I Where are those skeptics by and large? I mean, we interface with financial institutions
+15:02
+all over planet Earth. We we were early and aggressive. I I mentioned we just started experimenting at blockchain. We
+15:08
+began to understand that maybe there's a number of different blockchains that are going to be winners here.
+15:14
+Blockchains are technologies. They'll continue to iterate. There's the the in the information-based economy, we think
+15:21
+of these as just utility rails and pipes for the information based economy. So, we want to be on as many of those
+15:27
+ecosystems as we can uh because that's where we're going to find customers eventually. Um, and so it's not, you
+15:35
+know, it's not one winner takes all, right? In our environment, we think of these as kind of digital nation states. They have
+15:42
+their own economies. They're aggressive in pursuing and growing their own economies. We want to grow in their with
+15:48
+their economies alongside of them. Whatever we may decide to bring as a, you know, securities related um, product
+15:55
+or service on top of those rails. And so that's kind of where our journey. So our journey actually permeates across a
+16:00
+number of different blockchains. I think we may be on either 10 or 11 blockchains currently uh with our products and
+16:05
+services. We're we are in the process of building a tokenization factory and we
+16:11
+are doing that and we're deploying toward that end specifically because we
+16:17
+have massive confidence about all of these legacy partners that we know that have we worked with in traditional
+16:23
+financial service firms over time are going to be coming onto the web 3 wallet
+16:29
+ecosystems. And of course, there's just hundreds and hundreds of millions of web 3.0 digital wallets all over planet
+16:36
+Earth already, and we want to be able to uh provide products and services into that existing ecosystem as well.
+16:42
+Now, you mentioned uh you're building on public chains and a handful of them. Um and it seems it's going to be a
+Will FT develop a Permissioned chain?
+16:47
+multi-chain world as you alluded to, but are you also looking at building your own internal permission blockchain? It
+16:54
+seems like that's a hybrid model is kind of the what some people are doing where they're bridging to public chains.
+17:02
+Um I think the short answer is no. Okay. I mean and and that is obviously a trend. Um we talked with friends
+17:08
+yesterday um you know Coinbase has a has a blockchain. Yes. Right. And I was asking questions like
+17:15
+look hey in my in my in our past life and when we're counseling and talking to you know investors all over planet earth
+17:22
+you know the previous kind of construct was um let me choose a custodian where I
+17:28
+know my assets are safe and trust and usually they have relationships with these entities over decades quite frankly um our institutional investor
+17:35
+communities and um clients have and then let me work to find where I can get best
+17:41
+execution because in my fiduciary responsibilities for these clients, I have to make the lowest transaction cost. Where can I get the best execution
+17:48
+on whatever the idea is that I'm offering advice on to them. But all of those are kind of subdivided different
+17:56
+actors. And now, you know, you have somebody like Coinbase who's like, well, we're the exchange. You're going to custody with us and oh, and it's our
+18:03
+blockchain that you might be involved in, too. So, it's a real interesting conversation when you're describing this
+18:08
+ecosystem to institutional other institutional investors and adopters who are so used to being like, well, all of
+18:13
+these things are separated out. How can they be all knitted together? And clearly, we're seeing uh large cases
+18:19
+where, you know, people like Robin Hood are saying, "Hey, we want the we want our own chain." You know, I think that's
+18:24
+a really interesting strategy. Franklin Templeton is not diving down to that strategy. We want to be part of a bunch of people's chains
+18:31
+quite frankly and ride inside of those kind of like I said digital nation states as they grow. Um some of them
+18:37
+will grow faster. Some of them may become obsolete. We don't know. But we do know that there's
+18:43
+a lot of capital deployed by these um legacy chains and some of those actors
+18:49
+like Ripple have really fantastic plans to be able to take that capital that has
+18:55
+grown and XRP over time and be able to redeploy that to build quite frankly substantial businesses and they have a
+19:01
+lot of money to be able to deploy to make those ends come about. Oh absolutely. Now, we're seeing
+19:07
+different types of assets being uh put on the blockchain, money market funds, you know, obviously Franken Templson is
+19:13
+doing that. Are you planning to do anything with other asset classes, precious metals, uh real estate and
+19:18
+things like that? Well, yeah, I mean, I think what is unfolding in front of [snorts] uh the
+19:24
+opportunities and this is why I say it's so exciting. um is that as the
+19:31
+as we approach opportunities in what we call the havewallet ecosystem. So we're
+19:38
+talking about the Binances, the Coinbases and OKX and Krakens, you know,
+19:43
+of the world that have literally hundreds of millions of wallets. Those are potentially new customers for us. Um
+19:50
+you know our journey started with money funds but you know with our 1.7 trillion and we cover you know basically every
+19:56
+asset class on the planet. How can we take those our services of offering
+20:02
+advice around those things and bring them delivery into the new have wallet ecosystem simultaneous you have all of
+20:09
+these legacy actors who are just over the past year quite frankly have permissions to be able to seek wallets.
+20:16
+Those are our legacy business partners for decades quite frankly and we know they're going to be coming in the space
+20:22
+and so we are firmly firm believers that we will meet customers large and small
+20:28
+in a web 3.0 wallet, you know, service somewhere. And so,
+20:33
+yeah, we're going to, you know, over time and it will take time, sure, transmit all of these other things into
+20:40
+this type of um, you want to call them tokenized, but really what they are is just a new kind of form that clients are
+20:47
+holding the asset, but they're still a security, they're still, you know, they're wrapped in securities or they're
+20:53
+wrapped in a commodities um, kind of wrapper. Um those are at least that's what our experience is showing so far.
+20:59
+You mentioned Binance. I read recently that you have formed a partnership with Binance. Tell us about that and how
+Binance partnership
+21:04
+you'll be working together. Well, Benji is um we are working with a number of
+21:10
+different exchanges and Binance is is one of those to bring uh specifically
+21:16
+some of their institutional customers who want to trade on Binance but want to hold a yield bearing asset as collateral
+21:23
+inside of the trades versus a non-yield bearing stable coin. It's as simple as that. How do we how do those customers,
+21:29
+you know, who are doing maybe complex derivative trades uh get a little bit more economic value by holding something
+21:35
+that sweats yield all the time? Um it's pretty simple in that construct. There's there's a number of different exchanges
+21:42
+that are they're doing that. We've we've been doing that with OKX as well and we're having conversations because
+21:48
+you know what we have done specifically with Benji is that we have worked hard um and
+21:54
+persistent invested a lot of time and money to work with the regulators so that Benji is actually natively onchain.
+22:01
+We're not a shadow recordkeeping and we're not a you know digital twin of any sort. We're actually native on chain.
+22:08
+Um, and that gives a lot more permissions for these ecosystems that are absolutely onchain as opposed to
+22:14
+relying on the legacy transfer agency processes and systems. And so that that makes Benji a perfect candidate to be
+22:20
+brought into these kind of constructs. You mentioned earlier sweating yield constantly with the tokenization of
+22:27
+assets. You now have 247 markets, 365, no more opening and closing bells, so to
+22:32
+speak. How are you managing that? Uh, are using AI? you have global teams,
+22:37
+that type of thing going on. Um, if I understand your uh question
+22:42
+correctly, you know, moving from basically what is a fund is a five business day a week into a seven, you
+22:49
+know, day business, 7-day, 24 hours a day environment is a gap. There's a bridge
+22:55
+to get there in that construct. And so we're working with a number of different actors, liquidity providers, you know, this idea that for for the near term,
+23:04
+while um certain stable coins have achieved this ability to offer rewards
+23:10
+depending on top of which platform that they're riding on top of, um this idea that uh that a money fund which offers,
+23:19
+you know, full transparency of whatever the collateral may be and it, you know, it it you know, by construct it kicks
+23:25
+out all its yield. you know, we don't kind of have to determine what we're going to be paying out. It's all a function of the underlying, you know,
+23:31
+collateral that we own, the assets that we own underneath it. You know, what that means is we are um,
+23:38
+you know, in this phase right now where we are trying to find uh liquidity
+23:43
+between stable coins and money funds. That's a new thing, right? Stable coins are relatively new and there's obviously
+23:50
+a lot of transaction activity in stable coins. I mean, I think we could point and you'd probably know this as better
+23:55
+than anybody, the biggest killer app at all these blockchains. If you think about the number of records being, you
+24:02
+know, appended, if you think of a blockchain as an as an entity that, you know, sells block space, the vast
+24:10
+majority of block space that they sell is stable coin moving from, you know, party A to party B by and large. And um
+24:17
+the idea that that there's this other now new complimentary and kind of similar but the benefit of the yield
+24:24
+component on it can come and begin to interop operate and collaborate be a
+24:30
+substitute for you number of word choices if you want to come up the idea that there would be markets between tokenized money funds and stable coins
+24:37
+is something that we're aggressively pursuing. Um, now the financial system
+24:43
+is going to continue to lurch forward from five business days to seven business days, you know, and we're seeing that uh kind of begin to come
+24:51
+about, but you know, we're talking about a heavy lift on on a whole bunch of things to get to that space. Um, whether
+24:57
+you and I are both, you know, you know, around and focus on these things by the time that comes about, maybe have some
+25:02
+uncertainty on that. Are there any risks that and I don't know how much you can share um on this
+Risks with Tokenization
+25:08
+you know from a risk mitigation standpoint are there any risks when it comes to tokenized assets and stable
+25:14
+coins like maybe things that haven't been proven as yet or still we still need to test the waters because we don't
+25:19
+have the full network or all players on board. Are there any risks that you know
+25:25
+keep you up at night so to speak? I actually sleep pretty good at night. Um, and we wouldn't be deployed with
+25:32
+customer money if we didn't think that we have been able to mitigate any risks
+25:39
+whatsoever. I think in general, if I've looked back over my 40 years of experience, we've
+25:46
+obviously increased the velocity of activities. So, hearken back to the global financial
+25:52
+crisis. Where were you in the global financial crisis? Man, I didn't know anything about the financial markets. I and Bitcoin was my
+26:00
+financial university so to speak where I learned how money works, how the economy works, how the Fed works and all that.
+26:07
+So I I was just an onlooker. Well, as you were onlooking, you
+26:12
+probably realized that, you know, weeks, months transpired as different financial
+26:17
+institutions began to be woven into the uh kind of the damage that began to
+26:23
+permeate um through the financial system. It it took months for um
+26:29
+and took collaboration by regulators and rescuers to come together pushing company A into company B um in order to
+26:37
+stabilize the system and all that kind of stuff. Fast forward to a couple years ago when
+26:43
+in one weekend Silicon Valley Bank and First Republic went under, right? And so velocity of bad outcomes
+26:52
+has definitely increased. Um, and what we're talking about when we're talking
+26:57
+about blockchains and these economies, we're talking about networking, right? It's a network economy. Uh, in
+27:04
+the global financial crisis, one of the words we were always feared was contagion. Yeah. Where's the contagion?
+27:09
+And the word contagion implies that there's networking. You know, something happened here, but it's linked somehow
+27:15
+network to something over here. And if this domino falls, is that's going to tip over a domino over here. Well, think
+27:20
+about that. blockchain and the networking and the contagion impacts,
+27:26
+you know, something happens and it permeates across the system pretty quickly is a real live factor. And we
+27:33
+started having conversations with the SEC about these things, it became clear
+27:38
+and you know to a wisened grizzly old veteran myself, just because we can do
+27:44
+something, should we be doing something? M I mean I remember being on a trading
+27:49
+floor in the fall of 1987 when the stock market dropped by 25%.
+27:56
+What was the response then? Well, let's put in circuit breakers. Let's stop the activity. Let's let you know rationality
+28:04
+return or let's have the market participants evaluate the situation and come in and make a decision about where
+28:09
+to go. You know, when we get to 247 constant velocity, you know, will we have those same circuit breakers?
+28:16
+um will we have to implement those type of things? It's possible because these are what's happened in the past by and
+28:22
+large. The other thing that I just get a little bit um concerned about is the fact that a lot
+28:30
+of this ecosystem and digital assets and blockchain have developed post the global financial crisis.
+28:36
+Right? Now I say the global financial crisis and what I really mean was a full-blown credit cycle. Right? So when we have
+28:44
+companies going under, when we have more bankruptcies on individuals, when we history shows when we have
+28:51
+credit cycles is when the weakest links find themselves. Now we could have had a credit cycle during the pandemic, but
+28:58
+monetary policy authorities all over the planet flooded the planet with liquidity
+29:03
+and prevented a full credit cycle from developing. So we developed this whole new ecosystem.
+29:09
+It's about networking and possibilities of linking contagion in a more aggressive way and we've done
+29:16
+that without having any credit cycles. So, uh you know what happens when the
+29:21
+credit cycle comes about and you know do we have enough kind of watchd dogss and firepower on the other side to kind of
+29:28
+help solve those problems as they come together. Again, I sleep I sleep well at night, but I just I'm a I have been in
+29:34
+business long enough and I've been student of things long enough to know that it's really credit cycles that are going to cure
+29:40
+any sort of um you know, falladies that are, you know,
+29:46
+exist any sort of, you know, failing points that might exist currently, they're they'll be exposed in that. And then we'll we'll you know, it will right
+29:52
+set the the environment for, you know, another new expansive wave of growth. But, you know, those would be the my
+29:58
+wisdom. Sure. you invite me here to share kind of years and decades of wisdom to you. Those would be the things that I would
+30:04
+kind of share with you. Oh, absolutely. And I ask those questions because I know I get them sometimes. I I know the answer, but you
+30:10
+know, there are people who are new to this is all new to them. They're like, well, what are the pros and cons? What
+30:16
+are the risks? And I think it's great to have someone with your expertise to be able to share, you know, the knowledge
+30:21
+around that and how some of these things could be mitigated or are being mitigated. And I'm curious, would AI be
+30:27
+a big help in monitoring blockchains 247 in the markets? And is Franklin Templeton looking to leverage AI in that
+30:34
+way? Well, we looked at like like all businesses, we're going to information based business, we're looking to
+30:39
+leverage AI in a number of different ways. Um, you know, if I was a regulator, I'd be having AI. the the
+30:46
+beauty of of the public blockchains and when we were actually beginning to talk with regulator friends, you know, years
+30:52
+and years ago now and to seek these permissions, what we're doing, the idea that many of these blockchains are
+30:59
+public blockchains and with the right tool sets, you can surveil them in the
+31:04
+activity. If I'm using these blockchains in my transfer agency process, you can
+31:10
+kind of surveil that transfer agency process. You're not going to know names of people again because we will never
+31:15
+expose customers and clients names in in any sort of public place. Um we protect
+31:21
+that. But the idea that you know the movement the transactions that are happening you can do that. I mean
+31:28
+previously if they if uh some regulator thought there was bad acting going on
+31:33
+they would go to judge they get a subpoena. They'd come in to you and they say okay we're going to come in. We're going to look at all those records. But
+31:39
+like literally now you can surveil and observe them with the right tool sets. So you know yeah I think I
+31:46
+think because of the public nature and the massive amount of information that's available on these public blockchains of
+31:52
+course AI are the tools to be that it's used to be able to understand all that in a pretty efficient way.
+31:58
+So Roger it is 2035. What does a tokenization market look like? What does the markets look like?
+Tokenization marker & Future Finance
+32:04
+Is it is it all like you mentioned earlier running on blockchain rails the convergence of crypto and trefy and
+32:09
+there's just one market okay so this is 2026 and you said 2035 so 9 years from now
+32:15
+look I think actually we're not going to be talking about tokenization well before then because I I think like lots of things we
+32:23
+we use word choices as we transition from one thing to another user experience will just know I have a I
+32:29
+have a record somewhere I have an asset somewhere it's held here in this wallet somewhere Is it called tokenization? Is
+32:35
+it called blockchain? I don't really give a crap quite frankly. I just know that it's there. It's protected and it's there um for my use and for, you know,
+32:43
+to grow my assets and portfolios. I think in 20 35 um what what we're likely
+32:52
+to see is blockchain to be allow a whole new array and different types of assets
+32:57
+to flow. And this is where I actually kind of sunk my teeth in this whole thing many years ago.
+33:03
+Yes, I was focusing on ledger distributed ledger technology, but I also was aware and had spent a lot of
+33:09
+time in my career trying to figure out how I could keep expanding the opportunity set of investments for
+33:15
+clients. So, um, I had a a friend at, uh, Franklin Templeton who went on to
+33:21
+work at, um, the biggest pension fund in the country in Sacramento for a period of time. And he came back to Franklin
+33:27
+Templeton, and he was describing to me one time about a project that they had done at this super large pension fund in
+33:33
+Sacramento. Um, and the study that they had done had said that if you examine
+33:40
+all of the assets on planet Earth, again, the super large public pension plan in Sacramento had um they see every
+33:48
+investment opportunity possible. They have every manager coming in and saying, "What about this? What about that?" So,
+33:54
+they see all investment opportunities. But in this study that they had commissioned, they had come to determine that they really only touch about half
+34:00
+of the planet's assets. M and this was only about 10 years ago. Um that's pretty interesting, right? You
+34:07
+see every investment opportunity, but you were only seeing half quite frankly. So is there a possibility that these
+34:13
+blockchain technologies create more fungeibility um for maybe that remaining half of
+34:20
+assets whatever the case may be. Uh and so can we raise the efficient frontier?
+34:26
+Will we will we raise the efficient frontier that you know that curve that we
+34:32
+draw a tangent to to say this is the mix of assets that I want that gives me the best risk adjusted returns over time.
+34:38
+Um or maybe we do away with the idea that we don't live in a two-dimensional world of risk and return. People want
+34:45
+other things from their portfolios. They want outcomes. They want impact. So maybe there's third or fourth vertices
+34:53
+quite frankly and dimensions. And so now we're optimizing clients portfolios across a plane rather than across a
+34:59
+curve and and a tangent to that curve. I think that's what we're going to end up unpacking. I think we're going to end up having more and different type of
+35:06
+assets. I think for individuals, those assets will have emotional appeal. When
+35:11
+they have emotional appeal, they're sticky. And if you're an adviser and you're offering advice to customers and
+35:16
+clients and you're drawing in things that aren't just financial assets, but they're in investments and other things
+35:22
+that have an emotional appeal, you have a better chance of counseling and keeping that client for a long period of time. So this is I mean all of these
+35:28
+things is what I speak to about why it's such an exciting time because of these technologies to are allow you to be able
+35:33
+to focus more intently on customers and what they want. And when you can deliver, we know from any business, if
+35:39
+you can deliver to customers what they want, then you're going to have a customer for a long time. Absolutely. You know, the emotional
+35:45
+connection you're talking about, are are you highlighting like, let's say, rare artwork or certain collectibles, even
+35:51
+like look, a Pokemon card just recently sold for $16 something million, right?
+35:57
+It's a piece of cardboard. Obviously, there's a rarity to it, but like could that be token? Well, yeah, certainly there's a lot of people have cultural
+36:03
+assets and we're engaged in a lot of different uh projects and you probably have talked to my friend Sandy Call um about cultural assets in the past and so
+36:09
+we have some proof of concepts we're exploring. We have a lot of partners who are thinking about that. Uh the idea that you might be tokenizing interest in
+36:15
+sports clubs for example and bring that I mean sure yes those could be some of them but
+36:21
+there's a lot of other things. Uh, I may be a little bit too far a field in talking about this, but when I talk to
+36:27
+my kids about what the best investments are, they're investments in experiences.
+36:33
+Interesting. In my book, um, yeah, I mean, you can have a good pile of money and you might be able to have more experiences. Uh,
+36:39
+that's true. But it's this idea that there's more to investment than just financial returns a lots of times. And
+36:45
+so, sure, you know, this is all, you know, changing and unfolding in front of us. And so yeah, if you're if you're focused
+36:51
+on those opportunities and you're doing some R&D activity, I mean, I think
+36:56
+that's what we found ourselves doing. It's just like we had support to do just basic R&D activity in distributed ledger
+37:03
+technology and it's now unfolded this whole, you know, interesting world of
+37:09
+the things that I'm talking to you about. You know, that's feels pretty good even having spent, you know, almost
+37:14
+40 years in the industry in the industry. Oh, yeah. I'll give an example. We're in New York. I'm a New York Knicks fan. I'm
+37:20
+a big basketball fan. If the New York Knicks tokenize themselves, I'm buying. Yeah. Even if I don't get a a return, but if
+37:26
+that token allows me to earn certain rewards or benefits or perks, you know, I could go meet one of the players, go
+37:32
+on the court at some point, you know, depending on how much tokens. Yeah. So, that's that's exactly what you're saying. What you're doing is you may be
+37:38
+investing in that and it might not be a cash flowing investment, right? you might need to be awaiting, you know, new
+37:44
+media deals that cause the enterprise value to rise over time. But if the New York Knicks are going to give you more
+37:50
+experiences from that, you know, that fills your need, right? Especially if that experience is comes
+37:56
+in a championship year for crying out loud, right? Yeah, that would be amazing. So, it takes like New York Knicks winning a championship
+38:03
+would be amazing. Agree. Hope it hope we see [laughter] it again in our uh in the next several years. Yeah. Well, hopefully this year we're
+38:09
+hoping Okay. bring it closer, right? [laughter] But no, to your point, um it goes beyond
+38:14
+just a monetary value or even a return uh just creating these experiences. And
+38:20
+could you see big companies like an Amazon and and some of these retailers doing things like that maybe with stable
+38:26
+coins, but also tokenizing uh themselves in different ways and it builds more customer loyalty, brand affinity and
+38:33
+things like that. Yeah, for sure. we see uh the ability for for um enterprises I mean loyalty
+38:39
+programs have existed in airlines for a long time right and in fact it's I think
+38:46
+it's a fact that the loyalty programs for the airlines are worth more than the
+38:51
+airlines themselves now airlines have this business model where they lease you
+38:57
+know the airplane so they're really the airplanes are really owned by somebody else but the idea that there's this big sticky I mean I'm flying United home
+39:03
+tomorrow and my wife won't book me on another flight besides United flight, you know, anytime soon for a long period of time. Um, so yeah, they they, you
+39:10
+know, take that model and apply is their creativity apply to bring that to other um type of industries for sure. We we
+39:18
+see those possibilities unfolding as well. I remember Sandy call um and I read some
+FT Crypto Wallets
+39:24
+things about Franklin Templeton building crypto wallets. What can you tell us there? Are you building more for the institutions for retail and things like
+39:31
+that? Well, really it's kind of funny. We had a you know to get permissions to
+39:37
+use blockchain and the transfer agency activity for Benji um and working with the regulators. I mean that has to be
+39:43
+held in a you know what's it going to be held in? You're going to create a token. What's it going to go in? It's going to go in a digital wallet.
+39:48
+So that's exactly what we've done. And we build those digital wallets across you know a number of different blockchains. uh those digital wallets.
+39:55
+You know, we're in our building of that, we see a world of interoperability of
+40:00
+blockchains. We have to be able to, you know, we talked to the regulators, you know, in the very very very remote
+40:06
+chance that blockchain A goes down. All of our customer experience has to be on blockchain B immediately. So, I mean, I
+40:13
+think you can think of us as had problem solved some interoperability issues already. Um but this idea that
+40:20
+we've that we have built digital wallet ecosystems wrapped around a number of blockchains and in a securities
+40:27
+permission space right because there's a lot of digital wallets on planet earth I in my I have two phones in my pocket
+40:33
+over there that means I have two digital wallets on my Apple phones right um now those aren't those aren't wallets that
+40:38
+hold securities by and large right I mean again my United ticket tomorrow is
+40:43
+held in one of those digital wallets um but this idea that web 3.0 0 digital
+40:49
+wallets where you know you and I can control oursel and where we can actually
+40:55
+you know we get the outcome of what's in the wallet as opposed to you know somebody like Apple just taking that
+41:02
+information and using it for their own benefit to provide us goods and services you know those are the futures that we
+41:07
+see um and you know we've had to be and and we've developed digital web 3.0 wallets and um we have a lot of inquiry
+41:14
+and discussions with folks who don't want to go through the brain damage um that that they've gone through to you
+41:19
+know is there a way that you know we can leverage Franklin Temple's digital wall ecosystem you know I have nothing really
+41:24
+to report about that specifically other than that yes we have built digital wallets across a number of different
+41:30
+blockchains with our kind of proof of concept and yet commercially viable and expanding Benji array of assets you know
+41:36
+we expect to have you know digital representation tokenized represent presentation of a wide variety of our
+41:42
+products and services in the future. Um they'll have to be held in a wallet whether they're in our wallet or where they interoperate with somebody else's
+41:49
+wallet. Um you know we're an advice we're an advice business not necessarily the infrastructure business but we see
+41:56
+the future needing to be in the wallets. Yes, for sure. Yeah. So going back to that 2035
+42:02
+question again, are majority of us with our phones, our digital identity, our
+42:08
+assets in a digital format, tokenized, stable coins, things like that, crypto assets all on a unique central wallet or
+42:15
+we having multiple wallets, you think? Well, I don't know. What do you think about I mean, you're still going to have a phone? Yeah, that's a good question.
+42:20
+Are we going to be using Are you going to be using those meta glasses? You just going to talk to it and something else happens? I don't know what the hardware
+42:26
+device is uh of in the future but yeah the idea that you can control that's the pro that's the kind of the thought about
+42:32
+web 3.0 I know and different between you know earlier versions of internet where you can control the outcome where you're
+42:38
+an owner of the assets and you can permiss others to access your data and your information that's a that's a we see
+42:45
+that world um you know unfolding in front of us um so
+42:50
+yeah lots of opportunity oh for sure now Franklin Templeton has a big ETF business and you've launched a
+42:57
+lot of different crypto ETF asset ETFs I'm curious um what's your strategy there Do you foresee tokenized assets
+43:04
+living in ETFs as well? Okay, so that you're let me unpack that question a little bit.
+43:09
+Okay, I think the ETF the the bringing crypto into the securities form through the ETF
+43:16
+and unlocking the opportunities in the legacy want wallet broker dealer is was was a
+43:23
+was a big watershed moment. Um because previously you had uh you had more
+43:31
+do-it-yourself, you know, individual investors with all these digital wallets who were buying,
+43:36
+you know, uh Bitcoin and ETH and Soul and a variety of digital assets,
+43:41
+including NFTTS like board apes and all that kind of stuff inside of that digital wallet. And now all of a sudden, the first time you had, well, I don't
+43:47
+have to have a digital wallet. I already have a relationship. I already have a broker dealer account for Grand L. I
+43:52
+probably have four or five of them. And now I can buy this exposure to this emerging um thematic story about the
+43:59
+expanding blockchain and the importance of being able to invest in networks um into my own broker dealer and and and
+44:05
+you can do it at a really low cost. We we have a a a passive market uh product
+44:12
+that we call easy peasy easy peasy. So we're making crypto easy peasy make
+44:18
+investing in crypto easy peasy. which kind of a nice little jingle to say, but I mean we're offering that at like 19
+44:23
+basis points for crying out loud. So I mean callulling out a lot of cost to allow that to happen. I think that was a
+44:28
+watershed moment because a lot of investors had either had to be I got to do this and figure it out myself
+44:34
+or institutional investors would be paying you know private funds with private fund fees a lot of money to make
+44:40
+that happen. So I think I think there's going to be a lot of change because of the ETFs themselves. Now the second part
+44:47
+of your question was remind me if tokenized assets will be to in ETFs as well.
+44:53
+If tokenized assets or ETFs I think of ETF I mean an ETF looks like a stock
+44:59
+right but it's like a portfolio wrapped in a kind of a stock wrapper in some way shape or forms.
+45:05
+There's again a lot of change that's going to come about because even ETFs themselves have a number of different
+45:11
+components of the make the ETF work that are in this back up our conversation you know what over 30 minutes when I say
+45:18
+there's rent seekers inside of the process that that make an ETF work whether this technology supplants
+45:24
+replaces some of those um or is an interesting thought process
+45:29
+um it wouldn't surprise me that it doesn't dramatically change in some way shape ETFs I mean ETFs are the most
+45:36
+successful, you know, product in, you know, on the planet, bringing money and and and this is and we do have a a great
+45:43
+ETF business and we're and we're focused on expanding our ETF business as it currently exists. But we're also smart
+45:48
+enough and aware enough to know that there are technologies that come along in every industry that supplant whatever
+45:53
+the current form is, whether that's albums and CDs and then MP3s, you know,
+46:00
+type stuff. It's like all of that gets impacted in some way, shape, or form. our eyes are always forward about how to
+46:06
+um make sure that we're prepared to deliver those services as the technologies allow us to do so.
+46:12
+Yeah, for sure. Roger, one of the things every everyone is waiting for is the
+Clarity Act impact
+46:18
+Clarity Act to pass. So, I'm curious, you know, what are your thoughts? You expect that to pass this year? I know that's a tough question, but also what
+46:24
+would that mean for Franklin Templeton's digital asset business? Yeah, I don't, you know, market
+46:31
+structure acts are are are certainly important. We I mean, we would I think we're supportive of a number of
+46:36
+different things um as it relates to uh the clarity act. I mean, the defined
+46:42
+rules always help all of us in in the um in the environment moving forward. You
+46:48
+know, we think things that are securities and act like securities and smell like securities probably should be
+46:53
+considered securities. At the same time, we understand again these technologies have come together and some of these laws, you know, are literally 85 years
+47:00
+old. Now, they're laws because they are protecting consumers, right? By and large. Um, and you know, I
+47:07
+think that's a that's a great idea quite frankly. Um, we're going to see time and time again new things come about and if
+47:15
+consumers get abused in some way, shape or form, that is not our desired outcome. We're in the business of trust.
+47:21
+Yeah. Right. We're in the business of trust. Everything we build and do has to be
+47:26
+around promoting and expanding that trust. We even refer to our blockchain
+47:31
+engineering not as software but as trustwear. Um and so that business of
+47:37
+trust is is and that brand of trust is hugely hugely important to us. any sort
+47:42
+of you know new laws that are coming about need to keep emphasizing consumer protections and promoting trust in the
+47:49
+overall ecosystem however it comes forward as opposed to you know
+47:54
+displacing that trust and and losing the confidence I mean I think that's what makes our capital markets in the US some
+48:00
+of them robust on planet earth and you know the great promise of that you can accomplish lots of things um there's
+48:07
+lots of different markets that have developed in the US that haven't developed in other parts parts of the world because we have that robust
+48:14
+ecosystem. So any of the type of new laws that wrap around these things, we do have to recognize that there are
+48:19
+new things though. The idea that you can invest in a network is a new thing, right? And so um we don't want to
+48:25
+constrict that behavior. We want to just modify it toward uh the benefit for all
+48:30
+users. You think I didn't answer your question, did I? Did the bill get Do you think the bill is going to get passed? Don't know. I don't really have a a good
+48:37
+idea on that. I I do believe um that you know some of the large sponsors of the
+48:42
+Bills are now contending with a new environment. Yeah. With crypto winter. Um and so this has
+48:49
+it's been really important. I'm sure they will be doubling down their efforts to try to uh move it through. But you
+48:54
+know politics is not something that's really easy to uh to predict or hedge. Well well the big battle that's kind of
+49:00
+holding up the bill is the banks pushing back on stable coin yield which was part of the Genius Act. uh any thoughts on
+49:06
+that and you know the banks may be trying to still hold on to interest and yield in in that way.
+49:12
+Well, you say banks um money funds that's a differential between Benji and a stable coin,
+49:18
+right? Um and so the idea that uh again if you if you pay rewards you get a tax
+49:25
+document that says you're getting some sort of reward. Um is that interest? Is that a reward? What does that come in?
+49:31
+the idea that you hold an asset, you're going to get some reward for holding that asset, that reward has an economic
+49:37
+value. Does that look and act like a security or we trying to make big carveouts? Um, look, we know that it's a
+49:44
+geopolitical strategy for the US to be able to expand US dollar stable coins
+49:50
+deeper across planet Earth for the retain um US dollar as the currency of
+49:56
+reserve uh across the planet. And so there's a lot of you know momentum in
+50:01
+Washington not just by the crypto or digital asset community but you know anything that keeps the US dollar in
+50:08
+that position is going to be massively supported uh by and large. Um I think
+50:14
+that's the big thematic reason to pay attention to this fight over about you know whether um a stable coin can offer
+50:21
+yield and whether that imperils community banks that sit in every corner you know on Main Street in every town by
+50:27
+and large and they may not have the name JP Morgan Chase on them but they might have you know your your your state
+50:34
+state bank type of situation those I mean those are real things right I mean I think what you want to be careful about
+50:40
+going back to the global financial crisis What did we learn? We we learned from the global financial crisis that if the
+50:47
+banks aren't operating, the economy doesn't operate. Yeah. Right. And if you're going to be doing things that remove a tremendous amount
+50:54
+of the revenue andor profit potential for banks themselves, I mean, a stable
+51:00
+coin doesn't when you put money into a stable coin, there isn't a multiplier effect that they lend it out into the economy and and fund mortgages or fund,
+51:07
+you know, small businesses in any way, shape, or form. They take it, they earn the yield on the T- bills and they
+51:12
+pocket it and put it to their shareholders. So there is, you know, we found in the global financial crisis that banks, you know,
+51:20
+they're utilities. They're important utilities and we need them to function on function properly um in order for us
+51:27
+to have a vibrant economy. This is again the difference between the US economy and a whole bunch of other economies on
+51:33
+planet earth that have very fragile and unstable, you know, financial systems. I
+51:38
+did a lot of work um in Argentina many many years ago um in South America and
+51:46
+my visits would be you know one day in Argentina and like two or three days in
+51:52
+Monte Vido Uruguay you like why is that the case I mean Argentina is a big country is a big
+52:00
+country it's got a lot of people it's got a lot of cows um love both countries by the way just difference between the
+52:07
+population base. Why is that the case? I'm in Monte Vido or Urgue. I'm there because the Argentines learned a long
+52:14
+time ago that if your money's in the banking system, it's possible that the government's going to come in and take
+52:19
+your savings account and convert it into long-term Argentine bonds and right and so the the confidence in the financial
+52:26
+system themselves that eroded so they wanted to move money out of the country. I mean, we don't want those things outcomes in the US. And so there's going
+52:32
+to be a dynamic at play here because of the way banks do. I think it's naive to think that banks just, you know, come in
+52:38
+and charge interest. And so therefore, if we have a new form of money, we should be able to, you know, pay interest as well, and we're going to
+52:44
+have the same we're going to have the same, you know, operating in the same economy and helping expand the economy
+52:49
+as banks have done for literally decades. That that's probably a somewhat naive position to be honest with you.
+52:55
+Yeah. I And I don't know what the compromise is going to be. We're going to have to wait and see. I think there was another meeting today this morning
+53:01
+at the White House between the bank and the crypto industry. So hopefully they find some sort of compromise and we can
+53:07
+get the Clarity Act pushed through. Yeah. Again, I think one of the big big big um I mean going back to early last
+53:15
+year when um one of the first uh moves by the administration was to kind of do
+53:22
+away with SAB 121 which is was the accounting you know recommendation
+53:28
+um that said you had to hold a dollar of capital for everything that might be in some sort of blockchain product or
+53:33
+service. I mean that was just a freeze ray on everything. And so we do want to unleash the creativity um and
+53:39
+opportunities that exist um within the financial systems you know here in the US. I think we I mean I think that's a a
+53:45
+noble and you know good idea by and large um how the crypto industry you
+53:52
+know lobbies against bank. We do know also that there's a lot of money deployed by the crypto industry in super
+53:58
+PACs prepared for the midterm election relative to what the you know legacy financial community is doing as well.
+54:05
+Um, so yeah, it will be super interesting to see who comes out on the right side of that. Yeah, I didn't have this in my bingo
+54:11
+card. Uh, you know, the the banks would, you know, be battling crypto this year on that, but um, yeah, hopefully they
+54:18
+find a balance, right? I think that's important. Um, and but to your point, I don't think you can just,
+54:24
+you know, with all the things that banks are responsible for like you mentioned, mortgages and all that and and credit and all that, we can't just pull them
+54:31
+the seat from under them. The other thing that's going to be important and we saw this in the global financial crisis too it's the lines
+54:38
+kind of of credit al ultimately you know whether it's in the in the banks roots
+54:43
+and stable coins it's all sits inside of you know this US dollar that the Federal Reserve has
+54:50
+responsibility for you know um and you know the Treasury and all of that kind
+54:55
+of system and so we have to recognize that as well and so it's likely if you
+55:01
+have these big if you have a if you have some institution that has some sort of systemic risk associated with it um with
+55:08
+a whole bunch of money from businesses and or you know consumers you know associated with it then they are going
+55:14
+to need to have lines you know maybe even just like credit
+55:20
+lines with the Fed as well put those things type of things in place those are things that don't necessarily exist
+55:26
+currently right I mean we talked about that with money funds well I mean we'd love to have Benji be big enough that the that the Fed is we need to have you
+55:32
+to have a a credit line um associated with that. Those are going to be important things as well, right? You
+55:38
+don't want to grow up this thing by its own with, you know, being permiss permissionless and and and deregulated
+55:44
+without understanding how it potentially gets woven in again because while the Genius Act certainly um
+55:52
+for the vast for for the US um specific stable coins defined what
+55:58
+that collateral pool could be and should be and limited it kind of in the same way that 2A7 money funds in the US have
+56:05
+a very limited types of assets that they can hold. You know, that's just one step
+56:10
+of that. Um, when you think about um that we haven't had a credit cycle unfold, you know, let's let's make sure
+56:17
+that we're making sure that we have all of the the appropriate safeguards in place for all actors moving forward. So,
+56:23
+those are also going to be important things to be thinking about. Yeah, well said. So, Roger, what's on your digital asset roadmap for this
+56:29
+year? Um, it's this idea that, you know, now uh
+56:35
+with, you know, skepticism um melting and and more uh significant players
+56:42
+coming into the entire using blockchain as infrastructure ecosystem. How we integrate with more of those how we
+56:48
+deliver more products and services besides just you know kind of these boring things like money funds money
+56:53
+funds are I call them boring we think of them as infrastructure as much as any not like really an asset class but we
+56:59
+kind of you know helped kind of solve that problem and opportunity coming forward. So how do we get this experience um of other assets into the
+57:08
+uh the both the existing kind of digital wall ecosystem as well as um kind of our
+57:13
+legacy customers and clients who are exploring those that's a lot of our heavy lift that we're involved in o over
+57:18
+the next couple of uh months but it's an exciting thing to be doing as I mentioned very early you know of the 40
+57:24
+years that I have been doing this the idea that we're going to meet customers and clients in a new environment we're
+57:31
+going to be receiving assets by the way in these new environments, right? You we know projects by the Treasury, obviously
+57:38
+NASDAQ, New York Stock Exchange. So the raw materials of asset management that
+57:43
+are coming to us are becoming on these, you know, blockchain rails that that changes a lot of the underpinnings of
+57:48
+the operations that we have to think about. And then that third component I talked about,
+57:53
+can we bring more and differentiated type of asset experiences into clients portfolios? Those three things that's a
+57:59
+lot of wood to chop quite frankly. Oh, absolutely. Well, I'm excited for the updates and I'll be paying attention.
+58:05
+We'll love to have you back on as things progress. I have some wrap-up questions here for you. First, if you could create
+Wrap up question
+58:11
+your own metaverse, what would the theme be? Oh my god. [laughter] Where'd you put your Oculus and
+58:16
+metaverse? Well, I have some great passions um in my life. I too like basketball.
+58:22
+Um I grew up a central Illinois boy and you know, basketball was everything we do. The movie Hoosiers could have been
+58:28
+our community, you know, by and large. So, uh, metaverse would have a lot of basketball. Uh, and you know, we're
+58:34
+seeing this huge inflection point in women's basketball, by the way, right? The delta of popularity and
+58:40
+opportunities in women's basketball is is is is rapidly rising. That's super exciting to my family. I have a whole
+58:46
+family of female basketball players. Um, I have, uh, I took the Midwestern boy,
+58:52
+put him in in uh some alpine communities for a while. I love sliding down slick
+58:57
+things at at high rates of speed. not as you know at my age maybe not as high rate speed as I used to my metaverse
+59:03
+involves a lot of explorations and mountains and different type of topographies um I guess the other thing
+59:10
+is I'm hoping in the not too distant future as I get to experience you know
+59:15
+not just my own children but another generation about how to uh grandparent through that I don't know is that really
+59:21
+a metaverse so I grandchildren snow sports and basketball
+59:26
+were you a Chicago Bulls Um, I was the Chicago Bulls weren't very good when I was growing up. Okay.
+59:32
+Um, but my boyhood hero was a a player by the name of Doug Collins who ended up
+59:38
+being a coach for the Chicago Bulls, but he played in my uh in a at the Illinois State University, which is in Normal
+59:44
+Illinois where I grew up. And of course, he went on to I think he was the number one draft pick for the 76ers. and he had
+59:49
+that that experience in the um the Munich Olympics where you know
+59:56
+you know the US did not win gold. We don't have to punch down through all the permission of that but um yeah Doug
+1:00:02
+Collins was uh my childhood hero as a basketball player. I love them as a commentator as well. I enjoy listening to him when he commented
+1:00:08
+on games. Um okay, rapid fire questions. Favorite food.
+1:00:13
+Favorite fruit. I like tacos. Favorite musician or band? Favorite musician or band? Um, my favorite, if I
+1:00:21
+said Taylor Swift, how [laughter] would you feel about that? Well, my daughter will love that.
+1:00:26
+Yeah. Well, good. I'm appealing to your daughter. The women's committee at my house. [laughter] I mean, maybe that's just happened because the women's
+1:00:32
+committee dominates who gets to be on the airwaves at my house and stuff. So, I' I've I've taped to that. You know who
+1:00:37
+else I like quite a bit is Green Day. Oh, yeah. Green Day is a Northern California band. They're East Bay band. I live in the
+1:00:43
+East Bay. And so, I love uh I love Green Day quite a bit. It was great to see them on a Super Bowl pregame show.
+1:00:48
+Yes. Dookie, one of the best albums ever. Absolutely. Yeah. Regarding Taylor Swift, every time I go
+1:00:53
+into my car, my phone, because it's automatically synced with Spotify, Taylor Swift comes on.
+1:00:59
+Oh, yeah. I I don't like that, but my 8-year-old loves that. Absolutely. Well, anything for the 8-year-old, right? Yeah. Uh favorite movie?
+1:01:07
+Uh favorite movie? I love the Godfather movies. Oh, yeah. Yeah, those are great. Um favorite book.
+1:01:14
+Uh, favorite book. Wow. You know, I I' I
+1:01:20
+love the John Irving novels, quite frankly, the whole series of them. Um, I spent one year of my academic life at
+1:01:27
+the University of Iowa, and he was at the the writer's workshop in Iowa, and um, I just liked his storytelling quite
+1:01:33
+a bit. Turns out I think his grandchildren were Olympians um on the
+1:01:39
+on the alpine ski team in uh uh in in Italy in Cortina right now. Oh wow.
+1:01:44
+So yeah, I I read an article about that. But yeah, I was I always found his story his stories fascinating.
+1:01:50
+Wow. I'll check that out. Uh when you're not working, what are you doing for fun? Gosh. Um I try to keep myself, you know,
+1:01:57
+healthy and and uh uh moving forward. Sure. Moving. I I find that uh you know I want
+1:02:04
+to keep the body limber. I want to be able to you know expect to live to a ripe old age. I want to enjoy you know
+1:02:10
+multiple generations behind me. I want to be able to teach them to uh to shoot a basket. Teach them to you know fish in
+1:02:18
+a stream. Teach them just to kind of enjoy life and and uh just have I love spending time with my family. Of course,
+1:02:24
+I have very very great long-term friends from when I was, you know, even in first
+1:02:29
+grade, uh, that are still really good friends of mine. And so I that's awesome. You know, I I've I've taken up golf in the past several years. I used
+1:02:36
+to think of golf as like kind of a well, is it an old person type of game? I don't know. But I started experiencing
+1:02:42
+golf with my wife and her family. And I it was such an enriching experience. It
+1:02:48
+was like I when I was a younger guy and I was playing golf, it was all about like, you know, trash talking about, oh
+1:02:53
+crap, a shot. But what I really learned is like it's a whole bunch of enriching. People might Yeah. My wife might totally like full-on
+1:03:00
+breakdown laughing when I totally miss and swing a shot, whatever. But almost always there's something complimentary to say to somebody like, you know, good
+1:03:06
+ball strike or like, you know, night direction. Oh, you're in the fairway. You only might be 30 yards forward in the fairway because you mis hit it. But
+1:03:12
+I found it to be an enriching thing and it's a very humbling situation, right? And so you that's you have to pace
+1:03:18
+through life unlike that life is not you have to be able to enjoy the journey through life. So you have to be able to
+1:03:23
+enjoy the journey of the nine or 18 holes not just what the outcome is. I I found that to be true in lots of life.
+1:03:30
+It's not about the destination where you're getting to but it's like the everyday journey that gets there. And I
+1:03:35
+found that to be a nice humbling thing about golf that that puts you out there um that you know you got to wipe away
+1:03:41
+what just happened and you got to try you know try for something else. and every once in a while like a real miracle happens and then you're hooked
+1:03:46
+to keep [laughter] doing it. But um that's a that's a a new pastime for me. I used to trash golf a lot and then I've
+1:03:54
+learned to respect it when I try to play with some people. This is hard man. Yeah. It you to your point patience and and
+1:04:01
+it's a bit slow moving because I'm used to playing basketball and baseball. Grew up playing you know those sports but
+1:04:06
+golf is is tough. Well I hope you get to enjoy more golf. Um, and what I also learned is like if I
+1:04:14
+golf, this is what I saw with my wife. She spends she prioritized spending time
+1:04:19
+with her father golfing. Um, you know, multiple times a month, you know, and I wasn't at that time um golfing with
+1:04:25
+them. Um, but I was like, if I take up golf, my kids will prioritize spending
+1:04:32
+and I invest with them. There's going to be a time in my life where my kids actually prioritize spending time with me for five hours without phones or
+1:04:38
+anything. Yeah. I'm in. Yeah. Oh, yeah. For sure. I'll keep that in mind when my daughter gets a little
+1:04:45
+bit older and and I get older. Uh but Roger, great conversation. Looking forward to the future updates around uh
+1:04:51
+Franklin Templeton and digital assets. Thank you so much for taking the time. Yeah, thanks for having me. Thank you so much for tuning in. Please
+1:04:58
+hit the like button, subscribe if you haven't as yet. If you're listening on a podcast platform such as Spotify or
+1:05:03
+Apple, please follow and leave a fivestar rating. Thank you so much.
+1:05:09
+[music]
+1:05:19
+[music]
+

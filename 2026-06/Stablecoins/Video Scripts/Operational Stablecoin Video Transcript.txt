@@ -1,0 +1,987 @@
+
+Search in video
+0:03
+My name is Dante Reminik. I lead all of
+0:05
+the stable coin initiatives at Holiday
+0:07
+Payments. We do universal deposits and
+0:09
+payout solutions. But the real star of
+0:12
+the show here is Josh. So Josh, can you
+0:14
+just kick us off, give us an
+0:16
+introduction? You have a very
+0:18
+interesting background, by the way, so
+0:19
+you should touch on that.
+0:20
+I happy to Before I get started, it's
+0:22
+important to know that Dante just got
+0:23
+married, and I think we need a little
+0:24
+round of applause. He got married last
+0:26
+weekend. Thank you, Dante.
+0:28
+Congratulations.
+0:30
+Um yeah, happy provide my background. So
+0:33
+I um prior to Moneygram, I joined
+0:35
+Moneygram about a year and a half ago
+0:37
+and prior to joining I was co-founded
+0:40
+Pangia money transfer a digital first
+0:41
+remittance company in the space and uh
+0:45
+ran that for about 10 years sold the
+0:47
+company was looking around for what to
+0:49
+do next and sort of have a weird resume
+0:52
+where you'd spend 10 years founding a
+0:53
+company. The natural thing to do is like
+0:55
+found another company. It's sort of hard
+0:57
+to hard to fit into an HR box at that
+0:59
+point. Um, and so I ended up talking I'm
+1:02
+based in Chicago. I talked to some of
+1:03
+these guys at Madison Dearborn private
+1:05
+equity shop and they were like, "Oh, you
+1:06
+should we just bought MoneyGram. You
+1:08
+should join." And I was like, "Why why
+1:11
+would I ever join MoneyGram? It seems
+1:13
+like Netflix people join Blockbuster. It
+1:16
+seems like a bad a bad approach." Um,
+1:19
+but when I took a look, it was it was a
+1:21
+really cool and interesting opportunity.
+1:23
+So for those in the room, I'm sure you
+1:25
+guys know MoneyGram. I would ask for you
+1:27
+to kind of like take that knowledge and
+1:29
+put it in a box and put it on the shelf
+1:31
+and just be open to a new idea of what
+1:33
+we're building over here. Because the
+1:36
+reason I joined, I got excited is so I
+1:38
+was at a competitor in the space and
+1:40
+when you look at Moneygram, there's all
+1:42
+these things that assets that they have
+1:44
+that take billions and more importantly
+1:47
+calendar time, decades to build.
+1:49
+networks, network connections, the
+1:51
+ability to move money globally, the
+1:53
+brand, the licenses, all these things.
+1:56
+And and not just licenses, like it's not
+1:58
+like a a cab driver medallion. It's like
+2:01
+building relationships with regulators
+2:03
+so they know how you run your business,
+2:04
+you know, how to talk to them, all that.
+2:06
+And I knew how hard that was because I
+2:08
+tried to build it on the outside. And so
+2:10
+it was really cool to come in and talk
+2:12
+to them. and they're saying what we
+2:14
+need, what we lack is we lack a really
+2:17
+great consumer app. Can you help us
+2:20
+build the next generation of remittance
+2:22
+apps? And if you think of how quickly
+2:24
+you can build a tech company that you
+2:27
+you see new startups sprout up over 12
+2:30
+18 months, you can really build a tech
+2:31
+team and a great product pretty quickly.
+2:34
+And what's cool is I think we've done
+2:35
+that. Um and so um that's what my focus
+2:38
+has been. My role is to manage our
+2:39
+digitally funded remittances. So if you
+2:41
+think of that as or a digital connection
+2:43
+point with customers. So we have retail
+2:45
+we call it which is going somebody going
+2:47
+to Walmart and sending a transaction
+2:48
+which is still a huge part of the
+2:49
+business. Um but I manage anyone who's
+2:51
+sending with a phone or a website. Um
+2:55
+and so yeah so it's been really cool.
+2:56
+We've totally revamped the team. We've
+2:58
+we've totally rebuilt the tech
+3:00
+infrastructure. Uh it's weird to be with
+3:02
+the team at an 85year-old company but
+3:05
+most people there have been there for
+3:06
+less than 18 months. So it's a very
+3:09
+startup fastpaced high velocity
+3:12
+environment where there's you know also
+3:15
+things that get a little clunky at times
+3:16
+but sort of in a fun way. Um, so it's
+3:19
+it's it's cool to be here and and I
+3:21
+think, you know, obviously there's lots
+3:24
+of different technologies that we are
+3:26
+implementing to help us on that journey,
+3:28
+but one of the key ones is using crypto
+3:32
+and more more specifically stable coins
+3:34
+to help us offer a much better consumer
+3:36
+experience to do. We talk a lot about
+3:38
+leaprogging at the company, making sure
+3:40
+that we're not just getting into par,
+3:41
+but building if we were to build a
+3:43
+remittance company today, what would or
+3:44
+a remittance product today, what would
+3:46
+that look like? And so uh so yeah the
+3:49
+stablecoin use case is is core to that.
+3:53
+Well tell us more about that. We are at
+3:54
+a conference called stable summit. How
+3:56
+are you guys using stable coins?
+3:58
+Uh so the the biggest thing is we
+4:00
+announced on Tuesday that we launched
+4:03
+our own stable coin MGUSD.
+4:06
+Uh which is pretty exciting. I think
+4:08
+that there's sort of two aspects. Number
+4:11
+one, I want to call out because there
+4:13
+are a number of parties in the space
+4:15
+that have launched uh stable coins of
+4:17
+their own and I think anyone's
+4:19
+everyone's got like a slightly different
+4:20
+perspective. I think for the
+4:21
+unindoctrinated it all looks kind of the
+4:23
+same. Uh for us it's a really a consumer
+4:26
+use case. That's the focus point. So
+4:27
+we've been for example we've been using
+4:29
+stable coins not MGSD
+4:32
+uh for treasury for backend for years.
+4:34
+We'll move uh over $2 billion this year
+4:36
+through stables for just treasury
+4:38
+purposes. So that is sort of table
+4:39
+stakes for us. But the reason to launch
+4:41
+our own coin is not to make partner
+4:44
+force partners to use that. We want to
+4:46
+work with partners how they want to
+4:47
+work. They want to use fiat. They want
+4:48
+to use fiat stables however they want.
+4:51
+For us it's the consumer use case. So
+4:52
+not only do we have the benefit of
+4:55
+stables generally which is the same
+4:57
+technology infrastructure. So we offer a
+4:59
+balance now in the app. If you want to
+5:01
+hold USD in our app, you can through
+5:04
+MGUSD,
+5:05
+which in the US is not much of a
+5:07
+differentiated product, but for many of
+5:08
+the 200 plus received countries that we
+5:11
+have in the world, that is a huge value
+5:12
+ad to be able to hold dollars. And
+5:15
+what's great for us is that would be
+5:17
+sort of untenable if we were to try to
+5:19
+do that country by country to build that
+5:22
+out with fiat rails. But having built
+5:25
+that on stables, we're rolling that out
+5:27
+at the speed of rolling out websites.
+5:29
+We're in three countries today. El
+5:31
+Salvador, Ghana, and Colombia. Not three
+5:34
+countries that normally go together,
+5:36
+right? But the reason that we're in
+5:37
+those three countries is finding product
+5:39
+market fit. Making sure that we
+5:40
+fine-tune our product. But as far as
+5:43
+scaling from there, it's the matter of
+5:45
+the pace that we want to scale it.
+5:46
+There's not there's not like boundary
+5:49
+there's no the country boundaries aren't
+5:51
+a limiting factor in that. So that's
+5:53
+just this the stablecoin use case of
+5:55
+it's it's great infrastructure for
+5:56
+scaling. It allows USD as a as an asset
+6:00
+for uh especially our receiving
+6:02
+receivers to hold. And then as far as
+6:04
+MGUSD, it's it's like the the the
+6:07
+primary use case for that is that now
+6:09
+the yield on stables, we enjoy the full
+6:12
+stack of that and can pass that to our
+6:14
+customers, pass that back in rewards,
+6:16
+pass that back in lower remittance fees.
+6:18
+And so to have full control over the
+6:20
+asset um and how it's designed gives us
+6:23
+uh you know a way to lower the cost to
+6:26
+our consumer.
+6:27
+I love it. And the company that you
+6:29
+started before was not in crypto. You
+6:31
+weren't necessarily hired to be the
+6:33
+crypto guy. Can you walk us through
+6:37
+sort of why you became interested in in
+6:39
+using stable coins and what that journey
+6:42
+was like for you as someone who started
+6:43
+with like a deep deep background in
+6:45
+traditional payments? I appreciate that.
+6:47
+Yeah, I I so we founded Pangia in 2012,
+6:51
+which is around the time uh Bitcoin
+6:54
+started to be popular. I was telling
+6:56
+Dante before we raised our first
+6:58
+million. Our CTO said, "You should just
+6:59
+put all that in Bitcoin," which we
+7:02
+should have. It was $100 each and we
+7:04
+would have just it would have been a lot
+7:05
+less work and a lot more money. Um but
+7:08
+so you might imagine you're building
+7:09
+this while Bitcoin is is not just uh uh
+7:12
+not just existing but gaining
+7:14
+popularity. And people would say, 'What
+7:15
+is your Bitcoin strategy? What do you
+7:16
+do? You're building remittance. What's
+7:17
+your Bitcoin strategy? And so we thought
+7:20
+a lot about it and couldn't find a use
+7:22
+case and and did. We moved we said,
+7:24
+"Okay, what do we do? Fiat to Bitcoin
+7:25
+and back to fiat and and so we but none
+7:28
+of it really moved the needle." And now
+7:32
+I think with with stables and there's
+7:33
+two things like stables are didn't start
+7:35
+existing this year. So it's not that,
+7:36
+but we've been working in some way with
+7:38
+it for about five years now at
+7:39
+MoneyGram. Um but the big thing for us
+7:42
+is number one there is enough sort of
+7:44
+general acceptance of stables in the in
+7:47
+the in the broader environment. Both
+7:50
+consumers but also regulators have a
+7:51
+comfort level with what it is. And two
+7:54
+it has real like practical value for us
+7:57
+and our consumer. And so that like the
+7:59
+fact that it is not volatile is really
+8:01
+helpful. the fact that we went through
+8:03
+the the ease of scaling to 200 countries
+8:06
+where we don't have to do uh country
+8:08
+bycountry specifics makes a huge
+8:10
+difference. So anyway, so uh long story
+8:13
+short, I've been looking for a crypto
+8:15
+use case for remittance for a long time
+8:17
+and um and and we finally have one.
+8:20
+That's awesome. I before when you and I
+8:22
+were talking, you mentioned that you
+8:24
+have 500,000
+8:26
+Moneygram agents. Can you walk me
+8:28
+through a little bit around what that
+8:31
+means for the stable coin side of
+8:32
+things? How those agents make using
+8:34
+stable coins more impactful?
+8:37
+Yeah, sure. And 500,000 like it is just
+8:39
+a general number, but it's sort of like,
+8:41
+you know, you hear a number and if I
+8:42
+said 300,000 or 600,000, it would kind
+8:44
+of sound the same as 500,000. To give
+8:46
+some context, if you take Subway,
+8:48
+McDonald's, 7-Eleven, and Walmart and
+8:51
+you combine them, they have fewer than
+8:53
+500,000 locations globally. So it it's a
+8:56
+really big footprint. Um yeah, I think
+8:59
+for us what we have successfully done is
+9:03
+turned the remittance flows from a send
+9:07
+receive to in or out and in or out. And
+9:11
+I think what that does is it allows for
+9:15
+you know you know before I arrived at
+9:18
+Moneygram a year and a half ago uh they
+9:20
+had a real problem with digital versus
+9:22
+retail. like as their digital business
+9:24
+grows, does do they they upset their
+9:27
+agents who are then losing that volume?
+9:29
+What's nice about the balance feature
+9:31
+and the ability to sort of use the agent
+9:34
+as a global ATM? Use that agent network
+9:36
+as a global ATM is agents are now saying
+9:38
+more transactions and so that way they
+9:41
+are they are kept happy. We solidify
+9:43
+that network and we're offering a better
+9:46
+product to the customer.
+9:47
+I love it. So, traditionally, most of
+9:50
+your clientele have been retail users,
+9:52
+right? Hey, I work in the US and I need
+9:55
+to send some funds over to my family
+9:57
+and, you know, Colombia or whatever it
+9:58
+might be. How is that? How are how is
+10:01
+using stable coins shifting your
+10:03
+business model and allowing you to serve
+10:05
+new audiences that you couldn't before?
+10:10
+Well,
+10:12
+day one and today which is our focus, it
+10:15
+is still very consumer focused. I think
+10:18
+the biggest element of change is that
+10:21
+instead of it just being like I think in
+10:23
+terms of CACL LTV, we acquire customers
+10:25
+for this. What's the return on
+10:27
+investment? And that's how we are
+10:28
+growing the business. But all of that
+10:30
+today is based on the LTV of a sender.
+10:33
+By introducing a stable coin balance,
+10:35
+we're suddenly now we have the receiver
+10:37
+as a customer. now them holding a
+10:39
+balance that's revenue for us. We're
+10:40
+adding the ability to spend from that
+10:42
+balance. So for us it's really
+10:45
+gamechanging of you know potentially
+10:47
+doubling your customer base immediately.
+10:49
+So for and while there's a need on the
+10:54
+there's there's a need for remittance on
+10:55
+the send side the receive side is in
+10:58
+general less financially served. So it's
+11:01
+a much bigger opportunity to layer on
+11:03
+additional financial services for that
+11:04
+receiver. So so that's probably the
+11:06
+biggest thing. Now, building on stables
+11:09
+does open up new channels as well as far
+11:11
+as money movement. Do we want to do more
+11:13
+business dispersements? Do we want to do
+11:16
+actually get into B2B? I think all of
+11:17
+that is really interesting, but frankly,
+11:19
+today we're just like very focused on
+11:21
+the consumer and how we go from send and
+11:24
+receive to more of a global Venmo.
+11:28
+Why Why should your users care about
+11:31
+this? Like to your point, you've been
+11:32
+around for 80 years. You've built up
+11:35
+500,000 agents around the world. You
+11:37
+guys can already do global money
+11:40
+movement. You have for quite some time,
+11:42
+right? So, why even go down the stable
+11:44
+coin path? Why should people care about
+11:46
+you doing this?
+11:48
+I I think it's a good question. I went
+11:50
+to, I don't know, a stable coin
+11:52
+conference about a year ago and and it
+11:54
+was fun for me to watch on stage as
+11:55
+somebody who didn't know remittances all
+11:56
+say what I think is right, which is like
+11:58
+remittances are sort of solved. Like if
+12:00
+you want to send an instant transfer of
+12:02
+$200, it is instant from any provider
+12:06
+and it's not that expensive. Like we all
+12:08
+the the the percentage is still higher
+12:09
+than we want, but it's it's fine, right?
+12:12
+And it works really well. So for us, I
+12:15
+think there's two sides. One, there's
+12:16
+real efficiencies that obviously we've
+12:18
+gained internally. So that allows us I
+12:21
+mean just for the unindoctrinated, we
+12:23
+have billions of dollars in bank
+12:24
+accounts all over the world at any given
+12:26
+time. That's how we facilitate instant
+12:28
+payments. So if you hit send
+12:29
+and that's how most people do this,
+12:31
+correct? Right. So if you hit send and
+12:33
+you're sending money to France, we've
+12:35
+got money sitting in France that we pay
+12:37
+out and then your money shows up to us
+12:39
+the next day. So there's a negative
+12:41
+float component. Now with with stables,
+12:43
+we can speed that up and our negative
+12:45
+float is much less, which allows us to
+12:47
+save money and pass that to the
+12:48
+consumer. So that's the backend treasury
+12:50
+thing, which is what I was saying we've
+12:51
+been doing for a long time and we'll
+12:52
+continue. We're seeing those volumes
+12:54
+grow and grow. Um, on the consumer use
+12:57
+case, I think that is that's a different
+13:00
+thing and it it sort of articulates that
+13:02
+if you're if we're sending transactions
+13:04
+to Venezuela and the V Venezuelan
+13:07
+customer that normally picks up in cash
+13:09
+now is given an option of do you want to
+13:11
+pick up in cash or do you want to pick
+13:12
+up a third of that in cash and hold the
+13:14
+rest in USDC or excuse me MGUSD. Then at
+13:18
+that point, we've now offered a very
+13:20
+different product to that customer. Uh,
+13:22
+it's funny that I made the slip because
+13:25
+one of the things that that we really
+13:27
+try to thread the needle when we're
+13:28
+saying this is that our customers, to
+13:31
+your point, don't care that it's MGUSD
+13:33
+or USDC or whatever it is, right? For
+13:36
+them, they care that it's dollar
+13:37
+denominated. And so we never say that we
+13:40
+hide it from our consumers because it's
+13:42
+disclosed and explicitly accepted and
+13:44
+everything, but we want to make it so
+13:46
+that they don't have to learn any of it
+13:47
+if they if they don't they don't need to
+13:49
+care how it works, but they get the
+13:51
+benefits of having access to dollars.
+13:54
+I think that's the way that most fintexs
+13:57
+will adopt stable coins. And truthfully,
+13:58
+that's the way I think it should be is
+14:00
+like you should not care what stable
+14:02
+coin you're using or if it's a stable
+14:04
+coin on what chain and what wallet or
+14:05
+any of that. Like my grandma uses Visa.
+14:07
+she has no idea what an acquiring bank
+14:09
+or an issuing bank is. Same thing is
+14:11
+going to happen with with the stable
+14:12
+coin stack, at least in in my personal
+14:14
+opinion. So, you guys have been around
+14:16
+for 80 years. You've built out this
+14:17
+entire network. You're sort of revamping
+14:19
+this network for the modern world of
+14:21
+money built on stable coins. What's next
+14:23
+for MoneyGram?
+14:25
+A lot more. We've got a fun summer of
+14:27
+announcements. Stay tuned. Just a little
+14:29
+teaser. Um but no I think you know for
+14:33
+us it is it is very much like heads down
+14:38
+growing adoption. We're in those three
+14:40
+countries today for the receiver wallet.
+14:42
+Um that'll be over a hundred by the end
+14:44
+of the year which is
+14:46
+that's crazy.
+14:47
+It is crazy. But going back the hardest
+14:50
+part is done. We spent about a year
+14:52
+building this right. But now lighting up
+14:55
+new countries again we already are
+14:57
+connected to the on and off ramps. We're
+14:59
+so we have we already have the licenses.
+15:01
+So now it's a matter of the slow roll
+15:04
+out as you would do any tech product. So
+15:06
+anyway, so that's super exciting for us
+15:08
+to start to see a really a global
+15:10
+network where we've had that in cash but
+15:12
+have that in a digital form.
+15:15
+Can I today take stable coins that exist
+15:18
+in my MetaMask in my you know nonto
+15:21
+crypto wallet and use moneygram to send
+15:24
+it to someone overseas and have them end
+15:26
+up in cash or does all of that need to
+15:28
+be contained within the moneygram
+15:30
+ecosystem.
+15:33
+So there's two so not directly. So today
+15:36
+there's two ways right? So you can fund
+15:38
+a moneygram transaction or fund your
+15:41
+balance with money which could be done
+15:43
+through uh cash ac
+15:55
+but there there are like a number we we
+15:58
+announced a deal about six weeks ago
+15:59
+with Kraken where their users can now
+16:02
+use moneygrams on and off ramps. So we
+16:04
+we also have our network exposed for
+16:07
+other parties to use the on-off ramps
+16:09
+that we've built um where they can use
+16:11
+our on andoff ramps to as basically an
+16:13
+ATM for their account with Kraken and
+16:16
+that's global. So those are the two ways
+16:18
+that that others could get access to the
+16:21
+Moneygram rails. Um but today we're not
+16:24
+accepting like actual payment within the
+16:26
+Moneyagram app in anything but but
+16:28
+traditional Rails.
+16:29
+I love it. And last question for you
+16:31
+before we wrap up. Obviously, you're out
+16:32
+here evangelizing all of stable coins.
+16:35
+Moneygram is a massive organization.
+16:37
+Oftent times at these massive payment
+16:39
+companies, you know, more traditional
+16:41
+payment companies, you see one small
+16:43
+team who cares about stable coins. One
+16:45
+small team who wants to push it forward.
+16:47
+Is that the case at MoneyGram or do you
+16:49
+guys have full buyin from pretty much
+16:52
+everyone? You're like, "Hey, this is the
+16:53
+way that we're going to run our
+16:54
+business." Yeah, I think um certainly
+16:57
+full buyin, you know, I think one of the
+16:59
+greatest proponents and the paths
+17:01
+forward that we have is that our head of
+17:03
+regulatory is fully bought in and
+17:06
+helping us navigate this to do it in the
+17:08
+right way, which means the right parties
+17:11
+we're using, the right treasury uh
+17:13
+partners, the communications that we
+17:16
+have with regulators to make sure they
+17:17
+know how and why and who we're working
+17:18
+with. Um, but I will say we also have a
+17:23
+strong belief at MoneyGram that small
+17:24
+teams go faster. So while the entire
+17:27
+company's bought in and the entire exec
+17:29
+team has bought in, we do have a team of
+17:31
+about 25 maybe 30 folks that are running
+17:34
+full speed at this because we believe in
+17:36
+pods and and there's a reason startups
+17:39
+run faster than big companies. And so we
+17:41
+do have a very dedicated, very
+17:43
+knowledgeable team working on this. Uh,
+17:45
+but it's yeah, certainly full company
+17:46
+buyin.
+17:47
+Love it. I have a million more questions
+17:49
+for you that we will talk about not on
+17:51
+this stage. Um, but thanks for coming up
+17:53
+and uh thanks for telling us more about
+17:55
+what money is doing. Appreciate it.
+17:56
+Thank you. Appreciate it.
+

@@ -1,0 +1,543 @@
+
+Search in video
+0:03
+How many of you use iCloud?
+0:06
+Yeah. So, so back in uh iCloud launched
+0:09
+in um Can I get my slides? So, iCloud
+0:13
+launched in uh 2011 and back in 2009,
+0:17
+Steve Jobs went to see the founders of
+0:19
+Dropbox
+0:21
+and uh he he had a conversation with
+0:24
+them. You know, they want iCloud comes
+0:26
+with storage. Dropbox is a storage
+0:28
+provider and uh eventually at the end of
+0:30
+this conversation he's like listen you
+0:31
+guys are basically you're not a product
+0:34
+you're just a feature and this is
+0:37
+basically I think where we are now with
+0:39
+payments and so I spent uh I spent the
+0:42
+last few months thinking about payments
+0:45
+infrastructure
+0:47
+uh and I've been trying to raise money
+0:48
+for my startup Nightfall Networks and
+0:50
+I've had a lot of uh tough experiences
+0:52
+where people say the market is cooked
+0:54
+and I have come to the conclusion
+0:57
+unfortunately that they might be right
+0:59
+in a lot of respects and so is it sent
+1:01
+me back to the drawing board in terms of
+1:02
+thinking about how I how I run my
+1:05
+startup uh but is also you know want to
+1:07
+share with you a little bit of my
+1:08
+perspective after raising money for a
+1:11
+startup for the last couple months and
+1:13
+then before that spending 11 years as a
+1:15
+global head of blockchain at Ernston
+1:17
+Young and turning that into a billion
+1:19
+dollar uh business for EY
+1:22
+uh so what's happening right so three
+1:24
+things I think are really happening that
+1:26
+are are commoditizing the whole payment
+1:28
+space. Number one, we have new rails,
+1:30
+right? People are are excited about
+1:31
+blockchain. We got 300 billion in in
+1:33
+stable coins. Number two, we have
+1:36
+regulation that basically clears the
+1:38
+path for everybody. And number three, at
+1:40
+long last, we don't just have blockchain
+1:42
+capacity, we have buckets of it. We have
+1:45
+mountains of it. And you know, the
+1:47
+Ethereum Foundation basically has a
+1:49
+roadmap to a trillion transactions.
+1:52
+uh which by the way doing the math it's
+1:53
+about a 100 transactions per person per
+1:55
+day right even I can't spend money that
+1:57
+quickly um so uh and and the consequence
+2:01
+of that is basically uh absolutely
+2:05
+collapsing transaction pricing so for
+2:08
+the Ethereum ecosystem what that means
+2:10
+is that basically per transaction
+2:12
+pricing revenue is down more than 98%
+2:15
+from the peak
+2:17
+98% that is that is a pretty substantial
+2:21
+reduction
+2:22
+Ethereum is ground zero, but from my
+2:24
+point of view, it's just the starting
+2:27
+point. This phenomenon, this kind of
+2:29
+incredible extreme commoditization is
+2:32
+going to spread. And uh what I've had to
+2:35
+face is that the TAM, the total
+2:37
+addressable market that I've been
+2:39
+thinking about for part of my business
+2:42
+uh doesn't look good. Right? So I say
+2:45
+your TAM is toast. It's really my TAM is
+2:47
+toast. Right? I you know you're taking a
+2:50
+business like crossber payments used to
+2:52
+get 10 15 20 $50 for a crossber wire
+2:56
+transfer we are looking at a future
+2:58
+where it's a penny or less
+3:01
+right that's not a TAM that's not a
+3:04
+market that's that's what you price a
+3:07
+feature that is like a bolt-on to
+3:09
+something else um and so that that's my
+3:11
+takeaway and by the way you might be
+3:13
+thinking to yourself well you know at a
+3:14
+penny a transaction volumes are rising
+3:16
+and and yes they are but but not at a
+3:19
+level that's even remotely large enough
+3:21
+to offset the the collapse in pricing.
+3:24
+So if you if you immerse yourself in the
+3:26
+world of Twitter, right, you've probably
+3:28
+heard all the AI people talking about
+3:30
+Givvon's paradox, make things cheaper
+3:32
+and the market gets bigger. That's
+3:34
+working great for the AI folks. Like
+3:35
+demand is up literally 330fold
+3:39
+for the AI guys. We're up 3x in
+3:42
+blockchain. and 3x is not enough of a
+3:45
+volume increase to make up for a 98 or
+3:49
+99% reduction in in per transaction
+3:52
+pricing.
+3:53
+So it's fairly grim uh but it's not
+3:57
+entirely grim. And we do have some
+3:59
+templates for how this kind of thing
+4:01
+tends to work out. And uh my favorite
+4:04
+one for this is voice telefan. So a long
+4:07
+long time ago to be precise 1983 which
+4:11
+is when the Bell system was broken up
+4:13
+and most of like at least half of you
+4:15
+are probably not alive then but back in
+4:17
+1983 voice telefan was 98% of all
+4:21
+telecom traffic and it was a in 2025 it
+4:25
+was a $225 billion a year business and
+4:28
+then in the 90s we got basically new
+4:31
+rails for voice telefan voice over IP
+4:34
+right and so you could Instead of paying
+4:36
+like 40 bucks a month or $70 a month
+4:39
+inflation adjusted for having a landline
+4:41
+at your house, you paid eight bucks a
+4:43
+month for a voiceover IP. So at first we
+4:46
+had it was a product, then it was a
+4:49
+cheaper product and now no one pays for
+4:51
+voice at all. I mean maybe there's
+4:53
+somebody's grandparents who have a
+4:55
+landline at home and are actually paying
+4:57
+AT&T or Bell South for that, but you
+5:00
+know for the rest of us the voice comes
+5:02
+free with your cell phone plan. and it
+5:05
+comes free with WhatsApp. I mean, you
+5:06
+know, no one none of us have paid for a
+5:08
+voice telephone call in in I don't know
+5:10
+how long, right? So, eventually ended up
+5:13
+as voice as a feature. And this market
+5:16
+didn't didn't disappear, but now voice
+5:18
+telefan is just something that goes into
+5:20
+your conferencing system or whatever in
+5:22
+the same way that storage comes with
+5:24
+your iCloud, right? And and it comes
+5:26
+with your office suite and all of those
+5:28
+things. So we we have a model for this
+5:30
+but it's not a model where voice is a
+5:33
+separate business and I think we are not
+5:36
+looking at a future where payments or
+5:38
+for that matter a lot of banking is
+5:40
+fundamentally a separate business right
+5:43
+even something like an IPO right I think
+5:46
+in the next couple of days we're getting
+5:48
+SpaceX right you know I don't know what
+5:50
+they're spending on on their IPO
+5:51
+infrastructure the technical execution
+5:53
+cost but if you did it all on chain the
+5:56
+true technical execution cost of an IPO
+5:58
+is like under a dollar, right? Just kind
+6:01
+of you could raise a hundred billion
+6:03
+dollars and you could the whole thing
+6:05
+would cost you like a dollar. Um, and so
+6:08
+I really think the future of banking is
+6:10
+that we're going to pay for airport
+6:11
+lounges and we're going to get banking
+6:14
+for free.
+6:16
+I I guess my sense of humor isn't that
+6:18
+good. Um, this is a joke. Although, if
+6:21
+you are if you're sitting on a lot of
+6:23
+capital and you love this idea, do uh
+6:25
+get in touch. Um,
+6:28
+practically speaking, what do I mean? I
+6:30
+think, for example, that basically
+6:32
+things like payments, liquidity
+6:33
+management, that'll be a feature in
+6:36
+somebody's enterprise cash flow
+6:37
+management software. You know, it'll be
+6:39
+like, hey, we have this great software
+6:41
+package and by the way, all the
+6:42
+transactions that you need to run your
+6:44
+payments, your billing, everything
+6:45
+that's just included, right? We've
+6:47
+outsourced it. We've white labeled it,
+6:49
+right? Payroll, consumer billing,
+6:51
+retail, loyalty, doesn't matter what it
+6:53
+is. Uh it's not going to be that banking
+6:55
+has features and partnerships. It's that
+6:58
+software products, things that you own
+7:01
+are going to have banks, right? Instead
+7:04
+of having a consumer finance app that
+7:06
+connects to your bank, your consumer
+7:08
+finance app will just be your bank. Uh
+7:10
+and so I think payments are are just
+7:12
+going to be part of the workflow. It's
+7:14
+going to be a standard application.
+7:17
+Uh how will this happen? I think
+7:19
+eventually what's going to happen is
+7:22
+we're going to shift from this model
+7:23
+that we have today of paying things in
+7:26
+batches, doing things once a week or
+7:29
+once a month towards basically daily or
+7:32
+almost realtime payments for stuff. And
+7:34
+and then eventually when we get to that
+7:37
+point actually our transaction volume in
+7:39
+payments will go up like 200 or 300fold
+7:42
+because we won't be doing something once
+7:44
+a month. We'll be doing it once a day.
+7:46
+we might in some cases be doing it uh
+7:49
+once an hour or in the case of machines
+7:52
+and machine payments like almost in a
+7:54
+stream. And so I think of this as kind
+7:56
+of the streaming theory of money. Uh but
+7:58
+it takes time to implement. And again I
+8:01
+got another example for you. Think about
+8:02
+like music, right? We started with
+8:05
+physical albums and then the first step
+8:08
+that everybody does in every de digital
+8:10
+revolution is what we used to call at
+8:11
+IBM your mess for less. Right? We're not
+8:15
+doing anything fundamentally different.
+8:17
+We're just kind of doing it cheaper. So,
+8:19
+first we went to digital albums. And
+8:21
+then Steve Jobs said, "You know what?
+8:22
+I'm gonna charge you to just download
+8:24
+the whole song." And eventually the guys
+8:27
+at Spotify were like, "Wait, bandwidth
+8:29
+is cheap. We'll just stream everything.
+8:31
+You can have all the songs, right?" But
+8:33
+it took time. We were years and years
+8:36
+into like the digital music revolution
+8:38
+before people got comfortable with the,
+8:40
+"Oh, we'll just stream it all." Right?
+8:41
+You can have access to every album ever
+8:44
+for a one monthly fee. I think we're
+8:47
+going to get there in the same way with
+8:50
+payments. Right now, we're doing big
+8:52
+batch payments in expensive ways, right?
+8:55
+Blockchain crypto ecosystems are making
+8:57
+it possible to do the same big batch
+9:00
+payments for very cheaply. But the next
+9:03
+stage is really I'm a utility. I'm an
+9:05
+electric company. I have a billing
+9:07
+system that tells me every night I know
+9:10
+exactly how much electricity you
+9:11
+consumed. Why am I extending you 30 days
+9:13
+of credit, right? I send you a bill once
+9:16
+a month and you get a month to pay it.
+9:18
+That's crazy. That's like 60 days of
+9:20
+cash flow. How about at midnight I'm
+9:22
+going to bill you for your actual
+9:25
+electricity consumption today? And by
+9:28
+the way, not only is this amazing for
+9:30
+cash flow, but it's incredibly effective
+9:33
+for all kinds of promotions. Like daily
+9:35
+payroll is a really good example. If you
+9:37
+work for on an hourly basis and your
+9:39
+boss offers you overtime but says you're
+9:41
+not going to get the cash for it for two
+9:42
+weeks, your incentive to to take that
+9:44
+overtime work is much lower. If the boss
+9:47
+offers you overtime and you can get it
+9:50
+tonight, double extra hourly pay, I
+9:53
+think a lot of people will take that
+9:54
+kind of deal. And so any kind of deal
+9:56
+incentive, if the payout is immediate,
+9:59
+the return on that investment is
+10:01
+substantially larger. So, we do
+10:03
+eventually get there.
+10:06
+Now, just to finish up, let's check in
+10:08
+on our friends at Dropbox. Steve Jobs
+10:10
+told them they were doomed. They're just
+10:12
+a a feature, not a product. Um, it's
+10:15
+true. They're not like, you know, a $200
+10:17
+billion corporation. They just do a very
+10:20
+respectable $2.5 billion dollars a year
+10:22
+with over a billion dollars a year in
+10:25
+cash flow. So it's by no means the end
+10:28
+of the world if you end if we all end up
+10:30
+as a feature not a product. And that is
+10:34
+it for me. So thank you very much.
+

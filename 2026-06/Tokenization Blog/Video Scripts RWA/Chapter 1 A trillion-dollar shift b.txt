@@ -1,0 +1,358 @@
+Chapter 1: A trillion-dollar shift begins: real-world assets are coming onchain
+0:00[Music]
+0:066 secondsImagine a world where anyone anywhere can invest in real estate, private equity, and financial assets instantly
+0:1414 secondswith just a click. A world where finance is fair, open, and accessible 24/7, giving both institutional and retail
+0:2323 secondsinvestors unprecedented liquidity and transparency. This isn't just some distant vision. it's happening right
+0:3030 secondsnow. So I think the real world asset trend is basically the big trend that's now going to be driving the majority of
+0:3838 secondsnet new value into the industry. RWA and tokenization is the only way uh for that
+0:4545 secondschange to occur. We're constantly seeing better products, better security, better transparency, better fees and so on.
+0:5151 secondsLiquidity, liquidity, liquidity. We need the pie to be much much bigger. I think that the next milestone is to hit collectively to 10 billion dollars and
+0:5959 secondsthen hundred billion dollars and then a trillion dollars. In five years, most of the world's assets will be tokenized.
+Chapter 2: What tokenization actually means and why it’s happening now
+1:051 minute, 5 secondsWhat we're getting to now are real use cases that generate real economic benefit that are hard to look away from.
+1:121 minute, 12 secondsGood luck going back.
+1:181 minute, 18 seconds[Music]
+1:201 minute, 20 seconds2025 marks a turning point in tokenization, regulatory clarity, institutional adoption, and the global
+1:281 minute, 28 secondsframeworks paving the way for the $30 trillion opportunity ahead. So the question is why now? I'm Baji
+1:361 minute, 36 secondsIlluminati, CEO of Centrifuge, where we are spearheading the global education and adoption of asset tokenization. Join
+1:451 minute, 45 secondsme as we explore insights from industry leaders at Centrifug's realworld asset summits across Dubai, Austin, Brussels,
+1:531 minute, 53 secondsSingapore, and New York. Each capturing a key evolution in the
+1:591 minute, 59 seconds[Music]
+2:042 minutes, 4 secondsspace. Tokenization and the rate of progress are evidently transforming how we think about financial assets. This
+2:122 minutes, 12 secondshas become apparent for both institutions and retail investors. Right now, the number of tokenized assets is
+2:192 minutes, 19 secondssteadily increasing, but experts say we're only just beginning to scratch the surface. Today, breakthroughs in
+2:272 minutes, 27 secondstechnology, infrastructure, and adoption mean the pieces are finally falling into place. So before we get into the real
+2:362 minutes, 36 secondssize of the opportunity, what exactly is tokenization and why does it matter right now? The idea of tokenization is
+2:442 minutes, 44 secondstaking an asset that exists in the real world and putting it in the file format of a token. So if you think about assets
+2:512 minutes, 51 secondsin the real world, they may be, you know, ones and zeros in a brokerage app um like Robin Hood. They may be a PDF
+2:592 minutes, 59 secondsdocument that's a legal agreement. um all of they may be airline miles in a you know in your Delta app. All of these
+3:073 minutes, 7 secondsuh disperate databases track who owns what and that system is the system we
+3:153 minutes, 15 secondshave today. It it's intermediated. It's opaque. It is um you know it it it's not open and and permissionless. It's
+3:233 minutes, 23 secondscertainly not programmable. So the idea is let's take these assets that exist in disperate silos and move them onto a
+3:323 minutes, 32 secondsblockchain and then the benefit from that is you get composability, you get um instant settlement, um you get
+3:403 minutes, 40 secondstransparency. The way I think about tokenization and and the way I think that you know the smartest people in the space think about tokenization is being
+3:473 minutes, 47 secondsable to bring some sort of off-chain asset whether that be dollars, whether that be you know money market funds, whether that be a number of other things. Um making a digital
+3:563 minutes, 56 secondsrepresentation of it where the entirety of the contract or the you know legal side of whatever might exist there uh is enforced by smart contracts on chain.
+4:074 minutes, 7 secondsThe benefits of tokenization allows for programmability. It allows for immutability. It allows for uh interoperability that simply does not
+4:144 minutes, 14 secondsexist in, you know, traditional financial systems, traditional financial networks. I think at a high level, it's not just tokenizing an asset for the
+4:234 minutes, 23 secondssake of tokenizing it. I think when we talk about an asset, a lot of the things that we talk about that are being tokenized are financial products, um,
+4:314 minutes, 31 secondssecurities, and so a lot of the benefits come not just from tokenizing the end ownership, but really as much as
+4:394 minutes, 39 secondspossible the end-to-end asset management life cycle. So things like investor onboarding and capital calls and uh fund
+4:484 minutes, 48 secondsdispersements, fund admin, NAV reporting, all of these things uh to the extent that different institutions and
+4:544 minutes, 54 secondsprojects can put on chain um and implement kind of smart contract logic to make a lot of these historically
+5:015 minutes, 1 secondmanual and disparit processes uh more streamlined and cost effective. That all you know collectively makes the tokenization part make sense in my view.
+5:115 minutes, 11 secondsThe most significant benefit is, as I said, displacing trust with truth, right? The ability to know for certain that what I'm seeing is in fact what's
+5:195 minutes, 19 secondsbeing represented to me. Not having to trust anyone as to its ownership, its composition, its history, the ability to transact bilaterally, the ability to
+Chapter 3: From trust to truth: how blockchain replaces middlemen
+5:275 minutes, 27 secondstrade without a counterparty intermediation, right? So, we can face off bilaterally with no counterparty or settlement risk and trade instantly. and
+5:345 minutes, 34 secondsthe ability to crosscolateralize with certainty, the ability to support that democratized prime construct where uh you can effectively have a true security
+5:425 minutes, 42 secondsperfection whether you're borrowing to trade another position or you're borrowing cash against your asset.
+5:485 minutes, 48 secondsThat's hugely valuable. What makes RWA interesting is that you can take traditional assets and you can have them do more when you bring them on chain.
+5:565 minutes, 56 secondsThe reason they're able to do more is because they can integrate and be composable with DeFi protocols. Whether it's trading venues or borrowing facilities or new ways to program assets, everything is possible on chain.
+6:076 minutes, 7 secondsIt has the benefit that if it's issued as an ESC20 token that it's automatically compatible with all the DeFi infrastructure that we have been building and I think that's also why you
+6:156 minutes, 15 secondswant to have those real world assets, right? Like I can already today of course I can buy stock via my regular broker account but it's isolated in my
+6:246 minutes, 24 secondsbank. I cannot do anything with it. I can buy it, I can hold it, I can sell it. But in DeFi, uh, because now it's an ESC20 token, I can use it in the entire
+6:336 minutes, 33 secondsD5 ecosystem hopefully, and that allows me to have much more utility. I can borrow against it. I can do whatever I want with it. And that is something that
+6:416 minutes, 41 secondsyou can simply not do uh with your bank account. You get composability, you get um instant settlement, um you get
+6:506 minutes, 50 secondstransparency, you get you actually can hold the asset sovereignly without sitting with, you know, without it being held at a brokerage or custodian or
+6:596 minutes, 59 secondsintermediary. Um and then it's also programmable, so you get to unlock, you know, uh basically all of the exciting
+7:067 minutes, 6 secondsbenefits of of code. um as opposed to just I would say like dumb contracts in in the real world where you can't really do anything with with assets or
+7:157 minutes, 15 secondseverything that in traditional finance is very very cumbersome very very heavy very very time consuming uh is is done
+7:237 minutes, 23 secondsis just automated on chain and it's yeah it's kind of amazing that actually finance hasn't got to this point until now I feel like it's the last industry
+7:317 minutes, 31 secondsto not uh u benefit from the um uh from technology
+7:387 minutes, 38 secondsuh and and automate processes as a result of technology are ways will change traditional finance I think in the speed of settlement that's a very
+7:477 minutes, 47 secondsbig one so right like today it's it often takes days uh if not weeks to settle exotic transactions there's
+7:557 minutes, 55 secondsreally no reason for that if you have a token you send it it's settled you have a you send stable coins you you sett you settled if the
+8:038 minutes, 3 secondsthe uh the other side of the transaction I think that will that will simplify things tremendously. Um the fact that
+8:118 minutes, 11 secondstoday settlement and the trans making the transaction and settling the transaction isn't uh one step actually
+8:198 minutes, 19 secondsmeans that whenever something goes wrong between those two it's a lot of work to kind of reconcile and correct these issues. It solves a problem that I don't
+8:288 minutes, 28 secondssee as solvable any other way, which is connecting the globe's investment marketplaces, standardizing the way
+8:358 minutes, 35 secondsassets are stored and traded, um, and allowing for automated market participants. I think it's going to I I think it's going to unlock smaller
+8:448 minutes, 44 secondsinvestment opportunities because of the startup costs that are unavoidable in the traditional system. Um, and I think
+8:518 minutes, 51 secondsthat's going to unlock more entrepreneurs. I believe that RWA and tokenization is the only way uh for that
+8:588 minutes, 58 secondschange to occur. Now we understand the promise and potential of tokenizing real world assets from both an institutional
+9:069 minutes, 6 secondsand retail perspective, but tokenization isn't exactly a new narrative. The idea's been around for a long time and
+9:149 minutes, 14 secondseven gained significant mind share back in 2018. So what has changed? I think the biggest the biggest kind of
+9:219 minutes, 21 secondsinstitutional adoption like moment right was when Black Rockck launched a Bidd token a treasury bills product that uh
+9:309 minutes, 30 secondsyou can now hold in tokenized form on chain. I think that is the largest asset manager in the world using crypto actually building a product and and
+9:389 minutes, 38 secondsactually seeing the success that it had um created a huge wave of interest from other institutions and kind of legitimized this market tremendously. I
+Chapter 4: The BlackRock moment — when Wall Street joined the movement
+9:479 minutes, 47 secondsthink the biggest one is just Larry Frink coming out and saying, "Hey, we're going to tokenize everything in 2023." I think JP Morgan employs like 300 people in their Onyx division even though Jamie
+9:559 minutes, 55 secondsDiamond is very publicly saying how much he hates crypto. I think the launch of the ETF was, you know, more buyin from the traditional markets. I think the
+10:0310 minutes, 3 secondsfact that we've now seen um real legislation around and and rule making around stable coins and we're here in
+10:1010 minutes, 10 secondsEurope right now. Mika or but also in Japan digital dollars are are are now allowed. Um and we're starting to see that in most jurisdictions. I think
+10:1810 minutes, 18 secondsthose things are kind of an accelerant uh to the space. What we're getting to now are real use cases to generate real
+10:2610 minutes, 26 secondseconomic benefit that are hard to look away from and that's why the banks are starting to lean in. That's why the funds are starting to lean in and that's why the regulators will lean in because
+10:3410 minutes, 34 secondsif there's economic benefit ultimately that occurs back to the consumer. So you've seen a lot of different, you know, people starting to have interest in this. It's different than than
+10:4210 minutes, 42 secondshistorically where we had like the STTO boom back in 2018, 2019. You're starting to see the the I think the convergence
+10:4910 minutes, 49 secondsof the technology being, you know, more um applicable and and more usable. Still a long way to go, but it's it's it's better this time. Regulatory frameworks
+10:5810 minutes, 58 secondsthat allow these things to be actually tokenized and brought on chain and just the mind share. And it's all kind of coming together. I think um sometimes um
+11:0611 minutes, 6 secondspeople think about um crypto um or cryptocurrency and RWA
+11:1311 minutes, 13 secondsas like a zero sum equation. When cryptos are hot, then RWA is going to be cold and vice versa. I think maybe that
+11:2211 minutes, 22 secondswas what has changed since 2018 to to today. I think RWA has found a clear um
+11:3011 minutes, 30 secondsspace in that ecosystem and as more um
+11:3711 minutes, 37 secondsinfrastructure builds around it and more broader interest comes around it I think this will form itself properly rather
+11:4411 minutes, 44 secondsthan it being a um a side stage to cryptocurrency. What we really have a lot more now is that a lot of these companies that are pursuing license
+11:5311 minutes, 53 secondsregime after our regulators to get a license to really want to develop real use cases, real financial instruments,
+12:0112 minutes, 1 secondtokenized financial instruments, tokenized assets and create business and liquidity and use cases for the market.
+12:0812 minutes, 8 secondsAnd I think that itself has been the biggest uh movement I've seen so far.
+12:1112 minutes, 11 secondsAMA and PWC just published the sixth annual crypto hedge fund report. So that's hedge fund specific, but we found
+12:1912 minutes, 19 secondsthat about a third of the hedge fund respondents were actively tokenizing their product or strongly considering it
+12:2712 minutes, 27 secondsfor the future, which was an uptick from last year's results where it was about 25%. So there's certainly progress. I
+12:3512 minutes, 35 secondsthink the bigger way that it really connects with the broader industry trends that we're seeing is this theme
+12:4212 minutes, 42 secondsof what is called democratization or the wider dist distribution of alternative investment funds to a broader audience.
+12:5312 minutes, 53 secondsI think I mean I think it's really cool that RWA is just innovating and and we're constantly seeing better products,
+13:0013 minutesbetter security, better transparency, better fees and so on. And then uh what's happening now is all the major D5 protocols like Sky and and other large
+13:0913 minutes, 9 secondsD5 protocols are gaining the flexibility to actually then also allocate into these and and uh take advantage of this
+13:1613 minutes, 16 secondskind of of um you know innovation in the other space. I think diversification is a big thing. Um now a lot of the DeFi
+13:2413 minutes, 24 secondsopportunities um they um they're not as diverse that you can actually see on the traditional financial ecosystem. So you
+13:3213 minutes, 32 secondshave a lot of uh financial opportunities. You have onchain cash and true stable coins and yield opportunities but you don't have that
+13:4013 minutes, 40 secondstype of diversification that you can see on more traditional finance. And that's the kind of like a missing piece. So for
+13:4713 minutes, 47 secondsexample, if uh you want to diversify uh on chain um your options is going to offchain and actually acquiring
+13:5513 minutes, 55 secondsdifferent kinds of assets uh that provide that diversification um and bringing that onchain means that you can actually diversify uh more
+14:0414 minutes, 4 secondseasier um and more accurately uh and even add programmability into that. All crypto assets are highly correlated
+14:1214 minutes, 12 secondstoday. Stable coin is the first example of diversification. Obviously, a way to just simply hold the dollar onchain. Um, real world assets or non-crypto native
+14:2114 minutes, 21 secondsassets, having those onchain allows people to get exposure to other assets that are either anti-correlated or uncorrelated to their existing crypto holdings. In terms of what that does for
+14:2914 minutes, 29 secondsthe underlying market, um, I think it's quite simple. It's just the general benefits of why blockchains matter and people should want to use them, which is more transparency, more openness, and
+14:3814 minutes, 38 secondsmore immutability. So back in the day the discussion was you are nice with your public blockchain but that will not
+14:4614 minutes, 46 secondswork. It will be private blockchain. Uh that will there was R3 and other conglomerates with a lot of
+14:5314 minutes, 53 secondsfunding that did go exactly nowhere as expected and now you have black hog coming to Ethereum and other asset
+Chapter 5: Inside the $30T opportunity: the numbers behind the revolution
+15:0215 minutes, 2 secondsmanager Franking with them three as well. So I think this stage the the the private blockchain is
+15:1015 minutes, 10 secondsin the past. We are moving on. There was that discussion of no stable coin will not remain just with a blacklist. Uh it
+15:1715 minutes, 17 secondswill be KYC AML all all the way and no one could hold a stable coin with a big KYC. That was something I heard a lot in until 2021.
+15:3015 minutes, 30 secondsNow with Micah passing, associate general issuing a permissionless stable coin. Good luck going
+15:4015 minutes, 40 secondsback. To truly grasp the immense potential of real world assets, we need to compare where the market stands today
+15:4815 minutes, 48 secondswith projections for the future. Right now, the vast majority of the world's $600 trillion in traditional assets are
+15:5715 minutes, 57 secondsmanaged using outdated systems, manual processes, and spreadsheets. But the change is coming. It's estimated that
+16:0616 minutes, 6 secondstokenized assets could grow to $30 trillion by 2030. So, where are we today? And how will this evolution
+16:1316 minutes, 13 secondsunfold? Right now, real world assets has surpassed the total value locked in DeFi, which is pretty significant
+16:2016 minutes, 20 secondsbecause it's a very small percentage of what can be turned into a real world asset. My personal view at this point is that real world assets will surpass the
+16:2916 minutes, 29 secondsvalue of crypto, the total value of cryptocurrencies over the next 1 to three years. And so I think our industry
+16:3616 minutes, 36 secondswill end up being defined by both what's in the real world asset blockchain format and what's in the cryptocurrency
+16:4416 minutes, 44 secondsformat. And this will significantly change how people view our industry and what it uh fundamentally does. Uh so I
+16:5116 minutes, 51 secondsthink the real world asset trend is basically the big trend that's now going to be driving the majority of net new
+16:5816 minutes, 58 secondsvalue into the industry. I think we as I mentioned we've got into low single digit billion dollars. Uh I think that the next milestone is to hit
+17:0617 minutes, 6 secondscollectively to $10 billion and then hundred billion dollars and then a trillion dollars, right? Because size matters. Uh you know the more projects out there, the more companies come into
+17:1517 minutes, 15 secondsthe space, the more investors hear about it, the more technologies being developed to make it easier and and to make it uh you know more provide more
+17:2417 minutes, 24 secondsutility as we discuss and more functionality. So so this is at the end of the day a factor of volume, right? So the fact that we're now past has the
+17:3117 minutes, 31 secondsfirst few billion is great but we need to get to you know tens of billions and then eventually to a trillion dollars for this industry to really be an
+17:3917 minutes, 39 secondsimportant one. So I think there's a spectrum. So I think about it as there are six there's 600 trillion dollars of
+17:4517 minutes, 45 secondsassets globally that live offchain. Um those can be roughly divided into four major buckets. So stocks, bonds,
+17:5417 minutes, 54 secondscurrencies and commodities. Most assets globally can be distilled into one of those four buckets. I think there's tokenization activity across all of
+18:0118 minutes, 1 secondthose. So, you know, I would say you're seeing the the predominant activity you're seeing on chain right now is tokenization of fixed income products.
+18:0918 minutes, 9 secondsThat can be initially something as simple as a US treasury, which is the I would say the most popular category. It can extend into other types of private
+18:1818 minutes, 18 secondscredit. So, private loans. Um, and outside of the fixed income bucket, you've seen, you know, tokenized gold
+18:2518 minutes, 25 secondsand commodities on chain. you've seen also interestingly kind of like tokenized LP stakes or tokenized uh
+18:3418 minutes, 34 secondsstructured products. Um and then one of the areas I'm fascinated with is kind of more esoteric
+18:4218 minutes, 42 secondsum you know really like longtail assets that don't really have established capital markets that are now being tokenized on chain and finding like a
+18:5118 minutes, 51 secondsyou know an initial place to be traded or financialized. So these are area these are things like uh collector
+19:0119 minutes, 1 secondwatches you know baseball cards um you know fine art uh farmland
+19:0819 minutes, 8 secondslitigation finance claims carbon credits these are things that like aren't traded through traditional Wall Street
+19:1619 minutes, 16 secondsinfrastructure because it's not worth the time of the bank because like there's just the markets aren't big enough for them to make money but you
+19:2419 minutes, 24 secondsknow they they're kind of so these assets are now finding like critical density on chain which I actually think is is really interesting. I think broadly the the the view across the
+19:3219 minutes, 32 secondsindustry is that the supply is a little ahead of the demand. Um that's not necessarily a problem, right? You know
+19:3919 minutes, 39 secondswhenever there's a new market um that's quite often the case of the there's more supply than demand. It's all going to come down to the the use cases, the
+19:4719 minutes, 47 secondsproduct market fit. So I think it's it's just that's the that's the trend. um you know these things will eventually get a
+19:5519 minutes, 55 secondscritical mass. So the more people that are tokenizing assets, the more you can then you know buy and sell and trade assets across different ledgers in in a
+20:0420 minutes, 4 secondsin a broad ecosystem that I think will you know provide the the opportunity for this sort of hockey stick where things will really take off. That has to be a
+20:1220 minutes, 12 secondsbig focus. what what do we put on chain and making sure that those assets actually have value inherently and by putting them on chain we just make them more efficient and more appealing
+20:2120 minutes, 21 secondspotentially accessible to a greater number but their onchain characteristic should not be their only appeal if you tokenize you still have to answer the question more directly what
+20:2920 minutes, 29 secondswe see now of interest from investor for real world assets a lot is around fixed income actually there's quite a bit of um of of bonds work being done on on on
+20:3820 minutes, 38 secondsbonds to be tokenized both you know state bonds or corporate bonds as well so that's kind where we see the most the most traction currently but it does
+20:4620 minutes, 46 secondsremain very very nent. I think more than anything else we need winners you know
+20:5220 minutes, 52 secondswe need uh proven investment outcomes that individuals can underwrite and can
+20:5920 minutes, 59 secondsassess that demonstrate the value that's possible in the space. I think the industry's done a really nice job um in
+21:0621 minutes, 6 secondsgetting organized and having a a better articulated message, a more consistent message, certainly in the United States.
+21:1321 minutes, 13 secondsUm and so I've been pretty encouraged by this year. It's it's advanced the the dialogue at at a national level far
+21:2121 minutes, 21 secondsbeyond where I would have expected. Um and I think people are becoming much more mature in their style of of messaging. So I'm pretty encouraged
+21:2921 minutes, 29 secondsabout it. Liquidity, liquidity, liquidity. Uh number one is we just need more volume. Today rwas excluding stable coins and treasuries are very small
+21:3721 minutes, 37 secondsmarket. We need the pie to be much much much bigger. Um so we're now in the order of magnitude of maybe tens of billions of assets. We need tens of of
+21:4621 minutes, 46 secondstrillions in assets. The first trillion you know is hopefully coming in the next 5 to 10 years but that's pretty far away. We have not even remotely come
+21:5521 minutes, 55 secondsclose to reaching the scale of the traditional securities markets which settles and clears quadrillions of assets every year. But it will take us
+22:0422 minutes, 4 secondsquite a long time to get to the scale of the traditional markets and for that transition to happen. We don't even know yet what the potential is fully. Um I
+22:1122 minutes, 11 secondsthink we have first ideas of what our data is going to enable but um you know like uh when you think of of how big the
+22:1822 minutes, 18 secondsimpact will be on the financial system um there's there's stuff that none of us have really thought of yet right um and I think when when you go towards a 24/7
+22:2822 minutes, 28 secondsfully automated financial system uh that like anyone can participate in that will lead to so many um new use cases and
+22:3622 minutes, 36 secondsideas and different methodologies. We're not even we're 10% of the HELOC market, let alone of the whole market. But this is going to change because the market's
+22:4522 minutes, 45 secondsreally good about finding efficiency and economic advantage. And we have a big economic advantage using blockchain to originate and trade assets. I think
+22:5322 minutes, 53 secondsyou're going to see a tipping point where there's a massive shift to issuance on chain. I believe if you invite me back to an interview in 5
+23:0223 minutes, 2 secondsyears, most of the world's assets will be tokenized. And I think it's it's fascinating thing because we only have about onethird of the assets in the
+23:1023 minutes, 10 secondsworld that are liquid. So that would include stocks and bonds, paper assets, obviously liquid like cash and things like that. But this piece of real
+23:1823 minutes, 18 secondsestate, uh there's art, there's collectibles, there's many many different things that are in our total portfolio,
+23:2523 minutes, 25 secondsuh that are illlquid assets. But the world of digital tokenization of real world assets, I think, is upon us.
+23:3523 minutes, 35 seconds[Music]
+23:3623 minutes, 36 secondsReal world assets are no longer just a theoretical concept or a speculative buzzword. They have become an integral
+Chapter 6: Real adoption — from Franklin Templeton to Sky and Avara
+23:4423 minutes, 44 secondspart of financial markets both onchain and in traditional finance. Institutions and DeFi protocols alike are adopting
+23:5323 minutes, 53 secondstokenization at scale, unlocking new efficiencies, liquidity, and use cases.
+23:5923 minutes, 59 secondsBut where is this transformation happening in practice? And how are these innovations reshaping both capital and crypto financial markets? What I'm
+24:0824 minutes, 8 secondsseeing is that the trady world is starting to launch more and more things on chain. For example, the Fidelity International tokenized fund that was
+24:1624 minutes, 16 secondslaunched last week. Uh, you know, that's something that got put together pretty quickly in the trad for the trady world, like relative to how long it usually takes. So, I'm seeing an acceleration.
+24:2724 minutes, 27 secondsFranklin Templeton has one of the most flagship RWA projects um on the planet.
+24:3224 minutes, 32 secondsBenji, which is our onchain US government money fund um registered in the United States, a public security that
+24:3924 minutes, 39 secondsuses public blockchains as part of the ecosystem that backs uh Benji itself.
+24:4624 minutes, 46 secondsClients can go to Benji Invest, download our app, and be able to experience owning a uh a digitally native asset inside of a a money market fund, inside
+24:5524 minutes, 55 secondsof a digital wallet experience. The tokenization of money funds, there's real world use cases and using money funds as collateral. When you tokenize
+25:0325 minutes, 3 secondsthem and you're easily more easily able to transfer those assets um in a in a blockchain environment, that's a real
+25:1125 minutes, 11 secondsuse case for collateral management. We started origining loans on blockchain back in 2018. Uh we did the first warehouse that year, did the first
+25:1825 minutes, 18 secondssecurization in March of 2020. Last year did the first AAA rated securizations.
+25:2225 minutes, 22 secondsAnd so we've done uh at this point over $30 billion of transactions recorded on chain. I think the provenance TVL uh
+25:3025 minutes, 30 secondslock value is is somewhere around 12 billion right now of RWA. But that vertical was very specific
+25:3725 minutes, 37 secondsto institutions. It was KKR, it was Apollo, it's, you know, the big institutions that are transacting in in assetback securities and whole loan
+25:4625 minutes, 46 secondstransactions and so forth. And what we really believe is the blockchain has an ability to displace everything as it relates to exchanges. And so we're
+25:5325 minutes, 53 secondsthinking about how do we get equity, how do we get fixed income, how do we expand the access to crypto and bring in a more
+26:0126 minutes, 1 secondtransparent market, a more liquid market. So our first project um which we announced earlier this year um was a
+26:0826 minutes, 8 secondsSingapore dollar government bond fund um that used the financial um and legal
+26:1426 minutes, 14 secondsstructure of a age-old technology called the unit trust system but essentially transformed a paperbased
+26:2326 minutes, 23 secondsum unit certificate into code. Um and therefore
+26:3026 minutes, 30 secondsthe token that you hold in your wallet you can take to court to say this is my
+26:3826 minutes, 38 secondsyou know share in the in the in the fund. um being able to do that um was
+26:4426 minutes, 44 secondsable was also endorsed by Moody's um and they gave us a double A rating for that
+26:5026 minutes, 50 secondsstructure in not noting the complexity and the compliance that we had with regards to making sure that what they
+26:5826 minutes, 58 secondsheld was what they were entitled to and what what they were claiming. I think you know going back to to what Black Rockck launched I think that was really
+27:0627 minutes, 6 secondsexciting I think for everyone in the industry. Um but importantly and what I think differentiates them maybe from
+27:1427 minutes, 14 secondssome others is obviously it's Black Rockck right it's a very big name reputable asset issuer um and then in
+27:2127 minutes, 21 secondsaddition the true integration I think of the tokens with kind of
+27:2827 minutes, 28 secondsthe the the digital asset space is a really big differentiator as well in terms of the fact that a lot of
+27:3627 minutes, 36 secondsdifferent custodians accept the token uh there's platforms such as Falcon X which are enabling um the pledging of that token as collateral to borrow against.
+27:4627 minutes, 46 secondsSo there's um obviously a very large name quality issuer behind it but also utility. So in terms of peer-to-peer transfers and pledging as collateral and
+27:5427 minutes, 54 secondsreally integrating into whether it's an institutions or an individual's crypto portfolio. I think all of those things collectively are very exciting. Um and
+28:0328 minutes, 3 secondsI'm really looking forward to kind of seeing how that how that grows out. I think um a great institutional road map starts with an experimentation
+28:1128 minutes, 11 secondsum that can be scaled or a group of experimentations um and getting closer into the technology um and finding the
+28:2028 minutes, 20 secondsright business opportunity as well. So for institutions it's really important um not to only dip their toes into the technology but build a business case
+28:2828 minutes, 28 secondsthat they can actually then um try to fulfill and if that business case works that brings a lot of opportunity um
+28:3528 minutes, 35 secondsplatro fun is a good example where it's scaled to 500 million um and there might be even more scalability um available
+28:4428 minutes, 44 secondsmaker or now known as sky has announced right the intention of the launch of an
+28:5128 minutes, 51 secondsRFP process where to deploy about a billion dollars into tokenized treasury bills. Uh that is extremely interesting
+29:0029 minutesbecause actually it's an order of magnitude that's bigger than anything else to date. Um and it's it's h
+29:0729 minutes, 7 secondsstarting to look it's it's starting out with starting to be a size where like you actually can get liquidity, you can
+29:1629 minutes, 16 secondsget the economies of scale that you really need for these products to make economic sense, right? So it's we're moving away from having to subsidize
+29:2329 minutes, 23 secondsthis quite heavily and like having to really think of this as a pilot to now actually the the dollar amounts are starting to matter. And so I think that
+29:3129 minutes, 31 secondsis really the significance right like it's it's a large enough size that it actually matters um even to people in Trafi that are looking at this and are
+29:4029 minutes, 40 secondsmaybe still skeptical today. the best way to you know to to basically manage the portfolio and and increase its
+29:4729 minutes, 47 secondssecurity is to tap into innovative features like uh tokenization. So every sing I mean so and this is we're talking about a
+Chapter 7: Regulation, resistance, and the global policy race
+29:5529 minutes, 55 secondsbillion or more in collateral that will be allocated into the top uh the winners basically of the tokenization grand
+30:0230 minutes, 2 secondsprix. Um, and as a result, every single uh project in the RDB space, like probably literally every single project
+30:0930 minutes, 9 secondsin the whole world has actually applied for this. By now, it's clear we see the
+30:1730 minutes, 17 secondsconvergence of a multi-trillion dollar opportunity with increasing urgency, momentum, and a favorable macroeconomic
+30:2530 minutes, 25 secondsfactors. So, what's the holdup? What might institutions still be hesitant about? I think one of the big points is
+30:3230 minutes, 32 secondsstill or unknowns is still regulation. So today we're still kind of
+30:3930 minutes, 39 secondsmostly operating around uh exemptions, right? Kind of like weird carveouts or very specific uh regulation in certain
+30:4730 minutes, 47 secondsjurisdictions. uh if we can get to a point where the SEC will approve a
+30:5330 minutes, 53 secondspublic fund to be tokenized and actually be sold on chain that is a place where like it will be un there will be a very
+31:0131 minutes, 1 secondclear lowrisk way for large financial institution to actually do this and that's really what's needed
+31:0831 minutes, 8 seconds[Music]
+31:0931 minutes, 9 secondsum going forward I think the regulatory environment is challenging uh in part because the regulators don't have
+31:1631 minutes, 16 secondslegislation to regulate to and that introduces a lot of of of subjectivity
+31:2331 minutes, 23 secondsas to what what is a security, what's a commodity, who regulates what. Um, but I think we should be pragmatic that it's
+31:3231 minutes, 32 secondsnot necessarily that much better anywhere else. Um, I think all regulators globally are struggling with
+31:3831 minutes, 38 secondswhat is a significant change to the way we thought about securities and security trading and commodities and commodity trading historically. So regulation I
+31:4731 minutes, 47 secondsthink is by and large the largest issue today and I think that's also where traditional financial institutions have a natural advantage is they have an
+31:5531 minutes, 55 secondseffective monopoly through regulation on issuance distribution custody some of these other really critical functions.
+32:0232 minutes, 2 secondsThis is again why I think creating net new assets that cater towards things you can uniquely do on chain is a great application of real world assets because
+32:1032 minutes, 10 secondsit's a place where traditional financial institutions don't have a regulatory moat where they can't compete and when there's still enough ambiguity to get to
+32:1832 minutes, 18 secondstoo big to fail scale like tether has right I think if you work in this space regulation and policy is super sexy
+32:2532 minutes, 25 secondsbecause you know it touches every part of your business even if you're not exactly sure how I think that there are different types of regulatory regimes that are popping up all over the world.
+32:3632 minutes, 36 secondsYou have the markets and crypto assets regulation which really looks to centralized actors and centralized issuers. So really thinking about
+32:4432 minutes, 44 secondssomething like tokenized assets um in the EU but also we have draft legislation that just came out of the house uh that's meant to be a very
+32:5232 minutes, 52 secondscomprehensive market structure bill in the United States. Uh Japan, Singapore, uh tons of countries around the world are really trying to figure out this
+33:0033 minutesquestion. So I think as we see this emerge, finding ways to move this this crossborder or borderless type of
+33:0833 minutes, 8 secondstechnology, thinking about how to harmonize regulation and make it all work uh is really sexy and interesting.
+33:1333 minutes, 13 secondsI think that's really the most exciting thing is to see the technology developed around some of the policy goals. But you find that there are some hubs that tend to attract a lot more of these players
+33:2233 minutes, 22 secondsin and usually it boils down to two things, right? one is really a government policy that somehow is open
+33:2933 minutes, 29 secondsto experimenting with this area. Uh yes, there will be risk but if you don't try to understand the product by sort of
+33:3833 minutes, 38 secondsfirst telling the world that I'm prepared to work with you um it's going to be very hard for you to come up with the appropriate rules and regulations.
+33:4533 minutes, 45 secondsRight? So first and foremost I think um um the UAE government uh it's uh has put out a strong statement to say that we are open for business.
+33:5433 minutes, 54 secondsAnd the second thing is with that collaboration with the industry uh we recognize the importance of having to come in put in place u regulatory
+34:0334 minutes, 3 secondsrequirements that are bestin-class and align with international standards. you know, the idea that that the uh a regulator like the SEC can can observe
+34:1234 minutes, 12 secondsthe um the activity that's happening in Benji by accessing the explorers from the various uh public chains that we use
+34:2134 minutes, 21 secondsis an iscreased level of transparency that the SEC has not yet had as it relates to kind of the the traditional transfer
+34:3034 minutes, 30 secondsagency process. Um so this idea that that blockchains provide new and interesting feature sets
+34:3834 minutes, 38 secondsfor all stakeholders is super super important. The most important factor is that governments and and regulators around the world recognize it is not
+34:4634 minutes, 46 secondsgoing away. So I think in this respect what I'm seeing right now is that everyone acknowledges that real real world assets cryptocurrency these are things of that will be of the future.
+34:5534 minutes, 55 secondsThese are things that are present future and is here to stay.
+35:0135 minutes, 1 secondWe've seen the potential of tokenization and the hurdles that still stand in the way, but we haven't yet addressed one of
+35:0835 minutes, 8 secondsthe largest inhibitors of growth. Where will the demand for tokenized assets come from? With supply outpacing demand,
+35:1635 minutes, 16 secondsthe focus shifts to unlocking liquidity, aligning with investor priorities, and proving that the value of tokenization
+35:2435 minutes, 24 secondslies beyond its novelty. So, will growth be driven by established assets like treasuries and private credit or by
+35:3235 minutes, 32 secondsunlocking previously illquid highv value assets? Let's find out. Real world assets in asset management have started,
+35:4035 minutes, 40 secondsyou know, in one of the most plain vanilla products, money market funds, um, where they've already had, uh, a lot of take up, right? Because there's a
+35:4935 minutes, 49 secondsneed for onchain yield. um you know so not just holding in a stable coin where
+35:5735 minutes, 57 secondsyou get access to the US dollars but you're missing out on you know the 5% yield. Um that said you know I'm excited
+36:0536 minutes, 5 secondsfor what it can bring to the private market space um and this more liquid part um a liquid part but also one of
+36:1236 minutes, 12 secondsthe mo most actively rapidly growing and expanding parts of the asset management universe. you haven't seen what I would
+Chapter 8: Behind the build: founders, developers, and institutions pushing forward
+36:2036 minutes, 20 secondsdescribe as like meaningful product market fit in that long tale, but I think look, I think we're going to get there. Um, I think there's I think some
+36:2736 minutes, 27 secondsof these things just take time. I think it'll happen in like pockets like maybe it's carbon credits that that have, you know, or maybe it's, you know, tokenized
+36:3536 minutes, 35 secondsart. Um, uh, uh, but, uh, or maybe it's like tokenized like compute, right?
+36:4236 minutes, 42 secondsThere are like different interesting categories. Um and I think like different categories will achieve that escape velocity at at different points
+36:5036 minutes, 50 secondsin time. I think like the first longtail um tokenized asset will achieve like meaningful penetration by you know I I
+36:5936 minutes, 59 secondsthink in the next 3 years. So the thing that will that stands out to me continually and will gain in my opinion the most traction in the coming years is
+37:0737 minutes, 7 secondsreal estate. uh there's going to be so much data on the blockchain that the blockchain's absorbing that property management, property owners around the
+37:1537 minutes, 15 secondsworld will have a much clearer understanding. The tokization of real world assets could create a liquid
+37:2237 minutes, 22 secondsstructure where we could eventually trade everything. So just imagine a family, they could tokenize their house,
+37:3037 minutes, 30 secondsput it up on the capital markets, and they could trade it very quickly. The number one thing that investors need to see are additional use cases from
+37:3837 minutes, 38 secondstokenized assets. The thing that separates RWAS from traditional off-chain assets is what they can do.
+37:4437 minutes, 44 secondsAnd as the use cases increase, the demand from investors will as well. I think we'll still see a lot of financial assets coming on chain, right? Because
+37:5237 minutes, 52 secondsthose um relatively well- definfined. So um so funds you know like blue chip
+38:0138 minutes, 1 secondfunds from from asset managers um that may not be available everywhere and then become more widely available.
+38:1138 minutes, 11 secondsUm private credit is also kind of um having a moment as well. Um so I'm seeing some very interesting platforms
+38:1938 minutes, 19 secondsthere. I guess one of the promises of asset tokenization is that, you know, you don't you're not necessarily limit you don't have to limit yourself to to to public markets.
+38:2938 minutes, 29 secondsYou know, now you can go into private markets that may be offering higher yields, but that were not necessarily
+38:3538 minutes, 35 secondsavailable to um a large um trunch of investors and and now they're able to u
+38:4438 minutes, 44 secondshave a broader reach. So I think that's quite interesting as well. we'll we'll see um demand move on from just treasury
+38:5138 minutes, 51 secondsbills and kind of similar instrument money market like let's say treasury bill ETFs like products into other
+39:0039 minutesum other assets up the curve uh so longer duration slightly longer duration and slightly higher risk but then also like better return profiles right we
+39:0939 minutes, 9 secondshave to see people building for the demand and we have to see the demand materialize I I mean I think it is that it's really it's really the founders
+39:1639 minutes, 16 secondsevangel visualizing and and making it clear around why these things are better and building the products that these people
+39:2239 minutes, 22 seconds[Music]
+39:2439 minutes, 24 secondswant. Real world assets are no longer just an idea. They're a movement gaining real traction. Capital is flowing in,
+39:3339 minutes, 33 secondsnew use cases are emerging, and institutions are inching closer to widespread adoption. But for
+39:4039 minutes, 40 secondstokenization to reach its full potential, a few key pieces still need to fall into place. We asked industry
+39:4839 minutes, 48 secondsexperts what's missing, what's changing, and what excites them most about the future of real world assets. But what we
+39:5539 minutes, 55 secondsfound was striking, just how fast the missing pieces are coming together. I think the biggest friction here is
+40:0440 minutes, 4 secondsbehavioral change. It takes a long time for humans to learn new behaviors. When the iPhone first came out, there wasn't much you could do with an iPhone. And
+40:1340 minutes, 13 secondsnow 20 years later, right, we have smartphones that are effectively supercomputers. And so I think one of the biggest things that that needs to
+40:2140 minutes, 21 secondschange that we can't force, I think in crypto, we have this desire to accelerate the rate of change at all times, but there's a fundamental limit
+40:2940 minutes, 29 secondsto how fast societies can absorb and integrate new technologies. It's really just time. uh you know, as more time passes, as more people lean in and
+40:3840 minutes, 38 secondsparticipate, as we get past the bankruptcies of 22 and the ridiculousness of of that period, let's hope we don't go back into that
+40:4540 minutes, 45 secondsridiculousness. It will set ourselves back another decade. Um you know, when they see real application, real economics, and real participants, more
+40:5340 minutes, 53 secondspeople will crowd and it'll support itself. Finance is complex and uh old and regulated and um right like many
+41:0241 minutes, 2 secondsdifferent parties involved. So I think it's normal that this stuff takes time.
+41:0641 minutes, 6 secondsUm so like are we're doing enough. We're doing everything we can and I think it's it's going to lead to a lot of exciting stuff. So you'll see institutions
+41:1541 minutes, 15 secondsbringing more products on chain. You're going to see new businesses being built to offer wealth management solutions.
+41:2141 minutes, 21 secondsAnd what you're going to start to see is this emerging category of fintex, wealth management, asset management um
+41:2741 minutes, 27 secondspositioning itself on chain um to offer those products and services to the investor community who are now operating
+41:3641 minutes, 36 secondson web 3 on blockchain rails. So I love you know what these entrepreneurs are able to bring and you know beyond
+41:4541 minutes, 45 secondsbringing efficiencies to the existing system think about just a whole new range of assets and products that can be
+41:5541 minutes, 55 secondstraded managed etc. So when I think about what's exciting, yes, the incremental innovation um and
+42:0442 minutes, 4 secondsefficiencies are really real and I think it's what's going to convince
+42:1042 minutes, 10 secondstraditional finance to get on board. But if we can do things that we haven't been able to do before because of
+42:1742 minutes, 17 secondstokenization, that's cool. The thing that excites me the most is unlocking uh more deeper substantial investment opportunities for clients themselves.
+42:2842 minutes, 28 secondsthe idea that um maybe half of the assets on this planet Earth um are
+42:3642 minutes, 36 secondsaccessible through private and public markets currently, but half of those assets still remain not fungeable or in
+42:4342 minutes, 43 secondsa place that investors can weave them into the portfolios in order to increase the possibilities of generating better outcomes. That's the thing that's most
+42:5242 minutes, 52 secondsexciting for me. the idea always trying to find interesting investments that combine with the client's other assets
+43:0043 minutesto create better outcomes. That's the most exciting thing that I that I think about tokenization and RWA. I mean, what excites me the most is the fact that we
+43:0943 minutes, 9 secondsare getting this traction. There's there's momentum. It's going to grow.
+43:1243 minutes, 12 secondsAnd to me personally, this is really, you know, the start of really the the web 3 for finance becoming a reality, right? You're never going to have an
+43:2143 minutes, 21 secondsenvironment where it's all DeFi and you're never going to have an environment where it's all trady. These two coming together. So using the DeFi type technology into into the
+43:3043 minutes, 30 secondstraditional assets under management, that's what it's all about, right? So to me that is what's exciting about next year. I think it's really uh going to take off.
+Chapter 9: The turning point, when traditional finance meets onchain markets
+43:4043 minutes, 40 secondsThe financial world is changing.
+43:4343 minutes, 43 secondsTraditional assets like real estate and private equity are being transformed into digital shares anyone can trade.
+43:5143 minutes, 51 secondsThis isn't just making old systems faster. It's creating entirely new ways to invest and build wealth. For the
+43:5943 minutes, 59 secondsfirst time, investors of any size can access premium investments that were once reserved for only the select few.
+44:0844 minutes, 8 secondsBanks and asset managers are discovering they can turn slow, expensive processes into efficient digital operations. Major
+44:1844 minutes, 18 secondsinstitutions are already building these systems and regulators are creating frameworks to support them. We're
+44:2544 minutes, 25 secondswitnessing a fundamental shift in how value moves around the world and it's happening now. So the only question is, are you ready?
+44:3744 minutes, 37 seconds[Music]
+Chapter 10: The future of finance — open, transparent, unstoppable
+44:5644 minutes, 56 seconds[Music]
+45:1245 minutes, 12 seconds[Music]
+45:2345 minutes, 23 seconds[Music]
+45:3545 minutes, 35 seconds[Music]
+45:4945 minutes, 49 seconds[Music]
+45:5445 minutes, 54 secondsHey, hey, hey, hey, hey, hey.

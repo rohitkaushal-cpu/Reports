@@ -1,0 +1,106 @@
+Chapter 1: Introduction
+Chapter 2: Payments Modernization
+0:088 secondsWhen the modern internet went mainstream in the '9s, uh we upgraded our telecommunication systems to make it
+0:1616 secondspossible to send an email to somebody across the world in at the speed of light. And yet the payments infrastructure uh did not follow suit.
+0:2525 secondsIn fact, if you look under the hood, these are largely legacy systems from the 70s, 80s, and that really are not uh
+0:3434 secondsbuilt for the modern economy uh as we know it today. Over the past number of months, uh we've had the great privilege of working with some of uh the largest
+0:4343 secondsretailers in America. These are brand names, household names, and we've discovered something very interesting.
+Chapter 3: Stablecoins for Mainstream Payments
+0:4949 secondsWe believe that to scale stablecoin payments, there is an opportunity to use loyalty traditional rewards programs as
+0:5959 secondsa Trojan to get customers using stable coins without even knowing it. So, we're going to get into what this actually
+1:081 minute, 8 secondsmeans on a practical level. But before we do, we are a stablecoin company. Uh I'm not going to belabor the point. This is a very sophisticated audience.
+1:171 minute, 17 secondsEverybody at this point knows what a stable coin is, but I do like to be reminded that when we started Noble over three years ago, we were at, you know,
+1:251 minute, 25 secondshalf of this market cap that you see here, which is plus of 300 billion. And very importantly, what we look at when
+1:331 minute, 33 secondswe look at stable coins are the programmable nature of these assets.
+1:361 minute, 36 secondsThese are new technologies at the end of the day. Paper money in your pocket is a technology. These are new technologies that are of course a huge step function
+1:451 minute, 45 secondsimprovement. uh if City Bank is in the room, thank you so much for the report uh on uh 2030 and what we can expect to
+1:531 minute, 53 secondssee in the stable coin market. Indeed, there are projections that will see this market grow to over three trillion. Uh and again, the this is money redefined.
+2:022 minutes, 2 secondsUh these are programmable uh monies with rewards and incentives that can be baked into them that are consumerfriendly and
+2:102 minutes, 10 secondsthat for our purposes can actually greatly impact uh the traditional retailer industry, brick-andmortar and
+2:172 minutes, 17 secondsonline. So let's get into it. Uh before we do, I do want to highlight what is Noble. So uh I started Noble again over
+Chapter 4: Noble’s Stablecoin Platform Overview
+2:262 minutes, 26 secondsthree years ago. Uh it was the first purpose-built stable coin uh issuance uh protocol. We've been customers of Hallbborne since uh the very beginning.
+2:342 minutes, 34 secondsSo, thank you for all of the support throughout the way, but really it's along three pillars. Both asset issuance, bringing uh native stable
+2:422 minutes, 42 secondscoins on chain. Uh we grew of course uh the volume to over 20 billion. We've had uh hundreds of millions of assets minted
+2:502 minutes, 50 secondson chain. Uh of course, we support all of these incredible uh stable coins um that you see here. And we've of course
+2:572 minutes, 57 secondsalso launched our own stable coin called Noble Dollar which has that programmability of rewards baked into it which we which we will get to uh in a
+3:063 minutes, 6 secondsmoment. Uh other people today have been discussing uh of course purpose-built uh layer ones both public and private
+3:133 minutes, 13 secondschains for the tokenized uh equity space for the tokenized security space for stocks etc. Uh we'll need the same thing in the payment space. We're we're
+3:203 minutes, 20 secondsalready seeing this uh with the likes of Stripe's Tempo uh chain. Of course, Circle is experimenting with ARC. Uh and
+3:273 minutes, 27 secondsof course uh we've been building Noble for those use cases uh for a number of years and uh we're very uh excited with
+3:343 minutes, 34 secondsand delighted with all of the uh adoption that we're seeing so far. Why now? Uh everybody knows software is eating the world. This has been a
+Chapter 5: Market Drivers for Adoption
+3:423 minutes, 42 secondsreality for 15 to 20 years. Uh the ascendancy of fintex and embedded payments, things like buy now pay later.
+3:483 minutes, 48 secondsuh you know customer choice being prime primary. Uh of course uh this is also now paving the way for native internet
+3:563 minutes, 56 secondsdollars to become mainstream and to perhaps replace some of those legacy payment systems that are embedded or
+4:034 minutes, 3 secondsthat are underpinning uh these embedded finance applications and fintexs. The one thing I do want to stress and again
+4:104 minutes, 10 secondsthis comes from uh uh the past number of months kind of validating this thesis and really being embedded within the traditional retailer community is just
+4:194 minutes, 19 secondsgenerally the primacy of customer relationships and distribution owning that customer is increasingly incredibly
+4:274 minutes, 27 secondsincredibly important. uh you see this across the landscape especially with younger generations uh that really value
+4:354 minutes, 35 secondstheir sovereignty and their freedom of movement and choice above all else. And so with that uh we will uh in a moment
+4:434 minutes, 43 secondsaddress how the traditional loyalty uh experience which I'm sure a lot of people are uh you know part of and and
+4:514 minutes, 51 secondsand love can be disrupted again with that uh ability to target customers in a very very direct way through stable
+5:005 minutescoins through rewards and ultimately use that ability to trojan your way into using stable coins as a mainstream
+5:075 minutes, 7 secondspayment mechanism because if we're going to get to a multi- trillion dollar market. This obviously has to become mainstream in a meaningful
+5:145 minutes, 14 secondsconsumerdriven way. Of course, and it's been talked about today, scalable infrastructure is key. Uh everything
+5:225 minutes, 22 secondsfrom, you know, half a second block times, being able to obviously compete with traditional card networks throughput to interoperability, instant
+5:315 minutes, 31 secondssettlement, and the like. again making sure that when we start bringing these stable coin applications to market uh
+5:405 minutes, 40 secondsthey can scale thoughtfully. I'm not going to get into too many details on this highly simplified diagram of the noble uh layer 1. The one thing I would
+5:495 minutes, 49 secondsjust like to point out and this is more of a uh signal in terms of what we're seeing in the market for uh technology that we believe will be um much more
+5:585 minutes, 58 secondsadopted than it is today. I'll focus on the uh execution and consensus mechanism for execution. Uh actually this uh this
+6:066 minutes, 6 secondsweek we announced that we're transitioning the current stack which of course is battle tested infrastructure for the past three years to an EVM uh
+6:146 minutes, 14 secondsref client uh mechanism and then more importantly uh the consensus mechanism will be leveraging uh commonware um
+6:226 minutes, 22 secondswhich uh for those that are uh uh on the engineering side is becoming very well known as it's also the consensus
+6:296 minutes, 29 secondsmechanism that uh the likes of stripes tempo chain will be using again making sure this is purpose-built for payments.
+Chapter 6: Merchant Stablecoins and Retail Strategy
+6:376 minutes, 37 secondsOkay, killer use case. Uh merchant dollars. So over the past uh number number of months, we have been thinking
+6:446 minutes, 44 secondsvery deeply about like the retailer a as as a customer. Uh again, these are brands that we all know and love that we shop at, you know, every day, every
+6:526 minutes, 52 secondsweek, every month. The retailer the retailer they build the brand they own the distribution but very oddly they
+7:017 minutes, 1 secondsurrender the payments and loyalty piece to card networks and banks. In fact in the '9s uh that was when you kind of
+7:087 minutes, 8 secondsstarted kind of to see that uh escalate and kind of being sold off. And while they gained, you know, incredible loyalty programs and again ability to
+7:167 minutes, 16 secondscapture customer attention, whether that's, you know, the traditional AMX or something else, they actually surrendered a lot and especially in an
+7:247 minutes, 24 secondseconomy where every dollar counts. Uh that that that is meaningful. We all see the numbers 3 to 4% interchange fee. Uh
+7:327 minutes, 32 secondsyou know, hundreds of billions of dollars paid in card fees. This is why in the summer we saw the journal write about Amazon and Walmart exploring
+7:407 minutes, 40 secondsAmazon dollars and Walmart dollars after Genius passed because of course we now saw a stable coin become a legal payment
+7:487 minutes, 48 secondsinstrument. Of course, a stable coin very different than a traditional credit card. Ultimately, stable coins are debit products. These are cash-like
+7:567 minutes, 56 secondsinstruments. These are money redeemable onetoone for real USD currency. And yet
+8:048 minutes, 4 secondswhat we've noticed is that uh a stablecoin balance held by a customer uh in a retailer's wallet, it becomes this
+8:128 minutes, 12 secondslive uh account basically which is you know akin to a high interest savings account that beca that can behave uh
+8:218 minutes, 21 secondsmuch more smartly than what you would see with your traditional gift card that is sent to you in the mail at the end of the year or month. uh the ability to
+8:308 minutes, 30 secondsbasically program rewards into the stable coin balance itself, funnel that to incremental spend and more consumer
+8:378 minutes, 37 secondsactivity is uh quite frankly a huge opportunity that uh you know uh we're very excited to see take off. As I said
+Chapter 7: Loyalty Programs and Rewards Flywheel
+8:458 minutes, 45 secondsuh loyalty is monopolized by legacy payment providers. Uh these point systems which we uh understand are
+8:538 minutes, 53 secondsliabilities on the balance sheet of the retailer. These are not assets that can be uh monetized uh on the balance sheet until of course they're spent uh and
+9:029 minutes, 2 secondswhen they're and sometimes they're never spent. We we all know there's gift cards all over the place uh that we've never used and that expire. And yes, breakage
+9:119 minutes, 11 secondseconomics means there's some revenue to be made there, but it's actually an incredibly missed opportunity for these retailers and these merchants because it
+9:199 minutes, 19 secondsactually completely uh uh absolves you of uh being able to create that sticky customer relationship so that you keep
+9:279 minutes, 27 secondscoming back and you keep spending. And we all understand that reoccurring spend, that incremental spend is where
+9:339 minutes, 33 secondsuh the money is made. co-branded credit cards. Yes, these have been lucrative for a very long time. If you look at
+9:419 minutes, 41 secondsthings like BNPL, Gen Z's like not signing up for these things uh as much as maybe millennials and others uh above
+9:489 minutes, 48 secondsthem did. Uh obviously uh high interest rates, these are a big topic of discussion right now politically.
+9:559 minutes, 55 secondsUltimately, we don't see the future of loyalty necessarily entirely being uh governed and owned by your traditional
+10:0310 minutes, 3 secondsuh credit card uh products. Very simplified flywheel effect. Again, this comes after a lot of research and
+10:1010 minutes, 10 secondsone-to-one interactions with realworld retailers. Customer deposits. Again, these are uh stable coins, which means
+10:1810 minutes, 18 secondsit is backed by real fiat treasury bills under the hood that do generate yield.
+10:2410 minutes, 24 secondsAnd of course with Genius we saw the ability to distribute yield as third parties of course not the issuer directly. We'll see what happens with
+10:3110 minutes, 31 secondsmarket structure bill but at the end of the day there is a rewards mechanism whether you're funneling that yield component into those balances or in the
+10:4010 minutes, 40 secondsform of closed loop rewards or you're funneling promotionality spent regardless uh there is that ability to
+10:4710 minutes, 47 secondsbasically monetize that deposit amount into rewards. Everybody knows Starbucks rewards. You can't withdraw that money,
+10:5610 minutes, 56 secondsright? If I put $5 into my Starbucks rewards app, that's not money. That's a loan to Starbucks. Works very well. A lot of people are happy with depositing
+11:0311 minutes, 3 seconds$10 for their coffee. But for higher spend items, it just doesn't make any sense. And this is why we haven't actually seen a Starbucks rewards type
+11:1111 minutes, 11 secondsapp scale to other merchants. What I did want to emphasize again is that wallet interface that we already know
+Chapter 8: Wallet Experience and Customer Incentives
+11:2111 minutes, 21 secondsespecially since co uh you have a wallet. It's a digital wallet. It's able to be topped up with various funding methods. So basically using that
+11:3011 minutes, 30 secondsexisting interface adding in the stablecoin payments component that gives you those juicy rewards. This is deanonymized uh in terms of uh kind of
+11:3811 minutes, 38 secondsthe retailer branding. But again uh it's a 20 second video. Here I am. I'm loading up my uh my balance on with USDN
+11:4611 minutes, 46 secondsI've earned some rewards. I'm actually going to uh show the customer that if I pay with a stable coin, which again you don't need to know is a stable coin, I'm going to get even more rewards, right?
+11:5611 minutes, 56 secondsAgain, keeping that flywheel going, that feedback loop going where I am constantly incentivized to top up, maintain the balance, spend, etc. So, uh
+12:0512 minutes, 5 secondsit's a very interesting uh mechanism. I think in crypto in generally especially our team that are highly cryptonnative we understand gamification incentives
+12:1412 minutes, 14 secondsthese kind of traditional DeFi products let's apply that to the real world in a meaningful way and I think uh we can do a lot of fun stuff together from
+12:2312 minutes, 23 secondsbankowned accounts to merch brand stable coins let's uh put the power back with uh the retailers that drive the economy that provide the goods and services we
+12:3212 minutes, 32 secondswe love and and that um you know let's think about stable coins in a in a more traditional sense as it relates to
+12:3912 minutes, 39 secondsloyalty programs and use that as a way to what we believe to transform the payments landscape uh as we know it. So anyways, thank you for having me.
+12:4812 minutes, 48 seconds[music]
+
+Sync to video time

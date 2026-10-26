@@ -1,0 +1,1407 @@
+
+Search in video
+0:01
+[Music]
+0:09
+Okay, this follow on panel is an effort to address some of the policy issues
+0:16
+that uh the issuance of stable coin and perhaps their wide use uh presents. Um
+0:25
+and the um the boldface topic of the uh
+0:31
+panel is are stable coins the wedge to disrupt the US and international banking
+0:38
+system. So that's not a small question and there going to be some um serious
+0:44
+policy issues along the way. I've asked each of the panelists to present for
+0:49
+maybe five to seven minutes um their particular perspective on the key policy
+0:56
+issues uh because as you'll see when I I tell tell tell you who they are you'll
+1:03
+see that they come from these issues from a very different place. So, our
+1:09
+panelists are Ebraim Hun AA who is the head of North um American Bank research
+1:17
+at the BFA um and Amanda Fiser who is um the COO at
+1:25
+Better Markets which is a um a consumer focused
+1:31
+um entity and and um I have here a crypto fact sheet um that she wrote in
+1:39
+May which says don't don't be a dummy genius act fails to make a bad bill
+1:45
+better. So we have a sense maybe coming from um Kashi Chiraa
+1:54
+um who's from the Bank of Internet National Settlements uh this has
+1:59
+produced a really terrific uh cha chapter and their um uh 2025
+2:09
+annual report on uh next generation money and financial system which
+2:16
+discusses stable coins at some length. Um it's available it's available on the web and
+2:23
+I think it's really is a resource that's really terrific. Um, Michael Lee is um
+2:32
+an economist at the Federal Reserve Bank of New York. And um I have here a paper
+2:41
+that he wrote, the optimal design of tok to tokenized
+2:48
+markets, which begins to uh get at some of the stable coin issues. Um, and Kate
+2:57
+Judge, my Columbia colleague, who is an expert on on Finnreg matters. Um, she
+3:04
+and I have spent a good part of the last week writing an amigus brief that was
+3:10
+just filed in the Cook matter, but um um she's managed to get herself up to
+3:16
+speed, I think, on stable coin pretty well. Anyway, so this is really a terrific panel and as I say, they will
+3:24
+each be talking for a short period of time on the policy issues from where
+3:30
+they sit and then I will attempt to um uh follow up and we'll have a chance
+3:38
+from the audience to follow up as well. So, so Ibrahim, why don't you start? Thank
+3:47
+you and thank you for inviting me and be sure to talk into the mic because we have folks who are you know coming
+3:54
+from all over the world wanting to hear what you're saying. Excellent. Okay, hope you can hear me now. And so thanks
+4:01
+again for having me. And as uh Jeff mentioned, Ibrahim Punawali
+4:07
+head banks research, right? So it's as old school as it gets. So and I thought
+4:12
+it'll be helpful to talk about just my own and our journey over the last 6 months as we've gone through digesting
+4:20
+what stable coin may or may not mean for the banking sector, the payments uh infrastructure, etc.
+4:26
+And what you start out with like Jan or February of this year, this would have
+4:32
+not been on my bingo card that stable coins panel would be where I would be come uh September of this year. So we
+4:39
+started out the year with very little sort of uh understanding of stable coins, very little understanding of the
+4:47
+regulatory the policy push in DC around stable coins. So that's important to
+4:52
+note and I think what we observed including the banking sector and executives across sort of the banking
+4:58
+industry of just how quickly Genius Act moved right and and and it's worth
+5:05
+noting that just to put in perspective of what lies ahead is you had and I
+5:12
+often talk about this it it is amazing to me in a world where both sides cannot
+5:18
+agree on taxes, immigration, geopolitics ics, but they came together for genius act. So this must be the best thing
+5:25
+since sliced bread. And so
+5:30
+as we ramped up on this in in in in I guess in late winter, early spring, we
+5:36
+went from oh my gosh, this could be dramatically disruptive as I think about bank deposits, as we think about legacy
+5:43
+payment rails, Visa, Mastercard, etc. And the journey we've had I would say
+5:49
+over the last six months is talking to executives, cryptonative players etc.
+5:55
+uh what where we've sort of come to is
+6:01
+and and the discussion and I I don't want to pretend I know where this is going or anyone actually knows where
+6:06
+this is going right it's but because I I can have discussions about is stable
+6:11
+coin a solution trying to solve for a problem or this could be existential for
+6:16
+the banking industry gamechanging and I can make arguments on both spectrums I
+6:22
+think but as you drill down and we're going to talk about I think the topic of the panel around disruption is
+6:30
+as you drill down in terms of okay one I said this to someone I was like you know I've not spent a lot of time I've never
+6:36
+had an uh opportunity where I was like only if I had a stable coin my life would be so good so that takes you to
+6:43
+the question around what are the use cases and as as as you as we dug deeper
+6:49
+and sort of try to figure it out you found out okay the US so when you think about think about it in two ways B2B so
+6:56
+consumer to consumer spending and B2B on the consumer side like what you realize
+7:02
+is the consumer payments ecosystem generally works quite well folks like
+7:07
+their credit cards they like the credit card rewards they get from it so is there an absolute urge to move away they
+7:14
+like the 30-day free float that credit cards provide so you question in terms of okay what's the driver of increased
+7:21
+adoption of stable coins from a consumer standpoint, absent uh incentives and
+7:28
+this and and and on the other side on the merchant side and I'm sure all of
+7:33
+you all probably saw these articles around Amazon or Walmart looking into potentially looking into a stable coin
+7:39
+issuance. But I just spoke to someone who met with the executives at Walmart and I was like could you ask them like
+7:45
+what do they think what are they thinking about? I was like, did stable coins come up in that meeting of half a day of meetings with the executives? And
+7:51
+no, he's like, no one asked that. I was like, could you ask that? And he's like, he asked the question and they were like, it's too technical for our clients
+7:58
+for now, but maybe there's something we can look at down the road. So, I think when you think about from a merchant
+8:04
+standpoint too, there are probably four or five merchants, Amazon, and Walmart are two of those who actually command
+8:11
+the kind of installed base where they could move the needle. They absolutely could if they provided incentives to
+8:16
+their vendors, their users. But again, as as I just said, this is way early in
+8:22
+terms of the technology, the costbenefit analysis of having to issue stable coins, what this means. And I'm sure
+8:29
+you've heard all day around there are obviously benefits that digital assets provide.
+8:34
+So, it's it's it's a little tough on the consumer side where okay, unless you get
+8:40
+incentives, and I I'll talk about that in a bit. the use case is somewhat fuzzy
+8:45
+at the moment. And then the second thing is from a businessto business transaction and what you realize is
+8:53
+when you think about cor uh corporate treasury settlements if you're Coca-Cola you're managing treasury in 50 different
+9:00
+countries payrolls etc. Could digital assets, tokenized deposits provide a
+9:05
+faster way to uh uh sort of settle transactions, real-time settlement, how
+9:10
+treasurers at these corporations manage liquidity. Sure, that could happen. But I think for those companies and that's
+9:18
+where we in my seat like having someone covered the banking sector for 20 years and the only thing consistent in the
+9:23
+last 20 years I've heard is banks are going to go out of business, right? So you've lived with that uh forever. But
+9:30
+when you go through this, what you realize is and and I think Todd mentioned Cityroup earlier like Cityroup
+9:35
+is one of the biggest transaction services company in the world and I'm if I'm I'm making this up, but if I'm
+9:40
+Coca-Cola and I'm dealing with City for the last 50 years, I don't think I'm like rushing to go to
+9:46
+a cryptonative firm to figure out my treasury solutions. So that's one piece of it. And I so and the only legit
+9:54
+player right on stable coin that you have is Circle which issues USDC. So I think keep that in mind that there's no
+10:01
+urgent need from a corporate standpoint to uh go there. And then the second side is what's I think underappreciated is
+10:09
+how much of like pilot testing case uh study around digital assets has been
+10:15
+happening outside the United States. Like if you go to like I was talking to someone at the monetary authority of
+10:20
+Singapore and if you look at what they've done there's a project if you Google project guardian they they've
+10:27
+partnered with all sorts of banks city group Goldman Sachs trying to pilot test different uses of digital assets. So
+10:34
+if we move to that world you worry less about like disruption to the banks from a standpoint of oh they're going to lose
+10:41
+their these clients. Yeah. I mean could it have impact on margins profitability which is no different than what you've
+10:48
+seen for the last 20 30 years as competition as technologies evolved that's led to pressure on margins think
+10:53
+about equity trading and what banks made on equity trading 20 years ago and today it's less than a penny and the business
+11:00
+still operates so that's the other thing on the businessto business side is
+11:05
+yes there are potential use cases and we can talk about that but again from a corporate standpoint from a financial if
+11:12
+you're blackstone and doing the same thing. You want legit players. So to some extent you want a JP Morgan or a
+11:18
+City Group or BNY on the custody side involved to feel somebody asked earlier the question about how do I feel safe
+11:24
+like you need that I would argue and in that regard Genius Act and there's a lot
+11:31
+more work to be done on Genius Act like the law was passed but I think opening the door for banks to actually compete
+11:37
+on stable coins kind of has triggered that process. So
+11:42
+now where do we see where do you hear the most recurring use cases is crossber international payments and the fact that
+11:49
+the swift wire transfer if any of you ever use swift to sort of send money abroad it's still very painful and in
+11:56
+fact I was in Canada I was in Toronto yesterday and I need to send money to uh someone on our desk and I was like I can
+12:02
+I vend more no can I sell no I was like all right I'll give you cash when I'm there next so I think there are there
+12:08
+are aspects to international money movement where digital assets, blockchain can probably serve a purpose
+12:15
+and I think as someone said to me if you want to sort of think about it in in with the paradigm of when was the
+12:22
+last time you thought about sending an international email never right we send an email if it's going to the person
+12:28
+next office or across the Atlantic is the same thing and I think that efficiency could that come to
+12:35
+international payments like why not so there are use cases around that and I'll
+12:41
+wrap with and I I'll pass it on to the other speakers are kind of where our steady state today on this whole piece
+12:49
+on digital assets is the analogy I've used is it's like building out the interstate highway system like think
+12:55
+about blockchain technology is here to stay banks were piloting blockchain 10 years ago and then it kind of died down
+13:02
+and it's come back technology is here to stay realtime settlement 24/7 implications for
+13:09
+deposits, liquidity, all of those are good issues that are now being debated after the law was passed in DC in
+13:17
+Congress. So I think as we look forward to the next I would say I don't know if it's 3 years, 5 years or 10 years, you
+13:24
+you'll see more blockchain, you'll see more tokenization of real world world assets. And it will it could we could
+13:30
+see a world where it just becomes native to us where our cash or stocks sit in a
+13:36
+crypto wallet. But we don't think about that as a crypto wallet. It's as good as my stock sitting in my Fidel Fidelity
+13:42
+account. I don't think about that as a digital account. It's just I bought stocks and it's my trading account at Fidelity. So there is a a a world view
+13:51
+of where this could go. And I think but again from everything I understand right from legislation rule making it's a lot
+13:59
+more of a long drawn out process. It could allow new players opportunities like you saw with Square/Block on
+14:06
+merchant payments and it could create disruption risk. But again, I think there's just so much hype versus when
+14:12
+you actually get down to the meat of it around how can this practically be used. And I think that's going to be a little
+14:18
+bit more of a less sexy and more cumbersome process as we move forward.
+14:23
+But okay, um Amanda,
+14:28
+uh thank you so much for hosting me here today and I think I am likely to be the
+14:33
+skunk at the garden party for crypto. I come at this from uh a slightly
+14:38
+different perspective than some of the other folks here. I before my current role, I worked uh in the chair's office
+14:44
+at the Securities and Exchange Commission in the last administration and then on Capitol Hill for over a decade. So I I have studied the uh
+14:54
+financial risks and economic effects of stable coins, but I also come at it from a political economy angle. And I will
+15:00
+say I have studied this product probably for four years and I believe it is a
+15:05
+solution in search of a problem. Our payment system has a lot of flaws. It is too expensive. Remittances are hard. But
+15:13
+those are value decisions about the distribution of power and they are
+15:19
+decisions rooted in the fact that we have placed a lot of our foreign policy regime, our national security regime on
+15:24
+the financial system. So to the extent that stable coins provide a solution to
+15:29
+that, it's because they're hacking some other part of the system, not because the tech stack offers any particular
+15:37
+benefits. Um, and the reason that the bill passed is because I mean I live on
+15:42
+Capitol Hill in Washington DC. The crypto industry dumped a boatload of money on Congress and I have spoken to
+15:48
+members of Congress and their staff and a lot of them grit their teeth and
+15:53
+wipe their forehead and say, "Look, you know, we did the best we could with this." But um just real talk on that. So
+16:00
+when I talk about the actual stable coin product itself, I I kind of tell a joke to the lay person and I said, "Do you
+16:08
+love the risk of a money market fund but hate earning money? Do you love the zero interest paid on
+16:15
+your checking account but hate FDIC insurance? It's like a late night infomercial. Boy, do I have a product
+16:21
+for you. And you scratch your head and you say, "Why would anyone use that? That's so dumb. Like, just use FDIC
+16:28
+insured money or get a money market fund that pays you." And the answer is a
+16:34
+couple. One, if you're in the crypto casino, it's super inconvenient to trade
+16:39
+in and out of fiat and like putting parking your money in stable coins is fine. And maybe you're able to accept
+16:45
+the risk because you're like, "Look, I'm trading Bitcoin." Like if Circle DE pegs, it deps. That's the least of my
+16:51
+problems. Um, you know, or you're doing crime and like
+16:57
+you don't want to trade in fiat. Um, but the idea that these are payment stable coins, which is the the nomenclature
+17:04
+used in the Genius Act, is a misnomer. These are not used for payments. No one is going to be buying stuff at the
+17:09
+bodega with this. It is a crypto trading instrument. the industry may be able to
+17:15
+make fetch happen by forcing it on people and using for example Amazon issuing, Walmart issuing
+17:23
+or really undercutting consumer protection laws may be like a loss leader or some of these yield bearing
+17:29
+arrangements may be loss leaders but there's no intrinsic value in the tech that can is going to lure this into a
+17:35
+mainstream product and I'll just talk a little bit about why they're not payments one issuer insolveny. Do you
+17:42
+want to go to the convenience store and look at what USDC versus USD1 versus
+17:48
+what Tether is all trading at on a board? Do you wanna I mean imagine going to the corner store and like they accept
+17:54
+pesos, rubles, dollars, and Canadian dollars. Do you want to be aware of what's going on in Mexico and what the
+18:01
+exchange rate is? No. Like we don't that's why we have a dollar. Like the individual consumer is not taking on
+18:08
+forex risk. um the issuer in solveny problem that's solved with FDIC
+18:13
+insurance right now. It these don't have them not at least explicitly. So you're you're going to
+18:19
+have to do a credit analysis on the issuer of your money. And I joke to
+18:25
+Senate staff um when the bill is being considered that they should include an amendment that has a financial literacy
+18:32
+training class for consumers where they can go and learn which money is best for them.
+18:38
+So, you get a pamphlet and you're now learning which which money is the solidest money for me to spend. That's
+18:43
+not we already got enough to worry about. We can't be worrying about the the safety and soundness of our money.
+18:49
+Um transaction costs, gas fees are used to move crypto on chain. They're extremely volatile. When Pepecoin and
+18:57
+Fartcoin got launched on the Ethereum blockchain, the cost to transfer uh USDC
+19:02
+surged because everyone was trading Fartcoin, excuse my language. So your your transaction costs are tied to the
+19:09
+wider crypto market. Um custodial risks, you know, people were very sanguin about
+19:15
+this on the last panel. The Genius Act allows state chartered trusts to be eligible custodians.
+19:21
+Mileage varies with the state regimes and Prime Trust in Nevada lost $80
+19:27
+million of their customers money because they straight up lost the ETH keys. Um,
+19:34
+you know, I don't say what you will about the banking system. We have better markets or critics. It it the risks in
+19:42
+crypto are greater. Um, and the consumer risks.
+19:48
+There were amendments debated and rejected to explicitly apply CFPB authority. Um, the electronic funds
+19:54
+transfer act, the thing that allows you to call your bank and dispute a transaction, explicitly not applied to this bill.
+20:01
+Circle right now is considering the reversibility of transactions is like an interesting chin scratching tech idea.
+20:09
+Again, why would you use this for commercial transactions? Does it make sense? Um the remittance question
+20:18
+I you know I don't know maybe but what do you do when you get a tether in Venezuela?
+20:24
+You still got to convert it into the local currency or a dollar. I mean, and when Circle launched its remittance
+20:30
+product, they had all this fanfare and online, they tweeted what their new product
+20:36
+looks like, um, that was going to revolutionize remittances. There was a correspondent bank on either side of
+20:42
+Circle. So, you know, this notion that it's cutting intermediaries, I think it's
+20:47
+replacing, supplanting intermediaries, but I don't think it's getting rid of them. Um and uh a colleague of mine,
+20:54
+Alexis Goldstein, had great Senate testimony a couple years back where she actually went through a Western Union
+20:59
+transfer versus a crypto transfer allin and added up all the fees and Western
+21:05
+Union was cheaper. Again, not defending Western Union, plenty of pro policy problems there, but crypto is not the
+21:12
+answer. Um, the last thing I'll say is, um, the last panel was right to talk
+21:17
+about the elicit finance risk and the ability to freeze and blacklist wallet addresses, but that is only as good as
+21:24
+the government, law enforcement impromater standing behind it. That is
+21:29
+not happening in this administration and even in the last administration of which I was a part, it was fighting tooth and
+21:34
+nail. And I'll give a few examples. Um the Axi Infinity hack, it was like a
+21:40
+common crypto gaming uh program. Uh I
+21:45
+believe North Korea stole uh 25.5 million in USDC. USDC froze the wallet
+21:50
+addresses representing 75,000. Harmony Horizon hack uh hund00 million
+21:57
+hacked in June 2022, 40 million, one of which was USDC. The blacklist didn't
+22:03
+happen for nine months of certain wallet addresses and most of the money had moved by then. So
+22:10
+sure, they can freeze stuff, but I'll say that there was a standoff in Congress and a bunch of Republicans held up the bill because they they're mad at
+22:18
+crypto companies for partnering with law enforcement to do this. Like there is a
+22:25
+wing of policy makers in DC who view the ability to use the money transfer
+22:32
+system as a national security impediment as something that they want to defeat and crypto is a tool to defeat that. So
+22:39
+really the free the tech behind the freezing and the blacklisting there's a lot of contortions happening to make
+22:44
+crypto look like our normal payment system and depending which audience crypto is in front of. if they're front
+22:51
+in front of the feds, if they're in front of the FBI, oh, they'll freeze everything. Oh, it's traceable. If
+22:56
+they're in front of the libertarian crowd, um, you know, they it's it's
+23:03
+free surveillance free um, transmission of money without big brother staring down your neck. So, it's really a
+23:10
+roarshock test depending on how you look at it. And I've heard pitches either way and I'm happy to answer more questions.
+23:16
+Thanks. Okay. Uh,
+23:21
+Teshi T. Yeah, thank you. Can you hear me?
+23:28
+So, yeah, thank you. My name is Teshi Sharami. Um um thank you for this uh
+23:34
+kind invitation and I'm joining uh you from Basil, Switzerland where the BIS is
+23:40
+located and I'm from the secretaria for central bank committee called the CBMI
+23:46
+within the BIS. Just a few quick words about the CPMI.
+23:52
+It stands for the committee on payments and market infra infrastructures.
+23:57
+And then uh usual disclaimer applies. The views I share with you today are my own and do not necessarily represent
+24:04
+those of the BIS, the CPMI or their member central banks. The CPMI serves as
+24:10
+a central bank forum to discuss policy issues regarding payment clearing and settlement and it's a global standard
+24:17
+setter together with the international organization of securities commissions
+24:22
+EOSCO. We establish and foster implementation of international standards for payment systems such as
+24:30
+Fed wire chips in the US and then other financial market infrastructures.
+24:36
+Um our international standards the principles for financial market infrastructures PFMI set out
+24:43
+expectations in relation to credit risk uh liquidity risk legal risk operational
+24:49
+risk management as well as governance and disclosures and other related
+24:55
+expectations to ensure a safety and efficiency of payment systems and the
+25:02
+other types of system. So uh I I I actually prepared to try to answer
+25:08
+trying to answer some of the questions uh as you set out in the for the panel
+25:14
+topics. So I'm not going to go into details of of each of the questions but
+25:20
+let me perhaps try to answer uh maybe two or three questions. I would go
+25:27
+straight to question three um which is about the toalization. Um, so are stable
+25:34
+coins advancing dollarization of world economies? That's a very interesting question and we we often read lots of
+25:42
+articles in newspapers these days and then my answer would depend on what
+25:47
+functions of money stable coins can or will primarily perform. So uh maybe we
+25:55
+can set aside a unit of account as far as the stable coins are denominated in
+26:01
+the US dollar or uh euro or Swiss Franks not like in like like Libra uh which was
+26:08
+a you know completely new unit of a currency or account. So but let's set
+26:14
+aside a unit of account. So the the other two functions are medium exchange
+26:19
+or store of value and then if stable coins function primarily as a store
+26:25
+storage a storage of value the risk of dollarization scenario is worth monitoring in my view this isn't a
+26:33
+scenario for countries like the US or Switzerland but those but this scenario
+26:39
+is more for those weak with weak currencies or unstable monetary systems.
+26:46
+By contrast, however, uh if stable coins primarily serve as a medium exchange,
+26:53
+then their role in driving toization is desk less clear to me. Uh I will explain
+27:00
+why. Um today US dollar already plays a dominant uh
+27:06
+predominant role in crossber payments and through correspondent banking or
+27:12
+credit card networks. So, US dollar stable coins, US dollar denominated
+27:18
+stable coins may simply uh replace existing US uh dollar correspond banking
+27:25
+regime or credit card businesses. So, the net effect on theization is not very
+27:31
+clear to me. And then as I think Amanda was also referring to this um um as for
+27:38
+local transactions within a non-EU uh US economy like in Switzerland, US dollar
+27:44
+denominated stable coins are unlikely to place domestic currencies. For example,
+27:50
+in Switzerland where I live, I wouldn't consider using US dollar stable coins
+27:55
+for everyday shopping here where goods and services are all priced in Swiss
+28:01
+Franks. So let me go to the uh question maybe number two um uh the it's about
+28:08
+the systemic risks of wider out adoption of stable coins. Again first the degree
+28:15
+of system risks would depend on the level of uh interdep inter interconnectedness or interdependencies
+28:23
+between stable coins and the traditional finance system in my view and such
+28:28
+interconnectedness could arise for example through stable coins reserves.
+28:35
+Um, if a stable coin holds significant reserves in, let's say, government
+28:41
+bonds, a run on the stable coin could trigger a fire sale of these bonds to
+28:47
+meet redemption request at short notice and potentially destabilizing the bond
+28:54
+market. And the if stable coins reserves are holding bank accounts with
+29:00
+commercial banks, liquidity risks or shocks could spill over to those
+29:05
+commercial banks in the event of a stable coin run. By the way, risks could spill over in the opposite direction as
+29:12
+we have seen recently in some cases. And in addition, as uh interconnectness
+29:18
+increases, operational and cyber resilience may become critical. if
+29:23
+stable coins are not subject to the same level of rigorous standards as
+29:29
+traditional finance institutions are and then I think it's it sometimes it's it's
+29:35
+not really uh comes uh really clearly uh this is for me very important point uh
+29:43
+meaning to distinguish wholesale use and retail use of stable coins
+29:48
+um by wholesale use I mean a a situ situation where stable coins are used
+29:55
+for settling financial obligations among financial institutions. It's a wholesale
+30:00
+transactions. Um then stable coins would functionally resemble payment systems
+30:06
+such as Fed wire chips in the US or target two in the euro system. And in
+30:12
+such cases, stable coins should be subject to a a set of standards that the
+30:17
+CPMI and EOSCO set out for systemically important payment systems following the
+30:23
+principle of same activity, same risk, same regulatory outcomes. And then we
+30:28
+have developed such international standards for systemically important payment systems in 2012. And more
+30:36
+recently, we issued a guidance on how to apply such international standards to
+30:41
+stable arrangements that are considered systemic and function like a normal
+30:46
+payment system. And then key considerations of this guidance include for example settlement finality and then
+30:54
+you know we we often talk about probabilistic settlement and then how does it square with the settlement
+31:01
+finality which we acquire from the systemically important payment systems
+31:07
+and then the other example clear governance and accountability use of DT
+31:13
+in particular permissionless DT may result in the lack of clarity as to who's in charge.
+31:18
+And then smart contracts may be useful in automation automation or you know the
+31:25
+uh really instantaneous settlements or payments. But there's an issue of so-called incomplete contracts almost
+31:33
+impossible to anticipate all contingencies that can possibly arise in future. So
+31:40
+human intervention may be needed in an act in uh an expected crisis and the our
+31:47
+guidance also provides lots of expectations with respect to the mechanism to ensure timely redemption
+31:54
+power. Maybe I would just quickly talk about question number one uh it's about
+32:00
+the possibility of you know the stable coins becoming narrow banking and also
+32:06
+resulting in the end of deposit insurance. My answer short answer would be again it
+32:12
+depends. First of all I'm not quite sure if the this assumption uh the the EU you
+32:20
+can be achieved without violating the genius act. uh this assumption will prove correct because in in my
+32:26
+understanding relevant authorities are going to develop and set out detailed technical rules and guidance to support
+32:34
+the implementation of genius act including how to prevent circumvention of the pro prohibition of interest. So
+32:41
+my answer will depend on the effectiveness these are rules by authorities. And then second if
+32:48
+meaningful e is achieved I think it likely involves maturity transformation
+32:55
+this could undermine stable coins ability to maintain their promise to redeem at par on demand. And then
+33:02
+finally I would also add in this context stable coins are really resemble or very
+33:08
+similar to government mmfs and then mmfs have established themselves as a popular
+33:16
+retail investment uh instruments in many countries yet we don't talk about the
+33:22
+the end of deposit insurance as we know it. So let me stop here.
+33:32
+Uh frankly, there's a lot there to come back to, but um uh let's hear from M Lee
+33:40
+uh first. Well, uh thank you for having me here. I'm a financial economist at the New
+33:46
+York Fed. Uh and I work on the intersection of technology and finance.
+33:51
+Um the views expressed are mine, not necessarily that of the New York Fed or the Federal Reserve system. So, uh, you
+33:58
+know, the US dollar stable coin, we're at around 270 billion in market cap. And
+34:04
+what's remarkable is that it's almost doubled in the last year. And so, it's
+34:10
+really useful for us to reflect on why this is the case. Uh, key catalyst is
+34:16
+regulatory clarity or the promise of that. So it really starts with the
+34:21
+executive order um in January of this year that aims to position the US as a
+34:29
+leader for blockchain based technology. And I want to point out two important implications of it. First, it signals a
+34:38
+preference from public to private innovation in the space of payments. How
+34:44
+did that do that? Well, it bans central bank digital currencies and it called for a regulatory framework for stable
+34:51
+coins. Second, it pivots the national stance towards blockchain based
+34:57
+innovation and in particular public blockchains. The rationale for that is that it wants to allow for individuals
+35:04
+to exercise more control over their assets. And these two combined um set the stone
+35:12
+for how we have to think about uh the the proposed changes in the regulatory
+35:18
+climate. Now the clearest uh momentum has been with the genius act and stable
+35:24
+coins. We have payment stable coins there and there are three important characteristics. First it has to be
+35:32
+backed by safe assets. Second, provides PAR redemption. And
+35:38
+third, it's banned from directly paying interest. And we got into a little bit of that earlier. We're going to come
+35:43
+back to that. Now, uh the act really envisions US uh US dollar stable coins
+35:49
+as a payment asset that's distinct from deposits, securities, and national
+35:54
+currency. And the simplest and probably the the the crudest but simplest way of thinking about it is essentially trying
+36:01
+to replicate some form of digital cash where individuals on a peer-to-peer
+36:06
+basis can make these transfers and where it's actually fairly difficult to
+36:12
+exactly monitor how this is being transferred across users um as long as
+36:17
+they have uh been custodying that themselves. If we want to understand the impact and
+36:24
+the implications of stable coins though uh we really need to understand the functional and operational
+36:30
+characteristics of how stable coins look like and how the ecosystem may evolve
+36:37
+and probably the starting point is going to be comparing it to its close cousins
+36:42
+money market funds. So in terms of uh stable coins there in particular fiat
+36:49
+back stable coins uh we need to focus on the offer to offer for par redemption of
+36:55
+tokens to US dollars and the way in which it manages uh a
+37:00
+portfolio of safe assets uh which actually results in liquidity
+37:06
+mismatch something that we know to understand is a feature and also a
+37:11
+source of financial fragility not just for stable coins money market funds, any type of money like assets um feature
+37:18
+this mismatch between assets and liabilities that results in financial stability concerns.
+37:25
+If we look at the reserves of payment stable coins today, well, they're not yet compliant to even the sets of
+37:31
+general standards set up by the Genius Act. They're holding 13% or so in
+37:36
+non-compliant assets including precious metals, orbit bonds, cryptocurrency.
+37:43
+Um, luckily we see that for US-based issuers that's not the case. If you look at their reserves, their composition is
+37:50
+eerily similar to government money funds. So, that's a good thing. Um, but
+37:55
+there is a small caveat to that which is the fact that 10% or so of their
+38:01
+holdings are in bank deposits. And I want to come back to this because this is going to be one of the key issues
+38:08
+that we need to think about in terms of how stable coins might be more
+38:13
+vulnerable or be a source of amplification even relative to government money funds.
+38:20
+So um I want to just emphasize kind of three components that we should look out for in terms of financial stability
+38:26
+implications. The most obvious thing that we already see today is the level of concentration.
+38:34
+We have two issuers that responsible for 85 87% of the entire market.
+38:40
+Now, we're going to see a lot of entrance from other parties, incumbents and new players. But what we've seen so
+38:47
+far from the experience of recent incumb uh recent entrance, it's remarkably hard
+38:53
+to build a foothold into this market. And that speaks to the basic issues with
+38:59
+respect to network effects that are not only operative in in stable coins, but
+39:04
+more generally in any type of network and any type of system where it benefits
+39:10
+from having more users accept and use a particular type of asset um or good.
+39:18
+Second, if we think back to this financial stability risks, well, stable
+39:24
+coin issuers are already highly interconnected into our treasury markets and also with our banking system. Now,
+39:32
+in terms of treasuries, as single entities, they're already large players. They hold over 2% of the treasury bills.
+39:41
+Um, that's a lot. And if we're projecting anywhere between 500 billion
+39:46
+to the trillions, this is only going to get larger.
+39:52
+Um, now if we think about what leads to fluctuations in the quantity of stable
+39:58
+coins circulating though, these are highly correlated with cryptocurrency market shocks. And so we see that the
+40:04
+that stable coins will already act as the nexus of transmitting cryptocurrency
+40:10
+shocks back to the traditional markets and lead to increased volatility exposure to more traditional financial
+40:16
+systems and markets such as um the treasury market and also the banking system.
+40:22
+But let's go back to the banking system here and I think this is where something really different is happening. If we
+40:29
+take the example of circle, well, they actually offer near realtime redemption
+40:34
+of par uh part dollars. How do you actually facilitate real near realtime
+40:40
+redemption? Well, you have to have a bank account and a partner bank who's processing
+40:47
+those payments on behalf of you through traditional financial rails, payment rails.
+40:53
+So this actually introduces an act an additional source of intraday liquidity
+40:58
+complications that are more unique to banks relative to what we are experienced with on money market funds.
+41:06
+Money market funds typically offer T+1, T+0, which means that at the end of the
+41:12
+day, they get to look at the inflows and outflows, net those transactions and
+41:17
+make the appropriate payments. That helps them with managing their portfolio, managing the liquidity
+41:22
+composition of their assets and also um ensures that they can net transactions
+41:28
+so that they can minimize the the gross inflows and outflows.
+41:33
+Now the GES act is very very generally uh not providing a lot of guidance on
+41:40
+how redemption is going to be offered the potential standardization on that the composition of these assets and what
+41:47
+constitutes safe liquidity management these all these things are going to have
+41:52
+to be sorted out but what's clear is if we are envisioning payment stable coins to offer better access to let's say par
+42:01
+redemption And this in and out ramp in on and off ramps with US dollars. Well,
+42:07
+then we also know that it comes with a higher bar with respect to how they manage liquidity. How how effectively
+42:13
+that will be. But immediately what this means is that there will be immediate
+42:19
+repercussions for banks, partner banks who are managing the reserves in the form of bank deposits in their accounts
+42:26
+and the potential fluctuations in the reserve balances that these banks will experience as a direct byproduct of
+42:33
+providing payment services for stable coins. This leads to some novel um novel
+42:40
+financial stability considerations that we have not yet kind of chartered out in
+42:46
+our recent experiences with the money market fund industry and our the financial stability considerations that
+42:53
+were uh came out of the global financial crisis.
+42:58
+Okay. Um those are great interventions to start with. Um I I just want to
+43:06
+um a couple things um for me. One of which do I get to speak?
+43:13
+Oh. Oh. Hey. Hey. Since Jeff is eager to move along, I
+43:19
+will keep my comments brief. Right. Right. And from the UK, we now
+43:24
+have Right. My apologies, Professor Judge. Uh go ahead.
+43:30
+No, I was going to say understand the desire to jump right in because we've already had such a rich conversation.
+43:36
+Um, and first of all, I do really want to thank Jeff and Ta Daniela for putting this together. Uh, this has been a great
+43:41
+conference. I really appreciate the structure where we're laying the groundwork then talking specifically about the payment ecosystem and now
+43:47
+trying to to take a step back and look at the bigger issues. And while I think
+43:54
+Amanda nicely positioned herself as potentially the party pooper, I would actually say there's been a healthy tone
+43:59
+of realism uh through many of the different conversations, it is certainly not the only tone that we have heard,
+44:04
+but I think the questions with the use case and implementation and the amount of that we don't yet know and the potential disruptive effects and who's
+44:10
+really making money here and and what are their incentives look like, I think have been great issues that have really been integrated throughout this whole
+44:17
+conversation. Uh so I will keep my comments brief since Jeff seems to to want to jump right in. But I but I do
+44:22
+think there's a couple of things we haven't talked about uh that are worth mentioning just building off of some
+44:27
+things we said. Um, I actually liked Michael just referring to this as something that's trying to create the
+44:34
+digital equivalent of cash because I actually think that that depiction
+44:40
+really speaks to Amanda's point that right now we have stable coin issuers
+44:48
+talking out of both sides of their mouth with respect to privacy and AML. And this is a key key issue. Legally, the
+44:54
+act seeks to resolve some of this, punch some of to real rulemaking. But I think as Amanda was alluding to, there's what
+45:01
+the law says and then there's what is the architecture of enforcement and supervision that actually mean you're
+45:07
+bringing teeth to the law that is in place and it's still imperfect for banks. uh and partly it's imperfect
+45:12
+because we reward kind of the wrong things in the banking system, but that is what's adding a lot of the cost particularly when we're talking about
+45:18
+the crossber transfers that everyone's talking about as being the site of of so much of the potential upside and the
+45:24
+potential gain. So it is worth kind of just keeping in mind how much right now the act avoids some of those difficult
+45:30
+issues and those are really difficult issues. We have chosen to make the banking system and other types of
+45:36
+financial institutions key mechanisms through which we implement law enforcement and foreign policy
+45:41
+priorities. That comes with real costs and people have very very mixed feelings about that. There I'd say there's a
+45:47
+place for a very healthy public dialogue about how those trade-offs should occur and what they should look like and the
+45:53
+privacy interests and other interests involved. uh and instead of having a healthy conversation, we're saying we're
+45:58
+going to go ahead and like impose a lot of costs on certain sectors uh in ways that can be completely circumvented uh
+46:04
+if you go around it through these other ways. And and it's trying to level the playing field and it says it's leveling the playing field upwards, but I think
+46:10
+there's reasons that people are able to get away uh with talking about this as being different. And I think even the
+46:15
+last panel and the focus on on-ramp and off-ramp and be able to close accounts is such a far cry from what it actually
+46:21
+means to monitor activity in a riskbased way for suspicious uh transactions given
+46:26
+what you know about the profile. It's an ongoing process. Uh and so I do think there's just a lot of open issues there.
+46:33
+I'll also say just because nobody else has two other things since nobody else has raised them. I think there are other
+46:38
+ways going to the political economy point that this legislation was rushed
+46:44
+through and therefore chose to meaningfully dodge a lot of the key questions that really ought to have been
+46:50
+answered by Congress and in the legislation. Uh I think one place that's even more clear than AML uh is with
+46:57
+respect to the question of master accounts. We have seen an ongoing fight because there's core legal uncertainty.
+47:05
+Do does the Federal Reserve system have the ability to deny depository
+47:10
+institutions the ability to have access to a master account? And if so, are those decisions being made by individual
+47:16
+reserve banks, which is seems like a rather odd structure. The Fed has developed a practice of having very
+47:21
+detailed guidance that's issued at the board level, implemented then by the reserve banks. But there's a whole bunch of different litigation, uh, custodia
+47:28
+and other suits kind of questioning, do they have that authority? And then also what does it mean for these different uh
+47:35
+bodies, these 12 different bodies across the country to potentially be making these determinations in an individualized way? This is a source of
+47:42
+legal ambiguity that's incredibly important to resolve. Generally, this was a key issue that should have been
+47:49
+resolved in this legislation because banks that are involved in this space uh
+47:55
+are among those that have really been at the kind of the precipice of of the issue. And yet Congress intentionally
+48:01
+said we're not changing anything. Like there's an act, you know, there's these core legal uncertainties and we're not going to touch any of them. And so I
+48:07
+just these are just like a couple of the ways that I think the legislation really tried to avoid uh doing what it ideally
+48:15
+ought to have done, which is to have Congress, I mean, even if you're going to legislate in the space, but have Congress resolve some of the really difficult policy issues uh that come out
+48:22
+of of these types of developments. I I love the fact we're having this conversation just because what we're
+48:28
+doing here at core is facilitating and also legitimating a new type of money creation. And so the reason we're having
+48:33
+this panel, and it seems too obvious to state, is new types of money creation oftentimes have the potential to be
+48:39
+disruptive because they are meant to be assets that everybody trusts where no questions asked. And once you have to ask questions, there can be runs and
+48:45
+there can be significant spillover effects. And it tries to deal with that through kind of the bankruptcy provisions and through the the asset
+48:51
+limitations. But those are going to be imperfect. Like that's why we have the questions that we are about custodian uh
+48:57
+custodial issues, but also like how the overall infrastructure works. the fact that there was also so much uncertainty
+49:04
+uh it seems like even among members of Congress between not understanding the difference between the issuer and the intermediaries and there were not
+49:11
+understanding whether or not this would merely be a non-interestbearing instrument that would be used therefore
+49:17
+solely for transaction purposes versus something that from a consumer perspective it might not be the issuer the intermediary but from a consumer
+49:24
+perspective is suddenly bearing interest and therefore as a store of value uh that you're looking on in a particularly
+49:29
+reliable way. Um, so it is just kind of an overall interesting ecosystem.
+49:35
+The last thing I'll mention because nobody else has discussed it are the aspirations of the Treasury market uh by
+49:44
+the Treasury Secretary. Um, I mean, so first of all, for anybody who hasn't been paying attention, Secretary Bessant
+49:51
+is playing a very central role driving financial regulation in this administration. He has a clear vision of
+49:57
+how financial regulation fits and can promote broader economic policy objectives. He's spoken very openly
+50:03
+about this. And in connection here, I think they are very worried about how to fund this growing deficit. Uh and
+50:09
+there's particular reasons for concern uh given an array of developments as Jeff alluded to earlier uh that the
+50:18
+yield curve is not going to be favorable uh and it's going to get less favorable over time. And so there really is this
+50:24
+effort to to issue a lot at the short end. Um and I think there was this
+50:29
+desire to create a vehicle that would create demand. And we have a lot of historical precedent for this, right? I
+50:35
+mean so like why do we have national banks? We only allowed states to issue bank charters after the demise of the
+50:41
+second bank of the United States until we needed to fund the civil war. And once we needed to fund the civil war, we're like all right, we'll grant bank
+50:47
+charters but then force you to buy a bunch of treasury bonds. We see the Fed and other financial regulators playing key roles both forcing banks to buy
+50:54
+bonds and forcing banks to make loans to others to buy bonds in World War I and World War II. Not forcing to, but
+50:59
+effectively creating strong financial incentives to do so. So, this is not something that's unprecedented. It's not
+51:04
+just United States, been done elsewhere. I'm more skeptical that it's going to be successful here, but I think there could
+51:11
+have been healthier conversation again about the way this might be being used
+51:17
+to deal with a problem that is a growing problem and is a very significant problem, but perhaps ought to be
+51:23
+addressed uh through other means. So, it's a kind of a hodgepodge. I had other things I was going to say, but people
+51:29
+have done such a great job covering them. Uh but I think there's a lot here to discuss because we really are talking
+51:35
+about something that might not end up taking hold but certainly has the potential uh to take hold in some
+51:41
+significant ways and and it looks like there's a a number of still open issues
+51:47
+uh with respect to how it's going to be implemented and what the practical uh effects of even what Congress put into
+51:52
+law uh were meant to do. Thank you. Hey, thanks a lot. Um you know there is
+51:59
+one other issue which I I um you mentioned issues policy issues one one
+52:05
+other large issue which I think ought to be put put on the table and and and for
+52:10
+for the panelists to um address and perhaps others who know how stable co coins will work. Um what what would the
+52:19
+uh proliferation of stable coins both um uh the Genius
+52:25
+Act version and others that could come to arise throughout the world using uh
+52:32
+the dollar? What would that do to um the sanctions regime uh that the United
+52:38
+States has used um that depend upon banks as intermediaries
+52:46
+uh with respect to very important foreign policy concerns of the United
+52:51
+States and and um and and others. Um it it seems like if if stable coins are set
+52:59
+up outside the official banking system and and are used um as as um a medium of
+53:07
+exch uh as both a store of value and a medium of exchange, it would undercut
+53:14
+the capacity to use the present payment system as part of um uh foreign policy
+53:22
+goals of the United States. I I want wonder if there's anybody on the panel
+53:27
+who would want to take that that one on. Yeah.
+53:32
+Emma, someone Amanda, um I would say this importantly, the
+53:37
+Genius Act for stable coin issuers in the United States changes nothing, zero
+53:44
+regard to their AML or OFAC obligations. um they you know all of these companies
+53:51
+already had uh state MSB licenses and they were already had a very poor track
+53:57
+record of complying. Um so they ought to have been complying.
+54:04
+They weren't. The Trump administration put out a memo in April saying that they would no longer enforce
+54:10
+uh the BSA against certain crypto companies just because of a policy preference. So,
+54:18
+I think that an argument made by sponsors of the leg legislation was that it was going to level up
+54:26
+uh our ability to uh defend the perimeter of our sanctions and AML
+54:32
+regime by applying this bill. But again, nothing in the bill changed existing
+54:37
+legal obligations. They were they are already required to comply with OFAC,
+54:42
+etc., etc. They poor compliance. And I will add um Coinbase in partnership with
+54:48
+Circle funded a lawsuit in defense of Tornado Cash, which is a mixing service,
+54:54
+which is just what it sounds like. You you deposit your crypto in it. it spins it around and spits it back out in a way
+54:59
+that's not identifiable and got the fifth circuit to say that um the relevant OFAC laws don't apply and that
+55:08
+the Treasury Department was unable to sanction tornado cash mixer as a
+55:13
+prohibited address. So I you know I think crypto is here to stay. chain
+55:19
+analysis said it was the kingpin of elicit finance and I don't really think that the bill changes anything in the
+55:25
+near term because it doesn't change legal obligations and we know what the enforcement regime looks like
+55:31
+uh let me add to that so just to emphasize if we look at the Genius Act it really
+55:38
+focuses on the issuers's relationship with direct counterparties and I think
+55:44
+it's very clear that for that they need to do their due diligence with respect to compliance to ensure that anyone they
+55:50
+directly interact with and that specifically pertains to issuance and redemption that they need to make sure
+55:57
+that they're not um facilitating illegal activity. Now having said that I think there's a broader question about how we
+56:05
+can find uh amend the gap between some of the the functional characteristics
+56:11
+and even philosophy of these distributed systems that are intended to be censorship resistant with how we how
+56:19
+stable coin issuers and more broadly the payment ecosystem that is built on top of stable coins can address these
+56:26
+issues. Cashache is a good example where uh you
+56:32
+can use it for anonymity features. Um it ended up being a a hugely facilitating
+56:38
+North Korean hacked tokens in order to wash those tokens. But we also saw that
+56:44
+there was uh following the OFAC sanctions that activity significantly declined.
+56:50
+Is that evidence of compliance? It's hard to say. I think part of the
+56:55
+challenge is because we don't know the identities of users that the bar for how
+57:02
+we can demonstrate um some association with uh illegal activity or association
+57:09
+with entities that we want to prevent activities of becomes challenging. Now
+57:16
+um the third thing that I would mention with respect to stable coins which is tricky is that by design they are
+57:21
+leveraging the fact that transactions on the blockchain could be immutable and
+57:27
+that means that some of the controls that they have is with respect to freezing or blocking accounts from
+57:33
+further interacting with their token. Now there are some discussions on what more functionalities they can build in
+57:40
+but that also means that without realtime checks on transfers
+57:46
+this these tokens can travel very quickly and after that much like how we
+57:51
+think about ash once you once a criminal steals cash and uses it it's it's
+57:57
+challenging to actually call that back. So there there's some principles here that we need to think about with respect
+58:02
+to the limitations for what we can revoke and what we can wind back when we
+58:07
+move into uh from physical and then kind of the the conveniences of of that that
+58:13
+that system has leveraged in the digital realm and how we're maybe relinquishing
+58:19
+some of that control as we move into permissionless blockchains that are
+58:24
+enforcing these types of transactions to be um set and final.
+58:34
+you want to I think we covered it. I think it's fine. Yeah. Um so so um
+58:41
+Michael uh one point you raised um from from strikes strikes me from a financial
+58:49
+stability perspective is this. So, so the uh the I mean it seems like the easy
+58:58
+redemption of of stable coins in effect requires a lot of credit with a bank
+59:06
+because that's where the cash will be. Um and so the question is whether um a
+59:12
+run on stable coins or some other anomaly in uh the market that leads to a
+59:21
+great demand for redemption could spill over into the official banking system in
+59:27
+a way that um would be of of of significant concern. as we saw, you
+59:33
+know, the GFC uh sort of there was a lot of po I mean a lot of folks grabbed bank
+59:39
+liquidity which meant that the banks couldn't lend to other actors in the real economy and that increased the
+59:46
+spiral. So to what extent do you think in fact the redeemability
+59:52
+of um uh stable coins in all six states of the world um will require liquidity
+1:00:00
+at the banks that put stress on the banking system and or create demand for
+1:00:08
+master accounts of the Fed that that Kate was referring to as as you know potentially a troubling issue here.
+1:00:16
+So I I think the start for stable coin related uh shocks to affect the banking
+1:00:25
+system that doesn't require a run. So if you're seeing anywhere between 300
+1:00:31
+million to a billion in redemption requests at a daily frequency and you're
+1:00:37
+a major processor for a stable coin issuer and multiply that by X of how
+1:00:43
+large the market will become well there are huge payment related needs in terms
+1:00:48
+of liquidity that's going to continue to shock the system. Now in the case of a
+1:00:53
+run I think that's where uh the first line of liquidity will come from the
+1:00:59
+deposits and then within um cross day within t plus0 or t+1 will come from
+1:01:05
+their repo holdings which is 20 to 30% of their holdings and then it goes to the treasury treasury bill. So there are
+1:01:12
+levels of how we can actually see the tolerance of of how can how they can facilitate the liquidity. Now having
+1:01:19
+said that I mentioned earlier the redemption policies of stable coin
+1:01:24
+issuers are vast. They promise anywhere between 15 minutes
+1:01:29
+to t + 5 days of redemption. And so if
+1:01:35
+you are a user and you expect par redemption and you go to them and they say you know the circle is swirling and
+1:01:44
+you're waiting and they tell you, okay, well it's h it's going to happen. Well, those are kind of the gray areas with
+1:01:50
+respect to the expectations that investors might have um that in terms of
+1:01:56
+the services and quality of redemption that are really unclear in terms of standards.
+1:02:03
+When we think back to the experience with money funds though, we also know that these this different types of
+1:02:09
+policies can have implications for how they can resolve um sudden and large
+1:02:15
+demand for liquidity. And so these are things that need to be carefully thought through in terms of our learnings in the
+1:02:21
+past and and both in terms of standardization and the safeguards that would be appropriate in order for us to
+1:02:28
+mitigate any of the payment related shocks that are going to arise from the stable coins back to the financial system.
+1:02:36
+So final one before I turn it open. Uh that point this is
+1:02:46
+yeah go ahead. Yes. So I think I you know Michael pointed out very very uh important point
+1:02:53
+in my view. Um I think we tend to compare uh you know these stable coins
+1:02:59
+to MMFs but in my view stable coins for payments or especially for systemic
+1:03:06
+payments are really really different from MMFs in that the stable coins
+1:03:12
+require uh you know the timely redemption uh possibly intraday uh at
+1:03:19
+least by the end of the day unlike MMF's needing
+1:03:24
+T plus one, T plus2 redemption and then this is really a high bar and then but
+1:03:30
+without this this requirement I think a pay uh the stable coins used as a really
+1:03:36
+a quasi payment system can really create the systemic risk and so that's why we
+1:03:44
+the CPMICO when we issue the guidance we are very clear about this uh very high bar for
+1:03:51
+redemption timely redemption and And uh and then I lastly because I'm looking at
+1:03:57
+the clock but uh I wanted to say but uh you know having said this but we CPMI is
+1:04:04
+you know sort of a future oriented and then also we want to understand how a
+1:04:10
+central bank money central bank accounts commercial bank money and then non-bank
+1:04:15
+money including stable coins can coexist and how are they going to interact with
+1:04:22
+each other in in a safe manner and then that's really a exciting topic and then
+1:04:27
+how to ensure so-called the singness of money so uh fungeibility of money uh you
+1:04:33
+know the so how how we ensure uh with with the new types of money forms of
+1:04:39
+money tokenized or non non-tokenized non-bank monies commercial bank money
+1:04:44
+how are they going to interact with each other this is a really fascinating topic uh to the CBMI so uh Then sorry let me
+1:04:54
+finish it up here. Okay. Um you know I think that's a a
+1:04:59
+great point for me to open it up for questions from uh the audience and um
+1:05:06
+and we have time for a few. I know lunch lunch is but um anyway. So yeah go
+1:05:12
+ahead. Be sure to speak into the mic. So yeah. So I'd be curious about the the
+1:05:18
+panel's thought about the how realistic Secretary Bent's uh $2 trillion
+1:05:24
+outstanding number really is. If you think global remittances are around 900 billion last year and there's a velocity
+1:05:32
+of that. So maybe that's a couple hundred billion of balance if a 100% of remittances were done in the form of
+1:05:37
+stable coin and small balance deposits held by people who for whom you know
+1:05:43
+cheap payments might be useful is maybe a couple hundred billion dollars out of the 17 trillion of deposits very little
+1:05:49
+not deposits from small retail customers that's only 600 billion beyond the 200
+1:05:55
+billion outstanding. So to get to two trillion, someone some big deep pocketed
+1:06:00
+corporation or high net worth person for whom the system the current system is really affordable has to decide, oh I'd
+1:06:07
+rather use stable coins. So is that just not realistic and Secretary Ped's upside
+1:06:13
+number is kind of a pipe dream or are there candidates for who that someone's
+1:06:19
+going to actually get big corporations to start accepting stable coins and using them?
+1:06:25
+So I can I can start means again so we've had extensive discussions with our
+1:06:31
+rate strategy team when this number was put out and they expect and again in a
+1:06:36
+world where everyone's trying to figure this out maybe over the next year or two it's a couple hundred billion dollars of
+1:06:42
+incremental demand right to your point so I don't think I have seen and and
+1:06:49
+these are folks who are every single day thinking about the treasury market and for them to come up with a trillion
+1:06:56
+dollar, forget about a $2 trillion sort of demand anytime soon is extremely challenging. And it goes back to and
+1:07:03
+also what you're seeing is we didn't talk about tokenization much, but right, you're seeing a lot of tokenization
+1:07:09
+activity around money market funds are getting tokenized. So even be so and and
+1:07:14
+then they are doing that for their own survival as they think about competing with stable coins. know I'd love to hear
+1:07:21
+what the panelists have to say but again every conversation that I've had on the subject it feels I don't want to call it
+1:07:28
+a pipe dream but I think it's a little bit of a long shot right now as things stand around this how much demand this
+1:07:34
+will really create for incremental demand for treasury bills
+1:07:40
+can I chime in really really quickly on that because I agree with that and in case it wasn't clear earlier I'm skeptical of the number and skeptical of
+1:07:46
+the claims but that doesn't mean the ambitions weren't there part of the driving force. I mean the other thing you have to keep in mind is like where
+1:07:52
+is the money coming from and is that really coming from a place that is not already uh using T bills. I mean like
+1:08:00
+money market mutual funds are a great example like there might be some people who are willing to make that move. Uh there's reasons to question whether
+1:08:06
+there will be but even if there are uh like a lot of those government funds are the ones that are right now holding a
+1:08:12
+lot of the the T bills. So so you're not creating net new demand. You're just changing the intermediary. uh that's
+1:08:18
+standing between the the consumer and the Treasury Department.
+1:08:24
+And can I just add one thing? It's okay. Treasury bill demand may go up if stable
+1:08:29
+coin use goes up if Amazon or something decides to create their own proprietary money. But are these stable holders of
+1:08:36
+treasuries? Do we want them holding treasuries? And the thing I'm most concerned about is if you are familiar
+1:08:42
+with some of the largest stable stable coin players in the market, firms like Tether that was founded by a former
+1:08:49
+Mighty Ducks child star uh failed plastic surgeon and the co-creator of Inspector Gadget. Um
+1:08:57
+like the government is going to get very beholden very quick to the owners of
+1:09:03
+these treasuries, right? And what happens if there is a huge illicit finance scandal where billions of
+1:09:10
+dollars is shown to be routed to North Korea? You know, the stable coin company is
+1:09:16
+going to say, "Nice treasury market you have there. I wouldn't want anything to happen to it." So it's the interlinkages between what I
+1:09:24
+would say are some of the most non-compliant corners of our financial
+1:09:30
+system and the treasury market and the kind of blessing and impromater of that is is troubling to me about the
+1:09:37
+political implications.
+1:09:43
+other uh questions. Yeah. Um um I ask about I don't think anyone's
+1:09:49
+mentioned today that the the government also asked a lot of the mic we're transmitting
+1:09:56
+forbidding uh central bank uh digital currency and I think that was partly
+1:10:02
+because the crypto lobby wanted to have the market alter themselves with with the genius and stable coin. Can some of
+1:10:08
+the panel comment on are there concerns with forbidding central bank digital currency? Should it be enabled? Can that
+1:10:14
+how will that change the dynamic with stable coins if a future regime allows
+1:10:20
+central bank digital currency? Uh Kate, do you want to take that that
+1:10:26
+one on control? Why not? The United States was not a leader when
+1:10:32
+it came to central bank digital currency. I mean, Leil Brainard, I think, was meaningfully working on it when she was at the Fed. When she left
+1:10:38
+the Fed, I don't think there was anybody in a senior position who had a lot of support or buy in. That being said,
+1:10:45
+central bank digital, first of all, a lot of the conversation today reminds me of the conversations around central bank digital currency. I mean, the use case
+1:10:51
+and all these other questions were like what's been motivating a lot of that dialogue for a long time. The difference
+1:10:57
+is other central banks are moving forward with central bank digital currency and one of their rationale is
+1:11:04
+the rational we've heard today which is crossber but if it's being done central bank to central bank versus central bank
+1:11:10
+to uh private players uh that looks very different and so there is this
+1:11:15
+interesting question if the United States becomes an outlier and one of the aims explicitly is about kind of
+1:11:22
+facilitating crossber activity uh what that looks like I think it's too early to say anything uh about that but but I
+1:11:30
+do think it's it's interesting. The other quick note is I think that there was concern also about privacy uh animating
+1:11:38
+that and I think that is more of a reflection of how little understanding there currently is about how AML works
+1:11:46
+uh and the type of information that gets made available through the current AML regime. So I think it was kind of also
+1:11:53
+uh I mean the Fed is not looking to provide a retail uh uh CBDC. It was
+1:11:58
+going to be intermediated and so there's little reasons to think that the information dynamic would have been all that much different uh than what it will
+1:12:05
+be with these private issuers. And it's too bad there wasn't able to be a healthier conversation about there being
+1:12:11
+trade-offs but not necessarily trade-offs that lawmakers thought. Okay. Um I I think I think lunch is
+1:12:20
+calling in a very intense way. Um this has been this has been a really very
+1:12:25
+full uh day and there's been a lot of uh a lot of new information and and
+1:12:32
+learning that's been put on the table. Uh I I think um the uh what what what
+1:12:40
+the the Richmond Center wanted to do is is at the very beginning of uh of the
+1:12:46
+academic year is to put before our audience uh the legislative agenda um
+1:12:54
+that has thus far been enacted in uh the Trump administration thus far. The
+1:13:00
+Genius Act is is one very important piece. And I think one of the lessons,
+1:13:07
+the takeaways is that we're kind of stage one of trying to figure out what
+1:13:13
+it means and how the financial system, how the payment system will change. Uh
+1:13:19
+maybe not very fast or very far, how the financial system will change as a
+1:13:25
+result. and that uh we'll come to know more as as these things develop. Uh the
+1:13:31
+Richmond Center also plans later in the fall to conduct similar session on some
+1:13:37
+of the healthc care changes in um the one beautiful
+1:13:43
+um uh bill um and and also to look um
+1:13:50
+further at uh the energy policy changes in that bill as well. So this is
+1:13:58
+essentially uh stage one in our effort to explore some of um the changes that
+1:14:04
+are before us. But I think today was really a terrific day. Todd Baker really
+1:14:10
+put it together and bravo to him.
+1:14:17
+It's rare for, you know, a law school to be able to draw in such um the expertise
+1:14:24
+of folks who are actually in the front lines of this and are kind of giving us battlefield reports as a way I think of
+1:14:32
+um of of uh of of a change that is still sort of in in media race and and thank
+1:14:40
+you all for coming and uh lunch is outside the room. Thank you.
+1:14:45
+Thank you.
+

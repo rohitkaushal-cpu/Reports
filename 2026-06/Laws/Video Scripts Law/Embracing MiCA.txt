@@ -1,0 +1,903 @@
+
+Search in video
+0:03
+Hello everyone. Good morning, good afternoon, uh depending on which time
+0:09
+zone you are in or whether you are watching this from a recording. Uh it's
+0:14
+a pleasure to uh have you here uh with us. I'll just take a second to uh really
+0:22
+quickly share uh the deck with you. Um so yeah, today we're here to uh talk
+0:30
+briefly about Mika uh the regulation on on crypto assets in European Union. Um
+0:40
+this is part one of the series uh called Embrace Mika regulation for Cardano
+0:45
+founders. Um I'll briefly tell you what's the series about. uh then I'll uh
+0:52
+briefly introduce myself and sparring and then we will uh dive in uh to the
+0:59
+uh topic itself. Uh I will try to uh keep it short and sweet. Um
+1:05
+we're aiming to to uh uh have it done by 45 minutes. So yeah, let's start. Uh
+1:12
+Embrace Maker Regulation for Cardano founders is a uh series of three webinars. This is part one. uh it's
+1:21
+being powered by Cardano Foundation within their project cat project catalyst which we are uh grateful for
+1:29
+and and are happy to participate in. Uh part one will be about Mikai itself uh
+1:34
+its scope and applicability uh then about various crypto assets that it
+1:39
+covers and how they are classified and then about the licensing and compliance
+1:44
+requirements. So uh a brief high level overview of this piece of European
+1:50
+legislation which is also very unique uh I would say worldwide as it as it's a
+1:56
+complex regulation and it's a regulation that actually impacts uh the whole
+2:02
+European Union and EA uh zones. So basically 30 countries. Uh then uh in
+2:09
+part two uh which will likely to happen within few weeks u we will focus on Mika
+2:16
+licensing process and uh regulatory update from the supervisory bodies as
+2:21
+Mika is a very dynamic uh piece of regulation and and there is ongoing
+2:28
+debate discussion and guidelines from from various supervisory bodies especially from the top ones which would
+2:35
+be asthma uh and EBA. And then we will focus on case studies. And then in part
+2:41
+three, we will look at the uh overview of the Mika adaption in Europe and again
+2:47
+uh focus on the updates on the regulatory framework and and updates on
+2:52
+the guidance from the supervisory buddies and again uh sort of spice it up
+2:58
+with with uh a few case studies. Uh for part two and part three. Uh please stay
+3:04
+tuned in. we will send you invites to the emails you registrated with for for
+3:09
+this webinar. So so so you can make sure not to miss it. Uh if you are watching from the uh recording then please check
+3:16
+out whether uh part two and and part three recordings are available already
+3:21
+as well. All right. Uh so brief introduction of myself and and sparring.
+3:26
+Uh my name is Thomas Richter Urban. I'm a lawyer. Uh I'm I'm in particular a
+3:32
+crypto lawyer. I'm a head of our crypto and fintech practice here here in Sparring. Uh Sparring is a uh legal
+3:41
+boutique or a law firm that's uh being uh designed with innovators and founders
+3:47
+in in its mind. Uh we are a international law firm. We focus on the
+3:53
+innovative and and technology ecosystem. Uh we have team of uh very talented
+3:58
+experience experienced lawyers. We're helping startups, scaleups, um venture capital ecosystem players and of course
+4:06
+uh with my team in in web 3 and fintech practice. We are mostly helping crypto
+4:11
+and and fintech uh projects companies. Uh this series as I mentioned is uh
+4:18
+powered by Cardano Foundation uh within the project catalyst. All right. So
+4:24
+what's on the agenda today? uh first I will just very briefly tell you about
+4:29
+the EO crypto regulation where we at then about the MA itself its scope and
+4:34
+applicability and we'll talk briefly about the crypto assets covered by uh by
+4:40
+Mika then about the licensing and compliance requirements uh then very briefly about stable coin regulation and
+4:47
+reserve requirements as this is a very complex topic and and likely is not um
+4:53
+the focus of most of the uh participants and viewers of of this webinar and then
+5:00
+briefly walk you walk you through the market abuse and consumer protection rules and then it's it's time for uh the
+5:07
+final thoughts uh summary of the key takeaways and of course your questions uh um all right so part one what's the
+5:17
+EU crypto regulation about what does it compose of or what does it include first
+5:23
+of all it's the mika the regular ation on markets and crypto assets. So as you can see Mika is an abbrev abbreviation.
+5:31
+Uh then there is reg regulation with again sort of uh sweet name uh
+5:39
+called Dora uh which is abbreviation for digital operational resilience act which
+5:44
+aims mostly on the ICT security and and resilience um uh and and safeguard uh
+5:52
+aspects. uh then it surely involves the whole anti-money laundering package as
+5:58
+it evolves throughout the time including the latest additions such as uh the
+6:04
+anti-money laundering directive number six and and then the AML regulation
+6:10
+and the fourth piece of u legislative worth mentioning is the regulation on
+6:16
+transfer of funds or so-called travel rule which is connected with the anti-
+6:22
+money moneyaundering ing uh package. So basically a travel rule ensuring that
+6:27
+information on the crypto transactions are are being trackable. Uh okay. So
+6:33
+let's go to the very first piece one of legislation we have on this list uh and
+6:39
+we will uh focus on today which is Mika and its scope and applicability. Uh so
+6:46
+first things first uh when it comes to Mika you you you may uh come across two
+6:53
+different pronunciations. Some people pronounce it as Mika, some do pronounce it as MA. I think both are okay. I I'll
+7:02
+stick to Mika as I prefer uh this one, but it's still the same thing. It's the
+7:07
+markets and crypto assets regulation. Um it's a European Union uh piece of of uh
+7:13
+legislation. Okay. So who who is it uh for? It applies to the issuers of crypto assets
+7:21
+which is sort of self-explanatory. Uh so basically any any entities that you're
+7:28
+in is insu issuing uh crypto assets and it applies to crypto asset service
+7:33
+providers which is slightly less self-explanatory because this can be a
+7:40
+various bunch of of of entities and and we will dive deeper into this uh who can
+7:47
+be qualified as a CASP a crypto asset service provider and who not. Okay. and
+7:53
+and what Mika governs is the issuing of tokens and and crypto assets in general.
+7:58
+Um then it uh covers public offering of of crypto assets, admission to trading
+8:06
+and then all related services for crypto assets. What doesn't fall uh into the scope of
+8:14
+Mika? So what the Mika does not apply to and and this is quite important. Uh uh
+8:21
+so first of all it's the crypto assets that's that qualify as financial instruments. So for financial
+8:27
+instruments we have already for a couple of years uh uh almost decades um a
+8:35
+European regulatory f framework which is called methett markets and financial instruments directive one and two and
+8:43
+this one uh basically regulates everything uh that's related to
+8:48
+financial instruments and even crypto assets can be qualified as financial instruments for some people surprisingly
+8:56
+But basically most of the security tokens would qualify as financial instruments and Mika doesn't apply to
+9:02
+these. The traditional financial instrument regulation does. Um then it
+9:08
+doesn't apply to deposits and funds, insurance, pension products. This is quite
+9:15
+uh obvious I would say but also it doesn't apply to uniquely nonfgeable items. In other words, NFTs, the
+9:22
+nonfgeible tokens. So Mika doesn't apply to NFTTS and this is interesting to know
+9:27
+and also it doesn't apply to fully decentralized platforms and protocols. So it doesn't regulate the whole DeFi
+9:35
+world, decentralized finance world. But here you need to be really really really
+9:42
+careful because it doesn't apply fully decentralized platforms and protocols
+9:47
+and and here we we already did couple of um regulatory analysis and analysis of
+9:54
+of of protocols and projects to uh be sure that there can be um uh qualifi
+10:04
+classified as fully decentralized and thus escape from mika regulation. Because a lot of uh D5 projects even
+10:12
+they are defy in their core or in their name can have features with suddenly
+10:19
+don't make them fully decentralized and they can they can fall into the uh scope
+10:25
+of Mika. So you need to be really careful there and you cannot just um rely on the sole fact that a certain
+10:33
+project is called DeFi or decentralized. Uh but you really need to dive deep and
+10:40
+actually uh it's sort of cliche but here the devil is in the detail and needs to
+10:46
+be examined and analyzed in detail. Um but in general if if the if the uh
+10:52
+platform protocol is fully decentralized then it doesn't fall within Mikasa scope. Okay. Then it doesn't apply to
+10:59
+intragroup services. Sort of again obvious but uh very useful to know. uh
+11:06
+we helped a couple of clients with with analyzing their operations and were able to actually structure them in a way that
+11:12
+they can be seen as intragroup services only and then they do do not have to
+11:17
+comply with the whole Mika uh regulatory framework which can be quite useful uh
+11:23
+um and can be time and and money uh saving uh things. So it's worth
+11:29
+examining if if uh uh intragroup services exemption cannot be applied to
+11:35
+your particular project and then of course it doesn't apply to central bearings and certain new financial
+11:41
+bodies. Again sort of obvious I would I would say okay uh let's go to few dates
+11:48
+even though this is not a history uh lesson but uh it's it's useful to know
+11:54
+uh since when Mika is in force. Uh uh so the rules for stable coins they apply
+12:01
+already from uh June last year June 2024. Uh the rest of the framework
+12:07
+applies from 30 December 2024. So basically uh since the beginning of of
+12:13
+this year 2025 I mean plus or take or or or give a day or two. Um then there's
+12:21
+this useful thing uh which is called grandfathering period or you may want to call it transitional period. Um the
+12:28
+grandfathering period um again uh is something that the Mika uh already um
+12:36
+makes possible. Um but uh okay so first uh let's talk about what the
+12:42
+grandfathering period is. uh it means that the uh crypto asset services
+12:48
+providers that were already active before Mika start uh started to apply so
+12:55
+before 3rd December 202 24 they can keep operating until they are licensed or
+13:01
+refused and then there's a long stop date uh but
+13:06
+latest by 1st of July 2026 so in other words if you had a up and running crypto
+13:13
+business in 2024 already in the European Union uh legal one of course uh then you
+13:21
+can benefit from this grandfathering period even during 2025 so it didn't
+13:27
+mean for you that you need to uh comply with Mika since day one or or actually
+13:33
+be licensed uh as a Mika provider since day one but you had a this you had this
+13:41
+or and still have this grandfathering period of basically 18 months uh during which
+13:47
+you uh can still operate your crypto business while you are also applying for
+13:53
+the Mika license. Um there is one but so this 18 months is uh not EU
+14:03
+wide. So here the the European Union or or Mika actually gives a free hand to to
+14:09
+every single uh country within the EU. So every every country was able to say
+14:14
+how long the uh grandfathering period would be but it can be I mean the
+14:21
+longest one can be 18 months uh and I I'll show you in a while uh which country uh opted for what period but uh
+14:31
+some of them opted for 6 months some for 12 months some for 18 months and then
+14:36
+there is second but which is that if you are uh benefiting from the grandfathering period period. So, you
+14:42
+are basically a uh crypto service provider who doesn't have a Mika license
+14:50
+yet, but you were up and running or active before Mika applied and you're
+14:55
+benefiting from from the grandfathering period. Uh as long as you are relying on
+15:01
+the grandfathering period exemption, then you cannot passport to the other EU
+15:07
+countries. So if you are licensed in France uh uh before Mika applied and now you
+15:14
+are in in process of applying for Mika license until you get the Mika license you cannot provide the cryptos services
+15:22
+to in other European Union uh states. So so you can benefit from the so-called
+15:28
+passport. Okay. And and here's a brief overview. Um what's what length of
+15:36
+grandfathering period uh each particular state of the EU and EA uh uh opted for.
+15:44
+Uh here's a a small uh disclaimer. This is based on up-to-ate data uh that are
+15:52
+accessible on the uh asthma as the as the European Union regulator page and
+15:57
+then some other pages. They don't need to be 100% uh precise to be honest because some of
+16:04
+those states um changed their uh grandfathering period uh uh in the
+16:11
+course of time. that more or less u it can serve as a as a sort of uh example
+16:18
+or it can give you an idea um what's the grandfathering period in various states
+16:23
+so there's bunch of states like uh France Chia etc uh which opted for the
+16:29
+longest one which is 18 months then a few of them opted for a shorter one a
+16:34
+shorter one 12 months so basically one year u such as Slovakia then as far as
+16:40
+we know Sweden opted for a 9 months and the short shortest ones were 6 months
+16:46
+with exception of Lithuania which opted for 5 months as as far as I
+16:52
+know but then they prolonged it uh so now it's 12 months um so therefore u
+16:58
+they are in 12 months uh row okay uh so
+17:04
+what you should do when it comes to Mika first check your local regulators or
+17:10
+supervisors implementing law as mikah. Okay, this is important to to mention.
+17:15
+Uh Mika is regulation, European Union regulation, which means it's um it has a
+17:22
+direct effect. So it doesn't have to be implemented in in local law as such. So
+17:28
+you have this piece of regulation which is called Mika and it's directly applicable in every single EU state. At
+17:36
+the same time, uh certain provisions still need to be implemented such as the
+17:42
+provision on the grandfathering period. So, it's still still worth checking uh
+17:47
+what's your local legislative and regulatory uh position.
+17:55
+Then second thing, plan backwards from 1 of July 2026 when it's the end of the
+18:01
+grandfathering period and and well make sure that that you're able to uh to have
+18:07
+a road map that um ensures you will be able to uh to get license as necessary
+18:15
+unless you don't need to uh comp uh benefit from the groundwatering period.
+18:20
+So if you are now in in a stage when you are thinking about starting a a new
+18:27
+crypto business in European Union and and and applying for Mik license then
+18:32
+there are no deadlines really for you. But please be aware of the fact that until you get the license
+18:39
+uh you are not allowed uh legally to to provide any crypto uh services covered
+18:45
+by Nika. And then last piece of of advice here would be that you should monitor Asthma's list. Asthma is the
+18:53
+European supervisory authority. Uh asthma again is an abbreviation as you
+18:58
+can guess. It's the European supervisory
+19:04
+on market. No sorry European securities uh and and markets authority. Uh all
+19:11
+right. So so it's it's it's worth checking out. Right. Let's move uh
+19:17
+further. So uh what sort of crypto asset classification is there under Mika? And
+19:23
+it's slightly different than you would expect. So it doesn't talk about uh security tokens,
+19:30
+utility tokens, governance tokens. No, it talks about emankens, asset reference
+19:36
+tokens, and other crypto assets. So what are money tokens? There's definition. So
+19:43
+these are basically values stabilized uh to one official currency. To give you
+19:49
+an example, emani token would be a stable coin which is packed to one
+19:56
+official currency. A shining example would be USDC or USDT so-called. Um
+20:05
+here here as you may already noticed uh a funny thing I mean funny uh the
+20:12
+reality is that USDC is uh at this point I'm sorry compliant with the mika so
+20:18
+it's uh it's being listed with the um crypto exchanges active in the European
+20:24
+Union on the other hand that USDT is not uh
+20:29
+and there therefore it has been delisted from basically all major crypto exchanges operating in European
+20:36
+Union such as um Binance, Kraken, etc. Uh so as you can see, Mika already has a
+20:43
+huge impact on on on what is what is even offered in European
+20:50
+Union. So so USDT is no longer offered by the major crypto exchanges in the EU.
+20:56
+Then you have uh asset reference tokens which are basically
+21:02
+tokens that uh which value is linked to other assets or a basket of assets other
+21:09
+than official currency. Here an example would be for example Pax gold. Uh so an
+21:15
+a a a crypto asset or or crypto token which is
+21:21
+packed to gold. uh or die is even considered as as a uh asset reference
+21:26
+token. And the third uh group uh would be called other crypto tokens. So this
+21:33
+would be everything except in e- money or asset reference tokens. Uh so
+21:43
+again perhaps the the most shining example would be Bitcoin or Ather uh
+21:48
+they they will be the other crypto assets and this classification then then has uh it its impact of course and and I
+21:55
+will briefly walk you through uh what's required for for which uh which uh class
+22:02
+of the of the tokens okay and what is not uh falling within
+22:08
+Mika uh regulation or or scope. Uh so first of all as as we already uh
+22:14
+mentioned tokens that are qualified as financial instruments. So for example security tokens or or tokenized shares
+22:21
+they will be covered by the financial instruments regulatory framework not by
+22:27
+the crypto assets regulatory framework. then NFTs or yeah unique non-f fungeible
+22:32
+tokens and then also central bank digital currencies
+22:37
+um and crypto issued by public bodies for example digital euro would be uh not
+22:45
+falling within uh mikas scope all right and this is just to mention we
+22:51
+don't have to spend too much time on this but then there's the so-called significant subcategory so if it's a
+22:57
+asset reference token or in money token that is basically a significant one or
+23:03
+major one. There are certain thresholds uh being set then there are uh more
+23:09
+rigorous uh requirements and and and yeah uh compliance standards that needs
+23:15
+to yeah uh be compliant with. Okay. So the practical takeaways would be when
+23:21
+you are analyzing a token under EU law, first ask if it's a financial instrument
+23:27
+or an NFD. If the answer is yes, it means it doesn't fall uh within
+23:33
+Mikascope. If it's a token which falls falls within
+23:38
+mikas scope then you need to basically have clarity on whether it's a e- money
+23:44
+token or asset reference token or so-called other token because there's various regime for for each one
+23:51
+applicable u and then if it's a e-oney token or asset reference token then you need to
+23:56
+check uh the significant thresholds uh again to to be sure that you don't fall
+24:02
+within this category I assume most of the uh viewers of of this webinar don't
+24:08
+have to worry about this. Okay. When it comes to licensing and comply compliance
+24:13
+requirements again sort of uh getting back to the almost very first slide. So
+24:21
+um now we are going to look uh for who
+24:26
+uh are these e rules here for? Uh so these would be first of all issuers of
+24:32
+crypto assets and then crypto asset service providers or so-called so-called
+24:38
+CASPs. Um for issuers of other crypto assets so we are not talking about the
+24:44
+e-money tokens not talking about the asset reference tokens we are talking
+24:50
+about the other tokens such as bitcoin ather etc. Uh uh if you are issuing such
+24:56
+a token you need to be a legal person usually a company uh not an individual.
+25:03
+Then you need to publish a white paper which is compliant
+25:08
+with the then you need to disclose marketing materials. Uh you need to have
+25:13
+manage of of conflicts rules in place and you need to give your buyers a
+25:19
+14-day withdrawal right. What's important you do not need any
+25:24
+license per se. So you need to comply with these rules but to issue a token
+25:30
+you need don't need a license. It's a different story for crypto asset
+25:36
+service providers. So if you are such a crypto service provider or CASP
+25:42
+here please note uh majority of the global crypto frameworks use uh VASP so
+25:51
+virtual asset service provider. Mika goes for CAS CASP but it's basically the
+25:57
+same thing. It's still a a a crypto service provider. Uh typically these would be crypto exchanges, crypto
+26:05
+brokerage or execution venues, custodial wallet providers,
+26:10
+so doesn't uh include non-custodial wallet providers, portfolio managers,
+26:19
+uh crypto order routting platforms and then crypto advisors operating in the European Union. Okay, so this this is
+26:27
+basically who CASPs are and what they need. First of all, they need a license
+26:34
+uh or an authorization, but basically it's an license. So they need a license from the European Union member state. Uh
+26:42
+they again need to be a legal entity. So a company uh incorporated
+26:50
+uh in the European in country with a senior management in such
+26:56
+a country. Then they need to stick uh with a minimum credential capital requirements basically
+27:03
+ranging from 50k to 150k depending on what sort of service you are providing
+27:09
+and and in relation to to what type of uh uh crypto assets. and then one
+27:15
+quarter overhead costs but there are c certain minimum prod capital requirements that you need to
+27:21
+comply with. So basically a early stage crypto projects with no uh
+27:30
+with insufficient uh um financial backing are not able to to to make it.
+27:37
+In other words, then you need uh robust governance and segregation of clients assets uh rules that are in place but
+27:43
+also uh are are being observed. Then you need uh anti-moneyaundering and counter
+27:50
+uh financing tourism uh rules and controls in place. You need to have
+27:55
+rules on the compliance handling uh compliance handling and then you need uh to have rules on orderly one wind down
+28:03
+plans. What's very important and very useful uh
+28:08
+piece of information is uh here is that once you are a licensed uh crypto
+28:15
+service provider then you can passport your services across all European Union
+28:22
+and EA countries. So basically into all remaining 29 countries as you are
+28:28
+already licensed in one and this is fairly easy process. So once you're licensed, you basically only notify your
+28:36
+uh home uh regulator that you want to uh passport to this this this this and this
+28:43
+country all to all of them. And then the regulator notifies the regulators in
+28:48
+those affected countries and after certain period which is which is fairly short uh uh basically it's weeks uh you
+28:57
+can start providing the the services in those states. So this is what makes the whole mika actual very unique that with
+29:04
+one license um after your passport you have access to the whole European Union
+29:10
+and EA market with one license. It's it's basically unheard of of in the in
+29:17
+the rest of the world. So uh that's fantastic for uh but to get it you of
+29:24
+course need to go through the whole process of of updating the license. But once you get it uh you have this sort of
+29:30
+uh market you have access to. Okay. Very briefly I'll talk about the stable coin
+29:37
+regulation and reserve requirements. Again I don't think this will be very relevant for most of the viewers here.
+29:44
+So it's just to mention that there is such a thing uh in place here. Uh so
+29:50
+basically the requirements uh uh applicable to stable coins um are quite
+29:57
+complex and and and quite uh strict I would say uh when we are talking about
+30:02
+stable coins basically we we talk about either e- money tokens or asset
+30:08
+reference tokens I will not walk you through the through the whole uh table because uh it's really quite complex
+30:17
+uh but as you can See even uh uh by glancing at the table you can see it's
+30:24
+it's fairly complex and then we are moving to uh the other
+30:32
+part which is market abuse and consumer protection. Uh so what Mika is is is
+30:38
+introducing is uh the standard uh market uh integrity
+30:45
+rules um uh that are basically very simil similar or almost the same as we
+30:52
+can see uh in the traditional uh financial services uh environment. So
+31:00
+it aims on uh prohibition of insider dealing. Um it prohibits unlawful
+31:08
+disclosure of inside information. Uh it prohibits market manipulation.
+31:15
+Uh and in general it's aligned with traditional securities regulation. Uh of course um it goes further than that. So,
+31:23
+so it's it's it's it's more detailed, but it introduces this sort of uh
+31:29
+standard um yet strict uh market integrity rules. Um also uh it provides
+31:37
+investors with certain safeguards uh again sort of standard in in traditional
+31:43
+finance world. Um so one of them would be rights of
+31:49
+withdrawal for retail buyers. I'll I'll talk slightly more about that one. Uh then strict custody segregation of
+31:56
+client assets rule. Uh again making sure that the crypto service provider is not
+32:03
+mixing its own money with the client's money as we can see with the uh uh story
+32:11
+of FDX. It's it's it's certainly not a good idea. And then it empowers the
+32:17
+European supervisory authorities such as IBA and ESMA to intervene, supervise and if
+32:26
+necessary even take an an enforcement action. Um, okay. So what does it mean
+32:31
+for issuers and crypto service providers? Uh, for issuers it means to
+32:37
+uh have white papers when issuing uh tokens. white papers have prescribed
+32:44
+requirements of of what they need to uh include.
+32:49
+Uh then it requires a fair, clear and non-misleading communications for all uh
+32:55
+token offers. Uh it's worth mentioning that both these are are aiming to uh
+33:02
+public token offerings. So as long as you are in in the regime of private token offerings, uh the the requirements
+33:10
+are are are first of all different and less strict. Uh second of all, and then
+33:16
+when it comes to crypto service providers, uh they must be transparent on on their fees, pricing, even
+33:23
+environmental impact data. Um that might come as as a slight surprise, but it's
+33:29
+included in there. They need to act honestly, fairly and professionally. Uh
+33:34
+they have to have set of conflict of interest procedures and policies in
+33:40
+place. Again, sort of making sure that the crypto service provider
+33:45
+uh is able to identify conflict of interest. So in other words to see uh
+33:53
+where the interest of conflicting between the crypto service provider and
+33:58
+their clients uh and then uh I mean first of all see and then act upon it.
+34:04
+So so so of course uh the crypto service provider uh uh cannot act in their own
+34:13
+interest but they need to uh put interest of their customers first. So it's it's a great safeguard and
+34:18
+protection for the for the customers and investors. And then of course they are required to take liability for faulty
+34:25
+disclosures. Uh it it goes both for issuers and crypto services providers.
+34:32
+What does it mean for retail users? Uh again white paper and marketing rules.
+34:38
+So, so uh retail users who are buying tokens in investing in tokens uh with
+34:46
+white paper being in place uh and marketing uh rules being in place it
+34:51
+ensures clear fair non-misleading uh um information and what's interesting the
+34:59
+risk summary must warn that the prices can fall to zero. So as we all know uh
+35:05
+crypto is a very volatile world uh but
+35:11
+consumers need to be aware of it. Um then there's a 14-day cooling off period. So basically
+35:18
+it provides retail buyers um uh of certain offers. There are again certain
+35:24
+thresholds in general under 1 million uh euro offer. uh it provides such retail
+35:30
+buyers with a uh right to withdraw unconditionally uh during this period from their
+35:36
+purchase. Um uh then there are custody liability rules uh which means that the
+35:44
+crypto service providers uh are are liable for losses uh caused by hacks or
+35:50
+operational failures in their controlled wallets. Uh so if these wallets are
+35:56
+being controlled by such a crypto service provider uh they are liable for
+36:02
+such a loss and there are compliance and redress um protections uh which means uh
+36:09
+there's a mandatory procedure in place and the crypto service provider has uh maximum period of 30 business days to
+36:16
+respond to a um customer complaint and
+36:21
+then there's mechanism of uh how the unresolved disputes uh can escalate and
+36:27
+how they can be uh settled. All right, we're basically
+36:34
+uh coming to wrap uh in order to to keep it sweet and short within 45 minutes uh
+36:40
+as promised. So I would say what are the key takeaways when it comes to Mika?
+36:45
+First of all, it's Mika or Micah funny thing uh but it's the same thing. So
+36:51
+it's the regulation on markets and crypto assets auide regulation impacting
+36:58
+not only EU countries but also um uh the three countries uh within EA which are
+37:05
+non-EU countries. Then the second thing uh is the enforcement date. So please
+37:12
+have in mind that Mika actually is already in full force um as it goes.
+37:17
+this happened on uh December the 30th uh 2024.
+37:24
+Then the third uh the thing to to have in mind is that there is such a thing as
+37:29
+grandfathering period or you may want to call it transitional period which allows pre-existing crypto providers
+37:37
+to operate until even 30 of June 2026. So basically during the period of 18
+37:43
+months depending on the country you are in uh but up to 18 18 month um while
+37:51
+applying for the Mika license uh then there are passporting rights. So
+37:57
+once you are a licensed uh CASP licensed crypto service provider, you can
+38:03
+passport to all the remaining I mean either all of them or just the selected
+38:09
+ones uh remaining EUA countries quite easily and and swiftly. Uh so it gives
+38:15
+you the license under Mika gives you access to the whole EA market. Uh which
+38:22
+is quite a unique thing. um then it's it's useful to remember
+38:27
+what is out of scope of Mika. So first of all DeFi projects but please remember
+38:33
+only those that are really fully decentralized. Uh so we need to dive deep and and and understand the details
+38:40
+of of the uh project um uh in place to
+38:45
+to be sure that it is fully decentralized and thus escaping Mika uh
+38:51
+scope then it doesn't apply to NFTs the unique nonfgeible uh assets or tokens
+38:58
+and it doesn't apply to security tokens um uh or other financial instruments or
+39:04
+other crypto assets. assets uh that uh qualify as financial instruments but
+39:12
+here it's necessary to say that that they are regulated by other uh regulatory framework in particular
+39:19
+method or markets and financial instruments direct to so security tokens even if they are not regulated by mika
+39:26
+it doesn't mean they're not regulated at all no they're regulated by by the um
+39:32
+financial instruments directive then It's fine fine to remember that there
+39:38
+are certain stable coin rules in place. Uh few some of them are applying to
+39:43
+emani tokens such as USDC or or USDT. Some of them are applying to asset
+39:49
+reference tokens I guess such as for example uh PEX gold or D. Um and then
+39:56
+it's uh useful to remember that there are certain requirements for issuer of
+40:01
+of uh tokens or crypto assets. Uh they must follow Mika rules for example
+40:09
+having a white paper reserve backing etc. But they don't need a license or uh EU presence. It's different story for uh
+40:18
+crypto service providers or so-called so-called CASPs. uh they need to be
+40:25
+licensed uh um and they need to be established in the European Union. Um
+40:31
+and then there are market uh conduct rules um ensuring prevention of market
+40:38
+abuse and and ensuring protection of the consumers. uh and these are basically
+40:44
+introducing a standard consumer protection uh and protection and market abuse um prevention as we as we already
+40:53
+know from the traditional uh financial services world
+40:59
+right so I I think um this is a wrap up of what we covered and now it's time for
+41:06
+your your questions uh if we have any uh please let me check Um
+41:13
+uh I don't see any open questions in the Q&A section
+41:19
+and I don't let me check also the chat. Um I think there are none. I would maybe
+41:27
+add uh just one thing that so that we remind people what is actually really important here and that is one thing
+41:33
+that you mentioned about the grandfathering period and the prohibition of uh uh of pass uh of
+41:41
+passporting during this grandfathering period because that's quite important that uh you should always uh check uh
+41:49
+the grandfathering fathering period of the country where you provide services definitely and be be mindful of this so
+41:56
+you don't uh do you don't come into any trouble during this this grand fining
+42:01
+period until you get the proper license with which you can provide services abroad. Okay. Thank you very much for
+42:08
+this. It's it's an important point and and this something we actually uh are
+42:14
+explaining and clarifying to clients uh uh to our clients quite often is that
+42:20
+when you are a crypto service provider who are who is active um already for
+42:29
+some time in other words uh prior to Mika coming into force and you are relying on the grandfathering period
+42:35
+exemption which means now in 5 2025 you are
+42:40
+still being active as a crypto service provider and at the same time you are applying for Mika license. Uh this means
+42:48
+you can legally provide crypto services but only in the country you you have the
+42:54
+license in right now. So basically in the country you have this historical
+43:00
+licensing uh so to speak and you cannot uh provide uh the crypto services in any
+43:06
+other European country or like non-European country for for that matter
+43:11
+as well. Uh this this will change when you once you obtain the ma license and
+43:18
+you passport so you notify your your home regulator of the uh intention the
+43:23
+passport. So yeah, that that's important. And also, I'm not sure if I stressed this out um uh enough, but
+43:30
+during the grandfathering period, you are not just um basically sitting in
+43:35
+there benefiting from the grounding uh fathering period doing nothing, but you are obliged to apply for the Mika
+43:41
+license uh in the meantime. And again the period until uh which you need to do
+43:47
+so varies stateto state but usually it's it's uh until end of June July
+43:56
+uh this year. Uh so um okay let's for example let's take Czech Republic as an
+44:02
+example. In Czech Republic Czech Republic opted for the longest groundfathering period available which
+44:08
+means 18 months. So a year and a half. So the period lasts until summer 2026.
+44:17
+Uh so until summer next year. But to benefit from the whole grounding period,
+44:22
+you need to I mean first of all be a licensed subject already uh having this
+44:28
+historical uh crypto license. And second you need to apply for the Mika license
+44:34
+until end of July this year. Uh only then you can benefit from the grandfiring period. If you don't apply
+44:39
+for the Mika license then actually the grandfathering period ends for you in
+44:44
+the Czech Republic as of 30 July this year. Yeah. So this is when it comes to
+44:50
+grandfathering period. Okay. Let me check if there are any any
+44:55
+any new questions. I don't see any. Uh
+45:01
+which is fine. Uh I mean uh I guess uh majority of of the viewers will be
+45:07
+viewing from from recording. Uh so even feel free to reach out to us. Uh um
+45:15
+there will be emails uh at the end of the deck uh or or um yeah uh you can you
+45:22
+can find us on LinkedIn etc or uh at our our web page and feel free to ask any
+45:28
+question. Uh we we will be happy to respond. uh or or direct you to to uh
+45:36
+someone who can even assist you if you if you need an assistance um especially
+45:41
+of of uh of legal nature. Uh great. So
+45:46
+just a reminder this was part one of the three-part uh web webinar series which
+45:53
+is called Embrace Mikra regulation for Cardano founders. Uh it's being held by
+45:59
+us sparring uh international law firm legal boutique focused on
+46:05
+innovators and uh founders and it's being powered by Cardano foundation.
+46:13
+This is why why it's specially uh focused on Cardano founders. Uh there
+46:18
+will be two more parts uh following. Um in part two we'll be we will be looking
+46:24
+at the Mika licensing process and the practical aspects of it. So what does it mean actually to to go through a
+46:31
+licensing process where applying for MA license? Uh what sort of requirements do
+46:36
+you need? How long does it take? What should what do you should basically
+46:41
+embrace yourself for? Um so we'll sort of walk you through the whole process uh
+46:48
+as we are helping number of of clients with their uh ma license uh um procedure
+46:55
+and then we'll um uh spend some time on the regulatory updates from the supervisory bodies as as the things are
+47:02
+uh evolving and changing all the time. Um and then we will come up with few
+47:08
+case studies and similarly then in part three uh we will bring uh an overview of
+47:14
+the whole uh mika adoption in Europe what's the situation like and again spend some time on the latest updates
+47:20
+and case studies I guess this is it from us um my name is
+47:26
+Thomas Richtor urban uh there's uh a few
+47:32
+more talented lawyers in our team Uh huge thanks goes to Martina Batsikova
+47:37
+who helped me with this uh whole presentation and who who we hope we'll be able to uh to see also speaking u in
+47:45
+the part two or part three uh webinar series and huge thanks to Cardano Foundation for making this possible and
+47:52
+of course huge thanks to to you for tuning in uh
+47:58
+either if you are watching this online or or from the recording uh we hope you
+48:04
+will find this useful. Uh we'll be grateful for any feedback and if you have any questions, feel free to shoot
+48:11
+those at us. Uh either reach out to us via email uh that you can uh see here or
+48:18
+via our uh web page or via LinkedIn. Uh we're also on Telegram and and other
+48:25
+platforms uh uh so we can then switch communication over there. Okay, fantastic. Uh this is it from us. Uh I
+48:33
+wish you all the best for now and hopefully we'll see you uh in part two and part three of our webinar series.
+48:40
+Thank you and goodbye.
+

@@ -1,0 +1,1103 @@
+
+Search in video
+0:07
+Let me say a welcome to all of you. Um it's a pleasure to have you join our
+0:12
+webinar today, Clarity on Chain. Uh where we're going to be looking at legal
+0:17
+questions on tokenized collateral in derivatives markets. This is actually the first in a series
+0:24
+of webinars that we're developing. Um, and our goal of these webinars is to really do a deep dive into the specific
+0:31
+legal questions around tokenized assets. Uh, that's something that we've received
+0:36
+a lot of interest from members on. Um, and so our hope is that by really diving
+0:42
+into these assets, asking the legal questions, we can help all of you out there to figure out what questions you
+0:47
+need to be asking and also get some of those answers. U, my name, uh, for those of you I
+0:53
+haven't spoken to before is Mark New. I'm co-head of digital transformation and the senior council at ISA.
+1:00
+Um we have a great lineup of speakers uh to go through our questions today. Uh
+1:06
+Tom Sullivan is a managing director and head of digital assets at DTCC.
+1:11
+Brandon Hammer is a partner at Clearary Gotautle. H and my colleague Marcus
+1:16
+Hunter is council at ISTA. Uh Marcus and I will be asking the questions and uh
+1:22
+Tom and Brandon will be providing the answers. So um before we jump in let me just say
+1:28
+a few words um about uh what ISD hasdas been doing in this area and how these webinars relate to that. Um I would say
+1:36
+that we've seen interest from members in the benefits of tokenized assets for collateral um going back several years
+1:43
+now. Uh we actually did some projects in 2023 and 2024 where we started to
+1:50
+consider the legal aspects of tokenized collateral. And what we did there was to
+1:56
+develop um some model provisions for a variation margin CSA to allow people to
+2:02
+make the updates necessary to post tokenized collateral um in accordance with the CSA. And then
+2:10
+related to that and perhaps the more interesting question in some ways is what would the updates that would be
+2:17
+necessary for our legal opinions for collateral? Um to make sure that um we
+2:22
+would be able to explain to council what would need to be covered in legal opinions and understand the differences
+2:29
+for tokenized collateral um so that the legal opinions would cover the relevant
+2:34
+questions. And what we learned from that work uh on tokenization was really the
+2:40
+importance of understanding the specific legal structures involved. Um it it's really necessary to get into
+2:47
+a fair amount of detail to understand the legal rights that the structure provides and that then drives the
+2:54
+collateral analysis both from a documentation perspective and from a legal opinion perspective.
+3:01
+And as part of that work in the collateral guidance note, we developed a taxonomy identifying certain features of
+3:09
+different types of tokenized assets that would be relevant for documentation and
+3:14
+opinions. Um, fast forwarding to today, I think we're in a really exciting time, uh,
+3:21
+because now we're starting to see a number of assets on the market where there is sufficient clarity, sufficient
+3:28
+documentation, um, for us to really delve in and ask the specific questions
+3:35
+around the way the tokenization structure works. And I think it's because of that that we've received
+3:41
+increased interest from members in this area. um and why we're starting out this
+3:46
+series of educational webinars today. So, we want to make these webinars as useful to you as possible. Uh we would
+3:53
+certainly appreciate any questions um coming through the Q&A feature in the webinar. So, definitely use that and
+4:00
+send us any questions you have as you go along. Um we'll also be recording today's webinar and we'll be circulating
+4:07
+that afterwards. And so if you have follow-up questions or ideas for future
+4:13
+sessions that you'd like us to cover, uh please do get in touch with us and uh send us your thoughts and questions.
+4:23
+So um with that, I'm looking forward very much to diving in today um and uh looking at the the really brand new DTC
+4:30
+offering. Uh very exciting. Um, so just to kind of help us set the scene, um, I'm going to, you know, pose a series of
+4:38
+questions to to Tom first of all, uh, just to really explain how the system
+4:43
+works and what we're looking at for people who may not be familiar with it today. So, uh, let's start off with a general
+4:49
+question, Tom. Uh, can you give us an overview of DTC's tokenization service and, uh, touch on what benefits it
+4:56
+offers? Sure. And maybe firstly, I'd just like to say thank you to ISDA for having me here and really thank you for all the
+5:03
+work that you've done over the years. There are many of us who've been at tokenization for for some time and we
+5:10
+really are at an inflection point I believe and with the work that we're doing which we'll explain today and we
+5:16
+wouldn't be able to achieve these things without the support for the community and looking at what not only
+5:21
+tokenization can do but how it can be used and collateral is is certainly you know a key use case for us. So in terms
+5:28
+of the tokenization service and the other thing I'll say is I'm so glad that there are a bunch of lawyers on the
+5:33
+phone so I don't have to answer the hard legal questions. Um so I'll just answer the fun questions I
+5:39
+think. But so tokenization service and maybe just as a bit of a background um a couple of things DTCC made an
+5:46
+acquisition of a company called a little more than two years ago and through that acquisition we acquired the technology
+5:53
+that enables tokenization. There's a suite of services that the currency had. And when they came aboard, they really
+6:00
+made the the bold proposition of what what you know, now that we're on board, what can we do? How about let's tokenize
+6:06
+all the assets that sit in the depository to the tune of 100 trillion worth of assets, which is what what we hold. And in going through the process
+6:15
+for the past couple of years to to do that, we looked at and I I know that we'll talk about the the the no action
+6:22
+letter that we received and the details there, but really at its core, what DTC
+6:27
+does today is we are the holder of record for most US assets, US equities
+6:32
+and and and corporate bonds. And we operate a closed system that's member-based, participant based. That
+6:39
+DTC is is the holder of record with a transfer agent. We have a closed system. We are remain we have participants and
+6:46
+then the participants maintain their own books and records where they show the the holders the individual holders on
+6:52
+their books and records. What we've in in in in using this tokenization model, what we're now able to do is enable
+6:59
+participants to take the assets that that sit in their depository account and create what we call a conversion order,
+7:06
+which is moving it from their their DTC account into an open network. And we'll
+7:11
+we'll talk, I'm sure, about the type of networks that we're looking at. And when they do that, it enables that asset to
+7:18
+be then available on chain in a way that's at the discretion of of the of
+7:24
+the participant. So that means that that the participant can define the the types
+7:29
+of wallets, the wallet structure that they use, whether they maintain assets in omnibus form or individual form on on
+7:37
+the on the blockchain and importantly enables the the utility that that smart
+7:42
+contracts on blockchain can can do. Um, so and in terms of the in terms of the the benefits that we see, there are many
+7:50
+and we're really just at the at the early days. Certainly the mobility of collateral as we move towards more 247
+7:57
+markets as we move to a greater intersection between traditional markets and crypto markets. We will see the need
+8:04
+for those assets to interact in a more seamless way which they don't do today. And that's really what we're building
+8:10
+towards. That's great. And just for people who may not be so familiar with the terminology, could you just say a bit
+8:16
+about what it means to have an asset in a wallet in in in the service? Sure. So um in and again what we have
+8:24
+today is we maintain our own books and records or we have account structure where we maintain accounts for our
+8:30
+participants. A wallet is uh a place on a blockchain where the really it's the
+8:37
+assets sit but importantly there are two sets of keys as public keys and private
+8:43
+keys. And in controlling the the assets that sit in the wallet, you're you're
+8:49
+doing so by controlling the the the private keys that you know whether the the individual holder or the holder of
+8:55
+that wallet u maintains and enabling those private keys to to move assets.
+9:01
+That's great. So um we now have this system where assets can be held as tokens in wallets. Who who's that
+9:07
+available to? Who can use this new system? So as I mentioned the starting point is
+9:13
+it will be available the tokenization service will be available to our members and participants. So there's a you know
+9:20
+several hundred firms who are participants in in DTC primarily US banks and and broker dealers. But what
+9:27
+it does do is that that those members and participants are are allowed to do
+9:33
+the initial tokenization. But in having the assets available on global pl global
+9:40
+blockchains will enable international holders to have access to those those
+9:46
+assets in a different way. leaning through the wallet structure and having the greater mobility across chain as
+9:52
+opposed to staying in the account structure and the closed system where where we're maintaining assets in the in
+9:57
+the current form. Great. Um and I've already mentioned that we've been very interested in
+10:02
+tokenization from the collateral perspective. How do these tokens tie into the collateral world you think?
+10:08
+Sure. So when we think about the types of assets that that we're that we're
+10:14
+describing and as I mentioned DTC primarily is the holder of record for US
+10:19
+equities and I know we will talk about more about what's what's in the no action letter but in terms of the scope
+10:27
+of the the types of assets that we have that we will be available will be US equities meaning the the Russell 1000 um
+10:35
+major ETFs tied to major US indices and then US treasuries. So,
+10:40
+interestingly, US treasuries is not a natural place for the DTC normally, you
+10:45
+know, engages. Most of those assets sit in in the Fed wire and in banks. But one
+10:51
+of the the one of the main points of feedback that, you know, we've heard from our clients and we see in in the
+10:57
+market is US treasuries are are clearly used in in financing and uh in in
+11:02
+collateral management. And so by enabling the access to US treasuries, we
+11:08
+believe that there's, you know, that's that's a a gateway to to to doing the the collateral uh management. But it's,
+11:15
+you know, as I said earlier, what one of the drivers is really this the move
+11:20
+towards the 247 markets, the, you know, the full 365
+11:25
+all all year round access as opposed to having limited access to uh, you know,
+11:30
+during the, you know, banking hours and and and settlement windows, but also
+11:35
+really the the use of smart contracts. So smart contracts can be or programmable tools that that really make
+11:43
+decisions or enable for for decisions to be made through you know a greater deal
+11:49
+of automation so that assets can be moved. You can think about having you know some elements of your agreements or
+11:54
+your MSAs and things like that embedded in a smart contract so that the collateral can can be moved more
+12:00
+efficiently. And that's among the things that that we're expecting to see. And then the last thing I'll say is as I
+12:07
+alluded to earlier with respect to the interoperability or the interaction between traditional assets and and
+12:14
+crypto assets what we've seen and what we we are seeing and we've heard from the market and in fact we demonstrated
+12:20
+this last year what we did a what we called the great collateral experiment where we had native onchain assets
+12:27
+whether that be stable coins whether that be tokenized money market funds whether that be crypto assets like Bitcoin and then tokenized assets in the
+12:34
+form of US treasuries and and things like that and showed that they could interoperate and interact together so
+12:41
+that you can use non-traditional assets as collateral. You can move traditional
+12:46
+assets versus stable coins. You can do payment versus payment uh activity where
+12:52
+you're moving u a traditional asset in token form form versus a crypto asset.
+12:58
+So all of those things are you know become available by by leveraging blockchain technology.
+13:04
+That's great. Um it's not the topic of today's webinar but um you did mention money market funds there and I think I
+13:09
+should um you know mention for the group that there is an ongoing project there was one being done last year looking at
+13:14
+money market funds uh there's an ongoing project um between ISTA and uh GDF
+13:20
+looking at money market funds in a US context. Um so that's definitely an area of interest for us currently and uh
+13:26
+we'll come back to that later in the webinar. So you mentioned uh the pilot program uh the new action letter a
+13:32
+couple of times already. Perhaps you could talk about that and like what's the regulatory aspect here?
+13:38
+Yeah, sure. So obviously the SEC is our primary regulator and the SEC has been
+13:45
+quite engaged over the past year plus in having the market explore be more
+13:51
+proactive in in looking at how the market can adapt to technology. So rather than being passive, uh they've
+13:58
+been clearly more proactive in both creating rules and you creating some
+14:04
+guard rails as to how the institutions and you know the market more broadly can can operate. And so typically when DTCC
+14:13
+engages in any type of new activity, we are required to go through a rulemaking
+14:18
+process and we have a there's there's a a bunch of steps that that we need to to
+14:23
+do to make sure that we're complying with every every law. We're complying with our rule book and what the the no
+14:30
+action letter is allowing us to do. So it's a three-year period where we can
+14:36
+operate this service without having the the full set of rule book created and it
+14:42
+really it will enable us obviously we intend to do this in a in a in a safe and sound way but enable us to do it in
+14:48
+a controlled way so that our assets can be made available that we will control
+14:54
+the the assets at you know from from end to end and we we can exert control from
+14:59
+end to end to demonstrate possession of control which is a you a key tenant of of of of what we do but uh also to to
+15:07
+then allow us to you know to to move the market forward without having to go through that full rulemaking process. So
+15:14
+we're expecting that at the end when we have some learnings and we get some uh you know some real activity on on chain
+15:22
+then we can move to doing doing this in a more formal way and make it so that it's permanent
+15:27
+and as I mentioned just in terms of the in terms of the assets it's scoped in a way that encompasses the the Russell
+15:34
+1000 so really it's focused on liquid assets on ETFs tied to major indices and
+15:39
+of course US treasuries so that it wouldn't be some obscure asset or uh you know a real estate trust or something
+15:47
+like that. It's really things that are expected to be liquid and the market would intend to use. And then maybe the
+15:52
+last thing I'll say along the lines of of how we do this, and I think we'll probably talk about this a little bit later as well, is that when because DTCC
+16:02
+is creating the the set of smart contracts on each each blockchain within
+16:07
+the those those smart contracts for these assets, we are allowed to do certain things, meaning that we're we're
+16:14
+enabling our participants to mint the asset, of course, burn the asset when they come back in traditional form, but
+16:20
+there are other protections that we have where we would have the ability to freeze the asset if there was illegal
+16:26
+action or some kind of type of sanction activity um and seize the assets and
+16:32
+bring them back into the depository if need be for for for whatever reason and that really extends that that concept of
+16:39
+possession or control. So DCCC still maintains the the the actions that it does as a depository.
+16:46
+Um I I I would um commend by the way to the to the listeners uh the the DTC
+16:51
+letter and the SEC relief. It's a really good analysis of of some of the issues in this area. But one of the things that
+16:57
+I I picked up was that the service will operate on multiple blockchains. And in the past, you know, one of the questions
+17:02
+that we've seen in the world of you know digital assets more broadly is things like the risks of bridges. What happens
+17:08
+when assets move between chains? So how does DTC think about um operating on
+17:14
+multiple chains in this area? Yeah, so there are a few a few things that are in play and how we look at it.
+17:20
+So one is of course market demand. So we take feedback from our members and our
+17:26
+participants. We look at where the market is and is has evolved with respect to assets on chain and again
+17:33
+whether that be things like tokenized money market funds, stable coins, u and
+17:38
+then you know activity on on crypto assets and so along those lines. So the
+17:44
+first chain that we announced it being live on is is the Canon network and the driver for the Canon network really has
+17:51
+been there's a a strong push from our members and large group of market
+17:57
+participants who have been active on Canton in some way and so really that's just we're moving in the direction where
+18:03
+we believe the market wants to go but we understand that there are other options and it is it is in some ways early days
+18:10
+we're not fully live yet we do have a process of how you know so we want to be
+18:15
+open and agnostic to a degree but we do have a process of vetting blockchains
+18:20
+that meet certain standards and you think of things like resiliency uptime
+18:26
+um types of I would say negative impact negative events like like financial
+18:32
+crime and we take those factors into into play when we do this evaluation so
+18:37
+there's there's some inputs from from the market from evaluation and then there's also or review and then of
+18:43
+course we we will need to prioritize how we build to each network. So we're going
+18:49
+to do that in a in a in a measured way. We expect that that there will be a roll
+18:54
+out o over time of you know not 10 chains at once but more like you know
+18:59
+one or two at a time as we feel comfortable that we've built uh the connectivity in the right way.
+19:06
+Yeah. Thank you. Um you you mentioned earlier like the control and the mint
+19:12
+burning process. Um again some new terminology right in this area. Perhaps just explain mint burn and then does
+19:18
+that help in other sort of exceptional cases like you mentioned the private keys before and one thing that people may have read about is people perhaps in
+19:25
+the Bitcoin context losing the private keys. Is is that a risk that you guys think about?
+19:30
+Yeah. So absolutely and that's in fact so so minting and burning is really a mint is just the creation of a token on
+19:36
+a network and the burn is the the the removal of the the token on a network and so we with respect to the there's
+19:44
+there's a range of of conditions where we may
+19:49
+do the do a a clawback or a burn or or freeze and or and or remitt and and one
+19:57
+of them would be with the the loss of of of private keys where you can look at a
+20:02
+circumstance and the fact that DTCC controls that you know has access to to that smart contract. It will enable us
+20:10
+to to you know to do a remitt if there was a uh you know if if that was
+20:15
+necessary and that would m really mitigate um the the concern again because the original asset even though
+20:22
+it is the same QIB the same entitlement rights to to the underlying asset the underlying asset still does sit in the
+20:28
+depository and from the transfer agent perspective DTC is still the holder of records. So that really gives gives the
+20:35
+option of having the the mobility and flexibility that you have on chain with maintaining the the security and control
+20:42
+that you expect from a depository being involved. Great. Um and then you mentioned um this
+20:49
+is like there's there's a pilot phase going on, right? So there's there's a timing angle to this. Perhaps you could say a bit about what the what you see as
+20:55
+being the phasing of this project. Yeah. So, we're expecting to have a our
+21:00
+first launch in early Q3 and that first
+21:06
+launch will be limited in scale both in terms of numbers of assets and numbers
+21:11
+of participants. We'll do it will be a live pilot and it will be you know doing
+21:19
+it in a way that we make sure that everything happens appropriately and and in a controlled way. From there, our
+21:26
+participants will have more access to our testing environments throughout this the summer and then we're expecting a
+21:34
+phased roll out from into the fall. So October and then you know beyond towards
+21:40
+the end of the year and through that phased roll out we we will increase the
+21:45
+amount of assets that will be available. So on day one it will be a very narrow set of assets just to to ver verify that
+21:53
+the test the process works in production and then we will add the numbers of
+21:58
+assets meaning that we won't go from zero to 1,000. We'll probably go from zero to 20 and 100 and then and then
+22:06
+beyond. And again really just to maintain that control framework to make sure that everything's working properly
+22:12
+so that volume can be scaled in a way that's that that's controlled. um and
+22:17
+that our members have and and the market has the opportunity to both see how it works, see how things interact, develop
+22:24
+their frameworks and structures because we really are doing this in parallel. You know what we're building and the
+22:29
+market is building again wallets and policies and procedures and all those kind of things that need to be done. So
+22:36
+it will happen over time gradually throughout the you know I would say the
+22:41
+end of Q3 into towards the end of the year and then from 2027 we really expect
+22:47
+to ramp up. Very exciting. That's great. Well I think that gives us a really good
+22:52
+um scene setting for the second part of the webinar. So thank you very much Tom. Uh I'll just remind the group if you do
+22:58
+have any questions uh please do use the uh question function the Q&A uh send
+23:04
+those in and we will do our best to answer them. Uh so for the the second
+23:09
+part of this I'm going to hand over to Marcus who'll be doing the deep dive on the legal questions.
+23:15
+Thanks Mark and thanks everyone for being here Tom. That was a fantastic overview of a really exciting project
+23:21
+and we're looking forward to discussing it. But we can't go any further without talking about the legal framework that
+23:28
+is going to be applied and some of the legal questions that have emerged from tokenization taking this industry by
+23:34
+storm. Uh for that discussion, I'll be talking to Brandon Hammer from Clary
+23:39
+Gotautle. And I think a good place to start is setting the scene on what the
+23:46
+traditional legal framework of a setting like DTCC DTC's under US law would be.
+23:53
+Uh son's tokenization. What would the traditional legal framework applied to DC DTC look like? Brandon.
+24:00
+Sure. Um thank thanks Marcus and and thank you uh for inviting me to join you uh today. So uh the the the main
+24:09
+principal legal framework that governs DTC's holding of securities is article 8
+24:15
+of the uniform commercial code. Uh basically when a clearing agency like DTC acquires a security credits it to a
+24:23
+securities account for a customer under the UCCC it is treated as a securities
+24:29
+intermediary and the customer is treated as an entitlement holder. That has a
+24:34
+number of very important legal implications. First, it means that DTC
+24:40
+as a securities intermediary is subject to a number of specified duties. This includes the duty of DTC to hold those
+24:47
+securities on a one forone basis. If its an Apple share to a participant's account, it has to hold uh uh it has to
+24:55
+hold an Apple share corresponding to that. uh it has to listen to transfer instructions uh and and certain other
+25:02
+instructions of the participant. It has to process distributions uh listen to voting instructions, things of that
+25:08
+sort. That's one set of implications. Another big set of implications is that article 8 sets forth the the perfection
+25:16
+rules and the take-free rules that we have uh essentially come to rely on a a
+25:23
+as just common kind of common common sense. The first is uh that you can perfect a security interest by control.
+25:30
+In particular, if I want to pledge my securities to you, Marcus, I can
+25:35
+effectuate that pledge by having uh the securities transferred from my account
+25:40
+to your account such that DTC recognizes you as the entitlement holder.
+25:46
+Alternatively, we could do a control agreement uh or or or another arrangement to establish control. But
+25:52
+one very easy way to establish control is for you to to become the the
+25:57
+entitlement holder to have the securities in your account. Uh in addition uh take free rules under the
+26:03
+UCCC establish that if you become the entitlement holder because you've purchased the securities from me for in
+26:10
+good faith for value. uh you cannot be exposed to claims of of my creditors or
+26:16
+or the person I I acquired the securities from creditors saying oh the these were actually my securities
+26:22
+because 18 uh 18 transfers earlier someone stole them from me you you
+26:27
+acquire legal certainty that you have those assets and then finally uh article 8 sets out clear-cut uh uh ownership and
+26:35
+insolveny rules in that if DTC were to become subject to insolveny regime
+26:41
+regime, an insolveny regime. Those assets would not form part of DTC's estate and instead they would be
+26:47
+reserved for uh DTC's participants as the entitlement holders. That's the
+26:52
+that's the legal framework as it exists outside of tokenization and on which kind of the industry has been operating
+26:58
+for uh quite a while now. Great. And I think it's important to note obviously that that's the U largely
+27:06
+the US legal framework. I think as as we've discussed before, Article 8 is almost assumed to apply everywhere. It's
+27:13
+on a state-by-state basis, but uh that is the overall US approach. Obviously,
+27:18
+uh with our international focus, there are different jurisdictions with different questions, and I think we'll address some of the conflicts of laws
+27:25
+questions that emerge uh later on in this webinar. But for now, let's focus
+27:30
+on we have our our jurisdictional framework here, the US jurisdictional framework under which DTC's uh operated
+27:37
+up until now. So based on that legal framework, what changes when assets and
+27:43
+transfers at issue are tokenized and onchain as under this pilot program? Uh the short answer is nothing. Uh so uh
+27:52
+the the what the way the framework works outside of tokenization is that DTC
+28:00
+records who is the entitlement holder to the security who's its customer who's uh the owner of the securities using
+28:07
+central books and records. All that happens with tokenization under this
+28:12
+framework under the framework that DTC developed is that that recordordation happens using a different system using
+28:19
+distributed ledger technology. But the nature of the relationship between DTC
+28:24
+and the participant remains the same. DTC remains the securities intermediary. The participant uh to that that has the
+28:31
+registered wallet where the token is held uh remains the entitlement holder. All that is changing is the
+28:37
+recordkeeping methodology and just changing your recordkeeping methodology does not change any of the uh legal
+28:45
+analysis applicable to that relationship. So you can still perfect the security interest by acquiring
+28:50
+control for example. It's just you acquire that control by moving the token
+28:55
+from one person's wallet to another person's registered wallet. you still in
+29:00
+that case will benefit from the take-free rules and you still benefit from the the insolveny uh and and and
+29:07
+kind of distributional rules uh under uh under the UCCC. Uh in addition all of
+29:13
+the duties that apply to DTC to ensure that they hold on a one forone basis that they listen to your instructions
+29:20
+those duties continue to apply as well. We just have uh what we call fancy fancy books and records. And to analogize uh
+29:28
+to a previous sort of shift of recordkeeping structure uh a record that
+29:35
+is kept on paper and transferred only on paper. Uh versus a record that is electronically recorded. Uh those two
+29:42
+things are both still recording and would both still be recognized. Uh just as this is sort of a technological step
+29:49
+forward. It's not necessarily a break in the legal framework. Would you say that's Yeah, I think that's a fantastic
+29:55
+analogy, Marcus. Thank you, Brandon. That's that's what I'm here for. Fantastic analogies.
+30:01
+Uh so, given that DTC's program will fall under this same legal framework,
+30:07
+how are the the traditional legal concepts handled when uh transactions are on chain? I'm going to run through a
+30:14
+few of these. Um I imagine that largely many of these will stay the same given that the recordkeeping has changed
+30:20
+technologically but not fundamentally legally but I have a feeling we'll get a number of questions on these and so to
+30:27
+discuss some of these beforehand uh we can sort of head off some questions and also get into where there might be
+30:32
+discrepancies if there are any. Uh so first of all and I think a fundamental
+30:38
+issue here documentation of token holder rights uh does anything change under
+30:44
+this structure uh legally? Yeah it kind of at a macro level no and
+30:50
+anytime you have a relationship between a securities intermediary and its entitlement holder you document that in
+30:56
+a contract. The general contract right now is DTC's rules. There will however
+31:02
+be a a specific agreement that participants will sign uh relating to
+31:08
+the tokenization service. So there will be different contractual terms applicable to the relationship. But the
+31:14
+idea of having that relationship governed by a contract and that contract kind of dictates dictating the key terms
+31:20
+uh is the same. It's just a a different contract for the tokenization service. Great change of contractual framework
+31:26
+but not of overall framework. Exactly. Um, so secondly, uh,
+31:31
+segregation of customer funds. Obviously, we're dealing with wallets here, which as Mark and Tom went over
+31:38
+earlier, are a different concept than pure accounts held with DTC, but uh, is
+31:44
+there going to be a need to segregate funds in different wallets? How how does that work under this structure?
+31:50
+Yeah. So, um, I I I think the short answer there is is
+31:55
+no. Uh, when DTC When a when a participant has a token uh
+32:02
+held in their wallet, a tokenized entitlement in their wallet, what that means is that DTC is saying, "Hey, I
+32:10
+hold this security for you intermediary to the extent that that to for you
+32:16
+participant to the extent that participant is required to ensure that the securities it's holding for itself
+32:24
+are in a separate location from the securities it is holding for its customers then absolutely in that
+32:31
+instance it would need to use separate wallets for its own securities and for
+32:36
+the securities it is holding for its customers just like today a number of participants will use one of DTC's
+32:42
+segregation arrangements to ensure that some of the securities it's holding in its proprietary capacity are not
+32:48
+comingled or otherwise somewhat segregated from the securities it's holding for its customers likewise
+32:54
+onchain participants may if their regulatory obligations demand it use separate wallets for their prop
+33:00
+securities and uh securities they hold for customers. They may also decide to hold securities for individual customers
+33:07
+in particular wallets that I may say hey I want my securities held in a separate wallet from others uh and and the
+33:14
+participant could do that uh as well but they would they would do so in accordance with their regulatory
+33:20
+obligations. I think it's notable in this respect that something that's not
+33:25
+in the no action relief is any relief from rule 15C33. Uh and that is because
+33:30
+I think we're all confident that relief from 15C33 the broker dealer customer
+33:36
+protection rule in the United States is not necessary again for the the same old trope that the the nature of the
+33:43
+relationship hasn't changed. DTC remains the custodian of these securities. the
+33:48
+securities remain held with a with a clearing agency. Uh and so uh to the
+33:54
+extent when you have your securities in your regular participants account at DTC, it satisfies 15C33, so too does it
+34:02
+satisfy it if you have the securities in a wallet uh in in a specific wallet uh
+34:07
+on chain through this program. Great. Um, how about establishing ownership of an asset, a tokenized asset
+34:15
+here? Is receiving the token in your wallet sufficient to establish ownership, holding it? Uh, any other
+34:22
+ele? Obviously, the elements stay the same under this framework, but do they need to be proven differently? Anything
+34:29
+change? No, it's pretty it's pretty much uh the same. It's pretty much just that you need to have the token in the wallet uh
+34:37
+that that is registered to you with DTC. And once you have the token in that wallet, DTC's ledger scan system will
+34:45
+say, "Hey, that token is in that wallet, that means that you are the entitlement
+34:50
+holder of that security." So all you really need to do is is have the token in your wallet.
+34:55
+So related question, I'm glad you brought up Ledger Scan, which is the technology that sort of makes the the
+35:02
+change by observing where transfers have happened. you can talk a little bit more about that and Tom if you want to
+35:08
+mention it as well but uh is that off-chain transfer scan update required
+35:13
+to uh is that a precondition for verifying legal ownership?
+35:19
+Yes, that that step must happen because DTC uh uh makes clear that its source of
+35:26
+truth its books and records is Ledger Scan. However, I will note Ledger Scan is operating on a on a continuous basis
+35:33
+and so is constantly scanning to see where the tokens are. Therefore, when Ledger Scan identifies that the token is
+35:39
+held in my wallet, at that moment, which will be at the moment that the asset lands in the wallet, uh DTC's books and
+35:46
+records will reflect that I'm the owner. So, Ledger Scan is reviewing DT but and
+35:53
+making changes based on that but with a step removed. So if there's an issue with the underlying technology, it's not
+35:59
+purely reliant on that and there's a a level of uh remove from the underlying
+36:05
+technology. Yes, I think that's a fair discussion. Great. Um I want to turn to something
+36:13
+uh that Mark and Tom discussed briefly which is the mint burn issue and just
+36:18
+the legal aspect of that uh that process. So, if a token is transferred in error, uh whether it's a technical
+36:25
+error, user error, what have you, we've all made them. Uh does DTC have the power to burn and mint a new token?
+36:31
+Obviously, they do. But, uh what sort of legally backs up that that legal right?
+36:37
+Yeah. No, that's that's a great question. And it's kind of the same analysis where if if DTC makes an
+36:43
+erroneous paper entry or a C or a participant uh requests an entry that's an error or there is some sort of error
+36:50
+with DTC's electronic spreadsheet. Uh what's the legal framework for adjusting that? And and the legal framework is
+36:56
+that a a a custodian a securities intermediary upon learning of an error is permitted to make an adjustment to
+37:04
+reflect uh that error. And so that is the same process where if a a
+37:09
+participant inadvertently transfers the token or loses the private key, then just as if I if I mistakenly send a
+37:16
+transfer uh through my through through a centralized book and and record, I call my custodian say, "Whoops, I made this
+37:22
+mistake. Can you uh undo it?" And then the the custodian can uh undo it again. These are just DTC's books and records.
+37:30
+So they can make that change just like any custodian can. Great. Uh I want to circle back to
+37:36
+something I asked previously just about timing of the trans of the transfer of ownership under the transfer scan issue.
+37:43
+So just to make 100% clear the ownership being verifi the transfer
+37:50
+being verified by transfer scan that's the moment that legal ownership is established. Correct. Not when it
+37:55
+happens on chain necessarily. That is correct. Although even though they happen I think that's a yeah I think that's a bit of a a distinction without a
+38:01
+difference because they they happen at the same time. Operationally it's going to be simultaneous but the actual legal moment
+38:08
+is transfer scans scan the transfer. Yeah they chose a great name uh describe
+38:14
+exactly what they do. So uh now definitely jumping gears uh to the conflicts of laws issue that I mentioned
+38:21
+above. uh how is this structure impacted by conflicts of law? A token holder
+38:28
+who's in one jurisdiction who's covered by that jurisdiction's law might be looking to local law over the US
+38:34
+framework that you've laid out here. Um how does that impact DTC if at all? And
+38:39
+importantly also how does it impact the participants in DTC's program here? because as we've discussed, this is
+38:46
+going to be more about DTC's participants offering uh these wallets as well and and overseeing the transfer
+38:53
+of the tokens that they've set up. So, there's a few steps of remove there. Um
+38:58
+can you talk through how those might be impacted by different jurisdictions applying different law? Sure. So if I hold securities with a
+39:06
+securities intermediary, if I hold securities with the UTC and then a legal dispute arises in the United States, in
+39:13
+France, in in England, in Japan, uh what the court's first role in that dispute
+39:19
+is going to be is decide what law governs that dispute. And helpfully in
+39:26
+the context of securities held with an intermediary, there are in many jurisdictions
+39:33
+relatively wellestablished and clear-cut choice of law rules for questions like perfection, priority of security
+39:40
+interest, ownership rights, things of that sort. Those rules typically look to
+39:46
+where the custodian is or where they maintain their uh securities or where um
+39:52
+or what they designate as the governing law for the agreement, their custodial agreement. To the extent that is the
+39:59
+relevant choice of law rule, those same choice of law rules will apply to the tokenized entitlement no differently
+40:05
+because the legal nature of the relationship has not changed at all. So if you are in a jurisdiction that relies
+40:11
+on the prima framework in in Europe and you get comfortable using that framework that New York law will govern perfection
+40:18
+of your security interest or your ownership rights. The fact that you're using a tokenized entitlement doesn't
+40:23
+affect any of that. That's at the the participant DTC level. I think it's really important um your question Marcus
+40:30
+on kind of how does it work at the level of the participant and then its customer to to kind of take a step back and talk
+40:36
+about the nature of that relationship. DTC of course has only a relationship
+40:41
+with its participant. It does not undertake any relationship with the participant's customer. If the
+40:47
+participant wants to allow that customer to benefit from the tokenization
+40:53
+arrangement, it has to reach an agreement with its customer on that arrangement. In particular, they have to
+41:00
+agree with the customer not only, hey, when can I transfer this this token? uh
+41:05
+kind of what are the the requirements before I can effectuate a move but also what it means as a legal matter for the
+41:12
+customer to have the token in a particular wallet or for the customer to transfer that token. The most
+41:19
+straightforward thing at least from a US perspective would be for the uh the
+41:24
+intermediate the participant and its customer to reach an agreement similar to that which DTC uh establishes with
+41:31
+its participant which is that my relationship with you isn't changing but we're now using an alternative
+41:37
+recordkeeping system. Assuming they do that, then again the legal analysis
+41:43
+including the choice of law analysis should be the same legal analysis that applies when those folks are holding
+41:51
+securities uh under non-tokenized frameworks. If I hold a security with my broker and a dispute arises from that
+41:57
+and I go to a court in in London, that court is going to apply the choice of law rules. They'll see, oh, this is a
+42:04
+security held in New York under a New York law agreement. Therefore, we will will apply New York law to this. And if
+42:11
+that is the case in the nature of the relationship between the customer and the participant, again, the fact that they're using tokenized uh software to
+42:18
+do this is not really going to make uh much of a difference. Uh should they instead choose to apply a different law
+42:25
+to their relationship, then those choice of law rules may well point to that other law, and then you'd have to do an
+42:31
+analysis of French law or English law, uh what have you.
+42:36
+Great. Thank you, Brandon. Um, I think we have a few final questions before we launch into the Q&A. So, uh, Tom and
+42:44
+Brandon, feel free to speak up. These are bigger picture, uh, and looking forward to both where this framework is
+42:51
+going and other legal questions surrounding tokenized assets. Uh, first of all, outside of the DTC model, what
+42:59
+uh, concerns, if any, do you have about any legal uncertainty that still remains around tokenization? Are there any
+43:05
+hiccups you foresee? Uh obviously the legal framework is largely going to say
+43:11
+the same new recordkeeping systems. Uh but any uh hiccups you can imagine
+43:17
+occurring there. So I would say outside of the the DTC structure, I think
+43:24
+for any tokenization arrangement, you it's it's critical to do a careful
+43:30
+analysis of what the legal structure for that relationship is. What is the the
+43:35
+issue of the token saying and agreeing the token represents and how does that
+43:42
+comport with applicable law? I think some tokenization arrangements like the
+43:47
+DTC one, the tokenization does amazing things as Tom described, but it's legally a little boring because you're
+43:54
+preserving the legal relationship. By contrast, sometimes when folks issue a token, it's an entirely separate
+44:01
+instrument. It could be a derivative. It could be a note. Uh, and that presents an entirely different risk profile uh
+44:07
+from a regulatory perspective, from a commercial law perspective. And I think what's super incrit what's super
+44:13
+critical and what uh worries what can what can uh cause aida is to is to make sure you actually look at what that
+44:19
+legal relationship is uh and ensure you're comfortable with that legal relationship
+44:25
+and maybe just from a practical standpoint if I if I chime in there's other models that as as Brandon said
+44:31
+there are variety of models and one you can envision where there's a direct issuance of a of an asset on chain where
+44:38
+the the rights you know there's transfer agent that creates the the asset directly on chain. And the in some ways
+44:47
+our model and the way we look at our model is addressing continuing to address the problem we saw 50 years ago
+44:54
+when there were transfer agents issuing directly maintaining books and records.
+44:59
+There is a direct registration model that that exists today but the market has spoken in a way that our model 99 or
+45:06
+so percent of the assets are you know under our model. So while there are definitely other ways to explore things,
+45:13
+you know, we did this thoughtfully in a way to maintain the good things that we've done and established over the 50
+45:18
+years and get the benefits of enabling blockchain and smart contracts.
+45:24
+Great. Yeah, Marcus, while while you've been talking to uh Brandon there, we've had a lot of good questions. So I I think um
+45:31
+I've been trying to theme them up in my head and I think I'll just kind of start by trying to fill in any gaps that might
+45:38
+have been there from from what Brandon was saying. Um so just I think a quick one um this is uh could you um when when
+45:46
+you say that holding a token in the wallet establishes the ownership is that by operation of US law or the result of
+45:52
+a contractual framework established by DTC? Uh it's it's kind of both because
+45:59
+under the contract DTC agrees with the participant that if you have this token
+46:06
+in your wallet and we identify that that you are therefore the entitlement holder. If you the are the entitlement
+46:13
+holder to the security then under article 8 of the UCC all of those
+46:19
+duties, protections and provisions that I described apply. So it's the marriage of those two I would say.
+46:26
+Okay, that's great. Um, so um I think we already covered um
+46:32
+there was a question by the way about location of assets and I know this has obviously been a big question in you
+46:38
+know other kinds of digital assets, crypto assets uh on on permissionless
+46:43
+chains. Um and the question was just how is the location of the assets determined? I think you gave a great
+46:49
+explanation Brandon as to what the rules are. I I just want to say that I think in this area terminology can be a little
+46:55
+bit tricky. Um you know I hear about people talking about do you hold the physical asset? What's the location of
+47:01
+the asset? And in some of these areas I think it's important to note that um as described in our collateral legal
+47:07
+opinions. Often you're talking about applying things by analogy. So, we have a deemed location of an asset that gives
+47:13
+you a conflict of law rule that tells you which rule you are or which jurisdictions rules you're looking at to
+47:18
+determine questions like how does perfection transfers ownership work? Um, and I I think you described that really
+47:24
+well, Brandon, but anything you want to add on on top of that? Yeah, I I I think as as you were saying,
+47:29
+Mark, kind of where the token itself is is basically the same thing as saying,
+47:35
+well, where are my records located? Um, and so in general where the particular
+47:42
+location where you have either your main records or your backup records is not really that important. What matters is
+47:48
+kind of all of the other pieces where where where if you're holding physical security certificates where those are
+47:54
+held, what what jurisdiction you have agreed is uh kind of your in your
+48:00
+jurisdiction as an intermediary. What law governs your agreement kind of where a record is located is normally uh not
+48:06
+relevant. Uh I I think we've touched on these but
+48:11
+perhaps we can just just fill them in. Um so uh to Tom there's um a couple of questions on the service. Um will access
+48:18
+be limited to members and participants or will there be indirect participant access? Perhaps you should explain again
+48:23
+how that that could work for nonparticipant members. Um and then is
+48:28
+there a plan for adding other types of debt eg debt or senior unsecured
+48:34
+corporate bonds to the list of tokenized assets?
+48:39
+So again with respect to the the model the first point of access is our
+48:46
+participants and so the participants are the ones who control the tokenization of of the assets meaning or they drive the
+48:52
+tokenization they have the direct access to the tokenization service and it is connected to their participant account.
+48:59
+That said, in terms of the and this is maybe something we didn't talk about in
+49:04
+in too much detail in terms of how the their their clients or the participants
+49:12
+clients use the assets is really then determined to some degree by the the the
+49:17
+participant. And what I mean by that is the the wallet structure that the participant defines. So we rely on our
+49:27
+members and and this is why we're doing it this way with the first point of access is our participants because of
+49:32
+that we have this membership agreement already in place. We have a vetting process for our members already in place
+49:38
+and we rely upon them as we do today to validate their their clients for their c
+49:44
+for their our participants do their own KYC. We don't KYC the underlying clients and we expect that to continue. What we
+49:51
+will do is we maintain a white list of the wallets. So when a participant comes to us and says here are the wallet
+49:58
+addresses we want to use, we rely on their due diligence and accept that and then create the white list based on the
+50:04
+the wallets they have. That wallet structure can be done mirroring the systems today, meaning an omnibus wallet
+50:11
+that the participant controls and has all the assets that that both their
+50:17
+clients have tokenized. they can maintain individual wallets per client or per account. They have the discretion
+50:23
+to do that. So, and and potentially and in those cases the the participant
+50:29
+controls the the the keys. But that's that's the the distinction that if they
+50:36
+use that second option meaning that the they have individual accounts for or individual wallets for their for their
+50:42
+customers then that be that's the where the the underlying client has direct
+50:48
+access and visibility to their assets on chain and can potentially make the instructions again as defined by the the
+50:55
+you know the operating model that our participants employ. Thanks Tom. anything to add on the sort
+51:01
+of potential expansion of the types of assets that could be in the program? So, in terms of expansion of assets, in
+51:08
+order for us to add assets, we would need to go back to the SEC and ask for additional exemption. It's certainly
+51:15
+possible. So, that as we see the the use cases expand and grow, we are certainly
+51:21
+open to to to doing that and but it would really be driven by market demand and and and utility. But absolutely, you
+51:29
+know, we would need to go through the process again, uh, you know, to add or amend the the no action letter, but
+51:34
+certainly we would consider that. Great. Um, we've had a couple of
+51:40
+questions come in, I think sort of along the lines of the use of tokenized assets
+51:45
+um, as collateral. Um, so be kind of worth exploring how far we can go with these. Um, so I think I've seen two
+51:54
+questions that sort of talk about what if there were a default by an intermediary, um, how would the
+52:01
+enforcement process against the asset work? Um, and I guess that that goes to,
+52:06
+you know, if if I've if I've received a token as collateral, how would I enforce against that token? Um, and then this
+52:14
+may be a step too far in terms of complexity for this discussion, but if the intermediary that held the wallet for that token were to go insolvent, how
+52:21
+would that affect the analysis? Um, Brandon, what what can we say there? Sure. So, the the the base case, let's
+52:27
+say it's just two participants, uh, leave aside customers right now. Marcus and I are participants. I I enter into a
+52:35
+security agreement with Marcus. I say, "Marcus, I have these securities. uh I'm going to grant you a security interest
+52:41
+in them and I and you will perfect that security interest by virtue of my transferring the tokenized entitlement
+52:47
+to that security from my registered wallet at DTC to your registered wallet at DTC. By virtue of that, you have a
+52:53
+perfected security interest. The nature of the security arrangement is pursuant to our bilateral agreement that doesn't
+52:59
+involve DTC at all. If I then default, uh Marcus will go and can do uh one of
+53:05
+two things. he can either uh sell that that security um uh and transfer it via
+53:12
+the distributed ledger technology to another participant or he can say look the people I want to transfer it to they
+53:18
+don't want it in tokenized form they want it in traditional centralized books and records form he can give an
+53:24
+instruction to DTC that says DTC convert this back into a non-tokenized entitlement and then he can foreclose uh
+53:30
+the same way he would foreclose for any other uh loan that I defaulted on uh involving uh securities consisting of
+53:37
+that collateral. Uh then the question of well what if actually um uh we're in Marcus and I are
+53:46
+customers of of you Mark and you are holding the the security and you're
+53:52
+holding it let's say in a control account or you're or or you are uh you
+53:57
+you're hold you're allowing Marcus to hold it in a in a wallet that's that's registered to you but for which he has
+54:04
+the private keys and then you go under the principal question in that instance is going to be what is your uh what is
+54:10
+the relevant insolveny law applicable to you uh Mark in that instance if you are
+54:15
+a a broker dealer member of the securities investor protection corporation that will be the securities
+54:20
+investor protection act which has very specific provisions concerning the transfer of those securities to another
+54:27
+broker dealer or the um or the liquidation thereof and the distribution of those amounts uh to the relevant
+54:34
+customers and none of that changes that analysis remains the same again no from if uh if if I had pledged those
+54:42
+securities to Marcus, you were the intermediary and we were doing all of this in the in the non-tokenized
+54:47
+framework, the analysis of what happens in your bankruptcy would remain unchanged. I'm so glad you took that question,
+54:53
+Brandon. Thanks, Brandon. Um an interesting
+54:58
+question for the from the collateral perspective is um under the UMR regulatory frameworks um are tokenized
+55:05
+versions of assets recognized as collateral will we need to see rule changes um to recognize them? Uh turn to
+55:14
+Brandon any any thoughts on this one? Yeah. So, first off, I am not an expert on the UMR, but I did read the CFTC's
+55:19
+tokenized uh assets guidance. And what the CFTC basically said is
+55:26
+the rules aren't different for tokenized securities as compared to non-tokenized
+55:32
+securities. The rules are the same in that you need to satisfy yourself that you have a perfected security interest
+55:40
+in those securities. You do that through centralized books and records. Good for you. you do that through tokenized books
+55:45
+and records, that's okay, too. You just need to be able to confirm that your security interest is perfected and
+55:52
+satisfies the other provisions of the rules. And um the use of uh tokenized
+55:57
+security entitlements under the DTC framework uh based on that guidance would be that you can use them to the
+56:03
+same extent you could uh other uh other centrally uh recorded securities. Uh
+56:09
+that's from a US perspective. I can't really speak to uh the European perspective and the other US regulators.
+56:15
+I don't think the the credential regulators and the um the SEC have not kind of weighed in uh to the same extent
+56:21
+on that issue. Yeah, maybe if I just jump in as well because I I had the privilege of serving
+56:26
+on the advisory committee that made the recommendations that the CFTC ultimately adopted and really the message that we
+56:33
+conveyed to the commission in in in layman's terms was the rapper doesn't matter. the underlying entitlements stay
+56:38
+the same and as long as you have those underlying entitlements the fact that it's in a token wrapper should not matter.
+56:47
+I see we're coming almost up to time so I think uh we will have to leave the Q&A
+56:52
+there. We do still have some questions that we weren't able to get to so apologies for that but we will uh follow up where we can uh where we have the
+56:59
+names for the people who submitted the questions. So look out for a response from us from that. Um Marcus, I'm gonna
+57:05
+hand it over to you uh to take us out. Thanks Mark and thanks everyone for joining. Uh we're really excited to have
+57:11
+kicked this off and Brandon and Tom, thank you so much for being here. Uh you're both provided a wealth of
+57:17
+knowledge for everyone and hopefully everybody's feeling a little more comfortable uh waiting into this new world. Our next uh iteration of this
+57:25
+webinar series will be in late April. We're going to have two wonderful guests
+57:31
+just like these wonderful guests. Uh Ed Ivy from Hannes and Boone and Henry Styles from Franklin Templeton will be
+57:37
+joining us to talk a little more specifically about tokenized money market funds which are an asset I think
+57:42
+everybody is really interested in especially as potentially eligible collateral if we can uh make it all work
+57:49
+together. More on that and look for that invite coming soon. Thanks everyone. We
+57:55
+really appreciate your attendance and your great questions.
+

@@ -1,0 +1,621 @@
+Introduction
+0:00
+This is not a revolution but an evolution. You know regarding tokenization it will not replace traditional capital markets. The the
+0:06
+thing tokenization is designed to do is to upgrade the capital markets. I believe many financial instruments will
+0:13
+continue to exist in the same form you know but the underlying infrastructure will gradually become digital. The
+0:19
+financial system will move fully onto the digital uh digital uh capital market
+0:25
+rails. From Serbia's point of view, for emerging markets, this transformation could actually be particularly
+0:30
+important. Welcome everyone to Beyond the Cosmos, the podcast where we go beyond the
+Serbia's Digital Asset Act
+0:35
+cosmware stage. Today we have a conversation that span from tokenization to regulation particularly relevant with
+0:43
+what is happening in terms of institutional adoption. Today's guest is Anita Milanovich. Welcome Anina.
+0:49
+Thank you very much Roberto. Nice to be here. It's great to have you because actually we were literally speaking at
+0:55
+Cosmos 2025. You were on stage speaking about building trust in tokenized markets and it feels that we have been a
+1:03
+long way. It's only been for months and we are seeing a strong institutional adoption of digital asset. So I actually
+1:09
+wanted to ask you regarding Serbia and the adoption of the digital asset act because it was quite ahead compared to
+1:18
+the rest of Europe. It was three years ahead to Mika and you were at the center of that conversation being a regulator
+1:25
+and working at the security commission of Serbia. So can you speak about how it
+1:30
+was to be inside the making of a digital asset? Yeah, of course it was, I would say, a
+1:37
+hell of a ride. Actually, as as we were speaking earlier, Serbia was one of the pioneers regarding the the regulation of
+1:44
+digital assets because the law was adopted in 2020 entered into force in 2021 which placed Serbia among one of
+1:53
+the earliest I would say uh adopters of digital assets and early jurisdiction to globally introduce one comprehensive
+1:59
+legal framework for digital assets beside the AML AML issues. So regarding
+2:06
+the the mere process um when you regulate something that's completely new there is no established template right
+2:12
+at the time globally there were only fragments of regulation and they were mostly focused on the AML on
+2:18
+anti-moneyaunder aspects so the challenge was how to regulate something that doesn't fit into anything that was
+2:24
+known until then how to fit it into some into some existing legal categories and
+2:30
+the approach Serbia took was pragmatic instead of trying to force digital
+2:35
+assets into some existing securities or payments framework. Our law defined two broad categories virtual currencies and
+2:42
+digital tokens and that actually allowed the regulator some flexibility while still ensuring investor protection of
+2:48
+course and market oversight. In that regard, there is a I would say a divided competence between the securities
+2:54
+commission where where I I I I started my my I would say digital assets career
+2:59
+regarded digital tokens and at the other hand you have the central bank which is in charge of v virtual currencies. In
+3:06
+other words, we try to understand what a token actually represents here in Serbia. Is it an investment in
+3:12
+instrument? Is it a utility? Is it a payment instrument? And actually that approach allowed Serbia to to be one of
+3:19
+the I I would say rare rare jurisdiction that explicitly allows tokenization of certain financial in instruments under a
+3:26
+dedicated regime. Why uh why I say certain financial instruments because our current legislation doesn't allow
+3:33
+tokenization of equity or I would say some some some instruments that are like
+3:39
+equity. So basically uh we're down to digital digitalized bonds which is
+3:44
+actually for our market and our economy very very important. So of course once
+3:50
+the law entered into force 2021 reality began to to test it. Okay. We had our
+3:55
+first uh white papers approved. We had our first issues and that was actually the moment when the regulation met the
+4:03
+the practice and the needs of the of the market. And actually the one thing we we learned quite quickly was that access to
+4:10
+capital through tokenization is extremely valuable especially for small and medium companies which should be the
+4:16
+backbone of all economies as we know but there was one I would say not mistake
+4:21
+but that was uh we were very cautious in the beginning while while we were we were rendering the legislation and we
+4:28
+put some thresholds really really really I would say low. So in order to I would
+4:33
+say enhance the the the digital bonds uh ecosystem here in Serbia, we should
+4:38
+unlock the full potential by by hiring up those those thresholds. For
+4:44
+example, the the current cap on the volume of the token issuances per project is €3 million. And I personally
+4:51
+believe that this these thresholds should be gradually increased because if
+4:57
+the goal is to create a meaningful alternative financing channel, this framework must allow a slightly larger
+5:02
+issuances. I want to actually dive deeper on something that you said because what you said it's actually quite impressive
+5:08
+because for the audience to understand that 2021 was when basically the crypto
+5:14
+market was having a comeback. So the fact that already in 2021
+5:20
+Serbia was preparing a digital asset act means that the preparation was already happening in 2020 the Serbia was
+5:27
+building a framework on something that wasn't still sure it actually had a
+5:33
+future which is something definitely meaningful when it comes to building this kind of legislation especially
+5:39
+because you have to adapt to these digital realities. How do you see the
+5:45
+gap from the digital asset act compared for example to Mika that came 3 years
+5:51
+later? Do you see like a big difference from from how they are structured or
+5:56
+there is actually a compatibility? Actually there is a compatibility because the same postulates were used
+Serbia vs. MiCA
+6:02
+when we were rendering the legislation. Actually Mika also used the experiences of other countries 5 years ago that that
+6:09
+for example Malta that rendered the legislation which was actually our our role model but in comparison to Mika our
+6:16
+framework is very very tokenization friendly and it's flexible and the thing is our legislation currently is perfect
+6:25
+for for specific I would say not experiments but for for other jurisdictions to come to Serbia and and
+6:32
+put their markets into test you you can tokenize very easily your your financial instruments here without those I would
+6:38
+say regulatory barriers that you have in the European Union. I don't know whether you know Serbia is a a country candidate
+6:46
+for the European Union. So in some point we would need to harmonize our legislation with Mika. we we have
+6:52
+undertook that uh the responsibility on us in regards to to the European Union
+6:58
+but currently our legislation gives more flexibility and and I would say it's
+7:03
+more proactive and more more more tokenization friendly so I would use this opportunity to invite I would say
+7:11
+people do who have some ideas that they can test it here in Serbia and actually currently I'm I'm working within the
+7:17
+World Bank uh on the Balbert stock exchange and we are currently doing work on the establishment of uh digital
+7:24
+assets trading platform for because you know if you you want to create the market and you want to create liquidity
+7:31
+there is no use just uh providing the primary issuance to be like everything
+7:36
+um easy and ongoing but you need to provide a secondary market so actually I
+7:43
+cannot disclose many many details but I think it's going to be very very interesting here in in Serbia the next
+7:50
+very interesting because and it's also aligned with what said initially which was that this is actually the year where
+7:58
+all these institution multilateral institution like the world bank are actually going to operate on chain which
+8:04
+is far different from just being on chain and all the instant digital asset we're speaking about building the
+8:10
+infrastructure that actually allow for digital asset and the all the tokenized
+8:16
+asset to operate and how was it for you going from from the public sector to the
+Anina's career path
+8:22
+private sector because of course it's a big jump but it's also something where you have a lot of expertise because
+8:28
+being a regulator being at the center of operating a digital asset framework is an experience that very few people in
+8:35
+the world have. So how it was going into the private sector? Actually I started out in the private
+8:41
+sector. My if I look back my my career path was not completely linear because I
+8:47
+I started as a law. I'm I'm a lawyer by vocation in uh I would say no not I
+8:54
+would say it's the largest law firm in southeastern Europe. So my career in the beginning was quite I would say normal.
+9:02
+I had experiences with extremely valuable transactions. Uh I had means to
+9:07
+to interact with a bunch of investors, companies that were trying to grow. H
+9:13
+however during my university years at the faculty of law in Belgrade, I was already fascinated by capital markets
+9:19
+and that's a you would say a little bit unusual for a lawyer because most of lawyers instinctively run away from from
+9:26
+economics. But I was intrigued by the intersection of law, finance and and market design over law. So basically
+9:34
+when I had an opportunity which was opened up to the securities commission of the republic of Serbia, I applied for
+9:39
+a position and at the time the commission was expanding its work on capital market development and it was
+9:45
+opportunity for me to move from I would say a private legal practice into public se sector. So once I joined it moved
+9:52
+quite quickly. I start started working on the regulatory framework first for investment funds and then of course in
+9:59
+2020 regarding digital assets. Over the time I built a team and eventually I led
+10:04
+the department responsible for international corporation developments for about seven years. So actually that
+10:10
+was my my my I would say jump from the private sector into the public sector.
+10:15
+So the things that that was really I would say a turning point in my career was 2020 2019 2020 with when we started
+10:23
+talking about blockchain and and digital assets then that's was the first time I
+10:29
+discovered tokenization and of course fell fell in love with it. So I'm not talking about crypto crypto actually
+10:37
+never interested me professionally. What interested me was the real world uh application of blockchain technology
+10:43
+technology in capital markets. So actually the intersection of capital markets and and and digital infrastructure. So once I started
+10:51
+working on the legislation I realized that to tokenization is the I I I could
+10:58
+say the future of of of the of the capital markets. So basically in some
+11:03
+point uh a couple of months ago the World Bank uh reached out. So I joined
+11:09
+again the the private sector. So I went from the law firm into the regulator
+11:14
+then to the I I would say global market development. So I'm I'm I would say back
+11:20
+to basics back to the private sector. So actually I think the combination of of experience in both of the private and
+11:27
+the public sector gives uh gives me like I I would say the the means to do
+11:34
+something with uh with the my current role right now which is to find a way to
+11:39
+to to make our capital markets here in Serbia work. And I think the only way to
+11:45
+do that is by by by doing a transition to to the digital assets regulatory
+11:51
+framework in in in in total. No, no. And this parallel makes absolute sense especially your focus on
+11:58
+tokenization since the very beginning because also as you mentioned it the uh blockchain revolution actually was
+12:05
+supposed in the near future to like rewrite the financial system and create
+12:10
+something that is more efficient compared to the previous framework specifically to tokenization. We are now
+12:17
+seeing like a broader adoption of tokenized asset and I think this is of
+12:22
+course my assumption that this was primarily triggered by stable coins because at the moment stable coins
+12:29
+started to make billions of volume of transfer across the world. this institution started to pay attention and
+12:34
+this is goes along as well with all this framework starting to build across jurisdiction and this goes to one of
+12:42
+question I was very curious to ask you especially since you made the parallel from crypto to uh the real world assets
+12:49
+all this framework that are now starting to being shaped across the world we have
+12:55
+regulation happening in Hong Kong with license in stable coins and custodian
+13:00
+we have of course the US that is shaping the clarity act and the security
+13:06
+commission of of the United States actually released an important statement in in the past month basically bringing
+13:13
+clarity to the digital asset market and as you mentioned finally
+13:18
+I think this one was a long wait for everyone. Yeah and also Serbia was well ahead as you
+13:24
+mentioned it before. So this framework do you see facilitating the future
+13:30
+adoption of institutions or do you think they still favor the old guard? So the
+13:37
+crypto project that are actually trying to replace those old institution because we are basically at at a point where
+13:44
+there is this contrast. No, people uh people are usually talking talking about
+Evolution, not revolution
+13:50
+revolution but I always like to underline this is not a revolution but an evolution you know regarding
+13:55
+tokenization it will not replace traditional capital markets. The the thing tokenization needs to do and it's
+14:01
+designed to do is to upgrade the capital markets. I I believe many financial
+14:07
+instruments will continue to exist in the same form you know bonds funds structure uh products whatever but the
+14:13
+underlying infrastructure will gradually become digital what what I'm saying the financial system will move fully through
+14:21
+the onto the digital uh digital uh capital market rails and for example
+14:26
+from Serbia's point of view for emerging markets this transformation could actually be particularly important
+14:32
+countries with with highly developed capital markets already have large and efficient financial ecosystem. Okay. But
+14:37
+countries like Serbia with underdeveloped I would say underdeveloped capital markets is an understate understatement for here in
+14:44
+Serbia. For us uh this is an opportunity to to I would say leaprog. Instead of
+14:49
+building an expensive traditional infrastructure we can move directly toward the digital I would say digital
+14:55
+native system. We're talking also about the institutions not only in Serbia but worldwide. You can see the the
+15:01
+developments. You can see the trends. You can see the big institutional prayers just coming in into the when I
+15:07
+say crypto space I mean in the broader broader word wording I'm talking spec
+15:14
+specifically about stable coins and and the tokenization rails. So you you mentioned um institutions are now highly
+15:21
+interested in in this topic of course because of stable coins. So whenever you see money you you also see institutions
+15:28
+coming coming in that's that's I I would say normal and and and natural
+Regulation as the main blocker
+15:33
+and the and and the main blogger was actually regulation because for institution to start to adopt the
+15:39
+blockchain rails you actually need framework clear regulation you need clear regulation that's the first prerequisite
+15:45
+for for things to start functioning then you need to trust the infrastructure and as I mentioned you need to create a
+15:52
+liquid secondary market and now I think we in the second step which is creating the market and infrastructure because I would say that
+15:59
+from money from from a framework and regulation perspective we are there now in 2026 and this also goes into the
+16:07
+question considering your experience uh and your background as a regulator as someone that saw a digital asset act
+16:14
+being shaped you have probably the advantage when building this infrastructure layer to actually know
+16:20
+what is needs to be done in order for the project to be approved from
+16:26
+regulators. So how is actually that process like how do we evaluate what are
+16:32
+the constraints to operate when building something like an infrastructure project?
+16:38
+Yeah, it's very very hard because you're actually now building a global infrastructure. You're not talking just
+16:45
+about domestic infrastructure. You're you're talking of something that's not like Europewide. It's global wide. You
+16:51
+know capital day is extremely mo mobile it's transferable or how can I say that
+16:57
+and uh investor allocate their funds across jurisdiction constantly moving it from A to B and now we have the the
+17:05
+situation when institutional investor in are deciding to invest in in crypto or
+17:10
+in tokenization primarily it's legal certainty then we look at the market transparency and the regulator
+17:17
+credibility sorry so if this has clearer and consistent regulation, capital
+17:23
+simply flows somewhere else. So going back to the to the core question, you need to to provide a a clear set of
+17:30
+rules. I know that is very easy to say say, but it's hard to to to do, especially as I mentioned before when
+17:37
+you're you're regulating something that's completely new, you know. I think now it's much easier. Of course, it's
+17:44
+mandatory for European Union countries that must follow Mika. So, we had that,
+17:52
+I would say, flexibility to to make our own rules. And the thing we were we were, I would say, very consistent in
+17:59
+doing was to create a a regulatory framework which is very clear that's not very uh complicated on the other hand,
+18:07
+but very clear for for the end user. Okay, this is our first set of legislation and I think we're going to
+Fragmented jurisdiction
+18:13
+need to fine-tune it soon. Actually, we we we have it in in plan to to make some
+18:18
+amendments in the near future. You actually said something very interesting in the very beginning that caught my attention which was the fact
+18:25
+that this needs to be operating globally which leads to another blocker which is
+18:32
+every jurisdiction has its own rule. Right. His own rules. Yeah. There isn't like a cohesive digital asset framework across
+18:39
+all the jurisdiction. Actually any framework has its own rule and this also
+18:44
+leads extra effort for all this uh institution building because they need
+18:50
+to adapt for each jurisdiction for each market. Exactly. They need to understand each
+18:56
+market. And how do you think this uh constraint of having this uh the this
+19:03
+inconsistency across jurisdiction it's right now a blocker to institutional adoption or do you think it's something
+19:10
+that can be navigated? It can be navigated. It it could be navigated not easily but it can I think we need more
+19:17
+experience for now and we need more I would say of those rules are basically
+19:23
+in some core the very similar but when we're talking about the application it's
+19:29
+very very very different of course in Europe you have mika you must follow it but again every every country has a
+19:35
+different set of rules. So basically I think we need to have a seat and weight
+19:41
+approach for now. There is not nothing to be gained by by forcing it. You know
+Which asset class leads first
+19:46
+in ter in terms of tokenization what kind of asset you see having the
+19:51
+first wave adoption by institution? Is it tokenized deposit? Is it money market fund like what is exactly the asset
+19:59
+class that is gaining? I would say I would say financial instruments or or
+20:04
+deposits for example because their uh usage is um mostly manded by by by
+20:11
+investors basically talking about tokenization I don't know in three five 10 years everything will be tokenized no
+20:18
+you don't need to tokenize everything you need to tokenize some maybe assets that were previously
+20:24
+illquid to make them liquid for example okay everybody's talking about tokenization of real estate that's
+20:29
+definitely a that that that's going going to be more more I would say mainstream and etc. But when we're
+20:36
+talking about I would say core investments I I I would have my bet on tokenous deposits for sure. For sure.
+20:43
+And for and the thing I I already mentioned for especially for underdeveloped countries like like ours
+20:49
+with smaller economies. I think this is a way where in which you can open finance to to to smaller investors to
+20:57
+retail investors and in a way democratize the the the capital markets you know.
+21:03
+So and uh on this note uh because we have seen some of the challenging when it comes to build globally actually you
+21:11
+have quite an experience also with investor protection. So when an everyday
+21:17
+user will start to adopt this u this kind of instruments when basically some
+21:24
+of this project could fail and uh who is going to pay the price in terms of this
+21:31
+failure do you think there is already actually a step forward also in investor protection when it comes to using this
+21:37
+instrument but that's the thing when you have a regulator market you you have the regulator who is behind the market
+21:43
+actually the the Secities Commission where I worked is a safeguard for for for market integrity and for investor
+21:50
+protection. Of course, you had these I would say identical issues regarding classical instruments before even we
+21:57
+were starting to talk about blockchain and tokenization and and and crypto. So this is an issue that is not new and not
+22:05
+I would say tailor made for for digital assets. I would say the securities
+22:11
+commission will always try to be a safeguard for for for the market. That's the thing by by rendering specific rules
+22:17
+that are I would say built around the the the the idea that the investor the
+22:23
+investor should be protected of course. I know this is a broad answer maybe but that's a political one I would say. No,
+22:30
+no, of course also also coming from of course a crypto market that so far has
+22:35
+been broadly not protected from an investor standpoint because rarely the
+22:41
+investor have been protected by using all this D5 project. Actually I wanted to ask you a question which goes back to
+22:48
+your origin story because you mentioned that you started as a lawyer. Do you see
+22:54
+already uh maybe some of your colleague that are you still in touch being specialized into into specifically smart
+23:02
+contract and all the related situation to the uh blockchain market or there is
+23:08
+still a gap in that sector? I think the gap is getting smaller and smaller as as
+23:14
+as as we speak because a lot of my ex-colagues are very very into I would
+23:20
+say new technologies and blockchain and smart contracts and and there currently
+23:25
+I think you have some lawyers that are doing that that that stuff of course because we have the market which is
+23:31
+which is live but I think we need more work and more education in this manner
+23:36
+and that's why I I think like interviews like this. I would say raising awareness
+23:42
+and raising the level of financial literacy is the the key part in in
+23:47
+making any market viable. And of course, it's not a trend. When you say I know people are always talking about
+23:53
+buzzwords, trends, blah blah blah. I would say digital assets tokenization
+23:59
+this that that's a reality and there's no other thing than than going with it
+24:04
+and learning as you go, you know. So, back back to the start. Yeah. lawyers
+24:09
+are are very into into into this area right now. I want to I want to still leverage your
+Advice for emerging markets
+24:15
+experience because when we met at Cosmorifier, I was surprised or how
+24:20
+advanced was your knowledge of tokenization and this goes a bit from the arrogance I would say of us that
+24:28
+have been cryptonative that always talk that actually regulators don't understand anything about it. I was
+24:35
+actually surprised that you have incredible knowledge of the organization and how it works also on infrastructure
+24:41
+layer. So my question is being in a country that was a first mover, what is
+24:48
+your advice for other emerging market that want to replicate what Serbia did
+24:53
+like based on the your experience? First of all, thank you for for for the
+24:59
+the kind words. Yeah, I know there is always that thing that people think that regulators are not I would say don't
+25:05
+keep the pace with with the with the industry but actually here in the securities commission we were very very
+25:11
+I would say proactive in that manner actually my colleague at the time when when when he came to me with the whole
+25:18
+idea of blockchain and and digital assets and security commission being one of the regulars I was like what the what
+25:25
+are you talking about so that's normal and actually then that that was the point I I I started learning more,
+25:32
+reading more and I really fell in love with the with with the with with the with the topic. So actually my advice
+25:37
+for other emerging countries in this manner would be to basically replicate what we did make make a legal framework
+25:45
+uh which is very I would say easygoing and flexible to make that first step of legal certainty, market transparency and
+25:53
+of course credibility. you know, you you need to have a strong regulator that st stands behind that that that
+25:59
+legislation. So, and you you should make your your legislation tailored for your
+26:05
+needs. In Serbia, I'm I'm very I always underline the same thing. Access to
+26:11
+finance for small and medium enterprises was always an issue. You know, you have
+26:16
+some entities, startups that are in principle unbankable. They they don't have access to finance. they all they
+26:23
+can do they they can borrow like final they can borrow funds from their I would say mothers brothers and stuff they can
+26:30
+can can go to the bank you know that that's crazy so by making our um digital
+26:36
+assets legislation tokenization friendly for depth instruments for tokenist bonds
+26:42
+we we opened up a market which which will I I'm sure only grow and grow so
+26:48
+make your your your your legislation tailored for for your needs.
+26:54
+That's my my first and very transparent of course you know and I was very surprised that
+26:59
+actually why when I've been when I've been myself in Serbia how advanced was the country in terms of digital asset
+27:06
+adoption I saw that it was way ahead compared to the rest of Europe but this
+27:11
+was actually broader to all southeast Europe especially because I think that
+27:16
+emerging market as you mentioned needs to move faster and uh in terms of where
+27:23
+uh We are going as an industry like a more of a forward-looking vision that
+27:28
+you can see in the next three five years. Do you see institution going from pilots to concrete platform being
+27:36
+delivered to everyday user? How do you see the financial system being shaped in the next 3 to 5 years?
+3–5 year vision
+27:43
+Completely see the financial system totally moving going fully digital.
+27:49
+going fully digital, especially when we're talking about merchant markets. That's the thing I I already mentioned.
+27:56
+We we don't we don't have the means to compete with larger economies. We cannot build our capital markets from scratch.
+28:03
+But regarding digital assets, at some point, Serbia in 2020, we we we had the
+28:08
+comparative advantage to to move forward. Actually, we didn't use it from my experience in a great way. we should
+28:15
+have done better and more but at least now we we're on the on the same level
+28:20
+with other countries you know we we're on the same level with very I would say and and developed economies so this is a
+28:28
+I would say a very big opportunity for for underdeveloped countries and underdeveloped economies so it's it's on
+28:35
+us to to use it and that's why why I I was so happy to join the World Bank on
+28:40
+this project to try to build the the capital markets for from another
+28:45
+perspective and put it on those digital rails. The idea is not just to to
+28:51
+develop a a digital market secondary platform for secondary training. That's the first step. The overall idea is to
+28:57
+digitalize the the capital markets and to fully go to to digital capital market
+29:04
+rails. So one interesting aspect because we are still in 2026 which is an intense
+29:11
+year I would say it's been a very interesting year in terms of how it is
+29:16
+developing across the world. Do you actually believe that there is an
+29:21
+opportunity for the ranking of financial center in the world to move because some
+29:27
+emerging market could actually accelerate beyond them. Yeah, that that's why you
+Emerging markets vs developed economies
+29:33
+you you have now the I would say Game of Thrones battle between markets.
+29:39
+So I think now we have the the for for the first time in a while that you have
+29:45
+competition between really big players and and smaller ones. So actually now
+29:50
+emerging markets are trying to find their their place while on the other hand very developed economies are are
+29:58
+building their their way in in that in that sense. So I definitely believe that
+30:03
+this is the time where you you just need to jump on the train. You if you miss it, it's gone, you know. So this is not
+30:10
+a matter of if something will will happen. It's happening. It's just a matter of time when when will you join
+30:17
+the ride. So of course you need to be in the first set of passengers if you want
+30:22
+to succeed. Never never mind if you're a big economy or a smaller one, whether you're the states or or Serbia, you
+30:28
+know. And I think that your story here is actually consistent because technically speaking, you have the
+30:36
+bigger economies that are much slower in terms of adopting a regulatory framework
+30:41
+and emerging markets added this opportunity. I would say that probably for emerging market that are starting
+30:47
+now. It's a bit too late. You should have started by Yeah, of course. But the thing is that Serbia moved
+30:53
+faster. So it's already ahead in terms of now building the infrastructure because the regulatory framework has
+31:01
+been in place for five years now. Yeah. Six. Yeah. Yeah. Yeah.
+31:06
+So this actually allow now to launch this platform ahead of the bigger economies. So definitely
+31:13
+I think it's a great I think it's going to be if everything goes as planned I
+31:19
+think that will put Serbia I would say in the spotlight regarding tokenization. So just stay tuned. I
+31:27
+think we have some good times ahead of us. Thank you for coming today because uh I think what you shared has been
+Closing
+31:34
+incredibly valuable because very few voices right now in the world have both the experience of the regulator and are
+31:41
+also at the same time helping build an infrastructure. Uh so this was extremely
+31:46
+valuable and I'm sure this insight will help a lot the audience to engage into
+31:52
+this digital transformation across the world. Thank you Anina. Thank you so much.
+

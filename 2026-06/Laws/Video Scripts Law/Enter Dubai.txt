@@ -1,0 +1,568 @@
+
+Search transcript
+0:033 seconds[music]
+0:066 secondsWelcome to Regulatory Ramblings.
+0:1010 secondsOur podcast today is brought to you by the University of Hong Kong's Regech [music] Lab, the HKU SCF Fintech Academy, the H Global Institute, and the
+0:1919 secondsHKU Edex Professional Certificate in FinTech with support from the university's faculty of law.
+0:2727 secondsI'm your host AJ Shamisani.
+0:3030 seconds[music]
+0:3232 secondsToday's broadcast is mediecentric, specifically the United Arab Emirates and in particular its most renowned
+0:3939 secondsemirator or city Dubai. In our spotlight section, we'll be joined by two returning guests, Sai. Mashi Amed of
+0:4848 secondsFint Finstep Asia and Mark Nettle, founder of the Dubai based Fosters Consultancy to discuss the proposition.
+0:5656 secondsWhat has made Dubai such a success in the virtual asset space over other jurisdictions? Since the start of the decade,
+1:041 minute, 4 secondsDubai has made a name for itself in the crypto arena. After that, we'll speak to authors Jamie DBasio and Charles Dossi
+1:131 minute, 13 secondsabout their new book entitled Arabian Crypto about digital asset pioneers in the UAE, also centered on Dubai. But
+1:211 minute, 21 secondsfirst, [music] a recent LinkedIn post from Anton
+1:291 minute, 29 secondsGalube, the chief business officer of the Freedex crypto exchange in Dubai, helps put things in perspective. Dubai
+1:361 minute, 36 secondsbecame the world's largest regulated crypto market, he said. Not New York, not London, not Singapore.
+1:461 minute, 46 secondsNow, personally, Dubai, I mean, not it's not bad for a place that well into the early 90s only had one major western
+1:531 minute, 53 secondsstyle shopping mall, the speaker of the famed Herace Center. But as Mr. Galoo tells us, consider this. The Emirate has
+2:022 minutes, 2 secondsfor the year-to- date 2025 logged over 2.5 trillion
+2:082 minutes, 8 secondsdurams in regulated ver virtual asset transactions. That's 6801 billion US.
+2:182 minutes, 18 secondsDubai also boasts over 40 licensed entities under the oversight of the virtual asset regulatory authority or VAR, the first such regulator of its
+2:252 minutes, 25 secondskind in the world which was launched in 2022.
+2:292 minutes, 29 secondsDubai has also fined 19 firms under clear enforcement measures. And more broadly, Abu Dhabi, the UAE's capital,
+2:382 minutes, 38 secondshas made a 2 billion institutional investment into Binance.
+2:432 minutes, 43 secondsAs Anton goes on to say, quote, "All of this in just three years. The thing that Dubai understood is what others didn't.
+2:492 minutes, 49 secondsPlanning matters, but execution is key." While other jurisdictions quibbled about definitions, the UEE built its fintech infrastructure for the growth and
+2:572 minutes, 57 secondsdevelopment. yet to come to card Anton while Europe buried itself in Micah Dubai executed while the US chased
+3:053 minutes, 5 secondsheadlines VAR licensed markets and if Var's creation he said it was built like sovereign infrastructure every major
+3:143 minutes, 14 secondsexchange Binance OKK bybit move fast to comply and as he put it this wasn't
+3:203 minutes, 20 secondsabout crypto friendly it was about crypto integrated and I think that's enough of a preface I
+3:283 minutes, 28 secondsthink that sets the stage. Now, let's turn to our guests. Masher Ahmed has over 18 years of extensive experience as
+3:353 minutes, 35 secondsan ecosystem builder of the realms of capital markets, fintech, and virtual assets. That includes a decade as global markets trader prior to coming to Hong
+3:423 minutes, 42 secondsKong to attain his MBA from the University of Hong Kong and London Business School's joint program. Since 2016, he's contributed extensively to
+3:503 minutes, 50 secondsbuilding the region's fintech and virtual assets environment, particularly as a co-founder and concurrent board member and inaugural general manager of the Fintech Association of Hong Kong.
+4:004 minutesFor the past 5 years, he's been the managing director of Finstep Asia, firm, which he founded. And in the interim, he was [clears throat] the he was a financial regulator in Dubai from
+4:094 minutes, 9 secondsOctober 2022 to January 2024. He served as a financial markets risk assurance lead with VAR in Dubai.
+4:184 minutes, 18 secondsMark Nuttle is an executive and geopolitical adviser and strategic deal facilitator with over 25 years of experience in strategic leadership, risk management, and business development.
+4:274 minutes, 27 secondsHe's held roles at the Metropolitan Police in London, Thompson Reuters, Interpol, and Hill Associates. He founded the fastest consultancy in the
+4:354 minutes, 35 secondsiron club and offers his executive advisory services working across the Asia Pacific Mina and Europe
+4:444 minutes, 44 secondsto drive growth, optimize operations, facilitate deals and enhance governance.
+4:494 minutes, 49 secondsParticularly when it comes to risk management and governance, he's implemented plans focused on risk mitigation, resilience, improving governance standards and has also
+4:574 minutes, 57 secondsmanaged complex investigations and multi- agency operations. In terms of his subject matter expertise, he's delivered advisory services on
+5:055 minutes, 5 secondsgovernance, compliance, risk reduction, finance, leadership, geo geopolitics, anti-money laundering, resilience, security, and ESG in contemporary notes.
+5:155 minutes, 15 secondsHe's also provided keynote speakers and mentorship to seuite and geopolitical audiences. And with that, I turn over to our guests, Mashir and Mark. Thank you so much for joining us.
+5:255 minutes, 25 secondsThanks for having us, AJ. Pleasure to be back.
+5:275 minutes, 27 secondsIt's it's always a pleasure, AJ. I mean, I think you've already done our job for us. I think we can go home now. You've done everything.
+5:355 minutes, 35 secondsWell, I mean, I want to Well, I mean, let me let me turn to you uh first, Mashia. I mean, given that Sure.
+Chapter 2: Musheer & Nuttal: Why Dubai Succeeded?
+5:395 minutes, 39 secondsYou worked you worked for VR. I mean, so you've got a unique perspective. I mean, I I I hope at some point you will write
+5:475 minutes, 47 secondsyour memoirs about, you know, my my my 18 months as a regulator, but uh why why was Dubai successful? I mean
+5:565 minutes, 56 secondseven when this program started in 2022, even then it was you know it was clear
+6:036 minutes, 3 secondsDubai was ahead of the pack but just two years earlier in 2020 people were talking about a race between
+6:106 minutes, 10 secondsHong Kong and Singapore and Singapore appeared to be in the lead and then but yet by 2022 you come around to then and it turns out
+6:196 minutes, 19 secondsokay well Singapore is stalled no one's getting approved everything's unprovisional and there has been progress since then. Even even Hong
+6:276 minutes, 27 secondsKong's regulatory apparatus has uh evolved, but I mean that that's more
+6:346 minutes, 34 secondsreactionary that came after the fact after Dubai had already staked its poll as the first. Why was Dubai so successful?
+6:436 minutes, 43 secondsThanks uh AJ for that question. Um a clear disclaimer, the views are completely of my own. Nothing in this is
+6:516 minutes, 51 secondsendorsed or validated or a reference to the virtual assets regulatory authority of Dubai or any other regulator that
+6:586 minutes, 58 secondsI've worked with. Now, understood. Understood.
+7:027 minutes, 2 secondsFor me, Dubai kind of encaps encapsulates the term impossible is nothing. Um, it's a cultural thing,
+7:107 minutes, 10 secondsright? It's a mindset that boils down in Dubai but broadly also in the UAE but in specifically in Dubai with husk
+7:197 minutes, 19 secondsMuhammad's views and how he has implemented and driven change in the emirate right from the setup of the
+7:267 minutes, 26 secondsBunjal Arab all the way to the virtual assets authority to the future of AI and other elements. Now why I'm mentioning
+7:357 minutes, 35 secondsthis is I think it's a very important element to understand that when the leadership uh has such a strong culture
+7:427 minutes, 42 secondsof being able to evaluate risk but also be very progressive in saying okay let's try this out this can have xyz benefit
+7:507 minutes, 50 secondsand let's drive this right tell me an implementation plan of how this would work what would be the benefit and I'm happy to support it and drive it for
+7:597 minutes, 59 secondsthat matter for many of the initiatives and that's what happened with Dubai as well right so when 2022 uh was just it
+8:068 minutes, 6 secondstowards the end of when COVID was being wrapped up in terms of lockdowns etc.
+8:108 minutes, 10 secondsDubai had already been open and welcoming visitors and uh they have a a knack of once an evaluation is done for
+8:198 minutes, 19 secondsprojects as I mentioned implementation is fast. Sara was established uh in in early 2022 March to April and then the
+8:288 minutes, 28 secondsteam was operational very next quarter with the regulations coming out in February uh March of 2023. And so that I
+8:368 minutes, 36 secondsthink was very important. Uh they brought in and were very sensitive to the fact that it wasn't about just building a regulator with a lot of
+8:438 minutes, 43 secondspeople with the traditional finance background. It was very important to bring in people who understood virtual assets as well. So most of the founding
+8:508 minutes, 50 secondsteam came from a mix of having traditional finance and crypto background like I did or coming in from a crypto ecosystem as well. So that
+8:598 minutes, 59 secondshelped significantly in accelerating the process including the regulations which is driven uh in support of with the DA
+9:079 minutes, 7 secondsPiper and others to launch consult with the industry be able to take their
+9:149 minutes, 14 secondspoints on board quickly reiterate and go ahead with it while keeping in mind that that's a living document that helped
+9:229 minutes, 22 secondswhile as you mentioned Singapore and Hong Kong had frameworks but they were not as comprehensive at that time and they were still being sorted out Singapore probably you could say still
+9:309 minutes, 30 secondshad something uh whereas Mica was not yet in place. So the execution was very important and for most of the major
+9:399 minutes, 39 secondsglobal uh crypto firms they needed a place where they can find legitimacy in terms of getting the right licenses and
+9:469 minutes, 46 secondsalso be able to operate at least from a Asia-wide perspective if not global perspective from one city and that's
+9:539 minutes, 53 secondswhere the VA licenses helped they were very robust in some instances I would say uh the requirements are more robust
+10:0110 minutes, 1 secondor stronger than even in Europe we used to get that feedback back as well. So it's not like oh hey it's easy just come and get a license. It actually is a very very comprehensive work that goes on.
+10:1210 minutes, 12 secondsFact that only 40 odd licenses have been issued in two plus years tells you that it is a lot of work that was behind
+10:2010 minutes, 20 secondsvetting the applications and that shows in the quality because once they launched it allowed for the market volumes to grow and major exchanges to
+10:2910 minutes, 29 secondsoperate from here which adds to that number of uh in terms of the size and scale of the virtual assets trading volumes from Dubai. It's not only local.
+10:3810 minutes, 38 secondsIt probably also includes regional and global numbers. But Mark, um I I think we've got to realize as
+10:4610 minutes, 46 secondswell that we're in the United Arab Emirates as as a as a country um on top of this. VAR are extremely excellent at
+10:5510 minutes, 55 secondsdoing what they do um for Dubai and um you know even as recently as over the
+11:0211 minutes, 2 secondspast couple of days they put notices out against various organizations that have been claiming to be regulated but
+11:1011 minutes, 10 secondsactually aren't regulated and I'll let people go on to their website to view those.
+11:1511 minutes, 15 secondsum but the the entire infrastructure uh because they're all also obviously we're talking about tokenization here as well.
+11:2311 minutes, 23 secondsSo not just the crypto space because people seem to look at crypto as just that that coin that can add a add a c
+11:3211 minutes, 32 secondscertain fiscal value to it rather than this tokenization assets companies you know or all of that
+11:4011 minutes, 40 secondsbusiness. um and and obviously we've got companies here at the moment that have tokenized um property as well etc. So
+11:4911 minutes, 49 secondsit's worthy of worthy of evaluating that. But obviously there's not just VAR. Vara is Dubai outside the DIC.
+11:5611 minutes, 56 secondsUm then you've got the DFSA um which uh do the u look after the DIC
+12:0412 minutes, 4 secondsitself. Then you've got ADGM with the FS and you've got also um the SCA as well,
+12:1312 minutes, 13 secondsthe onshore uh UAE outside those particular financial free zones and
+12:2012 minutes, 20 secondsoutside of Dubai. So what they've looked at doing here is because obviously you've got various different levels of
+12:2912 minutes, 29 secondslegalities here, jurisdictions, you know, you've got seven emirates. Um you've also got now obviously Razal
+12:3812 minutes, 38 secondsRazal Hmer uh coming online with um the the win integrated resort. I won't use
+12:4512 minutes, 45 secondsthe other word for it over there. Um and over there they've also got digital assets Oasis as well. So the country's
+12:5412 minutes, 54 secondsvery bullish on this area and it's very bullish on this area because as uh as as
+13:0213 minutes, 2 secondsMashia quite rightly pointed out this entire country is based on trade. It's trade first and for foremost and to have
+13:1113 minutes, 11 secondstrade you also need trust. And in that they've looked at it and gone, well, we're not just going to kind of cease
+13:1913 minutes, 19 secondsthe potential of trade in this area and the trade that can be kind of expedited
+13:2513 minutes, 25 secondsby these these these these value stores as well. What we're going to do is we're going to sensibly look at them. We're
+13:3413 minutes, 34 secondsgoing to sensibly work out how how regulation forms a key component of it because you need that trust element of
+13:4313 minutes, 43 secondsit and how governance is going to become one of the key driving factors to make it a real store of value or to make
+13:5113 minutes, 51 secondsthese um these assets a store of value because we've got to view them that way rather than kind of this
+13:5813 minutes, 58 secondsI don't know a semi contemporary traditional look at something that um most people have have looked down on for
+14:0714 minutes, 7 secondsmany years now. I've got my own personal views on on crypto itself and and the many different tokens that you can see
+14:1414 minutes, 14 secondsthese days, but in terms of some of the the applications um that can be meted out in terms of um
+14:2414 minutes, 24 secondstrust stores in being able to identify how you can tokenize something then yes, but it does need to be regulated. that
+14:3314 minutes, 33 secondsneeds to be formed um with such thought that you know especially for the retail market the retail market can be highly
+14:4214 minutes, 42 secondsprecocious. Mark, I was just going to say to to your point about trade, I mean clearly that forces you to be smarter
+14:5014 minutes, 50 secondsbecause I mean unlike Abu Dhabi, Dubai does not have the advantage of okay, they know G give the amount of oil they've got on under under their soil,
+15:0015 minutesthey can count on X amount of revenue, the price of oil being within certain range, they can count on X amount of revenue for the next couple of quarters.
+15:0715 minutes, 7 secondsMushir, I also wanted to uh bring up something uh respond to something you said that I mean that that that is that
+Chapter 3: Specialist vs. General Regulators
+15:1515 minutes, 15 secondsthat's always been the ongoing debate, hasn't it? Do do you go with a plain vanilla generalpurpose regulator like the ADGM? you know, a regulator that
+15:2315 minutes, 23 secondsregulates securities in the capital markets who also then happens to regulate virtual assets or do you create a specialist regulator? And to your, you
+15:3215 minutes, 32 secondsknow, there were concerns, and we've discussed this before, that there were concerns that virtual asset regulator, a regulator focused on crypto might get
+15:4115 minutes, 41 secondstoo close to the industry, might bend over backwards to please them. And and clearly that's not been the case. they they've got their standards that and
+15:4915 minutes, 49 secondsthey've got a reputation to maintain because the the old Dubai of the biggest of this, the widest of that, the deepest of that, Dubai was for the longest time
+15:5815 minutes, 58 secondsknown for novelties and shop festivals and gimmicks and amusement and entertainment. But now they're being taken seriously
+16:0616 minutes, 6 secondswhen it comes to important stuff. And I don't think people fully appreciate how much Dubai has risen in the world. not
+16:1316 minutes, 13 secondsnot just but I mean and crypto is just uh one manifestation one microcosm of that of course they don't have as
+16:2216 minutes, 22 secondsevolved of a private equity scene uh but that's a discussion for another time thanks I'm going to start with something
+16:3016 minutes, 30 secondsMark mentioned which I think is very important is protection for retail users right so one of the drivers when you
+16:3716 minutes, 37 secondslook at the regulations and setup of VA was you have high engagement, involvement, usage of crypto by retail
+16:4616 minutes, 46 secondsmarket in the Middle East, Dubai, UAE in general has uh seen numbers being high.
+16:5216 minutes, 52 secondsSo as a government and as a you do want to ensure that they are well protected and a regulator just makes sense, right?
+16:5916 minutes, 59 secondsSo that was the vision. You can also say that now when we look at 2025 as this major turning point in the US uh policy
+17:0917 minutes, 9 secondsum with regards to virtual assets going from very securities lens to now being like very very much pro crypto across
+17:1817 minutes, 18 secondsCFTC SF SEC and even the Fed you can say that Dubai was ahead of the game in terms of that embracing of this as one
+17:2617 minutes, 26 secondsof the major aspects or assets being driven in the world. It is an alternative asset. It is not a mainstream asset and even more so
+17:3417 minutes, 34 secondsthe need for regulation. So that's one point. The second piece about Dubai um and the GDP etc. One thing I want to
+17:4217 minutes, 42 secondshighlight quite often the for people Dubai is a country right I mean you've lived there you you and Mark is there as
+17:5017 minutes, 50 secondswell now so we all get that distinction but for many people uh it's a bit like when we used to ask people what's the capital of the United States people say
+17:5717 minutes, 57 secondsNew York without knowing Washington. Uh but the UAE is Dubai is part of the UAE.
+18:0418 minutes, 4 secondsYes, it's an emirate. It has its own budget. It has its own focuses but it's part of for the longest time people thought Dubai was the capital of the UAE much the chin of Abu Dhabi.
+18:1418 minutes, 14 secondsCorrect. Yeah. So but the the fact of the matter as much as we can say yes 80% of the the country is Abu Dhabi in terms
+18:2118 minutes, 21 secondsof you know the geographical area uh GDP etc. because a lot of the oil base lies in Abu Dhabi is still one country,
+18:2918 minutes, 29 secondsright? So as long as you realize at one time it was actually part of Abu Dhabi. They had to fight for their independence.
+18:3618 minutes, 36 secondsI mean, yeah. So that's all but since uh 1960 whatever, right? Uh since you've
+18:4218 minutes, 42 secondshad the United Arab Emirates, what I'm trying to say is that it's part of a country. And so if the GDP is being
+18:5018 minutes, 50 secondscontributed from oil in Abu Dhabi doesn't mean that that doesn't uh uh come into Dubai as a as an emirate but
+18:5718 minutes, 57 secondsthey have their own budget which they're driving very much in a federal system that exists in other countries. My point here being that Dubai has always been
+19:0719 minutes, 7 secondslike what can we do to bring in economic growth in various sectors and they have like being in the cutting edge of
+19:1519 minutes, 15 secondstourism. So luxury when you take the bourja and the palm then followed up with looking at how they can build Dubai in the middle of the desert through the
+19:2319 minutes, 23 secondsbourj Khalifa and other elements to be a major destination for uh passing through tourists and now directly tourists
+19:3119 minutes, 31 secondscoming just to Dubai and Abu Dhabi and then follows up with what they did with AI and what they've done with virtual assets. So it's just in their DNA. You
+19:3919 minutes, 39 secondscould also say that they have taken a bit of a leave from Singapore as a city state uh in terms of not having necessarily natural resources. So
+19:4819 minutes, 48 secondslooking at how they can engage and attract um global talent but also global industries for the leading innovator in
+19:5619 minutes, 56 secondsin financial services. That also leads to the question around private equity and capital markets which will take a
+20:0420 minutes, 4 secondsfew years to build out because most of the people coming in are in the broader um ecosystem layer and building
+20:1120 minutes, 11 secondscompanies layer while there are a significant amount of funds and size and scale of funds that exist in both Abu Dhabi and also in Dubai. You will see
+20:2020 minutes, 20 secondsthat it'll take time for capital markets to progress. uh Singapore is a classic example of having had significant growth
+20:2720 minutes, 27 secondsin fintech and other technology especially in the startup world but not seen any major IPOs besides a couple of
+20:3620 minutes, 36 secondsthem from uh you know the the e-commerce players that we've seen but not really having the same depth of capital markets
+20:4320 minutes, 43 secondslike a Hong Kong or a London or a New York right so I do believe there will be growth in in that phase but it'll take 5
+20:5020 minutes, 50 secondsto 10 years for the capital markets to grow in depth but that doesn't stop the regulators and the government from
+20:5720 minutes, 57 secondspushing through. A last piece on this is you we you also have to look at the federal regulators uh in particular
+21:0521 minutes, 5 secondsCBUAE uh who are uh been driving a lot of innovation and change and ESCA now who also have a federal level regulations in place for virtual assets.
+21:1521 minutes, 15 secondsSo what it provides is VA regulates companies who are looking to set up in Dubai and operating virtual assets. They get a registration with ESCA which
+21:2421 minutes, 24 secondsallows them to also operate on a federal level. While for the Russell Kaimars of the world and other emirates if they
+21:3221 minutes, 32 secondsdon't have a federal authority if they don't have a sorry uh regulatory authority locally for the emirate that will then fall under ESTA and they can
+21:4021 minutes, 40 secondsthen operate across the United Arab Emirates.
+21:4421 minutes, 44 secondsYeah. And I want to quickly read uh the last part of Mr. Golub's uh post on LinkedIn. Uh, and I think he distills it
+21:5221 minutes, 52 secondsdown pretty well. Many of his points dove dubvetail with with yours, Mashir.
+21:5721 minutes, 57 secondsQuote, why did it work? One, vision before regulation. The UAE understands digital assets are not about price, they're about power. Two, infrastructure
+22:0522 minutes, 5 secondsbefore hype. Tiered licenses, real enforcement, critical frameworks, credible frameworks. Three, integration before scale. Digital assets were woven
+22:1322 minutes, 13 secondsinto AI, banking, cloud, and sovereign funds. The result, Dubai now governs a trust infrastructure for a multi-t
+22:2022 minutes, 20 secondstrillion dollar global asset class. The UAE is not waiting for the future. He says it's building it. And then he goes on to point out, you know, the things
+22:2822 minutes, 28 secondsthat to watch more in their agenda than tokenization of real assets, CBDC backed stable coin flows such as the digital
+22:3622 minutes, 36 secondsDurham, the AI native finance by MGX G42 pre-sight onchain financial infrastructure as a national policy.
+22:4522 minutes, 45 secondsquote, "If you're sitting in a crypto hub that can't even issue licenses, if your lawyers are still debating whether stable coins or money securities or
+22:5422 minutes, 54 secondsheresy, if your project is raising money in one country, banking in another, enlisting in the third, come to Dubai.
+23:0123 minutes, 1 secondThis is where execution beats excuses." End [snorts] quote. It sums I mean he he's being polyianish a little bit, but
+23:0923 minutes, 9 secondsI mean it's not as though he's deviating from the truth either. I mean it is reflected by the reality on the ground in the time
+Chapter 4: Outlook for Dubai, Abu Dhabi, and Ras Al Khaimah’s Digital Assets Oasis
+23:1723 minutes, 17 secondswe've got left. Any any closing remarks that uh you both like to leave our listeners with?
+23:2223 minutes, 22 secondsSo I I think we need to look deeper as well in terms of what tokenization looks like, what it is, uh how it's a store of
+23:3023 minutes, 30 secondswealth and and people need to realize that like anything it's it's transient
+23:3723 minutes, 37 secondsand of you know contemporary age. things will move on and Dubai will move on with it and so will the United Arab Emirates.
+23:4623 minutes, 46 secondsI think the creation of Stargate over in Abu Dhabi what the world's largest data center as it's going to be and not just
+23:5323 minutes, 53 secondsdata center but artificial intelligence data center that will change things tooth and nail. So I I would say that
+24:0124 minutes, 1 seconddon't just look at what is of today look into the future ladies and gentlemen.
+24:0624 minutes, 6 secondsThank you. Okay, great. And she UAE in in particular Dubai is transforming. Uh it is very welcoming as
+24:1324 minutes, 13 secondsan example. I got my 10-year golden visa within an 8 hour process because they had pre-approved. But to be able to run
+24:2124 minutes, 21 secondsthrough that process, thank you. Uh but the fact that they could be so efficient and run through all of that even for pre-qualified individuals is very
+24:3024 minutes, 30 secondsremarkable. So execution is very very high and what we are seeing as you mentioned is there's now strong substance the population of Dubai is
+24:3824 minutes, 38 secondsalmost doubled over the last 10 years and more people coming in. So you have high talent uh it is evolving but keep an eye out for how Dubai becomes one of
+24:4724 minutes, 47 secondsthe major financial centers uh globally not just in the Middle East. So my expectation is the next five to seven
+24:5424 minutes, 54 secondsyears Dubai and Abu Dhabi as a joint twin cities as they were all you know uh hubs will be very very influential in
+25:0425 minutes, 4 secondsthe Asian world from both financial services as well as technology running parallel with what we have seen from a
+25:1125 minutes, 11 secondsHong Kong and the Shenzhen play. It will take time to reach the scale of both the cities given individually the cities
+25:1825 minutes, 18 secondshave the GDP of the of the UAE but we you definitely will see them scale to a very strong positioning in the region.
+25:2525 minutes, 25 secondsCan I just add something on to that as well please as sure which is do not mark Razala out of this
+25:3425 minutes, 34 secondsbecause of the sheer nature of the win integrated resort that's going in over there plus the digital assets oasis that
+25:4125 minutes, 41 secondsthey're creating. So people need to keep an eye on Razar Hmer and watch what's going on over there.
+25:4725 minutes, 47 secondsThat's now becomes the Macau of the GBA, right Mark? [laughter] K.
+25:5325 minutes, 53 secondsWell, I mean people people think of only Dubai and Abu Dhabi because really one's the one's the one's the backbone oil
+26:0026 minuteshub. One's the one's the national capital, the other is the financial hub.
+26:0426 minutes, 4 secondsAnd in terms of national legislation at the federal level, only Dubai and Abu Dhabi have veto power. So you know that
+26:1226 minutes, 12 secondsthat's I mean it's unfair but that that's that's how it is. But Moshe I just want to point out you were wear that the the wealthy the ruling elite in
+26:2126 minutes, 21 secondsIndia particularly in Mumbai regard Dubai as a suburb of Bombay now because it's just a couple of hours away by
+26:2926 minutes, 29 secondsflight. Yeah, probably uh look uh I often you know Dubai has been very welcoming for the South Asian diaspora
+26:3626 minutes, 36 secondsand many of us feel at home when we are uh in Dubai and also in the broadly ini right I mean I love the food uh it's
+26:4426 minutes, 44 secondsit's uh serves my pallet very well but the the fact of the matter is as I said it's becoming a financial hub
+26:5226 minutes, 52 secondsnot just because of the regulations it's also about where funds are moving where people are seeing as a major hub. One of the drivers for
+27:0027 minutesHong Kong and Singapore is the HNIs, right? The family offices who are coming in. So it's not just a sovereign wealth that's still supporting a lot of the
+27:0827 minutes, 8 secondsfunds and VCs etc to you know set up base and push on in in the UAE but it's also a lot of the family offices uh and
+27:1727 minutes, 17 secondsHNI or ultra HNI coming in from South Asia from Africa who all feel very familiar with Dubai and are using the
+27:2627 minutes, 26 secondsyou know double taxation agreements and other benefits to set up their investment funds or move their family legacy wealth uh into Dubai. So it will
+27:3527 minutes, 35 secondsand Abu Dhabi is where we see most of the funds being set up. So I do think that's a major factor. Uh so it's going to be across the board. Uh it is very
+27:4427 minutes, 44 secondsvibrant. I I do want to add a word of caution that earlier say 2 three years ago there probably was some gap uh for
+27:5327 minutes, 53 secondsvery high quality professionals to come in and get a premium for uh their uh expertise. Now that gap is significantly
+28:0228 minutes, 2 secondsreduced. you get on markets probably similar to what you were getting in your home market because quite a few people want to come to Dubai. So it's no longer
+28:1028 minutes, 10 secondsDubai needing to go drive aggressively or promote itself heavily to bring people to the city. It you know the
+28:1728 minutes, 17 secondsworld has done that for them. Uh and you see the influencers and all the others who speak about how Dubai is but people have worked in Dubai. These people have
+28:2528 minutes, 25 secondsexperienced the lifestyle and of course the zero tax personal tax regime is a big benefactor that is attracting a lot
+28:3328 minutes, 33 secondsof people to come to Dubai as it is and that adds to the development because when you see good talent uh coming with global expertise it helps you build your
+28:4228 minutes, 42 secondscompanies and scale them faster and that I think is is visas as I mentioned with my golden visa being at the other end but any most visas in Dubai are very
+28:5128 minutes, 51 secondseasy to get if you have the right qualification and you clear the security. So yeah.
+28:5628 minutes, 56 secondsYeah, it it it does. Um I mean people in capital go where they're treated best and you know water always finds a path
+29:0429 minutes, 4 secondsof least resistance. But anyway, gentlemen, thank you so much for your time. Thank you so much for having us.
+29:1029 minutes, 10 secondsShra to do it again sometime. And we'll be right back.
+29:1929 minutes, 19 seconds[music]
+29:2429 minutes, 24 seconds[music]
+29:2929 minutes, 29 seconds[music]
+29:3029 minutes, 30 secondsAnd we're back. We're chatting with authors Jame Diosio and Charles Dossi about their new book entitled Arabian
+29:3829 minutes, 38 secondsCrypto. It's about digital asset pioneers in the UAE. But first, a little bit about our authors.
+29:4429 minutes, 44 secondsJane Diosio has had quite a journey going from well seasoned reporter to writer, editor, author, content creator, especially in the realm of fintech,
+29:5329 minutes, 53 secondsleading ultimately to becoming a media entrepreneur, board director, and broadcaster.
+29:5829 minutes, 58 secondsHe still regards himself as all the above and as he puts it, leveraging experiences to provide bespoke
+30:0530 minutes, 5 secondsstorybased projects and to advise companies. End quote. based in Hong Kong. He's currently the founder and
+30:1230 minutes, 12 secondsmanaging partner of JDB Adviserss and provides companies in fintech, financial services, wealth management, and digital
+30:1930 minutes, 19 secondsassets with insight, advice, and services to support their growth narrative. The firm's edge is its ability to include media expertise,
+30:2730 minutes, 27 secondsco-authorship, podcasting, writing, and research, as well as recruitment.
+30:3230 minutes, 32 secondsUltimately, he helps fintech and finance businesses with media, narrative, content, and governance. His sperm JDBA also publishes its own in-house media, the JDB report, covering tech and money.
+30:4430 minutes, 44 secondsWithout a doubt, James Passion is writing and he is the author of about a dozen books of which five are non-fiction. Other than Arabian crypto,
+30:5230 minutes, 52 secondshis other titles include Planet VC about the story of venture capital beyond Silicon Valley, Block Kong, in which he profiled blockchain leaders and
+31:0131 minutes, 1 secondentrepreneurs shaping the territories Hong Kong's virtual asset ecosystem and cow's to crypto, the history of
+31:1031 minutes, 10 secondsmoney. His non-b businessiness history books are the story of Angor and Who Killed the King, each covering one of
+31:1931 minutes, 19 secondsSoutheast Asia's great temple civilizations. Jame also writes fiction under a pen name which he encourages the rest of us to figure out.
+31:2831 minutes, 28 secondsCharles Dossi is based in Dubai and is the CEO of the DYDX Foundation, a community built around decentralized
+31:3731 minutes, 37 secondsderivatives trading with at its core a decentralized finance or DeFi protocol for perpetual futures. Before joining
+31:4531 minutes, 45 secondsDYDX, Charles served as the global head of business development at Consensus.
+31:5031 minutes, 50 secondsHis diverse career includes entrepreneurial ventures, executive roles at fintech startups, and a stint as the head of fintech with Invest Hong
+31:5931 minutes, 59 secondsKong, a qua governmental body. In 2018, Charles was recognized as a top 50 fintech influencer in Asia. His
+32:0732 minutes, 7 secondsexpertise in fintech and blockchain earned him widespread acclaim. In 2021, he co-authored the book Block Con with Jim.
+32:1632 minutes, 16 secondsAnd as for the subject of today's discussion, Arabian crypto, it starts off with a key premise. The United Arab Emirates has exploded onto
+32:2432 minutes, 24 secondsthe crypto scene. Every important player from exchanges to DeFi founders to tradi bankers are setting up shop in either
+32:3232 minutes, 32 secondsDubai or Abu Dhabi. But why the UAE? How did this nation of 10 million people become the leading global hub for
+32:4132 minutes, 41 secondscrypto? And is it too late to join the party for those that fancy wanting to participate in the UAE growth story?
+32:4732 minutes, 47 secondsArabian Crypto delves into the UAE's regulators, founders, and executives across the spectrum of
+32:5432 minutes, 54 secondsdigital assets to understand what makes this nation tick and how to do business there and how to make sense of
+33:0133 minutes, 1 secondregulatory choices available. There are indeed some exciting projects being built there. And it all begs the question, what will it mean for how the
+33:1033 minutes, 10 secondsUAE fits into the global industry of blockchain enabled commerce? Brought to you by the authors, Arabian crypto is an on train to the cutting edge of east
+33:1933 minutes, 19 secondsmeets west innovation and the future of money. And with that, I turn to our guests. Gentlemen, thank you so much for joining us. Thanks, AJ.
+33:2633 minutes, 26 secondsGood to be here. Thanks for having us.
+Chapter 5: d'Haussy & DiBiasio: Why the UAE? Why Dubai?
+33:2833 minutes, 28 secondsIf we go back to forming of of this show in back in 2022 when I was going back and forth from here to Dubai, uh the the fintech, the crypto scene was buzzing.
+33:4133 minutes, 41 secondsEven then, people in Hong Kong and Singapore wondering what's up.
+33:4533 minutes, 45 secondsYou know, if we go went back just a few years, the thought was it was a two-h horsese race between Hong Kong and Singapore and Singapore was in slight
+33:5333 minutes, 53 secondslead, but then nothing happened in Singapore and and every no one was getting approved and everyone was on
+34:0034 minutesprovisional and all of a sudden this dark horse of the UAE, particularly Dubai,
+34:0734 minutes, 7 secondsjust barreled forward and everyone was wondering what happened. So explain explain this to me as if I was a
+34:1634 minutes, 16 seconds5-year-old why the UAE and what in particular why Dubai? Charles, you want to start?
+34:2234 minutes, 22 secondsYeah, I think I think the world of fintech and the world of crypto is is evolving with our own uh with our own world essentially and and we've seen
+34:3034 minutes, 30 secondsover the years uh a lot of political uh volatility, market volatility, the technology around us, should it be
+34:3934 minutes, 39 secondsfintech, crypto or AI is is growing at uh in a in exponential pace. Um and and
+34:4734 minutes, 47 secondswe've seen some of these major entrepreneurs and and and companies somehow even though that was maybe not
+34:5434 minutes, 54 secondstheir plan to kind of country shopping uh finding places where there there there would be potentially regulatory
+35:0335 minutes, 3 secondsenvironment and business environment which would be stable, predictable and potentially getting licenses. Uh so
+35:1135 minutes, 11 secondswe've seen indeed um Asia leading the charge in the early days of the the crypto industry. Uh but with time I
+35:1835 minutes, 18 secondsthink this um this leadership or this um this uh this advance of the of the Aian jurisdictions was um was leaving some
+35:2735 minutes, 27 secondsspace for some contenders. So the US have been very very late to the party and essentially this gave space for the
+35:3535 minutes, 35 secondsUAE to uh analyze a little bit uh how the beginning of crypto regulation happened in Asia. Seeing what what kind
+35:4635 minutes, 46 secondsof potential there was for for this new nation. uh what kind of regulation was
+35:5335 minutes, 53 secondsstill lacking despite having some uh some uh some some regulation somehow supportive uh of of crypto and at the
+36:0336 minutes, 3 secondssame time there was a very big migration of u of crypto entrepreneurs and top executive uh fleeing COVID restrictions
+36:1136 minutes, 11 secondsfleeing wars around the world and finding a new uh a new a new place to set up their their families and their business um in the UAE.
+36:2236 minutes, 22 secondsYeah, I might add on that's a great intro. I might add that the the way that the UAE has developed its its technology
+36:2936 minutes, 29 secondsand finance sectors is a continuum. It's not really as radical as it looks. It's just that we were surprised because we
+36:3636 minutes, 36 secondsweren't paying attention. But going back to the '9s, the way they developed um their tourism, their trade and logistics
+36:4536 minutes, 45 secondsuh industries were sort of a precursor to um to what they do now. So it basically they've got a a structure of
+36:5436 minutes, 54 secondsgovernment that is partly decentralized um but also very agile and the top leadership can make decisions and they
+37:0337 minutes, 3 secondslook at where can they play and they look at what are the industries that they want to be top in and for a while those things were like let's build the
+37:1037 minutes, 10 secondsthe airline and make sure the people are transiting through okay let's build a good airport let's build a city let's build this and that to cater to increasing traffic and and that's that
+37:1937 minutes, 19 secondsrelevancy, then it it ex it eventually wow its way through to blockchain and AI technologies as well. And so there's
+37:2837 minutes, 28 secondsbeen a a fairly consistent push um from different levels of leadership
+37:3637 minutes, 36 secondsidentifying that these were areas where they felt that the UAE should be not just a player but a leader and uh and
+37:4337 minutes, 43 secondsthey've sort of been able to really uh realize those ambitions.
+37:4837 minutes, 48 secondsI mean h having visited I mean I must confess Dubai is a second home having visited myself since April of '89. I I
+37:5637 minutes, 56 secondshave seen the changes and it was clear to me 99 this it was on a different trajectory
+38:0338 minutes, 3 secondsand it was it was solidified in 2003 2004 but the the sense was that really it wasn't until 0304
+38:1138 minutes, 11 secondsthat people started globally started to become aware of Dubai until you know the Burjel Arab and you know they got this
+38:1838 minutes, 18 secondsname reputation for novelties you know the biggest of this the whitest of that the deepest of this uh you know all that
+38:2638 minutes, 26 secondsuh they're tourists company that there was a feeling that okay these guys are good at some things but
+38:3438 minutes, 34 secondsyou know there's a sense of the these guys are Johnny come lately where's the thinking was okay Hong Kong Singapore
+38:4138 minutes, 41 secondsestablished financial centers you know stable reliable legal systems that would give us the edge because you know the
+38:5038 minutes, 50 secondsthing about the the joke in in Dubai is the rules and regs can say one thing now and 6 months later if the shake changes
+38:5838 minutes, 58 secondshis mind that they they they could change that. I mean and then I also want to come to the the issue of the regulator the virtual asset regulatory
+Chapter 6: VARA & Speed vs. Prudence
+39:0539 minutes, 5 secondsauthority in Dubai. I mean it was lauded it was touted as as being a great thing when it came along the first such regulator of its kind in the world uh
+39:1539 minutes, 15 secondscatering you know specifically to the virtual asset community. But there's a
+39:2239 minutes, 22 secondsconcern then that maybe they've catered too much to them, pandered too much to them, uh, bent over backwards to satisfy
+39:3039 minutes, 30 secondsthem because, you know, you you you want those funds to come to your shores. you might be more inclined to play fast and loose
+39:3939 minutes, 39 secondswith the rules. Whereas, you know, established established legal systems like Hong Kong
+39:4539 minutes, 45 secondsand Singapore that things things naturally take take more time that that there's more of a
+39:5239 minutes, 52 secondsdeliberative process. Is is that is that an impediment though then to to innovation?
+39:5939 minutes, 59 secondsI I'm not sure I agree with the premise.
+40:0240 minutes, 2 secondsUm the UAE is um I mean all places have their pros and cons. Um but I think the
+40:1040 minutes, 10 secondsthe rules and regulations they've been putting in have been reasonable. Yes.
+40:1440 minutes, 14 secondsThere's been industry input into those but I don't think there's anything there that's perceptions.
+40:2240 minutes, 22 secondsYeah. Um and yeah, so I I think that overall they have some of so VAR is one
+40:2840 minutes, 28 secondsregulatory body that was built from the ground up to be specifically about digital assets or virtual assets, but
+40:3740 minutes, 37 secondsother regulators have also been innovating within their domains as financial regulators of one type or
+40:4440 minutes, 44 secondsanother. So I think there's it's actually this this patchwork which is is creates opportunities. Charles, you want to talk a little bit about some of what
+40:5240 minutes, 52 secondswe we found talking to people about the different jurisdictions and and the way things can work in in the UAE? Yeah, that's very interesting indeed.
+41:0041 minutesWhat I found is for the first time as as you may know, I used to be with with the Hong Kong government as head of fintech some some years ago. So, I had the
+41:0841 minutes, 8 secondschance to work very closely with with regulators in Hong Kong building CBDC's with some other jurisdictions as well.
+41:1541 minutes, 15 secondsAnd what we found very interesting is how the regulators in in the UAE specifically ver are built for purpose
+41:2341 minutes, 23 secondsand are not kind of uh pushed in existing regulator frame sets. Um so
+41:3041 minutes, 30 secondsthat's that's one thing and and and what we what we learn also through the interviews together with Jame is um I
+41:3841 minutes, 38 secondswould say there is a there is an ambition from the regulators to grow this market which you will seldom see in any other countries. Usually you have to
+41:4641 minutes, 46 secondsgo and knock at the door and ban in front of the regulators to hope to get a license and this license can be removed
+41:5241 minutes, 52 secondsfrom you any time. um in in in VA they quickly understood that if they wanted to make space for themselves they they
+42:0142 minutes, 1 secondwill need to kind of reach out and pick some of the new type of activities crypto options is one example with with
+42:0842 minutes, 8 secondsDer bit uh the world leader with more than 80% market shares in crypto options and designing designing for them um um
+42:1842 minutes, 18 secondsuh a special framework which is very very complicated and and demanding but but designed for for purpose rather than
+42:2742 minutes, 27 secondsthan waiting and letting this business go away. Um but when it comes to to regulators, the UAE is rich of um of six
+42:3542 minutes, 35 secondsdifferent states, right? The main states which are the most active in terms of uh of crypto are the the state of Dubai
+42:4642 minutes, 46 secondswith VAR, it's dedicated regulator to crypto. But um another one which is a little bit less in the news but
+42:5342 minutes, 53 secondsextremely powerful as well is ADGM. Uh so essentially Abu Dhabu Abu Dhabi global market and and that's where the
+43:0143 minutes, 1 secondregulators in crypto is uh is part of the securities regulators and banking regulators. It's essentially uh a
+43:0843 minutes, 8 secondsdedicated department within an existing regulator framework. um and and they have two two different views on on how
+43:1643 minutes, 16 secondsto kind of grow uh grow their respective market. They're somehow in some kind of competitions which is also interesting.
+43:2343 minutes, 23 secondsUm but Abu Dhabi is is much more looking for very established players which already have and existing
+43:3243 minutes, 32 secondssecurities licenses and and wants to expand into into crypto. uh they they have more this kind of approach of an
+43:4043 minutes, 40 secondselite club offering licenses to very large hedge funds or very established
+43:4643 minutes, 46 secondscrypto players. Whereas VA will also sometimes host some very uh very strong and and and powerful players globally in
+43:5543 minutes, 55 secondscrypto but also uh playing an an innovation card. uh having a team which is able to monitor onchain the activity
+44:0544 minutes, 5 secondsof their uh of their regulators. So it's um it's it's very interesting to see how
+44:1344 minutes, 13 secondswhen you build a modern set of regulations and a modern regulator you can essentially fit with with the
+44:2144 minutes, 21 secondsindustry and uh and attract the industry and and I think there is clearly uh a global competition between countries to
+44:3044 minutes, 30 secondsattract [snorts] those new uh those new uh parts of the business. uh and we've
+44:3644 minutes, 36 secondsseen in in the US this kind of 180°ree change between an hostile uh industry
+44:4344 minutes, 43 secondstowards crypto uh and uh and after the President Trump came in having regulators much more embracing and and
+44:5144 minutes, 51 secondsthe black rockck of the world all the banks jumping on the genius act and and starting to issue stable coins. So these
+44:5944 minutes, 59 secondsare very very important um pieces for for I would say ambitions of any countries to get the right regulations
+45:0745 minutes, 7 secondsand not too late. Um and and I think the the UEE has a has a very interesting approach and and find a good balance
+45:1445 minutes, 14 secondsbetween the different uh sizes of the of the market.
+45:1845 minutes, 18 secondsYou know these these are indeed heady times. Uh but I'd like to turn to what prompted you to write this book especially now. What do you feel it adds
+Chapter 7: Arabian Crypto - Why Write the Book Now?
+45:2745 minutes, 27 secondsto the ever growing body of literature on crypto and fintech more broadly?
+45:3245 minutes, 32 secondsCharles began writing Block Kong um some years ago, quite a few years ago now actually um when he was at Consensus and
+45:4045 minutes, 40 secondsyou know so he told me what he was doing and at the time I was running another Digin media group um and uh I helped him
+45:5045 minutes, 50 secondsand serialized those things on uh on that on that media group and then we turned into a book together. Um and I
+45:5845 minutes, 58 secondsthink that was a fun project. Uh it wasn't really that commercial in purpose. It was more like we were just there and we wanted to do something.
+46:0746 minutes, 7 secondsCharles in particular really wanted to to highlight what was going on in the communities that he was engaging with.
+46:1346 minutes, 13 secondsAnd then um that was that was more like a a fun project. And then after he moved to Dubai um he he gave me a call one
+46:2246 minutes, 22 secondsday. I was like I think there's something really major going on here. Um so Charles, what was kind of going in your head then?
+46:2946 minutes, 29 secondsYeah. What was the genesis? The genesis as as Jim explained is really this book we we we co-edited together on on Hong
+46:3746 minutes, 37 secondsKong and and seeing essentially this kind of migration and and uh of of top executive top entrepreneurs in crypto
+46:4646 minutes, 46 secondspeople leaving the US and trying to find new places. Uh people wondering or celebrating uh tiny steps of their
+46:5346 minutes, 53 secondsrespective domestic regulators and eventually the technology and the global market growing at at very fast pace. And
+47:0047 minuteswhen I relocated to to Dubai, I very quickly uh got my mind blown by how much
+47:0947 minutes, 9 secondsof my how many of my peers were actually based in Dubai. Should they be uh technology leaders? Should they be uh
+47:1747 minutes, 17 secondsbankers with real crypto ambitions such as Namura or Standard Chartered? Um and uh and and um and we find what was
+47:2647 minutes, 26 secondsinteresting is we found also a bunch of people migrating like me uh coming from Hong Kong, coming from other places. Um
+47:3547 minutes, 35 secondsso within the the book about Hong Kong, Block Kong and the book about uh crypto in in the UAE, Arabian crypto, we find
+47:4447 minutes, 44 secondssome overlap. we have we have uh for example Henry Arlanian which is also very active at the at the HKU within the
+47:5447 minutes, 54 secondsfintech topics. So what was interesting is we found that uh uh that some some people were were following the same kind
+48:0148 minutes, 1 secondof uh of migration and what was important for me is to essentially document. So what we learned with Jame
+48:0848 minutes, 8 secondspublishing together his first book block and and thinking how we could kind of iterate on on the the receipt for
+48:1648 minutes, 16 secondsArabian crypto. We wanted to achieve and I think we did uh essentially a business guide for crypto executive and crypto
+48:2348 minutes, 23 secondsentrepreneurs for them to be able to map as the ecosystem of of crypto in the UAE understand the difference between Abu
+48:3348 minutes, 33 secondsDhabi and and Dubai. understand how the regulators think and and and work in in both uh both jurisdictions, but also
+48:4248 minutes, 42 secondskeeping the formula which has been a winning formula in the past, interviewing and getting firsthand uh
+48:4848 minutes, 48 secondscomments and and and experience from entrepreneurs like like us expanding their business of crypto in in the UAE.
+48:5848 minutes, 58 secondsSo we hope the readers can essentially identify themselves to the journey of um a compliance professional, the journey
+49:0749 minutes, 7 secondsof a layer one, the journey of a CMO uh for for a global exchange, the journey of a lawyer uh growing a crypto practice
+49:1749 minutes, 17 secondsin in the UAE, but also having some uh some snippets within the between between chapters uh for the reader to understand
+49:2649 minutes, 26 secondsa little bit more the history of the UAE uh understanding the kind of um
+49:3349 minutes, 33 secondsframework um the the leaders of the UAE have and how they grew and how they want to keep growing uh their their their
+49:4249 minutes, 42 secondscountry over over the years. So that's that's really trying to to be uh some kind of business partner and and uh and
+49:5149 minutes, 51 secondsuh having this business guide available for pe people curious about this this part of the world which is in many conversations. So hopefully this is
+49:5949 minutes, 59 secondsgoing to be helpful for uh for many it does come up it does come up a lot.
+50:0350 minutes, 3 secondsUh I'm sorry Jamie you meant to say I was going to mention that some of the people we interviewed are we also talked to people who are like really you know building and working on interesting
+50:1250 minutes, 12 secondsprojects. there's a lot of innovative stuff that's being done there. And so the book gives you just I think just a few snapshots of the variety of things
+50:2050 minutes, 20 secondsgoing on. And I also think it'll be interesting not just for people directly in the crypto business, but also regulators looking to understand how the
+50:2850 minutes, 28 secondsUAE has got to where it is. Um, and anybody in traditional finance who's maybe beginning to dabble in crypto and trying to figure out how to strategize
+50:3750 minutes, 37 secondsaround that might give them some some tips. Uh so yeah so there there's multi multifaceted uh person let's pick up on
+50:4550 minutes, 45 secondsthat because that's a key demographic people in the world of proudfi what what would someone who's from the world of
+Chapter 8: TradFi & Top Takeaways from UAE
+50:5250 minutes, 52 secondstraditional plain vanilla banking and finance what what would they gain from this book? Well, they're going to first of all see some of their peers like
+50:5950 minutes, 59 secondsNamora's laser digital um who are making Dubai their major hub outside of their home market. Um and maybe get a sense of
+51:0751 minutes, 7 secondswhy they're going to get a sense of what it's like dealing with the regulators because the bankers are all about, you know, they they're their strong suit is that they've got
+51:1651 minutes, 16 secondscompliance cultures. So, what is it that they can do in the UAE that maybe would be difficult to do in other markets? Um,
+51:2451 minutes, 24 secondsand uh, and I think just also just to get a a flavor for what's going on in the in the crypto space in 2025.
+51:3051 minutes, 30 secondsFair enough. And uh, in in terms of if if you had to summarize your key conclusions and observations from your
+51:3851 minutes, 38 secondstime in the UAE, what what would you say they were your top, you know, four to six points, takeaways?
+51:4551 minutes, 45 secondsCharles, you want to talk about like some of the regulatory stuff? Yes, please.
+51:4951 minutes, 49 secondsI I think in terms of regulation, it's very encouraging. Uh there is a lot of things happening. Um two things on
+51:5651 minutes, 56 secondsregulation. Number one, regulations is a little bit fragmented in the UAE. So we really we really learned through those interviews with with different crypto
+52:0552 minutes, 5 secondsentrepreneurs that uh people have to understand what is the regulatory value proposition in Abu Dhabi, what is the
+52:1252 minutes, 12 secondsregulatory value proposition in in Dubai and trying to to find what what fits best best their their business. um they
+52:2152 minutes, 21 secondswill have to queue. There is so many countries so so many companies uh after regul regulations over there ward in the
+52:2952 minutes, 29 secondsstreet uh are saying that there is close to 300 companies basically on the waiting list of of VA to obtain a
+52:3752 minutes, 37 secondslicense over there. So it's going to be quite uh quite a long process. um on regulation as well what we learn and and
+52:4552 minutes, 45 secondsI believe it's 100% true people [snorts] have this image that maybe a license in the UAE is a is a quick thing and um and
+52:5352 minutes, 53 secondsit's not going to be too demanding and we learn from top uh top entrepreneurs uh here that actually the regulators u
+53:0253 minutes, 2 secondswants to be creative in terms of licensing but they remain extremely demanding. was they've got a reputation
+53:0853 minutes, 8 secondsto maintain because in the past, you know, people were willing to play fast and loose with rules in Dubai.
+53:1553 minutes, 15 secondsAbsolutely. And I think we can probably say the same in Hong Kong back a few decades before, right? So, every every country grows and kind of mature.
+53:2453 minutes, 24 secondsThat's right. Insider trading was at one time legal in Hong Kong before the uh securities and futures ordinance. So, yeah, your point's well taken.
+53:3253 minutes, 32 secondsSo, yeah, the the fragmentation of regulations is real. uh people needs to kind of understand what is the value
+53:3953 minutes, 39 secondsproposition of both main states such as um Abu Dhabi and Dubai. Um I think if
+53:4653 minutes, 46 secondsyou're not really into uh strict regulations and licenses, you you will probably not not find what what you need
+53:5453 minutes, 54 secondsin in the UAE. License are available, but they are hard to to obtain and hard to to keep to keep active. The
+54:0254 minutes, 2 secondsregulators are demanding. This is not something you've seen maybe in the past but it's definitely definitely happening. And what is interesting and I think a unique value proposition in the
+54:1054 minutes, 10 secondsUEE so far is regulators are very close closely working with the industry. Uh I
+54:1754 minutes, 17 secondswould not be surprised that we've see we see in the coming months decentralized finance regulations in the UAE. I
+54:2554 minutes, 25 secondslearned this being a practitioner that there there are some works in that direction and that's something which will never happen over the next two to
+54:3254 minutes, 32 secondsthree years in Hong Kong and let alone the let alone the US or let alone Europe as well. So we we find
+54:4054 minutes, 40 secondsthem very close to the industry and and kind of competitive and ambitious while remaining more and more strict on on the
+54:4854 minutes, 48 secondsrequirements. So that's probably why many entrepreneurs are uh attracted by the region. It's a very refreshing uh
+54:5654 minutes, 56 secondsconversations and and and type of regulators. So that that's why it gets so much attention. I think um another
+55:0455 minutes, 4 secondslesson that kind of builds off of that is that um although there are plenty of retail facing businesses there
+55:1255 minutes, 12 secondsincreasingly the story in both uh the major jurisdictions is about the institutional side Abu Dhabi very
+55:1955 minutes, 19 secondsexplicitly but um but also I think in Dubai there's a greater drive toward institutionalization
+55:2655 minutes, 26 secondsum and with digital assets and tokenization of real world assets which is already happening. That's not to say there's not retail things going on. I
+55:3455 minutes, 34 secondsdon't want to give that impression. But I think overall if you've got a um a business that is going to align with
+55:4155 minutes, 41 secondsinstitutional flow um you know I think then the UAU is is going to be uh very interested to hear your story.
+55:4955 minutes, 49 secondsOne thing, one thing also we we kind of uh discussed in in in the past weeks with
+55:5655 minutes, 56 secondswith Jame was other part of the world such as Hong Kong for example, somehow a little bit Singapore as well have a a
+56:0556 minutes, 5 secondsvery mature uh capital markets industry and players around them and that's probably something lacking in the UAE.
+56:1356 minutes, 13 secondsUh so though they have this regulation, though they have this new generation of finance practitioners, the crypto one should should they be uh crypto hedge
+56:2256 minutes, 22 secondsfunds or stable coin issuers. The ecosystem of uh around the stock exchange is is not is not available in
+56:2956 minutes, 29 secondsthe UAE. You you have exchanges in Dubai and and and Abu Dhabi, but they're not of the size of uh of Hong Kong, for
+56:3756 minutes, 37 secondsexample, London or New York. So this will show some some kind of challenges uh in in terms of growth and that's
+56:4556 minutes, 45 secondsmaybe maybe why uh the local regulators and government are kind of betting on on front running new technology and and
+56:5356 minutes, 53 secondsembracing those new type of industry players in order maybe to catch up on on the traditional finance uh type of uh of
+57:0157 minutes, 1 secondbusiness such as the Hong Kong stock exchange or the London stock exchange for example. So it's a very inspiring
+57:0857 minutes, 8 secondsstory uh very inspiring uh set of entrepreneurs on the ground here next to next to us. Uh but there is a few
+57:1657 minutes, 16 secondselements which uh which keep the game open. So it's going to be very interesting in the coming years. One one thing just again to build on what
+57:2457 minutes, 24 secondsCharles said. I think another challenge for the UAE is um you know when Hong Kong's because Hong Kong has this you know huge capital market and
+57:3257 minutes, 32 secondslongstanding so all the actors are here the whole ecosystem is here. The entire um range of financial services and
+57:4057 minutes, 40 secondsrelated services are here. Um the UAE doesn't yet have a strong venture capital market. It doesn't yet have the
+57:4857 minutes, 48 secondsstrong university system. it doesn't have it, you know, it's not really yet primed to be a Silicon Valley type disruptive element.
+57:5657 minutes, 56 secondsWill it go that way? I don't know. Maybe they prefer to be more like a Singapore or sort of I call it a Switzerland type model, but um but there's there's the
+58:0558 minutes, 5 secondsthere's possibility that it over time could develop that if they want to allow that more sort of freewheing style. But I think some of these things will
+58:1358 minutes, 13 secondsdevelop over time. But there are still pieces of the story that are works in progress. Yeah, the story the story clearly uh is being told. Um Charles,
+58:2358 minutes, 23 secondsI'd like to turn to you given that you're based there. Do do you get a sense that the other oil rich GCC
+Chapter 9: Are GCC Neighbors Copying the UAE?
+58:3158 minutes, 31 secondsnations I'm thinking of obviously Qatar, Kuwait, [sighs] Bahrain, you know th
+58:3958 minutes, 39 secondsthose around the UAE those on its periphery I don't know perhaps even on u are they
+58:4758 minutes, 47 secondsat all trying to copy mimic or to some extent Saudi perhaps are they trying to
+58:5458 minutes, 54 secondscopy the UAE's blueprint and and you know any information on that and and uh to what extent have they been successful or not?
+59:0359 minutes, 3 secondsYeah, that's an interesting question. Um we we've heard here and there Bahin uh Bahin has a set of of licenses which
+59:1259 minutes, 12 secondsseems to fit a few a few players. Uh but the challenge of some of these GCC countries is that their demo do domestic
+59:1959 minutes, 19 secondsmarket is is extremely small. Um the one place we are paying attention to is Saudi Arabia. Um it's it's interesting
+59:2959 minutes, 29 secondsbecause they have a way larger domestic market 25 million citizens if I remember well. Um and they're also going through
+59:3759 minutes, 37 secondsa big transformation trying to diversify away from from petrol only type of economy. Uh but in terms of GCC B has
+59:4659 minutes, 46 secondsprobably gave away a few a few licenses but nothing uh nothing phenomenal. uh everyone is having their eyes at Saudi
+59:5459 minutes, 54 secondsbut from what we we kind of reconcile from conversation something's going to happen over there but it's not it's not happening next year it's probably going
+1:00:011 hour, 1 secondto take like two three years and uh but it's going to be probably bigger in the region because of the uh because of the
+1:00:081 hour, 8 secondsdomestic market but there is definitely an appetite over there from uh individual investors uh in in in the GCC
+1:00:161 hour, 16 secondsfamily offices sovereign funds to invest uh in crypto. One example to illustrate that one of the world largest holder of
+1:00:261 hour, 26 secondsBitcoin is um is actually a sovereign fund from Abu Dhabi uh which have been investing 400 plus million dollar at the
+1:00:341 hour, 34 secondstime. It's probably close to 600 billion now in Bitcoin. They are also running
+1:00:401 hour, 40 secondsBitcoin mining farms here in the UAE powered by nuclear nuclear energy. So I
+1:00:481 hour, 48 secondsthink there is also the always this kind of com regional competition between uh between uh between jurisdictions here.
+1:00:561 hour, 56 secondsUh but definitely the UAE as a as kind of a [snorts] uh a way in
+1:01:031 hour, 1 minute, 3 secondsadvance against the others and uh and the next in in the line is probably Saudi but it's going to come a little
+1:01:111 hour, 1 minute, 11 secondsbit later. I think the economy of Saudi has not evolved yet as much as as the economy in the UAE in terms of openness
+1:01:201 hour, 1 minute, 20 secondsin terms of flexibility with their cultural heritage and that's something which helps also with the brand somehow
+1:01:281 hour, 1 minute, 28 secondsif you have a license from a country um which is not kind of top of mind it does not have the same effect on your
+1:01:351 hour, 1 minute, 35 secondsbusiness and uh and people will think twice before going into all this paperwork. uh but if you if your your
+1:01:421 hour, 1 minute, 42 secondscountry brand is strong if uh if people feel and trust uh the place where where the the license is coming from is
+1:01:511 hour, 1 minute, 51 secondsdefinitely helping. So UAE definitely at the top of the podium for now um coming soon Saudi and some [snorts] other GCC
+1:02:001 hour, 2 minutescountries maybe like Bahin are doing a few things but nothing of [snorts] um of of importance yet. It is true that
+1:02:081 hour, 2 minutes, 8 secondslenture can instill market confidence, but I'm wondering my final question.
+Chapter 10: Conservative Licensing vs ADGM/VARA’s Approach
+1:02:141 hour, 2 minutes, 14 secondsWhat can Hong Kong and Singapore learn from Dubai's example? And Jame, I'd like to put that to you first because you
+1:02:231 hour, 2 minutes, 23 secondsknow you you you've been here and you've been there and that gives you some, you know, the ability to just ju just ju justapose. But I I I I raised that
+1:02:311 hour, 2 minutes, 31 secondsbecause I mean in in my trips there since 2021, my private consulting clients, you go there, you attend
+1:02:391 hour, 2 minutes, 39 secondsevents, you meet people, you gather market intelligence, uh you know, you come back with a slew of business cards and and you know, your
+1:02:481 hour, 2 minutes, 48 secondsclients, they're not interested in what can we learn from what Dubai is doing, right? there. It's just give me your
+1:02:571 hour, 2 minutes, 57 secondsbusiness cards and who's willing to invest in our firm. You know, basically they're more interested in how can we
+1:03:051 hour, 3 minutes, 5 secondsredirect some of that hot fintech crypto money from Dubai to the greater China region rather than what what can we
+1:03:131 hour, 3 minutes, 13 secondslearn and and I I I think the emphasis needs to be on the latter. What what what can we learn in in in this region? What are your thoughts?
+1:03:211 hour, 3 minutes, 21 secondsIn the arc of time over the past uh several years, the regulators in Hong Kong have become a lot better to work
+1:03:291 hour, 3 minutes, 29 secondswith from an industry perspective. They have been much more open. You know, the whole government did a real 180 um in
+1:03:361 hour, 3 minutes, 36 seconds2022. Uh pivoting towards digital assets. Um there's obviously a top- down agenda there. Um but when they came out
+1:03:451 hour, 3 minutes, 45 secondswith their various regulations, they were very um they were very restrictive and very tight. some of the uh the most
+1:03:521 hour, 3 minutes, 52 secondsownorous restrictions on on virtual asset providers have been have been dealt with, but I think it's still uh
+1:03:591 hour, 3 minutes, 59 secondsgot a um a sense of sort of shoehorning it into existing regulatory frameworks and uh although the regulators here are
+1:04:071 hour, 4 minutes, 7 secondsare much more open and and willing to have a dialogue, I I think the industry would probably still say that um the regulations could be too tight. So if
+1:04:161 hour, 4 minutes, 16 secondsyou look at the um virtual asset service providers that we have the licensed ones you know it's they're not major global
+1:04:221 hour, 4 minutes, 22 secondsnames um they're local players only uh they are um uh there I think they
+1:04:291 hour, 4 minutes, 29 secondsstruggle to make money uh you know so I think these will there might be reasons that those are there might be good reasons behind the way the regulations
+1:04:381 hour, 4 minutes, 38 secondsare structured but obviously it's it's it feels like it's been sort of designed to um uh to be very conservative. Um,
+1:04:471 hour, 4 minutes, 47 secondsand I don't know if they need to um, look to do look to the way that not just VAR because VAR is a special case, but I
+1:04:561 hour, 4 minutes, 56 secondsthink also ADGM might actually be a better model that doesn't get talked about because when we talk to the folks at ADGM, which is an established
+1:05:031 hour, 5 minutes, 3 secondssecurities regulator, it's not very old, but it's it's built as a securities regulator. Um and yet they found ways to
+1:05:111 hour, 5 minutes, 11 secondsum uh create platforms to attract uh things like Dows, decentralized autonomous organizations, the kind of foundations that are often at the the heart of of a the blockchain ecosystem.
+1:05:221 hour, 5 minutes, 22 secondsSo I think there's um that I I would look at how they've been able to fit that kind of innovative agenda into an
+1:05:291 hour, 5 minutes, 29 secondsexisting traditional setup. uh they they seem to have been able to just find a little more flexibility and willingness to work with the industry to come up
+1:05:371 hour, 5 minutes, 37 secondswith rules that are still reasonable. Uh overall, I think Hong Kong has actually done quite well over the past few years.
+1:05:451 hour, 5 minutes, 45 secondsthey have set up. We've got a few um you know uh ETFs into Bitcoin and Ethereum and there's uh there's now other
+1:05:531 hour, 5 minutes, 53 secondsexchanges that are licensed here and there's there's definitely things happening and the flows are here and I feel like the big the big advantage which Charles had mentioned earlier was
+1:06:011 hour, 6 minutes, 1 secondjust that the capital market here um the traditional capital market is full of people who are good at this kind of thing. Um and so there's it's easy to
+1:06:101 hour, 6 minutes, 10 secondsget people to come here and it's easy to to find business opportunities. Um, so I I do think there's there are core
+1:06:171 hour, 6 minutes, 17 secondsstrengths in in Hong Kong. Um, but uh but I do think they can also take a a page out of perhaps what what the the
+1:06:261 hour, 6 minutes, 26 secondsAbu Dhabi authorities have been doing and and see if they can make the regime here even more responsive.
+1:06:311 hour, 6 minutes, 31 secondsThat makes that makes sense. A a a uh a conventional securities regulator that happens to regulate crypto as well
+1:06:381 hour, 6 minutes, 38 secondsversus a crypto specific Yeah. specific regulator. So is is the war between
+1:06:451 hour, 6 minutes, 45 secondstradfi and DeFi dead? I mean is is is it is it is it meaningless to talk about the distinctions between the two?
+1:06:521 hour, 6 minutes, 52 secondsBecause increasingly one gets a sense that the barriers between the two are are permeable. I
+1:07:001 hour, 7 minutesthink they're still quite distinct although those barriers are are becoming um more translucent perhaps. um stable
+1:07:081 hour, 7 minutes, 8 secondscoins are going to be perhaps a change factor. Um that and that holds both a lot of excitement and also a lot of
+1:07:151 hour, 7 minutes, 15 secondsrisk. But I would note that on just on October 10th about two weeks ago, there was a a huge meltdown in the crypto
+1:07:221 hour, 7 minutes, 22 secondsmarkets uh primarily on on the Binance exchange. 19 billion dollars was wiped out. Um there were issues around um
+1:07:311 hour, 7 minutes, 31 secondsproblems with with oracles, with market makers, with automatic deleveraging um protocols. And so for people caught up
+1:07:391 hour, 7 minutes, 39 secondsin that, it was pretty bad. But uh I don't think anything happened in traditional finance. I don't think any single stock exchange cared. I don't
+1:07:471 hour, 7 minutes, 47 secondsthink the bond markets even noticed. So I think we're still at a point where things can go awfully wrong in crypto and it doesn't yet affect let's call it
+1:07:551 hour, 7 minutes, 55 secondsthe real world or the the traditional world of financial markets whether stable coins are going to change that as stable coins go from being a crypto
+1:08:021 hour, 8 minutes, 2 secondscapital market tool to becoming a globally uh a globally relevant form of payment
+1:08:101 hour, 8 minutes, 10 secondsfacilitation and perhaps other other uses that I think is something that everybody has to pay attention to. Sure.
+1:08:181 hour, 8 minutes, 18 secondsWhat what what I see on my side is depending of which part of the world you will see Tati and and and
+1:08:271 hour, 8 minutes, 27 secondscrypto being either starting to overlap and absorbing each others and some other part of the world they remain on their
+1:08:351 hour, 8 minutes, 35 secondslane. The US has been really impressive in in a in a matter of a few months.
+1:08:421 hour, 8 minutes, 42 secondsBlack Rockck launch these crypto ETFs which are uh probably the the most successful ETF launch of in in Black
+1:08:491 hour, 8 minutes, 49 secondsRockck history. Uh we see all the banks in the US uh adopting a stable coin and going all in for multiple reason. One
+1:08:571 hour, 8 minutes, 57 secondsreason is essentially to be to become a uh a systematic buyer of the of the government bonds from the American government. That's that's for another
+1:09:051 hour, 9 minutes, 5 secondsconversation. In other part of the world sometimes you feel and and probably in Hong Kong that's the case. uh yes, we need to do crypto. Uh we show to our
+1:09:141 hour, 9 minutes, 14 secondsleadership, we tick the box, yes, we have licenses. Um but maybe the KPI is to say, okay, we need to have a license
+1:09:211 hour, 9 minutes, 21 secondsavailable and we need to have like two or three licenses. Um what I feel in the UAE, the the KPI from the leadership
+1:09:301 hour, 9 minutes, 30 secondstowards the regulators is to say you need to issue licenses and I want to see business growth. I want to see people being employed. I want to see
+1:09:381 hour, 9 minutes, 38 secondsaumumumumumumumumumumumumumumumumumumumum uh competing at at global level with some other part of the world. Um so we
+1:09:461 hour, 9 minutes, 46 secondshave the same in Europe where people government issue licenses but eventually their license gets so much restrictions around this license that they they're
+1:09:551 hour, 9 minutes, 55 secondsnot in the in the game anymore uh really. Uh so it feels like yes this competition between uh between
+1:10:021 hour, 10 minutes, 2 secondsregulations is is happening in uh in different pace. uh different in in different part part of the world and and
+1:10:111 hour, 10 minutes, 11 secondsand some some places the lanes are still very well defined between uh crypto and
+1:10:181 hour, 10 minutes, 18 secondstrfy and some other part of the world uh the the overlap is and the absorption from tatfi of defi or vice versa is
+1:10:271 hour, 10 minutes, 27 secondsdefinitely happening. I think what we will see coming very quickly probably in the US first and Asia, not necessarily
+1:10:341 hour, 10 minutes, 34 secondsHong Kong, but other part of of Asia and and and the Middle East is um the fintech side of things becoming um some
+1:10:441 hour, 10 minutes, 44 secondskind of front end for for crypto and stable coin. And we will see kind of a fintech in the front and crypto at the
+1:10:531 hour, 10 minutes, 53 secondsback. And the reason this kind of um uh adds on to to fintech and banking in general will happen very quickly, it's
+1:11:021 hour, 11 minutes, 2 secondsthe the the very fast growth of of stable coins uh which are competing big time with the CBDC's. But they are they
+1:11:101 hour, 11 minutes, 10 secondsare offering really this new generation of money and the integration of the stable coin within the trafi banking system and within the fintex system uh
+1:11:191 hour, 11 minutes, 19 secondsis really this um this moment probably crypto the crypto industry was uh was was waiting for a long time. I guess we'll have to leave it there.
+1:11:271 hour, 11 minutes, 27 secondsAny um for closing remarks any final thoughts you might uh leave our listeners with?
+1:11:331 hour, 11 minutes, 33 secondsThe book is available in print and ebook versions on Amazon.
+1:11:371 hour, 11 minutes, 37 secondsVery good, Charles. Yes, absolutely. And please follow Jame, follow myself as well on social media. We're going to keep investigating this part of the
+1:11:451 hour, 11 minutes, 45 secondsworld, understanding how the crypto industry is evolving in the UAE. Uh so make sure you get some uh updates and
+1:11:521 hour, 11 minutes, 52 secondsnew uh bits of news from crypto in the UAE, following J and I on socials.
+1:11:591 hour, 11 minutes, 59 secondsGentlemen, thank you so much for your time. Thanks AJ. Thanks AJ.
+1:12:021 hour, 12 minutes, 2 secondsAnd to our listeners, thank you. Until next time.
+1:12:131 hour, 12 minutes, 13 seconds[music]
+1:12:191 hour, 12 minutes, 19 secondsHeat.

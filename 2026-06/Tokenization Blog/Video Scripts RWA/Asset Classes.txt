@@ -1,0 +1,221 @@
+0:099 secondsassets is maybe one of the largest and and uh most exciting areas of uh onchain finance. Uh I mentioned earlier in a
+0:1818 secondspanel that Larry Frink spent most of his time talking about real world asset tokenization. Uh I found that fascinating in and of itself that in a
+0:2626 seconds30-minute interview so much of his time was devoted towards even thinking it through. Um in this panel we're going to dig a little bit deeper since we have so
+0:3434 secondsmany uh really leading experts both in terms of market infrastructure but also from the regulatory standpoint. I'm going to let everybody do uh starting
+0:4242 secondswith Sarah to do their sort of name rank serial number uh descriptions of one another and then we're going to hop right into the topic. So Sarah,
+0:5050 secondsthanks. Uh Sarah Breeden, deputy governor uh financial stability at the Bank of England and responsible for our work on innovation and stable coins.
+0:5959 secondsHello everyone. Ebony Thompson, city solicitor for the B for the city of Baltimore. Uh basically just means that I head the law department and I've been
+1:061 minute, 6 secondsspearheading a pilot for us to record uh over 228,000 of our properties on Black.
+1:131 minute, 13 secondsGood afternoon. I'm Peter Hughes, CEO and founder of Apex Group. Uh we are a large asset service in 52 countries.
+1:211 minute, 21 secondsOkay, great. So, as you can see, oh man, I'm Edward. I'm sorry, man. I'm sorry.
+1:271 minute, 27 secondsNo introductions, but it was the great British accents that were lulling me into Yeah, sorry. Very quickly, Edward, CEO and founder of Zero Hash. Uh, we provide
+1:351 minute, 35 secondsstable coin tokenization and crypto infrastructure to um all sorts of financial institutions.
+1:401 minute, 40 secondsI was also thinking about some of the legal questions in the background about this. Okay, so let me just hop into this uh first with Sarah. So when you think
+1:471 minute, 47 secondsabout things um particularly from your perch and I love that you know your dual role I mean supervision and innovation that's a very unusual sort of confluence
+1:561 minute, 56 secondsof responsibilities over the bank of England um uh tokenization is obviously packaged in the conversation about uh
+2:042 minutes, 4 secondsmarkets and market efficiency uh but there are lots of different kinds of RWAs um where do you see the strongest
+2:112 minutes, 11 secondsuse cases for real world assets and uh since you have two hats uh that you wear
+2:182 minutes, 18 secondswhere are the risks that you see uh to be the most worrying worrisome. So great question uh and I can see use cases in
+2:262 minutes, 26 secondsmany different places retail payments wholesale payments crossborder uh payments but in this context uh
+2:352 minutes, 35 secondssettlement of financial market instruments at the bank we launched with the FCA our markets regulator a digital
+2:432 minutes, 43 secondssecurities sandbox last year that provides a regulatory framework for the private sector to come and set up
+2:522 minutes, 52 secondstrading ing venues and settlement systems for tokenized assets. Now, this is exciting because we're bringing real
+3:003 minutesuse cases for real world transactions in tokenized securities. Now, although it's called a sandbox, it really isn't. These
+3:093 minutes, 9 secondsare real live transactions. They're not prototypes. They're not experiments. Uh we've got 15 firms in the sandbox uh so
+3:183 minutes, 18 secondsfar and counting it's the established firms like Uracleair, HSBC, JP Morgan never heard of
+3:253 minutes, 25 secondsbut the small guys uh as as well and what they're doing is setting up infrastructure to to trade tokenized
+3:343 minutes, 34 secondsequities, corporate bonds, government uh bonds and I think you all may know the UK government is planning to issue a
+3:423 minutes, 42 secondsdigital tokenized government bonder guilt into the uh sandbox uh likely uh next year. And what this will do is
+3:513 minutes, 51 secondscreate faster, cheaper processes in financial markets, fewer intermediaries, less operational risk, shorter
+3:593 minutes, 59 secondssettlement windows, and smart contracts automating processes like coupon uh
+4:054 minutes, 5 secondspayments. It's really good to see this happening real live. Now the main risk I
+4:134 minutes, 13 secondsworry about perhaps we can come on to this later uh so I don't take up too much now is ensuring that we have the
+4:214 minutes, 21 secondsright cash leg what is the settlement asset that has the requisite safety and
+4:284 minutes, 28 secondsfunctionality to play the role of money in tokenized transactions. My view is that central bank money, our liabilities
+4:374 minutes, 37 secondsmust remain the settlement asset for the most important transactions in uh financial markets even as we see greater
+4:464 minutes, 46 secondsuh tokenization. That way we're not introducing potentially precarious and unnecessary interconnections in the
+4:554 minutes, 55 secondsfinancial system and to the other part of my job the financial stability risks.
+5:005 minutesAnd that's why in the UK we've launched a modernized wholesale payment system uh
+5:085 minutes, 8 secondsRT2 as it's known uh this year. Now we don't need central bank money for all transactions but having that platform there is helpful.
+5:175 minutes, 17 secondsWell that there was a lot in that and and and we're doing a lot. I get really annoyed when people think the UK is behind
+5:265 minutes, 26 secondsanyway [laughter] and relax. [snorts] Yeah. Uh, you know, I I I I think, you know, when you when you when you that
+5:345 minutes, 34 secondsthat scope of action was was was was really interesting and I am going to get back to both the the risk element and and still the continuum of that conversation as to what exactly is the
+5:425 minutes, 42 secondssettlement asset. And I already can hear in your answer frankly some evolution over the last couple years from central bankers about how do you frame that
+5:505 minutes, 50 secondsquestion and what your analytical lens is going to look like. But every, you know, uh, Ebony, I'm I'm so happy to have you here as well. So over at DC
+5:585 minutes, 58 secondsFintech Week, what we really enjoy is having great perspectives from different sort of use cases. Uh in the past, people who have been to the event will
+6:066 minutes, 6 secondsknow, I mean, we've had everyone, we've even included like epistemologists on what is the nature of reality. We really have people loved it uh in terms of you know, online digital um transactions.
+6:166 minutes, 16 secondsYour experience is very concrete, right?
+6:196 minutes, 19 secondsyou know, you're you're you are the solicitor for the city of Baltimore and you went on uh a project of trying to tokenize truly tokenize real world
+6:286 minutes, 28 secondsassets. Can you give us a little overview as to what that project was and and what was your objectives in in in
+6:366 minutes, 36 secondsthe city's lawyer thinking about digital assets?
+6:406 minutes, 40 secondsAbsolutely. Excellent question. So, this came about actually my first day um with the city in January 2022 where we had a
+6:486 minutes, 48 secondspress conference and we were unfortunately um discussing uh three firefighters that lost their lives uh battling a vacant property um in
+6:566 minutes, 56 secondsBaltimore City and it just collapsed on them um and they lost their lives and Mayor Scott uh took this problem uh at
+7:067 minutes, 6 secondsthat time we had as high as 17,000 vacant properties um and he said I want uh concrete um ideas and I want everyone
+7:157 minutes, 15 secondsto bring their ideas. I don't care what agency you're from. And that is what gave the law department an opportunity
+7:237 minutes, 23 secondsto weigh in on what we believe is not only just a housing issue but a public
+7:307 minutes, 30 secondshealth issue. And I proposed to them that we would a record our properties on
+7:377 minutes, 37 secondsblockchain. And it started out with our vacant properties, but it uh it was so popular um that we did the majority of
+7:467 minutes, 46 secondsour properties over 228,000 we have and now with the hopes of tokenizing them and I I know we'll go into that a little
+7:527 minutes, 52 secondsbit later, but it was it was really a about really combating a public health crisis. And then at the same time, of
+8:008 minutescourse, nationwide Baltimore is no different than that. We have affordable affordable housing crisis as well. Um, and we saw that these vacant houses were sources of blight, uh, sources of crime.
+8:118 minutes, 11 secondsUm, so they were connected to everything. And we were looking at, we couldn't say we were going to be serious about solving this problem if we weren't going to utilize every tool that was
+8:208 minutes, 20 secondsavailable. And we thought that blockchain was a critical tool, not the silver bullet, but as a if you build around that, that is one piece to allow
+8:288 minutes, 28 secondsus to tackle this problem. And uh, we're down to under 12,500 in in in and and and in trying to drive that number down.
+8:358 minutes, 35 secondsBut um that's that was the uh the source of how uh the head of the law department uh came to uh spearhead a a a project in housing.
+8:448 minutes, 44 secondsYeah. It's almost as as kind of unusual as you'd think if you had like a central banker doing supervision who was interested in innovation. I mean I mean
+8:528 minutes, 52 secondswhat are they going to come up with next? Um so you know when you are just sort of getting a sense I think as to sort of how these issues are seeping
+8:598 minutes, 59 secondsinto different policy um uh areas and and Peter you know coming to you now um
+9:069 minutes, 6 secondsApex is a major uh company works across lots of different asset classes and and
+9:129 minutes, 12 secondsand and services um uh I've traveled around a lot uh recently in in opening
+9:209 minutes, 20 secondsup uh you know conferences in the Middle East and and in and and in Latin America. And one of the things that both regulators constantly are are telling
+9:299 minutes, 29 secondsme, but also financial market participants is that they look at what should be tokenized based off of, you know, national advantage, relative
+9:369 minutes, 36 secondsadvantage, economic advantage, but also where the market um is in terms of their ability to take on on board uh and
+9:459 minutes, 45 secondsunderstand uh different products. So when you think about credit, commodities, real estate, uh they're all showing different forms of momentum,
+9:539 minutes, 53 secondsdifferent parts of the world. Um but how much of it is real in real world assets? Where do you see the hype? Where
+10:0010 minutesdo you see the possibility? Where do you see the u practical uh of shots?
+10:0610 minutes, 6 secondsYeah, I think it's difficult. Uh you there is a bit of hype out there and it's great to see a real use case making a difference. Um, you know, in in our world, you know, we we deal with a lot
+10:1410 minutes, 14 secondsof asset managers globally and they're trying to, you know, tokenize whether it's assets in their portfolios or tokenize their fund shares to create
+10:2110 minutes, 21 secondsextra distribution. Um, and you a lot of these projects are really the smaller end of town. So, you they don't actually get the critical mass because they
+10:2810 minutes, 28 secondshaven't got the institutional branding behind them. Um, but just really in the last sort of uh four or five months, you know, we have a part of our business called Apex Digital, which is everything
+10:3710 minutes, 37 secondswe do on chain. um you know that has just really expanded from 30 opportunities to 150 in the last three months and mostly it's around really
+10:4510 minutes, 45 secondswhat other asset managers trying to do to enable their distribution to be reformatted. Um so reformatted I mean
+10:5210 minutes, 52 secondswith a tokenized money market fund instead of being a normal money market fund this trades 247365 so you can imagine the value of actually
+11:0011 minutesthat that yielding all the time uh onchain and then you can collateralize against that. So some really strong use cases and we've got some really big
+11:0711 minutes, 7 secondsinstitutions looking at that now because of the perpetual trading but also the collaterization piece to it. Um you
+11:1511 minutes, 15 secondsthere is a real shift I think to to thinking about how do you we for example take a leading asset manager in their
+11:2211 minutes, 22 secondsprivate credit fund. You know I I can't invest into a Black Rockck private credit fund. It's a $5 million subscription. You get your money back in
+11:2911 minutes, 29 seconds10 years time. Um that's disappointing because actually it's quite a good product. But actually, if you can tokenize that and get that onchain and a
+11:3811 minutes, 38 seconds$10,000 subscription, everyone can participate in that. And I think that's going to be really valuable. But it hasn't happened yet. It it's about to
+11:4611 minutes, 46 secondshappen. And you get DeFi exchanges are happening to be able to trade these tokenized solutions. Um, so it's when it becomes institutionalized and what we call that is digital assets rather than
+11:5511 minutes, 55 secondswhat people are used to talking about, which is crypto, which is for the retail, the retail trading. and we're trying to institutionalize, move it away, make sure there's clean AML across
+12:0312 minutes, 3 secondseverything we do. Then it'll be used by corporates, you know, wealth wealth managers, retirement, even ultimately
+12:1012 minutes, 10 secondswhen regulators are comfortable, retail, uh, and that opens up huge doors into new markets
+12:1712 minutes, 17 secondsand and and the hypy areas. So we we we we we're hearing is is the hype if there's hype is I think that's that's
+12:2412 minutes, 24 secondsthat's that's a a good question you know like if there's hype where exactly it it resides and the reason why I'm asking again yes because this again Larry Frink
+12:3312 minutes, 33 secondsdroning on on on securization tokenization real world assets is so unusual uh because he was all for it um where do you think people get over over
+12:4212 minutes, 42 secondstheir skis just with assets that they can't actually sell they're trying to put into a different form so you get tokenized
+12:4912 minutes, 49 secondsYeah, wine, art, whiskey, you know, those sorts of products where, you know, it's not really legitimate in my mind.
+12:5812 minutes, 58 secondsGreat. Well, then that gets to a great question CEO of Zero Hash uh to ask um Edward here. So, what are the attributes
+13:0613 minutes, 6 secondsin your view then as to sort of uh products that are best for tokenization?
+13:1113 minutes, 11 secondsWhat are the kinds of things that you strategically think about?
+13:1413 minutes, 14 secondsYeah. So [clears throat] I think what's really important in this discussion is that we don't view tokenization and non-tokenized assets as um binary. These
+13:2213 minutes, 22 secondsthings can move between one and the other. So I'll make that really tangible for you. So with stable coins, I believe that they are the most powerful
+13:3113 minutes, 31 secondsmechanism to move money. what you may term money in motion but objectively right now in the US if you are able to
+13:3813 minutes, 38 secondshold a dollar balance uh money at rest effectively um a dollar balance a non-tokenized representation is
+13:4513 minutes, 45 secondsobjectively better for pretty much every person in this room the reason why in the US you will not be able to earn interest on that uh tokenized dollar you
+13:5313 minutes, 53 secondsare taking private credit risk against a company as opposed against to the US government and um you're you're not insured on those balances so I think
+14:0214 minutes, 2 secondsthat this distinction of what is powerful around tokenization and what's not. I really think it needs to be less binary. Um clearly with a dollar uh the
+14:1014 minutes, 10 secondsability to move 24/7 365 instantly anywhere in the world is incredibly powerful and that's where we've seen a huge uptick. So, one of our fastest
+14:1914 minutes, 19 secondsgrowing products is what we call our account funding product.
+14:2314 minutes, 23 secondsAnd this allows people to move money into, for example, regulated clearing houses or regulated broker dealers or indeed regulated funds like Bidd and
+14:3114 minutes, 31 secondsFranken Templeton that we power. The ability to move that from anywhere in the world, 365. Um, and that's incredibly powerful as you see the drive
+14:3814 minutes, 38 secondsof tokenization, you see the rise of 24/7 marketplaces. So for me it's about when in the life cycle of an asset does
+14:4614 minutes, 46 secondsit make sense to be tokenized and I think that that that matters and where we're seeing where it really matters is where you need to move value instantly globally 24/7 365 cheaply.
+14:5714 minutes, 57 secondsSuper interesting helpful um uh information. I guess I'll I'll I'll shift it back to you uh Sarah
+15:0515 minutes, 5 secondsparticularly when listening to this and for that matter uh Governor Waller who had sort of interesting comments to make about European approaches to uh crypto
+15:1415 minutes, 14 secondsassets. um you know what what kinds of of policy frameworks and guard rails help to enable uh what Edward's uh sort
+15:2315 minutes, 23 secondsof pointing to and and what do you think uh is really necessary if tokenization is going to again looking at your dual
+15:3015 minutes, 30 secondsmandate here is going to scale quickly but also address some of the risks that you were intimating in your first uh set of comments. So what's absolutely
+15:3915 minutes, 39 secondsfundamental here, Chris, is that we have safe and functional settlement assets that can support the activity that we've
+15:4815 minutes, 48 secondsjust uh been talking about. In some wholesale markets, settlement in central bank money is uh important for financial
+15:5615 minutes, 56 secondsstability, but in other markets, tokenized deposits and stable coins have got an important role to play. But it's
+16:0516 minutes, 5 secondson us as the regulator to make sure that those stable coins are safe. One of the
+16:1216 minutes, 12 secondsthings that we have been uh focused on as we've been designing our regime for systemically important stable coins,
+16:2116 minutes, 21 secondsthose that are used widely in the economy, is to make sure we're designing a regime that's fit for the future uses,
+16:3016 minutes, 30 secondsnot just the current uses. So supposing these uses take off, they're widely used, kind of how do we make sure that
+16:3816 minutes, 38 secondsmoney is safe. So what we've been doing at the Bank of England is offering to be the banker to the coin. The coin doesn't
+16:4616 minutes, 46 secondshave to go and try and uh put its uh balances with the institutions it's competing with. It can place its money
+16:5516 minutes, 55 secondswith us. We're offering to be a lender of last resort for it so that we can be
+17:0117 minutes, 1 secondconfident that the pound in the stable coin is worth the same as a pound in a bank account, a pound of central bank
+17:0917 minutes, 9 secondsmoney, a pound of tokenized uh uh deposits. And I think that is really important for ensuring that as these
+17:1917 minutes, 19 secondscoins scale, they are able to perform the function of of money. We could have a less uh a different regime to start
+17:2817 minutes, 28 secondswith, but I would worry that as they scale, we would then want to change the regime. And as we've learned in uh
+17:3717 minutes, 37 secondstechnology all over the place, retrofitting regulation as use takes off does not work. So, we're setting out a regime now that's fit for the future.
+17:4917 minutes, 49 secondsRetrofitting regulation doesn't work.
+17:5217 minutes, 52 secondsThat's that's I don't know maybe fits on a t-shirt but pretty darn close. Uh very interesting. So you again I like to make these things very very tangible and and
+18:0018 minutesEbony like you know when you're sitting here as the lawyer for the city of Baltimore right and you're hearing all these conversations you have a much more
+18:0718 minutes, 7 secondstangible sort of riskreward calculation that you have to make right you know on the one hand you can talk about financial markets but you're also
+18:1518 minutes, 15 secondstalking about real world applications of real world assets right how exactly did you go about thinking through and even
+18:2118 minutes, 21 secondsimplementing the uh uh you know putting these blighted assets on chain What efficiency gains were you looking at?
+18:2918 minutes, 29 secondsAnd from the risk perspective, uh were what if any sort of questions were in your mind? I mean, obviously for a a
+18:3618 minutes, 36 secondslawyer to hop into crypto assets or real world assets couldn't have been that easy.
+18:4218 minutes, 42 secondsOh, absolutely. Uh I I won't disclose how many people laughed at me when I brought up this uh [laughter] when I brought up this idea. Um and it
+18:5118 minutes, 51 secondsnonetheless coming from a lawyer, their top lawyer. But when I saw the need where we're looking at these vacant properties, we have 17,000 of them and
+19:0019 minutesthe majority of them are not owned by the city. So we had to first uh implement a in rim track within the circuit court so that we could actually
+19:0819 minutes, 8 secondsget these through the process of ownership so that the city could actually handle it faster than the foreclosure market which would be two to
+19:1519 minutes, 15 secondsthree years. Whereas in rim are properties that are underwater meaning that they have more leans than they are worth. Right? So the so the amount of
+19:2319 minutes, 23 secondstime we were able to cut that from uh two to three years, take them off to four to six months. So we're saving time there. The other piece where we were
+19:3019 minutes, 30 secondssaving time is since the the the city doesn't own that property and they have to acquire it, we're not in the business of rehabbing the property. We still have
+19:3819 minutes, 38 secondsto resell it to an investor and then that investor is going to rehab it and then sell it to the end user or the landlord. So our properties are changing
+19:4619 minutes, 46 secondshands relatively quickly, three times within maybe a year, year and a half.
+19:5019 minutes, 50 secondsSo, why are we doing title searches each time, right? Why are we not looking forward um instead of going back 50 years every time we have to do that?
+19:5919 minutes, 59 secondsEspecially when you have a housing crisis and you have a blight problem and you have 17,000 that you're trying to drive the number down. It just didn't
+20:0620 minutes, 6 secondsmake sense. Um especially legally um I was like this is this doesn't make sense. So, in terms of the efficiencies, the government could get behind that.
+20:1620 minutes, 16 secondsAnd I think when you present especially municipalities where I think if you're looking at mass adoption, you're going to need municipalities and counties to jump on this. Um you have to look at
+20:2520 minutes, 25 secondswhere they are hurting, right? And this is something this is something that that's concrete that everybody could get behind. But then as you expand because
+20:3220 minutes, 32 secondsthat's not where I wanted to go. I wanted that just to be the beginning. We know that um we know that Baltimore is
+20:4020 minutes, 40 secondsthe uh birthplace for redlinining. Um, and we know that a lot of these 17,000 properties, the majority of them are in
+20:4720 minutes, 47 secondsthese disinvested neighborhoods that have suffered from decades of banks not lending to them. And what we want to do is we want to ensure that the same
+20:5620 minutes, 56 secondsabuses are not repeated as we come up with products to combat that problem. So to to build those guardrails and to be
+21:0421 minutes, 4 secondsable to be usually on a lawyer, it's like on the back end like when we have the opioid settlements and we have record settlements for opioids, record uh settlements for ghost guns, the
+21:1221 minutes, 12 secondslawyers now are transitioning now to encode it on the front end the rights and the responsibilities um on the front
+21:1921 minutes, 19 secondsend. So we can say that local investment is first. The people that have been disinvestment and and and and lived through that for decades have the
+21:2621 minutes, 26 secondsopportunity first and we can encode that in the beginning. Um and and and then uh we we're we're we're basically encoding
+21:3421 minutes, 34 secondsequity and uh that not only helps us with our issue in terms of the blight, but it also helps us in terms of the
+21:4121 minutes, 41 secondsdisinvestment that we're suffering from in the city as well. Yeah, it's going to be really interesting because like you because I think you're really on the earlier end of things, but like
+21:5021 minutes, 50 secondsultimately if you really try to tokenize that asset, you know, to think about what uh you know, you're sort of hinting at what liquidity looks like, but but
+21:5821 minutes, 58 secondsultimately you're going to need um you know, more even more infrastructure to support that and and I and and to really get it get it going. Um I think just big
+22:0822 minutes, 8 secondsmeta question um for for Peter is that you I think right now and you see it whether or not it be with Ebony's work
+22:1622 minutes, 16 secondswhether or not you it's Sarah's work over at the Bank of England whether or not you see it with other smaller projects um you know in the sandbox and
+22:2522 minutes, 25 secondsand the like there's this question of experimentation and how do you sort of tinker with this
+22:3222 minutes, 32 secondsnew technology tinker with tokenization in a way that ultimately uh allows you to move past a pilot into broader
+22:4022 minutes, 40 secondsadoption for real world uh usage and also for financial markets for for for trading collateralization and and the
+22:4722 minutes, 47 secondslike. Um do you think that that tipping point is going to be driven by technology clarity on the regulatory end
+22:5422 minutes, 54 secondsbecause we're getting some now you know uh or is it some kind of new market demand? How do you weigh each of those sort of different drivers?
+23:0223 minutes, 2 secondsYeah, I think it's mostly regulatory, you I think once the technology exists, but I think people have built products you traditionally for the for the retail
+23:1023 minutes, 10 secondsside of things, you know, evolving from the crypto space, whether it's it's, you know, some really good stable coins like USDC that was, you know, that's that's
+23:1823 minutes, 18 secondson unpermissioned chain, uh, and it's got a proof of reserve monthly. Well, that's that's a retail product.
+23:2423 minutes, 24 secondsActually, if regulators then evolve that to say, well, actually have a daily proof of reserve, so you know the assets are sitting there. It's on permission
+23:3123 minutes, 31 secondschain so you know it's clean money going through it absolute constant AML around that then that becomes a quality product
+23:3923 minutes, 39 secondsthat can be used for corporate treasury and I think that that's the inflection point it's just that just little lift will allow regulators to feel comfortable that it's safe uh and and
+23:4823 minutes, 48 secondsthat's not much I mean the technology exists to do it uh and it's just a little tweak and then once I believe in five years time the corporate treasury
+23:5623 minutes, 56 secondswill all be stable coins of different types um you know And yes, there are some people out there who think it should be Bitcoin. I'm not one of those.
+24:0424 minutes, 4 secondsUm, but stable coins absolutely, especially if they're yield bearing and that that's coming through quite quickly. Can I just but I'm supposed to
+24:1124 minutes, 11 secondsonly ask questions but to maybe an observation one thing that I've seen is that the financial institutions themselves even if the a liquidity pool is
+24:1924 minutes, 19 secondsunregulated even if it's vignia is unregul like the financial institutions are right and even if there's no explicit permission or lack thereof
+24:2824 minutes, 28 secondsthere are operational risk charges that can apply to the financial institution in terms of how they either you know custody collateralize or
+24:3624 minutes, 36 secondswhatever whatever they're doing there are these kinds of things that are in in the back of their head regulatory clarity or not. And I kind of to double
+24:4424 minutes, 44 secondsclick on that. I think um providing the clarity is useful whether or not things are you know explicit or not. The
+24:5224 minutes, 52 secondsfinancial institution if you want to institutionalize the the the trading in the markets you you know that seems to be super important. We actually do have a little bit of time don't worry uh for you at um it's built in. It's built in.
+25:0425 minutes, 4 secondsUh okay, I'm going to try asking this question um from another another vantage
+25:1025 minutes, 10 secondspoint. Um what real world asset will ultimately be mainstreamed first given this question of regulatory
+25:2025 minutes, 20 secondsclarity? Um and also five years from now does that change? In other words, does the leading position of what is sort of let's call it the anchor real world
+25:2825 minutes, 28 secondsasset. Do do you expect to see uh let's call it the market reality catching up with the reg wherever the regulation ends up first or second
+25:3625 minutes, 36 secondseventually the best use cases are going to accelerate.
+25:3925 minutes, 39 secondsYeah. So maybe just dovetailing on the regulatory point. I think what's really important is [clears throat] looking back at history. So, one of our largest investors is Interactive Brokers. And
+25:4925 minutes, 49 secondsThomas, the founder, made his money effectively um uh by uh the electronification of markets. And when he first started, they literally did not
+25:5725 minutes, 57 secondswant algorithmic trading. So, what he built was a finger that would plug things in more quickly because that wasn't written into the rules, right?
+26:0426 minutes, 4 secondsSo, we were fearful of electronification. We're always fearful of technology to some degree because it's unknown. Um so, I think what the SEC has done in the US is really great.
+26:1426 minutes, 14 secondsthe underlying uh database doesn't ultimately change the underlying and I think that's a really important piece and regulators um it's not just law
+26:2326 minutes, 23 secondsmaking which matters it's also the implication that regulators give right um what I think happened over the last
+26:3026 minutes, 30 secondsfew years in the US was regulation by rulem regulation by enforcement and regulation by implication so these three things have all been pulled back and I
+26:3826 minutes, 38 secondsthink that the US is in an unbelievable position to take the lead I would say that we're not in a hypothetical world, right? Dollars are tokenized and maybe
+26:4726 minutes, 47 secondsthis will just prove a point. So dollars, they use tokenized dollars are used in all around the world. We we're
+26:5426 minutes, 54 secondsall excited we keep talking about them, but let me talk to you about the user experience as it exists today. Today, you have to decide on how many chains are um so you have to decide which
+27:0327 minutes, 3 secondsstable coin do you want to send somebody. So if I'm sending you a stable coin, do you want USDC? Do you want USDT? That choice is going to explode.
+27:0927 minutes, 9 secondsNumber two, on what chain do you want it on? And then thirdly, I need the native asset um to send that and then that needs to be interoperable interoperable
+27:1827 minutes, 18 secondswith the asset that you want to receive and also the chain that it needs to be received. So the UX friction today the usability is super high
+27:2727 minutes, 27 secondsand despite that stable coins have grown significantly. So that I think proves the value proposition and as we I think
+27:3427 minutes, 34 secondsthe biggest impediment to growth across all of the applications whether it be dollars or tokenized your bearing instruments is usability. As we bring
+27:4227 minutes, 42 secondsthe usability frictions down the adoption of this is going to explode even more and it's going to accelerate even quicker.
+27:5027 minutes, 50 secondsCan I be really cheeky? We have like spinner guy like he's like super powerful like one one thing interoperability ensuring
+27:5827 minutes, 58 secondsthings can interoperate with one another will help drive down those frictions.
+28:0428 minutes, 4 secondsSecond thing the more the regulators and the private sector work together the more that we convene and try and look at
+28:1128 minutes, 11 secondspractical use cases the quicker we'll be able to move. Well, it's good because as I moved right now to FINRA, I didn't
+28:1828 minutes, 18 secondsknow if I wanted to use the word explode as like the last thing to uh for for our conversation, but this was really interesting, extraordinarily
+28:2628 minutes, 26 secondsinformative. Um, right now I am delighted as we move off stage to welcome AWS's own Olivia Peterson. She's
+28:3328 minutes, 33 secondsthe person who literally made all this available to us uh and just uh was was a treat. and she'll be with Greg Rubbert,
+28:4228 minutes, 42 secondsthe executive vice president at FINRA, uh who is also uh hosting their own piece of DC FinTech week on October
+28:5028 minutes, 50 seconds17th, uh which is great and it's called Investing in a World with Social Media Influencers. So, I guess we'll all now
+28:5628 minutes, 56 secondsmove off stage and welcome the next uh session. Thank [applause] you.

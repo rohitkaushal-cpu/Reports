@@ -1,0 +1,647 @@
+
+Search in video
+0:00
+Yeah, it is not as I said it the question might sound easy but the
+0:05
+answers are not always easy uh with regard to new regulations or to new
+0:10
+frameworks. The Mika the Mika regulation is a European regulation which has
+0:15
+entered into force recently and which applies really to the regulation to regulating crypto assets but really the
+0:23
+cryptos assets which do not fall under the MIT regulations. So it's completely different. It's never black or white. So
+0:29
+we have four blockchain laws uh now in Luxembourg and the first objective of
+0:35
+those laws is to provide the financial sector the confidence to provide their
+0:41
+financial services on the blockchain and this law also introduces a new actor in
+0:47
+the financial market and uh the control agent is the third alternative to a TA system.
+0:55
+So devil is in the detail. So who can be a control agent? Hi everybody, welcome back to final blog
+1:02
+the podcast series on fund tokenization in Europe. Today I have a guest which is
+1:07
+Nadia Mzari. Nadia was the head of financial innovation and corporate
+1:12
+governance and payment services at CSSF. She decided to run her own law firm. So
+1:18
+if you want to have a good piece of advice, you know now where to go. And in her law form of course she's also
+1:24
+specialized in tech law financial and payment services and of course again
+1:29
+corporate governance and innovation. So welcome na. So thank you for joining us. So uh we
+1:36
+wanted to discuss certain kind of um um elements of what is tokenization in the
+1:43
+fund business in Europe and more specifically we're going to concentrate today a little bit around Mika
+1:48
+difference between Mika and uh um my laws or blockchain laws uh as well as
+1:55
+what is known and what is needed to become control agent. So let me maybe
+2:01
+start with the very first question. Can you give us a broad overview? What is the difference between the Mika laws and
+2:07
+the Mika regulations and the blockchain 1234 laws? Okay, thank you George. Um, the Mika the
+2:15
+Mika regulation is a European regulation which has been uh uh which has entered
+2:21
+into force recently and which applies really to the regulation to regulating crypto assets but really the cryptos
+2:29
+assets which do not fall under the MIT regulation. And I think we uh we already discussed this uh before. So um and the
+2:38
+blockchain laws are really so the mika regulation is a European regulation uh a European framework which has to be
+2:46
+uh implemented by every member states and the blockchain laws are specific Luxembourgish laws and with and those
+2:54
+those laws. So we have four blockchain laws uh now in Luxembourg and the first
+2:59
+objective of those laws is to provide the financial sector the confidence to
+3:06
+provide their financial services on the blockchain on distributed ledger
+3:11
+technologies. So that's the main objective goal of the blockchain law. So it's completely different. They do apply
+3:18
+they work both they both apply to the same I would say technology.
+3:23
+So to blockchain distributed ledgers, but the one the blockchain laws really apply to the traditional financial
+3:30
+services provided by financial services provider in Luxembourg
+3:35
+um on the blockchain and the the Mica regulation really applies to the crypto assets to the
+3:42
+and we going to discuss it later on I suppose what is a crypto asset according to Micah.
+3:49
+Um so we have as I said four blockchain laws. The first one was to uh the
+3:55
+objective of the first one was to provide uh legal certainty to the financial sector that we can transfer
+4:02
+and record record uh financial instrument on the blockchain. The second
+4:08
+one uh was more related to the issuance of the financial instruments on the blockchain. The third one was more minor
+4:16
+law which just confirmed was what what has already been uh stated uh by the
+4:22
+pilot regime by also European regulation and in this regulation uh the financial
+4:28
+the the European Commission. Finally after long debates I would say
+4:34
+10 years of debates more or less uh the European Commission confirmed in the pilot regime that we have a difference
+4:41
+between crypto assets. So between tokenized financial instruments which are also
+4:48
+considered as crypto assets but saying that those tokenized crypto uh financial
+4:55
+financial instruments as long as it is they qualify as a traditional financial instruments we do not
+5:02
+consider on what type of I would say technology they are issued
+5:08
+and they will they will still remain under the traditional financial laws applicable to those instruments.
+5:14
+And this has been confirmed uh by this pilot regime. And this has been uh implemented in the national law by
+5:20
+blockchain law 3. And blockchain law 4 I think is is I would say is just
+5:26
+complementing the whole picture saying no we and introduces. So first it
+5:31
+extends the uh the application of the
+5:36
+distributed and the usage of the distributed ledger technology the blockchain to also unlisted equity
+5:42
+instruments and uh uh fund units and shares. So that's the the the scope of
+5:48
+the instruments where we can where it applies on uh to sorry uh is is
+5:55
+broadened and this law also introduces a new actor in the financial market and uh
+6:03
+the control agent and what does the control agent is? So maybe Natalia
+6:08
+before we go into the control agent let us maybe first I mean the Mika let's go
+6:14
+back a little bit into Mika because Mika as you said is around crypto assets maybe can you if you could give us a
+6:20
+short definition then what the crypto asset would be um and then second is um
+6:26
+we have we had the Wasp um kind of licenses and now Mika introduces CASP
+6:31
+and is there a difference between Wasp and Casp would be my second question around the Mika ally or ma regulation.
+6:38
+Yeah. So coming back on your first question uh what is what is MIA and what are c crypto assets under mika or micah.
+6:45
+So as I said we have the confirmation that all the crypto assets who are who
+6:50
+define as financial instruments according to my as chairs fund all all
+6:56
+financial instruments as per the definition of mefit. If you tokenize them, if they if you issue them on the
+7:03
+blockchain, if you transfer them on the blockchain, that stays and remains my laws. Then we have specific crypto
+7:10
+assets, the ones who have been very popular over the last and gained in popularity over the last I would say uh
+7:17
+10 to 15 years. And those are crypto assets which we cannot fit in an
+7:23
+existing framework. Those are new financial assets I would say. Um
+7:30
+and it's not no but if I say no bitcoin then I'm wrong but it's say for example we have there the the crypto assets the
+7:37
+the asset reference token which is a crypto assets who is reflecting um the
+7:43
+value of a basket of different assets different crypto assets and different
+7:49
+currencies cryptocurrencies or stable coins that's a basket and then this asset reference tokens reflect this the
+7:57
+value of that basket. Then you have the e- money tokens which we also uh in the common name u is
+8:05
+more known under the stable coin. So if you have an a a crypto e-oney token that
+8:11
+means that you have a you are issuing a crypto asset or crypto e- money token
+8:16
+where the value is one to one backed with by the euro or another
+8:21
+currency and then in that ma regulation we have all the other providers the
+8:29
+exchange platforms uh falling uh who are trading crypto assets who are trading
+8:35
+bitcoins and and and other cryptocurrencies or crypto assets the
+8:41
+the transfer of of of crypto crypto assets is is uh falls under the CASP uh
+8:46
+regulation. So it's more all the it's the similar I would say all if you're providing advice on crypto assets which
+8:53
+fall under Mica you need a CASP license because uh it's it's uh
+8:58
+Mhm. you are advising on crypto assets. So this is
+9:04
+what is in the framework of the micica and now coming to your question wasp and cusp. So I already mentioned it uh micah
+9:12
+is also regulating um the the the activities of cusps. So
+9:19
+meaning all the investment services, investment advice, broker services related to crypto assets which do not
+9:26
+fall under the traditional MIT reg under the MIT regulation
+9:31
+and the Wasp has this is was I would say few years ago the first step of or the
+9:40
+first framework for
+9:45
+regulating virtual asset services providers. So I would say a wasp and a cusp is more or less the same. They are
+9:53
+all both service providers in crypto assets and at that
+9:58
+time we named that virtual assets and the vasp regulation which was not it
+10:03
+was it was an registration with the regulator. Um and why did it why has it
+10:09
+been uh introduced back at that time? Because for many years all over Europe
+10:16
+in most European countries not in Luxembourg very important to mention Luxembourg was the first country
+10:22
+regulating uh financial services based on your time at CSS was my time at CSSF.
+10:28
+So we we were in Europe the first country to regulate or to yeah to to
+10:35
+the first platform Bitcoin crypto exchanges has they have asked for a license the first license was issued in
+10:42
+2016 the second in 2018. So and why did we decide that back at
+10:50
+the regulator at that time? Because we at that time already realized that those actors were providing financial services
+10:56
+but based on different assets and it was even though it was difficult back at
+11:01
+that time to qualify the asset and that's what I I said that's why I said finally we got this confirmation MIFIT
+11:07
+assets remain within MIFIT and non-MIT crypto assets need a specific regulation. We we had taken this
+11:14
+decision back at that time saying okay they are providing a financial services. uh so even though the assets or even
+11:21
+though the product underneath is different the result is there is a
+11:27
+financial service and in Nuxburg we do not accept we want a level playing field for all the financial services provider
+11:34
+and that's why we uh required them to be regulated and then the next step was the
+11:39
+and for one main reason and then I I stop here one main reason was at that
+11:45
+time the risk of uh money launderings the risk of uh using this this crypto
+11:50
+assets, this type of payment, this type of uh yeah uh instruments to to
+11:57
+finance illegal activities. Those this risk was identified as being too high back at that time already. And then the
+12:04
+European European regulators followed two three years later by
+12:10
+specifically requiring those actors to at least have this moneyaundering regulation. But if my
+12:16
+understanding is now correct then in the future all wasps will bepus because there's no need anymore. So yeah that
+12:22
+was a long explanation. So so the the the what has started as a Luxembourg experience now gets a
+12:28
+European regulation which very often uh happens according to my last 20 years in in in this in the
+12:35
+financial sector. I I yeah I I have a few anecdotes like this
+12:42
+where we were the first mover in a lot of aspects uh and then afterwards EU
+12:49
+regulation followed. Absolutely. As part of regulators you can also be proud of innovation that you have realized and as you were of head of
+12:56
+innovation congrats for that. Um so we have now said okay um um euro stable
+13:04
+coins qualify uh under Mika. So anybody that would manage and um operate uh
+13:12
+wallets or issue um stable coins would be under the cusp uh and mika
+13:19
+regulation. So so far so good. Now let me formulate a question which is a little bit more challenging and that is
+13:26
+the following. We have said that everything which is MIT related
+13:31
+regardless of the technology that use remains MIT related and is not mikah. So
+13:36
+if I have a smart contract and I issue or I redeem for example as control agent
+13:44
+units of a fund um if I buy or sell units of a fund what I classically would
+13:51
+have is a moment in the smart contract where I have delivery versus payment. I
+13:56
+give a mfit security and I pay by euros. Now in a smart contract these euros they
+14:03
+have to be machine readable. So like euro stable coins. Now the question uh
+14:10
+would come if I as an control agent or as a party that is in in in buying and
+14:19
+selling my DT native securities. If I use your stable coins, am I still in
+14:27
+MIT? Am I in Mika? Do I need a Mika license according to your opinion? Yes
+14:32
+or no? I know the it's not an easy one this one. Yeah, it is not. As I said, it the
+14:38
+question might sound easy, but the answers are not always easy uh with regard to new regulations or to new
+14:45
+frameworks. I would say so you as an investment firm
+14:51
+being active in in that sector uh the your question would be would you qualify
+14:57
+would I qualify as as a payment services provider or as a cusp or as a uh crypto
+15:04
+asset services provider. Um I would say we Micah excludes uh
+15:13
+explicitly the MIT crypto assets which fall under MIFIT.
+15:19
+You are mainly down here providing a miffit activity as an investment firm
+15:25
+and even though you you are handling with the payment I would say we we would then
+15:32
+maybe fall under the exclusion that you are not directly providing a payment service but you are
+15:38
+just using that payment service on an access was activity access but it's no
+15:43
+it would not be wrong it would be wrong saying activity access but this payment services would not
+15:49
+would I I would I would imagine would benefit from from the exemption of the payment services law saying that
+15:55
+investment firms providing payment services do not fall under another requirement of of having a license but
+16:02
+of course we have then to assess the different models how you are setting this this this structure up uh are you
+16:08
+using wallets will you not using wallets are you purely relying on the smart contract I think it's never and that's
+16:15
+why I yeah it's never black or white I You really have to to really detail the
+16:22
+setup and and and structure your setup to make sure that in at no moment in
+16:29
+time you would be it would be possible then to individualize or to say individual saying okay you are wallet
+16:35
+provider because of or you are a payment provider. I payment payment services is I would say
+16:43
+more clear to exclude but handling of wallets for customers on behalf of
+16:49
+customers there you might be in a gray zone which you have to then clearly uh assess uh whether or not
+16:57
+you are in the scope of mica so devil is in the detail but always but
+17:02
+if there you can imagine that there is a setup where it is possible to um um run
+17:09
+smart contracts on MIFIT instruments without necessary a Mika license
+17:16
+if you take the exemption according to the payment services law um I would say yeah that's the way you
+17:24
+have to take it and saying okay I'm excluded as a as a I do not fall within
+17:29
+the within the payment services law because I'm an investment firm providing payment services to my customers in the
+17:36
+context of my business and when you take this I always say it's like masts so if it's excluded there um I do not see why
+17:45
+it should then why you it should then apply to you under another regulation because exactly so because as as you also have
+17:52
+said the CSSF but also the European Commission in meantime argued the technology neutrality.
+17:58
+Yeah. So in that sense it would fall a little bit under this neutrality. If if
+18:04
+it if it happens that um without DT it qualifies the right way then with DT it
+18:10
+should qualify the same if everything is the same. The exclusion should should should apply and you should not be considered as
+18:16
+being payment services provider within your activity. Of course, if you want to
+18:21
+run a stable coin apart or you run a wallet apart or in addition wallet or in
+18:26
+addition if you wish to to offer uh investment services on crypto assets
+18:33
+which fall under under mic then of course there is no doubt of course uh and you have to exclude also this
+18:40
+disqualification that you are not exchanging crypto asset against crypto assets but yet purely accepting payment.
+18:47
+Yeah. So let's then because that moves us a little bit into um the new kid on
+18:53
+the block if I dare to say which is blockchain 4. Um can you give us an a quick overview
+19:00
+on on blockchain 4 as you see it? Yeah. So as I said blockchain 4 is is
+19:06
+already broadening the scope to the asset to which we can now apply uh the
+19:12
+the or use the DT for which we can use the DT. But blockchain law 4 is also
+19:18
+introducing the control agent. What does what is the control agent allowed to do? He is allowed to maintain
+19:25
+the securities issues issuance account on the blockchain. Um
+19:32
+and and and and he which enables DT native issuance uh and direct wallet
+19:38
+based issuance of tokens and then it's okay. We say okay that's
+19:43
+nothing very extraordinary but what is fundamental the difference here towards
+19:50
+the traditional model we have in place with the central account keepers is that
+19:56
+contrary to the central account keeper you as a a control agent just is
+20:03
+handling the issuance account but does not need to have the custody account in
+20:09
+place either so that's the difference so to in the tradition traditional uh world
+20:15
+finance system. A central account keeper runs the issuance account and runs the custody
+20:20
+account and if I want as a uh financial service provider uh provide uh the
+20:28
+services to my customers, I need to have a custody account or sub or I need a subcustodian to have access to all these
+20:36
+services. So this it is facilitating a lot I would say. um and the the the
+20:43
+services are also more fluent. But with the blockchain there is also no specific need anymore to have those
+20:51
+dual model in place. Yeah. So, so then you also because there is this misunderstanding a little bit
+20:58
+that blockchain 4 is for digital TAS. You confirm to me also that it is
+21:03
+something different. It is the third alternative to a TA system.
+21:08
+Yeah. When I look to the when I when I look at when you have to take the scope of the law it applies. So who can be a
+21:15
+controlled agent? It is either a settlement organization, a bank or an investment firm. So
+21:22
+uh if you do not fall within that scope, you are you cannot apply for this. It is
+21:28
+not a specific license but for this authorization to act as a controlling agent for a control agent for the
+21:35
+issuance of token. So that brings yeah who is eligible you already stated it um
+21:42
+and so and also stated it is more an activity than an standalone authorization by itself. So another then
+21:49
+and and you specified right now either CSD or central um settlement organization you mentioned the banks you
+21:57
+mentioned investment firms. Now if we look at some existing TAs they are set
+22:04
+up as PSF according to you would they be eligible up front directly to um become
+22:10
+control agent? Um yeah the laws clearly says investment
+22:17
+firms um and I think you you you are talking about um turn to know the court which is uh
+22:23
+yes for example the the the people that are really just established as PSF it is not in when I read the law as such
+22:29
+it is not in the scope of that law because it really limits to investment firms so it's the first part of the PSF
+22:34
+that's why I was now a bit reluctant to answer your question because you know you have different yes
+22:40
+type of PSFs we have the one with the passport, the one without the passport to support PSFs.
+22:46
+Um, yeah, if if if No, they're not specifically included. I think it's
+22:52
+investment firm. Okay. So, and then the same Yeah. then Yeah.
+22:58
+And you would say also the same applies of course to then to the manos, AFMs and others. Yes.
+23:04
+Same reasoning. Absolutely. And I mean you have helped some people
+23:10
+uh amongst us also ourselves to become control agent or to you might deal with other files. Um um so um what are your
+23:19
+experiences um on becoming this license or obtaining this license? Is there
+23:24
+anything you want to share with um the public? So as I said it is not really uh
+23:32
+uh you you have you first you need already
+23:38
+to have a specific license to apply for for the control agent activity. you need
+23:44
+to notify to the CSSF two months in advance and um we agree both that we had
+23:50
+not a lot of guidance in the law uh on how we how to do this notification
+23:56
+and for me having experience in in in setting up licenses and asking for license extensions the normal way to
+24:02
+proceed was to say okay we have to reflect what is it going to impact on our business so that's what we usually
+24:08
+have to do you usually have to do when you are applying for a new license or if you want to provide by the new service.
+24:15
+Uh here it's kind more or less the same. What is it what is it going to impact in
+24:21
+my in on my what what is the impact on the setup going to be on my governance and
+24:28
+that's where you have to start then to to to yeah to to initiate the process saying
+24:34
+okay to apply or to notify to the CSSF I want to provide this service as a control agent. Of course, first thing
+24:40
+you need is experience in the blockchain and the blockchain. Yes, absolutely. Otherwise,
+24:45
+I can confirm which is very very useful. And then and then of course you need to
+24:51
+to show the CSSF that that you are experienced that you have already um uh
+24:56
+a certain track record of or track or experience in in
+25:02
+that domain in in that area. And then internally you have to reflect what type
+25:07
+of governance, what type of policies, what type of procedures, what type of um
+25:13
+yeah is it gonna is it going to impact internally. Then of course you have to
+25:18
+amend and you have to uh align your internal procedures um to this new
+25:25
+activity. You also have to reflect on do I need additional resources? How many
+25:31
+resources is is it going to u take me? How do how many resources do I need to
+25:38
+to to provide these services? And then you have to to to set up your file with
+25:43
+all this this information. I think usually you have to
+25:49
+amend a set of policies, procedures, uh provide business plan, uh provide a forecast of
+25:57
+the stuff similar to an to license request I would say, but in a
+26:03
+uh lighter version, lighter version, but it depends also if if you have to to restructure,
+26:11
+it depends on how how how the impact on your activity will finally be. So some entities uh and I usually
+26:20
+the experience is that if you are already experienced like you were if you
+26:26
+have already risk experience with issuance of of of tokenized funds then
+26:31
+of course it facilitates a lot. Yes. Yes. Because as the basic
+26:37
+assumption you is that you are already an investment firm generally on the
+26:42
+global kind of policies I think you you should hopefully be fit for investment
+26:48
+firms if you want to to provide these services and you don't have a blockchain the the the
+26:56
+technical knowhow yeah you have also to to think on how how how am I going to set up my
+27:03
+technical knowh Oh, uh, it's going to take longer than two months because you need to set up the whole infrastructure
+27:09
+before you go to the CSSF asking them to license and and according to you, have you seen
+27:16
+on CSSF being specific on requesting certain blockchains um be used or are
+27:25
+they really rather neutral on this kind of aspect? According to my experience, they are
+27:30
+neutral on that aspect. Okay. the experience that they they have some requirements on the security
+27:38
+um of of of the infrastructure and of the tool used but uh I have not
+27:45
+specifically know had an experience where the blockchain the type of blockchain was rejected maybe also
+27:52
+because most of them are yeah yeah of course I would think of course it's part of the more generic
+27:58
+kind as you say you have to know what you do you have to make sure it's Yeah.
+28:03
+And and starting from there and then from Yeah. And then Yeah. the resources, the funds, the capacity to
+28:10
+cover the activity. Cool. Thank you very much Nadia already for all these responses. Maybe the last
+28:17
+one. What do you prefer red or white? I would say white.
+28:23
+White. So I was lucky of my choice for today. As you know, we have this
+28:29
+tradition that we extend our blockchain um discussion on some uh wine
+28:36
+presentation and today I also wanted to present you a Luxembourgish
+28:41
+um wine. It is a a wine but more specifically it's a cremo and I would
+28:47
+say I at least it's my favorite. I think it's one of the best. It's Ali Sakman. I
+28:53
+don't know how you feel about Alisman, but definitely it is a very good Luxembourg product.
+29:00
+So, let's open the bottle. So, there is one advantage here. We don't need an opener.
+29:05
+That's a good choice. But, um I hope that we won't destroy any cameras
+29:10
+once we are there. So, apart of that, how do you see the activity on on on the entire um
+29:17
+blockchain kind of economy when it comes to financial services in Luxembourg?
+29:22
+Can you share a little bit? You see a lot of activity. I think you would say in French we would
+29:29
+say it's part. So there is a lot of interests very often, a lot of questions. I have a lot of yeah I would
+29:36
+say prospects trying to find their way uh and uh to provide services or
+29:43
+financial services via via the the infrastructure.
+29:49
+But it's still uh slower than I expected few years ago
+29:56
+where I was more where I was pretty convinced that in 2025
+30:02
+we would already be or have several act actors uh
+30:10
+or more actors uh acting or providing their services on
+30:15
+the blockchain. On the other side, um I have uh we have realized or we have had
+30:22
+over the last years a few interesting projects use with the usage of the
+30:27
+blockchain and on of tokenization. So it's I would say yeah it's it's
+30:33
+yeah I think getting traction but not as fast as I imagined. Yes, of course. I think the the thing is
+30:40
+um would be over have spoken like uh four years ago we would have imagined
+30:46
+more traction but um I've recently read a study on what it takes for technology
+30:52
+to um to proceed and and um and to become mainstream and of course there
+30:57
+are certain elements that I mentioned there and I found it very interesting when I saw it on blockchain. So the very
+31:03
+first thing uh was you need laws h you need laws to come.
+31:08
+So it took some time and our last law was the one that is was important. So
+31:15
+laws then second is you need regulators and regulation that cover this whole thing. So you can have laws but if the
+31:21
+regulators do not really want to apply them it's getting tricky. So we have now regulators that are ready and uh that
+31:28
+really want to go ahead and then you need one or two use cases that really go
+31:34
+on large scale and when I look at the black rocks the JP Morgans and all these
+31:40
+kind of guys they have now pushed for the large scale and I believe that makes
+31:46
+a certain and that generally if these all things are coming together then you would have um the kickoff that is needed
+31:54
+And I honestly believe that while it all it all took longer that we expected, I think we are now nevertheless pretty
+32:00
+much there because now this all these things are coming together and we are ready to go. So let's see what we have
+32:07
+in our glass. Cheers. Cheers.
+32:15
+Yeah. So I think that as a matter of fact there will be more movement. And I think the last piece that is really
+32:21
+missing was really missing was um large use of um digital currencies that can uh
+32:29
+facilitate um um transactions and that's one of the main blocking points. That's also what I see I've seen in in
+32:36
+many projects also three of or four years ago already that the the last I would say how do you say
+32:43
+it the last um building element in the whole model to make it fluid and as
+32:49
+fluid as everybody expect or instant I would say is this uh
+32:56
+digital currency or this this this the means of payment the means of payment to make something
+33:02
+which has legal tender you have to as you need three providers just to operate the payment of course
+33:09
+the whole system which even though the system is fluid if the payment is not fluent you cannot do your transaction in
+33:16
+way so that was the blogging point so maybe yeah that's the as I said as you said
+33:21
+and I and I think there the the genius act is for sure going to give the whole
+33:27
+thing by far more dynamism I hope and I hope that in Europe we are going to go
+33:33
+now also fast on that one. Um because um what we all want is to have a certain
+33:39
+independence in Europe and not relying only on on on US dollar stable coins. So
+33:45
+hopefully we will have a larger and also more um
+33:51
+an easier use of of all of stable coins. I mean they are there. can be used which
+33:56
+is good but an kind of genius to act for Europe would not be a
+34:02
+bad thing I would say and first amendment to Micah already.
+34:07
+Yeah. So uh Nadia thank you very much for you um to be here and remember T
+34:15
+plus Z is knocking at your door.
+

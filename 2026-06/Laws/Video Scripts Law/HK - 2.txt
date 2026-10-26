@@ -1,0 +1,1091 @@
+
+Search in video
+Introduction & AML/CFT Overview
+0:03
+Hello, everyone. I'm Julia Charlton and I'm delighted to be with you for this second webinar on Hong Kong Stablecoin Regulation.
+0:11
+Today, I'm going to be discussing first the Anti-Money Laundering and Counter Financing terrorist obligations of licensed stablecoin
+0:18
+issuers, including the requirements for travel rule compliance. I'll then take a look at the process for applying for stablecoin license,
+0:27
+the restrictions on offering specified stablecoins, and the various offences under the stablecoins ordinance.
+0:34
+Licensed stablecoin issuers are financial institutions for the purposes of the Anti-Money laundering and Counter-Terrorism Financing Ordinance,
+0:42
+which I'll refer to in this webinar as the AMLO, and they therefore have to comply with the anti-money laundering and counter-terrorism
+0:50
+financing requirements set out in schedule 2 to that ordinance. It's also one of the continuing licensing eligibility criteria under section 10 of
+0:59
+schedule 2 to the stablecoins ordinance, that a licensed stablecoin issuer must implement controls to prevent and combat money laundering and terrorist financing,
+1:08
+and ensure compliance with the requirements of the AMLO and all rules and guidelines issued by the HKMA to prevent, detect, or combat money laundering or
+1:18
+terrorist financing. In particular, licensed issuers must comply with the regulatory requirements set out in the HKMA's guideline on Anti-Money laundering and
+1:29
+Counter Terrorist Financing for Licensed Stablecoin Issuers,
+1:34
+and I'm going to refer to this going forward as the guideline. This sets out the regulatory requirements with which licensed stablecoin issuers must
+1:42
+comply in order to meet the statutory requirements under the AMLO.
+1:47
+Under the guideline, licensed stablecoin issuers are required to implement a risk based approach in designing and adopting anti-money laundering and counter-terrorism
+1:56
+financing, which I'll talk about as AML, CFT policies, procedures and controls.
+2:02
+Issuers must assess and understand their money laundering and terrorist financing risks to which they're exposed, and implement systems to manage and mitigate
+2:11
+them. Issuers need to conduct an institutional risk assessment to identify
+2:17
+relevant risks, taking into account customer, country, product and delivery channel risk factors,
+2:23
+and must put a process in place to keep the risk assessment up to date.
+2:28
+The results of the risk assessment and the AML CFT systems adopted must be approved by a
+2:34
+stablecoin issuers senior management, and the systems must be appropriate to the nature, size, and complexity of the stablecoin issuers business.
+2:44
+Stablecoin issuers must have appropriate compliance management arrangements to ensure their adoption of systems, to facilitate their legal and regulatory
+2:52
+compliance and management of money laundering and terrorist financing risks. The compliance management arrangements must include,
+2:59
+at a minimum, oversight by the stablecoin issuers, senior management and appointment of a compliance officer and a money laundering
+3:07
+reporting officer. The board of a stablecoin issuer or its designated committee and senior
+3:13
+management are required to have a clear understanding of relevant money laundering and terrorist financing risks, and have to ensure that they are managed
+3:21
+appropriately. The compliance officer has overall responsibility for establishing and
+3:26
+maintaining the issuers AML CFT systems, while the Money Laundering Reporting Officer
+3:32
+acts as the central reference point for suspicious transaction reporting. The individuals appointed to these positions must have sufficient expertise,
+3:41
+and both roles can be performed by the same person if this is appropriate given the issuer's size. Stablecoin issuers must also have an independent audit function with
+3:52
+sufficient expertise, whose obligations include independent reviewing their AML/CFT systems to ensure their effectiveness.
+4:00
+Stablecoin issuers are also required to screen potential employees to ensure the appointment of individuals with high integrity to AML/CFT roles.
+4:10
+Ongoing role specific staff training, tailored to the responsibilities of different job functions and experience levels, is required to ensure that staff can
+4:20
+implement properly the issuer's AML/CFT systems.
+Customer Due Diligence
+4:25
+Looking now at the customer due diligence obligations of licensed issuers, the guideline uses the term stablecoin holders to refer to holders of specified
+4:35
+stablecoins issued by an HKMA licensed stablecoin issuer. According to the guideline, licensed stablecoin issuers are required to
+4:43
+treat as customers persons with whom they have a business relationship and persons for
+4:48
+whom they conduct occasional transactions, which include the issuance and redemption of specified stablecoins.
+4:55
+In particular, licensed stablecoin issuers are required to conduct customer due diligence referred to in the guideline as CDD on specified stablecoin holders and potential
+5:06
+specified stablecoin holders before issue and redemption. The guideline specifies that CDD must be performed prior to establishing a business
+5:17
+relationship with a customer, and also prior to carrying out an occasional transaction, such as issuance or redemption, of specified stablecoins involving 8,000 HKD
+5:27
+or more. A licensed issuers CDD obligations are also triggered whenever it suspects a
+5:33
+customer's involvement in money laundering or terrorist financing, or at any point it doubts the veracity or adequacy of previously obtained
+5:42
+identification information. A narrow exception permits verification of a customer's identity after a business
+5:49
+relationship has begun, but only where it's necessary to not interrupt business. The associated risks of delayed identity verification can be managed,
+5:59
+and verification is completed as soon as reasonably practicable. Paragraph 4.3 of the guidelines sets out four fundamental CDD measures that licensed
+6:09
+issuers must undertake. First, the issuer must identify the customer and subsequently verify their identity using
+6:16
+reliable, independent source documents, data or information. Second, any beneficial owners of the customer must be identified and reasonable measures
+6:26
+must be taken to verify their identities. The third obligation is to obtain information on the purpose and intended nature of the
+6:34
+business relationship, unless that purpose is self-evident. Finally, if a person purports to act on behalf of a customer,
+6:42
+that person's identity and authority to act must be identified and verified as to the
+6:48
+specifics of identification and verification for a natural person, the licensed issuer is required to verify the person's full name,
+6:56
+date of birth, nationality, residential address, and unique identification number, for example,
+7:02
+their ID card number or their passport and document type. By obtaining photo bearing documents such as Hong Kong ID cards or passports or other
+7:11
+documents issued by reliable and independent sources. For a legal person, such as a company, the requirements include verifying its full
+7:20
+name, date and place of incorporation, registered office address, its unique identification number such as a BR,
+7:27
+business registration number or incorporation number. Current existence and powers that regulate it using reliable documents such as records of
+7:36
+registration, a certificate of incorporation or partnership agreement. The guideline has specific requirements for Non-face to face customer onboarding.
+7:44
+When a license is licensed, issuer's business model involves identifying and verifying a natural person through a remote channel,
+7:53
+such as a mobile application or the internet. The guideline requires it to either verify the customer's identity using data or
+8:00
+information provided by a reliable, independent digital identification system that has been formally recognized by the HKMA,
+8:08
+or use appropriate technology that is capable of ensuring the authenticity of the documents, data or information submitted electronically and of incontrovertibly
+8:18
+linking the natural person customer to the authenticated identity document.
+8:25
+In addition, licensed issuers must obtain supplementary customer information to manage
+8:30
+the specific risks associated with remote delivery. This includes, but is not limited to, IP addresses with associated timestamps,
+8:39
+geolocation data, unique device identifiers, and, where applicable, wallet addresses and transaction hashes.
+8:48
+For any customer that is a legal person, a licensed issuer is required to identify all
+8:54
+of its connected parties by obtaining their names. This includes individuals such as the directors of a corporate customer.
+9:01
+If a connected party is also a customer, a beneficial owner of a customer, or a person purporting to act on behalf of a customer,
+9:09
+the licensed issuer must also identify and verify that person's identity in accordance
+9:14
+with the guideline. A licensed issuer must identify and verify the identity of the
+9:20
+beneficial owner or owners of a customer. That's a legal person. A beneficial owner is the natural person who ultimately controls or owns the customer,
+9:32
+or on whose behalf the transaction is being conducted. This means identifying any natural person, i.e.,
+9:39
+an individual with a controlling ownership interest, which is defined as more than 25%, or who exercises control over its management.
+9:47
+If there is no such person, the licensed issuer must identify and verify
+9:53
+the identity of the senior managing officials. The licensed issuer must also understand the customer's ownership and control structure,
+10:01
+and obtain sufficient information to satisfy itself that there are legitimate reasons for
+10:06
+any complexity in the structure. For any person purporting to act on a customer's behalf,
+10:12
+the licensed issuer must conduct the identity and identity verification procedures required
+10:18
+for a natural person, and must additionally verify the person's authority to act on its behalf.
+10:26
+By obtaining documentary evidence, such as a board resolution.
+10:31
+Extent of the customer due diligence to be conducted on a customer must be determined
+10:36
+using a risk based approach, so that it is proportional to the money laundering and terrorist financing risks associated with particular customers.
+10:46
+Enhanced due diligence complying with the requirements of section 15 of schedule 2 to the AMLO is required for cases involving a high risk of money laundering or terrorist
+10:56
+financing. While simplified due diligence, complying with the requirements of section 4
+11:02
+of schedule 2 to the AMLO can be applied in low risk scenarios, provided that the level of due diligence aligns with the identified risks and is
+11:11
+supported by thorough risk analysis. Simplified due diligence cannot be used if the risk assessment changes to indicate
+11:19
+higher risks. If money laundering or terrorist financing is suspected, or if there are doubts about previously obtained identification documents or
+11:27
+information. A licensed issuer must also obtain senior management approval for
+11:34
+initiating or continuing any business relationships, presenting a high risk of money laundering or terrorist financing.
+11:42
+A licensed stablecoin issuer must establish and maintain effective procedures for
+11:47
+determining whether a customer or a beneficial owner of a customer is a politically exposed person or PEP.
+11:53
+This determination encompasses Non-hong Kong, PEPs, Hong Kong PEPs, and international organization PEPs.
+12:01
+The definitions of which are set out in the guideline. Where a customer or a beneficial owner of a customer is identified as a Non-hong Kong PEP
+12:09
+politically exposed person, the licensed issuer must take reasonable measures to establish their source of wealth and source of funds before establishing a
+12:18
+business relationship, or before continuing an existing business relationship where the individual's PEP status is discovered later.
+12:26
+Senior management approval is also required for establishing or continuing the business relationship. These requirements also apply to Hong Kong PEPs and international
+12:36
+organisation PEPs. When the issuer identifies a higher risk of money laundering or terrorist financing in the context of a business relationship with them.
+12:45
+In the case of former PEPs, licensed issuers can discontinue the enhanced measures if they conclude that the individual no longer presents a high money laundering or
+12:55
+terrorist financing risk after conducting an assessment. Licensed issuers must also apply enhanced due diligence measures to business relationships
+13:05
+and transactions with natural and legal persons from jurisdictions for which these measures are required by the Financial Action Task Force or the HKMA.
+13:16
+Where a licensed stablecoin issuer appoints a third party entity to distribute its
+13:21
+specified stablecoins, it must treat the distributor as its customer, conduct customer due diligence on it,
+13:28
+and apply a series of additional due diligence measures guided by a risk based approach. This additional due diligence requires the issuer to first collect
+13:38
+sufficient information to fully comprehend the nature of the third party's business operations. Secondly, it must determine from publicly available
+13:48
+information the entity's reputation and the quality and effectiveness of the AML,
+13:53
+CFT regime, regulation and supervision in its operating jurisdiction.
+13:58
+Finally, the issuer must assess the third party's internal AML/CFT controls and be
+14:05
+satisfied that their adequate and effective in mitigating the attendant risks.
+14:10
+If a licensed issuer can't satisfactorily complete CDD, it is prohibited from establishing a business relationship and from carrying out an
+14:19
+occasional transaction with the customer. If a business relationship already exists, the licensed issuer must terminated as soon
+14:26
+as reasonably practicable. In these situations, the issue is also required to consider whether the
+14:33
+circumstances warrant filing a suspicious transaction report with the Joint Financial
+14:38
+Intelligence Unit. A unique aspect of the guideline is its focus on wallet risk
+Wallet Risk Management
+14:44
+management, which extends beyond traditional CDD. The guideline requires licensed stablecoin issuers to manage the money laundering and
+14:53
+terrorist financing risks associated with the wallets their customers use to receive specified stablecoins on issue, or to return them to the licensed issuer on
+15:02
+redemption. Where a licensed issuer does not provide custodial services itself,
+15:08
+holders of its specified stablecoins will have to hold them in custodial wallets provided by custodial wallet providers, which may be financial institutions or
+15:18
+virtual asset service providers, which I'll refer to as VASPs, or in unhosted wallets, which are also commonly referred to as
+15:27
+self-hosted or self-custody wallets. The key characteristic of an Unhosted wallet is that its private key is held and
+15:34
+controlled by the wallet's owner. A significant regulatory concern pertaining to unhosted wallets is that they enable peer
+15:42
+to peer transfers of virtual assets without the involvement of an intermediary entity that is subject to AML and CFT obligations, which can be attractive to illicit actors or
+15:53
+money launderers. Under the guideline, a licensed stablecoin issuer must identify
+15:59
+each customer's wallet address and verify that the customer owns or controls it to
+16:04
+confirm ownership. The guidelines suggest performing a micropayment test or a message
+16:10
+signing test, or obtaining documentary evidence, such as statements of account from the custodial wallet provider.
+16:17
+The next due diligence steps depend on the type of wallet being used. If a customer's wallet is provided by a custodial wallet provider,
+16:25
+or is a self-hosted wallet used by a financial institution or VASP to hold their customers stablecoins, the licensed issuer must conduct due
+16:34
+diligence on the custodial wallet provider or self-hosted wallet provider. The required due diligence includes collecting information to understand the
+16:43
+nature of their business. Assessing from publicly available information,
+16:49
+their reputation and the quality of AML/CFT regulation and supervision to which their
+16:55
+subject in the jurisdictions they operate in, and evaluating the adequacy and effectiveness of their AML and CFT controls.
+17:03
+The extent of due diligence needs to be determined using a risk based approach. The guideline notes, however, that these due diligence measures do not need
+17:12
+to be repeated for every transfer on issuance or redemption for the same wallet addresses,
+17:17
+unless there is suspicion of money laundering or terrorist financing, or the issuer becomes aware or heightened of heightened risks associated with the wallet
+17:29
+service provider through ongoing monitoring for the highest risk scenario,
+17:34
+where a customer uses an Unhosted or Self-custody wallet other than one owned by a
+17:39
+financial institution or VASP to receive or return specified stablecoins. The licensed issuer is required to screen the wallet address to identify any transactions
+17:50
+directly or indirectly associated with illicit or suspicious activities or sources
+17:56
+or designated parties. If screening indicates a higher risk of money laundering or terrorist financing,
+18:04
+the issuer must implement additional control measures.
+18:10
+Before proceeding with the issuance or redemption of specified stablecoins, such as enhanced monitoring of stablecoin transfers involving the Unhosted wallet or
+18:20
+the imposition of transaction limits. Screening of wallet addresses is also required if the due diligence on a customer's
+18:27
+wallet with a custodial wallet provider cannot be satisfactorily completed, because the wallet provider is not subject to AML and CFT regulation to allow wallets to be
+18:38
+quickly identified. The guideline allows a licensed issuer to keep a list of customers wallets, addresses that have undergone all the required procedures.
+Ongoing Monitoring
+18:48
+Licensed stablecoin issuers are required to implement measures for ongoing monitoring to prevent stablecoins, including stablecoins in the secondary market,
+18:57
+being used for illicit purposes. The approach to monitoring suspicious activities must be tailored to the licensed
+19:04
+stablecoin issuers specific business activities. Operating structure and corresponding money laundering and terrorist financing risks.
+19:12
+Licensed issuers must continuously monitor their business relationships with customers in two key ways. First, they're required to conduct ongoing customer
+19:22
+due diligence, which must include reviews of customer documents, data and information previously obtained to ensure they remain up to date and relevant
+19:31
+issuers policies and procedures must set out how frequently these reviews are required to
+19:36
+be conducted, and must specify other trigger events for the conduct of reviews.
+19:42
+Secondly, listed issuers are required to conduct transaction monitoring, which requires scrutinizing customer transactions to check for transactions that
+19:51
+are not compatible with the client's business risk profile and source of funds. Steps should also be taken to identify and document transactions that are complex,
+20:02
+unusually large, or exhibit unusual patterns or lack an apparent economic or lawful
+20:08
+purpose, where the licensed issuer identifies transactions that exhibit these red flags,
+20:14
+or transactions involving wallet addresses linked with illicit or suspicious activities
+20:19
+or persons. They are required to take appropriate steps, such as examining the background and purpose of the transaction,
+20:26
+or obtaining additional customer due diligence to identify whether there are grounds for suspicion.
+20:32
+The guideline additionally requires licensed issuers to implement effective risk based
+20:38
+transaction monitoring systems at issuance and redemption of specified stablecoins to
+20:45
+enable them to identify and report suspicious transactions. They must additionally put in place systems and controls,
+20:52
+including appropriate technologies such as blockchain analytic tools, to screen transfers of specified stablecoins to and from customers,
+21:00
+and associated wallet addresses. The technology adopted must also enable licensed issuers to track stablecoins
+21:07
+transaction history and detect the destination of stablecoin transfers on issuance and the source of stablecoin transfers on redemption.
+21:16
+It must also enable licensed issuers to identify transfers involving wallet addresses
+21:21
+associated with illicit or suspicious activities, or designated parties.
+21:27
+Licensed stablecoin issuers remain fully responsible for AML/CFT compliance when using
+21:34
+third party technology solutions to screen stablecoin transactions and the associated
+21:39
+wallet addresses. Accordingly, before implementing the technology, issuers must conduct thorough due diligence on the solution's effectiveness.
+21:47
+Data quality, that is, the coverage, accuracy, and reliability of the underlying database and its limitations.
+21:54
+For example, limited reach of the blockchain, analytical tools, or inability to handle wallet addresses that use anonymity enhancing
+22:02
+technology. Stablecoin issuers must also monitor additional data,
+22:07
+including IP addresses with timestamps, geolocation data, device IDs, and metadata to identify suspicious activities.
+22:17
+If monitoring measures reveal. Heightened risks of money laundering or terrorist financing,
+22:25
+licensed stablecoin issuers must apply enhanced due diligence measures and ongoing
+22:30
+monitoring measures and take additional risk mitigation or preventative measures.
+22:35
+Licensed stablecoin issuers are required to implement adequate and proportionate ongoing monitoring measures to prevent the stablecoins that are in circulation from
+22:44
+being used for illicit purposes. The guideline notes that the inherent traceability of unchained stablecoin
+22:52
+transactions recorded on the blockchain may assist in identifying illicit activities and
+22:58
+associated wallet addresses. Stablecoin issuers can use various measures to counter the risk of stablecoins being used
+23:05
+for illicit purposes, including using technological solutions such as blockchain analytic tools to screen stablecoin transactions and associated wallet
+23:15
+addresses beyond the initial distribution on an ongoing basis. Blacklisting wallet addresses identified as sanctioned or linked to illicit activities,
+23:25
+and freezing the stablecoin if requested by a regulator, law enforcement authorities, or court order,
+23:33
+as it is currently uncertain whether these measures can effectively mitigate money laundering and terrorist financing risks.
+23:40
+The HKMA requires stablecoin issuers to adopt a cautious approach in assessing whether
+23:45
+their systems sufficiently mitigate these risks, particularly for peer to peer transfers between unhosted wallets,
+23:53
+unless a licensed stablecoin issuer can prove to the HKMA satisfaction that these risk
+23:58
+mitigating measures effectively prevent money laundering, terrorist financing, and other crimes.
+24:03
+The stablecoin issuer must verify the identity of each stablecoin holder, even if there's no customer relationship between them.
+24:11
+Alternatively, a stablecoin holder's identity can be verified by a regulated financial
+24:17
+institution or VASP, or by reliable third party.
+24:22
+Stablecoin issuers must conduct further investigation into any illicit or suspicious
+24:27
+activity, and report any transactions suspected to involve money laundering or
+24:32
+terrorist financing to the Joint Financial Intelligence Unit and take suitable follow up
+24:38
+actions as required by chapter 8 of the guideline. Chapter 6 of the guidelines sets out guidance for licensed issuers on how they should
+Travel Rule Compliance
+24:47
+comply with the travel Rule. That is, the requirements of section 13A of schedule 2 to the AMLO where a transfer of
+24:55
+specified stablecoins issued by the licensed issuer is within the definition of stablecoin
+25:00
+transfer, set out at paragraph 6.3 of the guideline, a transfer of a specified stablecoin will be within the definition if it is a specified
+25:11
+stablecoin, transfer by an ordering institution on behalf of an originator,
+25:16
+or to a recipient at a beneficiary institution, whether or not any intermediary institutions are involved in the transfer.
+25:24
+A licensed issuer may act as an ordering institution, a beneficiary institution, or an intermediary institution,
+25:31
+depending on its business model, and must observe the relevant requirements set out in the guideline according to its role.
+25:39
+Where a licensed stablecoin issuer acts as an ordering institution before performing a stablecoin transfer, it must obtain and record information regarding the originator
+25:49
+and the recipient. The required information comprises their name,
+25:55
+the number of the account or wallet address with the ordering or beneficiary institution from or to which the stablecoin transfer will be made,
+26:02
+or if there is no such account, the unique reference number assigned to the stablecoin transfer by the ordering or beneficiary institution.
+26:12
+Where the stablecoin transfer involves 8,000 HKD or more, the stablecoin issuer must also obtain the Originator's address,
+26:20
+customer identification number, or ID number, and, in the case of an individual, their date and place of birth.
+26:27
+For stablecoin transfers involving 8,000 HKD or more, the licensed stablecoin issuers must verify the Originator's identity and ensure the
+26:36
+accuracy of the required information about the originator, which means that the information must be verified as part of the stablecoin issuers
+26:45
+CDD process. For an occasional stablecoin transfer involving less than 8,000 HKD.
+26:51
+Verification of the originators identity is required only if there are several linked
+26:57
+transactions that together exceed 8000, or there is suspicion of money laundering or
+27:04
+terrorist financing. There is no obligation on the ordering institution to ensure the accuracy of the required originator information.
+27:12
+Ordering institutions must submit the required originator and recipient information
+27:18
+to the beneficiary institution before or at the same time as the stablecoin transfer.
+27:24
+The ordering institution must ensure that the required information is stored and submitted securely, that is, in a manner that ensures its integrity and protects it from
+27:34
+unauthorized disclosure. The required information can be sent directly or indirectly,
+27:41
+and it does not need to be attached to or included in the stablecoin transfer itself.
+27:46
+To ensure safe transfer of the information ordering, institutions must conduct counterparty due diligence to confirm that the beneficiary
+27:54
+institution and any intermediary institutions can protect data confidentiality and
+28:00
+integrity, and implement other appropriate safeguards, such as entering into formal agreements with counterparties or solution providers,
+28:09
+specifying data protection responsibilities using strong encryption during data transmission, and adopting robust information security controls against unauthorized access
+28:20
+or alteration. An ordering institution must not proceed with a stablecoin transfer unless
+28:26
+it can guarantee secured data submission. Based on these safeguards and counterparty due diligence findings.
+28:33
+Ordering institutions must keep records demonstrating their compliance with the requirements for submitting the required originator and recipient information to the
+28:42
+beneficiary institution, and provide these to the authorities when required. Intermediary institutions must retain all originator and recipient
+28:52
+information associated with stablecoin transfers, and transmit this complete dataset intact to the next institution in the chain,
+29:01
+whether that is another intermediary or the beneficiary institution. The requirements for the immediate secure submission of required information by
+29:10
+ordering institutions, which I just talked about, apply equally to intermediary institutions.
+29:16
+Onward transmission of the information. Intermediary institutions are also required to conduct counterparty due diligence on the
+29:24
+ordering institution and any other intermediary institutions, and must comply with the same record keeping requirements as applied to ordering
+29:32
+institutions. Beneficiary institutions must obtain and record all required originator and
+29:38
+recipient information submitted to them in relation to stablecoin transfers. They are also required to conduct stablecoin transfer,
+29:46
+counterparty due diligence measures on the ordering institution and any intermediary institutions for transfers involving 8,000 HKD or more.
+29:56
+Beneficiary institutions must additionally verify the recipient's identity,
+30:02
+if not previously verified by their customer due diligence process, and cross-check the recipient's name and account number provided against their own
+30:11
+records, and take reasonable risk mitigation measures if discrepancies are found.
+30:16
+Beneficiary and intermediary institutions must establish procedures to identify and
+30:21
+handle stablecoin transfers that do not provide the required originator or recipient
+30:27
+information. These procedures must include monitoring measures to detect non-compliant
+30:32
+transfers with missing information. Risk based protocols for determining whether and when to execute,
+30:39
+suspend or return stablecoin transfers with missing data and take other appropriate
+30:44
+actions. Steps to obtain missing information from the sending institution and if the
+30:50
+information is not provided, either restricting or terminating the business relationship with the ordering or intermediary institution involved,
+30:59
+or taking reasonable measures to mitigate the risks of money laundering and terrorist financing when provided with incomplete or meaningless originator or recipient
+31:08
+information. Beneficiary and intermediate institutions must implement risk mitigation
+31:13
+actions in accordance with their established procedures. Where licensed stablecoin issuers use technological solutions to comply with the
+31:22
+travel rule, they remain ultimately responsible for compliance. Before using a technological solution, a licensed issuer must conduct due diligence
+31:32
+to confirm the solution's ability to ensure the issuer's travel rule compliance.
+31:37
+This requires confirming that the solution can identify stablecoin transfer counterparties. That is the ordering, intermediary or beneficiary institution,
+31:47
+which is the counterparty to a stablecoin transfer involving a licensed stablecoin issuer. The licensed issuers due diligence on the technology solution also needs to confirm
+31:58
+that it can submit required information immediately and securely, receive required information, and detect whether the required information
+32:06
+provided by ordering institutions is incomplete or missing. Licensed stablecoin issuers should also consider various other factors,
+32:15
+including whether the technology is compatible with systems used by their counterparties, can transmit and obtain the required information immediately and securely
+32:25
+at scale across multiple counterparties, and whether it allows effective suspicious
+32:30
+transaction monitoring and sanctions compliance, including the freezing of prohibited transfers.
+32:37
+Other considerations are whether the technology facilitates stablecoin transfer, counterparty due diligence, and supplemental information requests,
+32:46
+and supports proper record keeping of the required information. If a licensed issuer opts to use a technological solution for travel rule
+32:55
+compliance, it should keep records of its due diligence on the technological solution.
+33:02
+The guideline notes that licensed stablecoin issuers conducting stablecoin transfers may
+33:08
+be exposed to money laundering and terrorist financing risks associated with the stablecoin transfer counterparties.
+33:15
+As I just mentioned, the term stablecoin transfer counterparty refers to the ordering
+33:21
+intermediary or beneficiary institution, which is the counterparty to a stablecoin
+33:26
+transfer. The extent of the risks will depend on the counterparties, customer types, geographic exposure and operational jurisdictions,
+33:35
+and the adequacy of AML and CFT controls in those jurisdictions to ensure compliance with
+33:42
+AML and CFT requirements and the travel Rule. Licensed stablecoin issuers are required to conduct due diligence on stablecoin transfer
+33:51
+counterparties before executing stablecoin transfers for stablecoin transfer
+33:57
+counterparties based in different jurisdictions, but belonging to the same corporate group.
+34:02
+The guideline requires due diligence to be conducted on counterparties as independent entities, but also requires an assessment of counterparties as a group to assess the money
+34:13
+laundering and terrorist financing risks they pose, where money laundering or terrorist financing risks are identified.
+34:20
+Licensed issuers must apply appropriate AML/CFT measures. Counterparty due diligence is required for the first
+34:28
+stablecoin transaction with the counterparty, but repeated due diligence is generally not required unless the licensed stablecoin
+34:36
+issuer suspects money laundering or terrorist financing, or is aware of heightened risks of money laundering or terrorist financing from its
+34:44
+ongoing monitoring of stablecoin transfers with the counterparty.
+34:51
+Counterparty due diligence is required to determine whether the transaction involves a stablecoin transfer counterparty or an unhosted wallet.
+35:01
+Identify the stablecoin transfer counterparty by reference to lists of licensed or registered financial institutions or VASP, and assess whether the stablecoin transfer
+35:11
+counterparty is an eligible counterparty to deal with and send the required originator or
+35:17
+recipient information to the licensed issuers. Due diligence on a stablecoin transfer counterparty should involve verifying its
+35:26
+identity using documents provided by a reliable, independent source, and reasonable steps to understand its ownership and control
+35:35
+structure. The licensed issuer should also collect information, enabling it to understand the nature of the counterparty's business,
+35:42
+analyze transaction characteristics and projected transaction volumes to ascertain the risk profile of expected transfers, and assess the counterparties reputation and
+35:53
+the quality of the AML/CFT, regulation and supervision to which it is subject. Other due diligence measures should include evaluating the sufficiency of the
+36:03
+counterparty's AML/ CFT controls and obtaining senior management approval.
+36:08
+Licensed stablecoin issuers due diligence must also assess whether a stablecoin transfer counterparty is able to comply with the travel rule,
+36:17
+taking into account whether the counterparty is subject to requirements comparable to the travel rule in the jurisdictions in which it operates,
+36:25
+and whether the counterparty's AML/CFT controls are effective in ensuring compliance
+36:30
+with the travel rule or comparable requirements. Stablecoin issuers should additionally assess whether the counterparties data privacy and
+36:39
+security controls can sufficiently protect the originator and recipient information.
+36:45
+The guidelines sets out factors that are considered to indicate that a stablecoin transfer counterparty may pose higher risks of money laundering and terrorist financing.
+36:55
+These include whether counterparty operates or is incorporated in a high risk jurisdiction, or one known to have weak AML/CFT regulation or is not a regulated
+37:05
+entity subject to AML/CFT regulation and supervision. Other factors indicative of higher risks are the counterparties failure to maintain
+37:14
+adequate AML/CFT systems, including measures for ensuring travel rule compliance, failure to implement sufficient data protection safeguards to ensure the
+37:24
+confidentiality and integrity of personal information, associations with money laundering, terrorist financing or other illicit
+37:31
+activities. The guideline also requires licensed stablecoin issuers to monitor their
+37:37
+stablecoin transfer counterparties on an ongoing basis to detect suspicious activities
+37:43
+and assess evolving risks. This requires them to adopt a risk based approach to the monitoring of stablecoin
+37:49
+transfers, to detect unusual activities or transactions, or changes in counterparties risk profiles.
+37:57
+Licensed issuers must additionally review the information obtained from their initial due
+38:02
+diligence exercise on a regular basis and on the occurrence of a trigger event, such as a sanctions listing, investigation for money laundering or
+38:10
+terrorist financing, or other regulatory action based on the results of its due diligence. A licensed stablecoin issuer must make risk sensitive determinations about
+38:21
+whether to continue to transfer stablecoins and required information to stablecoin
+38:26
+transfer counterparties and the level of AML/CFT measures to apply upon identifying
+38:34
+money laundering or terrorist financing risks through counterparty due diligence. Licensed stablecoin issuers must evaluate the potential impact of these risks on their
+38:44
+operations, and implement proportionate risk management and mitigation measures. These measures can include conducting enhanced or more frequent due diligence
+38:53
+reviews, closely monitoring relevant stablecoin transfers, and imposing transaction limits.
+38:59
+Licensed stablecoin issuers must continuously assess whether to maintain, restrict, or terminate relationships with high risk counterparties if the money
+39:09
+laundering and terrorist financing risks presented by stablecoin transfer counterparty
+39:14
+can't be effectively mitigated. The issuer must refrain from executing or facilitating any stablecoin transfers
+39:22
+involving the relevant counterparty. Specifically, under no circumstances where HKMA licensed stablecoin issuers conduct
+39:31
+stablecoin transfers with shell VASPs or Shell financial institutions,
+39:37
+licensed stablecoin issuers must implement enhanced controls for stablecoin transfers to
+39:43
+and from unhosted wallets before executing a transfer to or from an unhosted wallet.
+39:48
+For the first time, a licensed stablecoin issuer must obtain and record information
+39:54
+regarding the originator and the recipient for a stablecoin transfer to an unhosted
+39:59
+wallet. The required information comprises the originator's name, its account number with the licensed stablecoin issuer,
+40:06
+or the unique reference number assigned to the transfer by the stablecoin issuer,
+40:12
+the originator's address, customer ID number, or identification number, or, if the originator is an individual,
+40:19
+their date and place of birth, and and the recipient's name and wallet address. For transfers from an Unhosted wallet,
+40:26
+the stablecoin issuer must obtain the originator's name, wallet address, address, and customer identification number or
+40:34
+identification document number, or, if the originator is an individual, their date and place of birth.
+40:40
+It also has to obtain the recipient's name and its account number with the stablecoin issuer, or the unique reference number assigned to the stablecoin transfer by the
+40:49
+stablecoin issuer. The originator's address, ID number, and date and place of birth are not required for transfers involving less than 8,000 HKD.
+41:00
+Licensed issuers are not required to obtain originator and recipient information for peer
+41:06
+to peer stablecoin transfers between unhosted wallets held by persons who are not customers
+41:12
+of the issuer. They must, however, comply with the requirements for the ongoing monitoring of stablecoins circulating in secondary markets,
+41:20
+which I talked about earlier. Licensed stablecoin issuers must implement controls to ensure compliance with relevant
+Sanctions & Screening
+41:28
+legal and regulatory requirements on terrorist financing, financial sanctions and proliferation financing,
+41:36
+and must provide training to staff to ensure they understand their legal and regulatory obligations and those of the issuer to allow them to identify terrorist suspects and
+41:46
+designated parties and detect prohibited transactions. Issuers must maintain a database consolidating the names and particulars of
+41:55
+terrorists and designated parties and countries, individuals and entities, including included in relevant lists.
+42:02
+The database must include lists published in the Hong Kong Gazette or on the Commerce and
+42:08
+Economic Development Bureau website. Any United Nations Security Council resolutions and sanctions list related to
+42:15
+terrorism, terrorist financing and proliferation financing and lists specified
+42:20
+by the HKMA. The database must be promptly updated whenever changes occur and be readily
+42:27
+accessible to relevant staff. Licensed stablecoin issuers can subscribe to a third party service providers database,
+42:34
+but must implement appropriate measures, such as periodic sample testing, to ensure its completeness and accuracy.
+42:42
+A stablecoin issuer can also delegate the maintenance of the database or the screening process to its overseas office.
+42:49
+However, the ultimate responsibility for ensuring full compliance with relevant regulations and legislation remain with the stablecoin issuer.
+42:59
+Licensed stablecoin issuers must implement an effective screening mechanism to prevent
+43:05
+establishing business relationships or conducting transactions with terrorist suspects and other prohibited parties, including designated persons or entities,
+43:15
+anyone acting on their behalf or at their direction, and entities owned or controlled by any of these parties.
+43:22
+Screening must be conducted irrespective of the customer risk profile. Issuers are required to screen customers and their beneficial owners against the current
+43:32
+database, on issuing and redeeming stablecoins, and against any new or updated designations as soon as practicable.
+43:39
+They should additionally apply a risk based approach to screening connected parties of
+43:44
+customers and persons purporting to act on behalf of a customer. Parties to a stablecoin transfer must be screened against the current database before
+43:54
+the transfer is executed. If an incoming stablecoin transfer occurs without prior screening,
+44:00
+or if any required originator or recipient information is missing, stablecoin issuers must implement appropriate risk mitigation measures,
+44:08
+such as preventing the stablecoins being made available to the recipient until screening is
+44:14
+satisfactorily completed and document the measures taken.
+44:20
+When screening identifies possible name matches, stablecoin issuers must conduct enhanced investigation to confirm if they are genuine
+44:28
+hits and document all relevant records and results. Where there are suspicions of terrorist financing,
+44:35
+proliferation, financing or sanctions violation, licensed stablecoin issuers must make a report to the Joint Financial Intelligence
+44:43
+Unit in Hong Kong. Records of enhanced checking results and screening are required to be documented or recorded electronically.
+44:52
+If a licensed stablecoin issuer relies on its overseas office to maintain the database or
+44:57
+perform the screening process, it will remain primarily responsible for ensuring compliance with relevant laws and regulations on terrorist financing,
+45:06
+financial sanctions, and proliferation financing activities. Licensed stablecoin issuers have a statutory obligation under section 25A(1) of the Drug
+Suspicious Transaction Reporting
+45:16
+Trafficking Recovery of Proceeds Ordinance, the Organized and Serious Crimes Ordinance, and section 12(1) of the United Nations Anti-Terrorism Measures Ordinance,
+45:26
+to file a suspicious transaction report with the Joint Financial Intelligence Unit if they
+45:31
+know or suspect that any property represents the proceeds of drug trafficking or an
+45:36
+indictable offence, whether in whole or in part, and whether directly or indirectly was used as intended to be used in connection with
+45:45
+those offences or constitutes terrorist property. Failure to report carries a maximum penalty of three months in prison and a 50,000 Hong
+45:53
+Kong dollar fine. Revealing information to other persons that might prejudice an
+45:58
+investigation, including internal suspicions not yet reported, constitutes the criminal offence of tipping off.
+46:06
+Accordingly notifying a customer of a suspicious transaction report filing is strictly prohibited. However, legitimate customer inquiries made in good
+46:15
+faith are permitted to the extent they do not tip off the customer to ensure compliance
+46:21
+with their statutory reporting obligations and manage relevant risk, stablecoin issuers must implement AML/CFT systems that include appointing a money
+46:30
+laundering reporting officer as the main point of contact for internal reporting of suspicious transactions, and for communications with the Joint
+46:38
+Financial Intelligence Unit and enforcement authorities. AML/CFT systems are also required to include policies and procedures for internal
+46:48
+reporting, reporting to the JFIU, post reporting, risk mitigation and pre and preventing tipping off.
+46:57
+They should also cover providing guidance to staff on detecting suspicious circumstances
+47:02
+and recognizing indicators of money laundering and terrorist financing. Stablecoin issuers must monitor their AML/CFT systems on suspicious transaction reporting
+47:13
+on an ongoing basis to ensure they meet regulatory requirements and are effective.
+47:20
+Suspicious transaction reports must be filed with supporting information as soon as is reasonably practicable after the knowledge or suspicion arises,
+47:28
+and should be of high quality. Incorporating feedback from the Joint Financial Intelligence Unit and the HKMA.
+47:35
+After filing a suspicious transaction report. Licensed stablecoin issuers must conduct an immediate review of the relevant business
+47:42
+relationship. Implement risk mitigating measures such as freezing stablecoins if
+47:48
+required to do so by law enforcement agencies, and only continue the relationship if adequate risk mitigation and controls are in
+47:56
+place. Where necessary. The case should be escalated to senior management to determine how to mitigate legal
+48:03
+or reputational risks and the stablecoin issuers capacity to mitigate the identified
+48:09
+risks. Licensed stablecoin issuers must establish clear policies and procedures to
+48:15
+respond to law enforcement agencies requests, for example, search warrants and production restraint and confiscation orders effectively
+48:24
+and promptly. This includes allocating sufficient resources and designating a
+48:30
+dedicated point of contact when receiving crime related requests regarding a customer
+48:35
+or business relationship. Stablecoin issuers must promptly assess the risks involved and review the business
+48:41
+relationship to determine whether there is any suspicion of money laundering or terrorist financing. While keeping in mind that the customer may be a victim rather than
+48:50
+a suspect, licensed stablecoin issuers must maintain comprehensive records both to assist
+48:58
+in the investigation and prosecution of criminal and terrorist offences, and to demonstrate their compliance with the AMLO the guideline and HKMA directives.
+49:08
+Issuers must retain customer due diligence information. Stablecoin transaction records and other documents required to meet relevant
+49:16
+regulatory obligations. A stablecoin issuer must ensure that its records create a clear and complete audit
+49:23
+trail for all the funds it handles in relation to customers and stablecoin transactions, and that all CDD information and stablecoin transaction records can be
+49:34
+quickly produced to its auditors. The HKMA and other relevant authorities. These records should also demonstrate the issuer's compliance with the record keeping
+Record Keeping
+49:43
+requirements of sections 20 and 21 of schedule 2 to the AMLO,
+49:48
+the guideline, and other relevant HKMA guidelines. Stablecoin issuers must keep the required records for at least five years after
+49:56
+completion of the relevant transaction, regardless of whether the transaction is an occasional transaction, and of whether the business relationship will
+50:05
+terminate during the period where the transaction is made with a person with whom the stablecoin issue has a business relationship.
+50:13
+There is an additional requirement that records are kept for a minimum of five years after the business relationship ends.
+50:21
+Paragraph 9.4 of the guidelines sets out the documents and records that must be kept.
+50:26
+They include originals or copies of documents, and a record of data and information obtained when conducting customer DD,
+50:34
+including when identifying and verifying the identity of customers. Beneficial owners persons purporting to act on behalf of the customer and or other
+50:43
+connected parties of the customer, and when conducting ongoing customer DD and monitoring stablecoin issuers must also retain original or copy documents and records
+50:53
+of the purpose and nature of the business relationship, and documents relating to the customer's account and business correspondence with the
+51:00
+customer and any beneficial owner. That demonstrate the issuer's compliance with the AMLO.
+51:07
+Records must also be kept at the results of any analysis undertaken. For example, enquiries to establish the background and purposes of transactions that
+51:16
+are complex, unusually large, an amount of an unusual pattern, or that have no apparent economic or lawful purpose.
+51:23
+Stablecoin issuers must retain the required originator and recipient information they obtain or receive as ordering institutions, and complying with the travel rule for
+51:32
+stablecoin transfers to and from institutional counterparties.
+51:38
+They are also required to keep the required originator and recipient information they have to obtain under paragraph 6.41, in relation to stablecoin transfers to or
+51:48
+from unhosted wallets of customer stablecoin holders, issuers must retain the original of any document or keep a copy on microfilm or in a
+51:57
+computer database. Records consisting of data or information must be stored on microfilm or
+52:04
+in a computer database, regardless of the medium or location of CDD and stablecoin transaction records.
+52:10
+Record keeping must comply with the requirements of schedule 2 to the AMLO stablecoin. Issuers are required to maintain a register of all money laundering and
+52:19
+terrorist financing reports submitted to the Money Laundering Reporting Officer, which should include the reporting staff, staff involved in handling the report
+52:28
+assessment outcomes, whether a suspicious transaction report is subsequently filed with the JFIU, and information to enable the location of relevant documents.
+52:38
+A register of suspicious transaction reports filed with the JFIU must also be maintained,
+52:44
+containing the report dates, names of the reporting staff members and information to enable relevant documents to be located.
+52:52
+These two registers may be consolidated where operationally appropriate. If customer identification and verification documents are held by an intermediary that a
+53:03
+licensed stablecoin issue relies on for conduct of the stablecoin, SEO remains responsible for ensuring compliance with the record keeping
+53:11
+requirements. Accordingly, stablecoin issuers must ensure that any intermediary to which they outsource CDD maintains systems to comply with the record
+53:21
+keeping requirements of the AMLO and the guideline, and will provide documents and records to the stablecoin issuer promptly upon request.
+53:30
+The guideline additionally requires that if a stablecoin issuer relies on an intermediary to perform CDD, it must immediately obtain the data and information collected by the
+53:40
+intermediary, and must also ensure that the intermediary will transfer all documents and
+53:45
+records to the stablecoin issuers on termination of the intermediary services.
+Licensing Application Process
+53:51
+Turning now to the licensing application process for a stablecoin issuer license under
+53:56
+the ordinance. This is a structured, multi-step procedure. Prospective applicants are encouraged to begin with an informal,
+54:03
+preliminary consultation with the HKMA licensing team to allow them to gain an understanding of the applicant's background and business model,
+54:11
+and enable the applicant to clarify the regulatory expectations before committing to a formal application. For applications whose parent company is regulated overseas,
+54:21
+it's also crucial to consult with the relevant home regulator beforehand to prevent potential processing delays.
+54:29
+The formal application requires the submission of an extensive set of documents, as detailed in annex B to the HKMA explanatory note on licensing stablecoin
+54:38
+issuers. This includes completed application forms for the licensed applicant. Each chief executive and director and in the case of a non-authorized institution,
+54:48
+completed application forms for each controller and the stablecoin manager. Other documents required to be submitted include a three year business plan,
+54:58
+detailed corporate and ownership structure information, and a comprehensive suite of policies and procedures covering reserve asset management,
+55:06
+risk frameworks, AML/CFT and corporate governance that will enable the licensed
+55:11
+applicant to comply with the requirements of the Supervision Guideline and AML/CFT
+55:16
+guideline. During the processing phase, applicants should anticipate that the HKMA
+55:22
+may request additional information and may require the submission of independent
+55:27
+assessment reports to verify compliance with the regulatory requirements.
+55:32
+A formal decision to grant a licence, which may be subject to conditions or to refuse the application, will be made after review by a stablecoin
+55:41
+advisory committee. The HKMA will only grant a licence once it's satisfied that the
+55:46
+applicant will be able to comply with all the minimum criteria set out in schedule 2 to the
+55:52
+ordinance. Critically, entities must not publicly describe themselves as an applicant or behave in a manner suggesting they are an applicant until
+56:01
+a formal application has been submitted to the HKMA. Since this is an offence under section 154 of the stablecoins ordinance on granting a
+56:11
+licence, the HKMA will provide the successful applicant with a formal written notice stipulating stipulating the assigned licence number and the official date on which the
+56:21
+licence becomes effective. The HKMA will then update the public record by including the issuers details and the
+56:28
+official register of licensed stablecoin issuers, which is available on the HKMA website.
+56:34
+This register is maintained by the HKMA in accordance with section 21(2) of the Stablecoin Ordinance, and serves to make the entities license
+56:42
+status publicly verifiable. Once granted, a stablecoin issuer license remains in force until revoked,
+56:51
+where a license application is refused. The HKMA must issue a written notice to the applicant that details its decision and the
+56:59
+grounds for the refusal. A decision of the HKMA to reject a license application can be appealed to the Stablecoin
+57:07
+Review Tribunal. I'm now going to look at the second major activity regulated by the
+Offering Restrictions & Offences
+57:12
+stablecoin ordinance, the offering of specified stablecoins under
+57:17
+section 9 of the stablecoins ordinance. Only specified stablecoins issued by an HKMA licensed issuer can be offered to the Hong
+57:26
+Kong public. In addition, these offers can only be made by permitted Offerors, which are a limited list of entities that are themselves regulated by the
+57:35
+HKMA or the SFC. They include a licensed stablecoin issuer which can offer its own or
+57:42
+another HKMA Licensed issuers specified stablecoins. Virtual asset trading platforms licensed by the SFC under the AMLO,
+57:50
+a stored value facility licensed under Payment Systems and Stored Value Facilities Ordinance. An SFC licensed corporation with a type one dealing in securities license or an
+58:01
+HKMA Authorized institutions, such as a bank. Under section 6 of the ordinance a person is considered to offer a specified stablecoin if
+58:12
+they make a communication in any form to another person that provides sufficient information as to the specified stablecoin being offered,
+58:20
+the terms and conditions on which it's offered, and the channels through which it's offered for them to decide whether to acquire the
+58:26
+specified stablecoin. Specified stablecoins issued by unlicensed issuers,
+58:32
+where the issue is not prohibited under section 8 of the ordinance, can be offered by permitted offerors only to professional investors,
+58:39
+as defined under the Securities and Futures Ordinance by virtue of the Stablecoins Ordinance. Specification of persons for section 9(2)(B)(iii)) notice,
+58:50
+which specifies professional investors as a class of investors to whom specified stablecoins can be offered under section 9(2)(b) of the ordinance specified.
+59:00
+Stablecoins can only be offered to professional investors under section 9(2)(b) if their issue does not breach section 8 of the ordinance.
+59:08
+This means that the issue of the specified stablecoin must not constitute a regulated
+59:14
+stablecoin activity, and so the specified stablecoin must not be issued in Hong Kong,
+59:20
+and if issued outside Hong Kong, it must not reference the Hong Kong dollar.
+59:26
+This provision allows permitted offerers to offer stablecoins issued outside Hong Kong
+59:31
+that reference currencies other than the Hong Kong dollar, to be offered to professional investors in Hong Kong.
+59:37
+It therefore allows permitted offerers such as licensed virtual asset trading platforms
+59:43
+to offer specified stablecoins, such as USDT, to professional investors on their platforms.
+59:49
+Contravention of the restrictions on offering is a serious offence, carrying maximum penalties of a 5 million Hong Kong dollar fine and up to seven years
+59:58
+imprisonment, and a daily fine of 100,000 HKD for every day the offence continues.
+1:00:04
+The offence under section 9 covers both actual offering of specified stablecoins and
+1:00:10
+holding oneself out as offering specified stablecoins, in breach of the applicable restrictions.
+1:00:16
+Holding out additionally covers the act of actively marketing to the Hong Kong public that a person conducts an activity elsewhere which would constitute the offering of a
+1:00:25
+specified stablecoin if conducted in Hong Kong. This prevents an offshore offeror of specified stablecoins from actively marketing
+1:00:34
+its services to the Hong Kong public. In a further display of its regulatory reach,
+1:00:41
+the HKMA has the power to formally classify an overseas entity as a designated stablecoin
+1:00:47
+entity under section 101 of the stablecoins ordinance. This power applies to overseas entities that carry on a business of issuing specified
+1:00:56
+stablecoins not pegged to the Hong Kong dollar outside Hong Kong, or provide services to a stablecoin payment system regardless of the location of the
+1:01:07
+stablecoin payment system. The HKMA can only designate an entity if it is of the opinion that the entity's
+1:01:15
+activities are, or are likely to become, material to the monetary or financial stability of Hong Kong, or to its functioning as an international
+1:01:23
+financial centre, or if there are matters of significant public interest, a designated stablecoin entity must comply with certain requirements set out in section
+1:01:32
+107 of the ordinance. These include requirements that the designated stablecoin
+1:01:37
+entity must have operating rules that comply with HKMA regulations provide for the entity
+1:01:43
+to be operated in accordance with stablecoins ordinance, and provide appropriate and adequate arrangements to deal with the situation where
+1:01:52
+the entity is likely to become unable to meet its debts. A designated entity must also maintain appropriate and adequate financial resources,
+1:02:02
+and have in place and implement appropriate and adequate systems of control for reserve
+1:02:07
+management. Disclosures and risk management in relation to its issue of specified stablecoins or provision of services to a stablecoin payment system,
+1:02:16
+as the case may be. Failure to comply with the requirements of section 107 is an offence
+1:02:21
+which carries a maximum fine of 400,000 HKD. By granting the HKMA this authority, the ordinance provides leverage to ensure
+1:02:31
+that any major offshore player whose activities could pose a systemic risk to Hong
+1:02:36
+Kong, must either obtain a full licence or face formal designation, thereby becoming subject to the regulatory requirements of section 107.
+1:02:46
+It is an offence under section 10 of the Stable Coins Ordinance to publish an advert that holds a person out as carrying on a regulated stablecoin activity if that person
+1:02:56
+is not licensed by the HKMA or exempted from the licensing requirement.
+1:03:01
+Section 10 also makes it an offence to publish an advert that holds a person out as offering a specified stablecoin if that person is not permitted to offer specified
+1:03:11
+stablecoins under section 9(2) of the stablecoins ordinance.
+1:03:16
+An advert for these purposes is broadly defined to include all forms of advertising, whether oral, electronic or optical.
+1:03:24
+The offence carries maximum penalties of six months imprisonment and a 50,000 Hong Kong
+1:03:29
+dollar fine. Section 11 of the stablecoin ordinance establishes a criminal offence for
+1:03:35
+fraudulent or deceptive conduct in any transaction involving a specified stablecoin.
+1:03:40
+A person is liable if they directly or indirectly either employ any device, scheme or artifice with intent to defraud or deceive,
+1:03:48
+or engage in any act, practice or course of business that is fraudulent or deceptive, or that would operate as a fraud or deception
+1:03:57
+on conviction. This offense carries maximum penalties of a 10 million Hong Kong dollar
+1:04:02
+fine and ten years imprisonment, and the courts can also prohibit offenders from engaging in stablecoin related transactions for up to five years.
+1:04:12
+It's also an offence under section 12 of the ordinance for a person to make a fraudulent or reckless misrepresentation for the purpose of inducing someone to enter into an
+1:04:21
+agreement to acquire, dispose of, subscribe for, or underwrite a specified stablecoin.
+1:04:28
+The offence carries severe penalties, seven years in prison and a 1 million Hong
+1:04:33
+Kong dollar fine, highlighting the critical importance of ensuring that all communications relating to specified stablecoins are accurate and verifiable.
+1:04:42
+Section 154 and 155 of the ordinance address false representations about licensing status
+1:04:49
+at the application and licensing stages, and cover both express statements and implied
+1:04:54
+conduct. Section 154 prohibits a person who is not an applicant from describing
+1:05:00
+themselves in whatever terms as an applicant for a license. It also prohibits behaving or otherwise holding oneself out in a manner that
+1:05:08
+indicates, or is reasonably likely to be understood as, indicating that the person is a licensed applicant.
+1:05:15
+Section 155 prohibits a person who is not a licensed issuer under the ordinance, from describing themselves as such, and from behaving or otherwise holding
+1:05:24
+themselves out in a manner that indicates, or is reasonably likely to be understood as indicating that the person is a licensed issuer.
+1:05:32
+The maximum penalties for these offenses are $400,000 fines and two years imprisonment,
+1:05:39
+plus a further 10,000 HKD per day for a continuing offence. Part 8 of the ordinance contains various general offences.
+1:05:47
+Section 149 of the Stablecoin Ordinance makes it an offence to provide false or misleading
+1:05:53
+information to the HKMA, regardless of whether the information is provided voluntarily or in compliance with the requirement.
+1:06:01
+A person commits the offence if they know or reasonably to know that they are providing
+1:06:07
+information, including documents, representations or statements, whether written or oral, that are false or misleading in a material
+1:06:14
+particular, or if they omit a material particular that renders the information false
+1:06:19
+or misleading. Representation encompasses facts, future events, and states of mind.
+1:06:25
+Penalties on conviction include on summary conviction, a fine at level six and imprisonment for up to six months,
+1:06:32
+or on conviction on indictment, a fine of up to 1 million HKD and imprisonment for up to two years.
+1:06:39
+It's also an offence under section 150 to sign false or misleading books, accounts and documents that are produced to the HKMA.
+1:06:49
+Under section 153 it's an offence to wilfully make false entries, omissions or alterations in books of record or relevant documents related to a regulated
+1:06:58
+stablecoin activity with intent to deceive. The HKMA can revoke a stablecoin issuers license on various grounds,
+1:07:06
+which is set out in schedule 4 to the stablecoins ordinance. These include failure to comply with any of the minimum criteria set out in schedule 2 to
+1:07:14
+the ordinance, breach of any condition attached to issuer’s licence; Entering into or proposing arrangements with creditors such as compositions,
+1:07:23
+voluntary arrangements under the Bankruptcy Ordinance, or facing insolvency, winding up or dissolution.
+1:07:30
+Notifying the HKMA of impending inability to meet obligations, insolvency, payment suspension or business activity cessation or actual inability to
+1:07:41
+fulfill obligations or suspension of payments or licensed activities. Other grounds for revocation include failing to provide the HKMA with information required
+1:07:51
+to be provided under the ordinance. That's material in relation to the licensed issuer or its business methods providing
+1:07:58
+false, misleading or inaccurate information at any stage, ceasing licensed business activities, and failing to pay prescribed license fees.
+1:08:09
+So that brings us to the end of this training session. Bye and hope to see you again.
+

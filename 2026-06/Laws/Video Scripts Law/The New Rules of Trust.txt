@@ -1,0 +1,1509 @@
+
+Search in video
+0:09
+We are going to discuss stable coins and
+0:12
+law enforcement today. My name is Alex.
+0:14
+I'm Forbes contributor. We also have a
+0:17
+media named Coins Instagram first media
+0:19
+about ton and telegram ecosystem. And
+0:23
+I'm also documentary film producer. We
+0:25
+made film with Vitalik with CZ Justin
+0:27
+Sun like many top crypto people
+0:30
+participated and guys let's introduce
+0:34
+ourselves. So start please Floren.
+0:38
+Thank you very much. I'm Flor Flor. Um
+0:41
+very glad to be here. Thanks for the
+0:43
+invitation. So I'm a tech lawyer. Uh
+0:46
+I've been advising tech companies for
+0:49
+more than 15 years now. Uh I'm since
+0:52
+2017 advising foundations, exchanges,
+0:56
+dexes, every type of protocol in the
+0:59
+industry uh in Switzerland and abroad.
+1:02
+So I'm I'm Swiss lawyer but with a
+1:06
+background in uh uh IP and uh
+1:09
+structuring project for regulatory um
+1:12
+reasons, right? So and so I structured a
+1:15
+lot of tokens, lot of stable coins and
+1:18
+happy to be here. very interesting
+1:20
+background.
+1:21
+Thank you.
+1:22
+Hi, my name is Magnus Jones.
+1:27
+I am representing Nordic blockchain
+1:29
+association here. But uh I also used to
+1:32
+be the Nordic blockchain and innovation
+1:34
+lead at EY Ernst Young. started their
+1:36
+blockchain department back in 2015
+1:39
+working as a consultant by myself but uh
+1:42
+also doing a startup on digital identity
+1:45
+called comply once together with my
+1:46
+co-founder writers are here and I'm
+1:50
+working very broad uh when it comes to
+1:52
+digital assets everything from defi d
+1:54
+foundation the startups to governments
+1:56
+on the other side I'm also part of the
+1:58
+metavis expert group of interpool the
+2:00
+counterterrorism group of crypto for the
+2:02
+United Nations and also a crypto expert
+2:04
+for the OCE I'm also work with the banks
+2:06
+and trady in the whole range of the
+2:08
+ecosystem.
+2:10
+That's great. Hey, I'm Daniel Payne. Uh
+2:12
+I'm from the US. I'm a crypto attorney
+2:15
+in private practice. Uh this is my first
+2:18
+time at Davos. I am excited to see some
+2:20
+familiar faces from the round table
+2:22
+yesterday which was a lot of fun. Uh I
+2:24
+advise early stage uh crypto and
+2:27
+blockchain companies mainly on the
+2:28
+regulatory side. My background is in
+2:31
+securities. I spent some time in house
+2:33
+with uh some blockchain startups and um
+2:37
+uh really interested in the topic today.
+2:38
+Excited to be here.
+2:39
+Thank you.
+2:40
+Uh I'm Aaron Sanchez. I'm the director
+2:43
+of industry engagement at the Mika
+2:45
+Crypto Alliance. We are a nonprofit that
+2:49
+um provides the tools and gives clarity
+2:52
+and guidance to how industry can comply
+2:55
+today, particularly issuers and
+2:57
+exchanges and CASPs. Um but we also are
+3:00
+fortunate to have a deep bench of
+3:02
+researchers. So we also are looking with
+3:05
+an eye forward how can we help
+3:07
+regulators and bridge that gap between
+3:08
+the industry and regulators on how to do
+3:10
+more thoughtful regulation. Um yeah
+3:14
+excited to be here as well. And now the
+3:16
+person because of whom we are all here
+3:19
+gathered together Alona please tell us.
+3:23
+Thank you. Well, um this panel is
+3:26
+especially close to my heart uh and my
+3:28
+day-to-day work actually as AML officer,
+3:31
+Swiss A officer and the founder of uh G
+3:34
+capital which is the Swiss licensed
+3:36
+exchange in escrow and we are expanding
+3:38
+to the new regulation as well. So thank
+3:40
+you very much that you could all come.
+3:43
+It's going to be interesting panel.
+3:45
+Yeah. U mostly I see that we are all
+3:49
+have we have background in Europe. So
+3:51
+let's discuss Mika which happens this
+3:53
+year and right now we have very
+3:57
+interesting situation because um tether
+3:59
+which is the the most popular stable
+4:01
+coin mostly used all around the world
+4:04
+which is not legal in Europe anymore. So
+4:07
+what do you think uh guys about uh
+4:09
+stable coin implementation in Europe and
+4:12
+why should we use USDC not USDT here?
+4:16
+First of all to correct you Tether is
+4:19
+100% legal.
+4:21
+There's no illegal connected to Tether
+4:23
+not legal as payment method.
+4:25
+There are certain WASPs CASPs that
+4:28
+cannot trade it in terms of commercial
+4:31
+ad um activity but you can keep it, you
+4:34
+can store it, you can have it as a
+4:35
+custodian, you can use it as private
+4:37
+individuals and for other purposes. So
+4:40
+Tether is definitely part of the
+4:42
+ecosystem just to to clear that part.
+4:44
+that your question was regarding Tether
+4:47
+or USDC,
+4:49
+right? But you cannot use USDT as a
+4:52
+legal form of payment anymore.
+4:55
+Well, I I'll challenge you on that one.
+4:57
+You can use it and you will have to use
+4:59
+it also because
+5:01
+there's a matter of liquidity right now.
+5:04
+That's the stable coin that has the
+5:06
+largest liquidity in the whole wide
+5:07
+world. And I can challenge you further.
+5:09
+If you see the usage of the ecosystem,
+5:12
+we see liners now shipping cargo liners
+5:15
+skipping that the captain is carrying
+5:18
+actually US dollars cash and they're
+5:20
+using then tether because it's liquidity
+5:22
+and that also happens into European
+5:24
+ports and that's per se not illegal.
+5:26
+That's my point. I see where they're
+5:28
+going in terms of using it and doing it
+5:30
+on a trading platform. That's another
+5:32
+different part that Mika um restricts
+5:36
+but that's just because they haven't
+5:37
+registered and we happy to also go down
+5:39
+that route of why they haven't
+5:41
+registered.
+5:43
+All right, tell us please why they
+5:44
+didn't register because they don't want
+5:48
+60% of their backing stored in horrible
+5:52
+European banks that anyway will take
+5:55
+that euro and on the backend side change
+5:58
+into US dollars. That's the irony of the
+6:01
+whole thing. So, of course, Tether
+6:02
+doesn't put all their treasury into
+6:04
+Europe because there's also definitely
+6:06
+not a market for them here. That's the
+6:08
+easy part. That's why they go to Africa.
+6:10
+Do you have any other points like any
+6:13
+other views on this case?
+6:17
+Well, I think I think Ted is is having a
+6:20
+place since the beginning as as an
+6:22
+innovation company. So they were one of
+6:24
+the first stable coin issued um
+6:27
+centralized still but but like one of
+6:29
+the first use case um I think one of the
+6:32
+reason why they don't want to come to
+6:34
+Europe is that you cannot serve yield on
+6:37
+stable coins under Mika right so
+6:39
+basically one of the reason their
+6:42
+initial play was to take the underlying
+6:45
+and generate yield on the underlying
+6:47
+that's the big that's the big play but
+6:49
+but m most mostly and and I heard that
+6:53
+they were building also their own you
+6:55
+know uh chain with validators that could
+6:58
+also generate native yield on on the
+7:00
+token and that I think this is not
+7:02
+feasible under the EU regulation right
+7:05
+now so I think that that Paulo Aiano has
+7:08
+some plans to expand on on the yield
+7:12
+they they didn't want to comply with all
+7:14
+the heavy regulation in banks as you
+7:16
+said so I think the the and also they
+7:18
+they got pushed from the US so they they
+7:21
+had no reason to comply I with with Mika
+7:24
+at the moment. They they got kicked off
+7:27
+from from several exchanges in Europe,
+7:29
+but it's a small portion of, you know,
+7:32
+the trades that occur on on Tether
+7:35
+and they invested into a Maltese company
+7:37
+who's doing a stable coin who has a Mika
+7:39
+license, so they can pair it, i.e.
+7:41
+they're in there. So don't underestimate
+7:43
+these guys. They're smart.
+7:44
+So when do expect they are going to come
+7:46
+legally to be tradable here on
+7:48
+Never. They're not going to do it.
+7:51
+guaranteed 110%. That's why they go in
+7:54
+and do let it be light project in Africa
+7:56
+instead. It's a much larger market and
+7:58
+go and Latin and instead never going to
+8:00
+come in Europe guaranteed.
+8:03
+Yeah, it's probably a good time to jump
+8:04
+in with the the American perspective on
+8:07
+Mika and and Tether. It's a good point
+8:10
+because stable coin issuers don't just
+8:12
+have to worry about one jurisdiction,
+8:15
+even a large block like the EU. they
+8:17
+want to be global issuers and and be uh
+8:20
+compliant around the world. They've got
+8:23
+to worry about all the different regimes
+8:25
+and they've got to worry about holding
+8:27
+reserves in different areas. Uh they've
+8:30
+got to balance their risks and they've
+8:32
+got to generate as much yield as they
+8:34
+can. Uh the the American perspective
+8:37
+just briefly
+8:39
+uh for a couple years was hey the the EU
+8:42
+is beating us. They've they've figured
+8:44
+out Mika. Hey, they've gotten together.
+8:46
+They've got some consensus here. And
+8:48
+meanwhile, the Americans were, "Do we
+8:50
+even want a law? How are we going to
+8:52
+passively possibly have some consensus
+8:54
+on this?" And and through some uh you
+8:58
+know, crazy political things that happen
+9:00
+in America from time to time. We had uh
+9:02
+some consensus last year and came up
+9:04
+with the the Genius Act. I think
+9:07
+Tether's reaction to the Genius Act as
+9:10
+compared to the reaction to Mika is very
+9:12
+instructive and and uh I mean we could
+9:14
+talk more about Genius Act later but
+9:16
+their their plan is to comply. Uh and I
+9:19
+think it's a totally different regime.
+9:20
+So I think I think um different
+9:23
+geographies and jurisdictions are going
+9:24
+to be competing on stable coin
+9:26
+regulation.
+9:28
+Yeah, just to add a little perspective,
+9:29
+I mean it's interesting to take that in
+9:32
+account that Tether has chosen to not
+9:34
+operate in Europe. Now, what does that
+9:35
+say about Europe as a market? Um, and
+9:38
+so, but it's interesting that Magnus
+9:40
+brings up that they're trying to go
+9:41
+around. And so, that's that's the play
+9:43
+that they're they're going to enter into
+9:46
+the market, but you know, when you see
+9:47
+how the US is regulating it and then the
+9:50
+and Europe and the Europe side, um, we
+9:53
+work with a few different
+9:55
+um,
+9:57
+sorry, I lost my train of thought. Can I
+9:59
+skip that one?
+10:01
+No, no, Peter.
+10:03
+I don't think that there is more to add
+10:05
+to this particular topic, but I would
+10:07
+like to have another kind of line or or
+10:10
+or line of discussion because the stable
+10:13
+coins uh with tether everything is plus
+10:16
+minus clear and now with your
+10:17
+explanation is even clearer. But what's
+10:19
+going on with stable coins and for me as
+10:20
+a officer in Switzerland that's I think
+10:22
+very interesting to to discuss and to
+10:25
+listen and Florian your opinion. And uh
+10:28
+I know but I think everybody would love
+10:30
+to know too.
+10:33
+Uh yeah so basically uh in 2024
+10:37
+Switzerland came up with the stable coin
+10:40
+guideline right where they they they
+10:42
+they were perceived as anti-stable coin
+10:46
+in a way that they they their
+10:48
+requirement was to trace and and avoid
+10:52
+any anonymity on the transaction. So be
+10:54
+able to trace all the transactions even
+10:57
+from uh after the issuer to the initial
+11:00
+buyer. They had to like the requirements
+11:03
+from a compliance perspective was to
+11:04
+trace further and and this requirement
+11:07
+um was very badly perceived and and
+11:11
+positioned I think Switzerland in a
+11:13
+position where it didn't want to to be
+11:16
+just because of of in my opinion a
+11:18
+technological mistake of the regulator.
+11:21
+Now we had last year a new report from
+11:24
+the federal council in Switzerland where
+11:26
+they tried to nuance this approach
+11:28
+saying well if you are a stable coin
+11:31
+issuer and you can just you know
+11:33
+blacklist some addresses that are
+11:35
+sanctioned and you can make sure that
+11:37
+you can whitelist the address with which
+11:40
+the the issuer is interacting then you
+11:43
+can still comply with the FATF rules and
+11:46
+travel rules and you can still be
+11:48
+compliant. So this is a a new approach
+11:51
+that is is making Switzerland again an a
+11:55
+good place in my opinion to issue stable
+11:58
+coin from. Um of course Switzerland is
+12:02
+focusing on AML compliance
+12:04
+and and not that much on any other topic
+12:07
+that uh the European Union is focusing
+12:10
+on. Um the structuring that I generally
+12:14
+uh propose to for stable coins is using
+12:17
+a trust model because um basically you
+12:20
+can use a common law trust and have
+12:22
+Swiss trustees that hold the underlying
+12:24
+asset. Um that way you're not subject to
+12:27
+all the banking uh problem and
+12:30
+regulation of being yourself as a stable
+12:32
+coin issuer subject to a banking
+12:34
+regulation and you're not subject if
+12:37
+there's no redemption claim uh subject
+12:40
+to Swiss banking regulation. So this is
+12:43
+a very elegant and nice way to have the
+12:45
+underlying in in a trust held by a Swiss
+12:49
+trustee with the Swiss branding and and
+12:51
+issue it on the FINMA compliance. But
+12:54
+yes, of course, we need to be able to
+12:57
+have an infrastructure
+12:59
+um that is not a private blockchain uh
+13:03
+like they were requesting before, but
+13:05
+have a public blockchain with
+13:07
+whitelisting and blacklisting mechanisms
+13:09
+and freezing mechanisms and banning
+13:12
+mechanisms if you are Swiss issuer of
+13:15
+stable coin. So, this is my take on it
+13:18
+at the moment. um it's it's not a
+13:21
+regulated activity to do that still but
+13:24
+it's coming I suppose for 2027
+13:27
+where there will be a license for
+13:29
+becoming a a Swiss uh stable coin issuer
+13:32
+uh it's like a new form of fintech
+13:34
+license if you wish
+13:39
+I think uh not to comment specifically
+13:41
+on that one but to just to the clarity
+13:44
+point in the audience because what you
+13:46
+talked about is covering certain types
+13:48
+of stable coins. Right now, we're
+13:51
+throwing out stable coins as it's one
+13:53
+thing.
+13:55
+How many here in the room can name me
+13:57
+two different types of stable coins?
+14:00
+Three different,
+14:01
+four. What is behind them? You know, is
+14:05
+it pure fiat dollar? Is there a mix in a
+14:07
+bundle of some real world assets? Is it
+14:09
+gold? Is it a mix and a bundle? Is it
+14:11
+cryptocurrency? Is it synthetic towards
+14:13
+a DeFi ecosystem? I could go on. It's
+14:17
+totally different things we're talking
+14:18
+about in terms of regulation and what
+14:20
+we're asking for. We are at the level
+14:22
+where we're talking about central bank
+14:24
+like digital currencies. There's no such
+14:26
+thing. Is it wholesale? Is it retail?
+14:28
+The same applies for stable coins. We
+14:31
+also lack out on you know tokenized bank
+14:34
+deposits which goes underneath the
+14:36
+umbrella. So I think it's very important
+14:38
+here to distinguish between the
+14:40
+different asset classes that we're
+14:41
+talking about and also be very realistic
+14:44
+towards the level where we are with
+14:45
+stable coins right now. This is the
+14:48
+sixth panel in the walls that I'm
+14:49
+talking about stable coins. I've hosted
+14:51
+two roundts myself on stable coins and
+14:53
+the same thing. It's a very hot topic
+14:56
+but we need to be clear about what we're
+14:58
+talking about because it's the niche
+14:59
+elements of the regulation that we need
+15:01
+to go into if you are able to make it
+15:03
+happen. And I can assure you the general
+15:06
+audience are thinking, "Oh, when can I
+15:08
+go with my stable coin and buy Coca-Cola
+15:10
+at 7-Eleven here, while all the banking
+15:12
+and financial institutions, they're not
+15:15
+covering that area. That's not a focus
+15:16
+area. It's back office handling in terms
+15:19
+of bankto bank that matters for them of
+15:22
+the large quantum of values. So I think
+15:24
+that's also a thought we need to have in
+15:26
+mind in terms of what we are asking
+15:28
+begging for towards actually the need
+15:30
+and the request there. So I think that's
+15:32
+why it's very important to have
+15:33
+organizations like the Mika crypto
+15:35
+alliance who drives policy towards this
+15:37
+one on the right areas and is actually
+15:40
+able to find and figure out the
+15:42
+different attributes of the different
+15:43
+tokens which is the niche to actually
+15:46
+understand uh what we are talking about
+15:49
+there just to bring call it the the
+15:51
+level of complexity that we're talking
+15:53
+about
+15:54
+and going off that I mean that's part of
+15:56
+the problem is there's three boxes to
+15:58
+classify all the tokens and there are
+15:59
+many tokens that blend in between and so
+16:02
+one of the things that we try to do is
+16:03
+provide that research so that there is a
+16:05
+I've been calling it a research bible
+16:07
+and this I think would apply for the US
+16:09
+like what is decentralization how do you
+16:11
+measure that and no one has a
+16:13
+quantifiable or measurable way to do
+16:15
+that so you have all these different um
+16:17
+policy groups fighting about that and so
+16:19
+what we're our aim one of our aims is to
+16:22
+create at least the academic literature
+16:23
+so to reference the guidance off and but
+16:26
+but sometimes this these initiatives
+16:28
+come at the initiative the the cost of
+16:31
+speed. Mika made a decision to implement
+16:34
+um without all the information and can
+16:36
+we move forward from that with the new
+16:39
+information and and guide Mika towards a
+16:41
+more productive way if you want to call
+16:43
+that a question.
+16:45
+Did anyone see the Is that is that okay?
+16:48
+Did anyone see David Sax this morning?
+16:51
+Can I can I play it for you real quick?
+16:53
+I'd love to get your uh spec
+16:55
+specifically Magnus.
+16:57
+I'll just play it for you real quick.
+16:59
+compromise and everyone leaves a little
+17:00
+bit unhappy, right? But I I think what's
+17:02
+going to happen is that after market
+17:04
+structure passes, the banks are going to
+17:06
+get fully into the crypto industry. So,
+17:07
+we're not going to have a separate
+17:09
+banking industry and crypto industry.
+17:10
+It's going to be one digital assets
+17:12
+industry. And I think they are going to
+17:15
+evolve over time. And I bet you over
+17:17
+time the banks like the idea of paying
+17:19
+yield because they're going to be in the
+17:20
+stable coin business.
+17:21
+But will they also be regulated the same
+17:22
+way? And I I guess that's a big I mean
+17:24
+the banks will say, "Hey, if they get to
+17:26
+do all the same things we do, how come
+17:27
+they don't get regulated the same way?"
+17:28
+Well, I guess because they're offering
+17:30
+slightly different products, right? So,
+17:31
+but I mean, everyone offering the same
+17:33
+product should be should be regulated in
+17:35
+the same way and we want to get into
+17:36
+that.
+17:38
+This is uh hearing Jamie Diamond here
+17:40
+for six consecutive years saying I'm not
+17:42
+doing this horrible cryptocurrency
+17:44
+Bitcoin thing. Let me be very clear like
+17:46
+you said two years ago, this is the last
+17:49
+bloody time I will comment on this one.
+17:51
+We're doing tokenization that's totally
+17:53
+different than another thing that is
+17:54
+horrible cryptocurrency thing. And every
+17:56
+politician saying, "Oh, Jamie says that
+17:58
+they're doing tokenization blockchain
+18:00
+infrastructure while we're talking about
+18:02
+ERC20 token, ERC20 token." And they're
+18:05
+laughing all the way on the backend side
+18:07
+because they're then allowed to handle
+18:08
+it. In the same way as in Norway when
+18:11
+the register office suddenly took and
+18:13
+tokenized the register office uh the the
+18:17
+stock shareholder register, put it onto
+18:19
+the mainet of Ethereum for a test pilot.
+18:22
+Then they're using ERC20 token. They
+18:24
+green light that part. We have to
+18:26
+understand that part. So when banks
+18:27
+talks about this, this is hearing about
+18:29
+the politicians saying I believe in
+18:31
+blockchain technology not crypto. It's
+18:33
+the same thing. They will go in on the
+18:35
+back side but you have to say banks are
+18:37
+not one thing either. There are niche
+18:39
+elements of every banks that is private
+18:41
+banking it's it's uh individuals totally
+18:44
+different things. Is it custodian
+18:45
+services? What is it? You have to find
+18:47
+the niche areas. And the niche areas is
+18:49
+that the banks they want control
+18:51
+themselves right now. That's why they
+18:52
+cannot just use a tether like we talked
+18:54
+about because that's political exposure.
+18:57
+It's hard for them to even use a circle
+18:59
+because it's US linked in some matter
+19:02
+and they also protectionist towards the
+19:04
+euro. So in this matter that's why
+19:06
+they're setting up this new consortiums
+19:07
+again euro only or a bundle and a mix of
+19:11
+it. They don't know the direction but
+19:13
+they want to have the control also. So
+19:15
+again we have to see the niches and not
+19:17
+use the overall umbrella. That's my view
+19:19
+on it. So it's not one to one that they
+19:21
+will cover all areas of call it
+19:23
+consumers to business areas of the bank.
+19:26
+It will be the backend structure that
+19:28
+will happen quietly I believe for 2
+19:31
+three years without general audience
+19:33
+seeing it in at all but it will grow
+19:35
+significantly in value then we will find
+19:37
+niche products to professional investors
+19:39
+so not a consumer comes screaming in I
+19:41
+lost all my money because Bitcoin
+19:43
+dropped 40% yesterday and don't
+19:45
+understanding the complexity. Can
+19:47
+can I jump in?
+19:48
+Yeah. I I just want to make sure
+19:49
+everybody understands how radical what
+19:51
+David Saxs said on there is. So he was
+19:54
+saying after the market structure bill
+19:57
+is passed, that's the that's the clarity
+19:59
+act that has been proposed
+20:02
+for a long time, but now is actually
+20:05
+going through the legislative process
+20:07
+and and what we said Trump said a few
+20:10
+minutes ago, he is planning to sign it
+20:12
+soon. You know, that's that's
+20:14
+optimistic. Um, but of course he he
+20:17
+signed the Genius Act last year. So, uh,
+20:19
+may maybe he knows more about it than I
+20:21
+do. Um, what David Sax is saying, after
+20:24
+that market structure bill makes it
+20:26
+through Congress and gets signed, we're
+20:28
+going to have a peace treaty with the
+20:30
+banks and the stable coin issuers. Right
+20:33
+now, they're at war because the banks
+20:36
+are terrified of losing their deposits
+20:39
+to stable coins because the stable coin
+20:42
+issuers find ways to pay yield. They
+20:45
+look, they take the reserves behind the
+20:48
+stable coin and invest it and then
+20:50
+there's yield and they don't take all of
+20:52
+it. They do very well. They keep a lot
+20:54
+of it, but they can pay some of it back
+20:56
+to encourage this deposit flight out of
+20:58
+banks. Banks take what? a couple pennies
+21:01
+on your deposits. Nothing. Essentially
+21:03
+zero. You You can make much more in
+21:06
+stable coins. I myself keep a lot of my
+21:09
+deposits in USDC instead of at the bank
+21:12
+for this very reason. It terrifies
+21:14
+banks. But what David Sax is saying,
+21:15
+we're going to move past that and the
+21:18
+banks are going to essentially surrender
+21:21
+and become stable coin issuers
+21:22
+themselves and they're going to figure
+21:23
+out let's let everybody pay yield so
+21:25
+that the the consumers, the retail
+21:28
+investors can can enjoy the yield and
+21:30
+and move between banks and stable coin
+21:32
+issuers. It's it he's you know he's
+21:34
+talking about the war between the the
+21:36
+banks and the stable coin issuers. It's
+21:38
+really fascinating. It's happening in
+21:39
+real time right here.
+21:40
+Yeah. Speaking about stable coins
+21:43
+adoption, we cannot avoid um also CBDC's
+21:48
+and in Europe Christine Lagard and
+21:51
+Orsula are definitely anti-crypto. Do
+21:54
+you think government are going to
+21:56
+replace stable coins and you know take
+22:00
+action and control all the payments uh
+22:03
+like electronic money and so on.
+22:05
+I can give the example from Norway. The
+22:07
+Norwegian Central Bank just before
+22:09
+Christmas issued a PR release shutting
+22:11
+down all CBDC activity. Don't see a need
+22:13
+for a e Norwegian crown right now
+22:15
+correctly. They all say then they say we
+22:18
+will follow the digital asset market
+22:20
+closely. What does this mean? They will
+22:22
+go 100% in on stable coins. So on the
+22:26
+20th of April there will be a full day
+22:28
+session at the Norwegian Central Bank
+22:30
+where they will focus only on stable
+22:31
+coins. And this gives the perspective of
+22:34
+where they are in terms of what was
+22:35
+mentioned of call it the FOMO element of
+22:38
+privatization of uh of money based upon
+22:42
+what you said about the yield element
+22:43
+and also naturally because they see that
+22:45
+there's a certain company called Tether
+22:47
+that makes between 16 and 19 billion
+22:49
+dollars being a little bit more than 100
+22:51
+employees and then they're thinking what
+22:53
+is happening here that's sort of saying
+22:55
+the challenge but when you say about the
+22:57
+traceability element should we fear CBDs
+23:00
+is being monitoring us no Hey, we should
+23:03
+fair the the the stable coins because
+23:05
+they are being monitored. So the reason
+23:08
+for why call it Tether is keeping
+23:10
+themselves floating and not being
+23:12
+imprisoned for 250 years lifetime for
+23:14
+all the founders of tax fraud to whatnot
+23:16
+that you can look up of any people who
+23:18
+has been into crypto since 2014. I'm not
+23:21
+saying they're doing anything illicit
+23:22
+but you know if you reopen it all of us
+23:24
+who has been there you will find some
+23:26
+trades that has not been declared for
+23:28
+tax purposes. The thing is since a
+23:31
+stable coin is actually programmable by
+23:33
+nature to seize it, freeze it, call it,
+23:36
+burn it, delete it. It's not deleted
+23:38
+from the blockchain, but they can seize
+23:40
+asset. When Interpool and others who I
+23:43
+represent do operations, then they go
+23:46
+in, they seize all the assets. No one is
+23:49
+digging down what they had there. And
+23:50
+since they're the central bank, they can
+23:52
+reissue to the ones who lost it. Then
+23:54
+you see politicians on the background
+23:55
+like oh my god this is the best next
+23:57
+thing since sliced bread don't shut down
+23:59
+these guys that's sort of saying why the
+24:02
+functionality of tether stable coins and
+24:06
+others are extremely important to
+24:08
+understand like I talked about the
+24:10
+attributes the mechanisms of the token
+24:12
+in all sorts of matter because this is a
+24:14
+monitoring tool that is important to
+24:17
+understand. Yeah we have just five
+24:20
+minutes left so guys please express your
+24:22
+opinion.
+24:24
+Oh, and this
+24:25
+Yeah. Yeah.
+24:26
+Yeah. Um I think
+24:30
+that I mean there's so much there. Um
+24:33
+again from I I like to take the American
+24:35
+perspective. That's what I that's what I
+24:36
+know the best. Um I think I think we
+24:40
+will get more clarity as we go. I uh I I
+24:44
+thought last year was the the year of
+24:47
+the stable coin. Um and yet and yet as
+24:50
+as we just heard as we just talked about
+24:52
+once um once we've got more uh certainty
+24:57
+from the clarity act on what's going to
+24:59
+happen with the the banks and stable
+25:02
+coin issuers going headtohead on this. I
+25:04
+think we'll we'll get more even more
+25:06
+clarity this year and then we'll see um
+25:08
+and then we'll see where where things go
+25:10
+on CBDC's
+25:12
+uh like with Norway in the US in the
+25:16
+current uh environment with the current
+25:19
+uh authorities in charge. It's a it's a
+25:23
+profanity to say CBDC's it's not going
+25:26
+to happen. Um a and the the opposition
+25:30
+party when they when when and if they
+25:32
+come back in power uh are so anti-crypto
+25:35
+it's hard to imagine they will um be
+25:37
+able to push it all the way across the
+25:39
+finish line. Uh unless they feel like it
+25:43
+is giving them the kind of control that
+25:45
+they desire. Um,
+25:48
+and but there there's a lot a lot of uh
+25:51
+anxiety that there ever could be a CBDC
+25:54
+to the point where they're passing laws
+25:56
+in the states that say
+25:59
+uh that that's prohibited here.
+26:01
+So yeah, I just wanted to add, do you
+26:03
+think uh Trump's stable coin is going to
+26:06
+conquer market and take place?
+26:09
+Who knows? Uh I would say his his first
+26:12
+coin did better than I would have
+26:14
+thought. Uh I I thought it was uh
+26:16
+essentially a memecoin that would do
+26:18
+like most meme coins do. Uh we'll see
+26:21
+what happens when he's kind of
+26:22
+postpresidency.
+26:24
+Um st it's really the really the root of
+26:28
+your question is how do stable coins
+26:29
+compete with each other? It's the same
+26:31
+product, right? You would think that
+26:34
+they're competing on the risk of their
+26:37
+reserves, right? You're you're betting
+26:39
+that when you want to redeem your stable
+26:41
+coin, that issuer will be able to give
+26:43
+you a dollar back. if if it's a dollar
+26:45
+back token. Um, and yet I'm not sure
+26:47
+that's what we see. I I mean, I I don't
+26:50
+want to be too biased here. I think
+26:52
+Tether's balance sheet is more opaque
+26:55
+than other stable coin issuers. And yet,
+26:57
+Tether is by and far the has the largest
+27:00
+market cap. So, there's must be
+27:01
+something else branding, first mover
+27:04
+status that uh that these stable coin
+27:07
+issuers are competing on. Um and and to
+27:10
+that end could you know Trump's got a
+27:12
+big brand so maybe maybe he'll he'll uh
+27:15
+uh use it.
+27:16
+Yeah. Let's see. I
+27:17
+mean to a certain to a certain sorry
+27:19
+just from the from the Swiss perspective
+27:22
+then I I leave you lagard for the end.
+27:25
+So ba basically from the Swiss
+27:27
+perspective I think the central bank is
+27:29
+really at the top of things in terms of
+27:32
+testing. They did a lot of you know pro
+27:35
+project and PC's. They tried they they
+27:38
+and they reached the same conclusion.
+27:40
+CBDC uh so stateisssued cryptocurrencies
+27:45
+is not something that Switzerland is
+27:47
+willing for mainly for privacy reasons
+27:50
+mainly for because the population is not
+27:53
+actually ready for it and I think so
+27:56
+this project of CBDC at the national
+27:58
+bank level has been pre pretty much uh
+28:01
+is is pretty much gone. But the the
+28:03
+world sale CBDC as you say we we need to
+28:05
+distinguish distinguish things when we
+28:08
+are lawyers and world sale CBDC is a use
+28:11
+case that is very interesting. So
+28:13
+basically the the the way to to tokenize
+28:16
+the money between the the banks and and
+28:19
+the central bank and this is a project
+28:21
+that is going on but this is not CBDC in
+28:24
+the European central bank sense right
+28:28
+and for me that doesn't make any sense
+28:31
+at the moment to issue this type of
+28:33
+CBDC.
+28:34
+Yeah I mean it's kind of like Magnus
+28:36
+said you know there there are ways to
+28:37
+have some of the control but it's still
+28:40
+all very new. So I think there will be
+28:42
+experimentation, there'll be iterations.
+28:43
+Just like all of crypto, every cycle
+28:45
+it's an iteration. We think we're on the
+28:46
+cusp of something of the revolution, but
+28:48
+then it's just the next iteration. So I
+28:51
+do think we could end up in a place
+28:52
+where um CBDC's are implemented or the
+28:56
+same functionality that we we want that
+28:58
+governments might want from them. But uh
+29:01
+yeah, I think that's part of where we
+29:02
+come in and interpreting and helping
+29:05
+fight back or push back and what is best
+29:06
+for industry and bridging that. Um yeah
+29:11
+Ala can I connect? Yes, I I love all
+29:14
+your theories and thoughts, but from the
+29:16
+practical perspective, for someone who's
+29:18
+at trading it and using it in business
+29:20
+and in businesses with other businesses
+29:23
+every single day, I can tell you I'm so
+29:25
+happy that right now all these thoughts
+29:27
+are not in the documents
+29:30
+and uh we still can use USDT in
+29:32
+Switzerland and hopefully one day we
+29:35
+will be somehow understanding Mika and
+29:38
+uh American law. Well, God save you.
+29:42
+Thank you.
+29:43
+Thank you very much.
+29:44
+Thank you guys.
+29:46
+Thanks. Thank you.
+

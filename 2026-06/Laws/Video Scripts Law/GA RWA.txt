@@ -1,0 +1,498 @@
+0:055 secondsUm, yeah, speaking of synchronization, you know, it's been a while since we chatted a bunch of the macro stuff that's been happening on the global stage. And of course, joining us tonight
+0:1313 secondsare our partners, starting with Sean White, Australian ecosystem manager and core member for the XDC network. And
+0:2020 secondsstepping in for today is um Leon Pleidus. Yeah. Um Sean, fire it away.
+0:2626 secondsAnd after you lead off, that's all right. I was just saying, hey, what's up? And uh thanks for the introduction, Jean, and uh thanks for
+0:3434 secondsthe invitation, Julian, and obviously Luke or courtesy of Leon of Kasich.
+0:4040 secondsYeah. Um thanks for joining, guys, and great to have you here. Maybe I'll just drop in a quick intro for everyone.
+0:4848 secondsThanks for those that turned up.
+0:4949 secondsApologies for the X techchnical glitches. We love Elon and X. I do anyway. Um but anyway, we'll kick on.
+0:5555 secondsUm, so it's important for us to um be constantly um active and and also engaging us ourselves, our communities,
+1:041 minute, 4 secondsour partners. And I think the education angle is absolutely critical with RWA because it's new. We've been doing it for 6 years. I mean, honestly, like
+1:131 minute, 13 secondsliterally, we've been doing it for 6 years. It used to be called security tokens. No one in the industry now even remembers that unless they're um old
+1:201 minute, 20 secondsenough and maybe dumb enough to have started a company six years before it all started taking off. But on a positive note um here it is now. It's
+1:281 minute, 28 secondsall coming full speed. Um we've we've rebranded to RWA uh real asset tokenization and we have a moment that
+1:361 minute, 36 secondswe've never experienced before. Um it's the middle of 2025. Uh the Trump administration
+1:431 minute, 43 secondsum came in in November last year with a uh a textbook wish list of what anyone in blockchain and digital asset crypto
+1:521 minute, 52 secondswould want from the US government that was missing before. Uh that uh was one of the reasons they came into power and
+2:002 minuteswon the election and it's been something they've been executing on I would say fairly relentlessly since they began.
+2:072 minutes, 7 secondsSo, uh, today we're welcoming partners from CASU, from XDC, of course, our team here as well. We're going to talk about
+2:142 minutes, 14 secondslots of things. Um, I think the the RWA macro environment. Um, what's happening, what's really happening out there. Um,
+2:222 minutes, 22 secondssome real insights from people that spend all day long working in this space and and obviously there's a lot of people from the communities here that are interested in many things. some
+2:302 minutes, 30 secondspeople re truly interested in RWA, other people, you know, interested in in in the utility tokens of the platforms, but really trying to find out what the hell
+2:382 minutes, 38 secondsis really going on. And I think that, you know, that the landscape that that I see that and I live and breathe this all
+2:452 minutes, 45 secondsday long, is that we've never ever seen anything like this before. We've never seen um the biggest economy by a country mile. I would say the American capital
+2:542 minutes, 54 secondsmarkets are a thousand 10,000 times bigger than the rest of the world combined. And a lot of that is not just
+3:003 minutesdue to size. It's because they print the US dollar out of thin air and they that is the global currency, right? So it's
+3:083 minutes, 8 secondsvery much connected to the whole discussion here. But what we're seeing right now is the first implementation of clear regulation in the United States of
+3:163 minutes, 16 secondsAmerica around stable coins to begin eventually all of crypto. And the key uh
+3:243 minutes, 24 secondselement that's relevant to everyone here today who's interested in real world asset tokenization is in in the recent
+3:303 minutes, 30 secondsuh signed off in now in play genius act in America stable coin legislation is
+3:373 minutes, 37 secondsthat this is now a thing and um they the US government wants this to grow. They want stable coins to grow and the only
+3:453 minutes, 45 secondsthe the way you buy real asset tokens is with stable coins. So, if the US government says we're going to go from 200 billion to two trillion in stable coins because this helps our economy,
+3:543 minutes, 54 secondsour government, our fiat printing um business, all those things, then you're going to see 10, 20, 30, 40, 100x volume
+4:034 minutes, 3 secondsin RWA. It's just going to happen. Like, it's it's it's written in law by the Treasury Secretary, the commerce secretary, the president of the United States are all shilling this online.
+4:134 minutes, 13 secondsThat's the that's that that's the key change. And that's really recent. I think it might have been like a week or two. So, enough about that for now. I
+4:214 minutes, 21 secondsthink that lays the landscape for what we're looking at right now is the entire landscape completely changing because
+4:294 minutes, 29 secondsthe biggest dog in the dog in in the in the in the in the in the park is a 180 degree turnaround on we want to own
+4:364 minutes, 36 secondscrypto, we want to own Bitcoin, we want to own RWA, we want US dollar stable coins to be in the trillions, not in the billions. And that lay lays the
+4:454 minutes, 45 secondsgroundwork for like what's everyone doing here today? Like why why are we here? Why is RWA important? We thought it was important six years ago, some of
+4:534 minutes, 53 secondsus, some of us four, two, one year ago, whenever you got in. Now why is it the most important time for the space? So I I'll pass it over to the XTC, the Casu
+5:025 minutes, 2 secondsguys here to to jump in. I don't think you need to spend too long explaining, you know, exactly what you're doing in the organization, but I think it's just more about like what's most value to me
+5:115 minutes, 11 secondsin these X spaces. someone jump on all the time, not just as a speaker, is like what are the real insights? Like what are people working in the industry feel,
+5:195 minutes, 19 secondssee, believe, uh have verified or or proved to be true or false. That really
+5:265 minutes, 26 secondshelps people listening like to to kind of get a really deep understanding of like why why they why they should be interested, why they and and where the
+5:345 minutes, 34 secondsopportunities and what they should be thinking about. So maybe we can we can kick off and we start with Sean XC, one of our partners. We're integrated. We've
+5:415 minutes, 41 secondsbeen involved. We've got a lot of stuff that we're working on behind closed doors. We can't talk about that publicly because it's not there yet and
+5:485 minutes, 48 secondsinstitutional stuff's not public till it's public, but uh XDC dedicated to the RW space investing time, energy,
+5:565 minutes, 56 secondsresources, people, and I'm sure he's got a lot to say. So, Sean, over to you. Absolutely.
+6:026 minutes, 2 secondsAbsolutely. And uh thanks Julian again for uh having us on today. Um obviously being a uh a tokenizing uh platform um
+6:116 minutes, 11 secondswe have uh plenty of um vested interests in these sorts of conversations. So um again thanks for bringing us on not just
+6:186 minutes, 18 secondsa partner but a friend in web 3. Um I think it's probably important to kind of like you know maybe just for the listeners as well just to kind of bring
+6:266 minutes, 26 secondseveryone up to speed with the the Genius Act. Obviously, there was a a major um crypto uh summit, I guess, of sorts, um
+6:346 minutes, 34 secondsthat uh Donald Trump and his merry men and women uh rolled out um probably the middle of last last month. Um and really
+6:436 minutes, 43 secondsit's all about growth via our rules-based system. Um I think we've had plenty of administrations leading up to this which probably dashed a lot of
+6:516 minutes, 51 secondshopes but it marks a shift from a regulation by enforcement approach uh and brings in what I would call an innovation within regulation uh type
+7:007 minuteslandscape. So um for now for the first time there's actually rules clear rules for companies issuing stable coins and
+7:077 minutes, 7 secondsthat's what the the Genius Act was particularly focused on. So maybe it's important just to kind of bring these uh
+7:147 minutes, 14 secondsto bear. Um so we'll just go through the three of them really um back them. Just need safe reserves, cash or treasuries.
+7:237 minutes, 23 secondsUm obviously uh follow the anti-moneyaundering and anti-terrorism laws and protect consumers if the issuer
+7:307 minutes, 30 secondsof the stables go bankrupt. So basically stable coin holders get first dips on any of those reserves. So what we're now seeing is uh like Julian was uh sort of
+7:407 minutes, 40 secondsalluding to is with stable coins we actually have access to these sorts of um tokenized assets. So banks, tech,
+7:477 minutes, 47 secondscustodians now have a legal framework to operate. Uh the act now boosts demand for web3 networks. So institutions need
+7:547 minutes, 54 secondsreliable scalable blockchains. That's great for people like XCC. And we also need um reliable custodians uh and
+8:028 minutes, 2 secondsstable coin issuers. So really is a win really all around for a lot of web 3.
+8:088 minutes, 8 secondsUh no that's that's kind of where I took um you know my lead from what the uh genius act is but you know there's
+8:158 minutes, 15 secondsbasically um other aspects. Uh in fact I was reading on LinkedIn today uh one of my uh colleagues at XDC network uh one
+8:258 minutes, 25 secondsof the markets team um uh Civ Keenan actually pointed out um seems that Congress went about to enforce a
+8:338 minutes, 33 secondsprescription of standards for payment stable coin issuers to prompt um and promote compatibility and interoperability and this is something which I think escaped a lot of people's
+8:428 minutes, 42 secondsattention. So rather than building regulatory walls, the act actually anticipates a connected global infrastructure. So um basically
+8:518 minutes, 51 secondscompatible international frameworks can now seamlessly interact or at least that is what's being safeguarded. So it was sort of a triple threat. Um what we had
+8:598 minutes, 59 secondswe had uh the effect of flipping DC uh to become now a crypto capital and now we've got um web 3 rails and stable
+9:069 minutes, 6 secondscoins getting the green light and then we're seeing all this by uh the clarity act which was part of that whole crypto sort of uh convention or crypto sort of
+9:169 minutes, 16 secondsuh um party that they had last month. So they actually uh also pulled through a clarity act which actually bequeathed to
+9:239 minutes, 23 secondsthe SEC and the CFTC bodies um demarcation and now they're doing this um what was
+9:309 minutes, 30 secondsit I think it was section 10 of the actual genius act is actually bringing in interoperability. So it is a genius
+9:389 minutes, 38 secondsmove um possibly orchestrated by the uh the stable genius himself.
+9:439 minutes, 43 secondsI'm not going to probably go through too much more granular, but I mean like there's obviously some really big big wins here for DeFi, big wins here for
+9:529 minutes, 52 secondsfor banks in particular to kind of to lean in um you know all those all those ICOs and just
+10:0210 minutes, 2 secondsjust to add a bit more color to that. So the so the simple thing I I'm trying to simplify for for the the crew here. The
+10:0910 minutes, 9 secondssimple reason why I um the simple value proposition of what's happening right now is that
+10:1810 minutes, 18 secondsum if you go to the broader um concept of why crypto was invented in the first place um at least one of the DNA was
+10:2610 minutes, 26 secondsthat you know we need a new monetary system. We can't just keep printing fiat money out of thin air, you know, creating these huge debt cycles, debt
+10:3410 minutes, 34 secondsbubbles, and we need people to keep buying the debt, otherwise it falls apart. So, what's happened recently is that we're getting Bitcoin as an asset
+10:4310 minutes, 43 secondsclass. What the US government realized two years ago and we know this from being in the network and industry for a long time ago is that the US government
+10:5210 minutes, 52 secondsbipartisan Republican Democrat realized that from a lot of lobbying from crypto guys at that the actual point of
+11:0111 minutes, 1 secondAmerican um global dominance a key to glo US do global dominance is everyone using US dollars right when everyone
+11:1011 minutes, 10 secondsuses your currency and you print it out of thin air you're you're a big winner Right. So what the American government or big chunks of the government thought
+11:1811 minutes, 18 secondsa couple of years ago was that Bitcoin and crypto is going to uh reduce their
+11:2511 minutes, 25 secondsuh global currency dominance. That's what they were thinking. What they realized a couple of years ago was that
+11:3211 minutes, 32 secondsactually if we support USDT, USDC and US dollar back stable coins, we will
+11:4011 minutes, 40 secondsactually increase our influence around the world because if you take someone in Indonesia or Nigeria or whoever, getting
+11:4811 minutes, 48 secondsone US dollar bill in cash is quite difficult. You might be able to get like trading whatever you're trading on the
+11:5611 minutes, 56 secondsstreet corner, but good luck getting a bank account and good luck getting any volume and good luck sending that anywhere in the world. So what the US government has finally come to the
+12:0512 minutes, 5 secondsunderstanding of two things. First of all, it's way easier for that Nigerian and Indonesian person and I as just an
+12:1212 minutes, 12 secondsexample to get their hands on a USDT or USDC than it is to get their hands on a real paper US dollar. And that that's
+12:2012 minutes, 20 secondsthe same for the billions of people in the world. So if we actually support this concept, it'll be way easier for
+12:2712 minutes, 27 secondsthese people to get it that'll make us even stronger. Right? So that was the kind of the key dollars. And then what happens then is that they've now come
+12:3512 minutes, 35 secondsover the top of that and said if you want to do US dollar stable coins, we're good with it. You must take the money
+12:4312 minutes, 43 secondspeople give you and you must buy US treasuries. So you must buy our whole system. You must invest in our
+12:5212 minutes, 52 secondssystem. So therefore we now have a system where like logically it makes sense for the the the it makes it's it's
+13:0213 minutes, 2 secondseasy for people to understand that like stable coins are like easier to get than dollars. And then and then the rules that they came out with like last week
+13:0913 minutes, 9 secondssays we're all about this as long as you buy my treasuries and then we continue to print this fiat money since. So that's the crazy change that we've got
+13:1813 minutes, 18 secondsto and again when people are printing stable coins they're either buying crypto or they're buying RWA and that's the powerful kind of message of the
+13:2613 minutes, 26 secondsvolume that's going to go what we think is going to get really interesting for now.
+13:3113 minutes, 31 secondsI I just want I just want to say Julian do you think it could have ever happened any other way? I mean like this seems to be a fairly moderately hybridized
+13:3913 minutes, 39 secondsapproach to transitioning the whole world to web 3. Was it always going to was it always inevitable? Oh, I mean,
+13:4713 minutes, 47 secondswas it always inevitable that Wall Street would win?
+13:5013 minutes, 50 secondsI don't know if they're going to win. I don't know if they're going to win outright, but Well, you know, now we're seeing, you know, a lot even with the onchain with
+13:5813 minutes, 58 secondsthe RWA assets and and and our company and other friends and and partners have tokenized all kinds of stuff, but the
+14:0614 minutes, 6 secondsactual assets that are really gaining traction, and you can see this on chain, it's all the Wall Street assets. is the fixed income, treasury tokens, money
+14:1514 minutes, 15 secondsmarket tokens. And why is that? Why are they gaining traction? It's because stable coins don't pay any interest. So,
+14:2314 minutes, 23 secondsironically, or I don't even know what the word is.
+14:2614 minutes, 26 secondsWe've come to a situation where everyone tried to tokenize everything from 2018 to 2022, ourselves included, startup
+14:3314 minutes, 33 secondsshares, real estate shares, VC shares, but the liquidity was always very low because they're private assets. And then sometime about two years ago, the crypto
+14:4214 minutes, 42 secondshedge funds, the biggest stable coin holders, cuz let's call let's let's you know, we love the DJs, but they're not big stable coin holders, right? So what happened was
+14:5014 minutes, 50 seconds$150 billion of stable coins earning 0% interest because Tether and Circle went out and said we can't issue interest because that would be called a security.
+14:5814 minutes, 58 secondsSo we need to actually develop this stable coin thing with no interest, which lucky for them that ended up becoming the most profitable businesses in the world. But we end that's a
+15:0715 minutes, 7 secondsdifferent discussion. We end up coming to say to a point of what do we do with all the people sitting in stable coins when they're not in crypto because the
+15:1515 minutes, 15 secondsmarket's down or sideways or they don't want to bet. So then people went oh let's tokenized treasuries 5% 6% whatever who wants a real yield. And we
+15:2315 minutes, 23 secondsknow now from our joint ventures with crypto exchanges and fintex all the crypto exchanges want these assets because they're the complete opposite or
+15:3115 minutes, 31 secondsat least they're the they're the best balance to crypto. So, what's the best balance to altcoins and crazy crypto?
+15:3715 minutes, 37 secondsIt's US dollar back treasury tokens guaranteeing you 4% right on a stable coin. So, that's Yeah. So, do I want
+15:4515 minutes, 45 secondsthem to win? No. Are they winning? Sort of. Yeah, that's what I thought.
+15:5115 minutes, 51 secondsYeah, it is. But look, let's let's jump across to to um Leon and Luke's here. Luke's made it back from his MRI.
+15:5915 minutes, 59 secondsHopefully, your brain is still intact.
+16:0216 minutes, 2 secondsYeah, they're they're imaging it to um to check if it was there. Apparently, it is. So, I'm I'm safe. Um but yeah, no,
+16:0916 minutes, 9 secondsthanks, Jules. Um and I'll I'll hand over to Leon in just a minute, but I you've just said a couple of things that I was um that I think you just totally
+16:1916 minutes, 19 secondsnailed. Uh Jules, and I think, you know, stripping things back to basics so people can understand why this is all important is key. Um, who remembers
+16:2716 minutes, 27 secondsRipple back when it was when it had a purpose?
+16:3216 minutes, 32 secondsAt least it thought it had its purpose, right? Um, the whole point of Ripple was to be this interbank transfer mechanism
+16:3916 minutes, 39 secondsto save people having to use Swift and to use the typical banking rails that take time, cost money, slow,
+16:4716 minutes, 47 secondsbureaucratic, all of the stuff that Trafi is known for. Um, obviously Ripple, um, and I I'm I apologize to any Ripple maxis out there, but Ripple is
+16:5516 minutes, 55 secondstotally pointless. And I'm sure many of you know that. But, um, because it's volatile, right? You can't have a, um,
+17:0217 minutes, 2 secondsan asset or you can't have a medium of exchange that's constantly changing in price. Um, it just sort of defeats the purpose. And then stable coins came into
+17:1017 minutes, 10 secondsthe mix and and solved that problem. And that's kind of like the the killer app for for crypto in in one respect.
+17:1717 minutes, 17 secondsThere's there's obviously a few of those killer apps, but the stable coins have this incredible purpose whereby they're fixed to the value of the US dollar in
+17:2517 minutes, 25 secondsmost cases or other denominations. Uh, and you can, you know, you can move them around pretty easily. But there's been this resistance um, you know, regulatory
+17:3417 minutes, 34 secondsresistance with these stable coins for some time now. And this Genius Act just turns that on its head. I mean, you've got USDT with problems in, um, you know,
+17:4217 minutes, 42 secondswith, uh, with Europe, for example. uh and there's always questions about how backed was it and when it deped and and
+17:5017 minutes, 50 secondsother issues like that in the past now that we have this framework in place which makes it abundantly clear exactly how stable coins need to be handled and
+17:5817 minutes, 58 secondsdealt with um and to your point um Jules which I think was bang on it's now providing everyone with access to US
+18:0718 minutes, 7 secondsdollars or will be around the world and a lot of countries you know didn't were dealing in USD anyway But this digital
+18:1518 minutes, 15 secondsUS dollar it's it's providing access to these digital dollars in a way that previously hasn't and won't you know wasn't pre
+18:2218 minutes, 22 secondspossible. Uh and I think that this provides the demand mechanisms that the US government wants that uh is going to
+18:3018 minutes, 30 secondsyou know reinforce the US dollar's position as being that reserve currency but not just a reserve currency for the world but for the internet. So the USD
+18:3718 minutes, 37 secondsbecomes the internet's reserve currency which I think is a which is a an important place for them to play. So, it's a pretty smart move. Um, a little
+18:4518 minutes, 45 secondsbit um uh ballsy to call it genius, but it was a pretty smart move by them to to go ahead and and do this. And I think everyone's been very happy with the way
+18:5318 minutes, 53 secondsthat general regulations have been tracking, particularly with the lead of the US since Trump's come in. Um, and I certainly hope, you know, we have
+19:0019 minutessimilar kind of um epiphies in Australia where I am. Uh, but it's an exciting time. It really is, Jules. And I think you know you summarized it neatly before
+19:0819 minutes, 8 secondsbut stable coins are going to just grow in volume and in use uh exponentially over the coming years. And then I guess
+19:1619 minutes, 16 secondsit leads you to the next part like then what can we do with those stable coins and how can we better utilize them and and extract their real utility.
+19:2819 minutes, 28 secondsYes. All all true true words there. Um yeah. Okay, Jean, I'll pass it back to
+19:3719 minutes, 37 secondsyou. You know, you were dealing with the technical difficulties, but you're much better at at running these things. Let me know when I need to chime back in.
+19:4519 minutes, 45 secondsAll right, thanks for taking over, Julian, and nice to have you on here, Luke. Um, yeah, so I I think we've kind of covered what the genius was. Thanks
+19:5219 minutes, 52 secondsfor that, Sean. And, you know, I think everyone here is focused on art. It seems to be one of the core themes as well, aside from the macro topics that we will be discussing. But, uh, this is
+20:0120 minutes, 1 secondan open question to all of you gentlemen. Feel free to answer. Um and you can also chime in. But the question here is you know as you know Arab
+20:0820 minutes, 8 secondsfocused platforms where are you guys seeing the most demand for tokenized yield products? Are they like focused on
+20:1520 minutes, 15 secondstreasuries, private credit? And the second question is what drives that institutional interest today?
+20:2520 minutes, 25 secondsLet's let's get Leon into this.
+20:2720 minutes, 27 secondsYeah, sure. Thank you guys. Um, look, I I think the the institutional interest comes from the need to deploy capital. A
+20:3620 minutes, 36 secondslot of credit funds and asset managers are having a a hole in their pocket being burned from seeing all this capital that needs to generate yield.
+20:4420 minutes, 44 secondsUm, onchain assets seems to be a new a new direction, a new asset class, open up a whole new opportunity to deploy.
+20:5220 minutes, 52 secondsAnd when you're talking about private credit, there's more unique opportunities that aren't necessarily available like in um public listed
+21:0021 minutesmarkets have um with the likes of treasuries and and and those types of investments. So um look, institutional
+21:0821 minutes, 8 secondsasset managers looking for unique places to deploy. Private credit is very unique. Um there are different types of
+21:1621 minutes, 16 secondsbusinesses out there that require capital for different purposes. The theme segment in itself is extremely
+21:2321 minutes, 23 secondsdiverse and I guess the hunt for the most risk optimized private credit is key. It's like the the holy grail of private credit. Where can you get the
+21:3121 minutes, 31 secondshighest yield, the lowest level of given risk for every every percentage point of yield? So institutional asset managers
+21:3921 minutes, 39 secondsare looking for unique private credit opportunities to really optimize those um those the riskreward outcomes as
+21:4621 minutes, 46 secondsopposed to I guess the homogeneous products of of your um US treasuries where they're all very much similar.
+21:5321 minutes, 53 secondsAnyone can access them whether they're accessed in tokenized form or in traditional form. They pay similar sort of yields. They're not overly exciting.
+22:0122 minutes, 1 secondSo that's where I see a lot of um a lot of direction and interest in um access of tokenized assets more so in the private credit space and that's where um Castle is playing.
+22:1222 minutes, 12 secondsMay maybe it's worth just explaining why um and I can add a little bit of background to that because the private credit space is enormous. It's like $3.2 trillion and
+22:2022 minutes, 20 secondsvery quickly it's like how do we get here? If you go back to the uh GFC back in 2008, um obviously we had a lot of subprime lending happening there which
+22:2922 minutes, 29 secondsunwound when the housing market uh wasn't doing so well in the States.
+22:3322 minutes, 33 secondsWe've all seen the big short and I'm sure people have read enough about that to understand what happened there. But what this essentially led to is these
+22:4022 minutes, 40 secondsbanks going risk off with lending uh and really just wanting vanilla buttoned up opportunities that um that weren't going to expose them to similar kind of
+22:4822 minutes, 48 secondsissues. And so the ability for any business, any uh firm to access credit and traditional institutional credit um
+22:5622 minutes, 56 secondsbecame became difficult. Uh fast forward until co uh the industry slowly grew from 2008 to sort of 2020ish
+23:0323 minutes, 3 secondsthereabouts. Um and we see it sort of approaching the sort of trillion dollar mark or even a bit more than that. And then with co what happened then? I mean
+23:1123 minutes, 11 secondseveryone just went into money printing frenzy. Uh the all the economy slowed down. all of the governments realized what they needed to do is to try and
+23:1923 minutes, 19 secondsprint their way out of it. And that's why we're we're all suffering from ridiculous inflation uh the world over. Housing prices through the roof.
+23:2623 minutes, 26 secondsEverything's through the roof um just because of that uh terrible economic management. Um and because of this obviously you can't leave your money in
+23:3423 minutes, 34 secondsa bank because it's just getting um wasted away. So people are looking for other opportunities. They're looking for higher yield opportunities. Um and that's where private credit sort of
+23:4223 minutes, 42 secondscomes to the four. it's a little bit a bit bit more risk on um but also uh provides the kind of yields that uh are
+23:4923 minutes, 49 secondsable to really outpace inflation and give you the kind of returns that you want. And so we've seen the private credit space hit about three and a half
+23:5623 minutes, 56 secondsor$3.2 trillion um uh in sort of more recent assessments and measures. And so to to Leon's point, you have these
+24:0524 minutes, 5 secondsmassive funds from Goldman Sachs all the way down that have huge reserves of cash that they need to deploy. Uh, and while
+24:1224 minutes, 12 secondsfour or 5% in treasury bonds is probably okay for some, it's not a lot it's not okay for a lot of others. And so they're really looking to deploy that. Um, and I
+24:1924 minutes, 19 secondsthink that there's that's why they see the the big opportunity with private credit. But to to the flip side of that is looking at TVL right now. It's not in
+24:2724 minutes, 27 secondsprivate credit in crypto. It's in T bills, it's ino, it's in Maple. You look at Maple that have had um exponential growth uh since syrup's come online and
+24:3624 minutes, 36 secondsthey've got what $2 billion I think TBL under management. undero um you know significant CBL as well.
+24:4324 minutes, 43 secondsYeah. And let me just chime in on that one because that's a good point. So what Luke is stating is is is the um reality
+24:5224 minutes, 52 secondsand Maple I think Maple is um one of the the most credible companies in space. I know the guys. They actually are fellow
+25:0125 minutes, 1 secondAussies. That's not the point. Um the point is that I think that especially in their last uh products that they've offered, they've brought um let's call
+25:1025 minutes, 10 secondsit BTC FI. So Bitcoin FI Bitcoin F.
+25:2025 minutes, 20 secondsI think we lost Jules. Went into listener mode.
+25:2525 minutes, 25 secondsUh a few few technical issues. I think I was on not the first time someone said the the the trigger word.
+25:3425 minutes, 34 secondsYeah, I think I think what what um what Jules was about to get at was uh BTCI and that is the ability to extract
+25:4225 minutes, 42 secondsyields from Bitcoin um which I don't want to steal Jules's thunder because that's exactly what I swap is doing uh and starting to focus on now. So I'm
+25:5025 minutes, 50 secondsgoing to kind of leave that topic alone for a minute so he can come back to it. But it's I mean that's the other thing.
+25:5625 minutes, 56 secondsis obviously when you've got an asset like Bitcoin for example um and you know it's not a for a lot of people it's not
+26:0326 minutes, 3 secondsa highly liquid asset it's a it's a buy and hold policy if you're holding on to it what can you do with it like you've got a house it's it's an illquid or
+26:1126 minutes, 11 secondsthat's an illquid asset but you got an asset you're sitting there you're holding on to it how can I extract more yield from it for the house rent it out get something from that with Bitcoin you
+26:1826 minutes, 18 secondsknow there's similar opportunities that are emerging now where that that Bitcoin can essentially get on lent um or use as collateral Uh, but again, I don't want
+26:2726 minutes, 27 secondsto steal Jules's thunder, but he's disappeared. So, um, yeah, I guess while we're waiting for
+26:3626 minutes, 36 secondsJulian to come back, um, any points that you want to add on to that, Sean, before I jump on to the next question?
+26:4326 minutes, 43 secondsUh, look, I think most of most of the things I'm I'm seeing aren't really that end of the that end of the industry to be honest. So, I think it's probably best uh best answered actually already.
+26:5326 minutes, 53 secondsCan I maybe I'll add something to that Jean and I think because the question was what's you know what's more interesting right now in the market is it private credit is it T bills like
+27:0227 minutes, 2 secondswhere are people you know voting with their dollars and the reality is they're voting with T bills why is that well because it's a safe secure yield you're
+27:0927 minutes, 9 secondsgetting your four or 5% thereabouts it's not high but it's better than nothing but it's highly liquid as well so you can drop it in one day pull it out the
+27:1727 minutes, 17 secondsnext uh which is of huge value with private credit most of the people that are being uh these funds are being led
+27:2427 minutes, 24 secondsto. It's real RWA funds are going offchain. You know, you you deposit to a platform like Cass for example or
+27:3027 minutes, 30 secondsothers. Um you will uh deposit your funds in it'll get converted to fiat.
+27:3527 minutes, 35 secondsThat fiat then gets deployed in the real world with these different businesses. They use it for what purposes they need.
+27:4127 minutes, 41 secondsUm they generate the yield and that yield gets paid back. Um but sometimes the ability to to get your money out can be restricted. And so I think that's a
+27:4927 minutes, 49 secondsreal gating factor with with private credit which we do have some ways around that which we can talk about later. But that's certainly why the appeal is there with um with T bills because with Ono
+27:5827 minutes, 58 secondsand Maple and these other options, you can be in and out in hours if you wanted to. It's a great way to park your stables temporarily while you're figuring out what the market's doing and
+28:0628 minutes, 6 secondswhether you're going to buy a dip or do whatever else you want to do with the with the money. Where I think things are going to change though is when the market turns. No one knows how long this
+28:1528 minutes, 15 secondsmarket's going to run for. Um I saw a uh an article today uh I believe it was from Scott Melker actually um who was
+28:2328 minutes, 23 secondstalking about the um the length of the cycles over the last three cycles and there's around a thousand odd days roughly give or take a hundred from um
+28:3228 minutes, 32 secondsduring the bulls before things start you know the wheels start falling off and we're approaching that point I think by his estimation about October um you know
+28:4128 minutes, 41 secondsgoing historically but there's obviously a lot of other factors at play here the institutional money and everything So this this you know this bull could go
+28:4728 minutes, 47 secondsfor a lot longer. Um but to the point is that it will end at some point and when it does and you know um Bitcoin's had
+28:5528 minutes, 55 secondsits run maybe it hits 150 maybe it hits 200 maybe it doesn't who knows but when it starts to retreat and it will and all the majors do and all the other
+29:0329 minutes, 3 secondscocoins pardon my language start to to go backwards at a rate of not as well people are going to be piling out of those and into stables. And when they're in stables they're going to be looking
+29:1129 minutes, 11 secondsfor an opportunity to earn a yield. Um, and will they be going into T bills or will they be going into something like
+29:1929 minutes, 19 secondsprivate credit or other options that are providing a higher yield? My argument would be that they probably won't be going into T bills because over the coming months the interest rates are
+29:2829 minutes, 28 secondsgoing to be falling as well. Um, we're looking at, you know, almost a full uh percentage point um coming back in a in Australia over the coming sort of six
+29:3629 minutes, 36 secondsmonths or so. and certainly in the states um uh Jerome Pal's on his way out sometime early next year but over the
+29:4429 minutes, 44 secondsnext 12 months I can imagine that interest rates are going to be coming backwards in most places and as they do so are those yields on tea bills and no one wants to be parking their money
+29:5129 minutes, 51 secondsgetting 2%. So I think that's when private credit's going to come to the four 100%.
+29:5829 minutes, 58 secondsI feel like you just dropped a lot of information there Luke and that that's pretty interesting. So basically what you're trying to say right now that the interest will be coming back into
+30:0630 minutes, 6 secondstokenized yield products after we've seen BTZ kind of retreat and so you're basically saying that the RWA market will have its bounce back when that happens.
+30:1730 minutes, 17 secondsYeah, actually I'm just saying that I think all of RBA will be fine and golden. Um certain aspects of the RWA market will probably perform better than
+30:2530 minutes, 25 secondsothers. Um and uh yeah, let's just let's just leave it at that. Have we lost Jules ent totally?
+30:3330 minutes, 33 secondsHe's he's he's gone, isn't he? Oh well.
+30:3530 minutes, 35 secondsYeah. Yeah, I think we've lost Jules for a while, but uh thanks for that. I think I'll jump into the next question if you Okay, cool. Um I guess this is directed
+30:4430 minutes, 44 secondsto both Casu and XDC. Uh I I think Sean, you touched upon this earlier when you were talking about the Genius Act and you were talking about how, you know, it's it's a win for interoperability.
+30:5430 minutes, 54 secondsUh but I guess for everyone that's listening in right now, how does that exactly spell um you know for your everyday investor like how does
+31:0131 minutes, 1 secondinvolving regulation in the US, Asia and Europe affect the ability of protocols like yourselves?
+31:0731 minutes, 7 secondsY and how does that help scale tokenized RBAS?
+31:1131 minutes, 11 secondsI think it might have been Luke who jumped earlier um or been actually Julian but the the US market is absolutely immense. I think it was
+31:2031 minutes, 20 secondsactually Julian in his introductory he was basically saying it it it really does uh dwarf all the other economies
+31:2631 minutes, 26 secondscombined. But um so when we have a strong American economy um that genius act or actually that that um
+31:3431 minutes, 34 secondsinteroperability safe measure is going to be bas basically placing America in a really sweet spot because it's going to
+31:4131 minutes, 41 secondsbe investing a lot of time energy and resources into ensure that it can interoperate with you know places like Dubai uh you
+31:5031 minutes, 50 secondsknow ADGM uh Singapore Hong Kong um Switzerland you know all the first movers I So the kind of safeguarding
+31:5931 minutes, 59 secondsthat whole digital channel um corridors um so I think that's probably like a really important point to make. um the
+32:0832 minutes, 8 secondspathways I guess uh of regulation. Um just speaking I guess uh specifically
+32:1532 minutes, 15 secondsabout XDC's utility in trade and trade finance. There's a very strong uh sentiment sweeping through I think maybe
+32:2332 minutes, 23 secondsthreearters of the the G7 at the moment have already adopted a very key piece of legislation that allows um tokenization
+32:3132 minutes, 31 secondsof uh titles of goods. So uh bills of lighting and and those sorts of things and we've seen JPM and Lloyd's uh get
+32:4032 minutes, 40 secondstogether with some um very uh good um uh platforms which basically have been showing premisery notes and letters of
+32:4832 minutes, 48 secondscredit and you know even bills of lighting coming into play here. So that allows um basically deeds and and uh uh
+32:5732 minutes, 57 secondsgoods to be carried across uh international borders and uh it to be tokenized onchain. So that means we can,
+33:0533 minutes, 5 secondsyou know, with XC, we've been put a lot of effort into um you making sure our network and our partners are very good with um tokenizing and keeping things
+33:1433 minutes, 14 secondsnice and secure and regulatory compliant to then also do payments and also trade financing that we got trillions of
+33:2133 minutes, 21 secondsdollars in uh unmet uh underserved um trade financing that can be u probably expected up to five trillion is the uh
+33:3033 minutes, 30 secondsis the number that's been floating around. um bring in sort of uh those who haven't been uh serviced by uh perhaps
+33:3733 minutes, 37 secondsthrough weak financial systems or um you know so basically already on top of what is being um financed to go tokenized
+33:4533 minutes, 45 secondswe've just add an extra 5 trillion on top of that globally so um that's that's a regulation of another another sort and
+33:5333 minutes, 53 secondsAustralia is looking at that piece of legislation right now uh UK passed it about 18 months ago so that's called the
+34:0034 minutesmodel law electronic transferable records. So there's a there's there's different regulations going on um to
+34:0834 minutes, 8 secondssort of suit web 3. Um obviously that's going to be a big one for um markets. Uh and then you know like Leon was saying
+34:1534 minutes, 15 secondsbefore we're going to have um lots of private debt being tokenized and then we'll be able to sort of then allow you
+34:2334 minutes, 23 secondsknow through that fractionalization process that build love blockchain for we're going to be able to allow that sort of um democratization access to you
+34:3234 minutes, 32 secondsknow uh bringing more keys to yield um in ordinary people um or at least you
+34:4034 minutes, 40 secondsknow fairly fairly sort of um slim down sort of uh entry points like KU will probably be bringing on very soon. So,
+34:4834 minutes, 48 secondsyou know, there is going to be some really interesting um new types of private debt that that sort of start to really take off. Um and uh I think KU
+34:5834 minutes, 58 secondsare the sorts of um platforms that are really positioning themselves to to take advantage of that. Thanks.
+35:0635 minutes, 6 secondsI mean I mean there's there's 18 decimals for a reason, right? So basically to answer your question, Jean, everything's going to go boom and and
+35:1435 minutes, 14 secondsand those 18 decimal places will get used.
+35:2135 minutes, 21 secondsYeah, I could agree more. Sorry, Le, I think you were going to say something.
+35:2435 minutes, 24 secondsYeah, I was just going to add on I guess the the private credit space um which Sean was leading into. Um so thanks for painting the picture there, Sean. It's a
+35:3235 minutes, 32 secondsgood segue into how CASSU um sees the regulatory landscape and global RWA expansion. Um I kind of see it in a way
+35:4135 minutes, 41 secondsthat um the Bitcoin ETFs created, you know, regulatory compliant way for institutional investors to deploy into Bitcoin. Um that kind of effect and the
+35:5035 minutes, 50 secondscapital flows experienced from that sea change in market. um similar to I see genius and na will be doing the same for
+35:5935 minutes, 59 secondsRWA um through which stable coins are the rails. So it legitimizes the access to RWA assets on chain for institutions
+36:0836 minutes, 8 secondsand family offices in a similar way that the Bitcoin ETFs did for institutional investors. So I think that is the catalyst particularly genius because you
+36:1736 minutes, 17 secondsknow US dollar stable coin will be the dominant one over um a lot of other um activity in Europe. So um having that
+36:2636 minutes, 26 secondslegislation around the use of stable coins as firstly a payment rail um and then secondly that payment rail having embedded financing options and that's
+36:3436 minutes, 34 secondsessentially what CASO is. It's it's allowing the use of stable coin payment rails for anyone in the world to get in.
+36:4236 minutes, 42 secondsBut then once they're in stables we can then deploy them into um originating loans whether it's in stables or or or
+36:4936 minutes, 49 secondsfiat like Luke said how we how we offer them to fiat. um being able to do that quite seamlessly and it just allows
+36:5636 minutes, 56 secondsinstitutional investors that have to follow regulatory guidelines to now play. Um now that they can play, the larger family offices can too. Um you
+37:0637 minutes, 6 secondsalso see this superanuation funds um that then slowly start moving towards where that regulatory flow is now
+37:1437 minutes, 14 secondsgaining adoption in as well. So I mean just to summarize what Bitcoin ETFs did for institutional investors, genius is
+37:2137 minutes, 21 secondsdoing for any stable coin orientated investments which is RWA basically. So ma massive massive changes I see happening in the space because of that.
+37:3337 minutes, 33 secondsAll right, that was a really great analogy actually on that put everything into perspective what you just said there. Hey Julian. Um, I'm not sure if
+37:4037 minutes, 40 secondsyou wanted to chime in if you heard the question so far, but I can repeat it for you if you wanted to give your two cents.
+37:4637 minutes, 46 secondsYeah, sorry cut out. I was I was jamming to myself for a while. What do you got? What do you got?
+37:5437 minutes, 54 secondsAll right. Uh we were just discussing about how you know this whole genius stack and just the whole regulatory clarity around the world could be setting the stage and how that affects
+38:0238 minutes, 2 secondskind of you know um global regulations worldwide you know US, Asia and Europe. Yeah.
+38:0838 minutes, 8 secondsUm and how does that affect you know scaling tokenized RWBAs?
+38:1238 minutes, 12 secondsYeah. No it's a good question. Um the US is the dominant market globally.
+38:1838 minutes, 18 secondsuh it remains that way from a capital perspective, from a mindset perspective.
+38:2438 minutes, 24 secondsUm unfortunately to our friends in Europe, I think they're going massively backwards. So they are the only ones
+38:3238 minutes, 32 secondsleft, you know, if you're not backing China and Russia and that side of things. Um so politics aside, what it
+38:4038 minutes, 40 secondsmeans now is that um crypto and RWA have been hustling and growing around the
+38:4838 minutes, 48 secondsworld since it began because it makes sense. And even in the uh US the past uh
+38:5738 minutes, 57 secondsBiden administration which had an actual policy to kill crypto um choke point 2.0, Oh, no bank accounts, shut stuff
+39:0539 minutes, 5 secondsdown, Silicon Valley Bank, you know, SEC attacks on everyone with no actual clarity. So, the point that I'm trying
+39:1439 minutes, 14 secondsto make is that the crypto and RWA survived and grew, right? And that was when the biggest most important person
+39:2139 minutes, 21 secondsin the room was trying to kill it. So, what happens now is that the biggest most important person in the room wants
+39:2839 minutes, 28 secondsto own it and dominate it, right? So, it's a it's it's a 180°ree. I like to say it's like a 570 or whatever a couple
+39:3639 minutes, 36 secondsof 180s is, but it's a 180°ree turnaround. It's it's hard to explain the importance of that if you don't if
+39:4539 minutes, 45 secondsyou turned up recently, right? But for those in the industry, it's just like everyone wants to go to America. If if
+39:5239 minutes, 52 secondsother countries, Singapore, Bahamas, at least from our front, right, were still looking at this years ago and
+40:0040 minuteswent, "This makes sense. Let's make some regulation. Let's grow." Meanwhile, the US is trying to kill it. If if if the US
+40:0840 minutes, 8 secondsnow says we're on, it's game on, then everyone around the world is much more confident getting involved, right? So
+40:1640 minutes, 16 secondsthose that were already in are like, "Okay, well that's a nice relief that we're that they're in too. Let's get more." Those that might have been
+40:2340 minutes, 23 secondslukewarm or anti like, "Oh, well, they're doing it. We should do it as well." So it's it's hard to kind of um
+40:3040 minutes, 30 secondsexplain the importance of it, right? And and again, it's like it's like it's like Micro Strategy two days ago announcing I
+40:3840 minutes, 38 secondsthink the most insane um earnings report that Wall Street's ever heard. and the stock goes down 6%.
+40:4540 minutes, 45 secondsThere's there's a massive it's it's it's a big world. There's a lot going on.
+40:5040 minutes, 50 secondsEveryone's busy. There's a lot of misunderstandings and and and at least for this one, which is literally a week or two old and that's why the people
+40:5840 minutes, 58 secondsjoining this this X spaces are definitely ahead of the curve. We got like 100 200,000 people whatever with, you know, 9 billion people don't know
+41:0741 minutes, 7 secondswhat we're talking about right now. This is just monumental. So, it's a shift that is going to um create enormous
+41:1541 minutes, 15 secondsvolume, like enormous volume. It's it's a it's a it's a it's a like a yellow jersey, you know, um first in the tour
+41:2541 minutes, 25 secondsto France. Like America's like gone from the back of the pack to the front of the pack and saying, "We're going for it.
+41:3141 minutes, 31 secondsEveryone follow us." And they've got all the money. And it's just it's hard to explain how big it is, but it's just massive.
+41:4041 minutes, 40 secondsAll I can say, Jules, is thank God or thank Allah or thank Buddha or thank whoever your deity is for Trump um
+41:5041 minutes, 50 secondscoming in. Love him or hate him, whatever your political position is in terms of crypto is concerned. Uh I'm I'm just thankful that we didn't have the
+41:5941 minutes, 59 secondsDemocrats and and the continuation of choke point, Elizabeth Warren, and all of that that hellbent agenda that was trying to
+42:0742 minutes, 7 secondsshut it all down. I'm just glad we didn't have to deal with that. Um, and I really hope this sends a signal to the rest of the world. Uh, and the
+42:1542 minutes, 15 secondsregulators in other markets as well. Um, you know, most you probably tell by my accent I'm Australian. Casu is um Australian technically, although you
+42:2342 minutes, 23 secondsknow, Caymans, we're all offshore somewhere, but we are Australian and and it all comes back to to me here. Uh it's
+42:3042 minutes, 30 secondsbeen a nightmare, an absolute nightmare dealing with the regulators trying to make sure that we're operating in a compliant manner and we've had to we've
+42:3842 minutes, 38 secondshad to we are so so just everyone knows we we are compliant but it's been uh it hasn't been easy you know it really
+42:4642 minutes, 46 secondshasn't been easy because there are just so so many walls up and restrictions up that just make it that much harder. It's
+42:5342 minutes, 53 secondsin the same way, you know, like the old you need to be a sophisticated or an accredited investor in order to invest into this particular product, this
+43:0143 minutes, 1 secondsecurity, whatever it might be. It's like why why are they deliberately just um trying to in their in their eyes or
+43:1043 minutes, 10 secondsthat their explanation trying to protect those people that don't have $200,000 a year in income and a million dollars in assets or whatever the you know the criteria is. Oh, they're trying to
+43:1943 minutes, 19 secondsprotect us. They're trying to make sure that we don't get scammed by the bad actors. And yes, there are a lot out there, but at the same time, they need
+43:2543 minutes, 25 secondsto just kind of let it go and uh and let this uh let this puppy run because uh it's going to and it's going to be exciting when it does.
+43:3943 minutes, 39 secondsAll right, thanks for that, Luke. Thanks for that, guys. You know, I feel like there was a bunch of keywords that you just mentioned there. So, I'm going to throw this next question at you, Luke, since you kind of already opened up the
+43:4843 minutes, 48 secondstopic here. You know, you mentioned regulatory clarity, you know, the institutional interest in stable coins and a bunch of foundational infrastructure required to take RDBAs
+43:5643 minutes, 56 secondsinto the next step. With that being said, you know, we're all focused on building RDBS and infrastructure. What do you think is the fundamentals that an
+44:0444 minutes, 4 secondsRDA platform needs right now to capture that institutional interest that we're seeing?
+44:1044 minutes, 10 secondsOkay. Uh well, to my last point, you got to be compliant because institutions won't touch you if you're not. Uh so you have to be acting compliantly and
+44:1844 minutes, 18 secondsobviously that means whichever jurisdiction you're engaged in um that you you know you're playing by the rules. Uh so that's that's a given. Uh
+44:2744 minutes, 27 secondsand I think having a a strong uh team with a strong product and a strong solution. I mean it's the same thing
+44:3544 minutes, 35 secondsthat anyone investing into anything would look at. They want to look at the fundamentals and they want to understand
+44:4244 minutes, 42 secondshow secure, how safe is, um, you know, what they're putting their money into. I guess the thing with RWA, uh, which is
+44:5044 minutes, 50 secondsprobably, um, a good thing, frankly, is in true RWA, money goes off chain and it
+44:5844 minutes, 58 secondsis not sitting on chain. Like, so you're not rehypothecating DeFi, for example.
+45:0245 minutes, 2 secondsYou're not saying, "Hey, give us your money and we're going to go put it into Ave and something else and we might have a bit of tea bills." There's some people
+45:0945 minutes, 9 secondsobviously that are doing that. Uh, but true RWA, your funds go off chain. So, you're kind of reducing some of your
+45:1745 minutes, 17 secondsattack vectors um uh in so much that you know the the volatility with the crypto space um the fact that you could get
+45:2545 minutes, 25 secondshacked you know the exploits that have happened historically that's always an issue particularly for institutional. I mean, the idea of them just leaving
+45:3345 minutes, 33 secondsmillions upon millions of dollars sitting on chain ready for some um creative um uh hacker to come along and
+45:4145 minutes, 41 secondsand just drain it all is a problem. And so I think, you know, that's something that we as Casu and I'm sure plenty of other firms can say as well. You you put your
+45:4945 minutes, 49 secondsmoney into Casu, it gets converted into fiat, it's offchain. Like the attack vector is very small. Um so that's, you know, I think that's something that that
+45:5745 minutes, 57 secondspeople probably need to pay a little bit of attention to. Um but yeah look you just got to assess on the fundamentals like where's the yield coming from you
+46:0546 minutes, 5 secondsknow if it is reasonably solid yields um it's always there's always that correlation that relationship with risk you know the higher the yield the higher
+46:1346 minutes, 13 secondsthe risk so how can you find those asymmetric plays whereby you are getting a strong return but you're managing your downside and I think there are some
+46:2146 minutes, 21 secondsopportunities that are emerging out there that are probably worth looking at.
+46:2846 minutes, 28 secondsAll right, interesting points there. You know, I feel like it just begs the question like as long as they are what they what it is the RB name is, which is
+46:3546 minutes, 35 secondsreal world assets. Um, I guess anyone else from from the panel that were you gentlemen that want to add on to that before I jump into the next question.
+46:4546 minutes, 45 secondsI'm good, J.
+46:4846 minutes, 48 secondsOkay. Um, it looks like we're hitting that 1 hour mark and we do have at least one more question and of course a closing remarks here. you know I I feel
+46:5646 minutes, 56 secondslike we've been talking about the grand scale and where everything has been going and where it will lead into. Um so question for everyone here um and any of
+47:0447 minutes, 4 secondsyou could start and answer this. So the next question is you know over the next two to three years what developments whether technical regulatory or market
+47:1147 minutes, 11 secondsdriven you think will have the most potential to accelerate the growth of tokenized RBAS.
+47:2047 minutes, 20 secondsI might just jump in and this is actually a cautionary note actually now that Luke's brought the vibe down with uh with his hacking service, but um you
+47:2947 minutes, 29 secondsknow fraud fraud's always been a major risk in financial services and it could even become a bigger one uh with our RWA tokenization. Um we're thinking of like
+47:3747 minutes, 37 secondsAI and it wouldn't be a a space if we didn't mention AI. So just got to get Elon Musk's sort of AI sort of in there.
+47:4747 minutes, 47 secondsBut like AI can generate any any content, right? So those providers addressing this issue like mimicry risks and things like that. I mean they'll
+47:5447 minutes, 54 secondshelp grow the market despite those challenges. Um but aside from that, I guess macro trends um the economists
+48:0148 minutes, 1 secondjust featured uh Trump's embrace of all this. Um and then they cited Andrew Bailey who's the governor of the Bank of
+48:0848 minutes, 8 secondsEngland. Um Bailey went on to warn commercial banks against issuing their own coins. So I mean there's going to be some push and pull there. I think in the
+48:1648 minutes, 16 secondsmacro uh obviously Christine the guard is al always very quotable on that as well. Um but essentially you know USA's
+48:2548 minutes, 25 secondsgot this glass half full as opposed to a glass half empty. And I think um it's probably been mentioned before that Europe and some of the other um you know
+48:3348 minutes, 33 secondsAustralia perhaps would be fitting that probably seeing things a little bit more protected u rather than seeing growth uh
+48:4048 minutes, 40 secondsthrough regulation. So there are sort of my more sort of downer moments there but
+48:4648 minutes, 46 secondsum you know trad those those sort of categories tend to get a bit blurred
+48:5348 minutes, 53 secondsnow. So um you know JPM some of the big players have been putting hundreds and hundreds of millions into blockchain
+49:0049 minutesdeals in the last few years. Um so yeah stable coin volumes probably running at what trillion half a trillion USD each
+49:0849 minutes, 8 secondsmonth. So yeah there's plenty to be optimistic about but um yeah just thought I'd I'd bring in some of the black hat thinking.
+49:1749 minutes, 17 secondsI'll tell you why I'm optimistic Sean.
+49:1949 minutes, 19 secondsIt's because of the self-interest of the powers that be. Um, I'm just going to call it as it is. Trump is always going
+49:2749 minutes, 27 secondsto make sure that he's taking care of himself no matter what's going on here.
+49:3149 minutes, 31 secondsUm, like whatever whatever your thoughts are of the Trump coin, that memecoin that was launched. Many of you probably familiar with um, this is just slightly tangential, but I think also important.
+49:4049 minutes, 40 secondsMany of you probably heard of um, World Liberty, the um, the World Liberty Fund um, coin.
+49:4849 minutes, 48 secondsYeah. Well, it's it's all of the Trumps, but it's actually a couple of guys um Zack Fogman and Chase Herrow who would selling Chinese hair extensions, drop
+49:5549 minutes, 55 secondsshipping a few years ago, managed to crack into the crypto game pretty quickly u by meeting Trump on the golf course, I believe. Look, anyway, I'm not
+50:0350 minutes, 3 secondsI'm not questioning their capabilities or their experience in the space. Um I'm just what I would probably question is the utility of the the World Liberty
+50:1150 minutes, 11 secondstoken. Uh they I think they sold 20% of the supply. It's a governance token.
+50:1550 minutes, 15 secondsEven if one person spent the $2 billion to buy the entire 20% of the supply, you are not covering anything.
+50:2150 minutes, 21 secondsI thought this was meant this optimistic. Is this being optimistic?
+50:2750 minutes, 27 secondsI think many people paying a lot of attention to that. But what they are doing which is interesting is USD1.
+50:3250 minutes, 32 secondsSo this is the new stable coin uh that I'm hearing some rumors about which are going to be pretty interesting.
+50:3950 minutes, 39 secondsSo keep your keep your eyes open on USD1 uh from World Liberty. you go search it and Google it. They're they've updated their website to um uh
+50:4750 minutes, 47 secondsIs that a challenge or challenge challenge?
+50:5050 minutes, 50 secondsI just I look I just think and you you you said Eric Trump before. It's um the Trumps get 75% of the revenue from World Liberty. Um and the two guys that set it
+50:5950 minutes, 59 secondsup get 25%. Um that was at least in their earlier docs. In terms of USD1, I believe they're leveraging a lot of the
+51:0651 minutes, 6 secondsWhite House um connections and in to uh to make sure that this um gets a lot of attention from some interesting players
+51:1451 minutes, 14 secondsglobally. Uh so look, when you've got people with self-interest like that at play and the Genius Act just happens to get passed and USD1 is perfectly primed
+51:2351 minutes, 23 secondsto to benefit from that, then I think uh I think the flow and effect for everyone is probably pretty positive. I hear you.
+51:3451 minutes, 34 secondsI might add something about my thoughts on the future um of tokenized assets and and I really see the most utility um
+51:4251 minutes, 42 secondscoming through the potential liquidity in unlisted assets. Um as we all know at the moment, you know, you invest in a private company, good luck getting your
+51:4951 minutes, 49 secondsmoney back within the next 10 years. You know, think of the venture capital model. It's um what 5 to 10 year exit um before they make a return on their
+51:5851 minutes, 58 secondscapital. Um, typical typical VC fund is 15 to 17 years.
+52:0352 minutes, 3 secondsOkay, there we go. A lot longer than the ones I've seen lately. So, um, very true. And also um on the debt side,
+52:1252 minutes, 12 secondsprivate credit as well, what we're talking about early, you know, if it's not tokenized, if it's not treasuries or or T bills or whatever um you know, if you lend to a company, a private
+52:2052 minutes, 20 secondscompany, um it's not like you can just go on a a digital market and then on sell that debt to someone else take it
+52:2752 minutes, 27 secondsover from you. But with um RWA and and and blockchain, then you're tokenizing these assets and you're able to gain
+52:3452 minutes, 34 secondsinstant liquidity. So, I know Julian's done a lot of really innovative stuff in the past. ex swap in terms of crowdfunding for for startups and
+52:4352 minutes, 43 secondsprivate companies. Um secondary markets have always been a problem being able to sell that um that interest if it's not
+52:5052 minutes, 50 secondslisted. Um swap did some really cool things there. Um it's a problem that exists in in in the traditional um
+52:5852 minutes, 58 secondscrowdsource equity funding model at the moment. You know these really really early stage ideas. Yeah. Like Julian said, you know, 15 plus years for for
+53:0653 minutes, 6 secondsventure capital exit. or what about these just idea phase businesses that aren't even aren't even there yet for venture capital. They're getting they're
+53:1453 minutes, 14 secondsgetting um investment from from the crowd. It's going to be longer than 15 years if they even survive past the first couple years. But I guess the
+53:2153 minutes, 21 secondswhole point is that um RWAs allow liquidity in a real fluid way. The challenges though um it's still going to
+53:2953 minutes, 29 secondsbe compliance and licensing because once you start enabling the trading of those assets to other people in liquid markets
+53:3653 minutes, 36 secondsthere are securities legislative issues that you're dealing with. Um but maybe that's a good segue
+53:4353 minutes, 43 secondsinto um some of the stuff um Julian's seen in that space as well and if if you Julian see that still was the future of
+53:5153 minutes, 51 secondsRWA when when you know that the market's ready for it.
+54:0354 minutes, 3 secondsAll right, Julian. Yeah.
+54:0554 minutes, 5 secondsYeah. Um, well, yeah, I'm going to wrap it up in a few
+54:1354 minutes, 13 secondsminutes. I got to jump on the call. Um so like what what I think is important for everyone to take away uh you know
+54:2154 minutes, 21 secondsspending my life and money and time and energy and minutes on this life dedicated this space like look it it's
+54:2954 minutes, 29 secondsit's it's finally coming right for for the RWS space we've had and for those that
+54:3654 minutes, 36 secondsthere there needs to be there's there's a difference between stereotized
+54:4354 minutes, 43 secondstokenizing treasure Bidd $3 billion. I mean that that's a thing, right? That's a real world asset token. You put US
+54:5154 minutes, 51 secondsdollars in, you get shares of this treasury token. That's a real asset token. There's a difference between that
+54:5754 minutes, 57 secondsand utility tokens of RWA platforms, right? So, you know, and what does that mean? You know, even IS rights token of
+55:0655 minutes, 6 secondsour platform, that's not a real world asset token. It's the it's the platform token. It's our BNB. It's our uni token of our business and we're driving
+55:1555 minutes, 15 secondsutility towards it and value but it's a cryptocurrency right and it's the same for you know ono token right ono token
+55:2355 minutes, 23 secondsthat you can buy on a dex or on binance is not a real asset token it's a
+55:3055 minutes, 30 secondscryptocurrency it's the platform token of theo platform so it's important for me to kind of constantly reiterate this
+55:3855 minutes, 38 secondsissue or this fact Because a lot of the people coming in the space, they hear the word RWA, they think this is great,
+55:4655 minutes, 46 secondsmakes sense. I want to invest in this space. But are you investing into an equity or treasury token? Is that what
+55:5455 minutes, 54 secondsyou want? I don't think many people want that. I mean, I don't think anyone on this spaces wants that. or you're investing into a cryptocurrency that's
+56:0356 minutes, 3 secondsthe core token, the native token of a platform that is facilitating key infrastructure for the real world asset
+56:1056 minutes, 10 secondsindustry, right? So there's been, you know, a lot of um protocols and there's been there's been
+56:1956 minutes, 19 secondsa lot of like bad actors, let's just say, I don't want to pick on protocols, that are doing their best to convince
+56:2656 minutes, 26 secondspeople that, you know, the RWA industry is um solely rellyant on whatever they
+56:3356 minutes, 33 secondsdo for exist. But when you when you when you really take if if you really care if you take
+56:4056 minutes, 40 secondsthe time to understand what real asset tokenization is, if I can simplify it,
+56:4756 minutes, 47 secondsit's it's the tokenization. It's the it's putting equity in debt. It's putting shares. It's putting value of
+56:5556 minutes, 55 secondsreal world assets, whether that's a share of a company or a share of a fund
+57:0257 minutes, 2 secondsor a a loan of something to whoever into a tokenized format on chain. So, it can
+57:1057 minutes, 10 secondsbe more transparent utilized, you know, utilized in multiple different ways, collateralization, lending, etc. Or it's just a better system. Full stop. Right.
+57:2057 minutes, 20 secondsSo, so, so what it means is that people need to understand the difference and and when you think about tokenizing anything, let's just take a a
+57:2857 minutes, 28 secondstokenization of a of a of a of a private credit. So, let's say a company that Cassu knows, let's just bring the
+57:3657 minutes, 36 secondscompanies in on this on this chakra event. A company that Cassu knows wants to borrow money as a private credit
+57:4257 minutes, 42 secondstoken at 12% for 12 months and they're willing to give XY Z for it. So that token could be issued by ISS. It could
+57:5157 minutes, 51 secondsbe issued on the XDC protocol. So you now got like here's three synergistic companies here facilitating this actual
+57:5957 minutes, 59 secondstransaction. Not just yelling and screaming on Twitter about why we need price to go up, but an actual issuance
+58:0658 minutes, 6 secondsof a real asset token from the legal compliant position of where we sit where we issue. We do the KYC, we issue on a
+58:1458 minutes, 14 secondsprotocol that's legitimate, XDC, to an asset owner or or issuer, which is Casu or the Casu Partners. And now we have
+58:2358 minutes, 23 secondsthe actual full circle legitimate realistic deliverable of what the hell RWA really is. Okay, that that's what it
+58:3258 minutes, 32 secondsreally is, right? That that's the start to finish of an investor buying an RWA token. And then the reverse would be um
+58:3958 minutes, 39 secondsyou know Cassu's clients finishing the 12-month term, giving back $112
+58:4658 minutes, 46 secondsbecause they borrowed $100, right? In in through stable coins and tokens. The investors getting their $12 interest, everyone getting their money back. XDC
+58:5558 minutes, 55 secondscontinues on because of the protocol. IS continues on because we facilitate the trade and Casio generates a new loan tomorrow. Right? That's how it works. So
+59:0459 minutes, 4 secondsthat's that's what I think is really important. So if you if you're interested because you know most everyone wants to make money. I mean I don't know many people that don't want to make money but if you want to make
+59:1259 minutes, 12 secondsmoney you think about this. If you're going to buy cryptocurrencies that are related are you buying them from fluffy
+59:1959 minutes, 19 secondsprojects that just talk a lot of crap and um you know end up being a being a big rugpool or whatever the hell they
+59:2659 minutes, 26 secondsare or is there actual real business here? Do you really understand what's required because you can't just do you need this partnership right? You need
+59:3559 minutes, 35 secondsasset issuers and asset owners and you know specialists like you need protocols and you need licensed infrastructure.
+59:4259 minutes, 42 secondsWithout any of that the whole thing is a complete waste of time and everything's just it doesn't make any sense, right?
+59:4859 minutes, 48 secondsSo I'll just leave you with that. Um that's what you need to understand.
+59:5259 minutes, 52 secondsThat's why we brought these people here today to educate you guys and you know hopefully you join all the communities and follow all of them. And you know the
+1:00:001 hourlast thing I'd say everyone needs to buy more. That's it. Thanks, J.
+1:00:061 hour, 6 secondsAll right, speaking of full circle, it looks like we're finally reaching full circle on this session. So, I guess closing remarks from each of you gentlemen. Um, we can leave it at a sentence.
+1:00:161 hour, 16 secondsThey wanting remarks. I'll let the other guys finish. Okay.
+1:00:211 hour, 21 secondsIt was nice of you to close the loop, Julian. It was very, very nicely put.
+1:00:251 hour, 25 secondsDoes who wants to jump in first on the closing remarks?
+1:00:291 hour, 29 secondsYeah, sure. I'll just echo Jillian's thoughts. Go and buys. Um, Casu is not on market yet. We haven't launched it, so I can't show my own product. But, uh, definitely for your bags of ISS, guys.
+1:00:441 hour, 44 secondsWas Is that all you got to say? Yeah, that's it. All right. Is Leon still with us?
+1:00:521 hour, 52 secondsYes. Yes. No, I think um the closing remarks I had earlier about um the future RWA bringing liquidity and and I
+1:01:011 hour, 1 minute, 1 secondguess echoing um some of Julian's um assertions around know what you're buying um and understand the difference
+1:01:071 hour, 1 minute, 7 secondsbetween a utility token and what it actually does and how it helps you improve your experience with the
+1:01:141 hour, 1 minute, 14 secondsprotocol you're interacting with versus a security like token which is just an ownership of something or a cash flow
+1:01:211 hour, 1 minute, 21 secondsstream of something. So, um, I think that's all been pretty well covered. So, thank you for having me.
+1:01:281 hour, 1 minute, 28 secondsI was I was just I wanted to leave myself to last because my closing remarks and it's something I didn't get to say earlier uh or it wasn't really
+1:01:371 hour, 1 minute, 37 secondsrelevant but um you know when I was digging into some of the uh the policy weakness the stuff that happened and this is a bit of a departure from what
+1:01:441 hour, 1 minute, 44 secondswe've been talking about but maybe it's best to kind of this could be a space in its own right but um uh Tom Emma
+1:01:531 hour, 1 minute, 53 secondsaddressed the rising concerns of financial surveillance and and they really started um debating this and and they actually passed a anti-CBDC
+1:02:011 hour, 2 minutes, 1 secondsurveillance state act. So that's uh you know I know that's something if I mentioned earlier it probably would have just blown up the whole spaces but um
+1:02:091 hour, 2 minutes, 9 secondsyeah God bless America um you know the government controlled programmable currency doesn't really jive well with
+1:02:151 hour, 2 minutes, 15 secondsuh a lot of us in web 3 but um yeah but uh my closing remarks is is um there's a lot more going on underneath the hood
+1:02:231 hour, 2 minutes, 23 secondswith this um you know uh Trump administration um and uh yeah I'm a bit like Luke. I'm I'm kind of I'm kind of
+1:02:311 hour, 2 minutes, 31 secondslike keen to see where this goes. So, um yeah, maybe let's uh let's talk some other time. Thanks for having me.
+1:02:381 hour, 2 minutes, 38 secondsOkay, thanks Sh. That definitely sounds like an interesting topic. So, instead of being closing remarks, I think we might look forward to another session. My opening remarks.
+1:02:471 hour, 2 minutes, 47 secondsYeah. Okay. I guess well that wraps it up for today's session. I just want to say thank you again to XDC Network and Casu Finance and and of course Julian
+1:02:551 hour, 2 minutes, 55 secondsQuan for joining us today. Stay tuned and make sure to follow our partners protocols and we'll leave it there. Thanks guys. Thanks Jane. Thanks guys.
+1:03:031 hour, 3 minutes, 3 secondsThanks everyone. It's been fun. Thanks. Bye.
+
+Sync to video time
+
+All
+
+For you
+
+Recently uploaded

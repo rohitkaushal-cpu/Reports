@@ -1,0 +1,1010 @@
+
+Search in video
+Overview and Dual-Regime Framework
+0:03
+Hello everyone. I'm delighted to be with you today to talk about Hong Kong's licensing regime for virtual asset trading platforms, which I will at times refer to in this
+0:12
+webinar as VATPs and the recent developments in this space. During the course of today's webinar, I'm going to cover the scope of virtual asset
+0:21
+activities that require SFC licensing, the key licensing eligibility criteria,
+0:27
+and the ongoing obligations of licensed VATP operators. I'll also be looking at the recent changes to the regime,
+0:34
+including the streamlined application process introduced in January 2025 and the SFC's
+0:40
+circulars issued in April and August 2025, allowing licensed platforms to stake clients'
+0:47
+virtual assets subject to certain conditions and imposing additional obligations on them
+0:52
+in respect of their custody of clients' virtual assets. I'll end by looking at the potential consequences of misconduct involving virtual
+1:01
+assets, including the various statutory offences.
+1:07
+So Hong Kong has two licensing regimes governing VATPs. Platforms that offer trading in virtual assets that are not securities as defined in
+1:16
+Schedule 1 to the Securities and Futures Ordinance, the SFO. For example, Bitcoin must be licensed as virtual asset
+1:23
+service providers under the Anti-Money laundering and Counter-Terrorist Financing Ordinance, which I'll refer to in this webinar as the AMLO.
+1:31
+Platforms that provide trading and virtual assets that are securities, on the other hand, need to be licensed under the SFO for dealing in securities and
+1:40
+providing automated trading services. Given the possibility that a virtual assets regulatory classification may change from a
+1:48
+non-security to a security or vice versa, the SFC encourages VATPs and their relevant
+1:54
+employees to apply for licences under both ordinances. Applicants can submit a single consolidated application indicating that both licenses are
+AMLO Licensing Scope and Active Marketing Prohibition
+2:03
+sought. The VATP regime has been in force since June 2023,
+2:09
+and according to the SFC's website, there are currently 11 licensed VATPs and a
+2:14
+further 18 platforms waiting to hear the outcome of their licence applications.
+2:20
+Under the AMLO. An entity must be licensed if it carries on a business of providing a virtual asset service, which the AMLO refers to as a VA service in
+2:31
+Hong Kong, or holds itself out as doing so. Licensing under the AMLO is also required for an offshore entity to actively market to the
+2:40
+Hong Kong public. Any service that it provides outside Hong Kong, which would be a VA service if it were provided in Hong Kong.
+2:49
+That applies whether the active marketing is conducted by the trading platform itself or another person, for example a group company.
+2:57
+This means that an offshore entity is required to be licensed if it actively markets to the Hong Kong public.
+3:03
+A VA service that it provides offshore. In practice, however, the SFC will not license offshore entities
+3:09
+because they fall outside its regulatory remit. The provision, therefore operates to prohibit any offshore VA trading platform from
+3:18
+actively marketing its VA trading services to the Hong Kong public. Failure to comply with the AMLO's licensing requirements is an offence which carries
+3:27
+maximum penalties of seven years imprisonment, a fine of 5 million HKD and a daily fine of 100,000 HKD for continuing offences.
+3:38
+According to the SFC's FAQ Examples of active marketing include frequently calling on Hong
+What Counts as a VATP and Service Scope Limits
+3:44
+Kong investors to market services, including offering products and mass media programmes, and internet activities targeting Hong Kong investors.
+3:53
+The FAQ lists various non-exhaustive factors it will consider in determining whether
+3:58
+services are actively marketed to the Hong Kong public. These include whether there is a detailed plan to promote the services,
+4:05
+whether the services are extensively advertised using direct mailing adverts in
+4:11
+local newspapers or broadcasting or push technology over the internet, and whether the services are packaged to target the Hong Kong public.
+4:21
+For example, by being written in Chinese and denominated in Hong Kong dollars.
+4:28
+Providing a VA service is defined as operating a VA exchange, which is defined as providing services through means of electronic facilities,
+4:37
+whereby offers to sell or purchase virtual assets are regularly made or accepted in a
+4:42
+way that forms a results in a binding transaction, or persons are regularly introduced or identified to other persons in order that
+4:50
+they may negotiate or conclude, or with the reasonable expectation that they will negotiate or conclude sales or purchases of virtual assets in a way that forms a
+5:00
+results in a binding transaction. The SFC has said that the VATP licensing regime applies only to centralised VA trading
+5:09
+platforms that provide virtual asset trading services to clients using an automated
+5:14
+trading engine that matches client orders and also provide custody services as an ancillary
+5:20
+service to their trading services. The provision of virtual asset services without an automated trading engine and
+Virtual Asset Definition and Exclusions
+5:27
+ancillary custody services, for instance over the counter virtual asset trading activities and virtual asset brokerage activities,
+5:35
+does not require a licence. The SFC and FSTB are, however, currently consulting on new
+5:41
+licensing regimes for providers of virtual asset dealing services and virtual asset
+5:46
+custodians. There are three strands to the definition of virtual assets.
+5:51
+First, virtual assets are a cryptographically secure digital representation of value that
+5:57
+are expressed as units of account or a store of economic value. Secondly, the virtual asset must either be used or intended to be used as a medium of
+6:07
+exchange accepted by the public for the payment for goods or services, for the discharge of a debt and or for investment,
+6:14
+or must provide rights, eligibility or access to vote on the management, administration or governance of the affairs in connection with or to vote on
+6:23
+any change of the terms of any arrangement applicable to any cryptographically secure digital representation of value.
+6:31
+The third strand of the definition is that the virtual asset must be transferred, stored or traded electronically.
+6:38
+There are a number of specific exclusions from the virtual asset definition. It excludes digital representations of fiat currencies such as Hong Kong dollars and US
+6:48
+dollars. Central bank digital currencies. Financial assets already regulated under the SFO,
+SFO Licensing Triggers and Offshore Marketing Ban
+6:54
+such as securities and futures contracts, and stored value facilities, which are separately regulated under the Payment Systems and Stored Value Facilities
+7:03
+Ordinance. The definition also excludes limited purpose digital tokens,
+7:09
+which include non-transferable, non-exchangeable and non-fungible closed loop, limited purpose items such as air miles,
+7:17
+credit card rewards, gift cards, customer loyalty programs and gaming coins.
+7:23
+VATPs that provide trading in virtual assets that are securities within the definition and
+7:28
+schedule one to the SFO and provide automated trading services in those virtual assets,
+7:34
+or hold themselves out as doing so must be licensed under the SFO for regulated activities. Type 1 dealing in securities and type 7 providing automated trading services.
+7:48
+As for the AMLO licensing regime, licences are only required for centralised VATPs. That's trading platforms that provide trading,
+7:57
+clearing and settlement services for virtual assets and have control of client assets.
+8:02
+A licence is not required for platforms that provide peer to peer trading in virtual assets between clients, where the trades take place off exchange and
+8:11
+the clients retain custody of their virtual assets. As under the AMLO, the SFO prohibits an offshore entity from actively marketing to
+8:21
+the Hong Kong public any services it offers offshore that would constitute SFO regulated
+8:26
+activities if they were provided in Hong Kong under section 115 of the SFO.
+8:33
+That prohibition applies whether the offshore entity conducts the active marketing itself
+8:38
+or through another person, and whether the active marketing is conducted from offshore or in Hong Kong.
+Regulatory Materials and Eligibility for Licensing
+8:45
+The provision means that offshore VATPs can't actively market their offshore services to
+8:50
+the Hong Kong public. What constitutes active marketing is the same under the AMLO and the
+8:56
+SFO. While the AMLO and SFO set out the key regulatory provisions for VA trading
+9:03
+platforms. The detailed obligations and requirements are set out in various SFC
+9:08
+codes, guidelines and frequently asked questions. Most of the detailed obligations are set out in the SFC's guidelines for VATP operators,
+9:17
+which I'll refer to going forward as the VATP guidelines. Licensed VATPs must also comply with the SFC's guideline on Anti-Money Laundering and
+9:27
+Counter Financing of Terrorism. For licensed corporations and SFC licensed virtual asset service providers,
+9:35
+while their associated entities must comply with the SFC's Prevention of Money Laundering and Terrorist Financing Guideline for Associated Entities of Licensed Corporations
+9:45
+and SFC licensed VASPs. The SFC has also published FAQs on licensing matters and conduct related matters for
+9:54
+licensed platforms. For guidance on the licensing process, you can refer to the SFC's Licensing Handbook for VATP operators,
+10:03
+which can be downloaded from the SFC's website. In order to be licensed by the SFC, a trading platform operator needs to be
+10:11
+either a Hong Kong incorporated company that has a permanent place of business in Hong Kong, or a company incorporated overseas that's registered in Hong Kong under the Hong
+10:20
+Kong Companies Ordinance. Businesses that do not have a separate legal personality,
+10:26
+such as partnerships and sole traders, individuals and overseas companies that are not registered in Hong Kong are not eligible for licensing as VA trading platforms.
+Financial Resources and Responsible Officers
+10:37
+The VATP guidelines set out financial resources requirements that licensed platform
+10:42
+operators have to meet on a continuing basis. First, they must have at least 5 million HKD of paid up share capital and liquid capital
+10:52
+of the higher of 3 million HKD, and the basic amount, as defined in Division 2 of part 4 of the Securities and Futures Financial Resources
+11:01
+Rules. They must also beneficially own liquid assets such as cash deposits,
+11:07
+treasury bills and certificates of deposit, but not including virtual assets that are equivalent to at least 12 months of their actual operating expenses calculated on a
+11:17
+rolling basis. Platform operators must appoint a minimum of two responsible officers
+11:23
+to supervise their licensed business, who must be approved by the SFC. At least one responsible officer must also be an executive director of the company,
+11:33
+and if there's more than one executive director, they must all be appointed as responsible officers.
+11:39
+At least one of the responsible officers must be ordinarily resident in Hong Kong, and at least one responsible officer must be available at all times to supervise each
+11:48
+regulated activity or business. Platforms that are dual licensed under the AMLO and SFO are required to have two,
+11:55
+not four, dual licensed responsible officers to meet the statutory minimum of two responsible officers under each ordinance.
+Ownership, Fit-and-Proper Tests, and Manager-in-Charge
+12:05
+The substantial shareholders and ultimate owners of a VATP operator are also required
+12:10
+to be fit and proper, and must be approved in writing by the SFC. A substantial shareholder is a person with an interest of 10% or more in the platform
+12:20
+operator's issued shares, or a person with an interest in the platform operator's shares that entitles them, either alone or with their associates,
+12:29
+to control the exercise, directly or indirectly, of 10% or more of the voting power at its general meetings.
+12:37
+A person will also be a substantial shareholder of a VATP operator if they hold
+12:43
+shares in another company, which entitles them alone or with their associates, to control the exercise of 35% or more of the voting power at general meetings
+12:53
+of the company, or of a further company which can exercise either alone or with its
+12:58
+associates, 10% of the voting power at general meetings of the platform operator.
+13:05
+An ultimate owner is an individual who owns or controls more than 25% of the issued share
+13:11
+capital of the VATP operator, controls more than 25% of the voting rights
+13:16
+at its general meetings, or controls its management. The SFC's FAQs on measures for Augmenting Senior Management,
+13:25
+accountability, and Platform Operators implement a Manager in Charge regime based on
+13:30
+the requirements for other SFC licensed entities. The requirement is that trading platforms must appoint one or more managers in charge
+13:39
+as the person principally responsible, either alone or with others, for managing each of the platform operators eight core functions.
+13:47
+This seeks to ensure that trading platforms senior management assumes primary responsibility for ensuring the platform has appropriate standards of conduct,
+13:57
+and that those standards are adhered to. The eight core functions are first, overall management oversight,
+14:04
+which involves responsibility for the day to day direction and oversight of the platform's overall operations, and covers developing the platform operator's business model,
+14:14
+organizational structure, controls and policies, and developing and monitoring corporate governance practices,
+14:21
+culture and ethics. The second core function is Key Business Line,
+14:28
+which is responsible for directing and overseeing a line of business that is a regulated VA service under the AMLO or a regulated activity under the SFO.
+14:38
+Operational Control and Review is the third core function which is responsible for ensuring effective systems and controls.
+14:46
+The fourth core function is risk management, which is responsible for identifying, assessing and reporting risks arising from the platform's operations.
+14:55
+The fifth core function is finance and accounting, which has responsibility for financial reporting and analysis of the platform's
+15:03
+operational results and financial position. The sixth core function is information technology,
+15:10
+which relates to the platform's computer systems. While the seventh core function compliance is responsible for setting policies and
+15:17
+procedures for complying with the regulatory requirements and jurisdictions in which the platform operates. The eighth core function is anti-money laundering and
+15:28
+counter-terrorism financing, which is responsible for ensuring that effective controls are in place to prevent money laundering or terrorist financing.
+MIC Oversight, Premises Approval, and Record-Keeping
+15:38
+The managers in charge of the overall management, oversight and key business line functions are generally required to be responsible officers
+15:46
+of the activities they oversee. They can be located offshore provided they are accountable to the platform operator.
+15:53
+The board of a licensed platform operator needs to ensure that each manager in charge acknowledges their appointment as manager in charge,
+16:01
+and the particular core function for which they're primarily responsible. Any change in managers in charge must be notified to the SFC within seven business
+16:10
+days of the change. The SFC needs to be satisfied as to the fitness and properness of
+16:17
+its platform, its licensed staff, and its substantial shareholders and ultimate owner. The SFC takes various factors into consideration in determining whether a person
+16:28
+is fit and proper, including their financial status, insolvency, educational or other qualifications and experience evidence of
+16:36
+their competence, honesty and financial integrity. Convictions for any money laundering or terrorist financing offenses and other
+16:44
+offenses involving fraudulent, corrupt, or dishonest conduct. Platform operators also have to appoint a compliance officer to deal with complaints,
+16:53
+and an emergency contact person to be contacted by the SFC. These individuals do not need to be licensed.
+17:01
+SFC approval of the premises to be used for record keeping is also required.
+17:07
+The premises must be non-domestic premises that are suitable for storing the relevant documents and records.
+17:13
+The SFC will normally only approve premises that are located in Hong Kong, so that it can exercise its power to inspect a VATP operator's records.
+Streamlined Licensing and External Assessments
+17:24
+The SFC introduced a streamlined licensing process in January 2025 under its circular to
+17:31
+new VATPs, seeking to be licensed. Enhanced licensing process and revamped external assessments.
+17:39
+This simplified application process requires one external assessment report on the
+17:44
+platform's policies, procedures and controls instead of the previous requirement for two.
+17:50
+The first stage of the licensing process requires the submission of a licensing application bundle to the SFC, containing copies of the platform operator's
+17:59
+written policies and procedures, a copy of the request for a proposal from an external assessor, the external assessors, expression of interest in performing the
+18:08
+external assessment, and a capability statement for the external assessor.
+18:14
+The SFC will then assess the application, including the VATP licence,
+18:19
+applicants business structure, competence and the fitness and properness of the applicant. Its Ultimate Controller, ultimate owner,
+18:27
+substantial shareholder, proposed Responsible Officer and Proposed Manager in charge as well as the capabilities of the proposed External assessor.
+18:36
+Depending on the circumstances, the SFC may contest or express concerns about
+18:42
+the choice of external assessor, or otherwise determine that the application is incomplete and or as unresolved fundamental issues.
+18:51
+In these cases, the SFC will return the application to the applicant with reasons for its decision. Once the SFC accepts the application for a VATP license,
+19:01
+the applicant must deploy its systems and controls for ensuring compliance with the VATP guidelines and guideline on anti-money laundering and counter-terrorism financing
+19:12
+for licensed corporations and SFC licensed VASPs. When the applicant is ready to undergo an external assessment of its policies,
+19:20
+procedures, systems and controls, it needs to enter into a tripartite agreement with an external assessor and the SFC.
+19:28
+The licensed applicant must exercise due skill, care, and diligence in selecting and appointing an external assessor and must
+19:38
+ensure that it has adequate expertise, technical knowledge and experience of reviewing and assessing the operations of VATPs and thoroughly understands the
+19:47
+regulatory requirements for SFC licensing. The external assessment must be performed as a direct assurance engagement and must be
+19:56
+signed off by a practising Certified Accountant. The external assessor is required to form an opinion as to whether the licence applicant's
+20:04
+policy, procedures, systems and controls are suitably designed and implemented to meet the
+20:10
+requirements of the SFC's VATP guidelines and the AML CFT guidelines.
+20:17
+As a party to the agreement, the SFC will oversee the external assessment, provide clarity on regulatory standards, and provide feedback on the Assessment's
+20:27
+findings. Any findings by the external assessor need to be rectified during the
+20:33
+assessment process. The assessment report will then be submitted to the SFC for
+20:38
+approval of the licence application. If the SFC refuses a licensing application, the applicant will be given the opportunity
+20:46
+to be heard and the SFC will consider the applicant's representations before making a final decision. If the SFC then proceeds to refuse the application,
+20:57
+the applicant has a right to apply for a review of its decision to the Anti-Money Laundering and Counter Terrorist Financing Review Tribunal and the Securities and
+21:06
+Futures Appeals Tribunal. The SFC imposes a number of conditions on VATP licences.
+Licence Conditions, Reporting, and Service Changes
+21:14
+These include requirements that the platform operator complies with the VATP guidelines
+21:19
+and immediately notifies the SFC and ceases operating if it cannot maintain or ascertain
+21:26
+whether it maintains the required amounts of liquid capital and paid up share capital.
+21:31
+The licensing conditions also require VA trading platforms to provide the SFC with
+21:37
+monthly reports on their business activities within two weeks of the end of each calendar
+21:42
+month, and any other information requested by the SFC.
+21:47
+License platforms must also engage an independent professional firm acceptable to
+21:52
+the SFC to conduct an annual review of their activities and operations,
+21:57
+and prepare a report confirming that they have complied with the licensing conditions and all relevant legal and regulatory requirements.
+22:06
+The first report must be submitted within 18 months of the platform operator's licensing,
+22:11
+and subsequent reports must be submitted within four months of the end of each financial year and on request by SFC.
+22:20
+Under the licensing conditions VATPs must obtain the SFC written approval before
+22:26
+introducing or offering a new or incidental service or activity, or making a material change to an existing service or activity,
+22:34
+including the long suspension or termination of an existing service or activity.
+22:40
+The licensing conditions also restrict trading platforms to operating a centralised
+22:45
+online platform for trading virtual assets, although they can conduct off platform
+22:50
+virtual asset trading, business and services and activities that are incidental to that off platform business.
+Token Admission Governance and Ongoing Monitoring
+23:01
+SFC-licensed VATP operators must set up a Token Admission and Review Committee,
+23:07
+made up of members of senior management, who are principally responsible for managing the platform's key business line compliance, risk management and information technology
+23:16
+functions. The SFC expects members principally responsible for the various functions to include the corresponding managers in charge of the platform operator.
+23:27
+The responsibilities of the Token Admission and Review Committee include establishing,
+23:32
+implementing, and enforcing the criteria for admitting, suspending and withdrawing virtual assets for or from trading and the rules containing the
+23:41
+obligations and restrictions on virtual assets. The committees also responsible for making the final decision as to whether to admit,
+23:49
+suspend and withdraw a virtual asset for clients to trade based on the adopted
+23:54
+criteria. These criteria and rules must be regularly reviewed by the committee.
+23:59
+It must also report at least monthly to the board of Directors of the VA trading platform
+24:06
+operator, and its reports must, at a minimum, include details of the virtual assets made available to retail clients for trading.
+24:16
+Hong Kong licensed VATPs are required to monitor each of the virtual assets admitted
+24:22
+for trading on an ongoing basis, and consider whether to continue to allow them to trade. Regular review reports are required to be submitted to the Token
+24:32
+Admission and Review Committee. If the committee decides to suspend or withdraw a virtual asset from trading,
+24:39
+the platform operator must notify clients as soon as practicable. Inform clients who are holding virtual assets of the options available and ensure that
+Due Diligence and Retail Token Admission Criteria
+24:50
+clients are fairly treated. The VATP guidelines make a trading platform senior management,
+24:57
+primarily responsible for ensuring that the trading platform and its associated entity
+25:02
+have appropriate standards of conduct and procedures in place for their employees, and that their employees adhere to those standards and procedures.
+25:12
+In particular, senior management is responsible for ensuring that effective policies and procedures are in place to identify and manage the risks associated with
+25:22
+the business of trading platform and its associated entity. The term senior management refers to a platform operator's directors,
+25:31
+responsible officers and managers in charge of core functions.
+25:37
+Before admitting any virtual asset to trading license, trading platforms must perform reasonable due diligence on them to ensure that they meet
+25:46
+the token admission criteria set by their token Admission and Review Committee.
+25:52
+Platform operators have to conduct due diligence on the background of the virtual assets management or development team, or any of its known key members,
+26:02
+and the virtual assets regulatory status in Hong Kong, and whether that would affect its regulatory obligations.
+26:09
+They must also assess supply and demand for the virtual asset, its maturity and liquidity, including its track record period,
+26:17
+which must be a minimum of 12 months for virtual assets that are not securities. This effectively prevents platforms from offering ICO tokens for trading.
+26:27
+Platform operators must also consider the market and governance risks associated with
+26:33
+the virtual asset and legal risks associated with the virtual asset and its issuer.
+26:39
+Virtual assets that are to be made available for trading by retail investors must additionally meet the specific token admission criteria set out in paragraph 7.7
+26:51
+and 7.8 of the VATP guidelines. Retail investors are defined in the guidelines as persons other than professional
+27:00
+investors, as defined in the SFO. The key requirement is that the relevant virtual asset must be highly liquid.
+27:08
+For a virtual asset to be considered highly liquid, it must be an eligible large cap virtual asset that is,
+27:15
+a virtual asset that is included in a minimum of two acceptable indices issued by at least
+27:21
+two independent index providers. An acceptable index is an index with a clearly defined objective to measure the
+27:28
+performance of the largest virtual assets in the global market. For example, an index which measures the top ten largest virtual assets,
+27:37
+which is investable, which means that the constituent virtual assets must be sufficiently liquid and objectively calculated and rules based.
+27:45
+The index providers must have the necessary expertise and technical resources to construct, maintain, and review the methodology and rules of the index,
+27:55
+which need to be well documented, consistent and transparent. The two index providers have to be independent of each other.
+28:03
+The VATP operator and the issuer of the virtual asset. In addition, at least one of the index providers must comply with the IOSCO
+28:12
+principles for financial benchmarks and have experience of publishing indices for the
+28:17
+conventional securities market. Noting that large market cap does not necessarily correlate with high liquidity.
+Retail Access Controls and Stablecoin Policy
+28:26
+The SFC has said that inclusion in two acceptable indices is a minimum criterion,
+28:31
+rather than the sole criterion for virtual assets to be eligible for trading by retail investors. Trading platform operators are therefore expected to conduct additional due
+28:41
+diligence to ensure that eligible large cap virtual assets admitted for retail trading
+28:47
+are, in fact highly liquid. Trading platform operators are also required to ensure that a virtual asset being admitted
+28:54
+for retail trading is not a security, as defined in part 1 of Schedule 1 to the
+29:00
+SFO, unless the virtual asset offering to retail investors complies with the Hong Kong
+29:05
+regulatory requirements for public offers of shares and debentures under the company's Winding Up and Miscellaneous Provisions Ordinance,
+29:13
+and does not breach the restrictions on offers of investments under part four of the SFO. The SFC's prior written approval is required for the admission of any virtual
+29:23
+asset for trading by retail clients and for the removal or suspension of a virtual asset
+29:29
+from retail trading. If a licensed platform operator wants to make available for retail
+29:35
+trading a virtual asset that fulfills the general token admission criteria but not the
+29:40
+specific token admission criteria, it can make a submission to the SFC,
+29:46
+which the SFC will consider on a case by case basis, the SFC stated in its consultation conclusions on virtual asset platforms that
+29:56
+platforms should not admit stablecoins for retail trading until they are regulated.
+Investor Segmentation and Qualified Corporate PIs
+30:01
+In Hong Kong, a licensing regime for stablecoin issuers came into effect under the
+30:07
+stablecoins ordinance on the 1st of August 2025, in Hong Kong. Under the stablecoins ordinance,
+30:13
+only stablecoins issued by licensed stablecoin issuers can be offered to retail
+30:18
+investors under the VATP guidelines platform operators have to implement a number of
+30:25
+measures when providing trading for investors who are not institutional professional investors or qualified corporate professional investors.
+30:35
+Institutional professional investors are defined in paragraphs (a) to (i) of the definition of professional investors in Schedule 1 to the SFO.
+30:44
+Qualified corporate professional investors are corporate professional investors, that is, a trust corporation, corporation or partnership within sections 4,
+30:53
+6 or 7 of the Securities and Futures Professional Investor Rules, which the licensed platform operator has assessed to meet certain criteria.
+31:03
+The first of these criteria is that the corporate professional investor must have an appropriate corporate structure and investment process,
+31:11
+and controls for making investment decisions. The second is that the persons making investment decisions on its behalf must have
+31:19
+sufficient investment experience. And the third criteria is that the corporate professional investor must be aware of the
+31:26
+risks involved, which needs to be considered in terms of the persons who make investment decisions on its behalf.
+31:33
+The platform operator's assessment of whether a corporate professional investor is a qualified corporate professional investor must be in writing,
+31:42
+and the platform operator must keep records of all relevant information and documents obtained in the assessment to demonstrate the basis of its assessment.
+Product Restrictions and Prohibited Activities
+31:52
+Platform operators need to undertake a new assessment of a corporate professional investor as not traded virtual assets for more than two years.
+32:00
+These provisions mean that platform operators must treat individual professional investors,
+32:06
+that is, individuals with investment portfolios worth 8 million or more, and corporate professional investors that are not qualified corporate professional
+32:14
+investors in the same way as retail investors. Hong Kong licensed VATP operators are not allowed to offer trade or deal in virtual
+32:24
+assets, futures contracts or related derivatives. However, in the SFC's February 2025 regulatory roadmap for Virtual Assets,
+32:33
+the SFC stated that it's considering allowing licensed VA trading platforms to provide
+32:39
+trading in virtual asset derivatives for professional investors only. The other main restrictions on licensed VATP operators are that they and their group
+32:49
+companies are prohibited from providing any financial accommodation for clients to
+32:54
+acquire virtual assets. This prevents them from offering margin financing to their clients.
+33:00
+Licensed platforms are also prohibited from entering into arrangements with their clients to use their clients virtual assets to generate returns.
+33:09
+This prevents licensed trading platform operators from providing services such as
+33:15
+earning deposit taking, lending and borrowing. As I'll talk about later in April 2025 the SFC issued a circular stating that it will
+33:25
+allow licensed VATPs to stake virtual assets for clients, although they must seek the SFC's prior approval and comply with additional
+33:33
+conditions that are imposed on the licences of platforms permitted to provide staking
+33:38
+services. The SFC has also said in its February 2025 roadmap that it is considering
+Client Onboarding, Knowledge, and Suitability
+33:45
+allowing the provision of virtual asset borrowing and lending for professional investors. Licensed platforms are also prohibited from offering client gifts,
+33:55
+other than a discount to fees or charges for trading any specific virtual asset.
+34:01
+Licensed platforms are not allowed to post adverts for a specific virtual asset.
+34:07
+They are also prohibited from providing algorithmic trading services to clients,
+34:12
+and from conducting proprietary trading for their own account, or any account in which they have an interest,
+34:18
+except for off platform back to back transactions where no market risk is taken by
+34:24
+the platform operator. Licensed platforms are also prohibited from conducting market making activities on a
+34:31
+proprietary basis, and their group companies are prohibited from conducting proprietary trading in virtual assets through the platform operator on or off platform.
+34:42
+Platform operators are not allowed to open multiple accounts for a single client, except sub-accounts. Platform operators must obtain the SFC's written approval before
+34:54
+offering any virtual asset for trading by retail clients and before suspending,
+34:59
+trading of, or removing from trading any virtual asset available to retail clients.
+35:06
+Before opening an account for investors other than institutional professional investors and qualified corporate professional investors.
+35:13
+Trading platform operators must assess their knowledge of virtual assets and of the risks involved in Bolt and investing in them.
+35:20
+Trading platform operators can only open an account for or provide services to investors
+35:26
+who lack knowledge of virtual assets if they have provided adequate training to the investor. The VATP guidelines set out non-exhaustive criteria for assessing whether
+35:37
+an investor can be regarded as having knowledge of virtual assets. These are whether the investor has undergone training or attended courses on virtual
+35:46
+assets, or has virtual asset related work experience or prior trading experience in
+35:52
+virtual assets. For clients other than institutional investors and qualified corporate professional investors VA trading platform operators must also assess client's
+36:02
+risk tolerance level and determine their risk profile, and whether they are suitable to trade virtual assets.
+36:09
+Client's risk profiles need to be determined based on an assessment of their financial situation and investment experience and objectives.
+36:18
+Except for institutional and qualified corporate professional investors, VA trading platform operators must also set a limit on each client's exposure to virtual
+36:28
+assets to ensure that the client's exposure to virtual assets is reasonable given the
+36:33
+client's financial situation, including their net worth and personal circumstances. Platform operators must notify these clients of the limit assigned to them,
+36:44
+and must regularly review clients exposure limits to ensure they remain appropriate when
+36:49
+making a recommendation or solicitation with respect to virtual assets, platform operators must ensure the recommendation or solicitation is suitable
+36:58
+for the client having regard to information about the client of which the platform operator is or should be aware through due diligence.
+Disclosures and Transparency Requirements
+37:07
+This suitability requirement does not apply when dealing with institutional and qualified corporate professional investors.
+37:14
+Platform operators need to establish a proper mechanism for assessing the suitability of
+37:19
+virtual assets for clients. The suitability assessment needs to be made on a holistic basis,
+37:25
+taking into account the client's personal circumstances and concentration risk and the risk return profile of the recommended virtual asset should match the client's
+37:36
+personal circumstances, except when dealing with institutional and qualified corporate professional investors VATP operators must prominently disclose the
+37:46
+nature of virtual assets and the risks associated with trading them. Disclosure must include the risk disclosure statements specified in Schedule 2 to the
+37:56
+VATP guidelines. The VATP operators must disclose on their websites information about
+38:04
+the platforms, businesses, the services it offers and its contact details. They must also disclose their trading and operational rules,
+38:13
+and token admission and removal rules and criteria. These must also include the criteria for admitting,
+38:19
+suspending and withdrawing a virtual asset to or from trading, and the acceptable indices referenced for admitting virtual assets for retail trading.
+38:28
+All admission and trading fees and charges must be displayed, and disclosure is required of services that are only available to professional investors.
+38:38
+Websites must also disclose the rights and obligations of the platform operator and the client under the client agreement that clients other than institutional and
+38:47
+qualified corporate professional investors must enter into. Other matters requiring disclosure include the client's liability for unauthorized
+Custody Structure and Core Controls
+38:58
+virtual asset transactions, situations where the platform operator can disclose the client's personal information to third parties,
+39:06
+including regulators and auditors, and the available dispute resolution mechanisms, including the complaints procedure.
+39:15
+License platform operators need to post information about each virtual asset traded
+39:20
+on their platforms. That information includes the virtual asset's price and trading volume
+39:26
+on the platform. For example, in the last 24 hours and since its admission for trading on the platform, background information about the virtual
+39:35
+assets management or development team or any of its known key members,
+39:40
+the virtual assets issue date and its material terms and features, the platform operator's affiliation with the issuer and its management or development
+39:49
+team, or any of its known key members. A link to the virtual Assets official website and any white paper.
+39:56
+A link to any smart contract audit report and other bug reports. And if the virtual asset has voting rights, how those voting rights will be handled by
+40:05
+the platform operator. Platform operators need to take all reasonable steps to ensure that product
+40:12
+specific and other information posted on their platforms is not false, misleading or deceptive.
+40:18
+They are also required to disclose their financial condition on request to clients by providing their latest audited balance sheet and profit and loss account filed with the
+40:27
+SFC, and any material changes adversely affecting their financial condition since the
+40:33
+date of the accounts. A licensed VATP operator can only hold client assets,
+40:40
+that is, client virtual assets and client money through an associated entity. An associated entity is a Hong Kong incorporated subsidiary of the VATP operator,
+40:50
+which is a licensed trust or service company provider under the AMLO, which has notified the SFC that it is an associated entity of the licensed VATP
+41:00
+operator under section 53ZRW of the AMLO and section 165 of the SFO.
+41:09
+The associated entity is not allowed to conduct any business other than that of receiving or holding client assets.
+41:16
+On behalf of the trading platform operator. Client virtual assets must be held in wallet addresses established by the platform
+41:23
+operator's associated entity, and must be segregated from the assets of the platform operator and its associated entity.
+41:32
+At least 98% of client virtual assets must be held in cold storage, which is less vulnerable to hacking and other cyber security risks.
+41:41
+Except in limited circumstances allowed by the SFC on a case by case basis,
+41:46
+licensed trading platform operators must have robust internal controls and government
+41:52
+procedures to ensure that cryptographic seeds and private keys are securely generated,
+41:57
+stored and backed up. They must also ensure that their associated entities implement the
+42:03
+same controls and procedures which must, among others, restrict access to seeds and private keys for client virtual assets to authorise personnel
+42:13
+who have been appropriately screened and trained, and provide for seeds and private keys to be securely stored in Hong Kong.
+August 2025 Custody Enhancements
+42:21
+In the wake of financial losses suffered by overseas VATPs due to cyber security
+42:26
+incidents, the SFC imposed additional virtual asset custody requirements on licensed VATPs
+42:33
+and their associated entities on the 15th of August, 2025. In its circular on licence platform operators custody of virtual assets.
+42:43
+The circular requires platform operators to designate at least one responsible officer or
+42:48
+manager in charge to oversee the custody arrangements required under the circular. It also emphasizes the senior management's responsibility for ensuring that effective
+42:58
+policies, procedures and internal controls are implemented and that these are monitored
+43:03
+by qualified and experienced members of senior management. The circular adds new requirements for platform operators to conduct due diligence
+43:13
+when selecting providers of hardware security modules to generate, store and backup cryptographic seeds and private keys,
+43:22
+and perform regular ongoing assessments of them to ensure they remain reliable. In particular, platform operators must ensure the vendor's ability to maintain security
+43:32
+standards through patch management to protect virtual asset deposits and withdrawals from
+43:38
+fraud and theft. Seed and private key generation and storage must occur on air
+43:44
+gapped cold wallet devices, that is, wallets that are not linked to the internet. Multi-layer security checks must be put in place across each phase of
+43:53
+transactions, and clear role segregation is required. Effective controls must be implemented to block unauthorized cold wallet transactions.
+44:04
+The key measures required include. Whitelist controls to prevent transfers to unapproved wallet addresses.
+44:12
+Controls and oversight of changes to the cold wallet whitelist and automatic verification
+44:17
+of transactions to confirm their legitimacy when selecting third party wallet solution
+44:23
+providers. VATP operators must perform thorough due diligence of the provider and
+Third-Party Wallet Oversight and Readiness
+44:29
+continuously monitor the provider's compliance with the VATP guidelines after selection. This includes regularly assessing the provider's security controls,
+44:39
+operational protocols, incident reporting practices, and regularly testing its disaster recovery readiness.
+44:47
+The new circular also imposes requirements relating to ongoing real time threat monitoring and staff training.
+44:53
+In particular, transaction signers must receive comprehensive training to fully understand the verification requirements and appropriate procedures in cases of
+45:03
+uncertainty concerning a transaction, and controls must be implemented to prevent
+45:09
+blind sign signing and ensure effective reviews or approvals of manual transactions.
+45:16
+The SFC stated in the circular that once these new minimum standards for VA custody
+45:22
+are met, it will consider allowing VATPs to transition to more advanced custody
+45:27
+technologies. As alluded to in its February 2025 roadmap for Virtual Assets.
+45:33
+These custody standards will also form the baseline compliance criteria for SFC licensed
+45:39
+virtual Asset custodian service providers on implementation of the proposed licensing
+45:44
+regime that is currently under consultation. Licensed VATP operators must have compensation arrangements to cover potential
+45:54
+losses due to hacking incidents, or default on the part of the licensed platform operator or its associated entity.
+46:02
+These arrangements must be approved by the SFC. The compensation must cover 50% of client virtual assets held in cold storage and 100%
+46:12
+of client virtual assets held in hot and other storages. Compensation arrangements can include any or a combination of third party insurance funds
+Compensation Arrangements and Coverage
+46:24
+held in the form of a demand deposit or time deposit maturing within six months of the platform operator or any of its group companies,
+46:31
+which are set aside on trust and designated for that purpose, and a bank guarantee provided by a bank regulated in Hong Kong.
+46:40
+Licensed platform operators must also monitor the total value of client virtual assets
+46:46
+under their custody daily. If a licensed platform operator becomes aware that the total value of client virtual assets
+46:53
+under custody exceeds the amount covered under the approved compensation arrangement, and it expects this to continue, it must inform the SFC and take prompt
+47:03
+remedial action to comply with the VATP guidelines. Platform operators must comply with the AML and CFT requirements of the AMLO,
+47:13
+including the customer due diligence and record keeping requirements set out in Schedule 2 to the ordinance.
+47:20
+Non-compliance with the statutory AML and CFT obligations is an offence under both the VATP
+47:27
+and its responsible officers are potentially subject to maximum penalties of a 1 million
+47:32
+Hong Kong dollar fine and two years imprisonment, or seven years imprisonment if the non-compliance is committed with intent to
+47:39
+defraud. Trading platform operators must also comply with virtual asset specific AML CFT
+47:47
+requirements set out in chapter 12 of the guideline on Anti-Money Laundering and Counter Financing of Terrorism.
+47:53
+For licensed corporations and SFC licensed Vasps, in addition to the guidelines, general AML, CFT requirements applicable to
+48:01
+SFC licensed entities. The Prevention of Money Laundering and Terrorist Finance Guideline issued by the SFC
+AML/CFT Obligations and Travel Rule
+48:09
+for associated entities of Licensed Corporations and SFC licensed VASPs requires
+48:14
+associated entities of trading platform operators to comply with the same obligations
+48:20
+as the platform operator. VATPs are required to comply with the FATF's Travel Rule in relation to virtual asset
+48:29
+transfers. Very briefly, the Travel Rule imposes obligations on a trading platform acting as an ordering institution on a virtual asset transfer to
+48:39
+another licensed trading platform. Before making the transfer, the ordering trading platform must obtain and
+48:46
+record information about the originator of the transfer, including the originator's name and account number,
+48:53
+and the recipient's name and account number with the beneficiary institution.
+48:58
+The ordering institution must submit this information to the beneficiary Institution.
+49:04
+On receipt of the virtual asset transfer, the beneficiary institution must check that
+49:09
+it has received the required originator and beneficiary information and validate the
+49:14
+received information by checking that the beneficiary's details matches its customer.
+49:20
+License platform operators must also conduct due diligence on virtual asset transfer
+49:26
+counterparties to identify and assess the money laundering and terrorist financing risks, and apply risk based AML CFT measures.
+49:35
+The detailed requirements are set out in chapter 12 of the SFC, AML, CFT guideline, and also include obligations for institutions acting as
+49:44
+intermediaries. The AMLO requires a VATP to appoint an auditor and notify the SFC of its
+49:52
+financial year end, within one month of the grant of its VATP licence, it must notify the SFC of the auditor's name and address within seven business days of
+50:02
+their appointment. The same requirements apply to a platform's associated entity,
+Audit, Financial Reporting, and Approvals
+50:08
+that is, its Hong Kong Incorporated, wholly owned subsidiary that receives and holds client virtual assets.
+50:15
+The time frame for an associated entity's obligations is one month from when it becomes the platform operator's associated entity.
+50:23
+Both the trading platform and its associated entity must file their audited financial
+50:28
+statements with the SFC within four months of the financial year end. Platform operators must submit monthly financial returns to the SFC within three
+50:39
+weeks of the month end. Those financial returns must include the platform operator's liquid capital
+50:45
+computation and a summary of its debt, and an analysis of its client assets at the
+50:50
+month end, and an analysis of its profit and loss account. The SFC's prior approval is required under the AMLO for certain changes,
+50:59
+including, amongst others a change of financial year, cessation of business, the use of new premises for record keeping
+51:07
+and a person becoming a substantial shareholder or an ultimate owner of a VATP
+51:12
+operator. Application for approval is generally made on form VA2,
+51:17
+except for approval of changes to the licensed entities, substantial shareholders and ultimate owners for which form VA4 should be used.
+51:25
+The VATP guidelines also require VA trading platform operators and their associated
+51:31
+entities to immediately notify the SFC of various matters. These include any material failure or defect in the platform operators or its associated
+Notifications and Regulatory Filings
+51:41
+entities, trading, custody, clearing and settlement or accounting systems, and any material breach or suspected material breach of the AMLO,
+51:50
+the SFO or any SFC regulatory requirements, including under the VATP guidelines.
+51:56
+The SFC must also be notified immediately of any insolvency related matter affecting the
+52:02
+platform operator, its associated entity, substantial shareholder or ultimate owner.
+52:08
+The VATP guidelines additionally set out various events that must be notified to the
+52:13
+SFC within seven business days. These include a person ceasing to act as a licensed representative or a responsible
+52:20
+officer. A change in the name of a VA trading platform operator, and a change in the business address of a VA trading platform operator or its associated
+52:30
+entity. Notifications, regulatory filings, and annual returns should
+52:36
+all be submitted through the SFC's wings website. In April 2025, the SFC issued a circular setting out the conditions it will impose on
+52:46
+the licences of VATP that are permitted to provide virtual asset staking services to
+52:51
+their clients. Previously, trading platforms were prohibited from staking client virtual assets that is, providing arrangements that allow their
+53:00
+clients to receive returns from locking or committing their virtual assets so that a
+53:06
+validator can participate in blockchain protocols validation process that's based on
+53:12
+a proof of stake consensus mechanism. SFC approval is required before a licensed trading platform offers staking services.
+53:22
+The conditions that the SFC will impose on the platform's license are set out in Appendix 2 to the SFC circular and staking services provided by VATPs.
+Staking Services Conditions and Fund Participation
+53:32
+The conditions require that the licensed platform retains full control over the withdrawal mechanism for the staked client virtual assets at all times.
+53:41
+Client virtual assets cannot be held by external service providers. Platforms must implement controls to prevent fraud and unauthorized activities,
+53:51
+and must have clear operational rules governing the staking processes. Platforms must obtain an acknowledgement from retail clients that they understand the risks
+54:01
+involved before providing staking services to them. In addition, a dedicated committee must establish and review the criteria for
+54:09
+selecting blockchain protocols. Platforms can only provide staking services to their own clients.
+54:16
+The SFC also issued a circular allowing SFC authorised funds investing in virtual assets
+54:23
+to stake their virtual assets with licensed trading platforms.
+54:28
+SFC licensed virtual asset trading platform operators are required to implement a
+54:33
+continuous education programme for their licensed employees. Licensed platforms need to confirm their compliance with the CPT requirements when
+54:43
+they file their annual returns, and must assess their annual training programmes. Responsible officers need to complete 12 CPT hours per calendar year,
+54:54
+including two CPT hours and regulatory compliance by licensed representatives have
+55:00
+to complete ten CPT hours per calendar year. Training programs can be designed to suit the platforms size,
+55:08
+scope of business activities, and risk management system. The AMLO creates various offences in relation to activities in virtual assets that are not
+55:18
+securities. First, making a fraudulent or reckless misrepresentation to induce an
+Continuous Professional Training Requirements
+55:24
+acquisition or disposal of a virtual asset as an offence. Whether the transaction takes place on a licensed VATP or not.
+55:32
+The offence under section 53ZRG of the AMLO carries maximum penalties of a 1 million Hong
+55:39
+Kong dollar fine and seven years imprisonment. It's also an offence in a transaction involving virtual assets for a person to
+55:47
+employ any device, scheme or artifice with intent to defraud or deceive or engage in any
+55:54
+fraudulent or deceptive act, practice or business under section 53ZRF of
+55:59
+the AMLO. The maximum penalties for this offense are a 10 million Hong Kong dollar
+56:05
+fine and ten years imprisonment. Finally, it's an offence under section 53ZRE to issue an advertisement that an unlicensed
+56:14
+person is prepared to provide VATP under the AMLO services.
+AMLO Offences for Non-Securities Virtual Assets
+56:19
+The offence carries sanctions of a 50,000 Hong Kong dollar fine and six months imprisonment. There are comparable offences under the SFO in relation to the same conduct
+56:29
+in virtual assets that are securities within the statutory definition.
+56:35
+First, it's an offence under section 107 of the SFO to make any fraudulent or reckless
+56:40
+misrepresentation to induce another person to deal in securities, which includes acquiring, disposing and subscribing for securities.
+56:49
+Any person found guilty of this offence is potentially liable to a maximum fine of 1
+56:55
+million HKD and up to seven years imprisonment. It's an offence under section 300 of the SFO for a person in a transaction involving
+57:03
+securities, including an offer or invitation. However, that's expressed to employ any device,
+SFO Offences for Security Tokens and Offers
+57:10
+scheme or artifice with intent to defraud or deceive or engage in any act or practice
+57:15
+which is fraudulent or deceptive. An offence under section 300 is punishable by a fine of up to 10 million HKD,
+57:24
+and imprisonment for up to ten years. By virtue of section 303 of the SFO, a further offence exists under section 103 of
+57:32
+the SFO, which prohibits the issuance of any document inviting the Hong Kong public to
+57:38
+acquire or subscribe or underwrite securities unless the document is being authorised by
+57:44
+the SFC or an exemption applies. The exemptions most commonly relied on include those for invitations for securities
+57:52
+that will only be sold to professional investors or overseas investors. The penalties for a breach of this provision are a $500,000 fine and up to three years
+58:02
+imprisonment. Section 53ZSR(5) of the AMLO and section 193(2) of the SFO further provide
+58:11
+that responsible officers and persons involved in the management of licensed VA trading platforms must also be found guilty of misconduct,
+58:20
+and thus liable to disciplinary sanction if the licensed trading platforms misconduct
+58:25
+occurred with their consent or connivance, or was attributable to neglect on their part.
+58:31
+The SFC has extensive powers to discipline licensed VATPs, their licensed representatives, and responsible officers and persons involved
+58:40
+in their management, irrespective of whether they are licensed. Misconduct is defined broadly to include a breach of any provision of the AMLO or SFO,
+58:50
+a breach of the terms or conditions of a person's license, and any act or omission which the SFC considers to be contrary to the interests of
+58:57
+the investing public. The sanctions that the SFC can impose include a public or private
+Disciplinary Powers and Court Remedies
+59:04
+reprimand, and a fine of up to the greater of 10 million HKD, or three times the amount of profit gained or loss avoided by the person as a result of
+59:13
+their misconduct, or the conduct which led the SFC to believe that they were not fit and proper to be licensed.
+59:20
+The SFC can also revoke or suspend the licence of a licensed trading platform or
+59:25
+licensed representative, and revoke or suspend a responsible officer's approval. The SFC can also order a person to remedy their breach of the relevant
+59:34
+ordinance, and may ban a person from reapplying to be licensed. S. 53ZTH of the AMLO and section 213 of the SFO allow the SFC to apply to the Court of
+59:48
+First Instance for various orders against a person who has breached any provision of the relevant ordinance, any condition of their SFC license or any other conditional
+59:58
+requirement imposed or notice given under any provision of the relevant ordinance. The AMLO additionally allows the SFC to apply for orders against a person who has breached
+1:00:08
+any provision of any code or guideline published under the AMLO, which would include a breach of the VATPs guidelines.
+Closing Remarks
+1:00:16
+The SFC tried to include a similar provision in the SFO to allow it to seek orders,
+1:00:21
+including orders for the payment of compensation against a person in breach of the various SFC codes, including the Code of Conduct for persons
+1:00:29
+licensed by or registered with the SFC. The SFC, however, dropped that proposal in the face of widespread opposition from the
+1:00:36
+market, which had concerns regarding the courts being able to impose legal remedies
+1:00:41
+for breaches of SFC codes and guidelines, which are non-statutory.
+1:00:47
+The orders that can be made by SFC include injunctions for the relevant person to take
+1:00:53
+or refrain from taking a specified action. These can include a restoration order to put the other party to the transaction back to
+1:01:01
+the position they were in prior to the transaction. In instances under the SFO, the SFC has been successful in obtaining
+1:01:09
+orders for the licensed party to compensate counterparties for the loss they suffered due
+1:01:14
+to the licensed parties misconduct. The court can also declare a virtual asset transaction to be void.
+1:01:21
+The SFC can seek orders not only against the person who has committed the relevant breach, but also against others who have, for example,
+1:01:29
+assisted or conspired with the wrongdoer to commit the breach or being knowingly involved
+1:01:34
+in its commission. So that brings us to the end of today's webinar.
+1:01:40
+Thank you again for joining me, and I hope you enjoyed the webinar. See you again by.
+

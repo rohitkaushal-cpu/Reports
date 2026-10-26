@@ -1,0 +1,389 @@
+Transcript
+
+
+Search in video
+0:07
+[GENTLE MUSIC] KATHLEEN DEROSE: Good morning, everyone, and welcome. I'm Kathleen DeRose, the director of the FinTech Initiative at the Fubon Center for Technology, Business, and Innovation,
+0:16
+and a finance professor here at the Stern School of Business at NYU. I'm very excited to welcome so many of you from our community who registered for the conference today.
+0:25
+I think we have nearly a thousand people. We're very proud of our FinTech programming, our FinTech research, and our FinTech education,
+0:33
+which includes critical FinTech courses for undergrads, MBAs, master's students, and executives.
+0:39
+Thank you also to the Fubon Center and to our generous alum and donor who makes this and our other events possible.
+0:46
+I'd like to note a few key themes for today before we get started. We have an impressive lineup of speakers.
+0:53
+Today's program was carefully designed to showcase a wide variety of expert voices addressing key finance and technology topics from different viewpoints.
+1:00
+You may agree or disagree with some as conferences like this provide us all with a chance to engage with material that may be either comfortably familiar or new and thought-provoking.
+1:12
+Our conference title today is Betting on the Future. That future is ours to shape.
+1:19
+The hottest topics in FinTech today are artificial intelligence, stable coins and tokenization, and market electronification and prediction markets.
+1:26
+Our emphasis today is on the transformation of markets and market structure unfolding right in front of us.
+1:32
+Stable coins are a multibillion-dollar pool of value poised to transform critical areas of retail and wholesale finance, including international remittances and derivatives settlement.
+1:41
+Virtualization is spreading through asset classes, bringing efficiency and transparency to more and more markets.
+1:47
+Venues are tokenizing real-world assets and trading them 24-7. Prediction markets have reached nearly $25 billion a month of notional volume, more than double six months ago, and begun to attract institutional market makers, facilitating the trading of almost anything that can be transformed into a yes-or-no question or bet.
+2:06
+So I'm incredibly excited that we have fantastic business leaders at the cutting edge of all this, from TradeWeb, Cal-She, Robinhood, Citibank, and Superstate.
+2:14
+As always, we also have insights from folks working in both academia and policy, the combination of practitioner views and scholarly perspectives being a particular emphasis for this conference.
+2:25
+Today we have experts from the Bank of International Settlements on the implications of stable coins for our financial system, and from leading professors on the economic implications of prediction markets.
+2:35
+Last but not least, we always feature our student FinTech organizations, as they are our next generation of FinTech leaders.
+2:40
+Please join me in welcoming all of our attendees and speakers for what promises to be an absolutely terrific morning.
+2:47
+I'd now like to introduce our first speaker, Ronit Ghose. Ronit runs the Future of Finance team at Citi Global Insights, Citi's thought leadership unit.
+2:56
+The team is focused on the intersection of the future of money and finance in emerging tech. Ronit's new book, Future Money, was published in 2024.
+3:04
+Ronit and his team produced one of the most well-documented forecasts for stable coin adoption. He's here to discuss how this forecast is developing and what we should all be focused on as the use of stable coins spreads.
+3:16
+Ronit, over to you. RONIT GHOSE: Thank you, Kathleen, and thank you to the NYU Stern team for having me on.
+3:22
+I'm going to be talking about stable coins and the implications of stable coins.
+3:27
+This is a change to digital and financial infrastructure.
+3:33
+We're going to talk a little bit about why stable coins today. What does it mean for banks?
+3:39
+And also, what does it mean for geopolitics? How does the world of money, and particularly cross-border money, change?
+3:46
+The main points we're going to be making are as follows. Number one, we see significant institutional adoption ahead in the next five years.
+3:58
+This is driven by increasing regulatory clarity in the U.S., in the EU, Singapore, UAE, and other markets.
+4:10
+As importantly, there is a maturing of the financial infrastructure around digital assets that enables both bank and corporate uptake.
+4:21
+Implications of this could include some deposit disintermediation, increased competition in payments, and also rising demand for short-term U.S. treasuries.
+4:33
+We believe banks and many clients, particularly corporate clients of banks, will prefer to use tokenized deposits, at least as a bridge product.
+4:44
+And this will be the regulated financial industries version, or supplementary version, of stable coins.
+4:52
+Stable coins also have the impact of being a catalyst to drive adoption of other digital form factors, including central bank digital currencies.
+5:05
+We believe the current U.S. administration's focus on stable coins is going to accelerate work on CBDCs in China and India, and potentially in Europe.
+5:17
+But first, let's set the scene and define what stable coins are.
+5:22
+They're a financial instrument that runs on a public blockchain, and the value is linked to a reference asset, typically fiat, largely dollars.
+5:31
+But it could be something else. It could be gold, for example, and its roots come out of the cryptocurrency industry.
+5:38
+The use case now, or the appeal now more broadly, is that it offers you speed.
+5:44
+Stable coins can settle in minutes, whereas traditional cross-border payments go in hours, sometimes days.
+5:51
+Stable coins are also active 24-7, and very importantly, they offer programmability.
+5:58
+Now, let's look at a little bit of the legal definition of stable coins, and this is important.
+6:06
+Money is a liability. Central bank money, i.e. reserves a commercial bank holds at the central bank, or cash in circulation, is a liability of the central bank.
+6:17
+If I hold a bank note issued by the Federal Reserve, the Bank of England, or in my case, I'm based in Dubai, the UAE Central Bank, it's a liability of the central bank of the UAE, or the U.S., or the U.K.
+6:35
+Commercial bank money, or deposits, your deposit at a Citi, or a J.P. Morgan, or an HSBC, is exactly the same.
+6:42
+You give us your money, we owe it back to you. Stable coins, historically, pre-regulation, have not been as strictly defined as a liability.
+6:56
+It has money-like properties. You have a promise of the stable coin being redeemed at par value on demand.
+7:07
+But before we had the Genius Act, or MECA, or the UAE, or the Singapore Regulatory Frameworks, we didn't really have any rules and laws.
+7:17
+It was based on market powers. And the reason we've been so interested in the developments over the last 12, 18 months around stable coins is that now you have a framework.
+7:26
+A stable coin issued by ABC issuer in the U.S. or the Eurozone is now a liability of an institution, which is redeemable at par.
+7:39
+And it's going to be a regulated institution, someone bank-like. By clear contrast, cryptocurrencies are no one's liability.
+7:47
+I think of cryptocurrencies as a financial asset, as an investment asset, sometimes very speculative, useful for many, for sure, but volatile and speculative.
+7:59
+Whereas stable coins I see as a bridge to the world of traditional fiat money. We spent a lot of time in the last couple of weeks, last couple of months, talking about agents, AI agents.
+8:10
+And one can imagine that stable coins could be the token of money of choice or money-like instrument of choice for AI agents.
+8:23
+People, including Jeremy, the CEO of Circle, believe that there are going to be billions of AI agents doing economic activity on behalf of us 24-7.
+8:35
+And the natural instrument that this agent will be using is going to be a stable coin.
+8:43
+As you'll see on the next page, there's been a significant growth in stable coin issuance.
+8:50
+But it still remains relatively small. We're talking about a market that's sub $300 billion in issuance or around $300 billion in issuance, give or take.
+9:02
+And a turnover, as you'll see on the next page, of around $11 trillion on our preferred definition.
+9:09
+There's a debate around just how big the market is, because most stable coin activity today remains very much a cryptocurrency industry phenomenon.
+9:25
+As you'll see on the next page, our forecast for stable coins is that they will grow significantly.
+9:33
+Our base case forecast in our report from last year, stable coins 2030, was the name of the report.
+9:38
+It's publicly available. You can download it on the search engine of your choice without any paywalls or firewalls.
+9:44
+In that report, in Q3 of last year, we said 2030, the market's going to be about $1.9 trillion base case.
+9:54
+And we put out a bull case of $4 trillion. This was an updated version of a report we had out in around April last year called Digital Dollars.
+10:03
+In that report, we forecast similar numbers, slightly lower. We had a bull case of $3.7 trillion and a base case of $1.6 trillion.
+10:14
+And we were particularly pleased that those forecasts were used by the U.S. Treasury Department in their public communications around the GENIUS Act.
+10:24
+What's going to drive the growth of the market? Three legs. Number one, the existing cryptocurrency markets are going to be still an important part of the stable coin volumes in 2030.
+10:37
+Secondly, money held outside the U.S. looking for dollars, looking for a dollar proxy, a liquid cash-like dollar proxy.
+10:49
+We believe that particularly in higher inflation, weaker currency, non-G10 jurisdictions, you're going to see significant uptick and usage of dollar stable coins.
+11:03
+Though some of this will be in the grey market rather than in the regulated market. And lastly, onshore, we will see some industries pick up stable coins as a payment tool.
+11:15
+And I say some, and I'll stress some here. We don't believe it's going to become the main or only payment at checkout.
+11:24
+But just like BNPL, buy now, pay later, has become an option at checkout, along with your Visa card and your MasterCard, or in Europe, debit and account-to-account payments,
+11:35
+we now have at checkout the Klanas, the Affirms, in the Middle East, the Tabis and the Tabaras.
+11:43
+We think there will be a stable coin option, perhaps bundled into a loyalty program, like an e-commerce loyalty program or a travel loyalty program.
+11:55
+You as a user may not actually need to hold a stable coin wallet or even see the stable coin in action.
+12:00
+But the plumbing behind that loyalty program will be stable coin-based.
+12:06
+One interesting trend, and we're seeing this, and if you go forward a couple of pages, we're seeing this in the huge number of announcements of new stable coins.
+12:18
+Everyone seems to want a stable coin or a Layer 1. These are on the page in front of you, on page 11, just some of the announcements we've had over the last six to nine months of stable coin companies or other crypto or fintechs or tech companies
+12:37
+announcing a new stable coin-focused Layer 1 blockchain.
+12:42
+Circle, Stripe, Google are amongst some of the major players who've announced their own Layer 1 blockchain.
+12:50
+You're also hearing a lot of stable coin projects being announced by existing financial services companies, fintechs and others.
+12:59
+And you'll see on the right-hand side of page 11, a non-exhaustive list. An interesting point here is how globally diverse these list of issuers are.
+13:10
+2025 was a year of project announcements. We believe 2026 is going to be the year of execution and implementation.
+13:18
+And between 2026 to 2028, we think there'll be a big pickup in the non-crypto native industry use case of stable coins.
+13:29
+As you'll see on the next page, we are beginning to see a lot of corporate interest.
+13:38
+Retailers, online and offline, are exploring actively stable coins for a variety of reasons.
+13:47
+One is it could simplify transactions cross-border. It could lower transaction fees and potentially give the retailer greater control and insights into their users.
+13:59
+So there's a lot of interest in the corporate sector. Up to now, it's been largely pilots and projects.
+14:08
+We have seen some more digitally native companies push ahead with their own stable coin-like projects.
+14:17
+Though often these are more akin to deposit tokens or tokenized deposits.
+14:23
+One very large e-commerce player is already doing a lot of its international treasury business using deposit tokens, tokenized deposits.
+14:34
+And on the next page, we'll try to define what these tokens are.
+14:40
+We're calling them generically bank tokens, but it's worth stressing that a tokenized deposit and a deposit token are different instruments.
+14:50
+But let's just, for the sake of keeping it simple, talk about them as bank tokens initially before double-clicking on the differences.
+14:57
+So what is a bank token? A bank token is like a stable coin, but it's a direct claim on funds held at a commercial bank.
+15:07
+So in a stable coin, the reference asset or the reserve asset is typically, in the U.S. example, T-bills or similar highly liquid assets.
+15:18
+In the case of a bank token, the reference asset, the reserve asset, is the deposits or the balance sheet of the bank.
+15:26
+And remember I gave you a few pages earlier definitions of money, and I said commercial bank money is a liability of a commercial bank.
+15:38
+It's an IOU of that commercial bank. Bank tokens are exactly the same thing.
+15:44
+They're a liability of the issuing bank. Many existing corporates, MNCs, appear for now to prefer bank tokens.
+15:57
+Now that statement will be debated. There will be many corporates, particularly digitally native companies, who are happy to go to stable coins directly.
+16:09
+But for many corporates that I talk to, they prefer existing banking relationships.
+16:15
+They do not want to interact with new rails.
+16:20
+They want to keep their existing rated regulated counterparts.
+16:27
+And the current systems, while sometimes for smaller corporate users and individuals, not as efficient as domestic payments,
+16:39
+for large players when it goes to cross-border, large value, multi-currency flows, they seem to be getting better and better.
+16:50
+And have almost, not completely, but almost got rid of some of the major hurdles that used to exist a few years back in terms of time to settlement, in terms of cost of flows.
+17:08
+Deposit tokens do have, or specifically tokenized deposits.
+17:13
+Tokenized deposits do have one major shortcoming.
+17:19
+They're not interoperable. So if you hold a deposit token from one bank, it only works inside the rails of that bank.
+17:26
+Now, that is being worked on. There are projects underway at various banks to try to get some of the interoperable goodness of stable coins with the regulated and privacy benefits of having a bank relationship.
+17:41
+So watch this space. Now, what does this mean for the financial industry overall?
+17:47
+Many central banks, many regulators, many policymakers stay awake at night worrying about implications, destabilizing implications of new technologies, including stable coins, on banks, bond markets, the financial system in general.
+18:06
+And in Europe and in Asia, banks are a much bigger part of the financial system than in the U.S.
+18:14
+The U.S. has now for decades had a heterogeneous, diversified, multi-market, multi-institution financial system.
+18:27
+You've got commercial paper markets that have been around for a very long time, bond markets, corporate bond markets, bank markets, private credit markets more recently.
+18:38
+It's a much more rich tapestry. Whereas I'm doing this call today from India, the credit markets in India tend to be much more bank-driven, just like they are in a France or a Germany.
+18:55
+Now, it's no surprise that policymakers in countries that are very heavily bank-driven are more concerned about digital assets.
+19:05
+You see on the next page some of the implications.
+19:13
+Some banks are concerned that particularly yield-bearing stable coins could cannibalize bank deposits.
+19:22
+Under current regulations in most jurisdictions, at least all jurisdictions that I'm aware of, stable coin issuers do not offer direct interest.
+19:32
+But there is a concern that there will be some cannibalization, and I'll come back to that later in the discussion.
+19:41
+Should there be, and it's conditional, should there be deposit migration from banks to stable coins, there could be an impact on credit creation and credit availability.
+19:54
+Albeit, I believe that's more of a transition issue. There's nothing that says a system, a financial system that is more bank-driven or less bank-driven creates more or less credit.
+20:07
+In practical experience of almost 30-plus years analyzing financial markets and financial services institutions in my career,
+20:16
+I've come across systems that are heavily non-bank-funded, non-deposit-funded, which generate ample credit.
+20:27
+And I've come across systems that are very bank-deposit-heavy that don't generate credit.
+20:34
+I've also come across bank systems that are deposit-based that do generate a lot of credit.
+20:39
+So there's no simple A equals B. And I wanted to stress that because sometimes in public policy discussions, in the media, that gets lost.
+20:52
+In my view, and this is a Citi Institute view, as an analyst at Citi Institute, we believe that there will be, and we agree with the U.S. Treasury in this case,
+21:06
+that there will be an increased demand for treasuries because a lot of the stable coin demand is coming from outside the existing U.S. financial system or the existing U.S. regulated banking markets.
+21:22
+This is net new demand to the U.S. system, and that's going to increase demand for treasuries.
+21:29
+And that should lead to, all else equal, some reduction in the short end of the yield curve.
+21:39
+Impact on money supply will very much vary depending on what the source of the stable coin demand is.
+21:50
+A bit like my earlier comment on demand for treasuries and credit creation.
+21:55
+It's not a guarantee that this is a good thing or a bad thing for credit creation or money supply.
+22:01
+It'll depend on the circumstances. It might seem like a cop-out, but there's no simple answer here as to whether or not it's good or bad for credit, money supply, et cetera.
+22:14
+It will also increase the amount of financial and non-financial risk that regulators and policymakers will need to monitor.
+22:25
+And this is going to slow down some of the corporate adoption of stable coins.
+22:30
+On the next page, we have a very detailed analysis on the implications on bank deposits.
+22:39
+And if I gave you the TLDR or the one-liner, I said before it depends.
+22:44
+And a lot of this depends on where is the demand coming from?
+22:50
+Is it coming from outside the existing banking system, outside the domestic banking system?
+22:56
+And so the source of the inflow. And then what is the structure of the stable coin in the market we're talking about?
+23:06
+Are the reserves held directly of the stable coin issuer in T-bills or the central bank, in which case it's a net negative potentially for the banking deposit funding?
+23:23
+Or is it simply a substitution where the inflow, the stable coins, the issuers that are buying T-bills are buying it from existing T-bill holders domestically who are reinvesting the money, placing the money back into the banking system?
+23:42
+And then it's kind of a neutral. There's a whole range of permutations.
+23:48
+This page, page 16, kind of sets it out. And hopefully if you need access to this, we can provide this page.
+23:56
+It's inspired by borrowed from a Federal Reserve report from a couple of years ago, but still very relevant today.
+24:05
+Let's double click on the Treasury point to understand the incentives or what's motivating the U.S. Treasury, the U.S. government.
+24:15
+For me, the money picture, the key slide, is in the middle of that page.
+24:21
+Ownership of U.S. Treasuries by China. That peaked north of 1.2 trillion about a dozen years ago.
+24:32
+Late 2012, 2013, you had 1.2, 1.3 trillion of U.S. Treasuries held by China.
+24:40
+That's now down to about 650. As a percentage, foreign ownership of Treasuries peaked at about 50% post-GFC, post the global financial crisis.
+24:53
+We're now down to about 30%. And the trend, we believe, will continue to come down.
+25:01
+Public sector, central bank holdings of dollars remains under pressure.
+25:09
+And stable coins are seen as one, particularly for the T-bill market and the short-term yield curve,
+25:18
+one replacement for reduced demand from public sector and reserve manager and central bank type investors.
+25:29
+Skip forward a couple of pages, you'll see the data, the trends of central bank diversification in foreign exchange reserves.
+25:40
+There's a significant increase, particularly in China and Russia, of gold holdings.
+25:49
+There's also no longer the selling down that we used to see 10, 15 years ago from western central banks of gold.
+26:01
+And on the right-hand side of page 19, you can see gold holdings as a percentage of reserves,
+26:07
+particularly in Russia, are as high as they've been in modern history in the last 25 years.
+26:17
+Overall, and you see this on page 20, overall dollars held by central banks are now at a 20, 25-year low.
+26:28
+We've just dipped below about 60% of all central bank official foreign exchange reserves are in dollars.
+26:35
+And if you add in non-fiat reserves like gold, you're talking about 45% or so.
+26:42
+So there's a clear declining trend of central bank holdings, official reserve holdings of dollars.
+26:52
+At the same time, there's significant demand in the private sector for dollars.
+26:59
+And this is the key kind of conundrum or schizophrenia in the global financial markets that explains, in a way, the context of stablecoins.
+27:13
+Public buyers of dollars going down, private buyers never been more keen.
+27:20
+On the left-hand side, you can see the amount of private holdings. That's the BIS data for global FX trading. Private actors drive this.
+27:31
+The U.S. dollar share is now, in the last BIS data, about 90%.
+27:37
+And dollars remain because of liquidity, but also, very importantly, higher, superior investment returns.
+27:48
+When you look at it on a 5-year, 10-year, 15-year view, you get superior investment returns holding dollars to dollar assets anywhere else in the world.
+27:59
+Private sector cannot get enough of dollars. The public sector is concerned.
+28:05
+Stablecoins are a bridge. Final point before you wrap up.
+28:12
+This interest of stablecoins from the U.S. administration has, like every action has a reaction, has a reaction.
+28:20
+Increased interest in wholesale CBDCs from central banks around the world.
+28:26
+Initially, CBDCs started because of a concern over technology companies, private technology companies in China or from America, becoming a material player in payments.
+28:42
+And central banks and public policy officials wanted a public policy option in the blockchain world.
+28:48
+That was the kind of origin or genesis of CBDCs, if I had to simplify.
+28:54
+The driver now going forward, I believe, is in the retail world, is in the consumer world.
+29:00
+Consumer payments are largely solved as a problem in most parts of the world.
+29:07
+85, 90 countries in the world have real-time payments. But the reason, and you can see this on the right-hand side, you're seeing more and more interest in CBDCs is to do with geopolitics.
+29:18
+To summarize everything I've said over the last half an hour or so, number one, we believe that 2025 was a breakthrough moment for digital assets because of regulation in the U.S.
+29:32
+Number two, we believe that stablecoins could be a 1.9 trillion market by issuance volumes by 2030.
+29:39
+We also believe as a bridge, bank tokens in the next couple of years could be as big, if not bigger, than stablecoins.
+29:46
+And the growth in stablecoins will create an impact or a reaction, particularly in China and India.
+29:53
+And lastly, this is not a digital zero-sum game. We believe stablecoins, bank tokens, and CBDCs will all grow in the coming five years.
+30:04
+Thank you so much for listening to me and inviting me to this event. DEROSE: Ronit, thank you so much to you and to your team.
+30:10
+That was an absolutely fascinating discussion. And I think you did a great job explaining what might be the future trajectory for stablecoins. [GENTLE MUSIC]
+

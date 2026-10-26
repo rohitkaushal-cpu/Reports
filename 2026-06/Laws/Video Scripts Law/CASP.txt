@@ -1,0 +1,1285 @@
+
+Search in video
+0:00
+Hey, my name is Dyus and welcome back to founders and chained the show where we sit down with starters, builders,
+0:05
+innovators and experts in the field who are sharing the real life experiences what it takes to build startup from
+0:11
+scratch. And today I have a special guest Ramos. He's the Mika expert and he
+0:17
+is the founder of synergic.io O and it's really a pleasure to meet you to to have
+0:22
+you on the show and Ramos I think that your experience your knowledge will be very beneficial to the people who will
+0:29
+be watching this episode. As everybody knows if you do something in crypto space you need to be licensed. So for
+0:35
+people who don't still get the licenses we need to know some nuances some important stuff before we do any
+0:41
+business in crypto. So thank you very much one more time Ramos. It's really pleasure to have you on the show. So for
+0:47
+the people who don't know you Ramos maybe you can introduce yourself really quick tell us about your background you
+0:53
+know what you do and the most importantly how it can help startups. So hello Darius and thank you very much
+0:58
+for for the invitation it's an honor to be here with you it's always a pleasure to talk to you and hopefully we will
+1:05
+have a good discussion in this regard. Regarding your question my background is in law. I'm actually a lawyer, a
+1:12
+licensed lawyer, but over time I moved closer and closer to technology, to
+1:18
+fintech, to digital assets and so on. Basically, starting with 2016, I moved
+1:25
+into GDPR compliance because the new regulation came into force in 2018. I
+1:31
+specialized in that regard, but also starting with 2018, I moved closer to
+1:37
+the crypto space, to the crypto world. What drew me into crypto was that founders were building globally from day
+1:45
+one, but the legal support around them was often either too slow, too generic,
+1:51
+or disconnected from how token projects actually work. I kept seeing the same
+1:57
+pattern, strong teams with good products, but weak legal infrastructure. They had a white paper, maybe a token
+2:04
+model, maybe some code, but not a coherent legal position around the issuance. the AML procedures, the
+2:10
+disclosures or investor documentation. That gap is what pushed me deeper into
+2:17
+crypto space starting with as I said 2018. My first touch base with the
+2:23
+crypto was because you know in that period the legal framework the
+2:28
+regulation in that regard was zero. Basically, one of the first documents that I started issuing for different
+2:35
+projects were the legal opinions with regards to the nature of the tokens. That being one of the documents that
+2:42
+were requested by different exchanges for the listing procedures in itself, a
+2:48
+legal opinion would require a very good level of knowledge of how crypto space
+2:54
+works, of how token works and so on. So that was my first touch base with the
+3:00
+with the crypto space and from that point on I've started developing more and more legal services in this regard
+3:07
+and here I am today. Basically I can say that more than 90% of my legal work
+3:13
+currently of our legal work currently are in the crypto space. Cool. Cool. Thank you for sharing this.
+3:18
+I think this is like a really hot topic and this is how you might be busy. There are many companies in the market right
+3:25
+now. You can meet them in conferences. You can meet in in the calls. Everybody is discussing that you know me
+3:30
+regulation. This is something what everybody you know should follow. We need to be licensed and of course to get
+3:36
+this license is not so easy that it might look at first glance because you need to have a proper team in place. You
+3:42
+need to prepare the documentation which is needed for the submission to the national banks and uh yeah quite a lot
+3:49
+of things we going to go through today you know just to try explain to the
+3:54
+audience you know what it takes actually to get the license is it easy how it needs to be done what we should know so
+4:00
+demos can we just talk also really quickly about synergic.io O what you do what kind of services you can offer to
+4:06
+the clients and can you just give us a little bit more details on that? Yeah I build synergic because founders
+4:12
+don't need legal theory at the speed of traditional law firms they need usable answers fast and in crypto a listing
+4:20
+window a fundraising round or token launch doesn't wait for weeks for a memo. The initial idea behind Synergic
+4:28
+was basically simple. Build a legal service that is practical, cryptonative, and that has a fast turnaround. Not just
+4:35
+advice in the abstract, but actual documents that founders can use to move forward in confidence. As I said, we're
+4:42
+currently to date revamping our project, our synergic project, and we are adding
+4:48
+a very interesting layer. And actually this morning, I have received some good news from our development team. what
+4:54
+synergic will become in the coming weeks. It will be a platform exactly for
+5:00
+Mika compliance. Of course, Mika will be a first step. We intend to develop also in other jurisdictions for VAR later on
+5:08
+and so on. And of course, we will also move in the MIDI realm and so on and so forth. And one of the most important
+5:15
+problems especially for startups is how do they manage their costs with regards
+5:22
+to Mika? And as we all know today and for a good reason, Mika licensing is quite costly because obviously the
+5:29
+procedure is of very high complexity. It takes 6 to 8 months, 6 to 9 months
+5:35
+actually to to get the license. So it's quite a bit of work, but it's also costly. So one of the ideas that we had
+5:43
+was to try to leverage the power of AI into trying to develop the foundation
+5:50
+layer of the licensing procedure. So what we will do actually we will start
+5:55
+testing this later this week will be a form of automation for the project that
+6:02
+will enable the creation of the whole set of basic documentation for the
+6:09
+licensing. So basically the first step will be fully automated. The project will be able to create an account on our
+6:15
+platform. We'll be able to provide certain set of you know documents and
+6:21
+information and based on that they will receive a full set of documentation for
+6:27
+the initiation of the mica licensing procedure. This will mean not only fast
+6:34
+turnaround as I said but it will also mean a better management of the costs.
+6:39
+Of course, no one will ever ever tell you that uh those documents will be perfect from the very beginning. We do
+6:46
+not pretend to to provide such a such a service as it's impossible. But at least
+6:51
+at least they will provide around we estimate 90 95% already correctly
+6:57
+drafted set of documents. From that point on, the project will be able to either provide the the documentation to
+7:04
+their legal team if they have one and move forward with the licensing procedures or they will also be able to
+7:10
+avail our services further and one of our lawyers from our team will be allocated to the project and continue
+7:17
+the procedures further. This in itself will mean a much faster move, a much
+7:24
+faster step towards licensing and we are very happy to to be able to test this
+7:30
+and hopefully in two three weeks or one month tops we will be able to launch the
+7:35
+project and uh I will make sure I will let you know about that in the coming days. Sure. Sure. Sure. So congrats first of
+7:42
+all in this development and I really believe that this is really needed in the market. So please let us know when
+7:48
+it will be ready. Uh I'm pretty sure that there are many people who would like to try it and use it. Speaking about set of documents what you was
+7:54
+mentioning. So do you mean full package or it's some specific category of documentation like legal documents or
+8:02
+you also working with business plans and ICT and so on? We want to provide the full package. Of
+8:07
+course the project will work on a case-byase basis because there is no project that is similar to another. Each
+8:14
+project has their own you know particularities and each project has a certain level of of development. So
+8:21
+there may be situation in which projects may already have a business plan in place or may already have a mika white
+8:28
+paper in place. You know it depends on the moment a given project is and
+8:33
+starting from what the project already has in place we will provide the rest of
+8:38
+the documents. But uh if we talk about starting from zero, we try to provide
+8:44
+and this is the fundamental idea. We will try to provide everything. So it's a full-fledged set of services that will
+8:52
+be perfected as I said up to a 90 95% level of completeness and from that
+8:59
+point on it's a mere formality for the legal team within the projects or for us
+9:04
+if they want to continue with us moving forward. it will be a simpler formality to fill in the blanks or change whatever
+9:12
+needs to be changed in order to submit the documentation to the regulators. Okay, thank you. So it's it's amazing
+9:18
+idea and I really wish you good luck with that. For the people who don't know for example what is Mika? So can we just
+9:24
+simply explain to the audience what is Mika and why it's important? Of course. MA in itself is basically the
+9:31
+first EU comprehensive cryptospecific regulatory framework. It creates, if you
+9:37
+want, a harmonized rule book for certain crypto assets issuers, stable coin
+9:42
+issuers or crypto asset service providers, also called CUSPs across the European Union. In simpler terms, it
+9:50
+tells founders when they need disclosure, when they need authorization, what kind of conducts
+9:57
+standards apply, and what kinds of business can legally operate in the market. Mika matters globally because it
+10:04
+doesn't only affect European founders, it affects any project around the world
+10:09
+that intends to provide any type of cryptoreated services to European
+10:15
+citizens. So there's a full set of rules implemented by Mika and those rules are
+10:21
+already implemented at a national level by all the member countries, member states. As I said, it matters globally
+10:28
+because crypto businesses are rarely local. Even if you incorporate outside
+10:33
+of Mika, as I said, outside of EU, as long as you target EU users, you have to
+10:40
+be in compliance with Mika. So, thank you for this explanation. Where are some specific Mika categories
+10:46
+and you was mentioning a couple of them. You were saying that you know if you are offering some kind of exchange services
+10:51
+or you are offering custodial services where you keep the money off your clients then you are related to Mika. Is
+10:58
+this Mika applicable to all the players who actually touches to the crypto? Can you just share some some insights on
+11:03
+that? Yes, Mika basically regulates everything that is cryptoreated. So almost any type
+11:11
+of service provider that touches even remotely crypto space the crypto space
+11:18
+needs to be one way or another regulated by Mika or have to comply with certain
+11:23
+Mika regulations because as I said some certain types of uh projects need
+11:30
+authorization others need only a simple notification it's on everything is on a
+11:35
+case-by case basis. Uh let me explain you in simple words. We have as categories in Mika. Mika regulates three
+11:43
+types of categories. The arts, EMTs and the OCAs, other crypto assets. The first
+11:50
+category is basically the asset referenced tokens, the so-called arts.
+11:55
+These are tokens that aim to maintain a stable value by
+12:01
+referencing another value or another right or a combination of them. So an
+12:07
+art references a commodity for example or a real asset or real estate asset
+12:14
+value. The value of the art is always the value or part of the value of the
+12:22
+referenced asset. Its value doesn't change by demand and request and demand
+12:28
+value within the markets. It's always the value of the referenced asset. A
+12:34
+second category is the emanic tokens, EMTs. In simpler terms, we talk about
+12:40
+here about the stable coins. So these are tokens or coins that aim to m
+12:45
+maintain the stable value of an official currency. Many many people I have
+12:51
+noticed in my work that many tend to confuse these two categories, an art and
+12:56
+an EMT. As I said, the ERT and I want to be clear in this references an asset,
+13:02
+whatever type of assets or a basket of assets for that matter, which can be real estate or any commodity or a set of
+13:10
+of those. Whereas an EMT is an electronic money token. It's a stable
+13:16
+coin and references is basically pegged to the value of an official currency, be
+13:22
+it a USD or a euro or whatever. The legal regime enforced by Mika is much
+13:28
+stricter in EMT realm and it's much more difficult to comply with. Obviously,
+13:34
+it's not the easiest. Then we have the so-called catch all bucket, the other
+13:40
+crypto assets. And this category includes many of the you know utility
+13:45
+tokens, the governance tokens, native tokens that are not arts or EMTs and
+13:52
+assets that usually are not already regulated as financial instruments under other traditional EU financial laws.
+13:59
+This bucket, this uh category is usually lighter. They are still regulated, but
+14:04
+it's easier for issuers to to comply with Mika in this regard. It's there
+14:11
+those obligations with regards to disclosures having a micro compliant
+14:16
+white paper marketing conduct rules and so on and so forth. So these are the main uh three categories of assets
+14:23
+regulated by maker. Okay. And sec can you just explain the difference between for example security
+14:29
+token. Sometime ago many people were speaking about the security tokens. I'm not sure if people understand what is
+14:36
+the difference between art and security token because by the nature I think we do very similar thing you know in both
+14:42
+ways we could be understood as let's say shares in that let's say tokenized object which is splitted in multiple
+14:49
+tokens and this token is representing some specific value of that asset. So to me it's also not clear you know what is
+14:56
+the security token and what is er and what is the difference? Yeah, does usually starting with the US. A few
+15:04
+years ago, there were basically two big categories before we go into mic. There
+15:10
+are security tokens and utility tokens. In very simple terms, a security token
+15:17
+is a token that is pegged to the value
+15:22
+of the company of the issuing company. So for example, if a token represents a
+15:28
+share of profit within the company, much like shares within the company, if the
+15:34
+token the token holder gets the same privilege and and benefits and rights as
+15:40
+a shareholder, then that token is most certainly a security. So basically, you
+15:46
+are the shareholder and the issuer of the token. But once I buy that token, I
+15:52
+have basically the same rights as as yourself. This means that the token is a security. It enters into the realm of
+15:59
+profit sharing and so on and so forth. On the other hand, a utility asset is a
+16:04
+utility that basically lives by itself. So once the token issuer issues that
+16:11
+asset and that asset goes into the market uh that asset gets to have a life
+16:19
+of its own and it's completely separated off the life of the issuer. To give you
+16:26
+an example, if tomorrow the issuer will go bankrupt, the token will continue to
+16:32
+live respectively. And one more detail that is very important is the fact that the value of the token is not pegged to
+16:39
+the value of the issuer. If you peg the value of the token to the value of the of the company that issued the token,
+16:46
+then that the token automatically becomes a security. Whereas if the value of the token is completely separated and
+16:54
+has a life of its own which is regulated by as I said demand and offer then that
+17:00
+asset is is a utility. This is the way the US markets regulated the nature of
+17:09
+the tokens US and Canada and uh that also applied in a very big way in in in
+17:17
+Europe before Mika came into force. Once Mika came into force, European regulated
+17:22
+decided to divide the assets into these three cate categories that I have
+17:28
+explained earlier. And uh of course some of them for example the arts can become
+17:36
+securities but it's not compulsory. It depends on the way arts are uh
+17:43
+developed. The mechanism behind the art is developed. So there are quite a few
+17:50
+conditions to comply with in order to determine whether the art is a security
+17:55
+or not. Thank you very much for this in-depth explanation. It's much clear right now.
+18:00
+you know what are the categories and what is the difference between those tokens and I really appreciate that. So
+18:05
+was speaking about the Mika. What is already in force? What's coming and what is still unclear? Can you just elaborate
+18:11
+on this? Well, in short, everything is enforced. What we can eventually discuss would be
+18:19
+the jurisdictions that are still in the grandfathering period, which will end anyway by the 1st of July of 2026. To my
+18:28
+knowledge, there are about 15 jurisdictions still offering the grandfathering period of 18 months. All
+18:35
+the others have ended the grandfathering period by the 1st of January. Grandfathering meaning the period in
+18:42
+which crypto projects have basically are allowed to move to the new type of
+18:49
+license because there was some some jurisdictions had some old types of licensing which are no more enforceable.
+18:56
+when Micah came into force. So they would have to move to the new types of licensing which implies of course a
+19:03
+certain set of procedures. So that being said, 2026 is not a future issue if you
+19:10
+want. It's an more operational issue. What remains let's settled is not the
+19:16
+existing of MEA because it's already in force in full force but how eventually how supervisors apply it in practice
+19:23
+where they can draw the line on DeFi how they interpret the NFT structures how strict they are on making marketing into
+19:31
+the EU from offshore and so on and so forth. So of course it's a new law. Mika
+19:37
+is a new regulation. Nothing is perfect from the very beginning. Nothing is fully regulated from the very beginning.
+19:44
+Of course there are different situations that may come up in the future and that need clarification from the regulators.
+19:51
+This is already happening. All in all everything is in full force to date. Okay. Okay. To me knowing that there are
+19:58
+some specific jurisdictions which are still have this extension of a period it looks like that you know regulators ask
+20:04
+VSPs companies or crypto companies and we ask are you ready to be licensed but
+20:10
+from another hand you know what I can see that we may raise the same question to regulators also for the European
+20:16
+jurisdictions are they ready to involve you know crypto companies into this
+20:21
+market this extension means that we're not prepared yet also to take in all uh you know companies who wants to do and
+20:27
+operate business in those jurisdictions. So it looks like that both companies and regulators also needs to to work on it.
+20:34
+Yeah. So thanks thanks for sharing and Ramos maybe you can highlight a couple of jurisdictions what you know which
+20:40
+still have this extended period. Of course the extended period I have a list here. We talk about Bulgaria, Czech
+20:47
+Republic, Denmark, Estonia, Greece, Croatia,
+20:53
+Italy, Cyprus, Romania, Belgium, Luxmbourg. So there are quite a few but
+21:00
+unfortunately unfortunately the period will end by 1st of July.
+21:05
+Okay. So after 1st of July all the companies who wants to do anything related to crypto as a business or
+21:11
+services we supposed to have license immediately from 1st of July basically where has no chance for you to do any
+21:18
+unregulated and unlicensed business right and indeed and indeed you are very right in uh what you said before it's not only
+21:26
+a matter of projects looking into getting regulated but there's also as we
+21:32
+said it's a new law it's also a problem of how the regulators interpret this new
+21:37
+law because as we know as we all know crypto is still a new concept and for
+21:45
+the regulators to get acquainted to this new concept which it was off the outside
+21:52
+the law so to speak not illegal but unregulated the regulation once it came
+21:59
+into force the regulators also had to adapt had to learn and there's also also
+22:06
+I think quite a bit of lack of knowledge in the regulator area.
+22:13
+So this one may be one of the reasons that licensing currently takes so long.
+22:20
+We do our part as I said with synergic we're trying to enhance the timing to do
+22:26
+our side of the obligations as fast as possible for our clients but we also
+22:32
+have to and there's still a matter of communication of back and forth with the regulators where some of their required
+22:40
+requests or requirements are sometimes strange but this is you know how every
+22:48
+every start is hopefully in time those periods this the licensing period will
+22:54
+will shorten and we will be faster and we will it will be much clearer also for
+22:59
+regulators not only for us it will be much clearer how to provide the license and what to request from different
+23:06
+projects okay and just coming back to to the solution what you are preparing right now and you're going to launch is that
+23:13
+solution prepares a documentation but also can make an audit let's say
+23:18
+yes we are looking into the possibility of auditing. Yeah, not smart contract auditing. We do not go into smart
+23:26
+contract. This is a pure technical element. We are looking into um
+23:31
+providing the legal side of of the work. Of course, smart contract audits are
+23:36
+always requested and that is something outside of our scope. But we are looking into auditing of course also. We we are
+23:44
+still in development and we are still coming up with new ideas. We just accomplished a very big step which is we
+23:51
+have a form of an MVP stage with the platform. We will begin testing in the
+23:57
+coming days and of course debugging and so on and so forth but also we are discussing the the possibility of
+24:03
+auditing and how it can be done. Of course there's quite a few heads involved in this uh in this project. So
+24:10
+yeah we're we're continuing into we continue to develop the ideas. Ramos can
+24:15
+we also touch you know the documentation part so what is the stack of documentation needed to be able to
+24:21
+submit the documentation to central bank of you know that specific jurisdiction. Well first of all depending on the
+24:27
+nature of the project as and I speak from experience the submission of the
+24:34
+documentation uh does not always regard the national bank. Usually the EM EMT
+24:39
+issuers are more connected to the to the banking uh system because they issue an
+24:46
+electronic money token which if they connected to fiat on-ramp offramp they
+24:52
+have to have a licensing and an approval from the national banks of the
+24:57
+jurisdictions but there also another regulator for the OCAs for example are
+25:03
+the financial supervisors from any given jurisdiction not not necessarily the
+25:09
+banks. The question is fairly complex because a utility token issuer for
+25:15
+example needs to comply with the minimum set of obligations amongst which the
+25:22
+micro compliant white paper and the submission the notification of certain rules and the compliance with certain
+25:29
+rules whereas art or an EMT token issuer needs to comply with quite higher set of
+25:36
+obligations also regarding guarantees it's It's a very complex set of
+25:41
+elements. I will tell you from our experience for an art token issuer, we
+25:48
+have had to submit to the regulator almost 150 separate documents. So it's
+25:54
+quite a bit going into detail in this regard is I think outside the scope of
+25:59
+our discussion because it's high it's a very high complexity element to discuss
+26:05
+in just a few words. Okay. If we could just take a couple of groups of documentation. So as I
+26:10
+understand you know where is the package related to business. So you need to have business plan for example you need to
+26:15
+have financial forecasts. Another group is related to ICT cyber security things
+26:21
+and another which is also very very huge part is like compliance. Is that correct? Exactly correct. Yes. Remos you probably
+26:28
+seen a lot of white papers you know a couple of years ago let's say people who were issuing the tokens utility tokens
+26:35
+we actually had very unique white papers and the structure of white papers might be different kind of quality and that
+26:42
+was okay and it purely was like down to imagination of the founders how to write it right where is no specific structure
+26:49
+there is no specific rules but uh as far as I know when the mika came to place
+26:54
+you know those people who wants to write white papers and publish it somewhere. We need to follow also some specific
+27:00
+rules. So can you just also elaborate on this? Yeah. So I think one of the biggest mistake that the founders uh still treat
+27:07
+the white paper as a marketing deck. Well under me the white paper became a
+27:13
+legal disclosure document for uh most crypto assets in the OCA bucket so to
+27:20
+speak. The white paper needs to explain the project, the issuer or offer, the token features, the rights and
+27:26
+obligations attached to it, uh how the offer admission works, the technology at
+27:32
+a meaningful level and the risks. It also has to be consistent with mark with
+27:37
+the marketing communications. What founders get wrong is usually one of
+27:42
+four things. First, they are vague about who the issuer act actually is.
+27:49
+Secondly, they describe the utility in in a in a promotional manner without
+27:56
+clearly explaining how the token functions in legal and operational
+28:01
+terms. Third, they understate the risks or bury them under generic boilerplate.
+28:08
+And finally, fourth, their website, the socials, and the pitch deck say things that don't even match the white paper.
+28:15
+Mika came into force and provided a certain structure compulsory structure
+28:23
+to the way the white paper needs to be drafted. It is very clear. It has
+28:29
+everything that is implied in in in let's call it the template provided that by the regulator needs to be filled in
+28:36
+correctly and uh completely. So this type of white paper MA obligates the the
+28:44
+token issuers to to provide ensures full transparency full technological
+28:50
+divulgence of the token mechanism and so on and uh basically provides the whole
+28:57
+set of information regarding the issuer from the identity to technology and to
+29:04
+to legal compliance. As far as I'm concerned, I consider this Mika compulsory type of white paper a big
+29:11
+step forward because it clarifies exactly what that white paper needs to contain. Because as you said a few years
+29:19
+ago, white paper were wild west from two pages
+29:26
+for certain projects, meme projects to 45, 60 pages to obviously more
+29:33
+professional projects, but not even those projects were fully compliant with the full set of information that the
+29:40
+regulators need need the issuers to divulge. The fact that Mika came with
+29:45
+this complex structure of a white paper and that obligates that structure is
+29:51
+compulsory for every every project involved in Mika licensing is is a big and good step a positive step forward in
+29:58
+my view. Yeah, I agree. I agree and believe me or not but I see in many white papers where
+30:04
+you couldn't actually see any reference to the people who are actually building the project. So you may even see some
+30:12
+people who shows just only NFT pictures in the team some random names it's not real names and they actually published
+30:20
+this white paper and will raise millions of dollars let's say per project but people even didn't know you know who is
+30:26
+the owner who is the founder of this project so I think with Mika that will be changed security and insurance of the
+30:33
+users and investors because you know this way with Mika regulation all the people who will be involved in that
+30:39
+market we will be secured by this regulation. So everybody knows the rules and everybody knows what consequences we
+30:45
+may have if we're going to do something not according to Mika regulation. Yeah, indeed. Indeed. This unfortunately this
+30:52
+still happens in in Asia at least GCC area is relatively regulated because um
+30:59
+as we scan around the world I can tell you that and you also know Dubai has
+31:06
+already a legal framework in in place. Also Abu Dhabi has a legal framework in
+31:11
+place and also Oman. I've seen lately that they have a legal framework in place with regards to crypto assets. So
+31:19
+the GCC area has become a more stable region for development of crypto
+31:24
+projects. But Asia, as far as I'm concerned, with small exceptions like
+31:30
+Singapore and Hong Kong, Asia is still so to speak a wild west of incredibly
+31:36
+poor white papers. Yeah. But I think sooner or later it will be changed also because we will see this good practice. So speaking about
+31:43
+the Middle East, as you said, you know, where is some set of rules and regulation in place? I think by the
+31:48
+nature we are very similar to Mika right they all set specific rules in place which are very similar to each other
+31:54
+it's all about the customer and investors safety to a certain extent yes to a certain of
+32:00
+course there are small differences but to a certain extent you are right in the GCC area what is very good is that they
+32:07
+concentrate very much on the KYC procedures with regards and the KYB
+32:13
+procedures to be more precise so they ensure full transparency on the
+32:18
+developer or the issuer of of the token or or the project because this is the
+32:23
+first step into having a serious relationship with the as an investor for
+32:28
+example with the project the full transparency on who the people behind the project are and what the project
+32:34
+actually wants to do and full transparency on technology also which GCC area mostly ensures they're not so
+32:42
+strict with regards to the white paper but this doesn't mean that transparency currency is not requested through other
+32:48
+means. They did not create a compulsory template of a white paper but along the
+32:54
+way when you want to initiate a procedure with the with VRA to obtain a license in Dubai for example, they will
+33:00
+ensure full transparency and full disclosure of all the necessary details
+33:05
+so that the project proves that it's serious and it's factual. Okay. Many people say that smart
+33:11
+contracts let's say we can secure you as a user or let's say investor because smart contracts we have already applied
+33:18
+rules in that contract and all the transactions might be done even automatically. Why the solution is not
+33:24
+actually protecting the investor still. Well the answer is very simple because code is not the whole legal
+33:31
+relationship. A smart contract is code. Basically, a smart contract can automate, transfer, vesting, staking
+33:40
+logic or redemption mechanics. But it does not answer questions like what is
+33:46
+the governing law, what is the dispute venue, the misrepresentation, what are the consumer claims, sanctions for
+33:53
+breaches, what is the tax treatment, what is the data protection, or who is responsible for when something goes
+34:00
+wrong. So even though the smart contracts I consider to be one of the
+34:05
+smartest things in the world because it automates a certain relationship between
+34:11
+the investor and the for example or the investor or the holder and the project.
+34:17
+It automates a certain set of procedures but it does not ensure the legal
+34:25
+protection for neither the project nor the investor or or the user for that matter. So
+34:32
+simply having a smart contract is by no stretch of imagination enough neither
+34:40
+for the token issuer nor for nor for the potential investor or the user. And I would advise any investor to be very
+34:48
+careful on ensuring that there are legal frameworks instituted by the project
+34:55
+besides the smart contract which is it sounds you know it has the term contract
+35:01
+in it but it's a fully technical mechanism. It's not a contract in itself. It just ensures uh without human
+35:09
+intervention without further human intervention that uh certain rules are are followed but those rules need to be
+35:16
+legal. That means that crypto projects are not purely onchain in in a legal sense. There's a website, there's a
+35:23
+team, there's treasury marketing strategy, governance communications and
+35:29
+very often there are some off-chain discretions somewhere. So courts and
+35:34
+regulators will look at the entire arrangement not
+35:40
+only at the smart contracts. Okay. Thank you. And thank you. And by the way I really want to share this. I
+35:46
+know that as it was mentioning smart contract is like code. So basically that means that somebody who is making the
+35:52
+smart contract we can make mistake and based on those mistakes all the following transactions may fail and
+35:58
+people can be in trouble. So I I just really want to share that uh all the smart contracts which are being right
+36:05
+now at the market we need to be audited prior launching them into the market. This is exactly the role of the smart
+36:11
+contract audit companies and there are quite a few. Yeah. So if somebody will offer you to
+36:16
+do some kind of investments or acquire some tokens in the market, please do your research you know if that project
+36:22
+actually had this like you know proper auditor in place who actually audited the smart contracts which makes sure
+36:29
+that you know actually the smart contract can work as a clock. A lot of projects underestimating you know the
+36:35
+terms and conditions risk disclosure stock and sale agreements and soft agreements. Can you just also tell why
+36:42
+it's important where people should be focused? This is a very good question and it also
+36:47
+connects with the previous question that you asked. I totally agree with you. Projects tend to underestimate the legal
+36:55
+value and the legal protection that terms and conditions and other documents related to it provide. Well, terms and
+37:02
+conditions define the legal parameter in the service. They tell users who they are dealing with, what is being offered,
+37:10
+what is prohibited, what liabilities are limited and uh where disputes go. Without that, you are often relying on
+37:17
+assumptions and that may not necessarily survive a dispute. Why some projects
+37:24
+tend to underestimate the value the legal value of the terms and conditions is because they think that the terms and
+37:31
+conditions regard you know IP protection for the website general use of the
+37:38
+website when a visitor enters their website or platform what their rights and obligations are. It's not only that
+37:45
+of course in my work I have advised our clients my clients that um they should
+37:52
+have different types of terms and conditions depending on the on where the the user is. For example the general
+37:59
+terms and conditions they generally apply to any sort of website and that is a pretty basic concept and this is where
+38:07
+the the misconception is. This does not mean that the general terms and conditions regulate the interaction
+38:13
+between the user and the actual platform of the project and that would imply an
+38:19
+entirely different and much higher complexity legal document. This is why
+38:25
+in our work we have terms and conditions and we advise we provide to our clients terms and conditions for the website
+38:31
+which is fairly simple as I said but also terms and conditions for the platform which regulates everything
+38:39
+related to the relationship between the user and the platform in itself. There
+38:44
+are also risk disclosures which are in our view equally important because they
+38:51
+help show that users in and investors uh in equal sense were informed about all
+38:58
+the risks that a project may provide such as volatility, technical failure,
+39:05
+uh smart contract risks because we spoke about smart contracts before. If they are not audited then there may be some
+39:13
+real risks with regards to smart contracts. Regulatory change because we are still in an everchanging regulatory
+39:21
+world. Liquidity risks and many other details are are regulated and comprised
+39:27
+in these risk disclosure statements that have to be present in any project
+39:34
+platform. The token sale agreements on on the other hand they govern the actual sale mechanics who can buy the tokens
+39:42
+transfer restrictions lockups you know staking not only staking but vesting
+39:48
+periods and so on eligibility representations termination rights a soft I don't know
+39:54
+to what extent a soft is well known to the public the soft means simple
+40:00
+agreement for future tokens potential investors can invest in projects that have not yet issued such tokens and they
+40:08
+will receive the tokens at a later date through the well-known smart contract
+40:14
+mechanism that we spoke before. A soft is very useful in some private fundraising context because it separates
+40:22
+the early stage stage fundraising from later token delivery. But they are also
+40:28
+not a magic wand. A badly structured soft can still create securities, can
+40:34
+create unexpected tax obligations or offering issues depending on that fact.
+40:40
+So the the role of those documents and we have only touched very few of of the
+40:46
+documents that a project may need along the way. But these documents are fundamental for the legal protection
+40:54
+that the projects themselves need to have in place. not only the potential
+40:59
+investors or the users. Thanks. I really love how you explained this in a very short period of time and
+41:06
+uh you know I think it's going to be very useful for the people who will be watching this actually. Rem can you just
+41:11
+explain how legal documentation can actually help attract the investors and
+41:16
+build the trust? Well, this is another very good question. In my view, a legal documentation is extremely important
+41:23
+when looking into investing into a project. I must admit that this is not
+41:29
+always the case. Unfortunately, there's still education to be done in this
+41:35
+regard for potential investors. Most of small investors are looking for rapid
+41:40
+profits and that they tend to neglect on subjective reasons. They tend to neglect
+41:47
+the real value of a legal documentation in place. A true investor, a
+41:53
+professional investor regards the legal documentation as one of the baselines and the base conditions for moving
+42:00
+forward with the due diligence. Good legal documentation reduces uncertainty and uh sophisticated investors price
+42:08
+uncertainty very aggressively. If the legal documentation is not correctly or
+42:14
+fully done, fully presented, they will walk away. On the other hand, if a
+42:19
+founder can show a clean token classification analysis, coherent issuance documents, proper risk
+42:25
+disclosures, investor paperwork, and a thoughtout compliance posture that would
+42:31
+signal governance quality, and this will inherently shorten the due diligence
+42:38
+that an investor would have to do. investors, exchanges, payment providers,
+42:44
+and even strategic partners all ask for versions of the same different versions
+42:49
+of the same questions. What is the token? Who issued it? What are the
+42:55
+rights attached to it? What restrictions exist? And what is the regulatory view?
+43:01
+A project that that has those answers documented look more investable than any
+43:07
+other project that speaks out of their brain. Yeah, legal docs are not just
+43:12
+defensive. They're actually part of the trust layer. And this is one of the
+43:18
+biggest misconceptions that project developers have. They do not see the legal documentation as part of a trust
+43:26
+layer. They see it as a formality that has to be done eventually and it's a big mistake. Yeah. And I agree with you. I've seen
+43:33
+this a lot when we have very nice pitch decks to show. But at the end of the day
+43:38
+if investors will raise questions about the documentation you know which relates to them all the legal documents normally
+43:44
+the quality of them is not really good. So I really also would like to add this comment that you know it's important to
+43:50
+make sure that you have those documents in place and we need to be qualitative documents and this is how we can
+43:56
+actually build more trust as you said with investor. Can you Ramos share the real examples? What happens if the
+44:02
+founders skip the legal layer? The market version is usually not
+44:08
+dramatic at first. It may look like delays. For example, an exchange asks
+44:13
+for a legal memo and the team doesn't have one. A bank asks for a contracting
+44:19
+entity and their answer is messy. investor ask for how the token is
+44:24
+characterized and the response changing depending on who in the team is speaking. Initially those elements may
+44:31
+be overlooked because you know at first there's always the discovery mode so to
+44:39
+speak. At first you ask the base questions as an investor you try to understand more or less about the the
+44:45
+project. If an investor really becomes interested in a certain project, then
+44:52
+so-called due diligence will come into place and they will ask more onpoint
+44:58
+question and then the real damage appears. Listing timelines uh may slip
+45:04
+if you don't have the legal documents to show to the investors. the funds may be held back or may be lost completely
+45:12
+because I've seen quite a few times uh in which potential investors withdrew
+45:18
+from communication with the with a project for the simple fact that their
+45:23
+documentation is not fully in place and you can you
+45:30
+know delay them for 2 three days which is usually too short to have everything
+45:36
+in place. So investors withdraw from that quite fast because uh I have said
+45:42
+before an a titrated investor knows what questions to ask and knows what to
+45:50
+request from the startup project and if the documentation is not provided within
+45:56
+due time they will move forward and forget about that project. The hardest
+46:01
+cases are when, for example, founders discovered too late that their public messaging created the legal risk and
+46:09
+they could have avoided this by better drafting the the documents from day one.
+46:15
+It's unfortunate that everybody is concentrated more on the technical
+46:21
+development and they tend to put the legal framework, the legal protection,
+46:27
+the legal documentation on a secondary priority base and uh that creates a lot
+46:34
+of friction. if they start to interact too early with potential investors that
+46:40
+will create friction and that most certainly generates some losses in the
+46:46
+sense that potential investors will walk away. I remember once somebody was just telling me that we got nice pitch deck
+46:53
+we presented the deal. So pitch deck is basically needed for selling the project to the investors but after all you need
+47:00
+to provide them as I said legal documentation. So the legal documentation is basically documents
+47:05
+which needed to secure the deal. So all those documents are important and unfortunately there are a bunch of
+47:11
+startups who don't understand this. We work heavily on the pitch deck to make it nice but at the end of the day as I
+47:17
+say we may delay until the point then investor might even you know just reject the deal for the reason that we are
+47:23
+building the documentation for two weeks or one month. So nobody's going to wait in this dynamic market. Exactly.
+47:30
+Actually the timing is really critical. So founders we need to be prepared for
+47:35
+this. If somebody will ask you tomorrow to deliver all the documentation legal documentation to the investor we need to
+47:42
+be capable to do it in a day not in two days and three days. And I have seen
+47:47
+I've seen also myself quite a few situation in situations in which
+47:53
+potential investments were lost because the legal documentation was not ready.
+47:59
+At the end of the day, it's a very simple procedure. just have somebody
+48:05
+draft the legal framework, the legal documentation and have it ready for
+48:10
+whenever the case is because tight targeted investors will most certainly look at legal documents among the first
+48:18
+elements. I consider the pitch deck as the discovery step for any project. Once
+48:25
+the pitch deck does the magic so to speak and gets the interest from
+48:30
+potential investor then the second step should be the actual technical
+48:36
+presentation and the legal protection the legal framework. If the investor wants to invest tomorrow, the project
+48:42
+has to have already drafted token sale agreements or softs or whatever is
+48:49
+needed, non-disclosure agreements, a whole series of documents that it
+48:55
+happens very often that they do not have and the investor walks away. Speaking about the Mika and specific
+49:01
+requirements, you know, how do you think is NFT projects also they in scope? The
+49:06
+actual answer is sometimes yes, sometimes no. Mika generally carves out
+49:12
+the crypto assets that are unique and not funible with other crypto assets. So
+49:18
+basically they will categorize into the OCA group. Regulators are meant to look
+49:24
+at substance not labels. So calling something an NFT does not automatically
+49:30
+take it outside the regulation of Mika. I think in the real world, I'm not sure,
+49:37
+this is my estimation, my personal estimation, NFTTS will move from simple
+49:44
+irrelevant artwork into a more pragmatical realm such as subscriptions
+49:50
+for different services or different rights. the the the NFD holder will
+49:55
+benefit of different types of rights from different projects that will be
+50:01
+connected one way or another to the real world. So basically they they will be
+50:07
+more efficient in the in the RWA world in the real world assets. I see a kind
+50:14
+of a stall in the NFT world uh today. I
+50:20
+think there is um there may be a movement towards this type of service in
+50:26
+in the future. They will mean something. They will relate to something. Be it a
+50:32
+service, be it a right, be it a fractionalized portion of a right and so
+50:37
+on. So it's very interesting to see how they will develop. But today even where
+50:44
+Mika does not apply NFT projects still face anyway they still face the consumer
+50:51
+protection laws the IP the advertising obligation the AML KYC sanctions tax
+50:59
+related obligations and you know general law contract law issues. So in a small
+51:06
+sentence out of Mika does not mean out of law. So this is why I said when I
+51:13
+started the answer, sometimes yes, sometimes no. Okay. Speaking about DeFi, do you think
+51:20
+that DeFi actually, you know, is in the gray area because everybody is speaking
+51:26
+about the centralized CFI and so on, but nobody speaks a lot about DeFi, but it
+51:31
+still exists. You may find really many dexes, you know, online and those dexes
+51:38
+were not regulated. And at least I really would like to understand, you know, what Mika thinks about the DeFi
+51:44
+protocols, you know, dexes and what is the plan for them to to finally also
+51:49
+somehow regulate them. Yeah. Uh this is a very interesting question. The gray zone, if we can talk
+51:56
+about the gray zone, the gray zone is really about control. The law is more comfortable saying that a fully
+52:03
+decentralized service with no intermediary is outside the scope than it is explaining
+52:10
+what fully decentralized means in the real world. If there is a front- end
+52:16
+operator, foundation collecting fees, a multi-IG wallet that can upgrade
+52:22
+contracts, a multi-IG contract that uh code that can upgrade contracts, small
+52:28
+governance group controlling emissions of treasury or a team that is actively running the protocol as a business,
+52:36
+regulators actually have multiple hooks to argue that there is an identifiable
+52:42
+operator or a service provider. I think in 2026 the DeFi question is not is
+52:50
+there a smart contract it is who actually controls who profits who
+52:55
+markets it and who can change it. That is actually where the the legal risks
+53:02
+live with regards to any DeFi project. I think it's still a gray area. I see it
+53:09
+as a disadvantage that it's not regulated clearly because sometimes
+53:17
+regulators tend to interpret the lack of regulation to their advantage or to the
+53:25
+disadvantage of the project. and they may uh sanction certain DeFi projects
+53:31
+without an actual legal basis just by simply interpreting other pieces of of
+53:38
+law or by creating their own rules which is unfortunately it's very dangerous. I
+53:45
+don't have examples in this regard fortunately but this does not mean that
+53:51
+it may not happen. I think the DeFi world will clarify one way or another
+53:57
+sooner or later. There's also an argument for the fact that you know hiding behind this DeFi may create
+54:05
+uncertainty may create risks high risks for for users. So it will be very
+54:10
+interesting to see how the regulators will approach this uh this subject that
+54:16
+today is still in in the gray area. do not know how it will develop
+54:21
+unfortunately but I'm very closely watching the development in this regard.
+54:27
+Yeah, in my opinion you know where is the problem with Dexis? The problem is that we actually established somewhere
+54:34
+you know or we belong to the companies which are offshore you know the founders were somewhere offshore and those
+54:40
+jurisdictions unfortunately were not coming under mika regulation or under other very well-developed let's say
+54:46
+regulation because they are most likely in offshore jurisdiction. So this is a thing where it gets complicated and I
+54:54
+just actually checked the deck screen one day and I was trying to understand how many tokens are in the dexes
+55:01
+currently. So it's amazing the amount of tok to tokens issued here. The volume of
+55:07
+trading it's amazing also it's like huge numbers over there and people are
+55:13
+actually trading a lot. Nobody's secure just because something may happen with the token one day and nobody can go to
+55:20
+the court and chase for the founder and know who issued this token because we have no idea who is the issuer of the
+55:26
+token. Exactly. And I've seen a few a few projects that have developed different
+55:32
+entities in different jurisdictions all handling the same D5 project. there will be um you know the the issuer the token
+55:40
+issuer but then there will be a foundation in another jurisdiction that
+55:45
+will be the manager of the uh D5 project. So not the issuer, there will
+55:50
+be a foundation, another not a company that will handle the management, the activity of of the D5 project. There
+55:57
+will be another entity in another jurisdiction that will handle the marketing and there will be a sort of a
+56:04
+more or less coherent governance procedure instituted. Governance is
+56:09
+another another sensitive uh subject because governance even though it's
+56:15
+smart contracted, it can be manipulated if it's not correctly and well
+56:20
+intentionally drafted. So it's still a subject to to debate. I would say that
+56:26
+not in regards to the users. So I think the real problem is not the KYC of the
+56:32
+users today but the KYC of the actual founders and the managers of the of the
+56:41
+D5 project. Okay. And I also wanted to ask you how Mika acts, how Mika can be applied for
+56:48
+the founders who actually do crossboarding project meaning that if they running the operations in in Europe
+56:56
+and they still want to deal with US market for example and regulations are different comparing with Europe and US.
+57:03
+So how the crossboarding projects or founders of those projects can actually make sure that we are compliant in both
+57:09
+jurisdictions? Uh the answer is very simple. One of the obligations at least in Mika one of the
+57:15
+obligations that any project has is to have at least a subsidiary. So if a project is uh located if an issuer a
+57:23
+token issuer or any project service provider crypto asset service provider is located with their headquarters
+57:31
+outside of EU they are obligated legally to have at least one branch uh within
+57:38
+the EU. that branch will fulfill the licensing maker licensing procedures and
+57:43
+comply with all the legal obligations that MA institutes. On the other hand, if they want to be present in the US
+57:50
+markets, they will have to have another entity, another branch if they're not located in the US, based in the US, uh
+57:56
+they will have to have another branch and comply with the local regulations that exist currently exist over there or
+58:03
+in any other jurisdiction for that matter. So it's passporting is not a
+58:08
+viable option at least for a vast majority of of jurisdictions. There are
+58:15
+some jurisdictions that lack of regulation can apply. You can apply some sort of a passporting procedure as long
+58:22
+as you do not market directly to to such jurisdictions. Again this is a very high
+58:28
+complexity subject. The simple answer is is this. when you go to a jurisdiction
+58:34
+you you need to apply and to obtain a certain license that is appliable in the
+58:41
+set jurisdiction and remos actually touched really interesting and important topic EA passporting so I'm not sure if people
+58:48
+who will be watching this know but by getting CASP license you actually can
+58:53
+submit application for the EA passporting which will allow you to do operations in all the Europe and I think
+59:00
+this is like beneficial point to note Because this unlocks you capabilities to work, you know, in all the Europe.
+59:06
+Yes. By simply notifying the targeted jurisdictions. Yeah. Yes. And this is a
+59:13
+very good provision that Mika provides to crypto projects. Yeah. It's it's very similar to EMIs,
+59:19
+you know, e- money institutions. We used to go throughout the same procedures. I mean, it's also similar comparing with
+59:25
+regulation requirements. companies who wanted to do business in Europe, we needed to go throughout EA passporting.
+59:32
+So with Mika the same. Okay, Remo. So one thing in your view every founder
+59:38
+supposed to do before launching a new token? Well, one thing that any any project will have to do among the first
+59:46
+will be to write the token classification or obtain a legal opinion for that matter and the go to market
+59:54
+memo before any marketing uh campaign starts. So these are the bare minimum
+1:00:01
+elements that any project should have in the very first days of existence. Those
+1:00:06
+documents should answer in writing what is the token, who is issuing it, what
+1:00:12
+rights attached to it, what jurisdictions are targeted, obviously what services are being provided around
+1:00:18
+it, what regulatory assumptions the project is relying on, most expensive
+1:00:23
+legal problems come from founders deciding those questions are after the tokconomics and public messaging are is
+1:00:30
+is already out and this is unfortunately a reverse application. of the actual
+1:00:38
+steps that should be taken by any any project. Okay, cool. In your view, what what is
+1:00:43
+the biggest Mika myth what you have been hearing a lot nowadays? Uh one of the biggest myths is that uh
+1:00:51
+once you have a white paper, you are Mika compliant. Okay. Okay. Okay. So yeah, unfortunately quite
+1:00:58
+a lot of projects, you know, pro probably developers, young developers or
+1:01:05
+young people getting involved into the business assume or presume that having a
+1:01:11
+white paper should suffice with everything should do. And if we go back
+1:01:17
+to 2018, it could do. It could do. But this being 2026
+1:01:26
+having the white paper is by no stretch of imagination uh anywhere near any form
+1:01:33
+of compliance with Mika. Yeah. So that Mika work going to completely new level you know.
+1:01:39
+The white paper is just a piece of the puzzle if you want. Yeah. The white paper does not replace for
+1:01:45
+example the AML obligations. It does not replace the sanctions. It does not replace the consumer law. it does not
+1:01:52
+replace the the privacy. Uh there's another misconception that I've seen
+1:01:58
+with many projects. They all state they do not need the privacy policy document
+1:02:04
+because they do not collect user data. Well, it's one of the biggest mistakes
+1:02:10
+that they do. the actual privacy policy is compulsory and they actually do collect private data even though they do
+1:02:18
+not they tend to ignore it or they do not actually know the GDPR laws at least
+1:02:24
+Mika is a framework it's not a magic shield you know yeah okay and by the way I wanted to ask
+1:02:30
+you maybe this is random question but uh I think it's important to mention so recently people hear about the travel
+1:02:37
+rule can we just touch this you know people are speaking about travel rule And this is something which is really
+1:02:43
+new thing introduced after Mika came to place. So people I think should
+1:02:48
+understand also what is the travel rule? What does it mean? What is the reason why this concept actually was
+1:02:54
+implemented into the processes? I do have a personal opinion on on on on the travel rule. I do not actually see
+1:03:01
+the the real purpose behind it. Uh the travel rule basically implies a new set
+1:03:08
+of obligations on crypto asset service providers to obtain from the users. The
+1:03:13
+purpose behind it would be to ensure that the users do not have external
+1:03:19
+means of withdrawing funds of or or of getting money without a controlled
+1:03:25
+mechanism without a controlled source. So the travel rule means that when you
+1:03:31
+move funds from one wallet to another, from one service provider to another
+1:03:37
+service provider or from a wallet to wallet or whatever, you are obligated as a user to provide the details with
+1:03:45
+regards to the transaction. Where it comes from, whose funds are they? if they're your own or if they come from uh
+1:03:52
+from another entity or another uh person and all the details around it. So um
+1:03:59
+it's a new obligation. I've seen it implemented in in the crypto projects in the crypto asset service providers that
+1:04:05
+I personally am using. It's just another layer of details that need to be
+1:04:11
+provided by the users to the to the authorities through the CASPs and right now with the Mika regulation
+1:04:17
+and all the parts around it became like centralized solutions. So authorities we
+1:04:22
+will be able to check for every single transaction we will see all the beneficiaries you know who is sending
+1:04:28
+who is receiving the money and I think it's actually breaks the initial philosophy of blockchain
+1:04:34
+which was designed from the beginning there should be and this is also my
+1:04:40
+personal opinion there should be a certain level of privacy there's a very fine line between how the authorities
+1:04:48
+identify illegal transactions from the legal transactions. But it sometimes
+1:04:53
+feels like the honest users, the legal transactions are sanctioned for the sake
+1:05:00
+of scrutinizing illegal sanctions. And uh there are also
+1:05:05
+quite a few questions raised around the world with regards to what is the true intention behind it. Is there anything
+1:05:13
+more than simply just scrutinizing for the illegal transactions? Isn't it a
+1:05:19
+little bit more than than that? Isn't it a little bit more of a control tool that
+1:05:25
+is applied to to people around the world? And it's, as I said, it's a very
+1:05:32
+fine line. I've not um hidden from you the fact that I'm not a fan of the
+1:05:37
+travel rule because the way it is structured today, it may infringe on
+1:05:45
+certain privacy rights that we should remain with. It's not my business to
+1:05:52
+help the authority scrutinize the illegal transactions. It doesn't have to
+1:05:58
+happen by damaging or by limiting my rights. It's their problem. It's their
+1:06:04
+problem how they should find other ways into identifying whatever is illegal in
+1:06:11
+this world without affect affecting uh my rights. It's a very fine line and as
+1:06:16
+I said and I repeat I'm unfortunately I'm not a fan. Ramos, thank you very much for being
+1:06:22
+with us. You know I really appreciate your valuable time spent with me today.
+1:06:28
+I think this topic what we've been discussing today it's it will be so important for the community especially
+1:06:33
+for those who wants to build some business related to crypto and I think
+1:06:39
+this episode will be really as a guideline. So thank you one more time for your time. I really appreciate that.
+1:06:46
+Thank you very much, Darius. And it was a pleasure to talk to you. I I also think it's our discussion. It has been
+1:06:53
+has been very useful and I I really hope it will it will help to a certain extent
+1:06:58
+the projects the people that are watching your podcast because it's very important also for us as as lawyers to
+1:07:06
+communicate and to make people understand the true value of
+1:07:13
+the legal protection and uh to try to destroy to the level
+1:07:19
+possible uh the misconception ion that legal work is a simple is merely a
+1:07:25
+formality and it's nothing more than yeah we have to do that and uh let's
+1:07:30
+move on so I thank you very much for for inviting me again it's a pleasure and
+1:07:36
+I'm looking forward to our next discussions if you will think they are useful I will always be available to you
+1:07:44
+sure sure Mika it's like hot topic right now so thank you very much for joining and uh I really really appreciate
+1:07:51
+because you you cannot imagine how hot this topic is. Actually, you know, there
+1:07:56
+is a huge interest to understand what is Mika, why it's needed, what we should do, uh who can do what and what are the
+1:08:04
+consequences just in case if you will not follow the rules. So, I really appreciate your time and uh your
+1:08:10
+expertise and your knowledge. Everything what you said in this episode, it's like massive massive support for my audience.
+1:08:17
+Thank I think they could have w
+

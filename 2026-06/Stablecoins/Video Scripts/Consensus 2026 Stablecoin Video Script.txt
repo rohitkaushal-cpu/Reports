@@ -1,0 +1,1587 @@
+Transcript
+
+
+Search in video
+0:12
+So we are at one of those rare
+0:15
+inflection points where technology,
+0:17
+regulation and geopolitics are colliding
+0:19
+simultaneously and the outcome is going
+0:22
+to reshape how money moves around the
+0:24
+world. Um and none of this is
+0:26
+theoretical anymore. This is
+0:27
+infrastructure and the four people and
+0:29
+enter in stable coins in our discussion
+0:31
+today and the four people um on this
+0:34
+stage are building it. They're moving it
+0:36
+as and moving assets around it and
+0:38
+issuing on top of it and they're keeping
+0:41
+it compliant every day. So um we have
+0:43
+Sergio Melo global head of stablecoin
+0:46
+solutions at Anchorage Digital um and
+0:49
+he's our qualified custodian holding the
+0:51
+assets that underpin institutional
+0:53
+stable coin activity. uh Michael
+0:55
+Scholov. He's the CEO and co-founder of
+0:57
+Fireblocks um whose infrastructure moves
+0:59
+trillions in digital assets across
+1:01
+thousands of institutional clients
+1:03
+globally. And then we have Nick Vanek,
+1:06
+CEO and co-founder of Agora, and he is
+1:08
+designing the next generation of
+1:10
+institutional-grade stable coin
+1:12
+issuance. And then finally, Edward
+1:14
+Woodford, who's our the founder and CEO
+1:17
+of ZeroAash, and he's operating the on
+1:19
+andoff ramps where stable coins touch
+1:22
+the real world. Um so between them they
+1:24
+sit at the critical layer of the stable
+1:26
+coin stack. So we'll um we'll just get
+1:29
+into all the we're going to explore what
+1:32
+kind of global financial system they're
+1:34
+actually building. So just a general
+1:37
+question to kick off the conversation
+1:39
+for everyone. Um why is this
+1:41
+globalization of stable coins at this
+1:43
+tipping point moment?
+1:46
+You want to start?
+1:48
+Whoever wants to jump in.
+1:49
+I mean uh it's much better and we had a
+1:51
+genius act.
+1:53
+Okay.
+1:55
+I I think um one thing that I always
+1:57
+talk about is of course um legislation
+1:59
+has been helpful but at the end of the
+2:01
+day we're talking about technology. Um
+2:02
+and one of the things that we talk about
+2:03
+is stable coin enabled accounts. Um so
+2:06
+you know there's effectively anyone with
+2:08
+a PayPal account, anyone with a Revolute
+2:10
+account, anyone with a new bank account,
+2:11
+anyone with a G-Cash account now has
+2:13
+access to stable coins. And so
+2:14
+effectively the way I view that is that
+2:16
+we've seen this massive distribution
+2:17
+about 2.5 billion wallets around the
+2:19
+world now that can be seamlessly
+2:21
+enabled. Um and effectively now that
+2:24
+you're seeing this distribution similar
+2:25
+to the iPhone where you've distributed
+2:26
+all the iPhones now the application
+2:28
+layer has been built and that's why
+2:29
+you're seeing the volumes pick up as
+2:30
+well. So that's kind of our thesis.
+2:31
+There's lots of drivers as Michael
+2:32
+articulated but I think one is viewing
+2:34
+this more as a technology play and how
+2:36
+the technology is being distributed and
+2:38
+we've really started to see that um
+2:40
+evolution drive up. Yeah, I would just
+2:42
+add that you have right the base layer
+2:43
+right like Fireblocks or Anchorage on
+2:45
+the custody side you have a lot of uh
+2:47
+distribution that's now happened because
+2:49
+of that and the enablers like you know
+2:51
+zero hash that enable people to move
+2:53
+money from the existing world right like
+2:55
+fiat accounts right or cards into this
+2:58
+onchain world and and vice versa and so
+3:01
+that's all come together now you've had
+3:02
+years building this up and now
+3:04
+regulation is finally going to really
+3:06
+take us to the next step because if you
+3:07
+think about it you know we've all been
+3:09
+in in crypto for many years but you
+3:11
+still don't even have basic regulation
+3:13
+in the United States or accounting for
+3:16
+stable coins. And so there's, you know,
+3:18
+regulation is really going to take us to
+3:19
+the next level.
+3:20
+Yeah, I agree. It's a convergence of
+3:22
+regulation and infrastructure. Uh we can
+3:25
+call it technology, infrastructure, it's
+3:26
+really the same. It's um it's actually
+3:28
+an epic moment to be here because we
+3:30
+have four builders in the industry that
+3:32
+are putting together the components that
+3:34
+looking back in five years will
+3:36
+demonstrate how uh technology regulation
+3:39
+together can really replplatform money
+3:42
+onto a new rails. And so we will see how
+3:44
+this has happened just like the internet
+3:46
+happened like mobile phones happen
+3:48
+stable coins happen and then we will
+3:50
+look back and notice how it was not just
+3:53
+a moment but it was the the confluence
+3:55
+of a lot of components including us
+3:57
+building including regulation and
+3:59
+including of course technology.
+4:01
+So I want to um touch on regulation in a
+4:04
+bit but um Michael Kvales
+4:08
+had recent news um I believe this slide
+4:11
+is up there um about the consortium and
+4:15
+addressing the jurisdictional um
+4:17
+fragmentation if you want to just walk
+4:18
+us through that briefly. Yeah. So, um I
+4:22
+think is quite interesting because I
+4:24
+would say it's the first scale
+4:25
+consortium outside the US that uh makes
+4:29
+an attempt to issue a proper stable coin
+4:33
+for Europe as probably people are aware
+4:36
+I don't know 99.9 probably% of all the
+4:39
+stable coin uh flow and volume and AU
+4:43
+globally is currently denominated in in
+4:45
+dollars. uh when you travel outside the
+4:49
+US especially when you talk with central
+4:51
+banks and banks uh there is a lot of
+4:54
+concern around theorization of economies
+4:57
+the Europeans Sergio can probably like
+5:00
+kind of
+5:01
+talk about is a European right but yeah
+5:04
+Europe here but the Europeans are of
+5:06
+course extremely concerned about uh that
+5:08
+and uh based on the Mika regulation
+5:10
+actually there is a big advantage for
+5:12
+the banks to issue stable coins in
+5:14
+Europe. So uh this concept actually like
+5:17
+you know started with I believe ING a
+5:20
+few years ago they came up with this
+5:21
+idea like hey you know maybe we can do a
+5:23
+bank consortium and do a stable coin a
+5:26
+euro stable coin and then we actually
+5:29
+help them like you know kind of
+5:30
+bootstrap it and uh help them with some
+5:32
+of the connectivity to the other banks
+5:33
+but eventually right now I think there
+5:34
+are 12 partners which are all the I
+5:37
+would say like you know pretty important
+5:38
+logos as you can see in the in the
+5:41
+European uh banking scene and I think
+5:43
+that there was some announcement or some
+5:44
+rumors that it's going to be 32 very
+5:46
+soon. Um and look I mean if that I mean
+5:50
+it's early days I think that there is a
+5:52
+lot of uh interest in uh what they are
+5:55
+doing we clearly servicing as the both
+5:58
+the tokenization engine so the
+5:59
+technology to issue stable coin and kind
+6:01
+of the security to make sure that this
+6:03
+is all being orchestrated and
+6:04
+distributed in a secure way but I think
+6:06
+that the most exciting thing is that if
+6:08
+this is actually is going to happen and
+6:10
+we will have proper rails to go in and
+6:12
+out from a euro stable coin then I think
+6:14
+we actually have a pretty good uh view
+6:17
+on FX markets using stable coins and
+6:20
+really bringing the entire fiat world
+6:24
+onchain
+6:26
+globally, right? And not solely US
+6:29
+focused.
+6:30
+Great. Um, so moving into institutional
+6:34
+adoption and infrastructure, um, Sergio,
+6:37
+with regard to stable coin infra
+6:38
+infrastructure, how does Anchorage
+6:40
+approach custody relationships through
+6:43
+its bank-to-bank solutions? Yeah, I'd
+6:45
+like to tie this answer to what um what
+6:48
+Michael just said here. Um the future is
+6:51
+with banks coming onchain and with the
+6:54
+dollar being replatformed onto trillions
+6:57
+of dollars of circulating money supply
+6:59
+on chain. This can only happen if those
+7:01
+banks are comfortable in in transferring
+7:03
+and holding billions clips. So we're
+7:07
+doing a lot at Anchorage to facilitate
+7:08
+that. And first of all going back to to
+7:11
+to Michael's uh news and congratulation
+7:15
+uh we will see more of uh coalitions of
+7:17
+banks and consortiums coming and playing
+7:20
+together in the space. Ultimately
+7:22
+stablecoin is a distribution game. So
+7:25
+putting together the nodes and uh and
+7:27
+the access to gain a critical mass to to
+7:31
+distribute and circulate stable coin
+7:33
+quickly uh is the right thing to do.
+7:35
+Personally, I've been involved in uh
+7:37
+stable coin consortiums for the past
+7:39
+five years. So, I I I'm really a
+7:42
+believer in in in this uh in this um
+7:45
+added value added value solution. We
+7:47
+will see more consortiums of banks uh
+7:50
+coming in the space. Also, early warning
+7:52
+services and zel had made announcements
+7:54
+last year about uh looking at stablecoin
+7:56
+solutions. This is going to be very
+7:58
+interesting. uh back to your question
+8:01
+the it's not just custody it's a whole
+8:04
+suite of uh services the banks are more
+8:06
+comfortable in consuming from another
+8:08
+bank and that's why I'm very happy to
+8:10
+see that uh the the licensing that
+8:12
+Anchorage Digital has been running with
+8:14
+for the past 5 years the national trust
+8:17
+bank provided by the um OC the the
+8:20
+national bank regulator is now also
+8:22
+being given to other banks we need all
+8:24
+the banks in America to be crypto banks
+8:27
+we want competition we want crypto So
+8:29
+not to be considered a different form of
+8:31
+money. We want crypto to be money, a
+8:33
+better way of money.
+8:36
+Great. Um did anyone or Michael I wanted
+8:40
+to just note fire related to this um
+8:43
+Fireblocks you had a Q4
+8:46
+2025 shift where banks the pipeline um
+8:50
+officially exceeded the cryptonative
+8:52
+demand for the first time.
+8:54
+Yeah. I mean I think that what we're
+8:56
+seeing right now in the industry is that
+8:57
+uh which you know I always say like you
+8:59
+know that uh the Fireblocks uh pipeline
+9:03
+uh is kind of reflecting what we're
+9:05
+going to see in the next six 12 months
+9:06
+because people come to us to buy
+9:08
+infrastructure for projects that they're
+9:10
+going to do or going to go live in like
+9:12
+six 12 months. So uh Q4 2025 was the
+9:16
+first time in the history. So the
+9:18
+company exists for seven years, eight
+9:19
+years almost and uh it was the first
+9:22
+time that the pipeline of banks and
+9:26
+payment companies exceeded the number of
+9:31
+uh companies that are fintech and
+9:33
+cryptonative.
+9:35
+First time it's happened and I think
+9:36
+it's something that is I guess telling
+9:39
+to where the momentum is basically
+9:41
+heading.
+9:42
+Interesting. The data doesn't lie. Um so
+9:45
+now those lies but
+9:46
+sometimes um Nick um so looking at
+9:51
+emerging market demand um is the
+9:54
+explosive demand for dollar stable coins
+9:56
+in these emerging markets a permanent
+9:58
+shift in how value moves or will this
+10:01
+demand evaporate um if the local
+10:04
+monetary politics stabilize?
+10:07
+Yeah. And are they a permanent is it a
+10:09
+permanent fix or a temporary?
+10:10
+I I wouldn't even call it like a
+10:12
+permanent shift because it's already
+10:13
+happening today. Right? So if you look
+10:15
+at like the Euro dollar market which are
+10:17
+dollar deposits outside of the United
+10:18
+States that's already in the you know 15
+10:21
+to 20 trillion dollars right I would say
+10:24
+you're seeing a lot of early consumer
+10:26
+adoption of stable coins because you
+10:28
+know in places like Argentina they were
+10:30
+using you know cash right and stable
+10:32
+coins are just a much better vehicle for
+10:34
+them to you know save store and grow
+10:36
+their wealth right uh and escape local
+10:39
+inflation but if you look at the Euro
+10:41
+dollar market today like that's mostly
+10:43
+institutions and business capital,
+10:46
+right? So, a lot of flows that we see
+10:48
+that are in dollars today, but we see
+10:51
+changing to stable coins are things like
+10:53
+international payroll, uh, you know,
+10:55
+just corporate treasury, B2B payments.
+10:59
+Those are already there and they're
+11:00
+going to stay there. Right now, they
+11:02
+happen, you know, via Swift or
+11:04
+traditional rails, but we see that
+11:06
+moving to stable coins because you can
+11:07
+now settle instantly, uh, settle cheaper
+11:10
+and earn more on those dollars. And so
+11:13
+we're talking to, you know, small
+11:15
+startups that are doing this that want a
+11:17
+global dollar account, but also, you
+11:19
+know, Fortune 10 and Fortune 500
+11:21
+businesses that have, you know,
+11:23
+multi-jurisdictional operations. And so,
+11:26
+uh, I would say that the demand for
+11:28
+dollars globally is already there. It's
+11:30
+just moving, you know, uh, from, you
+11:33
+know, the fiat system to stable coins.
+11:36
+And, you know, to your consumer point,
+11:37
+right, it's just a better vehicle. They
+11:39
+don't want to have to go to like the
+11:40
+local qua to, you know, get get, you
+11:43
+know, the green or the blue dollar,
+11:45
+right? They just want to use stable
+11:46
+coins. And so it's it's here to stay.
+11:50
+Okay. So Edward um addressing um or
+11:54
+looking at the friction in current on
+11:56
+and offramp infrastructure. Does the
+11:59
+current does that current friction in
+12:01
+moving between fiat and digital dollars
+12:02
+prove that we are truly democratizing
+12:04
+access or are traditional banks
+12:07
+successfully just reasserting their
+12:09
+roles as gatekeepers?
+12:11
+Yeah. So I think there's a role to play
+12:13
+across the landscape. I mean you can use
+12:15
+the term digital dollars, you can use
+12:17
+the term onchain money. Um, you know,
+12:19
+stable coins are now a very defined term
+12:21
+here in the United States. Um, you're
+12:23
+also going to have tokenized onchain
+12:24
+deposits. You're going to have tokenized
+12:26
+money market funds. At the end of the
+12:27
+day, um, it's all a form of dollars that
+12:30
+can inter interact in different ways.
+12:32
+So, uh, there's a big debate around
+12:34
+whether or not, um, how how stably coin
+12:36
+yield or money can can work, for
+12:38
+example. Um, and even within these
+12:40
+categories, there's a whole set of
+12:42
+subcategories as well. Within the
+12:43
+tokenized money market fund, there's
+12:44
+different types of funds that can be
+12:46
+treated in different ways and they serve
+12:47
+different purposes. So, for example,
+12:49
+when you're talking to clearing houses,
+12:50
+they can only accept certain types of
+12:52
+money funds, money market funds as
+12:53
+opposed to others. I think the
+12:55
+commonality is the technology. And the
+12:57
+important um kind of friction points is
+13:00
+is going to be around interoperability
+13:02
+between these aspects. And so, this is
+13:03
+what we do with groups like Black Rockck
+13:05
+and Franklin Templeton and others that
+13:06
+have tokenized dollars in a money market
+13:08
+fund like construct. and we provide the
+13:11
+rails between stable coins and those
+13:13
+tokenized money market funds. So there's
+13:15
+going to need to be this greater
+13:17
+interoperability that we're helping
+13:18
+solve. The second big thing is the
+13:20
+usability. So if you think about even
+13:22
+the largest stable coin here in the US
+13:24
+um you know USDC USDT um there is this
+13:28
+massive fragmentation that exists from
+13:30
+an onchain perspective 30 plus chains
+13:32
+which is only going to increase. I think
+13:34
+we we all agree that the there's only
+13:36
+going to be more chains in terms of
+13:37
+which these assets are listed on. And so
+13:39
+the usability friction here, the UX
+13:41
+friction is high and so we're solving
+13:43
+that problem as well in terms of at the
+13:45
+end of the day it should be as simple
+13:46
+between me moving money to Michael or us
+13:49
+paring groups like couch or interactive
+13:50
+brokers or gusto you an account to
+13:53
+account movement is the critical point.
+13:55
+This point around users making decisions
+13:56
+about chains or even the type of money
+13:58
+that sits on top of these chains needs
+14:00
+to be abstracted away. So that's our
+14:02
+product or that needs to be solved. So I
+14:04
+think there's a place for everyone to
+14:05
+play but as you see this greater
+14:07
+fragmentation both at the asset level
+14:09
+and at the chain level interoperability
+14:11
+is key as well as usability.
+14:13
+Okay. So we just need to get rid of all
+14:16
+the labels.
+14:18
+It's money after all. Right.
+14:19
+Right. Right. Um
+14:22
+okay. So
+14:24
+let's talk about regulation. Um and
+14:27
+pivoting away from
+14:29
+um the US and the EU. um and like like
+14:33
+the Genius Act or MI like the Genius Act
+14:35
+or Micah. Um what are the most
+14:38
+significant regulator regulatory
+14:40
+developments happening um outside of the
+14:43
+US and the EU?
+14:45
+Um
+14:46
+I just came from Asia like 10 days
+14:49
+there. So, Japan, yeah, they had a
+14:52
+stable coin regulation for a few years,
+14:54
+uh, actually ahead of the US. Uh, but
+14:58
+now they're seriously pushing this
+15:00
+through and doing some reform. I think
+15:02
+Korea is looking to do something this
+15:05
+year. It's kind of on the table over
+15:06
+there.
+15:10
+Australia as well. And maybe like you
+15:13
+know the the the most important markets
+15:15
+that uh still need to kind of get to
+15:18
+evolve is uh LATAM specifically Brazil
+15:22
+and you know the entire uh pack over
+15:25
+there where if you actually like follow
+15:27
+the news
+15:30
+I think they they're providing CoinDesk
+15:32
+a daily you know stream of things to
+15:36
+write about feed to write about. Yeah,
+15:41
+but I think one one one point which is
+15:42
+important, right? Genius has passed and
+15:44
+you know that's a great piece of
+15:46
+legislation. Um two key points. One is
+15:49
+rulem is still ongoing and there are
+15:51
+things that I think we all agree needs
+15:53
+to be implemented in short in terms of
+15:55
+providing safety and soundness around
+15:57
+what is ultimately a dollar. Secondly,
+15:59
+there's still things that need to be
+16:00
+solved within the United States. Um so
+16:02
+for example, it's a pretty nuance point.
+16:04
+It may not be interesting to everybody,
+16:06
+but for example, the accounting
+16:07
+treatment in the United States, it's
+16:08
+really really matters. So if you're a
+16:10
+payments business and you're using USDT
+16:13
+and you're effectively acting as in the
+16:15
+money flow, that is treated in a gross
+16:18
+basis. So what that means is if I move a
+16:20
+hundred billion dollars of tether at a
+16:22
+as a business, I count that all as
+16:24
+revenue. So that is a real friction in
+16:27
+terms of payment businesses absorbing
+16:29
+this because even as the biggest payment
+16:30
+companies in the world say with five 10
+16:33
+billion dollars a year of revenue per
+16:35
+quarter if you now have a revenue line
+16:37
+item of hundred billion revenue but
+16:39
+you're making say 5 10 bips on that that
+16:41
+completely destroys your revenue margin
+16:43
+profile. So there's a lot of work that's
+16:45
+being done. Um it definitely has helped
+16:48
+solve some of the key points around
+16:49
+trust and the perception of stable coins
+16:52
+and the acceptability of stable coins.
+16:54
+there are still the nitty-gritty details
+16:55
+that need to be resolved in terms of
+16:56
+rule making where I know that we've all
+16:58
+contributed to that. But secondly also
+17:00
+in terms of some of the less sexy pieces
+17:02
+around fazby and the way that these
+17:03
+things are accounted for really really
+17:05
+matters. Yeah, just to add to what Ed is
+17:08
+saying, I mean eventually this right now
+17:10
+a US effort, UScentric effort, but
+17:13
+eventually it needs to be harmonized
+17:14
+globally, right? Because most of the
+17:16
+flows that we see right now with stable
+17:19
+coins are cross border, right? So the
+17:21
+same treatment across compliance,
+17:24
+accounting, safety and soundness and so
+17:27
+on. It needs to be harmonized globally
+17:30
+and right now that's an additional
+17:32
+friction point that we are seeing.
+17:34
+I will say I think a lot of people are
+17:35
+looking to the US and then informing
+17:37
+their decision-m based on what the US is
+17:39
+doing which is good and I would say
+17:41
+directionally a lot of what is happening
+17:43
+on the rulem side in the US is positive
+17:46
+right and sort of this the spectrum of
+17:47
+outcomes it's leaning towards you know
+17:49
+better versus worse so that's all I
+17:52
+think things that we're all excited
+17:53
+about
+17:53
+yeah this is a point in time where the
+17:56
+world is basically deciding whether the
+17:57
+cars are going to drive on the right or
+17:59
+the left side of the road or whether
+18:00
+that the plugs are going to have a
+18:01
+certain shape or the voltage on on the
+18:04
+outlets are going to be 110 or 220
+18:06
+volts. Another analogy I like to make to
+18:08
+to explain how complex the system is is
+18:12
+um rail gauges. So the distance between
+18:15
+the two rail bars that that stay under
+18:18
+the trains uh it's not homogeneous
+18:20
+around the world and has to be
+18:21
+harmonized, right? And especially if you
+18:23
+want trains to be uh crossing borders
+18:26
+effectively and you don't want to draw
+18:28
+to transfer goods from one train to the
+18:30
+other every time you need to cross a
+18:32
+border. So this is a moment where global
+18:34
+regulators are very actively looking at
+18:37
+what's happening with rulemaking and and
+18:39
+genius and subsequently clarity in the
+18:42
+next 12 to 18 months and understanding
+18:44
+exactly how to shape their own local
+18:46
+domestic regulatory framework so that
+18:49
+the gauges for the railway match those
+18:51
+that are in the US which is still uh
+18:53
+power projecting the dollar as as its
+18:56
+finest tool of geopolitics and it has
+18:58
+been successful for a 100 years and it
+19:00
+will be probably for the next hundred
+19:02
+So we are really building um at
+19:05
+Anchorage a digital and and all the
+19:06
+builders on stage I'm sure we're all
+19:08
+building towards this future that is
+19:10
+anywhere between 12 to 18 months out
+19:12
+where we we try to see the the homogene
+19:15
+homogeneous harmonized landscape flowing
+19:19
+very freely.
+19:21
+So you're like for on the FCA side or
+19:23
+the the French central bank side?
+19:27
+Well I don't know what Italian central
+19:28
+bank is doing these days. I've been been
+19:30
+out for a while, but uh definitely it's
+19:33
+time for updates on that front. I would
+19:35
+say on a regulatory front and in fact I
+19:38
+think the ACB now is in a is in a quiet
+19:40
+period uh pending some updates which
+19:43
+which are most welcome. I think that
+19:45
+it's really good to see regulators
+19:46
+actually working towards uh building a
+19:49
+building a framework that makes money
+19:50
+flow better.
+19:53
+Um so shifting to um the political and
+19:56
+competitive temp tension between banks
+19:58
+and stable coin issuers, Nick, um for
+20:02
+the yield debate, um is the banking
+20:05
+industry's opposition to stable coin
+20:07
+yield a genuine concern about systemic
+20:09
+risk or is it simply a protectionist
+20:12
+competition to design designed to
+20:14
+prevent deposit flight?
+20:16
+Yeah, I like it. I get the spicy one.
+20:18
+It's 100% about anti it's
+20:19
+anti-competitive behavior, right? uh
+20:22
+stable coins are effectively
+20:24
+overregulated money market funds of
+20:26
+which there's 7 trillion you know in
+20:29
+assets today right and so you know and
+20:33
+bank's business of lending is inherently
+20:35
+riskier than parking all your money at
+20:37
+the Fed or in shortdated US Treasury
+20:39
+bills so I you know I think they really
+20:42
+love the right capture of oh I can give
+20:43
+a consumer or a business 200 basis
+20:46
+points and I can park it in the Fed
+20:48
+overnight and make that spread right and
+20:50
+I think they're worried that you know
+20:52
+stable coin issuers or uh folks that are
+20:55
+involved in rewards are going to you
+20:57
+know make them uh you know offer a more
+21:00
+competitive product right or you know
+21:03
+you build a competitive product and so I
+21:05
+think it's it's 100% just
+21:06
+anti-competitive behavior
+21:07
+if I can actually give uh my two cents
+21:10
+over there yeah
+21:11
+it is like a combin well I think the
+21:14
+world of banking banking executives
+21:16
+right now is split between people that
+21:17
+kind of don't fully understand this you
+21:20
+know uh uh the nuance over there and
+21:23
+people that actually understand and
+21:24
+they're deliberately uh acting in an
+21:27
+anti-competitive way because the reality
+21:29
+is that assuming that the world actually
+21:32
+moves onchain it doesn't matter the
+21:35
+current business model of the banks is
+21:38
+cool you know because
+21:40
+if I'm able to be whether it's like you
+21:43
+know stable coin or tokenized deposit
+21:46
+and instantaneously I can switch to a
+21:48
+tokenized money market fund Right. And
+21:51
+the only thing that I'm paying is I
+21:53
+don't know whatever ad is charging us
+21:55
+over there like you know from a basis
+21:57
+point standpoint and uh and some fees to
+22:01
+Solana or Ethereum or whatever right and
+22:03
+it's being done autonomously by some
+22:06
+kind of just like you know an automatic
+22:08
+swipe
+22:10
+that happens all the time. There won't
+22:12
+be deposits,
+22:14
+right? That's the truth. uh like why
+22:16
+would I give my money to the bank to
+22:20
+lend it on the other side as an
+22:22
+individual as a business as a consumer
+22:25
+right they need to think about a
+22:27
+different business model uh and I think
+22:30
+there is a bigger
+22:33
+macro question of how private credit is
+22:35
+going to be originated but in an onchain
+22:39
+world we're not going we are not going
+22:41
+to see it and by the way there is
+22:42
+something to say that's not like even
+22:44
+specific to stable coins or or
+22:46
+blockchain. I think what we've seen with
+22:48
+Silicon Valley Bank was some form of
+22:50
+that artifact that like you know that
+22:52
+when the system is instantaneous,
+22:54
+okay, the traditional uh banking uh
+22:58
+world of um
+23:00
+fractional reserve doesn't work.
+23:03
+And I think also like I love competition
+23:05
+like they need to offer more competitive
+23:08
+rates, right? It's like if you're going
+23:09
+to give the bank your money, right, they
+23:11
+should be giving you 5% or 6%. Right, to
+23:14
+compensate you for the risk. Yeah.
+23:15
+And today and really since like the GFC
+23:18
+like consumers and most businesses
+23:20
+unless they have power over, you know,
+23:22
+you know, economies of scale power over
+23:23
+the banks have been totally getting
+23:24
+hosed.
+23:25
+I just think I didn't wear a suit today
+23:27
+to defend the banks, but you know, I
+23:29
+think it's I do think it's an important
+23:31
+dress.
+23:31
+It's an important I think it's an
+23:32
+important nuance that that we need to
+23:34
+articulate. So um stable coins um for
+23:38
+for a lot of a lot of people I view it
+23:40
+as a big value proposition around value
+23:42
+in motion as opposed to value at rest.
+23:44
+So objectively if you can have a US
+23:46
+account today I think most US people
+23:48
+will decide to have actually a dollar at
+23:49
+rest um in the sense that it's FDIC
+23:52
+insured. There's a ton of nuances and
+23:54
+differences. Um I do think that there is
+23:57
+definitely an important aspect between
+23:58
+interoperability of money. Um, and so
+24:01
+the ability to move to a yield bearing
+24:02
+instrument, whether that be just a
+24:04
+classic dollar or for example,
+24:05
+instruments that you've helped create,
+24:07
+um, that that's also really important.
+24:09
+So, stable coins are a really powerful
+24:11
+alternative payment method. And if you
+24:13
+want to hold it at rest, you know, it's
+24:14
+quite simple. You can simply just
+24:15
+convert it into a yield bearing
+24:17
+instrument. I do also think there's
+24:18
+something that's missed as well in this
+24:19
+discussion about yield. Um the way that
+24:22
+the legislation of under genius is being
+24:24
+created, it is functionally if banks and
+24:27
+stable coin issues were to get into uh
+24:29
+like a competition around yield, the
+24:31
+banks are ultimately going to win. And
+24:32
+this is simply why the way that the
+24:34
+reserves work under Genius is that the
+24:36
+majority of that needs to be held in
+24:37
+tokenized money in in terms of money
+24:39
+market funds. You are never ever going
+24:41
+to be able to compete with a fractional
+24:43
+reserve banking system in terms of
+24:45
+yield. And so this argument that um you
+24:48
+get into this debate I I just think is
+24:50
+relatively a moot point. And I think
+24:52
+stable coin issuers and people that act
+24:54
+in stable coin space need to talk about
+24:55
+utility beyond just yield because I
+24:58
+think that that is frankly the wrong use
+25:00
+case for most stable coin applications
+25:01
+which is a transactional business as
+25:03
+opposed to an asset rest business. And
+25:05
+if you want to create an asset arrest
+25:06
+business in a tokenized way then just
+25:08
+use a tokenized yield bearing
+25:10
+instrument.
+25:10
+Yeah. And back to my previous point, the
+25:13
+the what we need to see is where the
+25:16
+situation will materialize in 24 months
+25:19
+when trillions of dollars will
+25:21
+replatform onchain. And at that point,
+25:25
+most of the genius compliance stable
+25:26
+coins will be backed partially by
+25:28
+deposits and tokenous deposits. And
+25:30
+there you go. The deposits are actually
+25:32
+going somewhere and they're not flying
+25:33
+into the ether. No pun intended. they're
+25:36
+they're going they're going they're
+25:38
+going to be backing stable coins and and
+25:40
+this interoperability is very important.
+25:42
+So what we have to do today is building
+25:44
+the foundations that enable
+25:46
+interperability. Uh yesterday we
+25:47
+announced a partnership with JP Morgan
+25:49
+where uh we enable cashless reserves for
+25:53
+the stable coins issued by Anchorage
+25:54
+Digital Bank. And this is this is
+25:56
+exactly to our point a testament to the
+25:58
+fact that uh when you have the right um
+26:01
+components for interoperability when you
+26:03
+have abstraction uh from uh uh bank
+26:07
+balance sheet in a stable coin reserve
+26:08
+but also the ability to do 247 uh
+26:11
+redemption onto fiat uh at a at a gibb
+26:14
+then you really abstract away from
+26:16
+anything that would consider would be in
+26:18
+an old school stable coin would be
+26:20
+considered liquidity risk would be
+26:23
+considered exposure to banks. uh would
+26:25
+be potential dagging. We take it all
+26:27
+away and we just work with the uh
+26:29
+biggest global banks to to build the
+26:31
+interoperability at the base layer and
+26:32
+then the stable coin builders go and
+26:34
+distribute the stable coin on top
+26:35
+without any uh deposit flight even in
+26:38
+the conversation.
+26:39
+I don't want to cut I don't want to cut
+26:40
+you guys off but we have only about a
+26:42
+minute we're in the midst of it.
+26:44
+No, I know I like it quickly. What I'll
+26:46
+just say is like a lot of the stable
+26:48
+coin issuers are very complimentary to
+26:49
+the banks to to Sergio's point like
+26:51
+we're a globally liquid stable coin. We
+26:53
+need banking partners, right? Yeah. And
+26:56
+so, and you're giving them deposits. So,
+26:58
+it is like a very it can be a very
+26:59
+complimentary relationship.
+27:00
+But, so for my final question, which we
+27:02
+only have one minute for each of you to
+27:04
+answer, yes or no? In like looking
+27:06
+ahead, will the bigger companies like
+27:08
+Visa and um Mastercard, will they
+27:11
+successfully integrate um stable coins
+27:14
+into their into their settlement layers
+27:15
+or will ultimate will ultimately a
+27:17
+blockchain native company win?
+27:21
+Absolutely. They are uh they are doing
+27:23
+it today. They've made already
+27:24
+announcements and absolutely and and
+27:26
+again our cashless actually yes they are
+27:29
+using uh they are using stable coins.
+27:31
+They're not staying away and and uh and
+27:33
+seeing it as a as a competitive factor.
+27:35
+They see it as a fantastic new uh
+27:37
+augmentation of their of their existing
+27:39
+network. Their networks were built on
+27:41
+decades of uh of uh adding nodes to to
+27:44
+and adding utilities. So that's not
+27:46
+going anywhere. that's staying and now
+27:48
+they're augmenting it with stable coins
+27:49
+and cashless reserves are one of the
+27:51
+many components that allow them to to do
+27:53
+it safely with the comfort that they
+27:55
+don't have to face any question about
+27:57
+liquidity
+27:59
+10 seconds Michael
+28:00
+yes
+28:01
+yes yes or no
+28:02
+yes you know short term the main
+28:03
+question is like you know what will
+28:05
+happen once it will start touching the
+28:08
+modes around their main business
+28:10
+okay
+28:10
+which is not yet the case
+28:11
+and I'll say I'll just say yes and like
+28:13
+their business right they're a payments
+28:14
+company but their main business is
+28:15
+pricing risk Right. Which one of us do?
+28:18
+Edward, final final word.
+28:20
+Maybe at risk of being boring. Yes. Um
+28:22
+and you know, a lot of their business is
+28:24
+around interoperability of payment
+28:25
+networks around the world. They and
+28:27
+stable coins in my mind are no
+28:29
+different. Um in terms of being that um
+28:32
+being another massively powerful payment
+28:33
+method.
+28:34
+Okay. Thank you all very much for taking
+28:36
+the time. Thank you for being an active
+28:38
+audience.
+

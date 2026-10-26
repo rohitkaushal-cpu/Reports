@@ -1,0 +1,1200 @@
+
+Search in video
+0:03
+Hey guys, welcome to the Hacken webinar. Today we are going to talk about the
+0:08
+Genius Act, which is quite interesting, I think, for a lot of people because it's the really the first regulation to
+0:15
+come out of the United States, which is relevant for the crypto industry. So, I
+0:21
+would like to introduce myself and my colleagues with me today. My name is Chris Cousins. I'm a managing partner at
+0:26
+Hacken Advisory. Um, I also would like to introduce Pedro Anderson who will
+0:32
+tell you a little bit about himself. Hi everyone. I'm Pedro Anderson. I'm VP of growth at Hackin. Um, I work
+0:38
+specifically with institutional customers and growth here in the US uh based in Texas. And for me, this is a
+0:45
+really exciting panel because I've been in the space quite a while. started my own company in 2016 in crypto and we
+0:52
+actually worked with stable coin payments between uh major players like Ernston Young and American Airlines and
+0:58
+so on and back then there was no legal framework within the US for interacting
+1:04
+with uh stable coins. So this is a really exciting time and change in the space for me.
+1:11
+Hey everyone, my name is Pedro. I am a partner here at Hackin. I do a lot of
+1:16
+the business development and to touch base on Pedro was saying, I'm also residing here in New York. So, the
+1:22
+Genius Act coming out in the United States as the first legislation for crypto is really exciting to see because
+1:28
+a lot of these big players that I communicate with and are in constant conversation with and this is the most
+1:34
+spoke about thing right now. So, it's super exciting to see this come about and be able to work in this industry and
+1:40
+be able to help companies advise on the Genius Act.
+1:47
+So Chris, you have quite a bit of experience with uh the legal uh side of
+1:52
+crypto and um I I bet you it's a big deal what's going on right now and you're probably getting a lot of
+1:58
+inquiries along these lines, right? Um yeah, I mean we're starting to get a
+2:03
+lot of questions about it. So the Genius Act really applies towards uh kind of big players in the crypto market. So, a
+2:09
+little bit uh different from what we're typically dealing with, which is smaller projects or exchanges that aren't quite
+2:16
+uh at like the level of multi-billion dollar stable coin issuers, but definitely there's a lot of uh
+2:22
+uncertainty and questions around how genius is going to apply towards their business and what they need to look out
+2:27
+for. So, it's becoming something that I think we should talk about so that it's a little more clear for everyone exactly
+2:34
+what genius is, how it applies to your business, what you need to look out for if you're looking to launch a project or
+2:40
+an exchange or an RWA or, you know, any one of these new kind of crypto classes
+2:45
+that are starting to get traction right now. Uh, because there's actually a lot of crossover.
+2:51
+Beautiful. So I think we should just talk a little
+2:56
+bit about hacken for anyone who happens to be with us that doesn't know what hacken is and what we do. So hacken
+3:03
+ultimately is a cyber security business which works exclusively in web 3 and crypto and we've been at this for nine
+3:10
+years or almost nine years now and I would say that we're probably like top three players in the cyber security
+3:16
+vertical in the space. um working with tier one clients. We're working with all top exchanges. We're working with a lot
+3:22
+of governments now to provide compliance monitoring solutions and it's just becoming a very high growth vertical in
+3:29
+the crypto space because hacking is is a multi-billion dollar problem and historically there's hasn't been a lot
+3:36
+of money uh thrown at it in in a way of preventing hacks from happening. So it's it's becoming a huge issue and we're at
+3:43
+like the the you know the front lines trying to guard the industry against these type of threats but also on the
+3:49
+compliance level right you can't have essentially what is a bank without having good security. So regulators
+3:55
+around the world are starting to realize that and part of the legislation is um basically forcing regulated projects and
+4:01
+exchanges and custody providers to implement some sort of security safeguard and that is a big part of the
+4:07
+the Genius Act. So that's just like a little bit about us and I don't know if you guys want to like elaborate a little bit more on some of
+4:14
+our clients and what we've been doing recently. Absolutely. To touch base what you're saying. So we do position ourselves as
+4:20
+an end toend blockchain cyber security company but we also do a lot of compliance and regulation as Chris was
+4:26
+saying we are known for back in the day when bit had the $ 1.46 billion hack we
+4:32
+were actually the company that did all their proof of reserves to you know keep them afloat. A lot of the things that
+4:38
+they mentioned back in the day when they went on like programs or when they spoke about what actually happened was that
+4:45
+hacking actually saved them and kept them afloat. So a little bit about us and what we do.
+4:54
+Great. Thanks for that. So this was uh in line with the Genius Act. We were
+4:59
+recently at the NASDAQ and we we hosted our first ever trust summit which we invited kind of the who's who of crypto
+5:06
+and players in the space to come talk together about the the future of crypto
+5:12
+in the United States and all the aspects that's affecting regulation. So at this
+5:17
+event it was it was really interesting. We had really um top level people there talking about problems which is
+5:24
+interesting for their particular business and it's very different from what we've seen in the past with smaller
+5:30
+crypto projects. It's a it's a more of a focus on regulation, how Genius Act is going to impact them, how security
+5:37
+issues need to be overcome at a very grand scale. uh what guys like Coinbase
+5:43
+and and other major players are doing to try to reduce those risks because ultimately crypto can't grow if if
+5:48
+you're keeping your funds in a place where you don't feel is entirely secure. Uh it would be like, you know, having a
+5:54
+bunch of cash lying on top of your kitchen countertop, you know, like like anyone can just come in and grab it. You're not going to feel very happy
+6:00
+keeping your money there. So crypto security is is paramount to growing trust and support and scalability in
+6:07
+this industry and making crypto a household name. And this was the topic that we were addressing and and it's a
+6:13
+huge part of the Genius Act is how security plays into um allowing
+6:18
+companies to be regulated and operate at this grand scale across the United States.
+6:24
+Yes, Chris, I completely agree with you. And to touch base on what you're saying, I think that security is something that
+6:30
+we see now being implemented a lot more in the United States. In Europe, you know, there's a lot of regulation, but in the United States with a lot of
+6:36
+people that are younger that are investing in these exchanges, I don't think that a lot of us, you know, keep
+6:42
+in mind how important security is. And I think with all this new legislation coming about, we will see a lot of
+6:48
+people my age coming and see and, you know, thinking, well, what is the most secure centralized exchange? What like
+6:55
+where should I buy my stable coins and how do I know that this is safe? And I
+7:00
+think that the people that are starting to transition from traditional finance to decentralized finance, it's like the
+7:05
+first thing that they actually think about is like, okay, well, if I'm going to invest X amount of money into this exchange or to this decentralized
+7:11
+exchange, how do I know it's safe and how do I know that my money will not be hacked? So, I think it's very important
+7:17
+and I think that we saw a lot of people speak about that in the Trust Summit and
+7:22
+obviously the Genius Act as well. Yeah, that's a big part of what it's
+7:28
+about. So, our goal for today is really just three things. We're going to talk about who is affected by the Genius Act.
+7:35
+Um, if you're interested in getting regulated under the Genius Act, where where's a good place to to, you know,
+7:41
+start, what's a good state to get it going in, and then finally, what you need to do to comply with it so that you
+7:47
+stay on the right side of the law and keep your customers and the regulators happy.
+7:54
+So, like we've discussed before, the Genius Act really is like the most comprehensive US framework that has ever
+8:00
+come into into law. Um, it was something that everyone in the industry was looking forward to and and really
+8:06
+lobbying a lot for. Um, we're quite excited about it. Um, it opens a lot of
+8:11
+a lot of interesting doors. Uh, and I think it opens more importantly the the road for future um frameworks that will
+8:17
+support smaller projects and really the the whole industry. So, it's step one in a what I hope to be a long list of
+8:24
+regulations that come out that support the industry and all u players inside the industry whether they be, you know,
+8:30
+um Tether or Circle down to small projects that are just launching today.
+8:36
+Absolutely. So, there's a couple things that Genius regulates and and basically like in a
+8:43
+nutshell, it's a stable coin layer and everything that's really connected to it. So, who
+8:49
+I wanted to ask you that Chris, who who does the Genius Act impact and how um like if if I'm working on real world
+8:57
+assets um and putting them on chain, does that impact me or is it more for stable coins? Could you elaborate on
+9:03
+Yeah, I mean, and how? Yeah, it does. I mean, so like at the top level, it really impacts, you know,
+9:09
+stable coins, right? So existing ones like like Tether and Circle and and any of the other players in the market that
+9:15
+want to run a compliant stable coin, they're they're going to need to get regulated under the Genius Act. They
+9:20
+have some time to do this, right? So it's not like it needs to be done uh now. That's that's important thing to
+9:26
+bring out. So So they're this is not really coming into full effect until 2028. So there is a little bit of like
+9:32
+runway for these guys to start to get compliant, but they're going to need to if they want to stay in the US down from
+9:39
+them, anyone who's interested in offering like an RWA product, which has stable coins and uh as a component of
+9:46
+either settling or even backing the asset to some sort of stable coin, those
+9:51
+guys are going to need to make sure that they're using people who are licensed if they want to have that that RWA in the
+9:57
+states. I think RWAs are complicated to launch in the states right now. So
+10:02
+that's been kind of like my experience with it is that um RWAs are a
+10:07
+challenging product to to bring into the US market because it really only fits under like like regulation D or or one
+10:14
+of these SEC regulations which tends to be expensive and excludes a lot of retail investors. So it's hard in the
+10:21
+states right now. So, I don't know how impacted they're going to be because um I don't think there's that many of them they're trading like as true RWA tokens.
+10:30
+The crypto exchanges are going to be impacted. So, that's like probably the biggest impact, right? Like you're not
+10:36
+going to be able to run a US exchange without having stable coins that are that are regulated under Genius Act. Um
+10:43
+so, I mean aside from that, that's that's pretty much like the majority of the projects or businesses that are
+10:48
+going to be impacted right now. Banks that want to get into it, right? Like so like if you're a bank and you want to launch a stable coin product, you need
+10:54
+to get regulated. But these are pretty much the main guys that are impacted is
+10:59
+like the really like the bigger players, not necessarily smaller projects. Uh you guys will have noticed that we
+11:05
+have the Slido uh QR code on the screen. So please uh make sure to scan and or throw in your questions through uh
+11:12
+social media and we'll be addressing them um at the end. Yeah. And Chris, I was going to ask you,
+11:18
+so these companies, for example, you know, Circle and USCT that have already came out with a stable coin, it's been
+11:25
+prominent for years, and now this new regulation coming in, where do you think their outlook, their outlook lies
+11:31
+compared to, you know, these big large financial institutions like JP Morgan and even the smaller banks that are
+11:36
+coming out and trying to come out with their own stable coins? What do you think the difference is between the companies that have already
+11:42
+huge huge differences, right? So like Circle and USDT, these guys have been, you know, first mover advantage in the
+11:48
+space, right? So they're already integrated throughout the entire ecosystem, you know? So like a stable coin doesn't do much for you if you
+11:54
+can't trade it against other tokens or have a good exit rail to fiat to be able to spend it. So or to earn yield from
+12:01
+it, right? So like if you're launching a stable coin today and you're like thinking like this is going to be the great new opportunity for your business,
+12:06
+you have to get integrated throughout the entire ecosystem in order to compete with the guys who are there already. So
+12:13
+like tether like there's not a single exchange you can go on that doesn't have tether pairs right there's probably not
+12:18
+a single exchange you can go on nowadays that doesn't have circle pairs but other stable coins like like Athena for
+12:23
+example right they're not integrated to that level uh across pairs across you
+12:28
+know every exchange in existence so like if JP Morgan or local bank or national
+12:34
+bank who bank of America whoever wants to launch a stable coin and a lot of them want to they are going to need to
+12:40
+either have a trading platform that's like proprietary which they direct their customers to to use their own stable
+12:46
+coin there or they're going to have to you know get integrated like at the the ecosystem level across all major
+12:52
+exchanges in order to really be relevant. Absolutely. I agree.
+12:58
+So there's a there's a lot uh that goes into uh meeting all of the compliance
+13:04
+requirements for Genius Act and everything. How much did did you want to dive in and get a little bit technical
+13:09
+and and uh under the hood Chris today? Um I think we should stay pretty pretty
+13:16
+high level. Okay. I mean so like the first thing like we were saying before is is I think it's obvious to everyone
+13:23
+that stable coin needs to have onetoone reserves that are that are liquid that they could um liquidate assets to to
+13:29
+fulfill the need for withdrawals or redemptions. Um, no one wants to get into a situation where a stable Bitcoin
+13:36
+uh deps and then faces some sort of insolveny issue because they invested in risky assets or or something like that.
+13:42
+I think everyone's trying to avoid meltdowns like Celsius and stuff from companies that were just doing whatever
+13:48
+they wanted with people's money and not necessarily having much of a risk based approach. So, stable coin is simple,
+13:53
+right? It's one for one. And then everything else really is is kind of stuff that's in a way obvious like if
+13:59
+you're operating an exchange, right? like like you have to do AML, you have to have monitoring onchain monitoring. You can't be you know issuing stable
+14:05
+coins and having them used for you know illegal activities and being uh able to be washed and so on like on tornado
+14:12
+cash. It happens but ideally we'd like to avoid these situations and that's what the the law really is kind of
+14:18
+prescribing that there's a big technical and security component behind uh all these issuances. It's not just uh hey
+14:25
+we'll we'll buy some treasuries and then you know issue issue a dollar for every treasury uh that we have it backed by.
+14:31
+That doesn't really uh work with the Genius Act. So you need to have onetoone reserves. You need to have an AML
+14:38
+policy. You need to have sanctions monitoring and then you need to make sure that there's like operational resiliency that everything is is is
+14:45
+dialed in um pentested, you know, stress tested, not not any easy access to
+14:52
+creating a situation where stable coins are minted out of thin air. Um these are all like I mean we could go super deep
+14:58
+into it but I think at a high level there's like a threepronged approach to
+15:03
+this which is onetoone AML screening sound operations with with clear risk
+15:09
+management procedures and then a very strong security component uh outlined and implemented and monitored.
+15:16
+Absolutely. And I also one of the big differences in uh Tradfi and then web 3
+15:22
+is really how much security plays in importance right so like if you're checking um the validity of a business
+15:30
+in traditional world there's a lot of like liquidity funding like AML and all that but on the security side there's
+15:35
+very little uh weight right to uh how much how secure a project is right and I
+15:42
+think that's the big difference with with crypto is that just one small incident could tear down the whole
+15:49
+project no matter how legit, no matter how you know certified and uh and big
+15:55
+the project is right as we've seen with with cases as Pedro mentioned with Bybit which is a very big company also um with
+16:02
+Paxos with PayPal right so very big player and then a very uh small little
+16:08
+mistake can you know unravel the whole thing yeah and Pedro to touch base on what you're saying like you know issuance and
+16:14
+redemption must be accurate under the genius law. So what Chris was saying like the minting and the transferring
+16:20
+like that will all be utilized via smart contracts. So these smart contracts that are doing these things that will also be
+16:26
+implemented in terms of you know they need to be audited. They need to make sure that the code is valid before launching something like that because
+16:32
+something so small in any vulnerability that gets exploited and something like that can crash the whole thing.
+16:39
+Yep. That's that's really what it comes down to, right? So like you know if you if you walk into a bank, what's the first thing you see? cameras everywhere,
+16:46
+right? Security guards, armed delivery and pickup, right? So, you know, Trati banks, you know, like retail banking,
+16:53
+they implement strong security, right? It's it's physical security, but still they have still have strong security. And then, of course, they have strong
+16:59
+security all over their technical layers of their business for online banking and so on. And this this is all regulated uh
+17:05
+for the safety of the consumers and the people utilizing their products. Um, up until now there hasn't really been that
+17:12
+framework in place for stable coin issuers which are essentially banks, right? Um, there there, you know,
+17:18
+there's billions of dollars in wealths in certain wallets. There's people who carry around quite a lot of money in
+17:23
+stable coins. Uh, it's it's completely underpinning the entire industry. So, these are things that need to be secure.
+17:29
+These are things that need to be uh monitored and and obviously like this this this law is all about getting that
+17:35
+into practice. Yeah. And Chris, I have a question for you. Do
+17:40
+you think that the US approach in terms of the Genius Act will be more like Mika or Dora over time?
+17:48
+Probably not because Mika and Dora are a little bit more comprehensive for the
+17:53
+entire industry. So like whether you're like a token issuer or an exchange or
+17:59
+you know like like almost any crypto-related project can fall under Mika Dora but like Genius Act is pretty
+18:06
+much just around stable coins you know so it's I think as far as stable coins
+18:11
+go it was it was really needed uh just to address like the risk issues uh that
+18:16
+are around stable coins because they're becoming quite a big part of the of the US economy like they're a major buyer of
+18:22
+US treasuries and what you So you don't want to have happen is is like this
+18:27
+hyper risky business that's not regulated that no one really is quite sure how they operate suddenly buying
+18:34
+like being one of the largest buyers of US treasuries and then suddenly now the entire US economy is is indirectly
+18:40
+affected by how well this stable coin issuer has operated and that's what's starting to happen. So the fact that
+18:47
+they're addressing it before it gets too big and too out of control is is really good. It's not like it applies to Mika
+18:54
+where it's like a small project that's looking to raise 10 million or something or or an exchange that's regional. Um
+19:00
+these things don't have the power to really like disrupt the global economy, but someone who's buying billions and
+19:08
+billions of dollars of US treasuries does and someone who's integrated into every single exchange globally
+19:14
+definitely does. Right? So, it's it's it really needed regulation and this is
+19:20
+like the highest form of regulation I think in in in crypto right now. And it's going to be difficult like like
+19:26
+anyone who thinks like, oh, I'm going to go get regulated under Genius, it's not going to be quick. It's not going to be easy and it's definitely not going to be
+19:32
+uh affordable unless you're a very wellfunded project. And um yeah, so I
+19:39
+hope that answered your question. No, no. Yeah, it it it definitely did. And my question to that is, do you think
+19:45
+that these companies that are not in the United States, but you know, launching these stable coins internationally,
+19:51
+maybe in Africa or these like third world countries where regulation isn't as implemented in crypto, do you think that we will start seeing something like
+19:57
+that that is specifically tailored to a stable coin? I don't I don't know. I mean, so there's
+20:03
+there's always going to be kind of like an unregulated or an element of circumventing regulations in and I think
+20:09
+in this industry, right? Like so like there's a lot of guys who will try to find whatever Banana Republic or or kind
+20:16
+of like loosely regulated place that they could launch out of. And really like I think there's like a little bit
+20:22
+of like misconception about that is just cuz you launch a business out of I don't
+20:27
+know like like Cook Islands or Marshall Islands or or something like this and you go hey it's not regulated. What
+20:32
+really matters is where you're doing business. So it's it's really like your corporate residency. Like for example,
+20:37
+like you could have a passport from from Egypt, right? But you live in New York,
+20:43
+right? So So like the laws of Egypt don't really apply to you when you're in New York. The laws of New York apply to you,
+20:49
+right? Like the US New York City laws, right? So if you're thinking like, hey,
+20:54
+I'm going to launch a crypto crypto project and circumvent these regulations while like living in Europe or living in
+20:59
+the US, that's when um it's like a little bit misguided because where
+21:05
+you're actually sitting, where you're actually conducting business is where the ultimate jurisdiction is going to be. So I think um
+21:13
+the fact that things are getting more regulated is starting to push those guys a little bit out of the business in in a
+21:18
+way. But I don't really see, like I was saying before, like stable coins are useless unless you can redeem them
+21:26
+easily or trade them easily. And so if I launched a new stable coin today and it didn't have any pairs and it didn't have
+21:32
+any easy path to liquidity, it didn't have any off-ramps or or easy on-ramps, it's not going to get any traction. It's
+21:39
+not not going to really go anywhere, you know. So, um, yeah. So, this is a nice segue into the next
+21:45
+slide about the state path versus the federal path, which is one of the things introduced in the Genius Act. Can you
+21:51
+walk us through that, the benefits of either? Well, I mean, so the first thing to point out is like there is no states
+21:56
+that have a path right now. there um there are states that want to and it's been a provision that was made in the in
+22:02
+the legislation that you could be a state like if you have a state issuer that has license framework that is
+22:08
+similar to genius act that you could operate under the state law um so that that provision was made but um as far as
+22:16
+I'm aware right now there has been no states that have created such framework uh that has gone into into effect um so
+22:24
+I imagine in the next few years before you like 2028, we might start to see
+22:30
+some state frameworks that are easier. Um, but they're still going to have to be pretty robust, right? So, it's going
+22:35
+to be have to be similar to the federal path. It might be a little bit cheaper. Um, we'll we'll have to see how that
+22:40
+plays out, but but right now the the federal path is is really the only way to do it. Um, there's
+22:47
+Chris, what what about Wyoming? They're always on the news with Cynthia Lumis and the work that she's done federal
+22:53
+level, but also on the state level. So Wyoming for me is my my absolute
+22:59
+favorite state in the country to set up anything crypto-related. Um they have nice laws. They have had them for a
+23:05
+while. It's very easy to set up companies there. There is no state taxes. Um they have Dowo frameworks,
+23:11
+right? So so there's there's a lot that Wyoming has to offer. Uh it's very private,
+23:17
+but they don't have anything really that I like like I said, like maybe there's something going on behind closed doors.
+23:22
+I don't don't know about, but I'm sure they will be one of the first to to introduce um something that is uh
+23:28
+viable. Um we'll see if Texas doesn't, right? Uh well, I mean, so so like historically
+23:35
+like Wyoming's always been a little bit ahead of Texas with crypto stuff, but um you know, Texas has a lot to offer, too,
+23:41
+because it's becoming quite an innovation hub uh over the last, you know, 10, 15 years. So, um I'm sure
+23:47
+something interesting will come out of Texas. We'll we'll have to wait and see. Yeah, interesting. Chris, I have a
+23:54
+question. So, in terms of, you know, the Genius Act not being a cyber security
+24:00
+standard, therefore not telling an issuer how to secure their blockchain infrastructure. Do you think as these,
+24:06
+you know, stable coins become more prominent, we will start seeing like, you know, quite clear regulation in
+24:13
+terms of what they need to do to secure their blockchain. I know that there's like obviously like a onetoone reserve,
+24:18
+but in terms of you know the RWAS with like the smart contracts or like a pin test on the infrastructure and things
+24:24
+where hacking services can be implemented, do you think that we will see a more clear you know regulation in
+24:29
+terms of what actually needs to happen? I don't know if there's they're going to spell it out in black and white like you
+24:35
+need to do X Y and Z to to be able to be qualified and and you know approved as a
+24:40
+as as an issuer but uh for sure it's going to be expected of of that they're
+24:47
+doing industry best practices like that that's going to be completely expected. So whether or not like right like I just
+24:52
+use the the standard bank analogy right like so whether or not you want to put you know 15 cameras in your lobby and
+24:59
+use you know 12-in thick bulletproof glass around all your tellers is kind of
+25:05
+like up to the bank own risk policy. So like if I relate that to crypto like they're they're going to have to use
+25:11
+standard industry practices to safeguard client funds. Um, I don't know if they're going to spell it out in black
+25:16
+and white, like you must have this minimal. I imagine they will, but I think that some of that precedent will
+25:22
+probably take place in uh, you know, different different uh, incidents that happen, right? So, court
+25:28
+situations where things go to court and there might be a form of of negligence involved and that sets a precedent for
+25:34
+what needs to be done. Yeah. I was just curious because we're going to, you know, start seeing stable
+25:39
+coins not just used for investment purposes but for crossber payment purposes. I've been seeing a lot of companies, you know, come out in these
+25:46
+third world countries where people don't have access to banks, but they have access to these smartphones and they can utilize this to send money via, you
+25:53
+know, stable coin to someone in another country. So, it's interesting to speak about that. Yeah, I mean that's that's happening,
+26:00
+right? So, anyone it's happening right now all day long it's already happening, right? So, like if you have USDT in your
+26:05
+wallet, you can send it to China, you can send it to Russia, you can send it to any any any country that's even a
+26:10
+sanctioned country, you can you can send it. And I think that that's a lot of what this this policy is trying to
+26:16
+address is that it's it's a little bit too easy to just move funds around without any scrutiny whatsoever. Yes,
+26:23
+Tether can freeze things on chain, but how you go about doing that isn't really clear like like I mean I know I know how
+26:29
+it's how it gets done, but um for the typical uh enforcement agency like these
+26:35
+points are not clear and they need to be. So I think it will it will it will just get I mean so the other thing to
+26:41
+point out is like we're still really really early days on all this stuff like we're like um you know
+26:46
+I don't know like AOL mail instant messenger level of of like in the time frame of the internet right like this is
+26:53
+really early on still and I think as time goes on it's going to get more
+26:58
+understood and it's going to be easy to for people to to set clear guidelines
+27:03
+for how how it should be managed. Absolutely. Absolutely.
+27:10
+Chris, do you want to expound a little bit on the real world assets? Um, and how
+27:17
+um yeah, I mean, so I'll talk about it in general. So, real world assets have
+27:22
+been something which has gotten incredible traction and we've seen that at at Hacken, right? So there's been um
+27:29
+I mean like on the advisory side of the business, we have tons of inquiries all the time about, hey, I want to set up an RWA. I want to, you know, tokenize real
+27:36
+estate. I want to tokenize art. I want to to like there's if if there's an asset and it hasn't been tokenized, they're interested in tokenizing it. Um
+27:44
+and there's there's a lot of that going on. So does it really impact what's happening
+27:49
+with the Genius Act? Um yes it does. But like I was saying before, launching an
+27:56
+RWA in the States is is is doable but complicated. Uh launching it in Europe
+28:02
+is is a lot easier. So um I I like we try to get most of the RWA guys to to
+28:08
+set up in the in the in Europe under kind of like crowdfunding regulations and um then they can combine that with
+28:13
+like an asset reference token later on. But the what's the big advantage of doing it in Europe? Is it the cost or is it the ease
+28:21
+around the legislation? So Europe has crowdfunding laws which are really clear
+28:27
+and uh certain countries have pretty easy pathways to getting regulated as a authorized crowdfunding provider. So it
+28:34
+means that you can raise 5 million um in any 12 12-month period uh as a as an
+28:40
+issuer. So like if you operate a crowdfunding platform, you can have issuers on there, they can raise 5 million u they can then tokenize that
+28:47
+equity. Um the the big caveat is that it's not tradable. So you can't trade that equity token, but what you can do
+28:55
+um later on is you know potentially have it redeemable for a asset reference
+29:00
+token which could in theory be tradable. So it's kind of like a twostep approach like but yeah like that doesn't exist in
+29:08
+the in the states um that that type of uh structure. So it's it's like I say like like
+29:13
+regulation just kind of crypto specific regulation just got started in the states. It's been till now a lot of
+29:20
+security based like SEC uh focused regulation and you know if you're not a true utility token it was always seen
+29:27
+that you're you know like basically a security and definitely all RWAS are
+29:32
+securities right um whether they get regulated from the SEC or the CFTC is is
+29:37
+another question but um it's it's expensive to launch an RWA in the states
+29:43
+and all of them if you're launching in the states are going to have to use compliant uh stable coins. So, I guess that's the
+29:50
+main the main thing. Okay. And what about if you're coming from abroad and uh interacting with the
+29:56
+US? What does that look like? What do you mean? Like if I'm running a an EU business and I want to get US
+30:02
+customers. Yeah. Um it will depend on some kind of specifics
+30:08
+like if you are marketing towards directly towards the US or you're setting up an office in the US like how
+30:13
+how much your US presence is. But if you are accepting US clients and you're marketing to US clients, then absolutely
+30:20
+you're going to need to comply with US law and you're going to need to comply with the Genius Act to some extent. um
+30:27
+if you're not marketing and they just happen to find you and you do all the AML requirements and and so on. I mean
+30:33
+it's a bit of a gray area in some ways, but if you have a very uh large business
+30:38
+like you know I I don't want to put a dollar figure on it, but if you're a major exchange and you're accepting US
+30:44
+clients, then absolutely you need to be conforming to US US laws. It's it goes
+30:50
+back to that corporate presidency thing I was talking about, right? So like if you're operating out of, you know, out
+30:55
+of Lithuania or or Estonia or or Germany, right?
+31:00
+If you have a US focused business, right, at like and you have guys in the US operating, but you trying to claim,
+31:06
+hey, I'm just a German business. It's not really true, right? You have staff in the US, you have marketing team in
+31:11
+the US, you have guys going to conferences in the US. And we have had clients in the past who um like I'll
+31:17
+give you an example. We had a we had a a a derivatives exchange who was claiming
+31:23
+that they geoblocked everyone from the US but then they went to all the US conferences. So just that act alone put
+31:31
+them under CFTC uh review and they ended up getting an investigation and a whole
+31:36
+bunch of legal fees and it wasn't it wasn't pleasant for anyone to to have to go through that especially you know
+31:42
+founders who weren't expecting it. But it was just that one little act of going
+31:48
+ahead and and and going to a conference in the US and wearing name tags and having a booth there that that did it.
+31:54
+So you have to be careful and I mean to to to some extent you had to be a little more careful before uh Trump was in
+32:02
+office, but um I think we're you know like we're only like you know another
+32:07
+three years away from a from a new administration, right? And uh you still have to be careful like we we don't know
+32:12
+what's going to happen, right? like like the political scene changes a lot. You generally, you know, take a risk based
+32:18
+approach on this and don't do things that are going to land you in hot water.
+32:24
+Interesting. Oo, US jurisdictions. Okay. So, like we
+32:30
+touched on this before. Um, and like I say, there there is no state
+32:36
+uh hardf fast rules yet or any path to getting a state license yet, but people
+32:41
+who who will go down this road probably are going to go look at Delaware, Wyoming, or or maybe New York. Um, there
+32:48
+will be other states as well, but I I think we're we're still so early days. Like these are just this is just kind of
+32:54
+generic like like most people who set up US companies want to do it in Delaware because there's a lot of um you know
+32:59
+like a lot of funding uh opportunities being based out of Delaware is a very clear judicial system there. Uh VCs tend
+33:07
+to like it. It's getting less popular. Um my absolute favorite is Wyoming. Um,
+33:13
+New York is super strict and very expensive and but does have good credibility having a New York based
+33:20
+business, but I don't know how how relevant it is yet considering none of these guys actually have laws that that
+33:27
+help any of them to get a a regulated stable coin yet. But if you're if you're looking to set up a business in the
+33:32
+states, definitely um you'll probably want to go Wyoming or Delaware
+33:38
+just for tax purposes. And why not? Oh, because New York has higher Well, New York has corporate taxes. Um,
+33:45
+New York is also kind of expensive just to do just in general to do business there. Um,
+33:51
+Wyoming is super quick. You could have a company up and running in like two days. Um, Delaware is more expensive than
+33:57
+Wyoming. It it does have some taxes as well. And there's been like a big um I
+34:03
+mean Elon Musk has been very outspoken about Delaware, which has, you know, got it a little bit of a bad rep. And
+34:09
+there's been a couple other country companies that have like jumped ship and moved to Texas or other jurisdictions
+34:15
+because they just got fed up of the the court system in in Delaware. But that's
+34:20
+another topic. Chris, I actually have a question for you. So all these states that aren't being mentioned now, what's your opinion
+34:26
+in like the long run? Do you think that there will be a uniformity of the the
+34:33
+laws that are being passed in each state or do you think that you know with crypto being more prominent and legislation being more prominent? Do you
+34:39
+think that every state will kind of have its own little like niche set of they tend to have their own little you
+34:46
+know niche setups and and ideas on how things should be done? I I don't think that there will be like a one practice
+34:52
+that is overwhelmingly like common in every state. Uh I guess one thing you could look at is like the MSB license
+34:58
+like so the money service business which is uh every state has its own and then there's also a federal one. So it's
+35:04
+super easy to get the federal one like you just fill out a form online and you basically get it. um it's quite hard to
+35:12
+get uh state level ones and and quite expensive in some states, right? So like in some states you need to cost upwards
+35:18
+of a million dollars to get a to get a MSP license, but uh you cannot do you can operate operate a crypto business in
+35:25
+in that state unless you have that, right? Like that's why all these guys were getting in trouble for like local bitcoins like they were operating like
+35:31
+an unlicensed money service business. Um you know, like meeting up in the McDonald's parking lot with a bag of
+35:37
+cash. Like you can't you can't do that. Uh so yeah, I think every state will treat it slightly different.
+35:44
+Interesting. So talking timelines. Okay. So without
+35:50
+getting into like anyone who wants this just put in the you know in the chat or
+35:56
+whatever and we'll send you one. But uh I don't really want to spend too much time going into all the specifics, but
+36:02
+what you need to know is that after 2028 you need to be regulated. So you got some time. Uh there's there's there's
+36:09
+plenty of work to be done and you need to start now. Uh I think anyone who's in
+36:15
+this industry and this like like that is going to get one of these license, they're already working on it. So um if
+36:21
+you're new and you're thinking, hey, I'm a small bank and I might want to look into launching a stable coin for my
+36:26
+clients or like I'm a regional or credit union or whatever it is, you definitely need to start looking at looking at it
+36:32
+now. Um of course you could always apply later. You don't need to do it right this second. you could do it after 2028,
+36:38
+but if you're thinking of getting that product to market in the next year, you you need to get that product um you know
+36:44
+fully compliant by 2028. So like Yeah. And Chris, I have a question. These large institutions that do need to
+36:51
+comply, do you think that they will do this internally or they will outsource? Um I think it will depend on their size
+36:58
+and it will depend on um what their like you know core competencies are. So like
+37:03
+guys that are you know national bank level and you know tens of thousands employees I think I imagine they'll just
+37:09
+do it in house. They have the teams that will have the the the knowledge base to be able to do this and experience with
+37:15
+regul regulatory management. Smaller banks might need some assistance. Um
+37:20
+that's something that we could potentially help with depending on exactly what it is they're looking to do. But I think um we can we can
+37:29
+definitely help put people in the right direction certainly and whether or not
+37:34
+it's their own teams that manage the process entirely and we just kind of look over their shoulder and act as a sounding board or as a as a consultant
+37:41
+on the on the on the job um that's something that we're fully happy and capable of doing. But then in the case
+37:47
+of you know smaller uh regional banks that don't have teams with expertise in this it's something that we could look
+37:53
+at. Um I think from the security point of view is is really where hacken as a
+38:00
+company becomes much uh much needed. So, uh, like if you're, you know, trying to
+38:06
+integrate a good sound security, uh, like policy for your, for your, you know, either your custody solution at
+38:13
+your bank that you're interested in getting going or your digital asset company that wants to make sure that
+38:19
+they're using best practices for for the, you know, the safeguarding of their
+38:24
+clients funds. All all these types of things I think we're we're really well positioned to offer a lot of help on.
+38:30
+Absolutely. I completely agree.
+38:36
+So, you want to keep on going with this? Like, what what do you need before we launch? Um,
+38:42
+so I think it's probably more or less pretty obvious to everyone that you need a US entity. You're going to need a
+38:48
+you're going to need a banking partner or qualified custodian. You're going to need um framework for for handling risk.
+38:56
+you're going to need the reserve workflow, um, AML structure, and then smart
+39:03
+contract audits and and security, uh, systems put in place if you're want to
+39:09
+make sure your customers are safe. But, uh, these are these are things everyone will know, I think, if they're looking at that um, as a project right now.
+39:20
+So, the last component here is the technical compliance stack, right? So
+39:26
+these are areas where you absolutely need to have this in place to operate
+39:32
+your business effectively and compliant and avoiding a lot of risk which
+39:38
+pertains to the industry that we're in. Um if you are a you know like think
+39:43
+about like like if you have billions of dollars of client funds or even millions of dollars of client funds you are
+39:49
+absolutely a target right now. Uh there's there's no question about it. there is a team of North Korean hackers
+39:55
+probably working on trying to find a way they can exploit your systems. It's uh it's it's just how it is. So we um have
+40:04
+put a technical stack together which manages this process from A to Z and
+40:10
+helps you stay on top of this so that you can check vulnerabilities in your system and know in real time if um if
+40:17
+there's an issue that needs to be addressed to to keep things secure. Um, and you guys are way more pro than me at
+40:24
+the extractor system and explaining that. So, I think um, this is something that, you know, maybe maybe I'll ask you
+40:30
+guys some questions on and, uh, and you can tell me how extractor system is able
+40:36
+to help a lot of the guys who will be launching stable coins. Uh, whether they be a small bank or a regional bank or or
+40:43
+or a custody provider, whatever they're looking to do. um let's let's tell them
+40:49
+how you know how we have a a great solution for them. Yeah. And we should also touch base on
+40:55
+the CCSS which is the auditing of the private keys which is honestly one of the most important parts of the Genius
+41:01
+Act.
+41:06
+So um I think uh one of the interesting things is that until Genius Act US was
+41:12
+largely seen as kind of an outlier uh in the background because of the lack of clarity around crypto regulation and
+41:19
+particularly uh frameworks for non-bank uh payments right so with Genius Act
+41:25
+we're kind of putting us center stage um but uh and so a lot of institutions are
+41:31
+coming in a lot of new stable coins but what's what's important to keep in mind is that um a lot of other jurisdictions
+41:36
+have already been working in this space for a long time and uh they have very
+41:43
+good very clear regulation around um stable coins and the broader crypto space and we've been working with these
+41:50
+players um and have developed tools around automating um these requirements
+41:55
+and compliance. So to actually meet most of the uh Genius uh requirements it's
+42:02
+it's it's impossible to do that uh in-house to do that manually and and so you need thirdparty tools to help you to
+42:09
+meet these requirements and so with Bermuda we've helped them to with the Apex project to u make sure that they
+42:16
+were completely compliant transparent and secure so that users are ultimately protected with ADGM we uh even went as
+42:24
+far as building a uh dashboard for the government to be able to monitor uh the
+42:32
+uh the health of any project within their jurisdiction. They were able to
+42:38
+tell um if a company falls out of compliance and to meet all of the
+42:43
+expectations that the regulator has uh in place, right? So um whether their
+42:48
+cyber security is up to snuff and um they're expecting um participant the
+42:53
+VAPs to have continuous monitoring and a very robust incident response uh plan
+43:00
+with 24-hour breach reporting. So if an incident happens, they have to be able to report within that hour um that time
+43:07
+frame and do it with uh enough data for them to be able to act on it, right? Um you can't do that if you don't have
+43:13
+automated tools in place. And now with the Genius, a lot of those same uh rules
+43:19
+and requirements are coming into place, which is very exciting to have this kind of rules-based environment. Um but
+43:26
+without tools to meet those requirements, you're just not going to make it, right? Um the same with with
+43:31
+AML um and uh risk management and traceability.
+43:37
+So,
+43:45
+so we offer we offer um we offer a full suite of
+43:52
+endto-end solutions to meet these requirements starting with proof of reserve um audits uh real-time
+44:00
+monitoring um bug bounties everything to be able to make sure that your project is 100% secure. and ready to meet the
+44:07
+challenges uh and threats for uh a your web 3 project. But the tool that's
+44:14
+particularly um important for the uh Genius Act uh is uh extractor or
+44:22
+monitoring tools that keeps roundthe-clock real-time monitoring on your uh smart contracts, your stable
+44:28
+coin, your everything that you're doing on chain. Um, and it does this by providing uh a basically like an app
+44:36
+store of security monitors that can track all kinds of anomalies and then uh
+44:41
+our team of incident response experts will help you to choose the right ones for uh ensuring safety
+44:48
+and it acts as kind of like an alarm clock. So, let's say you were trying to secure a house um and you had the audit
+44:56
+come in and check if the locks are, you know, they're possible to break or they're good. Um they give you the sign
+45:02
+off that, hey, you're safe. Um extractor basically acts as the alarm in case
+45:08
+somebody starts coming and fiddling with the with uh the lock so that you're the first one to know if there's a potential
+45:14
+threat and then you're able to react. And we have uh tools for setting up
+45:19
+automated responses that would freeze a smart contract and stop the attack or block an address or a blacklist of bad
+45:26
+actor or not interact with a certain wallet that uh maybe has already been um blacklisted. Right.
+45:33
+Yeah. Pedro, can you I'm sorry to cut you off. Can you elaborate on you know
+45:38
+like a lot of my clients will get like audits done but they're a little skeptical to go into an extractor
+45:44
+program. Can you just elaborate on why extractor is important aside from just getting the audits done?
+45:50
+Yeah, so um if somebody is worried about extractor kind of going into the back
+45:56
+end, we can actually monitor a project even without uh their permission, right?
+46:02
+So it's not like we're going in and putting anything at risk. Our monitors can monitor externally uh any given
+46:09
+smart contract or uh and um and check for anomalies coming in. Obviously for
+46:15
+setting up a firewall and any kind of automated triggers you would need to give some kind of accesses in the back
+46:20
+and everything but um for for monitoring for real time monitoring the there's no
+46:28
+need to expose anything there's no added risk in fact it's much safer and that's why companies uh like native which works
+46:35
+with lords of London to ensure assets on chain uh they actually provide a discount for projects which have um a
+46:42
+tool like extractor set up because they see it as that much safer. So, they're willing to give a discount um on the
+46:49
+premium. So, like you could look at Extractor kind of like a a security system for
+46:54
+your apartment or or house. It it lets you know what's happening even if you're
+47:00
+like not glued to your computer. You get, you know, you get alerts and and you can go and take action.
+47:05
+Yeah. And from a from a regulatory standpoint, the way that I see it is, you know, you have all these rules in
+47:11
+place. Um, and then the players are trying to uh to carry out those rules,
+47:17
+right? Similar to when you're playing a board game, let's say you're um when I was a kid, we used to play poker where
+47:23
+you could create a a straight that goes from a jack to two, right? Uh instead of
+47:29
+a 10. Um, and my brothers and I didn't know that that's not really allowed in the game. But when you switch to online,
+47:36
+those rules are automatically applied. And if you tried to create a straight like that, you lose, right? Um, so it's
+47:43
+kind of automating the rules for the game right at the protocol level. Um, and and extractor can do that. Um, so in
+47:50
+the case of Paxos, when they tried to mint 300 trillion uh tokens, they would be notified. Um and then if they wanted
+47:58
+to set up triggers to prevent that, they could actually not allow that to happen, right? Um whereas in the real world case
+48:05
+where they didn't have monitoring set up, uh it happened, they accidentally minted them and I think it was half hour
+48:11
+before they were even noticed from notice notified from somebody externally that that had happened. So in a world of
+48:18
+extractor being set up that wouldn't happen. And that's really what it's all about. It's kind of automating all of that heavy lifting of meeting the
+48:24
+compliance requirements, making sure that your incident response plan is robust uh to handle the the evolving
+48:31
+threats and um and that's the other thing is that because uh Hackin works with so many customers on so many levels
+48:37
+and endto-end security um we're constantly adding new um potential
+48:43
+threats and new newly developed attacks and uh and um newly discovered anomalies
+48:50
+that nobody else has access to. So it's very very robust tool. So it's sitting integrated into 20 over 20 chains
+48:56
+already and uh we have over 60 monitors. Amazing.
+49:02
+And do you think that this is something that like every crypto project should have or only does it apply to like you
+49:09
+know big players that would be you know going for genius act? That that's a good question. So I
+49:14
+believe that it should and it's not only every crypto project. anybody with assets on chain really should have
+49:19
+real-time monitoring in place. Um, obviously it's uh it's a requirement for
+49:25
+you know st stable coins and it's becoming a requirement for more and more uh in more jurisdictions. Um, and I
+49:31
+think that that that's a trend that will continue to uh to go up uh moving ahead.
+49:37
+Um, but we've even started to see asset managers that want to uh monitor the
+49:43
+security health of projects that they're invested in because in crypto, one of
+49:49
+the easiest ways to lose everything is to have it uh get wrecked, right? To have an attack um a security breach
+49:56
+exploited. Um and um because of that they set up the uh extractor a real-time
+50:04
+monitoring monitor the whatever assets they have on chain and then if there's an attack they're able to reach out to
+50:10
+them and say and let them know first of all but also be able to pull out of of that uh asset if if they see it as uh
+50:17
+exploited right yeah no I think it's it's like I see it
+50:23
+as it helps you sleep at night if you're a small project founder Um, you know, it's it's like knowing someone's
+50:29
+someone's wa watching over your systems to make sure you don't wake up in the morning to a project that went to zero.
+50:34
+Um, I think that that's like what price can you even put on that? Uh and then at
+50:40
+these higher levels of like stable coin issuers and exchanges and and big projects that are running multiple smart
+50:46
+contracts, you know, again, it's it's what price can you put on having
+50:51
+security over your entire business and understanding, you know, what this is
+50:56
+this is the main risk vector for for for crypto businesses is is someone gets into your project, mints a bunch of
+51:03
+coins or takes a bunch of the cash out of the treasury and suddenly you don't have a business anymore, right? Like
+51:09
+that's that's it. There's no one to go to. There's there's no, you know, insurance fund who's going to pay you out 100% of all your clients assets that
+51:16
+were stolen in a in a in a theft or in a in a cyber attack. Um there's no one who's going to repair that reputational
+51:22
+damage. So even if your clients got their money back, you wouldn't have a business anymore. So I think like this is like one of the most underlooked
+51:30
+areas in crypto right now where there should be way more spending on on security than there currently is, right?
+51:38
+Like I think like last year I mean how how much how much was stolen on chain last year? 9.3 billion.
+51:44
+Yeah. So I think I don't I forget the exact statistic but I know it's it's not even 1 billion a year which is spent on
+51:51
+on security. So it's it's like less you know people are spending
+51:57
+billions and billions of marketing right trying to get new clients but security is really the way you keep them because
+52:04
+it's it's you putting uh trust into your business. And I think that the two
+52:09
+components that add the most trust to any crypto business is being regulated and being well secured and being able to
+52:16
+prove that you're secure, that you have proof of reserves, all your clients funds are where they're supposed to be.
+52:21
+Um you have ongoing monitoring. I I think these are things that are expected now from the from the market.
+52:29
+Yeah, absolutely. And I also think, you know, it was really spoken about at trust that you can't 100% securitize
+52:36
+your protocol or your project that you're doing and you need to implement everything that you possibly can to
+52:42
+almost get to that 100% because people in, you know, North Korea, these teams are working around the clock to find any
+52:48
+vulnerability to exploit. So just an audit isn't sufficient. you know, the audit make sure that the code that
+52:53
+you're implementing is good enough for you to launch what you're like your smart contract. But something like extractor that can freeze funds in real
+53:00
+time and like monitor all these things in real time is essential. And a lot of these companies were saying the um the
+53:07
+chief security officer at Coinbase was saying you know we like my boss will ask me how much should I you know allocate
+53:15
+towards security and there's an indefinite amount like you should allocate as much as you possibly can because this is the most essential step
+53:21
+in what we're doing to make sure that we can continue doing everything else. Yep. 100%. That's I mean like I'm not
+53:28
+just saying that because I'm hoping that we sell something. It's it's genuinely how I how I feel about this this
+53:33
+industry is like it it is it's all based on on how secure your smart contracts are. It's all based on how secure your
+53:40
+systems are. Um you know if you have like even at a personal level like if you have lack security um you should
+53:46
+just expect that one day you're going to wake up and there's not going to be any crypto in your wallet, right? Like if you're connecting to all these random
+53:51
+web 3 protocols and you're not sure what you're signing, um just expect it, you
+53:57
+know, like if you're not using hardware wallets, just expect it. That's what's going to happen. It's just a matter of time. It's not it's not an if, it's a
+54:03
+when. Absolutely. And um and I think that this is something people need to start I'm glad that the regulations like I'm trying to
+54:09
+tie it back to the regulation now, but it's like I'm glad the regulations are starting to realize that this is the main attack vector. It's it's not um you
+54:17
+know like founders rugging people like that like that type of stuff that yes
+54:22
+that will happen but and and it could be prevented with regulation or at least reduced but the number one attack is
+54:29
+always going to be um someone trying to rip off your crypto from your wallet
+54:34
+get into your system. Yeah those private keys in getting a tour through. We uh you can
+54:41
+scan the QR code and we can set up a demo to show you around how these tools work and what a what a genius at
+54:48
+compliant uh incident response plans plan would look like on Extractor. Absolutely.
+54:56
+Okay. Uh so we're coming up on the
+55:02
+Do you guys have anything to add there or should I go right into the questions because I see we're coming down on time. I think let's let's get into Q&A. We
+55:08
+don't have much time left. So, let's just uh tackle that. Yeah. All right. So, the first question is, how do you see Genius influencing the
+55:15
+market structure in the US over the next five years? Will we see stable coins integrated into stock markets like
+55:22
+NASDAQ and New York Stock Exchange? I hope we do. I I imagine we will. Um I
+55:29
+I think so. It definitely simplifies settlement processes. It definitely um
+55:36
+makes you know custodial process of of of onchain you know like assets is going to be a lot easier than how it's done
+55:42
+today. So I hope we do it. There's a good incentive for these guys to do it. And I think even we're at trust summit.
+55:47
+It wasn't someone from NASDAQ saying that they pretty much think every every stock is going to be you know like like tokeniz
+55:53
+it will it will be by 2026. And if you would have told you know us a year ago, hey you're going to have an event in the
+55:58
+NASDAQ building or you're going to start going to crypto events in the New York Stock Exchange. You would have been like you're crazy.
+56:03
+Yeah. So I definitely think where the where times are headed. Absolutely. Yeah, I agree.
+56:10
+Okay. And another question. Thank you for that, Chris. Uh we're a non US issuer with some US users and US dollar
+56:18
+exposure. Practically speaking, where is the line where genius starts to apply to us? How would a regulator actually
+56:25
+assess that? It's a very long question. Um I uh I
+56:31
+think the only way I could really answer it generically is it depends on how much exposure you have to the market and if
+56:37
+you're actively marketing in the states or running a sales team in the states. uh how how much is your like how much of
+56:44
+your business is US uh focused if it's you know like like I said before right like with this one client who faced a
+56:51
+CFTC issue um he literally went to a couple of conferences right that was the
+56:57
+extent of his US exposure which uh you know basic basically spurred a CFTC like
+57:05
+like investigation and and I I don't think it went as far as a lawsuit but definitely investigation So,
+57:12
+you know, like so could be something as simple as that. You need to be careful with what you're doing uh in the US. I
+57:18
+generally if you want to grow a US business, just do it the right way and get get, you know, a legal opinion and
+57:24
+get compliant and try to try to run your business as best as you can.
+57:29
+Okay, we still have a couple more coming in. Uh, many projects market tokenized T
+57:34
+bills or credit products as de facto backing for a stable coin. Under Genius, what parts of these RWA backed uh
+57:42
+designs become non-starters? What can be salvaged? Um
+57:49
+again another question another question which requires a lot of thought and and and uh I don't want to take it out of
+57:56
+the take give people the misleading information but so so pretty much if you're a stable coin issuer and you're
+58:03
+like hey I I bought some tea bills so now now everything's good um okay cool
+58:09
+but you're not regulated in the US right um you're you're you're not you're not I
+58:14
+mean like unless you're going to go down this path and spend quite a bit of money. Um, if you have that type of
+58:20
+market cap and you have that type of funding, then I think there's there's a total viability to you getting regulated
+58:26
+and having a successful business in the states if it's if it's well integrated throughout the ecosystem. If you're just
+58:31
+an RWA who gives yield because you have some st some T bills, um, yeah, I don't
+58:37
+I don't really think that that works in the US because that's a security right now, right? So like are you guys actually you know like under under like
+58:44
+registered with the SEC? If you're if you are then great you know like that nothing will really change that much.
+58:49
+But if uh if you're not then uh you know it's only a matter of time you know.
+58:56
+And we have one more uh beyond the buzzword. What does a regulator proof of
+59:03
+reserve system include like data sources cadence reconciliations and controls? What are the most common mistakes you
+59:09
+see teams make?
+59:17
+Guysy's asking me. This is a security question. Um um I could tell you mistakes I see teams
+59:23
+make like general in general. So like in general it's it's not it's getting the
+59:30
+basic token audit so that you can get listed on exchanges and then not doing anything else. Right? So, so that's what
+59:38
+mostly is what we see, right? So, as a project comes along, hey, we want to get on cool coin or we want to buy a bit.
+59:44
+They they want us to have a token audit and you know, and we go ahead and do do an audit on their token and then and
+59:50
+then where where do they what security practices do they continue with after that? Most a lot of them nothing, right?
+59:57
+And I think that that is a severe miscalculation in in operating a a a web
+1:00:03
+3 business. I I I think also one of the common mistakes is not getting the proof
+1:00:08
+of reserves done uh independently. So trying to do it in-house. It's you know it's great that you're doing that but
+1:00:14
+until it's done independently it's not really uh a verifiable claim right and
+1:00:19
+um and especially in the case of bid I remember Ben talking about how the fact that they had it ongoing done by an
+1:00:26
+independent third party that was what saved them not necessarily just the fact that they had proof of reserves in
+1:00:32
+place. So, I think that a common mistake is assuming that you can do that in-house and not independently. Um,
+1:00:38
+yeah. I mean, how does that even make sense? It's like a self a self audit. Yeah. Yeah. We got your money. So, it's
+1:00:45
+all it's all there. I mean, it it doesn't um Yeah, like you say, it's it's nice that
+1:00:50
+they did it. Is it better than them doing nothing? I I would say, you know, it's it's it's maybe one step better
+1:00:56
+than doing nothing, but you need that independent certification for for anyone
+1:01:02
+to really feel good about it and and trust it, right? Yeah. It's um especially if you're an exchange
+1:01:08
+that had, you know, breaches and issues in the past, right? And I also think um where where we see
+1:01:15
+companies messing up too is they only do this audit once and it's not a reoccurring thing. and it needs to be a
+1:01:21
+reoccurring thing, especially if you're holding a lot of reserves. So, I think that being able to do this at a certain
+1:01:26
+cadence is very important. And if you're going to change the code or implement anything, all that needs to be audited.
+1:01:32
+Every single thing that you change, doesn't matter how small it is, needs to be audited before it's launched. Yeah. All right, guys. We're up on time.
+1:01:40
+Thank you so much for joining us today. Um, one hour definitely wasn't enough to cover, but at least we hope that we
+1:01:46
+provided some value and we're able to scratch the surface. Thank you, Chris. And just throwing it out there, if
+1:01:52
+anyone who's listening is interested in learning more about this, feel absolutely free to reach out. Um, we are
+1:01:59
+always at your disposal to have conversations about this. You don't need to be a client yet to have a nice chat
+1:02:04
+with us and pick our brain. So, we're here for you

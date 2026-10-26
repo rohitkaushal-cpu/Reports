@@ -1,0 +1,800 @@
+
+Search in video
+0:03
+Okay. So, thank you for that intro. I think that sets the stage and um the topic of our conversation today. Um
+0:11
+ultimately, we're going to be discussing where we are with tokenization. And I think it's quite clear that we're in a
+0:17
+pretty good strong place with the topic and the category to tokenization in
+0:23
+itself. Uh right now there's roughly about 30 billion real world a assets on
+0:28
+chain. City recently uh reported that they're forecasting 5.5 trillion by
+0:36
+2030. There will be potentially 1.9 trillion stable coins also in 2030
+0:42
+there. So all things are pointing in a uh upward direction in this category.
+0:48
+uh and I would say like that is very much anchored by much of the regulatory
+0:55
+support that's been taking place in the last year. So with Genius providing clarity on um how a stable coin can be
+1:03
+launched and uh be compliant and regulated and then with uh the clarity
+1:09
+act which is moving through legislation essentially outlining how market
+1:14
+structure exists on chain. So that dep despite the markets the crypto markets
+1:21
+being quite down today, there are some bright spots in in our space. So to kick
+1:27
+it off, um I'd love to do some quick intros. I think all of the companies represented are are very well known. Um
+1:34
+so instead of explaining what your company does, we'll just quickly go through what each of you um are focused
+1:41
+on and and the problem you're ultimately trying to solve. Monet. Hey all. Um, I'm
+1:48
+Monet Supply from Spark. Um, and I'm primarily focused on helping our partner
+1:55
+um, stable coins and tokenized assets um, achieve utility and liquidity on
+2:00
+chain. Um, and then also standing up some more uh, institutional lending and collateral management businesses.
+2:07
+Hey, I'm Simon from Superstate. I talk to asset managers and companies looking
+2:13
+to IPO or access capital markets on chain and we make it the most efficient
+2:18
+and enjoyable experience we can. Hello, I'm Ottonino from DTCC. I'm the embedded
+2:23
+risk management uh director for digital assets and I'm mainly focused in introducing and overseeing the
+2:29
+introduction of and adoption of new risk controls as we adopt the DT technologies. I'm Jasmine Gia, head of tokenization
+2:36
+ecosystem at Fidelity Digital Asset Management. I'm the asset manager of this uh of this group. Uh so our group
+2:43
+focused on adding crypto to accessible fund structures such as exchange traded
+2:48
+product structure for easily accessible uh to treat cryptocurrency as an
+2:55
+investment asset. On the other side we take investment funds on chain for additional utility. So that's part of
+3:02
+mandate that I focus on full-time. I focus on product strategy, go to market, solving use cases and figuring out the
+3:09
+narrative of investments and you utility and then we are eventually excited to
+3:15
+see how we can build native investment portfolios on chain in the far future.
+3:20
+Awesome. That sounds like you are quite busy. Uh Simon, let's talk a little bit about
+3:27
+Superstate and um specifically where you guys are focused now because initially
+3:33
+um the product you were building was really kind of focused on the the actual management of the assets that you were
+3:39
+tokenizing and more recently you've kind of um shifted into just purely being the
+3:45
+infrastructure for that and passing the management on to partners such as Invesco and Bitwise.
+3:51
+Yeah, that's a that's a great question. Thank you. I think we started about 3 years ago with a view to saying
+3:57
+traditional assets can also be on chain and we can add utility to the holders
+4:02
+and the issuers, right? So whatever that might mean, it might be the ability to borrow or lend against an asset in
+4:08
+Camino or a horizon or it might be good for the issuers to have more transparency into who holds their assets
+4:13
+and how how often they trade it. So that was the kind of idea. We decided to stand up two funds ourself just because
+4:20
+it was easier to do that than go to an asset manager with an unproven product.
+4:25
+So we started a T-Bo fund and we started a youCC which is a crypto carry trading
+4:31
+fund where you trade the basis versus CME and and spot. We got those two up to about 1.3 billion uh under management
+4:38
+with about 300 institutional clients and integrated them ac across Salana and Ethereum and Bloom and now Bass. Um but
+4:46
+we were never an asset manager. That wasn't our goal. Our goal was to be a technology layer and be a regatory uh
+4:52
+umbrella for any asset manager who wanted to bring their assets on chain. So hence the launch of Fund OS. So we
+4:59
+said okay well we're going to pass over this $1 billion fund to Invesco. They're using our rails. They're using our
+5:04
+technology. They're using our transfer license. Great. We passed over our basis
+5:10
+trading fund to Bitwise, which is great. We've just announced uh Coinbase asset management is using our platform. So,
+5:15
+we're over half engineer. So, I'm in the minority not being an engineer and not being that smart. So, those guys are
+5:21
+doing all the work and that's the service that we're offering and it's kind of the service we're always getting to. Um, and that's where we see our
+5:27
+scalable business. And then we have the equities inside where we're taking public equities and natively issuing
+5:32
+onchain and and natively is an important word because we can compare and contrast that to the rapper model. We're very
+5:38
+much natively issued in clear light aside of the regulator working with the SEC on every step of the way. um
+5:45
+distributable onshore in the US unlike a lot of the other products and we can take any equity we can take any fund any
+5:52
+ETF in future there's a little nuance around that and put them on chain within a couple of weeks that's our superpower
+5:59
+not managing dbells is what fidelity do super well awesome so with that you you know you're
+6:06
+essentially able to kind of take care of the the bringing to life any type of financial
+6:13
+asset and make it usable onchain tokenizing it in a rapper form. Um where
+6:18
+do you find uh the bottleneck when it comes to the cash leg? Um and and what
+6:24
+is in your opinion the best format of a cash leg?
+6:30
+Yeah. So I think um it's a good question. So I think I'll take a step back. I think when you've done a rapper
+6:35
+or a natively issued asset and brought on chain, you're a long way there. You've done like a good number of miles
+6:41
+in the marathon. Um probably the last stage is why we believe natively issued
+6:47
+is better than a rapper form because a rapper form gates that last stage of
+6:52
+primary minting and redemption unlike anything that's natively issued on chain. A rapper and native issue is
+6:59
+great because it's 24/7 trading. It's DeFi integrated. It's all the cool stuff you can do in addition to traditional
+7:05
+markets. You're adding on utility. You're adding on distribution. You're adding on all that kind of cool stuff. But a rapper still is at the behest of
+7:12
+traditional market structure which comes down to timing. It comes down to fedwire timing as well. And it comes back to all
+7:19
+that kind of stuff. If you want to go in and out of a fund, for example, with Fidelity, if it's a rapper system, you
+7:24
+got to wait till Fidelity's functioning again or the markets are open, you can do that. Um, a natively issued equity
+7:30
+can or equity or asset can happen 24/7, 365. Our T- bill fund is 95%ed in US
+7:37
+government debt. It has a nav that ticks up by the second. So you earn interest every second you're in that fund and you
+7:44
+can redeem out of it. You can go into it on a Saturday morning, come out of it on a Sunday afternoon and earn a day and a
+7:49
+half's interest in US government debt when the markets have been closed and all the banks are shut. And that's a
+7:54
+huge implications for inday repo for interest payments for velocity of money
+7:59
+for balance sheet requirements and everything else by that. So add whatever asset you want in that and we're away.
+8:07
+Okay. Um Monae, so coming from the lending side and also having you know
+8:13
+your own stipcoin product um embedded within it, what talk to me about your
+8:19
+opinions on what is the best cash leg? So in in the choice of a stable coin, a
+8:27
+tokenized deposit, and a tokenized money market fund, are there pros and cons
+8:33
+with any of those? Do they all do fine just as they are or should one
+8:39
+potentially be the the dominant cash leg? Yeah, that's that's a great question.
+8:44
+Um, I kind of view them as like two main like use cases. So, I would say that
+8:50
+stable coins and tokenized deposits are quite similar in the form factor. Um, they provide uh very high liquidity, but
+8:58
+the economics being passed through by the issuer typically are a bit less. um versus a tokenized money market fund,
+9:04
+the economic pass through is a lot better, but the liquidity and sort of like onchain usability, being able to
+9:10
+get in and out is um not as not as strong. Um from our perspective, we you
+9:17
+know, we pulled billions of dollars of stable coins and in the past we've held, you know, over a billion dollars of
+9:23
+tokenized money market funds. Um we have a pretty strong preference for stable
+9:29
+coins over tokenized deposits. um tokenized deposits uh you know it's
+9:34
+they're still kind of like in an earlier stage of development but they don't have the level of onchain acceptance of broad
+9:40
+sort of like network effects and support by different centralized exchanges and service providers. So that's that's a
+9:47
+major gap. And then beyond that, there's also a you know in some sense like an elevated risk that we face if we're
+9:54
+holding um you know basically bank deposit exposure that's exceeding FDIC
+9:59
+limits. Um then suddenly we can find ourselves in a situation like back in 2023 when Silicon Valley Bank um had a
+10:08
+you know had a almost a blowup. um USDC was at like a pretty high risk of
+10:13
+insolveny there which could have flown through into uh our products. So you
+10:18
+know tokenized deposits I think public policy makers they they view it as
+10:23
+potentially like a a positive that um it can keep more funds in the banking
+10:29
+system, help facilitate credit creation like you know like banking has worked uh until now. Um, but you know, if we were
+10:36
+to hold a tokenized deposit on our balance sheet, uh, we'd probably only be willing to face uh, like a globally
+10:43
+systemically important bank, someone who has like an implicit government guarantee. So, it's, uh, it's not clear
+10:49
+whether that's actually like really fulfilling any public policy goals if we're just siphoning more money into a
+10:55
+very small list of already, you know, amazing uh, major banks. Okay, that's a
+11:01
+very interesting point and kind of looking at looking at it from like where where you are a crypto native, onchain
+11:09
+native, DeFi native, pick whichever word sounds best today. I keep changing it depending on uh the perception in the
+11:15
+market. Um and I think this is an interesting point because on the panel you have two companies that are like
+11:21
+have been built from the traditional finance world. Uh DTCC, Fidelity. um Superstate and Spark have been built up
+11:29
+from a cryptonative um place. And so Monet, what you're saying partially is that looking at um a
+11:37
+cash leg um you know, like candidate, the the risk calculus is actually being
+11:47
+um put on traditional banking, right? Um there there's some limitations in you know what you guys believe you can um
+11:55
+move in and out of and have like the have no limitations on how much you want
+12:00
+to hold with a tokenized asset from let's say you know JP Morgan some some
+12:05
+bank right yeah yeah I mean I think from people coming from a trady perspective might
+12:11
+feel more comfortable with a tokenized deposit product because it's sort of on a firmer regulatory footing you know
+12:17
+it's it's the banking system. It has credential regulation, capital requirements, but um from you know our
+12:24
+perspective as like a DeFi protocol, very cryptonative um it actually is sort
+12:29
+of less digestible, less appealing for us uh than stable coin products which
+12:34
+are a bit more up in the air of like how they're they're handled. Um but they have you know strong acceptance and um
+12:42
+the way that they're backed is you know for us it's it's lower risk. Yeah. I want to make a quick question a
+12:49
+quick comment on uh this question. So u often I get asked like who's gonna win
+12:54
+right? They kind of put these three words uh in competition and say hey which one's better or stable coins
+13:01
+better than tokenized deposit because it's fully backed or like tokenized money market fund is not as good because
+13:07
+it can't move around. But like when you think about it actually that question itself is misleading right? When you
+13:14
+look at tokenized money market fund, it is a security. It's not money, right? It is fulfilling a investment use case.
+13:21
+People use it for cash management, right? It's a it's managed by professionals to rebalance treasury
+13:29
+assets, right? So, it is an instrument that's not designed for use as money,
+13:34
+right? Like for payment, like so that's where we always use the terms money arrest, uh like money in motion, right?
+13:42
+So I think that there's actually so much synergy uh between the uh like amongst
+13:47
+these three right so when you look at tokenized money market funds that can use stable coins for in and out right
+13:55
+and then the um token the stable coin can use money market fund to um to uh
+14:02
+fulfill the reserve portion to also outsource the portfolio management component to the professionals right so
+14:09
+then the builders of stablecoin actually focus on the um scaling of the stable
+14:17
+coin solution itself to get users to optimize the product future of the stable coin without struggling with like
+14:23
+you know portfolio management that you know Fidelity should do for example so
+14:29
+um yeah I just wanted to quickly add on top of that yeah that's a great point Otto um you
+14:35
+know you have you know been sitting in you know DTCC which is you
+14:42
+settling trillions, right? And so this while while I said the tokenized market
+14:47
+is 30 billion, that sounds like a lot. Like you're that's like peanuts to what you're seeing. Um so what what's your
+14:55
+thoughts on you know this cash leg on chain and uh what that looks like.
+15:00
+Well, fortunately we have reached the quadrillions in the in the settlement in the clear. But um you know what what I
+15:05
+love about this subject is that it's taking us if we pay attention to back to the basics of economics, right? is
+15:10
+really the use of money, the value of money and what we use the money for, what we consider money. And let's remember that at the beginning of the
+15:16
+whole economy or economic concepts, the money was based on the liquidity and acceptance, right? And the use case of
+15:22
+course people that will use money to save value was different use case and a different structure that the people that
+15:27
+was using it for payment or for uh money mean of exchange, right? So the
+15:33
+comparison that we're making here between the three types of stable coins, the moni sorry the tokenized deposits
+15:39
+and CBDCs is precisely that what are we where are we putting our faith on the
+15:45
+value management of that currency right and what are we using it for like like
+15:51
+you were saying um I don't think there's a competition what we need to what we need to focus is in who is controlling
+15:57
+that or who are we placing the fate at the end of the day of controlling that value Right? If it is a bank, yes, we
+16:04
+trust and professionals and everything is, but it's human error at the end of the day. Those operational process, technology, there's many risk that can
+16:10
+go into that. If we put it in the central government, history has proven that
+16:15
+sooner or later it will end up in inflation or with some sort of monetary manipulation, let's say, right? Whether
+16:22
+it's policy, whatever, it might be good for the country, but there's a power of decision on our value and use of that
+16:28
+currency. And if we keep it to ourselves as a stable cos that eventually we will have to run into self-custody and really
+16:35
+understanding what is it um then it comes to what is it pegged at the end of the day this is a peg currency and we
+16:42
+have had pegged models before right so are we paying it to the dollar is the same thing as a CBDC at the end of the
+16:47
+day who issues the dollar if we're paying it to a smart contract or to an algorithm who manages that algorithm and
+16:53
+what is it serving what strategy what purpose right so I think it's really I don't think there should be a compet
+16:58
+competition. What I like about free markets is that you can understand your risks and use it for the best way you
+17:05
+can use it right in the in the in the transactions or type of economic activity that you want to do. Investment
+17:11
+managers may trust or rely more in a the token deposit because of the banks that are behind it. But people that is using
+17:18
+it for investment, they might want to look into more options including the one that is more liquid which is the most
+17:23
+acceptable. So coming back to your original question of what is the main bottleneck is really what is the level
+17:29
+of acceptance who is accepting stablecoin and which one that's what's going to rule at the end of the day uh
+17:36
+which one is more adaptive I think Simon any thoughts
+17:42
+yeah I was thinking like so I was thinking back to this it's a good question I don't think it's a zero
+17:47
+sum game I don't think one wins the other one doesn't I think you can equate a stable coin to a dollar bill and you
+17:53
+can staple money market fund onchain to a money market fund offchain. I think it gets super cool when you can settle in
+18:00
+assets that are instantly yielding interest, right? And I know it's a different regulatory oversight, but if
+18:07
+you're buying stuff on chain and you can settle with a fund like USB where you know the price is exactly where it is
+18:13
+every block and as soon as it's in my wallet, I'm earning interest and the second I send that over to my OTC
+18:20
+counterparty, they are now earning interest. They don't have to go from being onchain stable coins, off-chain
+18:25
+money market funds and take a two-day D around the second it hits their account. They start earning interest. I think
+18:31
+that's a really cool proposition. And then ultimately, why not when I go to Starbucks, I tap and pay and I'm earning
+18:38
+interest on my money until I give it to them and then they're interest on their money the second I pay for it. I think
+18:43
+it makes sense and I know I'm blurring boundaries between stable coins and money market funds, but ultimately we could end up there. But let's let's keep in mind that lower
+18:50
+risk means lower returns, right? that is by law. So we we have to find where is the return coming from. I think now is
+18:56
+shifting to more operational and technology risk that we need to understand. But those those gains that
+19:02
+you're saying are are are going to have to have trade-offs, right? In terms of the returns of the portfolios, in terms
+19:07
+of many other um components for sure, but we're competing with zero at the moment on returns. So
+19:13
+I also wanted to double click on that. Right. So um when you mentioned that someone has a wallet has stable coin it
+19:18
+should be like automatically yield bearing when when you think about all of us holding a brokerage account uh the
+19:26
+cash in your brokerage account are actually in money market fund automatically you don't have to all bank right like you don't have to do another
+19:33
+set of paperwork to sign up for a money market fund it's already in there and
+19:38
+it's like effortless right well we want that to be in the wallet structure as well but the what are the gaps why we
+19:45
+can't do it as of today, right? So, think about the largest treasury fund managers. They usually like uh
+19:52
+distributes through banks and broker dealers. There's set pathway to do that. Uh the banks and broker dealers does the
+20:00
+KYC. They said, "Okay, we know these people. We do the bookkeeping." But in
+20:05
+the onchain world, that model has not been built. So that you rely on the the
+20:11
+issuers, the fund managers to individually on board each every um user. So I would
+20:19
+say like years ago like a couple years ago you see this huge uptick of adoption
+20:26
+in tokenized treasury. It is because um all these emerging market retail users
+20:32
+are uh willing to get on these rails because the stake is high for them. They
+20:38
+need US denominated assets. They want higher interest rate. They're motivated,
+20:43
+right? But when you look at the US users, they're not they're less motivated because they have easier
+20:49
+access to treasury assets instead of downloading another app and filling all
+20:55
+the paperwork, upload your ID. Why would you want to do that for like, you know,
+21:00
+$2 of yield, right? So, I think that um eventually uh you would see
+21:07
+you know the whole maybe it takes fundamental regulatory like progress to some extent right so
+21:15
+right now the rules and regulations are still pretty much tailored for a more
+21:21
+centralized model right so uh when you when you push the asset issuers to know
+21:27
+every user and if that's what it take of course then you build adapters and you
+21:33
+have multiple layers of manual work that's offchain that will create friction. So I tell people that these
+21:39
+frictions are not web three problems. However, these are the necessary web two
+21:45
+adapters that we have to live with. As of today, the main limitation is finality. This is what the previous panel was was
+21:51
+discussing at the end, right? Is where do you consider your settlement to be recorded and until regulation allows the
+21:57
+blockchain to be the actual book of records, right? there's going to be this all these limitations and troubles
+22:03
+because we have to confide in where is it that the value that I'm accounting as my investment or my worth is been
+22:09
+reflected right and when we have options of chains options of transactions is going to be hard to reconcile especially
+22:15
+we still keep a leg on the pure cash so I think one of the objectives that the industry has to have is to move towards
+22:21
+a single concept of finality and how to treat it and where to treat it with the technology that we're facing because
+22:27
+it's not going to be a way so yeah Listen, I think that's 100% right. I think you can have netting and
+22:32
+finality and it works. And having worked on a trading desk for like 12 years, you realize that it's we come a long way
+22:38
+from noting stuff down in a blotter and consolidating at the end of the day. And then equally, if someone made a mistake and you're trading against if you're at
+22:45
+UBS and you made an existence against Goldman Sachs, then you pull the tapes, you pull that, you look at a Bloomberg and you reverse the transaction. I kind
+22:51
+of feel like that might be part of the narrative as well, right? You net stuff down, you finish the transaction, you
+22:56
+get all the upside of the cost savings and they're stripping out middle and back office functionality and then if someone's made a mistake, which there'll
+23:02
+still be humans involved at some capacity and still be human error, then that gets reversed, right? And that's
+23:07
+but you can only do that with well-known counterparties that you're documented with with ISAs and CSAs and all that kind of stuff. But I think that's where
+23:14
+we end up institutionally sooner rather than later. Yeah, I that that's a good uh segue into
+23:20
+netting and how does that fit in into atomic settlement on chain. So um kind
+23:26
+of doubling down on what you just described Simon you know right now and obviously this is your world Otto um you
+23:34
+know all the trades are settling through the front middle back office and through that chain of kind of checkpoints there
+23:41
+could certainly be human error right but that's okay in some cases because humans have the time to correct those errors
+23:48
+and reconcile it and people don't necessarily lose money in most cases if
+23:54
+we're moving towards this kind of you know instant settlement atomic settlement on chain for these tok you
+24:00
+know securities. Um you know we we can do this easily with cryptonative assets but you know is that really possible and
+24:09
+if it is um why why I would love to hear why do you guys think so and maybe Monae if you want to start are you do you see
+24:16
+a future on chain where tokenized assets can have um instant settlement?
+24:23
+Yeah, I mean so we uh Spark is, you know, a DeFi native um protocol. So
+24:29
+we're very comfortable with uh atomic settlements. Um our business started
+24:34
+basically lending uh permissionless stable coins like D against permissionless collateral assets like
+24:39
+ETH. So that's kind of where we are most comfortable. Um, I think that it's like
+24:45
+like was was mentioned, it it relies on um regulation kind of catching up and
+24:51
+making sure that the tokenized representation of an asset actually is legally where the the title and like the
+24:57
+ownership of the asset sits. Um but I yeah I expect that once um once we have
+25:03
+that regulatory system develop a little bit more we'll be able to have a lot more um assurance that like we can
+25:10
+provide a stable coin atomically against a tokenized fund and we're not going to
+25:16
+be you know at risk of it rolling back. Um, and when you have like a trusted counterparty relationship, you can still
+25:22
+build netting and sort of like delayed settlements um, on top of that and just
+25:27
+kind of look at like the stable coin transfers as like the sort of more efficient uh, always on equivalent of
+25:33
+Fed Wire, something like this. Um but the fact that you have this globally
+25:39
+accessible sort of real-time growth settlement system that's very efficient
+25:44
+um available means that you can also have you know trading relationships counterparty relationships with people
+25:50
+that you don't trust. you would never be willing to have, you know, delayed settlement with. Um, but you can still
+25:56
+have, you know, an economic relationship with them, u based on, you know, kind of like a real-time gross settlement style
+26:02
+of system, which I think expands the the types of economic activity that can that
+26:08
+can take place efficiently. I probably wouldn't add much to that and I really want to hear Otto's opinion
+26:14
+because he's a better place to talk about this than I am. So, I'll hear you what you have to say first. Well, first definitely we believe in so otherwise we
+26:20
+will not be moving to that in that direction. Right. Um the thing is I I don't think the risk is eliminated
+26:25
+completely is shifted as I mentioned before to an earlier stage in the process. Right now the programmability
+26:31
+of assets what it allows you is to keep it standardized. Instead of having random events of risk or random events
+26:38
+of where the the security didn't settle or didn't process because of a human error, you have programmability that will standardize all that. Now that
+26:44
+requires attention to the detail in how you're programming those assets. How are you designing the processes, the smart contracts, the auditors of the smart
+26:50
+contracts? It is at the beginning. So we have to be just more proactive and more
+26:56
+let's say smarter in terms of how we are dealing with the information. And this is something that we cover in in the
+27:01
+last white paper that we published with uh clear stream and and euroclear. the precision in the processes, right? The
+27:08
+attention to the access of data, the standardization of those processes, that's what's gonna enable us to really
+27:13
+adopt a a settlement with atomic settlement across the board. But it requires design programmable assets are
+27:21
+designed assets, right? So if we can do that, definitely this is possible. Yeah. And I think you know there is a
+27:27
+opportunity now um to kind of like start from scratch in in establishing those
+27:32
+standardizations but still doing that carefully once you are on chain um you
+27:41
+would have to trust the entire system has those same kind of uh you know risk
+27:48
+you know controls right so you can get a an asset on chain and you could have
+27:53
+done your due diligence on that chain and know the counterparties, but if it's going to be composable and interoperable,
+27:59
+like how do you really make that whole wide universe? Um, well, I think one of the beauties of
+28:06
+tokenization is that the asset doesn't depend on the rails anymore. The rails
+28:11
+are in the asset. Let's remember that interoperability, liquidity become an attribute of the asset, not of the
+28:16
+blockchain. Right? So as long as you design and you really understand what is the process and the logics and the
+28:23
+patterns that you will have that asset to perform that that's the exercise that's what we need to have our brains
+28:28
+put on and then it doesn't matter really what real you are it can be in any blockchain any any L1 or whatever if the
+28:35
+asset is well structured and well well programmed it will function
+28:40
+so in the case I guess Monae let's I'll I'll let you maybe take this topic um and sorry you are like the DeFi hack
+28:47
+expert on the on the floor here. But um with Otto's point of if everything is
+28:52
+kind of programmed into the tokenized asset, right, and that's kind of where the risk is managed, um there still are
+28:58
+incidents if if that asset is being, you know, used as collateral, um there could be a key management exploit, right? So
+29:06
+even though the the token itself could be like you know bulletproof in its like
+29:12
+design you still can't control these externalities of key management you know
+29:17
+exploits. Yeah, I think it's um I mean it's an interesting challenge because um
+29:23
+you know to date like I think the the key sort of like um horizon or like uh
+29:29
+separation has been between the offchain systems where real world assets are being kind of like held recorded and
+29:36
+then blockchains. So there's kind of like a barrier there um where different
+29:42
+sides of it can like have a settlement failure or something like this and it's not actually atomically like payment
+29:48
+versus payment settling. um if we move more of these RWAs to use you know
+29:54
+programmable tokenization on chain but the rules of how that programming works
+30:00
+is not uh you know it's heterogeneous across different RWAs different issuers or maybe considering a trade of like a
+30:07
+tokenized fund versus a permissionless asset like ETH um you still end up
+30:13
+having that sort of like barrier where like the different legs of this trade are not settling under the exact same
+30:20
+rules. So you can have you can have them kind of diverge a bit. Um so yeah, I
+30:25
+mean I think it is going to be um you know a significant challenge. Um with that being said, I think um you know a
+30:33
+lot of the like we've seen a lot of hack activity in DeFi in the past few months.
+30:38
+uh you know hundreds of millions lost but um what we're seeing is that less and less of these losses are resulting
+30:45
+from code bugs and like you know the actual like smart contracts being faulty. it's more just um key management
+30:51
+or custody issues which um it actually makes me very you know I have growing
+30:57
+confidence that like we are going to be able to create um bug-free code to run
+31:02
+these assets and then you know if we can bring in um more professionalism on the
+31:07
+custody side uh which I think the crypto industry somewhat lacks so far but
+31:13
+there's a lot of really qualified professionals coming in who who are very
+31:18
+very uh strong in In this regard, I think we'll be able to, you know, have an ecosystem that has less of these
+31:24
+faults happening. And I'd add one more point of security in this situation that superstate assets
+31:30
+is a permission. So it can go into permissionless pools, but they're permissioned as in there's what's called
+31:35
+an allowed list. So only people who have KYC and AML with us or through a third party provider can then hold these
+31:42
+assets. They whitelist a Salana wallet or Ethereum wallet. And then if you try and send this asset outside of that
+31:48
+allowed list which can in include smart contracts that transaction just gets decayed. It doesn't happen right. So
+31:55
+there's no point hacking superstate and there's no point sort of trying to send assets or hacking the pool and sending
+32:02
+superstate assets anywhere else because they're just it's just not going to happen and then we can just burn those tokens anyway and send them back to
+32:07
+where they should be. So the one so one example where I think there might still be like some risk let's say that you are
+32:14
+a whitelisted user on superstate um and you're you let your you know private key get hacked so somebody has access to
+32:21
+your tokenized funds they can post that as collateral um on a DeFi lending market and then exfiltrate some
+32:27
+permissionless assets that can't be clawed back. So I think there's there continue to be like some risk factors
+32:33
+there and then you know who who holds the loss in that situation. Is it the DeFi lending market that's allowing you
+32:41
+to margin these tokenized assets and not checking if they were you know the proceeds of like a theft or or crime? Um
+32:48
+so yeah, I think there's still some some challenges, but it's uh it's definitely like a significant improvement versus
+32:54
+just like DeFi wild west no rules situation. Jasmine, um, do you hear like coming
+33:02
+from any of your kind of customer segments, um, like concerns about DeFi
+33:09
+hacks? Um, so when when something happens, um, do you get pinged by either, uh, peers that aren't working on
+33:17
+the tokenization part of the Fidelity business? Of course. Of course, a lot of them. So
+33:22
+I would say like we we always am fascinated by these uh financial parameters like especially for structure
+33:29
+like a vault right. So that create possibility for asset managers to create
+33:35
+native uh portfolio onchain which will solve a lot of problems because right
+33:40
+now the portfolio it's managed offchain in either private fund structure or
+33:46
+registered investment fund structure but then you constantly still have to do the on-ramp off rent. Sure the the as more
+33:54
+solutions get built that's getting easier. However, it won't change the
+33:59
+round trip model. That's going to be inconvenient, right? If the portfolio is
+34:05
+on chain, then you you you don't have to do this round trip. I always use an
+34:11
+analogy. It's like, okay, right now I'm asset manager. I want to cook a meal on chain. However, I don't have enough
+34:18
+ingredients also today to make a decent meal. uh but once there's enough
+34:23
+tokenized assets there then it would we would do it right so that's another
+34:28
+hurdle I know the original question is about whether or not we get questions right I wanted to mention this first so
+34:36
+you know that we like I personally believe in the concept I think it's going to create so much possibilities
+34:43
+for our industry and I think my peers with this background that feeling
+34:48
+positive about the development and the future and then they hear about these hacks
+34:54
+then I would say it wouldn't automatically put people think okay these are non nonsense we won't look at
+35:01
+it again it is more like okay what are the risk is it security risk uh like
+35:08
+smart contra risk or like what's the like what's the problem right that help
+35:14
+us to think through um how we should build solutions with these risk factors
+35:21
+considered in a way it is a stress test of the space right so uh of course it's
+35:29
+very unfortunate that these instances happened but it also kind of showed okay
+35:35
+what could have gone wrong and what we could have done better right so I think that lessons learned is very critical
+35:42
+and then um hopefully eventually we'll be able to do more like
+35:50
+to do more real business on chain once those concerns are addressed. Yeah,
+35:56
+I think we this is where the infrastructure really needs to be analyzed and discussed, right? Because after all, even if we move to DT and web
+36:02
+3, we're still connected by a cloud. There is still a component there that is still public. It's still, you know,
+36:08
+commonly used for many users and many cases in many actors. So, what we need to understand is really the points of
+36:13
+entry of that risk, right? I think wallets are key. West have to really up their game in terms of finding not
+36:19
+implementing the different models of solutions for algorithmic threats as well as for security and bolting. uh
+36:26
+even if they don't intend to be custody wallets there's certain custody infrastructure they need to guard
+36:31
+because they will be managing for example the the custody of the right of control of a function right even if it
+36:36
+is not a key um the cloud the connectivity to the cloud will still have to connect APIs through APIs to
+36:42
+connect via the data so there's still components in infrastructure that have to evolve as quickly as they have in
+36:47
+terms of programmability um but definitely it's going to get there I'm trustful on that
+36:53
+um we have a couple more minutes left I I guess Otto to kind of touch on that point um more broadly. So with DTCC and
+37:02
+and their kind of um building into onchain rails um was is the driver more
+37:10
+on the the 247 enablement of trading and settlement what is kind of um you know
+37:17
+the vision or is it something else? I mean it could be a mixture of both but is it high level? Why did you I think
+37:24
+what was it a couple years ago get tapped or was your idea say like we we should be working on this and moving in
+37:30
+this direction? Our role as an as a as an FMI right is to provide infrastructure to reduce risk or to
+37:37
+better manage risk among that risk liquidity of course which is set by less
+37:42
+time more efficiency in the settlement but ultimately it's also the interoperability and the inter use of
+37:47
+assets right uh we know the problems and the cost that it has for an economy to have huge amounts of fixed income for
+37:53
+example sitting in one leg and equity on the other one and not being able to use it either way either for collateral
+37:59
+purposes or for transaction purpose purposes or for return. So I think ultimately one of the biggest
+38:04
+efficiencies that we're seeing is the reduction in the risk of transferring your operations from one asset to the
+38:10
+other. Assets ultimately could become interoperable, interchangeable, right? If we can provide that security that you
+38:17
+know trading all the other commercial and and and financial activities will take place uh with more flexibility and
+38:25
+more um liquidity as well, right? So Okay. Awesome. Um I guess final comments
+38:31
+um real quickly if everybody could go through what ha what have you changed
+38:37
+your opinion about um crypto in the last two years is there something regarding
+38:43
+risk um what it can do what it can't do I know that's a bit broad but
+38:51
+what we do you want to go first yeah um I guess I've I've warmed up to
+38:58
+tokenized assets. So, I I came into the space originally just like really uh
+39:04
+gung-ho, like every asset needs to be permissionless. Um, you know, if it's backed off chain, it's not real. Um, and
+39:11
+yeah, I mean, I think like the level of robustness that we're seeing with stable coins improving, uh, new classes of
+39:18
+tokenized assets having like really strong levels of disclosure, um, is is
+39:23
+very encouraging. So like I think it's something that you know even as like a DeFi native uh person I'm I'm getting
+39:29
+more confident. Yeah. And I think we've seen a few stellar use cases of the blockchain technology over the last couple of years
+39:36
+and I think that's prompted institutions to really come at it hard and really get involved and that's been great because
+39:42
+maybe prior to that I'm like okay is this just a silly thing that's happening and no one really cares? I think people
+39:47
+can now I've changed my mind with open source. I used to be very like aversive about open
+39:54
+source but I've learned that is the only way to really test whether your programmability functions or not is strong or not and just like in you know
+40:01
+in real estate this location location I call it here test test you have to test your assets to make sure that they're
+40:07
+working correctly yeah I wanted to mention something around like uh which asset classes get
+40:13
+need to be tokenized to make it useful right I kind of flip-flop between the two barbells was okay initially we
+40:20
+started was illquid. It was okay. It makes so much sense the operational efficiency of real estate or
+40:26
+collectibles and etc. And then uh and then it was like of course it didn't
+40:31
+really work well and had adoption. And then we went to the most liquid side of stable coin, treasury assets. And then
+40:38
+now I kind of flip back and say okay maybe it is very interesting for private market as long as it's done right
+40:45
+because just the price discovery mechanism that blockchain market onchain
+40:50
+markets can do is very valuable and probably the yield has something to do with it too but that's a different
+40:56
+panel. All right this is awesome. Thank you guys so much.
+
+All
+
+From Stable Summit
+
+Presentations
+
+Related
+
+Fo

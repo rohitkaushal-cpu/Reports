@@ -1,0 +1,601 @@
+
+Search in video
+0:02
+I'm Arie Redboard and this is TRM talks. I am global head of policy at TRM Labs.
+0:09
+At TRM, we provide blockchain intelligence software to support law enforcement investigations and to help
+0:15
+financial institutions and cryptocurrency businesses mitigate financial crime risk within the emerging
+0:21
+digital asset economy. Prior to joining TRM, I spent 15 years in the US federal government. first as a prosecutor at the
+0:28
+Department of Justice and then as a Treasury Department official where I work to safeguard the financial system
+0:33
+against terrorist financeers, weapons of mass destruction proliferators, drug kingpins, and other rogue actors. On TRM
+0:41
+talks, I sit down with business leaders, policy makers, investigators, and friends from across the crypto ecosystem
+0:47
+who are working to build a safer financial system. On today's TRM talks,
+0:52
+I sit down with JP Morgan's Week to talk about how the bank is working on digital assets.
+1:00
+But first, inside the lab, where I share datadriven insights from our blockchain intelligence team. Between May 2024 and
+1:08
+April 2025, reports of generative AI enabled scams surged by an astonishing
+1:14
+456% according to chain abuse data, a platform maintained by TRM Labs. Just
+1:20
+the prior year had already seen a 78% rise, driving home one critical truth.
+1:26
+AI has become a force multiplier for fraudsters. At the core of this shift is the weaponization of generative tools,
+1:33
+large language models, synthetic media, and deep fake technology to craft more
+1:38
+compelling and believable scams. TRM has documented deep fakebased crypto scams
+1:44
+featuring manipulated videos of figures like Elon Musk inviting victims to quote
+1:49
+double your Bitcoin or claim fake giveaways. One instance alone appears to have netted scammers around $5 million
+1:57
+in live stream fraud within minutes. But deep fake scams aren't confined to celebrities. Scammers now use live or
+2:04
+coded deep fake calls to impersonate company executives, family members or
+2:09
+public figures. They deploy LLM powered personas, chat bots, and fake help desks
+2:15
+to build trust over time and guide victims towards fraudulent platforms. Criminals are even outsourcing much of
+2:22
+this to AI as a service providers, paying to generate conversation scripts, fishing content, and fake identities.
+2:29
+The threat landscape has evolved. Sophisticated fraud networks can now reach hundreds or thousands of targets
+2:36
+simultaneously with minimal human oversight. Deep fake CEO impersonations,
+2:41
+romance scams, and synthetic voice cloning have enabled criminals to escalate schemes across geography and
+2:48
+scale. TRM observed these techniques being used even in financial grooming scams lasting months. Yet, the same
+2:54
+innovations deployed by scammers are now being harnessed defensively. blockchain intelligence platforms like TRM labs,
+3:02
+integrate AI powered tools that trace elicit fund flows, detect suspicious
+3:07
+smart contracts, flag emerging fraud typologies, and automate investigative
+3:12
+workflows. With real time anomaly detection and predictive risk analytics,
+3:18
+investigators can dismantle AI and augmented scams faster.
+3:25
+And now I sit down with JP Morgan's Wiki Toe.
+3:32
+Today I am joined by Wiki Toe, the global head of business architecture at
+3:38
+Kexus Digital Payments at JP Morgan. Wiki, thank you for joining. Thank you
+3:43
+for joining at this moment and really excited for the conversation today. Yeah, thanks Ireie. Tell me sort of how did you end up in this role at JP
+3:50
+Morgan? you're a real early adopter expert in this space. So tell me a little bit about how you got to this
+3:56
+point. So I was actually involved in digital currencies almost 10 years ago. So it
+4:01
+has actually been pretty long journey for me. I joined Kexus digital payments about three over years ago. But maybe
+4:07
+let's start at the beginning because I think as we talk through the different parts of like blockchain, crypto, the
+4:13
+evolution, in fact I do feel like a large part of my work actually has a lot to do with the evolution within the
+4:19
+industry as well. So like um the move from experimentation to live production usage, it actually coincided with my own
+4:27
+personal journey of moving from experimentation at the Mo Authority of Singapore and then to doing live
+4:33
+products at JP Morgan. So 10 years ago I mean I pretty much just dropped right into it because uh when I joined
+4:40
+authority of Singapore MEES as we usually call it I was in the fintech innovation group. I was in the payments
+4:46
+and technology department within the FTIG. So it was just one of those
+4:51
+questions that came one day that someone was like, "Oh, this whole blockchain thing looks really interesting. Can you
+4:56
+try to find out a little bit more about it?" So I did a bit of digging. I think the first thing that I came across was
+5:02
+actually IBM's open blockchain. So what eventually became Hyperledger Fabric, tried it out, did some simple
+5:09
+applications, just tried to do and see how it works. And honestly, back then I
+5:14
+didn't really understood what the hype was about, what made it so special. But it was an interesting piece of software.
+5:20
+And then I heard Joe Lubin. So there was this occasion where we actually had Joe Lubin talking about Ethereum and he was
+5:27
+actually explaining this concept of the world computer and that's when things started to click like that's when I was
+5:34
+like okay this is a really interesting concept this idea of a single computing
+5:39
+platform where everyone can deploy their applications. were able to do all sorts of different applications deploy it on
+5:45
+on this public Ethereum and all these application has this ability to interact with each other. That's when I was like
+5:50
+oh this is actually really interesting. So we started getting a lot of hype around blockchain crypto but no one
+5:57
+really knew what it was about what they were even talking about. It was just a lot of all these buzzword flying around
+6:02
+and we always believe that the best way is to actually learn through doing. So that's when we were like okay let's get
+6:09
+together let's get some of these people who are really interested in the technology together come together to
+6:14
+explore it to learn about it and that's actually how we started on project UI it's absolutely an amazing story and you
+6:20
+know when I look around the world when I got to TRM 5 years ago I looked around the world and said all right who are the most important regulators and who've
+6:26
+been doing this the longest and obviously MAS in Singapore really really has and to be in the moment when MAS as
+6:34
+really one of the first regulators was starting to do it it's amazing What were those lessons from project Uben going
+6:39
+back to 2016 that you learned at the time but then also how have they been applicable as you've kind of built or
+6:46
+thought about the space as it's grown? So project UIN we went through five phases of it. There were six reports
+6:52
+that were published. I think the knowledge that was generated was probably one of those important contribution important outcomes from the
+6:59
+project itself. But personally I do think that the most important outcome was actually the development of talent
+7:04
+and ecosystem in Singapore. So a lot of times when people look at project wubin they think about it as a CBDC project as
+7:10
+a MEES project but back when I was at MES we actually refer to this as a payments project and an industry
+7:17
+project. So it was primarily a payments project with digital payment tokens. But what happened was that the tokens are
+7:23
+actually issued by the central bank. Hence we refer to it as central bank issue or CBDC. But CBDC was never the
+7:30
+initial objective of the project. It was really around payments. But we just happened to be the subject and we were
+7:35
+issuing our tokens. So that made it a CBDC token. It was also an industry project. So this was around everyone
+7:41
+coming together to learn about the technology, how to use it. Across the five phases, I think we have like
+7:47
+hundreds of people who were involved in some way or another. So developing the talent and expertise in this new space,
+7:53
+developing Singapore as a leading center for blockchain innovation. I think that was probably the most important outcome
+7:59
+that came out of project wubin much more than the knowledge that we generated.
+8:04
+It's really amazing because like when I think about that moment, right, you think about all that MAS has done since and how it's been really sort of a a
+8:11
+model for what other regulators globally. It's amazing to to have been a part of that moment. Yes. So, it was really an amazing moment
+8:18
+for for me myself as well. I think there was a whole people element to it just working with all of the brightest people
+8:23
+within the industry at least in that space for that time. So some of the people I work with in JP Morgan today
+8:30
+they were involved in the project right at the start of it back then those were the people working on quorum actually
+8:36
+building a new blockchain protocol. So it was great because as part of project ubing we actually had expertise like
+8:42
+leading expertise all around the world coming together to work on the project together. I feel like your career has
+8:48
+been really defined by this experimentation especially from a regulatory standpoint and now obviously
+8:53
+more from a business financial institution standpoint but tell me about your experience at the BIS innovation hub. So maybe before I even go into BIS
+9:00
+I just wanted to bring out one more point and that was kind of like the natural transition from project ubin
+9:05
+into project dumbbad which was the multicbdc project at BIS. So earlier I
+9:11
+was talking around like development of ecosystem and talent being one of the biggest contribution or outcome from
+9:17
+project ubin itself. So what happened then was that we we started to see that we have developed a fairly big pool of
+9:23
+talent but we were actually continuing to tie them out in industry experimentation. So towards the end of
+9:29
+phase five of project UI we actually decided to make probably the most difficult decision for the project which
+9:35
+was to conclude it. The view was that there's actually a cost to doing such PC's. It's not just the monetary cost of
+9:41
+running a project but really the focus and attention of industry participants as well. So ubin in a way I think it was
+9:47
+becoming too successful for its own good. We could probably have ran the project for another 5 years everyone would still participate but at what cost
+9:54
+to the industry. So that's when we decided to take this view that hey actually we need to conclude project
+10:00
+ubin release the resources back into the industry and that's how we can further generate even more growth within the
+10:07
+sector itself. I actually remember the initial draft of the press release ending the project we wrote the
+10:12
+conclusion of project wubin marks the end of experimentation and the start of commercialization. It was really
+10:18
+interesting because you know how press releases often go through many rounds of reviews in government. I was getting
+10:23
+live updates on the review process itself because everyone who got the draft of the press release actually ping
+10:30
+or just caught me when they saw it. So in a way it was like writing an obituary for the project itself and I had to go
+10:36
+through five stages of grief with everyone in the review. Hey you know everyone who saw it was like are you serious? Are you sure? Is this really
+10:42
+what we are going to do? But it was actually tears of joys as well because right after we concluded the project was
+10:49
+born shortly after it was a joint venture by JP Morgan, DBS and Tamas with Standard Chartered, Deutsche Bank and a
+10:55
+number of others joining after and the industry was also doing lots of interesting work in Singapore. So you
+11:01
+had like JP Morgan building its what we call JPM coin back then but what we know as Kexus Zero payments today. DBS built
+11:08
+its DBS digital exchange. lots of fintech startups was actually entering into Singapore building all of this new
+11:15
+products, new services and that to me was really that whole big part of project ubin the conclusion of it and
+11:22
+what came out of it. So there was one part that came out which was really from a commercialization perspective banks
+11:28
+building live products and the other part was further experimentation but not just in a single CBDC but in a multiCBDC
+11:35
+context. So this was the part where you were asking me earlier around like BIS innovation hub some of the projects that
+11:41
+we did. So through project ubin we proved that yes it's possible to do multiple currencies on a single
+11:48
+blockchain. We have the ability to do different type of transactions on it. Now we wanted to see okay what happens
+11:54
+if we bring multiple central banks in and look at multiple central banks issuing CBDC's on a common platform.
+12:00
+This was actually really interesting because one of the vendors that we used for this particular project was Patio
+12:05
+itself. That was something I was really proud of to see patio getting involved in some of these other experimentation.
+12:11
+And the really cool thing is that when we did the multiCBDC project, the patio product was used almost as it came out
+12:18
+of the box. So we essentially swap out some of the the banks and the currency names like we had in patio we have
+12:24
+commercial banks doing commercial bank money. So you kind of have like JP Morgan for US dollar, DBS bank for Sing
+12:31
+dollar, all these different settlement banks and the settlement currencies. We just swap out the names like now you have MES with Sing dollar CBDC. You have
+12:39
+like Bang Nigara with Ringate CBDC. You have Australia with Aussie dollar CBDC
+12:45
+and everything worked out of the box. And to me it was a validation of the idea that we had around this idea of
+12:52
+multicurrency settlement. You can do it with commercial bank money and we are doing it live today with patio. You can
+12:58
+also do it on an experimental basis with CBDC's. the underlying technology is actually very similar.
+13:04
+Fantastic. And it really does like when you talk through all of this a it's like it's history, but it's really history
+13:09
+that built the conversations that are happening now in exactly the work that you're doing, specifically your current
+13:16
+work at JP Morgan with Kexus is really still all about building that next generation of digital payments
+13:21
+infrastructure. A lot of what you experimented with as a regulator. talk me through a little bit about the most
+13:27
+significant insights or lessons you've gained at Kexus over the last few years of building and what that means to you.
+13:33
+So I I would say again it's very much like the journey how I moved from the MEES to Kexus. So if you think about it
+13:41
+from two perspective I went from doing experiments to doing live project and the other perspective is I went from a
+13:46
+regulatory body to a regulated body. So the biggest difference is really from a planning horizon perspective. So when we
+13:53
+think about public sector generally we think in terms of like years and decades but private sector they act in weeks and
+13:59
+months but if you actually go in a little deeper it's really not that different. So public sector focuses a
+14:05
+lot more on the designing and planning while private sector focuses on the execution. So the first big insight for
+14:12
+me was really the need to like design for the future and even while we build for the present. So it was a bit of
+14:18
+pulling together the two different perspective to it. the public sector perspective and the private sector perspective. So designing for the future
+14:25
+is very important to not create tech debt. So if we think too myopically, if we think only from a short-term
+14:31
+perspective, we end up building systems that are very rigid. They don't scale well and we end up with architecture and
+14:37
+spaghetti connections very quickly. So I thought that was a useful learning for me even when I'm in the private sector
+14:43
+which is really the idea of like let's design for the longer term even if we need to build immediately and very
+14:50
+quickly. The research with MIT so we we've been doing a fair bit of research with MIT digital currency initiative I
+14:56
+think it's a good example of how we try to avoid some of this short-term thinking. So a lot of times we are doing
+15:02
+product development but we also do academic research in parallel. So academic research it forces us to take a
+15:08
+more broader view of what an ideal product looks like without the confine of like resources and time. So even
+15:15
+while we accelerate efforts of product development building very quickly, we don't lose track of the bigger picture.
+15:21
+So that's really that one perspective of designing the future while building for the now. It feels like there are a
+15:27
+couple things that are specifically important when it comes to what you're building and and honestly and the experimenting that you did as a
+15:32
+regulator. programmability, interoperability. How do you think about these types of things? And we've heard
+15:38
+interoperability referred to as like the holy grail of digital payments. Talk to me a little bit about how you're
+15:43
+thinking about these things as you're building and maybe even bringing in some of your experience from the sandboxes
+15:48
+and the work that you were doing at MAS. So, I would say that programmability and composability is probably one of the
+15:54
+biggest differentiator of blockchains today. Something that was previously not possible or very difficult to to
+16:00
+achieve. So if you think about Kexus digital payments today, we have a live blockchain based payments platform. We
+16:07
+do about $2 to3 billion in transaction value every day. We allow our clients to do cross border payments in different
+16:14
+currencies in near realer time and around the clock. So we allow payments to be faster with longer operating hours
+16:20
+and more operating days. So some of this more better actually works well because
+16:26
+they can have very intense extensive impact like in the Middle East for example. So they generally have their
+16:32
+weekends on Fridays and Saturdays. So now they actually have an extra day to transact on Sunday. So that was a very
+16:39
+extensive impact to them. But ultimately this is really the usual thing about who is able to do it bigger, better and
+16:45
+faster. So traditional systems they can also build incrementally to solve for this. So if you think in terms of like
+16:52
+real-time payment system today, they already enable like faster real-time payments domestically. Once we start
+16:58
+looking at connectivity of all these RTB system, you are going to enable that even for crossber payments. So a lot of
+17:04
+these capabilities that we build today in terms of making it faster, you can do it with traditional systems eventually
+17:10
+as well. But programmability or programmable payments I think is a whole new different field all together is a
+17:17
+game changer. So with programmability a client can then now deploy their logic into a bank.
+17:22
+That's fantastic. And one thing we often hear about is this idea of like, well, this technology is going to rip and replace this thing that existed before.
+17:29
+But the reality is that they're all going to have to work together in some type of concert. Whether it you're
+17:35
+talking about CBDC, whether you're talking about private stable coins, whether you're talking about public blockchains, tokenized deposits, the
+17:41
+ecosystem is going to have to work together seamlessly for this to work. How do you think of interoperability,
+17:47
+which you know you hear about as like the holy grail of the space? We use the word interoperability probably way too
+17:54
+much without actually describing what we mean. So when we when we look at interoperability there's actually multiple layers of it. So you can think
+18:01
+about the application and the platform that is deployed on. So from an application perspective I think when we
+18:07
+think about interoperability this is really around token standards. So how do we define token standards that you are
+18:14
+able to reuse for all the different forms of payment tokens. So when you think about payment tokens, there's not
+18:20
+just stable coins, there's also CBDC's, there's deposit tokens. There's a lot of commonalities with some differences
+18:26
+between them. But are we able to define a common token standard that we can actually use for all of these different
+18:33
+tokens? I think from an interoperability perspective on the application layer, token standard is probably the most
+18:39
+important. So today we are having this issue where we are having a lot of different blockchain platforms. I mean,
+18:44
+you look at the news over the last two months, every week, we probably have a new L1 or L2 coming up. So, we expect
+18:51
+that in the coming years, we're going to have a lot of all of this different blockchain platforms in the market
+18:56
+itself. Now, the biggest value that we see out of blockchain is really this idea that all the different parties you
+19:02
+can issue tokens on a common network. They are able to interact directly with each other. So once we start having
+19:08
+multiple of these blockchain platforms, how do we still enable that same old vision of like seamless connectivity
+19:16
+integration across all of these different smart contracts? I think that is the biggest question and that
+19:21
+probably needs to solve on a much more technological level. How do we enable blockchains to I guess communicate with
+19:28
+each other in a way that still preserve composibility in a way that still preserve atomicity? I think that's
+19:34
+probably going to be that biggest challenge in terms of interoperability on the platform level. We talk about technology challenges and
+19:41
+there are certainly a lot that's a huge one today. I am always been confident that technology as it evolves and it
+19:47
+will continue to meet a lot of these challenges. There are also regulatory challenges and questions. I think it's
+19:52
+very interesting. You know, I would love your perspective having worked at MAS in the really early years of shaping crypto
+19:58
+regulation. The US recently passed the Genius Act, which is the first ever piece of legislation, really meaningful
+20:05
+legislation at all in the crypto space in the US. What does Genius mean globally, and how are other regulators
+20:11
+reacting to it? I really love that you asked this question because I'm starting to see that there's a US view of how US dollar
+20:17
+stable coins are going to benefit the rest of the world, but there's also a rest of the world view of how US dollar
+20:22
+stable coins could totally you have to understand both views. That is a great point. Yes.
+20:28
+Yes. Yes. So this this second part of it is not commonly discussed. So let let's let's go a little bit deeper on that. So
+20:34
+generally when you think about stable coins, they're more useful for international rather than domestic payments. If you think about
+20:40
+international payments is usually your major trade currencies. And actually most of them already have stable coin
+20:46
+regulations today. But even from that perspective, 98 or 99% of stable coins
+20:51
+today continue to be in US dollar. So I think this is going to continue into the foreseeable future. most of the stable
+20:58
+coins will be denominated in US dollar and issued out of the US. So what's this is causing is this is a very interesting
+21:04
+situation where you have US being a net issuer of stable coins and the rest of the world being a net holder and user of
+21:11
+stable coins and there's going to be this huge margin of difference between the two. So I don't think that the
+21:17
+central banks and regulators outside of US are entirely comfortable with how this is playing out. There's starting to
+21:24
+be more concerns around monetary sovereignty, currency substitution, other effects of dollarization. There's
+21:30
+also the concern around like financial stability especially if most of these stable coins are issued out of their
+21:37
+jurisdiction. So we are starting to see that already. For example, in Europe there was some recent discussion around
+21:43
+like risk of multi-issuance scheme. I think this is really good. This is really indication that central banks,
+21:49
+regulators outside of US are getting more and more concerned about the effects of US dollar stable coins.
+21:54
+I think it's really interesting. How do you think this all plays out? Well, I I think a lot of central banks and regulators are starting to look at
+22:00
+how they can impose certain more safeguards or potentially even restrictions around the usage of stable
+22:06
+coins. So, Europe already has that as part of their Mika framework. Actually
+22:11
+if you think about it from that perspective even US and both US and Europe have those provisions within
+22:17
+their stable coin regulation itself where they looked at stable coin issued out of the country versus in the country
+22:24
+itself and a lot of time there are restrictions around stable coins that are issued out of the country. So I
+22:29
+think more and more central banks are going to take a similar approach which says that if you want to have your stable coins circulating in my economy
+22:37
+you will need to either be subjected to some level of supervision or you have to comply with regulations within my
+22:43
+jurisdiction. So I think there's going to be a lot more I guess regulation relating to the usage of stable coins
+22:49
+not just on the issuance of stable coin. I think it's such an important perspective. What other challenges do
+22:54
+you see out there that regulators should focus on as adoption whether it's stable
+23:00
+coins or or more broadly tokenized deposits or digital assets more more broadly as they proliferate? What are
+23:06
+some other challenges that are front and center for you for regulators? I think one of the biggest topic being discussed a lot today is singleness of
+23:12
+money. This is one part a regulatory question but another part a general economic and commercial question as
+23:19
+well. So if you think about just from a FX perspective, so when we talk about US dollar and euro exchange today, we
+23:25
+generally think of exchanging US dollar and euro, you don't think about who's the underlying settlement back that
+23:31
+comes in later as part of settlement itself. But if you are thinking from FX exchanges or stable coins now today, you
+23:38
+have some of the major stable coins you have like USDC, USDT and PYUSD. And if you look at some of the crypto exchanges
+23:44
+overseas, they sometime even have different rates for the three US dollar stable coin. Now in a traditional
+23:51
+financial construct, this should have never happened because you think about it from a singleness of money
+23:56
+perspective. If you have one US dollar with one bank, it should be the same as a US dollar with a different bank. But
+24:03
+from now when we think about stable coins because there are so many different stable coins out there you are actually essentially exchanging one
+24:10
+specific stable coin in one currency for another specific stable coin in a different currency. So what this means
+24:17
+is that there's going to be fragmentation of liquidity. I think FX using stable coins is going to be really
+24:24
+challenging and we probably need to figure out if there are mechanisms of making this a lot more efficient and
+24:30
+seamless. perhaps some ability to exchange between different stable coins of the same currency and how we could
+24:37
+actually how we could essentially enable singleness of money even with stable coins. This will be very important
+24:43
+questions that need to be worked out before stable coins are able to gain much more usage especially from a high
+24:49
+value transaction perspective. Let's build on that a little bit. One of the reasons I love talking to you and I'm I'm having so much fun in this
+24:54
+conversation is you are so energized and passionate and positive about the space and it's probably because you saw those
+24:59
+early days of innovation and now you've seen how much it's grown. What are you most excited about when you talk about
+25:05
+sort of digital payments innovation and financial services? Like what are the things that get you most excited right now either that you're working on or
+25:11
+you're seeing other great people work on out there? So the biggest benefit of blockchain is really the idea of integration. The idea
+25:18
+that I could be having my US dollar deposit token, European bank could be having some euro deposit tokens. Someone
+25:25
+else could be acting as a market maker and then providing like a automated mechanism for exchanging off these two
+25:32
+deposit tokens. So if you look from a more traditional payments perspective, generally you have one single entity
+25:38
+doing all of these activities. But in a blockchain world, we are able to all deploy our smart contracts. The smart
+25:44
+contracts can interact with each other. So from that perspective, we are all able to essentially integrate a lot
+25:50
+better and more seamlessly with each other. And to me, that's really that big benefit of blockchains because we are
+25:56
+going to provide a much more integrated financial ecosystem. We are going to provide much better financial services to our clients. And that to me is really
+26:03
+that big set of benefits around what blockchain brings to users. It just struck me as we're sitting here, we are
+26:09
+in this really interesting moment with what's happening in APAC, but also what's happened in the United States with Genius. Do you feel like we're in a
+26:16
+moment that's almost sort of like a lot of the work that you've done to date is sort of culminating in this moment where you see, you know, JP Morgan, you're
+26:23
+sitting right at a financial institution as we see this really interesting institutional adoption, right? Do you
+26:28
+feel like you're made for this moment or something along those lines? I would say that I was at the right places at the right time. I mean I was
+26:34
+at MEES when the whole interest in crypto first started. So I was right in the start of it. So there there was a
+26:40
+whole period of time where there was a lot of experiments. I was right in the middle of doing all of these experiments when there were all of these questions
+26:46
+that needed to be answered working with the brightest smartest people on answering questions. I think that that
+26:52
+was a a good moment in time that I was at the right place and then subsequently once we start going from experimentation
+26:58
+into live usage again uh I was at the right place again um at JP Morgan we're probably one of the largest banks that's
+27:05
+big on this particular area we build a live product we are transacting close to $3 billion every day on our blockchain
+27:12
+based payment system so I would say these are probably good examples of like really being at the right place at the
+27:17
+right time it's extraordinary well let me end on a personal note then we've talked a lot about digital payments, but when you're not thinking about digital payments, the
+27:24
+future of money, what do you do for fun? What inspires you outside of your work? I actually love to read a lot and I also
+27:30
+love to travel a lot. So, those are the things that I really do. And actually, the the background is quite interesting
+27:35
+because most of the time you see people with a bookshelf, all the books that they read. But actually, if you see behind me, those are most of my stuff
+27:42
+for traveling, for camping. Those are the things I love doing on the weekends. Amazing. So, tell me about camping. So,
+27:47
+you said you travel, but it's it's more than travel. You're camping often when you when you travel. What does that look
+27:53
+like? Are you a glamper? Is this a fancy tent? You know, are you cowboy camping as they call it? What are you doing?
+27:58
+Actually, I do a mix of all of that. So, I've done like very simple camping in just going out over the weekends. Fall
+28:05
+is really nice for camping. So, you just bring our tents, drive out to somewhere, and then camp somewhere and look at the
+28:12
+four colors. So, that's that. I was in Patagonia end of last year. That was really nice. And then we did some of the
+28:18
+more premium or glamping kind of camping a mix of that together with the heart. So that was nice as well. And then
+28:24
+couple of years back I did anapuna circuit hiking in Nepal. So that was
+28:29
+hard to heart again a different form of camping as well. It's well you have nice because you have that nice four walls.
+28:36
+you know, you are always in a good place to sleep at the end of the day, but at the same time, facilities are a lot more
+28:42
+basic, but that's what you expect when you are like four or 5,000 meters altitude. So, yeah, all forms of
+28:48
+different campings. I love them all. I love it. Wiki, thank you so much for joining TRM Talks.
+28:53
+Yeah, thank you, Arie.
+28:58
+That was such a cool and really unique conversation. I mean, you talk about Wiki's journey from the very early days.
+29:04
+We're talking pre 2016 MAS where they're really just building what crypto policym
+29:10
+can look like and not in Singapore really in the world. And then you talk about his experience at BIS where
+29:17
+they're doing sandboxes and experiment with digital payments and what the infrastructure should look like and CBDC. I mean this is really early to be
+29:24
+having these types of conversations. But then to take that decadeish of expertise
+29:30
+and take it to JP Morgan which is really for years has been a real innovator in digital payments from a traditional
+29:36
+financial institution. He mentioned JPcoin and now Kexus. What a really extraordinary journey that takes him to
+29:42
+this moment where we're seeing rapid accelerated adoption by traditional
+29:47
+financial institutions. really so many takeaways and I I think we got a little deeper than we do sometimes on some of
+29:53
+the technology and some of the real importance of interoperability and programmability and what this technology means. So really grateful to have a
+30:00
+conversation with someone who's been building in this space as a policy maker and now as a business leader for a long time.
+30:07
+On the next TRM talks I sit down with circle APAC lead Yami Chan.
+30:14
+If you love the show, leave a review wherever you're listening to it and follow us on LinkedIn to get the latest
+30:21
+news on crypto regulation, compliance, and investigations. TRM Talks is brought to you by TRM Labs,
+30:28
+the leading provider of blockchain intelligence, and anti-moneyaundering software. This episode was produced in
+30:34
+partnership with Voltage Productions. The music for this show was provided by
+30:40
+Elix. Now, let's get back to building.
+30:47
+[Applause]
+

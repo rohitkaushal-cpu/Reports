@@ -1,0 +1,1055 @@
+
+Search in video
+0:08
+Your company's future success demands
+0:10
+customerfocused, agile, resilient, and
+0:12
+efficient operations. [music] I'm your
+0:14
+host, Stephanie Luxenberg, and you're
+0:16
+listening to Mackenzie Talks Operations,
+0:18
+a podcast where the world's seuite
+0:20
+leaders and Mckenzie experts cut through
+0:22
+the noise and uncover how to create a
+0:24
+new operational reality. Today we're
+0:27
+diving into a topic that will represent
+0:29
+a true paradigm [music] shift. Agentic
+0:31
+AI in banking.
+0:33
+Agentic AI is not just another buzzword.
+0:36
+It's poised to become a critical
+0:37
+differentiator for banks [music]
+0:38
+everywhere. Leading institutions are
+0:41
+leveraging AI as a platform [music] to
+0:43
+redefine their workflows and business
+0:45
+models, transforming the way they
+0:47
+operate and the way they're delivering
+0:48
+value to their customers. However, the
+0:51
+story is not the same for all banks.
+0:53
+Slow adopters face the very real danger
+0:56
+of falling into what we call [music]
+0:57
+pilot purgatory, dabbling in narrow use
+1:00
+cases without fully realizing the
+1:02
+transformative potential of this
+1:04
+technology. In today's episode, we'll
+1:06
+discuss the opportunities and the
+1:08
+challenges that Agentic AI presents and
+1:10
+how banks can navigate this new
+1:12
+landscape [music] to stay ahead of the
+1:13
+curve. I'd love to introduce my guests
+1:16
+of this episode. David Dennison is a
+1:18
+senior partner in Mckenzie's office in
+1:20
+New York and the global co-leader of the
+1:22
+banking operations practice for the
+1:23
+firm. David, welcome.
+1:25
+Hey Dafany, excited to be here.
+1:27
+And Abalash Sridan is a partner in
+1:30
+Mckenzie's Mumbai office and leads
+1:32
+service operations in Asia. Abilash, so
+1:34
+great you can be here.
+1:35
+Deafany, wonderful to talk to you.
+1:37
+Great. So let's launch straight in. Um
+1:40
+so you know we talked about the
+1:42
+intersection of banking and operations
+1:44
+and it being such an important place to
+1:46
+start thinking about Agentic AI. Um
+1:49
+David let me point this one to you
+1:51
+first. Why and where is Agentic AI going
+1:54
+to be so powerful?
+1:55
+That's a great question. Banks are one
+1:58
+of the most heavy users of what we call
+2:01
+service operations, right? It's people
+2:03
+delivering services to customers and AI
+2:07
+is well positioned to have a significant
+2:11
+impact in how the delivery of tasks and
+2:15
+services um is done for customers. um
+2:19
+different than you know traditional AI
+2:21
+or machine learning right um agentic AI
+2:26
+enables banks to not only run
+2:28
+deterministic workflows but also run um
+2:32
+analysis and tasks that are less
+2:34
+structured that are personalized and
+2:37
+that effectively happen only once uh and
+2:41
+therefore AI is very well positioned to
+2:43
+help banks on top of that if you look at
+2:45
+operations specifically after the techn
+2:48
+technology and engineering jobs is prime
+2:51
+for um for AI and agentic AI to be of of
+2:55
+help right we estimate that about
+2:58
+depending on the bank between you know
+3:00
+50 to 60% of the FTEES are in some shape
+3:04
+tied to um operations and the potential
+3:07
+that AI has in transforming how the work
+3:10
+gets done how the work gets delivered
+3:12
+and the services are delivered is
+3:14
+tremendous we have seen a number of
+3:16
+institutions based bas on our um you
+3:18
+know 2025 global banking report uh in
+3:22
+the banking space using AI. Uh still
+3:24
+very early you know to call it a win but
+3:27
+very promising results on the impact um
+3:30
+around speed around cost around quality
+3:33
+and ultimately around you know customer
+3:35
+experience.
+3:36
+So thanks David for that um intro. So
+3:39
+Abalash and now over to you. What is
+3:41
+making this landscape more complex for
+3:43
+banking leaders who are considering AI
+3:46
+transformation and why is it taking
+3:47
+longer than expected? What are you
+3:49
+hearing from clients?
+3:51
+That's a great question, Dafany. As is
+3:53
+the case with any new technology,
+3:55
+creating value from AI wouldn't be a
+3:58
+cakewalk and it's going to take its own
+4:01
+time. uh successful organizations will
+4:04
+need to rewire entire domains across
+4:09
+operations, frontline distribution,
+4:11
+technology, data science, risk
+4:13
+management with AI at the core of it and
+4:17
+supercharging the impact versus AIE
+4:20
+applications just being a hammer looking
+4:23
+for a nail, right? And in fact, it's
+4:25
+interesting you're asking this question
+4:27
+because uh there is a paradox here. The
+4:31
+impact of AI genai agentic AI
+4:35
+application in the sector has been
+4:37
+mixed. Nearly 80% of financial
+4:41
+institutions that we work with in Asia
+4:44
+report using some version of AIEL
+4:48
+applications for impact. But a similar
+4:50
+proportion globally report no
+4:53
+significant impact on their bottom line.
+4:56
+And there are a few challenges to
+4:59
+consider uh especially for financial
+5:02
+institutions. The first is AI
+5:04
+initiatives are driven within functional
+5:08
+and business silos with unclear linkage
+5:11
+to financial value. The second is
+5:14
+chasing impact from Gen AI alone which
+5:18
+has inherent limitations and it's
+5:20
+important to pair it up with a full
+5:23
+stack lens where you blend Gen AI with
+5:27
+aentic AI traditional AI automation and
+5:31
+digital applications to ensure that you
+5:34
+are maximizing value capture across all
+5:37
+of the different domains.
+5:40
+The third is deploying narrow use cases
+5:44
+and point solutions. It is very easy to
+5:47
+pick and choose the easiest possible
+5:49
+areas for you to go after. Building a
+5:52
+chatbot in a customer care. Building
+5:56
+knowledge management applications for
+5:58
+all of your employees. Building a fast
+6:01
+credit memo writer for a subset of the
+6:04
+businesses. And then you plateau right
+6:06
+after that. That's essentially where you
+6:10
+ty the impact from AI versus driving end
+6:14
+toend transformation of domains which
+6:16
+are businessbacked with AI being at the
+6:19
+center of it. The fourth is building LLM
+6:23
+applications like traditional analytics
+6:25
+model which limit the scope to generate
+6:28
+content and give decisions. The last one
+6:32
+is limited reuse of AI enabling
+6:34
+capabilities which result in poor ROI
+6:37
+and slower scale. It is important that
+6:41
+most financial institutions Amazonize
+6:44
+their ability to drive crosscutting
+6:46
+applications of AI capabilities across
+6:49
+the bank. the retail bank, the theme
+6:52
+bank, the mid-corporate institution and
+6:55
+institutional bank shouldn't build
+6:58
+standalone AI capabilities because the
+7:00
+ROI would then be off the roof.
+7:02
+Thanks Abilash, that is indeed an
+7:04
+extremely complex um arena of areas of
+7:08
+impact and all of these interlocking
+7:10
+areas. So David, let me come back to
+7:12
+you. you know what could a successful
+7:15
+agentic AI implementation look like for
+7:17
+banks and what is actually the impact
+7:19
+that is available
+7:21
+yeah no that's a great question and this
+7:24
+uh reminds me of the time of automation
+7:26
+and RPA you know that we went through
+7:29
+about a decade ago and our view is that
+7:34
+depending on the operations you know
+7:36
+journey or process right we we should
+7:38
+expect you know north of 40% 60% 70% of
+7:43
+capacity creation coming from AI. Uh but
+7:46
+that is only if a few conditions you
+7:48
+know fully happen. The biggest risk that
+7:51
+we have is actually what we call the
+7:54
+fingers and and toes problem, right?
+7:56
+Creating models and capabilities that
+7:59
+will only help automate a portion of
+8:01
+what you know individual contributors
+8:04
+do, right? Which is basically why um
+8:07
+automation and RPA failed in the past,
+8:09
+right? It was very difficult to automate
+8:11
+the the capabilities of a you know
+8:13
+frontline analyst. So in order to
+8:16
+capture that impact right and and how
+8:18
+that impact looks like um a few things
+8:21
+need to happen right this has to be a
+8:23
+priority for you know the top of the
+8:26
+house right uh we have seen a number of
+8:28
+our clients in the US where the CEOs are
+8:31
+the ones driving the agenda and are
+8:34
+holding accountable their teams uh
+8:37
+together right business technology
+8:39
+operations risk to deliver on this and
+8:43
+no single function or single or single
+8:45
+person will be able to drive this uh
+8:48
+across the enterprise. It has to be a
+8:50
+group of leaders committed with clear
+8:52
+targets and accountability. We expect
+8:54
+that as part of the impact the ability
+8:57
+for humans to do their work in and scale
+9:00
+it is going to increase. Right? So we
+9:01
+expect that roughly 20 to 30 agents will
+9:04
+be managed by a single person. Right?
+9:07
+And so think of it as you know an
+9:09
+individual contributor having a team of
+9:12
+20 to 30 colleagues right working
+9:15
+together with with them to uh to deliver
+9:18
+an outcome. We expect also that a lot of
+9:22
+the you know operations back office
+9:25
+functions right HR financial planning
+9:27
+and analysis uh and so on will get an
+9:31
+incredible boost out of this
+9:33
+capabilities and we're seeing that
+9:34
+actually happen faster today than than
+9:36
+other areas and the one that our clients
+9:39
+have been really interested about um at
+9:42
+least in the US given the regulatory
+9:44
+complexities has been around risk
+9:46
+management in the first line of defense
+9:48
+right so things like RC CSA control
+9:51
+management, documentation, model review
+9:54
+and so on are areas where there's a lot
+9:57
+of data gathering uh and you know simple
+10:02
+initial analysis that can help on one
+10:05
+hand free up a lot of time from the
+10:06
+front line to actually deliver to
+10:08
+customers and to increase the number of
+10:12
+cases and widgets that get reviewed and
+10:14
+finally increase the accuracy of the
+10:16
+review. So leaders in the organization
+10:19
+only spend time identifying the risks
+10:21
+and looking at the risks and making
+10:24
+decisions to mitigate them rather than
+10:27
+spending, you know, 80 or 90% of the
+10:29
+time collecting data to be able to have
+10:31
+those discussions.
+10:32
+Yeah, understood. Um, and so Ablash, you
+10:35
+know, what actions should leaders take
+10:38
+and start to think about to get started?
+10:41
+That's uh another great question,
+10:43
+Dafany. Look to drive AI/entic
+10:48
+AIEL transformation banks will need to
+10:51
+unlock five enterprisewide blocks that
+10:55
+are critical for a successful operations
+10:58
+transformation. It is critical for banks
+11:01
+to set a bold bankwide AI ops vision
+11:05
+which is linked to their strategy with
+11:08
+clear financial and operational outcomes
+11:12
+in terms of creating a competitive
+11:15
+distance. It needs to be very specific
+11:17
+and linked to businesses. The second is
+11:20
+to prioritize high-v value domains for
+11:22
+end-to-end transformations which are
+11:25
+particular to your bank in the context
+11:28
+of the region that you operate. For
+11:30
+example, in Asian markets, in specific
+11:33
+Asian markets, the cost of labor could
+11:36
+be cheaper. So therefore for you to
+11:38
+create full impact it has to be a
+11:41
+comprehensive offering across a
+11:43
+combination of operational efficiency,
+11:46
+risk and fraud effectiveness, better
+11:49
+customer experience, better employee
+11:51
+experience and a couple of other aspects
+11:53
+and finally this would of course have to
+11:55
+be supported by specific milestones
+11:58
+which link up to it. So that's in terms
+12:00
+of value alignment. So Abalash, you
+12:02
+know, as we kicked off this program, we
+12:04
+talked about a paradigm shift. You've
+12:06
+kind of set out the whole lay of the
+12:07
+land. It is indeed a paradigm shift that
+12:10
+we are talking about here for the for
+12:11
+the banking industry. Are we seeing the
+12:14
+aspiration and the vision already
+12:16
+articulated at the senior levels of
+12:18
+global banking? Are there bold movers
+12:21
+already or is there more that needs to
+12:23
+be accelerated? David, let me pitch that
+12:24
+to you.
+12:25
+I think it is very much happening,
+12:27
+right? If you see the earnings calls for
+12:29
+Q3 for the large, you know, US banks, AI
+12:33
+has a front and center role, right? I
+12:35
+think most CEOs have a view of the
+12:38
+impact of AI already. Many banks have a
+12:41
+plan and many others are already
+12:42
+executing, right? And, you know, there
+12:45
+have been, you know, news articles
+12:46
+about, uh, one of the trillionaire
+12:48
+banks, uh, and their strategy and how
+12:51
+they're driving change management. So,
+12:52
+this is very much happening. I think the
+12:55
+two potential you know limitations we
+12:57
+have is one that the technology is
+12:59
+moving too fast right so the vision is
+13:02
+there but the tools change very quickly
+13:06
+so that is giving a little bit of pause
+13:08
+to some of the institutions uh and the
+13:10
+other one is perceived lack of clarity
+13:13
+from on regulatory guidance right that
+13:16
+will potentially slow down or prevent
+13:19
+some of the you know capabilities to be
+13:21
+rolled out in in full until everybody's
+13:24
+is comfortable that that they
+13:25
+effectively work and that the quality is
+13:27
+good especially the ones that are
+13:28
+customerf facing
+13:29
+abilash is that also what you're seeing
+13:32
+so if I take an Asia lens uh I kind of
+13:35
+see a a wide spectrum as far as this is
+13:38
+concerned uh on the one extreme end and
+13:41
+I'm quoting this from the interview that
+13:43
+the CEO of DBS had with McKenzie a few
+13:46
+weeks ago where she called out that AI
+13:49
+is eating the world and the bank's
+13:52
+future is an AI I enabled organization
+13:55
+with a human heart. That's at one
+13:58
+extreme. And then as I traverse through
+14:01
+the colors of the rainbow, we then have
+14:04
+other sets of organizations where we see
+14:07
+the natural proclivity towards becoming
+14:10
+fast followers while focusing on three
+14:14
+to four key domains where they can help
+14:16
+establish conviction with the board or
+14:19
+the senior leadership. such as let's
+14:22
+first ensure that we have conviction and
+14:24
+then we really double down when we
+14:26
+pretty much see the entire industry
+14:28
+moving in that particular direction. And
+14:30
+then you of course have at the very back
+14:32
+end people who still are not really sure
+14:35
+if this is a technology which is perhaps
+14:37
+expected to catch up and scale and want
+14:40
+to buy time and some of the institutions
+14:42
+also have inherent challenges around
+14:45
+tech talent, tech infrastructure etc. So
+14:48
+it is a wide range that we end up
+14:50
+seeing.
+14:51
+Thanks Avalash. Um you talked about the
+14:53
+important role obviously of the CEO to
+14:56
+set the vision. Um David, I wanted to
+14:58
+ask you to come in here to talk a bit
+15:00
+more about the collaboration that we
+15:02
+must see between the CIO and the COO to
+15:06
+bring all of these strands together.
+15:08
+Yeah, thank you Dafany. I think it's a
+15:09
+very interesting question because it's
+15:12
+not only the CIO, it's not only the COO,
+15:16
+right? But there are other CXOs that
+15:18
+have to be involved, right? In our view,
+15:20
+the the main um
+15:24
+goal that the CIO has in all of this is
+15:27
+to build the right infrastructure and
+15:30
+enable the right capabilities for the
+15:32
+organization to leverage. Right? So the
+15:34
+stacking of the LLMs creating ontology
+15:37
+layers uh and providing access to the
+15:40
+different tools and capabilities for the
+15:41
+businesses and functions to build upon.
+15:44
+The second role and person that is
+15:46
+critical in all of this is you know the
+15:48
+chief risk officer and the risk
+15:49
+organization right as you know banks
+15:52
+need to go through model risk management
+15:53
+right every model that is used at a bank
+15:55
+needs to be uh documented reviewed and
+15:59
+approved by the model uh risk management
+16:02
+committee. So therefore having a clear
+16:05
+operating model with risk where they
+16:07
+understand the risks coming from AI and
+16:09
+they can move quickly to approve
+16:12
+different AI and agentic AI models that
+16:14
+are coming through from operations but
+16:16
+also from other areas is going to be
+16:18
+critical in all of this. And then our
+16:20
+view on the role of the COO is basically
+16:23
+work with you know others uh by setting
+16:26
+the agenda for the operations
+16:28
+organization figuring out which domains
+16:31
+need to be transformed first right where
+16:33
+does it make sense to transform the
+16:35
+domains and what is the experience that
+16:38
+you know could be or should be delivered
+16:40
+through operations leveraging the tools
+16:42
+that the CIOS have put in [snorts] place
+16:45
+leveraging the risk guard rails that the
+16:48
+risk organizations have put in place
+16:50
+working with HR to make sure that the
+16:52
+right capability building and the right
+16:54
+you know people capability exist to work
+16:57
+with AI and so on. So it's it's not a
+16:59
+oneperson task, right? The the
+17:01
+leadership of the banks have to work
+17:02
+together to be able to deliver AI impact
+17:05
+and operations.
+17:06
+Abilash, what is your perspective on
+17:08
+that?
+17:08
+I think David summarized it uh very well
+17:11
+and uh from what we're seeing in Asia,
+17:14
+three components on this one, right? The
+17:17
+first one is the combination of the COO
+17:20
+and the CTO working as a two in a box is
+17:24
+super critical with the COO identifying
+17:28
+which are the top 10 processes across
+17:31
+the domains that we would have to go
+17:33
+after first to drive measurable
+17:35
+operational impact. And for example, at
+17:39
+one of the Asian banks, we recently took
+17:42
+the bank in a box and broke the full
+17:45
+bank's operations down into about 600
+17:48
+processes and subprocesses across a
+17:51
+combination of businesses and value
+17:53
+chains. And then the COO's team
+17:56
+identified what are the top 10 processes
+17:59
+which would give them the highest bang
+18:00
+for the buck. and the CTO or the CIO and
+18:04
+her or his team essentially ensure that
+18:07
+they have all the right data platform
+18:10
+the ML pipeline and governance in place
+18:12
+in order to support it. Right? The
+18:14
+second area where the CTO also expands
+18:18
+further is ensuring that uh you know for
+18:21
+mobile first customers uh you're able to
+18:24
+translate a lot of the the use cases and
+18:27
+the associated impact across all the
+18:30
+different channels through which you end
+18:32
+up reaching the customer from the time
+18:34
+of onboarding to the time of acquisition
+18:36
+and eventually at the time of servicing
+18:38
+and uh renewal as far as clients are
+18:40
+concerned. Uh the third part is on the
+18:44
+uh the the the governance risk and
+18:46
+scaling which David talked about and
+18:48
+which is where I think the partnership
+18:50
+with the risk compliance team becomes
+18:52
+very critical and so the three of them
+18:55
+the tripartite combination would have to
+18:57
+come in place for this to be a success.
+18:58
+And that really leads me to the last
+19:00
+question, which is when you've got that
+19:02
+handshake between the senior leaders,
+19:05
+you know, what what kind of tactics and
+19:07
+and and and programs should they be
+19:09
+putting in place to bring the whole
+19:10
+workforce along with them? David, what
+19:12
+have you seen so far that works quite
+19:14
+nicely there?
+19:15
+It is not necessarily different than,
+19:17
+you know, your big transformation change
+19:19
+management approach. Derek Waldrum from
+19:21
+JP Morgan Chase uh spoke to our uh
+19:24
+colleague Kevin Buer a few weeks ago and
+19:26
+there's an article about this. Um you
+19:29
+know they have used a number of
+19:31
+different levers to make sure that uh
+19:34
+the employees are understanding an AI
+19:36
+and adopting it. So for example lots of
+19:39
+marketing making sure that everybody is
+19:41
+aware of the capabilities that exist and
+19:42
+where to find them. a set of I would
+19:45
+call like metrics right or loose metrics
+19:47
+not tracking individual usage right but
+19:50
+tracking usage of tools and capabilities
+19:52
+that can give an idea of what is more
+19:54
+more helpful and where to continue
+19:56
+developing versus not and finally
+19:59
+providing um a lot of training both to
+20:03
+you know senior leaders and mid-level
+20:05
+leaders to understand how to uh engage
+20:08
+AI how to encourage their uh front line
+20:12
+to use AI but then for the front line
+20:13
+themselves uh to understand how AI can
+20:16
+help them on their day-to-day uh and how
+20:18
+to manage AI responsibly which is very
+20:20
+important in a banking regulated
+20:22
+environment.
+20:23
+I think David nailed that that answer
+20:25
+and I was recently having uh dinner with
+20:28
+a COO and a CTO of a large Asian bank
+20:31
+and they had uh given a really memorable
+20:34
+analogy. They said look AI is not the
+20:37
+pilot replacing the crew. It is the new
+20:40
+engine that makes the aircraft go
+20:43
+farther and faster with the same team on
+20:46
+board. And the sooner you can get your
+20:49
+employees to realize the truth, you're
+20:51
+able to really get AI into the
+20:53
+bloodstream of the bank, right? And I uh
+20:56
+really thought uh that captured the
+20:58
+essence of how to democratize AI in a
+21:01
+bank. And uh also using this as a plug
+21:04
+to call out that David, myself and a few
+21:07
+of our colleagues are about to launch a
+21:10
+report on AI enabled operations
+21:13
+transformation in Asia which is about to
+21:15
+come out very soon. So please uh read
+21:18
+that and uh it has a lot of details
+21:19
+underneath it.
+21:20
+Fantastic. So clearly a lot of shifting
+21:23
+um platforms um a lot of things
+21:26
+happening. The door is open for banking
+21:28
+leaders to see value from Aentic AI. Um,
+21:31
+but to truly capture value, leaders need
+21:33
+to move fast and cautiously at the same
+21:36
+time is what I'm hearing you say. Um,
+21:38
+thank you for joining me today,
+21:39
+Abalashian David. Um, interesting to see
+21:41
+we are really in an interesting moment
+21:43
+in time. I would love to invite you back
+21:46
+maybe in six months, maybe in 12 months
+21:48
+to kind of talk about how all of these
+21:50
+different areas have advanced. Um, thank
+21:53
+you for joining me David.
+21:54
+Thank you very much Dafany and Abilash.
+21:55
+It was great to chat with you today.
+21:57
+Thanks Abalash as well.
+21:59
+Thank you Dafany. Thank you David.
+22:01
+You've been listening to Mackenzie talks
+22:03
+operations with me Daffhne Luxembourg.
+22:05
+If you like what you heard, subscribe
+22:07
+and stay tuned. Another great episode
+22:09
+starts now.
+

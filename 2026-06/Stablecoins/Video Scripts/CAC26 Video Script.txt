@@ -1,0 +1,831 @@
+Transcript
+
+
+Search in video
+0:01
+Thank you very much. Uh um crypto asset conference OGs. Um I'm an Frankfurt
+0:07
+school OG myself. I graduated in 2023 with a masters in management. Actually in this room was one of my lecture
+0:14
+rooms. So very sentimental day for me today and very happy to see it as full as during my lectures introduction to
+0:20
+finance operations strategy and all of the classes that I had during my time. um welcome to this panel um on the uh
+0:27
+next phase of capital markets with uh crypto and um I know there are a couple
+0:32
+of ogs on this panel but let's do one quick intro round and I know 45 minutes for the jam-packed agenda that we set
+0:39
+all ourselves today could be pretty short so maybe one sentence about you and what you work on maybe we'll yeah
+0:47
+stop okay
+0:54
+hi Hey, my name is Michael. Uh, I'm CEO and founder of 360X. Before that, I used to run um the R&D unit and venture
+1:02
+capital arm of Commerce Bank and we're basically part of Doza group tokenization uh sorry training of
+1:08
+tokenized securities all instrument uh recently partnered with Kraken and with
+1:13
+ONO. Yeah, thank you. So Dolph Dixon is my
+1:18
+name. I'm the co-founder and and CEO of Hive. And with Hive, we offer digital
+1:24
+asset trading to banks and brokers mainly in B2B T2C setups. Um, and we're
+1:29
+now about to move into tokenized securities.
+1:35
+Hey, Ben Duvet. I uh I'm the global head of partnerships for GK8 by Galaxy.
+1:40
+Galaxy Digital's cryptocustody solution. Bulma also Commerce Bank worked a lot with with Mikuel there as head of custo
+1:48
+head of digital assets BNY and the ECB as some of the institutional track
+1:54
+record. So not a real OG I would call in the in my crypto company. I'm not an OG for sure.
+2:01
+Thanks Thomas uh from Trevor. I am the CCO at Trevor. We provide the digital
+2:07
+asset operating infrastructure for banks and brokers. So basically every single bank who would like to offer any kind of
+2:14
+digital asset based use case would need the functionality in the background and
+2:20
+also the connections to the players they need from the ecosystem. Personally I have a financial background started with
+2:25
+commerce bank then spent many years in consulting banks before I joined crypto
+2:30
+and digital assets in 2018 2019 and I was so overwhelmed about my master
+2:37
+management that I forgot to introduce myself. I'm the head of business development at EOTA. This was founded by
+2:42
+Philip Zander actually three years ago. We care about tokenization of CO2 credits, CAM credits. Um Ben, I mean I
+2:49
+saw your LinkedIn post I think 1 hour, one and a half hour today um ago and I was a little late. Yeah.
+2:55
+Yeah. Yeah. And I saw pointing it out that both of you worked at Kumatunk and
+3:00
+um how was it again? you you uh put the first digit uh tokenization of a bond or
+3:07
+what was the project that you both worked on at commercial? It was that yes and it was 2017. Um and
+3:13
+I have to say that it's Michael is one of the good reasons why I was able to do a lot of the DT stuff because he had the
+3:20
+he had the lab as he described from Commerce Bank but he didn't have a license. So we're a little bit
+3:25
+codependent and he needed a custody accounts and and real securities and on
+3:31
+the other hand he did a lot of the very interesting very early tokenization pieces. I think probably even globally
+3:37
+one of the first regulated um um um dematerialization of of securities in
+3:44
+this case debt um back in those days. So I think it's a very interesting it was a very interesting time very long ago
+3:50
+right 2017 I think also this I was here the same year Philip invited me over and
+3:57
+I gave a a speech about putting um corporate actions on a blockchain to
+4:04
+have a global registry for corporate actions. So that's that's how long um
+4:09
+I'm in that field. But in my crypto company if you didn't touch crypto which we didn't um you're not an OG. But uh
+4:16
+maybe fast forwarding nine years now um and this is my first question that I have for the panel. Um what would you
+4:22
+say? I think two panels earlier we listened or we heard about the big convergence so using tokenization or
+4:29
+tokenization being integrated into treadfi. I'm interested do you see a big conversion happening uh uh or do you see
+4:37
+treadfi or defy uh actually winning um winner tech in a winner takes all market where let me word this uh provocatively.
+4:45
+Do we see a colonization of DeFi methods by Treadfire?
+4:54
+Yeah, I think you know a few things have changed recently. I think that the tech
+4:59
+is now there. The legal frameworks are there. I think what existing players are still struggling with at many times is
+5:04
+that they have an existing infrastructure that works quite well. I mean there's a lot of business flowing through the the existing so-called
+5:10
+legacy systems that um and and the question is what's the the use case and what's the need now to change and to
+5:16
+adapt and I think one of the big challenges is then then if a traditional player adopts the new tokenized um
+5:23
+securities rails that they still keep the cost for the existing infrastructure and they have additional cost that may
+5:28
+be a lot cheaper but comes on top to what they have and that's I think um um a bit of a challenge that existing
+5:34
+players are seeing And in addition to this you it's also a chicken of an egg and an egg neck problem. So the question is like sort of are your clients already
+5:42
+ready and are your suppliers ready and what is the part that you're playing in the ecosystem and um so if you make the
+5:48
+change in the leap the question is sort of do your partners do as well and that to coordinate this I think is the is the
+5:53
+core challenge but we what we see in the market is that it's it's rapidly changing and there's a lot of movement now happening over the past couple of
+5:59
+months. Yeah, I think the the framing is tricky,
+6:04
+right? Because it's the two two parts to this. What is this the intermediate
+6:11
+version of it? So, do defy and traditional finance compete and I would
+6:16
+also say that do they compete on fees, client attention, retail adoption and
+6:22
+those topics, right? That's one and then the second question is what will be the ultimate outcome? Will the conversions
+6:28
+be then later and if and when that's the question I would frame it because right
+6:34
+now there is a certain there's a certain type of competition because if a client
+6:40
+a retail client makes a investment decision he goes and decides I want to
+6:45
+invest in XY Z for uh for a return and he has a choice of traditional and
+6:53
+now define other means depending on his risk appetite to make that investment decisions and the more people are
+6:59
+willing to invest in crypto and less regulated maybe and more DeFi um DeFi
+7:06
+akin uh instruments and and materials. They will then compete. So that then
+7:12
+directly competes with the revenue streams and the business of the more strap established traditional players
+7:18
+who offer you investment opportunities. While in the long run it could be do these converge which seems like it and
+7:25
+you see some of the large players here. I mean Mik works and can comment on he works from for one of the largest
+7:31
+exchange and CSD groups in in the world right. So um I think ultimately could
+7:37
+they all converge into one ecosystem where they all use a same kind of
+7:42
+technology and then don't take compete anymore based on the technology because it's DeFi and tokenization versus more
+7:48
+traditional security settlement systems and ways to move money but do they then compete on the same technology stack for
+7:56
+that investment and then it's more a competition on service on service offering on investment opportunities and
+8:01
+not on technology anymore. So it could be I think we could in 10 years not be discussing the technology anymore
+8:07
+because it's the plumbing of all of the investment uh decisions and opportunities out there.
+8:14
+And Thomas in our prep call um I think you mentioned that the settlement for the assets is onchain but the payment
+8:20
+ultimately is seted via zipper payment right now. I mean that that's a situation that we face today right we
+8:27
+have two different uh yeah I would say streams one is the asset stream which is
+8:32
+uh for crypto for example on chain of course but uh if you are a traditional
+8:37
+institution going into that space have a maybe crypto offering for your clients then you in in the settlement part
+8:43
+there's still the digital payment piece somehow missing because uh I mean we are discussing right now different solutions
+8:50
+for the digital payments it's stable coins might be CBDC, CBMT and different forms
+8:55
+of solutions. So we still have a fiat payment typically on the on the fiat
+9:01
+side on the payment side cash side which is of course a kind of asynchronous uh
+9:06
+way to settle those digital asset uh yeah transactions and is still a
+9:13
+challenge. But um coming back to your question of the tokenization I would say
+9:19
+what we see is uh three waves of evolvement I would say the first one was the crypto market which we've seen like
+9:25
+several years ago and it's quite liquid today and working the second one would be all the digital payments as I
+9:32
+mentioned right now and the third piece then is the tokenization and all those parts play together to have a real
+9:38
+onchain settlement and to really realize the advantages from uh tokenizing the
+9:44
+assets and having having them on chain and being able to trade them on chain and there's the point like u also Ben
+9:51
+said where we have uh the discussion of convergence because uh if you are a traditional player and looking at those
+9:58
+different streams and would like to go into this direction of digital assets then you somehow have to answer the
+10:03
+question how to do this from a technical perspective how do do you integrate the
+10:09
+defy stream which comes with a challenge that this is a kind of unregulated space where you have to find a solution to
+10:14
+connect to or do you build maybe something as an incumbent yourself and provide it to the financial services
+10:20
+industry and uh I'm not sure what will be in the end I mean the final solution I think
+10:27
+there will be a convergence more and more in in the coming years you want to answer something or okay um
+10:36
+between well it's not only about Trefy and DeFi I'd say it's also like a comp
+10:41
+competition of the global regions that we have with Mika life in the EU with Trump maybe as like a crypto positive
+10:48
+let's say president with the UAE and also Singapore al very liberate already
+10:55
+um what would you say what is the region global region zooming out the global region most poised to provide the
+11:02
+restrictional framework for integrating D5 into capital markets most bullish on
+11:09
+most bullish region Um, Europe is dead. That's my
+11:15
+conclusion. Everything has to go through America. DTCC takes it all. But we still
+11:21
+have investors in Europe. We still have people who will make decisions on
+11:27
+tokenized securities. They don't know if it's tokenized or not. But running the numbers, you see that in in the US, they
+11:35
+are tokenizing by the end of this year on Canon, but that's just an interim stage. they will do it all in public um
+11:42
+going forward. Secondly, all the ADRs are also tokenized. Who's not familiar?
+11:48
+There's basically a way to sell product to the U US investors. So, we looked up
+11:54
+how many of the DUX companies do have an ADR program, 100%. How many of the MDX
+11:59
+96%. How many of the Euro stock 600? 97%.
+12:05
+The connectivity to a CSD is very expensive. It doesn't it's not not a
+12:10
+question that clear or euro clear or DTC6 it's just an expensive effort to connect and they're going to connect it
+12:17
+only once they're going to connect it to one who has the most product because Europe failed to actually get something
+12:24
+standardized was a great idea by lawyers was a great idea by regulators but no one cares no
+12:32
+one cares and I was one who hold the pen on the EVP when we talked about the first transaction in 2017 and even
+12:40
+before. So all that regulators will have to do is look at after a windown of
+12:47
+their regulated entities that you currently have but there will be of course tokenized securities and will be
+12:53
+buying that but the FMI will be based in the US. So Europe is that uh you conference in a
+13:00
+European uh city and also three business leader in Europe. Uh do you share the same view? Well, I um I like how how
+13:08
+it's phrased uh Michael because I think there's some truth to it, right? That the threat actually is there. There
+13:13
+always has been, right? You have to see that there is already an international market, the ICSD market in Europe, which
+13:20
+DTCC always tried to get. So there is already a market where people connect in Europe to invest in Euro denominated
+13:28
+debt globally and it's issued globally. So it's not only Europeans who use that that one. DTC always tried to get that
+13:35
+and didn't. But if you translate that into the more digital world, it's a new
+13:40
+opportunity for USbased infrastructure which
+13:46
+actually have the US liquid capital markets liquidity pool which is the deepest that exists to expand into other
+13:53
+regions of the world. Right. And the question then is and and I see some here does an infrastructure in Europe an FMI
+14:00
+decide to be a let's say a dumb repository of the asset because it's
+14:07
+issued there feeds into a DTCC type or American type infrastructure that then
+14:13
+globally connects issuers and investors. So that's the threat, right? Or does
+14:21
+Europe get its act together and we can debate if it's too late or not, right?
+14:27
+Get its act together and create a competing ecosystem where exactly like
+14:32
+Michael described there's one way in but then you have access to all of Europe
+14:38
+and that's actually then called a European capital market. Right? So I think the the threat is that we have we
+14:45
+had advanced regulation and I think we still do have it. Execution in Europe
+14:51
+lacks behind the US always and now comes the the other uh difficulty the moment
+14:57
+the US moves and regulation changes. they have the money, the capital and a
+15:02
+different entrepreneurial spirit to really just build, right? And that changes everything because the moment a
+15:08
+US regulator says go, it takes like one planning cycle, which always happens in the fall for the big companies, right?
+15:16
+And then the next year they actually execute with sums of money we in Europe
+15:22
+would never take because we don't take that risk, right? So I think the threat is real. Um, I think there are potential
+15:28
+answers to it, but it's a painful exercise to go through to really get to that truly competitive state. Otherwise,
+15:35
+I agree there's a lot to lose. And not to be that pessimistic, the pure the
+15:42
+European capital market is already run by uh US institutions, right? So, I
+15:47
+worked at the largest uh issuing and paying agent in in the world, right? Most of capital is allocated through
+15:53
+American banks. Um, right? a lot of uh M&A activity. All of that is organized and orchestrated. So I don't think we
+16:00
+lose that much. It's we might lose that FMI angle, but I think there's an opportunity to gain more as Europe and
+16:06
+more independence as well. I think that's the thing to focus on. Don't get me wrong, we still have SH
+16:12
+China and London shut. Both of the others perspective on Europe
+16:18
+speed. Yeah, I think somehow we have the tendency to to see things negatively on
+16:24
+on on on this side of the Atlantic a lot of times and um um to be honest, I would I would never give up and and surely not
+16:30
+without a fight. So um I think we have a few things that that are um quite positive in Europe as well. We have now
+16:37
+mikar regulation that's panuropean regulation for the first time. same rules across all EU member states which
+16:44
+is a first and and um you know in for new types of assets and regulation in
+16:50
+that sense I think it's also become pretty apparent that a dependence on the US has downsides and and what we see um
+16:58
+with with many activities for example I mean we we have this DORA regulation everybody hates the DOA regulation but
+17:03
+now what you do is you you look through all of your IT providers and think okay well which dependencies do I have here
+17:08
+and do I have any kind of alternative if need be. So I think there's a little bit of a um you know a new self-confidence
+17:16
+in the in the case or in the in the sense that there may be a time where you can fully depend on on the US as as a
+17:24
+stable partner and that we have seen everywhere you know pan out in in the sense there where you at least try to
+17:29
+build some resilience and try to you know have a European identity and that um that to be honest gives me a lot of
+17:35
+hope. So you invest based on identity or where
+17:40
+you make money right and that's then the decision right I think there's a lot I
+17:45
+understand the spirit but when people make investment decision they look at the risk and risk profile and the reward
+17:52
+profile if there is a platform which gives you superior liquidity right so
+17:58
+you can exit a position and gives you same or better returns you will use and
+18:05
+invest in that platform as an issuer you go to the platform which creates to you
+18:10
+the biggest or has the deepest liquidity pool plus the legal frameworks that work
+18:16
+for you. Right? So I think I fully agree and actually I'm pro Europe. I think there will I think we still have um um
+18:23
+opportunities but we have to really get our act together and move faster. ECB I think makes a very nice um um
+18:30
+proposition for the industry to actually save itself and and avoid the the the uh
+18:37
+the downfall uh Michael described there. But I think ultimately it comes down to
+18:42
+you as investor go where you have the best bang for the buck and as an issue
+18:47
+is where you can get the most amount of money at the lowest rate or price. Yeah, I fully agree with you. Obviously
+18:54
+like you know pricing and cost is you know a key key factor in in making decisions but I think there's what what
+18:59
+has happened is is a reassessment of risk and to be honest I and of course if
+19:04
+you if you have the deepest liquidity pool that's where you try to to move your money and that's why where you try to execute your trades but but I would a
+19:11
+lot of it is connected to um the US dollar's dominance as well and that's also big question so why do trade
+19:18
+between Asia and Europe why does that have to go through New York you know that's just there's and and a few
+19:24
+questions are asked now and um let's see how it plays out. But I think there has been a a reassessment of of multiple
+19:31
+types of risks now. So a couple couple of comments. First, resilience to me means trying to go back
+19:38
+to something you had before. So it's not something actually you want to do because you need to predict what the
+19:44
+future and innovation brings. So resilience does not help you. It only brings you back to what you had before
+19:49
+the crisis. Not a very good idea. Secondly, if what I believe there will
+19:55
+be TW the only reason we're doing at the moment tokenization is because of 24/7 trading. This the only reason the
+20:02
+traditional uh technologies will catch up on that and eventually some of the
+20:08
+institutional people will understand that they may have to work past 4:00 on a Friday maybe. But this is what's going
+20:15
+to happen because at the moment you see real opportunities in these eventdriven
+20:20
+markets where attacks and so on that are terrible but happen on the weekend
+20:26
+outside business hours. This is when you want to trade your position. This is why you want to really be able to support
+20:32
+your your entire portfolio and to trade it 24/7. So that's the only reason you're doing it. There will be other
+20:39
+things going forward but we are not there yet. there will be a hybrid market and that's kind of the only good news.
+20:45
+It still takes 25 years at least until things go really tokenized. So we still
+20:51
+have a lot of the people that will use the traditional hybrid world and that's good for the incumbents. That's good for
+20:57
+you know everyone. So it will stay not as radical. But the new seismic shift
+21:02
+like how will we going forward trade on uh AIdriven agentic trading is one of
+21:10
+the major things we're currently investing in is a how do I allow people and I was at the generation when we had
+21:16
+I was once head of electronic trading people don't understand that at nowadays but it was allowing machine to machine
+21:23
+this is when fix was created originally we had needed to have standard languages between computers to have orders And we
+21:30
+need the same thing now for having agentic trading among each other. And
+21:35
+the whole thing about bilateral, multilateral and so on has no relevance anymore in the space of AI trading.
+21:43
+Ju just maybe to to add a few words on this because I think both uh aspects are really important. On the one hand the
+21:50
+risk uh view of things but on the other hand the I mean the use case and the added value perspective. So coming from
+21:56
+the risk side of course uh regulatory clarity is is a good thing because then you can be sure as an investor what is
+22:03
+the regulatory frame you invest in but to be honest I mean in Europe we had
+22:08
+this advantage of my car and other local regulations a bit fragmented but but
+22:13
+anyway it was there but the other regions of the world are not sleeping I mean they they also come with regulatory
+22:19
+clarity with solutions for this so it's not in my point of view not really an an
+22:25
+European main advantage anymore com compared to the other regions. What is
+22:30
+really important I think is uh clarity on the use case side. So what is the real use case where you can add have
+22:37
+added value by tokenizing anything and make it tradable in a tokenized way and
+22:42
+that's the point where we are still I mean seeing many activities in the market of players elaborating this point
+22:49
+and and looking for the first real use case and as Michael said 24/7 is one of those points I think for for making
+22:56
+those uh assets tradable and available but uh then the next question is how
+23:01
+long does the execution take and Here I see the other regions to be honest moving really fast. The US is I mean at
+23:09
+full speed and also Asia is not sleeping is is also quite fast and this is the
+23:15
+point where I see okay we have to take care in Europe that we will not be the the latest I mean too late to less again
+23:23
+to to get this on the road and really realize the advantages you see here.
+23:30
+I think there's also different perspective right if you look at the perspective of right now except for
+23:36
+having an FMI in each country very limited of the capital market stack is
+23:41
+European driven right if we're honest all key players are non-European all
+23:46
+liquidity formation is non-European all of that so I think there's also something to gain right from that
+23:53
+perspective not only to lose um so I think that's a framing on the other hand I see the threat when when Michael or
+24:00
+you described it if uh the euro piece right the moment an additional currency is added to a legal entity of the DTCC
+24:08
+in in Europe which I think they also um could easily get right then they have
+24:13
+euro on the same platform so then also that competitive advantage is gone. I think the piece to see is right now
+24:19
+investors from Asia from other countries invest into the ICSD in Europe in Europe. So I understand the
+24:27
+diversification opportunity there. The moment the DTC would allow a different
+24:32
+currency also that competitive advantage could be gone. But again historically they have not been able to capture that
+24:38
+type of market yet. So I think that's that's something to keep in mind. I think the tokenization use case is very
+24:45
+clear right how to cheaper faster easier move things. The problem we had in Europe is everybody built their own
+24:51
+little piece and then we come back to the investor who invests or issues into an environment where there's less
+24:58
+liquidity, right? And where there are less there's just less of everything and it might not
+25:06
+even be cheaper because it's doesn't scale yet, right? Then I think building a uh that is is the key and the most
+25:14
+difficult one and we have failed at that because we didn't get the select payment schemes. We haven't managed to have a
+25:20
+whole European payment scheme um and we don't have a integrated capital market. Those are the challenges and that's why
+25:27
+it doesn't succeed yet or can succeed because nobody wants less liquidity.
+25:33
+So now I need with less than 18 minutes to go I need to switch on a more positive tone otherwise people will kind
+25:39
+of no not come anymore next year. Um so I think first of all you know uh we see
+25:45
+some efforts on the because historically payment has been run by Bundes Bank technically and security has been run by
+25:52
+H1 thanks to Emila. So uh on Kascata and people are trying to innovate on that
+25:58
+basis but with the advent of some of the stable coin issuers like Stefano and his
+26:04
+team from Zchen you know this is real opportunity for change having it on the same platform they could just as well do
+26:10
+normal payment they don't need a blockchain for that so just having if bundas one would start settling
+26:16
+securities it's the same thing maybe they don't want that but I think you know there there are some innovations
+26:21
+also happening there so it's not just all fiat but there are innovations
+26:27
+coming on the stable coin side by some of the Franks uh France but also some of
+26:32
+the German entities uh I think Alexa is also here today um and one of the things
+26:40
+uh it was mentioned that Mr. Trump, President Trump is so positive um on on
+26:45
+crypto. Um let's hope he never visits Amsterdam because if you want to do
+26:51
+yourself a favor, everything related to crypto is only happening in Amsterdam.
+26:57
+Really, really massive. It will be even bigger for him than Greenland. So I really think if you want to have
+27:03
+yourself a favor, travel to Amsterdam, try to see two or three of the players there. This is where real innovation
+27:09
+2026 is happening in Europe when it comes to tokenization.
+27:14
+Okay, Tom traveling to Amsterdam. The positive note that you wanted to end on. Okay. Uh that's where the liquidity sits by the
+27:20
+way. Right. Amsterdam is where the liquidity the onore liquidity in Europe sits. So you already see that connectivity right there.
+27:27
+Um this you see this metal this panel doesn't need a moderator. Um I'm pretty
+27:33
+uh pretty happy about that. Um but since you mentioned the 18 minutes uh Michael we wanted to open up the panel to
+27:39
+questions from the audience. I have some questions in my book if there are no questions from the audience but we would love to discuss about your questions. Um
+27:47
+if there are any in the last uh third that we have of our panel um are there
+27:53
+any questions and I will come with the microphone. Yep. Uh hand you the microphone and you can ask your
+27:59
+questions. Great. Thank you. That was a that was a very lively panel. really enjoyed
+28:05
+listening to all of you guys. Um I wanted to ask one question. You know, we talked a little bit about uh
+28:10
+tokenization and potential convergence as well. You know, kind of flowing in from the previous panel. So, let me ask
+28:16
+you this. What do you think comes first or would which one do you think will come first? Will a stock exchange buy a
+28:21
+crypto exchange or will a crypto exchange acquire a stock exchange?
+28:31
+There's no difference. There is no difference between a stock exchange and crypto exchange. It's an exchange. Just
+28:37
+how many products do you trade? So you're going to see Kraken or
+28:42
+uh some of the others trade equity in a tokenized and non-tokenized form and you see Deutsche Bersa trade from a trading
+28:50
+class. You know all my comments on DTC was related to CSDS on the trading side totally different. They will also you
+28:56
+already today 3DX I think one of the sponsors is trading crypto. So Deutsche B is so what is the difference to me is
+29:03
+then just at the moment valuations of US exchanges are higher than European ones
+29:09
+and that is due to many factors but yeah I it's not a question who will buy who.
+29:15
+It's just Americans are higher and it's not about crypto or non-crypto. It's the same. It's you got the client on but you see
+29:22
+that already now, right? You got the client onboarded and you just offer them an increased range of products. On the
+29:29
+institutional side, same thing, right? You have an institution on boarded on your exchange. As MK pointed out, even
+29:35
+exchange connection costs money, right? Why not leverage that connectivity and that client relationship, credits
+29:41
+assigned and so on for other products? And the same goes on the on the on the crypto side. Almost every and I I now
+29:48
+one year travel to I think almost every major crypto conference. Everybody wants to see new products come online and the
+29:57
+new products are the traditional products they don't cover yet. So they want they have you KYC right? They have
+30:03
+a way for you to fund the account. They want you to not only buy crypto but also to buy everything else. So I don't think
+30:09
+it's really about buying. It's the it's more about the expansion of the product suit as as Michael pointed out and the
+30:16
+ability to serve to get as much of the wallet of a that a client has available
+30:23
+for exchange trading. I mean we at the moment are already kind of on ramping prediction markets. So you
+30:30
+know you have to think what is happening next year. So I prepared my speech for two years from now.
+30:36
+Yeah. Maybe one one thing to add while I not disagree and and I think that really it's um an exchange is an exchange and
+30:42
+the products that they're trading um they they will expand and and basically everybody will try to offer everything.
+30:47
+I think what what is fundamentally different is um sort of the the culture
+30:53
+the legacy technology the software stacks that they're using and there I'm most perplexed by um the new AI tools
+31:01
+and especially sort of what has been happening over the past 3 months 6 months um and and basically if you look
+31:06
+at a bank or an exchange it's sort of you know the the big expenses are are three-fold is number one is everything
+31:12
+regulatory related and the paperwork and fulfilling regulation the second one is basically paying for data and and sort
+31:19
+of and and and these connections and and connectivity. Um and and the third one is basically to you know the people to
+31:25
+run these things. And now with the AI tools you um suddenly have the
+31:31
+opportunity to you know rebuild things from scratch much quicker and much cheaper. So the cost of software is
+31:37
+basically zero. So if you have the regulation already um you know now every time you you pick a new software one day
+31:43
+you really look okay do I need to to buy this expensive software for compliance reasons or um is there a way to to get a
+31:50
+cheaper solution or to have an in or homegrown solution much much cheaper and much more effectively and I think they
+31:57
+will massively drive down the cost um for regulated players and there I think if you start fresh if you you know have
+32:03
+a a relatively new um base that is that is cheaper by definition and then one of the legacy players there is a cost
+32:10
+difference and in the end we learned cost matters no so how where do you get the cheapest offering and there I think
+32:17
+the the world is about to change massively what are your other questions from the
+32:22
+audience a question for you no joking um what
+32:28
+about the German dimension um we will never be most likely and and Michael's
+32:33
+comment pointed in the direction the leading financial market of the world. What will crypto bring us in Germany?
+32:40
+Will it be a Dutchland Agi 2.0 or where do you see special implications of tech
+32:45
+innovation for Germany? Investors will be able to utilize
+32:53
+directly products that so far were privileged only for institutionals. So it will be good for the people
+33:00
+just the infrastructure is not run by European companies and definitely not by German companies.
+33:07
+for a German player. I just want to make sure you you remember. Yeah. Also, um that is to me it's still
+33:15
+a bit annoying. So, we we built our company. We then got um sort of a crypto licenses. we got my license or my miff
+33:22
+license in Germany and sort of to see how fragmented Europe still is and and how much focus there is on on Germany
+33:29
+only and and how hard it is also to sell to a um company in a different EU member
+33:34
+state and and that drives me nuts. I think that's really where we're shooting ourselves in the foot and um and there's
+33:40
+so many things that still need to be harmonized. I think you know gears are turning and and and people have this
+33:46
+vision and work on this but the pace I think needs to be much faster and then I think the question is less about okay
+33:51
+what's Germany's position but how can we compete on a European level and and and leverage the scale
+33:59
+other questions from the audience
+34:04
+otherwise I'd ask you um we talked about benefits so 247 or 245 um what do you
+34:10
+think of stable coins is this the kickass tokenization solution that will drive the adoption
+34:16
+among institutions. It depends where you sit, right? If
+34:23
+you're an American company, yes, because you don't have an alternative, right? There's no CBDC by u um presidential um
+34:33
+directions to to use or to work on, right? But then if you're European,
+34:39
+there there is already alternatives. The question is the pickup right the pontis will be there so you will have access to
+34:44
+central bank money as as another option as an institution to use let's see if
+34:49
+that's relevant or not right but they there could be alternatives and then there could be a an ecosystem where both
+34:56
+exist but if you're your US based or you sorry if you're in the US no because
+35:02
+there is no CBDC right so there is no alternative to uh to to stable coins
+35:09
+I I I I think uh the stable coins are an essential part of the digital payment side of things uh which I mentioned
+35:15
+initially and uh yeah as Ben says in Europe or in Germany you have different
+35:20
+kind of solutions for digital payments. Stable coins for sure, I'm sure at least will be one of those means of payments.
+35:27
+But there are also CBDC, there are CBMT initiatives and there are other forms of digital payments and uh I think there
+35:34
+will be different use cases uh based on different payment schemes or payment solutions in the future. So they will
+35:40
+coexist somehow also in the future. I I think that it will not just be stable coins. But uh for me the more important
+35:48
+questions on with stable coins is I mean I see the interest in the market. Many traditional players are watching what
+35:54
+what what can you do with stable coins? How do you operate stable coins? Who will be the next to to issue a stable
+36:00
+coin? I mean there are many many issuers in the market. But the essential question is for me what what is the first use case for a stable coin from a
+36:08
+European or German perspective right? and and then it it it will be more
+36:13
+difficult I think because then you have to distinguish between uh the the retail side of things where to be honest I
+36:20
+don't see that much use cases at least in in middle or western Europe and you have the wholesale side or the B2B side
+36:26
+and there might of course be also use cases in Europe to for the stable coins
+36:32
+and also for other means of digital payments and that's I think at least uh yeah fostering the the interest and the
+36:39
+attention on the payment sites which comes now driven from the US stable coin initiatives.
+36:46
+Yeah, maybe one one thing to add. So we obviously um looking at the stable coin um market um quite actively and you know
+36:53
+sort of talk to to most of the players. For us the question is like our clients are banks and brokers. They have bank
+36:59
+accounts by definition. So they they're very comfortable um in in fiat. Um and
+37:05
+to be honest I think for them fiat is not the issue. I think the fiat rails have a lot of issues. That's that's for
+37:10
+sure. And and for us, whenever we we trade and settle, usually the banking side is the annoying part where sort of
+37:15
+money is gone for, you know, eight hours and you don't exactly know where it is. And also like on Monday it works and on
+37:21
+Tuesday it doesn't. Um and and and so that that for sure is an issue. However,
+37:26
+I'm not sure that that privately issued stable coins are the solution to this. And um for us to integrate a stable
+37:33
+cocoin would need to assess the whole um thing. We would need to sort of see what kind of risks are there. And we definitely need the institutional
+37:38
+uptake. So it doesn't make any sense if we adopt that if our partners um on on both the the client side and also on the
+37:45
+trading partner side don't don't adopt it at the same time. I understand it's a huge use case for the issue of stable
+37:50
+coin. That's easy to get if you issue a few hundred million or a few billion and you get interest but you don't pay
+37:56
+interest. That makes sense. You know that that that part I I understand. But where I'm what I'm really waiting for is
+38:02
+um is really central bank issued um um stable coins because why don't we have
+38:08
+this digital euro and I understand that there's the risk around it but to then start with a retail proposition that
+38:13
+makes absolutely no sense for me to have a you know sort of central bank issued you know you know personal stable coin
+38:20
+that every you know citizen has in their the wallet that makes no sense while at the same time you have a regulated
+38:26
+banking network where you could introduce it as a wholesale version two and would solve most of the problems on
+38:31
+the fiat side which I think would be very welcomed and would would add a lot of value. So here I would really love to
+38:37
+see some action from from the politicians and people in charge. Okay, how can I squeeze in all my
+38:43
+answers in five minutes? One second. So first of all use case. We at the moment already settle against stable coin all
+38:49
+of the securities that we trade on our platform. So there's the use case. Um, I'm now leaving capital markets, but I
+38:57
+think there is one fantastic use case in Germany which will drive stable coin and
+39:03
+it's called SRP stable coin hub. Every company that uses SAP
+39:09
+can ultimately use it for payments and it doesn't need a bank anymore and that
+39:14
+will be the real driver because using an ERP system is something that is magnificent. you can wire immediately
+39:20
+and the little FX exposure that you can do at the end. But the the way if you're
+39:26
+running a an enterprise and you're using SAP but in particular HANA S4 then you
+39:31
+you really have a case for stable coin but that's a payment side that's not a capital market side. That's why I'm so negative on capital markets but on
+39:38
+that's a very positive side. Um I traveled in
+39:44
+2018 together with Bundes Bank board members to China. Um and they said, "Oh, we're
+39:51
+going to do CBDC for retail." And the reason is because we only have two
+39:56
+payment apps and if one fails, we need to be in control. That was the answer
+40:02
+why they wanted to do this. So as we are gradually moving into a more PayPalish
+40:08
+or that VU like uh way I think the
+40:14
+government could have for stability in the EU a good idea about and that
+40:19
+doesn't now matter whether CBC or stable coin
+40:25
+okay then my last questions for the last three minutes um there was someone from the executive board of the ECB holding a
+40:31
+talk um this this week. No, no, when you mean it was old occupation, but um the
+40:38
+the talk was titled building the rates for Europe's tokenized financial markets. And one of the numbers that were mentioned in the talk was that 4
+40:45
+billion euros of bond issuance was done on chain in the EU since 2021, which in
+40:50
+the grand scheme of things is nothing. How much? 4 billion 4 billion euros. Um so uh for
+40:57
+the last two minutes 45 seconds what would you say as the bond market being
+41:02
+sort of like the pulse check of the capital market what would you say are the last hurdles that we need to take to
+41:08
+actually grow this share as in we just had that discussion before as an issuer you go where there's a
+41:15
+deepest liquidity and the cheapest interest rate for you if it's a
+41:20
+fragmented small liquidity pool that's all all the places where you currently
+41:26
+can issue tokenized bonds or you go to clear stream or eurokle and do it on
+41:31
+their platform. Why would you do it tokenized? Why would you do it the traditional way? I mean that's except for marketing there's no upside. Um so
+41:39
+that's why that market hasn't grown. So what we actually need is an integrated
+41:44
+deeper liquidity pool where the issuer can go to and then have actually an advantage of uh out of tokenization. For
+41:52
+that you need the buy sites to be on that platform. So I think it's a very straightforward proposition from my
+41:57
+perspective just by I asked a question. So four
+42:02
+billion you said right? So Kraken did 25 billion in tokenization on X stocks.
+42:11
+Yeah that that uh fully reflects I mean the relation between the figures and
+42:17
+yeah yeah it's it's for me as well quite simple. So you need the liquidity liquidity in those pools otherwise it
+42:23
+will not be an advantage to go into the tokenized markets and that's the key uh
+42:29
+where we are working on and what also the statement of the easyb was uh related to
+42:36
+so I'm not disagreeing I think you're right so there is a huge network effect of the existing infrastructure
+42:41
+everybody's plugged into it so the question is how can we kickstart and and and thereby kick off a new um network
+42:48
+where these players are plugged in on the new rails and that's also what we're trying to to contribute to
+42:53
+and this is where we leave this panel for good for today. I'm happy to have further discuss this after our panel. So
+43:00
+thank you very much Michael Dolph Benjamin um and Thomas for the participation and see you around. Talk
+43:07
+to you soon. Thank you.
+

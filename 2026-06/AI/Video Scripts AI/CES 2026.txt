@@ -1,0 +1,315 @@
+Chapter 1: Introduction: unlocking value from AI
+0:066 secondsCome everybody. It's been a very exciting series so far. It's very nice to see everybody here. Can't walk anywhere and see.
+0:1212 secondsYes, without seeing eye everywhere plastered over every poster. It's absolutely omnipresent here.
+0:2121 secondsThe real question, of course, though, is how do you get value out of AI? How do we actually put it to work?
+0:2626 secondsAnd so part of what we're going to talk about today is how do we get the unlock, how do we scale AI key breakthrough transformations.
+0:3333 secondsAnd we thought we'd do that, exemplifying it with our friends from Goodyear on us.
+Chapter 2: Context: driving breakthrough transformations with AI
+0:4040 secondsSo with that, and we're going to do that in a way that not just talks about, we're going to talk about it in two ways.
+0:4848 secondsWe're talking about how I actually changes the work itself.
+0:5252 secondsSo from product development to engineering to how I can actually impact the product itself.
+0:5959 secondsSo, so with that, let's talk a little bit.
+1:021 minute, 2 secondsI'll, I'm going to give a little bit of context that I set up before we, we start talking with our friends here.
+1:091 minute, 9 secondsSo unlocking that breakthrough, transformation.
+Chapter 3: AI reinventing software & tech convergence
+1:141 minute, 14 secondsWhere is the return many of you are very familiar with the famous MIT report that's out there in the market. Lots of rhetoric around this.
+1:221 minute, 22 secondsTens of billions of dollars that are out there being invested. And the key question, of course, is where is the ROI?
+1:291 minute, 29 secondsAll these, scenarios and use cases where value being unlocked. We think about this very simply.
+1:381 minute, 38 secondsWe think about, you know, there is an equal part of this around what the ideas are, the innovative and tangible outcomes to come with.
+1:451 minute, 45 secondsBut really, the unlock a key part of it is the scalable technology, the foundational technology that also needs to be there to be able to take advantage of the AI.
+1:541 minute, 54 secondsThere are no shortage of the ideas of what can be enabled with all this AI, but the technology foundation has got to be there as well.
+Chapter 4: The power of institutional knowledge for AI
+2:042 minutes, 4 secondsSo when we talk about technology, certainly AI is at the core of it. What it's do.
+2:102 minutes, 10 secondsThe disruption fundamentally has reinvented what software even is moving from deterministic lines of code.
+2:182 minutes, 18 secondsWhen we think about software, millions of lines of code, rule based, deterministic, now moving to intention based, goal oriented capabilities that can create the same outcomes in a much greater speed.
+2:322 minutes, 32 secondsBut I isn't the only technology that's out there that's evolving and advancing. There is a lot of other technologies.
+2:402 minutes, 40 secondsThe advances in hardware and compute and cloud. What is going on with sensor technology, wireless technology.
+2:482 minutes, 48 secondsAnd the real point on all of this is the real unlocking the new opportunities are coming together as all of these are are converging and being assembled to create new capabilities.
+3:003 minutesAnd with while there are all those other advances, certainly, AI is at the core of the biggest disruption that's here in tech.
+Chapter 5: Goodyear's innovation journey with AI
+3:093 minutes, 9 secondsAnd to keep this in a very simplistic view, if you just think about four kind of key terms that are out there, everywhere we think about on the left, the foundation models, the yellow lens.
+3:213 minutes, 21 secondsThis is really the breakthrough technologies in a in a genetic and in AI.
+3:263 minutes, 26 secondsWhat they've been able to do in the labs, from generative capabilities to what's now been coming out in reasoning, has just been nothing more than amazing.
+3:373 minutes, 37 secondsHowever, it's really the second bucket that we want to talk about, and we're going to bring it to life a bit with our friends here at Goodyear, which is also the institutional knowledge of your own organizations, of your products.
+3:493 minutes, 49 secondsThe labs, as trained as they are on publicly available information.
+3:533 minutes, 53 secondsWhat we really want in order to make a genetic actually come to life is we need to fuel those labs with the information from your institution, from your organization, with your product information.
+Chapter 6: Introducing the Goodyear leadership team
+4:054 minutes, 5 secondsThat's the fuel that these lambs need in order to really create new outcomes.
+4:114 minutes, 11 secondsSo the knowledge side of it and creating the architecture that ingests that and gives access to what you see on the right, the agents,
+4:194 minutes, 19 secondswhich can now go to more than just answering questions, but actually doing some of the work to genetic systems that start to tie all these together.
+4:284 minutes, 28 secondsThey have to be fueled with the institutional knowledge of the organization.
+4:354 minutes, 35 secondsSo which and that brings us right back to our friends here at Goodyear to try and make this a little bit real.
+4:444 minutes, 44 secondsI've had the privilege of going over to the Goodyear boost.
+4:474 minutes, 47 secondsAnd, I would encourage everybody here to do so if they haven't already, because you can really see how this comes to life
+4:554 minutes, 55 secondsand is very tangible in the products, and also explaining how it unlocks completely new opportunities and how Goodyear is putting all of the knowledge and information and data that they have to use to really unlock new capabilities.
+5:095 minutes, 9 secondsSo let's get into that a little bit.
+5:115 minutes, 11 secondsBut first I want to ask, Chris and Werner, if you could just say a little bit about yourself and your role at, Goodyear. Sure.
+5:185 minutes, 18 secondsSo first, Chris household, it's a kind of a long title. All that means is I report to the CEO. And I've been our CTO for nine years.
+5:275 minutes, 27 secondsI've been at Goodyear for 30 years. Originally hired as only the third person doing computer modeling simulation. And maybe just real quickly.
+5:365 minutes, 36 secondsThe job was go get rid of testing, so you could fail miserably at your first job and still be CTO, because we did that.
+5:455 minutes, 45 secondsBut but what that's given us is really an ability to use both of those capabilities.
+5:495 minutes, 49 secondsAnd with that, all the data that now comes with it, which is how we're building out really two pieces of of our strategy.
+5:565 minutes, 56 secondsNumber one, and you mentioned it, David, is how we do our work. That's more of the internal facing. And we'll get into a few of those examples. I think.
+6:036 minutes, 3 secondsAnd then secondly, is the external facing or our new products and in particular Verner leads that area. So maybe with that Vernor. Yeah. Thank you Chris.
+6:116 minutes, 11 secondsYeah. My name is Bernard. We're in a hop in Hofer. I joined Goodyear about three years ago.
+6:176 minutes, 17 secondsAnd I lead our tire intelligence activities, which is really quite complex, because,
+6:246 minutes, 24 secondsit is all about optimizing tire intelligence, how we use it for our fleet management business,
+6:326 minutes, 32 secondswhere we have been really successful in the last 15 plus years and then also use basically the same technology.
+6:406 minutes, 40 secondsAnd that is software that is, hardware sensors.
+6:456 minutes, 45 secondsAnd, and turn that into business, by implementing that solutions into Adas,
+6:526 minutes, 52 secondsAdas cars today to and you are better in counting all the pluses behind the two.
+6:596 minutes, 59 secondsBut then also sorry for it all the way up to Avs. And that's been a really exciting journey.
+7:067 minutes, 6 secondsSo far. Awesome.
+Chapter 7: AI in tire design, materials and accelerated development
+7:097 minutes, 9 secondsWell, so why don't we start some of the questioning with turning it over to you, Chris, to talk about, tire design and development and to your earlier point of how the work is actually done, how it Goodyear has.
+7:207 minutes, 20 secondsI actually impacted and changed some of the work in design and development. Yeah. Maybe I'll I'll go with, to traditional machine learning type approaches.
+7:317 minutes, 31 secondsAnd in both of them we, we reference as expert recommenders. So the first one is actually in the design.
+7:377 minutes, 37 secondsI know a lot of times you walk past your tires, but believe it or not, they have about 65 performances that we use to certify a tire.
+7:467 minutes, 46 secondsThousand nearly variables that you could tune, whether those be those external features you see in the tread, the shape of the tire, but more importantly, those constructions and even the materials.
+7:577 minutes, 57 secondsAnd, in those cases, what we're trying to do and what we've built is off of the thousands of specs with all of that test data,
+8:048 minutes, 4 secondsall that model data is you can you can say, here is my performance targets for these 65 different parameters.
+8:128 minutes, 12 secondsAnd it'll give you guidance on hey, why don't you try this design.
+8:168 minutes, 16 secondsBecomes really important because we get asked often times now by our most discerning OEMs, you know, hey, before we even are going to go with an RFQ,
+8:268 minutes, 26 secondscan you please, you know, tell us, can you come up with a feasible tire, you know, that will actually meet these performances?
+8:328 minutes, 32 secondsNow, what we've done since is those points that it would predict, we link it into our simulation, what we haven't done yet to automate those workflows.
+8:418 minutes, 41 secondsAnd that's where we see an opportunity for something like agent tech, right. The second one is really in materials. At our core, we're a material company.
+8:488 minutes, 48 secondsAnd when you think of each of the materials that are in your tire, there's actually 30 components.
+8:558 minutes, 55 secondsEach one could have up to 60 ingredients.
+8:588 minutes, 58 secondsAnd, what we've put together there is actually something that solves the inverse problem. So what we look for is here's the characteristics, that we seek.
+9:079 minutes, 7 secondsGo give me the ingredients. Right. And what kind of a speedup have we seen in the first one?
+Chapter 8: Global scaling, trust and AI adoption in operations
+9:139 minutes, 13 secondsSomething that might have taken like eight weeks now is about a week and a half, to run that same analysis, to come up with that recommendation.
+9:219 minutes, 21 secondsAnd on the materials side, it's about a ten month process that's now about two months. So significant speed ups.
+9:279 minutes, 27 secondsBut again, those are pretty traditional machine learning based on that that data that we have.
+9:329 minutes, 32 secondsBut still a big key that you're, you're referencing here is the amount of data that you've been able to go and leverage.
+9:389 minutes, 38 secondsWe're going to we're going to get into it a little bit more about how that how you're putting some of that data to even more use with AI.
+9:449 minutes, 44 secondsBut just taking what you just shared a little bit and thinking about the global operations that you have, how are you?
+9:519 minutes, 51 secondsHow are you able to scale some of these solutions to the innovations that you've been creating in the how to do the work? How do you get that to scale to your global engineering teams?
+10:0010 minutesYeah.
+10:0010 minutesYou know, so interestingly, maybe, you know, and that fits really well with an initiative that we've had going, about a year ago.
+10:0710 minutes, 7 secondsWe've kind of went from more or less three regional businesses to one global. And and with that, more of these global central functions really have to drive.
+10:1610 minutes, 16 secondsSo one of the things you get enabled with these systems is actually getting folks to work together who maybe hadn't before.
+10:2210 minutes, 22 secondsMaybe there have been siloed, you know, geographically that's been a positive and it starts to generate some pull. But number one is obviously the trust.
+10:3010 minutes, 30 secondsAnd and the trust really comes I think from number one.
+10:3410 minutes, 34 secondsAre we all just approaching this as a productivity optimization. Because that's code for your people that says you're getting rid of me, right.
+10:4210 minutes, 42 secondsAnd the first thing people go to is, what is this going to mean to me?
+10:4710 minutes, 47 secondsAnd so what we've done, I think tried to do, you know, it's it's not always the easiest is you've got to have a good purpose.
+10:5510 minutes, 55 secondsWhat is your purpose? We'd say as a company, it's be number one. It tires for our organization, which is global product design and development.
+11:0211 minutes, 2 secondsIt's we have to have products that deliver you most safely, most efficiently, most sustainably.
+11:0811 minutes, 8 secondsAnd so if we could connect these into how is it enabling our people to do that better? I think that that helps build that trust.
+11:1511 minutes, 15 secondsWe did build one other example is we get them very much part of saying these tools are good or they're not good.
+11:2311 minutes, 23 secondsOkay. And so for that we have, a company been in business a long time. We have 1.5 million technical documents.
+11:3211 minutes, 32 secondsNobody likes sitting around reading 1.5 million technical documents when they want to start a new project.
+11:3911 minutes, 39 secondsSo what we did was we actually took a, an enterprise version of ChatGPT, and we built something that allows you to efficiently go through those documents
+11:4811 minutes, 48 secondsand come back with insights that then allow our engineers to plan their next project. So.
+11:5311 minutes, 53 secondsSo with that, though, they had the subject matter experts have done all the validation ensuring no hallucinate hallucinations that the citations are correct.
+12:0412 minutes, 4 secondsThat really built a lot of credibility because those are the respective technical leaders in our organization. That's great. So a couple of different themes that just came out of there.
+Chapter 9: Recap: data, AI and trust
+12:1312 minutes, 13 secondsSo one is the ability to process all this vast information that you have with your chatbot, as you were talking about this capability
+12:2012 minutes, 20 secondsthat you just described it, and being able to use open AI and apply it to all of your information to be able to search for it.
+12:2612 minutes, 26 secondsBut the other thing I think that's really great that you just brought up is the trust component of it as well.
+12:3112 minutes, 31 secondsAnd so which we see with all with all of the organizations that we work with, that's still being a major change management
+12:3812 minutes, 38 secondsadoption, both in terms of the accuracy of the information that has to come out, but also the intention that you just described. So good.
+12:4712 minutes, 47 secondsYou're doing a lot of good work and changing the way that you actually do the work, how you do development, design.
+12:5212 minutes, 52 secondsIf we talk about the product itself and some of the innovations, which were very exciting and being able to even put my hand on some of these new sensors and things,
+13:0113 minutes, 1 secondin your booth, we talked a little bit about tire intelligence and the product itself.
+Chapter 10: Goodyear's tire intelligence: Sightline sensors and data collection
+13:0513 minutes, 5 secondsWerner, it'd be great if you could, maybe even describe to the group a bit about what tire intelligence is. Yeah, absolutely. Yeah, thank you very much.
+13:1413 minutes, 14 secondsSo, our tire intelligence, we call this sightline, is actually a suite, a suite of, of, software.
+13:2313 minutes, 23 secondsSoftware algorithms, and sensors, predominantly, we have a tire mounted TPMs sensor.
+13:3213 minutes, 32 secondsMost of you might know that TPMs sensor, that's the sensor that starts really bugging you when temperatures get cold. Of course, on your dashboard, taste is light.
+13:4013 minutes, 40 secondsAnd you'll say, what is that supposed to mean? Just tells you that the inflation is a little low to pressure and low.
+13:4713 minutes, 47 secondsA tire mounted TPMs sensor has that functionality, but more and so we actually generate a lot or collect a lot of data, from the tires and also how the tire interacts with the road.
+14:0114 minutes, 1 secondSo we use that information, and we always have, even in the early days when we did not have that type of, sensor yet and used that TPMs sensor, we always use that information.
+14:1414 minutes, 14 secondsAnd the insights, we collected that data. We had we used telematic control unit.
+14:2014 minutes, 20 secondsWe stream that data to a cloud, we create wonderful dashboards and provide that information, to fleet managers.
+14:2914 minutes, 29 secondsAnd they love us for that because we tell them, hey, on that truck, that they're right. Steering tires in little low end.
+14:3614 minutes, 36 secondsYou want to probably, pump that up, talk, talk, talk to your driver. Of course, that will ultimately save you some fuel.
+14:4514 minutes, 45 secondsOr the tires running a little bit hot, for whatever reason. That certainly will, will cause, additional wear on your tires.
+14:5514 minutes, 55 secondsAnd you should be aware about that, that we have the beginnings.
+14:5914 minutes, 59 secondsAnd ever since ten years about we have really embarked on, enhancing these, these insights by the means of using software.
+Chapter 11: From rule-based systems to ML and "tire as a service"
+15:1115 minutes, 11 secondsSo we basically developed, software, predominantly rule based systems. That means physical based models.
+15:2015 minutes, 20 secondsSo we use that, we know what's going on with the pressure. We know what's going on with the temperature.
+15:2615 minutes, 26 secondsAnd we actually can also do some calculation, based on tire models, which we have, of course, we know a lot about tires.
+15:3515 minutes, 35 secondsWhat the tire wear might be that was not good enough. So we added a lot more information coming from the vehicle.
+15:4415 minutes, 44 secondsWe, collect that data as well. We stream this data in the cloud.
+15:4815 minutes, 48 secondsAnd then we said, hey, wait a minute, to do this in a good way, we need data science. We need people that understand how to work with that data.
+15:5815 minutes, 58 secondsSo we started to fusion that data, curate that data, and could create even more insights. That's fascinating.
+16:0716 minutes, 7 secondsAnd now, David, we're at the point where we say we can use AI.
+16:1216 minutes, 12 secondsSo, we are transitioning for some of these insights, in using machine learning models, machine learning code.
+16:2216 minutes, 22 secondsOne of these features we use in the fleet management area is our dynamic core.
+16:2816 minutes, 28 secondsAnd dynamic core, can calculate based on all these data, which we collect, what the tire wear is and what the thread depth is of each of these tires, on a truck.
+16:4216 minutes, 42 secondsAnd that's remarkable.
+16:4316 minutes, 43 secondsSo we use AI, and, it's very innovative to generate even more, insights.
+16:5116 minutes, 51 secondsAnd, that is certainly a very good information for fleet managers because it helps us to manage the tires even better.
+17:0017 minutesAnd then when you think that we also adjusted based based on these new insights and based on the ability of AI, that we changed our business models and offer tire as a service.
+17:1217 minutes, 12 secondsSo we are not selling the tire.
+17:1417 minutes, 14 secondsWe're selling the service, we are managing our own assets, and we have the interest to do this in the best possible way.
+17:2217 minutes, 22 secondsAnd this is where we use all these data and work with those data. So there was a lot that you just unveiled there.
+Chapter 12: Advanced sensor technology and auto-inflate potential
+17:2817 minutes, 28 secondsSo if I had to pack this a little bit first, from a technology perspective, the ability of the technology that you have in there, again, the advancements in the sensors that are now, now there,
+17:3717 minutes, 37 secondsthe wireless technologies from the RF to just the new wireless bands, to be able to get all of this data streaming out of. And by the way, you can really see the sensor.
+17:4517 minutes, 45 secondsThey've cut it out of a tire conveniently at their booth, actually see how small the sensor is and what it's doing in the tread. To be able to then have that information telemetry out.
+17:5517 minutes, 55 secondsThere's so much potential. We're going to talk a little bit about the potential. I took a taxi ride just back from, the convention center.
+18:0318 minutes, 3 secondsI won't say what car don't and won't say what tires were on it, but what was very clear is the TPMs was telling me the back right tire only had 29 pounds.
+18:1118 minutes, 11 secondsThe driver had no issue with this, while the others all had 45. You have even in your booth the ability you.
+18:1818 minutes, 18 secondsOne of the examples they have is the auto inflate capability. Right.
+18:2318 minutes, 23 secondsSo this is not a matter of going forward of just the ability to say, hey, look, we've had this information, as you said for years around TPMs,
+18:3118 minutes, 31 secondsbut imagine the ability to a fleet to be able to keep the tires inflated at the right, pressure and actually action.
+18:3818 minutes, 38 secondsSome of this these are the kinds of innovations that I know you talk about in your booth.
+18:4218 minutes, 42 secondsAnd you're moving really from all the data that you've been collecting for years through machine learning. Where else do you see some of this going?
+18:5018 minutes, 50 secondsIn terms of, tire intelligence?
+18:5318 minutes, 53 secondsOn, you know, taking all of that data and now thinking about the inference and actually doing, I on the edge.
+Chapter 13: AI on the edge: integrating tire intelligence into vehicle control
+19:0119 minutes, 1 secondAnd. Yeah, absolutely. So that's the, the second big part, we actually do is tie intelligence.
+19:0919 minutes, 9 secondsWe use tie intelligence, and really implement tie intelligence in the vehicle motion controller. Now.
+19:1619 minutes, 16 secondsSo basically we are providing the software defined tires to, to the vehicle controller.
+19:2319 minutes, 23 secondsControl engineers love that input because, it enables basically to adjust, all different type of systems that braking system,
+19:3419 minutes, 34 secondswhich means with that insight, yeah, the systems can be configured in real time differently, not just use data, predefined data, because we can really make use of those data.
+19:4819 minutes, 48 secondsNow, and based on this, we help that this systems work at their, at their peak performance.
+19:5819 minutes, 58 secondsThat helps, for example, to reduce the braking distance.
+20:0120 minutes, 1 secondAnd if you think that a one tire usually has a little longer brake break distance than a new tire.
+20:0720 minutes, 7 secondsSo we can actually gain some of these losses back with our technology. And that technology is embeddable.
+20:1720 minutes, 17 secondsIt's available. It's embedded. What we are doing now is of course the physics based models. They can do only that much.
+20:2620 minutes, 26 secondsWe're now really working and also bringing AI models, machine learning models into the edge, actually in the sensor.
+20:3420 minutes, 34 secondsAnd, really, really execute these, these machine learning code, in, in the sensor.
+20:4420 minutes, 44 secondsSo that helps us to generate even more information, especially when we talk about tire where and we pair this with our tire
+20:5020 minutes, 50 secondsknowledge that's in the sensor, these models and people that are very much aware about AI and machine learning know these models are pre-trained with the data we have from our tire insights, from our tire tests.
+21:0421 minutes, 4 secondsAnd maybe I bring it back to Chris a little bit.
+21:0621 minutes, 6 secondsAnd I know we just touched on this a little bit, but there's, you know, no periodical, as as a car guy here.
+21:1321 minutes, 13 secondsThere's no periodical I don't read that talks about all the new safety, desires that are out there. What's going to happen with automatic braking systems?
+21:2121 minutes, 21 secondsAnd just how much more rich and meaningful they can be with this kind of technology. How are you working?
+Chapter 14: Enhancing vehicle safety with digital tire engineering
+21:2821 minutes, 28 secondsHow are you working with the different OEMs right now around improving safety?
+21:3321 minutes, 33 secondsHow does this technology actually manifest itself to fleets and and car manufacturers?
+21:3721 minutes, 37 secondsYeah, you know, at the core, you know, the insight for us when we even started down this intelligence area was and it sounds simple, we're the only thing that touches the road.
+21:4921 minutes, 49 secondsAnd, you know, when you go driving and you're going to go hop in your Uber or whatever it is,
+21:5621 minutes, 56 secondsyou basically have four palm sized patches of rubber that transfers all loads and forces from that several thousand pound vehicle to Earth.
+22:0522 minutes, 5 secondsThat's it. That's what's keeping you stuck. Okay. And we have done that for more than 125 years, 128 years.
+22:1322 minutes, 13 secondsNow through physics, chemistry, mechanics. And what we said was when we saw all the trends coming with IoT, etc.
+22:2022 minutes, 20 secondsas well, why don't we just add another leg of an engineering discipline which was digital, right?
+22:2622 minutes, 26 secondsAnd so that's what's really was the insight in about 2017 that kind of had us build this all out and now when you start thinking about it, what can we do?
+22:3522 minutes, 35 secondsWell, when you have a worn tire and a new tire and it's most simplest and we built a, collaboratively a controller with TNO at the time, two years ago, and I'd had that in our booth.
+22:4522 minutes, 45 secondsAnd, what we did was to actually show that, you know, you lose significant stopping distance if that tires worn versus new.
+22:5422 minutes, 54 secondsNow though, by knowing exactly what is that tread depth. What's your state of inflation. What's the temperature outside. Is it wet underneath the tire isn't it.
+23:0323 minutes, 3 secondsWe can present information that now gives an individual signature, that particular tire that can be passed directly into that braking controller.
+23:1123 minutes, 11 secondsSo thinking of a smart ABS versus maybe preconditioned with a generalized tire model, you know exactly what's happening here.
+23:2023 minutes, 20 secondsAnd we recover up to about half that stuff, which is significant.
+23:2423 minutes, 24 secondsI mean, you might be talking, you know, three four meters, three, four meters is enough to prevent you from hitting the back of somebody else.
+23:3023 minutes, 30 secondsSo so when you think of the new nets requirements coming for AEB, we think there's potential opportunity.
+23:3723 minutes, 37 secondsWe really see a lot of opportunity as well through these multiple levels of Adas and ultimately in in autonomous because, you know, you do a great job actually being part of this whole system.
+23:4923 minutes, 49 secondsYou know, whether it's your your butt in the chair, you, you know, your hands are on the wheel, you're feeling things through your feet.
+23:5923 minutes, 59 secondsYou can come up with some defined path that you want to take and speed, etc., but you need a feedback loop on, can I really execute this right?
+24:0824 minutes, 8 secondsAnd what's really happening underneath the vehicle?
+24:1124 minutes, 11 secondsBecause it might say I could drive at 50 miles an hour and you can on a dry road, but if you're on ice, no you can't. And so that's really the, I think, the purpose and thing that we bring.
+24:2124 minutes, 21 secondsRight.
+24:2124 minutes, 21 secondsAnd, and that simple example of what we did with a braking system and built that whole out into a controller and a proof of concept vehicle, etc., etc.,
+24:2924 minutes, 29 secondsI think is just one illustration of the job you can do, with this information. That's perfect.
+24:3524 minutes, 35 secondsAnd I think so if you, if you add it all together, I mean, number one, some great examples of just how you're doing work differently at Goodyear by starting to embrace.
+Chapter 15: Goodyear's transformative impact & panel Q&A introduction
+24:4424 minutes, 44 secondsYou've always been embracing data. You have very unique data.
+24:4724 minutes, 47 secondsWe've been embracing that to start changing the way that you actually do work.
+24:5024 minutes, 50 secondsAnd now adding AI on top to drive more efficiency, to actually looking at not just embedding new sensors
+24:5824 minutes, 58 secondsin the new technologies to create new products, but even entirely new business models around service management
+25:0525 minutes, 5 secondsand all of that coming from the knowledge that a foundational technology needs to be there. And how do you capitalize, leverage all of that unique data that you have?
+25:1525 minutes, 15 secondsI think they're great examples. You and you can actually touch and feel them and see them. Yeah. Which is fantastic. So we have a couple of minutes.
+25:2325 minutes, 23 secondsSo thank you for sharing those stories. We have a couple of minutes. We did invite, if, if, the group gathered here has any questions around it.
+25:3125 minutes, 31 secondsWe'd love to be able to talk about some of them.
+25:3525 minutes, 35 secondsI know the bar has already been opened, but we also would welcome any questions, related to it. We have a mic runner out here.
+25:4425 minutes, 44 secondsI see a few people. Yeah.
+25:4625 minutes, 46 secondsI think my question is some of these breakthrough technologies obviously come at the cost of, you know, awesome change management adoption.
+25:5425 minutes, 54 secondsWhat are the biggest hurdles that you'll faced in implementing some of these solutions?
+25:5825 minutes, 58 secondsAnd more so from an angle of adoption from the final person standpoint or maintenance or whatever, operators will work with this.
+Chapter 16: Q&A: overcoming hurdles in AI implementation and adoption
+26:0626 minutes, 6 secondsSure.
+26:0726 minutes, 7 secondsI would say number, the, the number one thing that you find is what you would think with any other is the cost.
+26:1326 minutes, 13 secondsAnd so what we've been trying to drive is that the cost of that in particular sensor, because with you we have sensor list solutions where we can just pull the information off the vehicle.
+26:2426 minutes, 24 secondsYou just only get can get so far.
+26:2826 minutes, 28 secondsOur goal is to get it exactly to the price of the existing TPMs.
+26:3226 minutes, 32 secondsAnd now you with this in there, it's basically the TPMs plus the accelerometer that gets you those those additional features.
+26:4126 minutes, 41 secondsThen with that they're at that same cost. Now you can start adding these things and and then you know bring bring the value.
+26:4926 minutes, 49 secondsSo the number one thing is there's not a lot of tolerance for adding cost right upfront. There just isn't. There.
+26:5726 minutes, 57 secondsGreat great. So I guess our last question.
+Chapter 17: Q&A: augmentation, cross-functional value, and change management
+27:0627 minutes, 6 secondsTo in how you engineer and manufacture tires today, it's very easy to say, hey, it's a great use case and I'm going to implement the use case and you get marginal value.
+27:1527 minutes, 15 secondsWhat's your perspective on. Because there's a lot of effort intensive activity in the whole engine value chain.
+27:2127 minutes, 21 secondsSo what's your perspective on ensuring that you're driving value wherever it's available versus let's say the small piece that's really, really cool.
+27:3027 minutes, 30 secondsYeah.
+27:3127 minutes, 31 secondsYou know, I think that maybe the concept I did not hit on was a and you could say it, but your people watch.
+27:4027 minutes, 40 secondsAre you really doing it. Is are we really doing this to augment and make their job better.
+27:4727 minutes, 47 secondsAnd so that augmentation concept is really key in getting that trust that that's really our objective.
+27:5327 minutes, 53 secondsAnd I would say again back to currently, if I'm a tire designer inside of Goodyear because of just so much legacy debt on our IT systems and things, you might have to know 30 softwares.
+28:0428 minutes, 4 secondsSo one of our number one projects, as we think about the agents, etcetera, is how do we make it so that an engineer in just a natural language can interact with these without having to be an expert in running all these softwares?
+28:1728 minutes, 17 secondsWe then make their job truly better. The what's in it for me right?
+28:2228 minutes, 22 secondsSo beyond those kind of things, one of the things is that the final release of any tire, we've got about 25 people who all get together,
+28:3128 minutes, 31 secondsyou know, long in the tooth engineers, new engineers and those who ran the data, those who did the modeling. And we have what's, you know, the final DFM here.
+28:4028 minutes, 40 secondsDid we really meet these requirements. And it's never as simple as you meet them. All right. Because that would be too easy. It's a nuanced final decision of is this product ready to go to market or not?
+28:5028 minutes, 50 secondsOkay. That's an area where we see where agents can really come and help do that. There's a lot of formatting in bringing the data together and those things.
+28:5928 minutes, 59 secondsSo again, we see a lot of low hanging fruit in those kind of activities that your engineers just don't want to do.
+29:0629 minutes, 6 secondsSo so I would search for a lot of those. And again, that's part of that build trust. My job is better.
+29:1329 minutes, 13 secondsI get to do more creative work than what I've been doing. But it's still change management. Some folks might enjoy that work.
+29:2229 minutes, 22 secondsRight. So. So you're still going to make your way through that.
+29:2529 minutes, 25 secondsBut, but I think that augmentation concept is one you really got to get proof of proof of concept that you're really following that and confidence in your folks.
+29:3629 minutes, 36 secondsSo I do like. To give you the mike that doesn't work.
+29:4429 minutes, 44 secondsYeah, I'm loud enough usually anyway. But there you go. First. Love the tires. Have him on my Tesla. So thank you very much on that.
+29:5129 minutes, 51 secondsThe palm size of four I never thought of it that way, but you're so right.
+29:5529 minutes, 55 secondsI loved your comments around engineers, but as we look at it, you start to think across functions and have you gotten into that in some of the change management, some of the things where your engineers can come up with something?
+30:0730 minutes, 7 secondsBut how about the rest of the organization, and how are you addressing some of the change management that goes with that? Yeah.
+30:1430 minutes, 14 secondsYou know, I'll be I'll be very transparent on this. We've been sweeping a lot in front of our own doorstep.
+30:2130 minutes, 21 secondsAnd so, you know, before I'm shaking my finger in my other peers on the, on the SLT that you should be using this.
+30:2830 minutes, 28 secondsI better be, you know, get get some wins on our own.
+30:3230 minutes, 32 secondsBut truly, there is in particular, I'll say between like our strategy function, our product development function and then our manufacturing.
+30:4130 minutes, 41 secondsAnd really there is where we're starting to see so in our quality and we've got a lot of data that flows, you know, think of your CFCs and things on, you know, your materials extrusion.
+30:5430 minutes, 54 secondsWe make our own parts and we assemble them. Then we basically bake them.
+30:5830 minutes, 58 secondsAs you think of that data, how do you take that along with how is that connected into my engineering requirements?
+31:0631 minutes, 6 secondsRight.
+31:0631 minutes, 6 secondsSo so there we do have some connectivity and that cross-functional, work and that, that is moving.
+31:1431 minutes, 14 secondsAnd I would say part of the reason that moves is because we have leadership alignment. That's driving a common expectation.
+31:2031 minutes, 20 secondsAnd we've made a project that truly from the get go was a cross-functional project. Okay.
+31:2631 minutes, 26 secondsBut, yeah, breaking down silos is always something. We've been a little fortunate.
+Chapter 18: Q&A: predictive analytics for tire health and safety
+31:3231 minutes, 32 secondsI should have said in my intro, actually, for three years, up until this time last year, I was also in charge of all of our worldwide operations.
+31:4331 minutes, 43 secondsSo I had manufacturing, supply chain, etc. on top of the CTO role. By the way, I traded that for running the race business.
+31:5031 minutes, 50 secondsSo that was a great trade, by the way. And I think you guys use who do operations, but racing's a little more fun.
+31:5731 minutes, 57 secondsBut the bottom line is that team had been driven to work together. So so there is some work there. Definitely.
+32:0332 minutes, 3 secondsBut, you know, there's so many, talk to to all of you, the decisions you make in product development, boy, they you can make your life miserable for your manufacturing folks.
+32:1432 minutes, 14 secondsRight. And I had to eat my own dog food. And so you know, I definitely, am sensitive that.
+32:2332 minutes, 23 secondsAlso maybe you, question. So thank you for the for the presentation is quite impressive.
+32:3032 minutes, 30 secondsI have a question about predictive analytics, and it's a debate I have often with, technology players and industrial players.
+32:3732 minutes, 37 secondsIs with your technology, you are capable to estimate the where tire at, let's say, a day accuracy or maybe a week accuracy.
+32:5032 minutes, 50 secondsDo you see, like, the business value of doing that versus estimating the tire health at, let's say, a month accuracy?
+32:5932 minutes, 59 secondsIs it worth it?
+32:5932 minutes, 59 secondsYou know, and we have often this question you deploy a lot of analytics to have a detailed vision. But it isn't it enough to have like, okay, the precision and the accuracy of the tire of the moment.
+33:1233 minutes, 12 secondsYeah, yeah. Maybe, maybe I'll start and then I'll let you go. You know, you think of tread where it's a slow phenomenon, you know.
+33:1933 minutes, 19 secondsSo you're talking about fleets front tire on a steer on a 18 Wheeler, 120,000 miles. So how much does it change? Right.
+33:2733 minutes, 27 secondsIt's more important, probably in leak detection in that particular case where what we find is our algorithms could actually start triggering saying, look, you're starting to see some change in your inflation.
+33:3933 minutes, 39 secondsAnd they'll even recommend, you know, hey, why don't two stops from here, you can go get service and get it checked out.
+33:4733 minutes, 47 secondsSo so I think that's the use case dependent.
+33:4933 minutes, 49 secondsI agree with you adding fidelity on a week versus a month, but for something like a slow leak that could be indicative of an injury to the tire, it's it's much, much more valuable.
+34:0134 minutes, 1 secondAnd I know you've got a lot of experience. Yeah. No. Absolutely I mean, that topic of predictive maintenance. Yeah. You don't need a day or a week.
+34:0834 minutes, 8 secondsNot for dread where that's really not necessary.
+34:1134 minutes, 11 secondsWell, it's always interesting is, generating insights if, you know, a tire is operated not at its, optimum,
+34:2134 minutes, 21 secondslet's say it's operated, deflated or, not properly inflated, or for whatever reason, you get a hot tire, which happens if it's not really fully inflated.
+34:3534 minutes, 35 secondsBut there might be other aspects. You could have some issues with your brakes and the tire. So, that usually, generates extensive wear.
+34:4334 minutes, 43 secondsAnd to know that and to have that information, helps to provide additional information in terms of a warning predictive to say, well, wait a minute, check out your tires.
+34:5534 minutes, 55 secondsAnd again, as I said earlier, with the ability to really manage this, huge amount of data, and managing our own assets, we are liable for that asset.
+35:0735 minutes, 7 secondsIt's our asset. So we need to. We got to make sure that the tire is operated properly.
+35:1235 minutes, 12 secondsAnd for this, you mentioned it, David, we have additional inflators, which we use as well. And so we get a lot of information.
+35:2135 minutes, 21 secondsWe get it the information how the tire reacts when we inflate them with that systems.
+35:2735 minutes, 27 secondsThis is what Chris was alluding to, that, we can actually really distinguish between different categories of leak rates.
+35:3535 minutes, 35 secondsSo we know, oh, there is a leak, we give a warning, we know that tire is good for another two months, but we already see there is something, so we better check it out.
+35:4435 minutes, 44 secondsAnd this is where we get into a fidelity where we can really, offer predictive maintenance or information
+35:5235 minutes, 52 secondsthat is really at the scale of, it's maybe only five hours, so you gotta do something now or it's it's three months or it's a week.
+36:0136 minutes, 1 secondThat helps. And we use the same technology, obviously.
+36:0536 minutes, 5 secondsAlso when we implement this in, in, in, in passenger vehicles in other systems here, usually the OEMs are very interested in what we call the rapid loss course.
+36:1736 minutes, 17 secondsWe all know that a tire never burst.
+36:2036 minutes, 20 secondsThere's a rapid loss, and detecting rapid air loss really in within 300 milliseconds and provide that information
+36:2836 minutes, 28 secondsto an, to an, stability control, a vehicle controller or an adaptive, suspension system that really can save life.
+36:4136 minutes, 41 secondsI mean, you really can't control the vehicle, you know, that tires blown up, it's useless. But you can manage, stabilize the vehicle, keep it on track, slow it down.
+36:5036 minutes, 50 secondsThat is quite, quite cool stuff.
+36:5336 minutes, 53 secondsAnd this is information, where we do where we really look into this different levels of how much time do we still have?
+Chapter 19: Closing remarks
+37:0337 minutes, 3 secondsThat's perfect. So first, I'd like to very much thank our friends at Goodyear here for sharing.
+37:0837 minutes, 8 secondsI really think the story here is really exemplifies what you can unlock new capabilities, new business models, just new product capabilities as a result of some of these advances in technology.
+37:2137 minutes, 21 secondsThanks again. Thank you everybody. And please stay for the reception and the bar as well. You're invited for that as well. Thank you very much everybody. Thank you thank you.

@@ -1,0 +1,681 @@
+
+Search in video
+0:03
+I think we have an awesome group combining compliance and privacy. Uh
+0:09
+let's kick it off with some intros. I'll throw it to Anna. Hi everyone. Thanks so much Tom. Hello
+0:14
+everybody. My name is Anna SE and I am the US head of compliance at Laser Digital. Um it is the crypto asset arm
+0:22
+of NORA. Prior to joining Laser, I was the chief compliance officer at Gemini.
+0:27
+Um, I was a deputy chief compliance officer at Gemini and the chief compliance officer for Gemini Trust Company. Um, before entering the crypto
+0:34
+space, I sort of held various roles within Tradfi. Um, and like some of my other panelists here, um, I'm also an
+0:41
+attorney by training. I started off my career as an assistant district attorney um, at the district attorney's office in
+0:47
+Brooklyn. Hi, I'm Matias. I'm with Bermuda. We are
+0:53
+a privacy protocol and we are built on ZK and we're using uh Noah as our core infrastructure. We are an SDK that
+1:00
+essentially integrates into wallets uh but also integrates with assets. We're very composable and uh we are
+1:06
+particularly invested into facilitating the onboarding of institutions into the
+1:12
+space. Um we have a slightly different approach um that allows us to make uh
+1:17
+the reach of institutions much wider. Um and yeah looking forward to this uh conversation. Thank you,
+1:23
+Linda. Hello, I'm Linda Jen. I'm the chief legal and policy officer at A Labs.
+1:28
+We're the core service provider of the A protocol, which is the largest decentralized uh lending protocol. And
+1:35
+before I even go further, I need to ask what's the name of this panelist?
+1:40
+Well, we'll get to that. We'll get to that. Eric, why don't you go ahead? Sure. Hi, my name is uh Eric. I'm a
+1:47
+privacy and DeFi lawyer. I'm working now mainly with something called the private proof of innocence which is a
+1:54
+verification and trust layer for DeFi. It's an aggregator. If you can generate a proof then you know your origin is not
+2:01
+suspect basically. Thank you Eric. Uh and my name is Dominic Sagera. I started my career as a
+2:08
+consultant. I helped draft the Wyoming special purpose depository institution manual. Then I worked at NYDFS built out
+2:15
+some of the blockchain analytics and stable coin controls. And most recently, uh, as a consultant, I helped, uh, set
+2:21
+up California's defile evaluation system. And, uh, this is Bla1. He, uh,
+2:28
+helps me with my diabetes. He shouldn't, uh, cause too much many distractions, but fun fact, not sure how the privacy
+2:35
+bros are going to feel about this, but his vaccination records are current on the currently on the blockchain. Uh I'm
+2:41
+working on uh trying to get those as a proof of concept for verifiable credentials.
+2:47
+But unfortunately this panel is is not about the good of blockchain. It's about
+2:53
+the dark side. It's about when sanctions violations occur and when liability
+2:58
+comes up. And as we've heard from the last panel, there have been a lot more
+3:04
+exploits in the in the age of AI. And we see North Korea hacking, moving funds.
+3:13
+And the big question that a lot of regulators are asking is where does
+3:18
+responsibility fall? And I think this panel is in a a great position to talk about that. Uh I think it would be best
+3:25
+to actually start with with Eric uh on the privacy side.
+3:31
+Who's responsible for stopping these exploits? Where does the buck stop?
+3:37
+I think um Oh yeah, you don't have to touch it.
+3:43
+Okay, there we go. So I I I guess the first thing is that I I feel like at
+3:48
+these at these events we we lump all the different kinds of sort of malicious
+3:54
+acts into one. And uh the reality is different types of acts require a
+4:00
+different response, right? So, if it's a blocked property, well, then everybody has a uh duty to do something about it.
+4:09
+If it's it might be stolen property, that's not the same thing in the
+4:14
+details, right? And so um and then even more speculative things there you know
+4:21
+like in the traditional sense if it's only speculative you go to the bank it passes right through the bank they just
+4:26
+raise something they look into it after the fact and 12 days later they escalate it to the authority and say hey 120 days
+4:33
+ago this thing happened over here and I think it might have been suspect right and you've done your duty your duty ends
+4:39
+right there right and so uh but to your question you know who's I I think it's
+4:45
+very much dependent about what it is, right? And so, uh, the quick answer is,
+4:50
+uh, you know, sort of in the in the DeFi space where I'm working, the answer is simply to block it from using your thing
+4:56
+rather than, you know, say it says go somewhere else. Don't come here, you know. Um, which is one
+5:03
+possibility. If everybody does that, then you just end up with something you can't use, you know. There's another
+5:10
+possibility which we see elsewhere where they just freeze it, right? They just lock it. They flip the stable coins
+5:15
+especially just flip a switch and they can just freeze it temporarily or permanently. And I let other people
+5:21
+speak to that. Um, but who's responsible?
+5:27
+Everybody has some responsibility, but to what degree I think it really varies on this theme that I'm going in circles
+5:33
+on here, which is just it just depends what the event is. Nuance is super super important. Linda,
+5:39
+what do you think? Well, so um as someone uh who uh joined a labs
+5:47
+only a few weeks before the kelp dow um incident and you know this is all public
+5:52
+um it was really interesting to me because uh who were members of global financial crisis from 18 years ago.
+6:00
+Well, I do. I was in government when that happened. And it was really interesting to be at Avi Labs and and
+6:07
+and have to bail ourselves out. And we ended up spearheading the DeFi United coalition.
+6:14
+But the exploit did not happen on the A protocol. It happened outside of the
+6:19
+protocol, but the bad debt ended up with us. And so, I'm only speaking to what's
+6:26
+already public. Now looking back, we're still, you know,
+6:31
+in the process of um assessing postmortem doing postmortems, improving um expanding our um asset um listing um
+6:40
+standards, which um we recently released um our technical uh asset listing
+6:45
+standard. As Eric was saying, compliance is
+6:50
+actually multi-layered. You have a tech stack that is base layer, L2s,
+6:57
+D5 protocols, interfaces, and then you have blockchain analytic firms, you have
+7:02
+custodians, you have centralized um exchanges, everyone has a role, but it's
+7:08
+about applying the right type of control at the right layers. Another excellent answer, very nuanced.
+7:14
+I I can appreciate that. I'm sure the regulators will as well. Matias, how about you? Yeah, I I totally agree. Um I
+7:22
+guess from a product perspective um we are very conscious of what it
+7:28
+means um to enforce um rules and regulations uh and prevent this trend
+7:35
+from happening which is essentially pushing down responsibilities pushing responsibilities down the stack or up
+7:40
+the stack but in most cases down the stack. Um and we see a lot of conversations at the protocol level um
+7:48
+whether freezes are right or not and often they are an outcome of uh the absence of effective controls at the
+7:55
+points where they should have been. Um from our perspective as a privacy protocol um we have uh a lot of focus on
+8:04
+uh introducing effective verification um at the point of when something happens. So when you think of the transaction
+8:10
+life cycle, there are a lot of interactions that are taking place between users and protocols, between users and users. And often these
+8:16
+incidents happen um without any uh uh sort of interference and uh we uniquely
+8:24
+have the ability using ZK to actually enforce uh specific rules at the point of interaction which can prevent many of
+8:31
+the freezes and sort of like retroactive actions that are taking place. Um so from my perspective at the very minimum
+8:38
+we should differentiate between the protocol layer and the application layer. Um and specifically thinking of stable
+8:45
+coins I guess there are different kinds of stable coin designs. uh but at some
+8:51
+point there is I guess a fundamental question around the role of these protocols the role of uh what money
+8:57
+really is and if we have arbitrary ways of interfering with the flow of funds
+9:03
+then sometimes they're destroying the very purpose um of those products and so
+9:08
+if we have more effective controls at the application layer um we can prevent uh that from being a problem but we can
+9:15
+also more effectively enforce the rules I like it. Anna, how about you?
+9:21
+Thanks. I mean, I think really just deserve what to echo what everyone has been saying. You know, as participants
+9:27
+in the digital asset ecosystem, we all have a strong inherent interest, right?
+9:32
+To ensure that the platforms and that our ecosystem is not being used for any illicit or nefarious like purposes. And
+9:40
+I think what types of controls we need to implement and what is required and necessary to monitor to detect to report
+9:46
+any type of illicit activity depends in part of what information you know you
+9:51
+are have access to and depends on whether or not you have control in the movement of funds and I think what is
+9:58
+sort of interesting that we're seeing in this space and something that both I think Eric and Mateas has sort of alluded to is that there's now an
+10:04
+increased amount of sophistication in the type of technology and tooling that were able to use for purposes like
+10:11
+transaction monitoring or like wallet screening which really enables like all providers to be able to implement
+10:18
+riskbased controls that are both you know appropriate and proportionate to the services that they're being that are
+10:24
+being provided if I could. Yeah. So I think about uh
+10:31
+some examples of things you can do and all the conversations I had with regulators over the years. So before
+10:37
+this, I used to work in liquid staking or I advise liquid staking. And so when I would explain that Lido has 10
+10:42
+oracles, not one. They'd say like where where's the risk? And I'd say well these guys over here have one oracle. So you
+10:48
+know that's dangerous. They have 10. And they have a polling that says if five of 10 report and they're all the same to
+10:54
+rebase and that's a risk mitigation control about being exploited, right? In
+11:00
+uh PPY again it has sort of a bit of a scale. It's like the beginning of something
+11:06
+that's interesting, right? Which is you try to shield in. So you use a wallet. The the main client is rail gun. So you
+11:12
+try to shield in and get privacy, but then it blocks you for 60 minutes and runs a token trace for 60 minutes. So
+11:18
+you can't outrun the, you know, the hack. And then if you come out clean, uh, you know, it'll give you a note that
+11:25
+says these funds, you know, didn't get picked up in a trace. Um, but if you don't generate the note, it gives you
+11:31
+only one option. So this is the beginning of building some. It only allows you to revert to origin. So now
+11:39
+you have somebody who was on the blockchain, vanished, and comes back 61 minutes later with the exact same balance. That's a zero day bad actor
+11:46
+address that has never been discovered before. And so that's kind of contributing to the discovery of what's
+11:54
+going on. On the DeFi side, it does something. This is relatively new. If
+12:00
+you want to swap, like it allows you do a swap, but if your swap is greater than 10% difference for slippage and fees. Uh
+12:07
+if it's less than 10%, it just lets you swap. But if it's greater than 10%, it makes you run the full PPY 60-minute
+12:15
+block. And then if you can't generate that proof, you can't revert to origin
+12:21
+now. Uh it's actually gets hung. Sounds sounds like a freeze to me.
+12:26
+Yeah. Yeah. And so it's it's it's and so these are like just the beginning of uh some complex tooling, you know, that has
+12:33
+incremental based on behaviors that are automatically executed without a human
+12:38
+in the loop really. And so it's it's only like we're just in the infancy of this, but it can be built, right?
+12:43
+I I think that's fascinating. And I know we just talked about 10 minutes of all the bad stuff that happens in crypto,
+12:50
+but the other side of that is these programmable compliance controls that are, like you just alluded to, haven't
+12:58
+been seen in traditional finance before and maybe can actually do better at stopping financial crime than the tools
+13:04
+that we do have in traditional finance. There's been some great examples of very big banks getting fined billions of
+13:11
+dollars for laundering money, facilitating illicit loans. Uh I'd love
+13:17
+to hear, Linda, we can go straight to you for this one. Uh what is the next generation look like? What programmable
+13:24
+tools can we use to prevent the mistakes that led to traditional finance
+13:32
+failures? Well, I loved what Eric was talking about because when regulators hear
+13:38
+privacy, they just think, "Oh, uh, that's a bad word. Um, they're trying to hide, uh, illicit activities." But in
+13:47
+fact, to these privacy technologies that, you know, Eric and my TS are building, they are really should be
+13:53
+viewed as forms of selective disclosure and and actually proactive compliance
+14:00
+tools. And so I anticipate that these watch become very normal part of the
+14:07
+compliance tech stack and not only onchain but also um by traditional
+14:13
+financial institutions who will also see that this is actually a very cost-effective um compliance uh um tools that they can
+14:20
+integrate into what they're doing already. privacy coming soon to a that's
+14:26
+exciting. Well, I'm only speaking um personally because I I'm also I didn't mention
+14:32
+this. I'm a visiting scholar at Georgetown Law and just last week I held a round table on privacy enhancing
+14:38
+technologies and how decentralized identity um can be actually plugged into
+14:43
+onchain compliance um and potentially at the smart contract level. But that's um
+14:48
+that's my research hat. That's a fun research hat. We should talk about that. That'll be fun. Uh,
+14:55
+Matias, how about you? Like, talk to me about what you're doing at Bermuda. What cool new stuff are you guys cooking up
+15:01
+to make sure that people don't have to expose how much money they have to anyone with an internet connection?
+15:08
+Yeah, I think the the points that you just made are actually very important. Um I think generally the compliance
+15:14
+conversation is one of the most underappreciated conversations that we can have uh in B3 specifically when it
+15:20
+comes to um bringing institutions on board. Um from our perspective as a
+15:26
+privacy protocol we have um very effective ways of enforcing compliance.
+15:32
+Um and I think one of the um I guess biggest existing design flaws that we
+15:39
+have in the compliance world is the fact that we mostly rely on observability
+15:44
+um and existing institutions have to observe huge amounts of information most
+15:50
+of which is actually not required and it's an infringement on privacy but um it is necessary uh in order to enforce
+15:57
+rules and in most instances or not in most instances but in many instances uh it and is not effective and we have to
+16:03
+have retroactive actions such as freezes. Um what we are building um
+16:09
+ignoring the privacy component uh a ZK protocol has the unique abilities to
+16:14
+essentially essentially enforce uh verifiability at the point whenever an asset moves and we can enforce any
+16:21
+arbitrary rule at the very point when those assets move which mean which means ultimately that we can adhere to uh
+16:29
+issue specific policies. we can adhere to uh any form of regulatory policies that are supposed to uh apply. And the
+16:37
+big benefit of ZK and specifically what we're building at Bermuda is that we can have one protocol layer that offers
+16:44
+global liquidity and we can enforce multiple policies at the same time which means we can uh enforce policies from uh
+16:53
+different uh uh issuers. We can enforce policies on a uh jurisdictional basis.
+16:58
+uh and it sort of allows much more economic efficiency because all of a sudden we have a global liquid liquidity
+17:04
+layer and we can enforce um the rules whenever they need to be enforced. That from my perspective is a much more
+17:10
+effective way of uh enforcing compliance and it brings a lot of um um economic
+17:17
+benefits in doing that and we can prevent uh silos from existing. you
+17:22
+know, we have many privacy protocols that are effectively confined in their reach because the enforcibility is
+17:29
+really restricted to their sort of like operating world. Uh but in our case, we're very agnostic. Uh we're operating
+17:35
+across EVM. Uh and that allows us to essentially facilitate uh movement across any EVM chain which is uh very
+17:44
+wide. I one quick followup for you Matias. I I I read through the Ethereum
+17:49
+Foundations crops framework when that came out. How did you think about it?
+17:55
+Yeah, I think it's great. Um I think it's very good that we are sort of trending in that direction. I think it's very helpful um for Ethereum sort of go
+18:03
+down this direction and I think this crops framework helps everyone to think about the same. Uh I think having a
+18:09
+common mental framework uh is very important. uh and I think it's very uh
+18:14
+easy to understand and therefore um I think helps with uh general alignment
+18:20
+alignment between uh the web 3 builders and the institutions that are coming on board. From a privacy perspective there
+18:27
+has been traditionally always a bit of a friction point between sort of the cipher punk community uh and the
+18:33
+institutions which were very much unaligned in terms of values. uh and I
+18:38
+think now that's an opportunity to sort of realign and with that realignment we'll see uh infrastructure being built
+18:44
+that is actually an extension and an advancement of traditional financial in uh infrastructure that I think helps
+18:50
+with a lot of u financial adoption uh at a broader scale.
+18:55
+Yeah. Interesting. It's it's almost like they create this layer where they're not going to really have anything
+19:00
+specialized. They're going to be very general. Uh, and then it creates opportunities for Bermuda to provide
+19:07
+more specialized like policy. Exactly. Good job by you,
+19:13
+Anna. Let's let's wrap it up with um with how you see programmable compliance in digital assets.
+19:20
+Well, I mean I think sort of what everyone is saying in talking about controls and the sophistication in terms
+19:25
+of how these controls are built, it it's really critical and I think you know for any compliance program it is based upon
+19:32
+you know effective controls. But one thing that I think is that when we're thinking about some of the really severe
+19:39
+AML and compliance deficiencies that you know Dom you've alluded to earlier you know my view is is it's not when you see
+19:45
+these types of issues it is not just because that there was a control problem. They're usually more systemic
+19:52
+issues that were underlying at some of these institutions. So I think you know programmable controls and the
+19:58
+sophistication of them is absolutely important but for any compliance program you know you would still need a strong
+20:05
+culture of compliance within the organization. You need effective pro you know processes and strong governance
+20:11
+framework to support all of those controls which of course includes you know programmable controls as well.
+20:17
+It's very holistic. I do what I can.
+20:22
+I see the po possibility for what I I call like a
+20:27
+a series of independent modular escalating
+20:32
+protocols or controls. Right? So if I just use the PPI at the base layer, you were denied privacy. You got kicked out
+20:39
+into the wild that you could go to some other business or protocol and say,
+20:44
+"Hey, I got denied over here, but I'm actually innocent." So like I'm I'm wrongly tagged and that it's like a
+20:51
+different level of escalation but it's provided by somebody else right and then if you were able to then get
+20:59
+cleared if you will at that point that you could then come back and get privacy right and that there could be like a
+21:05
+third higher level right it's kind of like a funnel and I think traditionally we just think that this all occurs in
+21:10
+one business right like in one it's one desk to the next row or the next row to the next row but I think in DeFi or in
+21:16
+in web Three, we may well find that the thing that works is when it's provided
+21:22
+by these different layers are provided by different people where we say my only responsibility is to do this one little
+21:27
+thing. I collect a little tiny fee on that and that's the thing that we do. Um, and on the compliance side that you
+21:34
+just have to be willing to pay for it. Like, you know, if you're like, uh, you know, I have I have a big big sum and I want to get privacy because I want to
+21:41
+do, you know, I don't want to have a wrench attack. Uh, but I got denied because I got flagged here, but I'm not
+21:46
+sure by who. Um, that there needs to be there could be another layer, right?
+21:52
+That is there's a demand for it obviously. And especially if you think you've been wrongly flagged because I
+21:58
+mean at at the early stage that we're at I mean somebody told me here they said yeah I got flagged the other day I
+22:04
+couldn't get into and it's from the same and I said oh well the way PPI works is we can't tell you even we don't know
+22:11
+whether it was chain analysis tr we don't know who flagged your address because we just aggregate the
+22:17
+information and um so there's no recourse that person just has to like abandon and you
+22:24
+know he is very clear that he's never done anything wrong like you know and I said well you know that's not great though
+22:29
+it's not great and so you can start to see that there's a need for like another some some wrong you know some wrong
+22:36
+people can be tagged uh I'll call it innocent people can be tagged denied the private proof of innocence uh just
+22:42
+because of the way the industry works but it's just the beginning and I based
+22:48
+on what I've seen for the last you know few years being in and around the space is there's not really enough resources
+22:55
+first to like build the whole thing from top to bottom and it's more likely to emerge as this modular thing like sorry
+23:02
+I didn't work here go see those guys see what they can do if they build it. Do you think that's a good thing?
+23:08
+I do actually. Tell me more.
+23:13
+I think it avoids bias, right? Uh which can be a problem in this space. Um and
+23:21
+it keeps things relatively neutral. So, like you're you're you're you're going to re-enter with a suspicious tracing
+23:29
+history uh that may or may not be uh val like justified is the word I'm looking
+23:35
+for. And so there's like somebody else that might be able to undo your problem
+23:44
+and sort of relless situation and because at the moment with
+23:49
+just the automation, it just doesn't happen, right? And so it's not going to happen within the automated one, but
+23:55
+there could be, like I said, some other layer that does it a different way and
+24:00
+can free you somehow because you know to to get in contact and prove back to one
+24:06
+of the corporate providers analytics that this was wrongly flagged is is quite a challenge. And so um I mean
+24:14
+you're not going to do it yourself. It's unlikely. So no certainly not. And I mean I've seen
+24:20
+the blockchain analytics vendors uh make mistakes. Sometimes it's bad attribution
+24:26
+given by machines and you know there's serious decisions that get made by that. Uh Matias or Linda I see both of you.
+24:35
+I just wanted to just build off that a little bit more. Like Eric's already like thinking, oh, I mean, we're already
+24:41
+in this future, but uh but it's it's an ecosystem that already shows the travel
+24:47
+rule does not work. And how did anyone send a bank transaction today?
+24:54
+Okay. Nobody did you. Okay. Cor high school graduation just sent it. So, which bank to which bank?
+25:03
+Two banks in Canada. All right. Well, okay. Maybe. No, actually that would still they would still be subject to FATF um guidance.
+25:12
+The bank you used when they sent that transaction to the other bank as part of
+25:18
+the travel rule compliance had to send your information to the receiving bank. And so every time
+25:25
+you make a payment transaction, whether it's a wire transfer, whatever, your bank has to send your information to the
+25:33
+recipient bank. clearly doesn't work because $6 billion
+25:40
+later last year that's how much they spent on elicit finance compliance
+25:46
+US bank stopped less than what 1% of elicit activities and so it's very
+25:52
+expensive it doesn't work and then they are trying to apply it to self-custodial
+25:58
+finance and again this is why you know ver verification through ZK proofs at
+26:05
+maybe at the transactional level could be very interesting and this is where we could probably see and demonstrate how
+26:11
+much better cryptographic tools are for compliance. Yeah, 100%. Um I think they're extremely
+26:18
+effective and you can aggregate so many data sources in real time um without
+26:24
+necessarily disrupting the user flow. Um I definitely agree on that front. Um there's also a risk when it comes to
+26:31
+having better enforcability which is uh essentially that you know you can potentially abuse the system. there's
+26:38
+always this question in terms of okay um if I have this mechanism who can use that mechanism to actually abuse it uh
+26:44
+in a certain way and that's why I think diversification is also very helpful um
+26:49
+using multiple providers to have some form of neutrality um involved and again
+26:54
+I think the separation between uh the protocol level and the application level is very important um because otherwise
+27:02
+we fall into the trap that we uh absorb a very subjective perspective in terms of uh what rules need to be enforced.
+27:09
+You know, we are exposed to a certain part of the world. uh but that's not the entirety of the world and like we
+27:15
+shouldn't have the aspiration to sort of um serve only a fraction um of the
+27:21
+global user base and I think we can fall easily into the trap um of doing that by
+27:26
+choosing the wrong layer where we are going to enforce those rules and I think there are a lot of benefits economic
+27:32
+benefits uh globally from stable coins um and therefore uh being mindful of the
+27:37
+fact in terms of how they can seamlessly flow across the world while being able to adhere to rules
+27:43
+um at a different layer is is something that is very important. I couldn't agree more. Part of the
+27:49
+struggle being a regulator is trying to balance like we want innovation but how do we do it responsibly?
+27:56
+I mean I think I really agree with that and and Linda really just touched upon like a topic of travel role that's just
+28:01
+near and dear to me and I think you know for so many of us who are familiar with with the travel rule you really see that
+28:06
+you know it is essentially a recordkeeping requirement right that was paper blockchain paper right it's a recordkeeping
+28:12
+requirement that was for wire transactions like that was how it was developed that was what it was trying to
+28:17
+capture and then when you're trying to like implement or adopt that sort of framework to crypto transactions you
+28:24
+really see all the different friction points and the areas where it just doesn't quite work right. So, some of
+28:29
+the things that Eric and Linda and Matz are all talking about is how can we have like better tooling and more innovative
+28:35
+tooling that can still satisfy what we're trying to achieve, which is the actual be able to trace transactions
+28:40
+from point A to point B to point C without trying to sort of like use a the
+28:45
+proverbial like round peg or square hole or square pole round peg. I think everyone knows what I'm trying to say,
+28:50
+but like how do we actually be able to satisfy like that requirement, you know, but utilizing more innovative like
+28:57
+technology and I think that's something that's super interesting that my fellow panelists here are developing.
+29:04
+Well, I will say privacy is becoming more and more of a thing that appears to
+29:09
+be necessary for crypto holders. In preparation for this, I saw that
+29:15
+France through midappril had 40 wrench attacks that were originally started
+29:24
+because people were able to identify large balances on chain. That's
+29:29
+something that privacy can help solve, right, Eric? Yeah. So, this this topic raises two
+29:37
+things that uh where I have like a controversial opinion. One is I refer to the travel rule as a paper blockchain,
+29:43
+right? I'm gathering this historical information about what went where, when, so I can look it up someday in the
+29:48
+future. Well, guess what? That's what the blockchain does. It just stamps it. Uh the second thing is about the fallacy
+29:55
+of contamination, right? So when a bank like TD Bank gets
+30:02
+fined 3.9 billion for, you know, non-compliance and letting through bad funds, every person who has an account
+30:09
+there ever used TD Bank or was a counterpart is not contaminated.
+30:14
+Maybe they should all be frozen. And the reason and and one of the very obvious reasons that if everybody who ever
+30:19
+transacted as a counterparty to a bank that let through, you know, $500 billion
+30:25
+worth of illicit funds, it would mean there would be a liquidity crisis on a scale on the planet that nobody could ever like buy milk, right?
+30:31
+Do you want to send us all to the goolog for being counterparties? Yeah. Yeah. And so there's this
+30:37
+very weak narrative that nobody ever really pokes holes at, which is what what I call the fallacy, the contamination theory,
+30:43
+that just because uh some uh potentially or truly contaminated tokens brushed
+30:50
+your protocol in a minute amount that somehow the whole thing is contaminated
+30:56
+and that it's really unhelpful and it's a bit of an uphill battle. So I I like to mention everywhere I go because
+31:01
+people are like, "Oh, that's right. when the bank moves. So this is how the actual system works. So why are we
+31:07
+trying to invent some other system? And usually the people who are pushing that are people who are selling analytics.
+31:13
+You don't us often see the regulator and a legal uh law enforcement authority kind of saying that. And um and so it is
+31:21
+a challenge to be navigated and overcome in the space is what I call like the fallacy the contamination theory.
+31:29
+Do you know what I call it? I explain this uh this position this OFAC position
+31:35
+to our engineers. I call it the poop in the swimming pool analogy. I I say yeah the the way OFAC
+31:42
+sees it is a a baby pooped in the pool and now suddenly the entire pool is is tainted. But the truth is that's
+31:49
+actually not the case. Just because there was a a some money laundering that
+31:54
+accidentally got into the pool that was found out much later in time does not mean the entire protocol is
+32:01
+tainted. Um if you were to apply the what they did to tornado cash to TD
+32:06
+Bank. All everyone at TD Bank should have been frozen. Yeah. Well, I guess that raises the question
+32:13
+like Tornado Cash does have a compliance function. If you put money in tornado cash, you can get the onchain trail.
+32:21
+Theoretically, you could provide that to your bank and maybe they'll onboard you. But there must have been some lessons
+32:28
+that that privacy protocols learned from the sanctioned designation of tornado
+32:34
+cache. Matias and Eric, I'll let you go first.
+32:41
+Um yeah, I mean tornado cache is really like the representation of cipher punk
+32:47
+and they're very uh there are a lot of different ways in how you can design a
+32:52
+privacy protocol. Um I think tornado cash as like a mixer
+32:59
+stands by itself. Um we at Bermuda have a very different approach. um you can
+33:04
+achieve privacy very effectively without mixing funds in a way that they are not
+33:10
+um identifiable. And in fact uh instead of a mixer we have more of a spaghetti
+33:16
+approach uh which essentially allows us to really uh identify funds whenever
+33:23
+they need to be identified. Um in a way that we are without going too much into the details but essentially um being
+33:30
+able to uh give deposits a status uh and that status can be retroactively
+33:37
+um identified if it uh misses a compliance check. uh and so it prevents
+33:42
+the funds uh from being uh tainted and being mingled uh with other funds. So to
+33:49
+your point um there's no incidence of where we have funds that are either being stuck in the pool and then people
+33:56
+say oh now the pool has been contaminated and we cannot interact with the entire pool. Um and essentially then
+34:04
+we allow the uh bad funds to be withdrawn from the pool but in a way
+34:10
+that they are traceable uh which then allows law enforcement to actually interfere and do whatever they want to
+34:15
+do with the funds. So they're very different uh designs and how to facilitate privacy and from our
+34:21
+perspective like we start more with a compliance verification first angle and then the privacy becomes sort of the
+34:27
+byproduct uh and it becomes a lot more uh effective and it's more intended to
+34:32
+uh introduce more integrity into the system rather than offiscating funds to
+34:37
+the extent that they uh avoid laws and regulations. That sounds like a magnificent
+34:42
+innovation. Congratulations. Thank you. Uh, Anna, I'll give you the last word on on everything we've talked
+34:50
+about. That seems like quite a bit of pressure. Uh, but I I I think, you know, one of
+34:57
+the prevailing themes we're seeing here today, it's really the, you know, convergence, if you will, of both, you
+35:03
+know, compliance as well as privacy. And that these two things do not have to be
+35:08
+mutually exclusive. And I think from the work that sort of everyone is doing here on the you know on the stage here today
+35:14
+it's really an illustration of that and I think you know even more so like education in this area is also just
+35:21
+critically important for people to understand like how these protocol privacy protocols sort of like operates
+35:27
+um you know how it the different controls that are being built out and developed to prevent it from being misused as well. And I think both of
+35:34
+these things are just critical to continue to have this dialogue and have this conversation to just really foster
+35:39
+just better understanding. That's a great way to end it. Thank you very much, Anna.
+

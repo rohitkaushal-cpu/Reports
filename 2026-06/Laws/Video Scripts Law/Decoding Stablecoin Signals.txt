@@ -1,0 +1,927 @@
+
+Search in video
+Welcome and Context
+0:00
+Stefan, I am so happy to sit with you here today. I've been looking forward to this conversation. Thanks for having me.
+0:07
+Of course. And Stefan, you are the chief of blockchain at SH Group and we
+0:12
+actually recently connected both. I was, you know, on LinkedIn and I've been looking and and tuning into your own
+0:18
+podcast you have that is called Bitcoin Fiat and Rock and Roll, which I can highly recommend for for the listeners
+0:25
+today. And then I had the pleasure of meeting you at the Frankfurt Digital
+0:30
+Finance where we were both speaking and I think we both come to the realization that we we had to continue the
+0:36
+conversation on air. Absolutely. It was such a pleasure talking in that very spontaneous uh
+0:45
+move, how do you call it? Uh so we were very spontaneous at the conference. So
+0:50
+you just recorded us live and then 10 minutes later we were we were live on
+0:56
+social media I think on LinkedIn. Yeah. And that I found that very very cool very very natural and yeah I I was also
+1:04
+looking very forward to to this longer session here. Yeah. And I I really appreciate it and I
+1:09
+think we were both standing listening into a conversation on the stage and we were just like looking at each other
+1:15
+being like should we just go and do our own little thing? Yes. I think it was more interesting than yet another talk because I think we
+1:21
+are regularly on this conference and there are valuable talks obviously but not every every talk is as meaningful to
+1:28
+us as as the other ones and I think we we used the time in a very valuable way
+1:33
+to record our own thing. I'm glad you think so. I I thought so too, I must say. And and Steph and I, I
+1:40
+started Pentum because, you know, many of us are craving those raw conversation and also helping each other navigate
+1:47
+this transit we're all in. And just before we went on air today, we just spoke a little bit about it as well in
+1:53
+in terms of this sense making. There are so many things happening in tech and markets are constantly shifting. We're
+2:00
+seeing new headlines every single day. And I was just speaking to a a colleague the other day and it really feels like
+2:07
+keeping up is like a full-time job. And that's what I'm trying to to achieve with the Patreon podcast. And then also
+2:14
+from a personal perspective, I use these to challenge my own thinking and also kind of go into deep dives into topics
+2:21
+like stable coin and digital assets and blockchain that we're going to talk about today with people like yourself,
+2:27
+Stefan, that are like in the midst of of all of this. So, so that's that's also why we sit here today.
+2:33
+Happy to dive into my topics. And speaking of today, we are going to
+2:40
+dive into everything about like the dirty word of crypto. We're going to talk a little bit about agentic finance
+2:46
+within stable coins and then recent research about hurdles, um, acquisition
+2:52
+announcements recently and much more. So, Stefan, are you ready? Yes, I'm ready.
+2:58
+So, let's dive into it. Just to frame our conversation for the listeners very
+Why Crypto Feels Dirty
+3:03
+quickly and for all of you tuning in today, stable coin is now reaching a
+3:10
+$360 billion market here in March 2026.
+3:15
+We're seeing that this is highly concentrated within a very few players in the market, still very focused on US
+3:22
+dollars. And one of the things I wanted to dive into before we go into all the
+3:28
+news and what's happening today, I wanted to reflect a little bit about the journey
+3:33
+leading into today because historically crypto has been a little bit of a dirty
+3:38
+word. What do you think Stefan like what what changed over time as we reflect
+3:45
+back to understand where we are today and the phase that we're now in?
+3:50
+First of all, I think crypto is now a more dirty word than ever before because there are still some scams around and
+3:58
+price manipulation and stuff like that. I think many people who got rich quick quickly in the past and maybe lost their
+4:05
+wealth again in in the next downturn, they now went into different areas like betting sports or I don't know what
+4:11
+they're doing these days, but but I think a lot of people are quite sober about crypto these days and buying
+4:18
+defense stocks or I don't know what the speculators are doing. So, I think all this craziness is is a bit out of that
+4:24
+market. the speculators looking for other opportunities and and crypto always was a was maybe a
+4:31
+dirty word especially for banks because also crypto positioned itself as killing
+4:36
+banks or creating a new financial market without all the problems that that some
+4:42
+some people see see also with with with banks in certain areas or with c under certain circumstances.
+4:48
+And I think for for the regulated industry, the the
+MiCA and Bank Adoption
+4:54
+regulation for stable coin, especially in Europe, changed everything. That's my personal experience. So when I tried to
+5:02
+or maybe one word about my company and what I'm doing, I'm I'm working for Tuku. We are an innovation service
+5:07
+provider with nearly 2,000 people in Europe and Asia. So we try to help our clients to adopt new technology of any
+5:14
+kind. Yeah. It's not it's absolutely not restricted to blockchain. It's across the scene from cloud to cyber security
+5:20
+to AI, you name it. And blockchain is just one little part of that whole thing. We did projects for the last 10
+5:26
+years in that space starting trying to analyze if you could tokenize real estate to create CBDC solutions, stuff
+5:34
+like that early on. And I always wondered why is it so hard for banks to understand that whole
+5:40
+crypto thing because yeah, dirty word and speculation, stuff like that. And what what really struck me two or three
+5:47
+years ago was how different the the crypto thing was perceived once Mika
+5:55
+came in place because what what I didn't see is that banks operate on money rails and if you
+6:02
+don't have a digital form of money on a blockchain that's official legal tender
+6:07
+that you can operate on when you when you have to discuss the money thing then
+6:13
+everything else is is is even more complicated. So, so actually I think for Europe, Mika changed everything that you
+6:21
+have at least kind of an e-money solution that's running on on blockchains. You don't have to think about that too much as you need some
+6:28
+licenses to to to get involved. But there's a rather clear path in Germany.
+6:34
+Buffin sets the rules and if you if you behave according to the rules, then you have the money thing solved somehow. And
+6:40
+without that in place, you don't need to talk about tokenized equity or or other
+6:46
+crazy things because you need you need the the cash lag to pay some kind of interest or to to all the all that
+6:53
+surrounding things are not are not in place if you don't have the money solved on chain. And when you then fantasize
+7:01
+about DVP and atomic swaps or all the other good stuff
+7:07
+around around blockchain technology without having the the money leg in the
+7:12
+same technology that's simply a showstopper simply a showstopper and
+7:17
+with that for me everything changed that that now most of the banks are looking at that looking deeply into that even
+7:24
+thinking about issuing their own stable coin because tether earns so much money. Everybody notices that it's not easy to
+7:30
+replicate because it is regulated. Yeah. And Tether earns the money with a less
+7:36
+regulated version of a stable coin. So so so actually there are also downsides to this development. But but the stable
+7:43
+coin laws were the absolute unleashing moment that that helps everything else.
+7:49
+And now the US kicking in and finding the Genius Act and stuff and getting the the regulatory side in place for for
+7:56
+many many different things than even money. That's additional support for
+8:01
+this new take on the crypto space from my perspective. Yeah. And we're going to dive into
+8:07
+regulatory a little bit later in our conversation as well. But I do find it interesting that once regulators have
+8:13
+green ticked something, you you finally see all players across the ecosystem
+8:18
+diving into it, not just the first movers and the disruptors. It it reminds me a lot of the open
+8:25
+banking space as well, many aspects I would say. Absolutely. I couldn't agree more. So,
+Open Banking 2.0
+8:32
+so actually I'm quite close to the guys of Kosis and SAFE and there are very
+8:37
+very good presentations from these guys that actually say there this this is kind of open banking 2.0.
+8:44
+Yeah. With all the because we also talked about that in Frankfurt. It's for me
+8:49
+it's about unbundling and rebundling parts of financial services on top of wallet infrastructure and blockchains.
+8:57
+So the closest guys have a nice picture where in the in the past when you when
+9:03
+you wanted to engage with a bank you first need to open a deposit in order to get access to financial services. So
+9:09
+everything is tied together. So you you need to have a deposit and everything is built around it and the the bank owns
+9:17
+the relationship to the client via the deposit. Nowadays with this new
+9:22
+infrastructure you bring you can bring your own wallet actually. M uh you can bring your own assets in your
+9:29
+own wallet uh under certain circumstances. Let's put it like that what the regulator allows. But actually
+9:36
+you could come with your own wallet. You similar to a deposit and say okay just plug your financial service into my
+9:42
+wallet because I I come with my wallet and that's very much of what open banking was all about that you you have
+9:49
+kind of a plug-and-play architecture. That's what all these DeFi money leos built over the last 5 to 10 years.
+9:54
+Yeah. So, so I would really see that as the technological unleash for open banking actually that we now have very
+10:00
+different technological rails in place to really implement open banking and
+10:05
+very differently than it was imagined maybe 10 or 15 years ago. I think it's very fascinating because
+10:11
+you're the way that I have understood and I kind of um the way I think about
+10:16
+stable coin and blockchain is that it's an additional rail additional system
+10:22
+where money movement can happen. And back in the day when I was at a scale within open banking aggregator here in
+10:28
+Denmark and across Europe, we're looking at this as like the challenger to how do
+10:34
+you pay and how do you get paid and I'm seeing that same concept play for stable
+10:40
+coin and the blockchain. I think again looking back at how open bank open
+10:45
+banking became a thing is again it became a regulatory movement. Um, and I
+10:52
+wanted to hear because it's one of those things when you enter in a new phase of
+10:57
+digital transformation, new opportunities to pay, new rails to pay on um, and it challenges the current
+11:04
+setup um, just as stable current is doing. Which use cases do you see that
+Stablecoin Use Cases Map
+11:11
+are the first movers in the digital asset space with the blockchain?
+11:18
+I actually wrote in my latest uh newsletter uh issue about about that
+11:24
+whole thing. What's what's what's going on and I think I I thought a lot about that and you can find lots of articles
+11:30
+that handle stable coins but for me first and foremost you need to distinguish between retail use cases and
+11:36
+more institutional use cases. Yeah, let's look at at retail first. There again you have a distinguish to to
+Retail in Emerging Markets
+11:43
+distinguish use cases for developing markets where stable coins fill a gap where the banking infrastructure is not
+11:50
+as good as it could be and stable coins are very attractive for example to get
+11:56
+exposure to US dollar because they are denominated in US dollar usually. So look at Argentina where the the local
+12:02
+currency might not be as good as you you want it to and you have strong restrictions in the banking system to
+12:09
+even hold more than 100 US dollars and there people find ways maybe even around
+12:15
+the local regulations to get exposure to US dollar via stable coins and wallets.
+12:21
+So that's a clear use case in Argentina and other South South American states but also in Asia and and Africa. On top
+12:28
+of that, you have the whole remittance game where now people who work abroad send money home avoiding the old guys
+12:36
+like Western Union or or other things. So, it's very cheap, very fast. You don't get to charge 15% on the
+12:42
+transaction. You can pay two cents or so to get US dollar stable coins back to
+12:47
+your home country to your family. So these are all these developing country use cases around stable coins where
+12:53
+Tether went big and not many people know that for example Tether invests in
+13:00
+10,000 kiosk with solar roofs in Africa under the condition that they also
+13:05
+accept USDT. Yeah. So they do really development work out there to get their
+13:11
+stable coin implemented in these countries. Not many people talk about these these use cases. They are really
+13:17
+really helpful for the rural communities out there. Not everything that tether does might be
+13:22
+perfect but there are very very noble aspects about that whole thing. Yes, they earn money with that but they also
+13:29
+help these people and that's the flywheel that stable coin issuers like Tether create primarily in these
+13:35
+developing markets. That's that story. The developed countries use case is
+Trading and Exchange Rails
+13:41
+clearly tied very much to crypto and trading. So in the early days, that's also how Tether got big with Bitfinex
+13:48
+and as an as as their exchange. So to to to actually trade crypto, it was easy to
+13:53
+stay on the same rails. So if you had a Bitcoin USD pair, this was tied to stable coins, especially in on on the
+14:00
+decentralized exchanges where you needed to have a trading pair crypto on both sides. So you invented dollar form,
+14:07
+crypto dollar form, and that was USDT and later USDC. So that explained why
+14:12
+why in the developed countries stable coins were a thing. So you exchanged your normal fiat dollars against stable
+14:19
+coins and then got into into trading or you sent your fiat dollars directly on exchanges like Binance and Kraken and
+14:25
+and then traded and then there was an arbitrage opportunity between these centralized
+14:30
+exchange venues. So people sent their dollars then on the rails because of it was much faster than go back to fiat. So
+14:37
+you you stayed in the system. That's a very important thing that these these people were very close to to crypto all
+14:44
+the time and they they wanted to stay onchain not offchain because that was usually very expensive because someone
+14:49
+charged a high fee to get money in or out of the system. So that was a developed but also very retail heavy.
+Payments Giants Go Onchain
+14:56
+What we see now in the last one or two years is that the big players like Stripe create their own blockchains with
+15:04
+Tempo that are very much focused on utilizing stable coins as a core rails for the core business. So that's that's
+15:11
+that's a kind of an a cost centered scheme that you say okay we we we use
+15:17
+the the traditional fiat rails but actually going with stable coins is
+15:23
+cheaper for us. it's even open if if the if the cost savings are given to the
+15:29
+clients or if they just earn more money because they get cheaper. PayPal is going that route. I heard a
+15:35
+story that up till last year. So, PayPal also owns Venmo uh and up till last year
+15:42
+you couldn't send money from a Venmo account to a PayPal PayPal account for technical reasons. Now, they can use
+15:49
+PayPal USD to to to do exactly that integration. So these use cases are much
+15:55
+more internal now in the whole payment schemes and let's see where this leads
+16:01
+because it's less much less open. Yes, they claim to be permissionless with Tempo blockchain and arc blockchain by
+16:07
+circle and also Tether has plasma blockchain. So now these big big payment players use their own stable coin, use
+16:14
+their own paycoin optimized blockchain to serve with better conditions and
+16:20
+whoever makes the money. Let's let's see how that plays out. So that's that institutional realm very much focused on
+16:26
+payments not so much related to crypto where we see that that we see unfold.
+16:32
+Now, Tempo was just going live last week. And then we have even other aspects in the capital markets where we
+Institutions and Capital Markets
+16:39
+talk about DVP and the whole realm now of exchanges when you buy digital assets, when you buy tokenized stocks in
+16:46
+the future, but you also might need stable coins or other forms of tokenized digital money to pay there. I think the
+16:53
+verdict is still open if this goes more with wholesale CBDC or stable coins or some form of tokenized deposits. I don't
+16:59
+know what what will happen there but I think stable coins have a right to play there too if the counterparty risk is
+17:05
+managed etc. But there the the questions that get asked are very different. So how safe is actually uh holding hundreds
+17:13
+of millions in in a certain stable coin? What what if circle goes goes bankrupt? Do I get out my money? So there again in
+17:19
+this very institutional case there are still other questions to be asked. So
+17:25
+that's that's how I see that whole space and the maturity of these different use cases is very different. The the
+17:31
+remittance thing is 10 years old and developing at a at a rapid speed. The
+17:36
+the crypto thing is quite old and established. Stripe and stuff that stuff
+17:41
+is quite new but very promising happening now while we speak. And the institutional cases I think I think are
+17:47
+maybe one or two or three years down the line and and stable coins need to compete to other forms of digital money.
+17:53
+And I I kind of wanted to dive into what you just said a little bit more to understand like why it matters. All
+17:59
+these movements you were saying about talk about Stripe, Temple, PayPal, right? All these movements. We might be
+18:05
+able to also add the recent acquisition announcements with the BB NK for Mastercard, right?
+18:11
+Yes. Because again from my open banking acquisition days, we got acquired by Mastercard as well. and they talk about
+18:19
+this multi- rail strategy which is exactly the same as when they acquired open banking players because again it's
+18:26
+this concept of however and whenever you're moving money and getting paid and so forth they want a stake in that but
+18:33
+the way that I'm thinking about blockchain and stable coin and so on is about almost removing the middleman
+18:40
+and looking at and faster ways to have the relationship between the merchant
+18:45
+and then the the And what I find very fascinating is that
+18:50
+when we got a quiet fix for example, we had to go in and delete where we have been saying directly speaking about
+18:57
+removing the middlemen. But what what is it that you see is happening now with the cases you
+19:03
+highlighted here and what is it that people should keep in you know stay keep a watch for and what's still uncertain
+19:11
+in all of this? So I think old intermediaries are replaced by new
+New Intermediaries and Last Mile
+19:17
+ones for my first thesis. So I think the old intermediaries were very much playing at a regional level. So you were
+19:24
+strong in a certain jurisdiction that was your benefit. You engaged yourself into a certain supply chain for money or
+19:31
+payments let's say and there you were very strong and you established a strong partnership. Whereas in the new realm, I
+19:39
+think there we will see global intermediaries that are either Stripe or others or or maybe players who are close
+19:46
+to Stripe and that serve that market globally. For example, salary payouts
+19:52
+based on stable coins. Also a thing we we currently see unfold. Another use case that might be very interesting if
+19:57
+you have employees from around the world and you can easily pay them with stable coins and don't have banking relationships to Ethiopia or Kenya or I
+20:04
+don't know just one wallet. Yeah. So many many interesting cases. So I think we will see new intermediaries.
+Visa vs MasterCard Catch Up
+20:11
+Very interesting about Visa and Mastercard is that even if you use crypto like I so I use a crypto visa
+20:19
+card for nearly everything I pay with but it's the last mile problem. Yeah. So
+20:24
+the last mile problem is still dominated by these credit card companies and I think Visa did a fantastic job to be
+20:31
+relevant. So they have so many different partners, many many crypto players where
+20:37
+they with Circle and and Bridge, right? Yes. Exactly. But but also the the
+20:42
+players even like like Nosis. So I'm using Kosis Pay for example, which is a very cryptonative company. But yeah, how
+20:47
+do you spend your stable coin? Yeah. you you you need to go for through someone
+20:53
+like Visa in that case and I think Mastercard is is is less strong
+20:58
+traditionally on that on that level. So more most successful players partnered with Visa to be really honest and I
+21:04
+think this billion worth of acquisition of BVNK is actually a sign of we need to
+21:09
+move now because Visa is eating our lunch regarding these cryptonative users actually because Visa has quite some
+21:16
+strong partnerships in place there. I think the main reason for this acquisition of BBNK to catch up and say
+21:22
+okay actually we have a strong customer base there we have a strong technical solution that brings us maybe
+21:28
+head-to-head with Visa again the interesting question for the crypto players is do they accept that that the
+21:35
+credit card players avoid being kodak so kudos to these two players they didn't
+21:40
+sleep they see it coming they similar to black rockck and other vet
+21:45
+it's it's about survival it's about acknowledging actually it's the strongest acknowledgement of the technology that players like Black
+21:52
+Rockck, Visa, Mastercard pay that amount for M&A stuff to to to come up with new
+21:59
+solutions and admitting okay we don't even know if we can keep the margins as high as in the past. Something's moving
+22:05
+here. So that's for me the the the ultimate proof that we talk about the how and the when but not the if this is
+22:12
+coming because these strong players invest a lot lot of money and for them it's absolutely clear that this is the
+22:19
+future. Maybe it takes some time but that's that's the wakeup signal for everybody else who's still watching or
+22:25
+just preparing custody solutions. Yeah. and not dread really going into that business and and and actually
+22:32
+actively or even aggressively offering better conditions, better solutions,
+22:37
+more digital solutions to their clients. These guys are showing us where the future is. And the interesting thing for
+22:44
+the crypto guys is okay, you always promised strong alternatives to these old players, but where is it? So, do we
+22:51
+pay with QR codes, dynamic QR codes where you can directly pay stable coin from your wallet? How fast is that? How
+22:57
+open is that? Which blockchain is used then? Are you there? Where the users actually are? And that's all resolved by
+23:04
+Visa. We all know it's not about payments. It's also about insurance and really getting at the money if something goes wrong. This whole acquirer network,
+23:11
+everybody wants to get rid of the acquirer network, but then again, you enjoy the services that Visa and others
+23:16
+serve beyond the payment itself. It's more complicated if you dive deeper into these use cases. And yeah, that's the
+23:23
+open question for the crypto folks. how can they actually compete on the last mile with these players and that's
+23:29
+different in the developing markets when we talk about these kiosks in Africa. I think they seem to find ways to actually
+23:36
+make it an end to end thing uh with solutions from sale and opera mini going
+23:42
+more on mobile use cases etc. So that's very different from the developed countries for crypto. I think that's a
+23:49
+very interesting thing. Is is it compelling enough in the developed countries replace Visa or Mastercard? I
+23:54
+got some doubts where you see in the different markets developed or not is that direct merchant
+24:02
+to customer relationship sustainable or not benefits that we just
+24:08
+uh are so used to now uh with other players in the ecosystem that we would not want to necessarily move them. But
+24:14
+it's going to be interesting to see how that business case will uh will evolve over the next couple of months. I
+Europe Sovereignty Debate
+24:20
+suppose what what we see is the severity discussion in Switzerland and Europe. So with twint for example they in
+24:27
+Switzerland we have we have a paying scheme that that that could replace some of the American players. So Switzerland
+24:33
+is heavily discussing that topic. How can we there's a lot of money going out through American acquirers and players
+24:39
+that hold that charge quite high fees also for smaller merchants. That's that's also a political discussion if
+24:45
+the server like we see with cloud usage and AI usage now everything dependent on on the US
+24:52
+is there enough political motivation and economic motivation to really come up with something that's competitive
+24:58
+against US players that's far more complicated done in reality and do the users the consumers in the end buy into
+25:05
+that is it convenient enough is it cheap enough that's a question for entrepreneurs these days I don't know
+Europe Tech Sovereignty
+25:11
+whether the established players will be the answer to that or whether there will be some strong startups who fill that
+25:16
+gap and say we play the sovereignty game here and come up with modern technology like stable coins maybe in combination with
+25:22
+AI to create an alternative to these old networks. Let's see. I was having a
+25:27
+conversation and not to dilute our conversation here about soy but just to add to that Stephan I had a conversation
+25:33
+the other day about that like how realistic is it actually for us to do that in Europe because terminals our
+25:41
+phones everything is American so like is it still just this romantic narrative
+25:47
+that we have about you know bringing everything home to to Europe versus the
+25:53
+reality of how feasible would it actually be I think it will start with government
+25:59
+spending. So where does all the money go? Do you focus more on European
+26:04
+players or not? I think that needs to start there somehow with funding funding more local stuff. We see some of
+26:10
+movements in Germany to push for local AI factories and stuff like that. But yeah, let's see how far they get. I
+26:17
+totally agree. It's first about the fundamentals that you still might may be even needed
+Regulation And Political Will
+26:23
+to force some of these players to open up the the app stores and stuff like that to even create technical
+26:30
+capabilities that you can tap pay by tapping and stuff like that. A lot of
+26:35
+stuff has happened there regarding regulatory openness. But let's see who
+26:41
+who actually gets in and how these players defend. And they have obviously lots of possibilities to to to answer
+26:48
+these regulatory aspects somehow in a nice or or less nice way.
+26:54
+I think it needs a lot of money, a lot of will to political will willingness to to to actually change something here. I
+27:01
+think the consumers alone won't do it. Usually it's very easy to say then buy something else.
+27:07
+I think that's not enough. Exactly. Um, I wanted to hear from you,
+Coinbase X402 Explained
+27:12
+uh, Stefan because earlier here in March, the Coinbase CEO Brian Amstrong had been out talking about agentic
+27:19
+commerce and he was talking about how stable coin will be the kind of mechanism to make that a reality and you
+27:26
+also yourself hosting an event coming up here in a couple of weeks about uh,
+27:31
+exactly that. Uh, what's your take on that? Yeah, actually I was really fascinated last May in the in the week
+27:38
+when Coinbase dropped X42. So that's that's a very cool new standard. Maybe
+27:44
+we need to explain a bit. So what what Coinbase used is an HTTP status code
+27:51
+that's called payment required. It was invented in 1996. So in 1996, someone
+27:56
+wrote a spec that it could be useful if if an HTTP server could could answer
+28:02
+with before you get access to this resource, you need to pay me. Yeah. And that's 402. And interestingly, it would
+28:09
+was never implemented in the last 30 years because we didn't have the technical ideas how to do that. I find
+28:16
+that extremely interesting because that's the reason for all the ad traffic and the subscription model. So actually
+28:21
+you have two business models in the web. Either you pay for a subscription and get access to resources or you finance
+28:28
+yourself via showing ads and that brought all the web 2 craziness we see with all the bad sites uh
+28:35
+extracting value through through the attention economy. Yeah. And I think the answer to that is
+28:40
+Coinbase X42 where they say okay we we interpret that standard in a new way.
+28:46
+The the server answers with payment required. Here's the wallet address. We accept these stable coins and it costs 2
+28:52
+cents if you want to access this resource in HTTP. No, no crypto stuff involved.
+28:58
+Pure HTTP server and the client can say okay I pay that with my wallet and I create a
+29:05
+proof that I did it and I send it back in the HTTP header so that I get access
+29:10
+to that resource. Actually that's extremely an an extremely elegant way. So the technical guy in me says okay
+29:16
+that's the future because they created a very small standard opensourced it so and brought an implementation coinbase
+29:23
+wants to earn money with that for sure but you can implement your own version of that and I thought okay that's that's
+Agents Paying For Data
+29:30
+it with stable coins we now get aentic commerce going because you can could easily imagine you you you fund you
+29:36
+preund your agentic wallet yeah you give your agent a wallet and say okay everything below 5 cent when you need to
+29:44
+do research for me. I fill five $5 in there. Go with it and tell me if you
+29:49
+need more. So fantastic. And you can easily imagine how where that could lead. We all know these these newspaper
+29:56
+sites where you would once in a month read an interesting newspaper behind a payw wall.
+30:03
+That's the answer. I think it's very naive to think that there will be no answer to this nice idea
+Old Rails Fight Back
+30:09
+because obviously all the players now come up with their own standard starting with Google and AP2 and and and others.
+30:17
+Last week Stripe announced MPP that's very similar this even using XO2 for
+30:22
+certain stable coin things but you can also use it for giving your agent access
+30:28
+to your credit card under very strict rules. So they create policy frameworks
+30:33
+around that to make that feasible because Brian Brian Armstrong sometimes says okay there's no credit card for an
+30:40
+agent but there will be obviously all these players like we just discussed about Visa and Mastercard they are
+30:46
+innovating the hell out of that whole thing and if they see an opportunity to earn money with credit or debit cards
+30:52
+with agents they will obviously find a way and work around the blocking things that we saw in the past. So I think it's
+30:58
+a bit naive to say or or it's deliberate to say there is no credit card for an agent. Yes, but there will be or there
+31:06
+already is. They they will come with with alternatives. They will come with different payment uh with different uh
+31:14
+schemes for how expensive that that needs to become much less expensive. But
+31:19
+the question is can they deliver it and and if so how? So maybe they use the
+31:25
+stable coin below their whole credit card mechanism. So that's again the same
+31:30
+thing like with Stripe. So all these old players they they innovate on top of the
+31:36
+new rails. They might hide them away. They it's just the same API as before. It gets cheaper and in order to become
+31:42
+cheaper they are using stable coins themselves. So the question is do the users benefit by direct access to stable
+31:49
+coin payments? If they are clever, they would or do they pay one or two or three or five or 10% extra charge for the
+31:57
+convenience with the old players and only the future will tell which which one will win. I think it needs to
+32:04
+be convenient. I wish for the the open solution actually but we know we know the users they
+32:09
+usually go for the convenient easy stuff and yeah that's an interesting thing to watch how it plays out.
+32:15
+It's going to be very interesting with the the whole agentic. I I think it's going to be, you know, there's
+32:21
+conversations about how search engines are changing, how we discover products are changing because of of LLMs, you
+32:28
+have your, you know, your your claw or your chat GBT or whatever, right? And
+32:33
+then how how are we all purchasing stuff? Uh, it's going to it's going to be fascinating to see how that's going
+32:40
+to change, but to your point, you still need something to hold that the money
+32:45
+the Absolutely. Right. So I think it would be great to have wallets there. And to be honest, what's
+Agent Trust And Liability
+32:51
+very interesting is stuff like EIP 804. So that's a new Ethereum standard that
+32:57
+tries to become the registry for agents. So imagine you want to book a trip to to
+33:03
+Spain for holidays. And you say, "Okay, I've got a limit of€ 2,000 euro to go to
+33:08
+go to Spain, maybe with my partner." And you know, you agent, you you are my personal agent now. you know by
+33:15
+preferences I want to go into small boutique hotels and do a little road trip and let's do it for 5 days or I
+33:20
+don't know and I want to be at the coast a certain time and then you trust that agent and it books the trip in Italy instead of
+33:26
+Spain. So yeah, who is who is liable for that and what could possibly go wrong without maybe
+33:32
+trusting again booking.com as the intermediary for that whole thing. So that would would again same situation.
+33:39
+So either you directly interact with an agent but it's something goes wrong. The question is so who can I who who's
+33:46
+liable for for something going wrong or does actually booking.com or others use
+33:51
+these agents to give to give you another service that you don't have to think so hard because they know all about you and
+33:58
+actually they should be very motivated to know more about your your your preferences for for travel. This will
+34:04
+come obviously and for that for example this 804 standard is is is created to
+34:11
+create kind of a permissionless registry where agents can prove that they do their job in a very good way kind of a
+34:18
+reputation system for for agents. So you see a lot of stuff happening there. It's it's live on on Ethereum and other EVM
+34:25
+blockchains by now. The activity is not yet there as some people want us to
+34:31
+imagine. Yeah, it's taking more time to build the trust that people spend significant amounts of of of money for
+34:39
+for real world actions with with these agents. But that surely will come and will be again a very interesting
+34:46
+competition between very convenient centralized players we know from the past who will absolutely adopt this
+34:52
+technology or maybe more open standards, open technologies where you can pick and
+34:58
+choose and will be again depend on the on the consumers which route they will take or or new fintexs or new travel
+35:05
+techs or however you call them who who see a value in there build a their brand
+35:11
+fast, cheap. Maybe we we see the new Airbnb in that in that space that or that's organizing our travels via via
+35:18
+agentic stuff or or Airbnb comes along and says, "Okay, we have an agent for you." They are going into the whole
+35:24
+experiential experimental you know space. So who who knows? And again to your point earlier in terms
+35:30
+of with signals in the market, right? You also have Visa just going and announcing that they're now officially
+35:36
+having a program program in Europe around aentic commerce and then again
+35:41
+stripe and open AI have done a collaboration around aentic commerce. So it's going to be interesting to see how
+35:47
+this space is evolving. Stefan from your experience and with the conversations
+Signals Banks Must Watch
+35:52
+you are having what would you say the listeners should pay attention to?
+35:57
+What's still not clear that we should keep an eye out on? Oh, it's a lot of stuff. That's actually
+36:04
+that's my job to to be the signal in the noise. That's why I want clients to engage with us because we think we we we
+36:13
+can come up with with relevant market signals that might have a structural impact on their business. That's what
+36:18
+what what we we offer as a consulting to to challenge their digital asset strategy or their digital money
+36:24
+strategy. Not we we don't know usually we we we
+36:31
+don't know the the world of the banks or the clients better than themselves. So it's a joint effort. Yeah. So they they
+36:37
+need to think about how does it impact us. We can come up with these signals and make them think okay you might be
+36:43
+unbundled here and you need to think about your future role. What what's your future role when payments run on stable
+36:49
+coins and you don't have the stable coin? What's left for you? What's your role? What do you want to be in the
+36:55
+future? I think that you need to really contemplate about that now. It's not just about creating wallet
+37:01
+infrastructure for anything. You really need to think about the future. How would it unfold? What if players like
+37:07
+Stripe Paper get even more dominant if they serve your clients better than you can?
+37:12
+So what's left uh for you and what do which capabilities need do you need to
+37:18
+build up in that future and you need to regularly check in with the development in the market. So we
+37:24
+think that's actually a continuous exercise. So what we try to do is continuously sell our services into that
+37:30
+market to make sense of what's going on out there and work together with the clients to say okay that's actually
+37:36
+something you need to set up and prepare for the future. At this point in time
+37:41
+there are several things that are going on. We see for example onchain vaults a very interesting thing that could define
+37:47
+the ETFs of the future that it's far cheaper to run a fund or an ETF onchain
+37:54
+and have it automatically scale out in the future. But we also see on the money
+37:59
+side of things that you are interested in that ERP players like SAP are building native money rails with a
+38:05
+digital currency hub where banks might even be out that that in the supply chain you pay directly via stable coin
+38:13
+to to to your your partner companies in the supply chain and might use stable coins for that. Uh many many different
+38:21
+things are going going on. And agentic payments is is is another signal that that you need to be very serious about
+38:27
+because most banks for example still invest in mobile banking or the user experience. But an agent doesn't care.
+38:33
+An agent only plays on an API level. You need to be fast. You need to be reliable. You need to be cheap. Your
+38:39
+brand doesn't doesn't pay pay any anything back because there's no human
+38:44
+that judges your brand appearance anymore. It's all about performance, cost, etc. Yeah. So these are these are
+38:51
+very fundamental questions where you might need might be pushed back into an embedded role being an embedded bank or
+38:59
+embedded payment provider or I don't know but you need to think about that uh what what's left for
+39:05
+you in in the end or if you want to shape that thing. Yeah. Uh I think most banks don't shape it. They just prepare
+39:11
+for something or defer reaction to these whole movements. But now it's a I think
+39:17
+it's about time to wake up because you will need two or three years to prepare capabilities properly and and give an
+39:24
+answer to that whole development. It's super fascinating that we are all in this transit, right? Everything is
+39:29
+moving and you need to you better be on that train while it's ex leaving the port because if you're not then it's too
+39:36
+late perhaps or at least you have a lot of catching up to do. And speaking of like for you as a a bank or or any other
+39:46
+player understanding your role and the future of the market and how it looks like in the future, the way customers
+39:52
+are navigating and so on. Um just uh a few days ago the US the clarity act was
+40:00
+um was announced to step forward which I thought was really interesting also into
+40:05
+this concept of what the role is because the way that I understood it and that I see it is that stable coin again were
+40:12
+directly challenging the core of banking with deposits right which is now what
+40:19
+the clarity act have said that actually stable coin cannot go in and earn money
+40:25
+on holding uh the money and therefore earn on on the deposit. But it can still
+40:31
+use use or or or get paid the commercial model can still be in terms of the initiatives on why you should use stable
+40:39
+coin for paying and getting paid in the future. What's your what's your take there? I think you can't contain these
+Stablecoins Money In Transit
+40:47
+developments with with no regulation in this world because money and life will
+40:52
+find a way out of that box. For example, for years
+40:57
+I think it's it's a bit the the whole discussion about yield bearing stable coins is a bit over the top because
+41:04
+people are not used to these new rails and the possibilities of these new
+41:10
+rails. For me, for the last two, three years, I say stable coins are money in transit. I only need stable coins for
+41:16
+payouts. They and this as soon as stable coins settle down in a wallet, I would always
+41:23
+exchange it for something yield bearing of maybe a very different character. Actually, we created a comic two years
+41:29
+ago about how we imagine maybe we can link it in the show notes about and but it's two years old. So about how we
+41:35
+might imagine the whole money flowing around in 2030. Fluid we called it fluid
+41:41
+money and we we played with stable coins, CBDC and tokenized money market funds because as soon as a stable coin
+41:49
+settles down and you hold it for two or three days, you can easily exchange it for a tokenized money market fund that
+41:56
+brings you 3% yield. or you put it into a crazy DeFi scheme and you earn five or
+42:01
+10% yield depending on your on on on your risk appetite that that you have.
+42:07
+Do that seamlessly for the users if you have the right licenses in place. An example of a fintech that does that
+42:14
+maybe on blockchain rails but maybe not is trade republic in Germany. So if you
+42:20
+put some money on trade republic you get 2%. You as a user you don't know what what's
+42:25
+happening. I learned that money is put to a certain degree into money market funds hosted by Deutsche Bank or DWS. So
+42:32
+quite a significant player behind the scenes and you don't care. You actually don't care. You are somewhat in a
+42:38
+secured environment. You you get insured by Buffin to a certain extent for the first 100k. But that's for me the
+42:45
+playbook of the future. Users don't care which kind of money it is as long as it
+42:50
+is somewhat insured and you have not a traumatic counterparty risk or you your
+42:55
+money is going in a crazy part of the world. So if it's somewhat regulated by the local regulation and you have a
+43:03
+somewhat decent player there then this player will find a way to make most out of your money and that will win. And
+43:09
+over time, this will change the rails because simply for these players, it's cheaper to do it on a blockchain
+43:17
+and use stable coins for pay in pay out, use tokenized money market funds to earn yields if there's enough euro
+43:24
+denominated tokenized money market funds, which might not be the place now to go big with that. But this will
+43:29
+obviously come because it's simply cheaper. And yes, it will take time. It won't happen tomorrow.
+43:36
+But there's no way to avoid that development. It's as simple as that. You can buy time but you can't change that
+43:42
+future because cost efficiencies will bring it down. And my prophecy is there that we are still it's still taking some
+Preparing For The Fast Shift
+43:49
+time but then at a certain time when everything falls in place when different
+43:54
+asset classes are there and you can easily swap A to B then it might happen quite fast and some players will be
+44:00
+quite surprised by how fast it's going and they are absolutely not prepared for that future. That's what I try to
+44:06
+achieve in my talks to banks that hey it's about time to get your stuff ready
+44:11
+to get prepared to get at least the infrastructure ready. It's not so much about the use cases. Everybody is forced
+44:17
+to think in use cases but this is also a defense play. You need to be ready when
+44:22
+this thing kicks in because then you don't have much time to react when people get get an easy chance to get 5%
+44:28
+yield on something instead of 0 one on that on that deposit because then when
+44:34
+no ordinary people start to when it's time gets tougher like with this crazy geopolitical situation and money is
+44:41
+earned harder way and your neighbor knows how to earn 5% and you still have the bank the money in your bank and get
+44:48
+nothing. Yeah. uh this will change the picture quite dramatically when ordinary people have easy ways to swap out of that
+44:55
+system that doesn't work for them anymore. Yeah. And um then you can argue about the importance of banks with
+45:02
+lending out money. Yes. But people will vote with their feet I guess at a certain point in time.
+45:07
+Yeah. It's I think it's it's um it's fascinating to follow and there is just
+45:13
+so many news happening every single day and and and week and as I started out
+45:19
+saying it's a full-time job to figure out what's going on. So it's great to be able to join a conversation with you
+45:25
+Steph and to help navigate and make sense of everything that's happening and understanding what all these signals
+45:31
+mean and why you should pay attention. And I think it's safe to say that that things are moving now and that you can't
+45:37
+just sit on your hands and hope for it to be a reality in five years.
+45:42
+Absolutely. Stefan, I have absolutely joined our conversation. We're coming to an end.
+Wrap Up And Where To Follow
+45:49
+Your honesty and energy is always a pleasure. I'm so happy and I'm sure it's not going to be either the first or last
+45:56
+time that we sit together and trying to debug what's going on. Thank you for having me. It was a true
+46:02
+pleasure to talk to you again and hope you get very successful with this podcast. I really enjoyed it and hope
+46:08
+the listeners took some value out of our conversation. Absolutely. And where can people follow you if they want to know more?
+46:14
+Oh, I'm easily to be found on LinkedIn. That's kind of my home turf. Constantly
+46:19
+posting stuff there. I've got a newsletter there. Uh obviously I also have an email, but maybe just pick me up
+46:26
+on LinkedIn. That's the easiest way to find me. Yeah, perfect. Thank you, Stefan. and I
+46:31
+will speak to you later. Cool. Thank you for having me.
+46:37
+Thank you so much for spending your time with us. I hope you enjoyed the show. If you have feedback, topic ideas or guest
+46:44
+recommendations, we are all ears. Pentrum is growing thanks to our community of listeners. So, if something
+46:51
+resonated with you, we would love for you to share your favorite takeaways.
+46:56
+And just a quick note, the views shared by our guests are entirely their own and don't necessarily reflect the companies
+47:03
+they work for. That's it for now. Thanks again for tuning in. Until next time.
+

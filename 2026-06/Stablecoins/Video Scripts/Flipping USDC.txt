@@ -1,0 +1,751 @@
+
+Search in video
+0:03
+So yeah, today I'm here to tell tell you
+0:05
+about decentralized stable coins through
+0:07
+the lens of Polaris and trying to
+0:10
+highlight how this is a critical problem
+0:12
+for the space and it's actually
+0:14
+connecting pretty well to the previous
+0:15
+topic. We're going to talk about
+0:17
+counterparty risk, trust minimization,
+0:19
+and a lot of other cool things. So yeah,
+0:23
+I am involved in Polaris. to building a
+0:26
+decentralized stable coin infrastructure
+0:28
+and we're going to be running you
+0:30
+through uh the model today. But before
+0:33
+we get to that, um there is actually
+0:36
+tons of progress being made in terms of
+0:39
+realizing we have a problem because uh
+0:42
+few years ago uh nobody really cared. uh
+0:47
+decentralized stable coin were really
+0:48
+niche and even um the higher ups if we
+0:52
+can call them like this were not really
+0:54
+taking the problem seriously enough. But
+0:57
+recently Vitalik started looking at the
+1:00
+problem more uh more seriously and
+1:02
+essentially cornered the situation
+1:04
+pretty well where he summarized those
+1:06
+three main issues that need solving in
+1:10
+order to build a credible decentralized
+1:12
+and scalable uh stable coin. And so the
+1:16
+three are essentially first the USD
+1:19
+dominance the dollar dominance. So right
+1:21
+now it's like 99% or something of the
+1:25
+stable coin are dollar pegged. You have
+1:27
+a bit of maybe 5 billion circulating of
+1:30
+gold peg stable coin and 500 million of
+1:33
+euro peg stable coin for a grand total
+1:36
+of $310 billion. So that gives you an
+1:41
+idea of the proportion. Everything is a
+1:43
+dwarf except dollar stable coin. Uh the
+1:46
+second one is a big and longgoing one
+1:48
+for decentralized stable coin and it's
+1:50
+the oracle problem. There's several
+1:52
+approaches that have been experimented
+1:54
+with here and are pretty interesting. So
+1:57
+uh liquidity v1 has an oracle switching
+2:00
+logic protocol shipped like five years
+2:02
+ago. So that was really good for back
+2:04
+then. more recent protocols have
+2:06
+interesting approaches like ethics
+2:08
+protocol is using a medianizer and
+2:11
+that's a very credible way to approach
+2:13
+the problem that is going to be
+2:15
+harnessed in polaris as well. Um but
+2:18
+yeah the oracle point is a pretty
+2:19
+technical one. We're not going to be
+2:21
+focusing too much about this one today.
+2:23
+Uh the third one is also interesting and
+2:26
+it's a question of uh providing a
+2:28
+competition to staking right because
+2:30
+essentially um if you use ease as
+2:32
+collateral then you're in face of a bit
+2:35
+of a dilemma either you accept the stake
+2:38
+is collaterible so that your user have
+2:41
+maximal yield essentially they don't
+2:43
+have to forgo the staking yield in order
+2:45
+to use your protocol but then you add a
+2:47
+counter party in your system and that
+2:49
+makes it a bit hard to build trust
+2:53
+minimize stable coin with with this
+2:55
+assumption or you don't take ST is
+2:59
+rocket is whatever ST is variant as
+3:01
+collateral in your protocol but then you
+3:03
+have a situation where essentially user
+3:06
+will start by default thinking okay so
+3:09
+if I put my E here I'm forgoing my 2.67%
+3:12
+six 7% that it is right now of taking
+3:15
+yield into your protocol and so uh uh
+3:20
+how do you make up for that? So that's
+3:22
+essentially our scope. Uh and as always
+3:25
+I'm long so I'm going to speed up a bit.
+3:27
+Sorry. So uh quick quick situation on
+3:30
+the stable coin. Uh essentially USDC
+3:34
+everybody's pretty aware of it. Super
+3:35
+centralized stable coin no surprise
+3:37
+here. Uh where there is a bit of
+3:39
+surprise is maybe the counterparty risk.
+3:42
+Everybody love to forget about this one
+3:44
+on the USDC. We got an event three, four
+3:46
+years ago to remind us about it. The SVB
+3:49
+bank shortage. USDC was actually trading
+3:51
+at 90 cents or something for a whole
+3:54
+weekend. So people love to think, you
+3:56
+know, USDC, USDT, they are super sturdy.
+3:59
+They will never fail. Well, USDC himself
+4:02
+just failed a few years ago and will
+4:05
+fail again in the future because it has
+4:07
+massive amount of counterparties. some
+4:09
+of that those counterparties over a long
+4:11
+enough time scale will eventually fail
+4:13
+and maybe the system will survive maybe
+4:15
+not maybe it will just be a temporary
+4:17
+disturbance like we saw with SBB but the
+4:20
+risk is real and we cannot ignore it uh
+4:23
+there's been approach in the space to
+4:24
+build more or less decentralized stable
+4:26
+coin with maker DA now sky uh it started
+4:30
+pretty clean with what we know called
+4:32
+side that was only eastbacked but
+4:34
+essentially every update of D introduce
+4:37
+more contart risk and degrades the
+4:40
+collateral even more. So when they
+4:42
+switch from side to die, they introduce
+4:44
+a USDC dependency and a lot of other not
+4:47
+so interesting things. And then when
+4:49
+they switch to USDS from D, they
+4:52
+introduce the possibility of having a
+4:54
+blacklist and even more dirty collateral
+4:57
+in terms of real world assets and so on.
+4:59
+And the new kid on the block, the USDE,
+5:02
+is a basis straight stable coin. Or so
+5:04
+most people think because it did start
+5:07
+like this, but it's essentially mostly
+5:09
+um I like to call these a risk blank
+5:12
+check stable coin because it started as
+5:15
+a contra
+5:17
+stable coin. But as the basis trade
+5:19
+compressed, it switched to essentially
+5:21
+being a real world asset wrapper and
+5:23
+most of the holder are not even aware of
+5:25
+it. So their risk exposure evolved
+5:27
+completely over a few weeks and most of
+5:31
+the user did not even realize when they
+5:33
+used USDE they signed a risk blank
+5:35
+check. Um so what we're building at
+5:38
+Polaris is a full infrastructure to
+5:41
+address all of these issue. It's built
+5:43
+over three tokens uh that are
+5:46
+synerggetic with one another and make
+5:47
+the the core system. So you have the pe
+5:52
+we're going to go deep into this one
+5:53
+that's a focus of our presentation. Uh
+5:55
+but that's essentially the collateral of
+5:57
+the system. The system is then able to
+5:59
+output different kind of stable coin. We
+6:01
+will focus on PUSD for simplicity. And
+6:04
+there is the polar token which is on
+6:06
+stewardship token. So stewardship will
+6:09
+also details that it's somehow a bit
+6:12
+like governance but quite different
+6:13
+because our system is immutable and
+6:15
+massively constrained. So the the the um
+6:18
+governance which is called stewardship
+6:19
+cannot change as many thing as it can on
+6:22
+a die and you cannot have an update that
+6:25
+transform the system completely like
+6:26
+we've seen on maker. So uh this is
+6:30
+probably the most important part to
+6:31
+understand the key innovation we found
+6:33
+to be able to use as a collateral in the
+6:36
+system have a yield that is competitive
+6:38
+with the staking yield and at the same
+6:40
+time have an interesting asset in terms
+6:42
+of what we can do with it for the CDP
+6:45
+system is using a bonding curve that you
+6:48
+can see on screen. So essentially users
+6:50
+are coming in with the is they are
+6:51
+swapping against this bonding curve and
+6:53
+they're getting pees. uh the piece is
+6:56
+then the asset that is used as
+6:57
+collateral in the system and as we
+7:00
+envision it to be used more broadly into
+7:02
+D5. Uh this has a lot of advantages uh
+7:06
+especially even compared to a stage
+7:08
+system because the bonding curve act as
+7:11
+a permanent always available liquidity
+7:13
+provider. So essentially the liquidity
+7:16
+available on the piece grows as the
+7:18
+system grows and there is no question of
+7:21
+what if the liquidity provider don't
+7:23
+provide liquidity anymore or uh
+7:25
+withdrawing queue like you can have on
+7:27
+the sties.
+7:29
+Um
+7:31
+one of the most interesting mechanism
+7:33
+with this p is how it's designed with uh
+7:35
+forever rising flow against east itself
+7:38
+and there is two main mechanism to feed
+7:41
+this flow rising mechanism. So the first
+7:44
+one is pretty straightforward. Every
+7:46
+swap made against the bonding curve is
+7:48
+charged a fee and this fee is used to
+7:51
+raise the floor up. So over time as
+7:53
+there is activity on that bonding curve
+7:55
+the floor simply goes up through this
+7:57
+first mechanism. The second one is a
+8:00
+pretty novel mechanism on the polar
+8:03
+token itself. So essentially the only
+8:05
+way to bring polar token into existence
+8:08
+is to burn pees which push pushes the
+8:11
+price up and it's an elegant way to
+8:13
+connect polar to the whole system
+8:15
+because essentially the polar token are
+8:17
+brought into existence by performing the
+8:20
+most synergetic action possible to the
+8:22
+whole ecosystem.
+8:25
+Um in terms of uh I was telling you
+8:27
+about pees is used as collateral in the
+8:29
+in the CDP but it goes beyond it. we see
+8:32
+a life for P is in defy because it's a
+8:35
+product with competitive yield on ease
+8:38
+with different um risk and and
+8:41
+compromises than a ST is and so it makes
+8:44
+for an attractive hold for any ES
+8:47
+essentially and this table recaps to you
+8:49
+the main difference but they're mostly
+8:51
+in terms of the liquidity because on
+8:54
+stake you do have you know liquidity on
+8:57
+on curve and other exchange on rap
+8:59
+steakies but you're at the mercy of
+9:00
+liquidity providers
+9:02
+which can withdraw the liquidity if a
+9:04
+crisis happen and then you're left with
+9:07
+the exit queue that have a delay and
+9:09
+other constraint on PS you're swapping
+9:12
+against the bonding curve and you have a
+9:13
+predictable capacity in how much you can
+9:16
+you can swap uh the exposure itself is
+9:19
+also different because uh pe is not
+9:21
+involved in validating the network in
+9:23
+any way so you don't have all the risk
+9:26
+associated with that
+9:28
+uh so to go back to vitalik's first
+9:30
+point because we go beyond the dollar
+9:32
+polaris. We outputting a whole
+9:34
+infrastructure to output output any kind
+9:37
+of stable and we're going to build
+9:39
+ourselves the polaris team the PUSD and
+9:42
+the P gold but we're going to make the
+9:44
+model the CDP model available to any
+9:47
+relevant team to use and harness to
+9:49
+output for instance PCHF or P euros or
+9:53
+the one we like to use as a joke but
+9:55
+could happen probably is the P big Mac
+9:58
+tracking the Big Mac index. uh those are
+10:00
+essentially synthetic asset. The
+10:02
+infrastructure is able to handle any
+10:05
+kind of depth asset as long as there is
+10:07
+an oracle providing the price for it on
+10:09
+chain. Um the infrastructure is flexible
+10:12
+enough to even support negative interest
+10:14
+rate. That's why we are envisioning a
+10:16
+PCHF or a P gold uh simply because the
+10:20
+borrowers are incentivized and so
+10:23
+depending of the specificities of each
+10:25
+asset you might have negative borrowing
+10:27
+rate
+10:29
+and just quickly on the stables
+10:31
+themselves because this is also one of
+10:33
+the key innovation of polar polaris in
+10:35
+how they stabilize and it's it's enabled
+10:37
+by the bonding curve. So essentially on
+10:39
+the stable coin you have both a
+10:41
+redemption mechanism similar to what you
+10:43
+could have in a liquidity V1 or V2 but
+10:45
+with specificities but a completely
+10:48
+novel mechanism which is the minting and
+10:51
+it's essentially the inverse of a
+10:53
+redemption. So if the stable coin is to
+10:56
+be over pegged at some point, an
+10:58
+arbitrageer can trigger this minting
+11:00
+function and it will mint stable coin
+11:03
+against existing position in the system
+11:05
+that can then be sold in the market to
+11:07
+restore the price to its peg. Uh the
+11:10
+novelty of this is now that we have
+11:13
+essentially onchain arbitrage action
+11:15
+happening when the coin is under peg
+11:17
+that's a redemption or over peg that's a
+11:20
+minting. So those the volume of those
+11:23
+two activity can be used as a signal to
+11:26
+achieve something that the whole space
+11:28
+have been stumbling ahead against for
+11:30
+years and never really succeeding which
+11:32
+is fully autonomous marketdriven
+11:35
+interest rate. So on this slide I give
+11:38
+you some overview of how it works for
+11:39
+other system but uh all the stable coin
+11:42
+system either have manually defined
+11:44
+interest rate by governance or uh very
+11:47
+constrained um user defined interest
+11:49
+rate on liquidity v2 or other kind of
+11:53
+constraint they're not able to
+11:54
+dynamically adjust to the market
+11:56
+conditions like we can see on on on this
+11:59
+polaris model. It's essentially a way to
+12:02
+have uh an idea of the price of PUSD in
+12:05
+the system without using an Oracle.
+12:08
+Uh do I have a bit more time to wrap up?
+12:10
+Yeah. Okay. Uh just quickly because this
+12:13
+is also an important point. The vision
+12:15
+we have for Polaris is we want to have a
+12:17
+system where uh there are the strongest
+12:19
+guarantees offered to the users. So we
+12:21
+were talking about the die you know USDS
+12:24
+example where the system essentially
+12:26
+degraded over time through the various
+12:28
+update and the risk increased massively.
+12:32
+It completely changed of nature from uh
+12:34
+five years ago to what it is now. So a
+12:37
+stewardship is essentially one answer to
+12:39
+address that. The core of the system is
+12:41
+immutable with parameters that can
+12:43
+evolve within hardcoded range and the
+12:46
+per the periphery of the system has a
+12:48
+bit more flexibility and the stewards
+12:52
+the holders of polar token are the one
+12:54
+who can govern those parameters. So they
+12:57
+are essentially here to help the system
+13:00
+fine-tune its parameterization to adjust
+13:03
+to long-term trends but the system
+13:05
+itself self-stabilize and the stewards
+13:07
+are as the name will suggest more
+13:10
+stewards in terms of deciding which type
+13:12
+of um partners to on board into the
+13:15
+ecosystems and and decision like this
+13:17
+that really requires a human touch but
+13:20
+the key core system function like the
+13:24
+interest rate decision are fully
+13:26
+automated. did.
+13:28
+So yeah, that's the core for Polaris and
+13:31
+I think you'll understand why it
+13:33
+matters. It's a key time for tackling
+13:37
+this problem because again now the the
+13:40
+space is dominated with centralized
+13:42
+stable coin all the risks that comes
+13:45
+with it. Seizing of asset, freezing of
+13:48
+assets, sometimes even u illegitimate
+13:52
+freezing of assets. Imagine if you wake
+13:54
+up one morning and your 5,000 USDC are
+13:56
+frozen by mistake by circle. Do you see
+14:00
+yourself going after circle and arguing
+14:03
+your case so you get your assets and
+14:05
+frozen? I want to say good luck if
+14:07
+that's your situation because it's
+14:08
+probably a tough fight. Uh there are
+14:10
+other concerns as well. We see issuer
+14:13
+launching layer one the plasma chain and
+14:16
+so on for for Teslas. Um and so polaris
+14:20
+is is an answer of a lot of problem at
+14:22
+once. It's essentially a massive e sync.
+14:25
+It captures tons of ease. It will
+14:27
+capture tons of ease into the bonding
+14:29
+curve and use them as collateral to
+14:31
+output trustless stable starting with
+14:34
+PUSD and P gold but essentially offering
+14:36
+an infrastructure that anyone can
+14:38
+harness to deliver stable coin adapted
+14:41
+to their local situation. So if we have
+14:43
+people here that are very keen on having
+14:45
+a resilient counterparty free euro
+14:47
+stable coin, they could harness the
+14:49
+infrastructure to do so. Uh thank you
+14:52
+all for your time. I don't know if I
+14:54
+have time for question. No, I over
+14:56
+overlapped too much already. I'm sorry.
+14:57
+Uh you have QR code here you can scan
+14:59
+for more info on Polaris or the Telegram
+15:02
+channel for announcement and me and
+15:05
+Lawrence right there. We are at the
+15:07
+conference table summit for the next two
+15:09
+days. So you can catch us up. We'll be
+15:11
+at ECC as well. So if you have more
+15:13
+question just uh run into us. I'm pretty
+15:15
+easy to spot. Thank you for your time.
+15:18
+Have a good day.
+

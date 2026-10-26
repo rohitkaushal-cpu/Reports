@@ -1,0 +1,1609 @@
+
+Search in video
+Introduction — John Lagman (Bloomberg) and Stephen Richardson (Fireblocks)
+0:00
+Everyone, thanks for joining our
+0:01
+session. As you can see, it's stable
+0:02
+coins inside the bank stack. So, we'll
+0:05
+be talking about treasury settlement and
+0:07
+the operating model for the new 247
+0:09
+money. Now, my name is uh John Lagman.
+0:12
+Thank you again for for joining us. I
+0:14
+work for Bloomberg. I have a very long
+0:16
+title. It's not as cool as it sounds,
+0:17
+but I'm the APAC head of FX crypto uh
+0:21
+and gold actually too. Um marketer
+0:24
+product specialist uh with Bloomberg. uh
+0:27
+this is something we have uh coming back
+0:29
+into this market. So uh but yeah, enough
+0:32
+about me. I'd like to hand it over to uh
+0:35
+Stephen Richardson and uh introduce
+0:37
+himself and his and Fireblocks.
+0:39
+Hey John, uh really good to be able to
+0:41
+connect with you. Um so my name is
+0:43
+Stephen Richardson. I'm the chief
+0:45
+strategy officer and head of banking at
+0:47
+Fireblocks. Um, Fireblocks is a digital
+0:49
+asset infrastructure company focused on
+0:51
+enabling uh enterprise customers and
+0:54
+institutions to be able to engage and
+0:55
+build products with blockchain and
+0:57
+digital assets. Uh, I've been with
+0:59
+Fireblocks for 7 years now. Uh, and
+1:02
+looking very much forward to this
+1:03
+conversation today.
+1:05
+Okay, great. So, you know, in the
+1:07
+interest of time, let's just jump right
+1:08
+in. So you know Stephen maybe as star
+1:11
+can you kind of briefly describe um you
+1:14
+know where you sit in the kind of
+1:16
+banking institutional kind of stable
+1:18
+coin stack um and you know and from your
+1:20
+vantage point what do you kind of see is
+1:22
+that clear's kind of sign that stable
+1:24
+coin flow is still maybe more pilot than
+1:27
+or rather part of the real kind of
+1:29
+operating model for a lot of the
+1:31
+ecosystem.
+1:33
+Yeah, look, so Firebox uh we really act
+1:35
+as the core banking infrastructure or
+1:38
+control plane for digital assets. Uh
+1:41
+starting at the base infrastructure of
+1:42
+the wallet, um how do you really secure
+1:45
+the private keys that are necessary for
+1:48
+uh institutions to be able to interact
+1:50
+with the blockchain and safeguard assets
+1:52
+uh comprehensively all the way through
+Where Fireblocks sits in the stablecoin stack
+1:54
+to tokenization engines that are used
+1:56
+for the issuance of things like
+1:58
+tokenized deposits or stable coins. uh
+2:01
+all the way through like the
+2:02
+orchestration. So ability to really
+2:04
+manage how you interact and in effect
+2:08
+organize the way that money moves on
+2:10
+chain between yourselves and between
+2:12
+counterparties, right? So we provide
+2:14
+kind of like this holistic solution at
+2:17
+Fireblocks that really looks to solve
+2:19
+and help mitigate some of the the
+2:21
+complexity behind engaging with digital
+2:23
+assets for banks and financial
+2:25
+institutions. And so, you know, we
+2:27
+seeing a lot around banks engage with,
+2:30
+you know, understanding what they should
+2:31
+be doing with stable coins. Um, you
+2:34
+know, we work with folks like Kovalees,
+2:36
+which is a a consortium of banks that
+2:38
+are issuing a European uh a euro based
+2:41
+stable coin. [clears throat]
+2:43
+We're working with folks that are
+2:45
+effectively executing tokenized
+2:46
+deposits. Uh we're working with other
+2:49
+stable coin issuers. Right? I think when
+2:51
+you when you look at where things are
+2:53
+for traditional financial institutions
+2:55
+like banks, I think they're starting to
+2:58
+understand the implications of operating
+3:00
+with stable coins versus tokenized
+3:02
+deposits versus, you know, for a long
+3:04
+time central bank digital currencies and
+3:06
+what that looks like. And so they're
+3:08
+still in this in this phase of like
+3:10
+understanding like the broader utility.
+3:12
+Whereas I think in the cryptonative
+3:13
+segment, the utility for stable coins
+Why most banks are still in pilot phase
+3:15
+was really around like cryptonative
+3:17
+trading. And then in payments, we're
+3:19
+seeing like the utility of stable coins
+3:21
+for things like crossber transactions
+3:23
+and remittances, right? And we're seeing
+3:25
+a lot of growth. Like the volume of
+3:27
+those PSPs and payments providers
+3:29
+utilizing stable coins has grown
+3:32
+significantly. Where we are in banks is
+3:34
+that we're still having banks determine
+3:38
+and develop the underlying
+3:39
+infrastructure that they even need to
+3:41
+interact with stable coins and and
+3:45
+onchain assets, right? A lot of banks in
+3:47
+the past had built infrastructure that
+3:49
+focused on private blockchain networks
+3:52
+or highly vertical infrastructure where
+3:55
+assets would come into the bank and
+3:57
+would never leave. And interacting with
+4:00
+stablecoin completely upends that model,
+4:02
+right? You need a very different uh
+4:04
+architectural stack. And so, you know,
+4:07
+the reason it's still in pilot, right,
+4:09
+is that there's a decision that the
+4:10
+banks have to make of operating with
+4:12
+stable coins versus tokenized deposits
+4:14
+for economical reasons, right? The fact
+4:16
+that stable coins have to sit in full
+4:18
+reserve versus tokenized deposits that
+4:20
+can be rehypothecated. And then there's
+4:22
+a second problem of having the right
+4:24
+infrastructure that interacts with like
+4:27
+open blockchain ecosystems where
+4:29
+typically banks that focus more on
+4:31
+closed loop ecosystems, right? And so
+4:33
+until those two things get solved,
+4:35
+right, I think you're seeing things
+4:36
+still kind of at the early evolutionary
+4:38
+stages.
+4:40
+Okay. But I'm just curious, has it been
+4:42
+something though that you've seen it is
+4:44
+a lot of actually the pilot [snorts]
+4:46
+building been something more u sorry
+4:49
+just I was curious the the last couple
+4:51
+years or I mean my impression is for a
+4:54
+long time they kind of were resistant
+4:56
+but it seems like the speed that people
+4:58
+are moving is I guess quicker even if
+5:00
+they haven't made the final decision. I
+5:02
+I absolutely agree. I think in in the
+5:04
+with the passing of the Genius Act,
+5:07
+obviously Mika in Europe, uh with the CB
+5:11
+UAE has done um you know in Hong Kong
+5:14
+there's legislation around stable coins
+5:16
+and stable coin licenses. Same in
+5:18
+Singapore. I think there's much more
+5:20
+regulatory clarity which allows people
+5:22
+to invest in this side of the business,
+Regulatory clarity as the unlock: GENIUS Act, MiCA, CBUAE, Hong Kong, Singapore
+5:25
+right? I think without that clarity, I
+5:27
+think banks are not going to want to
+5:29
+spend millions of dollars and jeopardize
+5:32
+their existing businesses for something
+5:34
+that they have regulatory uncertainty
+5:36
+about. I think that's issue number one.
+5:38
+I think issue number two is that in the
+5:40
+fintech space and in the payment space,
+5:42
+you're seeing a significant push by
+5:45
+those firms to enter into businesses
+5:48
+that were traditionally dominated by
+5:50
+banks in corporate and transactional
+5:52
+banking leveraging stable coins, right?
+5:55
+And so look at what Stripe has done.
+5:57
+Look at other folks what other folks
+5:59
+have done where they're perfecting the
+6:00
+flows I think at the theme and middle
+How fintechs like Stripe are pressuring bank revenue models
+6:04
+kind of size corporates mid-size
+6:06
+corporates but those flows given that
+6:09
+stable coins are onchain assets that can
+6:12
+be held in a wallet that can be worth
+6:14
+you know hundreds of billions of dollars
+6:16
+can be articulated and service towards
+6:18
+large-scale corporates that are asking
+6:20
+for solutions leveraging stable coins
+6:22
+right and so it's much more impactful I
+6:25
+think where banks were willing to in
+6:26
+some ways write off things like crypto
+6:28
+trading because you know it wasn't core
+6:31
+to the bank. Corporate and transactional
+6:34
+banking is core to the bank rightex
+6:37
+crossber payments that is core to the
+6:39
+bank and so if that gets disrupted by
+6:42
+stable coins right um and disrupted at a
+6:45
+fintech or an emerging kind of finance
+6:48
+level um banks are no longer what I'd
+6:52
+say articulating and directing the flow.
+6:55
+they would be takers of flows that have
+6:57
+already existed or have already been
+6:59
+developed and created. That's a very
+7:01
+different position for banks to be in.
+7:02
+And so I think you're seeing a little
+7:04
+bit more urgency there in terms of
+7:06
+understanding the potential impact that
+7:08
+this could cause.
+7:10
+Okay. I mean maybe to help uh some of
+7:12
+our audience who maybe aren't as
+7:14
+familiar with, you know, how the banks
+7:16
+and institutional operators are bringing
+7:18
+this into their stack. I mean maybe from
+7:20
+a more like granular uh kind of uh
+7:23
+perspective are they looking is it being
+7:25
+more for like faster settlement they're
+7:27
+using the stable coins maybe better
+7:30
+treasury kind of mobility
+7:32
+uh you know obviously the whole 24/7
+7:34
+operating coverage you know or something
+7:37
+all of the above or something even
+7:39
+bigger or deeper you know how are how uh
+7:41
+when they're looking at it how are they
+7:42
+actually bringing potentially going to
+7:44
+bring this into their workflow
+7:47
+yeah look I I think there's there's this
+7:49
+view around faster settlement. I don't
+7:50
+think it's cheaper right now. Um and and
+7:54
+this idea of 24/7 operating coverage,
+7:56
+right? I think there's some real
+7:58
+underlying issues, right? It doesn't
+8:00
+matter if you have a wallet that accepts
+8:01
+a stable coin 24/7. If you haven't
+8:04
+changed your underlying infrastructure
+8:06
+at the bank to be able to read and
+What banks actually want from stablecoins: faster settlement vs. 24/7 coverage
+8:08
+respond to that 24/7, then it's it's
+8:11
+useless, right? So, I think there's some
+8:12
+underlying transitional transitions that
+8:15
+need to be made. But I do think faster
+8:17
+settlement and better you know treasury
+8:19
+mobility are two of the major reasons
+8:20
+and and just think about it this way. If
+8:22
+you know you're a JP Morgan or a City
+8:25
+Bank or someone with multiple branches
+8:27
+in, you know, multiple parts of the
+8:28
+globe, your ability to really service
+8:31
+your client on an endto-end basis is
+8:33
+pretty significant, right? But if you're
+8:35
+a large domestic
+8:37
+domestically systemically important bank
+8:39
+or a regional player, you're dependent
+8:41
+on other banks to really enable you to
+8:43
+serve as your customers for things like
+8:45
+crossber payments, right? And it's a
+8:47
+fundamental change in how like M0 money
+8:50
+moved in putting it on chain, right? So,
+8:53
+you know, today if you think about you
+8:55
+have a set of corporate clients that
+8:56
+need to make payments between, you know,
+8:58
+the US and Brazil, they're preunding
+9:01
+T+1, T+2, T+ 3 depending on like the
+9:04
+transaction basis. That's float that
+9:07
+that corporate client loses, right? And
+9:10
+if you're making that payment, that's
+9:11
+NIM that's going to another bank as they
+9:14
+execute that payment on your behalf,
+9:16
+right? So it changes like revenue models
+9:18
+s you know systematically by being able
+9:21
+to have like closer towards real-time
+9:23
+settlement right that means you can hold
+9:24
+on to money further to the point of
+9:26
+actually distributing those funds that
+9:28
+means you can invest it and earn yield
+9:31
+on that money both for your corporate
+9:32
+client or for yourself as a basis of NIM
+9:35
+or rehypotheication so I think there are
+9:37
+some real fundamental changes to the
+9:39
+model that faster settlement enables the
+9:41
+question is that faster settlement
+The role of tokenized deposits vs. stablecoins in treasury
+9:43
+through a stable coin or through
+9:44
+tokenized deposits or central bank
+9:46
+digital currencies. I think that's, you
+9:48
+know, wholesale CBDC's. I think those
+9:50
+are the questions that people are still
+9:51
+deciphering through on like the banking
+9:53
+side of the house, but I think there is
+9:54
+a solution set that's in place with
+9:56
+stable coins uh that allows people to to
+9:59
+take advantage of this faster settlement
+10:01
+and better treasury mobility.
+10:03
+I mean, you talked a lot about obviously
+10:05
+um tokenized deposits, stable coins. Um
+10:09
+I mean maybe in some ways people look at
+10:11
+it kind of like one versus the other but
+10:14
+when you look at say that those two
+10:16
+maybe things like RTP fed now even just
+10:19
+correspondent banking or internal kind
+10:21
+of ledgers I mean do you see those
+10:24
+specific jobs that kind of belong to
+10:26
+each one within that wider uh kind of
+10:29
+bank ecosystem of different parts like
+10:31
+payments etc. Yeah, look, I think when
+10:34
+you think about like RTP and Fed now,
+10:35
+those are like domestic payments routes
+10:37
+that help link payments between banks
+10:40
+within, you know, uh, you know,
+10:42
+different jurisdictions. And you have
+10:44
+them, you know, in in Brazil, you have
+10:46
+them in Europe, uh, you know, and it's a
+10:48
+way for money that's managed at the
+10:51
+central bank to be able to move and
+10:53
+effectively move between member banks,
+10:55
+right? Like that that is kind of what it
+10:57
+does. And generally those are pretty
+10:59
+quick and they're very strong domestic
+11:01
+payment systems uh etc. I think when
+11:04
+you're looking at things like tokenized
+11:05
+deposits, I think there's been
+11:07
+historically, let's say, a technology
+11:11
+debt that banks have, right? Especially
+11:13
+if you have banks with multiple
+11:15
+subsidiaries, right? So the IFD of a
+11:17
+tokenized deposit to me for banks that
+11:20
+are like operating within, let's say,
+11:21
+one state or one region without multiple
+RTP, FedNow, and where each payment rail belongs
+11:24
+subsidiaries, I don't necessarily think
+11:26
+that makes a lot of sense, right? But I
+11:27
+think when you're starting to think
+11:28
+about you have multiple subsidiaries
+11:30
+within different countries and you need
+11:31
+to settle among those subsidiaries and
+11:33
+you have a technology debt right within
+11:36
+your core infrastructure that you'd have
+11:38
+to overcome in order for you to use some
+11:40
+like database for the management of
+11:42
+those funds. I think tokenized deposits
+11:45
+become a very interesting thing, right?
+11:47
+Um because it allows you to settle on
+11:50
+chain between entities that you have
+11:52
+comprised of yourselves and basically
+11:54
+enable what becomes like a a pretty
+11:56
+smooth 247 operating basis for moving
+11:59
+funds, right? I think tokenized deposit
+12:02
+tokens are a little bit different in
+12:04
+terms of like operating across banks.
+12:06
+And then I think stable coins are the
+12:09
+open ecosystem alternative, right?
+12:11
+Because I think tokenized deposits, you
+12:13
+have to accept because they are
+12:15
+rehypothecated assets. Same as deposit
+12:17
+tokens, you have to accept the credit
+12:19
+risk of the issuing institution. The
+12:22
+idea of a stable coin that's fully
+12:24
+funded and fully backed based off of,
+12:27
+you know, either tokenized treasuries or
+12:29
+other uh liquid, you know, yield bearing
+12:32
+assets becomes a very interesting play.
+12:35
+It it basically becomes uh the public
+12:38
+version of commercial bankisssued money,
+12:40
+right? So what I think becomes an
+12:42
+interesting play is that stable coins
+12:44
+operate in a non
+12:48
+closed environment right USDC and USDT
+12:51
+can go across wallets whether or not you
+12:54
+belong to a member bank or not whether
+12:56
+or not you can connect to a different
+12:58
+exchange or not they can be sent to
+13:00
+anybody and stored and held as value
+13:02
+right and so that is the role that I
+13:04
+think stable coins play in terms of like
+13:06
+crossber settlement right the issue that
+13:08
+you have today is that if I have a
+13:09
+tokenized deposit and it can only go
+Stablecoins as open-ecosystem settlement vs. closed-loop tokenized deposits
+13:11
+between my bank and my bank
+13:13
+subsidiaries, then someone that receives
+13:15
+that tokenized deposit needs to be
+13:17
+onboarded to me as a bank in order to
+13:18
+redeem that for fiat. Uh same can be
+13:21
+said for like a closed loop deposit
+13:23
+token. The fact is that a stable coin
+13:26
+because of by virtue or at least in a
+13:28
+very liquid stable coin like USDC and
+13:30
+USDT by virtue of the fact they can go
+13:32
+to any wallet and that you user can go
+13:36
+to basically any exchange or an OTC and
+13:39
+be able to redeem that for their local
+13:41
+currency fiat makes a very strong open
+13:44
+ecosystem settlement utility right and
+13:47
+that's where I think the difference
+13:48
+between stable coins are today and like
+13:50
+some of the other assets that we're
+13:52
+seeing in the same way as if I $100,
+13:55
+right, of physical dollars by virtue of
+13:58
+what's backing it, right? So long as I
+14:00
+have that, generally I can find
+14:01
+liquidity for that via FX channels at a,
+14:04
+you know, at a currency exchange or or
+14:07
+with someone that's willing to take that
+14:08
+and provide me fe fiat on the other
+14:10
+side. So I think that is where stable
+14:13
+coins are very different in their
+14:14
+approach compared to like you know what
+14:16
+we talked about earlier.
+14:18
+Yeah. Um given that different uh that
+14:21
+they have to be on that different
+14:22
+approach, is there anything that can I
+14:23
+guess plug into current stacks to kind
+14:26
+of make that stable coin flow uh become
+14:29
+even more real institutional money
+14:31
+movement um you know rather than this
+14:34
+particular I won't call it special case
+14:36
+but you know this you know to basically
+14:39
+compete against the other things like
+14:40
+tokenized deposits etc. Look, I I I do
+14:44
+think already like I mean you know
+14:46
+outside of like you know city token
+14:48
+services and and and Kexus I mean
+14:51
+they're the use case around tokenized
+14:53
+deposits is not that scaled outside of
+14:55
+out of those two institutions right so I
+14:58
+mean that that is the truth I I think
+15:00
+stable coin volume today is being used
+15:02
+to settle pretty significant amount of
+15:05
+transactional volume look at what you
+15:06
+again I'll reference Stripe and others
+15:08
+and other PSPs are doing in the space
+15:10
+leveraging stable coins I think
+15:12
+obviously ly the big concern for banks
+15:13
+has always been you know what to do with
+15:15
+these on a yield basis right because
+15:17
+again they need to stay and be held it
+15:20
+doesn't have the same commercial model
+15:22
+as tokenized deposits where it can be
+15:23
+rehypothecated
+15:25
+but I do think that's where the benefit
+15:26
+of what we're seeing in terms of like
+15:28
+some of the tokenized RWAS come in right
+15:30
+so the idea that you can take USDC and
+15:33
+directly real time allocate it or
+15:35
+subscribe to Bidd or to Franklin and
+15:38
+Templeton or toddo is a great thing in
+15:40
+terms of how financial institutions can
+15:43
+come in and orchestrate yield management
+15:45
+on chain leveraging stable assets,
+15:47
+right? And it's a new product line and
+15:49
+offering that fits very similarly to
+15:51
+what banks do today. So I think there
+15:54
+are like whereas maybe a year ago there
+15:56
+weren't enough solutions outside of the
+15:58
+idea of stable coin acceptance and like
+16:00
+on and off ramping um you know those
+16:03
+were the two things that basically banks
+16:05
+could do to like operate in the space. I
+16:07
+think you think treasury management and
+16:09
+orchestration is a area they can play in
+16:12
+and start to build uh basis around
+16:14
+onchain FX is becoming one and then like
+16:17
+on and off ramping and stable coin
+16:19
+acceptance and custody becomes another
+16:22
+layer and like once everyone builds that
+16:24
+like new product suite for like onchain
+16:27
+money I think that's an area where we'll
+16:29
+see banks start to compete and where
+16:30
+things will start to scale.
+16:33
+Okay, great. So, you know, obviously
+16:34
+you've talked about many great points
+16:36
+about stable coins, all the benefits and
+16:38
+and you know, where things are going,
+16:40
+but maybe from more practical
+16:41
+day-to-day, uh, from what you've seen
+16:44
+either directly or from your your your,
+16:46
+you know, large diverse client base, um,
+16:49
+you know, where does implementation
+16:51
+usually stall first? You find it's more
+16:53
+like liquidity, uh, approval design,
+16:55
+some kind of reconciliation,
+16:56
+[clears throat]
+16:57
+I don't know, accounting, client on
+16:59
+boarding, or some kind of compliance
+17:01
+thing. I mean, is there certain areas
+17:02
+you found tends to be that where things
+17:05
+tend to stall at first?
+17:08
+John, can I can I say all of the above?
+17:09
+Would that be a good answer? No. I mean,
+17:11
+um,
+Why implementation stalls: the three biggest blockers
+17:12
+all you can add more, too, if if it's
+17:14
+not enough.
+17:15
+I think I think we I think I think we
+17:18
+find more and more problems just
+17:19
+generally as we go. But look, I I think
+17:21
+they're all relatively solvable, right?
+17:23
+I think it's it it's dependent on on the
+17:26
+first. I I would argue the biggest
+17:27
+problem is for a long time digital
+17:31
+assets was kind of moved towards like
+17:33
+this fringe of like speculative trading,
+17:35
+right? And so people didn't pay
+17:37
+attention to the utility of the
+17:38
+blockchain itself to disrupt business
+17:40
+models outside of the fintex and some of
+17:42
+the upstarts, right? And so the first
+17:44
+big issue is actually getting the bank
+17:48
+to understand the utility of the
+17:50
+technology itself and how it can impact
+17:51
+them. And we're seeing that in AI as
+17:53
+well, right? like, you know, you could
+17:55
+use Claude to just like help you write
+17:58
+an email or you can connect it via your
+18:00
+MCP and like actually build real, you
+18:05
+know, agents that allow you to get
+18:07
+leverage on the activities you do,
+18:09
+right? And I think it's the same thing
+18:10
+with blockchain. It's like, well, we
+18:12
+could look at it as only speculative
+18:13
+activity or we could understand the real
+18:15
+utility of the technology and how it can
+18:18
+help us orchestrate and and really build
+18:20
+new products and services and develop
+18:22
+those. So getting the bank up to speed
+18:24
+is probably like issue number one. I
+18:26
+think issue number two is like
+18:28
+understanding like the association of
+18:30
+risk aligned to um operating in digital
+18:36
+assets right which is like how do you
+18:39
+enable people to understand the KYC AML
+18:43
+rules how you can use tools like chain
+18:45
+analysis and elliptic for real-time
+18:47
+monitoring understanding things like
+18:49
+travel rule and technology behind that
+18:52
+and like solving that compliance and
+18:53
+risk problem because Again, most of the
+18:57
+bank gets paid to mitigate risk. They
+19:00
+don't get paid to make money. They
+19:02
+actually get paid to prevent risk of
+19:04
+money loss or falling into the wrong on
+19:06
+the wrong side of the regulator. And so,
+19:08
+their ability to understand the business
+19:10
+models and how they mitigate risk
+19:13
+traditionally leveraging new technology
+19:15
+is like the next biggest thing that
+19:17
+people have to solve for, right? And
+19:19
+there are those solutions out there. I
+19:21
+actually say the interesting thing about
+19:22
+things on blockchain is you can actually
+19:24
+see every transaction. So your ability
+19:26
+to actually monitor and observe risk and
+19:29
+manage to compliance rules and leverage
+19:31
+AI and different tooling there is
+19:34
+greater than what we've seen uh before
+19:37
+right so you know there's there's a lot
+19:39
+of area to really solve those problems
+19:41
+that people are concerned about. But
+19:43
+getting compliance and risk teams up to
+19:45
+speed and on board and comfortable with
+Compliance, KYC/AML, and blockchain transparency as an advantage
+19:47
+operating with blockchain and digital
+19:49
+assets is like probably the second
+19:51
+biggest problem like we see. And then
+19:53
+third is like legacy debt around
+19:56
+technology, right? How do you connect
+19:59
+this new technology that's operating
+20:01
+24/7 365 that's leveraging APIs into
+20:05
+core banking systems that are 40 50 60
+20:08
+years old? Right? And what does that
+20:11
+mean? Do you run like sidec cars? Do you
+20:13
+run parallel ledgers? Do you actually go
+20:16
+through and create or go after entire
+Legacy core banking tech debt and the sidecar vs. modernization decision
+20:18
+core new core banking systems? Do you do
+20:21
+entire revamps and modernization? Like
+20:23
+that's a very big, you know, problem.
+20:25
+And and that problem is not only problem
+20:28
+because you have two things, right? You
+20:30
+have the fact that you have to, you
+20:32
+know, there's revenue that's to be
+20:34
+gained from this process, but there's
+20:36
+also cost that's associated with
+20:39
+building to this process, right? So the
+20:41
+question you're going to have to ask ask
+20:42
+yourself is okay I have a core banking
+20:44
+system that operates today that has this
+20:45
+kind of revenue and then you're telling
+20:47
+me that in order to like operate with
+20:49
+digital assets I have to execute or
+20:51
+spend x millions of dollars more right
+20:54
+so I'm actually running two systems that
+20:56
+are costing me money how much revenue am
+20:58
+I going to get on the other side
+20:59
+especially as this is like a growing
+21:01
+emerging segment and so like developing
+21:03
+that business case and helping people
+21:05
+understand like where the impact is
+21:08
+coming from and where the competitions
+21:10
+and threat threats are coming from
+21:11
+especially from emergent players, right?
+21:13
+And what that means to like the bank's
+21:15
+underlying revenue models and like their
+21:18
+core businesses like that's a third
+21:20
+piece to think through as far as like
+21:22
+you know getting things across the line
+21:24
+as well.
+21:25
+You know one thing I I was thinking when
+21:27
+you were saying that even if you can
+21:29
+convince all these people the benefits
+21:31
+and how it can be done one thing I I I
+21:34
+even like certain fintech companies and
+21:35
+I won't say loop and I don't want to get
+21:37
+fired or anything like that. Sometimes
+21:39
+there's too much vested interest that's
+21:41
+just like, well, if they get rid of my
+21:43
+old system, they don't need me. Uh, you
+21:46
+know, so they're they're just fighting
+21:48
+tooth and nail like, no, this won't
+21:50
+work. This won't work, you know.
+21:52
+Yeah. Look, I think we try to obviously,
+21:54
+you know, for us, we try to spend a lot
+21:55
+of time with people that have like own
+21:58
+the P&L and own the basis that that
+22:01
+disruption that's coming from outside,
+22:03
+right? They'll be responsible for
+22:05
+understanding how to mitigate that,
+22:06
+right? And you know, I think you bring
+22:08
+people along the curve, right? They're
+22:10
+people that will understand this
+22:11
+technology better. And in the same way,
+22:13
+they'll be like very useful resources to
+22:15
+like the companies that they operate
+22:17
+within. So we encourage people to like
+22:19
+dive in in the same way as you know, you
+22:21
+want to dive into AI because if you
+22:22
+understand it, if you understand how to
+22:23
+use it and you know, understand how to,
+22:25
+you know, harness the the value of the
+22:27
+tool, right? You become a very useful
+22:30
+player or resource to like the companies
+22:31
+that are trying to, you know, embed it,
+22:33
+right? Or you could fight it, right? and
+22:35
+and that's not helpful to you in the
+22:37
+long term. So I think that's a
+22:38
+conversation that like as we're talking
+22:40
+with like operators on the ground, you
+22:42
+know, we're helping them understand like
+22:43
+the value of the tool itself and how
+22:45
+they become experts in utilizing the
+22:47
+tool so they become stronger and more
+22:49
+valuable resources to the companies that
+22:50
+they work with.
+22:52
+Yeah. Good point. Um, you know, one
+22:54
+thing I was also thinking and kind of
+22:56
+already answered it, um, you know, for a
+22:58
+bank, let's say there's some bank, uh,
+23:00
+uh, you know, in the audience right now
+23:02
+and they want to add stable coins
+23:04
+without kind of, as you said, creating a
+23:06
+maybe a side kind of workflow, you know,
+23:09
+what what what would you say has been
+23:11
+your experiences you should in, you
+How to start integrating stablecoins: product-first, then infrastructure
+23:13
+know, do to integrate or redesign first?
+23:15
+Is there certain, you know, technical
+23:18
+steps you think for someone that wants
+23:19
+to do this that they should start out
+23:21
+with? Look, I I think the first is
+23:23
+understanding like what is the product
+23:26
+and the value that you're providing to
+23:27
+your customer and then that understands
+23:29
+like the workflow basis that you're
+23:30
+leveraging stable coins to do, right?
+23:32
+Integrating stable coins for the sake of
+23:34
+integrating stable coins is not that
+23:36
+valuable. Integrating stable coins as a
+23:37
+part of like a broader product basis
+23:39
+like that's what we like we think about.
+23:42
+So actually what is like the product
+23:44
+going to look like and how's like what's
+23:46
+the operating model for that product is
+23:48
+is key and like how does it work and I
+23:50
+think then understanding what are the
+23:51
+base infrastructural elements whether
+23:53
+that's like walled infrastructure what
+23:55
+are the right kind of APIs
+23:57
+whether [clears throat] or not you have
+23:58
+like what we call like some level of
+24:00
+like a intermediation layer between your
+24:03
+core banking system and the wallet
+24:05
+infrastructure that becomes key and
+24:07
+who's going to provide that those kind
+24:08
+of that kind of information and then it
+24:11
+like I think The easiest way to kind of
+24:12
+think about is like adding like a new
+24:14
+currency to your core banking system.
+24:16
+like what are the implications of adding
+24:18
+that in terms of how the system reads
+24:20
+and understands the activity related to
+24:22
+that currency in that case like a stable
+24:25
+coin or or otherwise and understanding
+24:27
+like the impacts to like the underlying
+24:29
+core banking infrastructure to be able
+24:31
+to do that right so you know I think
+24:34
+that's kind of like the technical
+24:35
+process like we work through the
+24:37
+solution set might be to like add you
+24:39
+know a sidecar type ledger so that
+24:41
+you're able to operate it because your
+24:43
+core banking system might not be or it
+24:45
+might look like actually revamping the
+24:46
+core and making some of those structural
+24:48
+changes within the core to be able to do
+24:50
+that. The other option might just be
+24:52
+like leveraging APIs to then kind of
+24:57
+provide like a separate stack or a
+24:59
+separate UI interface that's dealing
+25:01
+entirely with digital assets for your
+25:04
+customers.
+25:05
+Yeah, Peter actually said something
+25:07
+interesting because I I sat with this
+25:08
+discussion just the other day with
+25:10
+someone um just even just a normal
+25:13
+ticker. So the fact is their core
+25:15
+banking system was made like way long
+25:17
+ago. It was like uh someone wanted to
+25:19
+have a slightly different ticker for
+25:21
+something similarish and it was like wow
+25:24
+the the work that would need to be done
+25:25
+would be monumental in scale and stuff
+25:28
+which you know sounds uh easy but at
+25:30
+first thought you think ah but you know
+25:32
+but sorry it's just something
+25:33
+no no you're absolutely right you're
+25:36
+absolutely right.
+25:37
+Yeah. So maybe maybe uh kind of like
+25:39
+looking forward more you know let's say
+25:41
+like the next 12 months you know you
+25:43
+know what kind of things would convince
+25:44
+you that you know stable coins are uh
+25:47
+you know becoming even more larger part
+25:50
+of real bank operating models you know
+25:52
+kind of rather than more as a parallel
+25:54
+track you know is there certain things
+25:55
+that you know would would tell you that
+25:57
+yeah we're really we're really taking
+25:59
+off now
+What signals will confirm stablecoins have moved out of innovation into production
+26:01
+look I I think the first thing is that
+26:03
+if we started to see your larger
+26:05
+regional and GI banks
+26:07
+enable stable coin acceptance. That
+26:10
+would be the first thing like just the
+26:12
+idea that
+26:14
+a customer corporate client can receive
+26:16
+stable coins from an ecosystem and store
+26:18
+those with the bank
+26:21
+as another
+26:23
+part of their treasury basis. I think
+26:27
+that would take things out of the
+26:28
+innovation trap because today you know
+26:31
+people are still experimenting at the
+26:32
+sides but the day that like your large
+26:34
+banks right say hey listen you can get
+26:37
+paid in USDC and hold it in bank A as a
+26:42
+basis of treasury I think that's like
+26:45
+first I think as more banks actually
+26:47
+start doing stable coin payouts right so
+26:50
+allowing people to take money from their
+26:52
+DDA accounts that are fiat mint into a
+26:55
+stable coin and then make a payment out
+26:57
+to a vendor or to another uh
+27:00
+participant. Uh that becomes important.
+27:03
+Now the reason is because banks need to
+27:05
+interact generally with other vast or
+27:06
+other banks, right? So that means that
+27:08
+there's starting to be this development
+27:10
+of like a network in which banks are
+27:13
+able to send stable coins amongst
+27:14
+themselves with the right messaging with
+27:17
+the right uh like compliance and AML uh
+27:21
+that's required at a bank level to do
+27:23
+that. So if you start seeing banks
+27:25
+between the United States and Brazil,
+27:26
+between Brazil and the UAE, between the
+27:28
+UAE and Australia and Southeast Asia,
+27:31
+all of a sudden start basically taking
+27:34
+physical fiat into DDA, converting them
+27:36
+into stable and making a payout to
+27:38
+another bank or another VAS, right? I
+27:41
+think you're starting to get out of the
+27:42
+innovation track because really you're
+27:44
+moving real money that have real risk
+27:46
+and regulatory like uh overhead, right?
+27:51
+And real revenue associated with those.
+27:53
+So I think when we start to see that and
+27:54
+and this kind of like development of
+27:57
+this kind of bank-to-bank network,
+27:59
+right? Obviously there's organizations
+28:01
+like Swift and what they're doing,
+28:02
+right? But like at the end of the day,
+28:04
+if you start to see this utilization of
+28:06
+like a open stable coin basis like USC
+28:08
+or otherwise start to move between peer
+28:11
+banks for the purposes of crossber
+28:13
+settlement, I think you're you're
+28:14
+starting to see things move out of
+28:16
+innovation uh and towards real
+28:18
+production and real revenue generating
+28:19
+opportunities.
+28:22
+Hey, thanks. Well, you know, Stephen,
+28:24
+it's a real pleasure pleasure to have
+28:26
+you here. Uh me and myself, quite a few
+28:29
+things to think about. I'd love to uh
+28:31
+you know, meet up again and and talk.
+28:33
+But uh thank you again and I hope
+28:35
+everyone enjoyed this session. Um please
+28:37
+stay tuned. I believe there should be
+28:39
+another one coming up in a few minutes.
+28:42
+Thanks for having me.
+

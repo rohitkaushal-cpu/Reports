@@ -1,0 +1,763 @@
+
+Search in video
+0:03
+[Applause] [Music]
+0:12
+Hello, I'm Mike Graham. I'm the president of Midwestern Securities and the host of the Banking on Growth
+0:17
+podcast. With us today, we have our friend Jim Perry. Jim, welcome back. Thanks, Mike. It's a pleasure to be with
+0:24
+you again. Oh, it's great to be with you, too. I know we were talking a little bit before we uh started recording and uh we just
+0:31
+got to start recording. There's some great things to get through and and discuss today and uh thanks again for
+0:37
+being a return guest on our podcast. Uh for our listeners who haven't heard you
+0:44
+before. Uh our listenership has been growing thankfully and we we're getting
+0:50
+a bigger audience out there. But for those who aren't familiar with you and your organization, will you introduce
+0:57
+yourselves uh to them, please? Sure, absolutely. Again, Jim Perry. I'm
+1:02
+a senior strategist at Market Insights. Uh we're a consulting firm based out of
+1:07
+Seattle, Washington, and um actually I am based out of the Midwest. Makes it a
+1:13
+lot easier for me to travel around the country. But we've been working for about 30 plus years to help community
+1:22
+based financial institutions uh understand their market data, their customer data so they can make better
+1:28
+choices and better strategic decisions about how to grow. Excellent. And you are plugged in.
+1:36
+You're a student of the industry. You are are sharp and a great conversationalist. So this is going to
+1:41
+be some great time to spend together here. Uh I'm excited about it. Um, so we
+1:47
+want to talk about the Genius Act primarily and and the future of banking
+1:54
+with stable coins. I feel like I'm a student of this area and I still don't
+2:01
+have the understanding that I need to. But in comparison to a lot of other financial advisors, bank presidents, uh
+2:09
+I feel like even with my limited uh understanding of this and all of my
+2:16
+questions is still that go through my mind, well, how would this impact this or what does that mean for this types of
+2:22
+questions? I feel like I'm not even scratching the surface yet. And I and I read about this. I seek out podcasts. I
+2:28
+I seek out literature. I try to get in the room with smart people like you and I still don't feel like I have a great
+2:34
+understanding of this. So, I really appreciate your time to to educate me
+2:39
+and and our audience more about these things. Well, the one thing I will tell you,
+2:45
+Mike, is there's a lot to know, but there's a lot that's yet to be known.
+2:52
+There's there's so much about this that is evolving and there are a lot of
+2:57
+moving pieces. Um if anyone tells you they're an expert on stable coins, they're probably not telling you the
+3:04
+entire truth. Uh, I just had a friend of mine post um a a story a couple of days
+3:11
+ago or comments about stable coins um saying we're barely even talking about
+3:18
+the intersection between stable coins and AI from the travels I've been doing
+3:24
+over the last couple of weeks especially I've been with Kansas bankers I've been with uh Minnesota bankers and every
+3:32
+banker that I talk to these days. When you say the Genius Act, when you say
+3:38
+stable coins, when you say blockchain, there's still a bit of that deer in the
+3:43
+headlights kind of gaze because it does require kind of leaning in and digging
+3:51
+deeper into not only what is actually occurring, when it's likely to have some
+3:57
+impact on us, and when um things are likely to change up even bigger. Um,
+4:05
+suffice to say that I'm glad we're having this conversation today because
+4:11
+this is going to be gamechanging in payment space, especially as I've heard described, it's kind of changing the
+4:17
+plumbing of banking. Yeah. Uh, well, I'm I'm looking forward to digging into this changing the
+4:22
+plumbing of banking. Uh, which I've been asking bankers, how does this uh work?
+4:28
+And and I get a lot of that. uh what do we need stable coin for? We already have
+4:35
+a digital dollar, right? We already uh in the form of a and uh um but let's let's dig into it.
+4:43
+Can you give our our audience an overview of the Genius Act and maybe an overview of definition of stable coin?
+4:51
+Okay, let's see. Before I talk about the Genius Act, let me remind everybody it's
+4:58
+been what 15 16 years or so when the
+5:03
+term blockchain really started to rise up into our awareness or our consciousness. Um became kind of public
+5:11
+conversation about how this could represent significant change in the
+5:16
+financial services industry. Um because of course that blockchain technology
+5:23
+would allow for the kind of exchange the very rapid exchange between digital
+5:32
+currencies across multiple platforms uh and multiple blockchains. So unlike
+5:39
+AC which can take you know several days sometimes to process between
+5:45
+institutions part of what happens through blockchain technology is it speeds up those um
+5:54
+those remittances. So stable coin essentially is a type of cryptocurrency.
+6:00
+um when you think about cryptocurrency and a lot of bankers have shied away of
+6:06
+really even knowing very much about cryptocurrency because of all the risk and perceived risk that's involved.
+6:13
+Um, but of course, stable coins are a type of cryptocurrency that's really designed to keep a steady
+6:21
+value because unlike Bitcoin, unlike Ethereum, which of course can swing wildly, as
+6:28
+we've seen over the last five or six years, stable coins are pegged to
+6:34
+something stable like the US dollar. I always like to explain it very simply. Try to imagine one stable coin equals
+6:41
+$1. um you know tomorrow, next week, next month,
+6:46
+it should be worth $1. They achieve that stability by keeping reserve of dollars,
+6:54
+assets or by using an algorithm to adjust the supply and demand. So it's
+6:59
+that stability that actually makes it a good tool for digital payments, for
+7:05
+remittances, and certainly even decentralized finance.
+7:10
+Here's the catch. Not all stable coins maintain that peg perfectly,
+7:16
+especially under stress. And that's why regulators want to get involved. They wanted to see some kind of movement.
+7:23
+Now, the Genius Act, which of course was passed earlier this summer,
+7:29
+the thing that I've been telling audiences lately, banking audiences, is this law creates a federal framework for
+7:37
+stable coins, which which is brilliant. uh there was a lot of involvement on the
+7:43
+parts of major organizations like American bankers, like ICBA, like many
+7:49
+state banking associations really trying to make sure that this legislation
+7:55
+um gave the industry what it needed to regulate and manage the stable coin
+8:02
+environment. Um the big shift here though isn't in
+8:07
+the technology, it's about trust. Because what happens when you kind of
+8:13
+sign legislation into law, what that does, it gives stable coins a legitimacy
+8:21
+in the eyes of consumers, in the eyes of regulators, in the eyes of businesses.
+8:26
+That means stable coins could all of a sudden become more attractive, especially if they're built into
+8:32
+platforms that people already use. Before I kind of dive any deeper into
+8:37
+this, does this help as a starting point? It does. So, let me back up a step. um
+8:47
+blockchain technology, decentralized ledger technology versus
+8:53
+centralized ledger technology. Most of the financial services industry works off of some form of centralized ledger
+9:00
+technology. It's redundant servers from clearing firms in some capacity. You've
+9:06
+said two things. You've said speed and you've said trust. and and so I want to
+9:13
+dig into speed first. So my understanding when I started studying um
+9:20
+blockchain technology and decentralized ledger technology u I thought well this
+9:27
+could be great. It could be a great um equalizer for small broker dealers like
+9:34
+Midwestern Securities that rely on the major clearing firms of the world to do
+9:40
+things quicker, cheaper, easier with blockchain technology. And I I became I
+9:47
+dug into it uh excitedly, but then I became kind of uh oh, it's not going to
+9:54
+work. um it would be easier for uh multiple uh redundant major servers, you
+10:03
+know, and I'm I'm not a tech guy, so uh I'm probably butchering some of this, but to to create
+10:11
+the the speed um and to create
+10:16
+redundancy for factchecking and accuracy that the blockchain is is supposed to do
+10:21
+with, you know, lots of data uh you know decentralized held all over the place.
+10:28
+Um and and so I although I dug into it I thought well this could really change
+10:33
+the the securities clearing world my conclusion initially was it won't because we already have the ability to
+10:40
+have redundancies for backups for verifying accurate data and we can do it as quickly as we want
+10:47
+if we change practices. Maybe that's a key phrase here if we change practices.
+10:52
+Uh, and centralized ledger technology burns less electricity than potentially,
+10:58
+you know, decentralized ledger technology. So, I'll just pause there.
+11:04
+Any thoughts on that, Jim? My enthusiasm originally to my, oh, maybe we're better
+11:11
+just with the system we are with some tweaks to it versus blockchain for for
+11:17
+things like clearing. Well, I will simply say this. Um, from those early days of blockchain
+11:24
+conversations, obviously uh we've seen that technology
+11:30
+uh evolve rather exponentially and and part of that has to do with how all
+11:38
+technology has been evolving. Um I think I always tend to look at what has
+11:46
+motivated either the financial services industry, securities industry, um even retail
+11:55
+industries from from being interested in blockchain, from being interested in in
+12:01
+this uh in stable coins certainly and ultimately whether it's global payments
+12:08
+and being able to easily send payments around the world or if it's to make
+12:16
+things simpler and easier for a consumer to transact. Um, I can see that there
+12:23
+are a lot of different motivators moving a lot of different folks forward on this. Um, again, I'm not the tech guy
+12:31
+either. I'm a strategist. Um, so I know enough about basic blockchain technology
+12:38
+to know that it's actually been capable now of
+12:45
+uh managing this stable coin for quite some time. Even you I'm sure you're
+12:51
+aware um it was PayPal a couple of years ago issued their first stable coin and
+12:59
+all of a sudden their what is it? how many they have 700 million users around
+13:04
+the globe. Um they all had access to PayPal stable coin. And again, what
+13:11
+makes them stable, I'll remind everybody, is simply that it has to be pegged to an asset uh like the dollar to
+13:19
+make sure that that we're not going to see these wide fluctuations. Um there's
+13:26
+there's definitely some downside to the industry and we can dive into that uh a
+13:33
+little bit more, but I don't know if I answered your question very well. Well, it's it's an ongoing discussion
+13:40
+and and it's good. Um I think you answered it perfectly. Um and we're all
+13:47
+trying to figure it out. Uh the speed piece is if the current centralized
+13:54
+approach could be modified to make um uh international
+14:01
+uh money movements easier. It might already be there that blockchain's
+14:06
+trying to to do they're both trying to do the same thing. um uh there could be
+14:12
+changes on the centralized portion that would make it more competitive than the
+14:17
+decentralized blockchain. Um but sometimes you need this disruptive
+14:22
+technology to motivate the existing players to drop their fees and make it easier and make it quicker to to do the
+14:28
+things. And it's certainly a disruptive technology. And part of me wonders if
+14:34
+that's why Trump likes it so much because it's disruptive and uh it makes
+14:39
+people uncomfortable and forces them to think differently about this or change
+14:45
+behavior to be um moving forward perhaps. But the speed piece we we
+14:51
+talked through a little bit. The trust piece though, tell me the trust piece.
+14:56
+Are you referring to consumers will trust it more now that it's being
+15:02
+regulated more? Okay. I've also heard the other piece of the the trust piece
+15:07
+from bankers saying clients are interested in a PayPal or a potential Walmart stable coin because
+15:16
+Gen Z might have a higher trust with those entities than they do the US
+15:21
+government. Um, which is odd because behind it is a dollar or a treasury or
+15:28
+an equivalent which is backed by the government's ability to raise our taxes.
+15:34
+you know. Well, part of it's interesting because that you mentioned Gen Z because let's
+15:40
+go down the Walmart route for a moment because one of the things that the Genius Act currently in its current
+15:48
+iteration um and I think I'm going to put a pin in that comment because it's
+15:54
+important to talk about how there's an effort underway currently to go back in
+16:00
+and close some loopholes that are in the current legislation. um that need to be fixed. But before I
+16:10
+do that, let me simply explain. Uh the Genius Act as it's been passed into law
+16:18
+potentially has the room for somebody like Amazon or Target or Walmart to
+16:25
+eventually issue their own coin. So imagine Walmart coin as an example. For
+16:33
+them, obviously, it's a huge potential moneysaver for them because if they
+16:40
+issue their Walmart coin, what's going to happen? Consumers
+16:46
+will take money out of their banking accounts
+16:51
+to buy these coins. And you know full well that Walmart will incentivize them
+16:57
+to use their coins for instore purchases. By doing so, every time
+17:03
+somebody uses a Walmart coin to pay for their purchase, Walmart's going to save on those interchange fees that they
+17:10
+would normally have to pay out to any kind of card network or any bank. So
+17:17
+potentially this represents a huge um savings for an
+17:24
+entity like Walmart. It's estimated, you know, they could save annually over 100
+17:29
+or $800 million. Uh that was the latest projection I saw, but it's probably
+17:36
+greater than that. So with with the Walmart, the I I see the savings on the interchange fees. Um,
+17:44
+could Walmart tie the uh purchases though to to discounts at Walmart or
+17:51
+would that be illegal with the Genius Act to say you get a discount on your
+17:57
+groceries if you use and I know we're getting theoretically if this if that. Uh, but could they do where would that
+18:04
+be anti part of the anti-tying? Well, the only as far as I understand the the
+18:11
+only kind of significant restriction that was was placed on um on stable coin
+18:20
+issuers um is that they cannot offer um any
+18:26
+interest on those coins once they're held. So obviously that takes away some
+18:33
+of the incentive for someone to say, "I'm going to keep $500 in Walmart
+18:39
+coin." So next time I go to the store, I can make an easy purchase that way. But
+18:46
+I don't believe there's anything in the current law that would prohibit Walmart
+18:51
+from saying, you know, today we're giving 10% off to people who use their
+18:58
+Walmart coin or here's a Walmart coin. And if that's the case, of course,
+19:04
+imagine the same kind of scenario with Amazon or or anywhere else. I mean when I look I I
+19:11
+think there are probably 170 180 Walmarts in Illinois as an example. You
+19:17
+know just the Illinois stores alone you know if they were deploying a stable
+19:23
+coin in that way that represent significant savings to to the company.
+19:30
+So, one one of the problems um with the law was that there was that loophole
+19:38
+that I mentioned a few minutes ago uh which says okay,
+19:44
+you can't any issuer of stable coin can't pay interest, but it doesn't stop exchanges
+19:53
+or affiliates from doing it indirectly. Um, so there's a loophole that that
+19:59
+banks are already asking uh for Congress to close. And so in this next
+20:05
+legislative session this fall, I expect fully that there'll be a major effort to
+20:11
+to revise the Genius Act to close that um because otherwise uh some of the
+20:18
+protections that were intended by the law uh there would be a workaround for
+20:24
+those who wanted to try to do it. Now, all that being said, um as I mentioned
+20:30
+to you, I had the privilege of um spending a little bit of time with
+20:35
+Mickey Bowman um at Kansas Bankers. Um and of course, she, you know, there was
+20:43
+just a lot of excitement over all that had happened uh with her elevation uh at
+20:48
+the Fed now. And um but there's there's a lot of concern about
+20:56
+how stable coins could potentially uh or could eventually uh impact community
+21:04
+banks. Before the law went passed, the Treasury was actually estimating that
+21:10
+upwards of $6.5 trillion dollar could flow out of banks um with stable coin
+21:19
+passage. So at least now the regulatory environment is going to make it very
+21:25
+difficult and set up con um very specific paths to to even be able to
+21:33
+issue those coins. Um they've put up a lot of barriers that that folks are
+21:40
+going to have to think very carefully through in order to get this. And at
+21:45
+this point, the regulations or the actual rules promugated from that law probably won't be done until late 2026,
+21:55
+which means the provisions of the law won't really even go into effect until
+22:00
+2027. Jim, do you know what percent of community bank deposits 6 and a half
+22:07
+trillion is? Not off the top of my head. So that'd be an interesting data point to understand
+22:15
+as a percent what what that impact would be. But you were talking before, you
+22:21
+know, again to the issue of trust and when when you stop and consider the fact
+22:26
+that especially amongst our youngest customers and youngest consumers, you
+22:32
+know, our Gen Z and Gen A that's coming after them, um, you know, they're
+22:39
+already kind of living and functioning in that place of Venmo and PayPal and
+22:46
+and digital exchange of funds. When you look at how
+22:52
+how these digital currencies uh could be exchanged through through gaming as an
+23:00
+example, it begins to blow the mind. I'm afraid to say of the implications for
+23:08
+for deposit runoff uh especially for smaller community banks that rely on
+23:13
+those deposits um and are working so hard to gain deposits these days.
+23:19
+Right. Let me back us up one step. I just want to do this for a second because then I want to go right forward into what you're you're just introducing
+23:26
+is the deposits and how this changes the plumbing. So Walmart potentially in this
+23:32
+scenario, Walmart monetizes this by saving 3% on interchange fees and then
+23:40
+potentially if they've got a dollar for dollar in the treasury, maybe they're getting uh uh a couple of points on that
+23:48
+too. Is that right? So, so maybe they're getting I don't know the length of the treasury that they're able to hold, but
+23:55
+say, you know, three and a half or 4% even plus they're saving 3% on
+24:00
+interchange fees on interchange fees. When Walmart monetizes this really well, then they've got the captive dollars. I
+24:07
+get how they benefit from it. Maybe the consumer ends up with the a cool gift
+24:13
+card on steroids that has uh discounts tied to it potentially. tanks. You're
+24:18
+you're helping paint the the picture of of the why. Um be
+24:23
+before you go on, let me also add to that that Walmart would essentially gain
+24:30
+greater control over that kind of customer payment data as well, you know,
+24:37
+because then control more of that data. So the more they know about the consumer
+24:43
+preferences, it allows them to again continue to refine their own efforts to
+24:50
+gain more of that digital wallet, right?
+24:55
+And so they gotcha. They have the data, then they market more precisely to the customer and drive more sales and
+25:03
+Gotcha. So there's huge financial motivations to the Amazons and the Walmarts of the world to do this. Uh, so
+25:11
+they're coming. Um, and then those dollars and the Gen Z, Gen A, as you
+25:17
+referred to, are comfortable with this stuff. Anyway, uh my I've got two boys
+25:23
+and they're uh uh our youngest just graduated from high school and he knows
+25:30
+that if he's mowing the grass or doing something around the house and I owe him some money, he sends me a an Apple Pay
+25:36
+request and that gets paid within five minutes versus me waiting or him waiting
+25:41
+for me to have cash in my wallet. Right. So, we're very comfortable with with
+25:47
+that. There's that speed you talked about, right? Right. Exactly. Yeah. They trust
+25:52
+it. They're comfortable with it. So, if they're doing the business that way, it's not going to community banks. It changes the community bank plumbing. The
+26:00
+community banks don't have the deposits. The community banks don't make the loans, right? And the community banks don't make the
+26:06
+loans, they don't make the spread, they don't have a return for their shareholders, they sell, they go away.
+26:12
+And then where do the small businesses and the uh homeowners get funded?
+26:19
+Great questions and these are precisely the things that now I think as we may
+26:25
+have talked before you know you see a growing divide within
+26:32
+the industry amongst the the massive players like the Chase and the Bank of
+26:39
+America who have been of course uh working on development of their own stable coin for quite some time just
+26:45
+like Walmart and Amazon who have And you know, they've got some of the the
+26:51
+backend uh rails, so to speak, already underway. They're exploring, they're
+26:58
+iterating, they're trying to imagine in anticipation of this law,
+27:05
+how they could make that happen for themselves. Um but when you've got these
+27:11
+massive players doing that um you know despite the best efforts of of community
+27:20
+uh financial institution champions that are trying to uh make sure this doesn't
+27:27
+kind of kill them off, you know, um that
+27:33
+it's the David Goliath kind of who's who's going to win here? We don't know
+27:39
+how this is going to play out yet. We can anticipate and try to uh project and
+27:46
+and make sure community banks are thinking ahead and making sure they continue to
+27:52
+add value um so that they present a clear choice uh to any
+28:00
+younger consumer, you know. But honestly, it's the reason it's making a lot of
+28:07
+community based institutions really nervous about the potential here is
+28:12
+because they're not ready to compete completely in that digital realm, in
+28:20
+that digital payment space. I mean, I look at the number of financial institutions that that still haven't uh
+28:28
+participated in Fed now as a way to again speed up uh those real-time
+28:36
+payments to to actually uh put them in a greater competitive space and also I
+28:43
+mean even to play that role of educating the consumer about the kind of relative
+28:51
+relative value of working with a Walmart coin as as
+28:57
+opposed to working with a local community-based institution.
+29:02
+Yeah, I think our minds immediately go to some sort of straight line projection to worst case scenario
+29:09
+and and it's and it's it's likely it's rarely that, right? Most of the time
+29:15
+it's there's adjustments here and there. Um, how do we add more value as you said
+29:22
+with education? Uh, how do we be more advice uh driven partners with
+29:30
+our clients instead of a transactional commoditized order taking relationship?
+29:36
+Mhm. How can we um add more value to those ideal customers that have multiple
+29:42
+complex financial needs that non-interest income sources like investments, wealth management, trust,
+29:50
+um accounting, insurance could do, you know, could bring more customers in that
+29:56
+that want more of that relationship and can generate non-interest income for the
+30:01
+institution that that could make up for um a loss or decrease in interest income
+30:09
+uh if if funding dropped or was reduced. So there's a lot of between here and
+30:16
+there. Well, absolutely. And I think the thing to keep in mind is that the
+30:22
+implementation of all of this is going to be multi-year and it's going to be
+30:27
+very complex and there's going to be a lot of things to pay attention to. I mean
+30:34
+the impact here of course at the end of the day is is going to depend entirely
+30:40
+on the adoption by consumers.
+30:46
+Um it's it's like right now unfortunately
+30:51
+um I haven't seen any detail in terms of the volume that PayPal has experienced
+30:59
+since they issued their own stable coin. I don't believe they're required to
+31:05
+report on that yet. Of course, what will happen
+31:10
+through the regulation of the Genius Act is that um any stable coin issuer will
+31:18
+have to report back to Congress uh on progress and enforcement actions and all
+31:24
+the rest. So or the regulators will have to continually report back to Congress.
+31:30
+So there will be more guard rails. There will be more things as I mentioned
+31:35
+earlier more kind of hurdles I guess not barriers but hurdles things that people
+31:41
+will have to jump over to even get to a point where they can actually issue their own stable coin. Um but make no
+31:50
+mistake it is definitely kind of gamechanging. It's shifting the way we
+31:58
+think about so much in financial services. Um, and and that's why, as I
+32:04
+say, I really loved Bradley Lemur's kind of notion that here through like AI, we're
+32:12
+commoditizing intelligence, right? And through stable coins, we're tokenizing
+32:18
+value, right? all of a sudden those two things are going to continue to
+32:26
+accelerate. And I mean look at how AI has morphed in
+32:34
+the last two years as an example. Um I I think what we're trying to do is
+32:42
+regulate the genie now that it's out of the bottle relative to stable coins.
+32:47
+The genie out of the bottle. I remember being in a community bank boardroom
+32:54
+a dozen years ago and one of the uh board members was probably 80 and had
+33:03
+a son or a grandchild telling him about crypto and that he was putting his money
+33:12
+uh that would have been in the bank in crypto at at that point. And I remember
+33:19
+thinking to myself, I wonder if he sees where this is going and if he sees that
+33:28
+this is disrupting his own business venture. Uh his behavior is disrupting
+33:33
+his own business venture. Uh it is a competitor to the American banking
+33:39
+system and and yet so many are uh dancing. I I hate to say this because I
+33:47
+don't want to be anti- tech but dancing with the devil uh in this you know that
+33:53
+they are uh do if if a bank board member or leadership is conducting business in
+34:01
+stable coin or in crypto it is a competitor to their business venture and
+34:08
+uh I guess they figure you have to play it and navigate it and add value like
+34:13
+you said to make sure that it doesn't kill you. Well, one of the things that
+34:18
+you know, you've been in the industry long enough and as have I to know that
+34:25
+as an example using Walmart so much in this conversation, you know, bankers have been worried
+34:32
+about Walmart finding ways to disintermediate their business for a
+34:38
+long time and now this just kind of continues that conversation. Um, I think
+34:47
+ultimately for financial institutions, the impact of of stable coins, it does
+34:53
+come down to this notion of greater competition, not with banks, but with tech platforms
+34:59
+and retailers and payment providers that consumers have become increasingly
+35:05
+comfortable with. Um, and that is kind
+35:11
+of the post-pandemic reality that we find ourselves in now. Um, and that
+35:18
+happens to be much truer for the youngest among us. So, um, there's a lot
+35:24
+lot to know, but it puts pressure on institutions to innovate. Um, you know,
+35:31
+these transactions are fast and they're seamless and banks are going to have to
+35:36
+modernize their own rails in order to keep up. Yes. Uh, pressure to innovate as you're
+35:42
+talking about uh Walmart's bank was Wood Forest. Is that right?
+35:47
+Yeah. and uh and the changing landscape and disintermediation
+35:54
+in that last 25 years. There's probably 4,500 charters that aren't there
+36:01
+anymore. And those are the ones who weren't willing to invest or didn't have
+36:07
+the whatever resource, right? And then it's okay. Not everybody has those resources. Sometimes the best thing is
+36:13
+to sell or merge or look for somebody who who can bring complimentary resources that allow you to serve your
+36:19
+customers better. But the charters didn't go from 8,500 or 9,000 charters to 13,000 charters, right? Uh it's not
+36:28
+easy. It takes that foot on the pedal type of innovation uh and to create a sense of urgency
+36:34
+inside of your institution to uh to grow and thrive here. Absolutely. there's opportunities and
+36:41
+we've talked about some of those, but uh it it takes that intentionality.
+36:47
+It really does. And I'm suggesting, you know, whether it's around, uh your
+36:54
+boardroom table or around your staff table, you need to be having these
+36:59
+conversations. Um because my purpose is never to put doom and gloom or to like
+37:05
+scare people. It's simply to say pay attention to what's going on in the
+37:11
+broader ecosystem of financial services these days because it's already
+37:16
+impacting you and the impact is going to grow. Keep
+37:22
+paying attention. Keep finding new ways. Talk to your customers.
+37:28
+Make sure that you're you continue to align yourself with what they value. And
+37:34
+if you cannot, I mean, we've already seen all kinds of data that point to,
+37:40
+you know, we're not doing a very good job um as community banks of securing
+37:47
+some of the youngest customers. We're just not. Uh I think Cornerstone Advisors, their annual data said like 4%
+37:57
+of new checking accounts went to community banks in 2024. It's awfully
+38:02
+small. 44% went to digital only banks
+38:08
+uh and fintex. So we're we're losing
+38:15
+even the the place to be part of the conversation because we've been kind of stuck in old
+38:23
+business models. So we need to keep showing that we can be adaptable to this
+38:30
+digital age. That is is a powerful summary I I think
+38:36
+of our discussion. Jim, we've had a really good brief discussion and I'd
+38:41
+love to revisit this in a few months. What have we both learned? Uh what questions have come up that we didn't
+38:48
+anticipate? And uh I'm sure in 6 to 12 months people are going to be uh
+38:54
+listening to this and be like why didn't those guys understand that at that point you know
+39:00
+and I have this this saying peak intellectual capital we always got to
+39:06
+keep learning and keep growing because uh always I I the world's moving by. We have to
+39:11
+stay up. We have to keep up. Um, are there any kind of uh parting comments to
+39:16
+our listeners that you'd like them to be aware of around the Genius Act or stable coin uh before we wrap up today?
+39:24
+Well, I would simply invite them to stay engaged with this topic. Make sure you're asking questions about it because
+39:31
+there are, you know, your state associations, you you've got a lot of
+39:37
+people that are paying a lot of attention to the minute details of it.
+39:42
+you know, follow how this law evolves. Um, and think about how your institution
+39:48
+is going to maintain trust and relevance in a world that can move at the speed of
+39:53
+light. Great. Trust and relevance in a world that can move at the speed of light. That summarizes a lot of what we
+39:59
+covered. Jim, for our listeners, what's the best way for them to follow you or um learn
+40:07
+more about you and your business? Um, probably the easiest way is to go to our
+40:14
+website forarketinssights.com. That's forgarketinssights.com.
+40:21
+Uh, my contact information is there. It'll give you a link to uh connect with me on LinkedIn.
+40:29
+Jim, you are a professional and a very knowledgeable guy who's very easy to
+40:34
+talk with. So, thank you for joining us again and I hope we can do this again before too long.
+40:40
+My pleasure, Mike. Anytime. Thank you. So, on behalf of all of us at
+40:46
+Midwestern Securities and Banking on Growth, to our listeners, thank you for joining us. We hope you found this very
+40:52
+valuable. I know I certainly enjoyed it and learned a lot from my friend Jim Perry. Thank you. This has been another
+40:59
+insightful journey with banking on growth with Michael Graham and Midwestern Securities, a member of FINRA and SIPC. We appreciate your time. If
+41:07
+you found value in today's discussion, consider subscribing for more thoughtprovoking discussions in the world of finance. Your support helps us
+41:14
+continue to bring you quality insights. If you have a topic you'd like us to consider covering or have thoughts on
+41:20
+one of our episodes, we'd love to hear it. Just email us at mediamidwesternsecurities.com.
+41:26
+Remember, the power to grow is within you. Thank you for being a part of the Midwestern Securities community. Until
+41:32
+next time, stay inspired and keep banking on growth.
+41:38
+[Applause]
+

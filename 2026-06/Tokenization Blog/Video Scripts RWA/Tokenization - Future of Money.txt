@@ -1,0 +1,1255 @@
+
+Search in video
+0:00
+The hardest thing is knowing who to trust and which direction to go. We're going to tokenize because it's better.
+0:06
+And then we're going to tokenize because we're going to generate more revenue. And in that world, we tokenize ID. We
+0:11
+tokenize records. We tokenize messaging. That's a world where it's just better to
+0:17
+use blockchain. I'm earning fees off the treasury. I'm earning interest off the treasury. So, I'm making I'm making all
+0:23
+the way. So, this is why stable coins are so exciting. I pay to store gold. It's an asset. It's really important to
+0:29
+me, but it sits there on my balance sheet doing nothing. Goldbacked stable coins are really attractive. Gold is a
+0:36
+big one. People are starting to value gold a lot more. You deposit real estate
+0:41
+tokens into their infrastructure and then borrow against it. Take money off chain and go do something with that
+0:48
+money. Web three companies that have been debanked. Look at what these same banks did in 2008. Look at the handouts
+0:54
+they took, the money they took. The fundamental principle upon which we
+0:59
+founded was to protect the freedoms of individuals and their data. I should
+1:05
+have the right to choose that my genome that is traded for $4,000 a year, my
+1:11
+records of what medicines I take or don't take, which gets traded for $189 a
+1:16
+year, and you don't realize it's being traded, and freedom of movement and freedom of speech and freedom to conduct
+1:22
+business. Web 3 solves a lot of problems with web two and web two solves a lot of problems with web 3 or society should be
+1:29
+able to participate in that value. Not one small organization that harvests it all. And I believe in free markets but
+1:36
+free markets get ugly when they get monopolies. They become monopolies. Hey, this is Dis. Welcome back to Founders
+1:42
+Unchained. And today we have a special guest Matthew Horwing who is the CEO founder of company Intruxy. And today
+1:49
+mainly we're going to discuss about tokenization and real world assets. So thank you Matthew for joining this
+1:56
+episode. It's really pleasure and I'm really really excited to go throughout this discussion because I think it will
+2:02
+be very valuable for our community for people who are interested in tokenization and real world asset
+2:07
+tokenization. Thank you Darius. It's a pleasure to be here. So Matthew, for the people who
+2:12
+don't know you, can you just introduce yourself and just give us a little bit of details about your background, what you do, uh how you actually came to that
+2:20
+field, to that business, and most importantly, how we can help the startups. Certainly, thank you for that. I I I've
+2:27
+got to say I I think I would classify myself as a reluctant entrepreneur.
+2:32
+There are some people who feel it in their blood and in their veins that they have to build an empire. And for me,
+2:40
+it's rather always been about necessity. My first ever business was while I was at university. And the necessity that
+2:47
+that I had was I was doing night shifts, packing gravy cubes in boxes, standing
+2:55
+on my feet overnight with a machine that would close the box after I'd put the
+3:00
+gravy cubes in it. And I thought, I can't do three years of university doing
+3:07
+night shifts. and packing. So I set up a computer company with relationships I had in motherboards manufacturing in
+3:15
+China. That's that's another story. But I was able to start bringing in motherboards and VGA cards and building
+3:22
+PCs for students really. And then some teachers started to buy them. And then I started working in networking. And by
+3:29
+the time university had finished, I had a nice functioning business. And that was my first ever experience in in
+3:35
+business. and it was really born of necessity. But then I had an opportunity to work in corporate and that that was
+3:42
+marvelous. So a few years in Fitch ratings and then several years in Price
+3:47
+Waterhouse Coopers which was a stunning uh business and a stunning place to get trained working on some great projects
+3:54
+and then I set up a a business with a fellow uh from PWC and that did rather
+4:02
+well. So it was really a mix of corporate and and entrepreneurship and and through the way I ended up working
+4:08
+in uh Ernston Young and meeting some incredibly bright people and some people
+4:14
+that directed me towards kind of thinking about web 3 at an enterprise
+4:21
+level and solving some of the problems about how an enterprise would think about using blockchain technology. By
+4:29
+this time I had got deep into distributed systems and finance and was able to kind of build my career. And
+4:36
+back in 2016, I worked with an incredible team of engineers under the
+4:42
+direction of people who really understood SAP, Oracle, and JD Edwards and mentors like Paul Broady who was the
+4:50
+head of blockchain globally for Ernston Young. And we built an intercomp accounting platform using blockchain and
+4:57
+launched it in 2016. And the problem we were trying to solve was how do we make
+5:03
+decentralized systems work with distributed systems and connect with
+5:09
+general ledger, subleddger, treasury management systems at an enterprise level seamlessly and securely. We worked
+5:17
+on a few types of token structures to do this. We worked on a few different technology solutions and we launched a
+5:23
+product. We got a few patents along the way and this enabled organizations to seamlessly perform intercomp
+5:30
+reconciliations and postings between different ERP systems and that that's
+5:36
+really where where we got excited and so I worked with some some great great
+5:41
+people both inside Ernston Young and outside some wonderfully innovative people along the way some really really
+5:47
+clever people who who wanted to solve the same problem and that's really where we've been focused since 2016
+5:55
+and Austin and I set up Instruy to solve that problem. How do we get these two
+6:02
+worlds and two different technologies to act as one ecosystem in a way that
+6:08
+enterprises can leverage the benefits of blockchain without the headaches and without having
+6:14
+to rewire their entire infrastructure. So I believe you are in a really good position because you are building
+6:20
+infrastructure as I understand. So basically currently you can you can hear a lot of companies who are speaking
+6:26
+about how we can transfer ourselves from web two to the free and start using
+6:32
+blockchain technology and the real world asset tokenization is also something very trending right now. I just did
+6:38
+analysis and I checked how many even venture capital so huge funds are
+6:43
+investing into the tokenized assets. I think Black Rockck we have like $10 trillion you know capitalization and I
+6:50
+think we invested around half a trillion already into the tokenized assets. To me
+6:56
+it looks like really future more and more companies going to be in that field. So I think you are in the good
+7:02
+position because you are developing something which allows companies actually to tokenize the assets and uh I
+7:07
+really really wish you good luck with that because I feel that you are really in good position and all you need just to carry on what you do. It's been a
+7:14
+tough journey. Yeah, I know. I mean, you know, this is the the problem right now. People
+7:20
+understand that this is needed and it's going forward as a as a new market or a new trend, let's say. But I'm not sure
+7:27
+if all the people understand how it works. We have a feeling that it's good thing, but we don't know how to do it.
+7:33
+So, I think in this episode, we can touch some of the elements where we can explain, you know, what it takes actually to tokenize assets. Is it hard?
+7:40
+Is it difficult? Maybe if we don't know what to do, maybe we can get the access
+7:45
+to the experts like you and uh you could help them also to organize all the strategy to put everything in place. You
+7:52
+know, we we're going to discuss about those things in this episode and hopefully some of the guys will see it
+7:58
+very interesting and even some of the guys might be even building something in that field and we need some support. We
+8:04
+need to get access to experts like you. Yeah. So speaking about your technology Matthew I think it's really important to
+8:10
+touch maybe technicalities also can you just explain about your stack you know how your technology looks like what kind
+8:16
+of elements it consists and uh how to use it actually so thank you for asking the question so the problem we're
+8:23
+solving is is really how can enterprises leverage the benefits of blockchain I think first I' I'd like to discuss the
+8:30
+concept of the value proposition with blockchain a little uh differently so to
+8:36
+to put that in the context of our stack. So 2021 value proposition for blockchain
+8:42
+is very different from 2026 value proposition. Now back in 2020 2021 and I
+8:49
+say that because that that was where we had the bull market, the explosion, open finance, DeFi and the biggest rugs that
+8:56
+we ever saw in history and uh in in our ecosystem. And there was a belief almost
+9:02
+a religious fervor that Ethereum would become this giant compute layer where
+9:08
+everything would occur uh and we would be able to tokenize everything and process everything. That really hasn't
+9:15
+materialized. But what has materialized is the technology has moved on leaps and
+9:21
+bounds. And if you think in any period of 5 years of of any technology, of
+9:27
+course, it's going to move on and and innovation within the blockchain ecosystem has been phenomenal. Firstly,
+9:34
+I'd like to think about what is the proposition for 2026 today. If I'm a CEO
+9:39
+of a business, why do I care? Now, what what we're seeing is legislation finally
+9:45
+catching up with the ideas about the industry, but legislation is taking us to 2021
+9:52
+innovation, not 2026 innovation. So, we've we've got this huge gap in
+9:58
+legislation still today with all of this exciting news about we can do this and this and this. It's all still very
+10:04
+boring. We're all still thinking about taking the traditional banking system and putting it on rails to making it
+10:11
+more efficient. Big deal, right? So, what is so exciting about today? If we
+10:18
+think of like the standard things we think about when we talk to to business owners and uh to companies, how do I
+10:25
+make money? What's the value proposition? Blockchain gives you entirely new concepts about generating
+10:32
+revenue. So if you think what makes this really special is that you're able to
+10:39
+decentralize parts of the governance frameworks that
+10:44
+typically are centralized. So let me give you for an example when you go into any enterprise you typically have
+10:51
+different passwords and IDs to log onto those systems. So one of the big issues
+10:56
+when you're dealing with distributed compute is you might have you know I've worked in businesses with 60 instances
+11:03
+of SAP each one's got slightly different policies and governance and and of
+11:09
+course you can consolidate the IDs and manage the governance but what happens when you put in Oracle JD Edwards and
+11:15
+you need to do consolidated reporting well now I've got to move it to one box move it to SAP Hannah and bring
+11:22
+everything in well what if the data is in Germany and I can't do that and so we have these really complex ecosystems
+11:28
+where we we're matching Microsoft and and all these systems. So if I want to do any kind of consolidated reporting,
+11:34
+I've got to move data, bring data. That creates risk, that creates cost, it's inefficient.
+11:40
+Now that data is free, it gets compromised. And so firstly, one of the
+11:46
+exciting things about blockchain is that I could distribute governance. I no
+11:52
+longer need to be tethered to the compute layer by me and my ID and my
+11:58
+policies. I can rethink about how governance works and how architecture works. When we're dealing with
+12:04
+blockchain, everything centers around a public and private key pair. So now a
+12:09
+signing event can be something that can augment your governance and security and
+12:16
+a wallet abstracted or not can augment your governance and security.
+12:21
+can distribute liability to the actual owners of the information and data,
+12:27
+control data and information and rearchitect about how we do things in a
+12:32
+more efficient and secure way. For instance, my genome has been compromised. It was hacked. The
+12:39
+companies I trusted my genome with have been compromised. And so, who knows who
+12:44
+has access to my data? Now, if my genome had a better security provision that I controlled using a wallet and that I
+12:52
+knew who had access to it, then it wouldn't have been compromised. There is all sorts of new technologies that are
+13:00
+coming forward to maintain privacy, improve security, improve efficiency, governance and generate whole new
+13:08
+ecosystems of revenue. So the value proposition is different and we in instruct spend a lot of time working
+13:15
+with clients on how do you mitigate risks, how do you improve your processes, how do you generate new
+13:22
+revenue streams, and how do you reduce your costs and and people are they're doing that with AI naturally. They're
+13:29
+not doing that so well with blockchain. So how does the tech stack work? Well, in that ecosystem, in that world, we've
+13:36
+got to solve a few technological problems and we've got to make it really, really easy to deploy. So, the
+13:41
+first thing, first aha moment we had really came out of working with some
+13:47
+really good federation of frameworks and we focused on data federation for many
+13:52
+years, Austin and I, and we worked with a really good platform that would enable
+13:58
+uh data federation across big data. So if I had multiple data systems, I could
+14:03
+create a metadata layer and I could push my query into the subsystems and I could
+14:08
+work through data cataloges rather than actually consolidating data. That had
+14:13
+issues scaling and there's lots of systems out there that do that. That has a fundamental issue with scaling and all
+14:20
+data federation frameworks and data marketplaces fail at scaling because you
+14:26
+have to centralize a lot of the compute and what they end up being is huge caching frameworks. The first really aha
+14:34
+moment we had was realizing that actually data scaling was about
+14:40
+untethering you from the compute layer. Who am I? What can I do? Where can I do
+14:46
+it? Now, when you go into Google, you've got your Gmail, you've got your ID that
+14:52
+opens up Google Cloud, GCP. Same with Microsoft, same with SAP, all
+14:59
+of these. And you've got great products that help consolidate those for for cloud. They're centralized. So we
+15:05
+realized if we could untether you then you could become free against the
+15:10
+compute layer and against the services layer that that you want to access. And
+15:16
+that was really the first aha moment. So we built a product called the enforcer.
+15:22
+and the enforcer we bound to a we created a DDI a decentralized ID that uh
+15:29
+we integrated chain link with and I believe we we were the first or one of the first to use the chain link oracles
+15:35
+to verify your ID and so we tied who you are biometrically with partners like
+15:42
+clear and and we integrated several others who you are what you can do so
+15:48
+you can write open policy agents cloud policies to a wallet and where you can do it. If I want to
+15:56
+say that you can write, you can read or write to this field, this row, this column in this database in the web two
+16:03
+ecosystem, I can do that. So I can assign that against your ID and your wallet and I can give you access to web
+16:10
+two systems using the enforcer. On the web three side, I can say you can trade
+16:15
+a million dollars of this asset on this platform on this day. You can do these
+16:22
+certain functions. You can attest to these different reserves. This is your
+16:27
+limit. So I can assign full cloud policies to you regardless of the
+16:34
+ecosystem that you're connecting with. So the first product we launched was the enforcer. And what the enforcer does, it
+16:42
+solves the mid office that you see issues that you see in a bank. So
+16:47
+blockchain's really really good at the front office side of the ecosystem. I'm
+16:52
+sending you value. That value is going to get you there quicker than anything else in a in a trustless way and and in
+16:59
+a very efficient and lowcost way. Wonderful. We need to unlock more of that. But the thing that was missing is
+17:05
+the mid office. What can you trade? How much can you trade? Where can you trade? Who signs off the trade? That was
+17:12
+missing. So the enforcer was the first thing that we launched and we created a
+17:17
+product around it called proof of policy. But the the enforcer was really the thing that unlocked our tech stack.
+17:23
+The enforcer is a product. It's our biggest selling product. It's a governance first product. Who are you?
+17:29
+What can you do? Where can you do it? The the second thing was now we have to
+17:36
+communicate with the web 2 ecosystem. So the the enforcer was really the game changer for us about how we thought
+17:42
+about governance and solving the mid office. Now a lot of people have focused on governance at the wallet level and
+17:49
+put rules into the wallet which is a really important part of this but but we had to take an overarching view. Who are
+17:57
+you? What can you do? Where can you do it? We solved that problem. And so as part of solving that problem, we had to
+18:03
+work with some great partners, space and time, storej in in creating distributed
+18:09
+decentralized systems to enable us to deploy a governance layer in a
+18:15
+decentralized way supported by uh data systems that maintain the privacy of the
+18:21
+individual that we were assigning policies to. So problem number one solved distributed governance. Problem
+18:28
+number two was now how do we talk to the web 2 ecosystem from web 3 and we go
+18:37
+from decentralized to centralized. We have attack vectors. Now chain link did
+18:43
+a wonderful job in building great oracle networks and making them available to us
+18:48
+and we have been working very closely with chain link for many many years. In fact, my co-founder Austin uh after we
+18:56
+worked together EY, he went and joined Chainlink and and spent some good time there and when we came back together, we
+19:03
+became really close with chain link and we think they have some wonderful solutions. So, so what chain link have
+19:09
+given us is with their products like functions and proof of reserve and C is
+19:16
+an ability to use the Oracle network to validate the data sources that we're
+19:24
+connecting to. And so we use them like Lego bricks. we're able to build workflows and through the enforcer we're
+19:32
+able to put rules about who can access those workflows and how they can govern those workflows. So our second product
+19:40
+we launched was trust sync and trust sync initially was about setting up
+19:45
+proof of reserves using the chain link proof of reserves oracles but building
+19:50
+an attestation layer that makes it compliant with ma and the genius act etc. So, when we think about verifying
+19:59
+treasury information, let's say I I've got a million dollars that I want to place on chain and I want to be able to
+20:06
+do something with that. Well, the only place that proves that the million dollars is real is the treasury
+20:13
+management system that enables me to to mint the tokens to the equivalent of a
+20:19
+million dollars to say there are assets behind. So I have to be able to form a
+20:24
+bridge to the treasury management system that says that the number is correct and I have to be able to verify that bridge
+20:31
+with a consensus mechanism so that when I take a number and I say we've got a million dollars of this asset we can
+20:38
+mint a million dollars of this token on chain in our treasury contract. They have to work as one ecosystem. So
+20:45
+governance over the top with the enforcer and then the ability to connect to the web two systems to verify using a
+20:53
+consensus mechanism that we're connected to the right data. And there are other techniques if you look at how um zero
+20:59
+knowledge proofs work especially around how space and time use theirs some of their patents some really interesting
+21:06
+technologies to do that. So then we we created a workflow with a multi-estation
+21:12
+signing event so that the number is the number but also the number is
+21:18
+independently attested to and authorized by the right people. Cuz if you think
+21:24
+when you run payroll for your staff, you don't have one person run payroll that you don't check the number. There's
+21:30
+always a second, a third, there's a follow-up. There's a reconciliation that's done. It is the same with real
+21:36
+world assets. It's the same with bridging web two and web 3. There must be an independent verification or a
+21:43
+signing process that is done by people who have authority to say the number is the number. So we built a framework
+21:50
+called trust sync to enable web 2 and web 3 data interoperability but in a
+21:57
+governed and controlled way. Now, as as part of doing this, as part of uh
+22:03
+building applications, then we started building applications for people, consulting with people, we built a a
+22:09
+quite a a stack of code, millions and millions of lines of data over over the years and solving lots of different
+22:16
+problems along the way in terms of how the data interoperability works. So we ended up building tools over storej
+22:23
+tools over signin with ethereum over postgress ended up creating an ecosystem
+22:28
+an edge framework that enables people to deploy and communicate quite rapidly and
+22:34
+and so if you need to spin up any kind of or provision any kind of
+22:39
+decentralized distributed compute with the right kind of tooling we developed a full stack to do that now which was
+22:47
+great and so every every tool that we built was really for us to be able to deliver client problems and then we saw
+22:54
+Vibe Coding just take off and we started doing it ourselves and and and it was
+23:00
+amazing. So now everyone could do 10x of what they were were doing. But this was this is really interesting. So part of
+23:07
+what we have is a tokenization engine and in there is all of the standard uh
+23:12
+tokens that you would expect you know treasury contracts and then we created some of our own that that we've had
+23:19
+audited and to enable multi-asset multi-pric type structures for really
+23:25
+complex financial instruments. But we needed to know that when you're vibe coding, there was a determined outcome.
+23:32
+Not that you're having to rewire and replplug everything time and time again. We needed to know that our smart
+23:38
+contracts were not going to be altered. They were going to be deployed because they're audited. We needed to know our
+23:43
+governance framework had to be deployed in a certain way. And so we built a VIP
+23:50
+coding platform for ourselves using our own Lego bricks. let's say and following
+23:58
+our own methodology and that's u we use that internally and that is the Lego
+24:03
+bricks the millions of lines of code so if I want to provision a database that communicates with the enforcer that
+24:10
+communicates with a wallet that uses an ID that integrates with stripe or or
+24:16
+privy or or the standard tools or fireblocks we built that into our vibe
+24:21
+coding platform and now we have started started enabling third parties to use
+24:28
+the Vibe coding platform to wrap their unique microervices
+24:34
+into the platform and follow the deterministic pathway in order to deploy
+24:40
+their tools with our tools very very rapidly and and this has been organic
+24:45
+really it's kind of taken a life on its own and it's called u instructy u and effectively we have clients who have
+24:52
+specific skills let's say you have a uh you have some really good quants and there's a certain trade uh structure
+24:59
+that you're really good at and you want to market that or you want to deploy that in a trading framework and you want
+25:04
+that governed. So the enforcer enables you to put the governance around that. The Ubuild enables you to build to that
+25:11
+and then your micros service, your solutions, your code is your IP and we
+25:17
+create an ecosystem within Ubuild that is becoming a catalog for people to
+25:23
+create their own uh code, manage their own IP, but then resell that to our other customers. And that that's really
+25:29
+where you build is. It's it's 50% of it is a methodology on how to build web 2,
+25:34
+web 3 enterprise applications. the other 50% of it is code, but we're thinking
+25:39
+about how do we protect our clients IP and how do we reduce the amount of
+25:44
+credits that they're burning because they're having to build everything all the time from scratch in an unstructured
+25:52
+way. And we put a lot of structure around our Vibe coding platform. So, we're releasing this slowly to our first
+25:59
+tier providers and it has some uniqueness to it. We're not changing the
+26:05
+world of AI. We're just just making it easier, cheaper, and putting some strict rules around it. That's our third
+26:11
+product and and it's just really a consolidation of everything we've done. Thank you for this in-depth explanation.
+26:18
+I I really would like to ask you, you know, you was mentioning cloud policies. You know, you was speaking about the
+26:24
+identity and the cloud policies. Can you just explain a bit about the cloud policies? What is it basically? How to
+26:29
+understand that? Yeah, certainly in any ecosystem you have permissions and so
+26:35
+those permissions enable you to do things and there are billions of combinations. So when you go into AWS as
+26:43
+an administrator I assign you the ability to access a database within the database I can assign you an ability to
+26:50
+communicate to write to a certain table or to only read to run certain reports and this creates huge amounts of
+26:57
+policies and and most of those policies are almost all those policies are
+27:03
+tethered to the compute layer that you're going in and public cloud has made that easy because we've created a a
+27:10
+an ecosystem where they can all be governed from a centralized spot for the most part. But what happens if we're
+27:17
+using multiple systems? Well, well, now we've got another cloud where I need other policies and so there are products
+27:23
+that I can build a workflow over both of these ecosystems. Those products are centralized. So, so the problem is if I
+27:31
+if I think about the keys to the policies and my identity that assigns
+27:37
+there's a lot of trust. So if I can get into the policy engine, I can manipulate
+27:43
+what I can and can't do. So by putting the keys to the policies in the same
+27:49
+compute layer, and I appreciate everyone's got different ways of managing those keys, but if I can get to
+27:54
+you and what you can do, then I've got control. And the more control I've got,
+27:59
+then then the more damage I can do. So when we talk about cloud policies, it's really permissions to do things. Now a
+28:06
+web 3 world we've got permissions to do things too. It's certain of the of the
+28:11
+enterprise wallets. I can give you permissions to trade certain assets on
+28:17
+certain days like I can in a bank in a trading system. Now we need to bridge
+28:22
+those two worlds together. I need to be able to bridge data access and web 3
+28:28
+access by removing the key management away from the compute layer, away from
+28:35
+the cloud infrastructure and decentralizing it and then binding
+28:41
+to that to you as an individual. I can force an event that says prove that you
+28:46
+are you and and I can link that to your biometrics. I can create pass keys and
+28:52
+abstract away entirely the the fact that you're using blockchain, but I can prove
+28:57
+you are you. I can prove that your policies are only assigned to you. So
+29:04
+let's say you're sending me a and this is a real world use case that people use for our state. You're sending me wiring
+29:12
+instructions. It's a huge fraud area. I can prove that you have communicated the
+29:18
+message and I can prove that the message containing the wiring instructions have come from you and only I can see them.
+29:26
+And we have a cryptographic tunnel between two signing events that that
+29:31
+proves that the information has come and received from the authorized parties. I can do that today and we're doing that
+29:38
+today. And because we're unlocked from the compute layer, I'm not sending through email. I'm not using compromised
+29:44
+systems. We can create secure messaging, secure file transfer, secure asset
+29:49
+transfer. So when we talk about cloud policies in that situation, you're
+29:54
+authorized to send me a message. I'm authorized to receive and sign that message and you're authorized your use
+30:01
+your ID to do that. And I know for certainty that you have sent and received it. This is what I mean by the
+30:07
+value proposition for 2026 is so much more than the value proposition for 2020 and 2021. You know how our clients are
+30:15
+using our stack. It's it's different. I mean so we've got real world asset transfer. So value proposition and we
+30:22
+work with some wonderful partners around the real world asset federation for for tokenizing um gold and other real world
+30:29
+assets and and providing yield from those ecosystems and bridging the web 2
+30:35
+and web 3 value flywheels and that they're wonderful for generating new revenue models. But to think beyond
+30:41
+that, you are an asset. Your data is an asset. Your medical records are an
+30:46
+asset. your car, your house, etc. So when we think about not my keys, not my
+30:52
+crypto, not my keys, not my data, not my keys, not my message, not my keys, not my ID.
+30:57
+This is what I really would like to ask you. What is your main focus right now? What class of assets you are tokenizing
+31:03
+right now? And maybe you have some also some view or vision where you would like
+31:08
+to go with the tokenization in the future. Yeah. So, so class of assets. So first off, part of our business is tokenizing
+31:15
+medical records and messaging and IDs and we consider those an asset and we treat them in the same way and they're
+31:21
+governed in the same way. And so part of our organization is doing that. And another part of our organization is
+31:28
+tokenizing real world assets. So we're working with third parties to tokenize
+31:34
+gold. We've got 200 million of gold that that we've launched with the Real World
+31:39
+Asset Federation. And so that has created an ecosystem of borrowing and lending which is going rather well.
+31:46
+We've tokenized a lot of property over the time. Property is interesting. Some of the issues that people experience
+31:51
+with real world asset tokenization is what to do with the tokens once it's been tokenized. So we've solved the
+31:58
+confidence issue of of is it good, bad property, is it owned and and through the whole governance framework tying the
+32:06
+on andoff chain together. But still people that have assets have been looking for people to buy those assets
+32:12
+using tokenization and you can do so much more. So the way that we've approached that is through stable coins.
+32:18
+So you have the assets, you tokenize the assets, you link the tokens to the asset, and then you create a stable coin
+32:26
+off the asset. Then you have an ecosystem that uses the stable coin generates fees. So you have the real
+32:32
+world asset generating fees. In the web two world, you have the real world asset generating fees. In the web three world,
+32:38
+you have accretive fees that can support each other for creating new financial products. So, we're we're doing that.
+32:46
+It's going really well and we are looking for more gold, more silver, oil
+32:51
+and gas. We have new discussions around doing carbon credits. Pretty much
+32:57
+anything that's on a balance sheet can be tokenized. The question from my side was always you know and speaking with
+33:03
+multiple people what I noticed that we raise how to prove the reserves how I can trust that you know this specific
+33:09
+company has like specifically reserve of gold. Can you just explain the process you know what is be behind the lines how
+33:17
+people can actually check verify if that company is issuing the real world asset
+33:22
+tokens and we're verified and secure to buy and it is trustable too because this is I think where the most people are
+33:28
+getting the question you know in their mind should I invest into the tokenized asset how I can prove that it's real and
+33:36
+how I should check those things you know asset quality has been a problem for us
+33:42
+in the DeFi open finance world. I mean, we all got stung, I'm sure, by some of
+33:48
+those stable coins back in 2020, 2021. Some of those Florida properties that
+33:54
+came on that weren't real, some of those carbon credits that came on that weren't real. So, you raise a really good
+34:00
+problem, but a really good question to an old problem. There's different parts of the component uh to this. So firstly,
+34:08
+I don't have to say is this an asset because we have an entire governance framework that defines what an asset is
+34:16
+both legally and from an accounting perspective. So is it on a balance sheet and how is it structured is the first
+34:22
+question that we always ask. Is it real? Now we've got some really good guidance
+34:28
+from the Genius Act and from Ma about how to how to manage that on an ongoing
+34:33
+basis. First question is it on a balance sheet and is it an institution and does
+34:38
+that institution control that asset in a governed way? I don't have to answer that question. I just need to know that
+34:45
+they have the regular reporting and the internal control systems and that's not compromised. The second thing is then we
+34:52
+have to bind that balance sheet wherever that information is to the web 3 world
+34:58
+and that's where trust sync comes in. Is it on a balance sheet independently attested to? Now trust must have the
+35:06
+independent attestation on an ongoing basis. The number must be the number and
+35:11
+and it must be independently attested to. So then whoever mints the asset must
+35:18
+be able to put a legal uh hold on the asset to represent. So and there's a
+35:25
+number of different classifications you can do that. So in some classifications, in some legal jurisdictions, the token
+35:31
+can represent custody. So if I hold the token, I hold the legal custody over the asset. In other uh it works more like an
+35:38
+ETF where the asset is in a a custoded uh environment and I'm I have access to
+35:44
+the value of that in a legal structure. But so the the legals have to be bound
+35:50
+uh depending on the structure and the jurisdiction that you're using. And so there's there's always lawyers involved
+35:56
+and there's licenses involved. So there is the the data and the the transfer of
+36:01
+the information. The number is the number binding the web two and the web three worlds from a technical
+36:06
+perspective binding them legally. Then there is the ongoing governance layer. Who has access to the asset? Well, that
+36:13
+has to be controlled. And this is where we start with the governance structures. So there's always a lot of consulting
+36:19
+that needs to go over who has access, what value they have access, what can they do, can they rug their own token,
+36:25
+can they rug their own stable coin, that all of that has to be looked into. All of the smart contracts have to be
+36:30
+audited. The process has to be audited. The governance over the ecosystem has to be reviewed independently.
+36:37
+Now once all of that is in place then every other data element let's say it's
+36:44
+title deeds or it's um certification of custody what whatever it is they go into
+36:51
+a decentralized data vault and so we've got the data feed to the live systems
+36:56
+the decentralized objects and so if I hold the token I should be able to see
+37:03
+all of the data both objects and structured and unstructured data that
+37:09
+tells me this asset is real. I should have confidence. This is the approach that we take. And chain link used the
+37:16
+term golden thread and I love the golden thread but it's a golden thread from an IT perspective from a legal perspective
+37:23
+and a governance perspective and only until those three are bound as one
+37:29
+ecosystem and operate as one ecosystem can you trust the tokens. So process,
+37:36
+technology and governance. Perfect. Did you consider to build some kind of secondary marketplace where
+37:42
+others can actually sell the tokenized assets too or not or this is not in your plans?
+37:47
+That's there are people coming into our ecosystem that have those already. We are going to stick very clearly to
+37:55
+plumbing. We're going to support marketplaces. We're not going to launch our own marketplace. The marketplace
+38:01
+that we will launch and what we are launching is around microervices for
+38:06
+people who have unique things and unique code that they want to include into an
+38:12
+ecosystem for what what we do. So no, we're going to stay just behind the
+38:17
+final layer of the application. We're never going to launch our own applications outside of tooling. Okay.
+38:23
+To between web two and web 3. So the question is if I for example have an idea to build a business and I would
+38:30
+like to be focused to the secondary market. I would like to involve all the players who are actually tokenizing
+38:35
+assets and I would like to build this marketplace. So is it possible for us to partner up? Let's say in this sense I
+38:41
+can actually tokenize it for you. You would launch it. I would build the whole platform. You would launch it. I would
+38:48
+tokenize the assets and I would form the framework to enable you to deploy very
+38:54
+rapidly other people's assets, but you would run the marketplace or you could have someone else build it and I I would
+39:00
+tokenize the assets and form the glue or I would give you my tools and you would run an ecosystem of people so long
+39:08
+as they followed the process and the governance and methodology, you would feel comfortable to deploy all of our
+39:13
+tools yourself. When you deploy your type of marketplace, there will be things that you will want that other
+39:19
+people don't have and therefore we will build that into your governance framework where you would insist on XYZ
+39:27
+and so and that would be your brand and your IP and and everything. So we would help you get there. We will always stay
+39:33
+within plumbing because we're really good at plumbing and we're staying in that ecosystem because we're good at it
+39:39
+and it's just it's just what we've done. We've always lived in the big data kind of bridging metadata world and we're
+39:48
+just going to stay here. Okay. And what are the biggest friction points let's say for the companies who
+39:53
+wants to go from I want to tokenize assets for actually going and doing
+39:59
+this? It it's really it's really really interesting because the guys that have been tokenizing real world assets to
+40:05
+date have been entrepreneurial. they've seen other people do it and they're exploring it and they've read up and
+40:10
+honestly I've met some wonderful innovators, real thinkers and and been
+40:16
+excited to participate in that journey. So the biggest issue for them is is access to knowledge. And so the step one
+40:24
+for these for these groundbreaking individuals who want to get into this ecosystem who have assets perhaps or
+40:31
+have an idea is how do they get access to the right technology and the right knowledge because everyone's got their
+40:36
+own methodologies, everyone's got their own paths. There isn't one way of doing this. And that's been very very
+40:42
+difficult because if you go to the top consulting firms, you will get a completely different answer. they will
+40:49
+say, well, I could do this bit, but not this bit. And you go to the technology providers, well, we've got the wallet.
+40:54
+Well, we've got the tokenization engine. Well, we've got the oracles. And I'm not
+40:59
+seeing really true leadership at the top tier level. Now, of course, all of the
+41:06
+top banks have got their providers, but if you're like a tier 2 and below
+41:11
+business, you know, you're doing a a billion in revenue, where'd you go? Who's supporting you? And so that market
+41:20
+I mean they're really struggling. So we're providing services to that market and a lot of that is consultation and
+41:26
+discussion and and that's required every time because it's a completely different world. It's a different nomenclature and
+41:33
+there are very different risks when we talk about liquidity very different risks. the second biggest problem. So,
+41:40
+access to information, access to knowledge, which is why your channel is so important, which is why we've got to
+41:46
+get better at providing guidance and on online uh training. The second challenge
+41:52
+is the why. What is the business value proposition? And a lot of people have
+41:58
+read very good books from 5 years ago. They've read the white papers from 10
+42:03
+years ago. and they're coming to the market with a vision that they're going
+42:08
+to launch a token and everyone's going to buy it and number go up and they're going to be very very rich and that's
+42:14
+not going to work and that market isn't really there anymore. And so the value
+42:20
+proposition needs to be really thought through. The tokconomics really designed
+42:26
+very very well and they have to serve a purpose and a utility and value. And so
+42:33
+what that looks like and what the value proposition is for blockchain is the second biggest issue and and how they
+42:39
+can take their vision and apply it to today's market. Then there's the concept
+42:45
+about liquidity. So I've got a billion dollars in property commercial real estate. I want to create more liquidity.
+42:51
+I want to borrow against that. And so I want a hybrid uh token structure, stable coin structure because I'm I'm really
+42:57
+advanced and I know this. But now I'm faced with the fact I'm dealing with onchain liquidity pools and onchain open
+43:06
+finance. How do I manage liquidity? How do I bring liquidity in to support? How
+43:11
+do I bootstrap these projects? How do I work with a community that can safeguard
+43:18
+my assets and ecosystem on chain? How can I protect myself from really bad
+43:24
+third parties and state actors in certain parts of the world who who see me as free lunch? And so it really is
+43:32
+the wild west in some ways. And and although we've carved ecosystems of
+43:38
+safety within this world, there still is these really big open fields of
+43:44
+lawlessness. And we're getting there. And they exist. And it's wonderful in some ways they exist because there's so
+43:50
+much innovation that goes in those lawless territories. It's really where they the hard tests occur. But we've got
+43:57
+to guide people into the safe environments, keep their assets safe, and keep their reputation safe, which we
+44:04
+can do now with technology. And so the hardest thing is knowing who to trust
+44:09
+and which direction to go and to follow a path. And I don't think I'm not seeing
+44:16
+the Moses of the web 3 world for businesses that have a serious use case
+44:23
+for web 3 and fully understand this. So we're getting there. It's a start. I'm not seeing anyone who's really leading
+44:30
+the way thinking putting the corporate first. I don't know if we're going to be that that shining light. We certainly
+44:36
+have an opinion. We've certainly been tested. We certainly can provide that safety, security, governance, and value
+44:43
+transfer. We feel good about what we do and we feel good about our coding and
+44:48
+and our approach. We would love to team up with other players. We actually formed a real world asset federation to
+44:55
+agree on what is an asset before we even tokenize it. And and we need more of
+45:00
+those communities to define how we protect value. Okay. So you you were speaking a lot
+45:05
+about the revenue streams, what tokenized assets can bring to the business and to to the enterprises. I
+45:11
+think maybe this is good moment actually to invite other people you know to consider or to think about their
+45:17
+tokenization and if you would pick let's say a couple of key industries in your
+45:22
+opinion which has the most biggest potential to tokenize assets right now
+45:28
+today what would it be like what what kind of segments you see as a really big potential. Okay. So, so I'm going to
+45:35
+split those into two components. We're going to tokenize because it's better and then we're going to tokenize because
+45:40
+we're going to generate more revenue. So, those two worlds. So, let's talk about an insurance company. Now, the
+45:48
+first first job out of uni I did was as a rating analyst for insurance companies. Wonderful learning in in the
+45:56
+insurance world and in all financial services. assets flow between
+46:01
+organizations and there's huge amounts of reconciliation and waste that that's
+46:06
+done. But when we think about insurance specifically, I have a book. Let's say it's a motor book for Florida motor
+46:14
+vehicles. That book has a certain risk profile. Now, I don't want to carry all
+46:19
+of the risk for that motor book. So, I portion some of that risk and I seed it
+46:24
+to another company, a reinsurer. Now that reinsurer has lots of motorbooks from lots of states. It doesn't want to
+46:31
+carry all that risk. It seeds that risk to a portion of that risk to another
+46:36
+reinsurer. And then we have retro sessions and there are commissions. So
+46:41
+I'm incentivized in different ways to accept and portition that risk. Now that
+46:47
+goes on and on and on and the first insurance company is so big it has a reinsurance arm and it ends up buying
+46:53
+its risk back. And so we've seen that happen with mortgage back securities. We've seen that happen with insurance.
+46:59
+We've seen it happen pretty much every in every asset class. And then we have this bubble because because actually it's mispriced. Or if we look at what
+47:07
+happened in 2008, I had tripler rated assets merged with junk assets that
+47:14
+brought up the rating that mispriced the risk. And so I was able to hide bad risk
+47:22
+with good risk and mispric it. So in this world where we have all of this
+47:28
+risk that is flying around that we're buying back our own risk that's not being governed when we tokenize real
+47:35
+world assets and we tokenize books of risks and those type of assets. You can't buy back your own risk without
+47:41
+knowing you're buying it back. It is completely governed and controlled between organizations. that is a far
+47:48
+better way of governing risk across organizations in using the tokenization of real world assets. So, and in that
+47:55
+world we tokenize ID, we tokenize uh records, we tokenize messaging. That's a
+48:02
+world where it's just better to use blockchain for especially for
+48:07
+interoperability, interbank, intrabank, these types of things. Now the more kind
+48:12
+of the typical real world assets uh we're tokenizing that generate new
+48:17
+sources of income which folks really like. So in that world we see a lot of
+48:23
+US treasuries being tokenized and and why because under the new legislation in
+48:29
+America and and happening elsewhere if I have a big pile of of treasuries and I
+48:35
+can create a stable coin and I can find utility for that stable coin. Well, I'm
+48:40
+earning fees. I'm earning fees from the LP. I'm earning fees from the utility. I might be using it for intercomp balances
+48:49
+or for crossber transactions. I can do my own netting and settling. I'm reducing my third party costs. I'm
+48:56
+improving my visibility. I'm improving my reconciliation and governance and I'm
+49:02
+earning fees off the treasury. I'm earning interest off the treasury. So, I'm making I'm making all the way. So,
+49:08
+this is why stable coins are so exciting. So, what if we switch out the treasury? And that's that's one thing
+49:14
+that's growing really fast. Wonderful. What if we switch that out for let's say gold? Passive asset. Boring. I pay to
+49:22
+store gold. It's an asset. It's really important to me, but it sits there on my balance sheet doing nothing. Goldbacked
+49:29
+stable coins are really attractive. They can be used for collateral, for borrowing and lending. They're not
+49:35
+exposed to the types of fluctuations that currencies are. they tend to be
+49:41
+inflation and a hedge against inflation. So gold is a big one that we're seeing
+49:47
+coming on because people are starting to value gold a lot more especially as
+49:52
+we're seeing the US dollar under a lot of pressure. I have an ability to take gold and now I have an ability to earn
+49:58
+an income by creating a currency off that gold and trading the currency and
+50:05
+and we are seeing that and we are working with partners who quite frankly have achieved 20% APY on gold which is
+50:14
+stunning by creating an onchain utility. Now, if I'm a listed business and I can
+50:20
+create debt structures against I've now got income for my gold, I can now issue
+50:26
+bonds. I can issue bonds, buy more gold, generate yield. Beautiful. And I can use
+50:31
+some of that yield to support yield generation in the ecosystem. Every country is different. We have to be
+50:37
+really careful on the laws and work around that. Now, let's think about this with oil and gas. Oil and gas, the
+50:43
+reserves tend to be proven. They're in the process. What you can effectively do is this with oil and gas reserves or
+50:50
+with reserves that have really clear proven frameworks so that they're on a
+50:57
+balance sheet. There is a number on a balance sheet. They're in a process of extraction and and refinement. So what
+51:04
+what effectively you're doing is you're taking a commodity, pretty much any commodity, where we tend to trade it
+51:10
+once it's fully produced and refined, but you're sticking a flag further down
+51:16
+the supply chain where there is real value that's on a balance sheet and you're able to generate value further
+51:22
+down the supply chain and you're able to generate more value further down the supply chain. So accessing capital
+51:30
+earlier. Yeah. So actually the real estate example might be good. I know that you
+51:36
+know this tokenization era actually unlocks the new liquidity new capital.
+51:41
+What I believe you know tokenization will bring to the market it's additional liquidity and access to the retail
+51:46
+investors to invest into the real estate if the retail investors couldn't invest in the past having just only $100. So
+51:54
+right now we will be able to invest in real estate projects in New York in Paris in other places around the world
+52:01
+and that is good for the projects because it unlocks for them additional opportunity to get the capital and that
+52:07
+enables retail investors also to have access to invest in into those kind of deals. In the past you know just only
+52:13
+billion worth of companies had opportunity to invest into such big deals but right now theization era is
+52:19
+actually unlocks the opportunity to invest to others too. So on real estate you I mean you rais an excellent point
+52:25
+and I tend to gloss over real estate a little primarily because of the uh some
+52:31
+of the challenges improving the the has occurred in the 2020s. So uh the retail
+52:37
+market's a little jaded but if you think so what you just mentioned is getting access to the New York property market.
+52:44
+But the beauty of tokenization is one you can get you can create a basket of risk. So Dubai, New York, London, Paris
+52:53
+and you can create your own structures and your own risk profiles and have access to new types of instruments. So
+53:00
+but but you can do several things here. So one is providing access to new investors and distributing that value
+53:06
+and creating new financial risk frameworks and risk structures and instruments. But the second thing is if
+53:13
+I own real estate uh I can tokenize that real estate and I can deposit those
+53:18
+tokens in platform and there's a few out there rack.io IO are launching their IE
+53:24
+product which is borrowing lending deposit real estate tokens into their infrastructure and then borrow against
+53:31
+it take money off chain and go do something with that money and they're pegging at half US prime so you have
+53:38
+access to new forms of liquidity as well but if I have sufficient assets I can
+53:44
+literally create my own currency borrow against my assets with my own currency
+53:49
+and yield off that currency and yield off my assets This is where the final
+53:55
+like leg that we we're seeing today in 2026. I have gold assets. I have property
+54:01
+assets. I have property in Germany. I have property in New York. I have stable
+54:07
+coin assets. I can create composite financial instruments. And I can have my
+54:13
+quants create trade frameworks to earn yield off entirely new asset
+54:20
+distributions. Imagine the ability to have a catalog of
+54:26
+all different types of exotic instruments that are beyond our imagination and hypothecation of
+54:33
+everything. Everything and we haven't we've barely even started.
+54:38
+Yeah. And uh another thing is what I really see the huge potential the companies you know globally we will be
+54:45
+able also to get some liquidity to the business actually collateralizing their assets instead of going to the standard
+54:52
+financial system to the banks asking for the loans we will be able to collateralize their assets and then this
+54:58
+is how we can you know get additional money to the business selling tokens to the retail.
+55:04
+The banks are putting up a fight. They have tried very very hard to to stop
+55:09
+this and now they're accepting it and now they're the amount of web 3
+55:15
+companies that have been debanked for no reason whatsoever other than they're too risky. It's astonishing. And yet look at
+55:22
+what these same banks did in 2008. Look at the handouts they took, the money they took from other organizations. And
+55:30
+some of them chose to take money from crooks cuz the fines were cheaper than the loss of equity from the government
+55:35
+bailouts. And and so I find it a real challenge whenever a bank expresses risk
+55:42
+over how I run our business. Our books are audited. We we run a clean business.
+55:49
+I find the banking system just a little a little unfair in in challenging. And
+55:55
+it's not just us. All of us like everyone in our business has struggled to to get banks to support us and
+56:01
+support the the growth of this ecosystem. Okay, Matthew, how would the world would look like if would be in charged in 5
+56:10
+years? Thank you for asking. It's uh back in back in Ernston Young, we've got this
+56:16
+concept of 20 square ft. What can you do within your 20 square ft? and uh and it
+56:21
+was it was a great way of thinking about what our proximity to the market, our control, what what can we do? So we
+56:28
+think that having a wallet is really important. The fundamental principle upon which we founded Austin and I was
+56:36
+to protect the freedoms of individuals and their data. We disagree with being
+56:43
+harvested by big tech companies and our likes, our dislikes, our data, our
+56:49
+medical records being harvested without our consent and the value
+56:55
+not coming back to us. And so I should have the right to choose that my genome
+57:02
+that is traded for $4,000 a year, I should have the right that it shouldn't
+57:07
+be used for military purposes. I should have the right that my pharmacy benefits
+57:13
+my my records my records of what medicines I take or don't take which gets traded for $189 a year and you
+57:21
+don't realize it's being traded. I should have the right to say yes or no. And I should also have the right to see
+57:27
+some of the value if I say yes. We've started our business to build a platform to protect people's data and their
+57:35
+assets. And so in our world, what this looks like is that you have a wallet and
+57:41
+that you control your life and that the freedom to operate and to govern and to
+57:48
+determine what happens with your digital identity is given back to you. Your ability to vote and participate at a
+57:55
+local level, your ability to control and protect your assets, your data and your identity. and you become sovereign in in
+58:03
+your digital identity in your digital world. That is our vision. We haven't deviated from that and we believe there
+58:11
+are other privacy advocates out there and other and other advocates who believe in what we believe in and in the
+58:17
+the value proposition is around creating unlocking the value for every every
+58:25
+citizen of the world so they can participate in a fair and open economy. for sharing this vision and by the way I
+58:32
+really also would like to share one interesting thought let's say what I actually got from from discussions with
+58:37
+our people you know everybody speaking about vi and everybody trying to think you know what's going to happen in the
+58:44
+future within 5 years or 10 years ahead it looks like that the data will be the
+58:49
+most important asset in the future because this data will be used by AI and the question is you know what kind of
+58:55
+place the people going to have in this new world with AI if We going to have
+59:00
+you know robotics and EI implemented on daily lives. We will start to sell the
+59:05
+data. Once that happens then every business on earth is going to be incentivized to misuse your data for value
+59:13
+and we have a short window to protect the rights of individuals. And the
+59:18
+second thing is is value transfer. instruct works in in primarily America
+59:24
+and the United Kingdom and we're opening up Europe but my data is typically
+59:29
+stored in America because of how the software that we use. We have our own uh ecosystems that we run for privacy. When
+59:36
+you go into Microsoft Word and you you write your thesis, you're generating value in the country that you're doing
+59:43
+it. But that value, the electricity used to store the data, the water used to
+59:50
+provide the insights generated from that data, that's all going overseas and that
+59:55
+is being taxed locally. And right now there is a monopoly on where data is
+1:00:00
+being held and where data is being monetized. And that there are some countries like the United Kingdom that
+1:00:07
+can do better at wrestling some of that value back. But there are other countries that do not have any power who
+1:00:13
+are literally paying 50 cents on the dollar in tax to go to a place that gets
+1:00:19
+all the value from their data and none of the the value that's generated from it stays locally. We've got to do better
+1:00:26
+at fairly distributing the value that data generates. And we've got to do better at protecting that and stopping
+1:00:33
+these monopolies that are now infecting our governments and with a lot of
+1:00:38
+capital to maintain their control. If they were benign, we wouldn't notice. They're no longer benign. They're
+1:00:45
+actively seeking to limit freedoms and freedom of movement and freedom of
+1:00:50
+speech and freedom to conduct business and putting in anti- competitive
+1:00:56
+measures to protect their kingdoms. And that's that's a challenge. Let them go
+1:01:01
+back to being benign nice organizations that were hippies that thought they would get into it, but they're not.
+1:01:08
+They're becoming actively involved in government, actively involved in war, and actively involved in civil and
+1:01:14
+removment of freedoms and civil liberties. That has to stop. And we see
+1:01:19
+distributed and decentralized technology is a way to protect the future. Yeah. So would you agree that this AI
+1:01:27
+plus blockchain and tokenization, you know, it's it's merges very very nicely together? Just for example, you know,
+1:01:33
+I'm trying to work with charge on some specific topics. I'm trying to get some data from charge takes data from the
+1:01:39
+library somewhere which is already invented. I mean if somebody was working on the same topic in the past EI
+1:01:45
+actually is going to bring this data to you and you're going to use the same data. It's already invented and created.
+1:01:52
+So at some point you know I believe that it relates to what you said that if we would be able to tokenize the assets or
+1:01:58
+data what we are producing working with VI what we are inputting into VI maybe at some point in the future we will be
+1:02:04
+able also to earn money even from working with VI. I agree we we give our AIS wallets we
+1:02:10
+give them IDs and we use the enforcer to say you can do this and you can't do
+1:02:16
+this. And what the enforcer does, it gives us an audit trail in a very binary way that says, "Yes, I did this and I
+1:02:23
+did this here." And so we we govern our AIS exactly the same way we we govern.
+1:02:29
+Now, what what's really interesting is the next evolution of the enforcer is to
+1:02:35
+make it work at speed for agents because agents work a lot quicker than we do. So
+1:02:40
+the ability to govern agents in a controlled way in a completely governed way but then have an audit trail to do
+1:02:46
+what they uh should have done. So for instance you're talking about that hallucination. Now imagine that that
+1:02:52
+agent is talking is selling an insurance policy a regulated process. There are
+1:02:57
+things they have to say. There are things that has to be signed off. You want your AI to follow a pattern but you
+1:03:04
+also want to prove that that pattern was followed. And that's where the enforcer
+1:03:09
+can support that. What did it do? Did it do it in an immutable way? That's the
+1:03:14
+beauty of blockchain in all of this. The reason why we do we work with web 3, it's just a better way of doing things
+1:03:21
+when we merge web two and web 3. Web three on its own, it's not going to get there. Web two and web 3, web 3 solves a
+1:03:29
+lot of problems with web two and web two solves a lot of problems with web 3. Now we augment AI into that and now we have
+1:03:36
+a governance framework to be able to distribute how AI works. So I completely
+1:03:42
+agree if you add something to the data ecosystem you should get that value of
+1:03:47
+that something and that might be sufficient. And I guess my final point on this when you get older you're
+1:03:53
+actually more valuable from a medical record perspective because you're more interested. So it's inverse like we feel
+1:04:00
+like we're not valuable. We're irrelevant as we I mean I'm in my 50s. People have told me I'm irrelevant which
+1:04:06
+is fine because we ultimately do become but but my my data is getting more valuable and so I should be able to
+1:04:13
+participate in that value or society should be able to participate in that value. Not one small organization that
+1:04:19
+harvests it all. Yeah. And yeah, we've got to we got to and we think differently about that.
+1:04:24
+Like if we have a smart city, the fact I get coffee way too much for a man of my
+1:04:30
+age and I I live on coffee is an interesting data point. I should get the benefit, but my city should get the
+1:04:37
+benefit like give it like distribute the value. The interesting thing we've had cooperatives for hundreds of years and
+1:04:44
+cooperatives came as a rebellion against the industrial revolution unethically
+1:04:51
+harvesting the labor of workingclass people. They even created laws to stop you moving out of your county so you
+1:04:58
+couldn't go and get jobs so the industrialists can control you. And I I believe in free markets, but free
+1:05:04
+markets get ugly when they get monopolies. They become monopolies. And we have a we have a chance of
+1:05:10
+bringing this back into some kind of balance. And if we don't, it's it's going to look pretty ugly. And I don't want to leave that to my kids and my
+1:05:16
+grandkids. I agree. And thank you, Matthew, for for joining this episode. I really appreciate our discussion. I'm pretty
+1:05:22
+sure that for my community it will be very interesting to hear what you say and and uh hopefully you know somebody
+1:05:29
+who wants to discuss organization we can reach to you out. I really wish you good luck with what you do and I really love
+1:05:35
+your vision. I really support your vision and um I'm pretty sure that we're going to have really nice partnerships
+1:05:42
+in the future between us. Stay safe. Good luck and wish you the best. Thank you. Likewise. Appreciate your
+1:05:48
+time today. Have a wonderful day.
+

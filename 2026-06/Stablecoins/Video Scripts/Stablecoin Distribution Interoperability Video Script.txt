@@ -1,0 +1,885 @@
+
+Search in video
+0:03
+How's everyone? That's a very uh very big stage. [snorts] Um thank you
+0:08
+everyone for being here. Very excited to chat with you today to explore a little bit you know payment and
+0:14
+interperability. I guess I'll start first by asking you to set the stage and
+0:20
+make sure we have the same definition of what do you see and what does it mean
+0:25
+for you interpretability in the realm of payment in your in your context here and if you could actually use a specific use
+0:33
+case an example you know not something theoretically to have your definition of like a case that you encounter
+0:41
+and I'll start with you IMO. Yeah, Peter, good morning. um like let's say
+0:46
+if you want to move money today um from uh let's say Germany and to Japan and
+0:52
+then you're not having the convenient option of like separate instant uh you would actually go through a cross border payment potentially some multiple hops
+1:00
+uh with uh through multiple banks and institutions and with stable coins I mean at first I mean as we had before
+1:06
+like the initial vision was really just peerto-peer you just shoot it from A to B but u there's a variety of
+1:13
+intermediaries required ired. It already starts with does your local bank even support it, which um institutions like
+1:19
+ours are building on, but it's not there yet. That's probably the most important first step before we actually properly
+1:24
+get into how to best route the payment and how to make it efficient. Um but first, it needs to be supported so that
+1:30
+not every single user has to uh install their own wallet, but actually can use what they have already. I mean, in the
+1:36
+end, you want to send money. Does the client really care fully about what kind of rail is used? They will move money.
+1:43
+So that's something which we as institutions need to abstract for our clients this kind of complexity and clients don't really want to care in
+1:50
+depth about how it's done. They just want it to happen. Okay,
+1:55
+maybe I'll switch. Um Okay, go ahead. Go ahead. Go ahead. You're ready. You're
+2:01
+early. I can see. Um well I mean I think bu building building building on Emma said like I think a lot in in in our
+2:10
+space when we talk about interoperability like blockchains and bridges and all that but I think specifically when it comes to real world
+2:16
+payments a lot of the interoperability gap is in the surrounding infrastructure
+2:23
+like every hop separate KYC separate AML like um accounting cons um
+2:30
+reconciliation like all of that stuff is very bespoke for every counterparty and
+2:37
+that's that's where a lot of the interoperability actually breaks down because I mean we've we've like the the
+2:45
+asset movement itself it's it's been largely solved by now it's all the stuff
+2:50
+around it that is still like non-existent the KYC the lei all those different
+2:57
+the fun stuff yeah the fun stuff well Um, if I may, uh, we have a kind of
+3:04
+an interesting position at Kalis, right? Because we are, uh, founded by 12 banks and I believe,
+3:09
+if you could refresh the audience because I know what you are. I did my research, but maybe you could for the people who don't know like what
+3:16
+has been in Kalis, you know, like you were created like in September like a couple of months. We're super fresh, right? So, I'm at
+3:21
+Kalis since three weeks. Uh, before that, I was still at one of the banks. So we've been working on this for two
+3:27
+years to set it up because first you have to explain to all of the you know supervisory boards, the central banks uh
+3:34
+everyone else around the table what the hell are we doing uh before we are even able to you know launch the company. So
+3:41
+we have been we have set up a new company in Amsterdam called Kivalis which is I money institute that is uh
+3:48
+wholly owned by today 12 banks but as I was going to say um we are set up like
+3:54
+an open uh consortium which means uh by the time we go live hopefully at some point after the summer. Uh we expect to
+4:01
+have quite a few more banks uh that will join our uh consortium. And for us
+4:07
+interoperability is basically a discussion about the unique uniqueness of money. Um because we are thinking in
+4:14
+terms of maybe a few years ago if you had money at Deutsche Bank or Beniba you
+4:19
+never thought okay that's Deutsche Bank Euro and this is Berea Euro because it never made sense to make the distinction
+4:26
+right and and the discussion around stable coins is like so you have circle euro you have so general euro you have
+4:32
+kales euro and we think that's a stupid conversation because in the end it's always euro right you always have
+4:38
+according to mika the right of onetoone redemption against fiat euro So from our
+4:43
+point of view that conversation is already settled right. So stable coins are uh money. So the next question is
+4:50
+okay so what do you do with this money right? So we think uh the economic activity is going to move more and more
+4:56
+on chain. So all of these discussions about on andoff ramps I think those are temporary discussions because we believe
+5:03
+in the future if you start looking at agentic payments for example or uh tokenized investments in you know real
+5:10
+world real world assets or whatever everything is moving on chain. So at at one point we believe uh the equation
+5:16
+will flip and then you will not be talking about okay so how do I integrate my wallet with a credit card or how do I
+5:22
+offramp instead you're going to be asking yourself can my employer pay me in stable coins so that I can use this
+5:27
+for example at bipa to access a tokenized money market fund uh and so for us interoperability is more about
+5:34
+get making ourselves ready for the future and having as many banks already there so that when people say uh I
+5:40
+already have an account at I don't know Rafisen Bank or or Danska Bank or
+5:46
+whatever uh they are already part of this thing or this future uh digital
+5:51
+economy uh that we are building towards and we'll not have to think about okay
+5:57
+is this USDC is this Euro C is this something else it's going to be you know completely abstracted away so it's a bit
+6:04
+a bit of a different conceptual approach that we have so do you mean you're going to be like an abstraction layer for like your I
+6:12
+would Hey, so like the banks are going to be part of your consortium so they can really don't look about like the
+6:18
+underlying technical asset and just saying, "Hey, this is you're going to get one on one euros." Yeah. So that's
+6:25
+okay. That's another interesting conversation, right? Because for a bank to accept a stable coin, it's not only about the tech, it's also about the
+6:31
+credit rating. It's about the setup, about governance. So in that sense, yeah, it's true that for example, you uh
+6:39
+an American coin that I will not mention probably will not pass the risk uh assessment of banks if they want to use
+6:45
+it for interbank settlement or for settlement of securities. But a stable coin that was set up by banks that is
+6:51
+you know regulatory compliant that has you know the right uh setup uh will
+6:56
+probably have uh risk assessment such that for these banks in the consortium it becomes a cash equivalent and once
+7:03
+you have cash equivalents uh on chain then you can start building a lot of you know really innovative stuff and so uh
+7:10
+for us also it's not only about the tech we're going to start at Ethereum mainet right um so that's of course also
+7:17
+important uh that that we're going to have this interoperability right from the start between in you know
+7:24
+institutions but also defi uh because we are trying to build an ecosystem from scratch there is no euro
+7:30
+ecosystem out there and uh that's the big challenge so that's going to also provide kind of economic interperability
+7:36
+between defi between lending between you know uh whatever protocols are out there
+7:42
+and what the banks are now issuing uh at some point we think you will going to you're going to have I
+7:48
+more secure defy in the sense that more institutional liquidity and more institutional grade infrastructure will
+7:56
+underpin it. Uh and this will in the end lead up to what I was saying that at
+8:02
+some point the equation will flip and then people will probably move more money onchain than offchain.
+8:08
+very very exciting to see you know like some people are bashing Europe uh sometime about innovation and and moving
+8:15
+uh moving slower and uh I'm French but I live in the United States so I hear like those speech uh and I I find like this
+8:22
+is pretty exciting because I think you're the first consortium like to do this in Europe and really putting like the euro that's been pretty much missing
+8:28
+from the space uh in in in globally in the in the blockchain space Tony we were
+8:34
+together yesterday on stage also um you founded like QBX um about like a year
+8:41
+ago and your position as I guess a settlement and really also interplayer
+8:46
+for like stable coin. I'm curious also to hear your perspective with what you heard from the other panelists right
+8:52
+now. Yeah, great to be back and
+8:57
+look looking at the looking what what's the exam question? The exam question for
+9:03
+ubiquity and interoperability is really about acceptance. We're we're in a bizarre place in the
+9:11
+development of tokenized money where everyone is focused on issuance.
+9:18
+Now acceptance is the unlock that enables issuance and
+9:25
+enables a pluralistic market structure. So there's actually there's a point in
+9:31
+spaceime that we can all work towards. What is that point? It's when every bank
+9:38
+and fintech on the planet offers wallets to their customers
+9:44
+because that builds the acceptance network. You know, you cannot accept a credit
+9:51
+card unless in in the old days you had the swipe machines. If you don't have a POS, you cannot access.
+9:56
+You need the machine. If you don't have a POS POS device, you cannot accept a
+10:02
+card payment. If you don't have a wallet, you cannot accept a stable coin payment.
+10:07
+So, the common objective of everyone in the ecosystem
+10:14
+is every bank and fintech on the planet has a wallet. Now, that's the first thing for us to
+10:21
+address, folks. In this space,
+10:26
+there are so many category errors. And here here's here's an error I hope that Kales doesn't fall into. Ah, there you
+10:34
+free advice. Free advice, right? Oh, we are an issuing consortium
+10:41
+and we will all accept each other's token and we'll only accept the Kalis
+10:46
+token. Wrong. [laughter] Category error.
+10:54
+The acceptance infrastructure needs to be mutualized.
+11:00
+This is the unlock. Then you have a situation where every bank and fintech
+11:06
+on the planet have wallets connected to multiple chains. Any token can be transacted across that
+11:13
+infrastructure. And those banks and fintexs offer the
+11:19
+interoperability between the old world, the bank account paradigm, and the new world, the tokens and chains paradigm.
+11:26
+So, we all have to be very very clearheaded in our goto market. And very
+11:33
+often folks in the in the crypto blockchain industry, they're very
+11:38
+focused on me, my proposition. How do I win and not
+11:47
+enough on our So there's something super obvious. If we want interoperability, if
+11:53
+we want ubiquity, if we want the world of tokens and chains to win,
+11:58
+then the place we have to arrive in spaceime is when every bank and fintech
+12:05
+offer a wallet. Yeah, we are working on that, right? So that's one what's that's one aspect. And
+12:11
+the other point, you're right, it's to say our banks will only use kibalis because yeah, that's you know,
+12:17
+it's a zero sum game. So what we are also thinking is in terms of uh how do we make sure that we are not the only
+12:24
+guys playing this game right because that's also like you know moving zeros from here to here right uh and that's
+12:30
+why we're also talking to other issuers other European users monerium for example and a few others uh because we
+12:37
+think uh we cannot uh think that kalis is going to dominate this we need more
+12:42
+players out there just in order to have for example pec stability at curve or at unis swap or whatever you need to have
+12:48
+more than of Android. Uh we're also thinking in terms of interaction with US
+12:53
+uh FX uh tokens or could be something like I don't know some kind of
+12:58
+institutional grade FX platform. Um but the basis is what you say uh our banks
+13:04
+need to build this infrastructure. That's what they are doing today. This is why they invested in Kalis because they say okay I understand I need to
+13:10
+invest in this. I need to offer wallet infrastructure for what use case probably first going to be, you know,
+13:16
+using stable coins for payments or for accessing tokenized assets. Uh but this
+13:21
+will grow in the in the future, right? When when you have the infrastructure, then you can use it for whatever you want. You can use it for bitcoin, for
+13:27
+ethereum, for something else. So yeah, totally agree. Ivan, I see you smiling and laughing. Do
+13:33
+you want to add something to this? Yeah, I mean it just from from from someone
+13:38
+who lives on chain like some of these things are like like issuance was the focal point two years ago like like the
+13:47
+a big part of the battle around the clarity act is because circa 18 months ago people realized like
+13:54
+issuance is a very sexy business but you actually have to pay for growth so they were looking for ways to like distribute
+14:00
+the yield to the user. So at this point,
+14:06
+everyone who's like deeply in the onchain world is thinking of okay like
+14:11
+how do I get how do I on board the user? How do I incentivize the user to come here? Granted to your point like people
+14:19
+tend to live in their own bubble. But um that sort of point of view of like I'm
+14:24
+going to be an issuer and that's that's where I'm going to capture the value because I I've lobbyed the US state to
+14:30
+give me some sort of a regulatory moat around this is is already outdated. Um
+14:36
+today you wanted to also to react before maybe
+14:42
+not that point specifically. I know your bank I don't want to put you like in a in trouble with your compliance
+14:47
+department. You can still join us. [laughter] Yeah, I can understand that you would enjoy that. Um
+14:55
+um like like we've talked now a lot about accept acceptance but actually one
+15:01
+thing which which often is overlooked is and whenever we offramp the between tokens there's actually reserves also
+15:08
+flowing which we still need to make also interoperable. That's actually something which we're so basically you have
+15:13
+completely in the background but what's often not talked about is like different reserve banks. So when you offramp to
+15:19
+another token and on-ramp with another one specifically with if it's large tickets there's still the existing
+15:25
+payment rails and where we need different aggregators basically so larger banks gubs ideally which uh
+15:34
+banking those different issuers so that you can seamlessly actually swap in between the tokens. Will every bank be a
+15:41
+reserve bank for every token? Definitely not. Um but for selected tokens you need to have like this high liquidity that
+15:48
+you have direct access for for a swap also on the liability side so on
+15:53
+underlying reserve. Yeah. So uh that's an interesting point
+15:59
+because we are we are thinking exactly in those terms right so we see what the central bank is doing with the digital
+16:04
+currency and we see this experiments with AIA you know wholesale CBDC and
+16:10
+there is an obvious solution there right give access to European users issuers to AIA or to this wholesale CBDC program
+16:18
+because then you have this deep liquidity you have this integration between markets then you have a kind of
+16:24
+a real euro onchain because it has liquidity against the central bank. Uh
+16:29
+that's a discussion to be had in Europe. I think probably we're not ready yet. But I think at some point this
+16:35
+discussion needs to happen. The central bank is always saying we are very concerned about stable coins because if they become too big then this becomes a
+16:41
+systemic uh stability issue. But it only becomes an issue if you keep this thing sandboxed and cut off from the rest of
+16:47
+the capital markets. Right? So that's one point where we think there has to be a conversation at some point. Maybe in a
+16:53
+few years we will see. uh but I think the solution is out there and once you have that then this problem
+16:59
+about having enough liquidity on the liability side also becomes irrelevant because then you have uh you know
+17:06
+there's nothing better than than having a wholesale CBDC uh as part of your reserves for backing a a Europe backed
+17:13
+uh stable coin. So we hope that the the discussion goes into that direction. We
+17:18
+will see. Feel free to jump in guys. I don't want to be like the guardian of the of the of
+17:25
+the of the voice right now, but I find it pretty exciting to see like the conversation between the four of you
+17:31
+really revolving around more um coordination process and we don't talk about tech as much as we used to and I
+17:39
+think this is very uh encouraging and healthy I think for the ecosystem because I would imagine like maybe two
+17:45
+years ago even we would have been like well this chain and this type of token and how we need to design And we don't
+17:52
+talk about this anymore. And I think Ivan like you prefaceed that pretty well. Like we've solved like the the
+17:58
+technical problem. You know, we know how to swap. We know how to, you know, represent payment on chain and and now
+18:05
+we're more on that face where we actually need coordination and um and that make me wonder, you
+18:11
+know, four of you are evolving in the same space. You're you could be partner
+18:17
+a little bit of competitors in some way, but now we take the four of you in one room and uh and we're gonna do we do a
+18:24
+workshop. What would you like to work with like the the three others in the in the in the room right now if you were
+18:30
+given a choice to like have a specific topic? Tony.
+18:35
+Yeah. Again looking at the exam question of um ubiquity.
+18:41
+So, I am not a fan of cards on the front end
+18:46
+of stable coins. Um, this seems to me, you know, fintech was cards on the front
+18:52
+end of fintech accounts. If you mean credit cards, I mean cards, crypto cards on the front
+18:59
+end of stable coins, unlike the newis card, Minamas card, those type of I dislike cards on the front end of
+19:06
+stable coins. Why? Why is that? because essentially the the the general purpose
+19:12
+token is being co-opted by the legacy uh payment rails. So you know let's say
+19:19
+that we are out for a nice uh meal alto together we uh we comes to the paying of
+19:26
+the bill hand over a card we walk out of the restaurant the restaurant hasn't been paid what's happened is that the
+19:33
+card has obtained an off an authorization and then the restaurant pays 2 and a
+19:39
+half% sales tax for the purposes of getting that off and then the payment
+19:45
+two days later. If we are able to have stable coins and
+19:51
+tokenized deposits accepted at the point of sale, then by the time we walk out of
+19:56
+the restaurant, then the restaurant has been paid and hopefully doesn't have to pay 2 and a half%.
+20:02
+Now, how do we solve that? The point of sale contains something called an EMV
+20:08
+code kernel. That's the strangle hold that the cards industry has on payment acceptance. If
+20:14
+we want token native payments at the point of sale without going through cards, then there needs to be a kernel,
+20:22
+a token, a a to a a blockchain native kernel in the point of sale devices that
+20:29
+can accept a wallet to wallet peer-to-peer transfer. And this industry
+20:35
+has huge financial resources and it needs to be directed against
+20:41
+conquering the territory needed to bring about ubiquity. So, issuers of tokenized money, chains,
+20:50
+wallet providers, and many other participants would like it to be the case where you can walk to the
+20:56
+restaurant, tap with your phone, and a peer-to-peer transaction is taking place in stable coins or tokenized money
+21:03
+without going through the guardrails. And in order to achieve that, there's a common project we can do. It can be a
+21:09
+beautiful open-source project which is a new kernel in every point of sale on the
+21:15
+planet that accepts stable coin native payments without going through cards. So
+21:22
+that's a common project we can all work on. Very interesting. I think you're
+21:27
+referring to the EVM co um that happened I think in the late 90s on the credit
+21:32
+card when they actually built like a consortium to make that um and we need to have that moment for crypto and
+21:39
+having that technology for like native uh payment EMP co- kernel is the thing in the point
+21:46
+of sale that enables the contactless payments to be made through the cards networks. Now we work on a different
+21:55
+paradigm, a paradigm of tokens and chains. We need there to be an equivalent of the EMV co kernel inside
+22:03
+every point of sale such that we don't have to put cards on the front end of
+22:09
+stable coins. It's an abomination. I agree by the way and uh that's one of
+22:15
+the things I mean we respect Tony a lot because he's a very smart guy. So that's one of the things that we actually would
+22:21
+like to work uh as kalis on. Uh ubix can be a solution right I'm not here to you
+22:27
+know to promote or anything. Um but actually that's also the point of having this consortia because once you have all
+22:33
+of these banks behind us it's like 200 million US or customers of those banks
+22:38
+right there is a certain mass behind us that can help us say look uh point of
+22:44
+sale uh providers uh there is this new technology that we would like to push as
+22:49
+part of a industrywide uh um initiative but it will take time I don't think that
+22:55
+we are going to be have that we are going to have a stroll in the trying to to establish this, right?
+23:01
+It takes a finite amount of time that begins when we start the initiative. Yes.
+23:08
+Yeah. So, we I've spent some time in the house as well. Um
+23:14
+it's an it's an incentive problem. Everybody's trying to become the consolidation point.
+23:20
+Everybody wants to be the nucleus around which others are are um gathering. And
+23:26
+you know it's like oh like I'm I'm going to create my my own bank chain and I'm going to have my own bank chain and you
+23:32
+guys are going to come to me and then like everybody's like no no no you come to me and like okay now now we're thinking of like consortiums but I mean
+23:39
+ultimately the reason why you know 10 years down the line like it resolves on
+23:45
+ETH is because it is already scaled to a point where no single party can own it
+23:50
+and it's like okay well like we can't agree who's going to own this so it's going to be that shared infrastructure
+23:56
+and but the problem is if you are starting already knowing it's valuable,
+24:03
+it's very difficult because everybody wants to say how it's going to how it's going to work. And you know in essence
+24:09
+um like everybody's going to try to apply some sort of competitive pre pressure leverage um you know regulatory
+24:16
+modes or balance sheet or user base in order to define how this thing works and
+24:23
+ideally the platform their competitors. Yeah, that's why the that's why the point of
+24:29
+sale thing should be an open source project and it should be multi-chain and not just not just ETH but you know that this
+24:36
+is this is a a common good for the world of tokens and chains. So I
+24:44
+would I I very very much think that the industry has to you're right everyone
+24:49
+everyone is talking about their own talking their own book but there are some things that will engender positive
+24:56
+network effects for everyone massive unlocks for everyone so we have to do both it's
+25:03
+not that difficult to walk and chew gum let's do both you wanted to add something
+25:09
+I mean it's different rails but uh I mean we already see some uh sentiment overall in the industry. I mean with a
+25:15
+move from the new app like Vero for account payments. It's not supporting stable coins yet. But I mean it's a good
+25:22
+movement of the industry to jointly work on how can we enable it that we in between one another can settle without
+25:28
+necessarily having to have also on the merchant point of sale um which I think is going to live going to go live in the
+25:34
+next couple of months but of course it's just set by instant but um whenever that may spread further and something maybe
+25:41
+going a little bit Tony as you said like open source um and also goes cross currency I mean that's latest really fun
+25:48
+and where currently it's rather expensive to sell a [laughter] payments.
+25:53
+Look at that guys. We have like a panel with a lot of chat fine and we're talking about crops almost like open
+25:59
+source. Um but I'm completely agree with you and it's very exciting and to to to hear you talking about this. I would say
+26:05
+I've been doing some research on that for the last couple of months. you know the the EA being like a standard
+26:11
+organization I've been studying like what other industry have been doing you know how they've been able to come together and in the EVM co was one of
+26:18
+the thing that I've been looking at and actually have been contacting the people who who built this because the story is
+26:24
+quite exciting you know like they were about to fail and it's because they create that consortium and they were
+26:29
+able to come together and say hey this is how we we're going to create that technology that's going to make me
+26:35
+acceptance uh to to to use your word that uh we now have credit card everywhere in the world and I find this
+26:42
+extremely exciting to hear the four of you saying well we should do something open source and collaborate on on
+26:47
+something like that. Um maybe I'll send you a proposal after after that talk. uh shameless plug but like but seriously
+26:54
+it's I think it's it's definitely like direction I think open source and being and seeing open source also like being
+27:00
+more and more as a as a valuable process to build with private enterprise I I
+27:08
+think it's extremely exciting because it's the most powerful and probably like the the safest way to build things where
+27:16
+everyone has to keep each other in check you know as you said like you don't want capture don't want someone that's going
+27:21
+to push that tech and that's going to be able to exclude but it works for everyone and so when you work from a very neutral infrastructure and it can
+27:29
+be infrastructure but also like a process which is open source I think it produced you know really like powerful
+27:36
+results where you can have business built on top of that and if you think about it open source is what I mean the
+27:44
+concept of working collaboratively has been around for a long time but like the free software foundation I think it was
+27:50
+like 19 1980 something like this probably or 85. So it's not very old. Um
+27:57
+so very exciting to to hear you talking about this. Um I guess I I've digress a
+28:03
+little bit but you know we established like we need to have really like something so we can not use the credit
+28:09
+card. Um, I won't question you too much, but I think there is sometimes some some way you can do actually the credit card
+28:16
+while also having instant settlement on the chain, but I'm not a specialist enough to be able to talk about that.
+28:22
+I'm I'm curious now like we we are working on let's say we have that payment system, you know, open source
+28:29
+that everyone can use and make distribution of stable coin ubiquitous.
+28:34
+Um, what are the next, you know, thing that we need to work on together?
+28:43
+Well, I mean one thing which actually funnily enough is completely missing at the moment and it's like atomic DVP for
+28:50
+payments. I mean yes, you can send one another now stable coins also in the FEX business possible technically. Um but
+28:56
+you still need to get rid of that settlement risk at the moment because otherwise it's just a faster
+29:03
+maybe also cheaper rails but I mean that's the magic of blockchain in the end. one of the key promises which we
+29:09
+still need to unlock. Well, you have lightning, right? So, I'm from El Salvador and there I can pay my
+29:14
+coffee via lightning. I get an invoice. It gets it gets settled automatically or basically instantly on the L2. So,
+29:22
+it's just one leg and do you already have that in the institutional infrastructure? Well, it's it's a different thing,
+29:27
+right? You were talking in general about Yeah. Yeah. was low kick.
+29:33
+If it's just coffee, [laughter] yeah, it work for coffee. It works fine. That's Yeah. Yeah. Yeah. I know. I know what you mean, but but I mean the the same
+29:39
+principle applies because once you trust the mathematics to do this for you, it doesn't matter if it's for $5 or for
+29:44
+five billion. It's the same thing, right? It's still the same math. Yeah. It's just one direction. What I'm saying is like, well, you need um
+29:50
+whenever you're actually exchanging two streams of payment and that um it's something which in the D5 industry
+29:56
+already works very well when you do atomic swaps. Um but it has not been implemented in the institutional um infrastructure
+30:02
+providers in the market infrastructure. Um at the moment it's still just two completely independent legs from one
+30:08
+another and uh I think that's probably one of the most important steps actually for the industry to achieve. Um because
+30:14
+it takes out risk and if there's one thing for the financial industry what we most worry about is well risk.
+30:21
+Yeah but I mean that's what I'm saying that's a trivial thing right because the technology is out there. It's not you have to invent anything. It's just about
+30:27
+it's not rocket science. That's something which from if you're just working on the smart contract uh layer
+30:32
+that's something which you can achieve in a couple in a couple of minutes. There's templates out there and so on. It's basically just about what needs to
+30:38
+be done. Yeah. So you just have to agree to use it, right? So it's it's for me it's trivial.
+30:44
+Yeah, of course it's solvable. I said just something which uh the industry or
+30:50
+the license provider needs to provide. Let's do it. I mean some some other
+30:56
+things that we're going to have to build on top of stable coins that we've discovered in the traditional payment
+31:02
+space need to [clears throat] be transposed across. I'll give you a couple of very simple examples. One is
+31:07
+if we want stable coins to be useful for businessto business payments then
+31:13
+businesses are you know let's say red wine you send me you send me 20 invoices
+31:18
+I'm paying for 10 of them million dollars with the stable coin payment. I send you the stable coin payment. How do
+31:24
+you know which 10 invoices I'm paying for? So in in wallets at the moment,
+31:30
+best case, you get some sort of memo field. You cannot fit 10 invoices into a memo
+31:35
+field on a on a on a stable coin payment. So this is at one unlock. Another thing that we've discovered in
+31:42
+faster payment systems is there's a lot of authorized push payment fraud. One of
+31:47
+the measures to to reduce authorized push payment fraud is a service called confirmation of payee. What is
+31:54
+confirmation of pay? Can I check before I make the payment that the wallet is owned by Red One?
+32:01
+So there are many of these lessons that we've discovered in Tradfi that stable
+32:08
+coins will have to adopt and deliver. So I need to be able
+32:14
+to for if stable coins are going to be used for B2B payments, we need to have a seamless way of doing extended
+32:20
+remittance information which works across different forms of tokenized money which works across different
+32:26
+chains. The chains don't necessarily want to carry thousands of lines of invoice
+32:31
+data. So the these are I firmly believe that the general purpose technology of
+32:37
+tokens and chains beats the special purpose technology of AC and all of these things but we have to achieve at
+32:45
+least parity on some of these missing missing pieces.
+32:51
+I'm going to fall in the trap of talking my own book, but um and riffing off the previous conversation we just heard, uh
+32:57
+I would say confidential privacy is like kind of supersedes all of that.
+33:03
+Um because, you know, in the in the case of um invoices, I don't want you to know how
+33:09
+much I'm paying Tony. Exactly. Yeah. Maybe maybe you're a good negotiator and I'm
+33:14
+I'm I'm providing a service for 50k and I'm charging him at 100. I don't want him to see that. Yeah.
+33:20
+Yeah. So like and we we do have confidentiality and privacy tooling
+33:27
+existing. Um I think the compliant part of that that binome is the the
+33:35
+challenging one because you know different regulation different standards like the the the company information um
+33:42
+that is required varies from jurisdiction to jurisdiction from counterparty to counterparty and all that. So like some sort of a
+33:50
+standardization around that layer would be a very good you know way to propel
+33:57
+interoperability. We were recently talking to uh Marco de Rosi from uh consensus about ERC 80004
+34:06
+because they are building this agentic ID and reputation
+34:11
+standard and I was telling him why don't you build it also for institutions or for persons because that's going to
+34:16
+solve a lot of headaches that we have right and so I think there are a lot of pieces out there if you look at what
+34:21
+builders are doing it's just that maybe sometimes they are applying it for problems that probably are not there yet
+34:26
+instead of applying it to the problems we have today, right? So, uh I think that the the topic about conf
+34:32
+confidentiality is also a little bit overblown. So, you have people working with fully polomorphic encryption which
+34:37
+is super interesting but extremely expensive and slow, right? Then you have people working with CK proofs uh that of
+34:44
+course they're a bit faster than FHE but still it's very expensive and and and not really scalable. Then you have other
+34:50
+people who are saying ah then we have to go to a private enhance network like canton and then you say okay but then
+34:55
+you're basically trusting the guy who holds the key that he will be uh you know not a malicious actor. So in the
+35:00
+end you're overengineering the stuff for something that perhaps has a very simple solution right I'm not here to tell you
+35:06
+what the solution is but uh I do believe that this kind of conversation in the industry has sometimes to go back a
+35:12
+little bit down to earth right and not try to overengineer stuff all the time. So I
+35:19
+hope that uh by collaborating with the theorem foundation and with you know open source projects that we might find
+35:25
+solutions to problems uh that probably were not intended for it uh but in the
+35:30
+end might make things more efficient you know you don't have to spend so much effort on it um which is actually what
+35:36
+happened with Bitcoin right so Bitcoin was not developed from scratch they basically put together lots of different solutions that were already there so I
+35:43
+do believe that's probably going to be the same here in this particular problems we have um but I don't have a
+35:48
+magic glass bowl to say what's the solution going to be like you know I think actually you me you
+35:53
+said something about like people people are solving problem that don't exist yet
+35:58
+I don't agree with that I think sometime they they have solution but they don't know how to formulate the problem that
+36:04
+it's actually solved you know because there there's some work in some new EIPs and ERC's and I was with the use case
+36:10
+lab from Ethereum Foundation a couple like two weeks ago in San Francisco and um and they showed me like one of those
+36:17
+um and I forgot the name but a a really new way to have I think like intent and
+36:23
+and actually as they were explaining me I say oh I think this could probably serve like solve a problem that is faced
+36:30
+you know like one of the that you describe and so it's connecting I think the the issue that the institution face
+36:37
+with the solution that the the engineering community has usually already solved uh in Ethereum because
+36:44
+they're extremely prolific And and I think it's connecting those two that sometime is missing the most. You
+36:52
+know, we we're amazing at building tech and pretty poor at building product because
+36:57
+a lot of the ecosystem has been funded generously. So they never had to fight for a product market fit. So you have
+37:04
+like a lot of interesting tech floating around, but like shaping that into a product that can actually gain adoption is is something that we we haven't done
+37:13
+as well as we could so far. Yeah, I think that's perhaps the lesson learned from this panel, right? There has to be
+37:18
+a conversation between the builders and the and the institutions because I think that's where the value is going to come
+37:24
+out of. I mean there's a lot of very smart people out there and they probably have solutions to all our problems we are having. So probably that's for me
+37:30
+the lesson from today that we should foster this conversation.
+37:36
+Yep. I mean in every kind of transaction which we're actually working on, we always notice tech and uh any sort of
+37:44
+problem which could could be potentially solved by tech. It's solved already. It's really mostly like a legal question
+37:52
+um how to align the governance structure around it and just agreeing on not technical standards but just kind of how
+37:59
+can we standardize transactions and our business flow because it's not like payment didn't exist before. We just
+38:05
+need to adopt the uh adopt the new rail and uh see um how we can absorb the
+38:10
+risks which are there and abstract abstract them for the end user to actually reach the product market fit and not just well build it and hope that
+38:17
+somebody will somebody will use it but actually build great products for end clients.
+38:25
+Amen to that. Uh absolutely. This is also why we have organization like the you know like to offer like that uh
+38:33
+antitrust compliance structure for allowing conversation between institution and and and then startups um
+38:40
+because I think also something that I witness is sometime the at least the eer ecosystem is like wow why don't you go
+38:46
+on a old core dev call uh why don't you just post a message on uh on eer
+38:51
+magicians and and that shows you know how very far from the reality idea of
+38:58
+can you imagine you know you explaining to some of your executive like yes I open like a ticket on GitHub uh with the
+39:04
+uh Ethereum community for for those requests this is not the way we we can engage you know I think it's I think
+39:10
+it's our time to be inclusive for different market participants and so the
+39:16
+open source has a way of dealing you know like us individually we can do it but there is also we need to have a
+39:22
+different space for for like the institution to engage with the community
+39:27
+and uh and and those are like some of the thing like I'm most exciting to build and collaborating with the
+39:32
+Ethereum foundation and some other participants that have like already because the process is pretty well designed but it's how we going to adjust
+39:38
+this to include other voices because right now all the conversation on the
+39:44
+protocol and yes they have to be protected in some way you know because of the ethos of the ecosystem and I'm
+39:49
+talking for Ethereum especially but we also need to have a space for you know like the Dutch the CD the equivalent is
+39:56
+the BNP the G all the GC like Agora like you know BIS to be able to contribute
+40:03
+into this and I think that's will be like a big unlock in the future for if
+40:08
+we if we solve that that will really accelerate because there's brilliant people as you said Ivan like in
+40:15
+engineering and then there's people that have problems and once we allow them to
+40:20
+meet I think it's going to be unstoppable and I see time is up uh blinking So maybe I'm going to leave
+40:26
+some time if there anyone has some question and wants to uh to grill a little bit more our our panelists over
+40:32
+there. We have a a hand raising
+40:41
+kio Ernesto. Hi guys. Uh I have a question to emo you said
+40:47
+that there's no one right now who offering um swaps for institutionals
+40:53
+right? So um why and how we can solve this problem? How we can introduce for
+41:00
+institutionals atomic swaps? Well, when I say no one specifically,
+41:07
+let me maybe elaborate on that one a little bit. Um when you think about market structure, uh you have like
+41:12
+existing players who today um do like securities trading who are like licensed
+41:18
+as a CSD specifically. That's kind of how it starts. And uh you have like um
+41:23
+us as banks like offering payment rails and honestly I think it's an
+41:28
+evolutionary question rather than uh and that it's as I said the technology is
+41:33
+there. It's just that at the beginning if you look at the different transactions like bond issuances and so on. It's kind of like okay now we move
+41:41
+one token. Um yes the other leg is also there. We can do it. It's just a natural
+41:47
+evolution and I think we're rather still in the beginning. This will come for sure. It's not like something really
+41:53
+holding us back or so. It's just learning, building, growing together.
+42:04
+Any other question over there? And at the back, I think also,
+42:12
+um, hey there so much. Uh, thank you. Um, quick question. Um so you know it's mentioned several times that you know
+42:18
+certain issues could be solved through public goods whether it be that kernel you were discussing um whether it be
+42:24
+privacy um Ernesto that you mentioned um as a whole in our industry public good
+42:30
+funding public goods themselves open source software seems to be like quite on a radical decline so I'd be
+42:36
+interested to know what your organizations are doing to support that are there things that you think that institutions can bring to support these
+42:43
+open you know source public goods that will benefit your own projects as well. um because that's
+42:49
+something that clearly is has been you know degrading within the industry which
+42:54
+was doing really well say 10 5 to 10 years ago and and was funded by like quite risky let's be honest tokenized
+43:00
+you know um strategies um but now that's changed
+43:06
+I can only speak for Kalis right um so what we are doing is we are starting conversations with Ethereum foundation
+43:12
+with different protocols with different authors of ERC's to see how we can develop co-develop them and give them
+43:18
+design advice so that this is practicable and useful for the banks in our consortium for example. So that's
+43:24
+one thing we do believe is quite important. The other one is we are also very keen of open source. So we plan to
+43:31
+be fully transparent with our smart contractors. Everything is based on open zeppeline. So nothing you know tricky or
+43:37
+or weird. And then the banks in our consortium are also starting to release ERC's for particular stuff. There is one
+43:43
+bank in our consortium that just released two ERC's for smart derivatives and for smart bonds. Um and they will
+43:50
+probably also release a few more. So I think at least in this small circle uh
+43:56
+people are starting to understand that and they're they are living this as well. I don't know about uh you know the
+44:02
+other institutions you know not not every
+44:08
+common objective is a code base you know some of some of these things
+44:14
+are uh business objectives or point of time or go to market strategies as I I I
+44:21
+don't want to repeat myself too much but I was saying yesterday that I worked in banks for a long period of time and had
+44:28
+a succession of people from the different chains come into the bank and say I am the best chain and all that
+44:35
+does is push back adoption because you make the bank perform a computation that takes three years to to
+44:41
+uh to to undergo and a much better go to market is to encourage the bank to implement wallets that connect to many
+44:47
+chains. So not not every way point on this journey is a codebase and uh if
+44:55
+there were some method by which we could agree on you know the you ubiquitous access to digital assets
+45:04
+um there there are several roads to there are several roads to get there. Part of it is uh is open source projects
+45:11
+and part of it is stuff that's done in consortium. Um, but there might be a bit of
+45:16
+consensus building to get done. Like I I'm enjoying very I'm enjoying very much at the moment. There's a very very big
+45:22
+Twitter spot or between um Canton and ZK sync. [laughter]
+45:28
+It's it's amusing, but it it's as if is the how how are these two
+45:37
+entities or how are these two projects at odds with each other when there are
+45:42
+20,000 banks on the planet who are not on chain. How is that? It's like we have
+45:49
+uh you know we're at the edge of a great big ocean and we're fighting over one shrimp. It's ridiculous. So maybe
+45:57
+[clears throat] something about what are the what's the ground what's the territory we have to conquer and then
+46:03
+looking up from these uh tribal rivalries.
+46:09
+Well a a united message to I think conclude because I think we're out of time. Uh right thank you very much uh
+46:17
+thank you very much to panelist pleasure to chat with you and uh and thank you states. Thank you for your question
+46:22
+guys.
+

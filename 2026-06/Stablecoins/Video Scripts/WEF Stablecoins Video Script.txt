@@ -1,0 +1,925 @@
+Transcript
+
+
+Search in video
+0:00
+Heat. Heat. [music]
+0:12
+[music]
+0:17
+[music] Heat. Heat.
+0:24
+[music]
+0:40
+[music]
+0:57
+Heat. Heat.
+1:04
+[music]
+1:37
+Heat. Heat.
+1:44
+[music]
+1:55
+Heat. [music]
+2:02
+Heat. [music]
+2:08
+Heat. Heat.
+2:28
+Heat. Heat.
+2:41
+[music]
+3:10
+Heat. Heat.
+3:15
+Heat up [music]
+3:35
+here.
+3:44
+[music]
+4:00
+Uh good morning everybody. Welcome uh welcome to this uh session on where are
+4:06
+we with stable coins past, present and future. Uh thanks very much indeed for joining us. Um I'm Jerry Baker. I'm
+4:12
+editor at large of the Wall Street Journal. Typically write about macroeconomics and geopolitics but uh
+4:18
+like everybody have a an interest in this uh phenomenon this growth broadly of cryptocurrency and of course
+4:24
+particularly uh what's been happening in stable coins. Got a terrific uh panel here with a range of uh perspectives and
+4:33
+uh uh views on on this topic. Um just briefly introduce them. Uh we've got uh
+4:38
+to my immediate left Dan Katz, first deputy managing director of the IMF. Uh next to him, Jeremy Alair, co-founder uh
+4:46
+and CEO of Circle of course, one of the big uh stable co big stable coin company. Uh to his left, Vera Seonge,
+4:53
+who's co-founder of the liquidity and sustainability facility based in the UK. Oh, although with heavily focus on
+4:58
+Africa, aren't you Vera? Yeah. Uh and at the on my far left, Su Yat, co-founder
+5:04
+of Animoka Brands uh based in Hong Kong. Um just to set the stage, obviously
+5:10
+we've seen uh dramatic explosion in the use of stable coin uh just in the last
+5:16
+few years. I think the numbers are latest data were that 33 $33 trillion
+5:21
+worth of transactions in stable coin. Uh last year that was a 72% increase on the year before. I think over $350 billion
+5:29
+dollars worth of stable coin assets. Now, uh everybody seems to expect this growth to continue. We've had
+5:36
+[snorts] um a lot of focus, interesting focus on the regulatory environment. Genius Act of course passed in the United States
+5:41
+last year. Other countries also uh establishing a uh a regulatory framework
+5:47
+uh for dealing with stable coin. I suppose I think to me the most uh
+5:53
+fascinating story we'll get into all aspects of this but the most fascinating story to me is the question of you know
+5:58
+of what is the ultimate potential here. I know the sort of passionate the evang the evangelists for crypto generally um
+6:06
+see stablecoin because obviously because as the name implies uh because of its uh
+6:12
+its its stability as a real disruptor uh
+6:18
+of the global payment system representing a significant challenge to existing financial institutions.
+6:25
+um reducing friction in uh domestic and internet and especially in international
+6:30
+transactions um with all the potential some think some of the people I speak to think that ultimately perhaps replacing
+6:38
+uh traditional financial institutions in so many of these payment systems others think maybe the potential is is more
+6:43
+limited so we'll we'll get into all of that and we'll get into uh a lot of the details but uh um uh once again thank
+6:49
+you all for being here but so let me start with you Dan um we have seen as I
+6:55
+said this ex this explosion of the use of stable coin in the last stable coins
+7:00
+in the last few years. Um what's what's what's what what have been the main drivers of that growth?
+7:06
+Um [snorts] well thanks Jerry it's great to it's great to be here. Um in terms of what's been the main driver for that
+7:11
+growth I think that's actually a helpful framing for understanding the way that the evangelists as you put it and also
+7:16
+maybe you could say the reactionaries uh uh uh look at it. So the $37 trillion of
+7:23
+transaction volume I think is actually a little bit misleading because a lot of that transaction volume you know might
+7:29
+be uh trading back and forth between AI agents and you know various other uh forms of of digital transactions which
+7:36
+may not actually be that tied to economic substance. So I generally prefer to look at what's the total
+7:42
+volume of stable coins uh that's been issued which absolutely has been growing but you know in context in the context
+7:48
+of the global financial system $300 billion is still very very tiny. Um so I
+7:54
+I I don't think we quite yet know where this is going. Um you know what is clear though is that there are both you know
+8:00
+very significant potential benefits from uh the deployment of stable coins you know across uh improvements in both
+8:06
+domestic and crossber payments. uh in terms of financial inclusion uh I think that's often an overlooked uh uh benefit
+8:12
+but a really important one and then of course that's uh you know offset by potential risks whether that's financial
+8:18
+stability risk so as a result of runs on particular stable coins or whether that's a result of payment fragmentation
+8:24
+that could silo liquidity or as a result of disintermediation disintermediating
+8:30
+the banking system which I think is oftentimes the most severe risk that folks are are focused on and from an
+8:35
+emerging markets perspective the threat currency substitution and very very volatile capital flows but it's really
+8:41
+early days and so I think you know from the perspective of the fund and from the perspective of economic policy makers
+8:47
+it's important to remain balanced to work to establish clear rules and frameworks and we've seen a lot of
+8:52
+progress on that front uh but be very open-minded both of the benefits and the opportunities as this ecosystem starts
+8:58
+to interact with the traditional financial system so let Jeremy let me ask you um so sort
+9:03
+of almost to flip that my opening question on its head about why have we seen this explosive growth. I mean to Dan's point, okay, the transaction
+9:10
+number is one thing, but the actual total value of stable coins is another, 300 billion, which again, as Dan says,
+9:16
+is is a drop in the bucket, not only of total obviously financial assets, but actually even of of crypto uh of of
+9:24
+total crypto assets. So to sort of flip the question around maybe, you know, shouldn't
+9:30
+we seen a even faster growth? Why aren't people adopting stable coin more? And you know presumably again from your
+9:36
+perspective you you firmly expect them to do so and and how is that going to unfold?
+9:41
+Well I mean look I I it depends on your definition of fast. Uh you know we've seen USDC grow over 80% a year for
+9:49
+multiple years straight. Uh we saw in Q3, our most recently publicly reported
+9:55
+quarter, we saw transaction volume in USDC grow uh 580% yearonear. Um you know
+10:03
+uh across so many other metrics, the amount of uh uh USDC flow across blockchain networks also growing at at
+10:10
+huge uh at huge growth rates. What's interesting for us though is um this
+10:15
+gets into the the the the original question which is um you know when when we think about this really from
+10:22
+inception when we designed this in the first place we think about general purpose general architecture money for
+10:27
+the internet fully reserved uh uh very safe fully reserved now we're getting credential frameworks to to provide for
+10:35
+that that safety in a digital cash instrument that uh can scale from a
+10:41
+transaction that might be between one AI agent and another AI agent that needs to
+10:46
+consume digital tokens uh for 25 cents uh all the way up to a a bond purchase
+10:53
+that might be a billion dollar bond purchase settled internationally and everything in between. And so when I
+10:59
+look at the use case proliferation that we're seeing it's extraordinary. We are seeing use grow in uh in crossber trade
+11:06
+settlement. We're seeing use grow in trade finance. We're seeing the biggest e-commerce uh platforms like Stripe and
+11:13
+Shopify adding USDC payment acceptance at at uh in in their own platforms.
+11:18
+We're seeing the biggest remittance companies and neo banks adding USDC as a way to store value, as a savings
+11:24
+vehicle, as a payment system capability. The biggest payments networks in the world like Visa and Mastercard now using
+11:31
+USDC as an internal settlement infrastructure. uh the biggest asset issuers and asset
+11:37
+managers like Black Rockck and Apollo issuing private credit products on chain or uh or other fund products on chain
+11:44
+where the primary way that you create and redeem these new securities is with things like USDC. Um, and then
+11:51
+obviously, um, in in peer-to-peer transactions, I think one of the one of the one of the things that I think
+11:56
+people often mistake is there's a lot of USDC and stable coin in general that
+12:02
+comes in and out through these big u aggregators like a Binance or a Coinbase or others quote unquote crypto
+12:07
+exchanges. But what's interesting about these platforms is that yes, people are using them for trading and investing,
+12:14
+but they're also using them for savings. If you look at a a platform like Binance with over 300 million users, 20% of
+12:20
+their users are in Africa, far higher penetration of users in Africa than the banking system in Africa. And people are
+12:27
+using it primarily as a dollar substitution mechanism, as a way to store value, make peer-to-peer payments,
+12:32
+etc. And so the the use cases are are growing in every sector of the of the
+12:38
+economic system. And with the regulatory clarity uh I think um that's that's breaking out all around the world. We
+12:43
+expect that to uh to accelerate as well. Well, you moved us nicely on there by talking about Africa to to Vera. Um the
+12:52
+vast bulk I think it's true so far of the of the stable coin activity we've seen is obviously fiat currency backed
+12:59
+and in particular US US US dollar backed. But Ver I know you you you've been particularly in a in Africa working
+13:06
+on alternatives. Can you can you tell us how that sector of the market is growing?
+13:12
+Yes. No, I think uh thank you very much. I want to come back to the 33 trillion number and and and
+13:20
+it's not clear to me that one needs to dismiss it just because the money velocity is increasing because that is
+13:25
+what 33 trillion is. It's the money velocity. Yes, the base is 300 billion which is already a big number uh when
+13:31
+you talk about how quickly it has grown. But in Africa in particular, I think there are four, I think, positive use
+13:38
+cases for it, which is one of the reasons why it's growing so fast. The first one is just about transaction cost
+13:44
+and arbitrage. And so far, for the last, I would say 15 years, one constant
+13:50
+agenda item on the G20 has been reduce the cost of remittance transfers. Remittances are more important to Africa
+13:56
+than aid uh uh has been. actually cumulatively over the last 3 years
+14:02
+remittances have tripled compared to overall development assistance. So this is how important it is. However, for
+14:08
+every dollar that is uh uh sent out onto the continent, you have 0.06 or let's
+14:14
+say if it's a $100 uh $6 of payments uh uh costs in and transactions which is
+14:20
+quite expensive. In addition to that, if you're transacting over the weekend, then you have to wait for Monday, right?
+14:26
+So there's so if you're a small business uh transactions person those three or four days sometimes on the continent is
+14:32
+actually five days in terms of uh sending resources with uh stable coins
+14:38
+it takes minutes uh uh and and it cost a dollar. So one of the beautiful things
+14:44
+about the Genius Act is really that you know it has now created a regulatory framework for stable coins but the the
+14:52
+big beautiful budget was going to start taxing remittances by $5. So you're going to add already 6% you're going to
+14:58
+add another 5% with stable coin you can do that. The second thing uh that is important for stable coin is of course
+15:04
+the hedge against the uh uh inflation in in many of our countries post uh co
+15:10
+we've have we have about 12 uh to 15 African countries where inflation was above 20%. And so essentially you know
+15:17
+the fastest way to uh poverty increases is inflation. And so what you want to do
+15:22
+is what stablecoin is doing is providing people with a safety net with a safe uh uh account. 6.5 billion uh uh people uh
+15:32
+globally do not have sorry 6.5 1.5 billion people globally do not have access to a bank account. 650 million
+15:38
+people on the uh African continent. With a smartphone you have access to a stable coin. So you can actually save in a
+15:44
+currency that is not uh uh exposed to the fluctuations of inflation and making you poorer. So that's another big
+15:51
+contribution uh of the stable coin. Can you give us a sense of of what the takeup is so far in Africa? I'm I'm
+15:57
+assuming you have a lot of take up in the countries where inflation so and and and I think stable coin also in some sense
+16:03
+is almost a directional way of looking at monetary policy and restrictions on capital controls where you have higher
+16:10
+capital controls. Any country that has higher capital controls has uh stable coin use quite high. So we have the
+16:15
+three biggest stable coin users on the continent today are Egypt, Nigeria, Ethiopia to some extent South Africa but
+16:21
+South Africa is because businesses are using it. And this is the last point that I was going to make is is actually
+16:27
+also small and medium enterprises. The large bulk of stable coin use on the continent is below a million dollars
+16:34
+which means it's mostly SMMES transacting on it. So it's a huge inclusion and financial inclusion as you
+16:39
+said uh too. Yeah. So what what what's your sense of the both the the the immediate potential
+16:47
+the short-term potential of of of of the growth in stable coin and and and ultimate potential? I mean where does
+16:52
+this go? I mean, I [snorts] guess I'll take it from the lens from the entirely virtual economy, which is kind of where we're sitting, you know, between video
+16:57
+games and digital assets purely. I mean, the state of crypto broadly went from, you know, like six, seven years ago to,
+17:04
+you know, about 3 to 400 billion to basically three trillion. And so, that's very much a proxy as well as those
+17:10
+economies grow in themselves, not just the rise of Bitcoin, but the entire crypto economy. Of course, use of stable
+17:15
+coins grow as well. And I think the very initial use of stable coins was this onoff ramp as well. It was kind of
+17:20
+really if you think about it the bridge to the real world not just as an RWA but literally oh I have assets that are
+17:26
+worth something in the digital world that are entirely virtual so to speak and now how do I bridge it to I can you know buy something in the real world and
+17:32
+do that and that actually stable coins really sort of sort of perfected that model at start and was also and I'm right that has that has up to
+17:39
+now been quite a significant uh component of the certain stable coin it certainly has been a significant
+17:44
+component for the initial growth but I think it's much more significant today because the other thing that's also happened and especially during
+17:49
+uh we saw this in places with you know some of our products in places like Philippines and Indonesia there was
+17:54
+basically mass adoption of places where they needed to make virtual income and virtual income can be made through
+18:00
+activities that are done in those digital worlds right they used to call it the metaverse metaverse is kind of out but the point is that people are
+18:06
+still making money in those environments they make them in these digital assets in crypto tokens they may be you know
+18:12
+not real however they would then trade them out into stable coins and then next thing you know because they have a
+18:18
+wallet they've got bank account of some form where they would normally get back because you know $5 isn't worth a bank
+18:23
+account but $5 is a lot of money in places like the Philippines. And then what's interesting also is this financial inclusion that actually
+18:29
+introduces a form of financial literacy. And I I think it's interesting because you know um for those of who've been
+18:34
+around for a while I think it's a little bit synonymous of looking at media consumption in the internet back in 1995
+18:40
+and 96 right the growth is rapid but in relative media consumption compared to TV and newspapers it seems very low. I
+18:47
+think with stable coins and broadly with digital assets we're kind of at that stage right $3 trillion is a big figure
+18:53
+but at the size of you know the stock market and generally speaking it's still a tiny tiny fraction which I think
+18:58
+represents that opportunity. Um the other thing of course is that um we think of this also as the asset class of
+19:04
+the youth. So it's not just developing it's also for young people. If you look at South Korea the majority of people
+19:10
+under the age of 30 now exclusively deal in digital assets of some form or fashion. sometimes they don't even care about stocks which is why people are
+19:17
+talking about tokenizing stocks themselves and so what is that bridge right um so I think the growth of stable
+19:22
+coins is going to grow not just because of the demand in the physical world better faster cheaper all the arguments
+19:27
+that we're seeing here um just on on the topic of unbanked I mean you know we're used to t plus2 um sometimes t plus 7
+19:35
+depending what it is uh but in places of these countries you need um you know you basically you need it there in the
+19:41
+second because you know why do we have payroll systems that pay us on a monthly basis. We think that's normal because
+19:47
+we've got credit systems around. But in those places, um you need to have your
+19:52
+payroll on a daily basis and stable coins is one of the best uh best use cases for that. So, it's a it's growing
+19:58
+from there. Jeremy, um we're all obviously um now completely used to the
+20:03
+idea that artificial intelligence uh uh you know is is not only the adoption of artificial intelligence is not only now
+20:10
+um pretty well uh universal, but we're expecting obviously the dramatic acceleration of it in a increasingly
+20:17
+short kind of time frame. Can you tell us how that how how stable coin what what role stable coin could play there
+20:24
+and how how AI will affect stable coin? Sure. I I' I'd start with um maybe some
+20:30
+basic which is you know when when when we got started working on this almost 13 years ago the the the idea that got us
+20:36
+very excited was that first that you could have kind of money as like a native data type on the internet. So you
+20:42
+could have digital dollars just like you have digital music or or communications like kind of ba basic building blocks
+20:48
+and that it would be programmable and and the programmability idea was uh
+20:53
+through the advent or the proposal of the idea of smart contracts and 12 years ago 13 years ago that wasn't a thing.
+21:00
+Now we have very mature computing networks these blockchain networks that
+21:06
+uh are able to execute code. Um, and what's powerful about it is that these smart contracts are um, they're publicly
+21:14
+verifiable. So that's really important when you're dealing with uh, transactions amongst uh, unknown
+21:20
+counterparties or for example when you're dealing with transactions between an AI agent and another AI agent. And so
+21:27
+we now have kind of the the computing material to provide a kind of assured,
+21:34
+verifiable, cryptographically verifiable way to conduct transactions.
+21:41
+And so um that's powerful in a whole bunch of things. It's powerful for uh bringing more financial market
+21:47
+infrastructure online and innovations in the way financial services get built and and delivered and rendered. But it's
+21:53
+particularly important in this in this growing world of agentic economic
+21:59
+activity. And so um you know right now what we're seeing is um this
+22:06
+proliferation in new technology standards for um basically payment
+22:12
+protocols for AI agents and payment protocols for AI agents that um
+22:18
+primarily use stable coins uh uh uh as the as the actual medium of exchange. If
+22:24
+you if you think about um you know uh AI agents that are making these high
+22:30
+velocity transactions at very low cost to do work or or consume data etc like
+22:35
+taking out your Visa card or firing up a bank wire or it's just completely absurd. Uh and so we need a medium of
+22:43
+exchange that can scale down to [clears throat] fractions of a cent uh
+22:48
+that has the money velocity and and speed of the internet that works openly
+22:53
+globally interoperably any software or hardware connected device in the world that that may have AI agentic activity
+23:01
+happening on it being [clears throat] able to transact and and critically you know with AI one of the big concerns is
+23:07
+truth um not just hallucinations but also how do we know uh who is this AI
+23:14
+agent acting on behalf of and how do I verify that it's its output and its work
+23:20
+is is correct and so um what we're what we're really seeing is sort of the next
+23:26
+generation of blockchain networks things like ARC which circle's building on there's other new blockchain networks
+23:34
+are actually being designed specifically for agentic compute. They're designed
+23:41
+specifically for the financial and economic activity of a world where three
+23:46
+years, five years from now, uh one I [snorts] think can reasonably expect that there will be billions, literally
+23:53
+billions of AI agents conducting economic activity in the world continuously on a continuous basis. They
+23:59
+need an economic system. They need a financial system. They need a payment system. There is no other alternative in
+24:05
+my view other than stable coins to do that right now. and that can keep up with that pace of technological change.
+24:11
+And so that's a it's a it's a critical uh focus for us, but not just us, there's a lot of other folks that are
+24:17
+interested in this and and contributing to the technical standards to to support this um upgrade to our our digital
+24:24
+economic system. Let's talk about if we can I just Yeah. Yeah. Please quickly interject just because Jeremy was talking about
+24:30
+programmability and you know, Agentic AI. Absolutely. It's going to it's going to be huge. the program uh programmable
+24:36
+aspect of basically money is actually I think the other part that's really revolutionary. The whole DeFi economy
+24:43
+comes from the fact that you can actually program money. Um and I and I think the parallel I think of it is a little bit like open
+24:49
+source, right? For the first time in the world, you have a kind of open- source money that is basically reservebacked.
+24:55
+But what you can now do is create products and services on top of it that weren't accessible before. And when you think about what the internet did in the
+25:01
+early days, it provided that toolkit for media. you weren't a media professional, but now you could enter the world of
+25:07
+media. You could be a kid. You could be a programmer. You didn't have to come from the world of finance. And I think
+25:12
+it's very interesting when you look at the origins of a lot of the people in the crypto world. They don't originally come from finance. They come from many
+25:18
+other industries, but they became sort of included in this world of finance. They learned about it and then they
+25:24
+brought their own creativity, their own ideas to the space and say, "Hey, how about we do this or maybe we should do,
+25:29
+you know, a prediction market or maybe we should do sort of something in gaming." they just integrated that and
+25:34
+in a way previously because money was kind of locked in sort of traditional systems only experts could enter
+25:41
+essentially you couldn't grow that space and I think the real incredible added opportunity is by open sourcing money
+25:47
+you're bringing the entire global creativity which I think is the opportunity for economies as well to say you know what you don't have to have a
+25:53
+finance degree but you can now dabble with this and then from there you can develop and then actually become more
+25:58
+financially literate just in the same way that we used to call digital literacy a thing totally This raises this again helpfully
+26:04
+brings us on to the next topic I wanted to discuss which is the the policy environment and firstly the reg the
+26:10
+regulatory environment and you know given these extraordinary innovations you're seeing we've had we had the
+26:15
+genius act obviously last year um you know and I I wonder Dan if you could tell us what you know obviously these
+26:21
+principal provisions were you know reserve you know required reserve backing um you know some sort of certain
+26:28
+protections how is that from your perspective how is that working is it I
+26:33
+mean often when you get a significant piece of regulation um it it it works in
+26:39
+some respects and then you discover that there are whole areas actually which are either overregulated or underregulated. What's your sense of of the regulatory
+26:45
+climate right now especially in the US? Uh sure. So I I mean with respect to the US specifically I think it's it's quite
+26:51
+early right. I mean certainly genius was a big step forward in terms of establishing some clear uh rules of the
+26:56
+road but at the same time you know there are still a range of rulemakings that regulators need to go through uh to
+27:02
+figure out how to appropriately calibrate um the the uh the regulatory framework and then critically you know I
+27:09
+think I think the you know one of the key things is going to be the interaction between regulatory frameworks internationally and we have
+27:15
+seen you know progress uh on the international front obviously ma in the EU and lots of other jurisdictions
+27:22
+introducing their own frameworks. But if you really want to realize the benefits of stable coins, particularly from a
+27:27
+crossber transactions perspective and of course you really need scale to generate a lot of the benefits that we that we uh
+27:34
+that we realize could could be realized with um with stable coins. You need to have effective interoperability and so I
+27:40
+think that's really the next regulatory frontier uh that uh that folks need to work on. But just kind of stepping back
+27:46
+for a minute from the funds perspective in thinking about global economic growth
+27:51
+and stability, you know, the reason why we need these clear regulatory frameworks is a concept that I think
+27:57
+it's really important for everyone to keep in mind uh uh when thinking about this the these developments and that's
+28:03
+competition, right? And so one of the reasons why I think there are such exciting uh potential use cases uh for
+28:09
+stable coins um is the competitive dynamics that they will bring into the traditional financial system. And I
+28:16
+don't I don't begin to know exactly what this is going to look like over the next decade and beyond. whether stable coin
+28:22
+issuers will be the dominant provider of uh mediums of exchange or stores of
+28:27
+value um or whether the technological underpinnings that um exist in the ecosystem will be absorbed into the
+28:34
+traditional financial system. But I think it's critical that we allow this process to play out because ultimately
+28:40
+it's consumers who are going to benefit from the efficiency gains that the market uh that the market will respond to. And that would also extend by the
+28:46
+way um uh to uh to uh the role of currencies generally in the international environment. And so you
+28:53
+know as as we've already heard as stable coins create the potential for additional uptake in uh you know
+29:00
+jurisdictions that have weak uh fiscal and monetary frameworks you know for dollar for dollars or for uh you know
+29:07
+other other currencies. that creates a competitive pressure on those countries themselves in order to improve their
+29:14
+fiscal and monetary frameworks which I think is an important element that we shouldn't also also lose as we're
+29:20
+thinking about concepts like monetary sovereignty. Yeah. Verz, I mean that's obviously and and talk a little bit also about uh
+29:26
+you know you talked in your opening remarks a little bit about um uh you know the role of the dollar but but but
+29:32
+the importance of perhaps a dollization and I know you've been working on sort of alternative currencybacked um stable
+29:38
+coin. Yes. No, I think that's thank you and that's a very a very good safe uh segue.
+29:44
+So the one of the biggest fries and and just to to to be clear stable coin is not crypto, right? uh at least a a fiat
+29:52
+based stable coin which is uh backed by um some liquid currencies is is what
+29:57
+we're talking about here and and I think if you look at the African continent we have over 50 countries we have uh the
+30:03
+African continental free trade area agreement countries need to trade we have a lot of capital controls on on the
+30:09
+continent and so it's very difficult to move around if you're trading and
+30:14
+essentially part of that is about you know weak fiscal policies deficits debts and and and also monetary policy that
+30:21
+sometimes is not always appropriately anchored. And what you can do with stable coins and what we're trying to do
+30:26
+actually a group of us is design an African stable coin platform which
+30:32
+essentially is backed by the SDRs and so sort of the underlying assets will become you know still uh fiat currencies
+30:39
+US treasuries but then it begins to mirror Africa's trade with the rest of the world and if you take for example
+30:44
+one of the advantages we're beginning to trade a lot in rim and bees right today we have to go through the dollar the
+30:50
+intermediation cost and so if you can do a stable coin platform that has the SDRs of course have the seven largest
+30:56
+currencies of the world then you begin to it does not impact on monetary policy
+31:02
+because today what we have if you're in Nigeria the 59 billion is mostly USDC's and so there is already a monetary
+31:09
+policy dislocation that is happening because even if the Nigerians are mostly buying I was just talking with the bank
+31:15
+of uh industry they are mostly purchasing uh uh Brazilian machinery for agriculture but they're switching
+31:21
+through the dollar and or Chinese machinery. And essentially what this kind of system will do is one it will
+31:27
+push uh monetary policy to anchor better on inflation push uh uh fiscal policy
+31:34
+hopefully to be slightly uh more prudent and then what happens is that you don't have the sort of dollar domination or
+31:41
+which is what I think everybody's afraid of and it is true today 75% of the stable coin environment is with USDC's
+31:48
+which are basically uh dollar denominated but the good news about it is also I want to say for Africa at
+31:53
+least that the other part is not all fun and games. I think there are some drawbacks. One of the biggest drawbacks
+32:00
+particularly in more in the crypto world is a little bit about transparency, AMLs
+32:05
+and and those kinds of safeties. I think with blockchain we are able now to build in sort of truths to the system in
+32:13
+Africa. We have talked for the last another 15 years about illicit financial flows and the fact that you know the
+32:18
+mining companies take out the resources and we cannot appropriately uh fiscalize that. This is another way of doing that
+32:25
+in a more appropriate way and actually really following uh the payments and the system. So I think for us it actually is
+32:31
+an governance enhancer. It's a fiscal policy enhancer and well done. It's a monetary policy uh disciplinary tool.
+32:39
+I've got a few more questions from me but so please I'll have we'll open it up to questions from the floor in a second. Jeremy, one one very lively debate
+32:46
+that's going on right now in the context of regulatory policy environment is um
+32:52
+the question of interest of of of interestbearing stable coin of of interest pay payment on stable coin.
+33:00
+This was been actually here at the forum uh this at the meeting this week. a
+33:05
+topic of lively debate with perhaps not surprisingly banks uh expressing great
+33:11
+concern about the possibility of of of interest being paid on stable coins. I think I saw Brian Winhan, Bank of
+33:17
+America CEO saying that that could lead to a massive flight of bank deposits uh
+33:23
+into stable coin. What's your and we [snorts] can explore the implications of that sort of the monetary policy implications and other things of that
+33:28
+but what's your where where where are you on that and what do you think do do you think he's right that this you would
+33:33
+see this you would see a very dramatic uh shift out of uh traditional bank deposits if that were to happen
+33:39
+so there are a few I think key issues here I think there's the sort of the the the law and policy issue there's the
+33:47
+actual kind of data about what you know what's here and then kind of how how does this go forward and I think
+33:52
+embedded in all of this is sort of um in my view sort of taking a first
+33:57
+principles approach to how we're designing an an an internet native financial system which is sort of how we
+34:04
+we think about things. So, so maybe just to to touch on each of these, I I think um the first is we have a law, the
+34:10
+Genius Act, in the United States, and we have laws in Europe, Mika. We have laws in Japan uh for stable coins. We now
+34:17
+have laws in the UAE, uh Hong Kong, uh uh Singapore imminently, and in many other places. In
+34:24
+every single one of these jurisdictions, stable coins are prohibited from paying interest.
+34:29
+[snorts] That is because stable coins, payment stable coins, and in fact the the law in the United States defines a payment
+34:35
+stable coin as a cash instrument that is a payment token that is used as a form
+34:41
+of of uh of of payment and settlement. Right? That this is the the fundamental definition and I think it's the correct
+34:47
+definition and that's the work of the FSB. That's the work of the G20. That's the work of central bankers who've
+34:53
+looked at this and said we see this as a payment system innovation. this needs to have the safeguards of kind of cash
+35:00
+level money and uh and and really that was the regulatory uh design that came
+35:05
+out of a lot of work five years of work that work went into the development of the stablecoin bill which eventually
+35:10
+became known as the genius act in the US and that is the law and I think that's very good and I think that's the right
+35:16
+law um now the the the sort of a second piece which is you know uh stable coin
+35:23
+issuers such as circle are prohibited from paying interest but we generate income We make money uh from reserves
+35:29
+and other revenue sources and we build partnerships with lots of companies. We have a partnership with Coinbase. We
+35:34
+have partnerships with Binance. We have partnerships with Visa. We have partnerships with so many different companies. And we have uh you know we
+35:40
+have economic arrangements with these firms and they may decide based on income that they generate from us that
+35:46
+they want to incentivize people to use stable coins which are are so-called rewards. I think the discussion has
+35:53
+been, you know, really banks are not happy that, you know, uh, uh, companies that are involved in promoting the
+36:00
+adoption and use of stable coins are paying rewards. They're saying, "Hey, isn't this just a way to provide a a
+36:05
+substitution for a bank deposit? And isn't that going to suck all the deposit base away from banks? It's going to
+36:11
+basically undermine the ability for banks to have uh, you know, money to actually have a base uh, in order to
+36:16
+give credit. It's going to draw away credit from the real economy. And when we're in a stress condition, the economy is going to implode and we're going to
+36:22
+have no credit and it's going to be a huge recession. I mean, that's the the kind of uh you know, reductio adabsurdum
+36:28
+kind of logic that flows through. Is it absurd? It's it's totally absurd uh in in my view. And it's totally absurd for a
+36:34
+couple of reasons. I think the the the first is that you know um you know rewards around financial products exist.
+36:41
+Those rewards around financial products exist in every balance that you have with a credit card that you use. They
+36:47
+exist around so many other financial products and services that we have and and these reward these rewards are
+36:52
+actually very important. They help with stickiness. They help with customer traction etc. They are not themselves like these huge monetary policy
+36:59
+dampeners. The second is just the historical fact which is that this is exactly what was said when uh government
+37:05
+money market funds emerged. The exact same arguments were made. government money market funds are going to draw
+37:11
+away all the deposit base and uh and as that happens there will not be lending
+37:16
+and so we have I don't know what the aggregates are now it's been around 11 trillion of dollar money market funds
+37:22
+that that grew in in in various different uh circumstances but that has not stopped uh the ability for lending
+37:29
+to happen is that lending itself is moving away from the risk-taking of
+37:34
+banks a huge amount of lending is moving towards uh private credit. Uh uh last
+37:39
+night uh a very important capital markets uh participant was pointing out that the vast vast majority of GDP
+37:46
+growth in the United States, if you look at through many many cycles, the vast majority of GDP growth was funded by
+37:53
+capital market formation around junk bonds. So private credit issuing junk bonds
+37:59
+capitalizing the buildout of the American technology uh advancements, not bank credit. Now, this I'm jumping
+38:05
+around on a lot of topics here, I realize, but I think um the the bottom line from my perspective is we want
+38:12
+stablecoin money to be cash instrument money, credentially supervised, very
+38:17
+very safe money. And then I think what we want to do is we want to build models for lending that build on top of stable
+38:25
+coins. And that's, you know, DeFi is an early example of that where people are borrowing and lending these. And I
+38:31
+believe we can create very very efficient credit delivery systems built on these very the the sort of digital
+38:37
+cash type forms of money. And these credit delivery systems actually can be safer, more transparent, more efficient,
+38:44
+more inclusive, and more globally available than what we have with bank credit today. And so this is a a a
+38:49
+change in the architecture of the financial system that will play out over decades. Um and and I think we need to
+38:55
+kind of pres preserve that uh that structure. Very do you want to weigh on this? Yeah. Yeah. I want to come in quickly in
+39:01
+Africa again and and and I think it it is true for some developing countries. A lot of our bank deposits are government
+39:08
+paper and short-term deposits. So banks don't lend as much and so there's a huge ili liquidity problem on the continent
+39:14
+and what we're hoping that uh stable coins will do is provide a little bit more liquidity and velocity of money for
+39:20
+that uh uh businesses to happen. So it's almost uh like your junk bond sort of releasing the economy and deepening. I
+39:27
+think we heard today even in Europe that you know there is constraints in building uh capital markets. One of the
+39:33
+constraints for building capital markets on the continent is precisely the liquidity in the system which stable
+39:38
+coins we begins to fix. And so but I think actually and and and one of the
+39:44
+reasons why stable coin has come so fast and it's huge adoption is because the banks themselves took too long to get to
+39:50
+central bank digital currencies that everybody has been waiting for for as long. And my sense is over time what we
+39:57
+will see is maybe a closer relationship between the circles of the world and the
+40:03
+banking system. I think there is because again this is really a payment system. There is still going to be a lot of the
+40:09
+monetary policy uh functions that remain with central banks and and where we should be. It's not saying you know one
+40:16
+is going to take away the other is how are we going to create a system. I think the Genius Act, MAR and everybody else
+40:22
+is beginning to say and that's why we're saying it's a payments uh settlement system but then there's the whole
+40:27
+collateral management central depository systems that the banks will still continue to do and I think we do need to
+40:33
+find you know where is that bridge um so that the rails sort of collide I think that's the argument
+40:38
+maybe just as a as a as a closing statement to this argument also is that you know the liquidity isn't just domestic of course the liquidity is
+40:45
+global just how the internet distributed information to the world to consume Now you can do commerce with literally the
+40:51
+entire world. There about two to 300 million people around the world that have stable coins that are US dollar denominated. Every American, European,
+40:58
+Asian business can now transact with them relatively stably and safely, right? They don't have to worry about
+41:03
+local currency. They don't even worry about I mean those people can't sign up with a PayPal or Venmo account, right?
+41:09
+They don't have a way of having a credit card and you can now do business with them, right? So both ways, right? So I
+41:14
+think I think that's the added added dimension as well that adds much more liquidity to the entire space.
+41:19
+Thank you. We have time for some questions. Please uh uh this is your opportunity to talk some of these
+41:25
+experts. Uh gentlemen at the front. Would you stand up please and identify yourself and you've got a microphone there. Sure. Sure. Um
+41:33
+my name is Pierre Garmeny. I'm the managing director of the European Stability Mechanism. So this the lender
+41:39
+of last resort of Europe. I would like to congratulate all the speakers and you
+41:44
+uh for for the very insightful discussion um and I I have a question to
+41:51
+which I don't have the answer but what struck me most from all the points was
+41:56
+this issue of instant payment uh instant settling
+42:01
+uh and liquidity and uh if I remember correctly uh the [clears throat] money
+42:08
+supply is is the amount of money air and the velocity at which it circulates. So
+42:15
+my question is to to which I don't have the answer but it would be important to
+42:20
+to think of it would be the following with all these instant payments and
+42:26
+settlements don't we have money supply that grows tremendously and if it grows
+42:32
+tremendously uh because of the velocity uh will that have an impact on inflation
+42:39
+on monetary policy okay very I'm glad very glad you asked that question because we were going to come on to monetary policy PV equals M
+42:45
+or whatever. So go on. Yeah, Jeremy, you want to answer that? I I'll just give my my quick take. I actually think it's the opposite. I
+42:50
+actually think that I I call it the new physics of money. And so the basically
+42:56
+uh just like the marginal cost of storing and moving a piece of data is effectively zero. Uh we can now move
+43:02
+infinite data at the speed of the internet at zero cost or the marginal the marginal cost of publishing software
+43:09
+in the world is is zero. uh and now with AI producing software the marginal cost of actually producing software is
+43:15
+effectively zero. So we have these these collapsing marginal costs and on these networks the marginal cost of storing
+43:21
+and moving value of any form whether it's a digital dollar or a tokenized bond effectively goes close to zero. Now
+43:28
+there may be intermediary [clears throat] uh tasks that introduce costs but fundamentally the physics of money
+43:33
+becomes the physics of the internet and what that means is actually you need a smaller monetary base uh uh in order to
+43:39
+achieve a dramatically higher amount of of [clears throat] economic velocity and so I I actually think [snorts] this is a
+43:46
+this is a a credential and and and monetary theory question is is unresolved. I think about this a lot
+43:52
+which is uh hypervelocity of money is is potentially a very good thing in terms
+43:58
+of money velocity kind of as a as a mechanism to uh transmit economic
+44:03
+activity uh could be a a real driver and growth enabler. Um I think risk
+44:10
+supervision in that is very different. So that's an unknown how to do risk supervision in something like that. Um
+44:15
+but I actually think the monetary ba base is is is lower. But I do think over the long run this this will affect how
+44:22
+interest rate policy setting happens. So interest rates are designed to affect money multipliers. Money multipliers
+44:29
+creating money velocity. So I actually think this this will change the calculus that central banks have to use as they
+44:35
+think about the the the interest rate setting mechanism uh because of the nature of the this new physics of money.
+44:42
+As I think about it, these are these things need to be studied obviously by perhaps folks like you and and your
+44:47
+team. Uh our chief economist thinks about this uh uh as well and obviously we're still small uh but but growing
+44:54
+rapidly. So we we we are thinking about it a lot. Dan, the impact of all this on monetary policy must be of great interest to the
+44:59
+International Monetary Fund. What's Yeah, absolutely. So we're one of these groups that are working on these issues uh that Jeremy's quite right need to
+45:05
+continue to be studied. And just to pick up on a few of the points that Jeremy made in terms of the interplay between
+45:11
+the velocity of money and inflation, you know, the classic equations I would say are really designed to to measure the
+45:18
+balance of demand and supply for money. Um and what's interesting about the
+45:23
+about uh the impact of uh digital assets on uh the velocity of money is it's
+45:29
+really more of a supply driven function increase in the velocity rather than a demand driven uh increase which you
+45:36
+would which if there was a a uh an imbalance between demand or if demand was higher than supply that's where you
+45:41
+would uh tend to see inflation and so I I actually think Jeremy could quite be right that actually we'll ultimately end
+45:47
+up with a smaller monetary base and not have uh you significant uh inflationary pressures as a result. Um more generally
+45:55
+in terms of the operation of monetary policy um look I think it's very
+46:00
+difficult to say today where things are going. So much will depend on what happens across the entire ecosystem, how
+46:08
+banks compete with stable coins and how stable coins more generally get integrated into the financial system.
+46:13
+But I would observe that um that for central banks actually updating their operational frameworks is a is an
+46:20
+exercise that they go through quite regularly. In fact, in the United States and in Europe in the over the last decade, we've had fundamental
+46:26
+transformations over the way that the central bank actually conducts monetary policy from an operational perspective.
+46:32
+And so this is something that central banks, you know, are already thinking about and will continue to think about and we shouldn't, you know, wet
+46:38
+ourselves to a particular framework that's frozen in time. We have time for one more question if anyone I would just answer very quickly that
+46:44
+essentially for us on the in the emerging market world it is actually about efficiency. I think in when we
+46:50
+talk about Europe we're talking about you know accelerating real time gross settlements. That's what we're trying to
+46:56
+do. So I I don't think it's a it's contradictory and so I agree with with with you it's it's a little bit at least
+47:02
+Africa has been 5 days of settlements whereas Europe is 1 hour and so you're
+47:08
+saying should we stay at 5 days because and and I I think it's it's we we're hurrying to efficiency.
+47:13
+So yeah just because there is interest in another question very quickly uh miss if you would stand up please and identify yourself.
+47:19
+Hi everyone [snorts] I'm Dishi a global shaper from India and an entrepreneur. I just have uh two questions. Um we know
+47:25
+the stable coins have proved the utility as a uh settlement and liquidity instrument in the tokenized real estate
+47:31
+market. But I wanted to understand how viable it is in terms of commodity tokenization especially when it is
+47:38
+volatile and how does it work in terms of um hedging when commodity backed um
+47:43
+assets are u relying on stable coins. All right I'm only gonna we were so short of time only allow one of you to
+47:48
+answer whoever wants to answer that question. Jeremy I mean [snorts] basically tokenization of other assets
+47:54
+um whether it's a gold or oil or some other commodity is happening uh but you
+48:00
+need to marry those with stable coins for actual cash uh settlement and you need to marry those with traditional
+48:06
+market structures that people use for hedging so options and derivatives markets etc. And so what we've seen is
+48:12
+an explosion in onchain markets that are all stable coin based uh markets like hyperlid where basically people are
+48:18
+building tokenized instruments for basically providing derivatives on every single form of commodity and asset
+48:24
+that's in the world. And stable coins are the collateral the relative margin and and the and the and the liquidity
+48:30
+for that. And so I I actually think market infrastructure to support tokenized commodities is is maturing
+48:35
+very very fast and stable coins play a key role in supporting that. We are unfortunately out of time. Uh thank you
+48:42
+all very much. The title of this uh session was where are we on stable coins? I think our excellent panel has answered uh that question uh both in
+48:50
+terms of where we are now, what the potential is, what the various challenges are and I think generally speaking um a very good overview of what
+48:58
+is a rapidly evolving subject. So ladies and gentlemen, please join me in thanking the panel. [applause]
+49:16
+Heat. Heat.
+

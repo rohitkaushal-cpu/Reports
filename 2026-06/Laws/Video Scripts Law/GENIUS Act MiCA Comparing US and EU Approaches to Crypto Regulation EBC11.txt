@@ -1,0 +1,313 @@
+0:066 secondsSo welcome everyone to our next panel.
+0:1010 secondsSo don't just look for the needle in the haystack by the whole haystack. Today we are going to find maybe the needle in
+0:1818 secondsthe hay stacks or some of them because what we are very passionate about in this panel is to find the like the
+0:2828 secondsdetails because the devil is in the details. So genius act and micica regulation is our topic today.
+0:3636 secondsdifferences. We're going to talk about this focus of the different regulations, the scopes of it, the implementation and
+0:4646 secondseverything that is around like the differences but also the commonality maybe. But before we get started, I
+0:5454 secondswould just like to introduce my beautiful panel and they will introduce themselves by just telling who they are
+1:031 minute, 3 secondsand what they are doing like in the space and the role. So hit it up.
+1:101 minute, 10 secondsUm hello everyone. Really happy to be there. Thank you very much for the invitation. So I'm head of public affairs for Mofu which is the second
+1:181 minute, 18 secondsbiggest uh defy lending protocol in the world and I am the co-founder of the uh professional body of web players in
+1:261 minute, 26 secondsFrance and Europe Adan. Hope you know hope you know them and uh really happy to discuss this very important topic about regulations because I I am
+1:351 minute, 35 secondsactually passionate about the regulatory developments around web three.
+1:421 minute, 42 secondsUm hello uh super glad to be uh to be here in this uh in this panel. I'm in charge of legal affairs for the core team behind car protocol and car swap.
+1:541 minute, 54 secondsUm uh we are actually a DEX aggregator for those who know uh we have a very nice
+2:022 minutes, 2 secondsmoo sound when you swap. Um we are a leader in uh in our domain. Our references are actually uh Vitalik
+2:112 minutes, 11 secondshimself, the Ethereum Foundation but also World Liberty Finance that are using uh Kwap to uh to settle their trades. Um yeah, thank you.
+2:222 minutes, 22 secondsHello, I am Ana Olivera. I am chief compliance officer at Ben. We are a young startup here in Barcelona. We are
+2:292 minutes, 29 secondsSpanish company and we aim to go global soon. My role I had the task to help the
+2:362 minutes, 36 secondsteam to get the Mika license. So it was a nice interesting journey and we are waiting for the final decisions. We are almost there.
+2:462 minutes, 46 secondsHello everyone. Nice being here. So my name is Karula. I'm managing partner at
+2:532 minutes, 53 secondsWIPO. BIPO is a law firm standing for you which is all you here and PUG is for partner of game changers. So you know
+3:013 minutes, 1 secondwhich industry we are advising. So we are advising game changers and my personal field of expertise is
+3:083 minutes, 8 secondsregulatory law. I love to help business models to act compliantly in the European market because we are based in Europe mainly in Germany and in the UK.
+3:193 minutes, 19 secondsSuper. So now everyone in the audience know how is the sound back there because it's very difficult to please raise a hand if you find that the sound is good
+3:273 minutes, 27 secondsenough because otherwise we will uh bring the microphone closer. Okay, perfect. So uh just to set the scene,
+3:353 minutes, 35 secondsI'm sure that a lot of the people in the audience know already about the regulation and the Micah and Genius Act,
+3:423 minutes, 42 secondsbut still for the ones who don't know all the details, I'll just sum up that we are talking about Genius Act, which
+3:503 minutes, 50 secondsis one of three regulation or federal laws that turned into force in the United States this year. And we're
+3:583 minutes, 58 secondstalking about Micah, which is the regulation for the EU, which also turned in full force like last year. Um, and
+4:074 minutes, 7 secondsthe way to the regulation was quite different because it actually took like two months for the US to pass the the
+4:164 minutes, 16 secondsGenius Act, which is one of three. We've got the Genius Act, which is the stable coin regulation that we are going to talk about today. then the Clarity Act
+4:254 minutes, 25 secondswhich is the next US regulation coming up and then the antitrust act later on but Micah regulation was and maybe it's
+4:344 minutes, 34 secondssomehow saying about the way that the EU is working was actually like discussed in 2020
+4:414 minutes, 41 secondsand uh still it took some more time than the United States too but let's dig into the scope to begin with would you just
+4:514 minutes, 51 secondsjust talk about like the uh yeah the scope of the regulations the differences and what you see. So yes, as you said,
+5:005 minutesMika is a very largest regulation if you compare with the Genius Act. If you take Mika, Mikas, the goal was to implement a
+5:095 minutes, 9 secondsregulation for markets in crypto assets in Europe. And when you are speaking about crypto market and market um if you
+5:165 minutes, 16 secondstake Mika, you are covering both the issuance of those crypto assets and the secondary markets and the issuance is
+5:235 minutes, 23 secondsabout crypto assets which are not stable coins and stable coins. Um if you take genius we are not at all uh on the level
+5:325 minutes, 32 secondsof the secondary market. Genius is really about the issuance of stable coins. So even on the level of the markets which are covered it's very
+5:415 minutes, 41 secondsdifferent. Also on the crypto assets which are covered it's very different.
+5:445 minutes, 44 secondsIf even if we are dealing with stable coins in both Mika and Genius, the scope of the stable coins covered by uh Genius
+5:515 minutes, 51 secondsis really smaller because it's uh really focusing on the payment stable coins which are fiat collateralized. If you
+5:595 minutes, 59 secondsare looking at Mika, you have and I won't go into technical too much technical details but you have two
+6:066 minutes, 6 secondscategories of stable coins. Um well you you can have rules different if you are in face of a payment stable coins of an
+6:126 minutes, 12 secondsinvestment stable coin and at some point we told European institutions it it can be a bit difficult to distinguish or to
+6:206 minutes, 20 secondsto to make a clear categorization and uh you in Mika you also have the crypto collateralized stable coins and
+6:286 minutes, 28 secondscoll um um stable coins collateralized with other things and fiat currencies which are covered in genius the question
+6:356 minutes, 35 secondsis raised because even if genius news does not cover those uh nonfiat collateralized stable coins. It's
+6:426 minutes, 42 secondsalready written that there had to be a deeper analysis to see if there will be another frameworks or new rules for
+6:496 minutes, 49 secondsthose stable coins. So in a nutshell, if you take genius, you are really uh on a very specific uh um layer of the market,
+6:576 minutes, 57 secondslet's say to the issuance of uh payment stable coins. Um and you are you have
+7:047 minutes, 4 secondssome um first ideas around what could be uh the services on those stable coins and the rules that can uh arrive for the
+7:137 minutes, 13 secondsum um crypto markets providers uh doing custody doing exchanges doing other services. But it will be the point of uh
+7:227 minutes, 22 secondsother regulations to deepen those requirements and it will come afterwards maybe quite uh quite rapidly because we
+7:297 minutes, 29 secondssaw uh how long it was to to make genius appear and actually it was not that long. So we have to stay tuned because it will be uh actually in the coming
+7:387 minutes, 38 secondsmonths and years that we will have more clarity about that.
+7:427 minutes, 42 secondsSo in terms of the way to get there, it's often like the objective of the law that is actually pushing people to get
+7:507 minutes, 50 secondstogether and then either it's like we need to solve this now or we're going to like take more time. So in terms of the
+7:587 minutes, 58 secondsdifferent objectives from the different laws, so even though Micah is covering a lot more uh than the Genius Act, can you
+8:058 minutes, 5 secondssay something about the objectives of the law? What was like the intention?
+8:098 minutes, 9 secondswhat did they want to fulfill when they do it? Um yes uh of course if we uh if we think about uh about uh the
+8:198 minutes, 19 secondsdifferences we can see the traditional uh differences between the EU and uh and
+8:258 minutes, 25 secondsthe US where the um the European Union will look more conservative and looking
+8:338 minutes, 33 secondsinto um not only regulating the assets themselves but protecting the sovereignty of uh of the EU. um in
+8:428 minutes, 42 secondsregard to um to crypto assets. Uh and this is why as Fing was saying, Mika is quite wide on on stable coin and uh and
+8:518 minutes, 51 secondson everything that can be seen as a as a stable coin and and here I would almost
+8:588 minutes, 58 secondssay that this uh this uh has been somehow planned uh or at least is in the
+9:059 minutes, 5 secondsspirit to be able to push proper uh CBDC uh in the in the EU. So control the the
+9:139 minutes, 13 secondsmarket of private money just to make sure that public money uh remains remains here. So the objective here is very conservative is for Europe to try
+9:229 minutes, 22 secondsto um to protect the the euro system uh against external actors uh but also against private European uh actors.
+9:329 minutes, 32 secondsIf we if we look at at the Genius Act, it's slightly different in the sense that the Genius Act uh will focus on
+9:429 minutes, 42 secondspayment stable coin with quite strict um obligations for for issuer. There's no
+9:499 minutes, 49 secondsdoubt here. However, uh the fact that they are um excluding the non-payment
+9:569 minutes, 56 secondsstable coin uh as for now at least uh shows that the US wants to uh to leave a little bit of um uh room for for
+10:0510 minutes, 5 secondsinnovation and the strategy behind the the Genius Act is quite uh quite clear with the new US administration. The idea
+10:1410 minutes, 14 secondsis just to uh make sure to reinforce the position of the US dollar as a global currency and there is absolutely no
+10:2210 minutes, 22 secondsdoubt here and they are heavily relying on private actors uh that are issuing their their stable coin but also leaving
+10:3010 minutes, 30 secondsonce again room for innovation in case some other form of stable coin can at the end of the day be um be used and and
+10:4010 minutes, 40 secondsand yeah I think Uh I think this is classic uh dichotomy between uh the US and uh and the EU.
+10:4910 minutes, 49 secondsGola, you were nodding a bit. Do you have any like uh supplement things to add to this that is telling us?
+10:5710 minutes, 57 secondsNo, I think he said it out already perfectly. But I think the big difference is that the idea of mika has
+11:0611 minutes, 6 secondsdifferent angles and one of the angles is of course uh financial stability and I think the basic line for the genius
+11:1411 minutes, 14 secondsact I'm not talking about clarity act because I think if you limit it to genius act it's just stable coins let's wait and see how the regulation will
+11:2211 minutes, 22 secondslook like under clarity act because for everyone maybe just two sentences clarity act then tries to put
+11:3011 minutes, 30 secondsthings in different boxes. So these commodities like bitcoins, east etc.
+11:3611 minutes, 36 secondswill be regarded as commodity and um regulated under the CFTC. So it's then
+11:4411 minutes, 44 secondsjust a commodity with very limited regulation because it's more a self-regulation system as commodities
+11:5111 minutes, 51 secondsare regulated in the US generally. But it is a regulation and then it comes to tokenized securities which will of
+11:5811 minutes, 58 secondscourse be regulated as securities. So I think therefore let's wait and see. But when it comes to the genius act, it's
+12:0712 minutes, 7 secondsquite clear that they wanted to push innovation through the door. And um I
+12:1312 minutes, 13 secondsthink when it comes to the US kind of mixture between personal interests of some members, [laughter]
+12:2212 minutes, 22 secondsI think it might have a reason why it was pushed so quickly. But let's not discuss about politics. But I think the angle is different. It's more about
+12:3112 minutes, 31 secondsinnovation and pushing through this US dollar dominance FU has said and less this kind of financial stability mindset
+12:3912 minutes, 39 secondsas was one of the main goals within the EU. It seems in terms of the uh like future outlook from the United States
+12:4612 minutes, 46 secondsthat they were actually not just forced but actually had to like change their mindset and and you told me earlier today before we went on stage that you
+12:5512 minutes, 55 secondswere actually like at US company right when they had like the former administration and uh so can you tell us
+13:0213 minutes, 2 secondsa little bit about how it was to be like in the middle of everything and the change that will be a bit of a back the scenes
+13:0913 minutes, 9 secondsknow before joining I was working for a law firm in the US that was trying to bring US companies to Europe and for the
+13:1813 minutes, 18 secondsAmerican culture, the way they do business there, Mika was way too complex. It was like too expensive, too
+13:2513 minutes, 25 secondsmany demands and for them it was basically um not interesting enough, you know, all all the the bureaucracy, but
+13:3413 minutes, 34 secondsthey were actually going away from the way that the supervisors were acting there, you know.
+13:4113 minutes, 41 secondsSo in the end of the day um Nika represented for them something that is very natural for for Europeans you know
+13:4913 minutes, 49 secondsthis legal clarity foreseeability proportionality things that we discussed theoretically and then for them it's
+13:5713 minutes, 57 secondslike when they see when they saw the let me allow me to say the chaos that was
+14:0314 minutes, 3 secondsthe Gary Gensler SEC and the legal demands that they were facing then this
+14:1014 minutes, 10 secondsforeseability, clarity, it starts to look interesting and then they were shifting to to Europe and then that
+14:1814 minutes, 18 secondscreated also for them that was a big um complaint from companies there that
+14:2614 minutes, 26 secondsduring this specific moment they were losing a lot of brains. They were losing developers, they were losing investment
+14:3214 minutes, 32 secondsbecause big funds and also brains were just afraid of doing business there. So it they were they were shifting to
+14:4114 minutes, 41 secondsEurope in terms of uh we were talking about details. So let's dive into the details of the the differences that are in
+14:5014 minutes, 50 secondsthere. Um so I have noticed some of them and uh you can uh just chip in with other ones. So there's the reserve
+14:5714 minutes, 57 secondsrequirement who can actually issue um a stable coin. So if we just take some of them yeah [laughter]
+15:0615 minutes, 6 secondsI can take the the reserve because for um it was a bit of a discussion internally in Venga about the asset reference tokens. So we we we needed to
+15:1515 minutes, 15 secondsdelve a bit deeper there and Genius Act is like super clear you if you want to issue a payment
+15:2415 minutes, 24 secondsstable uh coin you need to have parity oneonone so it needs to be 100% backed
+15:3015 minutes, 30 secondsby US dollars or treasury bonds or a public debt from the USA to use an
+15:3815 minutes, 38 secondsexpression that we are here in Mika we have what we know the e-money uh EMT e-money tokens and asset reference tokens.
+15:4815 minutes, 48 secondsI think at this point in time we we are very acquainted to what it means e- money you need to have an EMI license to operate to that it needs to be liquid
+15:5715 minutes, 57 secondsyou need to have your deposit a funds deposit also in a banking institution and for art we would think about a
+16:0416 minutes, 4 secondsproportion of your funds in euros or any fiat currency plus bonds treasury and
+16:1216 minutes, 12 secondsyou can also still have like an algorithm that keeps the the balance in this reference token. But what I if you
+16:2016 minutes, 20 secondsallow me, what I would really want to bring like to spice up uh a bit this discussion is that why is this uh
+16:3016 minutes, 30 secondshappening like this in the US you know because they are bringing the the fact
+16:3616 minutes, 36 secondsthat they are demanding 100% liquid parity this um you cannot um charge any
+16:4616 minutes, 46 secondsfees for withdrawing and it needs to be instant but Why only US dollars and why only Treasury bonds? Because in the end
+16:5416 minutes, 54 secondsof the day, if you want to issue uh payment stable coin in the US, you need to buy treasury bonds. So that means that if you have a huge depth in your
+17:0217 minutes, 2 secondscountry or you have a problem with liquidity or if your currency if the US dollar is losing dominance in the global market because any other political issue
+17:1217 minutes, 12 secondswhat that means is that it will force companies to buy your public debt buy uh
+17:1817 minutes, 18 secondsUS bonds and bring dollars back to US banks. So this is very interesting
+17:2617 minutes, 26 secondsfrom this point of view. In my opinion, very humble opinion, Genius Act is nothing to do with crypto. Genius Act is
+17:3317 minutes, 33 secondsabout keeping the US dollar dominance in the world and making US dollar universal
+17:4117 minutes, 41 secondsin the crypto space. But it's not about them thinking about innovation, regulation of crypto, etc. Okay. So,
+17:4817 minutes, 48 secondsit's about like uh the uh the overall society and not and not about maybe the consumer. So what about the protection
+17:5517 minutes, 55 secondsof the consumer because we if we are thinking about shifting over to a new like era I wanted to go back on the point of the
+18:0418 minutes, 4 secondsentities which are allowed to issue stable coins because it's a very very big point and the crucial difference between genius and mika if you take Mika
+18:1318 minutes, 13 secondsthe approach was only incumbents because they would be authorized as credit institutions or uh eony money
+18:2218 minutes, 22 secondsinstitutions would be allowed not to issue stable coins. So at the time when Mika was discussed um there was no
+18:2918 minutes, 29 secondsreally um um understanding a not good understanding of the reality of the markets willing to issue such stable
+18:3718 minutes, 37 secondscoins because if you go back in between 2018 2020 in Europe um those willing to issue stable coins were more than
+18:4618 minutes, 46 secondsnewcomers um which has projects. Uh at that time I was working at consensus uh and there was a big retailer big group
+18:5518 minutes, 55 secondswilling to issue his own stable coin. Um when we were talking with banks well it was not really a topic. So it has been
+19:0219 minutes, 2 secondsdecided in Mika to have this narrow scope of incubance be being allowed to to to issue those stable coins and it
+19:0919 minutes, 9 secondsmakes makes it very difficult for newcomers um to to to to comply with those rules. Uh that actually that was
+19:1619 minutes, 16 secondsthe intention. If you take genius, it's very different. So you have very different level of financial institutions and banking institutions uh
+19:2519 minutes, 25 secondswhich are uh supervised at different level of the of of the US being allowed uh to to to to apply to issue stable
+19:3419 minutes, 34 secondscoins. But you also have non-banks and that's really um clearly written non-banks being able to get authorized
+19:4219 minutes, 42 secondsto issue stable coins if they comply of course with the requirements of of Genius. So it really shows that there is a a very different understanding in uh
+19:5119 minutes, 51 secondswhat is the reality of market and also who we want to make this market grow and in the US there is really no reluctance
+19:5919 minutes, 59 secondsin the fact that they could be uh newers and actually if you are looking at the main players I'm thinking about circle I'm thinking about t they they are not
+20:0720 minutes, 7 secondsthe current financial institutions that we know so it's a very crucial difference because it makes also very clear about the intention that we
+20:1520 minutes, 15 secondsalready discussed uh in between Mika engineers. The goal of Mika being to really prevent from the development of
+20:2220 minutes, 22 secondsthe ecosystem of stable coins and not to encourage it with the reality of markets of market participants willing to do so.
+20:2920 minutes, 29 secondsUm and regarding the entity there was maybe and I will be quick another point that is interesting to raise. Uh the by default rule in Genius is that if you
+20:3820 minutes, 38 secondsare a foreign issuer you are not allowed to issue stable coin dollar. And I think it's important to show that in the
+20:4520 minutes, 45 secondscontext of GUC US were much more uh interested and they they did take care of protecting their markets. Why in Mika
+20:5220 minutes, 52 secondsit's very different. Uh there is no that much protection of our our uh actors our markets and it makes it really easier
+21:0121 minutes, 1 secondfor foreign players to be able to issue stable coins in Europe. Um so I think it will be interesting to see in the coming developments what will be the regulatory
+21:1021 minutes, 10 secondsregimes that the US will consider as equivalent to uh to to favor the fact that proins issuer can issue stable coin
+21:1921 minutes, 19 secondsuh dollar in the US but at this time the by default rules is that if you are a non US uh based entity you cannot and I
+21:2721 minutes, 27 secondsthink it's uh it's also a very uh pragmatic approach of the US um in their
+21:3421 minutes, 34 secondsuh uh a willingness to develop a a very powerful US ecosystem of stable coin dollars.
+21:4221 minutes, 42 secondsDo you have any like comments on the fact that uh if the Genius Act is not taking into consideration the protection
+21:4921 minutes, 49 secondsof the consumers but they are really pushing and everyone could do it. So any comments on the what do you think is a better way to go?
+21:5921 minutes, 59 secondsI know the sound is not that good here up here.
+22:0122 minutes, 1 secondThank you. Um so no actually actually the the genius act uh does uh protect
+22:1122 minutes, 11 secondsuh quite uh quite well. Um in case uh in case an issuer fails for whatever reason
+22:1922 minutes, 19 secondsthe genius act will uh make sure that uh the users are made um prioritary uh to
+22:2722 minutes, 27 secondsget back their uh their assets. So that's also a difference with uh with um with Mika where um it's a more broad
+22:3722 minutes, 37 secondsconsumer protection regime that applies to um to users. Uh however um there is
+22:4422 minutes, 44 secondsnot that financial priority uh given to uh to them uh to protect them against
+22:5222 minutes, 52 secondsany market uh event. Um I think this is quite uh quite interesting also because
+23:0023 minutesthis will provide uh a lot of confidence in [snorts] the US stable coin uh market
+23:0623 minutes, 6 secondsand um and user will be more attracted because they can feel more protected uh
+23:1323 minutes, 13 secondsagainst uh any event like we may have seen in the in the past. So you uh have been advising companies.
+23:2123 minutes, 21 secondsSo if I was a new company and I wanted to go into the US or to Europe, what would you say like what is going to be like the main concerns for this company?
+23:3223 minutes, 32 secondsSo currently I would say there is still a bit of advantage in Europe because we have certainty and even if people say
+23:4123 minutes, 41 secondsyes it's complicated and what you said might be a bit difficult. So having achieved advising companies like Coinbase, Bullish and others to enter
+23:4923 minutes, 49 secondsthe European market, I think it's the way of how you approach them and I think currently it is still an advantage that
+23:5723 minutes, 57 secondsyou have full full certainty. Clarity is so connected to the clarity act now you have full certainty what is happening in
+24:0524 minutes, 5 secondsEurope. You have a set of documents now which goes beyond Mika. So it's also all the level two um regulatory technical
+24:1424 minutes, 14 secondsstandards in place now. So you really know in detail what's coming up. Of course there are still some open questions because there are coming up
+24:2124 minutes, 21 secondspoints nobody has thought of when drafting Mika but nevertheless it's quite sure what you have to go for when you would like to set up a company here.
+24:3224 minutes, 32 secondsAnd then you have this um advantage that whenever you have an HQ in one of the European 27 countries, of course you can
+24:4024 minutes, 40 secondseasily passport and passport means you just notify your home regulator that you would like to passport your services and
+24:4724 minutes, 47 secondswe talk about services and assets. So I think that's also one advantage because if you set up for example a crypto
+24:5524 minutes, 55 secondsexchange or if you set up a let's say it carefully in Europe you certainly know what's coming up and then you can
+25:0325 minutes, 3 secondspassport your services so your MTF trading platform services custody services everything connected to that
+25:1125 minutes, 11 secondsinto the European market wherever you want to and I think doing that currently is an advantage and I think that was the reason why previously the companies
+25:2025 minutes, 20 secondsprior to Mika, I think only Germany had a regulation for crypto assets and they deliberately came to Germany because of
+25:2825 minutes, 28 secondsthat certainty and these are one of the first movers now with Mika licenses because of having the German license it was easy to transpose them into a Mika
+25:3825 minutes, 38 secondslicense because as you said uh and also for said the requirements are very similar and for Europeans very similar
+25:4525 minutes, 45 secondsin particular to financial instruments which is interesting to know because therefore if you want to do pers and
+25:5225 minutes, 52 secondsother things which would be governed by miit 2 later on it's not so hard to jump from one regime to the other because
+25:5925 minutes, 59 secondsit's very regulated in a very similar way and so this is a very big opportunity of the mika regulation to
+26:0726 minutes, 7 secondshave this passport and that's why it's a it's a very big problem when you have local regulators like the French uh the
+26:1426 minutes, 14 secondsuh Italian and I think the Austrian or I think the Austrian ones altogether decided to say we are not sure that we
+26:2226 minutes, 22 secondswill grant the passport even if you have Mika compliance uh entities coming from other countries because it's it makes
+26:2926 minutes, 29 secondsthe uncertainty for actors on this very big advantage which was the passport so it's really annoying we are we we we had
+26:3726 minutes, 37 secondsthe uh with this passport the um the opportunity to to grant an advantage that they did not have with regulation
+26:4626 minutes, 46 secondsand actually I think that if you ask obliged entities what are the advantages of being uh compliant with regulation
+26:5326 minutes, 53 secondsthere are not a lot of experted passports so there is currently uh so that that's why I call your attention a
+27:0027 minutesvery big problem in the u um in the approach of some local regulators which would like uh not to grant this passport
+27:0927 minutes, 9 secondsuh and to make the life of the companies which are currently struggling with such compliance even more difficult and with even more incentive at the and to be compliant.
+27:1927 minutes, 19 secondsYes. Because that's right where we have are right now. So we have the regulation and it's supposed to be like the same regulation and the same way of
+27:2827 minutes, 28 secondsinterpretation in each member state. But yet we see that there are different times where it turns into false like it
+27:3527 minutes, 35 secondscould be up to 18 months of difference from one country to another. We have like some of them are like the regulation translated into is like 30
+27:4427 minutes, 44 secondspages other ones are like 80 pages or even more. So something is like not like completely one to one and if we do have
+27:5327 minutes, 53 secondsa passport which is in theory like a very nice thing to have but everyone needs to accept that the passport
+28:0128 minutes, 1 secondactually like uh one small word and I comment on that [laughter] we have countries advising on fasttrack
+28:0928 minutes, 9 secondsma license cannot close our eyes to that the biggest advantage of mika is passporting you do the license one you
+28:1528 minutes, 15 secondspay for it once and you access the market but you cannot advertise on fast track
+28:2428 minutes, 24 secondsbut we do see that people like were they applied in France for example and then suddenly they withdraw their application
+28:3128 minutes, 31 secondsfor MA and then they went to Malta yeah I would say that that's not because they wanted to go to Malta it's because they wanted to go to France and that
+28:3928 minutes, 39 secondsthey did not get the answers that they wish to get and I I mean if you are looking at the list of the today CASSP which are registered under the MA
+28:4828 minutes, 48 secondsregulation. The point is not that Malta is giving lots of authorization because it's not the case. If you take the French authorities and the Matan
+28:5728 minutes, 57 secondsauthorities, it's they barely authorize the same numbers of Casper in between five and seven I think something like
+29:0429 minutes, 4 secondsthis. The biggest providers of authorization today is Germany for example. So the the problem that is raised is not one I mean Malta is not
+29:1229 minutes, 12 secondsgiving free passports to lots of companies. uh well they there are some uh some uh process of scrutiny by ESMA
+29:2029 minutes, 20 secondson some precise topics but the problem of uh those actors that they they wanted to come to France is that they fought
+29:2929 minutes, 29 secondsand they were right that they wouldn't have not enough resources and that the delays would be too long to get authorized and so to be able either to
+29:3729 minutes, 37 secondslaunch or to continue their activity and at the end that's what actors want to know is they want to know when they can launch their activity they want to know
+29:4629 minutes, 46 secondsuntil when they will be able to to to keep on doing this activity um and their choice will be to the most efficient
+29:5529 minutes, 55 secondsregulators. So it could be mata but actually it can be Germany if you are having a list a look at the list. So
+30:0230 minutes, 2 secondsit's really it's really annoying because the message that is provided and I understand why regulators want to to to to share this message that that the photo actors they decide to go to Malta.
+30:1330 minutes, 13 secondsFrench actors they are currently struggling with French authorities they they are not going to Malta. They do want to to to be compliant under the um uh with the with the French authorities.
+30:2530 minutes, 25 secondsThey they did not go to Malta. they would they want to stay in France but it makes their life really really uh more
+30:3230 minutes, 32 secondsdifficult maybe one point to add I think that's important to see but what we have to
+30:3930 minutes, 39 secondsalso know is that in the first stage you have always these differences so I have the advantage of being a bit older so I
+30:4630 minutes, 46 secondsknow the pre mika one world which was 25 years ago and when Mika 1 and Mika 2 was
+30:5330 minutes, 53 secondsimplemented it was a bit the same you had these differences is all over and I think that's exactly what we experience now again with Mika but in a certain
+31:0331 minutes, 3 secondspoint in time we will have at least a certain standard we have these ESMA papers these ESMA Q&As so we get more
+31:1131 minutes, 11 secondsand more certainty and there will be more and more clear guidances for all the European regulators because I'm
+31:1831 minutes, 18 secondstotally agree with you we do see these differences but I just wanted to point out it's normal early stage to see these differences and I think we will overcome
+31:2731 minutes, 27 secondsthem. And because you ask about the US, it's not that the US is easier because
+31:3431 minutes, 34 secondswe have a federal level just for stable coins. We don't talk about the other services. If you want to issue stable
+31:4131 minutes, 41 secondscoins, it depends on thresholds whether it's done just on a state level. When it's above [snorts] 10 million, it's on
+31:4831 minutes, 48 secondsa um federal level. You can opt in also for a federal level. Of course, if you are below this threshold, but there are all different kind of regulations. Yes.
+31:5931 minutes, 59 secondsAnyways, so it's not that it's easier in the US that you just send in once. And when you talk about different states, so
+32:0632 minutes, 6 secondsif you talk about the US states, Wyoming, it's very different from New York because New York is like a French license for example. Why?
+32:1632 minutes, 16 secondsWyoming, it's maybe closer to Cypress and Malta. But you do see these differences as well. And I think that we in Europe have a lot of experience in
+32:2432 minutes, 24 secondskind of bringing things closer together again due to these ESMA guidances. So ESMA is the European authority. So
+32:3232 minutes, 32 secondsEuropean security market authority and I think that we have ways to kind of overcome these broad differences and
+32:3932 minutes, 39 secondssome will remain and then investors will decide. If you look into the more institutional world they don't opt for
+32:4732 minutes, 47 secondsMaltese entities. they tend to opt for French, Italian, Spanish, German ones, Dutch ones.
+32:5432 minutes, 54 secondsSo different scope, a different objective, different way of implementing. No one not not one is
+33:0133 minutes, 1 secondeasier than the other one maybe but for all of you like here on the panel for the next five years which of the Europe
+33:1033 minutes, 10 secondsmight be a bit uh in front at the moment but for the next five years where do you see like the whole industry evolving in
+33:1733 minutes, 17 secondsterms of both innovation but also protection of both the industry but also the consumer. So Gola, do you want to
+33:2433 minutes, 24 secondsstart and then we can So I think the industry overall in Europe won't change too much. It's betting to go regulation better. Uh in
+33:3433 minutes, 34 secondsfive years time, maybe not, but in 10 years time I would say we converge more and more the classical financial services world and this kind of crypto
+33:4233 minutes, 42 secondsassets world. Um I I think that also overall on a global level uh Europe and the US will kind of align and I think
+33:5133 minutes, 51 secondsone big portion of that is how the clarity act will look like in the end and what is regulated. Um so I think in
+33:5833 minutes, 58 secondsEurope we will have of course um new coming up laws like uh Mika 2.0 because there are defy world is not regulated.
+34:0834 minutes, 8 secondsWe didn't have the point or the time to touch that point because it's about decentralized world which is not really regulated in Mika. We will have clarity
+34:1734 minutes, 17 secondson that. But overall I think um the US and Europe probably will somehow align because I think it's difficult otherwise uh to do trades on a global level.
+34:3034 minutes, 30 secondsWhat I would say is that also Mika is being used as a template for a lot of jurisdictions in the world. So maybe in
+34:3834 minutes, 38 secondsa couple of years from now we will have a more harmonized system internationally. So we might see Latin America, Mexico, um Africa, we we might
+34:4834 minutes, 48 secondssee a lot of countries uniting like we saw in AML regulation over the 20 years, you know, like we saw in banking regulations, IBN Swift systems, you
+34:5634 minutes, 56 secondsknow. So I think that that will make our lives as compliance officers easier as well, you know. And one thing that uh we
+35:0535 minutes, 5 secondsdidn't mention until this point and I think it that would be also um turning point is how the national competent
+35:1235 minutes, 12 secondsauthorities and EU EU supervisors are acting. So a a lot of the discussion to
+35:2035 minutes, 20 secondscreate the genius act and the clarity act is this chaotic interpretation that they have from the supervisory agencies
+35:2735 minutes, 27 secondsthere and fines and you have no uh clarity on what's to come if you're a big exchange and in that sense I feel
+35:3535 minutes, 35 secondsvery proud of asma you know it's difficult to read and understand all the regulatory technical standards but I think they are setting a very very good
+35:4335 minutes, 43 secondsbase in the sense that it's not only the law but is also how this law is being applied in in all those countries and I
+35:5135 minutes, 51 secondsthink as we evolve we will see also regulators gaining experience and um applying this regulation even clearly
+36:0036 minutesand I think it then we will have innovation in Europe you know because we will know okay this is not securities you don't
+36:0836 minutes, 8 secondsneed a broker license still you can have this token listed in your in your company you know that will come and [laughter] I would be happy to see it.
+36:1936 minutes, 19 secondsYour thoughts?
+36:2036 minutes, 20 secondsUm, so for the next next uh next five years um
+36:2636 minutes, 26 secondsif I look if I look at uh at Mika uh I'm pretty sure I'm not worried about
+36:3336 minutes, 33 secondsincubants and institutions because this regulation has been uh really tailored
+36:3936 minutes, 39 secondsfor uh for them. Um I would be bit more worried about uh defy project uh because
+36:4836 minutes, 48 secondsum there is this uh uncertainty about defy what is uh what is decentralization
+36:5536 minutes, 55 secondswhat is inter intermediation and and Europe is not really giving good
+37:0237 minutes, 2 secondssignal to um to to defy uh products while actually let's be uh completely clear and honest
+37:1137 minutes, 11 secondsum defi are the one innovating in this field. I mean it's our field um while uh
+37:2037 minutes, 20 secondsso let's see the if and when uh Mika 2.0 zero uh how how this will uh this will
+37:2837 minutes, 28 secondsgo while in the um in the US there is still that uh wait and see uh policy of
+37:3837 minutes, 38 secondsuh of the US legislature even though these future acts are are coming but it
+37:4437 minutes, 44 secondsseems that uh that up to now defy is a bit more um accepted as an innovation uh
+37:5437 minutes, 54 secondsvector for the whole um whole market and and ecosystem and that the US will really
+38:0238 minutes, 2 secondswant to uh to rely on on DeFi for the future of their uh their economy. So let's see uh let's see what happens. uh
+38:1138 minutes, 11 secondsjust uh hope that uh European regulator will uh leave more room for uh for
+38:1738 minutes, 17 secondsinnovation in term of stable coins but also in term of uh of other product because we really have a lot of things
+38:2538 minutes, 25 secondsto bring to uh to this market. We have a lot of things to bring to institutions, products that they have like no idea about and and this is uh this is really
+38:3438 minutes, 34 secondsimportant. I think uh I think talking for for D5 product we really need to uh to fight hard to uh to get there.
+38:4338 minutes, 43 secondsYes, I I will also jump in D5 because uh uh it's already scheduled at least in Mika that there is a work to be done by
+38:5238 minutes, 52 secondsthe European Commission for both a definition of what is fully decentralized and that's actually making the life a bit uncomfortable right now
+39:0139 minutes, 1 secondfor D5 protocol because we can imagine tomorrow if there's a strict understanding of what is fully decentralized that at the end there are
+39:0939 minutes, 9 secondsdefy protocols falling into Mika in a a second second stage. So uh we know there is there is this work coming from the
+39:1839 minutes, 18 secondsEuropean Commission also the analyzes on whether it is feasible and necessary to regulate DeFi and it's a really from
+39:2639 minutes, 26 secondsscratch work because that's how they understand DeFi and that's why they decided that Mika could not cover DeFi.
+39:3339 minutes, 33 secondsIt's because the rules of intermediaries which are the targets of Mika cannot apply in the word of D5 protocols.
+39:4039 minutes, 40 secondsFortunately, right now the position of the European Commission is that we are not in a rush to regulate DeFi. So it's it's uh it does not mean that uh we need
+39:5039 minutes, 50 secondsto wait for that. Uh to the contrary and that's why actually I've joined more uh it means that we have the time to prepare this regulation in cooperation
+39:5839 minutes, 58 secondswith public policy makers at the level of member states because they are involved in developing uh European regulations and at the level of European
+40:0740 minutes, 7 secondsinstitutions. So th this will be really key questions uh in the strategy and the speeches that we can have in the US
+40:1540 minutes, 15 secondsaround D5 at the moment it's it's quite positive they are really positive but I don't know if you had a look uh last
+40:2240 minutes, 22 secondsweek there was a leaked proposal uh of defy regulations from the democrats and NATOs which was quite awful because
+40:3040 minutes, 30 secondsactually the goal was to reintermediate defy protocol and to qualify them as digital asset intermediaries. is and
+40:3840 minutes, 38 secondsthat that's actually the main risk tomorrow if we do not work with policy makers in order to make them understand that we are not in the word of
+40:4740 minutes, 47 secondsintermediaries and that we cannot be covered by the current regulations and that we do need a proper one and I think
+40:5440 minutes, 54 secondsthat what will come to the mind really quickly just to find to for the final word is that it will be really more easy
+41:0341 minutes, 3 secondsfor regulators to understand how to regulate the interactions between TRFI and DeFi because the word of TRFI and
+41:1041 minutes, 10 secondsthe word of intermediaries is much more familiar to them and what we see is a development of more and more uh integrations of defy protocols by uh
+41:1841 minutes, 18 secondsthird parties. So that was the the the recent news at Moro with social with so with Coinbase etc and reg for for
+41:2741 minutes, 27 secondsregulators it will be much more tangible and easy to see how they can add requirements to those people in their interactions with DeFi.
+41:3541 minutes, 35 secondsSuper we have this time to that would be the final words because we'll have to leave the stage for something else. But a lot of things are on our minds. We
+41:4241 minutes, 42 secondshave a lot of opinions and we hope that you enjoyed our conversation around the Genius Act and the uh Micah as much as we did. Thank you to my wonderful panel.
+41:5441 minutes, 54 secondsThank you.
+41:5641 minutes, 56 secondsOne

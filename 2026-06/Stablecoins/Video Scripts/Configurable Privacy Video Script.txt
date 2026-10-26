@@ -1,0 +1,1011 @@
+
+Search in video
+0:03
+Thank you guys uh for attending here. uh
+0:06
+we we we would love to expand with Dmer
+0:08
+uh um on stellar how we can actually you
+0:11
+know uh be configurable privacy for real
+0:13
+world payments and I think stellar has
+0:16
+been very like forefront you know uh in
+0:19
+that kind of innovation and you know
+0:22
+like early January uh you guys uh
+0:24
+basically uh made a protocol upgrade to
+0:26
+the to the network that enabled
+0:28
+basically the primitives uh for uh those
+0:31
+kind of application and capabilities
+0:34
+actually. So um uh I would like to
+0:37
+explore how like you you recommend
+0:40
+people actually to move from okay we do
+0:42
+have now the primitives to enable those
+0:44
+kind of products to exist on stellar to
+0:47
+actually have those kind of uh features
+0:50
+in place. So how maybe a payment
+0:52
+operator that want to deploy their you
+0:54
+know product on stellar can actually
+0:56
+start using those things.
+0:59
+Sure. So I think um
+1:02
+the on the topic of privacy um our
+1:06
+approach is very uh modular in the sense
+1:09
+that it's really important for us to
+1:11
+keep stellar the L1 as open neutral and
+1:15
+transparent as possible. And so I think
+1:18
+recently we've seen uh you know there's
+1:21
+a lot of permissionless a lot of
+1:23
+permissioned chains that keep coming up
+1:25
+and this is a nuisance in the world of
+1:27
+crypto that keeps coming up every couple
+1:30
+of years and uh now it's kind of like in
+1:34
+service of of privacy. But when we talk
+1:36
+with institutions that are coming uh to
+1:39
+build a blockchain they're really
+1:41
+interested in the openness in the
+1:43
+auditability and the the verifiability
+1:45
+of the chain. And so it's very important
+1:47
+for us to maintain these properties as
+1:50
+we introduce uh privacy. And so our
+1:54
+approach at stellar is uh is uh on the
+1:58
+L1 itself on the protocol. We want to
+2:00
+make sure that it's completely open.
+2:02
+Anyone can come and build. We recognize
+2:04
+that there is um uh there's a spectrum
+2:07
+of privacy and so you can have uh
+2:11
+privacy that relates to different
+2:12
+jurisdictions, different use cases,
+2:14
+different tech. Obviously, we're talking
+2:16
+a lot about ZK right now, but there's a
+2:17
+lot of other uh uh potential tech both
+2:21
+now and in the future. And so, we want
+2:22
+to make sure that Stellar is an open
+2:24
+network and uh and stays that way. Um
+2:27
+so, uh for that, we launched uh we
+2:30
+upgraded the network to protocol X-ray a
+2:32
+few months ago. X-ray uh delivers a set
+2:36
+of cryptographic primitives that allows
+2:39
+you to uh to build your own privacy
+2:41
+protocols on top of them. So that is the
+2:43
+BN254 curve beside and hash functions uh
+2:47
+kind of like really enriching the set of
+2:49
+primitives for ZK. Um so that's on the
+2:51
+protocol itself. Uh with that said,
+2:54
+we're also doing a lot of work on the uh
+2:57
+ecosystem development and partnerships
+2:58
+front to make sure that you know we're
+3:01
+just not we're not sitting around
+3:03
+waiting for people to build privacy, but
+3:05
+we're collaborating with industry
+3:07
+leaders such as yourselves, such as
+3:09
+Nethermine, such as Open Zeppelin on
+3:11
+bringing in uh a variety of solutions
+3:15
+that have a variety of uh you know
+3:17
+privacy guarantees and a variety of
+3:20
+administrative controls.
+3:22
+That's that's makes uh totally sense. I
+3:24
+think you you you guys launched also on
+3:26
+your own like stellar private payments
+3:27
+to show actually those capabilities and
+3:30
+uh yeah I think on our end at boundless
+3:33
+I think this is a uh an approach that we
+3:35
+are following as well you know with our
+3:37
+uh upcoming modular framework the
+3:39
+boundless digital stack where like we do
+3:43
+believe that basically institutions and
+3:45
+we are like testing actually during
+3:47
+these events that need a credible layer
+3:49
+actually like stellar to deploy their
+3:51
+capital and they need those capabilities
+3:54
+is in a modular fashion. So they need to
+3:56
+be able to integrate seamlessly on their
+3:59
+existing infrastructure as well as maybe
+4:01
+like uh also have some end to end
+4:04
+vertical solution. And I think the
+4:05
+modular strategy is actually the thing
+4:08
+that you know like in general in defi in
+4:10
+crypto actually uh worked out. Uh cool.
+4:14
+Um I think maybe uh the next thing that
+4:16
+I have for you uh Tomer is um in
+4:20
+practice configurable privacy what what
+4:23
+what actually does it mean like what I
+4:26
+should like you know shield what I
+4:29
+should should actually keep transfer
+4:31
+because of course institution doesn't
+4:32
+want to like broadcast you know the
+4:35
+values their strategies on chain or like
+4:38
+who are the sender and the recipients so
+4:40
+but how they do decide you know what
+4:42
+they can disclose and actually how they
+4:45
+stay also compliant you know on
+4:48
+operating those kind of you know uh
+4:50
+applications.
+4:52
+Yeah. So I think when we're talking
+4:53
+about configurable privacy there are
+4:56
+kind of like two main dimensions uh that
+4:58
+we think about in terms of of the
+4:59
+configurability. One of them is what are
+5:02
+the actual privacy guarantees uh that
+5:04
+you get and the second one is what types
+5:07
+of administrative controls we have in
+5:09
+place in order to be uh compliant. And
+5:12
+so on the guarantees I think
+5:15
+specifically with payments uh the main
+5:18
+uh properties that you can think about
+5:20
+are uh transaction details that is you
+5:23
+know what are what's the actual amount
+5:26
+uh that I'm sending and then there's the
+5:28
+identity of the senders and receivers
+5:30
+and so what we're seeing right now is
+5:32
+that uh we're seeing a lot of work done
+5:33
+on the confidential uh token space we're
+5:36
+also collaborating with open zeppelin
+5:38
+and the confidential token association
+5:40
+on this Uh this is um uh basically an
+5:45
+ability to hide transaction details
+5:47
+while maintaining senders and receivable
+5:49
+and receivers uh visible onchain. So
+5:52
+this is really good for use cases like
+5:55
+payroll for example where the identity
+5:58
+of the players is well known. So
+6:00
+everyone knows that I work for SDF. Uh
+6:02
+what we're trying to hide in a use case
+6:04
+like payroll is the actual numbers.
+6:06
+Right? I don't want uh a payment to
+6:09
+expose uh both you know my my existing
+6:12
+kind of like salary but also uh the
+6:15
+complete history of um of uh of
+6:19
+transactions that I've committed. And so
+6:22
+uh that's something that we're doing on
+6:23
+the confidential tokens front. We're
+6:25
+also seeing a lot of work on the privacy
+6:26
+pools front. privacy pools adds uh these
+6:29
+are payment protocols that also add um
+6:33
+kind of like a mixing um component to it
+6:35
+so that you uh completely obiscate the
+6:38
+senders and receivers. So this is kind
+6:40
+of like uh better in like kind of like
+6:42
+the general privacy sense and it it also
+6:45
+adds anonymity but it's kind of like
+6:48
+more complex and so um there's also uh
+6:53
+more compliance variables there because
+6:55
+you want to make sure that if I'm in a
+6:57
+privacy pool I'm not in a privacy pool
+6:59
+with a bad actor because if I am I am
+7:01
+with a bad actor then it might uh taint
+7:04
+the funds of others in the same pool. So
+7:07
+this is on the side of the privacy
+7:09
+guarantees on the side of on the side of
+7:11
+administrative controls we're seeing a
+7:14
+variety of administrative controls and
+7:17
+because the world of compliance is not
+7:20
+really caught up to the world of private
+7:22
+blockchains or privacy on blockchains
+7:25
+we're we're not really sure what
+7:26
+compliance means yet. And so what we're
+7:28
+trying to do is to build a menu of
+7:30
+administrative options. And so um some
+7:33
+of the things that we're looking at are
+7:35
+selective disclosure. This is something
+7:37
+that we've seen a lot with view keys and
+7:40
+so the ability of a user to be able to
+7:43
+uh to prove their source of funds
+7:45
+without revealing it to the entire
+7:46
+world. So kind of like ad hoc uh proving
+7:49
+source of funds. We're looking at things
+7:51
+like non- selective disclosure. So say
+7:54
+for example that uh that a a law
+7:58
+enforcement agency wants to get access
+8:00
+to a specific record. The question is
+8:02
+how do they get access to that record
+8:04
+with uh minimal uh access to the rest of
+8:08
+the system. So um you know for example
+8:11
+through global audit keys and things
+8:13
+like that. Um and then we have uh things
+8:16
+like association sets nonassociation
+8:18
+sets with our which are I was talking
+8:20
+about the issues with privacy pools and
+8:22
+mixing with elicit funds. So association
+8:25
+sets are kind of like a a way to gate
+8:27
+privacy pools. Um, so these are some of
+8:30
+the things we're seeing kind of like
+8:31
+some more options arise around like
+8:33
+clawback functionality and we just want
+8:35
+to make sure that we're not putting all
+8:37
+of our eggs in one basket and so we're
+8:39
+allowing for different types of
+8:41
+solutions with different privacy
+8:42
+guarantees and different administrative
+8:45
+controls to coexist.
+8:47
+Makes sense. So what I what I hear is
+8:49
+basically that uh depending on the
+8:52
+actual use case you want to have let me
+8:54
+say a diverse spectrum of like privacy
+8:57
+options and uh and that's actually the
+9:00
+value like you know of the primitives
+9:03
+that you have been enabling and like
+9:05
+products as you mentioned like that we
+9:07
+are building as well other players
+9:09
+association actually that try to
+9:11
+standardize you know uh that thing okay
+9:14
+that's that's uh make totally sense and
+9:17
+if If if you want to uh focus a little
+9:20
+bit on like long-standing institution
+9:23
+especially banks and you know
+9:25
+traditional finance actors
+9:28
+uh what they're like uh what are the
+9:32
+tools that they can actually start using
+9:35
+uh today with so what are like the the
+9:37
+approaches that they can use to uh stay
+9:40
+compliant but start actually to deploy
+9:43
+capital on ster or in general on chain
+9:46
+you mentioned like uh ASPs is is like a
+9:49
+similar concept that they already have
+9:51
+uh in their like compliance tools but
+9:54
+yeah what are maybe others approaches
+9:56
+that institutions are exploring?
+9:59
+Sure. So um you know we just put out a
+10:01
+project called Stellar Private Payments
+10:02
+which is a collaboration with Nethermind
+10:05
+um and that's basically uh the idea
+10:08
+there is having like an open- source
+10:09
+package that financial institutions can
+10:12
+get acquainted with. They can deploy
+10:14
+their own version of it. they can modify
+10:16
+that and we're building uh this menu of
+10:20
+configurable privacy options and
+10:21
+configurable administrative options
+10:24
+right into this and so that's something
+10:26
+that people um can use uh right now we
+10:30
+have a long road map uh ahead of us and
+10:32
+so uh we're really looking forward for
+10:35
+uh feedback and so uh and I'm already
+10:38
+hearing from other projects in the space
+10:41
+that are starting to use that as a
+10:43
+baseline for deploying uh their own
+10:46
+privacy solutions. Um, I am curious, you
+10:49
+know, uh, you know, you guys at
+10:50
+Boundless are also in the process of of
+10:52
+building your own shielded vault. Um,
+10:55
+curious to to hear how you're thinking
+10:58
+about, um, you know, administrative
+11:00
+controls, especially around the idea of
+11:03
+building something that is, uh, flexible
+11:05
+enough for different institutions
+11:07
+working with different regulatory
+11:08
+requirements.
+11:10
+Thanks for the question. I think uh uh
+11:13
+our approach as we mentioned earlier is
+11:15
+is very modern in this sense. So uh we
+11:18
+basically have onchain capabilities to
+11:21
+uh define inclusion set or non-inclusion
+11:23
+set. So basically that you're a good guy
+11:25
+or at least like you're not using uh bad
+11:28
+guy uh monitor. But also an interesting
+11:30
+approach that we've been following and I
+11:32
+think that ZK is uniquely enabling that
+11:36
+is that whatever compliance logic you do
+11:40
+have offchain you can bring it actually
+11:43
+onchain and verify that payment is
+11:46
+compliant and operation is actually
+11:48
+compliant uh through ZK proofs. So uh
+11:52
+we've been integrating with like uh
+11:54
+tools like theorem labs to comply
+11:57
+advantage to the traditional you know
+11:59
+tool belt that institution actually do
+12:00
+use and be able to basically uh when you
+12:04
+do a a movement on chain you do a
+12:06
+payment you do like an investment you do
+12:09
+like some management that basically
+12:11
+those checks are actually valid. So you
+12:14
+don't have to as a institution you can
+12:17
+actually use newer tools that maybe are
+12:20
+more like blockchain native or uh add
+12:24
+some more capabilities to the uh
+12:27
+compliance that you need to do on the
+12:29
+other end you can just bring it on chain
+12:31
+whatever you use and I think that's
+12:33
+that's very important for C institution
+12:35
+because generally we see with other
+12:37
+approaches more like hey you have to
+12:39
+launch your own chain okay or you have
+12:43
+to deploy on our own chain or you have
+12:46
+to use a specific framework. That's a
+12:49
+very important front cost for them
+12:51
+because they need to learn something new
+12:52
+or maybe they have to spend like six to
+12:55
+seven figures to actually run the chain
+12:57
+and also track capital there. Instant
+12:59
+here the idea is that okay wherever you
+13:02
+want to operate okay our case like
+13:05
+stellar uh but also other ecosystems
+13:09
+uh you can just use this framework this
+13:11
+product deploy the things where where
+13:14
+where you need and just start using
+13:16
+without any sort of like big front
+13:18
+investment. We we already know that
+13:19
+especially institution have let me say
+13:22
+longer cycles in general of product
+13:24
+development and you know sales and stuff
+13:26
+like that. We want to basically reduce
+13:28
+to zero the entry barrier there because
+13:31
+it's really like hard you know uh
+13:34
+blockchain in general those kind of
+13:36
+things for people that don't use them uh
+13:38
+day by day and so I think that UX and on
+13:41
+boarding is definitely something that
+13:43
+you need to keep in consideration when
+13:45
+you like as a pillars to the product
+13:47
+development.
+13:49
+Very cool. And you know you talked a lot
+13:51
+about ZK and I think we had a little
+13:52
+talk outside about this. Um it it does
+13:54
+seem like zero knowledge cryptography is
+13:56
+getting all the uh the spotlight right
+13:58
+now in terms of the actual privacy tech
+14:01
+and ZK is is uniquely suitable for for
+14:04
+payments specifically because they can
+14:06
+be easily expressed as as as a as a as a
+14:09
+set of uh of of ZK proofs. Um the
+14:13
+question is what is the is this going to
+14:15
+stay with us? Uh how are you guys
+14:17
+thinking about the future? How are you
+14:19
+thinking about non-payments use cases?
+14:22
+you know, we're talking we're thinking a
+14:23
+lot about uh private DeFi, about private
+14:26
+trading. Uh I don't think it's going to
+14:29
+come uh you know, this year or or in the
+14:32
+next few months, but this is around the
+14:34
+corner and ZK is not necessarily always
+14:38
+the right solution for it or or is it?
+14:40
+Yeah, that's that's a that's a very good
+14:42
+question. Thanks for for for asking. So
+14:45
+uh timelines uh you know uh can change
+14:48
+depends on a lot of things but uh so two
+14:52
+things I want to say. So the first one
+14:54
+is that definitely ZK is the first
+14:56
+candidate as a technology uh to do these
+14:59
+things but we cannot reduce to ZK to be
+15:02
+the only thing for privacy preserving or
+15:05
+let me say confidential uh uh finance or
+15:08
+defy here. There might be uh a spectrum
+15:11
+of other approaches. Why do you separate
+15:13
+confidentiality and privacy? What are
+15:15
+the different terms mean? I
+15:16
+I I think that uh
+15:19
+I tend to associate to privacy uh to
+15:22
+like full privacy. So being able
+15:25
+basically to stay fully anonymous in
+15:27
+that sense whereas for confidentiality
+15:31
+uh that's something that basically you
+15:33
+decide what you actually disclose and uh
+15:37
+uh that's for me more like uh
+15:40
+configurable privacy in in in that
+15:42
+sense. So like we we've chatting before
+15:44
+like you know uh being able to
+15:45
+selectively disclose to third parties
+15:48
+about those operations when not maybe
+15:50
+not always but when you need so be
+15:52
+compliant with you know the legis
+15:54
+legislation where you operate the
+15:56
+regulators or maybe other third parties.
+15:58
+So that's what I I mean but getting back
+16:01
+to to the topic about confidential defy,
+16:03
+I think that um we can definitely
+16:06
+operate like on existing protocols about
+16:09
+lending or like taxes
+16:12
+um within using privacy pools and uh I
+16:17
+think the uh technical challenge that we
+16:19
+do have today sometimes is how we can
+16:22
+enable composability across those use
+16:25
+cases. So for the single use cases, so
+16:28
+if you want to do private swaps, private
+16:30
+you know uh uh private decks or even
+16:32
+like private lending uh confidential
+16:35
+lending you you can definitely do the
+16:37
+challenge that we are uh exploring when
+16:40
+we are basically we have a stream of
+16:42
+research about composible proofs
+16:44
+actually ZK proofs is that how you can
+16:48
+you know like have composibility across
+16:51
+because I think that composibility
+16:53
+ultimately is something that DeFi
+16:55
+innovated a lot. So being able to
+16:57
+compose those operation naturally
+16:59
+atomically is a good value. So being
+17:02
+able to recover even in a confidential
+17:05
+environment is actually something that
+17:08
+uh very important to to achieve. I'd say
+17:11
+that probably like uh by the end of 2026
+17:16
+we we going to see something like that
+17:18
+we we'll work hand to hand and we'll
+17:20
+able to compose.
+17:22
+Very cool.
+17:23
+Yeah.
+17:24
+Okay. Uh I think uh just uh uh be
+17:28
+respectful of time I I have a uh a final
+17:31
+question for you uh Tor which is uh
+17:36
+traditional institution so far operating
+17:39
+in a more like let me say uh opac
+17:43
+fashion. So all the software that has
+17:45
+been running has been always proprietary
+17:47
+and like it's very hard to like
+17:50
+understand what's going on and uh also
+17:53
+from a security perspective like you you
+17:55
+don't really know if you know there is a
+17:57
+bug or there's what's the security risk
+17:58
+there and that's actually a huge cost
+18:01
+for you know institutions uh and uh I
+18:05
+think that blockchain technologies that
+18:07
+are especially invested a lot in in
+18:09
+being sure that all that kind of
+18:12
+technologies and the most important
+18:14
+stuff are actually open. So I'm
+18:17
+wondering what's your take about like
+18:20
+having those set of techn compared also
+18:22
+to other like players that are trying to
+18:24
+solve this problem to be like an open
+18:26
+framework and an open space where people
+18:30
+can actually you know dive deep and
+18:32
+basically verify on their own. Yeah, I
+18:35
+would say that you know uh blockchains
+18:38
+in general and obviously privacy
+18:40
+specifically these are uh systems for
+18:42
+interoperability
+18:44
+and part of being able to interoperate
+18:47
+with other actors is that there is a
+18:49
+very clear set of rules that everyone
+18:53
+agrees on. And when we're talking about
+18:56
+blockchains that are open participation,
+18:59
+not like some of these other kind of
+19:00
+like permission chain solutions, but
+19:01
+real true um um open permiss open
+19:05
+participation chains. The only way that
+19:09
+we can achieve this complete alignment
+19:11
+where everyone knows the rules is if
+19:14
+they're completely open source. And
+19:16
+specifically um specifically uh for
+19:20
+privacy this is even more important
+19:23
+because ZK can be uh so opaque sometimes
+19:27
+that without having this clear
+19:29
+visibility it will be very challenging
+19:31
+to get confidence in this technology.
+19:34
+Fully agree to answer the same way I
+19:37
+think we are actually uh on time. I I'm
+19:41
+wondering if maybe someone from the
+19:43
+audience have any any question for us.
+19:49
+May we stay here and so I see a a
+19:51
+question there.
+19:55
+about institutional uh we're speaking a
+19:57
+lot about institutional permission
+20:00
+permissioned interactions specifically
+20:02
+but I was wondering what's in it for
+20:05
+permissionless
+20:06
+individuals um
+20:09
+you know uh not only the chatfi
+20:12
+institutions is there anything for
+20:14
+smaller uh scale users to take take into
+20:18
+account here
+20:19
+yeah look you know for for 10 years in
+20:21
+crypto we've been dealing with like the
+20:23
+the ideological version of of privacy
+20:26
+and and peer-to-peer transfers. There's
+20:28
+great tech. It's available. It's hardly
+20:30
+ever used because it's not very useful,
+20:32
+right? And so the ideological value does
+20:36
+not necessarily translate to to monetary
+20:38
+value. And if we want adoption uh for
+20:42
+everyone, not just for the institutions,
+20:43
+you know, at the end of the day, you
+20:44
+know, if if an individual wants to be
+20:46
+able to uh receive a payment from the
+20:49
+company that they work with, if they
+20:51
+want to be able to offramp that into
+20:55
+cash in their hands so that they can
+20:56
+actually use their crypto, um for these
+20:59
+things, you actually need the
+21:01
+institution the institutions in play.
+21:03
+So, you know, if we have like this, you
+21:05
+know, beautiful or serendipitous uh um
+21:08
+um you know, closed uh circle of
+21:11
+privacy, that doesn't help anyone.
+

@@ -1,0 +1,971 @@
+
+Search in video
+0:00
+If you run a crypto exchange in Kenya or you are building one, this video could
+0:07
+save your business. There is a new law coming. It's called the Virtual Asset
+0:15
+Service Providers Act and it brings with it over 150 regulations. And today I'm
+0:24
+going to break down those proposals and what they mean for you in plain
+0:29
+language. Just what you need to know. The Kenyan government has decided that
+0:36
+crypto is real and anything that is real needs rules. The VASP act was signed in
+0:44
+2025 and is a main law. The VASP regulations which were just drafted this
+0:50
+year are the how-to guide that tells every crypto business exactly what to
+0:56
+do. So think of the act as the boss and the regulations as the instructions from
+1:02
+that boss. So if you run an exchange, a platform where people buy and sell
+1:07
+Bitcoin, Ethereum, stable coins or any other digital asset, you are directly in
+1:14
+the middle of all this. You are what the law calls a virtual asset exchange and
+1:20
+the law has a lot to say about you. Let's start with what is actually good
+1:27
+for you. First, you now have legal standing. Before this law, running a
+1:34
+crypto exchange in Kenya was a gray area. Now, once you are licensed, you
+1:41
+are a real registered business. Big companies and serious investors will
+1:47
+work with you. Banks will take your calls. Second, the law protects your
+1:54
+customers. It says you cannot touch their money for your own purposes. Their
+1:59
+crypto must stay separate from your company's money. And this is a big deal.
+2:06
+It builds trust. And trust is what keeps customers coming back. Third, the law
+2:13
+protects and creates rules against cheating. Things like insider trading,
+2:20
+front runninging, and market manipulation are now officially illegal.
+2:25
+That means honest exchanges have protection from bad actors who try to game the system. The complaints process
+2:33
+is also spelled out. And if a customer has a problem, you have up to 3 months
+2:39
+to resolve it. This sounds like pressure, but it is actually helpful. It
+2:45
+gives you a clear process instead of confusion. Okay, now the hard part, and
+2:53
+I'm not going to sugarcoat this. To get a license as a virtual asset exchange,
+2:59
+you need to have at least 150 million Kenya shillings already paid
+3:06
+into the company. That is roughly $1 million US sitting in a local bank
+3:13
+before you even open for business. For most Kenyan founders, this is out of
+3:21
+reach. On top of that, every year you renew your license, you pay 2% of
+3:28
+everything you earned the previous year or 2 million shillings, whichever is
+3:33
+higher. So the more successful you get, the more you pay. This directly eats
+3:40
+into your growth. And there's also a transaction fee. For every trade that
+3:47
+happens on your platform, you pay 0.05% of the value to the regulator and your
+3:55
+customer pays another 0.05%. Both sides, every transaction. This will
+4:02
+make your platform more expensive for users compared to international exchanges that do not have this cost.
+4:09
+You also have to file reports every single month. Daily trading reports,
+4:15
+monthly summaries, semianual financials, annual audits. You will need a fulltime
+4:22
+compliance team just to keep up with the paperwork. and your trading platform
+4:27
+itself, it needs to be approved by the regulator before you can use it. That
+4:33
+means slow launches and less ability to update your technology quickly. Now, the
+4:41
+part that should worry every exchange founder, these are things in the law
+4:47
+that are vague, broad or simply dangerous. The regulator can take over
+4:54
+your business. It is called statutory management. If they decide your exchange
+5:00
+is in trouble, they can appoint someone else to run it for up to two years.
+5:05
+During that time, your customers cannot withdraw their funds. Two years. Think
+5:11
+about what that would do to your reputation. The regulator can also
+5:16
+restrict your business at any time. stop you from taking new customers, cancel
+5:22
+your agent agreements, or limit your services without needing a court to approve it fast. The coordination
+5:29
+committee overseeing crypto includes the National Intelligence Service and
+5:35
+National Counterterrorism Center. Standard trading activity by your customers will flow through a system
+5:43
+that includes Kenya's intelligence agencies. So, what do you do? Here's a
+5:50
+clear action plan. One, you probably cannot meet the 150 million shilling
+5:56
+capital requirement alone. So, partner with other Kenyan crypto businesses,
+6:03
+pull resources, create a jointlyowned licensed entity, share the cost, share
+6:10
+the license, run separate products on top of it. Two, start talking to a
+6:15
+Kenyan bank right now. You legally need to hold client funds at a licensed
+6:21
+Kenyan bank. This banks like KCB and Equity are already thinking about
+6:27
+crypto. Get ahead of this before you need it. Three, hire or identify your
+6:35
+compliance officer before you apply, not after. This person should have
+6:41
+experience with the capital markets authority or central bank, someone who understands how Kenyan regulators think.
+6:48
+Four, during the public comment period before this law is finalized right now,
+6:55
+submit a written request for a tiered capital structure. A small exchange
+7:01
+serving 10,000 users does not need the same capital as one that is serving 10
+7:07
+million. So push for this change. Get other founders to push too. Five. Build
+7:14
+your technology with audits in mind from day one. Your platform must maintain 7
+7:20
+years of transaction records. Your systems must be independently audited.
+7:26
+If you build this infrastructure late, it will cost you so much after. Remember
+7:33
+this regulations are not trying to kill crypto in Kenya. They are trying to
+7:39
+control it. And your job as an exchange owner is to be so wellprepared, so
+7:44
+compliant and so professional that regulators see you as a partner, not a
+7:50
+problem. The exchanges that survive this transition will be the ones who took it
+7:55
+seriously early. That can be you. Make sure to follow for the next video in
+8:01
+this series and share it with every crypto exchange owner that you know. You
+8:07
+have a crypto idea. Maybe you are building a DeFi app. Maybe you want to
+8:13
+launch a token or maybe you have a blockchain product that could change how
+8:19
+Kenyans send money. Now, before you spend one more shilling on development,
+8:25
+watch this video because there's a new law that is coming in Kenya, the virtual
+8:32
+asset service providers regulations of 2026. And if you do not know what is in
+8:38
+it, your startup could be shut down even before it launches. VASP stands for
+8:45
+virtual asset service provider. The VASP act became law in Kenya in 2025. The
+8:53
+regulations 150 detailed rules have followed this
+8:58
+year in 2026. Together they create a system that says if you want to run any
+9:05
+crypto business in Kenya, you need a license. And getting that license
+9:10
+requires meeting a long list of requirements. The law covers exchanges,
+9:16
+wallets, payment processors, stable coin issuers, investment advisor, and most
+9:22
+importantly to you, token issuers, and ICO promoters. If you are launching a
+9:28
+coin, a token or a digital product that people can buy, you are inside this
+9:34
+loop. Now, here is what is actually positive for crypto builders in Kenya.
+9:41
+For the first time, there is a legal home for your work. Before this law,
+9:48
+launching a token in Kenya meant operating in a legal gray zone. Now
+9:54
+there is a framework. It is demanding, but it exists. The investor advisor
+10:00
+license, the lightest option available, only requires 2.5 million shillings in
+10:05
+paid up capital that is accessible for early stage founders. If you're advising
+10:11
+people on crypto investments, this is your entry point. The law also creates a
+10:18
+legitimate pathway for raising money through an initial coin offering, an
+10:23
+ICO. You submit a white paper, get approval, and you can raise funds from
+10:29
+Kenyan investors legally. That in itself is powerful. Tokenization is also fully
+10:37
+addressed. If you want to put real world assets, land, art, business equity onto
+10:44
+a blockchain and sell fractional ownership, there is a regulatory
+10:49
+framework for that. Now, this opens up entirely new business models that were
+10:56
+previously not possible in Kenya. Now the challenges the most painful one if
+11:04
+you withdraw your application after submitting it you lose your application
+11:11
+fee. There are no refunds and the application process is complex enough
+11:18
+that many firsttime applicants may as well get rejected. This is an expensive
+11:26
+trial and error. So every director, every major shareholder, every
+11:31
+beneficial owner, meaning everyone who truly controls or benefits from your startup must pass a fit and proper test.
+11:40
+And if you have foreign investors or angel funds or complicated ownership structures, this process becomes
+11:48
+extremely slow and very expensive. You cannot pivot your tech partners without
+11:55
+permission. If you want to change your cloud provider or your payment processor
+12:01
+or any other major service partner, you need to give the regulator 30 days
+12:07
+notice. For startups that move fast, this is extremely painful. Your ICO
+12:13
+campaign cannot begin until the regulator officially says it has no objections. There is no set timeline for
+12:21
+such a decision. You could be waiting for weeks or months with investors lined
+12:27
+up and no date to give them. And if you use any affiliate marketers, influencers
+12:33
+or social media promoters to sell your product, they face criminal liability
+12:39
+for mistakes, a fine of 3 million shillings or two years in prison. That
+12:45
+will make most promoters say no to your campaign entire. On the other hand, the
+12:52
+regulator can also reject your ICO on grounds of public policy. This term is
+13:00
+never defined in this law. This means the regulator has unlimited power to say
+13:07
+no to your project with no clear standard for what passes or fails. The
+13:13
+law also breaches foreign companies. If your startup is
+13:19
+registered in Dubai or the UK, but you're earning money from Kenyan users,
+13:24
+Kenya says you are operating in Kenya. The same rules apply to you. Many
+13:31
+offshore Kenyan founders do not realize this. There's also no defined timeline
+13:37
+for when the regulator must respond to your application. You could apply, pay
+13:43
+your fees, and hear nothing for months. So, plan for this in your fundraising
+13:50
+runway. Here is the game plan for smart builders. Right now, here's what you
+13:57
+need to do. One, set up a separate Kenyan operating company for anything
+14:04
+touching Kenyan users. Keep your IP and global operations offshore. The local
+14:11
+entity handles licensed activities. This is the same structure large tech
+14:17
+companies use. This will give you flexibility. Two, before you submit a
+14:25
+license application, request a pre-application interview with the
+14:30
+regulator. The law allows for this. Use it to test your business model before
+14:36
+you spend money on a formal application that could be rejected. Three, start
+14:42
+your ICO application at least 6 months before your planned launch. Not one
+14:48
+month, not three months, six, build this delay into your financial plan from day
+14:54
+one. Four, get a capital markets lawyer to review your shareholder structure
+15:02
+before you start the process of application. A clean, simple cup table
+15:07
+with clearly identified beneficial owners will move through the fit and proper process much faster. Five, join
+15:16
+Kenya's crypto advocacy communities. Organizations like the Kenya Blockchain
+15:22
+Association, a group of founders speaking together has far more influence
+15:28
+on the final regulations than any individual submission. The truth is
+15:34
+building in web 3 in Kenya will be harder now than it was before. But also
+15:42
+it is legitimate. The builders who treat compliance as part of their product will
+15:48
+be the ones that scale. This is not an obstacle to your product. The rules are
+15:53
+the same for everyone. The ones who prepare early will win. And if this
+16:00
+video helped you, please make sure to follow and share it with your fellow co-founders. There are five more videos
+16:06
+in this series covering other stakeholder groups. Imagine you want to
+16:12
+create a digital version of the Kenyan shilling. A coin that always equals
+16:18
+exactly one shilling. People can send it instantly. Businesses can accept it. It
+16:25
+stays stable unlike Bitcoin. Sounds amazing. But under Kenya's new VASP
+16:33
+regulations, launching that coin will cost you 500 million shillings just to
+16:40
+get started. That is $3 million US before you sign a single customer. Today
+16:47
+we're breaking down what this law means if you are in the stable coin business.
+16:53
+So, what is a stable coin? A stable coin is a type of cryptocurrency that is
+17:00
+designed to hold a steady value. Most stable coins are tied to a real currency
+17:07
+like the US dollar or in Kenya's case, the Kenyan shilling. You issue one
+17:13
+digital coin and it is always worth one shilling. People will use them for
+17:20
+payments, savings, and moving money without worrying about the price
+17:26
+volatility. Like in the case of Bitcoin, the VASP regulations put stable coin
+17:33
+issuers under the strictest rules in the entire framework. reason because a
+17:41
+stable coin is essentially digital money and if it collapses and if you cannot
+17:48
+pay people back it is like a bank failure. The government takes that very
+17:55
+seriously. The good news is that Kenya now officially recognizes stable coins
+18:01
+as a legal product. There is a clear framework you can build. You can issue,
+18:10
+you can operate only if you meet the requirements. The law requires you to
+18:17
+hold reserve assets, meaning real money that backs up every coin that you issue.
+18:25
+This is actually good for your business because it builds trust with users. If
+18:32
+customers know that every digital shilling you issue is backed by a real
+18:37
+shilling in a real account, they will use your product confidently. You must
+18:44
+also publish regular proof that your reserves are real. This is called an
+18:50
+audit. You have to show the numbers to your customers. Again, this is actually
+18:57
+a competitive advantage. Any stable coin that cannot prove its reserves is one
+19:03
+that people should not trust. The law guarantees that customers can always
+19:09
+convert your stable coins back to real cash at the same price that they paid.
+19:17
+This redemption right is a foundation of what makes a stable coin work. And now
+19:24
+it is a legal requirement that protects both your users and your reputation. Now
+19:32
+the hard part, 500 million Kenya shillings. That is the minimum paid up
+19:40
+capital requirement to issue a stable coin in Kenya. This is the highest
+19:47
+capital requirement in the entire VASP framework. No other license type comes
+19:54
+close. For context, a virtual asset broker only needs 30 million shillings.
+20:00
+And we're just saying only. A stable coin issuer needs more than 16 times
+20:06
+that. This means that in practice only large banks, large fintech companies or
+20:14
+companies with serious outside investment can afford to launch a Kenyan
+20:20
+stable coin. Independent founders and small startups are priced out entirely.
+20:27
+The law also says you cannot pay interest to stable coin holders, zero.
+20:35
+This kills one of the most powerful tools for encouraging people to use your
+20:41
+stable coin. If people cannot earn anything by holding it, the incentive to
+20:46
+use it over a regular mobile money wallet becomes much weaker. Your reserve
+20:52
+money cannot be invested in anything that earns a significant return. You
+20:58
+have to keep it safe and liquid. This means your stable coin business must
+21:05
+survive entirely on transaction fees. And for early stage issuers with low
+21:12
+transaction volume, that is a very thin business model. And if you ever want to
+21:19
+change something in your published white paper, know that public document
+21:25
+explaining how your stable coin works, you need regulator approval first. Even
+21:33
+small changes that are operational to how you manage your reserve
+21:39
+that becomes a slow bureaucratic process. The regulator can halt or
+21:46
+delist your stable coin at any time without a clear definition of exactly
+21:54
+when or why this power can be used. If the regulator decides your coin poses a
+22:02
+risk to the public, it can pull your license overnight. For any users holding
+22:08
+your coin at that moment, this is a crisis for your business. It is
+22:14
+potentially the end. There's also no consumer protection fund for stable coin
+22:20
+holders. If your company fails and you cannot pay everyone back, users have no
+22:27
+government safety net. This puts enormous responsibility on you and
+22:33
+enormous risk on early adopters of your product. The interest ban also puts
+22:41
+Kenyan stable coins at a major disadvantage compared to other stable
+22:47
+coins from other countries that allow yield. If a Kenyan business or person
+22:53
+can hold a foreign stable coin that pays them interest, why would they even
+22:58
+bother holding yours? If you are serious about the stable coin business in Kenya,
+23:06
+here is how you navigate this law. First, you need to partner with a
+23:12
+commercial bank. You need 500 million Kenya shillings. A licensed Kenyan bank
+23:19
+has the capital. You have the technology and distribution.
+23:25
+Together you can meet the requirement. That is not selling out. That is smart
+23:33
+structure. Two, build your entire business model around transaction volume
+23:40
+from day one. No, you cannot earn from interest. You
+23:45
+cannot earn from lending reserves. Your revenue is fees per transaction. Every
+23:52
+product decision, every partnership, every user acquisition strategy must
+23:58
+prioritize volume. Third, set up a live public reserve dashboard even before you
+24:06
+are required to. If users can see in real time that every coin is fully
+24:12
+backed, you build trust faster than any marketing campaign ever could. Four,
+24:20
+engage the Nairobi international financial center authority. They are
+24:25
+part of the coordination committee and they are specifically tasked with making
+24:31
+Nairobi a global financial hub. a Kenyan stable coin aligns perfectly with their
+24:39
+mandate. So go and build that relationship. Number five, during the
+24:45
+public comment period, push back on the interest ban. This is a single provision
+24:52
+most likely to hurt adoption. A clear well-argued submission explaining how
+25:00
+yield sharing could be done safely with reserve protection has a real chance of
+25:06
+changing this rule before it is final. The stable coin space in Kenya is hard.
+25:14
+The requirements are huge. But a properly regulated, fully reserved
+25:22
+Kenyan issued digital shilling could transform payments across East Africa
+25:28
+and beyond. The opportunity is enormous, but the barriers are real, but they are
+25:34
+not impossible. So the builders who take the hard road and do it right will own
+25:40
+this market for decades to come. Make sure to follow for more in this
+25:45
+series and share this with anyone building in the fintech space for a
+25:51
+stable coin. If you make videos about crypto, post on Tik Tok, about Bitcoin,
+25:58
+run a WhatsApp community, about investing, or teach people about digital money, this law is for you. Kenya's new
+26:08
+VASP regulations mention advertising more than almost anything else and the
+26:16
+way they define advertising could easily cover your free educational YouTube
+26:21
+video. Today we are breaking exactly what you need to know and what you need to do right now to stay safe. Here is
+26:29
+the first thing you need to understand. The VASP regulations define
+26:35
+advertisement to include any content that directly or indirectly promotes
+26:42
+virtual assets. That includes social media posts, YouTube videos, podcasts,
+26:48
+newsletters, webinars, and even live or recorded seminars. Now, here is the
+26:54
+problem. The law does not clearly separate education from promotion. If
+27:01
+you're explaining what Bitcoin is, that is education. If you're saying buy this
+27:06
+coin or use this platform, that is promotion. What about a video where you
+27:12
+explain how to use a specific exchange? Is that teaching or advertising? This
+27:18
+law does not say that gray zone is where content creators could get into trouble.
+27:24
+Now, there is real good news in this law. The law is specifically designed to
+27:33
+catch bad actors. The people who promise you you will get rich, who hide risk
+27:40
+information, who take payments from projects without telling you. If you are
+27:46
+already creating responsible, honest content, the law is mostly on your side.
+27:53
+The requirement to disclose paid promotions is now the law. If someone is
+27:59
+paying you to talk about their exchange or their coin, you must say so clearly.
+28:06
+This levels the playing field. Honest creators who already disclose
+28:12
+partnerships will not be disadvantaged by those who were hiding paid promotions
+28:18
+before. The law also bans aggressive or misleading sales tactics. This protects
+28:25
+your audience from being misled by bad actors, which in turn protects your
+28:30
+reputation as someone who gives real trustworthy information. The digital and
+28:37
+social media advertising rules are actually written to cover modern
+28:43
+platform. This law was not written in 2010. It knows about Tik Tok, Instagram,
+28:50
+online communities, and recorded videos. That at least means it addresses the
+28:55
+reality that you work in. Now, this is what should actually worry you. The law
+29:04
+puts criminal penalties on third party advertisers.
+29:10
+You are a third party. If you make a promotional video for a crypto product
+29:17
+that is not properly disclosed or if the product turns out to be misleading, you
+29:24
+could face a fine of 3 million shillings or 2 years in prison. Yes, prison for a
+29:32
+social media post. You are also required to keep records of
+29:38
+your advertisements for seven years. every promotional piece of content, who
+29:44
+approved it, when it was published, what disclosures were included. For a creator
+29:49
+posting multiple pieces of content every week, this is a huge amount of
+29:55
+recordkeeping. Cold calling is classified as a market conduct offense.
+30:01
+WhatsApp outreach, DMs, voice notes to groups. If you're using any of these to
+30:07
+promote crypto products to people who did not ask for that information, you
+30:13
+are in a legal gray zone that could be interpreted as a criminal act. Affiliate
+30:19
+links and referral programs are a major part of how crypto creators earn money.
+30:25
+But the law now requires complete upfront disclosure of every commission,
+30:32
+fee or benefit you receive. And any violation of these rules makes you
+30:37
+personally liable alongside the company whose product you are promoting. Now the
+30:42
+most frustrating part of this law for creators is what is not there. There is
+30:50
+no definition of where education ends and advertising begins. There is no safe
+30:57
+harbor that says as long as you are teaching you are free from advertising rules. There is no minimum threshold
+31:04
+that says small creators with fewer than such and such number of followers are
+31:10
+not covered. This means the rules that apply to a large financial institution
+31:17
+running a paid advertising campaign also technically apply to you making a free
+31:24
+YouTube video explaining how blockchain works. That is not balanced. But until
+31:30
+the law is changed, that is a current reality. If you run a seminar, even a
+31:36
+free one online that discusses specific crypto products, the law classifies that
+31:42
+seminar as an advertisement. The records of that event need to be kept for 7
+31:49
+years. It's not all doom and gloom. Here is exactly what you as a content creator
+31:57
+needs to start to do today. One, add a standard legal disclaimer to every piece
+32:06
+of crypto content you publish. Write something like this. This content is for educational purposes only. Virtual
+32:13
+assets are high-risk investments. Past performance does not predict future
+32:19
+results. This is not financial advice. Do your own research. Make it visible
+32:25
+and do not hide it or bury it at the bottom. Two, keep education and
+32:31
+promotion in separate videos. One video explains how Defi works. A different
+32:37
+video is a paid review of a specific platform. Never mix the two. Label your
+32:42
+promotional content clearly as promotional content. Three, every time
+32:48
+you receive money, free products, affiliate commissions, or any other benefit for mentioning a crypto product,
+32:56
+say so at the very start of that content, not at the end, the start. This
+33:02
+video is sponsored by. Say it loud and put it on screen. Four, start archiving
+33:09
+your content now. Create a folder system where every piece of crypto content is
+33:16
+dated, stored, and tagged with what disclosures were included. Do this now,
+33:23
+not when you get a letter from a regulator. Five, stop cold outreach for
+33:29
+crypto products. If you are currently sending unsolicited DMs or WhatsApp
+33:35
+messages promoting crypto platforms, stop immediately. Only promote to
+33:41
+audiences who have asked to receive your recommendations. Number six, connect
+33:48
+with other Kenyan crypto educators and push collectively for a clear educator
+33:55
+safe harbor provision before these regulations are finalized. A unified
+34:01
+voice from Kenya's crypto community will actually change this law. Do not wait
+34:07
+for someone else to do it. You became a content creator because you want to help
+34:14
+people understand something new and powerful. That's crypto. This law should
+34:20
+not stop you from doing that. But it will punish you if you are careless. The
+34:25
+difference between a creator who thrives under this law and one who gets in trouble is preparation. Read the
+34:33
+disclaimers. Disclose everything. Keep your records. Separate your education from your promotions and stay engaged
+34:40
+with how this regulations developed. If this helped you, follow and share it
+34:46
+with every crypto educator that you know in Kenya.
+34:51
+You bought some Bitcoin. Maybe you trade on Binance or maybe you hold USDT as
+34:59
+your savings or maybe someone sent you crypto as payment. Whatever your story
+35:05
+is, Kenya's new crypto law affects you.
+35:11
+And not in a scary way, mostly in a good way, actually. But there are parts you absolutely need to know about. Today,
+35:18
+I'm going to tell you everything about the VASP regulations of 2026 and what it
+35:25
+means for everyday people like you and me. So, what is this law? The VASP act
+35:34
+became law in Kenya in 2025. VASP stands for virtual asset service
+35:42
+provider which basically means any company that offers crypto services.
+35:48
+Exchanges where you buy Bitcoin, wallets where you store it, payment processors,
+35:54
+advisor, all of them are now regulated by this law. The most important thing
+36:00
+for you to understand is this. The law does not regulate you, the person who owns crypto. It regulates the companies
+36:07
+that serve you. Think of it like how the government regulates banks. The bank has
+36:13
+to follow rules. You, as a customer, just benefit from those laws protecting
+36:19
+you. The good news is this, this law is mostly designed to protect you. And
+36:26
+those protections are very real. First,
+36:32
+your crypto must be kept separate from the exchanges money. This is called
+36:38
+segregation. It means that if the exchange goes broke, your funds cannot
+36:44
+be taken to pay their debts. Before this law, many exchanges around the world
+36:49
+mixed customers funds with company funds. That is how FTX collapsed and
+36:55
+millions of people lost everything. This law stops that from happening in Kenya.
+37:03
+Second, exchanges cannot promise you returns. If any platform is telling you
+37:09
+that you will definitely make money, that you are guaranteed a profit or that your investment cannot lose value, that
+37:16
+is now illegal. All platforms making those promises are breaking the law.
+37:23
+Report them. Third, if you have a complaint, the exchange has to resolve
+37:29
+it within 3 months. They must have a formal process. They must respond to
+37:34
+you. They must keep records of the complaint. You now have legal backing
+37:40
+when things go wrong. Fourth, before you invest, the exchange must explain the
+37:47
+risks to you clearly in writing. They cannot just point you to a 10-page
+37:53
+document full of legal language. They must make sure you actually understand
+37:59
+what you are getting into. Fifth, market manipulation and insider trading are now
+38:06
+illegal in crypto. Someone is cheating at the trading level, creating fake volume, using private information to
+38:13
+trade or rigging prices. That is a criminal offense. This makes markets
+38:18
+more fair to everyone. Now to the bad news. Here are some honest downsides.
+38:28
+The new rules for exchanges are expensive to follow. That cost will not
+38:36
+be absorbed by the exchange. It will be passed to you through higher
+38:43
+fees, wider spreads, and more expensive services. Compliance costs money. And in
+38:51
+business, costs get passed to customers. Because getting a license requires so
+38:59
+much capital, 150 million shillings for a basic exchange, fewer companies will
+39:05
+qualify. That means less competition and that usually means higher prices and fewer choices for consumers. You may
+39:12
+find that some smaller, cheaper platforms either close or they move out of the country. There's also no
+39:19
+government insurance for your crypto. If you put money in a Kenyan bank and the bank fails, the government covers up to
+39:27
+100,000 shillings per depositor. Crypto has no such safety net. If the exchange
+39:33
+collapses, you are relying on the segregation rules, not a government fund to get your money back. And even then,
+39:41
+the process takes time. Now, here's a part that should concern you. There are
+39:48
+actually two parts of this law that you need to understand very clearly. First,
+39:56
+the government can freeze your crypto. Not just the exchanges money, your
+40:03
+specific holdings. A court or authority can issue an order to an exchange to
+40:10
+freeze the accounts of a specific person. This is similar to how banks can
+40:16
+freeze accounts. The difference is that the law also gives authorities the power
+40:23
+to seize hardware wallets and seed phrase backups, physical things in your
+40:30
+home. That is an unusual and powerful provision. Second, a statutory manager
+40:37
+can be appointed to run an exchange for up to two years. During that time,
+40:43
+withdrawals can be suspended. This means you might not be able to access your funds for up to 24 months while an
+40:51
+investigation or recovery process is underway. This is not a theoretical
+40:57
+risk. This is a written provision inside the law. So, how can you protect
+41:03
+yourself as a user? Here's what you do to protect yourself. First, only use
+41:11
+licensed platforms. Once this law and the regulations come in force, there
+41:18
+will be a public register of licensed exchanges. Check it. If your exchange is
+41:25
+not on the list, it has no consumer protections under this law. Two, never
+41:31
+keep large amounts on an exchange long-term. Use exchanges to buy. Then
+41:39
+move your crypto to your own wallet, one where you control the private key. An
+41:45
+exchange holds your crypto for you. If something happens to the exchange, you have to wait. If the crypto is in your
+41:52
+own wallet, no one can freeze it without a direct order against you personally.
+41:59
+Three, read the consumer service agreement before you sign up to any
+42:05
+platform. This document is now legally required to tell you everything. Fees,
+42:11
+what happens if your account is suspended, how disputes are handled. Read it. It takes 10 minutes, but it
+42:18
+protects you. Four, file formal complaints, not angry comments on social
+42:24
+media. A formal complaint through the exchanges official process creates a
+42:30
+legal record. And if you need to escalate to the regulator, that paper trail is your proof. Five, spread your
+42:38
+holdings. Do not put all your crypto on one exchange. The seizure and moratorium
+42:43
+risks are very real. Multiple small balances across platforms are safer than
+42:49
+one large balance. Friends, crypto in Kenya is entering a new chapter. The
+42:58
+risks are still very real, but the protections are real, too. Your job is
+43:06
+to know your rights and take your security seriously. Do not leave your
+43:11
+money somewhere you do not understand. Do not trust promises of guaranteed returns and move your long-term savings
+43:19
+off exchanges into your own wallet. Make sure to follow for the final video
+43:25
+on this series and share this with anyone who holds crypto in Kenya. If you
+43:31
+hold Bitcoin in Kenya and you believe in self-custody, meaning you control your own keys, this video is specifically for
+43:39
+you. Kenya's new Vasp law does not ban Bitcoin. It does not regulate Bitcoin,
+43:45
+but it creates a powerful system of rules around every business that helps people buy, sell or store Bitcoin. There
+43:53
+are two or three provisions in this law that every serious Bitcoiner in Kenya needs to understand deeply. Let us go
+44:00
+through all of it right now. What is the law and what is it not? The VASP
+44:07
+regulations 2026 regulate virtual asset service providers. VASPs are companies,
+44:15
+exchanges, wallet providers, payment processes. The law governs those businesses. It does not govern the
+44:22
+Bitcoin protocol. It does not govern what you do with Bitcoin in your own wallet. And it does not govern
+44:28
+peer-to-peer transactions between two individuals with no company in the
+44:33
+middle. This is the most important distinction. Bitcoin itself is not
+44:40
+regulated. The companies around Bitcoin are regulated. Your access point, the
+44:45
+on-ramp and offramp, that is regulated. Your Bitcoin sitting in a hardware wallet in your home is not touched by
+44:53
+this law. So what is covered? Let us be very specific. Here is what the law
+45:01
+reaches and what it does not. The law does not cover holding Bitcoin in your
+45:07
+own hardware wallet, sending Bitcoin directly from your wallet to another
+45:13
+person's wallet, running a Bitcoin node in Kenya, mining Bitcoin in Kenya, or
+45:19
+receiving Bitcoin as payment for goods or services you provide. The law does
+45:26
+cover buying Bitcoin through a licensed Kenyan exchange, using a custodial
+45:31
+wallet, meaning a wallet where a company holds your keys, converting Bitcoin to
+45:36
+Kenya shillings through a licensed broker, or accepting Bitcoin payments through a registered payment processor.
+45:44
+The line is simple. If a company is involved in facilitating the
+45:50
+transaction, that company needs a license. You as an individual on the other end of that transaction are simply
+45:57
+their customer covered by consumer protection rules, not by licensing
+46:02
+rules. And here's a provision every Bitcoiner must know.
+46:07
+Now, the part that changes how serious Bitcoiners should think about this law is regulation 139, paragraph E, and it's
+46:15
+about seizure orders. And it says, and I'm going to read it carefully, authorized officers can seize and detain
+46:23
+any physical device, hardware, wallet, seed phrase, backup, or electronic system necessary to access the virtual
+46:31
+assets. Let us be clear about what this means. If a court issues a seizure order
+46:36
+against you personally, the government can come to your home, take your hardware wallet, and take any written or
+46:43
+stored copy of your seed phrase. They can then use those things to access and
+46:48
+take your Bitcoin. This power has never existed in Kenyan law before. Your
+46:54
+hardware wallet is not just like a piece of property like a car or a piece of land. It is the key to your money and
+47:01
+the law now says it can be seized. This does not mean the government can randomly seize everyone's Bitcoin. But a
+47:08
+seizure order requires a legal process, a court order, an investigation, a
+47:13
+specific reason. But it does mean that if you're ever the subject of any legal
+47:19
+investigation, your Bitcoin is not safe simply because it is in your hardware
+47:24
+wallet. The second thing every Bitcoiner needs
+47:30
+to understand is what happens to Bitcoin held on exchanges under this law. When a
+47:37
+freezing order is served on a licensed exchange, the exchange must immediately
+47:43
+freeze the specified assets and prevent any withdrawal, transfer, or conversion.
+47:51
+Your Bitcoin on that exchange cannot move. When a seizure order is served on
+47:57
+an exchange, the exchange must transfer your Bitcoin to a governmentcontrolled
+48:02
+wallet. They must hand over your transaction histories, your wallet addresses, and all the records related
+48:09
+to your account. And here's a part that stings for most Bitcoiners. After seizure, the government can convert your
+48:16
+Bitcoin to Kenya shillings to quote preserve value. That means you might get
+48:22
+Kenya shillings back instead of BTC and at whatever exchange rate the government decides is appropriate during a
+48:29
+potentially volatile market. This is why the old saying in Bitcoin is as true as
+48:35
+ever. Not your keys, not your Bitcoin. One more thing to understand is the
+48:40
+coordination committee. This is a group of government agencies that will oversee
+48:46
+all crypto businesses in Kenya and they include the National Intelligence
+48:53
+Service and the National Counterterrorism Center. These are
+48:58
+intelligence agencies. What this means practically is that information about
+49:03
+Bitcoin transactions that flow through licensed Kenyan exchanges will pass
+49:09
+through a regulatory system that includes the country's intelligence
+49:14
+infrastructure. That is not illegal. It is a stated purpose of the law. But Bitcoiners
+49:20
+should understand the surveillance architecture they are operating within when they use centralized licensed
+49:27
+platform. Now, here is how a principled Bitcoiner
+49:32
+operates in post VASP Kenya. One,
+49:38
+self-custody is a foundation. Move your Bitcoin off every exchange immediately
+49:44
+after purchase. A licensed exchange can be frozen. A statutory manager can
+49:50
+suspend all withdrawals for up to two years. Your Bitcoin in your own wallet cannot be touched by an order subbed on
+49:59
+someone else. Two, your seed phrase is your Bitcoin. Under this law, a physical
+50:06
+seed phrase can be legally seized with a court order. The options for a principal
+50:11
+Bitcoiner are to memorize your seed phrase using a passphrase protected wallet to store it in a location that is
+50:19
+legally and practically difficult to access or both. A seed phrase that only
+50:25
+exists in your mind cannot be seized. Three, use exchanges as a gateway, not a
+50:32
+garage. Buy your Bitcoin, move it to self custody within 24 to 48 hours. Do
+50:38
+not let your exchange balance grow. Treat it like cash in your hand. You hold what you need for today, not what
+50:44
+you're saving for next year. Four, peer-to-peer Bitcoin is still largely
+50:50
+ungoverned. Direct transfers between two individuals. No licensed company
+50:55
+involved are not covered by the VAS regulations. The lightning network which operates offchain is similarly outside
+51:02
+the reporting structure of these regulations for everyday spending and small transfers. These tools remain your
+51:10
+cleanest options. Five, understand the AML law separately. The VAS regulations
+51:16
+do not directly obligate you as an individual, but the proceeds of crime and anti-moneyaundering act does apply
+51:23
+to everyone in Kenya. If you hold significant Bitcoin and cannot explain where it came from, you face legal risks
+51:30
+that exist outside and are independent from the Vasp framework. Keep records of
+51:36
+how you acquired your Bitcoin. Six, engage the process. The public comment
+51:43
+period for this regulations is an opportunity to push for clearer protections for self-custody holders,
+51:50
+narrower seizure powers, and explicit privacy safeguards. A Bitcoin community
+51:55
+that engages intelligently with regulators is harder to ignore than one that retweets into silence. Bitcoin was
+52:04
+designed to give individuals control over their own money. That philosophy
+52:10
+does not change just because Kenya passed a law. What changes is the
+52:15
+landscape that we currently will operate in. Know that landscape. Understand
+52:21
+where the risks are. Own your keys. Protect your seed phrase. Use exchanges
+52:26
+as tools, not as banks. And stay informed about how this law develops.
+52:32
+The Bitcoiners who understand the rules are the ones who keep their freedom inside the rules. And if you found this
+52:38
+valuable, share it. That is exactly the kind of information that the Bitcoin
+52:44
+community in Kenya needs.
+

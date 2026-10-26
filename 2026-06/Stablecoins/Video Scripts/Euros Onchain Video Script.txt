@@ -1,0 +1,807 @@
+Transcript
+
+
+Search in video
+0:04
+Onchain currencies always raise uh a lot of fundamental questions about utility,
+0:10
+about governance and um about the yeah their general structure. Our next panel
+0:17
+titled Euros on chain roles, use cases and guard rails moderated by VR sciences
+0:24
+Daniela Bobbach will bring clarity into exactly these fundamental questions.
+0:31
+Please give it up for Daniela Bobak and her panelists.
+0:41
+The microphones are turned on. The stage is yours. Ah, hey Patrick.
+0:48
+Thank you very much, Marcel. So, the euro is increasingly appearing
+0:53
+in blockchain based financial systems through stable coins, tokenized assets,
+0:58
+and emerging payment infrastructure. This raises a fundamental question. If
+1:04
+euros move on chain, who actually operates the system and what roles will
+1:09
+different actors play? Like myself said, I'm Daniel Bubak. I'm head of business development and ecosystem at uh the
+1:18
+German blockchain association actually that's the head I'm having right now um called blockchain bonus bando and I have
+1:25
+the pleasure to moderate this amazing panel and before we dive deeper into
+1:30
+this I would ask my panelists to briefly introduce themselves and I would say
+1:36
+Patrick maybe you give it a first start please
+1:41
+thanks Danila and hi everyone can you hear me Okay. Yes. Okay. Perfect. Uh so sorry to not be
+1:48
+able to join you on stage. Would have loved to come but unfortunately an emergency stopped me. Hopefully next
+1:53
+year I'm back in in Frankfurt. So uh hi everyone. My name is Patrick Hansen. I'm
+1:58
+director for EU strategy and policy at Circle. Circle for those who don't know is a global financial technology company
+2:05
+primarily known to be the largest regulated stable coin issuer in the world. So we issue the largest regulated
+2:11
+dollar token USDC, the largest uh euro denominated stable coin called Euro C
+2:17
+and and also the largest tokenized money market fund USYC out of our regulated
+2:23
+entities. I partic particularly look look over our
+2:28
+strategy, our regulatory setup and and our expansion in Europe. And I'm looking forward to discussing um all of these
+2:36
+interesting topics with with you guys. Thank you, Tony. Maybe you as well. Hi there. Uh, my name is Tony McLolin. I
+2:44
+am the CEO of a company called Ubix, and we are a clearing system for tokenized
+2:49
+money, which perhaps I will explain later.
+2:55
+My name is Alexander Bunga. I'm a senior adviser of VIA Science. VIA Science is a US-based web 3 data security company. uh
+3:03
+originally they developed a web3 infrastructure that has military grade capabilities for data security for the
+3:09
+US Navy, US Air Force. So no crypto initially since end of last year we
+3:14
+integrated the payment functionality of stable coins. Our first partner is
+3:19
+circle. So happy to see you Patrick and we're working on stellar and I'll be I'm
+3:25
+based in Switzerland. I'm overseeing the European market and I'll be a bit
+3:30
+sharing a few few thoughts how Americans are approaching the topic of stable coins versus maybe the European
+3:36
+approach. Hi uh Yansel um CEO of Kibalis. Um we
+3:42
+are building a uh an EMI um out of the UK out of Holland which will issue a
+3:48
+Euro stable coin and is backed by a consortium of European banks uh including the likes of ING, Uni Credit,
+3:54
+BBBA, BNP, Paribba and so on. Um and I might give a European perspective on on
+4:00
+how we build a stable coin and uh and and why. Thank you very much. So let's start with
+4:07
+a question for everyone of you. Maybe an easy one, maybe not. I don't know. You
+4:12
+will tell. Do we need euros on chain actually?
+4:20
+Well, I guess I can I can start with that. Um I would say I mean if we you know if we are talking about the
+4:26
+blockchain, the blockchain basically provides a number of um efficiencies around pretty much any business process
+4:32
+that involves two or more parties that don't trust each other. And if you look at um bit you know financial processes
+4:38
+uh that can be improved with uh being put on chain like for example crossber payments or um treasury management
+4:44
+treasury management operations and so on. Um there are a number of efficiencies there which which can only be captured on chain at the moment given
+4:51
+the the way the technology is going. Um and if you if you sort of you know want
+4:56
+to capture those efficiencies in financial markets you need a euro there if you're operating in euros. Um in fact
+5:02
+I mean it plays into the the longer or the bigger narrative about European um strategic autonomy as well but maybe we
+5:08
+can get into that later on. Okay. And what is your take on that? Are we solving a real market demand with that
+5:16
+or are we still building infrastructure ahead of adoption?
+5:21
+Can I try to take part one and part two at the same time? Um, so I think a first
+5:28
+principles argument is that a blockchain is a venue for commerce in the same way
+5:35
+that a high street or a physical marketplace is a venue for commerce.
+5:41
+And if people who transact on those venues don't have access to regulated
+5:46
+money, then they will still transact, but they will transact in unregulated
+5:51
+money. So our sovereign currencies have to occupy the spaces that people want to
+5:57
+do business. They want to do business on the high street. They want to do business in a physical marketplace. They want to do business on Ethereum. And so
+6:05
+we must provide regulated financial services to these venue for commerce.
+6:11
+Otherwise we create a tremendous vacuum. And unfortunately that's what we've
+6:16
+done. By through an abundance of caution, we have inhibited regulated
+6:22
+financial players entering these spaces and that's created oxygen for
+6:29
+unregulated finance to flourish. So it's a I would say it's a you know whether it's about sovereignty whether it's
+6:35
+about reg the regulatory perimeter it's an obligation to enable regulated finance to to
+6:43
+transact on these new venues. And would you also confirm that it also have to be in Euro because I mean we have lots of
+6:50
+US dollar onchain already? Absolutely. Because European citizens should have the right to transact in
+6:58
+Euro if it's their choice. So if the if the regulated instruments are not provided on these venues, then don't be
+7:06
+surprised if someone transacts in Tether if they haven't got access to regulated
+7:12
+euros. That's not the that's not the fault of the of the person doing the transaction. They want to conduct the
+7:19
+financial transaction and they're using whatever is available. So the the the market failure is if regulated financial
+7:27
+services does not turn up on blockchains. That's the market failure.
+7:32
+I think I would just add to that. um you know if you if you look at um onchain stablecoin transactions at the moment I
+7:38
+think I saw a study recently that put it the number of transa of European transactions at about 36%. Um at the
+7:44
+moment those are all happening in in US dollars or those all minus the 0.2% that
+7:49
+is uh in euros at the moment. So there's obviously a need
+7:55
+maybe I'll I'll try to answer from more practical term. If you think when was the last time you used stable coin to
+8:01
+buy anything in Frankfurt? Have you used anything? I'm sure there's no one in
+8:06
+here has used stable coin so far. So Europe so far I doesn't I'm not sure if there's
+8:12
+a need for European stable coins by common people or the normal citizen.
+8:17
+Stable coin has been used in crypto trading mostly. You know, I'm sure Patrick Hanss will address that a bit more closely. But what we've now been
+8:24
+seeing and we just did last year a pilot in Hayiti where we've been paying out
+8:29
+through stable coins to mothers in need and now also to the staff on on site
+8:35
+through stable coins because it's much better than using cash and shipping physical bills. So what you the reality
+8:41
+in uh emerging markets where you have a much larger unbanked community there it
+8:47
+is real and they on top like US dollar I think the driver what we've been seeing so far is a lack of a good enough
+8:55
+banking infrastructure helps with adoption and obviously if you have inflation or an unstable local currency
+9:01
+the US dollar is an attractive alternative and that could potentially be for the Europe euro as well but I
+9:08
+think a lot of the adoption we'll probably seeing and I'm happy to talk about what we're seeing now coming from the US. I think in emerging markets will
+9:14
+be the battleground for stable coins in a retail space. I'm not talking about CBDC's.
+9:19
+Okay. Thank you very much for adding this. Um if we imagine an onchain euro
+9:24
+ecosystem, we could think of it as a stack, the form of money itself,
+9:30
+settlement infrastructure and financial market integration. Patrick, this is a
+9:35
+question for you. Stable coins have already become the settlement asset of crypto markets, right? Do you see
+9:42
+regulated euro stable coins playing the same role for tokenized financial markets in Europe?
+9:50
+I I think so. I mean, we only time will tell after all, right? But I I think we're heading there. Um we we really
+9:57
+believe that ultimately currently this entire industry including us and
+10:02
+and the other panelists are building a new internet financial system and if we
+10:07
+succeed we fully believe that capital markets including traditional capital markets will come on chain. Um how will
+10:15
+that look like in detail will depend on you know market factors regulatory developments. We see encouraging signs
+10:22
+for now including in Europe. I mean, you have those DT pilot regimes, for example, where tokenized securities are
+10:29
+already settled on chain against Euro stable coins. We're supporting some of these teams, right? And already today,
+10:35
+you can buy, for example, a tokenized money market fund and settle with EuroC, our Euro denominated stable coin. That
+10:43
+is not happening at scale though yet. And there are some also regulatory
+10:48
+developments, clarifications that will uh be able to enable that at scale. Currently there's the markets
+10:54
+integration package being discussed at the EU level and we still do think there are some barriers for Euro stable coin
+11:01
+settlement in the C this I mean it it it's quite technical but in the CSDR so
+11:07
+the central securities depository regulation um and also we believe that currently
+11:14
+there's not enough clarity in order to be able to use e-oney tokens as collateral in some of these capital
+11:20
+markets. Um so I think the market first has to come on chain. We need to see the
+11:27
+liquidity there. Some of these bar regulatory barriers need to be removed. But ultimately I I do think that e-oney
+11:34
+tokens will be the preferred model here for the majority of the market. There will be other tools deposits maybe
+11:41
+onchain CBDC's as well but I think for the large majority of the market stable coins will be the preferred choice. And
+11:48
+I actually think it's a great sign that that Jan and team are building an e-oney token with the bank consoria behind and
+11:56
+not necessarily a tokenized deposit. I think that's you know a strong backing of e-oney tokens as a future of of
+12:03
+settlement. So thank you very much. You have also answered my second question actually right away.
+12:09
+Um I would just jump to Tony then. Um many people argue that stablecoin
+12:15
+ecosystem risks become fragmented across issues and blockchains. I think you have
+12:21
+taken a different position there, right? Can you explain why you believe fragmentation may not actually be the
+12:28
+long-term outcome for stable coins? And uh where does Ubix come into play if
+12:35
+they come into play there? Okay, it's a bit of a it's a softball question, but I'll I'll I'll
+12:41
+ignore the opportunity to sell my my company. I I won't do that. Um, look,
+12:48
+back end of the 1960s, uh, credit cards were invented and they replaced store
+12:54
+cards. So, pre previously there was store credit, which is a special purpose way of accessing credit in one
+13:00
+department store. And then credit cards were invented and that's a more general purpose way of accessing credit that can
+13:07
+then be used on multiple stores. But believe it or not, there was a time when there were only a couple of credit cards
+13:14
+and they were US dollar credit cards. Now just imagine we're back in the late 1960s
+13:20
+and people are observing that market structure. They might say things like, "Wow, there's a power law that means
+13:27
+there's going to be only a couple of of credit card issuers and everyone in the
+13:32
+world is going to use dollar credit cards." Now, that was ridiculous if
+13:38
+that's ridiculous in with hindsight. And it's ridiculous when people say that thing about that the same thing about
+13:45
+stable coins. So we live today in a world of there are 16,000 card issuers
+13:51
+and there is zero fragmentation. You can go with your Deutsche Bank
+13:58
+credit card to New York and shop in Macy's and Macy's doesn't give a damn
+14:03
+about Deutsche Bank's balance sheet. You know someone from the US can travel to Malaysia and stay in a hotel and the
+14:10
+Malaysian hotel doesn't give a damn about the issuers's balance sheet. So the truth of it is that we've seen this
+14:18
+movie before and here's what's going to happen. You can like the the world will
+14:24
+turn the clock will turn and you can test this thesis. We are going to have a
+14:30
+many to many market structure. There will be many issuers of tokenized money.
+14:36
+That tokenized money there will be stable coins and there will be tokenized deposits. There will be tokenized money money market funds. There will be many
+14:43
+issuers. The issuer needs acceptance
+14:49
+and the issuer cannot build its own acceptance network. There will be a mutualized acceptance
+14:55
+network. In the history of payments, here's the here's the the example.
+15:01
+Circle have circle payments network. This is American Express.
+15:06
+One issuer building a proprietary payments network. The alternative model is Visa and Mastercard which links
+15:13
+together many issuers and many acptors. My company is the new Visa for tokenized
+15:21
+money which links together many issuers and many accepting parties so that Kales
+15:28
+does not have to knock on the door of an African PSP to get acceptance.
+15:35
+That would be a ridiculous thing for Kalis to do. So here's what's going to happen. There will be a manyto many
+15:42
+network. There will be a mutualized uh acceptance network and every bank and
+15:47
+fintech on the planet will offer a wallet and that will be a pluralistic market structure with many currencies,
+15:55
+many issuers and there will be thousands and thousands of issuers of tokenized
+16:00
+money and zero fragmentation.
+16:05
+That's is that controversial enough? That's a very good answer I would say.
+16:11
+Thank you very much for this. Um I would has I would have another one for you. Um
+16:17
+you also described stable coins as potentially functioning like negotiable
+16:22
+instruments in the financial system. Is that correct? What would that mean in
+16:27
+practice for how they circulate between institutions? Can you ask somebody else a question?
+16:32
+Because I I was just talking there for like 10 minutes. No, but you're doing really well. the others are having their time. Trust me
+16:39
+for that. That's my job. So again, there's nothing new under the sun. Um
+16:46
+if I if I'm an issuer of a promise to pay if so if if someone
+16:52
+in the audience gives me €10 and I write a piece of paper, I owe you €10.
+16:58
+That piece of paper can start can start being traded in the room. It can be negotiated
+17:04
+or someone can come back to me. I'm the issuer and they can claim the money. So
+17:09
+if I write I owe you $10 or€10 on a piece of paper or I inscribe it on a
+17:16
+block of marble or I write it in a relational database on I or I put it as a token on a blockchain. Its fundamental
+17:23
+nature hasn't changed. It still means I owe you€ 10. USDC is I owe you€10 on a
+17:32
+blockchain. But it's not fundamentally different than it than to be written on a piece of paper in terms of its in in
+17:39
+terms of of its platonic reality in terms of its like idealistic reality. So
+17:44
+it just so happens that in the history of humanity we've had many turns of the
+17:50
+wheel of technology. We had paper, we had relational databases, we've got check, we've had checks, we've had
+17:55
+credit cards. They all exhibit the same market structure.
+18:01
+many issuers, many redemption agents. Now, here's the lesson to learn from with stable coins, because people treat
+18:08
+stable coins as if we've, oh my god, we've never seen these things before. Here's the lesson. Stable coins can be
+18:16
+processed exactly like checks. You should be able to take a This is
+18:22
+something you can't do today, which would make the market structure infinitely better. You can't take a
+18:27
+stable coin to your bank and deposit it into your bank account directly like a
+18:33
+check. When that happens, the stable coin market structure gets much better. Much
+18:40
+better because the bank or the fintech acts as a KYC provider of a wallet and
+18:47
+converts the stable coin into into cash. So the way that Kivalis and you and
+18:53
+Circle and everyone gets the way that this thing happens is when every bank in
+18:59
+fintech offers a wallet and you can receive any stable coin into your bank
+19:06
+wallet and your bank credits your account. And this isn't science fiction. This is
+19:13
+checks. So all I'm asking for or I'm all I'm suggesting is that we take this 21st
+19:20
+century technology and make it equivalent to 19th century technology. It's not a hard ask.
+19:27
+I like that. Um Yan, do you want to add anything? Um
+19:33
+on the other hand side, I have another question for you. Well, I mean that's partly what we're exactly what we're building on on the
+19:39
+Kali side, right? Um we have a consortium that's an open consortium. We have uh at the moment 12 banks and that
+19:46
+the number of banks is growing and many of those banks will end up um also providing access to the to the to the
+19:52
+token via uh via their own bank accounts um and by I mean via their bank accounts for their clients. So it will hopefully
+19:59
+end up in exactly that scenario. It wouldn't end up like that if those banks only accepted Kalis tokens. The
+20:05
+the the way of that would that would be trying to create a closed loop. The real
+20:11
+way to get hyper growth is on the accepting side to in Visa rules there's
+20:16
+some a rule called accept all tokens. So the real way of doing it is that your
+20:21
+tokens can be accepted by any bank and your member banks can accept any other token. Otherwise we we that is a way of
+20:29
+creating walled gardens. Yeah. I mean we're definitely not aiming to create a world garden. You know um
+20:35
+we're you know we're simply building the infrastructure to put the euro on chain. um but being built from inside Europe,
+20:42
+you know. So in I guess the the difference being to to circle um and uh and looking to use the network of banks
+20:48
+we have in the background to make that token more and more usable and used and
+20:54
+used across across Europe and across um across well across the world really. uh because in the end you know everywhere
+21:00
+where the blockchain is used for financial transactions and where the euro is used for financial transactions we want to build that bridge you know
+21:06
+that interface between the euro and and the blockchain. So will markets converge around one form
+21:13
+of digital money then or will we see stable coins tokenized bank deposits and CBDC coexisting?
+21:20
+Well we I mean I think if we're talking about the euro for example I think you know we see it as a as all part of the same kind of financial stack. Um I think
+21:27
+you know Marika will go into detail in this later on on one of the later panels but um in short I think you know at the
+21:33
+moment what we have in in Europe is um the ECB building you know a digital euro on the retail side which you can think
+21:39
+of as kind of floating on top of the the stack and then you have wholesale CBDC at the bottom where have wholesale banks
+21:45
+will have access and and use that as a settlement layer but neither of those are currently at least envisaged to be
+21:51
+onchain right there will be a different form of ledger and so in between the two there's a gap
+21:56
+um which will be filled by stable coins on the one hand for as a payment token um and then um tokenized deposits or
+22:04
+tokenized money market funds more on the yield side most likely um but so it's a kind of I think it's a it's a monetary
+22:10
+stack that all operate interoperates and will interoperate thank you for this answer um maybe a
+22:15
+question for all of you if we look to the US regulators are increasingly starting to treat stable coins more like
+22:22
+financial assets for example allowing broker dealers to treat them as regulatory capital. Does that support
+22:30
+the your thesis that stable coins are becoming part of the core financial plumbing?
+22:37
+Uh yes. Uh stable coins shouldn't be um
+22:42
+Frankenstein monster money. They should be normal money. And that means cash
+22:48
+equivalent. And cash equivalence means you should be able to convert it at par
+22:53
+value into other forms of currency. Um and the the economists love this term
+23:00
+which is singleness of money. Singleness of money means the issuer doesn't matter.
+23:06
+So we have to get to a place where the issuer doesn't matter from the purposes
+23:12
+of the receiver. Again this is exactly what we've achieved in cards. when you
+23:17
+take your Deutsche Bank into Macy's in in New York, they don't care about
+23:22
+Deutsche Bank. So, there's a lot of focus on issuers at the moment and the
+23:28
+the regulation of the issuers, but the end result is cash equivalent stable
+23:34
+coins where the issuers where the issuer doesn't matter for acceptance.
+23:39
+Thank you very much. Let's have a look on the infrastructure and real world integration side. Digital money alone
+23:46
+does not change financial systems unless it integrates into real operational environments, treasury, liquidity,
+23:54
+corporate finance. Alexander, a question for you from the infrastructure and systems perspective, obviously. What
+24:00
+still needs to happen before companies and financial institutions can realistically integrate onchain finance
+24:08
+into their operations? That sounds like more a question for
+24:14
+Tony. on to answer but maybe I'll just I I just going to try to change a bit the add altitude and and see where adoption
+24:21
+is. I think I've been listening to a lot of panels this morning and there's a lot of clever people talking lots of things
+24:26
+about you know central banks of how to integrate it and risk and a lot of integration and fragmentation skills.
+24:33
+The question is always where's the adoption? That's sort of my first comment I made and and I can't help
+24:38
+feeling sometimes that there's limited enthusiasm in Europe for stable coin adoption or multiple levels. I sometimes
+24:45
+feel maybe Yu can contra me the banks are doing it somehow but with lesser
+24:51
+enthusiasm and I'd like to contrast that with the US and I think what we see is
+24:57
+this the current administration has realized that there's geostrategic power
+25:02
+to stable coins. Uh if you listen to Trump in the first administration, he didn't like Bitcoin. He said there's
+25:08
+only one beautiful currency is the US dollar. And now under Scott Besson, they realized, hey, stable coins are
+25:14
+basically an extension of US dollars. And it has another benefit for the US. You can refinance your your debt because
+25:21
+circle I think has become one of the biggest treasury or money market funds in the world. Uh based based on that. So
+25:27
+there's a clear interest from the government and administration to push stable coins and without being able to
+25:33
+share too too many details but if you think where Americans see opportunities
+25:38
+uh when it comes to stay stable coins we see when you listen to demonstration they see multiple level of initiatives
+25:44
+first um they're still running a global net network of of of bases of military
+25:50
+bases that mostly run in a cash infrastructure world they clearly see opportunities moving that into stable
+25:57
+coins. If they do that, you would have global adoption through 300 plus spaces
+26:02
+in a single instance. That's one one approach. The other thing is the US Treasury and that's one thing you saw is
+26:08
+like with us a highly critical or they think there's a lot of corruption in the
+26:14
+system. The way the donation work, the humanitarian aid works, they're really uh looking into that how can we use
+26:21
+stable coins. So coming from more the adoption side I think what America has realized and sort of maybe Europe has
+26:27
+not is that this could become a new form of money we've known before in a new shape and form but making it
+26:34
+programmable and more traceable adds benefits if you want to control your
+26:39
+money money flows and I think from a geostrategic approach and I think watch watch the space in the next couple of
+26:45
+months uh you'll see some major announcement from US government how they're going to enforce stable coins
+26:51
+and Maybe just the last observation and sort of alluding to your question that I can't really answer. I'm I'm a former
+26:57
+bank of what but I think Europeans get caught caught up in the questions what type of stable coin is it? How we can
+27:03
+integrate it? How can we license it? What kind of regulatory framework? I've heard this dozen times this morning. Once the regulatory framework is more
+27:10
+clear, we're going to move faster. I think this is also saying we don't really know because we don't really have
+27:15
+a clear strategy as Europe from that. I'm telling you America has a very clear
+27:21
+plan and I think once they start transacting there'll be surprises on European side
+27:26
+how fast it will happen and maybe just the last observation because often you know we're comparing ourselves to US is
+27:32
+when you look at what has China built in recent years they have if I don't know I
+27:38
+strongly suggest everyone to look up there's a Forbes article about the global and payment treasury system it
+27:44
+runs fully on blockchain it has trillions of transactions of yon every day the whole uh weep pay is now at the
+27:52
+backbone crossber payments on blockchain. So all the things that Europeans are often thinking or talking
+27:58
+about actually have been built and are being built and as I think the question going forward is where in this
+28:04
+geostrategic landscape does a euro stable coin fit in and what does Europeans want to do with it? Is it
+28:11
+something between banks or the cash lag of tokenization and all that? And I think this will force Europeans to
+28:17
+reconsider in a short time how to move and I still I've been talking to some of the community here and everyone is
+28:23
+hoping actually one of the thing I've heard is like we hope that America moves then Europe will move too. So let's see
+28:28
+if that's the go is if that's a go to market approach. Well, I'd like to just jump in on the,
+28:34
+you know, the comment about the the banks because obviously we're quite close to the 12 that we're working with and and that's an increasing number that
+28:39
+we're that we're talking to um to say actually there is quite a lot of movement there. You know, um there's quite a lot of interest uh in we're
+28:47
+working with each of the banks um also bilaterally to try to help them work out how they use stable coins um because
+28:52
+they're all, you know, they're all at different um at different stages in their digital assets journey. Um but
+28:58
+some of them are quite are quite advanced and have quite advanced thinking about you know how what kind of use cases they will they would use the
+29:04
+you know the stable coin for um but in the end it's you know it's going to be it's an open stable coin that will be
+29:09
+used by like I said earlier by anyone who uses the euro and from a geopolitical perspective right um if you
+29:15
+look at financial flows of the euro in the fiat world you know it you know makes up about 20 to 25% of you know
+29:20
+global crossber payments of global reserves held of um bond issuance globally but in the stable coin space is
+29:27
+0.2%. So there's you know there's a major delta there which um which I think you know we need stable coins uh from
+29:34
+Europe in Europe Euro that will to fill and I think I think that you know they will happen and it'll come. I'm
+29:40
+definitely less uh I guess less bearish on Europe than you are. Thank you very much for adding this. Um,
+29:46
+so that's today's reality, institutions and corporates, and Alex just mentioned
+29:52
+it already, but we're also seeing new types of users emerging. Patrick, this
+29:57
+is a question for you again. Stable coins are increasingly used by NOS's and
+30:03
+foundations. At the same time, we're seeing agentic AI entering finance.
+30:09
+How do these trends come together? What is your opinion on that?
+30:14
+Um I mean they're quite different things right so NOS's AI completely separate
+30:21
+topics here um the the only thing that I would mention is they ultimately used or
+30:27
+choose stable coins is due to just the um infrastructure benefits that stable
+30:33
+coins offer right and I think that has been discussed here it's a global crossber digital programmable
+30:39
+infrastructure nos's might you know and we have had pilot projects with some of
+30:44
+these large humanitarian organizations. um they might choose it because it works cross border instantly digitally right
+30:52
+and AI agents u might essentially flock towards stable coins because they are
+30:58
+247 programmable um uh programmable money and ultimately
+31:04
+I think that's where the value proposition comes from and maybe to the to the earlier discussions of euros and
+31:10
+dollars and currencies I I I think that as we think about you know in the internet financial system coming on
+31:17
+chain ultimately be it NOS's be it corporations financial institutions they
+31:23
+will rely on a wide array of currencies and blockchains so the the same way that
+31:29
+the corporate treasurer here in Frankfurt where you all are uses dollars to pay some suppliers whatever in the US
+31:36
+uses pounds to pay suppliers in the UK the same way I think a future onchain
+31:42
+corporate treasurer will use the euro to some extent for some transfers will use
+31:48
+the dollar to play other suppliers, right? And so I think that's an important thing to to keep in mind
+31:54
+especially in Europe where the narrative around, you know, we should build guard
+31:59
+rails around foreign currency, stable coins, etc. is very strong. I think we
+32:04
+should all keep in mind that what we're building is a global infrastructure here with globally liquid and accessible
+32:11
+currencies. And I think the key that will also build strong euro stable coins
+32:17
+is actually integrate with these globally liquid globally accessible markets and not the other way around. I
+32:23
+think I personally do not see any future where we will be get strong euro stable
+32:28
+coins without being heavily integrated with these globally liquid accessible
+32:34
+onchain markets. And that's the first step I think for Euro stable coins and
+32:40
+European projects to grow is tighter integration into these global flows.
+32:45
+Thank you very much. So you have built already a beautiful bridge to the next topic digital server and ecosystem
+32:52
+structure. We may end up with several forms of digital euros at the same time. That's
+32:58
+my take on that at the moment. stable coins, tokenized bank deposits, CBMT, we
+33:03
+have heard that phrase before, potentially a digital euro as CBDC.
+33:09
+How important is digital serenity when building the euro's onchain ecosystem?
+33:15
+Do you expect this ecosystem to evolve through collaborative infrastructure between different actors and countries
+33:23
+or could we eventually see winner takes most dynamics similar to other digital
+33:29
+platforms? That's a question for all of you. Can I give it a go? Of course. I I agree with your comments that it it
+33:36
+starts with strategy. that starts with starts with strategy for you know the
+33:42
+diff the difference between what America is doing and what we tend to do in Europe is America is um acting out of n
+33:50
+national interest and it's not dumb to diversify demand for US treasuries by
+33:56
+through stable coins so humbly I suggest to you here might be
+34:02
+the components of a strategy for Europe which are in sovereign interest
+34:08
+Part one, banks and fintexs in Europe, there are 5,000 of them. They should offer wallets
+34:17
+to their customers so that the foreign stable coins coming into Europe are
+34:22
+captured in our banks and fintexs. Those banks and fintech should convert those dollar stable coins into euros.
+34:30
+Moving the money from the American balance sheet into the European balance sheet. This is point number one. Now
+34:37
+when every bank in fintech in Euro in in Europe has a wallet for catching the
+34:44
+American stable coins, wow the same wallets can be used for euro stable coins. And so then we have an acceptance
+34:51
+network in Europe for any kind of euro stable coins to be circulated. So this
+34:56
+is point number two which is we have a a universal wallet acceptance network in
+35:03
+Europe. The third point is we can play the same game as the Americans.
+35:08
+Kalis tokens should be accepted by our export part by the people that were
+35:15
+importing from. So my t-shirt my shirt probably is made in Vietnam. I'm a I
+35:22
+didn't buy it's not Italian shirt. Okay. Um the the importer should be able to
+35:28
+pay for this t-shirt for this shirt with the Kalis Euro token. And then imagine
+35:34
+you're in the predicament of the the exporter in Vietnam. You've now got a Kalis Euro token. Well, that exporter
+35:44
+might well want hard currency in portable format and something which
+35:49
+is not dollars because maybe I want to be diversified against the dollar.
+35:55
+But that exporter in Vietnam needs to be able to turn that into Vietnamese dong
+36:00
+whenever they want to. So the other po point there is that we need to build global acceptance for
+36:07
+Kalisa stable coins. How do we do that? Well, we have the raw m believe it or
+36:12
+not the raw material already exists. So I don't know Manuel Klein was here
+36:17
+before from Deutsche Bank. Deutsche Bank provides euro accounts to hundreds and
+36:23
+hundreds and hundreds of foreign correspondent banks including banks in Vietnam.
+36:29
+There's no problem with a Vietnamese bank accepting a euro stable coin
+36:35
+because it can be cleared through Deutsche Bank. And by the way, that Vietnamese bank
+36:40
+will love to accept the Kalis token because when they convert it from euros into Vietnamese dong, they will make FX.
+36:48
+So if if we want to win the stable coin game, three components. Catch the
+36:53
+foreign stable coins into bank and fintech wallets, convert them into euros, have a universal acceptance
+36:59
+network in Europe of wallets provided by banks and fintexs, and build a global
+37:05
+acceptance network for euro tokenized money. That sounds like a strategy I would say.
+37:10
+I hope all the right people are listening right now. Do you want to add
+37:15
+something? Maybe maybe just it seems you you per your your strategy is perfectly
+37:21
+thought out. I I really love listening to you and maybe I just going to take a step further into adoption. I think what
+37:27
+we've been seeing and also via uh VIA is backed by Borch and BMW and one of the
+37:32
+discussions we're having and it's unfortunately still a bit of a discussion is in this new world where we
+37:38
+have much more autonomous vehicles. I'm not even talking about a gent but liio bonus vehicles obviously incar payments
+37:45
+making payments payable through charging and and would be a perfect use case for
+37:50
+for stable coins because you have programmability features well you can have different you know um so sub
+37:56
+subscriber modes for even for parking so there's a lot of that and there's a lot of general interest and and and
+38:02
+thoughtfulness about that but I think that would be one of the things if Europe sees as an opportunity to say hey
+38:08
+we're shipping those cars worldwide We going to equip them with wallets. We have this upcoming EU ID wallet. We
+38:15
+integrate that and we try to create adoption. What I have to say and maybe to your point, the Americans are always
+38:20
+thinking about adoption distribution very first because that's where money's going to generate it. And here the
+38:26
+discussion is often what's the regulatory correct framework and structure and infrastructure. And the Europeans love talking about that for
+38:32
+hours. While the Americans are saying, hey, how can we make use cases? I'm I'm telling you there are use cases coming
+38:37
+out of the US department of war and treasury in the futures and Europe should be thinking where are our
+38:42
+strength how we embed and you know to your point with Vietnamese banks and having wallets as part of the future uh
+38:50
+flows we have and maybe even as a counter or an alternative to the to the mastercard visa pay more you know and
+38:57
+but unfortunately I have to say this geostrategic thinking is sometimes a bit lacking in Europe and we have components
+39:03
+where we could add this in and have real cloud a market forces and that would be a way of creating adoption.
+39:11
+If I might just add a couple sentences here, what what I sometimes find in Europe, especially on on on panels and
+39:17
+and in other fora is that people think that stable coin adoption could kind of be forced top down to merchants, to
+39:26
+institutions, to holders. And what we have been seeing or what I have been seeing also following our euro
+39:32
+denominated stable coin now for a few years is that the most important
+39:37
+ingredient to stable coin growth and adoption and also to the later fact that
+39:42
+some merchants around the world will accept it that fintex and neo banks will
+39:47
+build you know integration and wallets for it is usage and liquidity and this
+39:54
+is something that requires really bottom up nitty-gritty work with the players
+40:00
+that actually use and transact with stable coins today, right? Not in five years, but today. Even if you look at
+40:07
+the largest financial institutions, they want to build rails for the stable coins that are actually being used. And so
+40:13
+look at Mika, right? We have now 20 issuers. We have over 20 euro stable coins. But why aren't most neo banks,
+40:22
+banks, etc. building rails for these? Because not many people use it. And that's why we have taken the approach
+40:28
+for Euro C as one example to go where the users and the holders actually are and build them and try to build the most
+40:35
+liquid accessible and interoperable Euro product which we're talking you know to the different D5 platforms to the
+40:42
+different CFI exchanges and by now we're seeing some growth. It has worked right EuroC has grown 10x since our Mika
+40:49
+announcement one and a half years ago and it is now already the most widely accessible Euro stable coin. But what I
+40:56
+sometimes miss in the European discussion is they're trying to build the market the other way around
+41:01
+essentially top down. But you have to build it really from the bottom up where users are today and where the demand is
+41:08
+today. And that will lead to institutional adoption later on in in my
+41:13
+opinion. Thank you very much for adding this Patrick. Unfortunately we are already
+41:19
+out of time. So um there was a lot of experience and expertise here on stage
+41:26
+and virtually. So thank you very much uh to all of you. It was really um insightful I would say.
+41:33
+And I would ask the audience to please give a round of applause to our wonderful panelists.
+41:43
+Thank you. Thank you, Ranula.
+

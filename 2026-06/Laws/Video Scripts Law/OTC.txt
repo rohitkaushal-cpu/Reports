@@ -1,0 +1,1157 @@
+
+Search in video
+0:07
+Alri. Alr. Não. Bom, enfim. Eh,
+0:11
+primeiro, obrigado, eh, Tim, pelo pelo
+0:14
+convite. super feliz de estar aqui para
+0:16
+falar um pouquinho sobre, ah, não sobre
+0:19
+regulação, porque acho que regulação,
+0:22
+um monte de gente muito mais qualificada
+0:24
+do que eu já falou, mas para falar um
+0:27
+pouco de como a gente pode trabalhar num
+0:30
+mundo regulado de um jeito adequado, mas
+0:34
+que talvez a chamada assuste alguns, mas
+0:38
+eu juro que meu jurídico permitiu que eu
+0:39
+fizesse isso. E a ideia é de falar um
+0:42
+pouquinho aqui de como o MB, como o
+0:45
+mercado Bitcoin enxerga a possibilidade
+0:47
+de você criar um VAS PESA Service, um
+0:51
+representante das PSAVEs num modelo que
+0:54
+no final das contas permite que os OTCs
+0:56
+que já atuam hoje ou as empresas de
+0:58
+infraestrutura de pagamentos e stable
+1:00
+coin que já atuam hoje continuem atuando
+1:02
+no mercado fazendo o que elas fazem
+1:04
+muito bem.
+1:06
+Eu não sei se vocês sabem o que esse
+1:07
+número aqui representa. 224. Amanhã ele
+1:10
+vai ser 223. Isso aqui é o número de
+1:12
+dias que faltam pra gente chegar no dia
+1:14
+30 de outubro de 2026, que é a data
+1:17
+final para que você ou quem queira
+1:19
+aplique para ter uma licença de
+1:21
+prestador de serviço de ativos virtuais,
+1:23
+né? Isso são 7 meses e 10 dias com 32
+1:27
+semanas. Se a gente lembrar que tem Copa
+1:29
+do Mundo, isso já cai para 25, porque a
+1:31
+gente vai ter umas seis semaninhas aí
+1:32
+que ninguém vai prestar muita atenção em
+1:33
+muita coisa, né?
+1:35
+E no final das contas é isso, o tempo tá
+1:37
+passando e passando muito rápido. Parece
+1:39
+que foi ontem que as regras foram
+1:41
+aprovadas no finalzinho de novembro.
+1:43
+Parece que foi ontem que o capital
+1:45
+regulatório subiu para caramba. Não por
+1:47
+uma questão específica do mercado
+1:49
+cripto, mas sim por conta de todas as
+1:51
+fraudes que a gente tem visto nas IPs.
+1:54
+Eu não me apresentei, eu me chamo
+1:55
+Fabrício Tota, eu sou diretor de
+1:58
+negócios cripto do mercado Bitcoin e eu
+2:01
+juntei a companhia em 2018 e hoje,
+2:04
+enfim, eu tenho uma atuação cross na na
+2:07
+companhia, muito de ah fazer essa
+2:10
+conexão do MB com o que tá acontecendo
+2:11
+no mundo exterior, seja um protocolo,
+2:13
+sejam outras empresas, reguladores em
+2:16
+alguma medida.
+2:17
+Ah, mas o que pouca gente sabe é que eu
+2:20
+comecei no MB justamente para construir
+2:23
+a nossa mesa de OTC, a nossa mesa, o
+2:26
+nosso balcão, a nossa mesa de grandes
+2:28
+clientes à época. Isso lá em 2018,
+2:30
+comecei em 2018, ano, 8 anos atrás, né?
+2:33
+E e ali eu aprendi algumas coisas, o que
+2:36
+eu chamei aqui de o paradoxo do ticket
+2:38
+grande, né?
+2:40
+que é um problema cara curioso que
+2:42
+quando o cliente fica bom, quando ele
+2:44
+chega com bastante volume, quando o
+2:45
+ticket aumenta, a desconfiança aumenta
+2:47
+junto. O cara tava ali operando
+2:49
+pouquinho, comprando eventualmente, na
+2:51
+época era muito Bitcoin, não era tanto
+2:53
+sacoin. De repente ele chega com ticket
+2:54
+gigantesco, fala: "Cara, não é possível,
+2:56
+tem alguma coisa errada aqui". Então,
+2:59
+era um era uma coisa super eh complexa,
+3:02
+difícil, que você ficava sempre ali
+3:05
+entre a cruz e a espada sobres seguir ou
+3:07
+não o cliente. E acaba que outras casas,
+3:10
+eh, o MB também, mas acho que outras
+3:12
+casas também se especializaram no que eu
+3:14
+chamei aqui de o verdadeiro no Youror,
+3:17
+eu não tô falando daquele no youror
+3:18
+client regulatório, ó, preenche esses
+3:21
+dados, manda esses documentos aqui, tá
+3:23
+tudo certo. É verdadeiro. mesas, cara,
+3:26
+os os grandes players de OTC, eles foram
+3:28
+obrigados e foram os primeiros que se
+3:30
+debruçaram verdadeiramente a entender
+3:32
+qual que era o cliente. Primeiro
+3:33
+entender a demanda, fal, cara, para que
+3:35
+que você quer, que que é essa operação
+3:36
+aqui que você tá fazendo? Depois criar
+3:38
+soluções específicas para esse cliente,
+3:40
+como ele quer ser atendido? É WhatsApp?
+3:42
+É Telegram? É uma API?
+3:45
+O que que ele precisa? ele precisa de e
+3:48
+de velocidade de negociação, ele precisa
+3:50
+de preço, ele precisa de limite. Vamos
+3:53
+entender o que que tá acontecendo aqui.
+3:55
+E as grandes casas também subiram
+3:57
+significativamente a regra de
+3:58
+compliance, principalmente se a gente
+4:00
+comparar com o que era o esse mundo de
+4:02
+crirypto e BTC e depois stable coins ao
+4:05
+longo dos últimos anos, né? Então, eh,
+4:07
+até eu sempre falo de de BTC, apesar de
+4:10
+ser muito um mundo dessas mesas ligado a
+4:12
+stable coins, porque é o mundo que eu
+4:14
+conheci também, né? Esses dados aqui,
+4:15
+até se a gente voltar um pouco, isso era
+4:17
+até mais significativo, né? Mas esses
+4:18
+dados são dados da Receita Federal que
+4:20
+mostra a relação, né, na barrinha
+4:22
+amarela ali as stable coins e a barrinha
+4:24
+laranja a o volume de Bitcoin, né,
+4:27
+negociado ao longo dos últimos anos, né,
+4:29
+você vê que teve uma substituição, então
+4:31
+parte do que era feito eventualmente de
+4:34
+pagamentos utilizava muito Bitcoin,
+4:35
+tanto que o volume era muito
+4:36
+significativo. Tudo bem que aqui 2021 a
+4:39
+gente teve um belíssimo bull market
+4:40
+inesquecível para todos nós, mas acho
+4:43
+que mostra um pouquinho também o avanço
+4:45
+das stable coins ao longo do tempo como
+4:47
+sendo essa solução de pagamentos. Acaba
+4:50
+que o que a gente chama de mesas OTC,
+4:51
+elas viraram infraestrutura de pagamento
+4:53
+e de stable coins. E não só uma uma
+4:56
+mesinha ali, três caras e uma Ledger que
+4:58
+estão ali fazendo o negócio funcionar.
+5:00
+São negócios muito mais robustos, né? Aí
+5:03
+houve realmente uma metamorfose, uma
+5:05
+transformação ao longo do tempo. Tanto
+5:07
+que aqui esses também são dados da
+5:10
+Receita Federal, lamentavelmente o dado
+5:11
+mais recente, que é o do primeiro
+5:13
+semestre de 2025, a gente não tem dados
+5:15
+atualizados já há algum tempo lá na
+5:16
+receita, mas é o suficiente para dar um
+5:18
+pouquinho de cor, né? Aqui é o volume de
+5:21
+stable coins, né? Que é realizado em
+5:24
+outras exchanges que não reportam a IN
+5:26
+188, né? Aqui as, então é um dado misto
+5:29
+aqui, tem um pouco de inteligência MB,
+5:31
+um pouco de dado da receita, as
+5:32
+exchanges que declaram ali a barrinha
+5:34
+azul. E esse caminhão aqui, né, que
+5:37
+conta por 80% do mercado, é um volume
+5:39
+que está fora das exchanges. Os mais
+5:42
+atentos vão saber, vão dizer: "Ah, aqui
+5:43
+tem volume dobrado, triplicado, é
+5:44
+verdade", mas mesmo assim é um volume
+5:47
+extremamente significativo que acontece
+5:48
+fora das exchanges, justamente nesses
+5:51
+players que criaram essas
+5:52
+infraestruturas de pagamento e de stable
+5:55
+coins. No final das contas, quais os
+5:56
+grandes diferenciais dessas mesas,
+5:58
+desses players, né? é o relacionamento.
+6:00
+Cliente verdadeiramente é dele. Essa
+6:01
+interface que ele faz do jeito que o
+6:03
+cliente quer e do jeito que é mais
+6:04
+produtivo para os dois. Esse KYC, que eu
+6:07
+chamei de verdadeiro KYC, e uma execução
+6:09
+sob medida, né, com liquidez, com timing
+6:12
+e uma liquidação do financeiro e do lado
+6:15
+cripto numa velocidade que atende as
+6:17
+necessidades desses clientes. E agora
+6:20
+esses caras todos, esses players, eles
+6:22
+têm esse desafio aqui, virar uma VASP.
+6:25
+Que que precisa? precisa de capital,
+6:28
+porque não é pouco. Estamos falando de
+6:29
+no mínimo R milhões deais para começar
+6:31
+essa brincadeira, para começar a
+6:32
+conversa. Isso de capital regulatório,
+6:34
+só para você encostar lá como garantia
+6:36
+para poder operar esse negócio. Segundo
+6:38
+pessoas, mais capital também, diga de
+6:40
+passagem, mas um time extremamente
+6:42
+qualificado para atender todas essas
+6:43
+demandas. Há pouco tempo atrás, há
+6:45
+poucas semanas atrás, teve um novo
+6:47
+comunicado do Banco Central que era
+6:49
+super simples. Dizia assim: "A partir do
+6:51
+momento que as VASPs forem reguladas e
+6:54
+que elas passarem a existir de fato
+6:56
+perante o Banco Central, todas elas são
+6:58
+instituições financeiras. Um comunicado
+7:00
+tão curto, tão simples quanto esse,
+7:02
+carrega muito, muito, muito custo em
+7:05
+termos de pessoas, em termos de
+7:07
+processos e também em termos de
+7:09
+controles, o que resulta num custo fixo
+7:11
+extremamente elevado só para você
+7:14
+existir, né? O que que é o modelo hoje
+7:16
+de um OTC tradicional contra uma VASP
+7:19
+regulada? Aqui o OTC tradicional, um
+7:22
+capital próprio reduzido, estrutura
+7:23
+super inxuta, o time que é hora
+7:25
+comercial, hora operacional,
+7:27
+eventualmente fazendo os dois papéis,
+7:29
+né? Os custos são majoritariamente
+7:31
+variáveis, né? Um crescimento via
+7:33
+relacionamento, tá? E uma governança que
+7:35
+é proporcional ao tamanho da operação.
+7:37
+Isso eu tô falando uns bons players de
+7:39
+OTC, que sim, eles têm uma governança
+7:41
+bem importante aqui, mas proporcional ao
+7:44
+tamanho deles, né? E a Vas regulada, ela
+7:46
+não pergunta muita coisa, ela
+7:47
+simplesmente exige algumas coisas. Esse
+7:50
+capital mínimo é elevado, uma estrutura
+7:52
+super formal de governança, comitês,
+7:55
+reportes regulatórios e tudo mais. uma
+7:57
+responsabilidade perante regulador que
+7:59
+não é absolutamente desprezível, né,
+8:01
+colocando, né, administradores,
+8:03
+diretores ali como responsáveis perante
+8:05
+o regulador, né, um custo elevado de
+8:08
+auditoria, controles internos, cyber
+8:10
+segurança, riscos, PLD e compli
+8:12
+dedicados a essa operação que resulta em
+8:15
+um custo fixo, elevado, permanente. E
+8:17
+mais, e mais, e mais, e mais. Por que
+8:21
+mais? Porque muito mais coisas você vai
+8:22
+ter que fazer um acompanhamento de
+8:24
+qualquer mudança regulatória e elas
+8:25
+acontecem. elas hão de existir e você
+8:28
+vai ter que acompanhar essas mudanças.
+8:31
+Colocando a timeline aqui no comecinho,
+8:33
+a publicação das resoluções 519, 1520 e
+8:37
+21. Ali entrou a norma em vigor. Onde a
+8:40
+gente tá ali, a gente já correu bastante
+8:42
+tempo, falta pouco, né, ali no prazo
+8:44
+final para protocolar o pedido de
+8:47
+autorização, né?
+8:49
+E no MB a gente tem uma inspiração que
+8:51
+funciona, já funciona, que são os
+8:53
+agentes autônos de investimento. Eu
+8:55
+antes de de ir pro MB, eu tive uma
+8:58
+carreira de 20 anos numa corretora de
+9:00
+valores do mercado tradicional. E para
+9:03
+quem conhece um pouquinho do mundo de
+9:05
+investimentos, eh, deve conhecer
+9:08
+exemplos, dessas grandes corretoras hoje
+9:10
+e o mercado de agentes autônomos, desses
+9:13
+escritórios de assessoria, de
+9:15
+investimentos que cresceram absurdamente
+9:18
+nos últimos anos. Esses caras, esses
+9:20
+escritórios foram os grandes
+9:21
+responsáveis por uma verdadeira
+9:22
+revolução no mercado de investimentos,
+9:24
+no mundo de investimentos aqui no
+9:26
+Brasil, né? Houve um momento onde a
+9:28
+gente imaginava que os clientes eles
+9:29
+gostariam de operar sozinhos pelo
+9:31
+terminal home broker ali. E a gente
+9:33
+descobriu que isso só escalaria
+9:35
+significativamente com a atuação desses
+9:38
+intermediários, que são os agentes
+9:39
+autônomos. O que a gente propõe aqui é
+9:42
+exatamente a mesma coisa, essa relação
+9:44
+dos agentes autônomos com as corretoras
+9:46
+de valores, que seja o que a gente vai
+9:48
+construir entre as mesas do ATC e as
+9:50
+VASPS, tá? Para vocês terem uma ideia,
+9:53
+em termos de números, hoje são 28.000 1
+9:55
+assessores registrados na CVM. É um
+9:57
+batalhão, é um exército, é muita gente,
+9:59
+né? Mais de 1000 escritórios onde esses
+10:02
+assessores se organizam. E olha que
+10:04
+interessante aqui, o cliente médio que
+10:08
+tem uma posição na B3 de renda fixa, ele
+10:10
+tem uma carteira de R$ 6.000 na média.
+10:12
+Um cliente assessorado, esse cliente que
+10:14
+está no assessor, ele tem em média uma
+10:16
+carteira de R$ 313.000.
+10:19
+Essa é a diferença do grande cliente que
+10:21
+precisa, que demanda esse tipo de
+10:23
+assessoria, do cliente comum, da pessoa,
+10:25
+do indivíduo, do pequeno, realmente o
+10:27
+pequeno investidor que tá ali começando
+10:29
+a fazer os seus investimentos, né? E
+10:31
+esses assessores atendem uma média de
+10:33
+265 clientes cada um.
+10:37
+que a gente aprendeu com isso, o que eu
+10:38
+aprendi com isso, quem tá na ponta é
+10:40
+quem domina o relacionamento, é quem
+10:42
+domina a originação, é esse cara que
+10:44
+verdadeiramente conhece o cliente, é
+10:45
+esse cara que verdadeiramente consegue
+10:47
+oferecer os produtos adequados e as
+10:48
+soluções adequadas para esses clientes.
+10:51
+E quem tá por trás, né, as VASPS no
+10:53
+nosso caso, ou as corretoras de valores,
+10:55
+no caso dos agentes autônomos, é quem
+10:57
+sustenta a infraestrutura, a custódia, a
+11:00
+governança e a responsabilidade perante
+11:02
+o regulador, tá? Então assim, eh, não é
+11:05
+algo que a gente, a gente tá querendo
+11:06
+algo que sim é novo pro mundo cripto,
+11:08
+mas muito inspirado no que já funciona.
+11:11
+Mas o que o MB, além da minha
+11:13
+experiência que eu mencionei, o que MB
+11:15
+sabe a respeito de agentes autônomos?
+11:16
+Por que você tá falando isso? Da onde
+11:17
+você copiou esses dados? Na verdade, a
+11:19
+gente já tem uma relação muito estreita
+11:21
+com muitos escritórios e agentes
+11:22
+autônomos. Muitos sabem aqui que o MB
+11:25
+tem uma vertical muito forte de ativos
+11:28
+tokenizados. A gente emitiu e distribuiu
+11:30
+mais de R 2 bilhões deais de ativos
+11:32
+tokenizados ao longo dos últimos anos,
+11:34
+sendo que R 1 bilhão deais somente no
+11:35
+último ano. E como se dá essa
+11:37
+distribuição? Uma parte importante na
+11:38
+nossa força de vendas tá no B2B, tá
+11:41
+justamente em alguns escritórios de
+11:43
+agentes autônomos que a gente tem. A
+11:44
+gente tem parceria com mais de 100
+11:45
+escritórios autônomos que distribuem os
+11:47
+nossos produtos de cripto e de ativos
+11:48
+tocenizados também. São mais de 3.000
+11:51
+assessores, 3.000 indivíduos que têm
+11:53
+essa responsabilidade de fazer essa
+11:55
+distribuição, né? E dentro do nosso time
+11:57
+no MB, só nessa parte do B2B, sem contar
+12:00
+questões regulatórias, tudo mais, são
+12:02
+mais de 30 pessoas dedicadas
+12:03
+exclusivamente a essa atividade. Além
+12:05
+dos agins autônos, a gente também atende
+12:07
+de uma forma mais abrangente plataformas
+12:09
+com a Magalu, com Magalu Pay, que se
+12:11
+você comprar Bitcoin ou Ether na Magalu,
+12:13
+você tá comprando na verdade ali o por
+12:15
+baixo do capô do mercado Bitcoin e na
+12:17
+corretora ativa, corretora de valores no
+12:19
+mercado tradicional também. Isso aqui é
+12:21
+uma parte do que a gente coloca, do que
+12:22
+a gente oferece como sendo esse stack
+12:24
+regulatório. Essas são as principais
+12:26
+licenças que a gente acumulou ao longo
+12:28
+dos últimos anos no Banco Central como
+12:30
+instituição de pagamento e entidade
+12:31
+securizadora, né? E na CVM e Banco
+12:34
+Central, na verdade, como CCTVM. Que que
+12:38
+é CCTVM? Corretora de câmbio, títulos e
+12:40
+valores mobiliários, né? Essa é uma
+12:41
+licença que a gente adquiriu
+12:43
+recentemente e que permite que a gente
+12:45
+exerça uma série de atividades do
+12:48
+mercado de títulos e valores
+12:49
+imobiliários, mas também é uma entidade
+12:52
+que ela pode solicitar licença de vác,
+12:56
+como foi definido ali na regulação do
+12:58
+Banco Central, que dá essa abertura não
+13:01
+somente a novos players que vão pedir a
+13:03
+licença, mas também players que já
+13:04
+existiam no mercado financeiro
+13:06
+tradicional para pedir essa regulação.
+13:09
+Aqui até confundi, a entidade
+13:10
+segurizadora é da CVM e a CCTVM é do
+13:13
+Banco Central. Na verdade, eu troquei de
+13:14
+lugar ali, mas também a gente tem uma
+13:16
+licença de gestor e recursos, plataforma
+13:18
+de investimento participativo que é a
+13:19
+CVM 88 e também somos regulados já no
+13:22
+Banco de pelo Banco de Portugal, pelo
+13:24
+Banco Central de Portugal como Exchange
+13:26
+e agente de Cuscódia. Mas aqui é só uma
+13:28
+parte do que a gente eh ofer eh oferece
+13:31
+nessa solução, né, que de VASPA Service,
+13:36
+que é o OTC como representante do MB,
+13:38
+tá? Você no OTC você mantém o cliente, o
+13:41
+cliente continua sendo seu, o
+13:43
+relacionamento é seu e a gente mantém a
+13:45
+licença, os trilhos e o controle para
+13:47
+tudo funcionar. Você origina os
+13:50
+clientes, fecha operações, você mantém o
+13:52
+relacionamento e faz o know your client
+13:54
+de verdade. Enquanto isso, o MB ele
+13:57
+provê as licenças, a governança, a
+14:00
+responsabilidade operacional sobre isso
+14:02
+tudo. Faz o que o IC, o regulatório, faz
+14:06
+prevenção de lavagem de dinheiro, faz o
+14:07
+que o IT, no transaction e dá toda a
+14:10
+infra de APIs para que você se integre
+14:12
+para trading, para RFQ, o Request for
+14:14
+Coach e também pro Smart Order Routing,
+14:17
+o SR para você conseguir os melhores
+14:19
+preços.
+14:21
+Acho que agora o desafio que tá na
+14:23
+indústria e que é, poxa, é discutido
+14:25
+todos os dias aqui no evento, deve ter
+14:27
+sido discutido a exaustão em muitas
+14:29
+rodinhas, tem três caminhos. virar uma
+14:32
+vpe do zero que dispende de tempo,
+14:36
+energia, eventualmente até algumas
+14:38
+habilidades que nem todos dominam. A
+14:41
+real é que é difícil para caramba rodar
+14:43
+no limite até quando você conseguir, sem
+14:46
+licença regulatório, acho que não é uma
+14:48
+boa ideia. Ou então continuar operando,
+14:51
+crescendo com segurança e com foco no
+14:53
+seu cliente. Essa é a oferta do MB. É
+14:56
+isso que a gente já construiu, que a
+14:58
+gente tá pronto para apoiar o mercado
+15:00
+para prover esse tipo de solução.
+15:03
+Me chama Fabrício Tot, sou VP Negócios
+15:04
+Crypto MB e aqui tá o meu contato para
+15:08
+quem quiser falar comigo sobre essa
+15:09
+solução. Muito obrigado, pessoal.
+15:20
+Obrigado, hein?
+15:26
+Eu vi que tem
+15:28
+Alô. Oi. Eu vi que tem 5co minutinhos
+15:30
+ainda aqui. Não sei se alguém tem alguma
+15:31
+pergunta, quiser falar alguma coisa.
+15:32
+Acho que temos um tempo aqui. Não tava
+15:33
+muito nos planos, mas já que eu vi 5
+15:35
+minutos aqui, vou aproveitar.
+15:41
+Acho que não. Vamos lá. Ah, tem sim.
+15:44
+Ali, ó.
+15:49
+Fabrício, eu queria saber se vocês
+15:52
+oferecem algum tipo de produto dentro do
+15:55
+WhatsApp, por exemplo, ou focando em
+15:58
+inteligência artificial, aonde o cliente
+16:00
+consegue operar através do WhatsApp?
+16:04
+Boa pergunta. A gente tem hoje pro
+16:06
+varejo, não para esse modelo, mas no
+16:08
+varejo a gente tem um um funcionário
+16:10
+novo que a gente contratou chamado Iago.
+16:13
+Numa das brincadeiras com o I que todo
+16:16
+mundo já fez. Já vi a a Iasmin por aí,
+16:18
+já vi outros caras do tipo Thaago. O
+16:20
+nosso é o Iago, que é justamente esse
+16:22
+agente de que conversa com o cliente e
+16:25
+permite que ele realize uma série de de
+16:27
+atividades, de operações conversando com
+16:29
+uma com uma IA. Ele, esse cara é muito
+16:32
+importante, principalmente no B2B, né,
+16:34
+que ele oferece o apoio pro assessor e
+16:37
+eventualmente ele faz o direcionamento
+16:39
+pro ser humano, né? Então a gente tá, a
+16:40
+gente tem uma uma disciplina muito
+16:42
+grande de A lá dentro do MB, né? Uma
+16:44
+série de iniciativas que a gente
+16:45
+construiu, que tá exposto na rua, além
+16:47
+de processos internos que são muito
+16:48
+apoiados por A, mas o que a gente
+16:49
+construiu que tá na rua, é o IAGO, que
+16:51
+bastante gente usa, principalmente no
+16:52
+Bitb.
+17:10
+Opa, e aí, Tota? E aí?
+17:11
+Beleza. Eh, eu queria que você me
+17:14
+contasse o que que o BC ainda tem para
+17:18
+soltar, se é que tem alguma coisa, o que
+17:21
+que ainda tá um pouco incerto no mercado
+17:24
+cripto referente às regulamentações do
+17:26
+Banco Central. E, bom, se não tiver
+17:28
+nada, não tem nada. Mas enfim, tem
+17:30
+alguma coisa que o mercado ainda tá na
+17:31
+expectativa de olhar de como vai ser que
+17:33
+não seja, por exemplo, o IOF, porque aí
+17:35
+é uma questão que a gente vai lá pra
+17:36
+receita e tal e aí, enfim, foge a alçada
+17:38
+do BC. Mas que que tem ainda de
+17:40
+regulamentação?
+17:41
+Cara, eu vi até algumas pessoas falando:
+17:43
+"Poxa, mais uma coisa do Banco Central,
+17:44
+mais uma". Nossa, soltou uma novidade e
+17:47
+algumas pessoas meio alarmadas falam:
+17:49
+"Meu, não, não para, cara, bem-vindos".
+17:51
+É isso.
+17:53
+Muita coisa ainda vai acontecer porque é
+17:56
+um ambiente dinâmico e o tempo todo
+17:58
+novos temas vão ser endereçados eh
+18:00
+porque a gente tem algo totalmente novo
+18:02
+sobre a supervisão do Banco Central, né?
+18:05
+Então assim, não tem nada em específico
+18:07
+que exista uma super expectativa. Nossa,
+18:09
+como é? Será que vai ser? As regras já
+18:11
+estão postas, tá? vai ser dessa forma
+18:13
+aqui, óbvio. Algumas adaptações falar,
+18:15
+poxa, dá uma clareza eventualmente sobre
+18:17
+algum ponto que que que é discutido, eh,
+18:20
+dá um pouco mais de conforto, fala:
+18:22
+"Cara, eu a gente quando você vai
+18:24
+implementar exatamente as as três, né,
+18:26
+519, 20 21, elas dão um caminho macro
+18:30
+para algumas coisas". Por exemplo, fala:
+18:31
+"Ah, você vai ter que reportar, sei lá,
+18:33
+saldos periodicamente, tá? Como? Qual o
+18:37
+período? Qual que é o estrutura do
+18:39
+arquivo que eu vou mandar? Para onde que
+18:40
+eu mando esse negócio? Então isso tudo é
+18:42
+fruto de novas orientações que o Banco
+18:44
+Central tá soltando, mas não é nada
+18:46
+exatamente novo assim, é só tipo, pô, tô
+18:49
+te esclarecendo como que você precisa
+18:51
+fazer. Então nada a gente tá esperando
+18:53
+assim, nenhuma mudança significativa ah
+18:55
+pro futuro, mas é um acompanhamento
+18:58
+diário, literalmente diário, que o Banco
+19:00
+Central pode soltar alguma coisa nova,
+19:02
+falar po, isso aqui tem que mudar, tem
+19:03
+que ser dessa forma e o prazo é esse.
+19:05
+Esse é o universo regulado. A gente já
+19:07
+encara isso no Banco Central mesmo como
+19:10
+IP regulada. A gente é uma instituição
+19:11
+de pagamentos regulada pelo Banco
+19:13
+Central. Se você for no seu banco, for
+19:15
+mandar uma TED, né, ninguém mais mandar
+19:17
+TED e procurar lá na listinha de bancos,
+19:19
+existe lá MBP e instituição de
+19:20
+pagamentos, né? Então a gente já tá
+19:22
+acostumado com isso no dia a dia. Tem um
+19:24
+time lá gigante, né, recebendo essas
+19:27
+comunicações do Banco Central.
+19:29
+Acho que tinha mais uma aqui. Ali acho
+19:32
+que dá tempo mais uma.
+19:42
+Oi, Fabrício. Na verdade, é na mesma
+19:44
+lógica dessa pergunta para entender.
+19:46
+Entendo que você tá falando do modelo
+19:48
+que vocês oferecem para as OTCs de
+19:50
+tecnologia, mas imagino que eles também
+19:53
+eh utilizem a tecnologia de
+19:56
+infraestrutura de vocês para lidar com a
+19:59
+regulação, para lidar com a parte de
+20:01
+compliance. Qual é o nível da demanda
+20:03
+que vocês estão vendo atualmente no B2B
+20:07
+para suportar, né, esses esses times e
+20:10
+como é que isso tá afetando aí a
+20:14
+estratégia do mercado Bitcoin, que eu
+20:15
+acho que bom, não é o core business de
+20:17
+vocês, a parte de oferta de compliance,
+20:20
+entendo eu, né? Me corrija, por favor,
+20:22
+se eu tiver errada, mas eh como é que tá
+20:25
+a evolução de produto nesse sentido?
+20:27
+Não te corrigindo, mas só mais
+20:29
+complementando. Não é core business,
+20:31
+porque eu acho que não é um business.
+20:33
+Exatamente, né? Eu não vou falar tipo
+20:36
+breaking news. Mercado Bitcoin criou o
+20:38
+comitê de prevenção lavas de dinheiro e
+20:40
+agora a peridade é semanal. Faz sentido
+20:43
+isso, né? Mas você viu o tamanho do
+20:44
+nosso tec regulatório, né? Só que eu
+20:46
+mostrei ali são três mais são sete
+20:49
+licenças. Para você suportar tudo isso,
+20:51
+você tem um time gigantesco trabalhando,
+20:53
+né? Então sim, é uma coisa que a gente
+20:55
+tá, tem um dia a dia de CVM, de Banco
+20:58
+Central, de Banco de Portugal também
+21:00
+para suportar tudo isso. Não é algo que
+21:01
+você falar: "Não, eu vou contratar uma
+21:03
+consultoria para aplicar e agora sou
+21:05
+regulado, pessoal, pode ir embora que tá
+21:07
+tudo certo." Não, é um um acompanhamento
+21:09
+realmente diário o tempo todo para você
+21:12
+adaptar desde sistema um layout de
+21:14
+arquivo que foi alterado, quanto a um
+21:16
+processo novo que você tenha que criar
+21:18
+ou algo que você tenha que adaptar.
+21:19
+Então assim, se você pensar como oferta,
+21:22
+sim, eu tô ofertando esse time, essa
+21:24
+infraestrutura para servir como esse
+21:27
+stack, né, como essa essa camada de de
+21:30
+compliance e segurança para que quem é
+21:33
+bom em fazer negócio, em conquistar
+21:34
+cliente e em manter esse cliente feliz e
+21:37
+engajado possa continuar fazendo isso e
+21:38
+não tenha que se preocupar com essa
+21:40
+camada que a gente oferta.
+21:42
+Acho que agora foi. Valeu, pessoal.
+21:44
+Obrigado, hein?
+

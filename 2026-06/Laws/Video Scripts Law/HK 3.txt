@@ -1,0 +1,1086 @@
+
+Search in video
+Julia Charlton's welcome speech
+0:03
+Hello, everyone. I'm delighted to be here today  to continue our discussion of cryptocurrency  
+0:09
+regulation. Today's webinar is the third of  a series of webinars I'm giving on crypto  
+0:14
+regulation with specific reference to the Hong  Kong regulatory regime for cryptocurrency. I'll  
+0:20
+be continuing with a detailed look at  Hong Kong's crypto regulatory regime,   in particular the regulatory status of  cryptocurrencies and the SFC's existing  
+0:29
+framework for licensing virtual asset exchanges  under the Securities and Futures Ordinance,  
+0:34
+where they trade at least one virtual  asset that is a security. I'll conclude  
+0:39
+with a discussion of the new licensing regime  for virtual asset exchanges under proposed   amendments to the Anti-Money Laundering and  Counter-Terrorist Financing Ordinance, the AMLO,  
+0:49
+and the Hong Kong Monetary Authority's proposals  for regulating payment-related stablecoins.
+0:56
+Firstly, let's look at the SFC's various  statements on the regulatory status of virtual  
+1:02
+assets. As far back as September 2017, when the  SFC issued its statement on Initial Coin Offerings  
+REGULATORY STATUS OF VIRTUAL ASSETS
+1:09
+ICOs, the SFC has focused on whether virtual  assets are securities within the statutory  
+1:15
+definition since this brings virtual assets  within the SFC's regulatory remit. The SFC has  
+1:22
+said that a virtual asset that has the features of  traditional security that is a share, a debenture  
+1:28
+or an interest in a collective investment scheme  will unsurprisingly be regulated as a security.  
+1:34
+The definition of securities in Schedule 1 to the  SFO is wide and it includes shares, debentures,  
+1:42
+bonds or notes of any body (incorporated or  unincorporated) government or municipal government  
+1:48
+authority or any rights, options or interests  therein; interests in a collective investment  
+1:54
+scheme; interests, rights or property, whether  in the form of an instrument or not, that are  
+2:00
+commonly known as securities and structured  products. There have been no Hong Kong court  
+2:05
+decisions on whether virtual assets are  securities. Whether a virtual asset would  
+2:10
+be considered by a Hong Kong court to be an  interest in a collective investment scheme is   unclear. The key elements of the definition of a  CIS under Schedule 1 to the SFO are that: first,  
+2:21
+it must involve an arrangement in respect of  property which is broadly defined; Secondly, the  
+2:28
+participants in the CIS should not have day-to-day  control over the management of the property, even  
+2:34
+if they have the right to be consulted or to give  directions about the management of the property;  
+2:39
+Thirdly, the property should be managed as a  whole by or on behalf of the person operating  
+2:44
+the arrangements and or the participants'  contributions and the profits or income from   which payments are made to them are pooled;  and finally, the purpose of the arrangement  
+2:54
+should be to provide participants with profits,  income or other returns from the acquisition or  
+2:59
+management of the property. There's no Hong Kong  or UK case law which would assist in determining  
+3:06
+the questions surrounding whether virtual  assets would constitute a collective investment   scheme. Nor has the SFC provided guidance  on the factors it would take into account.
+3:17
+As to the regulatory consequences of a  virtual asset being a security, first,  
+REGULATORY CONSEQUENCES OF VIRTUAL ASSETS BEING SECURITIES
+3:22
+a public offering of a virtual asset that is a  share or debenture will require compliance with  
+3:27
+the prospectus regime under the Companies (Winding  up and Miscellaneous Provisions) Ordinance and  
+3:32
+the restrictions on public offering without SFC  authorisation under section 103(1) of the SFO.  
+3:39
+However, C(WUMP)O’s prospectus regime applies  only to offerings by a company of its shares  
+3:46
+or debentures. On the face of it, the prospectus  regime would not apply to the shares or debentures  
+3:52
+of decentralized autonomous organisations,  which are often the issuers of tokens.  
+3:58
+Section 103 of the SFO applies simply to  securities, and so invitations to the Hong  
+4:04
+Kong public to acquire virtual assets that are  securities will need SFC authorisation in the  
+4:10
+absence of an applicable exemption irrespective  of the corporate status of the issuer.  
+4:16
+A public offer of virtual assets which  are interests in a collective investment   scheme will need to be authorised by the SFC  which requires compliance with the stringent  
+4:28
+requirements of the SFC's Code on Unit Trusts  and Mutual Funds. People engaging in regulated  
+4:34
+activities in virtual assets that are securities,  for example, dealing in or advising on securities,  
+4:40
+or managing a fund that invests in securities,  need to be licensed or registered by the SFC.
+4:48
+The only SFC enforcement action to date involved  it halting Black Cell Technology Ltd's ICO in  
+4:55
+Hong Kong in 2018. However, this was a fairly  clear-cut case of an offering in breach of Hong  
+5:02
+Kong securities laws. The tokens were exchangeable  for shares in the ICO issuer - making the offer  
+5:08
+tantamount to a share offering in Hong  Kong in breach of section 103 of the SFO.  
+5:14
+The SFC's press announcement, however, referred  to the ICO potentially amounting to a collective  
+5:20
+investment scheme and to the potential breach  of SFO licensing requirements. The SFC did not,  
+5:27
+however, elaborate on why it considered the ICO to  constitute a collective investment scheme. In any  
+5:33
+event, ICOs have virtually ceased in Hong Kong,  as and are less popular in other jurisdictions.  
+5:43
+In July 2021, the SFC issued a warning statement  about Binance, which is not licensed in Hong Kong,  
+5:50
+offering trading in stock tokens to Hong Kong  investors. The SFC describes stock tokens as  
+5:57
+virtual assets backed by depositary portfolios of  underlying overseas listed stocks where the stock  
+6:04
+tokens price closely tracks the performance of the  underlying stocks. Since they can be de-nominated  
+6:10
+in fractional units, the SFC views them as  a way for investors to buy fractional rather  
+6:16
+than entire shares. The SFC considered that stock  tokens are likely to be securities under the SFO,  
+6:23
+requiring any person intending to market and  or distribute them, whether in Hong Kong or  
+6:29
+targeting Hong Kong investors, to be licensed by  the SFC unless an applicable exemption applies.
+SFC STATEMENT ON SECURITY TOKEN OFFERINGS – 28 MARCH 2019
+6:38
+The SFC's Statement on Security Token offerings  issued in March 2019, describes securities  
+6:44
+tokens as digital representations  of ownership of assets, for example,  
+6:50
+gold or real estate or economic rights,  for example, a share of profits or revenue,   using blockchain technology. Securities tokens  clearly encompass digital versions of traditional  
+7:02
+securities such as shares, debentures and  interests in investment funds. However, the SFC  
+7:08
+did not elaborate on why digital representations  of assets such as gold or real estate should be  
+7:15
+securities tokens. It may be alluding to what is  essentially a tokenized real estate or gold fund,  
+7:20
+where money raised in a token offering is invested  in gold or real estate on the understanding that  
+7:26
+token holders will receive a share of the  future proceeds of a sale of the gold or  
+7:31
+real estate when sold at a profit. In that case,  the tokens would likely constitute securities  
+7:38
+as interests in a collective investment scheme.  Alternatively, the SFC might be suggesting that  
+7:45
+tokens whose value or price is linked to the value  or price of an underlying asset such as gold or  
+7:51
+real estate, would be considered to be regulated  investment agreements or structured products.  
+7:58
+The SFC Statement on Security Token  Offerings sets out the SFC's requirements   for parties involved in offering securities  tokens. First, any person who markets or  
+8:09
+distributes securities tokens in Hong Kong or  targeting Hong Kong investors must be licensed  
+8:15
+or registered for regulated activity,  that's type 1 (dealing in securities).
+8:22
+Secondly, licensed intermediaries should  only offer securities tokens to professional   investors. An offer of security tokens only  to professional investors has the advantage  
+CONDUCT REQUIREMENTS FOR LICENSED INTERMEDIARIES
+8:33
+of being exempt from the requirement for SFC  authorization of any advertisement or invitation  
+8:38
+issued in relation to the offer under Section 103  of the SFO. Where STO tokens constitute interests  
+8:46
+in a collective investment scheme, restricting  the offer to professional investors will mean   that the requirements of the SFC's Code on  Unit Trusts and Mutual Funds will not apply.  
+8:58
+Intermediaries which market and distribute  securities tokens are required to comply with the  
+9:03
+SFC's Code of Conduct, including the obligation  under paragraph 5.2 to ensure that customer  
+9:11
+recommendations and solicitations in relation  to security tokens are reasonably suitable for  
+9:17
+customers based on the information about customers  of which intermediaries should be aware through  
+9:22
+the exercise of due diligence. The SFC's statement  on Security Token Offerings noted that where  
+9:29
+licensed intermediaries distribute security  tokens, they need to conduct due diligence,   which should cover, among other things,  the background and financial soundness of  
+9:38
+the management, development team and the token  issuer and of the rights attached to the assets   backing the securities tokens. Intermediaries  are required to review all materials published  
+9:49
+in relation to the STO, including the white  paper and relevant marketing materials.
+9:55
+The SFC regards securities tokens as  complex products under paragraph 5.5  
+10:00
+of the Code of Conduct and under Chapter 6 of  the Guidelines on Distribution and Advisory  
+10:06
+Platforms. Both set out additional investor  protection requirements for complex products.  
+10:15
+The Statement on Security Token Offerings also  requires licensed intermediaries to provide  
+10:20
+clients with information relating to STOs  to enable them to make informed investment  
+10:25
+decisions. This must include warnings of the risks  of investing in virtual assets. Intermediaries  
+10:32
+must also ensure that information given to clients  is accurate and not misleading. It also notes  
+10:38
+that intermediaries should consult with the SFC  before engaging in activities relating to STOs.
+10:46
+The SFC's regulatory approach to  security token offerings is that   the Code of Conduct's requirements are  aimed at ensuring investor protection,  
+10:53
+including the obligation to ensure the suitability  of investment products for individual customers,  
+11:01
+and this is that these obligations apply  only where a traditional intermediary is   involved. The Code of Conduct doesn't apply  to issuers of securities. However, traditional  
+11:12
+securities intermediaries such as brokers, may  not necessarily be involved in token offerings.  
+11:18
+Issuers therefore have no obligation under the SFC  Code of Conduct to ensure the suitability of their  
+11:25
+tokens for prospective investors or to disclose  the risks of investing in them under the Code  
+11:30
+of Conduct. However, the general law obligations  under contract, tort and criminal law in terms of  
+11:36
+areas such as misrepresentation and duty of  care, would of course apply where relevant.
+11:42
+As regards nonfungible tokens or NFTs, the SFC  issued its first statement regarding the risks  
+11:48
+of investing in NFTs in June 2022. According  to the SFC statement, NFTs which are genuine  
+NON-FUNGIBLE TOKEN (NFT) REGULATION
+11:56
+digital representations of a collectile,  for example, a digital representation of a  
+12:01
+unique copy of an underlying asset such as  a digital image, artwork, music or video,   are currently unregulated in Hong Kong. However,  if an NFT crosses the boundary between being a  
+12:13
+collectible and a financial asset, that is, if the  NFT is structured in a form similar to interests  
+12:18
+in a collective investment scheme or other  security, the SFC regulatory regime would apply.  
+12:25
+An example of a regulated NFT would be one  which represents a fractionalized or part  
+12:31
+interests in a physical artwork, which relies on  an arranger to acquire the artwork and manage it  
+12:37
+and to distribute the profits of its future sale  to NFT holders. An interesting case is, a Hong  
+12:43
+Kong NFT project, which is reportedly proposing  to issue shares and virtual land in the metaverse.  
+12:50
+Each NFT in the form of a "key" would represent  a percentage ownership of the project's total  
+12:56
+portfolio of virtual land, which the issuers will  acquire from Metaverse platforms The Sandbox and  
+13:03
+Decentraland. The issuer will reportedly trade  virtual land, rent it to tenants and distribute  
+13:10
+the capital gains back to NFT holders. The  issuer says that the NFTs are not a security,  
+13:16
+although the right to receive capital gains  potentially raises questions as to the NFT status  
+13:23
+as interests in a collective investment scheme  if the other elements of the definition are met.
+13:29
+Turning now to the regulation of crypto  exchanges, the SFC introduced a regulatory  
+SFC REGULATION OF CRYPTO EXCHANGES
+13:34
+framework for the regulation of centralized crypto  exchanges under its Position Paper on Virtual  
+13:40
+Asset Trading Platforms in November 2019. This  developed and replaced the conceptual framework  
+13:47
+laid out in the SFC's November 2018 statement.  At least one digital asset that is a security.  
+13:55
+The difficulty for the SFC in responding to  the risks posed by crypto exchanges is that  
+14:01
+its regulatory authority under the SFO extends  to entities' activities in securities or futures  
+14:07
+contracts. Most cryptocurrencies, however, fall  outside these definitions and are beyond the SFC's  
+14:13
+regulatory remit. The SFC's November 2019 Position  paper on virtual asset trading platforms therefore  
+14:22
+established a licensing regime for centralized  trading platforms that trade at least one virtual  
+14:27
+asset that is a security under the SFO. If  a platform trades at least one virtual asset  
+14:34
+that is a security, the SFC regulatory framework  then applies to all the platforms operations, even  
+14:40
+where the majority of virtual assets traded are  not securities. The licensing regime applies only  
+14:46
+to centralized virtual asset trading platforms  operating in Hong Kong - that is trading platforms  
+14:52
+that provide trading, clearing and settlement  services for virtual assets and have control   of clients' assets. The SFC does not license  platforms which provide peer-to-peer trading  
+15:04
+in virtual assets between clients where the trade  takes place off-exchange and the clients retain  
+15:09
+custody of their virtual assets. Virtual asset  trading platforms that are eligible for licensing  
+15:17
+are required to be licensed for type 1 (dealing  in securities) and type 7 (providing automated  
+15:22
+trading services). The regulatory requirements for  virtual asset platform operators draw on the SFC's  
+15:29
+requirements for traditional securities brokers  and automated service providers, but are adapted  
+15:35
+to deal with virtual assets. Virtual asset trading  platforms licensed under the framework must comply  
+15:42
+with conditions imposed on their license which  include a condition that they must comply with   the SFC's standard terms and conditions for  virtual asset trading platform operators.  
+15:53
+Breaches of the licensing conditions will  constitute misconduct under part IX of the  
+15:58
+SFO and may also reflect adversely  on the fitness and properness of the   platform operator to remain licensed and  result in disciplinary action by the SFC.
+16:09
+Looking at the licensing conditions the SFC  imposes on licensed operators of virtual asset  
+16:15
+exchanges. First, licensed platforms can only  provide services to professional investors as  
+LICENSING CONDITIONS FOR OPERATORS OF VIRTUAL ASSET TRADING PLATFORMS
+16:21
+defined in the SFO, including high net worth  investors under the Securities and Futures   (Professional Investor) rules. The many Hong  Kong platforms which provide services to retail  
+16:32
+investors are therefore ineligible for licensing.  Secondly, the platform operator must obtain the  
+16:39
+SFC's approval before: introducing or offering  a new or incidental service or activity; making  
+16:46
+any change to an existing service or activity;  or adding any product to its trading platform.  
+16:52
+Thirdly, licensed platform operators  are required to provide the SFC with   monthly reports on their business  activities within two weeks after  
+17:01
+the end of each calendar month. They must  also engage an independent professional  
+17:06
+firm to conduct an annual review of their  activities and prepare a report confirming   compliance with the licensing conditions and  all relevant legal and regulatory requirements.
+17:16
+As I just said, it is a licensing condition  that the licensed platform operator must comply  
+STANDARD TERMS AND CONDITIONS FOR VIRTUAL ASSET TRADING PLATFORM OPERATORS
+17:22
+with the terms and conditions for virtual asset  trading platform operators, which cover the major  
+17:28
+investor protection concerns, including the safe  custody of assets, know-your-client requirements,  
+17:35
+anti-money laundering, market manipulation,  risk management and cyber security.  
+17:41
+Licensed platform operators must hold client  assets on trust to provide safekeeping of client  
+17:48
+cryptocurrency and ensure that they are properly  segregated from those of the platform operator.  
+17:54
+In particular, client virtual assets must  be held through a company which is a Hong   Kong incorporated wholly-owned subsidiary of the  licensed platform operator, which is an associated  
+18:04
+entity under the SFO and holds a trust or  company service provider licence under the AMLO.  
+18:13
+Licensed platform operators and their associated  entities must store 98% of client virtual assets  
+18:20
+in cold wallets, that's where private keys  are kept offline and limit their holdings of  
+18:26
+client virtual assets in hot wallets, that's  where private keys are kept online, rendering  
+18:32
+them vulnerable to external threats to no more  than 2%. Licensed platform operators must also  
+18:39
+minimize transactions out of the cold wallet in  which a majority of client cryptocurrency is held.  
+18:46
+Platform operators and associated entities are  also required to have adequate processes in place  
+18:52
+for handling requests for deposits and withdrawals  of client virtual assets to guard against loss  
+18:58
+arising from theft, fraud and other dishonest  acts, professional misconduct or omissions. The  
+19:05
+platform operator and its associated entity must  also set out in writing details of the mechanism  
+19:11
+for transferring cryptocurrency between hot, cold  and other storage and the procedures for dealing  
+19:17
+with events such as hard forks and airdrops  from an operational and technical perspective.  
+19:26
+Licensed platform operators must have  an insurance policy covering the risks   associated with the custody of cryptocurrency  held in both hot storage (full coverage) and  
+19:36
+cold storage (a substantial coverage) which is  in effect at all times. The licensing conditions  
+19:43
+expect a licensed platform operator and its  associated entities to set up and implement  
+19:50
+strong internal controls and governance  procedures for private key management to  
+19:55
+ensure all cryptographic seeds and keys are  securely generated, stored and backed up.
+20:04
+Licensed platform operators are required  to take all reasonable steps to establish  
+20:09
+the full and true identity of each of their  clients and each client's financial situation,  
+20:16
+investment experience and investment objectives.  Except for institutional and qualified corporate  
+20:22
+professional investors, as defined in the SFC  Code of Conduct, before providing any services to  
+20:28
+a client, a platform operator must ensure that the  client has sufficient knowledge of virtual assets,  
+20:34
+including knowledge of the risks associated with  them. Where a client does not have that knowledge,  
+20:40
+services can only be provided to a client if  the platform operator provides training to the  
+20:46
+client and enquires into the client's personal  circumstances to ensure that its services are  
+20:52
+suitable for the client. Platform operators  are also required to set a trading limit,  
+20:57
+position limit or both by reference to the  client's financial situation to ensure that  
+21:03
+the client has sufficient net worth to assume  the risks and bear any potential trading losses.
+21:12
+Licensed platform operators are required to  establish and implement adequate and appropriate  
+21:17
+AML/CFT policies, procedures and controls to  counter the money laundering and terrorist  
+21:23
+financing risks associated with cryptocurrencies.  Platform operators must also regularly review the  
+21:30
+effectiveness of their AML/CFT systems  and effect appropriate improvements,  
+21:35
+taking into account any new SFC guidance and  updates of the FATF recommendations applicable  
+21:42
+to cryptocurrency-related activities,  including Recommendation 15 and its  
+21:47
+related interpretative note. Cryptocurrency  tracking tools can also be used to trace  
+21:53
+transaction histories against a database of  known addresses connected to criminal activities.
+22:00
+Licensed platform operators are required to  establish and implement written policies and  
+22:06
+controls for the proper surveillance of activities  on their platforms in order to identify,  
+22:11
+prevent and report any market manipulation  or abusive trading activities. They must also  
+22:17
+adopt an effective market surveillance system and  give the SFC access to this system to perform its  
+22:24
+own surveillance. Licensed platform operators  are required to exercise due skill, care and  
+22:31
+diligence in selecting and appointing auditors to  audit their financial statements and should take  
+22:37
+into account their experience and track record  of auditing virtual asset-related business.
+22:45
+Licensed trading platforms are required to have  a risk management framework which enables them  
+22:51
+to identify, measure, monitor and manage the full  range of risks arising from their businesses and  
+22:57
+operations. Clients should pre-fund their own  accounts as licensed platforms are prohibited  
+23:03
+from providing any financial accommodation  for clients to acquire cryptocurrencies.  
+23:08
+Licensed platforms are prohibited from engaging  in proprietary trading or market-making activities  
+23:14
+on a proprietary basis. If a platform  plans to use market-making services to  
+23:20
+enhance liquidity in its market, this must  be done at arm's length and be provided by  
+23:25
+an independent external party using normal user  access channels. A licensed platform operator  
+23:32
+must also have a policy governing employees  dealing in cryptocurrencies to eliminate,  
+23:38
+avoid, manage or disclose actual  or potential conflicts of interest. The terms and conditions prohibit licensed  platform operators from offering, trading or  
+23:48
+dealing in crypto futures contracts or related  derivatives. A licensed platform operator also  
+23:54
+needs to establish and enforce strict criteria  for including virtual assets on its platform and  
+24:00
+withdrawing them from it. The platform operator  is obliged to conduct reasonable due diligence  
+24:06
+prior to including a cryptocurrency on its  platform. The due diligence should cover a  
+24:12
+number of specific areas, including but not  limited to the background of the management  
+24:18
+or development team of the issuer; the regulatory  status of the cryptocurrency in each jurisdiction  
+24:23
+in which the platform operator provides trading  services which include whether the cryptocurrency  
+24:29
+can be offered and traded under the SFO;  the marketing materials, which should not be   misleading; and the cryptocurrency's liquidity,  market capitalization and average daily trading  
+24:40
+volume. The licensing conditions also specify  that in relation to cryptocurrencies, which are  
+24:46
+securities under the SFO, the licensed platform  operator should only include those that are  
+24:53
+asset-backed; approved by or registered with  regulators in comparable jurisdictions as  
+24:59
+agreed by the SFC from time to time; and have a  track record of 12 months or more since issue.  
+25:05
+Licensed platform operators are also required to  submit the SFC a legal opinion for each virtual  
+25:11
+asset that will be made available in Hong Kong  stating whether the virtual asset is a security   under the SFO and the implications  of that for the platform operator.
+25:24
+The SFC describes the licensing regime under  the SFO as an opt in regime because crypto  
+SFC LICENSED VIRTUAL ASSET TRADING PLATFORM OPERATORS
+25:30
+exchanges can choose to remain unregulated at  the moment by not trading virtual assets that  
+25:36
+are securities. To date, the SFC has only  licensed one virtual asset trading platform  
+25:43
+under the SFO - OSL Digital Securities Limited,  although in April 2022, HashKey Group reportedly  
+25:50
+secured an approval-in-principle from the SFC  for its application for Hash Blockchain Ltd to  
+25:56
+operate a virtual asset trading platform. One  of the key difficulties in meeting the criteria  
+26:02
+for licensing is the requirement to trade at  least one virtual asset that is a security.  
+26:07
+Part of the issue is that there have not been  many offerings of tokenized shares of the kind  
+26:13
+seen in the US and some European countries.  In July 2022, OSL Digital issued a press  
+26:20
+release to the effect that it had become the first  SFC-licensed intermediary to distribute security  
+26:25
+tokens in a privately offered STO. The security  tokens represent units of a Bitcoin-linked US  
+26:33
+dollar interest-bearing bond. The first security  token traded on OSL's platform was the BCAP Token  
+26:41
+issued by Blockchain Capital TokenHub Pte, which  holds interests in Blockchain Capital III Digital  
+26:48
+Liquid Venture Fund LP. According to OSL, the BCAP  Tokens provide indirect exposure to the venture  
+26:57
+capital fund through this structure. Another  issue is the requirement that virtual assets,  
+27:03
+which are securities that are traded  on the platform, must be asset-backed;  
+27:08
+be approved or registered with regulators in  comparable jurisdictions, as determined by the  
+27:13
+SFC and; have been issued more than 12 months  previously. The SFC has provided no formal  
+27:22
+guidance on which virtual assets will be regarded  as asset-backed. Presumably this would include  
+27:28
+physically backed stable tokens such as Tether,  although whether Tether is backed one-for-one by  
+27:34
+US dollars has been a matter of debate. Further,  the SFC has not published a list of jurisdictions  
+27:41
+it regards as comparable. The requirement for  the virtual assets to have been issued more than  
+27:48
+12 months prior to their listing on the trading  platform makes it difficult for most ICO tokens.  
+27:54
+As a result, despite many of the world's  largest crypto exchanges operating in Hong Kong,  
+28:00
+they remain unregulated since they're outside  the scope of the SFC's current licensing  
+28:05
+regime as they only trade cryptocurrencies  which are not securities under the SFO.
+28:12
+However, a new licensing regime for  virtual asset service providers (VASPs)  
+NEW LICENSING REGIME FOR VIRTUAL ASSET EXCHANGES UNDER THE ANTI-MONEY
+28:17
+is due to come into effect on the 1st of  March 2023 in Hong Kong under proposed  
+28:24
+amendments to the Anti-Money Laundering and  Counter-Terrorist Financing Ordinance, the AMLO,  
+28:29
+which were introduced to Hong Kong's Legco on  the 6th of July 2022. The proposed amendments  
+28:37
+are included in the Anti-Money Laundering and  Counter-Terrorist Financing (Amendment )Bill 2022.  
+28:45
+If passed, the bill will implement the Financial  Action Task Force requirements that virtual  
+28:51
+asset service providers are subject to the same  anti-money laundering and counter-financing of  
+28:58
+terrorism obligations as financial institutions  and to a statutory licensing or registration  
+29:03
+regime. They will also implement the  travel rule under FATF recommendation.  
+29:10
+The introduction of the amendments followed a  public consultation by the FSTB which concluded  
+29:16
+in May 2021. The amendment bill sets out certain  key provisions of the new licensing regime,  
+29:24
+while the detailed regulatory requirements will  be set up by the SFC following a further public  
+29:29
+consultation conducted after the enactment of  the amended AMLO and before its implementation.  
+29:36
+The new licensing regime will apply to operators  of trading platforms trading any type of virtual  
+29:42
+assets which are not securities (subject to  certain limited exceptions). Once the new  
+29:48
+regime is implemented, all centralized virtual  asset trading platforms will need to be licensed  
+29:53
+by the SFC, either under the existing opt in  regime under the SFO or under the AMLO regime.
+30:01
+The new licensing regime will require any person  carrying on a business of providing a virtual  
+30:08
+asset service in Hong Kong or holding themselves  out as doing so to be licensed as a VASP by  
+VASP LICENSING REQUIREMENT
+30:14
+the SFC. The only activity currently defined as  providing a VA service is operating a VA exchange,  
+30:22
+although the Secretary for Financial Services  and the Treasury will be able to amend that  
+30:27
+definition by notice published in the Gazette.  Any person operating a VA exchange in Hong Kong  
+30:34
+will therefore need to apply for a license or  cease operations in Hong Kong. The Amendment  
+30:40
+Bill contains transitional provisions  for operators of VA exchanges carrying  
+30:45
+on business in Hong Kong before the 1st of  March 2023, which I'll talk about in a moment.
+30:52
+Operating a VA exchange will be defined as  providing services through means of electronic  
+OPERATING A VA EXCHANGE
+30:58
+facilities where: offers to sell or purchase  virtual assets are regularly made or accepted  
+31:05
+in a way that forms or results in a binding  transaction; persons are regularly introduced or  
+31:11
+identified to others so that they can negotiate or  conclude or with the reasonable expectation that  
+31:18
+they will negotiate or conclude sales or purchases  of virtual assets in a way that forms or results  
+31:25
+in a binding transaction; and where client money  or client virtual assets comes into the direct or  
+31:33
+indirect possession of the person providing  the service. The FSTB said in its May 2021  
+31:39
+Consultation Conclusions that the new licensing  regime would not cover peer-to-peer platforms,  
+31:46
+that is platforms providing a forum where  buyers and sellers of virtual assets can  
+31:51
+post bids and offers, with or without automatic  matching mechanisms, provided that the actual  
+31:57
+transaction is conducted off-exchange and the  exchange does not come into possession of any  
+32:02
+client money or virtual assets. Operators of  peer-to-peer exchanges will therefore need  
+32:08
+to ensure that their Hong Kong operations do not  bring them within the definition of a VA exchange.
+32:15
+Virtual assets will be broadly defined as a  cryptographically secured digital representation  
+VIRTUAL ASSETS DEFINITION
+32:21
+of value that: is expressed as a unit of  account or a store of economic value; either:  
+32:28
+is used or intended to be used as a medium of  exchange accepted by the public for payment  
+32:33
+of goods or services; for the discharge of a  debt and/or for investment; or provides rights,  
+32:40
+eligibility or access to vote on the management,  administration or governance of the affairs in  
+32:46
+connection with, or to vote on any change of  the terms of any arrangement applicable to,  
+32:52
+any cryptographically secured digital  representation of value; and can be transferred,  
+32:58
+stored or traded electronically. This definition  would include Bitcoin, altcoins, and, according  
+33:04
+to the FSTB Consultation Conclusions, stablecoins,  irrespective of the form of the underlying assets.  
+33:11
+Governance tokens are also potentially within the  scope of this definition under paragraph (ii)(b).
+33:18
+The definition does not cover digital  representations of fiat currencies,   central bank digital currencies, financial assets  already regulated under the SFO such as securities  
+33:30
+and futures contracts, stored value facilities  which are separately regulated under the  
+33:35
+Payment Systems and Stored Values Facilities  Ordinance and "limited purpose digital tokens"  
+33:42
+which include non-transferable,  non-exchangeable and non-fungible   closed-loop, limited purpose items, such as  air miles, credit card rewards, gift cards,  
+33:52
+customer loyalty programs and gaming coins. The  FSTB has not indicated whether or not nonfungible  
+34:01
+tokens NFTs would be within the definition.  Given the rapid evolution of virtual assets,  
+34:08
+the amended AMLO will empower the SFC to prescribe  characteristics that bring a crypto asset within  
+34:14
+or excluded from the definition of a virtual  asset by publication of notice in the Gazette.  
+34:20
+The Secretary for Financial Services and the  Treasury will also be able to specify in the  
+34:26
+Gazette that a particular crypto asset or category  of crypto assets is or is not a virtual asset.
+34:34
+Existing virtual asset exchanges operating  in Hong Kong immediately before the 1st of  
+34:39
+March 2023 will be able to continue to operate  without a VASP license for up to 12 months,  
+TRANSITIONAL ARRANGEMENTS FOR EXISTING VA EXCHANGES
+34:46
+that's up to the 29th of February 2024. If they  want to continue operation after February 2024,  
+34:53
+they will have to apply to the SFC for a  VASP license. Provided that an existing  
+34:59
+VA exchange submits its license application to  the SFC on or before the 30th of November 2023,  
+35:06
+the VA exchange will be able to continue to  operate after the 29th of February 2024 under  
+35:13
+a deemed license if its license application  is still pending until the earlier of:  
+35:19
+the SFC grant or refusal to grant a license;  and withdrawal of the license application.  
+35:25
+To rely on this provision, the VA exchange's  license application must confirm that it has been  
+35:32
+providing a VA service in Hong Kong immediately  before the 1st of March 2023; and that with effect  
+35:38
+from the 1st of March 2024, it will comply and  will have arrangements in place to ensure its  
+35:45
+compliance with the regulatory requirements  applicable to licensed VASPs. VA exchanges  
+35:51
+considering entering the Hong Kong market should  consider doing so as soon as possible in order to  
+35:57
+get the benefit of these transitional provisions.  If an existing VA exchange withdraws its license  
+36:03
+application or is refused a VASP license, it will  have three months to close down its operations  
+36:09
+in Hong Kong. During the closing-down period,  a VA exchange's activities must have the sole  
+36:15
+purpose of closing down the VA business. A VA  exchange can apply to the SFC for an extension  
+36:21
+of the closing-down period. The application must  be made in writing within the closing-down period.  
+36:28
+The amended AMLO will include similar transitional  provisions for individuals who provide VA services  
+36:35
+on behalf of a VA exchange operating in Hong  Kong immediately before the 1st of March 2023.  
+36:42
+The SFC will be able to issue a notice to any  license applicant it considers unsuitable for  
+36:48
+licensing, informing them that they  will not have deemed licensed status.
+36:56
+Hong Kong incorporated companies which have  a permanent place of business in Hong Kong   and overseas companies which are registered  under the Hong Kong Companies Ordinance (Cap.  
+VASP LICENSING REQUIREMENTS
+37:05
+622) will be eligible to be licensed as VASPs.  Businesses without a separate legal personality  
+37:12
+such as partnerships and sole traders,  individuals and overseas companies that   are not registered in Hong Kong will not be  able to obtain a VASP license in Hong Kong.  
+37:24
+VASP licensing applicants will be required to  appoint at least two responsible officers who  
+37:29
+will be generally responsible for overseeing  the operation of the licensed VASP and ensuring  
+37:36
+compliance with the AML/CFT and other  regulatory requirements. The requirements  
+37:42
+for the responsible officers of the VASPs mirror  those for the responsible officers of licensed  
+37:47
+corporations under the SFO and require that:  at least one responsible officer must be an  
+37:53
+executive director of the VASP; if the VASP has  more than one executive director, they must all  
+38:00
+be appointed as responsible officers;  at least one responsible officer must   be ordinarily resident in Hong Kong; and  at least one responsible officer must be  
+38:10
+available at all times to supervise the business  of the VA service. Individuals who will provide  
+38:17
+VA services on behalf of a VASP, including  those who will be its responsible officers,   will need to be approved by the SFC as licensed  representatives accredited to the VASP.
+38:28
+An applicant for a VASP license, its  responsible officers, licensed representatives,  
+38:34
+directors and ultimate owners will be  required to satisfy a fit and proper test.  
+38:39
+Ultimate owner is defined to include any  individual who owns or controls directly  
+38:45
+or indirectly, more than 25% of the issued  share capital of the VASP; controls directly or  
+38:51
+indirectly, more than 25% of the voting rights at  its general meetings; or controls its management.  
+38:58
+The facts, which the SFC will take into  consideration in determining whether a person is  
+39:04
+fit and proper are modelled on the fit and proper  requirements for licensed corporations, their  
+39:09
+responsible officers and licensed representatives  under the SFO. They include: the person's  
+39:15
+financial status or solvency, their educational or  other qualifications and experience; evidence of  
+39:22
+their competence, honesty and financial integrity;  their conviction in Hong Kong or elsewhere for  
+39:28
+any money laundering or terrorist financing  offence or other offence involving fraudulent,   corrupt or dishonest conduct; and failure to  comply with the AML/CFT obligations or other  
+39:39
+obligations of licensed VASPs. Applicants for a  VASP license will have to seek the SFC's approval  
+39:47
+for the premises to be used for keeping records or  documents required to be kept under the AMLO. The  
+39:54
+premises must be non-domestic premises suitable  for storing relevant documents and records.  
+40:01
+VASP licences granted by the SFC will be  open-ended, that is, they will continue   unless revoked by the SFC, for example, because  of misconduct or the VASP ceasing operations.
+40:14
+Licensed VASPs will be subject to the AML  and CFT requirements of the AMLO, including  
+OBLIGATIONS OF LICENSED VASPs
+40:20
+the customer due diligence and recordkeeping  requirements set out in schedule 2 of the AMLO.  
+40:27
+In the case of non-compliance by VASP with  the statutory AML and CFT obligations,  
+40:32
+both the VASP and its responsible officers will  commit an offence carrying maximum penalties  
+40:39
+of a 1 million Hong Kong dollar fine and two  years imprisonment or seven years imprisonment   if the non-compliance is committed with intent to  defraud. Licensed VASPs will have to comply with a  
+40:50
+stringent set of requirements which the SFC will  impose as licence conditions. The matters that  
+40:56
+may be covered by licence conditions are broad in  scope and include the VASP's: financial resources;  
+41:02
+knowledge and experience; risk management policies  and procedures; management of client assets;  
+41:07
+virtual asset listing and trading policies;  financial reporting and disclosure;  
+41:13
+prevention of market manipulation and abusive  activities and avoidance of conflicts of interest.
+41:20
+Licensed VASPs will only be  allowed to provide services to   professional investors, at least during  the initial stage of the licensing regime.  
+41:29
+This restriction will not be included in the  legislation, but will be imposed as a licensing  
+41:34
+condition which will make it easier to remove in  the future. The FSTB and SFC have said that they  
+41:41
+will monitor the market and review the position  regarding retail investors as the market matures.  
+41:48
+Any person who proposes to become an ultimate  owner of a licensed VASP must be approved in  
+41:53
+writing by the SFC. The SFC will need to be  satisfied that the VASP will continue to be  
+41:59
+fit and proper if the ultimate owner  is approved. In granting its approval,   the SFC may impose conditions on the  licensed VASP or the ultimate owner.  
+42:10
+A person who becomes the ultimate owner of a VASP  without the SFC's approval, without reasonable  
+42:15
+excuse, will commit an offence for which the  maximum penalty is a fine of 1 million HKD, two  
+42:21
+years imprisonment and a further fine of 5,000 HKD  per day, for every day that the offence continues.
+42:30
+A licensed VASP will be required to submit  an annual return and pay an annual fee to the  
+42:35
+SFC within one month of each anniversary of the  date of the grant of its licence. Licensed VASPs  
+42:43
+and their associated entities, that's their Hong  Kong incorporated wholly owned subsidiaries that   receive or hold client assets will be required to  appoint an auditor within one month of the grant  
+42:54
+of the VASP license and file audited financial  statements with the SFC within four months of the  
+43:00
+end of their financial year. The SFC will need  to be notified of various matters, including:  
+43:07
+any change in any information provided by  the licensed VASP or its ultimate owner;  
+43:12
+an intention to cease business as a VA service  provider; A change in the address at which a  
+43:18
+VA service is provided; a change in the VASP's  directors; and auditor of a licensed VASP or  
+43:24
+an associated entity ceasing to act and a licensed  representative ceasing to act for a licensed VASP.
+43:35
+The amended AMLO will include various offences  punishable by fines and/or imprisonment,  
+43:41
+which are aimed at enhancing investor protection.   It will be an offence to carry on a business of  providing a VA service in Hong Kong or to hold  
+43:51
+oneself out as doing so without a licence. It will  also be an offence for a person to actively market  
+43:57
+a VA service that provides outside Hong Kong  to the Hong Kong public without a VASP licence.  
+44:03
+These offences will carry maximum penalties  of a Hong Kong dollar 5 million fine and seven  
+44:09
+years imprisonment and a daily fine of 100,000  HKD for each day that the offence continues.  
+44:16
+It will be an offence for an unlicensed person  to issue or possess for the purpose of issue,  
+44:22
+any advertisement which holds a  person out as prepared to provide a   VA service. The offence carries sections of  a $50,000 fine and six months imprisonment.
+44:33
+Making a fraudulent or reckless misrepresentation  to induce an acquisition, disposal, subscription  
+44:41
+for or underwriting of any virtual assets  will be an offence whether the transaction   takes place on a licensed VA exchange  or not. The offence will carry maximum  
+44:50
+penalties of a 1 million HKD fine and seven years  imprisonment. A person will commit an offence if  
+45:00
+in a transaction involving virtual assets the  person employs any device, scheme or artifice with  
+45:06
+intent to defraud or deceive; or engages in any  fraudulent or deceptive act, practice or business.  
+45:13
+Maximum penalties for this offence are a  $10 million fine and ten years imprisonment.
+45:20
+The SFC will have broad supervisory powers  to enforce the AML/CTF regulations and other  
+SFC POWERS RE. LICENSED VA EXCHANGES
+45:27
+regulatory requirements under the revised AMLO.  It will be able to enter the business premises  
+45:33
+of licensed VASPs and their associated entities to  conduct routine inspections; request production of  
+45:40
+documents and records; and investigate breaches.  Similar to the SFC's power to sanction licensed  
+45:47
+persons under sections 194 and 196 of the SFO,  the SFC will be able to sanction a licensed  
+45:53
+person who breaches any provision of the AMLO  or who it considers not to be fit and proper to  
+46:02
+remain licensed. Possible sanctions include a  reprimand, and order to take remedial action,  
+46:08
+a fine for up to the higher of $10 million and  three times the profit gained or loss avoided,  
+46:15
+and suspension or revocation of a person's  licence. The SFC will also be able to appoint  
+46:20
+an auditor to conduct an investigation into the  affairs of a licensed VASP and its associated  
+46:27
+entities, where it has reason to believe that  there has been a breach of the AMLO or any code  
+46:32
+or guideline published under it. In addition,  the SFC will be given intervention powers  
+46:39
+to impose restrictions and prohibitions on the  operations of a licensed VASP and its associated  
+46:45
+entities in certain circumstances, for example,  where it's necessary to protect client assets.
+46:51
+A new Section 13A will be added  to the schedule 2 to the AMLO,  
+46:57
+which will require financial institutions which  will include licensed VASPs to obtain and pass on  
+IMPLEMENTATION OF FATF TRAVEL RULE REQUIREMENT
+47:03
+information in relation to transfers of virtual  assets. The originating financial institution  
+47:09
+will be required to obtain and record identifying  information for the originator and the recipient,  
+47:15
+and to submit the information to the beneficiary  institution. A financial institution that acts  
+47:22
+as an intermediary institution in a virtual  asset transfer must submit all the information  
+47:27
+it receives with the transfer to the institution  to which it passes on the transfer instruction.  
+47:33
+For transfers of virtual assets  amounting to $8,000 or more,  
+47:38
+the originating financial institution must  obtain and submit to the beneficiary institution:  
+47:44
+the names of the originator and beneficiary;  their account number with the institution  
+47:50
+from or to which the virtual asset transfer is  made or, if there's no such account, the unique  
+47:56
+reference number assigned to the virtual asset  transfer by the relevant institution; and the  
+48:02
+originator's address, customer's ID number, or  ID document number or date and place of birth,  
+48:08
+if it's an individual. The same information needs  to be obtained and submitted for virtual asset  
+48:15
+transfers of less than 8,000 Hong Kong dollars  except the information which I just referred to.
+48:22
+The HKMA published a Discussion Paper on  Crypto-assets and Stablecoins on the 12th of  
+HKMA PROPOSALS FOR REGULATION OF PAYMENT-RELATED STABLECOINS
+48:28
+January 2022, seeking feedback on its proposed  regulation of payment-related stablecoins.  
+48:35
+The HKMA said that while payment-related  stablecoins may be or become an accepted  
+48:42
+means of making payments, they may fall outside  the scope of Hong Kong's current regulation.  
+48:48
+Stablecoin arrangements may fall outside the  scope of the stored value facility licensing  
+48:54
+regime under the Payment Systems and  Stored Value Facilities Ordinance,  
+48:59
+notwithstanding that they operate in a manner  similar to that of a stored value facility.  
+49:06
+Under the Stored Value Facility Ordinance, a  facility is a stored value facility if it can be  
+49:13
+used for: storing the value of an amount of money:  that is paid into the facility from time to time;  
+49:19
+and may be stored on the facility  under the rules of the facility; and  
+49:25
+for either or both of certain purposes, which  are: as a means of making payments for goods  
+49:31
+or services under an undertaking, express or  implied given by the issuer of the facility;  
+49:37
+or as a means of making payments to another  person other than the payments I've just  
+49:43
+mentioned under an undertaking express or  implied given by the issue of the facility.  
+49:49
+The issuer of a stablecoin or other virtual asset  which meets these criteria and constitutes the  
+49:56
+issue of the stored value facility in Hong Kong,  has to be licensed by the HKMA and comply with  
+50:02
+the Stored Value Facility Ordinance and other  requirements set out by the HKMA. However,  
+50:08
+the HKMA has said that the definition of stored  value facility may not cover certain types of  
+50:14
+stablecoins and/or their activities in the market.  For a facility to be a stored value facility,  
+50:20
+the two limbs of: taking stored value by a  facility issuer; and the same issuer giving  
+50:27
+an undertaking for making person-to-merchant or  person-to-person payments using the stored value,  
+50:33
+must be satisfied. In a stablecoin arrangement,  different entities may perform the respective  
+50:39
+functions of stablecoin issuance and wallet  operations, and the issuer will not necessarily  
+50:44
+undertake to use the stablecoin as a  means of payment for a third party.  
+50:50
+Also, various key functions involved in typical  stablecoin arrangements may not be covered by the  
+50:57
+proposed VASP licensing regime. These functions  include: the issue and redemption of tokens;  
+51:03
+transaction execution; token custody  and operation; value stabilization  
+51:09
+and reserve management; transaction  validation; and fund transmission.
+51:14
+The HKMA is proposing a risk-based  approach, which will initially  
+51:21
+focus on activities relating to payment-related  stablecoins. The regulatory emphasis will be on  
+PROPOSED REGULATORY SCOPE
+51:27
+asset-linked stablecoins, for example,  a stablecoin whose value is linked to a   specific fiat currency rather than algorithm-based  stablecoins which typically use protocols altering  
+51:38
+stablecoin supply in response to changes in demand  to maintain a stable value. This is because most  
+51:44
+stablecoins are currently asset-linked  and are mainly pegged to the US dollar.   Asset-linked stablecoins also appear to be more  popular than algorithm-based stablecoins and more  
+51:55
+likely to become widely adopted as a means of  payment, therefore having greater potential for  
+52:01
+being incorporated into mainstream finance.  Recognizing the possibility that other types  
+52:06
+of stablecoins, for example, algorithm-based  stablecoins may need to be regulated in future  
+52:12
+because of the potential risks they may pose for  Hong Kong's monetary and financial stability.
+52:17
+The HKMA wants a flexible regime that  can be modified in future as necessary.  
+52:23
+The HKMA proposes that certain activities relating  to stablecoins will require licensing by the  
+52:30
+HKMA. This would require expanding the scope of  existing legislation, for example, the Stored  
+52:37
+Value Facilities Ordinance or enacting a new law.  Since stablecoin arrangements usually involve more  
+52:43
+than one entity, multiple entities in a stablecoin  arrangement may need to seek HKMA authorization.
+52:51
+The proposed regulated activities relating  to stablecoins include: issuing, creating or  
+52:57
+destroying stablecoins, that the issue of minting  and burning stablecoins; managing reserve assets  
+PROPOSED REGULATED ACTIVITIES RELATING TO STABLECOINS
+53:03
+to stabilize the value of stablecoins, that's  managing the reserve assets that back the value  
+53:10
+of the stablecoins and providing custody or trust  of for these assets; validating transactions and  
+53:19
+records, that's authorizing or verifying  the validity of transactions and records;   storing the private keys providing access  to stablecoins, that's safekeeping of  
+53:30
+the keys used to digitally sign transaction  instructions on behalf of stablecoin holders;
+53:35
+Facilitating the redemption of stablecoins, that's  facilitating stablecoin holders' redemption of  
+53:41
+their stablecoins for fiat currencies or other  assets; transmissions of funds, that's ensuring  
+53:48
+the accurate and final settlement of transactions  to minimize the risk of default by counterparties;  
+53:53
+and executing transactions in stablecoins, that's  conducting transactions on behalf of others.
+54:01
+The HKMA proposes to apply high-level regulatory  requirements to stablecoin-related activities.  
+PROPOSED REGULATORY REQUIREMENTS FOR ENTITIES CONDUCTING STABLECOIN-RELATED ACTIVITIES
+54:07
+These would be applied using a risk-based  approach rather than a one-size-fits-all  
+54:13
+basis. Since multiple entities are often  involved in a stablecoin arrangement,   the entities involved could be subject to part or  all of the requirements, depending on the actual  
+54:25
+stablecoin-related services they offer. Under the  new licensing regime, entities who want to conduct  
+54:31
+certain activities crucial to the operation of a  stablecoin arrangement will need to be authorized  
+54:37
+by the HKMA, and the HKMA will develop these  authorization requirements in law and relevant  
+54:43
+licensed institutions will be expected to comply  with the authorization requirements on an ongoing  
+54:50
+basis after authorization to ensure the safety  and soundness of the scheme. The HKMA proposes  
+54:57
+to impose regulatory requirements on entities  conducting stablecoin-related activities,  
+55:02
+including: prudential requirements. The HKMA is  proposing to impose prudential requirements which  
+55:09
+will require licensed entities to have adequate  financial resources and liquidity. They will also  
+55:15
+be required to manage their capital and liquidity  adequately and effectively to protect users and  
+55:22
+financial stability. Fit and proper tasks for  management and owners. The controllers, including  
+55:28
+shareholder controllers and indirect controllers  and senior management of licensed entities, will  
+55:34
+need to meet a fit and proper test. Maintenance  and management of reserves of backing assets.  
+55:40
+Licensed entities will be required to comply with  requirements regarding the nature and sufficiency  
+55:46
+of the stablecoin arrangement's reserve assets  to support and stabilize the value of the  
+55:52
+outstanding stock of stablecoins. They will also  be subject to requirements to ensure the clarity  
+55:57
+and enforceability of legal claims, the titles,  interests and other rights of stablecoin holders  
+56:03
+in relation to the stablecoin issuer and the  reserves backing it. Systems, controls, governance  
+56:10
+and risk management requirements. Licensed  entities will be required to put in place a   sound risk management framework to comprehensively  manage legal credit, liquidity, operational,  
+56:21
+AML and other risks of the stablecoin arrangement.  The stablecoin arrangement's ownership structure  
+56:27
+and operation will need to feature clear and  direct lines of responsibility and accountability,  
+56:33
+especially when it is owned and administered  by one or more responsible legal entities.  
+56:40
+Licensed entities will be required  to comply with the AML/CFT rules,  
+56:46
+and licensed entities will  need to ensure the clarity,   robustness and timeliness of the process for  redeeming stablecoins for other liquid assets.  
+56:57
+Licensed entities will also be subject to  financial reporting requirements and will   have to make disclosures to regulators and  users and grant specific rights to users.  
+57:08
+Safety, efficiency and security requirements:  licensed entities will be required to put in place  
+57:13
+sufficient safeguards against cybersecurity,  operational and business continuity risks.  
+57:19
+They will also need to ensure that a  stablecoin arrangement provides for   clear and final settlement, irrespective of  the operational settlement method adopted.
+57:32
+The HKMA is proposing that any entity wanting to  conduct any of the regulated stablecoin-related  
+LICENSING REQUIREMENT
+57:38
+activities in Hong Kong will need to be  incorporated in Hong Kong and licensed by  
+57:44
+the HKMA to conduct the relevant activity. The  new regulatory regime will also prohibit the  
+57:50
+active marketing of stablecoin-related activities  to the Hong Kong public by an unlicensed entity.  
+57:56
+So a foreign company or group will need to  incorporate a Hong Kong company to apply  
+58:03
+for an HKMA license to provide regulated  stablecoin-related activities in Hong Kong.  
+58:09
+A just a Hong Kong branch or office of a foreign  company will not be licensed by the HKMA.
+58:17
+After receiving feedback on the discussion paper,  the HKMA will consider whether it needs to issue  
+58:22
+additional documents on specific aspects of  the regulatory framework in 2022 or 2023,  
+REGIME IMPLEMENTATION
+58:28
+and it plans to implement the new regime no  later than 2023 to 2024. On the question of  
+58:36
+whether stablecoin issuers should be required  to be authorized institutions under the Banking   Ordinance, the HKMA says that it proposes to  draw reference from relevant international  
+58:46
+standards and recommendations such as those  of the Financial Stability Board and the   Bank of International Settlements. Given the  payment-related nature of stablecoin arrangements,  
+58:56
+the HKMA expects that the proposed regime's  rules and requirements would take relevant  
+59:01
+aspects of Hong Kong's current approach to  SVF and payment regulation as a minimum to  
+59:07
+avoid regulatory arbitrage. Under a risk-based  approach, the HKMA considers that stablecoin  
+59:13
+issuers should be subject to higher prudential  requirements to protect users. That brings us  
+59:20
+now to the end of the webinar. So thank you  again for joining me today and I do hope that  
+59:26
+I will see you again at some future webinar. And  thank you very much for joining me today. Bye.
+

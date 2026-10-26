@@ -1,0 +1,270 @@
+Chapter 1: Introduction
+0:033 seconds[music]
+0:066 secondsMica versus the Genius Act. Two roads for stable coin regulation.
+0:1313 secondsOkay, so here we go. Thank you fellow panelists. So, good afternoon everybody and welcome to Sigma World. Um, it's a
+0:2121 secondsgreat pleasure to be here to discuss a regulatory conflict that will define the future architecture of global finance.
+0:2929 secondsSo for years the crypto industry operated in a regulatory gray zone always asking for clarity. Now the
+0:3636 secondsworld's two largest economies uh have finally delivered two massive yet fundamentally different answers. One is
+0:4545 secondsEurope markets in crypto assets mika regulation and the other one is the United States guiding and establishing national innovation for us stable coins
+0:5555 secondsaka genius act. So our panel today is titled Mika versus the Genius Act. So we're looking at these two distinct philosophies.
+1:051 minute, 5 secondsUm and I would like to um have uh and we have great panelists that are going to give us their insights. So I'm just
+1:121 minute, 12 secondsgoing to hand it over to them. But before that, let me just introduce myself. My name is Lorenzo Barvantini.
+1:171 minute, 17 secondsI'm the co-founder uh and CRO of Colossus Digital. Um, Colossus Digital is a company that connects asset holders
+1:251 minute, 25 secondsto yield providers in the digital asset space. So, here with me we have have Ron
+1:311 minute, 31 secondsSergev, founding partner of SE LLP. Um, he's going to give us his um insight and views on the United States. He advises
+1:401 minute, 40 secondsclients navigating and genus act licensing and preeemption rules. Then we have uh Bankuri Bansal, blockchain
+1:481 minute, 48 secondsexpert, United Nations. Bankuri offers the essential global macro perspective.
+1:541 minute, 54 secondsHow these regulation rules impact crossber trades of course this for the UN is very important. Financial stability and the goal of interoperability.
+2:042 minutes, 4 secondsIan Dawson uh founder and CFO of uh ZBX.
+2:102 minutes, 10 secondsand Ian will give us his view on how this digital uh regulation applies to more the European space. And then we have Thomas Perez Quo.
+2:212 minutes, 21 secondsNow he's the builder and uh he's the co-founder of Mecca Chain. Thomas will give us the builder's perspective on how
+2:282 minutes, 28 secondsthese two regulations impact um this space. So first of all quick round of u
+2:362 minutes, 36 secondsyou know apart from what I've done uh and and I would start with uh Pankuri please.
+2:412 minutes, 41 secondsHello everyone good afternoon. Uh I'm Pankree Bansil. I represent the United Nations as a blockchain and AI expert. I
+2:492 minutes, 49 secondsalso run my own company called Block Consulting. So at the UN we are creating crypto and blockchain and also AI standards for wider adoption of the
+2:582 minutes, 58 secondstechnology and to increase crossber trade across jurisdictions. So happy to be here in discussing the Genius versus Mika Act. Thank you.
+3:083 minutes, 8 secondsUm and then uh now let's let's hear from Ron. Hello everyone. Ron Sev, founding partner of SEV LLP. Uh we are a full
+3:173 minutes, 17 secondssolutions business law firm in North America with offices in the United States and Canada. Our specialty is uh
+3:243 minutes, 24 secondsgaming, betting, payments, fintech and including uh crypto and blockchain.
+3:303 minutes, 30 secondsThen I I would move to Ian before we before we go to Thomas the Builder. So Ian, please.
+3:343 minutes, 34 secondsSure. Yeah. Ian Dan Dawson here, co-founder uh current CFO at at ZBX. So we're a Mika compliant trading platform in Europe with a pretty large license
+3:433 minutes, 43 secondsand we service the gaming world through our fiat crypto solutions and and payment gateways.
+3:533 minutes, 53 secondsThomas, please. Well, my name is Tomas and what we do is we help companies on web two become in web three arena in the
+4:024 minutes, 2 secondsseamsless and we build a blockchain that doesn't need gas fees in order to track your token is our fee and now we think
+4:114 minutes, 11 secondsthat that way we can take 80% of the market that is not in blockchain or cryptocurrencies.
+Chapter 2: MiCA breakdown
+4:204 minutes, 20 secondsOkay, thank you very much. So let's set the foundations for our discussion and I'll ask all the panelists to try and keep it as much as possible connected to
+4:284 minutes, 28 secondsgaming of course so which is where we are and um so I'll start with you Ian and uh I'd like to know as a CFO
+4:364 minutes, 36 secondsoperating a regulated business can you hear me because I can hardly hear myself okay um Mika is now the law so
+4:444 minutes, 44 secondsspecifically regarding stable coins so I'd like to have your take from a practical business perspective how Is
+4:504 minutes, 50 secondsMika comprehensive classification system forcing European platforms to restructure if at all? Um, and what has
+4:594 minutes, 59 secondsbeen the immediate tangible compliance cost of that clarity?
+5:045 minutes, 4 secondsYeah. So, well, there's a very obvious one. If you're in the the MA world and you're in a trading platform, uh if you're licensed as a a crypto exchange
+5:135 minutes, 13 secondsin Europe, you have to now apply for a limited PSP license in the PSD2 category
+5:205 minutes, 20 secondsbecause um stable coins or in Europe EMTs are electronic money and they fall under EMI legislation. So an immediate
+5:295 minutes, 29 secondsimpact of of regulatory changes in Europe is additional resources, additional license application,
+5:365 minutes, 36 secondsadditional tech, additional things for things that we've always done. You know, the requirement here is is if you
+5:445 minutes, 44 secondscustody stable coin and you make transfers in stable coin, you now the the mika license itself isn't enough.
+5:525 minutes, 52 secondsYou now need PSD2, what they call PSD2 overlay. And that was uh the guidance by the EBA uh given this year. There's also a regulatory convergence in Europe now.
+6:036 minutes, 3 secondsSo they're looking at taking it away from the national competent authorities and centralizing it in Europe which for
+6:116 minutes, 11 secondsus is a little bit scary, right? So, so it's direct oversight and that's because they see now that crypto is systemically
+6:206 minutes, 20 secondsimportant and they're now regulating crypto businesses like they would the banking world. So, it also another uh
+6:286 minutes, 28 secondsoverlay on top of that is things like USDC which is regulated in Europe through a French EMI license. um you
+6:366 minutes, 36 secondshave daily reporting requirements and monthly and quarterly reporting requirements to detail what you do and how you transact using that stable coin.
+6:466 minutes, 46 secondsThat's mandatory. That's a legal process. So there is an additional uh heavy burden on regulated businesses.
+6:536 minutes, 53 secondsBut the positive is that well from my own perspective so this is my personal statement a casp license with stable
+7:027 minutes, 2 secondscoin solutions in Europe is a bank. You can't call yourself a bank but you are a
+7:097 minutes, 9 secondsbank in the digital world. So you can do everything that the banks do. You're just doing it digitally faster with the blockchain. Yeah.
+7:187 minutes, 18 secondsThank you. Thank you very much. And now pivoting to the US. Ron, um, what is the core regulatory philosophy behind the
+Chapter 3: The Genius Act
+7:257 minutes, 25 secondsGenius Act, if you know from your point of observation, and why did the US choose a narrow stable coin specific
+7:327 minutes, 32 secondsapproach rather than following the UN with a broader and uh, a broader crypto market framework
+7:397 minutes, 39 secondsprobably, you know, they for once they came afterwards and so they had the chance to look at it. What's what's your view on this?
+7:467 minutes, 46 secondsI think it's uh, it's ultimately all in the name, right? So if you unpack the acronym, it's the guiding and
+7:527 minutes, 52 secondsestablishing innovation in US stable coins.
+7:587 minutes, 58 secondsThey're only interested in US stable coins, right? So there there's no hiding.
+8:048 minutes, 4 secondsAnd so what do I mean by it's all in the name? Um the United States is specifically interested in controlling
+8:138 minutes, 13 secondstheir monetary policy, their monetary sovereignty. And when they look around the world, they see that uh gold is
+8:228 minutes, 22 secondsusurping USD as a um as a reserve asset among countries around the world. Um
+8:298 minutes, 29 secondsthey're worried that um the USD is no longer going to dominate. And so one of the ways that you solve that problem is
+8:378 minutes, 37 secondsyou create demand for US bills, US denominated short-term money market funds, and US cash. And the Genius Act
+8:478 minutes, 47 secondsis built such that entities that are licensed under the Genius Act can only
+8:548 minutes, 54 secondshold those USD denominated assets can't pay interest on it. Um it has nothing to
+9:019 minutes, 1 seconddo with tokens or or you know other crypto. It's just a a digital form of payment. It's very much focused on on
+9:099 minutes, 9 secondspayments. So philosophically, it's a tool that the United States can use to to control their their monetary sovereignty and monetary their global monetary policy.
+9:209 minutes, 20 secondsOkay. Yes. And super agree with what you're saying. Also, I would add the fact that for as much as that regulation
+9:269 minutes, 26 secondsis US centric only, still the dominance of the dollar in the digital dollar has
+9:339 minutes, 33 secondsspread and is already spreading anywhere and everywhere.
+9:369 minutes, 36 secondsYeah. And I think part of the the extra layer of genius on the Genius Act is that unlike Mika, the Genius Act
+9:449 minutes, 44 secondsactually contemplates u entities from foreign countries participating in the US market. So, kind
+9:529 minutes, 52 secondsof leaves an open door and it says that if there's other jurisdictions that have a regime that's similar in um uh in in
+10:0110 minutes, 1 secondin in approach to the Genius Act that they will um they'll acknowledge those
+10:0910 minutes, 9 secondsregimes and they'll allow entities licensed under those regimes to participate in the US market. So, what it does is it creates a more global
+10:1710 minutes, 17 secondsdemand for for USD. Okay, thank you very much. And now um moving to uh Pankuri
+10:2510 minutes, 25 secondsnow global view and of course you looking at it from crossborder um so from a crossber financial
+Chapter 4: Cross border
+10:3210 minutes, 32 secondsstability standpoint which framework mika or genius do you see setting a
+10:3910 minutes, 39 secondsbetter precedent for what you do and uh and what is the risk of regulatory friction between these two markets
+10:4610 minutes, 46 secondsbecause you're going to have entities on the two sides of the trade operating under two different regulatory frameworks. So what's your take on that?
+10:5510 minutes, 55 secondsYeah, absolutely. So just to be like uh segregating between the two obviously Mika focuses on broader crypto assets
+11:0411 minutes, 4 secondswhile uh you know Genius Act is mainly to do with payment stable coins. So what the difference here is that uh with Mika
+11:1211 minutes, 12 secondsit gives you access to a broader European market. So if you have to do anything crossber within the EU it becomes easier now with Mika. So
+11:2111 minutes, 21 secondscompliance-wise, jurisdiction wise, it's easier to settle transactions or to like conduct activities and businesses across
+11:2811 minutes, 28 secondsborders within the EU. But when it comes to uh Genius Act, uh of course there's a federal law, but there's also a state regulatory affair going on over there.
+11:3911 minutes, 39 secondsSo even though you have Genius Act, you still have the layer of federal governments coming into place. So I think this makes it a little harder for
+11:4711 minutes, 47 secondsany crossber transactions and we also need to understand that 60 to 70% of stable coin transactions right now are
+11:5511 minutes, 55 secondscoming outside the US also emerging markets right Argentina, Brazil, Nigeria for example. So even though the
+12:0212 minutes, 2 secondsregulations are across within the within the US jurisdiction, how is it impacting consumer outside? What happens let's say
+12:1112 minutes, 11 secondsin terms of redemption? what happens in terms of disclosure in terms of offshore custody. So how is it going to affect
+12:1812 minutes, 18 secondsthe consumer? It's very important to kind of have that interoperability even between the US and the EU which is not clear at this point in time. And I feel
+12:2712 minutes, 27 secondsthis is going to create a broader friction within the market if you know that is not resolved at the at the basic
+12:3412 minutes, 34 secondslayer. uh it it makes it difficult for crossber transactions to settle and and especially in terms of financial
+12:4212 minutes, 42 secondsinstability right because uh 70% of uh government treasuries are now backing the US dollar so which is a great amount
+12:5112 minutes, 51 secondsso let's say if there's a dollar USDC DPEG or a USDT dpg what happens to the entire financial system that creates a
+12:5812 minutes, 58 secondsmajor uh flaw into the whole system and as we know like if anything happens in the US the whole world collapses. So we
+13:0613 minutes, 6 secondsreally need to be careful of that and have broader wider compliance strategies in place for that to happen and to have like seamless crossber transactions.
+13:1513 minutes, 15 secondsAnd am I um I think I read recently that Western Union is actually launching a a
+13:2313 minutes, 23 secondsstable coin also. So what's what's your take on something like that from your points of observation? Of course you know remittances that's the biggest market. you know anybody that has any
+13:3213 minutes, 32 secondskind of business is going down and is launching their own. So what how do how do you see that impacting your I mean that's eventually going to
+13:4013 minutes, 40 secondshappen. You know we have all these different financial institutions or uh you know payment industries coming up with their own stable coins but ultimately I think US dollar is
+13:4813 minutes, 48 secondsdenominating everything. So if that is not regulated and that is not interoperable it becomes difficult for a
+13:5613 minutes, 56 secondsunion or a PayPal or anybody to kind of you know be more compliant. So in the end it's the dominance of even though it's harsh that we don't want the
+14:0414 minutes, 4 secondsdominance of the US dollar but with stable coins it's becoming even more obvious that you know it's the dominance of the US dollar right now. So until the
+14:1314 minutes, 13 secondscompliances are clear at that front it's it's going to be the same player no matter who launches what stable coin it's the compliance risk and the regulatory risk remains the same.
+14:2314 minutes, 23 secondsOkay. And now uh thank you very much. Now and and now uh the builder's view.
+14:2814 minutes, 28 secondsSo you're building, so Thomas, you're building the next generation of decentralized financial infrastructure.
+Chapter 5: Opportunity or barrier
+14:3314 minutes, 33 secondsAnd so I assume that you always have to think about what your users are going to be using in terms of regulation because
+14:4014 minutes, 40 secondsyou're not regulated yourself, but your customers are and and need to be. So um what's your immediate reaction? What
+14:4714 minutes, 47 secondsdoes the certainty provided by Mika and Genius primarily represent? Do you see that as an opportunity
+14:5414 minutes, 54 secondsum and uh for institutional adoption or does it represent a barrier to your your you know to to your activities? So you
+15:0315 minutes, 3 secondssee it actually something good for your business or not and how do you approach that as an innovator and as a builder?
+15:1115 minutes, 11 secondsSo in my business point of view to be regulated increase the businesses can be on
+15:1815 minutes, 18 secondsboarding into the crypto arena not regulated is kind of hard for regular business because they don't know in
+15:2515 minutes, 25 secondswhich arena they're participating on. So regulation is do overregulated is is not good for businesses but be
+15:3315 minutes, 33 secondsregulated is good. Now to have the eye of the government own businesses to make sure that they're doing the right thing.
+15:4115 minutes, 41 secondsWhy not? You know, we are here just to provide another railroad for people to moving money, not to create something
+15:5015 minutes, 50 secondsthat is bad for our society. So for me, crypto gives the opportunity for the 70% of the population that is unbunkable to
+15:5815 minutes, 58 secondsbecome bankable. We all live in countries that has banks, but come on.
+16:0316 minutes, 3 secondsIf we live in Africa in the mountains of South America or Latin America, we don't have access to bank. We got to maybe take a bus for two days or walk for
+16:1116 minutes, 11 secondsthree hours. So, anybody anywhere can be bankable and protected at the same time.
+16:1716 minutes, 17 secondsIn web three right now, we see the impact of thanks to the genius ad, the opportunity for any organization to
+16:2616 minutes, 26 secondscreate their own stable token. And if you create stable token allows that 80% of the population to be bankable in
+16:3516 minutes, 35 secondscrypto and their currency cannot has fluctuation like Bitcoin. But the other
+16:4116 minutes, 41 secondsbarrier is this change that allows you to purchase this stable tokens has a little problem. They have to teach you
+16:5016 minutes, 50 secondswhat is a gas fee. is an extra component to the crypto arena and
+16:5716 minutes, 57 secondsour business we took that barrier away allowing people to transact any cryptocurrency and the charge be in
+17:0617 minutes, 6 secondstheir own fees. So a good example is all these businesses that we has we have right here those casino online what they
+17:1517 minutes, 15 secondsdo is they accept crypto payments in USDT USDC normally but and then they got
+17:2217 minutes, 22 secondsto teach their people yes use USDT and Ethereum but you have to buy Ethereum fees I want to trade I want to play $10
+17:3117 minutes, 31 secondsbut I cannot buy $10 in Ethereum if I want Metamas I got to buy 40 bucks so does it make sense for me to 40 bucks to
+17:3817 minutes, 38 secondsplay $10 in my casino when I can go and just use Maka Chain and pay $10 gas fee
+17:4717 minutes, 47 seconds10 cents. Don't need any extra token, no need education. We can on board the 80% of the population that they don't want
+17:5617 minutes, 56 secondsto learn and we don't need to teach. So huge opportunity. Mika help us a lot
+18:0318 minutes, 3 secondsbecause now what Mika is doing right now actually is protecting you guys money because it's a lot of exchanges that
+18:1018 minutes, 10 secondscomes and go every single day and people losing money. Now we know the government is going to oversee those players and
+18:1718 minutes, 17 secondsmake sure that we don't get screwed. So regulation is good all the time and we know where we playing.
+18:2418 minutes, 24 secondsOkay. Thank you very much. No. Um I also heard that in terms of gas fees there are other solutions for example where
+Chapter 6: Gas fees
+18:3018 minutes, 30 secondsyou have sponsored gas where you have certain chains where you know there's a brand that sponsored all of the gas fees
+18:3818 minutes, 38 secondsbasically doing what you say killing the fees because I absolutely agree that the the mechanism of entering digital asset
+18:4718 minutes, 47 secondsspace and then maybe you know you buy Ethereum then you take a fee and all of a sudden oh it's not enough I gotta do it again and there's more fees and this
+18:5418 minutes, 54 secondsis just a frustrating mechanism on one side and then maybe I'd also like to have your take on and what does it
+19:0219 minutes, 2 secondschange for the consumer? So what's the change of the consumer? I think that when you have either a chain that doesn't have gas or that takes the gas
+19:1019 minutes, 10 secondsfrom its own so you never have to add anything or a mechanism where this gas fee can be sponsored. That's probably
+19:1719 minutes, 17 secondsalso an interesting take. What's your take on this?
+19:2019 minutes, 20 secondsYes. uh what you say is sponsored gas fees but in reality they not they not taking the problem from the top. They
+19:2819 minutes, 28 secondsjust fixing a little problem because no matter what if you as a customer don't pay the gas fees the institution has to
+19:3419 minutes, 34 secondsgo buy the gas fees for paying for you they still doing a job that we doing from the top. So we coming for the chain
+19:4319 minutes, 43 secondsbringing the solution to every single company here actually that they don't need to worry about gas fees because the chain take care that and the customer pay for that little percentage.
+19:5419 minutes, 54 secondsOkay. Thank you very much. So staying on this topic. So consumer and financial protection. U Ron let's um so Mika and
+20:0320 minutes, 3 secondsGenius onetoone backing strict redemption rights but they differ on what reserves can be. So, Genius is
+Chapter 7: Genius vs MiCA
+20:1220 minutes, 12 secondsarguably more conservative on reserve uh composition, highly liquid short-term treasuries. Um, from a pure financial
+20:1920 minutes, 19 secondsstability standpoint, does the Genius Act narrow focus and extremely tight reserves requirement offer a superior guard rail uh against systematic
+20:2820 minutes, 28 secondscollapse compared to the broader more categorized approach of Mika? Is that you want to take a shot of that?
+20:4020 minutes, 40 secondsWell, I have to say, and I I hate to answer this question like a lawyer, but the answer is maybe. Um, and the reason the answer is maybe is because we haven't seen the regulations yet. Okay.
+20:5120 minutes, 51 secondsUm, uh, Genius Act was enacted into law June uh, 2025. We're expecting the regs to
+20:5820 minutes, 58 secondsdrop sometime Jan in January of uh, 2027. So, that's a ways away.
+21:0621 minutes, 6 secondsMy gut instinct is that yes it it will provide some more protection to um to
+21:1321 minutes, 13 secondsconsumers, customers. Um the criticism is that it doesn't offer FDIC style
+21:2021 minutes, 20 secondsprotection. Um so like uh deposit insurance that you see in in traditional banking, but what it does is it gives
+21:2821 minutes, 28 secondscoin holders a first right against treasury in the event of insolveny. So that's something.
+21:3721 minutes, 37 secondsNow if I can steer this back to the gaming conversation because this is a gaming show. The other thing we need to
+21:4421 minutes, 44 secondskeep in mind is that there's also a regulatory layer in the gaming context.
+21:5021 minutes, 50 secondsSo in particular, if MGM or Caesars decides to launch their own stable coin
+21:5921 minutes, 59 secondsfor use among their properties online and offline, restaurants, casinos, what have you. They would be governed under the Genius Act, but they would also be
+22:0722 minutes, 7 secondsgoverned under their gaming regulatory regime, which requires segregation of player deposits and so forth. So there
+22:1422 minutes, 14 secondsis that extra layer of protection. I guess the lesson there is it also depends on the industry in which you're operating the stable coin and the
+22:2222 minutes, 22 secondsindustry that you're offering the stable coin in.
+22:2522 minutes, 25 secondsOkay. Thank you very much. Now um I'd like to maybe move over again to crossber competitiveness.
+22:3422 minutes, 34 secondsSo but but I'll start with Ian now. So the mik's great shift in the EU is the passporting. So before that you had to
+22:4222 minutes, 42 secondshave a license in every in every country. Now you passport to 27 country.
+22:4622 minutes, 46 secondsIt's a single market for crypto services. How much of this competitive advantage in that single EU license do you see? And how does it stack up
+Chapter 8: Passporting
+22:5422 minutes, 54 secondsagainst the massive institutional debt and the global currency power that the Genius Act is designed to protect? So
+23:0123 minutes, 1 secondwhat what is the difference? And of course also how does this apply to this industry? Because I mean we have global
+23:0823 minutes, 8 secondsplayers. This is an industry with global players. So how how do you compare that?
+23:1423 minutes, 14 secondsYeah. Well, I well the the passporting is obviously a fantastic thing. Um we've passported throughout all of Europe. So
+23:2123 minutes, 21 secondswe have all 27 plus jurisdictions in Europe. Um in terms of you know MA
+23:2723 minutes, 27 secondsversus Genius at a very high level I'll try and keep it pointed. I've got a feeling that Mika will amend. Um I I've
+23:3523 minutes, 35 secondsjust got a feeling that the US uh regulation and the US economy and the geopolit geopolitics that is going on
+23:4323 minutes, 43 secondsbehind the scenes, I just think the US has a lot more power and weight to push behind it and I think Mika will likely
+23:5323 minutes, 53 secondsfall more in line because I do think global trade in its entirety will be settled on blockchain. So we do need ma
+24:0124 minutes, 1 secondto be more amable and look at this ability to service other jurisdictions.
+24:0624 minutes, 6 secondsNow from our perspective we can service we we currently service 80 jurisdictions. Um we can service other
+24:1324 minutes, 13 secondsjurisdictions that have crypto regulation that require us to be licensed in those jurisdictions through
+24:2024 minutes, 20 secondsa reverse solicitation perspective in certain circumstances. So there are options there from from our perspective
+24:2624 minutes, 26 secondsas a mika trading platform but from a gaming perspective it's it will always be challenging. I don't think you know everybody's got the dream of a one-stop
+24:3524 minutes, 35 secondssolution. You go to one place you get everything you ever wanted. It's really cheap. It's really quick that even to this day we're talking about a
+24:4324 minutes, 43 secondsblockchain layer that will create international fast payments. It will it will be you know it will effectively be borderless to an extent between one
+24:5224 minutes, 52 secondsregulated operator and another regulated opera operator but it is still effectively [laughter] effectively fragmented and you will need to have
+25:0025 minutesdifferent specialists in different jurisdictions. So for us, we're going to enter the US market. That's a big target
+25:0725 minutes, 7 secondsof ours over the next few months, year or so. We need a license over there. We might enter it through different means, partnerships, direct uh license. You
+25:1625 minutes, 16 secondsneed to be on both sides of the pond. So as I see it, crypto operators with a specific license like a CASP, they are
+25:2425 minutes, 24 secondsdigital banks. So you will have a similar setup. My opinion is you won't need the 40,000 employees like you did in the old days with banks. You're going
+25:3325 minutes, 33 secondsto have a lot less employees. You're going to have a lot more reggg tech.
+25:3625 minutes, 36 secondsIt's going to be a leaner model. You're going to embed AI. So, it's a different thing. But yeah, so but coming back to
+25:4325 minutes, 43 secondsgenius versus Mika, I think you know from an operator perspective in the gaming sector, you have to be involved in crypto now. You have to be involved
+25:5125 minutes, 51 secondsin blockchain. You have to understand it. If you're not, you're already behind. It's completely taken over. It's taken over capital markets, forex
+25:5925 minutes, 59 secondspayments. It's not no longer a multi-billion market. It's in the tens of trillions and it's not going away. So
+26:0726 minutes, 7 secondsI I mentioned earlier that the head of the IMF has already said to all of its countries that under a dream it do not
+26:1426 minutes, 14 secondsclose your eyes, do not cover your ears, this is here. How are you dealing with it? Yeah.
+26:2026 minutes, 20 secondsOkay. Thank you very much. And um now the pretty much the same question to you Pankuri. How do you see that? And also
+26:2726 minutes, 27 secondsbecause it's the same uh you know it's the same simplification or complication that applies to your same market and how
+Chapter 9: EU policies
+26:3626 minutes, 36 secondsdo you see that and is it actually making your life easier in what ways if it is?
+26:4226 minutes, 42 secondsWell, as I mentioned that you know the dollar dominance is only increasing. So, Mika although makes it easier to have
+26:4926 minutes, 49 secondscrossber jurisdiction transactions within the EU, they need to come up with stronger policies so that the EU
+26:5726 minutes, 57 secondsdenominated stable coin becomes much more relevant as opposed to the US dominated stable coin at this point in time because otherwise you know EU might
+27:0627 minutes, 6 secondsjust be left behind and also like 40 to 50% of their revenues of the banks operating within the EU get their revenues from payments and FX spreads.
+27:1627 minutes, 16 secondsBut stable coin kind of reduces that spread. So they also need to think of a revenue model which makes it more
+27:2227 minutes, 22 secondssustainable to kind of have Mika in place so that it becomes easier for companies to operate and provide those
+27:3027 minutes, 30 secondskind of facilities for crossber transactions and to have a global dominance when it comes to a EU denominated stable coin for example
+27:3927 minutes, 39 secondsbecause that's the only way for the EU economy to thrive otherwise it again becomes a play where the dominance of your uh of the US denominated stable
+27:4727 minutes, 47 secondscoin just goes on increasing and you know the financial implications as we see becomes even more contagion if anything happens to the US dollar peg or
+27:5727 minutes, 57 secondsor the US economy in general. So I feel like it's important for Mika to be more at the forefront of the plate to make
+28:0428 minutes, 4 secondsthe EU denominated stable coin more approachable over there.
+28:0828 minutes, 8 secondsOkay. Thank you very much. Now, as I see that we have um less than two minutes um I'd probably ask all of you to give me
+Chapter 10: The landscape today
+28:1628 minutes, 16 secondslike a one minute wrap up of something that you want to share with the audience and that is relevant to the place that we are today apart from Rome but also
+28:2528 minutes, 25 secondsthe gaming industry and how what we've just been discussing different regulations can be used to the advantage
+28:3228 minutes, 32 secondsor give a different edge or have open new opportunities in this uh in this market. So um Ron, do you want to start?
+28:4128 minutes, 41 secondsSure. Yeah. Um so further to my last comments, we have to be mindful that the reg the gaming industry has its own
+28:4828 minutes, 48 secondsregulatory layer. So even if you're registered under the Genius Act and you're, you know, essentially a digital bank, you've issued your own stable
+28:5628 minutes, 56 secondscoin. It doesn't mean that you're ready to go to market and start processing transactions for online casinos or
+29:0429 minutes, 4 secondsland-based casinos. It doesn't work that way. you are still going to have to navigate through the gaming regulatory environment. So, notably, if you're a
+29:1229 minutes, 12 secondspayment provider in the US, you need to get a payments license, right? If you're if you're dealing with casinos. Um, so
+29:2029 minutes, 20 secondsthat's this isn't a, you know, a silver bullet solution for the gaming and betting space. Now what I will say is
+29:2729 minutes, 27 secondsthat if you've if you've issued the stable coin but you're not engaged in payments then you probably step back
+29:3529 minutes, 35 secondsfrom that regulatory burden in which case the payment solution that is handling your stable coin will have to adopt that right but I'm very optimistic
+29:4429 minutes, 44 secondsabout finally having some stable coin cryptocurrency solution being widely adopted in the United States and you know maybe Canada too currently only the
+29:5229 minutes, 52 secondsstate of Wyoming allows it um and that is you deposit in crypto, withdrawing crypto, betting in crypto. Um, Colorado
+30:0130 minutes, 1 secondand and Virginia only allow deposits in crypto, but you have to withdraw in fiat. So, you know, that's kind of ancient time stuff. Uh, hopefully this
+30:0930 minutes, 9 secondswill pave the way for uh more seamless payments. And then, if I may, related to that, think about the
+30:1830 minutes, 18 secondsblue sky opportunity. When you think about loyalty points and reward programs which are commonly used in casinos, I mean this is you're not allowed to pay
+30:2630 minutes, 26 secondsinterest, you're not allowed to pay yield, but you can still track transaction behavior. I mean the data troves is is enormous and you could
+30:3330 minutes, 33 secondsstill reward in other ways. Doesn't have to be yield or interest just by following people's token use. So I think it's very interesting exciting times.
+30:4130 minutes, 41 secondsIt's very very interesting. Now, um Thomas, the the well the the builder um
+30:4830 minutes, 48 secondsthe the builder um outlook on this and uh you know your your uh last remarks on on what we've just been saying.
+30:5530 minutes, 55 secondsWell, what I going to say is this um so we are every regulated market right now is a centralized market. So all the
+31:0231 minutes, 2 secondscentralized exchanges, the centralized uh payment processor all are regulated.
+31:0831 minutes, 8 secondsOur focus is in created decentralized payment solutions and decentralized applications. So those are required by
+31:1731 minutes, 17 secondsthe businesses and runs in their own licenses. We believe that crypto stays
+31:2431 minutes, 24 secondsand if you're not part of crypto, you're going to live in the past. And I really encourage every company, every person, every
+31:3331 minutes, 33 secondsevery single person in the planet that it has to see this type of business payment solutions, a stable tokens.
+31:3931 minutes, 39 secondsStable tokens is huge and it's going to be last for years. So just be part of the revolution, be part of crypto.
+31:5031 minutes, 50 secondsSorry. Um Ian and then I and then I'll close.
+31:5331 minutes, 53 secondsYeah, I'll wrap it up quickly on my side. So basically I'll just address the audience directly. If you're in gaming and you're not in blockchain and you've
+32:0032 minutesnot got a crypto partner, whoever it is, you you you just need to be in the sector. The entire planet is moving that
+32:0832 minutes, 8 secondsway. Um it's not slowing down. You will be using blockchain and crypto even if you don't know you're using blockchain and crypto because your service
+32:1632 minutes, 16 secondsproviders will be having that in the pipeline. We deal directly at an institutional level. So you sometimes we would might even deal with people in
+32:2432 minutes, 24 secondsthis audience, but you wouldn't even know because we're actually plugged into the financial ecosystem. So I just think get involved, play around with it, have
+32:3232 minutes, 32 secondsfun with it, do it personally and but definitely engage at a corporate level and understand it because this is a new paradigm and it's, you know, back in the
+32:4132 minutes, 41 secondsday we all thought it was pie in the sky. Now it's confirmed. It's here. It's not going anywhere. I mean, just one
+32:4832 minutes, 48 secondslast comment, the east wing of the um the White House is funded by big tech companies including Tether, Tether and Coinbase.
+32:5832 minutes, 58 secondsYeah. And and now over to you, Pankuri.
+33:0133 minutes, 1 secondUm you know, to to close on a on a more global and and positive outlook.
+33:0833 minutes, 8 secondsOh, okay. Very sorry about that. So, uh thank you very much to my fellow panelists and u thank you for everybody.
+33:1633 minutes, 16 secondsThank you.
+

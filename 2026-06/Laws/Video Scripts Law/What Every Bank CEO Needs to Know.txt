@@ -1,0 +1,486 @@
+0:066 secondskick it off. So, welcome everyone to Bank Ventures and Stable Core special briefing on stable coins and the Genius Act. Just 10 short days ago, the US
+0:1515 secondsSenate passed the Genius Act, which would become the federal framework that allows both banks and qualified fintexs to issue stable coins. It's anticipated
+0:2323 secondsthat the major shift will be signed into law this summer and live as early as 2026. So, I'm sure a lot of you are
+0:3030 secondswondering why should banks care. Alex will go into depth on this, but I just wanted to start kick this off with
+0:3737 secondsstable coins are already moving over 700 billion per month with explosive growth in B2B payments and treasury. And these flows compete directly with your
+0:4545 secondscommercial deposits and fee income. So to help us unpack what this bill means for you and your institution, we're joined today by our exceptional panel.
+0:5353 secondsAlex Tree, CEO of Stablecoin, a stablecoin and digital asset side core for banks, uh, previously at Coinbase,
+1:001 minuteAlexander Barrage, partner at Morrison Forester and former FDIC exec where she spent many years working on policy, and
+1:071 minute, 7 secondsMatt West, CEO of Xenos and former chief strategy officer at MVB Bank. With that, I'll hand it over to Alex to kick it off.
+1:161 minute, 16 secondsThanks man. Uh and thanks everybody for for joining us. So just before we get into it, I wanted to quickly hit our agenda. So I'm going to cover stable
+1:231 minute, 23 secondscoins, sort of do a 101, talk about current landscape and then also use cases. Uh then I'm going to pass it over to Alexander who's going to talk about Genius Act and some of the key
+1:311 minute, 31 secondsprovisions there and just how should we be thinking about it from a bank perspective. Uh then we're going to pass it over to Matt and he's going to talk about strategy and risk management and specifically go through some
+1:381 minute, 38 secondsopportunities in risk. Um, and then finally, we're going to do Q&A at the very end and and take open questions from you guys and hopefully be some time to to do that. But, um, to kick things
+1:471 minute, 47 secondsoff, I'll start with a a quick primer on just what stable coins are and just help us level set there. And so, stable coins are privately issued money. They're a
+1:551 minute, 55 secondsliability of an issuer, um, not of a bank. Um, and they're pegged to and redeemable for fixed amount of currency.
+2:012 minutes, 1 secondSo, if we're talking about dollars, that means a dollar. Um and they're they're backed one to one by underlying high quality um liquid collateral things like
+2:082 minutes, 8 secondsrepos, things like treasuries, things like deposits. So think you know under 90 days uh between one and uh 3 months duration. Um they cannot be lent out. So
+2:162 minutes, 16 secondsthey're not uh uh uh deposits. Um and they also transact on blockchains which is what gives them some of their you know special properties around 247 and
+2:242 minutes, 24 secondsinstant. And so that's what stable coins are. Um, it's also helpful to cover what stable coins are not because they're often kind of, you know, um, uh,
+2:322 minutes, 32 secondsconfused with other types of assets. And so, as I mentioned earlier, they are not deposits. Um, not from a legal standpoint, not from a regulatory standpoint, not really from any
+2:402 minutes, 40 secondsstandpoint. Um, they're also not FDIC insured. Um, and you could actually argue that because they're onetoone backed by this sort of high, you know,
+2:472 minutes, 47 secondshigh quality liquid collateral that they don't need to be. Um, and they're also not tokenized deposits, which is something that, you know, often gets confused and we'll talk a little bit more um about in in in the next slide.
+2:582 minutes, 58 secondsUm, they're also not securities or commodities, which is something that the Genius Act uh makes very clear. Um, and they're also not Bitcoin or memecoins or
+3:063 minutes, 6 secondsother, you know, cryptocurrencies. They are much more similar to other types of more, you know, traditional dollar-based um, you know, assets. Um, and then finally, they're not CBDC's. you know,
+3:153 minutes, 15 secondsthe difference between a a CBDC is is that that would be something that's issued by like a government or or by the Fed. Um, these are again privately issued dollars and they're, you know,
+3:243 minutes, 24 secondsthey're also liabilities of a of a private issuer. Um, and so that's what they are and what they're not. And I want to take just one, you know, moment here to to linger on this distinction
+3:313 minutes, 31 secondsfrom tokenized deposits. Um, because many of you may have seen things from JP Morgan. They they recently came out with with the tokenized deposit JPMD um JPMD.
+3:403 minutes, 40 secondsUm, and so these two get get confused, you know, quite quite often. And so it's helpful, you know, deposits and tokenized deposits are both deposits,
+3:473 minutes, 47 secondsright? So they're both liabilities of a bank. They both have uh deposit classification. They're both FDIC insured. And so when you see tokenized
+3:543 minutes, 54 secondsdeposits, think deposits. What tokenized deposits share with stable coins is that they both ride on blockchain rails. So they're both 24/7. They're both instant.
+4:024 minutes, 2 secondsThey both are on this shared ledger. Um and so that's how you should sort of differentiate this world and and and sort of, you know, think about those. Um great. So with that, we've kind of got a quick primer on what stable coins are.
+4:124 minutes, 12 secondswe can talk a little bit about about the current landscape. Um maybe starting with just just how big it is. And I think um people are generally surprised
+4:194 minutes, 19 secondsto find how big this market is today and just how quickly it's grown. So I put some stats on here just to help illustrate that. Uh the first is around total supply or or market cap and that's
+4:284 minutes, 28 secondsgrown from you know early 2020 um of around under 5 billion to all the way up to 20 30 billion today. So just absolutely
+4:364 minutes, 36 secondsastronomical growth around 57x in that time period. If we look at monthly active accounts, so these are the number of kind of accounts we can see on the blockchain that are that are doing
+4:454 minutes, 45 secondsactivity. That's grown from under a million in that time period all the way to uh 50 million. So again, even even stronger growth there. And then lastly,
+4:524 minutes, 52 secondsif we look at monthly stable coin volume, we can see that that's grown from under 15 billion in early 2020 to around 750 billion today. So again, just
+5:005 minutesabsolutely enormous kind of market. It's grown very fast, if not the fastest growing payment rail, certainly one of the fastest. And just to give you guys a
+5:085 minutes, 8 secondssense of kind of relative scale, I've I put a graph here that shows in 2024 the size of the kind of total transaction
+5:155 minutes, 15 secondsvalue versus Visa and Mastercard. And as you can see, the total aggregate kind of value of stable coins has actually gotten to be bigger than Visa and Mastercard. So again, I think this is
+5:245 minutes, 24 secondsjust another good example of just how big and how fast these things have grown in such a short time period. Um, and so that's where the market is, but where is
+5:325 minutes, 32 secondsit going and and and how big might it get? Well, there's been some great research recently from City that they've put out that's that's basically examined this exact question. Um, and they've
+5:405 minutes, 40 secondsestimated that between now, again, we're around 230 billion of supply today and 2023 or sorry, uh, 2030, so you know,
+5:475 minutes, 47 secondsroughly 5 years from now, they expect the market to grow between 1.6 in their base case to 3.7 trillion. So, think 10
+5:545 minutes, 54 secondsplus X potentially if we take the run the midpoint of that. And I think a really interesting part of this analysis is that they're expecting a lot of that growth to come from non-crypto markets,
+6:036 minutes, 3 secondswhich has been something that has driven a lot of the stable coin volume in the past. And they're anticipating that other you know areas of of of the financial system will end up driving a
+6:116 minutes, 11 secondslot of that growth in stable coins. So obviously that has enormous implication for banks that has enormous um you know implications for just the financial system in general. And so really
+6:196 minutes, 19 secondsinteresting to see um some of that data and some of those uh predictions. So, who are the key players that are actually driving a lot of this growth?
+6:266 minutes, 26 secondsUm, you might be surprised to find that it's just really two big guys. So, it's almost Visa Mastercardesque. Um, and there's really two players, you know.
+6:336 minutes, 33 secondsOne is Circle, which is the kind of dominant US-based player, and the other is Tether, which is the which is the dominant ex- USbased player. Um, and what's been interesting about this
+6:416 minutes, 41 secondsmarket is that there's been some really big companies, folks like PayPal, folks like Ripple that have tried to launch other stable coins. And what we've seen
+6:486 minutes, 48 secondsis that these two players really dominate, you know, really any metric.
+6:526 minutes, 52 secondsIf you look at volume, if you look at total supply, if you look at number of wallets, um they all sort of come into this same bucket of these two players
+7:007 minutesdominating kind of 90 plus% of the transaction volume. So you can see here on these graphs I've shared that you see a lot of green and a lot of blue. And that's because these two guys again are taking about you know 90 plus% of the
+7:087 minutes, 8 secondsshare. So I think I think really one interesting thing going forward with Genius and with bank participation um in this space is to see can banks kind of
+7:167 minutes, 16 secondsmake a dent in this and can other kind of participants through the Genius Act actually dent this duopoly or is this going to continue to be a market structure where it's really just these
+7:237 minutes, 23 secondstwo big guys um sort of dominating. So that's something to definitely um watch out for. So that's some of the landscape and some of the players. I did want to hit on some of the use case and of
+7:317 minutes, 31 secondscourse Matt is going to dive into this a little bit deeper later and there's there's kind of many use cases for stable coins but there's there's three in particular I want to hit on. Um the first is around USD store value in
+7:397 minutes, 39 secondsmedium of exchange and this is really where stable coin started and it was originally in the crypto markets where you had this asset class that grew from
+7:467 minutes, 46 secondszero to trillions and it was being traded all over the world and those assets of course are going 24/7 and so need they they needed this dollar denominated asset that could basically
+7:557 minutes, 55 secondskeep up with these crypto transactions and be that medium of exchange and so that's originally where stable coins came from that's where there's still a lot of activity today and then another
+8:048 minutes, 4 secondsone in this bucket is is around USD store value so As this market grew, you know, there there's there's effectively infinite demand for dollars over the
+8:118 minutes, 11 secondsworld and people started to realize, hey, wait a minute, I can actually hold these kind of, you know, digital dollars all over the world, whether it's in, you know, Argentina or Turkey or these other
+8:188 minutes, 18 secondsplaces where they have currency volatility. So, you're seeing stable coins being used as this kind of non- US bank account effectively um all over the world that's sort of digitally native.
+8:268 minutes, 26 secondsUm, and so that's one of the really big ones both now and in the future. Um, another one I want to call out that's growing very quickly right now and is particularly relevant for banks is
+8:348 minutes, 34 secondsaround B2B payments and treasury management. So as the infrastructure for stable coins got built out as the uh you know uh uh various network effects got
+8:428 minutes, 42 secondsbuilt out all over the world people and particularly corporates started to realize hey this is like a RTP fed now that's global I can use this to pay vendors to pay contractors to pay
+8:508 minutes, 50 secondsemployees all over the world it's cheap it's fast and it's this kind of new payment rail and so what you're seeing now is just explosive growth in this particular area and obviously that's
+8:588 minutes, 58 secondsthat's very relevant to to banking um and then lastly the one I wanted to point out was around tokenized asset markets as many of you know uh there's folks that are putting, you know,
+9:069 minutes, 6 secondstraditional securities, you know, repos, treasuries, loans, all types of things on blockchain specifically because they want to have this 24/7 um and and and
+9:159 minutes, 15 secondsalso shared ledger. And just like the crypto markets where you kind of have this need to be 24/7, there's also going to be a need for a medium of exchange
+9:229 minutes, 22 secondsthat can transact with these tokenized assets. And it's very likely going to be stable coins and potentially tokenized deposits. And so I would expect that and and this is a very fast growing area
+9:309 minutes, 30 secondsright now. And I would expect this to represent a huge source of a more domestic demand for for stable coins and and also um tokenized deposits. Um I did
+9:389 minutes, 38 secondswant to sort of double click into B2B because I did mention that that was one of the fastest growing segments. There was a fascinating report that Artemis did recently that tried to look at okay
+9:469 minutes, 46 secondsif we sort of dig into stable coin payments and we try to disagregate the pieces there. So you know B2B uh B TOC peer-to-peer cards etc. which parts of
+9:559 minutes, 55 secondsthe market are actually growing the fastest. And what they found and there this is this chart on the right is that the B2B payment segment was actually growing the fastest. You can see in the last two years and this is just a subset
+10:0310 minutes, 3 secondsof the data. That's why it's only three billion. It's only a handful of providers. But within those providers, within that data, they found that B2B payments was growing the fastest. And what's interesting is that lines up with
+10:1110 minutes, 11 secondssome public things that we've heard from some big corporates. And there's two I want to share here. So one was from Robin Hood, which announced on an earnings call recently that they're using stable coins for a weekend
+10:2010 minutes, 20 secondssettlement. Obviously um you know Robin Hood has a big crypto business. So potentially that's why they have that need. And then it also came out that SpaceX was using stable coins to make
+10:2810 minutes, 28 secondspayments to vendors to contractors and trying to hedge you know some of their kind of currency um kind of risk there.
+10:3310 minutes, 33 secondsAnd so again those are just two examples. There's many others but I think interesting to see both the data and these sort of high-profile examples you know line up um around B2B um uh
+10:4210 minutes, 42 secondsstablecoin payments. Um okay great. So it's a big market. There's some big players. It's growing very fast. There's there's there's some use cases for banks, but but how do you actually get
+10:5010 minutes, 50 secondsstarted and and sort of how should you think of it from a technology perspective? I'm not going to do a super deep dive here, but I wanted to um hit some of the big pieces that you probably should be thinking about. Um the first
+10:5910 minutes, 59 secondsone is around custody and exchange. And so, as many of you know, digital assets are are different. They're they're on a blockchain. They're not on this legacy infrastructure. And so, there's these
+11:0711 minutes, 7 secondsspecialized providers that basically handle this key management and do this blockchain based custody. Think of them almost like a you know, sort of BNY or State Street, but for digital assets.
+11:1411 minutes, 14 secondsAnd that's folks like Coinbase, Fireblocks, Anchorage, Bitco. There's there's many others you guys have probably heard of. Um, but these are really important pieces in this
+11:2111 minutes, 21 secondsecosystem. And um, most of these providers also serve the dual function of doing the exchange. So they also, you know, have the licensing. So they can go
+11:2911 minutes, 29 secondsfrom dollars to um, digital assets as well um, as well. So um, that's custom exchange. And then another big piece is is um, uh, is around compliance tools.
+11:3811 minutes, 38 secondsSo obviously this is a new type of asset class. It's a new type of payment rail.
+11:4211 minutes, 42 secondsAnd there's new types of providers like chain analysis, TRM, elliptic that basically help you update your risk and compliance policies and then from an operational standpoint actually execute
+11:5011 minutes, 50 secondson that. Um, and so that's a, you know, obviously a very important piece. Um, and since we're talking about stable coins, there's of course the stablecoin issuers and the APIs. We touched on
+11:5811 minutes, 58 secondsCircle a little bit earlier. They're the dominant US-based player. Um, there's also Paxos, which is a, you know, also an issuer that does both US and XUS
+12:0612 minutes, 6 secondsissuance. Um there's also companies like Bridge which was recently acquired uh by Stripe for I think over a billion dollars which some of you may have seen in in the press and so but all these
+12:1412 minutes, 14 secondsproviders effectively do a similar thing which is they provide this this sort of seamless convertability between stable coins and dollars and provide a lot of API um infrastructure around that. Um,
+12:2412 minutes, 24 secondsand then last but not least is the ledgering and and also integrations. And this is bringing all these other pieces whether it's custody, stablecoin APIs, compliance, um, into your core and into
+12:3212 minutes, 32 secondsyour digital banking. And that's what my company um, stable core does as well and and sort of helps with that. Um, and so that's going to be a wrap for me on the stablecoin side. Um, and then I'm going
+12:4112 minutes, 41 secondsto pass it over to Alexander to talk a little bit about the Genius Act.
+12:4412 minutes, 44 secondsThank you very much, Alex. Thanks everyone for participating.
+12:4812 minutes, 48 secondsUm, my name is Alex Barrage. I'm a partner at Morrison Forster. I'm a bank regulatory lawyer with a very specific interest in digital assets and many of
+12:5712 minutes, 57 secondsmy clients are both banks and technology companies and digital asset companies.
+13:0213 minutes, 2 secondsUm uh next slide please. Uh so I've looked at a lot of the genius act and also the stable act. I am actually a
+13:1013 minutes, 10 secondstechnical expert to both the senate and house subcommittees who are who have been working on this. In the case of the
+13:1613 minutes, 16 secondsSenate, uh just in terms of the the posture of the Genius Act, the Senate passed the Genius um bill on June 17th.
+13:2613 minutes, 26 secondsThe passage in the Senate was 68 to 30.
+13:3013 minutes, 30 secondsSo, we got um some additional Democrats to join in. Um in some respects, in large part, it is a bipartisan uh
+13:3713 minutes, 37 secondseffort, although uh a lot of Democrats are still not in favor of this bill. Uh nevertheless, I think it has some significant momentum to get to the
+13:4513 minutes, 45 secondsfinish line and at the moment there is um House staff looking at the current version of the Genius bill and looking at uh what what may or may not need to
+13:5413 minutes, 54 secondsbe tweaked. We expect um we expect the final uh bill for the president's
+14:0014 minutessignature soon. Uh it's not clear to me yet whether this bill will be coupled with a separate market structure bill,
+14:0814 minutes, 8 secondswhich candidly is a lot more complicated than stable coins. if you can believe that. Um, it may be that it's decoupled from that bill or it may be packaged
+14:1614 minutes, 16 secondswith it. We don't really know for sure yet. So, who can issue? I think Alex touched on this a little bit, there's there's quite a range. And in fact, if
+14:2414 minutes, 24 secondsyou step back, really the point of this bill in many respects is to open up the um the the entities that can actually
+14:3114 minutes, 31 secondsissue payment stable coins. So on uh in one bucket you're going to have the traditional private issuers, Circle
+14:3914 minutes, 39 secondsum you know Paxos, Ripple also Tether, not a US-based company as issuers. Um in addition to private
+14:4914 minutes, 49 secondsissuers, we will see some insured bank subsidiaries, national trust banks uh regulated by the OC, state entities,
+14:5714 minutes, 57 secondscredit unions subsidiaries and foreign banks. Uh we may also see uh depending on how things go um the ability for
+15:0515 minutes, 5 secondsnon-financial services public companies otherwise known as big techs um they might have a potential path here um
+15:1415 minutes, 14 secondsthere's a special committee set up for that and candidly the the burden is pretty high um so while there may be a
+15:2115 minutes, 21 secondspath at least in statute it's not clear to me you know how that will be practically possible um some of you may be familiar with Libra and DM from years
+15:3015 minutes, 30 secondsago go. Um there's a lot of concern uh in some halls of Congress about the payment um the banking and commerce
+15:3815 minutes, 38 secondsbeing mixed and so uh we'll see how that develops. In terms of who regulates uh one of the key features of the bill is the delegate balance that seeks to
+15:4615 minutes, 46 secondsstrike across having a dual framework just like we have with banks. Uh and so there's a state regulatory framework as
+15:5415 minutes, 54 secondswell as a federal framework. Generally issuers will have a choice. Um to the extent banks want to issue the primary
+16:0216 minutes, 2 secondsfederal regulator will be the same primary federal regulator that they currently have. Private issuers that want to be regulated at the federal
+16:1016 minutes, 10 secondslevel will be uh chartered by the OC and regulated supervised by the OC.
+16:1616 minutes, 16 secondsuh to the extent uh we have this continuing duopoly that's uh you know issuers over 10 billion one of whom is
+16:2316 minutes, 23 secondscircle uh they will be required uh generally to be uh regulated at the federal level. Next slide please.
+16:3216 minutes, 32 secondsSo um so right now uh we thought we'd be going over the bill at a super high level.
+16:4016 minutes, 40 secondsWe're not going to go through every technical provision, but at um at its core, you have to be permitted. You have to be licensed in order to issue, whether you're a bank or you're a
+16:4816 minutes, 48 secondsprivate issuer. Um there there's going to be a process that is yet to be fully described uh as part of implementing rules. We'll talk about that in a
+16:5716 minutes, 57 secondsminute. Um but you can't just issue because the you know the Genius Act gets signed. Uh you have to actually go
+17:0417 minutes, 4 secondsthrough a process. As part of that process, you have to apply um a number of different requirements to the way that you do issuance. One of which is
+17:1217 minutes, 12 secondsyou have to maintain reserves that back those payment stable coins on at least a onetoone basis. So a simple example is
+17:2017 minutes, 20 secondsif you're issuing um if you're issuing one USD effectively the digital equivalent of one US dollar you have to
+17:2817 minutes, 28 secondshave high quality liquid assets what Alex talked about earlier that back that dollar in full plus some kind of operational buffer that is yet to be
+17:3517 minutes, 35 secondsdefined. Your reserves have to be highly liquid. So the Genius Act talks about what those could look like. Those could be bank deposits, US treasuries, um
+17:4317 minutes, 43 secondscertain types of repo and this catchall category which is not defined but basically would require uh federal
+17:5017 minutes, 50 secondsbanking agency approval. Uh and next you need to also do the monthly reporting that these private issuers do under current state law. Uh private issuers
+17:5917 minutes, 59 secondsare generally regulated as money transmission as um money services businesses. uh they have to register
+18:0618 minutes, 6 secondswith Finson and usually the big ones um mostly are regulated by uh NYDFS.
+18:1218 minutes, 12 secondsUm and so a lot of the things that they currently do will will have to be big basically extrapolated for the other issuers. They're going to have to
+18:1918 minutes, 19 secondsdescribe you know what's outstanding, what's backing the amount of cell coin outstanding. Their seauite members of their seauite will have to attest.
+18:3018 minutes, 30 secondsUm there are some pretty draconian uh consequences if there are misstatements and there needs to be a process for timely redemption and that refers to
+18:3918 minutes, 39 secondsbasically holders seeking to redeem their stable coin for fiat. Next slide please.
+18:4518 minutes, 45 secondsSo um we put in some reminders here about some basics with payment stable coins. Um one of which is uh we get this
+18:5418 minutes, 54 secondsquestion a lot. Can payment stable coin holders um or issuers pay yield or interest? The answer unequivocally under
+19:0319 minutes, 3 secondsthe statute is no. Uh payment stable coins are not deposits. They have, you know, different characteristics from
+19:1019 minutes, 10 secondsdeposits. Um they what kinds of activities can issuers engage in? Well, I've listed them here, but essentially
+19:1819 minutes, 18 secondsthink of this as a very narrow type of activity. You can issue, you can uh you have the obligation to redeem uh if your
+19:2519 minutes, 25 secondsholder wants that. The holder has a contractual right to redeem or seek the issuer to redeem their stable coin. You can manage the reserves. You can custody
+19:3419 minutes, 34 secondsthe reserves. Uh and there's a separate custodial uh list of requirements. And you can do the ancillary functions that support all the things that I just described. um if an issuer fails, right?
+19:4519 minutes, 45 secondsIf if there's uh some kind of insolveny event, the Genius Act also kind of walks through those protections. Um,
+19:5219 minutes, 52 secondsessentially at a very high level, what the language seeks to do is take those reserves backing the stable coins and ensure that they're protected, ensure
+20:0020 minutesthat they're not subject to third party creditor claims of the issuer, and allow for a process where a bankruptcy court can determine what reserves are
+20:0920 minutes, 9 secondsavailable for redemption and ensuring that those types of reserves um get distributed on a prora basis across all
+20:1720 minutes, 17 secondsholders. There's a little bit more to it, but that's essentially the basic um function of this of this provision. Next slide, please.
+20:2520 minutes, 25 secondsSo, um here basically we're we want to walk through some key questions. First, what do the regulators have to do? Well, actually do quite a lot. Um following
+20:3520 minutes, 35 secondssignature of this uh Genius Act at some point there is quite a a bevy of rulemaking that needs to happen. uh it's
+20:4220 minutes, 42 secondsapproximately anywhere between 16 to 18 separate rules that will need to be proposed under notice and comment. Uh so
+20:5020 minutes, 50 secondsindustry will have an opportunity to comment on those rules. Uh and they need to be finalized many of them within one year post enactment. So let's say
+20:5820 minutes, 58 secondshypothetically the genius the final genius version gets um signed by the president in August. That means the earliest we could probably have an
+21:0721 minutes, 7 secondseffective date and all the rules that we need to implement the act will likely not happen until first quarter of 2026.
+21:1421 minutes, 14 secondsAnd that's really important. I'll get back to that uh on the last slide. The key roles that are going to be focus of the banking regulators and US Treasury
+21:2321 minutes, 23 secondsearly on are going to be BSA AML that'll go out I think 30 days uh after the president signs the bill and the second
+21:3221 minutes, 32 secondsare capital liquidity and risk management and the Genius Act actually has a blueprint for essentially what those kinds of rules should look like
+21:4121 minutes, 41 secondsand the bottom line there is they need to be tailored to the economic business model of the issuer. They can't make the
+21:4821 minutes, 48 secondsbusiness of uh issuing stable coins uneconomic, right? That would undermine the entire purpose of the Genius Act and they need to be carefully calibrated. So
+21:5721 minutes, 57 secondsdepending on whether you're a bank or you're private issuer, there will be different rules that apply across all these different things.
+22:0322 minutes, 3 secondsThe state regulators for you know issuers that seek to be regulated at the state level will also have to do some um some implementing and and state rules.
+22:1222 minutes, 12 secondsUm most of the rulem is going to happen at the federal level. Um, but the most important thing if you want to issue and be regulated by your state is that the
+22:2122 minutes, 21 secondsstate needs to make sure its its framework is substantially similar to the federal one. And that's because we don't want a situation where the federal
+22:3022 minutes, 30 secondsframework has rules and the state framework has rules and they don't match and we have regulatory arbitrage and we have two systems that don't work well
+22:3822 minutes, 38 secondstogether. Um there's a real desire to have a strongly homogeneous framework across both the federal and state uh
+22:4722 minutes, 47 secondsregulations. We talked a little bit about what happens in insolveny um and the fact that holders of those stable
+22:5422 minutes, 54 secondscoins will have first dibs and super super priority over their reserves uh should the issuer fail. Next slide please.
+23:0323 minutes, 3 secondsSo um very quickly I want to touch on what what I think the goal ought to be in all this exercise. just kind of thinking many steps ahead. Um, not
+23:1223 minutes, 12 secondsnothing about stable coins will work in my opinion if it's if it's not a trusted payment instrument. And that's what I that's what I mean here when I say good
+23:2123 minutes, 21 secondsdigital cash. Um, just like you know money today like it doesn't work unless there's trust behind it, right? And there have been hundreds of years behind
+23:3023 minutes, 30 secondsum, you know, private bank money and how we think about commercial money. Um, could we get there with something like
+23:3723 minutes, 37 secondsstable coins and digital cash? Well, we'll need to build frameworks um and systems where the public has confidence that it's a medium of exchange that's
+23:4523 minutes, 45 secondsthat's fluid, that's that's efficient, that's trusted. Users have to have confidence that we have, you know, good
+23:5223 minutes, 52 secondsframeworks and clear um clear rules, not just in the US, but of course across the world. And most importantly, um, you
+24:0024 minutesknow, customers have to believe and and trust that their stable coins and the reserves backing them are going to be protected, including an insolveny of the
+24:0924 minutes, 9 secondsissuer. So, a lot of those um policies are what driving or what what's driving so many of the provisions in the Genius Act.
+24:1824 minutes, 18 secondsUm, the next uh set of bullets just kind of walks through what we would need to do there. Um, if we have legal frameworks that are thoughtful and are
+24:2624 minutes, 26 secondsstrongly similar, then I think we will have a world pretty soon where stable coins come out of this kind of fringe
+24:3324 minutes, 33 secondsDeFi environment uh supporting lots of different types of uh, you know, economic use cases including in payments
+24:4024 minutes, 40 secondsum, internal treasury to Alex Trees's point earlier, we're we could see a much more robust uh, issuer framework moving
+24:5024 minutes, 50 secondsfrom the current duopoly that we have to a a system where we have many players um we will hopefully see greater
+24:5724 minutes, 57 secondsinteroperability across the different blockchains where uh stable coins um essentially are live. Um, if we have all
+25:0525 minutes, 5 secondsthose things and if we have a proliferation of issuers, at the end of the day, it probably shouldn't matter whether you're holding USDC or you're
+25:1325 minutes, 13 secondshope or you're holding Paxos U USD or Ripple if they're all required to be
+25:2025 minutes, 20 secondsregulated the same or mostly the same, then these will just be like the way you use digital cash today. No one no one
+25:2725 minutes, 27 secondslooks at the serial number on their dollar bill. Uh people just trust it.
+25:3025 minutes, 30 secondsAnd so if we do the things that we need to do from a regulatory perspective and a supervisory perspective, uh it's possible we could get there and it will take time of course. Next slide please.
+25:4225 minutes, 42 secondsSo I think there are three underappreciated points that I take away from my study of these bills and I want to share them with this group. The first
+25:5025 minutes, 50 secondsis what I mentioned before. There's quite a lot of rulemaking that needs to happen um and within a relatively short amount of time. US Treasury has like I
+26:0026 minuteswould say the bulk of this responsibility along with the federal banking agencies uh many times in consultation with the
+26:0726 minutes, 7 secondsstate level agencies. As I said, I expect this will be all for notice and comment. So for all the bankers listening on the phone, um you all
+26:1526 minutes, 15 secondsshould really be thinking about how to engage as part of that process which will start in earnest you know following signature just based on where the
+26:2426 minutes, 24 secondstimelines are in Genius today. If we're not thinking about all these different rules and interlocking pieces strategically and early, uh there is
+26:3326 minutes, 33 secondssome risk that we could be working against ourselves and not getting close to, you know, the GDC and the good digital cash that I talked about before.
+26:4126 minutes, 41 secondsSo, I think it's important for the agency to organize early and think through those pieces. If I were to rank my top two in terms of sequencing, I
+26:5026 minutes, 50 secondsagain I would focus on BSA, AML, um um as well as uh looking at capital
+26:5826 minutes, 58 secondsliquidity and risk management frameworks. For those banks that might be issued might be issuing, they'll have to have redemption policies and things that they've probably never thought too
+27:0627 minutes, 6 secondsdeeply about. Um but those are kind of second order things. Uh the of course broader risk is that if we don't have
+27:1427 minutes, 14 secondsroles that line up that we will have a race to the bottom either in the United States which I think there's lesser risk of based on my reading of genius but
+27:2327 minutes, 23 secondsglobally. Uh I won't go into that uh so much now because this is more of a domestic discussion but just something to think about. Next slide please. Um
+27:3227 minutes, 32 secondslastly I just wanted to share a little bit about what you know my team has already been doing with clients. Um the bottom line is banks are moving. They
+27:4027 minutes, 40 secondsare not waiting for a signature on a bill. Many of the sophisticated banks uh that I'm working with are really thinking about, you know, nuts and
+27:4927 minutes, 49 secondsbolts. If we wanted to issue um in two months, what would that legal structure look like for us? How would we set up that legal entity structure? What are
+27:5727 minutes, 57 secondssome different models? Um how do we think about those models? What are the tax consequences? What are where where where would the reserves sit? Who
+28:0528 minutes, 5 secondsmanages those reserves? all those really important questions. Those are cutting edge questions for banks. That's why it's so exciting to really think about it with them. Um, clients are looking at
+28:1428 minutes, 14 secondsthese interim solutions prior to the effective date. The earliest would be, I think, Q1 of 2026. Now, imagine there we're going to already have some rules
+28:2328 minutes, 23 secondsor many rules in place. Now, I think the opportunity is to help drive what those rules will look like in concert with regulators. And that's that's kind of the fun piece that we get to work on.
+28:3228 minutes, 32 secondsNow, many banks don't realize that under current interpretive letters, both at the OC and guidance coming from uh the
+28:4128 minutes, 41 secondsFDIC, if if you're a bank whose primary federal regulator is either of those agencies, and potentially we'll also hear from the Fed on this, you can
+28:4928 minutes, 49 secondsengage in crypto asset activities under ordinary supervision so long as that activity is well riskmanaged. So, you
+28:5628 minutes, 56 secondsdon't actually need genius uh in my in my view to go out and do these things.
+29:0029 minutesSo long as you're building thoughtfully in a riskmanaged way um you know giving your regulator uh transparency into what
+29:0729 minutes, 7 secondsyou're doing or what you want to do technically that's the world we are in right now uh following issuances uh just you know I would say several months ago
+29:1529 minutes, 15 secondsstarting in March so uh I think this presents a really interesting opportunity for banks who want to keep learning and maybe building um you're
+29:2429 minutes, 24 secondsgoing to need a very interdisciplinary group of experts both internally and externally to accomplish that. Um, internally, you're obviously going to
+29:3329 minutes, 33 secondswant to bring in your risk and compliance team to the extent you have an R&D team, uh, uh, and obviously members of your your bank boards and
+29:4129 minutes, 41 secondspotentially, um, other groups, uh, other risk committees, audit committees. It really takes kind of a team effort, which is what I'm finding. Um, in terms
+29:5029 minutes, 50 secondsof the legal know-how, it really cuts across so many different areas of my firm, corporate, bankruptcy, payments,
+29:5629 minutes, 56 secondstax, IP. Um, we're seeing, uh, banks wanting to white label stable coins and working with partners on the outside and
+30:0430 minutes, 4 secondsthinking through all the economics of that. uh and of course thinking through um you know do they have the infrastructure to do that to Alex
+30:1230 minutes, 12 secondsTrees's point and of course do they have the risk management that they need to have that's specific to this kind of activity which Matt West will touch on
+30:2030 minutes, 20 secondsin a minute. Um bottom line is I think if you have a team of experts both internally and externally and you have good relations with your state and
+30:2930 minutes, 29 secondsfederal uh you know counterparts your regulators you're well positioned to start thinking like this um and to the
+30:3630 minutes, 36 secondsextent you just have questions about how to think about it uh you know definitely reach out. We've all we've all I think um been on the receiving end of those kinds of questions uh from the industry.
+30:4630 minutes, 46 secondsSo, um, happy to answer questions at the end and, uh, I'll turn it over to Matt West. Matt.
+30:5330 minutes, 53 secondsYeah. Thanks, Alex and Alexandra.
+30:5630 minutes, 56 secondsAlex and Alexandria and I have had in multiple conversations and we presented uh to to uh there's a few times we presented together and I I learn
+31:0431 minutes, 4 secondssomething each time. So, always appreciate working with them. So, we'll jump into it and I'd say um so that the first thing to think about as I I walk
+31:1331 minutes, 13 secondsthrough the slides, where do you want to be and where do you want your bank to be on the adoption curve as it relates to
+31:2031 minutes, 20 secondsto stable coins? By definition, we we can't all be innovator early adopter. We we can't have 100% of us being in the
+31:2831 minutes, 28 secondsthe top 15%. So, uh, as we talk through these and some of the opportunities, I think it'll start to fall out which which banks are most likely to be early.
+31:3831 minutes, 38 secondsUh, and a lot of that's based on the the opportunities that are are are most immediate. And, uh, as we look at the
+31:4731 minutes, 47 secondsnext slide, Visa put out a white paper on on stable coins just emphasizing what what Alex had had led with the the early
+31:5531 minutes, 55 secondsdays of stable coins. is really utility for for crypto capital markets. So, I think that's the the first piece. If if you're a bank that is currently
+32:0332 minutes, 3 secondssupporting uh crypto or digital asset customers or digital asset exchanges or or some of the custodians, then uh it's
+32:1132 minutes, 11 secondsit's likely that you're you're already pretty far down the path of talking about a stable coin strategy. Uh if not, uh you probably should be. uh the other
+32:2132 minutes, 21 secondsopportunities or opportunity categories that are I'd say current today crossber payments uh it comes up quite frequently
+32:2932 minutes, 29 secondswhether that's B2B andor some remittance or payout but crossber is is is uh
+32:3732 minutes, 37 secondsthey're active businesses and that today uh much of what stripe and bridge uh are doing are are related to crossber
+32:4632 minutes, 46 secondsthen uh a third category for that and I'm going to pick up a few of the questions as we go in. Merchant
+32:5332 minutes, 53 secondsacceptance or merchant processing uh payment acceptance is is a third category that uh we're seeing active business being built and and pilots and
+33:0133 minutes, 1 secondprototype working through. So someone asked about Fiserve and their announcement. They they had a couple of different announcements last week uh
+33:0933 minutes, 9 secondsrelated uh one was with the the issuance of uh of their own stable coin called FIUSD
+33:1733 minutes, 17 secondsand the other one was with Mastercard and talking about the acceptance uh for anyone who who's working with them as a
+33:2433 minutes, 24 secondsprocessor. So I think that's probably more defensive uh at this point given what Stripe's doing. Also uh you saw
+33:3133 minutes, 31 secondsCoinbase and Shopify have a a similar announcement around payment acceptance.
+33:3633 minutes, 36 secondsSo multiple opportunities what I have to do over the next few slides is to give you a high level framework uh to
+33:4433 minutes, 44 secondsunderstand the opportunity as well as to to assess the risk. So um whenever a bank CEO or leader reaches out to me and
+33:5233 minutes, 52 secondssay hey what do you think about stable coins or what do you think about this particular opportunity? I usually try to qualify it first. The first four questions here are really about roles
+34:0034 minutesand responsibilities. The last three are are more about value and value creation.
+34:0634 minutes, 6 secondsSo in any opportunity, there's a question of who's going to be the issuer of the stable coin, who's using it, who's holding or moving the stable coins
+34:1334 minutes, 13 secondsaround, and and who's the bank's legal customer. Uh just something to emphasize here, there are stable coin opportunities for banks beyond the or I
+34:2234 minutes, 22 secondssay beyond or without the bank being required to be the issuer. Um, so that's sort of one thing as we work through an example is you don't necessarily have to
+34:3134 minutes, 31 secondsbe an issuer of stable coin to support some of these stable coin opportunities and participate in in them.
+34:3834 minutes, 38 secondsUh, I'd say the the question that I I typically even ask before trying to understand roles and responsibilities,
+34:4434 minutes, 44 secondsjust ask why. Um, why stable coin? Uh, I caution don't don't get caught up in the hype. Really understand what value is
+34:5134 minutes, 51 secondsbeing created, who's what's the likelihood of adoption. my my personal belief most stable coin opportunities right now the biggest risk is lack of
+35:0035 minutesadoption as Alex mentioned it's it's really driven right now by as an issuer by by two major parties so I think any
+35:0835 minutes, 8 secondsbank who's considering adoption really or any bank who's considering issuing a stable coin really think about what what
+35:1635 minutes, 16 secondstype of capabilities you have and how much value you'd be creating with this opportunity uh and what's the reason that users would adopt the stable coin that you're issuing.
+35:2735 minutes, 27 secondsAnd of course, the last one obvious is how how will we make money? Um I'll I'll take this a little bit farther and do an
+35:3435 minutes, 34 secondsexample on the next slide there. The idea of B TOC payouts. Uh and this one being crossber.
+35:4135 minutes, 41 secondsUh you look those questions I just mentioned along the left side. There's two categories that we're seeing today.
+35:4735 minutes, 47 secondsOne is where a bank is partnering with fintech. Uh so think this is sponsorship. If you're already sponsoring payments, then this might be something to look at. If you don't
+35:5535 minutes, 55 secondscurrently sponsor payments today, then the this is probably beyond your your risk appetite. The the column on the
+36:0236 minutes, 2 secondsright is if the bank were being the issuer. Um that changes who your legal customer is. So would would change any resulting um sort of BSA ML
+36:1236 minutes, 12 secondsresponsibilities. I would say it modifies them some. So just being aware of uh each of the roles and responsibilities and what the bank is
+36:1936 minutes, 19 secondsplaying and how that affects your your risk assessment. Go next slide.
+36:2636 minutes, 26 secondsUh high level framework will start at the bottom of this. Think of it as a foundation. Most stable coin opportunities that you evaluate are going to be a new or expanded product or
+36:3436 minutes, 34 secondsservice. So it would start with a product risk assessment. What are the strategic risks, the regulatory risks, the the credit risks associated with
+36:4336 minutes, 43 secondsthis? Whether it's as an issuer, we're talking about BTOC payouts or crossber uh start start there. Uh then there'll be a number of functional risk
+36:5136 minutes, 51 secondsassessments whether that's your infosc or BSAML consumer compliance liquidity capital updating those risk assessments
+36:5836 minutes, 58 secondsbased on the product and then as you're looking at any customers or third parties you have standard customer and third-party risk assessments today. Uh
+37:0637 minutes, 6 secondsso making sure that whatever this new product or expendit product you're offering uh that you've updated those
+37:1437 minutes, 14 secondsuh risk assessments to to go along with this new customer base.
+37:1937 minutes, 19 secondsAnd on the last slide I think it is I'll I'll highlight uh there's quite a bit of text on this one so I won't try to read all of it but uh I think either through
+37:2737 minutes, 27 secondsa recording or through a copy of these slides you'll have it. So for a number of the use cases if you are considering this is out the the primary risks and
+37:3537 minutes, 35 secondsand probably With each opportunity, I I usually try to associate what is this use case most
+37:4137 minutes, 41 secondssimilar to in traditional banking. So if we think of receiving stable coin maybe
+37:4937 minutes, 49 secondsas payment acceptance, that's more similar to merchant processing or ISO sponsorship. So if you're not in the merchant processing or ISO sponsorship
+37:5637 minutes, 56 secondsbusiness today, uh the best way to to think first about what your risks are uh prior to to introducing stable coin as
+38:0338 minutes, 3 secondsthe payment rail understanding those businesses for B2B payments especially crossborder um sim very similar risks at
+38:1138 minutes, 11 secondsthe foundation to other crossber correspondent banking depending on the structure in which you're going to be supporting those B2B payments
+38:1938 minutes, 19 secondsand then the the bottom two uh would come up stable coin an issuer by itself.
+38:2538 minutes, 25 secondsBeing an issuer, you may have other use cases or multiple use cases you can support. Uh being an issuer, you're
+38:3238 minutes, 32 secondsreally trying to build a network. Uh so I think in that case, think of it as all right, if we want to build a new payment rail or to build a network, uh what are
+38:4138 minutes, 41 secondsour skills and what are the risks associated with it? And then the last one, just holding stable coin reserves is still an opportunity. uh they seem to
+38:4938 minutes, 49 secondsbe higher cost deposits have have a relative amount of of risk just in terms of their liquidity side. So thinking
+38:5738 minutes, 57 secondsthose wholesale deposits and you're also if you're holding stable coin reserves then you're going to have a money service business in today's environment
+39:0439 minutes, 4 secondsthey're circle registered as is a money service business as one of your customers. So you'd be you'd be banking a large MSB. So if you're considering
+39:1339 minutes, 13 secondsthat, I'd encourage you to have have the the base capabilities associated with with that prior to to entertaining that type of relationship.
+39:2239 minutes, 22 secondsAnd that I think we still have a few minutes for questions.
+39:2639 minutes, 26 secondsThanks. I will send out or I will read out the questions to our panelists and whomever is the subject matter expert
+39:3339 minutes, 33 secondsfeel free to chime in. So, first um from anonymous as a bank, could I become a liquidity provider to the market and
+39:4039 minutes, 40 secondsother banks if I want to build and support it?
+39:4439 minutes, 44 secondsI'll I'll take that. Um I I was with a bank at at one of the large custodians. It was on one of Alex's early slides.
+39:5239 minutes, 52 secondsUm, and at the end of it, we we asked or actually the bank CEO said, "Based on your your relationships, your
+40:0140 minutes, 1 secondconversations, what what's the biggest opportunity out there?" And and they actually brought up the piece of being a a liquidity provider is one of those
+40:1040 minutes, 10 secondsthat seems to to be um no one or I say not enough capacity stepping in to fill
+40:1740 minutes, 17 secondsthat. So, I I do think there's opportunity. I would say strategically, yes. I think for for Alexandria to to weigh in, I don't not aware of any sort
+40:2740 minutes, 27 secondsof regulation that would stop you from doing that today. Of course, you you want to manage that risk well and but uh if you have those capabilities, I I do
+40:3440 minutes, 34 secondsthink there's opportunity there and I don't believe there's anything that would preclude you from doing that.
+40:4240 minutes, 42 secondsYou're on mute.
+40:4440 minutes, 44 secondsAll right. Uh Al Matt West is right. The Genius Act is silent on this liquidity provider point. Um, it's not the first
+40:5440 minutes, 54 secondstime I've heard the question either. I think it's a great question. Uh, we don't really have a framework currently set up for this, but I think we will.
+41:0341 minutes, 3 secondsUm, and I don't necessarily mean a regulatory framework. I mean just something a lot more like a new kind of
+41:1041 minutes, 10 secondsinfrastructure for how to provide liquidity across a much broader swath of entities that are asking the same question.
+41:1841 minutes, 18 secondsSo more to come. Um but yeah it's it's a great it's a great thing. I don't know Alex if you have any thoughts if you've heard that question too.
+41:2841 minutes, 28 secondsYeah I think the short answer is I mean it just summarizes yes. um you know it's it's something that banks can do um for for all the reasons that you guys mentioned but I don't have any comments to add other than what you guys added.
+41:3841 minutes, 38 secondsYeah, thank you. Um the next one is about the Fiserve announcement, but I'm going to see if you guys want to add anything.
+41:4541 minutes, 45 secondsFiser announced earlier this week that they're creating their own stable coin called FIUSD. What could that mean for Fiser banks and how are they doing that without the Genius Act being signed?
+41:5641 minutes, 56 secondsYes, I can maybe take first first crack at this one. So just first just sort of definitionally what did they actually announce? Um it was it was just a press release so not not an actual product
+42:0342 minutes, 3 secondsannouncement. So it was more about their intent to kind of work on something in the future. Um and I think they also mentioned they're only launching it for fins act. I'm not sure how many folks
+42:1242 minutes, 12 secondsare on the caller on Fininszac. So I don't think it'd be supported in DNA or premiere for example at least that it wasn't mentioned um in the press release. Um, and then secondly, it's
+42:2142 minutes, 21 secondsit's not clear whether they are actually launching their own stablecoin or they're working with Circle and Paxos, which are the two stablecoin issuers
+42:2942 minutes, 29 secondsthat they mentioned in the press release. So, I I suspect, and I don't know, but I suspect that what what they'll really do um is have some type
+42:3642 minutes, 36 secondsof white labeled kind of option through Paxos or Circle within the Fiserve ecosystem. And um it may not be like an
+42:4442 minutes, 44 secondsactual separate um you know um stable coin. And as Matt mentioned earlier, I mean it really um it's really and as I mentioned earlier in the slides, I mean
+42:5242 minutes, 52 secondsit's really hard to to to be an issuer of a stable coin. I mean it's as we've seen, you know, really massive companies like PayPal and really wellestablished and kind of capitalized companies like
+43:0043 minutesRipple have tried it and failed. Um and so you have to have a really, you know, strong distribution. And so I think that's why Fiser opted to sort of try to
+43:0743 minutes, 7 secondspartner with uh you know, Circle and Paxos. But it's honestly really early days. It's it's kind of been war of the press releases to be honest you know with with like JPMD with Fiser's
+43:1543 minutes, 15 secondsannouncements where you know if if you sort of read the the the sort of fine print all of them say hey this is stuff that we want to work on the future and they haven't actually built anything yet
+43:2343 minutes, 23 secondsum so it'll be exciting to see um you know in the future kind of kind of what happens but but there's nothing there yet.
+43:3043 minutes, 30 secondsYeah. Sorry. Go ahead Alexander. I was going to say this this kind of forwardleaning public relations strategy
+43:3743 minutes, 37 secondsthat we're seeing is not something I really have seen banks do. Um it seems more out of the tech company playbook.
+43:4543 minutes, 45 secondsUm I think you're right to read it with that fine tooth comb, Alex Trice. Um, and I think just from the bank
+43:5343 minutes, 53 secondsregulatory side, you know, if any bank wants to uh have a stable coin use case or iterate here, um, it's going to be
+44:0044 minutesreally important that they they work through all of the different issues um, before they even like go to their board or talk to the talk to the regulator.
+44:1044 minutes, 10 secondsThere's a real um, important riskmanagement component that I would just be really prudent about as a bank.
+44:2044 minutes, 20 secondsThanks. Um, next is how do they keep unregulated and non-compliant issuers from being used within the US? Is there a way to block illegal activity?
+44:2944 minutes, 29 secondsSo, I I'll give this off. The way the way Genius kind of addresses this point is um it has a definition of what's
+44:3644 minutes, 36 secondscalled a foreign payment stable coin issuer. Um, and it has this other definition for US-based issuers that
+44:4444 minutes, 44 secondshave to be permitted. And effectively, there's a three-year runway within which um you know, an issuer would need to comply. If you're a foreign payment uh
+44:5344 minutes, 53 secondsissuer, you you technically are not required to um sign up to all the different things in the US Genius Act
+45:0145 minutes, 1 secondfinal statute, whatever that will look like. Uh but you need to show that you have the capability to block uh
+45:0845 minutes, 8 secondstransactions. And so if you are a foreign payment stable coin issuer and let's say you have a comparable framework in your jurisdiction whether
+45:1745 minutes, 17 secondsthat's Micah or wherever none of that has yet been determined by Treasury that's a separate process under the bill but if you are coming from a comparable
+45:2545 minutes, 25 secondsframework you have to show the techn capabilities so that if you know you get an order from the justice department or fininsen because there's been some kind
+45:3345 minutes, 33 secondsof illicit finance activity you have to have the ability to basically stop that transaction. action and issuers have
+45:4245 minutes, 42 secondsthat ability today. So, um there's a little bit of a of a a different regime that applies uh to foreign payment stable coin issuers.
+45:5145 minutes, 51 secondsUm the other point too is that exchanges or DASPs digital asset service providers would be prohibited uh after a time
+46:0046 minutesperiod of I think it's three years from listing uh non-compliant foreign payment stable coins on their on their um on
+46:0846 minutes, 8 secondstheir exchange. So there's another way to get at that compliance point as well.
+46:1446 minutes, 14 secondsMatt or Alex, you guys want to add to that?
+46:2046 minutes, 20 secondsI I think definitely agree with all that. And then they're sort of more more detailed pieces if if uh one of these
+46:2846 minutes, 28 secondsillegal are trying to oftentimes they're going to need on and off ramps meaning fiat on and off ramps. So in that case they would need a relationship with the US bank. So if the banks are doing their
+46:3846 minutes, 38 secondsjob in their diligence they would recognize that that that entity is not properly licensed. Uh so they wouldn't be able to get uh banking for for those.
+46:4746 minutes, 47 secondsThat'd be another way. Also, they want to hold US dollars as reserves. Same thing. Any bank in US should should recognize that they're not private
+46:5646 minutes, 56 secondslicensed. So, they should should get caught that way and be unable to to to hold any dollars in uh deposits at US banks.
+47:0847 minutes, 8 secondsNext, we have, what do you see as the single biggest opportunity for traditional FIS with stable coins? Is it more offensive or defensive in nature?
+47:1747 minutes, 17 secondsYou may kick us off, Matt. I'm sure you have thoughts as well. Um, and so I think there's so first I think it's both offensive and defensive. Um, I also
+47:2547 minutes, 25 secondsthink there's kind of a uh, you know, crawl, walk, run paradigm as well. Like, you know, you don't have to become Coinbase, you know, and in in the next six months. And I think so I think and
+47:3447 minutes, 34 secondsand where I expect most people on the call are is at the crawl phase. So I'll focus there. And I think and we we showed a bunch of figures earlier about just how big this market is, how fast
+47:4247 minutes, 42 secondsit's growing. And I think if you think about like how the bank is positioned in their customers lives, whether it's retail, whether it's kind of a business, it's it's as that kind of center of of
+47:5047 minutes, 50 secondsthat financial activity. Um, and so I think banks should want to retain to to kind of be that center. And to the extent that this activity is happening outside the bank, you want to bring
+47:5847 minutes, 58 secondsthose capabilities into the bank itself, right? So the the sort of crawl version I think is just bringing basic interoperability at the bank. So being able to deposit stable coins, you know,
+48:0648 minutes, 6 secondsfrom this external world um into deposits at the bank and be able to send stable coins as a payment rail from deposits, you know, from the bank, right? Be able to offer as as payment
+48:1448 minutes, 14 secondsrails. Um and in that world, um which I don't think is that complicated. It's not like you're becoming an issuer. It's not like you're becoming a cryptocurrency exchange. You're just
+48:2248 minutes, 22 secondscontinuing to be the trusted center of that customer's financial life, right?
+48:2548 minutes, 25 secondsYou're adding another payment rail just like a wire or RTP or Fed Now that happens to be useful and happens to be something that they want. So um that's
+48:3348 minutes, 33 secondsdefinely where I would start and I think once you have the primitive of hey I can go between you know dollars and stable coins at the bank and I have that sort of capability then you can sort of go
+48:4148 minutes, 41 secondsdown the list of your products right you can whether it's private wealth whether it's payments whether it's treasury management whether it's you know merchant payouts there's you know many
+48:4948 minutes, 49 secondskind of opportunities and areas um where the the sort of stable coin primitive could be useful once it's embedded so that' be my quick thoughts Matt Matt or
+48:5748 minutes, 57 secondsAlexander if you if this weren't recorded I'd be more comfortable answering because I think a year from now my answer will definitely be different. I don't know what it'll be
+49:0549 minutes, 5 secondsbut I'm sure it will be different. Uh so the most activity that I see today is around crossber. So I think the large
+49:1249 minutes, 12 secondsbanks the JPM u you know what Melon I think even put something out around crossber they have the most to lose as
+49:2049 minutes, 20 secondsit relates to crossber. So I think theirs is more defensive currently uh for community and and regional banks. I
+49:2849 minutes, 28 secondsthink there's if there's a bank that currently has capabilities risk management capabilities and sponsoring crossber
+49:3549 minutes, 35 secondspayments then working with a number of the payments companies who want to really leverage a new rail or a new
+49:4249 minutes, 42 secondsinfrastructure outside of the US and I think that's that's opportunity.
+49:4849 minutes, 48 secondsUm those would probably be the where I see the most activity today. Um, and then I guess third one, any banks that are supporting crypto are willing to
+49:5749 minutes, 57 secondssupport digital asset exchanges. As you mentioned, the bulk of the activity with stable coins is still around crypto capital markets. Um, so that's the the
+50:0550 minutes, 5 secondsbiggest piece of the pie. So, so finding I think there are a couple different ways to participate in that. Um, that that requires a bank to have the risk
+50:1450 minutes, 14 secondsappetite to support digital asset or crypto companies. Yeah. Stable coin opportunity.
+50:2150 minutes, 21 secondsSorry, Matt. I didn't mean to cut you off.
+50:2550 minutes, 25 secondsI was just going to add to what Matt said. Um, a slightly different way of approaching this question is to say like at your bank, what do your customers
+50:3250 minutes, 32 secondscare about? What kinds of activities do they engage in? What percentage of your customers hold digital wallets today?
+50:3950 minutes, 39 secondsHow many of them are engaging with crypto? Like, these are really basic questions. is like we we talk about these use cases because they're out
+50:4750 minutes, 47 secondsthere and we get questions on them, but I think like each individual bank has to understand for itself what what does the core deposit base want in terms of its
+50:5650 minutes, 56 secondsproducts? How do I keep that core deposit base? Um are many of them engaging in crossber payments to Mount
+51:0351 minutes, 3 secondsWest? Okay, how are they doing that? Um what's it costing them? You know, there are studies out there that say, you know, uh it's like six cents of every
+51:1151 minutes, 11 secondsdollar just goes to fees. If you offered a stable coin product, would it be less than six cents? What would it be? Like these are all very basic, um, you know,
+51:2051 minutes, 20 secondsquestions that I think are worth exploring. Um, and I think, you know, at the same time, um, the most
+51:2751 minutes, 27 secondssophisticated banks, to Alex Trees's point, are acting defensively. They are leaning heavily on tokenized deposits as
+51:3451 minutes, 34 secondsan alternative in their view. um maybe not so maybe they don't state it so obviously but they are they're wanting
+51:4151 minutes, 41 secondsto compete um and they will and so I think it's not clear how this is all going to shake out. I think that you
+51:4851 minutes, 48 secondsknow smaller banks in many ways can be more nimble and potentially have an advantage um including acting in concert
+51:5651 minutes, 56 secondstogether if if that's what makes the most sense as part of a network. We've seen stories about consortiums being formed. Um, you know, so it's still
+52:0452 minutes, 4 secondsreally early days. Um, but I don't know, Alex or Matt, uh, market research on this, getting customer feedback. What
+52:1252 minutes, 12 secondsare your thoughts on banks just like finding out more from their base?
+52:1752 minutes, 17 secondsWell, um, I'm not associated with Rev. I mean, I know Banktech has another portfolio company called Revio that sort of looks at there there's companies out
+52:2552 minutes, 25 secondsthere that sort of help you analyze um, some of your existing data. And so if you're not, you know, actively talking to your customers, which which you should be, but um that there's ways to
+52:3352 minutes, 33 secondskind of analyze, you know, transaction history. I know that we have talked to banks that have seen, you know, uh and this is not stable coins, but just sort of digital assets more broadly, you
+52:4152 minutes, 41 secondsknow, um uh millions or tens of millions of deposits flowing out to places like Coinbase, these crypto exchanges, right?
+52:4852 minutes, 48 secondsAnd that was kind of the the sort of, you know, ringing alarm bells in their head like, wait a minute, you know, these are deposits that are not coming back. Um, and so anyways, that that
+52:5552 minutes, 55 secondsthat's not necessarily stable coin related, but just more broadly this idea of of trying to look at the data and and see what your customers are doing. And I think I think that's more on the on the
+53:0353 minutes, 3 secondsdefensive. And as as Matt mentioned, I think like there's also offensive things you can do if you want to play in sort of a new vertical or serve this market.
+53:0953 minutes, 9 secondsI mean, we we showed earlier, this is a market that's going to go from 230 billion or so of supply potentially to to kind of multi- trillions in in the
+53:1753 minutes, 17 secondssupply side. And then in the transaction volumes, we're talking tens and tens of trillions potentially. And so, you know, even if you know, you don't have an
+53:2453 minutes, 24 secondsinterest in stable coins, stable coins may have an interest in you and may these assets may try to find a way back to your bank. And I think it's going to be just sort of table stakes for for banks to at least support the rail.
+53:3753 minutes, 37 secondsI know we're coming up on the hour here.
+53:3953 minutes, 39 secondsI just want to say we have quite a few questions left, but Alex and I will stay on as long as we need to get through all them. Um, I'm gonna jump around a little
+53:4653 minutes, 46 secondsbit though. So, next is from Cassie. How will the clarity act and the genius act intersect?
+53:5353 minutes, 53 secondsSo uh there are different acts you know genius is specifically stable coin specific clarity is really more about
+54:0254 minutes, 2 secondsuh well just market structure role of SEC versus CFTC um on digital asset securities digital asset commodities and those are all
+54:1054 minutes, 10 secondsdefined terms um procedurally how will they work uh there could be one of two worlds one is genius moves through the
+54:1854 minutes, 18 secondshouse there's a reconciled bill and it gets separated ated from the Clarity Act. Um there's another world where they
+54:2654 minutes, 26 secondsget bootstrapped together and so even if genius is ready to go, it's going to be waiting in the wings until clarity gets
+54:3354 minutes, 33 secondsgets passed. Um I don't yet know how that's going to play out. Uh but I think they're equally possible. Uh and I will
+54:4254 minutes, 42 secondssay Clarity Act is a lot more complicated than stable coins and stable coins frankly has a lot of has had a lot of thorny interesting issues itself. So, um, that's about all I can say there.
+54:5654 minutes, 56 secondsAll right. With North Korea having stolen over a billion in crypto assets in the last two years, how safe are stable coins?
+55:0555 minutes, 5 secondsThis comes up with sort of crypto in general. And we have to distinguish the safety of the asset and the protocols and these service providers that offer
+55:1355 minutes, 13 secondsthem like exchanges. So if you look at most of um you know what North Korea has done, it's it's basically been hacking kind of overseas venues, you know,
+55:2055 minutes, 20 secondsexchanges and other types of things that have really shoddy um you know, security uh and and and and probably really bad software. So that's not necessarily um
+55:2955 minutes, 29 secondsindicative that stable coins and digital assets aren't safe. In fact, they're very safe. Um it just it's indicative that there's, you know, there there sort of parties out there that don't take
+55:3755 minutes, 37 secondssecurity seriously enough and and they become targets.
+55:4455 minutes, 44 secondsIf my clients are exchanging in other crypto assets, should they use stable coins to bring those back into the bank?
+55:5255 minutes, 52 secondsWell, um, you want to go first? Yeah, I have a thought, but go ahead.
+55:5655 minutes, 56 secondsYeah. No, Matt Matt, go ahead kick it off and I'll I'll respond after. Yeah, I think if if the bank's current customers are
+56:0556 minutes, 5 secondsare currently trading or exchanges, stable coins uh or other digital assets, they're probably working with an exchange unless they're doing really
+56:1356 minutes, 13 secondslarge and maybe working with over the counter and doing some things direct. So in that case I mean the most like the way to is typically come back to the
+56:2156 minutes, 21 secondsbank if u the the customer sells or exchange that for for fiat and then the
+56:2856 minutes, 28 secondsfiat could come back into the bank if I there are different ways this question could go if the bank were trying to
+56:3656 minutes, 36 secondsfigure out how to so there is a path where um a customer they get out of a a
+56:4256 minutes, 42 secondsposition in say bitcoin and they may choose to hold that in stable coin as opposed to holding it in dollars or in
+56:5156 minutes, 51 secondsfiat. In that case, if the bank did have the ability to to receive and hold stable coins, then uh potentially that
+56:5856 minutes, 58 secondsthe customer could hold those stable coins at the bank rather than holding those stable coins on an exchange. So different ways I could interpret the question, but hopefully I gave you some direction of an answer there.
+57:1057 minutes, 10 secondsWell, just one thing I want to highlight just taking a step back is that if we look at the sort of tectonic shifts that have happened this year on the regulatory banking side, right? So, OC,
+57:1857 minutes, 18 secondsFJIC, FRB all kind of rescending prior guidance and updating new guidance. Um, it's not just stable coins, it's also kind of digital asset activity, you
+57:2657 minutes, 26 secondsknow, more broadly. If we look at the president's executive order on digital assets, it's not just stable coins, it's it's, you know, digital assets more broadly. And so I would, you know, and I
+57:3557 minutes, 35 secondsknow this is a call and this is a webinar about stable coins, but I would encourage everyone to sort of take a step back and see that there's a much much bigger sort of secular trend
+57:4257 minutes, 42 secondsplatform shift happening here around, you know, um, tokenized assets, digital assets, and just and just blockchain technology more generally. And stable
+57:5057 minutes, 50 secondscoins is kind of at the vanguard of that and and obviously like the Genius Act is bringing a lot of attention to that. But certainly, you know, many bank customers uh are holding these other types of
+57:5857 minutes, 58 secondsassets, things like Bitcoin. Um, and so and I I know we're working with with with kind of many other banks who are trying to develop the capabilities. Um, and so you should think about developing
+58:0658 minutes, 6 secondsthe capabilities, the sort of technical capabilities at least around stable coins as being very similar to support other types of digital assets. And that's because they're really kind of
+58:1358 minutes, 13 secondsshifting. It's it's almost like, you know, every once in a while there's these technology shifts that happen, right? You know, um, maybe like branches to online and then online to mobile.
+58:2158 minutes, 21 secondsWell, this is yet again another one of these technology shifts, right? Where we're going towards towards sort of non-digital to to to sort of fully digital. Um, and so as a bank, you know,
+58:3058 minutes, 30 secondsit is permissible for you to offer things like crypto accounts at the bank and do things like stable coin payments.
+58:3558 minutes, 35 secondsSo, um, if that's something you're thinking about, you know, again, this is for sort of scoped to stable coins here, but that certainly, um, is is now kind of in the same realm and it's it's sort of permissible based on the regulators.
+58:4658 minutes, 46 secondsYeah, I guess I mean three years ago there there were multiple companies few fewer than 10 but multiple companies
+58:5358 minutes, 53 secondsworking on ways to where you could um embed within your online banking a way for your bank customers to see to see
+59:0259 minutes, 2 secondsandor have their crypto assets. So it could be they're just seeing them ne within your online banking and and some were actually working to where they
+59:1059 minutes, 10 secondscould be held and custodied by a vendor and then displayed in your online banking. And uh I've started to see some of those pop up just within this week.
+59:2059 minutes, 20 secondsI've been reviewing one for one of the banks I work with an opportunity for a a vendor partner who who sells to FIS and
+59:2859 minutes, 28 secondsenables the bank's customers to be able to buy sell and hold digital assets. So, I think those those are coming back.
+59:3859 minutes, 38 secondsHow realistic is the two-year timeline to get the rules in place at the federal level?
+59:4559 minutes, 45 secondsAlexandra would have been much better to answer that than than I am, but I I I do think I remember in some of our our prep calls, uh, she described it as a lot of
+59:5559 minutes, 55 secondswork to be done in a short time frame, but I don't know that I have a a good opinion to to offer on how realistic that is.
+1:00:051 hour, 5 secondsAlex any no I mean same I mean Alexander is is literally one of the world experts in that in that question so she would be good to answer it but yeah I so it's
+1:00:131 hour, 13 secondshard to say I I do think what I would point to is that um there's a very strong sense of urgency from both lawmakers um and from companies right to
+1:00:221 hour, 22 secondsget this done and so if you just look at the incentive structure um you know everything points to it's better to have it happen faster so based on that incentive structure I would expect
+1:00:311 hour, 31 secondsthings to move pretty swiftly Okay, I will send that question directly to Alexandra and include her answer in
+1:00:381 hour, 38 secondsmy postevent email. Um, how may genius impact foreignbased stable coins?
+1:00:481 hour, 48 secondsI think I think Alex, that's another good one for Alexander. She hit on it a little bit earlier that they have a carve out in Genius uh for for kind of foreign stable coins. And so it's it's
+1:00:561 hour, 56 secondsmostly a technical matter. I think Alex would Alexander would be a good one for that. Matt, unless Matt, you have something to add. Uh, just a little bit more. I think so.
+1:01:051 hour, 1 minute, 5 secondsTether is the the obvious one. They're they're large one of the two large players and they are foreign based. I
+1:01:121 hour, 1 minute, 12 secondsmost recent conversation. Yes, there's a technical path, but I I think there's they're working away of of how Tether
+1:01:191 hour, 1 minute, 19 secondswould would fit within the Genius Act for implementation. So not not clear, but um for everything we hear there
+1:01:271 hour, 1 minute, 27 secondsthere's a path or will be a path for them to to fit within the Genius Act or the implementation of the Genius Act.
+1:01:321 hour, 1 minute, 32 secondsYeah. And and maybe I'll just speculate here. I mean I think given how big Tether is and how important, you know, they are one of the, you know, literally
+1:01:401 hour, 1 minute, 40 secondsone of the largest buyers of treasuries in the entire world. Um and I I I think they will, my guess is they will take a crack at trying to stay um relevant in
+1:01:481 hour, 1 minute, 48 secondsthe US. They may, it's been kind of rumored that they may create a separate structure. Um, so it' have sort of this kind of US-based entity and sort of have Tether as the XUS. Uh, but they
+1:01:571 hour, 1 minute, 57 secondscertainly have the resources to to to try that. Um, and so if there's anyone that is able to do that from a foreign perspective, it would be them.
+1:02:061 hour, 2 minutes, 6 secondsLast question. We've been talking about this a lot at my institution. What would my tech stack need to look like if I wanted to launch this at my bank?
+1:02:141 hour, 2 minutes, 14 secondsYeah, I can I can leave this one off and then Matt feel free to share. So, um it really depends on what you want to do, but if it we're talking about the sort of, you know, crawl version of, hey, I
+1:02:221 hour, 2 minutes, 22 secondsjust want to bring basic stable coin kind of interoperability at the bank, um that's effectively, um you know, working with an issuer or or some type of
+1:02:301 hour, 2 minutes, 30 secondsprovider like Circle or Paxos. Um and then getting that integrated into your core, getting that integrated into um into your digital banking. Of course, that's what my company stable core helps
+1:02:381 hour, 2 minutes, 38 secondswith is kind of doing that. So, you to build that yourself, but if but if you kind of did want to build it yourself, that that would be a path. Um so but but it's effectively you know you can think
+1:02:461 hour, 2 minutes, 46 secondsof it as kind of three pieces on one side is the sort of crypto infrastructure that's that's that's things like the custodians Coinbase Firebox Anchorage that's the stable coin
+1:02:541 hour, 2 minutes, 54 secondsissuers like Circle and Paxos that's the compliance tools like chain analysis and TRM that I mentioned so that's kind of like one side that you'll need the other side obviously is the is the sort of
+1:03:021 hour, 3 minutes, 2 secondsexisting tech stack of the bank right so the core and also the um digital banking and then in between doing the ledgering and orchestration to help you do that
+1:03:101 hour, 3 minutes, 10 secondsmovement of funds for example right so if you're like sending a stable coin from a deposit it kind of orchestrating with your core, orchestrating with a prefunded account at one of the
+1:03:171 hour, 3 minutes, 17 secondsproviders. Um, and so those are all kind of the the pieces that you would need and and certainly that's something that that we help with. We sort of build that as a as a digital asset sidecore. Um,
+1:03:261 hour, 3 minutes, 26 secondsbut but if you didn't want to do that, you could also, you know, basically kind make those integrations yourself and then try to build all that piping um yourself. But those would be the kind of key pieces you need.
+1:03:371 hour, 3 minutes, 37 secondsMatt, anything you want to add on that?
+1:03:401 hour, 3 minutes, 40 secondsNope. I covered I saw that question come through and I thought there's a softball for Alex.
+1:03:471 hour, 3 minutes, 47 secondsAwesome. Well, that was the last question. Um, and I know we're quite a bit over time, but if you guys have any other questions, feel free to reach out to me directly and I can share them with
+1:03:551 hour, 3 minutes, 55 secondsour panelists. Um, and I will have this recording out to you guys sometime early next week. So, thank you all for attending and thank you for our great panelists for bearing with us.

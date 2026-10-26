@@ -1,0 +1,1189 @@
+0:15
+Hello and welcome to another news episode of BFRR, our Bitcoin, Fiat, and Rock and Roll podcast that explores the
+0:21
+intersection of traditional finance, digital money, and digital assets and helps you understand how digital money
+0:27
+and assets will evolve in the future. I'm Kosh Jonas and today it's time for another news episode and we are back
+0:32
+reviewing the news from the month May and today I'm joined by once again by
+0:38
+Maximillian Vagas from Blog Stories. Max, you have been here, you know, quite some times. So, uh, thanks for coming
+0:44
+back to us and taking the time. Yeah, thank you for repeatedly inviting me. Yeah, of course. You know, I mean, we we
+0:50
+mentioned this to our audience already. I'm not not reading a lot of newsletters, but one I do not miss, it's
+0:56
+definitely blog stories. So thanks a lot. Kudos again to you to to you and the team. And what will we cover today? We
+Topics
+1:03
+will look once again at all things stable coins. So when we identified the most relevant news this month, we have
+1:10
+really seen that there is a a pattern ongoing um that yeah really key news are
+1:16
+around stable coins. So for this reasons we decided to really focus on stable coins. Today we first start with some
+1:23
+kind of an industry update on major stable coin news. Quivalis has actually extended their consortia by 25 banks
+1:30
+across Europe which is a pretty impressive move. Something we want to dive a little bit deeper on and discuss.
+1:35
+Then all unity another European stable coin consorcia has also announced um basically launch of a new stable coin
+1:42
+and also of some new capabilities around aentic payments also more in a second. And we also look a little bit more on
+1:49
+the policy makers public sector side. the ECB in particular, President Christine Lagard has put down a few
+1:55
+remarks on stable coins that were or sound a little bit bearish. Something we
+2:00
+also want to digest and see um you know where this is coming from and what we think about it. And then we also look at
+2:07
+the upcoming markets and crypto assets consultation by the European Commission. And last but not least, we take a look
+2:13
+to the United States with the Clarity Act where we have an update which we
+2:18
+think is very relevant um to share. But let's start with a very quick market overview and where we stand after this
+Market Overview
+2:25
+month. So this month we have basically seen in Bitcoin roughly 9% drop. We are currently standing when we record at
+2:32
+73,000 for Bitcoin. Quite interestingly even we have seen this drop. There was
+2:37
+an increase in the Bitcoin ETFs asset under management which were are a little bit more than 106 billion. At this point
+2:44
+when we look into Ethereum there was an even further drop at the end of the month roughly $2,000 US for one ETH and
+2:52
+was very interesting because there were also some yeah let's say interesting senior and important people that left
+2:59
+the Ethereum Foundation and there was also a tweet by Vitalik by basically kind of saying that the Ethereum
+3:04
+Foundation wants to focus more on its core topics such as privacy security open source censorship resistance. So um
+3:12
+this announcement at least from the market was then you know not not seen very positively but I guess we will see
+3:18
+over time what this will mean for the whole industry and also for Ethereum and
+3:23
+this was in a month where other asset classes kind of behaved a little bit differently so Msei world increased a
+3:29
+little by 3% gold declined by 3% compared to other asset classes not a very bullish munch for month for Bitcoin
+3:35
+when you look of course at a lot of different indicators and we don't want to focus too much on the price because
+3:40
+that's also So typically what we not doing in the podcast but it seems that the sentiment is rather bearish and
+3:46
+often people really talk about bare markets as well. would be really interested Max what you think about it because you are currently also hosting
+3:53
+various different events across Europe around you know blockchain crypto institutional adoption of blockchain
+3:59
+like what is your feeling currently on the market like you know are we in a bare market does it feel like a bare market or should we just not look at the
+4:05
+prices and you know do our stuff rather like that yeah it's always the question right where are we currently in the market and
+4:12
+I think what's been true for now over 12 months 18 months is that there's very
+4:18
+obviously uh decoupling of like prices and adoption. So we we've seen very clearly
+4:25
+the institutional adoption only going into one direction and it's up and to the right. But then we've seen prices
+4:32
+now for quite some time suppressed basically. And I think there's like both
+4:38
+a macro conversation about it and a micro conversation. So you could obviously talk all about the different
+4:44
+risk factors that are currently pressed in in broader markets especially when it comes to geopolitics and um I guess the
+4:52
+overall outlook by Fed and other central banks when it comes to inflation and what how how you basically react to that
+4:59
+from a monetary perspective. So this is something I guess that has been true for for many years already that it's not
+5:05
+like the most favorable like macro environment. But then there's also the micro debate on where do like the next
+5:11
+incremental flows come from when it comes to crypto assets. And then you can go into various different debates. You
+5:17
+could discuss like the quantum computing headwind for Bitcoin. You could talk about Ethereum's tough situation
+5:25
+currently with rising competition and then not a super clear level of leadership. You could talk about like
+5:31
+the overhang by dots and uh the risk they present in the market as the micro
+5:37
+strategy copycats and micro strategy themselves did not fly as as they did like in the in the very first innings.
+5:43
+So many different things I guess to to to look at. I guess in the in the end it for me it comes down to retail having
+5:50
+left for for quite some time now and institutional capital like slow like
+5:55
+slowly coming in but maybe also not too comfortable to still invest like at the elevated valuations that we can we look
+6:01
+at when you when you look at the crypto markets. So these these assets are still like highly priced in a way when you
+6:07
+look at FTVs and and market caps of Solana, Ethereum and others. What what I
+6:12
+do find interesting and I guess this is also like a very positive sign of the maturation of the market is that you see
+6:19
+a new breed of I guess quality assets rise basically. So in the past what
+6:24
+you've seen is whenever there was like a rotation or some short-term bullish sentiment you could see like the broader
+6:31
+crypto market rise like simultaneously. What you see now is that some crypto
+6:36
+assets I guess benefit more than others. So if you take a look at hyperlquid for
+6:42
+instance or if you take a look at certain privacy coins. So these are like
+6:47
+assets that have like most recently seen a lot of interest whereas the other
+6:52
+market state suppressed or even faced more headwinds. So this is interesting.
+6:57
+This is what we take a look at uh to understand the maturation of market structure and what we think is very
+7:03
+healthy for the market. Yeah. And it's super super crucial really to differentiate as you did between like more the retail side of
+7:10
+things and the corporate side of things right because within retail if you look at lot of indicators like it's not it
+7:16
+definitely you know s like kind of reads sounds and smells rather bearish but
+7:22
+when we look into the institutional side like tokenization stable coins I think
+7:27
+in every single stable coins I don't know for a year or one and a half the key topics were like on the news
+7:33
+episodes were on stable coins So we do see progress and even that today we solely talk about stable coins
+7:38
+shows also the progress here and I guess stable coins in Europe at least means a lot on currently a lot I would at least
+7:44
+say um you know corporate fantasy so also more on the on the business sides
+7:50
+but of course if you look at developing and emerging economies there is also a lot of stuff happening around stable coins on the retail side which may often
+7:56
+be a little bit outside our scope because for us in Europe the markets are pretty efficient right so we we may not
+8:01
+you know may may need them here in uh you know very urgent way as maybe in other countries and other juris and I
+8:07
+think both both things can be true. You can be like super positive and optimistic about the adoption of the
+8:13
+technology and be more neutral or even like bearish on uh current crypto asset
+8:20
+prices. So there is no contradiction both can be true. Absolutely. And let's dive a little bit
+Stablecoins
+8:25
+deeper now into stable coins because there have been Europe again once more a lot of interesting news and I didn't
+8:31
+welcome Michael in the beginning. So I of course coast Michael is also here. Hi Michael. Hi Yonas. Hi Max. Yeah I joined a bit
+8:38
+later due to tech issues but here I am right in time to deep dive into our
+8:44
+stable coin threat of the conversation today. Let's start with what is in my view among the more consequential
+8:51
+European stable coin stories of the year so far and that's Kales. For listeners who haven't been following this closely.
+8:58
+Kalis is the consortium of European banks that was founded in December 2025
+9:03
+with initially 12 banks and of May 20th of this year they announced that 25
+9:10
+additional banks have joined the initiative. So we now have 37 banks from
+9:15
+15 European countries on board. To give you a sense of the breath, the founding
+9:21
+12 included names like BNP, Pariba, ING, Uni Credit, Kaika Bank, Rifisen Bank
+9:29
+International and so on. And the new wave brings in ABN, Emro, Rau Bank,
+9:35
+Intensa, S. Paolo, Nia, Airst Group, Halaba, Sweetbank and on and on. From a
+9:42
+German perspective as a major part of our listener base is still from Germany.
+9:48
+What's notable is that we now have the three German banks involved. Det Bank for the cooperative sector, Dika Bank
+9:55
+for the savings bank pillar and Halabar as a Lond
+10:01
+essentially covers the major institutional pillars of the German banking system with the conspicuous
+10:07
+exception of Deutsche Bank. So Manu tell us where is Deutsche Bank and Kat's bank and that's a story we need to come back
+10:14
+to definitely and definitely have to ask Manu that when he's back on the news episode but what I was really impressed also like
+10:19
+Max kudos to you and your team I think you reported even a few weeks before this was public that this uh you know
+10:26
+extension is going to take place. So yeah you're really good in investigation it seems. So
+10:33
+yeah, I guess the good thing also with now a consortium encompassing over like
+10:38
+30 entities, the the number of leaks is also increasing.
+10:44
+Good for you and good for us. Now you guys may wonder why this news matters so much. Kibbal is in itself is
+10:51
+not new. The number is rising. I gave it some thought and I want to give you three reasons. First, I think it's
+10:56
+distribution. So combined these 37 banks have access to several hundred million
+11:03
+customers across Europe that is a distribution network that no fintech no
+11:09
+crypto native issuer can in my opinion replicate. The second reason is in my
+11:14
+opinion credibility. When a corporate treasurer or a fund manager evaluates
+11:19
+whether to hold a stable coin on their balance sheet, the question of who
+11:25
+issues is then simply not academic. A token issued from the regulated European
+11:32
+banking sector supervised by the Netherland bank with reserves held under
+11:38
+Mika's strict requirements is really a different proposition than something
+11:44
+issued out of Salvador out or out of a small company. And third and this is
+11:49
+something block stories actually reported and I find quite telling the funding base. If the founding banks
+11:57
+contributed roughly €3 million each and the new entrance 4 million each, you
+12:04
+arrive at roughly 136 million euros sitting in the Kivalis bank account. So
+12:10
+this is real capital, real commitment. It gives you the project a runaway that
+12:16
+frankly most stable coin projects or startups or scaleups can only dream of.
+12:22
+So on status, Kalis has its headquarters in Amsterdam and has applied for an
+12:27
+e-oney institution license with the Dutch central bank. According to block stories again, so Max, I enjoy citing
+12:34
+your sources. The next operational step is a tender for custodian banks and the
+12:39
+launch of the actual stable coin is planned for the third quarter of this
+12:44
+year's. I think Jonas has some evidence and insights here which means we should see something concrete uh in the coming
+12:52
+months and I hope we really do so because so far no launch yet. Yeah, and I guess that's will be really
+12:57
+interesting because on the on the paper this sounds super exciting, right? I'm super impressed how many different banks
+13:03
+they got together across Europe. Also the funding base you said Michael is you know you I guess you can work with you
+13:09
+know hundred of millions so you can you can reach something but of course also it's a reality that the re the license
+13:14
+is not there yet and also the um the product is not launched yet right so I'm sure like both will come for sure but
+13:20
+would really love to see how the launch looks like what the first use cases will look like if this will also be similar
+13:26
+on what our unity started is rather being you getting listing on exchanges and go a little bit on crypto and then
+13:31
+later maybe expand across traditional payments crossber payments etc. So yeah, I think a really really great great
+13:38
+start and impressive to to get you know together these folks and now I'm really curious to see the launch and how this
+13:44
+will develop. Yeah, not to be too bullish here, let's not forget that several open questions
+13:50
+really do remain. How quickly will the Dutch license be granted for example? or
+13:55
+will major exchanges actually list the Kalis stable coin or will they continue
+14:01
+to favor incumbent dollar tokens? And perhaps uh the most important questions, will the participating banks actively
+14:08
+distribute the stable coin on to their corporate clients or will they just formally participate without them really
+14:14
+pushing it? So we've seen plenty of bank consortia in European payments history
+14:20
+that looked impressive on paper and at the outset and then delivered very little in practice. So I'd love really
+14:28
+to to see uh what really does then happen in Q3 and actually I'd love to
+14:33
+hear what you all think on this. So is this the moment or is this another wellunded consortium that gets stuck in
+14:41
+in committee runrough? Yeah, I guess what has been true in the Euro stablecoin market so far is that uh
+14:47
+demand hasn't missed supply in a way. So it was not like a topic of hey we we are
+14:54
+missing like a regulated like yeah euro stable coin so far in order to see some traction and compete with the US dollar
+15:01
+equivalents. So the story has always been that like apparently there's no strong pull factor for customers both on
+15:10
+the retail side and on the institutional side to now start using Euro stable
+15:15
+coins in size. I do not think that just the availability at uh several European
+15:22
+banks regardless of how big they are really changed the equation of this at the outstart. So that on a long-term
+15:29
+basis when like I guess the whole tokenization space increases in size and
+15:35
+you adopt like this kind of an instrument on the cash side I think there's like lots to be optimistic about
+15:41
+but I guess on a more short-term and midterm basis even after launch I'm still like more pessimistic or just I
+15:49
+guess very curious to see if they come up with any new playbook when it comes
+15:54
+to their goto market something we have not seen from all Unity uh or circle or
+16:00
+like similar players or whether it will be like this slow grind I guess to to
+16:05
+like reach a certain level of uh supply that also makes the whole operation like
+16:11
+economic. So I guess this is something that also from our conversations with all these participating banks everybody
+16:18
+is still figuring out and there's no clear strategy on what to really do once the stable coin is live. And I mean also
+16:25
+if we look at that like generally I would say Max like what you describe is that it's basically to have euro stable coins is a necessary condition but not a
+16:33
+sufficient one right so it needs more it needs use cases it needs partners it needs the ecosystem it needs the
+16:39
+environment to thrive from a regulatory side was from the policy side right so
+16:45
+that's something which we is currently still being shaped and that will of course not change a lot that just the
+16:51
+stable coin is out there I mean I'm a little bit biased in the sense of that I have normally a rather bearish
+16:57
+perspective on banking consortia because we have seen this in Germany very often to kind of trying to also implement you
+17:04
+know let's say payment infrastructure um in the last 10 years and it never worked
+17:09
+from my perspective because it was really so complicated to get the governance the alignment people pushing
+17:15
+into different directions the one banking you know group doesn't want to talk to the others etc right so I'm
+17:21
+rather bearish but my feeling and this also what I get from the the folks at Kualales is that they they seem at least
+17:27
+to have a very solid setup that they have all the power all the people involved all the distribution power but
+17:32
+still can bring the speed to the table and are also not distracted in decision-m by I don't know 37 different
+17:39
+opinions um so that's at least what it seems we will see how this is in practice also when something is launched and when product decisions are taking
+17:45
+place etc but it seems that this is you know more on the on the consorcia that still has speed even being very you know
+17:52
+large and very um powerful in terms of the size of the balance sheets of the banks. I agree with you that there is a
+17:58
+structural gap in the European stable coin market. So yes, today dollar denominated stable coins make up over
+18:05
+99% of the global stable coin market depending on which numbers you look for. So it numbers dated are 97 to 99% of the
+18:14
+market depending also on point in time and market valuation of course with tether around $190 billion USD around 78
+18:23
+billion and the largest European stable coin circles Euro C at roughly $460
+18:29
+million in early March 2026. However, I think Kales is the most critical attempt
+18:36
+yet so far to really close that gap. So, if you will, if Europe has a chance to finally catch up, this is the
+18:43
+opportunity because if our 37 banks don't manage to do that, who else would? At least that's the most powerful
+18:49
+attempt so far. And the technical infrastructure is being delivered by
+18:54
+Fireblocks, which is a sensible choice. They have proven institutional grade tokenization, custody, and wallet
+19:00
+infrastructure. And importantly, Kalis is positioning itself in a very specific layer of what I'd call the European
+19:06
+digital money stack. We need to be precise because there's some confusion in the market. I think for example,
+19:13
+there is Vero run by the European payment payments initiative just crossed 50 million registered users in February.
+19:20
+That's accountbased money in a modern app. It's not blockchain. And then another attempt to close this gap is the
+19:27
+digital euro from uh the ECB is uh central bank money for retail,
+19:32
+essentially digital cash with the pilot phase starting in the second half of 2027 hopefully and an actual issuance
+19:40
+not expected before 2029. Now coming back to my initial argument, Kales sits
+19:46
+in a third layer programmable blockchain native commercial bank money for the tokenized economy. So these are not
+19:53
+really competitors, they're complimentary building blocks of a European financial infrastructure. So my
+19:59
+point is Kales is positioning well with the form of digital money they chose and
+20:05
+with the firepower of 37 banks. So my point is here this is not yet another
+20:11
+consortium. It's a powerful one and positioning itself quite well in the money stack. Well, I would agree but I would also not
+20:18
+underestimate some of the competitors. So of course some of the uh you know let's say single players issuing stable
+20:24
+coins they are also like you know very reputable know what they are doing and
+20:29
+also like all unity so we know all unity the stable coins are live for a while now they don't just have the euro stable
+20:36
+coin also the Swiss stable coin and also announced this month actually as news that a Swedish crona stable coins will
+20:42
+be launched so they follow I think a little bit a different approach than quivalis which is rather um multi-currency and not just single
+20:49
+currency which also has different use cases and obviously I think we had almost everyone from the leadership team
+20:54
+from all unity on this podcast as well. I think it's also really a super strong leadership team in terms of executing
+21:01
+right. So again but I also think we will need in the end more than more than one. I don't think we need 100 but I think
+21:07
+there are also different use cases for different you know solutions to serve. But what I also now found very
+21:13
+interesting and also you know would be cool to get your perspective on that is that also unity this month did not just
+21:18
+announce the launch of the Swedish Chrona stable coin but also the launch of Achantic payment capabilities. And
+21:24
+this I think is interesting because often we hear that stable coins are you know so much better than traditional
+21:29
+rails for Atantic payments in the futures when well when AI agents will you know do payments on their own right
+21:36
+and now they really launch capabilities. So basically want to allow European businesses to seamlessly accept, settle
+21:42
+and monetize with AI native payments. So provide a regulated gateway for
+21:47
+businesses to accept aic payments and settle in their local currencies. And this is all technically powered by MX
+21:54
+402 the open protocol. We also discussed this in the podcast before to support with additional protocols here. So
+22:01
+that's again interesting because this is stuff that is getting launched soon, right? while for Kales it takes a little
+22:06
+bit longer, right? This is stuff that is coming very soon. Um but yeah, you know, what is your general perspective on on
+22:12
+this news or maybe also the agentic capabilities um that all Unity now um
+22:17
+announced? I I cannot really I guess or I do not really have like a judgment call on the
+22:23
+agenda capabilities and like how promising this is like from a tech and adoption standpoint. I think this is
+22:30
+like still as a super super early market where everybody now is trying to establish their own standards and trying
+22:36
+to figure out basically how to how to play and where to play. But I think what is like most telling and this is
+22:43
+something that has now also the comparison to to Kales and potentially
+22:48
+the obstacles Kalis is facing that I interpret the strategic move by all
+22:54
+Unity to become much more opinionated and their approach of what use cases to pursue that the classic the traditional
+23:02
+way of just launching a stable coin getting listings on like various centralized exchanges and then maybe
+23:09
+also announce some DeFi integration and lending markets to allow for more like utility on the on the stable coin. This
+23:16
+is somewhat broken for euro stable coins. So I think this is like all unity basically seeing that doesn't make sense
+23:22
+to apply the traditional playbook. We have to find like our own niche, our own like maybe blue ocean even in order to
+23:30
+meaningful gain traction and move this project that has now also been like live for a couple of years into an area
+23:36
+where's more potential for a significant uplift and also drive usage of the stable coin. So I think it's uh both
+23:44
+visionary but also like a reaction to the little traction like comparatively
+23:49
+little traction the project has seen for the the first one and a half or two years it's been live. Yeah. I think a
+23:56
+bit more bullish here maybe because uh I work at a technology vendor who sets all
+24:02
+his cards on AI and Authentic AI. uh and also in our digital currency hub product
+24:09
+uh have a strong emphasis on uh aic payments. Um I think all unity is
+24:14
+showing us the future here. Um AI agents can't open bank accounts really and they
+24:21
+cannot wait around for a sa transfer really as they move fast but a regulated
+24:26
+micica compliant stable coin. I think that's really money machines can actually use instant programmable 24/7.
+24:34
+So when they build a champic payments now on X4002 and let European businesses
+24:40
+settle straight into their bank account, you're basically looking at the bridge between AI agents and the regulated
+24:48
+financial system and I'm not aware of too many stable coin issuers that have understood this intersections and boldly
+24:54
+move into it. So I applaud this effort. Yeah. and launching a Swedish kuna
+25:00
+stable coin alongside it tells you they are thinking multicurrency from day one.
+25:05
+So being multicurrency and already embracing aic uh payments is is to me a
+25:11
+proof that all unity is playing the long game has strategic foresight and is
+25:16
+willing to make its technology bets which not necessarily all tech vendors do. So my bet in a few years we won't
+25:24
+even call them aic payments. It'll just be how machines pay machines and regulated euro and krona stable coins
+25:31
+will be the the race underneath as stable coins really lend themselves to authentic payment.
+25:36
+So and I really hope that we are also not talking about stable coins tokenized deposits and everything in two more
+25:43
+years but just have them working in the background. So like the internet like email so I'm saying this for years still
+25:48
+we are not here and still you know philosophizing about it but I really hope that this moves more in the back.
+25:54
+So totally echo that Michael it's it's definitely part of a of a
+25:59
+broader trend also for others stable on issuers that what I guess started out as
+26:05
+the pure play of being the issuer and basically like just limiting themselves
+26:13
+on the whole operational side of of issuing um a stablecoin is now expanding into how how can you basically
+26:21
+vertically integrate uh your services to push the market to go to go deeper into
+26:27
+the value chain and establish your own capabilities of serving new emerging
+26:32
+markets. This is what we have seen like with circle and uh their various I guess
+26:38
+initiatives from their own now blockchain network to their interoperability solution uh to also
+26:45
+their own like wallet SDKs and so on. Tedar is basically like adopting bit
+26:51
+different playbook but also similar where they take like very strategic investments along the value chain where
+26:57
+they also develop their own wallet uh SDKs and so on. So I think uh this is
+27:02
+like a smart move from all unity just uh from a perspective of okay we we
+27:08
+recognize that it doesn't make sense to play the crowded trade in a market that has hasn't proven itself for for the
+27:15
+last two years the euro stablecoin market and how can we position ourselves like for the the next use cases of of
+27:21
+stable coins but the question is just like how soon will this also like take up so machine to machine payments and
+27:28
+the whole like machine economy this has been discussed when the term agentic payments wasn't even even invented yet.
+27:35
+So I I'm I'm not too sure like here now also on the timing uh like how how we
+27:40
+see this this whole space take off. Before we jump back into today's
+27:45
+episode, a quick word about an event close to our hearts. The Point0ero Forum, an annual gathering of over 2,000
+27:53
+policy makers, central bankers, regulators, and industry leaders at the intersection of finance, technology, and
+28:00
+policy. BFRR is proud media partner of the 0ero forum and we'll be reporting
+28:07
+live on site with the full co-host team organized by the global finance and
+28:13
+technology network and the Swiss state secretariat of finance. The point0 forum
+28:18
+takes place in Surirk from 23rd to 25th June 2026. This year's lineup includes
+28:26
+Swiss Federal Councelor Karen Kellazuta, Tea CEO Paolo Ardawino, former crypto
+28:33
+head of policy at Andre Horowitz, Brian Quintens, and Nvidia's EMIA financial
+28:39
+technology lead Dr. Yan Patro. The agenda covers everything from AI in
+28:47
+financial services and digital assets of stable coins, tokenization and the new
+28:52
+regulatory frontier where the rules of finance are being rewritten.
+28:58
+Come meet us. Register at point0um.com and as a BFRR listener, you get 30% off
+29:07
+the full price industry pass with code BFRR
+29:12
+2026. I repeat, BFRR
+29:18
+2026. And I still remember me when I when I wrote one paper, I think it was in 2018
+Circle
+29:25
+on machine toachine payments and stable coins. And yeah, I mean the reality a few years later, it's still not there
+29:31
+yet. So I agree max in terms of timing and I think what you what you said before is super interesting because it's
+29:37
+you clearly see that stable coin issuers also euro stable coin issuers want to differentiate their business model right
+29:43
+so this is as you said how you can interpret the all unity move um but this is also interesting and Michael going
+29:49
+coming back to circle news next circle has its own blockchain arc right which we discussed before so that's also
+29:55
+different model with arc and SDKs etc and there were also some very relevant
+30:00
+news around ARC from circle just in the past month. Yeah. Now we are really pivoting to the other side of the Atlantic because uh
+30:07
+while Europe is consolidating around a consortium model uh at least with Kalis,
+30:12
+Circle is doing something genuinely strategic and in my view quite bold on May 11th. Circle announced that it had
+30:20
+raised $222 million in a pre-sale of ARC. ARC being the native token of
+30:28
+circle's new public blockchain. The fully diluted network valuation comes in
+30:34
+at $3 billion. And Horowitz's A16C
+30:39
+crypto led the round with a $75 million check. But the rest of the investor list
+30:47
+is what tells uh you really what's happening here. There is Black Rockck, Apollo Funds, Intercontinental Exchange
+30:54
+which is the parent of the New York Stock Exchange, SBI Group, Yanos Henderson, Sunder Charted, Ventures, ARK
+31:03
+Invest, and so on. So that is essentially a who's who of institutional
+31:09
+finance buying into a stable coin issuers blockchain. Let's maybe briefly
+31:15
+unpack what ARC actually is. It's a public blockchain purpose-built for institutional finance. The initial token
+31:22
+supplies 10 million tokens. Circle holds 25% as a stakeholder. 60% goes to the
+31:29
+network participants that is builders, users, contributors, and 15% goes to a
+31:36
+long-term reserve. Circle as a 25% holder can run validator infrastructure,
+31:44
+generate fee revenue and earn um staking income. Jeremy Aair in his CNBC
+31:50
+interview framed this very explicitly. Cert is moving into the operating system
+31:56
+business in his words into the apps business into being what he called a broader internet platform company. Now
+32:05
+to me uh the the why behind this news is really the most fascinating part. USDC
+32:10
+today runs primarily on Ethereum and Solana and is distributed largely through partners like Coinbase. That's a
+32:18
+vulnerable position for Circle in my opinion. They don't own the rails their
+32:23
+flagship products runs on and they share economics with their distribution
+32:30
+partners with ARC. Now, Circle is essentially going vertical. They want to
+32:36
+own their uh the infrastructure layer and there's a defensive dimension here too with the Genius Act passed in the US
+32:44
+in July 2025 and the Clarity Act at least expected to finally advance in the
+32:51
+Senate Banking Committee. The regulatory floor is being set for stable coins in
+32:57
+the US. But that same regulatory clarity opens the door now for banks and fintex
+33:03
+to issue their own dollar tokens. If JP Morgan, Bank of America or
+33:09
+city all roll out their own stable coin, suddenly circle's role as a third party issuer becomes then less essential. So
+33:16
+building art is partly circus saying even if our stable coin gets
+33:21
+commoditized, we want to own the infrastructure that all stable coins run
+33:27
+on. Yeah. And there's also a really notable structural detail here. Circle
+33:34
+is the first publicly listed company to conduct a token pre-sale. That is um I
+33:42
+think an under reportported significant precedent. It legitimizes onchain
+33:47
+capital formation is something as NYSE listed company can do alongside
+33:53
+traditional equity. So a last quote here again is worth repeating. Um beginning
+33:58
+of quote every company in the world over time will be tokenized meaning your
+34:05
+shares will be tokens. End of quote. So whether or not you agree with that
+34:10
+statement, the fact that the CEO of a publicly listed financial institution is making it openly tell us all where this
+34:18
+whole story is heading. I think I guess um quite quite right in your
+34:23
+analysis. Uh I I guess the the the two big things that are happening here is on
+34:29
+the one side that circle continues to look for revenue diversification and
+34:35
+some way to basically hedge the risk of decreasing
+34:42
+interest rate um on the underlying reserves. on the other hand they want to get independent I guess from Coinbase
+34:49
+that they have like their own revenue share agreement for many years I think
+34:54
+where Coinbase is also like contractually like in a strong position to enforce like ongoing capture of half
+35:01
+of the revenues um generated by Circle and then on the broader trend here is that you see all these payments focused
+35:08
+chains pop up not only because they present like a big opportunity in terms
+35:14
+of value capture of new flows, but also because these more general purpose
+35:19
+blockchains are lacking key capabilities that you would like to see as a
+35:24
+treasurer manager or like as somebody who's like specializing in in payments to have when using uh blockchain
+35:30
+infrastructure. So I guess this is like the tempo from Stripe, Circus Arc also
+35:37
+what we see from the Zolana Foundation who hired like a key figure from Visa to drive forward their payment capabilities
+35:43
+to now basically upgrade existing blockchain stacks uh with some of these features that you just need in order to
+35:50
+um house uh global payments on chain. And I guess this was really kind of
+European Central Bank on Stablecoins
+35:55
+bullish and super interesting news from Europe and also then from Circle on the
+36:01
+Euro stable coins and but remarkably and we don't want to just talk about the positive developments or the positive
+36:07
+views but also the bearish views and we got another bearish view um on May 8th
+36:13
+which I would also like to to share and discuss with you and this was from the president of the European Central Bank namely Christine Lagard who has a few I
+36:20
+would say rather bearish takes on stable coins and I want to just briefly elaborate on the argumentation so that
+36:26
+we can you know discuss why this is the case because you know we often discuss about why um which which value stable
+36:33
+coins can add but you know this angle is also at least interesting to explore. So what Christine Lagar says that in the
+36:39
+stable coin debate it mixes up basically two different things. So one is the monetary function that a stable coin
+36:45
+could play and the sec second one is kind of the technology or settlement technology function a stable coin could
+36:51
+play. When we talk about the monetary function what she means is that increasingly the market sees um a way to
+36:58
+extend the global reach of reserve currencies um via stable coins by easing
+37:03
+basically two long-standing constraints on how currencies circulates. A is
+37:09
+crossber payment infrastructure. So sable stable coins allow monetary value to move kind of also outside traditional
+37:15
+banking rails with also fewer intermediaries and lower costs. Well, she didn't agree on the lower costs, but
+37:20
+that's at least often what is what is stated, right? And also the extending the currency's reach into areas where
+37:25
+access before has declined because normally you just have access via banks or corresponding banks in other
+37:30
+countries. So that's the one part of the monetary function. The second one is also that um stable coins provide
+37:37
+actually easy holdings of currency outside home jurisdictions. So I can for example still hold today US dollar
+37:43
+stable coins, other stable coins just with a wallet which is of course a lot easier than setting up a bank account or
+37:49
+even infeasible in the most jurisdiction when I'm not not a citizen. And what she basically says on the monetary function
+37:55
+is that is that basically there is there is a challenge because she basically says that at at this point that there is
+38:04
+um some kind of um there are trade-offs ongoing. Um for example when you say you use this as a monetary function there
+38:10
+are financial stability risks due to stable coins. So she often refers to the case of Silicon Valley bank and then
+38:17
+circle who kind of depacted because at least for for you know short period
+38:22
+because there's basically some stuff happening which lowers trust and then you don't have a a stable means of
+38:28
+payment. Right? So she sees that this deep pegging can have broad financial stability implication. That's the first
+38:35
+one. And this the first risk of stable coins according to her. And the second one is weaker monetary policy
+38:41
+transmission. So if now a lot of volume moves outside the banking sector to non-bank stable coins, this could
+38:48
+obviously also weak lending and also the effectiveness of the ECB's monetary policy. Right? Because the ECB sets
+38:53
+interest rates for typically loans and deposits on the bank side. But if now a
+39:00
+lot of business moves outside banks, then the monetary policy is less effective. Right? So what do you think
+39:06
+on this monetary side like do you agree with Miss Lagard's assessment for and risks around stable coins?
+39:13
+So Lagard's May 8th speech I think her framing is actually useful. She splits
+39:19
+stable coins into two things as you explained the monetary function and the technology function. On the tech side
+39:26
+she's really fully on board. I felt uh atomic settlement and tokenization all
+39:31
+of it. I think she she understood it. she's fully on board. On the monetary side, she is pretty clear. Euro stable
+39:38
+coins, in her view, cause more problems than they solve. At least that's the sentiment I drew from that very speech.
+39:45
+Honestly, none of that surprised me. It's it's the perspective a central bank
+39:51
+kind of has to have. What I miss in her argument is the synthetic CBDC angle,
+39:58
+which I still deem promising. So, a stable coin fully backed by central bank reserves that would address pretty much
+40:05
+every concern she raised and you'd still get the programmability she actually
+40:11
+likes in her technology functional part of her speech. So, my small take here is
+40:17
+it's a fair um diagnosis, but it's a narrow menu of solutions in in her
+40:24
+speech. So giving regulated issuers access to ECB reserves could get us
+40:30
+there faster than waiting on Pontis and APIA for example. I I also agree that
+40:36
+this is just very much in line with what she's been saying for all these years. I think it's also in line with with what
+40:42
+you expect her to say. I think what she doesn't say and I also don't know if this is something that she should have
+40:48
+in mind but what I'm generally lacking from like policy makers and authorities
+40:54
+in general is also having or seeing the perspective of the broader consumer
+41:00
+benefit. So this is always about like this is always very risk averse and very
+41:05
+much about stability which is obviously important but there's also like a huge potential in order to drive uh welfare
+41:13
+by increasing competition and uh putting more money back into the pockets of the
+41:19
+consumer and putting us I guess also banks in a position where they might not
+41:24
+have to or where they might cannot uh internalize too much of their own
+41:30
+profits. and think about ways to also give something back to the consumer. And this is I think something that is under
+41:36
+discussed and something that is also positive about stable coins that now banks need to transform now need to
+41:42
+digitalize and just compete with uh emerging forms of fintex. Yeah, absolutely. And I mean I I do see
+41:49
+somehow agree from a central perspective on this monetary policy transmission argument because if you're central
+41:54
+bankers you are concerned if money is moving outside the banking sector and you particular try to steer banking
+42:00
+rates via your decision. So I get that point. Um with the deepacking I'm I'm always a little bit surprised because we
+42:06
+do have the Mika regulation. There is also um you know there is also requirements for even capital buffer. So
+42:12
+this comes very close to a banking regulation like a full banking regulation. I would at least interpret
+42:18
+this and also one of the reason why USDC t debbacked temporarily was I said like
+42:24
+Silicon Valley bank so it was the banking sector that drove stable coin issuer into a dagg so I think this route
+42:32
+is also sometimes a little bit uh overlooked in in the sense and I think
+42:37
+some so I wouldn't really say that you know this is uh not not stable because
+42:43
+regulation exactly wants to get it wants to get it stable and I think is doing a pretty good job here. I mean the second
+42:49
+point and I think Michael you alluded on that already a little is that Lagard is a little bit bearish on this monetary
+42:54
+function but on the techn technological side she's more bullish because she also sees the need for atomic settlement for
+43:01
+a cash onchain so fully aligned she just prefers let's say other means of payment
+43:06
+to do that and not stable coins which is namely what they want to do with their um basically bringing central bank money
+43:13
+onchain via a on pontest right so here lagard sees the benefits but takes a
+43:18
+different route because obviously this is central bank initiative. So yeah, I I really also would like to echo what you
+43:24
+said Max. I think in the end it's also about competition and you should foster competition and you should you know
+43:30
+launch different initiatives and then the market should decide you know and the use case will develop and the user
+43:35
+in the end ultimately decides as always. So I think it's good the more the better in the sense um but um but yeah was
+43:42
+interesting to hear this. I think it it adds value to the debate as you said Michael to differentiate it here right
+43:47
+but and it's good part of the debate to have arguments in in in both in both directions even if we seem to not fully
+43:54
+to agree on all the arguments being made here let's say I really enjoyed uh Max's point on
+44:02
+putting the consumer benefits at the forefront and and starting with it I mean in in the in technology that's a
+44:09
+given yeah it might might even be the the technology industry that in developing products put consumers in the
+44:16
+forefront. Um so again starting on a green page imagine a euro stable coin
+44:23
+that pays you interest on your balance setters in instantly works 24/7 and costs nothing to send across borders
+44:30
+globally. So, isn't that what we all dream of a money transmission like a
+44:35
+WhatsApp message? And if I were Lagard or stated differently, my hope would
+44:40
+have been that her first sentence in a speech is what is the Champions League
+44:47
+or the ideal scenario for any given European in payments and everything is to be derived from that. Yeah. But she
+44:55
+started with stable coins as one means or form of digital money and only then
+45:00
+at some point talked here and there about consumers. So to me the starting point of any money and uh payments
+45:07
+conversations always be the ideal dream scenario of what payments looks like globally and only from there you derive
+45:14
+technology requirements or design choices. And I mean from the argument from this Christine Lagard you can also
+45:20
+interpret this that as she or she she could see that stable coins drive financial stability risks. You can also
+45:26
+interpret that this mean that the regulation is from her perspective not enough on stable coins to preserve
+45:31
+financial stability here. And that's also like a good segue into what the European Commission is now planning with
+45:37
+the Micah consultation. So I mean as you're listening to this podcast frequently you know there is the Micah
+45:43
+regulation markets and crypto assets regulation in Europe um basically since 2024
+45:48
+um which was a major achievement to launch this regulation as kind of the first of its kind for a currency union
+45:55
+but of course we also see changing environments right stable coins basically more and more increasing in
+46:00
+importance even if as Max said the dynamic is it's not comparable to the s not at all we do see tokenization taking
+46:07
+off we do the AI and achantic payments. We also do see other global crypto
+46:12
+regulation coming in like clarity genius we will talk about next as well. So there is a new environment coming up and
+46:18
+what's now the commission wants to do is wants to review Micah's core building blocks on crypto assets asset reference
+46:25
+tokens e- money tokens general issuers licensing requirements etc which I think
+46:30
+is a very very positive thing because what the commission is doing it asks the market for feedback on the current mika
+46:38
+actually in two formats so a public consultation for broad stakeholder input and a more technical targeted
+46:44
+consultation for industry participants and public authorities um which can be submitted by August um 30 this year. So
+46:52
+this means the commission is seeking input from the market on how to improve Micah which I think is a great approach
+46:58
+to talk to the market and then to improve so that um you know maybe some of the things that are not working today
+47:04
+can uh can be improved and also just as a side note as the digital euro association we are also contributing to
+47:09
+that bringing together different stakeholder groups like stablecoin issuers, crypto asset service providers, banks and co. So if this is interesting
+47:16
+and please feel free to reach out to also shape and bring the industry perspective to this consultation because
+47:21
+again I'm a really big fan of this collaborative approach and the transparency and I think this is really a good good news for the European space
+47:28
+if you ask me. Good. Then looking at the time let's come to the last topic of today before our knowledge bites and we
+US News
+47:35
+look at the UX at the UX at the US very similar word um and look at the
+47:41
+regulatory angle there. We know the Genius Act is in place but we also know the Clarity Act is not yet in place and
+47:47
+Max and maybe you could share a little bit with us you know what's kind of the update on the clarity because there is a
+47:53
+lot of back and forth we discussed this in the podcast before remuneration yes no etc. So what did the last month bring
+48:00
+us around the clarity act? Hopefully more clarity. Yeah, that's uh still the hope um yet
+48:06
+not uh uh completely sure. So clarity act, you already said that it's going to
+48:13
+be what's supposed to be the second big framework coming out of the US that is
+48:19
+um focused on regulating crypto in a more broader sense. It's a huge
+48:24
+undertaking uh because it tries to combine many different angles um from
+48:30
+who has authority over crypto assets and what kind of crypto assets to uh then downstream of that was what constitutes
+48:37
+like a security what constitutes like a commodity how do you have to uh treat
+48:42
+like defy even tokenization now the stable coin topic and stable coin deal topic is also bring like brought back
+48:48
+into the conversation again um so it's a huge undertaking and something that I
+48:54
+guess the current US administration has made a high priority of pushing through.
+48:59
+There's been lots of I guess back and forth over the last uh 12 uh months on
+49:05
+this. We've seen the House of Representatives pass their version of
+49:10
+the Clarity Act a couple of months ago already. Now it's been the big topic of
+49:16
+what what the Senate is going to do. And then there was like positive news two weeks ago uh from the Senate Banking
+49:22
+Committee who in a bipartisan vote uh voted uh for passing of u their crypto
+49:30
+market structure bill which is like a positive step forward but still poly
+49:35
+market odds currently sit only at uh 55% that we will see clarity act being
+49:42
+pushed through this year and this is basically because now the framework that
+49:48
+the Senate Banking Committee has passed and the version by the agriculture
+49:53
+committee, they need to be now aligned. And there's also like open questions that still have to be worked through. Um
+50:00
+especially when it comes to some ethics uh provisions inside the framework of
+50:05
+basically not allowing uh like members of the administration to just launch
+50:11
+widely some meme coins into the open as we've seen reg which is also like not
+50:17
+totally uh like unfair I guess. So this is something where uh as this is like a
+50:24
+bill that both parties have to agree on or like at least some also Democrats have to agree on in order to pass this
+50:30
+where there's currently like still ongoing conversations on now
+50:36
+consolidating this and this is now becoming like a timing question because we are basically moving towards the the
+50:42
+midterms at the end of the year in November and then there's now like this very like tactical I guess approach and
+50:49
+conversation inside the Senate of having to push this now through in the next weeks otherwise it will become difficult
+50:56
+again to put it back onto the map because then there's more like other like political interests coming into
+51:02
+place again. So this is basically now what's being worked through and which is why the polygon market also only like at
+51:08
+55% because it's not clear yet that they will get like a full Senate vote soon
+51:14
+and then also like a positive outcome on this vote. But if there was like a vote,
+51:20
+the next steps would basically be that the Senate would pass it. Then we have the version of the House of the
+51:26
+Representatives and the Senate that needs to be aligned, which is something that most observers don't consider to be
+51:31
+like that difficult. So this would like that would be something that is feasible and then you have to to vote on that
+51:37
+again uh until finally it reaches the president's desk for signature. So this
+51:43
+is currently what's what's going on. again the big open topic on how to bring in the provisions on the ethics side and
+51:51
+yeah everybody's observing what's what's happening here on a daily basis you know clarity act the the bit that really
+51:57
+stands out to me again talking uh very broadly about it is is really the shift
+52:04
+the shift in the in in the US policy strategy that is that we've gone from
+52:11
+should crypto be regulated in the first place and by whom to now, what kind of
+52:17
+market structure should the US actually build? And I just totally understand
+52:22
+that um a a major democracy for a new
+52:27
+asset class and a new uh economy, the token economy if you will, just needs a
+52:32
+time to work it through precisely. Yeah. So by now we have a much more mature
+52:39
+conversation that than during Gary or Jerry Gensler times. The committee vote
+52:45
+was bipartisan which is a positive signal. The new draft looks more industry friendly and the White House is
+52:52
+dreaming funnily of a July 4th crypto independence day. Um but besides all of
+52:58
+these positive aspects, uh I'd stay sober here really because pulley market
+53:04
+has it around 70% which is not total anticipation of a get through this year
+53:10
+and the full senate needs 60 votes and there's still the whole reconciliation
+53:16
+dance with the house. So my take is that it's real momentum for and behind the
+53:22
+clarity act now but it's not a done deal. But once the US has both genius
+53:29
+and clarity on the books, the pressure on Europe to move gets very real because
+53:34
+then even our regulatory advantage is no longer true. I think just for everybody who's not
+53:40
+that deep into the weeds of clarity and and so on. I think just like one important thing to understand why this
+53:46
+matters is basically because it gives the US market um and US companies like
+53:53
+really long-term clarity on how to play in this market. As of now, you could say
+53:58
+given the very constructive US administration and the regulatory
+54:04
+bodies, it's not as critical basically because the SEC and CFTC and the other
+54:10
+agencies will just basically bend existing regulation and give out own
+54:15
+guidance as they see fit. And currently they take a very constructive view on the market which allows all these like
+54:21
+initiatives to be like pushed forward. But that could change with the next administration. And this is why it
+54:27
+becomes critical to not make it like dependent on the mood and the political
+54:33
+view of the current administration and the regulatory bodies but something that is independent of that.
+54:38
+So this means the clarity act not fully clear yet and yeah it will definitely be
+54:44
+something we have to monitor for next couple of months if yeah poly market odds indicating that could come this
+54:50
+year or not. It's kind of in the stars. So let's see but we will definitely monitor and keep you posted. Thanks Max
+54:55
+for this overview on what is happening in the US. Right Max Jonas uh as our listeners most
+Knowledge Bites
+55:02
+likely will not stop consuming uh digital assets and digital money content
+55:07
+after this episode. Let's recommend some knowledge besides that may serve exactly
+55:13
+that purpose to further deep dive into this fascinating world of digital money and digital assets. Yunas, what would be
+55:20
+your pick for our listeners to further consume content? Yeah. So I brought a a knowledge by today. It's actually just a
+55:27
+very simple LinkedIn post um and it's by the European Central Bank um on the digital euro because interestingly
+55:33
+discussed that in this podcast as well. banks and payment service provider could apply for the dig euro pilot which will
+55:39
+take place as we discussed before in this episode mid 2027 to mid 2028 and
+55:44
+was the deadline in May and the ECB announced that more than 50 payment service provider across Europe applied
+55:50
+to participate in the pilot and I think that's pretty interesting because I was actually positively surprised by this
+55:56
+amount I thought it would be less I think 50 is a really strong uh strong number and yeah really curious to see so
+56:03
+it really seems that also the market more and more takes the digital euro as an initiative that is now is here and
+56:09
+works together on the topic with the ECB and not anymore fights it. That's at least somehow my interpretation of this
+56:15
+amount of 50. But yeah, let's see in July there will be the list published of who will be accepted. So then we know
+56:21
+names which is also very interesting but at least the number 50 is at least something that I found very interesting
+56:27
+and we will keep the and put the link to this post in the show notes. Thanks so much. definitely add it to my
+56:34
+list. I am I'm completely shameless here and give a plug for our own reports that we
+56:40
+just put out. So, uh we just published or we're about
+56:46
+to publish a second report. We already published like one report, but I can I guess shill both of them here. And the
+56:52
+first one that we have already published is a report on the Spanish ecosystem. We just did an event in Madrid and was
+56:58
+super interesting. It was the very first time that we were in Spain and it really paid off because we have like a very
+57:04
+institutional le market um by banks like Santanderea, BVA, Kaika and so on and
+57:10
+it's also I guess no surprise that we've seen like five Spanish banks being part of the Kalis consortium. So they're
+57:16
+really like driving the market forward. And on the other hand, you also have like a quite interesting fintech
+57:22
+tokenization ecosystem. And we basically interviewed over eight people that are super deep entrenched in the Spanish
+57:29
+digitality ecosystem and published a report about all the intricacies and uh
+57:34
+unique properties about the market. So for everyone who's like interested in
+57:39
+understanding like what's happening in Spain, uh I guess this is like a go-to report. And then I think like next
+57:46
+Monday or Tuesday we will publish a report on institutional crypto lending.
+57:52
+So this is also a very interesting trend that we now uh see early signs of takeoff uh where you have these
+57:59
+decentralized lending protocols uh underneath and now very uh institutional
+58:05
+counterparties on top that directly uh engage in borrowing and lending activities through very regulated
+58:12
+entities like a sign for instance who just launched such an offering with X. So we take a deeper look into this
+58:20
+emerging trends of institutional grade decentralized crypto lending. Michael, what did you bring?
+58:26
+Yeah, so I brought an IMF paper on stable coins titled making stable coins
+58:32
+stable. It's IMF working paper number 2026 74. It's of course linked in the show
+58:40
+notes too. And uh it's worth your time really because first look to the authors
+58:47
+Bi Mikau Tang that's basically for those who don't know the IMF's a team on
+58:53
+digital money and when these folks publish together regulators
+58:59
+really read it and I read it too. I enjoyed it. Yeah. What's clever is they
+59:04
+take the classic diamond dipic bankrun run model from 1983 and apply it to
+59:11
+stable coins which basically says stop treating stable coins like some weird
+59:17
+crypto thing which in the perception of many media outlets and and consumers out
+59:22
+there it is. But actually they can be conceptualized as banks and they can run
+59:28
+like banks and therefore are subject to potential bank runs and this is why you
+59:34
+can apply this classic diamond dip bankr run model. Yeah. So the bottom line of
+59:41
+the paper really is this is going to be the paper everyone sites in the next round of of stable coin regulation
+59:48
+discussions. I already see it anticipating. So read it now or hear it quoted at you in 3 to 6 months when
+59:56
+banks have their next round of stable coin evaluations. Now I have flashback Michael for my um
+1:00:01
+economics masters because diamondic model is something we we looked at. So great that extend this by stable coins.
+1:00:08
+That's cool. So even on the academic side crypto and uh traditional finance are growing
+Wrap-Up
+1:00:14
+together. Excellent. So, I enjoyed our today's
+1:00:20
+recording a lot. Um, thank you guys for making it to the end for listening to
+1:00:25
+BFR and thank you Yonas and Max for uh your takes and your insights.
+1:00:32
+To our listeners, if you enjoy the podcast, please recommend us and rate us. That has proven to help us the most.
+1:00:41
+Do connect with us on YouTube, LinkedIn and particularly our expert community on
+1:00:46
+Telegram which are both available both in German and English. Visit our website
+1:00:52
+for more detailed analysis and very detailed show notes and do make sure to subscribe. Until then, this is BFR
+1:01:00
+bringing Europe's perspective on digital money and digital assets to the world. Thank you. Thank you. Bye-bye. The views
+1:01:08
+expressed are solely the personal opinions of the hosts and are provided forformational purposes only. This
+1:01:15
+podcast does not offer financial or investment advice. Always conduct your own research and make well-informed
+1:01:21
+decisions before investing. Please be aware that the hosts and guests may hold cryptocurrencies or digital assets
+1:01:28
+discussed in this episode.
+

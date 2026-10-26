@@ -1,0 +1,1349 @@
+
+Search in video
+0:05
+the great convergence, how AI,
+0:06
+blockchain and quantum computing are
+0:08
+going to power and govern the agentic
+0:10
+future. Um, there's obviously a
+0:13
+tremendous amount to to unpack there.
+0:15
+Um, you know, at a very high level, you
+0:18
+know, I think we see AI is bringing the
+0:20
+intelligence, uh, web 3 as bringing, you
+0:23
+know, trust, audit, and value. And
+0:27
+quantum is just going to accelerate
+0:29
+everything. But obviously there are a
+0:30
+lot of you know new possibilities a lot
+0:32
+of new risks. That's what we're going to
+0:34
+touch on in the panel today. But as as
+0:36
+we start why don't you each you know
+0:38
+quickly introduce yourself and then you
+0:40
+know how do you like do you have a
+0:41
+construct for thinking about all this
+0:43
+change that's going on so rapidly.
+0:48
+So thank you very much. A pleasure to be
+0:49
+here again this year. I was uh with the
+0:51
+Abraham house last year when we
+0:53
+announced a digital identity project and
+0:55
+actually uh took a lot of international
+0:58
+uh visibility. So I am the founder of
+1:02
+two companies. One is wise which is a
+1:05
+Swiss company and another one is CLSQ
+1:07
+which is a French company. Both they are
+1:09
+listed on the NASDAQ unicorns. And by
+1:12
+the way this is one uh example that in
+1:14
+Europe we can also make unicorns and
+1:15
+it's not only in America.
+1:17
+Who knew?
+1:19
+And actually uh we maybe just to touch a
+1:22
+point there I think the you know the way
+1:24
+was invented in Switzerland in Geneva
+1:26
+where I used to work with the chief
+1:27
+security officer of the UN
+1:29
+semiconductors are French innovation in
+1:32
+France. So a lot of the innovation is
+1:34
+European innovation. The problem we have
+1:36
+in Europe is that we don't know how to
+1:37
+scale company. This only that there's
+1:39
+not enough scale money to bring
+1:42
+companies to the next level. Otherwise
+1:44
+uh don't worry about us. We we know how
+1:46
+to take care of ourselves. Uh but um
+1:48
+yeah back back back to the point so so
+1:51
+the companies I I I I run they are
+1:53
+solving basically a fundamental problem
+1:56
+on the internet which is the identity
+1:59
+layer the the web I don't know if you
+2:01
+guys know I was with Tim Lee when the
+2:03
+web was invented engine was the chief
+2:05
+security officer and I used to run the
+2:07
+node
+2:08
+sorry at where CERN
+2:10
+sir yeah heard of them
+2:11
+yeah exactly and the United Nations and
+2:13
+CERN chairs the same data centers in
+2:15
+Geneva and We were the first node node
+2:18
+zero is still there by the way. So um at
+2:22
+that time we realized that one of the
+2:24
+thing missing was a digital identity.
+2:26
+The web doesn't know what an identity
+2:27
+is.
+2:28
+Wait what year are we talking?
+2:30
+We we are talking 30 years ago 33 years
+2:33
+ago. So uh at that time uh it was easy
+2:37
+to extrapolate and say okay if the web
+2:38
+doesn't understand what an identity is
+2:40
+what is going to happen the day that you
+2:43
+know AI blockchain quantum technology
+2:46
+will scale up and and convert that into
+2:48
+a monster you know the monster will be
+2:51
+unable to identify a digital identity.
+2:54
+So uh this has been aggravated by the
+2:56
+internet of thing as we are loading now
+2:58
+7 trillion objects to the internet to
+3:00
+the same internet that there was not
+3:02
+designed to run that. So uh the
+3:04
+companies I run and that's where have
+3:06
+been so successful and and Jonathan is
+3:09
+running one of them which is also seal
+3:11
+coin they are companies that they are
+3:13
+creating a transactional mechanism on
+3:15
+the internet where identity is
+3:16
+recognized as a binding identity in
+3:18
+Switzerland you know in Switzerland we
+3:20
+can do a lot of things we can vote
+3:21
+online with a digital identity imagine
+3:23
+being voting online in the United States
+3:24
+that would change a lot of things right
+3:26
+uh we we are we are able um to use our
+3:30
+digital identity because a digital
+3:32
+identity belongs to the person so it
+3:33
+doesn't belong to the platform doesn't
+3:35
+belong to Facebook or Twitter or it's
+3:37
+whatever so in that model uh if you
+3:40
+control the digital identity then you
+3:41
+can converge all the technology around
+3:44
+the digital identity because everything
+3:45
+is an ent identity including AI AI which
+3:49
+are without a digital identity basically
+3:51
+has absolutely zero meaning because the
+3:53
+best quality data that you have which is
+3:55
+required to train AI requires a digital
+3:58
+identity the PII right so anyway I like
+4:01
+Jonathan to expend a bit Maybe we can
+4:03
+take the way around.
+4:05
+Thank you, Carlos. So indeed I'm running
+4:08
+Silcoin and Silcoin is I think the best
+4:10
+example we have within the company on
+4:12
+how to converge those very different
+4:15
+tech stacks uh starting from the silicon
+4:18
+level where we have the semiconductors
+4:21
+uh integrating already quantum resistant
+4:23
+algorithms and that's a first very
+4:26
+strong layer and the role of the
+4:28
+semiconductors are secure elements that
+4:31
+keep secrets and the best secrets we
+4:34
+know in the blockchain environment is
+4:37
+not really an identity but can be served
+4:39
+as an identity is your wallet identity
+4:42
+and your wallet is nothing else but
+4:43
+wasn't that today the main way that
+4:45
+identity is
+4:47
+indeed so and this is why this
+4:49
+convergence is possible is just because
+4:51
+we use the same primitive PTI services
+4:54
+you have a public and a private key
+4:55
+infrastructure okay and within that
+4:59
+whether you deliver an identity to an
+5:01
+object or to an individual it's the same
+5:03
+secret that you need to keep secrets.
+5:06
+Okay. And what we've built is a platform
+5:09
+with a new primitive that enables
+5:12
+machines to transact together. So we're
+5:14
+not talking about on boarding 1 billion
+5:17
+users into the platform. We're talking
+5:18
+about the next trillions objects around
+5:22
+the network to start communicating
+5:25
+together. And communication is quite
+5:27
+straightforward. What we want them to do
+5:30
+is really to transact with one another.
+5:32
+and for them to transact. We heard today
+5:35
+a lot about AI and agentic AI. AI won't
+5:40
+become agentic unless they have
+5:42
+identities because if you want to
+5:44
+entrust your own AI agent to do
+5:48
+something on your behalf, you want to
+5:50
+make sure that you have full ownership
+5:51
+over it and you want to make sure that
+5:53
+whenever you arrive somewhere, most of
+5:55
+the time it's going to be an API, it can
+5:57
+authenticate itself first.
+6:00
+Once this is done what we have today
+6:02
+with AI
+6:04
+when it authenticates itself what is it
+6:06
+authenticating
+6:08
+is it does it have its own identity or
+6:10
+is it identity
+6:11
+both
+6:11
+linked to the
+6:13
+both it's identity of this specific AI
+6:15
+agent
+6:16
+and proof of ownership so accountability
+6:19
+to whom these AI agents belong to okay
+6:22
+so we are solving both of these issues
+6:25
+but if you want AI agents to become
+6:28
+agentic and therefore autonomous
+6:31
+They need to be able to transact. It is
+6:33
+not enough that it helps you to take a
+6:35
+good decision. He needs to take it. And
+6:37
+if you wanted to take it, they need to
+6:39
+authenticate themselves. Make sure that
+6:41
+you have accountability and they need to
+6:43
+be able to transact and it's all
+6:45
+embedded because they already have
+6:46
+access to your wallet.
+6:48
+And there is where the next few trillion
+6:51
+dollar companies will be created because
+6:53
+everybody should be taking notes.
+6:55
+We we we are moving we are in the path
+6:57
+doors. Yeah, we are we are in the we are
+7:00
+in the situation where the uh you know
+7:03
+I've been in double for 27 years now.
+7:04
+This is my 27th time here and I had been
+7:07
+seeing this cycle of talking about
+7:09
+blockchain everybody excited talking
+7:11
+about
+7:11
+what year was the best
+7:13
+actually the best the best year was uh
+7:16
+maybe this year because I think we have
+7:18
+a very serious problem to solve but uh
+7:21
+there's a lot of cycle where everybody
+7:23
+thinks that this technology is going to
+7:26
+be the final and greatest technology but
+7:28
+this is only an extension of it in on on
+7:31
+AI on AI now the next big thing is ing
+7:34
+is what you call AI getting physical
+7:36
+physical AI. LLMs have proven to be very
+7:41
+for robots,
+7:42
+robots, electrical switch, uh, smart
+7:44
+meters, connected cars, electrical
+7:47
+plugs,
+7:48
+satellites and this is actually where we
+7:51
+are acting because we produce
+7:52
+semiconductors and we embed those
+7:54
+semiconductor into devices. We provide
+7:57
+PQC uh capabilities uh which is
+8:00
+postquantum capabilities so a quantum
+8:02
+computer cannot break them. We actually
+8:04
+just announced yesterday that we are
+8:06
+acquiring for $200 million a French
+8:08
+company Kubli which is one of the
+8:10
+leading quantum companies developing a
+8:12
+microchip quantum microchip.
+8:13
+Another [snorts] great French company.
+8:15
+Another French company. That's what I
+8:16
+said you know I mean American companies
+8:18
+come to France to buy them. You know
+8:20
+some box AQ comes to France to buy
+8:22
+companies. So the innovation is here the
+8:24
+money is there. That's why when I raise
+8:26
+money I go to the United States. So I
+8:27
+keep acquiring French companies. But um
+8:30
+the what is important to note is that
+8:32
+this physical AI we are talking about
+8:35
+trillions of devices. Those devices are
+8:37
+becoming intelligent. So they will
+8:39
+autoprogram themselves by behaving and
+8:42
+repeating every time the same behavior.
+8:44
+they will keep improving themselves and
+8:46
+to the point that they will take
+8:48
+decisions in the future automatically
+8:50
+and this is where the uh the PII
+8:52
+component is you know where the human
+8:54
+intervention will be to ensure that
+8:56
+those devices will not go against us you
+8:58
+know Wednesday my we we organized a
+9:00
+round table here in
+9:02
+the question is who is us
+9:04
+no the the house is is the bio
+9:06
+biological self a human I mean we are
+9:09
+what we are right an AI or a robot will
+9:12
+never be a biological person will not
+9:14
+have the same characteristic will be
+9:16
+something very similar but will not be
+9:18
+us. Uh Wednesday we in our in our round
+9:22
+table we organize uh every year we will
+9:25
+combine all that into a robot. Actually
+9:27
+I'm bringing a robot into a round table.
+9:29
+The robot is connected with our
+9:31
+satellite. We have our own constellation
+9:32
+of satellite we send with the SpaceX. So
+9:34
+we have now 20 satellite in orbit
+9:36
+growing to thousand satellite. Those
+9:38
+satellites are talking directly with the
+9:40
+chips that we manufacture and we embed
+9:42
+into devices. Those devices then analyze
+9:45
+the data which is highly authenticated
+9:47
+data but because comes from the real
+9:49
+thing right that doesn't come from an
+9:51
+unauthorized data in an NLM and all that
+9:54
+gives a behavior predictability analysis
+9:57
+back into the device. So this is what
+9:59
+you call about the convergence. I mean
+10:00
+we are entering into I think this is the
+10:03
+last year in Davos where we're going to
+10:05
+be talking about one technology only.
+10:08
+It's going to be the year where this is
+10:10
+what we call the age of convergence
+10:12
+where convergences are going to be very
+10:14
+similar to happen in the renaissance
+10:16
+period in Italy where mathematic
+10:18
+geographic art converge and that create
+10:21
+a new civilization. So we're in a very
+10:22
+similar time where the technology is
+10:25
+converging to create a new paradigm
+10:28
+shift and and I think that I think is
+10:30
+coming very strong is quantum right I
+10:32
+mean quantum has the capability to break
+10:35
+RSA RSA is a 50 years old algorithm
+10:37
+invented by MIT reaching legacy status
+10:41
+uh if if
+10:42
+it had a good run
+10:42
+it had a good run but
+10:46
+the consequences of quantum coming and
+10:48
+breaking are phenomenal right your
+10:49
+banking system your your military
+10:51
+infrastructure
+10:52
+you got a lot of other things to worry
+10:53
+about solid is that Bitcoin as well.
+10:56
+Yeah. So there is a need uh to think in
+10:59
+that in that way rather thinking in
+11:01
+silos technology silos see the
+11:03
+convergence and what is the value added
+11:05
+and that convergence can provide you
+11:06
+know because the new inventions that can
+11:08
+be sitting at top of the infrastructure.
+11:10
+I think it's time now that we put less
+11:13
+focus only on the uh use cases and we
+11:15
+reinforce the infrastructure. The
+11:17
+infrastructure is not secure yet. United
+11:19
+States has launched the CNSA 2.0 uh
+11:22
+which says that all the critical
+11:23
+infrastructure of the United States
+11:25
+before the year 2027 needs to be quantum
+11:27
+ready. So uh so that's very encouraging
+11:30
+because you have now a government Europe
+11:31
+is following by the way. So this is
+11:33
+going to create a massive opportunity
+11:34
+because every single organization needs
+11:36
+to be PQC enabled right otherwise you
+11:39
+will be considered a legacy system you
+11:40
+will not be able to operate by the year
+11:42
+2030. So there is a urgency factor that
+11:45
+will accelerate this aspect of
+11:46
+convergence
+11:48
+and maybe another point to address is
+11:50
+that you ask a very good question with
+11:52
+who who's controlling all of that and I
+11:56
+think this is definitely what blockchain
+11:58
+brings to the table is this
+12:00
+decentralization aspect with the
+12:01
+transparency governance and then you can
+12:04
+decide transparently who can act what
+12:07
+are the primitive on which they can act
+12:09
+or on which they should act and you can
+12:11
+claim this ownership and make sure that
+12:14
+you can mingle and add on top of this uh
+12:18
+this infrastructure and decide the level
+12:20
+of transparency, level of openness uh
+12:23
+you want depending on the use case
+12:24
+because it's different if we're talking
+12:26
+about an object which is a satellite
+12:28
+used by the army or if it's just my
+12:30
+Apple Watch
+12:33
+and just to say on the on the how last
+12:36
+year here with Abraham uh house we
+12:39
+launched Abraham identity ID so the
+12:42
+thinking process was that a digital
+12:44
+identity is not your password, it's not
+12:46
+your driving license, it's not your
+12:48
+social security number. It is actually
+12:50
+you as a human, you are entitled to a
+12:52
+digital identity that belongs to you
+12:54
+under your consent which is not the case
+12:56
+now because digital identities are owned
+12:58
+by the platforms with their consent. So
+13:00
+if you do
+13:01
+or or the government
+13:02
+or the government or both on behalf of
+13:05
+so so the uh the model having a digital
+13:08
+identity as a birth certificate on the
+13:10
+net the day that you decide to get
+13:12
+digital you get your birth certificate
+13:13
+but that birth certificate is yours that
+13:16
+creates unprecedented possibility to
+13:18
+solve many of the sustainable goals of
+13:20
+the United Nations such as reducing
+13:22
+poverty even poverty why because a
+13:25
+consent you can monetize a consent and
+13:27
+that's what you can do through the
+13:28
+blockchain you can tokenize the
+13:30
+blockchain. So if you want to have
+13:31
+something about my digital identity
+13:34
+because you want to data mine a aspect
+13:36
+of my life without disclosing who I am
+13:39
+but maybe I let you know that I don't
+13:40
+know I like movies or like uh soccer or
+13:43
+whatever that part is something that I
+13:45
+can make money as well with you if you
+13:46
+are the platform I am the person. So
+13:48
+this is where we are moving towards a a
+13:50
+consent business model. Do do do do do
+13:52
+do do do do do do do do do do do do do
+13:52
+do do do do do do do do do do do do do
+13:52
+do do do do do do do do do do do you
+13:52
+think there it's certainly possible
+13:56
+there I came from India do do you do you
+13:58
+think there's actually meaningful money
+14:00
+for people in
+14:01
+oh yeah for sure I came from India I was
+14:02
+last week in India I was withhar project
+14:04
+1.6 six billion identities 80% of the
+14:08
+Indian poor people now they have digital
+14:10
+identities and they can trade online
+14:13
+they can access education they can get
+14:15
+government grants because they exist
+14:17
+they can open a bank account before that
+14:18
+they were totally banker
+14:22
+but maybe one side of your question is
+14:24
+what is monetization of this data and
+14:26
+monetization most of the time people
+14:28
+tend to think that it's only about cash
+14:30
+it's also about services that you can
+14:32
+exchange and when you have an open
+14:35
+network.
+14:35
+It's a great point.
+14:36
+Such such big as all those devices and
+14:40
+agent and individuals, you can start
+14:42
+actually exchanging much more than just
+14:44
+cash which is critical for whenever you
+14:48
+go to India or too many places
+14:51
+and the monetization is there and you
+14:52
+just if you break the mark cap of
+14:54
+Facebook and divide it by the number of
+14:56
+users uh you will get something like
+14:58
+$700 per year. That that's what a one
+15:00
+user worth. No,
+15:02
+it does with advertising capability
+15:05
+concerning the markup. I didn't say
+15:06
+revenue, I said markup.
+15:08
+I'm sorry. Marketap
+15:10
+the market cap.
+15:11
+Market cap. Yes. Okay.
+15:13
+Yeah. So you divide it. So So that means
+15:15
+that monetization of identity has a huge
+15:18
+value if you know how to give it back
+15:20
+again to the person, right?
+15:21
+Yeah. No, that's very fair. When you you
+15:23
+you've mentioned decentralization. How
+15:25
+much of this is decentralized? When you
+15:27
+talk about identity is is is it critical
+15:30
+that identity be decentralized?
+15:32
+Absolutely. There are two aspect of
+15:34
+identity. One is the trust delegation.
+15:36
+So you need some some some trusted
+15:37
+organization to issue the identity
+15:39
+otherwise anyone can do it right. And
+15:41
+then and that's
+15:42
+would would you trust worldcoin?
+15:44
+No.
+15:45
+Okay.
+15:45
+No. No. Because worldcoin who trusts
+15:47
+worldcoin?
+15:49
+Yeah. And that's that's the problem with
+15:51
+trust. You know you got you have to go
+15:52
+to the genesis of trust in order to
+15:54
+trust something right. [snorts] And the
+15:56
+problem with all these solutions that
+15:57
+there are industrial solution technology
+15:59
+solutions that the out call themselves a
+16:01
+trusted party but third trusted parties
+16:03
+are very well defined on PTI that needs
+16:05
+to be a trust body that has no benefit
+16:08
+whatsoever on the trust accredititation
+16:10
+process right so on this
+16:12
+decentralization aspect we don't want to
+16:15
+choose between decentralization and
+16:16
+centralization it depends the
+16:18
+infrastructure needs to be decentralized
+16:20
+but when it comes to issuing an identity
+16:22
+or recognizes identity most of the time
+16:24
+it's about regulators government and
+16:26
+issuers, credible issuers to be able to
+16:28
+issue them. So we're not choosing who
+16:31
+should be doing what. We know what is
+16:34
+recognized as a centralized identity or
+16:35
+not. Sometime it's your bank account,
+16:37
+sometime it's your passport, sometime is
+16:39
+something else. It depends on the use
+16:40
+case. But what we're providing is a
+16:42
+decentralized environment where you can
+16:44
+exchange and access those identifiers
+16:47
+the way you need. So it's not about
+16:50
+choosing between decentralization and
+16:51
+and centralization. It's about being
+16:53
+able to mix both and having a
+16:55
+transparent environment where you can
+16:57
+have a strong governance layer.
+17:00
+So what is happening now is that
+17:02
+blockchain is arrive sorry bitcoin uh
+17:05
+sorry the arrival of quantum computers
+17:08
+are arriving which is accelerating
+17:09
+everything which is cryptocurrencies and
+17:12
+also AI. Uh we are in a situation where
+17:14
+a quantum computer can accelerate AI
+17:17
+towards EGI very easily because the
+17:19
+computational capabilities are endless.
+17:22
+the the problem we are facing there is
+17:24
+the quality of data that that that the
+17:26
+world has you know one of the reason by
+17:28
+the way there was a speaker saying
+17:29
+Europe all the people leaves and uh the
+17:32
+technicians live you know the reason
+17:33
+they do is not about regulation issues
+17:36
+is that it's so difficult to obtain data
+17:38
+in Europe I mean you have to go country
+17:39
+by country organization by organization
+17:42
+there are many verticalized
+17:44
+silos so by the time that you want to
+17:46
+train your algorithm on that data become
+17:48
+so so complicated and either you go to
+17:50
+China or the United States and then you
+17:52
+have whatever data you want. So, so, so
+17:54
+that's is the uh problem we are facing
+17:56
+which is too easy,
+17:58
+too easy and too untrusted as well,
+18:00
+right? Because uh whatever you get in
+18:02
+you get out, right? High quality data
+18:05
+still is on silos. Uh a very good friend
+18:08
+of in the United States is telling me
+18:10
+that if if the American Hopkins Hospital
+18:13
+will unveil for instance the cancer
+18:15
+research they have on on on private data
+18:17
+and they will AI on on the top of that
+18:19
+they will already cure cancer. But that
+18:21
+data is very very secretively data is
+18:24
+collected is protected and is not
+18:26
+sharable. So we are in a situation where
+18:28
+data is like oil right whoever has it
+18:30
+wants to keep it and only for them
+18:33
+about this very aspect of data what
+18:35
+we're what we're building throughout
+18:37
+this decentralized platform is making
+18:39
+sure that whatever data is transacting
+18:41
+around it no one can access it unless
+18:43
+you are purchasing it or selling it
+18:45
+obviously but each data point is signed
+18:49
+by the device itself fully secure which
+18:52
+mean that we're creating kind of a
+18:54
+premium premium
+18:56
+data oracle that can be very secure and
+19:01
+today's business in today's business 86%
+19:04
+of the data is statistical
+19:11
+I mean it's what we believe this data is
+19:15
+is not the actual data is if you if you
+19:18
+clicked on a website I would infer that
+19:21
+you're eventually a male or a woman
+19:23
+between this range of age and so on and
+19:27
+so forth. So the 700 million worth of
+19:30
+market cap of those companies is based
+19:33
+on statistics and most of the time BS.
+19:37
+So what we're building is making sure
+19:39
+that whenever you access a data point,
+19:41
+it has been securely signed by the
+19:43
+device itself. And that changes
+19:45
+everything when it comes to acquiring
+19:47
+data, making sure that you can train AI
+19:48
+properly and making sure that you can
+19:50
+actually take a concrete decision and an
+19:53
+execution about these AI agents.
+19:56
+So so the new trend and this is going to
+19:58
+be the big discussion in Davos this this
+20:00
+week is going to be about what we call
+20:02
+verticalization of technology. The
+20:04
+technology is not global anymore.
+20:07
+uh due to geopolitical issues that we
+20:09
+are confronted every day. So countries
+20:12
+wants to be sovereign in what concerns
+20:13
+technology right and and this is where
+20:15
+we focus we focus on technology that is
+20:17
+sovereign technology that a country
+20:19
+wants to own because doesn't want to
+20:21
+depend on another country so this is
+20:23
+cryptographic root keys the possibility
+20:25
+of building your own PI the possibility
+20:27
+of building your own blockchain the
+20:29
+possibility of creating your own quantum
+20:32
+computer at national level and develop
+20:34
+your own semiconductors so this is where
+20:36
+we focus we invest or we buy or we list
+20:38
+on the NASDAQ companies that are
+20:40
+working.
+20:40
+What about what about the you know
+20:42
+country specific you know LLM?
+20:46
+Yes, totally. Absolutely. Absolutely.
+20:48
+Actually that's a case in Switzerland.
+20:49
+We have our own AI which is supposed to
+20:52
+be the most trusted AI because we
+20:54
+supposed to be the most trust country. I
+20:55
+I issues about that but anyway that's a
+20:57
+good market.
+20:58
+It's a low bar. [laughter]
+20:59
+It's a good marketing. No no but but I
+21:00
+think it makes a lot of sense because uh
+21:02
+the data has been validated before
+21:04
+before it reaches the the AI. Sovereign
+21:07
+technology uh is going to be at the
+21:09
+beginning of big fight because the
+21:10
+multi- trillion dollar companies they
+21:12
+managed to to get so big and they are in
+21:16
+contraction
+21:17
+bigger tomorrow. No, not not necessary.
+21:18
+Not necessary because sovereign
+21:20
+technology is going to put a firewall on
+21:22
+their expansion because they cannot
+21:24
+comply with the sovereign structures and
+21:27
+there's why you're going to see, you
+21:28
+know, a quantum computer competing
+21:30
+directly with Nvidia and and replaces
+21:33
+the GPUs with the cubits, you know. So,
+21:35
+so this is the fight now and and we are
+21:37
+in the middle of that fight and I think
+21:39
+uh we have maybe not many companies that
+21:41
+understand what is happening here, but
+21:43
+the ones that do they will become very
+21:45
+big very soon. Okay. Well, we only got a
+21:48
+couple minutes left. Why don't you tell
+21:49
+us these three things? What are you
+21:51
+looking for? What's the big thing that
+21:52
+you guys are are looking for in 2026
+21:55
+from the convergence of all these
+21:56
+technologies?
+21:57
+So 26 for me and and has been actually
+22:00
+also for the US government last uh last
+22:02
+Monday is the what you call the uh
+22:04
+quantum security year. It's going to be
+22:07
+everywhere. We are in quantum where we
+22:09
+were in AI five years ago. So everybody
+22:12
+talks about AI because there's a lot of
+22:14
+hype about AI. Actually AI has not been
+22:17
+able to solve anything complex yet. You
+22:19
+know AI has not found a new drugs. AI
+22:21
+has not found the cure cancer. They has
+22:24
+not the you know it's it's it's still
+22:26
+and and and there many reasons for that.
+22:28
+LLMs are not necessary the best way to
+22:30
+train only AI algorithm. You need to
+22:34
+have something more on the top of that.
+22:35
+So there is a consensus that quantum
+22:38
+security is going to be 26. Last year by
+22:40
+the way was a quantum year there was a
+22:41
+quantum computer year now it's quantum
+22:43
+security which is the defense side of
+22:45
+quantum right once quantum arrive will I
+22:48
+am and this is a massive opportunity for
+22:50
+companies that they are in quantum
+22:51
+security to get very big like you know
+22:53
+when willow willow when willow was
+22:55
+announced by Google that was November my
+22:58
+my my company went to 1.3 billion
+23:02
+dollars overnight
+23:04
+one day and why because everybody
+23:06
+realized
+23:07
+from from where
+23:08
+from 100 million at that time
+23:10
+and and
+23:11
+that's a memorable day.
+23:12
+Yeah, it was a memorable it was a great
+23:14
+Christmas. Let's put it that way. And
+23:16
+the reason was is because everybody
+23:18
+understood that quantum was will not be
+23:20
+in 30 years which was at the time Nvidia
+23:22
+co you know thinking oh don't worry
+23:24
+that's going to come.
+23:26
+Yeah. And now now he's invest he's the
+23:28
+first one invested in AI right in in
+23:29
+quantum. So quantum security is is 26.
+23:32
+And if you have your investors and you
+23:35
+have a look into quantum security
+23:36
+companies, they're very interesting one
+23:37
+here, especially one I just acquired
+23:39
+with an encou uh which is one of the uh
+23:42
+tech pioneers of the world economic
+23:43
+forum. So this is the market that is
+23:45
+going to explode and next year in Davos
+23:48
+is going to be all about quantum and not
+23:50
+AI. bet you that
+23:53
+my wish is that we stop talking about
+23:55
+technology about blockchain specifically
+23:57
+about quantum about AI and we deliver
+24:00
+value and I think this is exactly what's
+24:02
+uh what's happening now is that we're
+24:04
+now in a network where we can actually
+24:06
+bring this value together and deliver it
+24:08
+so users are very keen in uh trying to
+24:12
+use it we just need to deliver
+24:15
+awesome that was great give him a big
+24:17
+[applause]
+

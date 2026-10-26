@@ -1,0 +1,1009 @@
+
+Search in video
+0:00
+Will quantum computing kill Bitcoin?
+0:03
+This is a question you might have. And
+0:05
+when you get into Bitcoin and even when
+0:07
+you're in there, right, and you're
+0:09
+holding a huge amount of your wealth in
+0:11
+this asset, any sort of thing that
+0:13
+threatens it is going to be important to
+0:16
+look at and actually assess the real
+0:18
+threat of it. And I'm going to discuss
+0:21
+what quantum could do, what quantum is,
+0:25
+and what it won't do. because there's a
+0:27
+lot of people that are saying a lot of
+0:31
+things about quantum and a lot of it is
+0:33
+just speculation. So, we're going to get
+0:35
+into it. I'm going to share my opinion.
+0:37
+We're going to talk about exactly what
+0:39
+Quantum could do to Bitcoin. My name is
+0:41
+Forest Total. I'm a Bitcoin educator and
+0:43
+I actually do one-on-one coaching
+0:44
+sessions for anybody looking to increase
+0:47
+their best practices around Bitcoin
+0:49
+security. Uh questions you might have,
+0:51
+anything, you can book me for a session.
+0:53
+We can discuss that and the link for
+0:55
+that is in the description. and it's
+0:56
+path to bitcoin.xyz.
+0:58
+So there's two main cryptographic
+1:00
+primitives that are the foundation of
+1:03
+bitcoin security. One of them is shaw
+1:05
+256 which is the hashing algorithm for
+1:09
+the bitcoin miners. This is largely not
+1:12
+seen as what is threatened by quantum
+1:15
+although technically there's a
+1:17
+theoretical
+1:18
+future where it could be as well but
+1:21
+this isn't typically what people are
+1:23
+talking about with quantum. So let's set
+1:25
+that aside a little bit. We'll address
+1:27
+that a little bit later. But the other
+1:29
+one is elliptic curve signatures. And
+1:32
+this is what people are worried about
+1:34
+with quantum. And this is what is
+1:36
+basically the private public key
+1:39
+pairings. So when you have a public key
+1:43
+and you are sending Bitcoin to it, you
+1:46
+also have a private key associated with
+1:48
+that that it was derived with your sort
+1:50
+of master public key which is your Xpub
+1:53
+and you have sort of child public keys
+1:55
+which might be your SegWit native
+1:57
+addresses. You have a private key that's
+2:00
+associated with that and that private
+2:01
+key is derived in a human readable way
+2:05
+through your 12 24 words passphrase or
+2:08
+your multisigg. But ultimately those
+2:11
+things uh become a string of numbers and
+2:14
+letters that are infinitely impossible
+2:17
+to uh or next to impossible to guess if
+2:21
+created properly from the all from all
+2:24
+of the supercomputers in the world. Now
+2:27
+what's crazy is quantum in theory uh
+2:30
+could derive a private key from a public
+2:35
+key. Now what's interesting about this
+2:37
+is that there are certain types of
+2:39
+Bitcoin addresses in the past the
+2:43
+original ones for instance were pay to
+2:45
+public key. Now what that means is
+2:48
+you're sending Bitcoin directly to a
+2:51
+public key. So those public keys are
+2:54
+exposed and known about and there's a
+2:56
+public key that connects to them. Then
+2:58
+there were new address types paid to
+3:01
+public key hash. There's segwit
+3:03
+addresses as as I uh discussed already.
+3:06
+And these ones hide the private key
+3:09
+behind a hash. So it creates a hash that
+3:13
+is connected to a public key, but it
+3:15
+isn't exposing it. Now the public key
+3:18
+does get exposed when you make a
+3:21
+transaction. So there's a a bit of a
+3:24
+distinction there, but ultimately
+3:27
+the main address types that are
+3:31
+threatened by quantum are the payto
+3:34
+public key addresses. So let's take a
+3:36
+look at those for an example. So right
+3:38
+now we are on block number one, the
+3:40
+first one after the genesis block. And
+3:43
+this is a P2PK, pay to public key. This
+3:47
+is the public key right here. And if
+3:50
+quantum computing was able to uh
+3:53
+basically solve or backwards create the
+3:56
+private key from a public key, they
+3:59
+would be using this information and
+4:00
+deriving the private key associated with
+4:02
+it and being able to take the 50 Bitcoin
+4:05
+in this wallet. Now, a lot of these
+4:08
+early wallets are wallets that Satoshi
+4:12
+owned, right? These are wallets that he
+4:14
+mined uh the blocks just to facilitate
+4:18
+the network being operational and took
+4:22
+custody of those 50 Bitcoin. Does he
+4:24
+have the private keys anymore? I don't
+4:26
+know. That's speculation. You know,
+4:28
+people worry about that. Satoshi coming
+4:29
+back and spending it all. But basically,
+4:31
+what could happen is that roughly a
+4:34
+million Bitcoin are held in payto public
+4:37
+key addresses. And if Quantum came
+4:39
+online all of a sudden, they could
+4:42
+target those addresses, find the private
+4:46
+key for them, and then move those into
+4:48
+their own custody and take a million
+4:51
+Bitcoin, right? But they're taking them
+4:54
+from somebody, right? Maybe Satoshi's
+4:58
+not even alive anymore. Maybe he never
+5:00
+recorded the private keys, but that's
+5:03
+still kind of theft, right? And that's
+5:07
+kind of where my thesis kind of comes
+5:09
+down to is the question here with
+5:11
+quantum is that people see it as a
+5:13
+massive threat and they think that it's
+5:16
+going to kill Bitcoin. If a million
+5:18
+Bitcoin become unlocked because of all
+5:21
+of a sudden Quantum uh comes online,
+5:24
+that's a million Bitcoin that are in
+5:26
+jeopardy. And this has a ramification
+5:28
+and a knock-on effect on Bitcoin at
+5:30
+large. But it matters on so many
+5:32
+variables.
+5:34
+who has control of the quantum computer
+5:36
+that can hack these wallets and is the
+5:41
+law in their favor for ownership of
+5:44
+Bitcoin that they take from those
+5:46
+wallets or is there even uh maybe a
+5:50
+system where there's going to be long
+5:53
+arbitration and you know court and
+5:57
+lawyers and everybody going to be
+5:59
+fighting over who owns the Bitcoin if
+6:01
+Quantum can take the Bitcoin from these
+6:04
+address types. The other thing here too,
+6:06
+right, is again the question, who
+6:08
+created the quantum computer that can do
+6:10
+this? It's not going to be some hacker
+6:13
+in a basement that is unknown that can
+6:16
+then steal this and not have to go
+6:18
+through uh the the law system of of uh
+6:22
+taking ownership of it or anything like
+6:25
+that. It's going to be massive
+6:28
+companies, say Google for instance, that
+6:30
+has a big quantum division that is
+6:33
+working on quantum computing or
+6:35
+Microsoft or something like that and
+6:38
+they're pretty big name, right? And if
+6:40
+all of a sudden their [laughter] their
+6:42
+main business or a part of their
+6:44
+business is just attacking the Bitcoin
+6:47
+network,
+6:49
+that's going to be probably not a real
+6:53
+business model for them. that's not
+6:55
+going to be something sustainable.
+6:57
+That's going to be something that causes
+6:59
+a lot of problems for that arm of the
+7:01
+business. And ultimately uh that is just
+7:05
+a variable where it creates a lot of
+7:07
+question of is that even really
+7:10
+possible. So I'll just say technically
+7:13
+the Bitcoin from a that is taken from a
+7:16
+a pay to public key wallet address from
+7:18
+a quantum computer and they take it and
+7:20
+they move it to a new address.
+7:22
+Technically, the Bitcoin network does
+7:24
+not care that it was hacked. It doesn't
+7:26
+matter to the Bitcoin network. The
+7:29
+ownership is the private key. And the
+7:31
+quantum computer now has that private
+7:33
+key. They now own that Bitcoin. The
+7:36
+protocol does not see this as theft. But
+7:37
+socially and legally, we would probably
+7:39
+see this as theft, right? We would see
+7:41
+this as theft. And there would be an
+7:44
+outrage from the community and that
+7:46
+outrage might bubble over into the
+7:48
+larger world and start saying, "Hey,
+7:50
+this isn't right." That you're stealing
+7:52
+value from people with this computer and
+7:56
+hey large organization because they're
+7:58
+the only ones going to be capable of
+7:59
+doing this or especially the first ones
+8:02
+to be capable of doing this. It's not
+8:04
+right that you're doing this that you're
+8:06
+stealing from people, right? That's a
+8:08
+pretty simple um you know, pretty simple
+8:11
+story to tell. Hey, you're stealing from
+8:13
+me. That's bad. [laughter]
+8:16
+Now, of course, Bitcoin is programmable.
+8:19
+So, that's the other argument I would
+8:20
+have here as well is we could upgrade to
+8:24
+a wallet address type that is quantum
+8:28
+resistant, right? It the the quantum
+8:30
+computer that can hack uh this there's
+8:33
+some complexity in the wallet type and
+8:36
+it doesn't become hackable by the
+8:38
+quantum that exists at this point. That
+8:41
+could be sort of a cat-and- mouse game
+8:43
+there. There's again maybe variables and
+8:45
+uncertainties of will it be ahead of
+8:47
+time that we move to these? What effect
+8:49
+does it have on the size of the
+8:52
+blockchain? Uh the need to move
+8:55
+transactions on change chain. Does it
+8:57
+become a big event where all of a sudden
+9:00
+the network is very congested?
+9:02
+Possibly. And all of this uncertainty
+9:05
+should definitely be priced in and I
+9:08
+think it probably is which is why
+9:10
+Bitcoin is volatile or part of why
+9:12
+Bitcoin is volatile is because of a lot
+9:14
+of uncertainty. Right? The the goal of
+9:16
+Bitcoin is to become money. Money is a
+9:19
+$300 trillion market and the most
+9:22
+powerful people in the world are
+9:24
+directly a part of the fiat money system
+9:28
+that is built. They have a large
+9:30
+incentive to keep it alive. That's what
+9:32
+this tiny less than$ two trillion dollar
+9:34
+asset is trying to fight against right
+9:37
+so there's a lot of uncertainty just in
+9:40
+general uh that alone right now the
+9:42
+quantum threat is adding in additional
+9:44
+uncertainty but as I'm kind of alluding
+9:48
+to that uncertainty should actually be
+9:51
+on the side of it being a massive killer
+9:55
+threat that should be the level of
+9:58
+uncertainty it should not be so certain
+10:00
+as Some people will pontificate on and
+10:04
+some people will post on that quantum is
+10:07
+a real threat and quantum is why I'm
+10:09
+selling my Bitcoin. Quantum is why you
+10:10
+need to buy my Shitcoin, why you need to
+10:13
+invest in my quantum computer company,
+10:16
+my penny stock, right? Those people that
+10:19
+are posting that, they might have
+10:20
+incentives to push a certain narrative
+10:22
+because they benefit from it. That's one
+10:24
+thing I will say there. So, if Quantum
+10:26
+comes online, it's going to affect those
+10:28
+wallets. I'd say pretty much everybody
+10:31
+watching this does not have a
+10:32
+payto-public key wallet address type.
+10:35
+You probably have a SegWit address type.
+10:37
+It's probably BC1Q is the beginning of
+10:40
+your wallet type, which is a SegWit
+10:42
+address. And this is protected against
+10:44
+quantum. Now, if you do spend your
+10:48
+Bitcoin, if you send them somewhere,
+10:50
+when you create a transaction, it goes
+10:52
+to the memp pool, your public key for
+10:55
+that wallet that you're sending from
+10:57
+becomes exposed. So now it is threatened
+11:01
+by Quantum. Now, let's see how realistic
+11:03
+it is, right?
+11:04
+All of a sudden, all the payto public
+11:06
+key Bitcoin is is hacked and taken from
+11:09
+Quantum. Quantum is now trying to
+11:11
+actively take Bitcoin from people that
+11:14
+are trying to send it somewhere as they
+11:16
+expose temporarily expose their public
+11:18
+key from that address and they have 10
+11:22
+minutes to do so. They have to basically
+11:26
+see that public key, derive the private
+11:29
+key from it, and then create a competing
+11:32
+transaction and get that transaction
+11:34
+mined before yours does.
+11:39
+Seems pretty difficult to do. Maybe it's
+11:42
+not impossible, but again, this all
+11:45
+pushes this tail risk of quantum
+11:49
+out of my mind. [laughter]
+11:51
+It makes it seem much more realistic
+11:54
+that these things will not end up being
+11:56
+threats, that these things are a
+11:59
+boogeyman in the night, uh, a monster
+12:02
+under the bed that doesn't exist. Now,
+12:04
+do they hit the market right away?
+12:06
+That's the question as well. probably
+12:08
+not because if there is backlash to this
+12:11
+then there's probably going to be some
+12:14
+pause whether it's a legal sort of cause
+12:17
+of pause or or whatnot but there's going
+12:20
+to be some pause before it's dumped onto
+12:23
+the market. So that's in this other
+12:24
+threat right is oh if Quantum happens
+12:28
+it's all going to happen
+12:29
+instantaneously. Quantum's going to hack
+12:31
+the 1 million coins that are in pay to
+12:34
+public key and they're going to just
+12:38
+put all the coins on Coinbase and do a
+12:40
+big market sell and Bitcoin's going to
+12:42
+three bucks a bitcoin, right? No, I
+12:45
+don't think so. [snorts] I think it's
+12:46
+going to be again a much we can make it
+12:51
+really slow by doing some upgrades and
+12:53
+having some development move in the
+12:55
+direction and again in relation to the
+12:58
+reality of quantum um but even if
+13:02
+nothing happened no quantum upgrades
+13:04
+none of that it's still not going to be
+13:07
+an instantaneous effect and of course
+13:09
+markets are future looking but there's
+13:13
+so much uncertainty there that the
+13:14
+markets can't really value uh
+13:17
+everything. And then if some of those
+13:20
+started to get sold,
+13:23
+what does the environment look like? And
+13:25
+are there buyers for a million coins?
+13:28
+Quite possibly. Yes. Right. When Germany
+13:31
+sold 56,000 Bitcoin, um Bitcoin dipped
+13:35
+like 34 grand or something. No, we have
+13:38
+seen we have seen a large amount of
+13:40
+selling into the current price action
+13:42
+and Bitcoin is holding up relatively
+13:44
+well for that price action. Now, if a
+13:46
+million Bitcoin came on, I again, I
+13:48
+wouldn't think it would happen
+13:49
+immediately. They're not all getting
+13:51
+market sold on Coinbase, as I said, and
+13:54
+the market would absorb it to some
+13:57
+degree. And again, the main question I
+14:00
+have here that a lot of people think is
+14:02
+reality is, will Quantum kill Bitcoin?
+14:05
+No.
+14:07
+is the answer to that. It will not kill
+14:09
+Bitcoin. The other thing here too, just
+14:12
+straight up about quantum is we are
+14:16
+nowhere near the ability to actually do
+14:19
+this. It is a theory that it's possible
+14:23
+and the amount of cqits uh that is
+14:26
+currently doable by the quantum
+14:29
+computers is minuscule compared to the
+14:32
+amount that need to be available to
+14:35
+actually have any real ability to affect
+14:39
+the elliptical curve uh cryptography of
+14:42
+private bitco uh private public key
+14:44
+pairings. I think this is a big part of
+14:46
+it too and maybe you can paint me as
+14:47
+skeptical or a non-believer but I really
+14:50
+think that just in general quantum is
+14:54
+quantum computing is hyped up right a
+14:56
+lot of sort of theoretical technology a
+15:00
+lot of fantastical types of technology
+15:02
+are often times very hyped up when they
+15:06
+have no idea if it's even possible to
+15:08
+get to the levels where they think it is
+15:10
+right now the error rates for the
+15:13
+current quantum computers are staggering
+15:17
+which causes all sorts of difficulty to
+15:19
+actually pull off the creation of um you
+15:23
+know a private key from a public key to
+15:25
+any degree right whether it's as
+15:27
+cryptographically strong as Bitcoin's
+15:30
+elliptical curve is or not it's still
+15:33
+the error rates are just brutal with
+15:35
+these things so it it just doesn't seem
+15:38
+as possible this might just this might
+15:41
+just never happen quantum computing to
+15:43
+this degree might never happen. Not just
+15:46
+it's going to take decades, it might
+15:48
+never happen. That's something again
+15:51
+we're looking at if we're creating a
+15:53
+balance sheet, right? If we're if we're
+15:55
+creating pros and cons or possible
+15:58
+scenarios and you're looking at all the
+16:00
+positives and all the negatives of
+16:04
+possible quantum, you're you're starting
+16:06
+to see that there's a huge list of
+16:10
+things around the quantum story and if
+16:12
+it and it being a threat to Bitcoin that
+16:15
+don't add up to it being a threat to
+16:17
+Bitcoin in any real way. Here's the
+16:19
+other thing, too, right? Um, I think a
+16:21
+lot of this a lot of this belief that
+16:23
+quantum is going to break uh this arm of
+16:25
+cryptography within Bitcoin is
+16:28
+compelling because cryptography can be
+16:31
+broken. Cryptography
+16:33
+only gets so strong and there's sort of
+16:36
+this other technology that's moving up
+16:38
+alongside of it which is the um the
+16:41
+attempt to break levels of cryptography.
+16:44
+So this is part of a cryptographic
+16:48
+system is adding more robust
+16:50
+cryptography as needed. So why would it
+16:53
+be any different? Why would it be any
+16:55
+different that if quantum came out that
+16:59
+it isn't just seen as another technology
+17:01
+that has the ability to uh break the
+17:05
+current level of of cryptography and
+17:07
+therefore cryptography needs to advance
+17:09
+and be stronger. So that will just
+17:11
+happen, right? And that's another uh
+17:13
+thing that you you might say, "Oh, I'm
+17:16
+just assuming that's going to happen."
+17:18
+But Bitcoin has worked through problems,
+17:21
+existential problems to Bitcoin, uh, in
+17:24
+its past, right? There's been broken
+17:26
+hash functions. There's been signature
+17:27
+bugs, inflation bugs, there's been
+17:30
+hostility from nation states. And we,
+17:34
+you know, we might see like even the the
+17:36
+Bitcoin core 30 versus the not side as
+17:39
+sort of an existential thing, but the
+17:42
+level of spam on Bitcoin today is not
+17:45
+existential, right? this is a a forward
+17:47
+threat and this will take years to
+17:49
+resolve and and people have to be
+17:52
+convinced either way that yes it is a
+17:54
+problem or yes it it's not a problem or
+17:57
+whatever right so it will take time but
+17:59
+it will resolve when it actually becomes
+18:03
+important to resolve it um on a on a big
+18:06
+scale which is the same thing that will
+18:09
+happen with quantum people will say oh
+18:11
+you can't reach consensus about uh spam
+18:14
+on Bitcoin well you're never going going
+18:15
+to reach consensus on quantum. These
+18:18
+things take time but luckily we have a
+18:21
+longass time with quantum coming out and
+18:24
+we will be able to in time recognize the
+18:28
+severity of it. Right? The severity of
+18:30
+spam is not universally understood
+18:33
+because you go on meool and you see that
+18:36
+the blocks are empty. Right? There there
+18:39
+is no immediate problem with spam from
+18:44
+uh that perspective.
+18:46
+So there's no immediate problem with
+18:48
+quantum and yet there are already bips
+18:52
+out there that have solutions for this.
+18:55
+So uh I think that if it becomes a
+18:58
+problem at any point we will work
+19:01
+towards understanding the size of the
+19:04
+problem and moving towards fixing that
+19:06
+problem if it becomes a actual problem.
+19:09
+Right? To me this is not going to kill
+19:12
+Bitcoin. is not a major threat to
+19:14
+Bitcoin. This is not a reason to sell
+19:16
+Bitcoin. This is absolutely like almost
+19:18
+nothing in my opinion. Uh I think it's
+19:20
+largely overblown. I think you again if
+19:23
+you look at the people that are
+19:24
+promoting it as being a problem, they
+19:26
+probably have some alternative uh
+19:29
+incentive to do so. I would be very very
+19:31
+cautious of that. So I did say I was
+19:33
+going to come back to shot 256. My
+19:35
+understanding of it around quantum is
+19:36
+that there's something called Grover's
+19:38
+algorithm which doesn't break shot 256.
+19:41
+It just speeds up the brute force search
+19:45
+or uh basically the ability to um
+19:51
+you know hash the SHA 256 algorithm and
+19:55
+doesn't necessarily break it but just
+19:57
+creates a massive advantage for the
+19:59
+quantum computer. Now A6 are already
+20:01
+scaling in that direction. They're
+20:03
+already getting more efficient and
+20:04
+better anyway and the hash rate is
+20:06
+growing. So this is largely not seen as
+20:08
+an issue. this is something that will um
+20:11
+that that continues to become more and
+20:13
+more robust against this kind of quantum
+20:16
+threat uh against that type of
+20:18
+cryptography. And the other thing too,
+20:20
+right, is the difficulty adjustment is
+20:21
+already built into Bitcoin dependent on
+20:24
+how fast blocks get created. So if
+20:26
+quantum came on line in this respect and
+20:29
+blocks were way faster, that section of
+20:31
+the difficulty adjustment would speed up
+20:33
+and then it would compensate for that.
+20:35
+Or possibly we would have to add in some
+20:38
+additional code to make it even more uh
+20:42
+basically adjust the difficulty
+20:43
+adjustment to some degree to account for
+20:46
+that, but probably not even I would say.
+20:49
+So that's about it. What do you guys
+20:50
+think? Do you think that I'm
+20:51
+underplaying quantum? Do you think
+20:53
+quantum is actually a risk? I'd love to
+20:54
+hear your thoughts in the comment
+20:56
+section. Again, you can book me for a
+20:57
+one-on-one anything Bitcoin related. We
+21:00
+can do a coaching session. There's a
+21:01
+link in the description, path to
+21:03
+bitcoin.xyz. I also have links to every
+21:05
+single thing you need as a sovereign
+21:07
+Bitcoiner. The best bitcoin exchange,
+21:09
+15% off the stamp seed seed place to
+21:11
+preserve your seed phrase into the
+21:12
+future, 5% off the start 9 to run your
+21:14
+own bitcoin node, 5% off of a graphine
+21:18
+privacy phone, and also uh the cold
+21:21
+card. There's a link for that in the
+21:23
+description as well. It's the best
+21:24
+hardware wallet in my opinion.
+

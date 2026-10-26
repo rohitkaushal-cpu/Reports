@@ -1,0 +1,867 @@
+
+Search in video
+MiCA reform and what comes next
+0:00
+to compete globally, we have to think bigger and we have to think more broadly into what tokenization as a movement,
+0:08
+okay, is going to bring to onchain markets. So to bring RWAS on chain to bring locked liquidity into into onchain
+0:16
+ecosystems the digital identity perimeter and its importance in this entire discussion is a future regime
+0:21
+going to be a markets in crypto assets or is it going to be a markets in digital assets and are we just going to start thinking more towards tokenization
+0:29
+and really retrofitting the plumbing and the infrastructure and part of this is being discussed in the market integration supervision package. Right?
+0:36
+This is a real real piece of legislation. It's kind of like Europe's clarity moment. Right? If you're
+Introduction
+0:41
+building within the European digital asset market, this is a conversation that will be definitely interesting for
+0:47
+you because it comes at a time where there is one of the most consequential discussion for the future of digital
+0:54
+asset in Europe with the Mika review consultation happening right now just at the start of the European summer. In
+1:00
+today's conversation, we have one of the most relevant individual because he was
+1:06
+previously at the European Commission and European Central Bank. So he has that perspective both inside
+1:13
+institutions and policy advocacy for blockchain. It is my pleasure to welcome
+1:18
+Erwin Bolader, director for research and strategy at blockchain for Europe. Welcome Erwin.
+From the ECB and European Commission to blockchain advocacy
+1:24
+Thanks Roberto. Pleasure to be here. And it's really a pleasure to have you because we can have a conversation not
+1:29
+only about what will be the future of Mika but also how a reform OMA could
+1:35
+look like. But before going there, I want to really understand better your background because your unique
+1:41
+experience at European Commission and the European Strobec actually give you that viewpoint that not many working in
+1:48
+this field right now in advising what a mika reform could look like ever. So if
+1:53
+you can share some of that context that you might read in that experience. Sure. Maybe even even before then. So
+1:59
+I've uh I've been in this industry since about 14 15 something like that. So
+2:04
+quite some time. I actually started in the private sector. I started in Canada on OTC and private markets kind of just
+2:11
+dealing with high net worth investors and and just doing some some consulting and when I joined the institutions I was
+2:16
+actually focusing first on procurement competition policy and then I went into digital transformation of industries.
+2:22
+looking at um industrial applications of the token economy. Uh I was one of the first people to commission who was
+2:27
+looking into the metaverse and web 3 um back just around co and then when I went to the ECB I was focusing more on uh
+2:35
+interestingly enough on banknotes actually so worked on a lot of the payment studies I was in I was in DG bank notes or director of banknotes
+2:42
+rather and then you know transversely working with MIP so there's some market infrastructure work there as well and then I went back to the private sector
+2:48
+back into advocacy public affairs work consulting I've worked with you know
+2:53
+different companies everything from venture capital and VCs to large issuer protocols. I've advised different member
+3:00
+states on regulatory strategy. Um you know I've worked with EU recession countries. So it's pretty pretty wide
+3:06
+remmit. I think that, you know, being in the public sector is certainly, I think in Europe, beneficial because it gives
+3:13
+you an idea of how the how the gears grind behind the scenes and and sort of what goes into the legislative process
+3:20
+behind the scenes, how that ultimately translates into political objectives and priorities. And I think especially with
+3:27
+with Mika during the last policy cycle because it was part of the broader digital finance package, right? So there was quite a lot of things that were on
+3:34
+the leg on the legislative train schedule and it was a it was a herculean lift right like it's the first comprehensive regime and so to have a
+3:41
+still one of the first globally so it still is it still is in terms of its
+3:46
+size scope and just generally its market impact as well. I think it's one of the
+3:52
+most consequential regimes globally. Whether you like it or you don't like it, that's a secondary consequence. But
+3:57
+ultimately, it's really driven the industry forward. We can get into a little bit how that's actually materializing on the ground later. But,
+4:04
+you know, for me, I think at least there's there's two ways I look at this. Like, I think that there's a whole part
+4:10
+of blockchain that is not related to financial services that doesn't get a fair shake. Also, globally, I think
+4:15
+there's a lot of public goods infrastructure. There's a lot of real economy use cases that are that are cropping up that are super important
+4:22
+that you know dovetail in and out of having some sort of financial consequence but ultimately the lowest
+4:28
+hanging fruit you know in our industry was on the financial services side. So that's where the most gra most of the
+4:33
+gravitational pull comes from. But if you really look at it you know beyond beyond Mika Europe actually has a lot of
+4:39
+real economy companies and startups that are that are building use cases on on blockchain and on DT which I think is
+4:45
+super super special. And you know that's very I would say beneficial for the continent because it it shows that the
+4:52
+technology is very transversal. And then of course you get into the financial services side where you know the
+4:58
+regulatory positioning compliance you know risk and governance plays plays a huge role in in how and how those
+5:05
+companies are actually developing products and services. I'm actually curious about that transition because you were doing a
+Why the private sector moves faster
+5:10
+career that was uh starting to focus towards a lot towards the public sector.
+5:15
+Then you made a transition which was more defining towards blockchain policy
+5:21
+discussion and specifically advocacy some of the most relevant blockchain association now at the blockchain for
+5:28
+Europe. So how that transition look like? What convinced you to basically focus on this area rather than
+5:36
+continuing inside those institutions? I like to move fast just generally. I think that's just a personal preference
+5:42
+on how I work. I like to take on a lot of a lot of things and like to do a lot of things at once. I I think for me it
+5:48
+wasn't even that the work wasn't interesting. I think it's just that the public sector moves a little bit too slow for my liking sometimes just on a
+5:54
+personal level because the public sector is not facing any KPIs. They don't have any revenue targets or quotas. They get
+6:01
+to move at their own pace because ultimately they're on the buy side, right? They're not on the sell side. And when you're on the buy side, you you
+6:07
+know, you you set the pace and you set the rules, which I think for for a lot of people who are interested in, you
+6:13
+know, having, you know, the job security and all of these things, public sector makes sense. I think for me, I I'm very
+6:20
+grateful for the time that I spent working in the institutions and I think they're they're super important, but just my own personal way of work. I
+6:26
+prefer being in the private sector. I prefer working with companies, getting hands-on with with with products. And
+6:32
+then from from that side of the market also tackling and approaching those regulatory challenges is super exciting
+6:39
+right I feel really fortunate to be able to to speak and to leaz with these with these companies on a daily basis because
+6:44
+it really is you know it's never a dull moment and there's always something new to do and on the research side especially um is I'm I'm a
+6:50
+macroeconomist by training it also gives me a wide ambit to then explore also some of my own personal research
+6:55
+interests but things that are super important for the wider development of the space and then it gives you a mandate to kind of drive those
+7:01
+discussions forward which ultimately anyways trickles back to the public sector because they're one of the the
+7:06
+end users or the end consumers of the information that we publish and a lot of the work we do is also for their benefit
+7:12
+not just for the market. So I I see them as being kind of mutually beneficial at the end of the day. I just think again
+7:18
+on like a personal vocational level it just really depends on kind of what you want out of your life. Yeah. And I think that you have also
+The 1% problem, euro stablecoins and dollar dominance
+7:25
+identified with this description one of the gap when it comes to the viewpoint when building a digital asset framework
+7:32
+which is the private sector moves faster. That also means that it's the
+7:37
+first to witness any constraint or gap within a regulation especially because
+7:43
+it's the one that is building most of the time the infrastructure and also
+7:49
+making sure that it follows the regulation of course because the regulation brings clarity but the same
+7:54
+time it see the impact on the overall adoption of this technology because when
+8:01
+we look for example at the stable coin volume we see that the euro is the
+8:06
+second largest currency in the world and yet it has only 1% of the stable coin
+8:12
+volume globally which is quite wild and also uh it opens a conversation about
+8:18
+monetary sovereignty and the dominance of the dollar right now when it comes to the digital asset market. So when it
+8:25
+comes to ma what actually worked because you mentioned this was a good first but
+8:31
+uh what is actually lacking when it comes to why the euro stable coins have
+8:37
+struggled to see adoption. I I think you know we should step back a second and just understand that dollar denominated
+Why dollar stablecoins had a head start
+8:43
+stable coins had like a six seven eightyear head start just to be on the market right and that's that's a huge
+8:50
+moat anyways and then by by measure of the actual volumes kind of USDT came
+8:55
+first then USDC and etc and I think just being present across so many networks and protocols being fungeible being
+9:02
+there being convenient being liquid really helped them kind of scale right so Europe uh uh and euro denominated
+9:09
+stable coins are a little bit later to the party and so I think just from a just distribution perspective right
+9:14
+that's obviously a gap that needs to be overcome so that explains also partially why there is um there's a lot more
+9:21
+dollar denominated stable coins and because of the way that onchain activity kind of functions like those network
+9:28
+effects are extremely parabolic and it creates kind of these entrenched
+9:34
+dependencies ultimately that the conveniency yield on on a given form factor of digital money like a dollar
+9:41
+denominated stable coin. Uh it kind of like supercharges it, right? So I think that there's there's ultimately a
+9:48
+discussion to be had and and I think that the euro area is having that discussion around, you know, whether um
+9:53
+or how and in what way could onchain euros support kind of leveling this
+10:00
+discrepancy and um kind of creating more of these distribution channels and these network effects. I think that dollar
+10:06
+denominated stable coins and eurodenominated stable coins also in some cases will probably end up
+10:13
+targeting similar end users because there's only so many different business cases to go around. And then just
+10:18
+generally on a crossber payments level like you know there's this there's this figure that often gets cited which is in
+10:25
+like several trillions of dollars of onchain activity that's being settled in stable coins but if you really look at
+10:31
+how much is used in crossber payments it's like 2300 billion which is still a rounding error. So a lot of onchain
+10:37
+activity is market making is liquidity provision like the vast majority still
+10:42
+right. So which which means that stable coins are finding product market fit. They're finding their USP. But if the
+10:48
+end goal is to have crossber payments is to have global FX markets is to have a
+10:54
+euro being used by uh by entities and actors and companies in in these
+10:59
+crossber settings. I think that we're still we're still a ways away from that. But we're also still a ways away from
+11:05
+that for dollar stable coins as well because again the total volume is only around 2300 billion. doesn't matter what
+11:11
+denomination the currency is in. So like a lot of the activity still very much focused on trading. Okay. And this is
+11:18
+where the lowest hanging fruit was. And so that's sticky, right? Those dependencies get sticky. I think from a
+11:23
+sovereignty perspective and you know that, right? So like the euro, the ECB and the the EU in general are looking at
+11:28
+different like you have a retail digital euro, you have like pontis and now on the wholesale rails, but then you also
+11:34
+have this and and and I've written about this also before like you have this entire you know onchain economy with
+11:40
+with aentic commerce and payments and stuff that's kind of cropping up. But if you buy the argument that in, you know,
+11:45
+1015 years, a lot of onchain activity is going to be kind of delegated to or
+11:50
+conducted by agents of some sort, shape or form, they're going to they're going to choose or pick the currencies that
+11:57
+are the most funible, that are the most present, that have potentially remoderated benefits, and that the
+12:03
+convenience yield on those currencies is super high, right? And I think that if you are not optimizing onchain activity
+12:09
+for those agents to select, your currency won't even be considered. So our issuers in Europe understand this
+12:16
+and so they're building interoperability and they're trying to be present across all these markets. I think from like a like a business perspective that
+12:23
+mentality like people are thinking towards that. I think from a what what often gets conflated is like will a
+12:30
+retail digital euro be the only thing that we need for monetary sovereignty and and you know kind of wholesale rails
+12:36
+or can euro stable coins support an international role for the euro. It's my personal view that I think euro denominated stable coins should
+12:43
+absolutely be part of this discussion. I think that they can definitely support the international role of the euro. But if you look at the way that the
+12:49
+architecture is being designed like a retail digital euro will not be blockchain based. The rails on
+12:55
+Ponttoapia are DT based, but again like if you're central bank, you have like you have a perimeter and your monetary
+13:02
+instruments, you want them as close to your perimeter as possible for governance reasons, which makes total
+13:08
+sense, but then that leaves like an underserved gap between what's happening at the Pontis and Aapia level and what's
+13:14
+actually happening in these like institutional retail onchain markets. And I think that that's where stable
+13:20
+coins could be super crucial to act as this bridge. There's still an ongoing discussion between the market and policy
+13:26
+makers on what the exact connectivity layer of that should look like, where the thresholds should be, what the
+13:31
+credential regime there should look like, et I'm optimistic at least that we're going to we're going to arrive at some future where stable coins will have
+13:38
+a role. I don't know whether that's going to happen ultimately. I'm optimistic, but there's there's no
+13:43
+guarantee, right? And if you if you listen to the ECB, you know, they're also very very bullish on on tokenized
+13:49
+deposits on deposit tokens. So, you know, some institutional circles would just prefer to not have stable coins as
+13:55
+part of that architecture whatsoever. Honestly, they're already trying to support the international role of the euro. So, I think that that's some
+14:02
+something that should be more front and center in the discussion. If one day you and I have, we live in Europe, if we
+14:08
+have digital euro uh wallets, retail digital euro wallets, I don't think I'm going to be able to um on an off-ramp
+14:15
+those digital euros onto an exchange or onto a DeFi protocol. I just don't see that happening.
+Tether, Circle, and the MiCA compliance gap
+14:20
+That's also one of the core problem because right now every European citizen
+14:26
+which is active in digital asset market it's actually for the most holding USDC
+14:33
+stable coins and not euro stable because they just are not still there. There is no liquidity. There is not enough supply
+14:40
+to build trust from a user perspective. But also there is another story which is
+14:46
+the companies that are actively building stable coins infrastructure which in the
+14:51
+case of Europe have struggled to comply with MIGA. I probably the best example right now is a circle that has a euro
+14:58
+denominated stable coins but tether for example they decided to in your ma registration not being part of it. I
+15:05
+would say interesting because they are a company with a lot of European inside the company. So they can assume they
+15:11
+care about Europe, but at the same time they decided that Mika wasn't a fit for
+15:17
+them. And this is also where some of the gap with the private sector start to emerge. Do you think there is now a
+15:24
+concrete chance to start to go a bit more towards the need of the private
+15:30
+sector to actually build this digital asset market in Europe that can compete globally? or the conversation will still
+15:38
+lean towards more a focus on the digital euro. So we have the the Mika consultation
+The MiCA consultation, what is actually being reviewed
+15:45
+right now. Um it's published a couple weeks ago and this is sort of to preempt the Mika review next year and if you
+15:50
+look at the way that the consultation is structured a lot of it is actually about stable coins. It's about asset reference
+15:57
+tokens. It's about you know the credential treatment of these things. It's about interest. It's about
+16:02
+multiissuance. It's about equivalence. all of these topics. I'd say like the stable coin e-money art regime perimeter
+16:10
+is like the core. It's like the nucleus of the consultation. So, this is clearly a something that policy makers
+16:15
+understand. I think it's too early to say that there's going to be a Mika 2. And I, you know, I'd like to preface
+16:21
+that. I've seen a lot of this from different people and companies online posting about Mika 2 is here. There's no
+16:28
+Mika 2. Okay. There's a consultation for pending Nika review. The commission has not made a decision or a determination
+16:35
+ultimately as to whether it wants AMA 2. So are things being looked at and considered and potentially revised? I
+16:42
+think that there is scope for that otherwise we wouldn't be responding to it, right? And you know our members wouldn't be responding to it. But I
+16:49
+think generally that's that's one part. I think the second part is that to compete globally we have to think
+16:55
+bigger. Okay. And we have to think more broadly into what tokenization as a
+17:01
+movement okay is going to bring to onchain markets. So to bring RWA's
+17:06
+onchain to bring um locked liquidity into onchain ecosystems the digital
+17:12
+identity perimeter and its importance in this entire discussion. So is a future regime going to be a markets in crypto
+17:18
+assets or is it going to be a markets in digital assets and are we just going to start thinking more towards tokenization
+17:24
+and really retrofitting the plumbing and the infrastructure and part of this is being discussed in the market integration supervision package right
+17:31
+like so the DT pilot regime kind of review you know CSDR obligations these
+17:36
+sort of things are kind of moving in tandem and this is actually like a real real piece of legislation it's kind of
+17:43
+like Europe's clarity moment right? We're like we're discussing these things. It's a massive piece of legislation. From a private sector side,
+17:50
+there's there's obviously desires to have some more flexibility potentially
+17:55
+around reserves, potentially around remoderation, around transparency of the reserve and these sort of things. From a
+18:01
+institutional perspective, a lot of the discussion is still conflating apples and oranges because just having a
+18:07
+digital euro, nobody's saying not to have a digital euro. have one by all means but it's not going to solve the
+18:12
+structural issues unless it is onchain because there are structural issues
+18:17
+there are there are scalability and there are demand side things that need to be solved like for example European
+18:25
+users are holding a lot of US dollar denominated stable coins I mentioned this is primarily because they were the
+18:30
+most they were liquid they were first and so they scaled fastest and now they're there and so they're just
+18:35
+they're people a lot of people are using them out of convenience right because you still need you the on and off ramp. But again, if you have European issuers
+18:41
+who are able to issue in large volumes and you are in Europe, like the logical thing for you to do would be to use euro
+18:47
+denominated stable coins to settle your onchain activity in Europe. So I think we're going to get to a future where that is a thing that is happening.
+18:53
+People will do that. It's it's just in so far as how interoperable does does
+18:58
+the central banking community want to make its perimeter with that and will they allow their instruments to be
+19:04
+present in those markets or will we still need a bridge? I personally don't think that the central bank is going to allow wholesale CBDC's to be used as
+19:11
+liquidity rebalancing on DeFi protocols. So I still think that there's a large USP for stable coins there. And just
+19:18
+looking at more questions of like you know supply chains and industrial policy you know there's there's demand for for
+19:24
+euro denominated instruments globally. You know we have a lot of geopolitical things that are shifting. there is a
+19:29
+desire to derisk from the dollar and I think that there's a lot of companies and distributors and suppliers in
+19:36
+foreign markets who would accept euro denominated stable coins as payment for goods and services because they would
+19:42
+just generally accept euros. So I think there's a huge USP there as well on the crossber payment side which is a huge
+19:49
+untapped market and will also again to my previous point help support this international role especially if we start to think more in
+Europe vs US vs Hong Kong, three approaches to stablecoins
+19:57
+terms of what is happening globally as you mentioned because everyone right now is having a different approach. So we
+20:03
+know the approach in Europe with Mika but at the same time there is the United
+20:08
+States that is extremely focused on the private sector when it comes to tokenization and stable coins. They are
+20:15
+not looking for CBDC in Hong Kong. I'm not saying China because there the conversation is a bit more complex but
+20:21
+Hong Kong is a good point of reference of what is happening in China and the APEC in general. there is actually an
+20:28
+approach which is leaning towards what you were mentioning which is both the CBDC but at the same time on the
+20:34
+blockchain rails and also the adoption of stable coins. So when it comes to
+20:40
+Europe and to those learning probably one of the main concern is if these uh
+20:46
+this uh technologies when it comes to the onchain economy continue to scale
+20:52
+and we are not talking any more billions but we are talking trillions. The digital euro is still happening in 2029
+21:00
+and if by 2029 we are seeing an onchain economic goes by the 10 20 30 trillion
+21:08
+that could really be uh a missing opportunity for Europe to compete globally. So how do you see uh what you
+21:17
+mentioned so far compared to the urgency and the road map that there is right now
+21:23
+in Europe when it comes to actually be competitive in the digitalization of
+21:28
+finance. Look my personal view is I don't think we're being aggressive enough. I think there's willingness in the private sector to meet the moment and to rise to
+Is Europe being aggressive enough?
+21:36
+the occasion and to develop these products and to get them on the market. I think that from an institutional perspective in some cases we're still
+21:41
+having discussions around like centralized perimeters onchain markets will be will be global they will be
+21:47
+interoperable if you're not optimizing for interoperability if you're not optimizing for convenience if you're not
+21:52
+optimizing for fungibility and you know one day in the future for for agentic rails currency just won't be selected
+21:58
+and economists are writing about these sort of things and ringing the alarm bells and not just in Europe but you
+22:03
+know globally this is you know you can you can witness these these these changes happen I Also globally there's
+22:09
+no, you know, as you mentioned, there's no consensus. There there's a large heterogeneity around how this is developing. Like in the US, they're kind
+22:15
+of frontloading all of this onto the private sector and they're saying you build the rails, you issue the you issue the onchain dollars and ship. In Hong
+22:22
+Kong, they're taking kind of like a middle way approach. Some jurisdictions don't even have a regime. They're just being deacto dollarized. Europe is one
+22:29
+of the world's largest markets. It's one of the world's largest consumer areas. It has one of the world's largest GDPs
+22:35
+as a region. So Europe is never going to be statistically insignificant just by
+22:40
+sheer size. There's going to be an opportunity for the private sector. If a digital euro comes by 2029 and it is
+22:48
+just used for peer-to-peer payments and it is not a store of value, it is just a unit of account or it's negatively
+22:53
+remerated or there's spending limits or holding caps or whatever. I think people will still use it definitely in certain
+22:59
+cases. I think citizens will not use it. I don't know how successful it will be. I think that ultimately aside from all
+23:06
+of that, stable coin issuers will continue to develop, they will continue to issue, and they will continue to gain market share. So, I think it's going to
+23:13
+be hard to ignore Euro stable coins in 2029 if they continue being aggressive
+23:19
+in their adoption strategy. Even if you're the most ardent, you know, hardened anti-blockchain
+23:25
+kind of central banker, I don't think you're going to be able to ignore you made on this regard a parallel that I
+Sovereignty vs autarchy
+23:31
+found very interesting between sovereignty versus authority. If you can expand a bit more what you meant there
+23:38
+because I think that was particularly relevant to what you just said. So sovereignty is having you know
+23:43
+control over your own rails. Utarchy is mistaking having control over your own rails for being a self for building a
+23:50
+self referential fortress. And you're seeing this happening in Europe right now. I think that we could end up in that
+23:57
+future. I think if we're not careful and this isn't unique to Europe. I think this could happen to any country or
+24:03
+region or it just depends again on like what is your what is your vision. A lot of a lot of the work that that we do at
+24:10
+the association also is to kind of think about long and hard where do we want to
+24:16
+go like where do we as an industry where do we as Europe where do we as a society want to go and depending on where we
+24:22
+want to go you can then retroactively think about how to get there but if you don't have a vision if you don't have an
+24:28
+end goal it's very difficult to do anything that kind of precedes it so I think there are you know certain
+24:34
+currents that have a different view of what that future should look like. And there are others that also have a
+24:40
+different view to what that view is. And depending on what side of this you fall on, you're going to think one way or the
+24:45
+other. We have never and we won't come out and say Europe doesn't need a retail or wholesale CBDC. That's just I think
+24:51
+this is not uh not something that we would ever advocate for, not something that I would personally ever advocate for. What we're saying is that give the
+24:58
+private sector a fair shake to also develop complimentary solutions that can help support this in tandem. You know,
+25:04
+there was the famous central banking quote that, you know, private money shouldn't crowd out public and public money shouldn't crowd out private. I
+25:10
+don't know if there's just front-loading everything on the public sector, front-loading everything on the private sector is necessarily the best strategy.
+25:17
+I think there needs to be some sort of balance, right? Like you still need like a stability and an anchor. And I think
+25:22
+that the central bank does provide this in many ways, but I also think that there's there's use cases for the
+25:28
+private sector where we can avoid ending up in this Ataric future. we can we can
+25:33
+build force sovereignty in mind but still be open still be interoperable and still and ultimately still get things
+25:40
+done from a business perspective because if we don't somebody else will this is this is the way things work
+The MiCA Reform Report, what Erwin and Dr. Bindseil proposed
+25:46
+and uh when it comes to uh the conversation that is happening right now
+25:51
+around Mika with the blockchain for Europe you specifically because you are one of the author you made an important
+25:56
+contribution in terms not only of saying okay this is where there are the constraints this this is what is working
+26:02
+with Mika? You actually outlined what could be some of the solution in the
+26:08
+Mika reform uh report which you co-author with Dr. Olri Binsel a former
+26:14
+ECB director. So again someone that has an experience within that institution on
+26:21
+the decision making and yet provide a viewpoint which is towards trying to
+26:28
+find a middle ground with the private sector and the adoption of this technology in order to compete globally.
+26:35
+So what in that report you focused on and outlined as a possible solution to
+26:42
+integrating Mika? Well, several things. Um, and you know, Uler is brilliant, I
+26:47
+have to say. I mean, he has a wealth of experience. He's he's been, you know, front and center on so many debates um,
+26:53
+over the last several decades. So, you know, it was truly a pleasure and a privilege to be able to to write with
+26:59
+him and to explore these ideas with him. So, I just want to, you know, say that um, I I think just from a purely kind of
+27:06
+like utilitarian perspective to start with, we see a value in in in remoderation, in remoderating stable
+27:12
+coins. what the exact kind of mix should look like because ultimately there's a search for yield that's that's that's
+27:18
+going on, right? So, it's not like you're going to stop the search for yield under their kind of regimes in progress. You know, there's also a ban
+27:25
+on remoderation, but then this is sort of kicked off to the to the exchanges who can then, you know, provide rewards.
+27:31
+So, the issuers kind of pay the exchanges, the exchanges pay the users, and there's this de facto kind of yield generation that's happening. Um, you
+27:38
+know, there's also a lot of, you know, compounding uh and rehypothecation happens in DeFi. So, you know, if I'm
+27:43
+not going to get it here, I'm going to go put it into uh a staking protocol. I'm going to, you know, get an LST. I'm
+27:50
+going to wrap it. I'm going to bridge it. I'm going to lend it out. I'm going to compound my yield, etc. So, there's like a well doumented phenomenon that a
+27:56
+search for yield is a thing that it's happening that users want it. Then on the other side, there's the argument that, you know, this can disintermediate
+28:02
+the banking sector. you have, you know, stable coins, if they're broadly understood as as as narrow banks, you
+28:08
+know, they're competing for for the deposit base. It's going to erode the deposit base and therefore this is going
+28:13
+to lead to dislocations and and and and mismatch in the economy. And that's also a valid concern. I think that ultimately
+28:20
+and what we proposed was look, you know, there's a basket of reserves that issuers hold allow them to remerate
+28:26
+based on a narrow subset of that reserve basket and remerate at the risk-free rate. So commercial banks are allowed to
+28:32
+remerate above the risk-free rate because they engage in other activities. So they're information monopolists, they
+28:39
+engage in cross-selling effects, etc., which gives them the ability to do so, right? And then also they lend out based
+28:44
+on this this deposit demand cycle. So in order to avoid that, you know, we propose that having that remuneration
+28:50
+kind of funneled and then, you know, we left this open what that mix could be, but then remerate at a rate that's below
+28:57
+what commercial banks remerate at. I think that this is a good starting point in that discussion. You know, something
+29:02
+else we looked at was also the the reserves. So, right now under Mika, there's a there's a 30 or or 60% minimum
+29:10
+share in bank deposits if you're depending on whether or not you fall under the significance regime. So, if you're significant EMT or a significant
+29:17
+uh art, so as a reference token issuer, but at least you have to hold 30%. I I actually had a conversation with some uh
+Removing the 30-60% bank deposit floor
+29:25
+company in the private sector and said that this was one of the major constraints they had. Yeah. So this I mean this was one of
+29:30
+Tether's main arguments, right? Like they they just didn't want to hold 30 to 60% of their reserves in commercial
+29:36
+banks and and they pulled out. One of the things obviously that we discussed was get rid of the 30 to 60% deposit
+29:42
+minimum. And there's broad consensus in the industry that this is something that could be removed or could be amended.
+29:48
+And I think the other thing that we looked at was the the actual type of reserves then. So like you know you have
+29:54
+you know if you have set one you have set two. So you have different categories of reserves kind of expand expand this also into set two subject to
+30:01
+like a 20% haircut versus set one. So you kind of maintain that credit flexibility, but you you provide a
+30:07
+little bit more of this basis for for the reserve mix to be a bit balanced and also to get rid of some of those
+30:13
+indogenous or those like built-in dependencies and these kind of like risk loops that could happen in times of
+30:18
+stress. We also looked at what facilities, what central bank facilities that stable coin issuers could have
+30:24
+access to, right? So looking at, you know, lender of last resort and and credit facilities are two of the big
+30:29
+ones that we that we discussed there. And I think that there's there's an opening because there's no real consensus even in the banking community
+30:36
+among whether e- money issuers at least in Europe should have access in what form that should take to central bank
+30:43
+accounts in the in the states. They're exploring like like skinny fed accounts basically for some specific purposes
+30:49
+under their banking legislation and something similar like that potentially here here in Europe. And that we
+30:54
+discussed very briefly because it's it's a highly political topic but also multi-issuance and I think here there's
+31:00
+so there's two there's two schools there's there's the one that's the kind of ECBS ESRB view so European systemic
+31:06
+risk board and European Central Bank view that multi-issuance should not be allowed or otherwise should be curtailed
+31:12
+and and made much more strict and they're in favor of you know strict one for one equivalent. And then there's the
+Reserve framework, central bank facilities, and multi-issuance
+31:18
+other view that says other extreme view, okay, which is more like just let things circulate if they're going to circulate.
+31:24
+I think neither of those are really sustainable in the long run. I think ultimately if you look at like what one
+31:29
+for one equivalence means. Um I don't think it's ever going to be achieved among any jurisdiction. It's just not
+31:35
+possible. I'll give you a very specific example like any any part of this you want to take a look at. Like let's look
+31:40
+at the reserves. Like imagine in Europe I'm allowed to hold I'm allowed to hold covered bonds under Mika. uh but in the
+31:45
+states I'm allowed to hold overnight repos. Just the mere fact that here you can hold cover bonds, there you can hold
+31:51
+overnight repos, but you can't do it vice versa would kind of preclude the ability to have one for one equivalence
+31:57
+on the basis of reserves. So I think what we're really looking at is how can we achieve equivalence of outcome. So
+32:03
+the same sort of governance and consumer protection and high standards without bogging issuers down with having one for
+32:10
+one equivalent in Europe, the UK, the US, Singapore, Hong Kong. Is it is it multi issuance also a
+32:19
+solution to scale the Euro stable coins? Yeah, if you look at it from the inverse, like if you put strict guard
+32:25
+rails on multi-issued stable coins, you don't really create any goodwill on the
+32:31
+other side. So, for example, like imagine you're a euro issuer and you want to and you want to multiissue into
+32:36
+a foreign jurisdiction, but you know, you are the facto blocking multiissuance in Europe. Why would that jurisdiction
+32:44
+then accept Euro denominated stable coins being multiissued in their jurisdiction? It doesn't have to be the
+32:49
+US. It could be any other country that issues currency which is all of them. So it's a very delicate discussion because
+32:56
+a lot of it also depends on the mechanics of how this is happening. We've been you know working also with our with our membership on trying to
+33:02
+find the what the optimal solution here is and I can tell you that there's definitely an ongoing debate but it's a
+33:08
+super important topic for us to be able to provide the floor the competitive
+33:14
+floor for Euro stable coins to be able to scale globally. and that we are on our way to hopefully finding a solution
+33:19
+to this. Um I would suspect that in the course of the next year to 15 months we
+33:26
+we may actually have something on paper to to show the world that is as a union
+33:31
+that is kind of working to solve this problem. I think there's going to be a lot of feedback obviously during this consultation on the topic of global
+33:38
+stable coins of multi-issuance of kind of where the benefits lie and I think that in the Mika review next year this
+33:44
+is a topic that the commission is going to is going to tackle but I should preface that in this consultation
+33:50
+they've also explicitly worded that you know from the commission's perspective they think that multi-issuance is
+33:56
+permissive so I think that's also a huge signal to the market that you know at least as far as the commission's
+34:01
+concerned is the way that I'm reading it But the words are there multi-issuance is allowed. Yeah. So I think it just
+AI agents and the case for fractionalized micropayments
+34:06
+depends on how we define multiissuance, how we define the safeguards to for multi-issuance, how we soft land this
+34:13
+and then how do we provide a competitive floor for our for our euro issuers also to scale globally within that
+34:19
+constellation. So across many of the conversation that I had in the past episode, there is this common agreement
+34:27
+that AI agents will be one of the primary user of stable coins and digital
+34:33
+asset in general because they are striving as also you mentioned in the report for capital efficiency. Is the AI
+34:41
+argument and the explosion of the aentic commerce something that could actually
+34:47
+be utilized to move some of this conversation forward when it comes to
+34:53
+speaking with the regulator? I I think more and more definitely and I think it's also going to scale in
+34:59
+parallel as the use cases come online and as you really see onchain activity from kind of the agent side scale with
+35:06
+it. I think that there's one other point there that's important and that's that agents need fractionalized money. Agents
+35:13
+need to be able to settle microp payments. So if you if you can fractionalize a given form factor of
+35:18
+digital money into like thousand units, million units, however many units and
+35:24
+settle uh um and settle you know integers of these transactions. I think
+35:30
+that that's ultimately what's going to matter. So like let's say I have I have five digital euro okay that's referenced
+35:37
+in stable coin like a like a digital euro stable coin that could be fractionalized like 500,000 times and
+35:43
+then agents can conduct 500,000 microtransactions with five onchain
+35:48
+digital euros okay and this doesn't have to be paying suppliers for goods and services could be microp payments for
+35:56
+pay-per-use models for streaming services for assets that are being under paper use for toll s so in smart cities
+36:04
+all of these different things paying for a uh ride sharing an ebike um you know
+36:10
+your Spotify subscription whatever uh so I think that as as these things bleed into the general economy more and more
+36:17
+so as more and more agents come online again they're going to want capital efficiency they're going to want
+36:22
+microtransactions and they're going to want them fast so the throughput is going to have to be super fast um and
+36:27
+they're also going to have to be present along this like horizon of protocol So again, if you're optimizing for these
+36:34
+things, I think the currency will be selected. We're also trying to introduce these discussions more and more with
+36:39
+policy makers and you'd be surprised, but a lot of them are actually super aware of this and I think that's really positive. So they're obviously reading,
+36:46
+they're listening, but I think again like we need to separate reality from hyperbole. Like we don't have a fully
+36:51
+onchain economy yet. Okay, these things are coming online, but they're still not the primary actors in our economic
+36:57
+system. I don't think we've reached an inflection point where you're going to see like hypers scalability yet. I think
+37:03
+we're like slowly kind of building up to that the same way as like like when a train is pulling out of a station goes
+37:08
+slowly slowly and then once it hits its velocity it's sailing like it's you know it's just cruising along but we're still
+37:14
+in that chugga chugga phase. Okay. Like you know the the gears are still turning guys still shoveling coal into the into
+37:20
+the engine. The steam is still starting to percolate. But we need to be having these discussions now because sooner or
+37:25
+later this this is going to happen. If you look at other jurisdictions like if you look at Mina region for example
+37:31
+which I think is one of the true like cryptonative regions in the world really they're already full-on looking at
+37:37
+agents how can they optimize agentic workflows even in the public sector. I think that there's definitely other
+37:43
+regions in the world who who are taking close interest in this because ultimately for every economy on the
+37:48
+planet, this is going to be an existential question. Just it just matters how quickly you're going to scale and not every place is going to
+37:55
+scale at the same pace, speed, frequency, etc. I think that for for Europe, this is a huge opportunity to be
+38:02
+one of the first to really get out there with this and to develop a strong a strong center of gravity and a moat when
+38:08
+it comes to agentic onchain commerce. Right now in Europe we have going to say mixed sen because uh one important sen
+Qivalis, the crypto transaction tax, and mixed signals from Europe
+38:16
+especially from commercial banks is kalis which is a consortium of I think
+38:22
+37 banks right now. So that's a very important signal for demand of euro
+38:27
+stable coins across all these commercial banks that are definitely looking to start to have a competitive euro stable
+38:35
+coins on the market. On the other side you have some other news that kind of looks like a sitback like adding attacks
+38:42
+on the transaction on crypto like 0.1% that is just emerged a few days ago. So
+38:48
+the signal is kind of mixed but it also shows that the conversation is happening
+38:54
+and it's quite consequential right now but as you mentioned that this is not a mead we are not there yet. So what do
+39:01
+you think is a realistic scenario? What are the steps to place out in the coming
+39:06
+months, years? I think first we need to understand again where do we want to go
+The realistic MiCA reform roadmap
+39:11
+like do we want a fully retrofitted onchain economic system where you know wholesale rails are fully integrated
+39:19
+issuers have access to preunding accounts lol facilities we have agents
+39:24
+conducting onchain activity or do we want none of that or do we want just
+39:29
+some of that and if we want some of that what percentage of some of that like is it 20% 50% 30 so that's the first thing
+39:36
+so where do you want to go and once you know where you want to go then you can start to define again retroactively what
+39:42
+the steps to get there I think from like a purely pragmatic perspective like looking at it from an ops level we have
+39:48
+a consultation now that needs to be replied to that you know actors across
+39:53
+Europe will be submitting by the end of August so it's going to be a busy Euro summer as you said and then I think it's
+39:59
+incumbent on on the commission to kind of internalize all of that feedback and to see where they would like to take it
+40:05
+we obviously stand ready to have these conversations and discussions. We try to be a resource as best we can. Our
+40:11
+members are you know always open to have these discussions as well. I think it's for us it's really important that we
+40:17
+soft land innovation as best as possible. A personal level I would I would like us to move more towards a
+40:23
+media rather than just a ma in the future. I think that you know when you look at the zeitgeist of when Mika was
+40:28
+was formulated the word crypto the nomenclatur was kind of very prevalent but I think
+40:34
+we've really moved past that you know one thing about this industry and you know that is it moves super quick and
+40:40
+it's really starting to harden and mature and accelerate and so the conversations are becoming much more
+40:47
+sophisticated much more nuanced there's a lot of former Trophy people that are now moving into crypto it's not just the
+40:53
+DJ crowd and developers is it's a mosaic right now, okay, of of different people
+40:58
+from different backgrounds that bring their own perspectives. So I think that the more this confluence happens, this
+41:04
+discussion around digital assets in general is becoming more important and I think that this is also a sign that we
+41:11
+are we are maturing and I think we should really focus headirst into tokenization to borrow from from the uh
+41:16
+from the SEC ch you know the tokenization of everything but no but really like focusing on tokenization how
+41:21
+do we want to have tokenization in Europe? What does it mean? What will it take to get there? How can we bring this
+41:27
+activity on chain? You know, how can we unlock the RWA sector? How can we unlock secondary markets? How can we destroy
+41:34
+fragmented silos and liquidity? How can we really achieve interoperability? And ultimately, how can Europe as a region
+41:40
+serve as a norm entrepreneur in the global standards discussion around all of this, right? So I think that that's
+41:46
+that's something we haven't discussed yet, but it's super important because you have you can have the best connectivity here, but if you're not
+41:53
+connected globally, if there's no interoperability globally, if those standards don't exist, if those levels of common assurance don't exist, it's
+42:00
+going to be difficult for anybody. And I think that that's the last piece, the cherry on top. So we've got a chance now
+42:07
+to like build this from the bottom up. And I think that you you will definitely see a lot more activity out of Europe
+42:13
+definitely over the course of the next few years. So thanks a lot for for sharing this perspective and especially for joining
+Closing
+42:19
+for this conversation because uh the time is definitely the right one to start this this discussion with European
+42:26
+Commission. And for anyone that has been listening they can find the report the
+42:31
+maker reform report in the description of the video. And if you're looking to actually make an impact, if you're
+42:37
+looking to bring your feedback, the best is truly to engage with association like
+42:42
+blockchain for Europe because they know how to bring this feedback and making sure that the feedback is heard and
+42:49
+hopefully making an impact for an Europe that can compete also globally when it
+42:54
+comes to the adoption of stable coins to thanks a lot for joining us today and
+43:00
+sharing this important perspective. Thank you for having me. And just to say again, you know, we're reachable on on
+43:06
+LinkedIn, on X. You can also reach out to me personally. Just drop me an email on on LinkedIn. I'm always happy to have
+43:12
+a discussion around these things. Our door is always open to companies who want to get involved, learn more about what we do, uh, and become part of the
+43:19
+conversation.
+

@@ -1,0 +1,513 @@
+
+Search in video
+0:01
+What we observe right now is roughly like a 30 to 50 and sometimes 100 times reduction
+0:09
+in the energy usage when you compare it against the GPUs and the CPUs operating on the network.
+0:14
+Your average GPU is typically running between 700 and like 1.5 kilowatt hours and we're
+0:21
+seeing roughly 100 to 200 of them competing against the quantum processing unit. We're seeing the quantum processing unit win in a fraction of the time.
+0:36
+And welcome back to Quantum Matters, where quantum computing gets real from D-Wave. I'm your host,
+0:41
+Murray Tom, as we move past the hype and the theoretical to explore practical real-world applications of quantum computing today and where the biggest opportunities lie in the
+0:51
+future. Let's open the box and see what's possible.
+0:57
+For years, blockchain networks have relied on the same foundation, using classical computing to validate transactions and secure their collective records. It works, but it can also be tremendously
+1:07
+energy intensive. In parallel, quantum computers have demonstrated their ability to quickly produce high-quality solutions to complex optimization problems, all the while breaking new ground
+1:18
+in the energy efficiency of computing. So the question becomes, what happens when you bring these two worlds together? Can you build a blockchain that doesn't just tolerate quantum computing,
+1:27
+but actually uses it alongside classical systems to improve performance, efficiency, and security?
+1:34
+Today, we're going to explore exactly what that looks like in practice. Joining me are the co-founders of PostQuant Labs, the developer building Quip Network, Colton Dillion and Rick
+1:44
+Karback. Colton, Rick, welcome to Quantum Matters. Thanks for having us, Murray. Yeah, happy to be here. Okay, so to kick things off, Can you tell us about your organization and what you
+1:53
+do there? Colton, why don't we start with you? Yeah, my name is Colton Dillion. I'm the CEO at PostQuant Labs, and we are the first developer behind the Quip network, which is the worldwide
+2:02
+quantum computer. Basically, we just help to set all the rules to do promotion for the network
+2:08
+and to build the software that helps the network to run, which includes all of these quantum
+2:13
+computers and classical computers together. Awesome. And Rick? I'm the CTO of Postpont
+2:20
+Labs. My main day today is working on the quantum algorithms and trying to get the blockchain into shape. Okay, so I have heard blockchain mentioned many times. I'm sure everyone has
+2:30
+kind of heard about it in the news, but I think it would help for people, know, like as I've looked into it, I've really realized it's kind of like a system, you know, it's a system
+2:39
+of people and technology working together to accomplish a particular goal. Can you define blockchain in simple terms? Yeah, so The way I like to describe a blockchain is that it's
+2:49
+a technology to help get everyone to agree on the truth. So in the world of computer science
+2:56
+and distributed systems, we have a lot of problems about what if somebody chooses not to deliver a message or somebody tries to lie to you about the messages they've received. And so we came
+3:06
+up with a bunch of consensus protocols that allow you to deterministically find out whether
+3:12
+a portion of the network is trying to lie to the rest of the And so what blockchains do
+3:18
+is they're a relatively newer technology in the context of payments, where essentially
+3:25
+you can guarantee that as long as 51 % of the network isn't colluding together to lie to
+3:31
+everyone else, you can essentially catch the people who are trying to fool the network when they do so. So any application where you're trying to get a strong set of records that
+3:41
+everyone agrees on, like payments, like supply chains, like uh computing systems. um Then
+3:48
+you can use this technology to make sure that everyone agrees on all of the transactions that have occurred in the past. m Okay, interesting. So Rick, Qwip Network launched the Quantum
+3:58
+Classical Blockchain Testnet to assess how quantum computing can provide a more secure and energy
+4:03
+efficient blockchain network. Can you tell us more about it and maybe how it's using quantum computers alongside other computing platforms? Yeah, so there are there were kind of two
+4:12
+constraints we had to deal with. One is we wanted the classical computers to be able to compete with the quantum computer, at least at first, because we wanted to provide evidence that
+4:22
+these systems actually can outperform classical computers. So we spent a lot of time thinking
+4:28
+about how do we make the problem easy enough so that you can do that comparison, at least initially, and then as they grow and become more powerful, how do we take that and move
+4:39
+on with that? What we landed on was a very basic randomized optimization model. So every
+4:47
+time you're running the blockchain network is producing a block in the blockchain, they're
+4:54
+running this optimization problem and they're trying to find the most optimal solution for that optimization problem. And it's also designed so that it's easy enough for regular computers
+5:04
+to also find that optimization problem. So at least some of the time a classical computer is beating the quantum computer, it's able to find an optimal solution faster than the quantum
+5:13
+computer. Because there's many more classical computers doing it, it's reasonable to assume
+5:18
+that they will find it at least some percentage of the time. I think it would be helpful also
+5:24
+to add some context there for the audience that might not be familiar with Bitcoin. Bitcoin's
+5:29
+obviously one of the most popular cryptocurrencies. It's now 3 to 5 % of a lot of funds. portfolios
+5:36
+that when you deposit to your 401k, you may be buying some Bitcoin. And the way this network
+5:42
+works is essentially we have this mathematical function that every computer has to run that
+5:48
+essentially amounts to a lottery. And the assumption is that if you have enough people participating in the network, it's really hard to randomly choose somebody in the network who knows another
+5:57
+guy who wants to counterfeit a transaction. They want to say, hey, this transaction never
+6:02
+happened. or we're producing an equivalent transaction that spends the same currency. And so if
+6:09
+you can have a lot of confidence that this lottery is fair, that you'll never choose the same
+6:15
+person twice, then you can be pretty certain that nobody's going to be able to lie to the network, that somebody new will check the ledger, say, hey, this doesn't add up, and they'll
+6:24
+report that to the rest of the network. And so the way we do this in Bitcoin is that uh we have a hashing. problem where you're just trying to guess a random number basically,
+6:34
+generate a random number that's below a certain value. And this is the lottery. And so uh
+6:39
+D-Wave actually produced another blockchain paper saying, hey, we can do a similar sort of problem. But the challenge with this implementation was that only quantum computers could participate,
+6:49
+that classical computers could not do this same problem. And so while we're still in the early
+6:55
+stages of quantum computing, it makes it difficult to have a decentralized network. because you know exactly who owns all the quantum computers in the network. And so we got really excited
+7:04
+about this because we thought, hey, maybe there's a way we can combine these two concepts where the classical computers are participating with the quantum computers. But the quantum computers
+7:12
+are still showing that they have this advantage, and the lottery is still fair. And so that's
+7:18
+what Rick's talking about is it's called a proof of useful work. And essentially, you're just proving that you've done something useful. And this has taken a lot of compute and it's
+7:26
+very difficult to fake that you've done this compute because you have to get the right answer. And if we can apply this to real consumer applications, like, you know, trying to deliver packages
+7:37
+around the U S or trying to find better portfolio allocations and finance, or trying to model
+7:43
+uh new molecules, then we can actually reuse this work for real industrial tasks. That's
+7:50
+a great explanation. Colton, just to clarify something, cause you mentioned you know, guess a random number that's below a certain value. And the reason why that is a lot harder than
+7:59
+it seems to be is because a hash function is basically something that takes the number that you guess and transforms it into a new number. And that's the number you're trying to get
+8:07
+into a low value. And you can't run that in reverse because the hash function is sort of cryptographically secure going in the backwards direction. So that's what's sort of referred
+8:14
+to as pre-image resistance. Have I got that right? Exactly. So, you know, if you remember having a decoder ring back in the day, And it was a little ring that you could line up
+8:23
+the letters and it would tell you how to write an encrypted message. Essentially, you can
+8:29
+take a bunch of these decoder rings, you can put them all around each other. And if you change one letter, it'll change all of the uh letters after it. And so you get this really
+8:40
+hard to predict output. And so when you're guessing a number, you'll run it through this
+8:46
+algorithm. and it'll come up with a new number and it's that last number that has to be below
+8:52
+the maximal value. uh so it turns out this is really difficult to cheat with known techniques
+8:58
+and so it turns out to approximate a fair lottery. Yeah, another way to think about it is sort
+9:04
+of a trap door function. You can go through it, but you can't come back from it. And there's a lot of mathematical concepts that are involved and hash functions don't just use one of them,
+9:14
+they tend to use several of them, which also makes them very resistant to attacks from quantum computers because there's no single mathematical function that you can apply. You have to sort
+9:24
+of apply multiple ones in sequence.
+9:30
+We know that blockchains can run on classical computers only. And also, we know now from
+9:36
+a research paper that D-Wave published in 2025 that we can build incredibly energy efficient blockchains where only quantum computers can create the chains. Those are sort of like two
+9:44
+limits on the spectrum, all classical and all quantum. So Colton, this test network has been
+9:51
+designed so that it's different from these two extremes. There's a lever that you can pull to tune the relative difficulty of the blockchain mining. for classical to quantum systems.
+10:01
+other than sort of what Rick was talking about in terms of allowing us to then compare the
+10:07
+results from both systems, what other advantages does this provide for the blockchain network? So uh one, it increases your distribution, right? We talked a little bit earlier about
+10:17
+if you only have quantum computers, there's a limited number of them out there. And so if you only have 200 people in your network who are passing around the right to write
+10:28
+in the ledger to record true history, there's a good chance that a large number of those
+10:33
+200 people know each other and they're friends and they might try and collude to cheat other
+10:39
+people. But if you can grow that distribution so that it's thousands of people, tens of thousands, hundreds of thousands of people who are trying to write in this ledger, it's much
+10:47
+less likely that there's a large chunk of them that all want to collude to get. And so, uh
+10:53
+one, we want to increase that distribution so that people who have regular computers, you know, my Mac sitting on the desk recording me can run the program and validate that the
+11:02
+quantum computer is putting real results out and not just giving us junk, pretending to
+11:08
+answer a question. And similarly, it can try and compete. Now, it's not going to win a
+11:14
+lot of the time if it's just my computer against D-Wave Advantage 2. But if we get hundreds
+11:20
+and hundreds of these computers, uh over a million cores, then we're starting to really compete
+11:26
+with the D-Wave on this limited problem. And so that's one of the other advantages is that
+11:33
+we create this record of how do these different platforms perform. And so we can really start to measure what is the advantage on an energy basis, on a time to solution basis, on a solution
+11:44
+quality basis. And all three of these things matter to real businesses. If you're in finance,
+11:49
+it really matters to you to get an answer 60 seconds faster than a large cluster of GPUs.
+11:54
+If you're designing a multi-billion dollar chemical plant, getting a half percent improvement
+12:00
+on your yield every year can have really meaningful impact on your revenue. uh And similarly, if
+12:06
+you're training an AI model and it's going to take a gigawatt every hour, uh using a quantum computer to do that at 100x less energy could have a really meaningful impact on your bottom.
+12:16
+It's so fascinating because it builds on this point you were mentioning earlier about this. This is a network where there needs to be a consensus system, but you need to have that
+12:25
+community involved. So that lever is allowing you to broaden out that community. But then there's so many other aspects to this. I often think about this when I'm explaining to people
+12:35
+why quantum mechanics seems very counterintuitive. And the reason is because we gain our intuition
+12:41
+from interacting with the real world. As children, we're kicking balls around and and playing with sticks and things like that. And we get a sense for how things move and how the world
+12:50
+works. But we never really get a chance to actually interact with a quantum mechanical system. And by engineering and building these quantum computers, we're actually making a system that
+12:58
+we can interact with that does behave quantum mechanically. And I've often felt that if you can build an engine out of that that's doing useful work for you, that gives you an opportunity
+13:06
+to learn things about it that you might not have appreciated earlier. And Colt and Rick, both of you have commented about the fact that being able to see quantum computers used in
+13:15
+this blockchain network way, you're getting a chance to see, and it's of like recorded uh in a public context, how those systems are competing against one another. And just like
+13:24
+you were saying, Colton, on many different metrics, how they perform. So Rick, I want to talk a little bit about the energy efficiency of the QRIP network with the use of quantum computers.
+13:33
+What is your vision here? What we observe right now is roughly like a 30 to 50 and sometimes
+13:40
+100 times reduction in the energy usage when you compare it against the GPUs and the CPUs
+13:47
+operating on the network. Your average GPU is typically running between 700 and like 1.5
+13:53
+kilowatt hours and we're seeing roughly 100 to 200 of them competing against the quantum
+13:59
+processing unit. We're seeing the quantum processing unit win in a fraction of the time. The GPUs
+14:04
+are typically running for 60 to 120 seconds, one to two minutes, whereas the quantum processing
+14:10
+unit in many cases is running maybe five to 10 seconds. And when you think about the characteristics
+14:16
+of the current quantum processing unit, they're currently about 12 kilowatt hours, and that includes the sub-zero refrigeration that you need. That's an impressive number, just by
+14:27
+comparison. And when we get into the harder problems, the quantum processing unit just
+14:32
+kind of has the same operating characteristic, no matter how hard you run it, because it has to be running all the time, because it needs that super cooling. Whereas the GPUs, have
+14:42
+to be turned on and off, right? So there is a little bit of a trade-off there. But if you're
+14:47
+going to be running it all the time, you might as well be having it do useful work, right? Yeah, I mean, it's interesting because it's important for us to keep in mind that power
+14:57
+is just the rate with which we're consuming energy, right? So as you were sort of saying, if we're using between 750 watts to 1,500 watts per GPU system, right? hovering around that
+15:09
+one kilowatt range, and a quantum computer is consuming about 12 and 1 kilowatts. Let's provide ourselves with little bit of intuition here. So 12 and 1 kilowatts is like three conventional
+15:18
+ovens in a kitchen or something like that. And if you run a quantum computer using 12 and
+15:24
+1 kilowatts for about 20 minutes, that's less than $1 worth of electricity. So once you
+15:29
+start getting into running hundreds of GPUs, even once you get past running 20 GPUs, the
+15:34
+rate with which you're consuming energy is going to be higher. And then That second factor you mentioned is also important, which is like, how long do you have to run it? Because if
+15:42
+you've got that lower rate, but then also you're running it for less time, that's a big win. Colton, what are your thoughts here? A huge win. So what we find is that in this blockchain,
+15:54
+we require that you meet a certain difficulty target. So when you find an optimal solution,
+15:59
+it has to be sufficiently optimal. And so if you're looking for, you two standard deviations,
+16:05
+a 99.7 % answer, the quantum computer will deliver one answer to you for 12 watts, 12 and a half
+16:13
+watts of energy. A cluster of ADH100 GPUs, again, one of these GPU clusters that are very commonly
+16:20
+used in high performance computing, you'll use on the order of 1200 watts. you know, almost
+16:27
+100 times more or a little over 100 times more than ADH100 GPUs. the GPU cluster will only
+16:34
+deliver an answer to you faster than the quantum processor 8 % of the time. So eight times out
+16:40
+of 100, the quantum computer will take longer just because of the space that you're exploring.
+16:47
+But the majority of the time, you'll get that better answer faster using less energy on the
+16:53
+quantum processor. If you want to scale this up to 1,000 H100 GPUs, now it's a little bit
+16:59
+more even. The 1,000 GPUs will win about 66 % of the time in speed to solution, but they
+17:06
+still can't deliver the same quality of solution. So if the thing that really matters to you is that you're saving that half percent on your multi-billion dollar plant design, then the
+17:16
+quantum computer is a preferred platform for that specific application. And so it's really
+17:22
+interesting to sort of see how the platform that you use may change based on the factors
+17:27
+that really matter to your application. uh And for that, you really do want to know the processors
+17:33
+that you're working with or have a team that knows uh those trade-offs. And I'll add to
+17:39
+that that all the numbers that Colton just talked about are all on random models. If your data is a particularly hairy construction that has sort of a hidden subgroup style problem or
+17:50
+something that might be taken advantage of with the quantum tunneling effect, then it's probably
+17:56
+days, maybe years for a GPU cluster. We have examples from research papers where they're
+18:02
+claiming millions of years or billions of years for a classical computer to keep up. And it's
+18:07
+like 20 minutes on the quantum processing unit. So there's a massive range of potentiality here. I mean, there's another dimension to this that I just want to bring to the conversation,
+18:15
+which is that the computers we use in our everyday lives, like in laptops and cell phones, they run at room temperature. But when you turn them on, they heat up. What's interesting about
+18:24
+these refrigeration systems, Rick, that you're mentioning is that know, the quantum computers are running at low temperature, cryogenic temperatures. But what's fascinating about that is that
+18:33
+when you turn them on, they don't heat up. So what's happened is that over the last six generations
+18:38
+of commercial quantum processors that we've developed, the power consumption of that system, that 12 and a half to 15 kilowatts that you've been talking about, has remained flat. And
+18:46
+the reason for that is because the quantum processor unit inside it at that low temperature is consuming
+18:52
+less power, like a million times less power than a mobile phone. So it's fascinating in
+18:57
+terms of the energy efficiency of the computer, but also in terms of its growth when we compare that against classical computers, where they're just consuming more energy as time goes on.
+19:04
+So I think it's developing this network and demonstrating how that it's working and attracting
+19:09
+users to this community so that they can see that and understand that, I think is very valuable, both in terms of their understanding about the technology and how it can grow, but then also
+19:17
+the usefulness of this network. Yeah, and for people in the audience who aren't familiar
+19:23
+with mining as an industry, uh It works very similarly where whether you're mining oil,
+19:28
+whether you're mining lithium or your opal or whatever material you're trying to extract,
+19:34
+uh it's very energy intensive. And so as a miner, you may choose not to try and extract
+19:42
+value while oil prices are high or energy is high or cost of capital is high. And all of
+19:48
+these factors go into your decision whether to be mining on any given day. And so Bitcoin
+19:54
+and other blockchain networks are no different. If your energy costs more, then you don't want
+20:01
+to mine that day. so similarly here, if we find that quantum processors are actually much more
+20:06
+efficient to be mining these particular problems and to be solving these optimization problems,
+20:12
+the network will naturally reconfigure itself to prefer those types of platforms. And so
+20:18
+not only are we providing this record here, but you'll actually start to see the economics shift um as we did with Bitcoin. People literally designed computers that are specialized only
+20:29
+to solve the specific math problem of hashing. uh so if the quantum processors are solving
+20:36
+these optimization problems more efficiently than everyone else, there will be groups that modify computers just to do this specific problem. uh And we'll really see what the performance
+20:46
+characteristics are between those platforms as they get developed. So it's a really exciting place to play in because these incentives drive so much complexity, but also have really good
+20:59
+second order effects that reflect back on the industry as a whole. Yeah, it's a fascinating like microcosm of the economy, you know, where the economy itself is like a self adaptive
+21:09
+network because of the incentives that are at play. And then I love that analogy you're making to like the real task of physically mining things from the ground, where the energy costs are
+21:18
+a factor when you're considering that activity? Well, if you, uh I think it was Ilya Suskever,
+21:24
+one of the creators behind modern AI models, he said that uh data is our fossil fuel and
+21:32
+truly computation is a resource. The ability to convert information into useful work is
+21:40
+a resource. And so when we say that we're mining, we mean that Literally, we are extracting this
+21:45
+resource from all of these dormant computers that may not be active at any given time or
+21:52
+uh may be just processing packets locally. They can actually do really interesting, useful
+21:58
+work that solves meaningful problems for real businesses and real people.
+22:06
+Okay, if we, let's say, step back and take a look at the full picture of the Qwip network,
+22:11
+you know, there's a journey and a process to create a new blockchain network. You we've talked about the testnet. Can you tell us a little bit about the key steps along the way
+22:19
+as the Qwip network builds? Absolutely. So if you think about the internet, right, it started
+22:25
+out as a bunch of government labs and universities getting together and connecting their computers
+22:30
+to share information on them. um And eventually that evolved where Suddenly people at home,
+22:37
+know, hand radio enthusiasts and other kinds of computer enthusiasts were all coming together
+22:43
+to provide comments and proposals on how to make the network better, faster, more efficient,
+22:49
+and easier for people to plug into. And over time, we eventually got the modem, we got the
+22:56
+router, and now you have, you know, a Google Fi where you don't even have to think about it. You just plug it into the wall and you get internet. And so We have a very similar
+23:06
+process here, where at first it's a lot of businesses like D-Wave, universities, uh government
+23:13
+labs, and they're contributing to this protocol, trying to define what it is. How do we make sure that it's secure? How do we make sure that the problems it's solving are really
+23:22
+useful? And how do we pass back and forth responsibility between all of these parties? And so this
+23:29
+test net is the first phase of that. It's let's get people on board. Let's get them looking at code, let's get them looking at the process and telling us where it doesn't work or where
+23:39
+it seems to unfairly advantage one party over another. And sort of the next step is once
+23:46
+we've all agreed on that, now we have to launch the main network where we're passing around
+23:51
+real value. uh Essentially, the network mince compute credits. And so we have to get people
+23:58
+uh like D-Wave or like Amazon or like IBM to accept these compute credits uh as a trade
+24:06
+for the compute that they're going to give to the network. And then we also have to convince consumers that these credits are going to have value in the future, that they'll be able to
+24:14
+get compute out of it eventually. And so we have to work this multi-sided market where
+24:19
+the consumers buy the compute credits, the producers will accept those compute credits
+24:25
+and uh solve problems. And then the consumer gets a useful problem out of it, and that has
+24:30
+a meaningful impact on their revenue or their bottom line. And uh then there's this third
+24:36
+party of the developers of, want to engage researchers. We want to engage quantum algorithm designers
+24:41
+and get them involved in the network so that they're sharing their work. So if I'm a consumer,
+24:47
+I don't have to know a lot about quantum computing. uh Right now, it's a very long process to understand
+24:53
+what is quantum computing, how does it work. And then how does it work on any given processor?
+24:58
+And so if we can offload that uh burden to the people who already know, and we can share
+25:05
+that work in an open source library where anyone can see that work, then that's where we want to go. And so we're just sort of bringing all these participants in this very complex
+25:16
+marketplace together and trying to get them to collaborate on the functions and methods
+25:23
+by which the protocol works. So it's a very long and involved process, but that's how we got the internet. And we hope that this can be a similar sort of development between
+25:33
+quantum computers and classical computers. That's just a fantastic explanation. where do you
+25:38
+see this? What's the ultimate end goal? What's the long-term vision about what this can become?
+25:43
+And how should people think about that? So we say we want to build the worldwide quantum
+25:48
+computer. We mean it. We want every quantum processor in the world to be connected together solving the same problems. And for the problems where they get a speed up by working with classical
+25:58
+computers, we want those classical computers also participating in that. One of the cool
+26:03
+things about quantum processors is that, unlike GPUs where you add one more GPU, you've doubled
+26:10
+your throughput, you've doubled your compute power. uh With a quantum processor, you add a single qubit and you've doubled the search space, the space of information you can represent.
+26:20
+And so you add one more processor and you've squared your compute power. So it's exponential returns. And so that means that in the future, when you want to solve the toughest problems,
+26:29
+it's not going to be enough to be one of these big organizations like Google or Amazon or
+26:35
+IBM. You're going to want to be all of them because just adding one more processor is going to have a huge impact on the space of problems that you can solve and the power of the system
+26:45
+as a whole. And so that's really what we're building towards is how do we get all of these processors cooperating together in a way that ah one person can't ruin the computation for
+26:56
+everybody? You need ways to detect that somebody has, say, measured a program early without
+27:03
+telling somebody else. You need ways to protect the information that people are submitting to all these parties that they don't know. So that way they're not exposing their trade
+27:13
+secrets or client information to the network. And all of these are problems that need to
+27:19
+be solved as a group, as a community, as the whole world to make sure that we all agree
+27:25
+on the way these processes need to be handled. And if we do that, then we really will have this worldwide computer that can solve problems that no other platform on earth can solve.
+27:34
+It's fascinating. And one of the questions I want to ask you, which I think is really
+27:40
+helpful for people, is to sort of think about What advice would you have given yourself when
+27:46
+you started? You what do you wish you knew back then that you know now? Rick, do you want to start us off? So if I were to give myself advice all over again, I would really focus on sort
+27:57
+of two things when I'm testing the quantum computer. One is don't just hand it randomly generated
+28:04
+synthetic data because randomly generated synthetic data may not have the properties that quantum
+28:09
+computers exploit, like these hidden relationships that you don't. aren't necessarily aware of. I would really try to find some real world data. Otherwise, you just might not get great results.
+28:18
+And then the other major thing is really think about how you can chop the problem up into
+28:23
+pieces to make it fit onto the hardware nicely. And it is true that the quantum computer is
+28:30
+going to get bigger. They're going to be able to fit bigger problems over time. it's something that will get easier, but still going to matter in terms of really extracting the maximum amount
+28:40
+of performance out of the machine. And I think to add on to that is uh don't be intimidated
+28:45
+by the academic literature. What we found is that oftentimes the academic literature is
+28:52
+really focused on the theoretical aspects. And there are many practical aspects that don't
+28:58
+quite get captured by some of these results. So when you actually experiment with the machine,
+29:04
+you'll find that there are real constraints around how do we shuttle around bits and get
+29:09
+them into registers or How do we take a problem and fit it onto the processor? And these apply
+29:14
+to GPUs just as much as they do to QPUs. And uh so the proof is in the eating of the pudding.
+29:22
+You gotta go out there, you gotta work with the specific target machine that you're interested in seeing the results on, and you gotta try to think about uh different ways around the
+29:33
+problem. And something I like to say is that if GPU computing is parallel computing, QPU
+29:39
+computing is lateral computing. You really got to think laterally about the problem. And there are many different ways that you can uh get to the same result while taking advantage of
+29:49
+the things that these processors are really, really good at. And so that would be my number
+29:54
+one advice is don't take the papers at face value. uh Really investigate and try it yourself
+30:01
+because I think you can surprise yourself with some of the low hanging fruit that was left unpicked. I really appreciate this. It's been a fascinating discussion. Colton, Rick, thank
+30:10
+you so much for joining us on Quantum Matters. Thank you for having us, Murray. And we can't be more excited to be working with you guys on projects like these and making these tools
+30:20
+more available because you've done some really incredible work on making really wonderful processors that can do ah things that really haven't been possible before. Yeah, thank you.
+30:29
+It's been a real pleasure. I can't express enough how much fun I'm having as a technical
+30:34
+person playing with these systems. just sort of getting this technology out there.
+30:42
+Well, I hope you enjoyed that episode as much as I did. You know, it really helped me to understand blockchain technologies a lot better. It's much less abstract for me now and I have
+30:51
+a stronger sense for its applications, how it works, and also how quantum and classical computers
+30:56
+can work together to draw in a larger community and make blockchain technologies more energy
+31:01
+efficient. It's just, it's phenomenal. That's it for this episode of Quantum Matters. Thanks to you, our viewers and listeners for
+31:10
+joining me. Please follow so you don't miss an episode and to learn more about the Quip network, D-Wave's work on blockchain technologies, and how to get started with quantum computing,
+31:19
+visit the links in our show notes. Until next time, I'm Murray Tom. Stay curious about your quantum reality.
+

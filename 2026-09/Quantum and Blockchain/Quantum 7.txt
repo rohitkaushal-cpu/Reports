@@ -1,0 +1,851 @@
+
+Search in video
+0:00
+Hey everyone, welcome back to D Web Decoded, a podcast by Filecoin Foundation exploring the intersection of
+0:05
+blockchain and the data economy. I'm your host Aaron Stanley and today we're talking to Yun A, who's a cyber security
+0:11
+entrepreneur, an inventor, and founder of Bolt Technologies. We're going to be talking about transitioning to a world
+0:18
+of postquantum blockchains and cryptography. Yun, thanks so much for being here.
+0:24
+Thank you for having me. This is uh this is my very first podcast and definitely appreciate the opportunity.
+0:30
+Yeah. Amazing. Well, yeah, we like to we like to break you guys in, you know, get these like awesome first- time guests. It's a kind of a tradition here. So,
+0:37
+rising stars, you know, as we say. Um so, Yun, um we'd love to just start off
+0:42
+G with you giving yourself a really quick introduction. I know you've gone from building like Wall Street trading
+0:47
+systems uh from, you know, back in the day to now building, you know, you know, kind of quantum safe blockchain
+0:53
+technology systems. maybe give us a bit of detail on your journey. Sure. You know, um I I went to school in
+1:00
+New York City, Columbia College, and uh you know, got out with a physics and engineering degree. Um then I just went
+1:08
+to Wall Street. I um I got got in together with three other gentlemen who are ex Dean Witter. You remember that
+1:16
+company? I remember Dean Witter TV ads from my childhood. You know, invest with Dean. That's right.
+1:21
+Dean Witter Reynolds, right? And uh so they they came out of Dean Winner and these were the days when index arbitrage
+1:29
+was done with paper tickets and floorunners um with two phones, one to the Chicago
+1:34
+Mercantile exchange and one to the AMX and New York stock exchanges, right? And
+1:40
+you had boys running with tickets, trading tickets to each of the specialists. But those are the days of
+1:46
+$5 spreads. Um and we helped computerize that whole process on um on Sun Micro
+1:54
+Systemystems, Spark machines, right? And um I remember I was coding the part
+1:59
+where um it was the line drivers to the New York Stock Exchange computer system which is called the DOT system. And um
+2:07
+we were so happy to get 9600 baud lines,
+2:13
+right? So dual 9600 dedicated lines was that's bits per second, right?
+2:19
+Oh wow. Okay. So imagine just shoving 500 orders down
+2:24
+there on on a single 9600 bloodline. That was how fast things went. Wow. Um yeah. So this is this is like when
+2:32
+Haze modems was the cream of the crop, right? And uh everybody was like I I I
+2:37
+remember shelling out like several hundred for that aluminum shelled haze
+2:42
+modem 1,200 quad, right? So um so those are the days. Um you know
+2:49
+I did that for about 10 years. Worked on different worked at Goldman Sachs uh and
+2:54
+their loans and placement systems. Um but at around the 10th year of doing
+3:00
+that I uh I got an opportunity to work at Credit Swiss um and because basket
+3:08
+trading was coming into vogue. So this is kind of like a generalized index arb
+3:13
+system. So it's basket trading is like every mutual fund that you've ever purchased or you know used or you know
+3:20
+put into your IRA uses basket trading at some point, right? because they're going
+3:25
+to hire their broker. This I got to rebalance or you know um you know this
+3:32
+company just came in with more cash flows. We got to put it to work before the day is over and they give you the
+3:37
+order and then you got you got hundreds of tickets that you got to uh get down into the street. So that was the agency
+3:44
+side of the business. I I headed the domestic trading side on the basket trading for credit Swiss US and um I did
+3:52
+that for a handful of years and then I ended up getting picked up uh over at
+3:59
+Fidelity of all all places up in Boston. Um and I ended up working for a new
+4:05
+initiative of for Ned Johnson. So Ned Johnson hired um you know one of his
+4:12
+trusted lieutenants was a guy named by uh Jock Peril and um he ordered him to
+4:18
+you know basically set up a little test ground called Geode Capital and that was
+4:24
+going to test and explore alternative investing. So because hedge funds were
+4:29
+getting bigger at the time, um Ned Johnson being the sole owner, family
+4:35
+owner of Fidelity said, you know, he'd like to explore. And so I was their head
+4:40
+trader. So I was like the fifth person hired. And um and then what was interesting was uh I I don't know how
+4:48
+much you know about Fidelity, but Fidelity is is a brand name um
+4:54
+retail, you know, they have a very big retail present. They also have a big institutional, but it's driven by retail
+5:00
+reputation. So, you know, if you're a Fidelity adjacent employee, uh, you're not
+5:07
+allowed to short ever in your personal accounts, right? Short. Short is a bad word to them because they just want the
+5:13
+market to go up and up and up, right? Up on. But anyway, so think about the mentality
+5:18
+of an entire organization at the time, probably like 20 25,000 people.
+5:24
+we've never shorted and now he wants to run an experiment
+5:31
+with massive amount of shorting. So, so it's like a you know just
+5:36
+explaining it to the overseers, the trustees of Geode who are all Fidelity members. Um very interesting, very
+5:44
+difficult and very uh you know it's very strange and um we did that for about a
+5:50
+year year and a half that continued but we got supplanted by some events where
+5:57
+um their index subadvisory business. So this is like um you know you're
+6:03
+offloading the the management of S&P 500 money or DAO you know DAO industrials
+6:11
+money to other people to manage for you and you just brand name you go Fidelity
+6:16
+Spartan S&P 500 it's managed actually by uh Deutsche Bank
+6:24
+the Deutsche Bank was selling um their subadvisory business to Maril Lynch and
+6:29
+Northern Trust Fidelity did not want their Spartan funds, which are all index based, to be
+6:36
+going over to a competitor at Northern Trust and they asked us to compete and bid for
+6:41
+their business. Um, surprise, we won, right? And I I was the index guy and and
+6:49
+I set up all the computer systems and logic and processes creating to get it
+6:54
+working. And and we were really proud of that because you know once we won it, we had like two months to um get ourselves
+7:02
+all ready for it and um come in the first trading day in January and I get a
+7:09
+balance sheet that says 85 billion in S&P 500 money. That's it's under our
+7:14
+responsibility. Wow. So that's like a that's a really strange concept, right? Where you go, "Oh, wow.
+7:20
+That's a that's a lot." And uh but within six quarters at the time that I
+7:26
+did that um the king of indexing uh for retail is is called Vanguard,
+7:33
+Vanguard Company, right? And um within six quarters we beat them. Oh wow.
+7:38
+On their Benjam 500. So we were very proud of that. But we found all the little nuances and how to how to reduce
+7:46
+all the frictions and get it down to a science on following indices um for many
+7:52
+indices. And um so I did that and for about five or six years and um got
+7:58
+poached again up to uh Illinois to work for a growing hedge fund called Magnetar
+8:05
+Capital in Evston. And um I became their uh they they had a really ominous title,
+8:13
+global head of executions, right? Yeah. Jack the Reaper, right? You know,
+8:19
+that's right. You know, you would think that I was working for some sort of uh you know, other country, but anyway,
+8:25
+yeah, North Korea or something, right? Yeah. So I I managed a desk that was uh centered in um in Evston, but we had
+8:33
+branches out in New York, uh Singapore, London, uh and Tokyo, and we had traders
+8:39
+in every spot. And we were running we were churning through probably over a hundred billion dollars of US equity
+8:46
+trades a year, which is at the time that's a that's a lot of churning. Um so we did that. I I
+8:52
+did that. That was my last trading job. I did that for like five years. I kind of retired. Um, and
+8:58
+so how does all that how does all that dovetail into your your quantum computing then? Because I know you have an interesting twist here. What was the
+9:05
+uh I was never I was never that that uh removed from trading systems and
+9:12
+software design because I always work with the IT guys to put in new features or change some architecture and whatnot.
+9:20
+And um I even gave the industry a new product which I never even really took
+9:27
+care took um took credit for but I told the broker that I gave it to I don't
+9:33
+care what you do with this sell it to your clients whatever you want to do I need it for myself because it's driving
+9:40
+me crazy and this is called the soft dollar uh distribution program right and
+9:46
+if you ask around in the brokerage industry that became a giant business. And so, um, I I I think I created the
+9:55
+first one because nobody ever heard of it at the time, and I was working with all the major brokerages at the time.
+10:00
+Um, but I told them, I don't care what you do with it, but you got to solve my problem, right? And I will walk you
+10:07
+through it. And uh, and we did that, and it became pretty big. I know that
+10:12
+there's several people that I know in the industry who made it big for the brokerages by, you know, uh, embracing
+10:19
+it and calling it their own. God bless. Whatever. But anyway,
+10:25
+um, you know, so I, uh, I stopped working and I thought I was going to
+10:30
+take maybe a year or two off maybe and go back in some other capacity, but I
+10:36
+did not. Somewhere along the line, I remember like probably January of 2013,
+10:43
+I realized that while I was dealing with all my personal computing needs, so all
+10:49
+my home networks, um my laptops, desktops, you know, tablets and phones
+10:56
+that a lot of the underlying uh software mechanics have not changed,
+11:02
+right? And what I mean by that is that if you don't adopt uh and embrace like
+11:09
+Google cloud, Apple cloud, uh Microsoft cloud or you know any of these cloud
+11:14
+systems, right? Uh whether it's paid or free, if you don't embrace it wholeheartedly, you're
+11:20
+going to have a very very difficult time to manage your data on your systems,
+11:26
+synchronize them, and keep them private. Very difficult. Right? You could buy all sorts of
+11:32
+products. They don't usually work together. Um, and they all require you
+11:37
+to trust a central authority of some sort. And um, and then most of them do
+11:44
+not give you the encryption level that may be offered in an enterprise environment, right? Where uh, if you're
+11:51
+a retail guy, encryption is the last thing they'll give you, right?
+11:57
+Because you're the product, right? your your data is their product is what they're going to mine, what they're
+12:02
+going to keep, what they're going to get access to and buy the rights to as soon as you sign on dotted line of saying
+12:08
+give me that cloud access, right? And so, so I realized at some point that
+12:14
+this is very disturbing. Why is it so difficult for me to synchronize my own
+12:19
+address books across my own devices without Microsoft looking at every one
+12:24
+of them? Right? um that's a lifetime of contacts that I've collected.
+12:30
+Yeah. Through hard work that they want a freebie access to. And I'm like that's
+12:36
+that doesn't seem fair, right? Um and so so that kind of started me down privacy
+12:44
+and what's lacking in the in in the world. And um and then you notice some other problems. Some other problems that
+12:50
+I noticed is that you know when we buy new machines, new laptops, new tablets,
+12:56
+new phones, you notice that the processes are getting faster and better,
+13:01
+right? Mhm. But also they will increase the RAM, which is nice because you need, you
+13:06
+know, these programs get bigger, but they will like double or triple your
+13:12
+hard drives, your SSDs, right? And I don't know about you, maybe maybe you're
+13:17
+different because you you do a lot of video recordings, but most people never use that,
+13:23
+right? You got to take a lot of pictures, you know, a lot of cat pictures to fill that up, right?
+13:28
+Not only that, most people have they've adopted cloud, so a lot of that just ends up in the cloud, right? And so I'm
+13:35
+like, why are we paying for this incredible excess hardware and never using it, right? And and so that was
+13:43
+another big problem where we have we're resource um you know rich but not
+13:49
+resource savvy. And I I found that this ability to have private data sharing and
+13:57
+synchronization in your under your control and um the uh the ability to
+14:04
+utilize your own hard-earned resources is lacking because of software
+14:11
+that the industries that run this have no incentives to provide that type of
+14:19
+capabilities to because there's no money in it. Right. Right. Um there there's no money in it.
+14:25
+The money is gathering the data, sifting through it, and trying to sell you something. Right. I I think I think so that that's
+14:32
+so it occurred to me that if you look at it this if you look at it the way that I saw it, the industry is not going to
+14:40
+give me the solution that I would like. They're they're it's just antithetical
+14:45
+to their business model, right? And um so that's how I got into privacy. And
+14:51
+when I got into privacy, I started teaching myself how to use cryptography.
+14:57
+Now what was careful was I understood enough of the math to understand that I
+15:03
+am not going to become a cryptographer. Know thyself. Right.
+15:08
+Right. I I I know enough math to know that I'm never going to add to that field. Right. Um but what I did realize
+15:17
+is that you start seeing characteristics of what's being done, how it's being
+15:22
+used and what are the limitations and then you start seeing obvious uh
+15:28
+frictions that should not exist and that's where I started doing my research
+15:34
+trying to figure out um how do I solve these problems so that I end up with a product that I'd want to use every day.
+15:41
+Right? So, so that's the motivation between before I started um my first
+15:47
+company called Nuts Technologies and Nuts is uh it stands for encrypted user
+15:53
+data transit and storage. I just called it nuts because we call we create nut capsules. Um but the the reason I talk
+16:01
+about nuts is that that that was the beginnings of how we ended up creating
+16:07
+bolts, nuts and bolts, right? Um and
+16:12
+So one of the weird problems of cryptography is that it is a weird set
+16:18
+of functions that you have to know how to use. And the functions that you know you you you you use it for is based upon what it
+16:26
+does for you, right? And cryptography is actually very well structured.
+16:32
+But most people when you ask them, hey, explain to me a little bit about cryptography.
+16:38
+by the end of the conversation, you're usually more confused than when you started. Yeah. Right.
+16:43
+So, you know, the way I like to explain it is that um cryptography is built on
+16:50
+three types of ciphers, right? And um they're managed by the the categories
+16:57
+are by the number of keys that the that cipher requires.
+17:03
+Okay? So, it's a different way to look at it and it's zero, one, and two.
+17:08
+Right? If you require no keys, those fall into the category of what's called
+17:13
+hashes. And you know what they are? They take arbitrary data and create a
+17:19
+fixed identifier for it, right? This is this is pretty common place in blockchain systems, right? Like you
+17:25
+every transaction has its unique hash like a hash, you know, this is everywhere. Yeah.
+17:30
+Right. So, you know, your pay to addressing schemes are all based on hashes of something, right? Um and then
+17:37
+uh one key one key if if it's a single key that's called a symmetric cipher and
+17:44
+that's a fancy name but what what it means is that both you and I share that
+17:50
+one key and then we could encrypt and decrypt using that one key and the most
+17:55
+popular one that you've heard of probably everybody's heard of at some point if they're if they're little bit
+18:01
+attuned to cyber security is AES right AES 128, AES 256 that is a symmetric
+18:10
+cipher. A fun one to know about is a a guy named I think Daniel Bernstein
+18:15
+created something called chaa, right? So chaa is another symmetric scheme. But
+18:20
+that means that we got to figure out a way to share this one key between you
+18:26
+and me and I got to send it to you somehow secretly. Right? So, so that is uh but
+18:32
+the the the key idea that you got to realize for this one key type of
+18:38
+symmetric cipher is that it's incredibly efficient, incredibly fast, right? So,
+18:45
+this this streaming that we're doing right now is probably probably encrypted
+18:50
+by a symmetric cipher like AES. Um and it's uh it's based on randomness.
+18:59
+So, how do you construct that key? That key is just a big random number,
+19:04
+right? So, you you I'm going to repeat that several ways, but random numbers are
+19:10
+incredibly hard to guess if it's a big number. And and that's a that's a central
+19:18
+central precept of uh of a lot of cryptography, right? Random numbers. Um
+19:24
+and then we come to two keys. two keys is where things get a little bit more subtle and complicated. uh but a as you
+19:32
+can tell here that I'm not explaining this on any ba any basis of mathematics
+19:39
+right but you know underneath there's a lot of math going on right but two keys
+19:44
+is that there's a public key and a private key everybody has kind of heard about that in the in the crypto world
+19:52
+right um and then there's a relationship between the two keys and each key holder
+19:59
+gets different capabilities that they could do. And that that's really all that you got to know, right? You don't
+20:06
+need to know how how the how the inards of the clock works. What you got to know
+20:11
+is that that's that's the characteristics of this type of cryptography.
+20:17
+And now the most popular two key ciphers is called RSA and ECC.
+20:26
+And we've been living with those for nearly half a century. ECC would be elliptic curve, right?
+20:31
+Elliptic curve block which is which is very widespread in in in in blockchains, right?
+20:38
+Blockchain I would say is virtually almost 100% of the asset base is protected by ECC
+20:45
+right and ECC was chosen almost by default because it is the smallest key
+20:51
+size and the fastest. So compared to RSA, it's much faster and almost there
+20:58
+was no uh I think you'll see different variations of ECC being used in
+21:03
+different types of blockchains, but it's all the same type of math being used underneath, right?
+21:09
+Um so I don't think there was ever considerations to really use anything
+21:15
+besides ECC when blockchain was forming after the uh the Bitcoin paper. No, I
+21:22
+think I did read the Bitcoin paper at one point and uh nowhere in there did I
+21:28
+see any evidence of um a specific
+21:33
+digital signature algorithm being specified that I think it was at a time where it's
+21:39
+just hey use the fast one. Yeah, just find the best one like the fastest quickest one basically that
+21:45
+that's does the job. Yeah. Choice of two RSA at ECT, right? Um, so I I don't think there was any
+21:52
+choice. It was just by default and it was at the time everybody believed that
+21:59
+um it's going to last forever, right? Uh now that we now now we know that that's
+22:05
+not true, right? Um, so anyway, why is that why is that maybe this maybe it's a good time to transition him into
+22:10
+your quantum uh sort of background here, but like what was what was sort of like the light bulb moment here that you know
+22:16
+I'm assuming you perceive that okay the these algorithms are not as uh durable and immutable as we thought they might
+22:23
+be. Um but then you know how did that where did that where did your journey go from there? I think I think it's because
+22:30
+at the time RSA and ECC came into being the um the cryptography movement was
+22:40
+such that everybody wanted to put their name on the algo right was who could
+22:46
+come up with the best cryptography right and and RSA the three initials of the
+22:52
+three founders right of of the RSA algorithm uh Elliptic Curve I think is two guys But they decided to name it
+22:58
+elliptic curve. Um but it was like to put your names name on it and or things like like a schnore signature
+23:05
+or something. That's right. That's right. It's like it's like you know like discovering like a new you know mountain or something. You get to name
+23:11
+it after yourself. Right. Right. It's it's like going to the North Pole, right? To put your flag on it. That was that was the grand
+23:18
+adventure is let's find the best encryption schemes. Now you you you you
+23:23
+go forward several decades. The game has changed. It's turning out nowadays that
+23:30
+ciphers are literally a dime a dozen, you know, um you could get a lot and
+23:36
+they're they're they're created by teams of people across the world. So you would have teams of people that
+23:43
+are, you know, four to 12 people getting together, collaborating to come up with
+23:49
+ciphers. And so they become almost commoditized in a way, right? and they're so formalized um the the
+23:57
+creation methods are are so well known um that no single person could come up
+24:04
+with something that could actually compete with a group effort like that. And um and then the nature of
+24:10
+cryptography changed. So as people got more sophisticated, they're like, "No,
+24:15
+no, no, no. We don't we don't trust a black box when when it's encrypting my stuff. I want to know how it works. I
+24:22
+want the attackers to know how it works so that we know that it's strong, right?
+24:28
+And so cryptography became rather than this like secret blackbox, um it became
+24:34
+open, right? It became where if you don't let me look at it, we're not even going even going to attempt to use it,
+24:40
+right? Because why should we even trust, right? So the actual ciphers are no
+24:46
+longer sort of like everybody still wants their name or effort on it, but it's no longer sort of like planting the
+24:52
+flag anymore, right? This is this is more like landfill almost like we're going to build a new island,
+24:58
+get the construction guys over here, right? And and that's what you do. And um and but you got to start asking like,
+25:06
+okay, why is RSA and ECC failing? and are these new ciphers that are supposed
+25:11
+to be quantum computer resilient are they going to be how long are they going to last right so that brings
+25:19
+together like a really really critical underlying foundation of cryptography
+25:25
+and that is none of these ciphers you've heard about are provably secure none of
+25:32
+them including AES so RSA ECC AES all of
+25:38
+these new PQC postquantum cryptography standards, there's no proof that they
+25:43
+work. Why is that? There's only been one provably secure cipher. It's called the
+25:49
+one-time pad. And um you know, there's a that's a the
+25:55
+one-time pad is a is a theoretical model, but it's it should work because they could bathe somebody could prove
+26:01
+that that it will work. It's the only one and it's impractical to use over
+26:06
+digital networks, right? Okay. I think you'll see a a variation that's um you know kind of
+26:12
+inherited from it is you know when you see the nuclear football in movies, right? Those are
+26:18
+that's kind of like you know you crack open the little card and it's a variation that's based on the one-time
+26:24
+pad how it works. But that's the only cipher that's ever been proven to be
+26:29
+secure. So everything else that we're using so all so all of these so all these ECC
+26:36
+uh algorithms that are underlying uh you know trillion dollars worth of assets at this point uh in in in blockchain world
+26:44
+um these are I mean are the I mean are you when you say these are are fallible are you are
+26:50
+you talking about kind of a theoretical concept of like like like hey quantum computing is coming and it can it can
+26:56
+just it can basically rip these things to shreds or is it Or are is there even like in the pre-quantum computing era
+27:02
+are we are we finding instances where these algorithms are are fallible and uh
+27:07
+being being broken essentially it means that the math behind them
+27:12
+hasn't been provably secure. Okay. Right. So, so it's almost like uh what
+27:18
+what they're saying is like I think if you look at RSA, it's it's the the hard
+27:24
+math problem behind RSA is called integer factorization, right? And that
+27:29
+is like let's pick a really large prime number and then multiply it with another
+27:35
+really large prime number that's randomly generated. And that multiplying
+27:40
+the two two large prime numbers is a very hard thing to factoriize. Um, and
+27:47
+over decades of trial and error and all of this road testing, they found that
+27:53
+well, nobody's really broken it. So, it's it's fairly safe secure because if it wasn't secure,
+27:59
+somebody would have broken it by now, basically is the Right. Right. So, so there's decades of evidence that it is pretty secure,
+28:05
+right? And that it is a very hard problem. Now, the problem is that oh, you know, there's this new thing that
+28:11
+they're coming up with called quantum computers. It works in weird ways compared to conventional computers, but
+28:19
+it seems to solve certain mathematical equations very well, right? In in in a
+28:25
+different uh order of magnitude, like instantly if you're, you know, in theory, it could do it instantly. And
+28:33
+that's the main problem is that the hard problems that these ciphers are based
+28:38
+on, a quantum computer solves it easily because of the way it works. Well, yeah,
+28:44
+with the random number problem is it, you know, for for me to sit here and try to break like, you know, come up with
+28:49
+random numbers to to to break this encryption. Yeah, it's going to take me forever. But if you have a quantum computer that has basically
+28:54
+exponentially powerful uh ability to solve these equations, like it could it could decipher that in in
+29:01
+instantaneously, right? Isn't that the idea? Right. So, so I think um one thing that's very subtle but very important is
+29:08
+that AES is still considered secure even in the quantum world because it is
+29:14
+purely random number based right so random numbers are actually secure in the quantum world as well as
+29:20
+conventional quantum world especially shor's algorithm says that the types of
+29:27
+problems that that RSA and ECC is based upon the quantum computer can figure out
+29:34
+that mathematical equation. H and so it's not it's not a random thing. It's like if it's if your public and
+29:41
+private key is related by some sort of mathematical equation of the type that's
+29:47
+behind RSA and ECC quantum computers could get you there very fast.
+29:52
+Oh, interesting. So it can it can basically so if it has access to the public key it can it can figure out what the private key is. Okay. That's the
+29:59
+other side of the equation. It's like a Sudoku puzzle or something that you know. Right. Right. Right. Now, the trick is
+30:06
+what's postquantum cryptography? Postquantum cryptography uses other math type problems that are still deemed to
+30:13
+be very hard for quantum systems. And so that's the that's the subtle
+30:18
+distinction. Uh but we don't have to go to the what type of math is it and how does it work. It's like that's a that's
+30:25
+a rabbit hole you don't want to go into. And I don't want to go. I think it's sufficient to know that for certain
+30:32
+types of equations, quantum can get you there incredibly fast, right? Um, and
+30:37
+that's where the where the main problem is that now quantum advances are coming very very quickly. In fact, a little bit
+30:44
+faster than what people anticipated. and knowing technology history in the last h
+30:50
+100red years um especially if there's a lot of motivations
+30:56
+uh sometimes technology tends to jump a lot faster than people ever expected. I
+31:01
+think that's the main risk is that if you think it's going to go in the way that it's been it's been increasing and
+31:08
+advancing in the last five years, um you can't account for the jump that somebody
+31:15
+somewhere will have an insight that can make it order of magnitudes faster.
+31:21
+Right. Well, let let's talk about that a bit more. Just kind of the current state of maybe quantum computing as it stands at
+31:26
+the moment. And and and we were talking before the show about this. I've been kind of loosely following this since 2018, at least just following some of
+31:33
+the news headlines and and I guess as somebody who's not really technical on these matters, it's it's kind of hard to
+31:38
+discern to determine, okay, like what is sort of real, what is not real? It's obviously this is a thing that people are are concerned about and are working
+31:44
+on, but like is there some sort of like nuclear like holocaust type apocalypse threat that we're facing here? Um, how
+31:51
+advanc like when is this going to happen? Is this going to happen tomorrow? Is it going to happen like 50 years from now? I mean it's kind of like talking about you know the singularity
+31:57
+in AI like when is this going to happen like some people say it's going to be next year some people say it's going to be never going to happen at all but like
+32:04
+I would like maybe tell us a bit more about the state of just you know quantum as it stands right now and then maybe we
+32:09
+can tie it back into the blockchain piece of like what what is I mean obviously there's more implications of
+32:15
+this beyond just blockchain but uh maybe we can kind of weave it in weave in the blockchain angle.
+32:20
+Sure. I uh and I'm going to be brutally honest here is that when I got to my
+32:26
+fourth year on my physics uh degree uh at Colombia, I took a few quantum
+32:32
+courses and I said this is not for me. Okay. It it it uses a lot of strange math and
+32:39
+the physics involved the actual uh underlying things is just developing and it's like it's crazy. It's a crazy
+32:47
+world, right? But what we have to realize is that it's not like we haven't
+32:53
+been using quantum computers. Um, even the computers we're using right now,
+32:58
+there's these Intel or Apple processors or whatever Nvidia, they all use quantum
+33:06
+capabilities, right? You've heard of uh electron tunneling.
+33:12
+That's a quantum capability, right? That's a that's this weird behavior when you have a wall of silicon. Uh sometimes
+33:19
+you'll find electron passes through that silicon wall without without leaving a trace
+33:25
+and we actually use that capability when when we build silicon today for
+33:31
+conventional computers we use that capability and know how to manipulate it. uh sometimes we don't know why it
+33:38
+happens but it happens right so this is like uh I think there may be a lot of theories but the last I checked I I
+33:45
+don't know the last time I checked but um I don't know what the reasoning is right that that this quantum tunneling
+33:51
+and the um on the quantum side for quantum computers they're using different types of quantum capabilities
+33:57
+and characteristics to drive this quantum computing capability and they're trying to figure out how to scale and
+34:05
+harness that at at cheaper energy levels because you've heard that a lot of these
+34:10
+monstrosities that they create. Um, they take like super chilling. They they're
+34:16
+they're like really uh very sensitive to to motion and vibrations and all of those things. So, I think I think they
+34:23
+have the fundamentals down, but they have to now figure out how do we scale this stuff and how do we do it cheaper?
+34:30
+Uh, which has always been a problem for any type of new technology. And if there's enough money behind it, if
+34:36
+there's enough motivation behind it, we will get there because we've done that time and time and again, right? And uh
+34:43
+so I I think that is pretty well known. Um so, you know, I think uh IBM came out
+34:50
+with like a thousand cubit machine. Uh they think they could get scale that
+34:55
+even bigger in the next couple years. Willow uh with Google and the headlines
+35:01
+last week is like I think they came out with Willow earlier this year, right? Their their headline on on uh their
+35:08
+their presentation of Willow. But latest presentation is how they figured out more algorithms they could
+35:15
+they could run on Willow, which is actually pretty cool, right? Because right now the main algorithm that we've
+35:20
+been fearful for is shores, right? Which is the the algorithm that could break RSA and ECC. But now they figured out
+35:28
+different algorithms that they could they've taught their little quantum computer how to do it faster and how to
+35:34
+how to how to actually instruct it to do something. So I think quantum there's um
+35:41
+there's advances from Google where there's a Google sponsored paper where a scientist came out and said that um he's
+35:49
+uh he's figured out a better way to take Shor's algorithm and optimize it for
+35:55
+efficiency so that it requires less cubits. Right? I think that came out several months ago. So you're going to
+36:02
+have um algorithmic efficiencies and optimizations and you're going to have
+36:08
+physical uh quantum computing advances and if they start merging faster and
+36:13
+faster, we may get to the point um where traditional cryptography of the two key
+36:21
+kind such as RSA and ECC can be broken. Now between the two, ECC is the easiest
+36:28
+one to break. So there in lies sort of a nice segue
+36:34
+into why quantum can be a threat to all of blockchain.
+36:41
+Yeah. Well, maybe let's let's maybe let's go down that rabbit hole a bit. Like what do you see as the kind of the
+36:46
+immediate threats here? Is this is this like existential crisis or is this just like okay, there's a few things that we
+36:51
+can we can kind of do, you know, a Y2K kind of retrofitting and just make everything coast,
+36:57
+right? and and and they have been doing that. Um the department of commerce has
+37:02
+a department called the NIST for National Institute of Standards and
+37:07
+Technology and um they are kind of the uh the national laboratory of the United
+37:13
+States and they've been under the guidance of uh Dr. Lily Chen um since
+37:20
+2016. she she set up the postquantum cryptography selection process, right?
+37:27
+And so they've been working on it for 9 years or so. And um and so the effort is
+37:34
+there. In fact, one of the new standards they came out with just in in August 24
+37:39
+is called Sphinx. Um but that one predates RSA
+37:46
+if if you could believe that. Right. Right. So, some of this stuff is not as new as you think it is. It's been
+37:52
+around, but it's almost like uh machine learning. Machine learning has been around for well over half a century.
+37:58
+It's just we haven't had the cheap processing power to actually do it, right? Um so, so you know, a lot of
+38:04
+these advances are happening in the last 10 or 15 years because of the cheapness
+38:09
+of computing. Um but anyway, she started this in 2016. by August of uh 2024 they
+38:19
+standardize the first three uh postquantum cryptography ciphers right
+38:25
+now they say three but they give you 16 variants based on those three
+38:31
+right so it's not like really three algorithms it's 16 algorithms and um
+38:36
+what do you do with that so let's say let's say you run xyz stack a blockchain
+38:42
+stack and uh you got you billions and billions and or maybe even
+38:47
+a trillion dollars running on it and u and you're supposed to make the decision. We have three three standards
+38:56
+giving you 16 choices of algorithms and you go what are you going to choose
+39:03
+based on what? Right. Right. you're going to have to take somebody else's word who's going to be a cryptographer
+39:09
+saying, "Oh, this one." Now, what if you're wrong? Then you have
+39:16
+to do the transition all over again. And blockchain transition to cryptography is
+39:22
+not that easy, right? So, it's one thing if if JP Morgan has a huge database and
+39:30
+everything's encrypted with ECC and they they choose Dithium and they go change
+39:36
+it to Dithium. They could stop work for a weekend and just change the whole database, right?
+39:43
+Cannot do that with blockchains just because of its decentralized nature and that everybody holds keys in their
+39:50
+wallets, right? And uh you can't have everybody come in at a certain 24-hour
+39:56
+or 48 hour period and say change over. It's not an easy thing to do. And during
+40:01
+the changeover um you have risk, right? Because um what what's the reason that
+40:07
+you're changing over from one choice to another is that the choice that you made
+40:12
+has been found to be vulnerable. Right? That that's obvious. Otherwise, why would you change? And so, so now you
+40:21
+have a quandry. If you're that person, if you're the tech stack manager, um
+40:26
+you're going to have to figure out which one do I trust based on what science, based upon what evidence, and um what if
+40:35
+it fails? What am I going to do? Right? And then take a look at this. NIST said,
+40:41
+"Here's the first three, which spawn 16 variants. We have two more in the
+40:47
+pipeline that'll probably give us another five variants. That's 21 variants, right? And you've heard of
+40:54
+Falcon, that's coming down the pike any month now. Uh then there's HQC. That's
+40:59
+another one coming down the pike. And then they have a slew of like a dozen
+41:06
+more digital signature algos that they're evaluating. My guess is they they're going to come out with three to
+41:11
+five more out of that one. that could be up to 15 more variants. You're talking
+41:17
+about 36 variants within a period of a few more years. So then the question be it becomes one
+41:23
+of interoperability, right? Like how can these systems interoperate if everybody's using a different type of algorithm
+41:29
+uh and and and no one no one like really knows which one is maybe the best,
+41:34
+right? we're just using them because some they they've earned received a stamp of approval from somebody, but
+41:40
+that doesn't necessarily mean they've been like battle tested, you know, in the wild for I've been I've been looking at a lot of
+41:47
+the literature that's been put out and, you know, most of most of the literature around blockchain
+41:54
+um resilience to uh to to quantum computers is um DIY, right? It's uh it,
+42:02
+you know, or dy do it for or whatever.
+42:07
+It it is self-taught uh as you go. Um you know, maybe I'm old school, but I I
+42:14
+find it horrendous when people think out loud on a blog post, right? Say like thinking that it is the best thing under
+42:21
+the sun for them to learn in front of everybody else. And I'm like, you know,
+42:26
+why are you wasting my time, you know? Uh it's sort of like you know
+42:32
+let what you know that's why scientific papers are good because that's it's
+42:37
+reviewed right and and you got to you got to put it up to some sort of logical uh scrutiny. Uh but what I what I do see
+42:45
+is that um you know you're going to have this major problem and and you see this problem coming. Um let me just point out
+42:54
+one more thing that that complicates it even further. So I just mentioned that there's a possibility in a couple of you
+43:01
+know two to three years that NIST standards for postquantum cryptography
+43:06
+could be in the 30 40 variant range right lot to choose from the proof is in the pudding in terms of
+43:14
+why so many what I told you before which is there's no proof right
+43:20
+right uh that's why they are sticking as much against the wall that looks good to them
+43:25
+and saying it's your problem now we've done our we've got our work. Yeah, like we're we're creating the standards. You guys, it's up to you guys
+43:31
+to figure out which one of these is the best. So, have fun and we'll let you know if any of them look vulnerable now, right? Uh no, that
+43:39
+that's what they say. is like so during this 80-year process to select PQC
+43:45
+algorithms, they've had twice really really late rounds. I think back in 2022
+43:50
+and 2023 where overnight two of these um candidate ALOS were found to be
+43:58
+vulnerable overnight by scientists and oh no, they had to drop them out of contention
+44:03
+like the next day. Oh boy. Okay. So, so these things can change on the drop of a drop of a hat.
+44:09
+Basically, what we thought was secure required is right, right? All that's sec uh you
+44:14
+know, all that's required is somebody to have a new insight as to hey do this and
+44:21
+you know the the magic is gone. This is no longer secure, right? And so that's
+44:26
+why they're throwing as much up up against the wall as possible.
+

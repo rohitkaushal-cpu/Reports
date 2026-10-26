@@ -1,0 +1,623 @@
+
+Search in video
+0:00
+And we have Martin from Schuman Financial. Thanks for joining us, Martin. How you doing today? Welcome to the show.
+0:05
+Glad to be here. Thanks, guys. Likewise. Well, I'm Zach. This is Drew in case
+0:11
+you've never uh never met us or never seen us around, but like you said, Euro stable coins, Euro P. uh we've seen this
+0:18
+as kind of a growing growing trend throughout the years, but kind of give us a maybe a brief introduction to to
+0:24
+your background and also what you're building specifically at Schuman Financial and then we can we can dive
+0:30
+down all the all the various rabbit holes around uh around Euro stable coins. So I'm the founder
+0:37
+and CEO of Schuman Financial. We have become by now the main and I
+0:44
+would say most advanced Euro stable coin issuer infrastructure and payments
+0:50
+provider and um my background um you know we can
+0:55
+speak uh how long or short it short TLDDR is I've been an entrepre
+1:04
+entrepreneur for most of the past four years mainly in the tech uh but I've progressively gotten into crypto to
+1:11
+blockchain since 2013 when I bought my first bitcoins and previously I also
+1:17
+spent um some time in government including as a minister in I was innovation minister in my uh country
+1:23
+where I come from Slovakia. Uh I was deputy finance minister. I was part of the Euro group which is basically the
+1:30
+group of the EU finance minister that pretty much runs European economy because these days most of the key
+1:36
+decisions when it comes to European economies are not no longer than at the national level but really within the
+1:42
+Euro group and you know ministers jointly. So yeah, I think that's a kind
+1:48
+of a brief. Uh originally Slovakian as I mentioned uh US educated and currently
+1:54
+living in France which is sort of the main place out of which we're building Schuman.
+2:00
+So that that's why the defense team likes you so much then. Oh we love them too. They are great.
+2:08
+Well Martin maybe as we kick off where when and you know you started your your journey here with with Bitcoin. when did
+2:13
+the idea of stable coins really hit your your radar? When did you start thinking about them in terms of policy,
+2:20
+government, building one? Like when when did that journey start for you? So So I'll go a step back, right? So I
+2:27
+was first introduced to crypto uh by one of the real crypto OGs in Silicon
+2:33
+Valley. We had a breakfast in 2013 in September. And he was trying to convince me that Bitcoin is going to replace
+2:40
+money because like money is like government run money is bad. And I was
+2:45
+basically telling him, dude, as a Harvard trained economist, let me tell you about money and why this thing will
+2:51
+never replace real money. Yeah, sure. You're Argentinian. You know, we officially have the world's shittiest
+2:57
+central bank, so you think money needs to be replaced, but like this thing is never going to replace money. And so I
+3:04
+was a crypto skeptic to my disadvantage because actually
+3:09
+Ethereum was partially launched literally out of my office in London, not by me but by somebody else who
+3:14
+shared that office with me. Surely enough I didn't put any money into Ethereum at the time because
+3:20
+I mean I didn't really believe in this blockchain BS all that much. But what
+3:26
+really changed it for me was indeed when stable coins came two things. one was the ICOs uh because actually then it
+3:33
+became really interesting that you can build effectively an entire microeconomy
+3:40
+around your company where your share is basically your asset. But the thing that really changed my mind was stable coins
+3:47
+because then I saw okay this technology is really powerful. Uh uh and the reason why I wasn't really a believer in like
+3:54
+Bitcoin replacing money was because you can't have something whose value changes
+4:01
+plus minus 10 15% in a single day which was the case at the time.
+4:07
+And number two like I just don't believe until now the case last couple days
+4:13
+the case the good case right where it went past. Yeah it's good today. Yeah, say it's good. But uh but yeah, but
+4:21
+basically I realized look the government money is here is here to stay I think forever at least for
+4:28
+this thing really combines both of them. And so actually was to
+4:34
+join as a as an advisor the very first actually was the third stable coin ever
+4:41
+and it was the first euro stable coin launched. I think it was just after Ped
+4:46
+and uh Circos USDC it was called uh
+4:51
+Euros at the time. So 20 late 2017 I think.
+4:57
+Wow. So do you think that was a that was a good example of like right idea just completely wrong time for the for
+5:05
+Yeah. totally super early ahead of its time. You know, I think the guys already also
+5:11
+made a bunch of mistakes or at least strategic mistakes. Maybe not a lot. They were great team by the way, like
+5:17
+super smart guys also both technically and financially. Uh but yeah, but I think in principle
+5:25
+they were probably too early. Yeah, for sure. What mistake what mistakes did you see
+5:30
+them make that it maybe influenced the way that you've brought uh your OP to market? So, I mean, this was almost 10
+5:39
+years ago, right? So, I think the world was a different world. We'll get to it in a second. When it comes to stable coin, for sure. Uh, we were in the first
+5:46
+era of stable coins and now we're moving into the second era of stable coins. Well, I'll touch on that in a second.
+5:51
+But basically, the mistake they made at the time was well actually, you know, what was they were in the first era of
+5:56
+stable coins and in the first era of stable coins, stable coins served one purpose only, which is crypto trading.
+6:03
+Uh and that's that's been the case basically until now. And uh that also
+6:08
+explains why virtually all Euro stable coins instead of plating supply are dollar stable coins or have been until
+6:14
+now which is basically because they've been just used for crypto trading and crypto trading has been
+6:21
+denominated in dollars and not other currency. Uh, and so the mistake these guys made at the time, they were offered
+6:28
+to be listed on Binance like super early 2017 or 18 and they but they were asked
+6:34
+to pay a listing fee and they said, "Dude, like they're going to need us. We're not going to pay this fee. They'll come back to us." And sure enough that
+6:41
+Binance didn't come back to them. And so I think if they were listed on Binance that early and it was a very well stable
+6:47
+coin, I think things would have been different. But what has happened in the
+6:53
+meantime, we're now moving into a second era of stable coins where stable coins are not going to be really primary
+6:59
+crypto trading. But in the second era of stable coins, basically stable coins are
+7:06
+going to be the settlement and payment instrument for tokenized financial services. I think we all are very
+7:12
+convinced that financial services are moving on chain and in order to be able to execute financial services on chain
+7:20
+you also need the currency on chain in which these services are tokenized and it also explains why we are building uh
+7:26
+Schumann because if you the whole world um you know when you come from US it
+7:32
+might not look like it but the whole world doesn't run on dollars uh and actually the second largest currency is
+7:38
+euro It's typically like you pretty much any financial market you look at it's
+7:44
+about third of the size of the dollar denominating market. I mean the euro denominated financial market. So it's
+7:49
+it's a not as big as dollar but the third is a very very very large market and certainly orders of magnitude bigger
+7:55
+than crypto trading. And so as these markets these financial services get
+8:00
+tokenized they will need a strong euro and euro stable euro stable coin and
+8:06
+infrastructure around it. And that's what we've set out to build. We are on our way to become the the main the
+8:13
+number one the best provider for of infrastructure for anything that touches
+8:19
+euro in the era of tokenized finance. Yeah. So interesting. We I'm messaging
+8:24
+Zach here on the on the side and we both were like thinking the same thing. We want to we want to really dive into these two phases that you're talking
+8:30
+about because from our vantage point, you know, we've been covering this space for nearly two years regularly meeting with builders
+8:38
+and founders and it does feel like we're entering a new phase like this phase two that you're talking about. Can you paint
+8:46
+the picture here again of like phase one and then really the the orders of
+8:52
+magnitude bigger of an opportunity that phase two is? Just like define that a little bit. Yeah, for sure. I mean,
+8:58
+look, look, so again, the phase one was just crypto trading, right? And like it just so happens that we've ended up in a
+9:04
+situation where the crypto trading is done in dollars, denominated in dollars, just like oil trading or gas trading is
+9:10
+done in dollars. But if you look at the crypto market, it's a rounding error within the broader
+9:18
+world of financial services. And just to give you one example, if you just take one single product in
+9:25
+financial service, traditional financial services like out of probably you know tens of thousands or hundred of thousands product granted it's the
+9:32
+largest product it's uh Euro dollar FX
+9:37
+right product. So the daily trading volume on this one single real tread
+9:44
+five product is about an order of magnitude bigger than all the crypto
+9:50
+trading of all the crypto tra pairs on all the crypto exchanges in the world. Right? It's just a single product. And
+9:57
+so now imagine what happens if not just this one product but basically most of
+10:03
+the financial services get tokenized right uh and uh so that the world we're
+10:09
+talking about the universe we're talking about this is literally orders and orders of multitude and then for that to
+10:17
+operate to work I mean you need to have also the currency in which the services
+10:23
+are denominated it needs to be tokenized which is basically a stable coin So this is the opportunity.
+10:30
+This is why we're where I mean actually S&P had a study published like five six
+10:36
+months ago and S&P is standard and poor right? They don't have a horse in this race and so their estimate is that by
+10:42
+2030 the euro stable coin market they're actually so the median estimate is going
+10:48
+to be about 570 billion euros right so I in today's dollars terms like 700
+10:56
+billion which is like double the size of the current dollar stable coin market
+11:02
+right but again mostly driven by real world financial services and So again, this is the this is the
+11:09
+market for which we're building where we we intend to be on it. Martin, can you define these tokenized
+11:14
+financial services and really how they differ from trading? Because I think when you when you may talk to, you know,
+11:20
+the average person or maybe somebody who's kind of financially savvy, they may think, well, what's the difference
+11:25
+between a, you know, trading activity that we bundle in a vault and now that's a, you know, that's a tokenized
+11:31
+financial service. How would you how would you define that term? I I would actually say yeah I mean for me to token
+11:38
+as financial service like what's going to happen is that any product that you have right now in financial services
+11:45
+instead of being run on the current infrastructure will be run on the blockchain right so stocks bonds
+11:54
+payments lending borrowing whatever you you can imagine right now it's run on
+11:59
+these legacy technologies um and we're now moving into period
+12:05
+where you know instead of stocks being traded uh on these you know trading
+12:11
+books using old style ledgers they will be run uh effectively in a tokenized
+12:17
+version you know being on the blockchain and we [clears throat] will have you know really kind of move to the next era
+12:25
+when people will not even realize that these things are run on the blockchain I mean just as right now you're moving
+12:31
+money you're you're sending dollars and you want to pay someone in euros in France,
+12:37
+you don't really think about like what like technology ledgers blah blah blah
+12:43
+your money is going through, right? The way you're thinking about I'm sending money out of my bank account and I want
+12:49
+my friend or the company I'm paying in France to receive money in their bank account in France.
+12:54
+Right now it's being done on these legacy technologies. uh but we're now this is now in the process of being
+13:00
+moved onto blockchain rails and I think really in the future
+13:06
+when this is all kind of said and done people will not even realize this is run
+13:11
+on the blockchain and you know this is also how we're building our company like I think if you need to talk about stable
+13:17
+coins uh and the stable coin technology you know we're still very very very early because at the end of the day what
+13:24
+people care about is money in their bank account uh you know it's it's euros or dollars in their bank account they don't
+13:31
+need to know they don't care about like what form etc they have and one example I use you know here in Europe we have a
+13:38
+company called revolute I don't know if you I heard about it but it's basically a neo bank right and that neo very very
+13:44
+very large it's been around for a while and so technically if you had an account
+13:50
+revolute I mean I was one of the first users of of of very early whatever 10 years ago and technically if you a an
+13:57
+account there whatever six, seven, 10 years ago. The money that you had in the account with them was not quote unquote
+14:04
+real or technically speaking scriptural money. It was electronic money, right?
+14:09
+So they were not quote unquote real euros. I had no idea they were not quote unquote real euros because to me they
+14:16
+were real euros, right? because when I wanted to make a payment out of that account, you know, showed as euros. I
+14:22
+made a payment, euros landing on the other side. And so the fact that this
+14:27
+was not quote unquote traditional money, but electronic money didn't matter. I didn't need to know it. And I think this
+14:33
+is also how we want to think about stable coin. You don't need to know that this happens to be a tokenized euro,
+14:39
+i.e. a stable coin, because you don't care ultimately, right? Ultimately, it's it's it's it's
+14:46
+euros or in, you know, in dollar case, it's it's a dollar. Martin, help us now. We we've kind of
+14:52
+laid that foundation. Help us. How is this coming to life now with Europe? And I'm looking at your website. I see a few
+14:58
+different products. I see Euro payments. I see named accounts, instant settlement. Where where do we start?
+15:05
+Sounds like Yeah, we have we have the stable coin. It's is issued, but once a stable coin issued, the job's not done.
+15:11
+Like what do people do? How do people use it? Help help help us understand how
+15:17
+people are using Europe, what products exist so that they can use it and how this is [clears throat] actually coming
+15:22
+to life. So you can think about it in several layers, but I mean at the core of it is indeed Europe which is the Euro
+15:28
+stable coin, right? And it's like just just like any other stable coin. It's a
+15:34
+stable coin. Now
+15:39
+the really interesting thing is you know what what can you do with a stable coin right you take a normal you know dollar stable
+15:47
+coin you know well you can trade with crypto but maybe you can do some other stuff what we're building is that that
+15:53
+real other stuff right so one area that we've been like developing very early because that's kind of the most advanced
+15:59
+right now when it comes to stable coin usage it's it's payments so um we
+16:05
+basically have built a platform for global payments. And so
+16:12
+what does it mean? Well, I mean, simply put, if you need to make any payment
+16:19
+that touches the euro, so either either starts or ends with euro in a bank account,
+16:26
+we now have the fastest, most efficient
+16:31
+and cheapest way of making these crossber payments. So, if you were to make a payment today using normal bank
+16:38
+account from whatever a bank account in Lithuania to a bank account in a dollar
+16:44
+bank account in whatever uh Montana, it's probably going to take 3 days until the money arrives
+16:52
+and you will probably pay including the FX spreads at least probably like a 1%
+16:58
+uh cost. If you do it through our platform, uh the money arrives in your
+17:03
+bank account in in the US in less than 10 minutes or not three days, but like
+17:09
+hopefully 3 minutes, but certainly less than 10 minutes. And it's basically free. Uh and why is it basically free
+17:15
+and not 1%? Well, because this technology that we've built, it's so much more superior
+17:22
+and it were very much enabled by, you know, traditional financial licenses that we
+17:29
+also have. So, we basically turned the stable coin into something that is now
+17:35
+almost equivalent to money in a bank account. And so yeah, so that's that's
+17:40
+that's you know, payments is one good example, but what we have what we're really building is a more broader
+17:47
+infrastructure for anyone that's providing any kind of tokenized services.
+17:52
+So that when they have customers uh on their platform that keep money on that
+17:58
+platform, uh they will need to be in a tokenized form that a stable coin is
+18:04
+somehow they need to get that money on that platform from their bank account.
+18:09
+And I think just like if you're trading now on Erade, you still need to send money to your Erade. We are providing
+18:15
+that entire platform in putting all the KYC etc. So that people can move money
+18:20
+out of their bank account instantly onto your web3 platform. Uh and it appears there basically in a tokenized form. I
+18:28
+is a stable coin and vice versa. If they basically decide okay I've sold these
+18:33
+shares now I want money in my bank account. Basically, it's a plug-and-play system
+18:39
+where instantly it ends up they can receive it in their bank account. And maybe to explain why, right? So, our
+18:45
+thinking again is we really want to unleash the full power of blockchain.
+18:52
+People will tell you how blockchain is amazing because it's 24/7, it's instant,
+18:57
+no borders, etc. Right? And then you ask someone, okay, so if I sell you a tokenized bond on Friday 7 p.m., you
+19:04
+know, you said it's instant. So that means that I get my money
+19:10
+instantly in my bank account, right? And pretty much every
+19:15
+other platform will tell you, well, you know, well, actually, you know, we're still using a bank and the bank has a cut off
+19:22
+like uh to process the payment and we have a cut off and so and it's, you know, it's Friday evening already, so
+19:28
+it's probably past the cut off. So you get the money on Monday, you know, worst case on Tuesday. Well, then what's the
+19:34
+point of tokenized financial service, right? It's supposed to be 24/7 and instant and I can't get my money in a
+19:39
+bank account instantly. This is the problem with Soul. We have built basically this instant automated API
+19:47
+based platform where if you're using us, you sell my you sell this tokenized bonor platform Friday 7 p.m. or for that
+19:53
+matter Sunday 3:00 a.m. You get money in your bank account the next minute.
+19:59
+Where do you see this specifically like in the first few phases of growth
+20:05
+here? the addressable market for these types of services and and products are
+20:11
+massive, but where do where do you really see um and where is your focus really in this first inning phase where
+20:18
+that like Friday night use case really becomes painfully so like the pain can become so
+20:24
+obvious that someone is uh wanting to use this thing today and maybe in a like real examples would be
+20:31
+awesome. Yeah, I mean right now [clears throat] it's crossber payment, right? Because right now like you know most most people
+20:36
+like most financial services you know bonds equities they're still not run on chain fully right but like one example
+20:43
+is crossber payments for sure there it really matters right because if
+20:49
+you for example if you're a global corporate let alone if you're a money remittance business right you know that
+20:55
+you are sending money from Africa to Europe or from Europe to Latam or wherever like that
+21:04
+you know you send the money today. Well, you also or let me put it differently if
+21:10
+the money is needed on the other side of the world today. Uh you know you so you
+21:17
+send it today but with current systems the money doesn't arrive today. it
+21:22
+arrives three days later which basically means that you need to keep very very
+21:27
+large working capital um on the other side of the world so that you can use
+21:33
+this buffer while you're waiting for the money to arrive. Uh and that you know
+21:38
+capital that you need to have this working capital that costs money. With a system like ours which is instant
+21:45
+24/7 you completely remove the need for any kind of working capital for crossber
+21:51
+payment. So crossber payments is one very very clear area. The other you know
+21:58
+like kind of the web you know tokenized services platform is basically it it's uh crypto trading platforms. uh
+22:05
+you know until recently you could only trade
+22:12
+traditional cryptos. Now increasingly on a lot of platforms
+22:18
+you can also trade bonds in a tokenized form. And the problem that probably we've all of us seen who have used or or
+22:24
+you know ever sold or bought uh cryptos like you see oh man like Bitcoin is now
+22:30
+really down I I really should be buying today but you don't have fiat on your platform right it still sits in your
+22:36
+bank account so like I want to buy it now now like uh but you know with the
+22:42
+legacy systems you go to your bank you send the money to the platform the Kraken or whatever you're using Coinbase
+22:49
+bit Binance and then you're waiting and you're kind of hoping that the money arrives tomorrow and but maybe by the
+22:54
+time the money arrived it's already too late, right? Because the the price already went to where you're no longer
+22:59
+interested in buying it. So again with system like ours like that bankto
+23:05
+cryptoto bank integration is so advanced that you know money
+23:10
+that stable coin and the crypto become synonymous and you can move between the
+23:16
+banking system and three platforms instantly. Martin, I'm curious. We've we've we
+23:21
+talked to a lot of NEO banks. FX is a hot topic right now, but you know, obviously most of these NEO banks are
+23:28
+are dollar ccentric. Um, have you have you is there anything that really jumps out at you to what NEO banks should be
+23:35
+thinking about how they should be thinking about maybe integrating Euro stable coins? um and how even some of
+23:42
+especially some of these B2B banking platforms should be think about integrating you so coins like Europe for
+23:48
+FX and and all these all these various use cases. So the way so and we have
+23:53
+this product now right and we're already integrating with I have integrated with a few neo banks
+23:59
+they should really think about this as their replacement for crossborder or
+24:05
+correspondent banking infrastructure for the cross existing crossber payment infrastructure today if they want to
+24:13
+you know realize a bank in let's say Slovakia where I'm sitting want to
+24:19
+realize a local bank a payment and introd. It's going to go through a whole number
+24:25
+of banks through this intermediary bank. It's a costly and timely and time
+24:32
+consuming system. So if they integrate, we can actually provide them now with the whole infrastructure that they can
+24:39
+now run this crossber payment through us effectively through this uh stable coin
+24:44
+rails. They can run it as I said instantly. So suddenly the customer no longer has to wait three days. It can
+24:52
+you know it's instant and the cost to them is going to be much much lower. So
+24:58
+they can feel some of the savings onto their customers and therefore become much more competitive than with the
+25:04
+tradition. Drew you muted. Yeah. Um can you speak a little bit to
+25:10
+the commercial relationships that Schuman has been able to when when building the system externally
+25:16
+like we've seen um you know the relationship with open effects defense
+25:22
+speak a little bit to some of these key pieces that that you have that you've worked with to make this come to life um
+25:30
+in a way that's really productive and and helpful like how what are some of these key partners in the in the early
+25:35
+days? So, so look when we started we were still kind of thinking in the first era of stable coins uh type of thinking
+25:42
+which was okay we need to be on all the crypto exchanges. So we actually you know by now we're also the most
+25:48
+distributed or listed euro stable coin across all the key exchanges. So that was the first thing. Let's make sure
+25:54
+that we're on all the key crypto exchanges in Europe and particularly those that are actually
+26:00
+have a lot of euro flows. um you know good who are the most significant euro flows
+26:07
+coming from right now exchange wise so Kraken is has been historically uh
+26:13
+probably the most important one there is a Dutch exchange uh which you know sitting in the US you probably wouldn't
+26:19
+have heard of but very important in Europe called Bit Fafo and so I think these are the two most
+26:25
+important one and then you have you know like kind of each country locally has
+26:31
+like its champions all the German speaking countries there's a exchange called bit panda for example so so this
+26:37
+these would be so some of them are global as I said and particularly Kraken being I think the most important one a
+26:42
+lot of them are local so we you know so we started thinking about it so we have relationship with all these exchanges
+26:49
+Kraken actually even invested uh in us early on and one of the things we're doing now like this is not yet publicly
+26:56
+announced so I can't give you details but there is uh the I would say European
+27:02
+in crypto industry has now realized they need to have a strong euro stable coin
+27:08
+that everybody should be using because everybody has kind of realized I think among them for a while that oh we could
+27:14
+you know this is euro things are euro denominated we should have a euro stable coin but everybody was sitting on the
+27:21
+fence and waiting until that really leading euro stable coin emergence right
+27:26
+now there's a few alliance but it wasn't very clear they decided to
+27:33
+basically roughly be the one and potentially build one. So maybe I should stop here uh because
+27:39
+I'm not supposed to announce anything but so let me stop here. I think you
+27:44
+already have enough of a teaser here. I guess you get where this is going. It will be announced within the next couple
+27:49
+of weeks. But then in terms of like other partners
+27:56
+uh you know as I said you know we have like on the FX side we're working very closely with open mics which is now
+28:03
+emerging as the leading block company formed on Gen FX. uh we have very close
+28:08
+close relationship with Ripple uh as a company you know again this is one of the crypto OG companies what we
+28:16
+like about them that you know they've been around for a very long time but their vision always has been a focus not
+28:23
+on crypto for crypto's sake but using the kind of blockchain infrastructure
+28:28
+as the next level you know future of finance type of infrastructure so uh
+28:34
+that's an example um and we're now um actually starting to talk to uh more and
+28:39
+more large corporates uh you know precisely this you know those that need to be doing crossber payments
+28:46
+um telos large global top consulting firms uh advisory firms
+28:54
+etc. So yeah, uh look, we're still like a fairly new company. We only started um
+29:02
+we got a license and launch basically January of last year.
+29:08
+So we're still pretty early, but I think we're still we're already quite advanced. And I would say at this point
+29:14
+we're probably now one of the top we're not probably we are the top four players in the Euro stable
+29:21
+con space and but realistically we're one of the top two. So and we just want
+29:26
+to make sure that very soon it's going to be clear we're not just one of the top two but we are the top one. I think
+29:32
+in terms of infrastructure distribution for sure uh we're already the the leader
+29:37
+on the market. Martin last question from my side. when when you think about phase two as we've
+29:42
+talked about and uh becoming just continuing to to grow and cement the the
+29:50
+stable coin and just the business more broadly in that phase two. What are what's the main thing that you really
+29:57
+need to get right? Like what what is the the the really key priority like crucial
+30:02
+priority for you? What's like the main what's the big idea or the big task that
+30:08
+you're thinking through? I think the big idea is that you really need to have
+30:13
+these comprehensive infrastructure that is not just you know separated
+30:20
+crypto system from today's financial system but that it's sort of real time
+30:28
+integrated with the existing financial system and particularly the banking systems. So I think we've already build
+30:36
+that build that product. This is why you know with us you don't need to wait to
+30:41
+mint and burn for you know minutes let alone hours let alone the next day like
+30:48
+everything is just in time it's fully automated so that's one number two we
+30:53
+are starting also to work on agentic payments uh we really believe that this agentic economy
+30:59
+is like going to be really huge very quickly and so we want to make sure that
+31:05
+as payments move and become more and more agentic like we are the number one player for this in Europe. And number
+31:11
+three, we just really need to make sure that initially all the kind of key
+31:19
+fintex digital asset native companies rally be rally behind us uh behind our
+31:25
+stable coin and start using our infrastructure and so that we become basically the default. uh because if we achieve that
+31:32
+then also all the traditional financial services you'll kind of have no choice right I mean without naming anyone I
+31:38
+mean today if you are doing something dollar denominated you probably have one or two choices logical ones right who
+31:46
+you're going to use I mean the choices there's many choices but you're likely to rally behind one or one or two
+31:52
+because they are by far the biggest one everybody else is using them this is the goal for us to make sure that as quickly
+31:58
+as possible when you think You're a stable coin uh and you're a stable coin provider. You always think Europe. Who
+32:05
+else? Yeah. Awesome. Martin, thank you for the time and this is fun to to get inside your mind a
+32:11
+little how you're growing the business. Likewise, thanks guys. Great to be here. I really appreciate it and thanks so
+32:17
+much. Speak soon. Cheers. Nice one.
+

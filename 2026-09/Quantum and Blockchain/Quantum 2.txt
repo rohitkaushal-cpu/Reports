@@ -1,0 +1,227 @@
+
+Search transcript
+
+0:011 secondThe Postquantum [music] Experience presented by NEOX Protocol.
+0:066 secondsWelcome back to the Postquantum Experience presented by NEOX Protocol postquantum layer 1. Today we're joined by a very special guest, Richard Lee,
+0:1414 secondswho's the chief business officer at Aelian. Richard, it's a real pleasure to have you on. How you doing today?
+0:2020 secondsDoing very well, Natt. Thank you for having me on.
+0:2323 secondsIt's a pleasure. So yeah, before we get into Aelian, I'd like to know a little bit about you for our audience and and personally, you know, how you got here.
+0:3131 secondsTell us about your career. Where did it start? How did you end up in crypto and and what does the chief business officer
+0:3939 secondsof, you know, a postquantum infrastructure actually do with with your time?
+0:4444 secondsYeah. Um, so it's everyone takes a funny funny path to crypto, right? I I actually started
+0:5252 secondsmy career out in the US. I'm originally from the US. After university, I worked for a couple big corporates unrelated to
+1:001 minutetechnology, I would say, and those were in functions of of accounting. I helped build background systems and so forth.
+1:081 minute, 8 secondsAlways knew I wanted to do business school. And so when the time came about and this was in mid 2000s I had the choice between the US some of the US
+1:171 minute, 17 secondsschools so USC, Texas maybe go to the east coast and New York or I could go to Hong Kong where where I am now and I
+1:261 minute, 26 secondsdecided to jump to Asia because there was quite a lot of development out here and I've always been a big believer in
+1:331 minute, 33 secondsthe idea that a rising a rising tide lifts all boats and so hey why not jump on the surf and see if I can uh build a
+1:411 minute, 41 secondscareer out here. And that was about 16 years ago that I made that move out here to Asia. My first position out of after
+1:501 minute, 50 secondsbusiness school, I was working with a supply chain company, very traditional business, essentially the middleman
+1:561 minute, 56 secondsbusiness. We were the connector between US and European brands for apparel and
+2:032 minutes, 3 secondsfactories out here in Asia, whether it was China, Bangladesh, Vietnam, so forth. there I was working along different functions whether it was
+2:112 minutes, 11 secondsstrategy business development uh a lot of actually jumped into tech enablement at that time learned about blockchains
+2:192 minutes, 19 secondsuh learned about LLMs and how that might apply to such a traditional business co hit and it it really turned the supply
+2:272 minutes, 27 secondschain industry upside down and I had a rethink about what I wanted to do and as as we know during co that was also one
+2:352 minutes, 35 secondsof the run-ups of of crypto industry. I had the opportunity through a connection, professional connection to
+2:442 minutes, 44 secondsjump into a enterprise blockchain company out here in Hong Kong. That company was DT. So, it wasn't
+2:512 minutes, 51 secondsnecessarily like a permissionless type of business. It was building DT systems for the likes of financial institutions,
+2:592 minutes, 59 secondsinsurers, and and other big corporates out here. they had a pretty good list of of customers when I joined and we continued to build that out. So that was
+3:083 minutes, 8 secondsmy initial foray into quote unquote crypto crypto industry and uh through that experience I also got connected to
+3:153 minutes, 15 secondsthe billion team and that's where I started working with uh the public chain a billion this postquantum chain and I I
+3:233 minutes, 23 secondswas very blessed to be one of the early founding members of the a billion team initially just really helping out on
+3:303 minutes, 30 secondslooking at market entry seeing where where from an adi advisory perspective where we can really operate, how we can
+3:383 minutes, 38 secondswork and so forth. And yeah, that since then that's that's where I am. I'm I'm a currently chief chief business officer
+3:453 minutes, 45 secondsAbillion. And what my role is is essentially turning all of the very technical aspects of a billion and also
+3:533 minutes, 53 secondsthe technical founders dreams into really more commercial reality. So, I I focus on a lot of partnerships, uh,
+4:004 minutesfocus on commercialization, seeing where we can really build a long lasting business for a billion.
+4:074 minutes, 7 secondsThat's really cool. Thanks for the insight. I mean, you're bringing your kind of traditional expertise into the, you know, the crypto landscape, which is
+4:154 minutes, 15 secondskind of becoming a bit bit more of a theme in the last couple years, which is great because you can see the the effects it's having in the industry,
+4:224 minutes, 22 secondswhich is maturing, you know, and yeah, super super interesting. and Aelian itself went live in 2022 right most of
+4:304 minutes, 30 secondsthis industry couldn't you know understand quantum let alone you know postquantum so I guess for anyone meeting a billion for the first time
+4:404 minutes, 40 secondswhat is it what did it actually take to to ship a postquantum mainet a couple years before you know these standards even existed
+4:484 minutes, 48 secondsyeah so so we were definitely early to the party and I would say that uh we we're actually quite lucky for for the
+4:554 minutes, 55 secondscircumstances that we have. If I could share a little story about how we came about to ship that main net. Our founders, our founders are actually four
+5:035 minutes, 3 secondsacademics. They're coming from the areas of academia research, having done years
+5:105 minutes, 10 secondsand years of hardcore cryptography and quantum research. They met a few years
+5:175 minutes, 17 secondsbefore a billion was shipped and went live in 22. They met at a conference called Asia Crypt. And this is I'm not
+5:255 minutes, 25 secondssure if you're familiar or if the audience is familiar, but this is where the cream of the crop of cryptographers
+5:325 minutes, 32 secondsgo to discuss things that are beyond my comprehension from a technical perspective. But they they found firstly
+5:405 minutes, 40 secondstogether they found that they had common interests and they found that the research that they were working on could really be practically applied to a
+5:485 minutes, 48 secondsblockchain. And one of the things that they were very interested in at the time was actually the growth of Bitcoin. And
+5:555 minutes, 55 secondsthey saw that one of the major issues with Bitcoin was that it was not secure uh for for the postquantum era. And so
+6:036 minutes, 3 secondsat that time they started ideulating and and came up with the idea of uh building a billion and and how that might look.
+6:106 minutes, 10 secondsAnd actually around that time they also put in the idea about privacy tiers.
+6:166 minutes, 16 secondsPrivacy and post-quantum mechanics actually go hand in hand. And so it was a natural derivation of their research
+6:256 minutes, 25 secondsto include this within the foundation of of billion. [sighs] Um one of one of our founders he he
+6:326 minutes, 32 secondsactually was a co-founder of the linkable ring signature that's used in Monero. He's continued his research
+6:406 minutes, 40 secondsafter developing that and you'll see some of these elements have been built into a billion and so and so 2022 we're
+6:486 minutes, 48 secondsdefinitely very early to ship but it it it was really a it came from them and their research and and their their
+6:566 minutes, 56 secondsinterest in in solving what Bitcoin's issue was with not having post post quantum security.
+7:037 minutes, 3 secondsWow, that's really really cool. I guess it's always impressive and and fascinating to see when you know team
+7:117 minutes, 11 secondssuper early to a a problem that doesn't necessarily exist in most people's eyes, you know. So, you know, kudos to to your
+7:187 minutes, 18 secondsteam for being super early on that. And now we're seeing it in 2026. It's almost the year of, you know, the great quantum
+7:257 minutes, 25 secondsawakening where the whole industry is, not just crypto, awaken up to the fact that, you know, they're going to have to migrate to postquantum cryptography by,
+7:347 minutes, 34 secondsyou know, 2029, 2028 in some predictions. If various, you know, companies stick to their road maps, it's likely going to be 2029, right? So,
+7:437 minutes, 43 secondsyeah, seeing that potential, you know, years before is uh is is really cool to see. So I guess fast forward to March
+7:517 minutes, 51 secondsthis year, right? And then Google made kind of two big moves in the same week and you know I wanted to speak to you about this. So they first set their own
+8:008 minutesdeadline to migrating to postquantum cryptography to 2029 ahead of the the US federal dates and then their Google
+8:088 minutes, 8 secondsquantum AI team published a paper securing elliptic curve cryptographies against quantum vulnerabilities which
+8:158 minutes, 15 secondskind of shook up the whole industry and and in it Google points to to you guys among other projects as one of the the
+8:228 minutes, 22 secondsfew chains already kind of running entirely on on postquantum cryptography.
+8:278 minutes, 27 secondsSo congratulations on that. But did you did you know that was coming and you know what did that change for you if anything being being named in such a you
+8:368 minutes, 36 secondsknow prestigious report? We we were caught completely off guard. I I I actually remember when I found out I
+8:438 minutes, 43 secondswas on holiday in Japan and we were near Mount Fuji and shook up I think is a really good word because I thought what
+8:528 minutes, 52 secondswas going on? It feels like it was it was a bit surreal. I I knew that the tech that we were developing was very
+8:598 minutes, 59 secondsstrong and I I felt very proud that our team was named in that named and very positively in that paper and it it's
+9:089 minutes, 8 secondsit's actually changed quite a lot. I would say it's given a lot of publicity to us and us being Asia based has in the
+9:159 minutes, 15 secondspast left us a little bit on the I I would say a little bit more quieter in the world development of postquantum
+9:229 minutes, 22 secondschains and so forth. when I visit the US or I I go to Europe and I speak to some of some of the other chains and companies like you guys, it feels like
+9:309 minutes, 30 secondsyou guys are quite far ahead and there's definitely a strong ecosystem out here in Asia. I feel like it's a little bit more dispersed and so it was good. It
+9:399 minutes, 39 secondswas it was definitely a a great site and great news for us that they they named us so positively. Yeah, for sure. I mean
+9:479 minutes, 47 secondspersonally it was you know how I stumbled across you guys reading it and getting to know a little bit more about you from from the paper. So I'm sure you
+9:559 minutes, 55 secondsknow it's the same you know across various you know communities also. So you know the postquantum on its own is
+10:0410 minutes, 4 secondsis hard. So most teams are kind of just approaching that now or stopping there.
+10:0910 minutes, 9 secondsYou guys did that and privacy at the same time right? So yes, just from the outside probably makes makes it look like you're you're making your lives difficult, but why why both?
+10:2010 minutes, 20 secondsWhat what does it, you know, a latisbased signature hide and you know, privacy isn't just one setting on on a
+10:2710 minutes, 27 secondsbillion? So yeah, why did you choose both?
+10:3010 minutes, 30 secondsYeah. Yeah. So this this actually came out of the a lot of the research that the four founders came out with and uh we can call them the fantastic 4 or
+10:3810 minutes, 38 secondswhatever it is but whatever combination of their research it it really went into to a billion u privacy was one of the things that was very important to them.
+10:4710 minutes, 47 secondsI I think part of the initial thought process when we were we were ideulating
+10:5410 minutes, 54 secondson a billion was that the use cases could be more institutional and one of the things that we see out here in Hong
+11:0211 minutes, 2 secondsKong working in corporates having connections and discussions with financial institutions we know that financial institutions can't be on a
+11:1111 minutes, 11 secondspublic ledger ledger fully public privacy is important and auditable privacy is important and So we thought
+11:1911 minutes, 19 secondsearly on uh and built into the foundation of of the billion was that privacy was necessary and and if we are
+11:2611 minutes, 26 secondsable to tar it according to the different use cases and the the needs of whatever user was using a billion then that would be much better. So for
+11:3511 minutes, 35 secondsexample, if it's a individual sovereign uh someone who is maybe high netw worth wealth user or whatever they want to
+11:4411 minutes, 44 secondsaccumulate assets they don't want anyone to see their privacy or they don't want anyone to see their assets and so um we
+11:5211 minutes, 52 secondshave a full privacy tier to be able to cater to that still auditable. We have a second one which is accountable privacy.
+11:5911 minutes, 59 secondsEssentially this is for institutions.
+12:0112 minutes, 1 secondInstitutions that don't want to share their trade secrets, transactions and things like that who they're transacting with. They have they can share auditable
+12:1012 minutes, 10 secondskey accountable key to authorities, regulators and so forth. And uh through that they're they're still can be
+12:1812 minutes, 18 secondsremained private but still be compliant to the laws. And then lastly is transparency. There's a transparent tier
+12:2512 minutes, 25 secondsand this is for the use case of any company corporation or possibly like a
+12:3212 minutes, 32 secondsDAO treasury where public verifiability is necessary. So everything needs to be on the ledger in public. We allow that
+12:4012 minutes, 40 secondsas well on our infrastructure. That's really cool. I mean the privacy narrative has been you know controversial in the last couple of
+12:4812 minutes, 48 secondsyears and it's you know almost hit a bit of resistance at times but personally I think it's going to be one of the most important narratives moving forward
+12:5612 minutes, 56 secondsalong with quantum postquantum. So I think the combination of both is is going to be really interesting to see that unfold and super useful for you
+13:0513 minutes, 5 secondsknow a variety of different customers. I guess on the engineering side of that, you know, the postquantum signature, you
+13:1213 minutes, 12 secondsknow, side of things, you you utilize latises, which is similar to us, I believe. And so latises combined with the privacy is kind of multiplied. So
+13:2113 minutes, 21 secondswhat what did it take to to make confidential latis transactions, you know, practical?
+13:2713 minutes, 27 secondsYeah. Yeah. So, so we make ample use of uh whatever technologies are available to us in terms of like zero knowledge
+13:3413 minutes, 34 secondsand so forth. And actually, if you dig down into some of our of our publicly available information, um you'll find
+13:4213 minutes, 42 secondsthat our some of our algorithms are actually, how do you say, sorry, they're pathant to us. They're they're they're specific to to what we do. And so in in
+13:5013 minutes, 50 secondslayman's terms, what how I understand it is we are able to not sacrifice any of
+13:5813 minutes, 58 secondsthe security or the privacy elements but still be able to trim those transactions so that they are not not humongous, not
+14:0614 minutes, 6 secondsso big that they don't can't fit. And uh we've we found a elegant way to be able to to enable that. Moving forward
+14:1314 minutes, 13 secondsthough, we do have a very very big announcement that we announced should have been about a month ago. One of our
+14:2114 minutes, 21 secondsfounders announced it's called the Blanc fork and that's our foray into cryptographic agility. And essentially
+14:2714 minutes, 27 secondswhat it is is it's the ability for us uh and and the users as well to be able to
+14:3414 minutes, 34 secondsswitch out the different algorithms postquantum secure algorithms without changing any of the code or any of the
+14:4214 minutes, 42 secondsuh underlying infrastructure. And so once this fork goes through we will be able to let users pick and choose
+14:5114 minutes, 51 secondsactually which which type of cryptography they want to use. And so this is a big step for us. It's in development and we're expecting that to
+14:5914 minutes, 59 secondsdeliver if not end of this year, early next year.
+15:0215 minutes, 2 secondsThat's amazing. And I have heard recently a few more whispers about, you know, that that term crypto agility. So, it's interesting to see you guys also
+15:1015 minutes, 10 secondslaunch something because I, you know, the the standards are still kind of being finalized. They're being set.
+15:1515 minutes, 15 secondsThey're being tested. There's various different, you know, signature schemes that are always in the works. Some are being hacked. Some are, you know, are being let go and more are being
+15:2415 minutes, 24 secondsdeveloped. So I think that's going to become super important especially as we approach these you know deadlines
+15:3015 minutes, 30 secondswhether you know the signature schemes that are setting stone are used or they're not or people are unsure. I think the the most important thing is
+15:3815 minutes, 38 secondsthat you know you you prepare early and you you utilize some of the signature schemes that are quantum resistant right now even if maybe in the future they
+15:4715 minutes, 47 secondsmight not be. But the agility part is going to become super important especially for the majority of of the chains and projects that have such heavy code and they do need to migrate know.
+15:5715 minutes, 57 secondsSo that's that's that's really interesting. I'd love to to dive deeper into that. But you also went a step further. I've been digging into you guys
+16:0516 minutes, 5 secondsa little bit cuz you know the whole model is is pretty interesting and there's various different layers to it.
+16:1016 minutes, 10 secondsSo you have the the token protocol, right? the the AU protocol which lets anyone you know issue quantum resistant
+16:1816 minutes, 18 secondstokens and you made a point of that you know for working for non-coders as well as developers. So you know why open that up and and what have people actually built on it if if anything so far?
+16:2916 minutes, 29 secondsYeah. So why open it up? I think us we see ourselves as infrastructure. We want to be an ecosystem player. Um but we
+16:3816 minutes, 38 secondsunderstand that ecosystem is only as good ecosystems growth is only as good as all the developers and the community
+16:4616 minutes, 46 secondsthat's around it. So we saw it necessary to actually have a way for uh for the community to build and be able to
+16:5316 minutes, 53 secondsleverage on our our postquantumness. And so that's where the AUT was born out of that thought process. We also understood
+17:0217 minutes, 2 secondsthat privacy again privacy was going to be a point of interest and so we introduced AUT with the ability to have
+17:1217 minutes, 12 secondsthose different tiers of privacy. So whatever token issuance developers want
+17:1817 minutes, 18 secondsto use, they can build their D app or whatever it is with those privacy privacy tiers in mind. We've had a few
+17:2717 minutes, 27 secondsdifferent projects come to us with different types of business models and none of them have I would say none of them have shipped directly yet. Some of
+17:3517 minutes, 35 secondsthem are doing test nets but some of the interesting points of business models that they've been coming out with are
+17:4217 minutes, 42 secondsstable coin. So, uh, stable coins is actually a very practical use case to leverage on our AUT infrastructure and
+17:5117 minutes, 51 secondswe see some of these ecosystem partners could actually could potentially pull quite a lot of volume through those
+17:5917 minutes, 59 secondsstable coins and that is going to be an interesting use case I think uh, for something built on top of us. Now, now I wanted to go back actually to that point
+18:0718 minutes, 7 secondsof cryptographic agility because you it is very very interesting. I I love talking about this and and sorry if I'm I'm switching back the topic.
+18:1418 minutes, 14 secondsNo, no, go for it.
+18:1618 minutes, 16 secondsBut when we when we talk about the blog fork and when we've had internal discussions about crypto agility, our
+18:2418 minutes, 24 secondstime horizons when we're thinking about it is actually in terms of decades. I know I know a lot of the times actually not a lot of times but in the in the
+18:3318 minutes, 33 secondsrecent few months as quantums come to the forefront of people's minds people are thinking about okay what's going to happen within the next 3 years next 5
+18:4118 minutes, 41 secondsyears and we need to prepare for that but what we what we know and what we our assumptions are is a lot of actually
+18:4918 minutes, 49 secondsthese signature schemes that are already confirmed by NIST or by the by the
+18:5618 minutes, 56 secondsEuropean authorities they they will be broken just because of the advent of AI and quantum together. And so we feel we
+19:0519 minutes, 5 secondsfelt it necessary to introduce that crypto agility capability and also being out here in Asia, China has not
+19:1319 minutes, 13 secondspublished any any standards yet and they've they've delayed their their standards uh publications and so that's
+19:2119 minutes, 21 secondsanother big player right that we have to keep keep in mind. And so I think any practical company that's building
+19:3019 minutes, 30 secondsinfrastructure for the next 20 years, 30 years, 50 years should have the ability
+19:3619 minutes, 36 secondsto be agile on the cryptography that the infrastructure is based on.
+19:4119 minutes, 41 secondsIndeed. And that's I guess been a problem with the, you know, current encryption and security methods, right?
+19:4819 minutes, 48 secondsThey're not they're not really agile and they're re we rely on cryptography from the 1980s you know and now the issue is that we have to upgrade all systems have
+19:5619 minutes, 56 secondsto upgrade they have to migrate and that's a huge task for for governments for nations for companies so I think
+20:0320 minutes, 3 secondsthat agility is going to become super important especially you know as you mentioned with the convergence of AI and quantum the kind of singularity event
+20:1220 minutes, 12 secondsthat that's likely going to happen right so yeah that agility side of things is going to extremely important until hopefully a day comes where you know
+20:2020 minutes, 20 secondsthere's not going to be any more developments and you know the security systems are safe but you know who knows if that day will ever come. I think you
+20:2820 minutes, 28 secondstouched on a an important topic there about China and nations which is you know what I wanted to get into because I believe you guys have also been you know
+20:3720 minutes, 37 secondsworking with some banks attending congress with banks and so on but you know governments are spending on on two fronts they're they're building the
+20:4520 minutes, 45 secondsmachines and they're also you know migrating away from cryptography those that those machines will break in the US I believe you know they they've signed
+20:5420 minutes, 54 secondstwo executive orders set for 2030 for federal encryption and 2031 the signatures and the the White House have
+21:0221 minutes, 2 secondsput you know a couple million a billion dollars behind their national program here in the UK even the national quantum strategy is 2.5 billion pounds with
+21:1121 minutes, 11 secondsanother2 billion added this year France Japan Korea you know various nations across the world are now racing and it
+21:1921 minutes, 19 secondsseems like every time a domino falls or a country moves another country hits back and you know it's kind of like quantum ping pong Most, you know,
+21:2821 minutes, 28 secondsquantum cryptography is around a billion now. So, projected at 13 billion by 2035 and over 12 billion went went into
+21:3621 minutes, 36 secondsquantum startups last year alone. And you're watching all of that, you know, all of this unfold from Hong Kong as you mentioned and most of our audience
+21:4521 minutes, 45 secondswatching, you know, is Europeanbased, US-based. Do you think Asia is, you know, further ahead on the quantum resilience and the quantum kind of, you
+21:5421 minutes, 54 secondsknow, acceleration? You know, I know China keep things close to their chest, but you know, China, Japan, Korea, Singapore, Hong Kong are all moving, you
+22:0322 minutes, 3 secondsknow, in different directions. So, where do you, you know, where do you see the money going? You know, quantum power, postquantum, how do you see, you know,
+22:1122 minutes, 11 secondsthe compares to, you know, the West, so to speak?
+22:1422 minutes, 14 secondsYeah. Um, maybe I can come from the angle of Hong Kong's positioning and Hong Kong's positioning has always been the gateway to Asia for for the West.
+22:2322 minutes, 23 secondsAnd I I feel like from the postquantum postquantum theme, it can play a similar role. Hong Kong is very embedded with a
+22:3222 minutes, 32 secondslot of international financial institutions. The three financial centers in the world are New York, London, and Hong Kong, right? And so
+22:4022 minutes, 40 secondsit's it's been a very practical discussion and again at the forefront of everyone's minds when we're speaking to
+22:4822 minutes, 48 secondsjust contacts in whether it's at the HKMA which is which is the Hong Kong Monetary Authority or contacts that we have at some of the bigger banks out
+22:5722 minutes, 57 secondshere for example like the HSBC's and so forth they have they have PQC readiness postquantum cryptography readiness at
+23:0523 minutes, 5 secondsthe forefront of their minds and I I think that's great for the industries and the corporates out here from a actually startup perspective. I mean
+23:1423 minutes, 14 secondsfrom our perspective it it's good as well because it helps to further the strong research bases that are out here.
+23:2223 minutes, 22 secondsThe universities I think out here are are are leaders within the world in terms of furthering postquantum
+23:2923 minutes, 29 secondscryptography signature research and so forth. And so I think Asia definitely is
+23:3623 minutes, 36 secondsan area that that can lead in the world especially from the research perspective and then how that may apply to the corporate world to the business world.
+23:4523 minutes, 45 secondsInteresting. Yeah. I mean our industry you know we talk talk about this issue as a crypto problem right but the same
+23:5323 minutes, 53 secondscryptography runs the banking system and the financial systems. So yeah from from your perspective the banks are you know they're approach they're approaching it
+24:0124 minutes, 1 secondbut it's more kind of research phase at the moment awareness phase from my understanding I'm seeing a few more you
+24:0824 minutes, 8 secondsknow opportunities arising and you know research phases arising for various banks over here but I don't believe there's any kind of integrations
+24:1724 minutes, 17 secondshappening yet or any timeline so to speak is that your you know understanding also out here in Asia it feels like the the
+24:2424 minutes, 24 secondsbanking authorities are are pushing ing the banks to migrate. They don't have a specific timeline though for them. I think if we're talking about like a
+24:3324 minutes, 33 secondsregulation or authority perspective, US is probably the the the fastest in terms of the expected timeline for financial
+24:4024 minutes, 40 secondsinstitutions. But out here in Asia, I I I don't believe there there's a deadline for for these banks. But at the same
+24:4824 minutes, 48 secondstime, everything's so globally integrated and and one of the one of the major things as we've been speaking to these these guys, they recognize that
+24:5724 minutes, 57 secondscounterparty risk is a huge thing for them. So, it's not just the bank itself that needs to be PQC ready. It's it's also the custodians that they work with.
+25:0625 minutes, 6 secondsUm, everyone that integrates in with them because as we know within security, you're only as strong as your weakest
+25:1325 minutes, 13 secondslink, right? And so that applies to PQC as well.
+25:1725 minutes, 17 secondsIndeed. So looking forward, you know, we've spoken about various different aspects of the quantum landscape at the moment, but what's next for for a
+25:2625 minutes, 26 secondsbillion? What are you, you know, building right now that people will potentially see over the next 6 to 12 months, if you can reveal?
+25:3325 minutes, 33 secondsYeah. So, so a blank fork, that's definitely a big thing. our our team is working hard day and night on this
+25:4125 minutes, 41 secondsgetting trying to get that out as soon as possible. On another aspect of it, we are a proofof work blockchain and so we
+25:4925 minutes, 49 secondsare actively helping the community to grow. And so part of that is democratizing the mining aspects of everything. And so you'll see some some
+25:5725 minutes, 57 secondsannouncements very soon regarding home miners and and things that we will be introducing for the community to really
+26:0526 minutes, 5 secondstake part in decentralizing and securing the network.
+26:0826 minutes, 8 secondsI'd love to hear it. It's shipping season. Yes.
+26:1426 minutes, 14 secondsSo Richard, go ahead.
+26:1726 minutes, 17 secondsRight in time for that four-ear cycle, right?
+26:1926 minutes, 19 secondsThere you go. Exactly. Timing. Timing couldn't be better. So yeah, we end every episode the same two ways. So you know, our audience can compare answers
+26:2826 minutes, 28 secondsand you know, just learn from from our guests who have, you know, vast experience in business and life. So one
+26:3526 minutes, 35 secondspiece of advice from your experience in business, in crypto, in life, and travel.
+26:4026 minutes, 40 secondsYeah. Be open-minded and flexible. I think that's that's one of the things that in an everchanging world it's necessary whether whether it's
+26:4926 minutes, 49 secondsrelationships or uh business career um be open-minded to what can come next and yeah explore those opportunities.
+26:5726 minutes, 57 secondsYeah, I love that. Couldn't couldn't agree more. And finally, your Qday prediction if you have one a year and why?
+27:0527 minutes, 5 secondsThis is a hard one. This is a hard one.
+27:0727 minutes, 7 secondsI I I would uh maybe stick to the some of the more openly published years of I I would say 2030. 2030 is I think a hard
+27:1727 minutes, 17 secondshard deadline for everyone, especially for things that really matter like our bank accounts and things like that. Your
+27:2427 minutes, 24 secondsyour Bitcoin wallet. It's very very important to be secure by then.
+27:2827 minutes, 28 secondsCool. Yeah. Hard to it's hard to argue with that. Yeah, Richard, this this was brilliant. Thank you, you know, for your time and your expertise. It's been
+27:3527 minutes, 35 secondsreally interesting to learn more about a billion. Hope to have you and your team on the the podcast again soon and I'm looking forward to see where you know
+27:4327 minutes, 43 secondsour relationship goes from here and potential collaboration and partnership opportunities between our companies. So yeah, everyone listening, go and follow
+27:5027 minutes, 50 secondsRichard Abellion and the team. They've been doing this, you know, longer than almost anyone in the space and they're really worth paying attention to. So all
+27:5827 minutes, 58 secondsthe links will be, you know, at the in the comments and, you know, the rest of the series is running live. We have some exciting guests joining us over over the next couple weeks too. So stay tuned.
+28:0828 minutes, 8 secondsRichard, thanks again. Lovely to have you on.
+28:1028 minutes, 10 secondsThank you so much. That the postquantum [music] experience presented by NEOX Protocol.

@@ -1,0 +1,1069 @@
+
+Search in video
+0:00
+Every blockchain in the world today rests on a piece of math that a large enough quantum computer could unravel.
+0:07
+Algarand [music] has put a date on its answer to that, 2027. [snorts] Today I'm incredibly honored to be
+0:14
+joined by the two people at the foundation that are leading that effort. I'm Mark Vandleberg. I'm the head of
+0:20
+strategy and marketing at the foundation and I'm joined by Bruno who is the chief technic officer of the foundation and
+0:26
+[music] professor Chris Pikert who is our chief scientific officer. I know that both of you guys are incredibly modest so rather
+0:34
+than having you introduce yourself I'll have Bruno introduce Chris and Chris introduce Bruno. Bruno go ahead.
+0:41
+Okay thanks for that Mark. So uh like to introduce Chris. So Chris has been
+0:46
+working at Algorand for I think around five years. Chris is very well known in
+0:52
+the cryptography world. He has massive contributions to latisbased
+0:57
+cryptography. He helped us tremendously. Uh he also likes to play tennis. I know
+1:03
+this little fact about Chris and we are so honored to have Chris working with
+1:08
+us. Has been a blessing. you know, learning so much every day. And yeah, thanks thanks for uh being with us,
+1:15
+Chris. And uh introducing Bruno, our our chief technical officer for the foundation. Uh
+1:21
+Bruno's got several years in the blockchain and and web3 uh industry. He
+1:27
+previously worked uh with on Cardano and also at Consensus. and uh he's done a
+1:34
+bunch of work uh very useful in uh key management systems and web 3 and uh
+1:40
+software development applied cryptography more broadly. Uh he's worked in other industries like uh
+1:46
+gaming and and sports betting and uh now he's with us as CTO of Algrand.
+1:52
+Phenomenal. Well, thank you both. Thank you both for joining. So maybe let's start with establishing the foundation.
+1:59
+Um Chris blockchains I mean lean heavily on public key cryptography built on
+2:04
+electric curves in plain terms what is the cryptography doing for a network
+2:10
+like Algarand. Sure. Yeah. Uh so you know the foundation of cryptocurrency is
+2:16
+cryptography. That's what the crypto stands for. And cryptography is all about getting security in these very
+2:24
+distributed networks like the internet and blockchains where we rely on uh very
+2:29
+sophisticated mathematics to have uh problems that are hard for attackers to
+2:35
+break and that's what gives the security of uh you know authentic transactions
+2:40
+and fast finality that we have in the Algrand protocol and lots of other important uh functionality and security
+2:48
+and efficiency properties of uh blockchains. So all of these features
+2:54
+rely at the very fundamental level on the security of the underlying cryptography. And again that's based on
+3:01
+mathematical problems that are supposed to be hard for attackers to break. And
+3:06
+uh the the bad news uh is that a lot of the cryptography that we have been
+3:11
+relying on for several decades in blockchain space and in the internet
+3:17
+more broadly uh that cryptography will be broken if there are ever largecale
+3:23
+quantum computers uh built and there's been a lot of progress toward that goal
+3:28
+and and you hear a lot of conversations about Shor's algorithm and so and that's
+3:34
+an algorithm based my understanding is correct that's been optimized specifically for quantum computers and
+3:39
+why is it that a shor's algorithm is able to break elliptic curve cryptography where classical computers
+3:45
+wouldn't be able to do that right um shor's algorithm is an algorithm for two very fundamental uh
+3:52
+cryptographic problems one is known as integer factorization uh that problem's not as uh central to the blockchain
+3:59
+world but it is very widely used uh on the internet uh with the RSA system for example
+4:05
+Uh and then the second problem that Shor's algorithm solves very well is called uh discrete logarithm problem and
+4:11
+that's the basis of elliptic curve cryptography which is very widely used in the blockchain industry. Um the
+4:18
+algorithm is a is a quantum algorithm. You have to run it on a quantum computer in order for it to actually work as
+4:24
+designed. And uh it uses these you know very interesting um you know subatomic
+4:31
+phenomena of quantum mechanics to do these kinds of uh discrete logarithm
+4:36
+computations much much faster you know exponentially faster than we know how to do them on uh ordinary uh today's
+4:44
+computers and so Shor's algorithm if we ever get a computer a quantum computer that is uh large enough scale to run it
+4:51
+it will be able to break uh all this cryptography And Bruno, what's the what's the impact
+4:57
+of that? Like what are some of the attack vectors? I mean, we use elliptic curve cryptography to secure
+5:03
+transactions and propose and vote on blocks. What what are some of the attack vectors that's a quantum computer has to
+5:10
+be able to kind of mess with those things? Yeah. So in in our case in particular
+5:16
+and most blockchains uh it will be as easy as as long as you have somebody's public key which in the case of Algarand
+5:24
+looking at the ledger we encode these public keys in in a specific format it gives us this are 58 characters but
+5:32
+those are direct encodings of public keys. So if a quantum computer would come online tomorrow, you can look at
+5:39
+the ledger and and you have a direct sort of attack vector by going account
+5:46
+by account and trying to run Schnor's algorithm in in some systems uh do hash
+5:53
+these keys instead of just disclosing them uh in a in a ledger. So those that
+5:59
+are not ledger based, they they have uh other formats to store the uh their
+6:04
+books. Uh sometimes they need signatures to be disclosed to get those public keys. They're still not immune to shores
+6:11
+uh algorithm. Uh this is the case with Bitcoin for example, but also means that
+6:17
+right when you use your account, you're you're vulnerable exposed. So there's no real blockchaining system today uh that
+6:24
+relies on a curve cryptography that is immune to this. the the whole state of
+6:29
+these ledgers uh are at the mercy of these appearing tomorrow. So that's the most immediate impact. There are other
+6:37
+things that maybe there with elliptic curve you can do these key agreements you can do some more fancy things those
+6:43
+are uh affected as well. Uh if you can capture the public keys even even today
+6:51
+if you can see the secure channels uh as long as you have these public keys these quantum computers are a real threat. So
+6:57
+uh nobody is safe. I will comfortably say that if you id the curve it's at the
+7:04
+mercy. So so let's talk about like how real this danger is like you know there's
+7:10
+been talks about quantum crisis for a long time like like quantum has always been 10 years away for like 20 years or
+7:15
+so. So is this is this actually a real threat? Chris, can you maybe talk us
+7:21
+through some of the drivers uh of what drives the progression towards quantum
+7:27
+computers and how is how is the danger becoming more real? Sure. Yeah. The initial conception like
+7:34
+theoretical idea of a quantum computer was back you know in the early 1980s uh
+7:40
+with this idea that hey if we used quantum mechanics we could maybe build computing devices that work in very
+7:46
+different ways from from the kinds that of computers that we've been building
+7:51
+for you know decades and decades. Um what's changed a lot is uh in the recent
+7:56
+years is the amount of attention and resources going into uh building a large
+8:02
+scale quantum computer that would be uh of you know size enough to break cryptography. Um there's a bunch of
+8:10
+different factors that go into making a large scale quantum computer and running
+8:15
+shores algorithm on it. Um, one of the factors that has gotten a lot more
+8:21
+attention recently is the idea of exactly how many resources or what kinds
+8:26
+of resources you need to actually run uh, shores algorithm on a real device. And so that's an algorithmic question.
+8:33
+That's like a purely, you know, mathematical question. And uh we saw this paper that came out of uh Google AI
+8:40
+month or two ago um where they showed basically a 10 to 20fold improvement or
+8:46
+decrease rather in the number of uh what are called cubits or quantum bits needed
+8:51
+to attack elliptic curve uh cryptography. Um and so the previous
+8:57
+number was not terribly large and then they improved it by a factor of 10 to 20fold. And um even there's been a
+9:04
+distributed internetwide uh kind of search by uh amateurs or just people
+9:10
+trying to find even slightly better algorithmic improvements which they have done. So there's there's better uh
+9:16
+so-called circuits out there now that are known than even what was in the Google paper uh two months ago. So
+9:23
+[clears throat] that's one uh of the directions that things have been going to algorithmic improvements in terms of uh how many
+9:30
+resources would be needed to run the algorithm. Um the other direction is well once you know how many resources
+9:37
+you need, how many cubits and what kinds of cubits there's actually building the physical devices that uh have you know
+9:44
+that many cubits or or get more and more cubits working and hardware. Uh there's
+9:50
+been, you know, billions of dollars put into uh public companies, private companies, governments, uh working on
+9:57
+building up the scale scaling up the capacities of these physical uh devices.
+10:04
+And that works uh according to several different aspects. There's sort of several different axes of improvements.
+10:11
+Um there's just the number of physical cubits that you have. Um there's something called like the speed of these
+10:17
+cubits, how quickly you can operate on them and make changes to them and and perform operations on them which is what
+10:23
+the algorithm does, what Shor's algorithm needs to do uh in a a sequence of operations. And then there's
+10:29
+something called uh error correction um which is needed to make these cubits uh
+10:34
+kind of act in a stable way in a predictable way make them behave in the way that you want them to behave without
+10:40
+their um properties kind of degrading and falling apart and giving you worthless answers. Um and so in the last
+10:47
+couple of years there have been big improvements to the error correction capabilities of uh real devices um which
+10:55
+allows them to kind of maintain the coherence uh and the the the integrity
+11:01
+of cubits as you operate on them. So there, you know, these are sort of the four main axes in building uh a a
+11:08
+cryptographically relevant quantum computer as they're called ones that could break quantum or break crypto that
+11:14
+is. Um there are some other aspects that are also improving. But uh we just see a lot of action and a lot of big
+11:22
+improvements in this space. Uh and I I think another thing to mention is that
+11:28
+once we get kind of close or or start kind of crossing a threshold of a
+11:34
+capability, it will be relatively very quick to the point where things are
+11:40
+scaling up uh to be able to break cryptography. So there'll be kind of a zero to one type of situation where we
+11:46
+we get very slow steady progress for a long time approaching approaching and once we hit a threshold it it will be
+11:52
+off to the races and we'll have large scale uh not too soon not too long after that.
+11:57
+So that means we're talking about Qday right Qday the day when actually quantum
+12:03
+computers will effectively break um uh elliptic curve cryptography. So, so the
+12:08
+bottom line of the slide says, you know, the right approach, migration must begin before the break exists. Why don't we
+12:14
+wait until we're pretty close to that point and and then start migrating? Why do you think it's important that we
+12:20
+start now? Yeah, migration takes a long time. Uh it it requires design of new cryptographic
+12:29
+algorithms that won't be breakable by quantum computers. It requires being able to analyze those algorithms and
+12:36
+study their security and make sure that they really are secure against quantum attacks and classical attacks. Um and
+12:42
+that kind of work has been ongoing for um really more than a decade now uh in
+12:48
+the research area. But in the past decade specifically um uh NIST and other
+12:54
+organizations have really focused on let's get real tangible standards developed that everybody can use and
+13:01
+agree upon and uh get them ready for deployment. So this uh NIST process over
+13:07
+the past decade has really focused the the community's attention on on this kind of question. Um and a couple of
+13:14
+years ago, NIST finally announced that they have their three uh initial standards and kind of said, "Okay,
+13:21
+everybody, time to time to actually use these. Let's get these into real production systems. Let's do the
+13:27
+migration." Because it takes a long time. Um for example, Google and Cloudflare, you know, they have these
+13:33
+enormous systems. They also have a lot of resources. Um just in the past few months they have announced that they are
+13:40
+seeking to upgrade and migrate all of their cryptography to full postquantum
+13:45
+schemes uh by the end of 2029. So three and a half years they're saying that's
+13:52
+how long it will take us. We find it to be that essential to make that migration
+13:57
+because there is a you know serious measurable chance of Qday happening by
+14:04
+then right and they're not saying we believe Qday will definitely happen by then but they're saying we believe the
+14:09
+risk of Qday happening by the end of 2029 is high enough to be a significant
+14:15
+threat to our you know business and our our users privacy and the integrity uh of our systems and so we need to be
+14:22
+fully transition before that risk becomes too large. And of course, you know, Google and
+14:28
+Cloudflare are centralized, you know, companies. So for them to probably migrate is probably easier than for a
+14:35
+blockchain who, you know, with a live decentralized network. It's like you can't just flip a switch, Bruno. Like
+14:40
+what's what what has to all happen to do a migration on like a decentralized
+14:46
+network? Like you think about wallets, the stakers, like there's so much stuff that gets involved, I guess, in in in
+14:51
+doing a migration. Yeah, on a distributed network you're sort of relying on on most of the
+14:58
+participants to give the okay that we are all we want to move forward and there is several layers to this. So
+15:06
+there is the actual uh consensus upgrade which today given our stick distribution
+15:12
+it's it's a quite it's a quite uh broad spectrum. So uh we will really need
+15:19
+90% around people to say yes. Uh we're not we're not in the case of we're not
+15:25
+uh running two validators by ourselves. We couldn't make this decision by ourselves. So this has is a community
+15:31
+joint decision uh that needs to agree to to move forward if we actually change
+15:36
+the network uh in this direction. But there's another layer that is even
+15:41
+arguably even ch more challenging which is the whole ecosystem tooling users
+15:49
+existing assets locked on existing accounts all the institutionals they they have
+15:56
+infrastructure that they rely on to keeping this secret secure and they integrate with their existing systems.
+16:02
+So there's multiple multiple layers for this and this is a very I would say it's
+16:07
+a multi-year process. So the sooner we start uh the better and there's probably
+16:13
+going to be an in between state uh if quantum really is a serious threat which
+16:19
+more likely is than not uh then it's probably going to be a in between state
+16:24
+where migrating it's not going to come a flip of a switch. So we need a plan for
+16:29
+that as well. uh and that's going to be very challenging uh not just on networking but all the user base
+16:36
+application based institutions uh there are some technical standards that we need to figure out uh wallets uh
+16:43
+networking uh contracts uh uh there's a lot a lot
+16:49
+moving pieces here that we'll need to so the message is really it's like time to move now luckily I mean we're not
+16:56
+starting today right like we've we've been making progress towards becoming more quantum resilient over the past
+17:03
+year. So maybe we should you know make a state of like where we are today like what what are the where are the
+17:09
+weaknesses like what what needs to be secured what needs to what kind of cryptography needs to change right in in
+17:15
+a blockchain in general and what have we done so far Chris you've been heavily
+17:20
+involved in state proofs of course with falcon signatures and that was launched I believe in 2022 right and that's one
+17:27
+of the three areas that needed to be fixed that's right yeah the first thing when I joined Algrand uh you Silio asked me,
+17:35
+hey, we really believe that postquantum is going to be very important. And uh so
+17:41
+one of my, you know, first and major uh activities with Algrand was uh to make
+17:49
+state proofs which are uh postquantum attestations or post-quantum integrity
+17:56
+for the state of the ledger, the state of the Algrand blockchain. And so we you
+18:02
+know designed that we used uh a what is called a digital signature scheme which
+18:07
+uh was later selected by NIST as as one of the standards that they will have. Um and that's called Falcon. And uh Falcon
+18:15
+was the underlying uh postquantum signature scheme that's used in uh state proofs and that went live I think in
+18:22
+late 2022 uh with a you know with a real protocol and uh every 256 blocks we have
+18:30
+a postquantum at the station of the entire state uh of the of the chain uh
+18:35
+that's been running you know continuously for for more than three years now. Um so that that was kind of
+18:41
+the first step to get both uh the ledger history uh you know locked down and
+18:50
+postquantum secured um but also gave us a lot of experience with uh this Falcon
+18:56
+signature scheme. It gave us a lot of experience with how it behaves in a real live deployment on our network and uh
+19:03
+you know gave us just that those kind of learnings and and lessons that um we are
+19:09
+now using uh further for uh like late last year we introduced Falcon logic SIG
+19:15
+uh accounts. So you can have an account which the account itself is now protected by a postquantum signature
+19:22
+scheme uh again Falcon and that's uh that was enabled through a very cool uh
+19:28
+logic signature um primitive that uh previously existed in the algrand
+19:34
+protocol. So those are two things that are you know done and shipped and and have been running uh you know
+19:39
+successfully for for months and years and uh and then as we look forward you
+19:44
+know what's left to do right because there's so much cryptography there's so many interesting technical problems and
+19:49
+and challenges that we face and so and so what still needs to happen
+19:55
+Bruno maybe you can talk a little bit about that so what what is this consensus is a big deal right like consensus we use cryptography everywhere
+20:02
+in consensus as well Yeah. So for for us to achieve uh consensus we rely on this
+20:08
+primit called the VRF which allow us to do this very fast compact uh sort of
+20:14
+lottery where everybody puts a ticket based on their stake and we assign them
+20:19
+slots to committees to certify blocks and and and propose blocks and that
+20:24
+relies uh partially on ellitic curve math uh that uh that we need to to
+20:32
+change in a in a quantum world uh and also the consensus messages. So the
+20:38
+network when it tries to certify blocks, it waits for people to vote and and and sign those votes on uh up to a certain
+20:46
+threshold to agree what's the next delta for uh the ledger. And all of this
+20:52
+relies there's a multiple set of keys involved. There's ephemeral keys, there's participation keys that you
+20:59
+create from from your uh from your actual accounts. And all of this still relies on litica of cryptography. And in
+21:07
+a quantum world, we'll have to change these. And we have to balance our decisions cuz if if we all change
+21:13
+everything in one go to postquantum schemes, they're they're heavier. that
+21:19
+puts impact on networking on storage requirements uh or verification times potentially. So
+21:26
+it's a balancing act but we need to touch uh namely accounts because today
+21:32
+we support it with logic sigs the stateless programs that allow us to uh
+21:37
+which we used to have our first version of a falcon uh secured account and then all consensus uh consensus messages and
+21:45
+namely the VRF which is a very particular primitive uh that we need to
+21:50
+address as well. We should probably mention like very concretely you know digital signatures like what is it right
+21:56
+and and what is the implication if it gets broken by quantum computer. So uh
+22:02
+when it comes to accounts for example if your digital signature key gets broken
+22:08
+you know by a quantum quantum algorithm shores algorithm then what that means is really the attacker you know anybody who
+22:15
+has a quantum algorithm or who can who can rent time on a quantum computer can um learn what your secret key is and
+22:23
+then submit transactions uh on your behalf right they can basically just say oh I would like to empty Chris's account
+22:30
+uh and send it to Mark, right? Uh you know that that's that's what we're talking about. That's what's at stake here. So really the fun fundamental, you
+22:39
+know, foundations of the integrity of transactions is is is what's uh in
+22:44
+question here. Great. Which leads us to the meat of this conversation, which is what's next
+22:50
+and what's our road map. So let's talk about that. So let's first talk before
+22:56
+we go into the details and talk about specific uh launches that we're planning in the next you know months and and
+23:01
+year. Uh I think it's important that we talk about um our approach and our
+23:07
+philosophy. Um and the first kind of approach here is around crypto agility.
+23:13
+And so maybe Chris can you talk a little bit about that? What what does crypto agility mean uh concretely?
+23:19
+Sure. Yeah. So crypto agility in brief is is just the ability to use a variety
+23:25
+or even a combination of different cryptographic schemes in a broader system. Um and this is something that is
+23:34
+not that common uh in the blockchain world or even in the the internet world
+23:39
+as a whole. Most of the time uh in a blockchain uh protocol you kind of have
+23:44
+a hard-coded you know elliptic curve DSA algorithm right or EDDDSA algorithm that
+23:50
+we use widely and and that is the signature algorithm for you know all
+23:56
+kinds of uses in in the blockchain and um you know at the time that was a
+24:01
+sensible you know decision to have but in this postquantum world where there's still a lot of uncertainty about which
+24:09
+schemes will perform best, which ones will have long lasting security, you know, what key sizes are needed for
+24:15
+different purposes. Uh, if a scheme suddenly becomes insecure that we
+24:21
+thought was okay in the past, what do you do? So, agility is really about
+24:27
+being more able to uh use a wide variety of uh crypto schemes as needed and and
+24:33
+to be able to swap them in and out uh to to serve different purposes. I'm surprised to see that because you helped
+24:40
+design Falcon. So, so I would expect that we would just
+24:46
+standardize on Falcon. Well, you know, I like Falcon a lot. I'm I'm a big fan, don't get me wrong. Uh
+24:51
+but it, you know, it might not be the right tool for every situation. And so, you know, we're not going to play like
+24:57
+not invented here, right? We're going to choose the best tools for the job. Uh I think Falcon's a great tool for many,
+25:02
+many jobs. uh don't get me wrong, but um we don't want to be locked into one specific PQ PQ scheme. Uh we want to be
+25:10
+able to uh use, you know, maybe other uh blockchains for interoperability. We'll
+25:16
+make other choices. We want to be able to interact with them, right? So, it's not just a matter of, you know, what we
+25:22
+think is best, uh but but having having a little more flexibility uh in in in
+25:27
+interaction and and so forth, right? And so, Bruno, what do we understand with like a hybrid approach?
+25:35
+Yeah. So, the the quantum threat as Chris mentioned before, so it's more likely than not, it's it's a real thing.
+25:41
+The the timelines is what people sort of everybody has an opinion, but it can
+25:47
+come uh very soon or or decades down the line. We don't know, but it seems real.
+25:54
+But hybrid here means that if that threat is real uh we want the ability to
+25:59
+have these postquantum schemes and we offered the migration it wanted the the ledger to support it and our consensus
+26:06
+it needs to be supported but there is also edging to this uh to this situation
+26:13
+which is what if like Chris mentioned we find out that some PQ scheme uh doesn't
+26:19
+stand decades of uh of usage we find
+26:24
+some vulnerability. Now in the age of AI, who knows what we're going to find. So there is this also risk on these
+26:30
+although maturing still evolving sort of field of PQ cryptography. So we might
+26:37
+want to merge them with the classical cryptography because if we do find that
+26:42
+these PQ schemes might not even be secure against classical computers, we still want our classical key to be a
+26:50
+securing our accounts. And on the other hand, we want to have a PQ strategy. So what we're suggesting here in terms of
+26:57
+strategy is very similar to what TLS uh recently did, which is TLS itself now
+27:02
+has a concatenation of multiple signature schemes, a classical one and a
+27:08
+PQ one. And we want to offer this ability to our tooling to the algorithm
+27:13
+ecosystem to wallets eventually. If we want to have a hybrid account which
+27:18
+protected by two sets of keys, one classical, one PQ resistant, they can do so. And we can leverage potentially
+27:25
+LIGs, what we're most likely going to use at the first iteration uh to give this to the ecosystem. So, it's not a uh
+27:33
+we're not making a bet on just postquantum or classical. We're going to
+27:39
+give an option for people to have a hybrid uh account scheme. Yeah. And you talked about wallets that
+27:45
+that talks to the third point, right? Like we it's not just, you know, a matter of like releasing these PQ
+27:50
+schemes. People need to be able to create accounts, work with them, sign transactions. So there's a whole
+27:56
+usability component to this as well. Yes. And I mean here we're mostly leveraging we're lucky to have these
+28:02
+stateless programs that we can write very customized uh authorization process for our accounts. uh and but the wallets
+28:11
+uh could make more use of these L6 and this is one good use case uh we haven't
+28:17
+been making a lot of use case of these L6s but adding this to the wallets will give option to the users to say I want a
+28:24
+classical account I want a falcon account or do I want a hybrid account uh
+28:29
+there's also all the the tooling that will need to be upgraded so our SDKs and
+28:36
+uh our connectivity stack between wallets and uh and DAPs. All of that
+28:42
+will will have to be upgraded and we'll have to do work throughout uh the remaining of uh our timeline the rest of
+28:49
+the year to to make this happen. Uh but the core beat is is the the LC. Okay. So let's so let's talk meat and potatoes.
+28:56
+So the road map has like seven items that we're planning on releasing over
+29:02
+the next let's call it a year and a half. Let's go let's go one by one. Let's start with the first one and the
+29:09
+first one is what we talked about before is how do we get um um crypto agile like
+29:16
+how do we make sure that we can support any type of cryptography scheme. So the first launch is around supporting or
+29:22
+implementing a signature agnostic framework. Chris can you talk a little bit more about that?
+29:28
+Sure. Yeah, this is some like basic infrastructure uh of the protocol, right? Because right
+29:33
+now the Algrant protocol uh has been very uh hardcoded on around uh you know
+29:41
+EDDDSA signatures, right? Which is an elliptic curve uh type of signature. So there just needs to be some some uh kind
+29:48
+of renovation of the foundation here to allow for more agile uh choices of
+29:53
+signature schemes which is the most widely used uh part of the primitive in the in the protocol. So we f first have
+30:01
+this layer of of infrastructure uh that we're that we're uh putting in to
+30:06
+support migration and coexistence and uh maybe addition of additional algorithms
+30:11
+or deprecation right removal of algorithms if we find that they're not uh suitable for some purpose and and so
+30:18
+that will set things up so that uh in the near future and then farther out into the future we can just naturally
+30:25
+merge in uh new algorithms. Right? So we've already deployed Falcon 1024 for
+30:30
+state proofs and for you know logic sig proofs uh um and other schemes that have
+30:36
+been standardized by NIST include MLDDSA and and a hashbased signature and then
+30:42
+NIST also has what's known as a kind of an on-ramp process where they're evaluating a wide variety of other
+30:48
+signature schemes for uh security and efficiency and and various purposes and
+30:54
+uh they expect to standardize some additional one or more additional ones in the in the coming uh months and year.
+31:01
+And so we would be uh in a great position to be able to uh incorporate
+31:07
+those into the Algrand ecosystem in some fashion if we decide that it's a suitable decision uh that that gives us
+31:13
+some value. Great. And that's Bruno that's coming very soon.
+31:19
+Yeah. So that's that's coming on the our next consensus upgrade. So the our
+31:24
+transaction uh schema or the structure of our transaction in it's uh shaped in a way
+31:30
+that we can add these uh schemes over time. So accounts can expect signatures
+31:37
+from from different u uh algorithms. The first one is going to be natively
+31:42
+supported. So we already support this in the AVM. We have op codes uh to ver
+31:47
+verify Falcon 1024. This is what we use in LIIG. But this next release will have
+31:53
+Falcon Nate 1024 natively supported uh in uh Algrand. So the the ledger will do
+32:00
+have you'll see accounts they'll look exactly the same for if you just compare characters but there will be native
+32:06
+accounts in which when you transact uh with those accounts it expects in the transaction um uh body a specific
+32:14
+signature field uh for falcon uh that will be uh included in there and that
+32:21
+structure is flexible enough that we can expand and add multiple schemes over time right so so that framework basically
+32:27
+enables post quantum accounts, but it also allows us to do hybrid signatures, right? And and potentially even PQ
+32:34
+multisync. Is that right? Yes. Yeah. So the the this is more rely on the AVM. So the AVM has the op codes
+32:41
+for us to verify uh EDSA, Falcon, even ECDSA in some cases we use that. So it
+32:49
+allows to then craft L6 uh to uh for
+32:54
+accounts in which they're author their authorization mechanism is is how we define it can be a mix and match of
+33:01
+accounts. So you can have uh your own personal account that is protected by
+33:07
+EDSA ECDSA plus a falcon account if you want to do that. So we we want to also
+33:13
+write these examples in a way that can ship it in wallet so they're standardized so that people are not
+33:18
+writing their own L6. So we're likely going to ship one that is classical EDSA
+33:24
+plus a Falcon account as a hybrid sort of account mechanism that wallets are
+33:30
+going to abstract this away to the users. But this work uh also then enables
+33:36
+uh us to do uh multisync. So today native multisig does not expect
+33:44
+a falcon signature or or it just expects an EDSA signature. Uh but we can enable
+33:50
+also through wallets and this is mostly interest for things like treasuries and and big uh custodians uh to have uh
+33:59
+multi-IG setup where multiple set of keys weighted if we want uh that
+34:05
+protects your account. So uh and this is quite we and we we might want even as a
+34:11
+foundation to play in this and also deploy our own PQ uh falcon backed
+34:17
+multi-IG uh to protect some of our some of our funds. Let's start with the native PQ accounts. That's the second
+34:24
+big launch. So the first big launch is this kind of new framework uh crypto agile framework. So the second launch uh
+34:30
+is coming at the same time if my understanding is correct as the um uh the framework launch which is a support
+34:36
+for native PQ accounts. So why do we need native PQ accounts if we have logic
+34:42
+sig based PQ as well? Why do we need to add native ledger support as well?
+34:49
+Yeah. So we could do so if we use dig. So there's they're a little bit more
+34:54
+expensive and and there are some constraints on uh on what we can do. So
+35:00
+you couldn't do delegated LIGs from an LIG backed Falcon account. So there's
+35:06
+those constraints and today if you put it in LIG in a wallet and you want to do DeFi there is a cap on uh budget and you
+35:15
+there are some constraints that you you can't do today and having that native support makes those accounts first class
+35:24
+citizen in Algarand and it also doesn't put the burden on uh these L6s are are
+35:32
+programs or in some cases you cannot prove its determinism is you have to somebody writes them uh and you have to
+35:39
+deploy them, you have to trust them. So it's very important that we support uh a
+35:44
+native scheme that is the same class and the same feature set and it is also
+35:50
+efficient from a budget fees perspective for people to use because if they're really expensive uh eventually uh
+35:58
+they'll be less than seven for people to use this. It's it's sort of counterintuitive as well to to use a peq
+36:03
+account over time. it's like if it's overly expensive and and cumbersome
+36:08
+and so that's launching Q3 this year as well. What what is also quite interesting with this is that once you
+36:15
+have native PQ accounts, this will allow stakers and institutional stakers to basically have
+36:23
+PQ safe accounts where they can stake you know their their algos without risk
+36:29
+of any quantum quantum breach, right? Yeah. Once once you have uh native uh
+36:36
+Falcon accounts, they again they're first the same class as regular accounts. So you can do the same
+36:42
+operations as you can today with your classical account. So you can uh stake
+36:50
+from from that account, create the participation key, you sign it and uh and you're off to the races. So it's
+36:56
+it's kind of giving the same properties that today you get with the with the native accounts. You you also can take
+37:02
+advantage we we haven't mentioned is the the migration path. People can take advantage of things like rekeying to uh
+37:09
+sign existing accounts uh with Falcon. Uh that's another thing that's going to
+37:15
+be uh enabled PQ multisig and hybrid signatures in terms of multisig. So um we plan
+37:23
+later in the year to to deploy uh wallet support for for people with through LSIG
+37:29
+again and same was with hybrid signatures uh to deploy these uh multiix
+37:34
+and I do think it's important for big stakers institutions uh treasury management that are worried
+37:41
+about the quantum threat and and they they have more than one siler more people authorizing these accounts and we
+37:50
+need we need to have an answer for this to to have a good offering and so this will come later in the year uh with with
+37:57
+going to write this 6 with hybrid hybrid signatures we we spoke a little bit about it uh it's going to come
+38:05
+mainly on the wallet support so in applications like perah uh not only we
+38:10
+going to have falcon native accounts but we'll be able to offer a hybrid account
+38:17
+with protected by both set of keys Um is there actually maybe this question for Chris is there actually scenario where a
+38:24
+hybrid scheme would be actually be weaker than any signature alone or
+38:30
+that's not the case. A hybrid will protect us better in all possible circumstances. Yeah. So the idea behind a hybrid scheme
+38:36
+is uh let's say you deploy you know EDDDSA signature together with some PQ
+38:42
+signature like Falcon. Um the idea behind it is that this combined signature should be secure as long as at
+38:49
+least one of the two schemes is secure, right? And it should even be secure against quantum as long as at least one
+38:55
+of these two is secure against quantum. Um the rationale for using hybrid
+39:01
+signatures is you know we have this very mature long deployed very highly um uh
+39:08
+uh uh inspected right and and banged upon for a long time uh classical cryptography. So you don't really want
+39:15
+to just throw that out uh for something brand new, right? Even if the new stuff has been looked at, you know, quite well
+39:22
+and we have some confidence in it, we may not have as much confidence or there might be strange implementation, you
+39:28
+know, uh sharp corners that people don't understand as well or things like that.
+39:33
+So as the new stuff matures, you still want to have that kind of backup. even
+39:39
+though it's not quantum resistant, it's at least not going to have, you know, any unexpected classical vulnerabilities
+39:45
+is the theory there. Yeah. So, um, as long as you implement, uh, these two in combination correctly and
+39:52
+that that combination is a fairly straightforward, uh, thing to get right,
+39:57
+uh, now you kind of get the best of both of them, uh, is is the idea. Great. So also worth noting is that we
+40:05
+also announced that as part of this move to PQ multisig Alderand Foundation as
+40:11
+you mentioned Bruno will start migrating some of its treasury to PQ accounts in in early next year. So so the treasury
+40:18
+will be safe against quantum attacks. So that's very cool. Okay so um a smaller
+40:25
+item but still let's uh let's talk about that quickly. Um we currently support Falcon 1024. we're going to start
+40:32
+supporting Falcon 512 as well. What's the difference between the two? Yeah. So, Falcon 1024 that refers to uh
+40:39
+what's known as the dimension of the the Falcon uh keys. It's a dimension of a lattice if you want to get technical.
+40:46
+And um 1024 is one of the choices that has um targeted NIST's uh highest level
+40:53
+of security. So, it's called category 5 uh security level. It's a very very high level of security uh far beyond what
+41:00
+anybody you know would actually need in reality but it's targeting the possibility of you know if there's some
+41:05
+undiscovered attack that you know slightly weakens the margins or something like that it will still be uh
+41:11
+have plenty of of security margin uh left in it. Um Falcon 512 is uh again
+41:18
+the the 512 refers to the underlying dimension. Uh these are always powers of two. Uh so 512 and 1024 are powers of
+41:25
+two and um this one targets uh NIST's sort of baseline uh security level
+41:31
+category one which is aiming for roughly the same or at least as much security as
+41:37
+uh AES 128 which is a symmetric cipher that's also a Nest standard. So these
+41:43
+are uh kind of aligned with each other in terms of the the security strengths compared to prior classical
+41:49
+cryptography. Um, so the advantage of 512 is uh it's about half as large as
+41:56
+Falcon 1024. So public keys are half the size, signatures are about half the size. So when it comes to network
+42:02
+traffic and storage, you know, the the the benefit of half the size speaks for itself. Um, we believe that Falcon 512
+42:11
+has a a a very good, you know, realistic and and uh perfectly secure um uh level
+42:19
+of of hardness to it. And so in many applications it may be sufficient uh for
+42:26
+some of the purposes that we have in uh the Algrand protocol in particular uh
+42:32
+shorter lived keys shorter lived signatures that are only you know during let's say consensus period where the key
+42:39
+has a short lifetime of maybe just a few hours or less. The signature is only useful for a little while and then once
+42:45
+the block is decided upon you know these keys and signatures are are no longer needed. And so you don't need this ultra
+42:51
+high level of of security with a huge margin uh that Falcon 1024 offers. So um
+42:57
+it's a fairly straightforward extension based on our existing work to enable Falcon 512 along with 1024. We've kind
+43:05
+of done all the hard work and it's a little bit of uh tweaking, you know, a few lines of code here and there. Um and
+43:11
+then uh Falcon 512 could be ready to go uh online.
+43:16
+Wonderful. So um and then the last point which goes back to the utility point
+43:21
+that Bruno you were talking about earlier you know all of these innovations they don't matter if people
+43:27
+can't use them and so a lot of the energy Bruno that's a question for you really needs to go into like the wallets
+43:33
+the tooling and everything that needs to kind of work to make these these these uh PQ schemes actually useful for users.
+43:42
+Yeah. So we can't wouldn't make sense for us to just release on our protocol and people couldn't use them. So we we
+43:48
+do we do have to uh upgrade for example our SDKs
+43:54
+uh so that we can put it in wallets and and also some custodial elements for
+43:59
+those who want to to do custody. Uh we also give existing users a way to get
+44:06
+from their pneummonic their words and derive a new account which is the the falcon account. So we defined a way to
+44:14
+do that. There will be a spec soon and there the SDKs will explain how that happens. And if you have a PA wallet
+44:22
+eventually you should have the ability you will upgrade and we should show you an option to get your Falcon account. Uh
+44:28
+now there is there is some elements that we need industry ali alignment that we will wait on and collaborate with with
+44:35
+some of our partners which is mostly around the techniques and standards that
+44:40
+govern for example the the HD derivation systems and the the hardware wallets. Uh
+44:48
+so we do we are in closely collaboration with with uh some partners in this
+44:53
+because we cannot make the decision just for ourselves. We might have an opinion and I'm sure Chris has opinions as well.
+44:58
+Uh because in this postquantum world all the tooling how wallets are going to
+45:03
+derive these keys, find more keys, they can be longived, they can be ephemeral, but they need to be deterministically
+45:10
+discovered and uh once you get a new phone, you don't want to get a new set of keys. So this all of these things
+45:16
+cannot be decided just just for us. We might put an opinion out and we might say how we think we should best uh
+45:24
+created because in a peq world with so many candidates of PQ schemes, it's
+45:31
+probably going to be hard to find uh to have an opinionated specific scheme for
+45:37
+for uh each signature algorithm. So we're going to we're going to have to potentially have an agnostic form. uh
+45:46
+and hopefully by the end by the end of the year will be probably what we would like will be nice for us to start doing
+45:52
+the work on these HD derivation schemes and start going into the industry standards. Uh but in the meantime we'll
+46:00
+have our own we have our own scheme our algoran 25word scheme that will give this to the users anyway. So throughout
+46:06
+the year the user will have access to falcon and hybrid and and peq multiigs.
+46:12
+Wonderful. Okay. So onto the next one and this is a big one right the VRF. So
+46:19
+the VRF is using elliptic curve as well. So you think you know quantum computers
+46:25
+will just break this thing as well but it's actually a little bit more subtle than that Chris right?
+46:31
+Yeah exactly. Um so the VRF is is called verifiable random function. That's the
+46:36
+the jargon for it. But the VRF is really the foundation the cornerstone of our uh
+46:42
+sort or committee selection uh scheme. So the this the special sauce of algrand
+46:47
+is that uh committee members are selected according to their stake uh for
+46:53
+each round uh and then the committee members vote on the construction of uh
+46:58
+the next block uh to go on the chain. So the reason why we get very fast block formation and and fast finality is is
+47:05
+this sort mechanism is the technical term for it. And uh the heart of the sort is this VRF function which again is
+47:13
+is based on elliptic curve cryptography. Okay. So you think ah well that's just dead right in the quantum world. Um but
+47:21
+what we showed in some research a couple years ago is that uh the picture is is quite a bit better than you might
+47:27
+initially uh assume about it. So there are definitely some bad uh aspects of it in a quantum world. Um the primarily
+47:35
+primary loss of security for ECVRF is the loss of what's called anonymity
+47:41
+which means that a quantum computer would be able to predict in advance uh which users or which accounts are going
+47:48
+to be uh members of the committee. And that's a property that uh you don't
+47:54
+really want. Ideally you would have what's known as anonymity. the committee members would not be known until they
+47:59
+announce themselves saying, "Hey, I'm in I'm in the committee. Here's my proof that I'm on the committee for this round." Um, and so, you know, that's an
+48:06
+important uh security property that's that is lost in uh the quantum world, but it's not the end of the world. It's
+48:12
+a a important one, but not the main one. What you really don't want is uh an
+48:18
+attacker to be able to uh falsely include themselves on the committee or infiltrate a committee and say, "Hey,
+48:24
+I'm on the committee. Here's my proof." But actually this proof is is facious
+48:29
+and uh you know they're just inserting themselves on the committee using the power of a quantum computer. Um
+48:35
+fortunately what we we showed in a paper a few years ago is that the ECVRF actually is not uh vulnerable to quantum
+48:43
+attacks in this way. So even a quantum attacker is not able to falsely uh
+48:49
+infiltrate uh the committee um and you know can't place themselves in the committee when they don't actually uh
+48:55
+belong there. So that's good news because it means that uh you know Qday
+49:00
+would not bring a complete breakdown of our sort mechanism, right? It would it would uh allow for loss of anonymity but
+49:08
+not loss of integrity of the the sort uh and committee membership. Um and so
+49:15
+still what we would like ultimately is a fully quantum resistant VRF where uh you
+49:21
+have anonymity and you have the integrity of committees. And so we have uh a a candidate uh idea that we're
+49:29
+we're playing with and we have some good good feelings about good uh good instincts um for a VRF candidate that
+49:36
+would uh be fully postquantum and hopefully be efficient enough to use in
+49:41
+deployed practice. uh and that's where the rubber meets the road. Right? So at this point we have the mathematical uh
+49:48
+kind of foundations of it uh under development and you know we're targeting to get out a research paper in early 27
+49:56
+uh we think and uh then there's going to be a lot of work of like trying to find
+50:02
+okay how do we implement this uh how do we do it properly how do we make sure that it's efficient enough how how will
+50:08
+the performance be and and so forth and so on. Um some good news is the basic idea of it is uh maybe no surprise like
+50:16
+pretty close to how Falcon works. Uh so it's it's a it's a cousin of Falcon let's say. So we have a lot of
+50:22
+experience uh you know implementing and understanding how Falcon works and and so a Falcon like VRF uh seems like
+50:30
+something that could potentially become uh a usable uh primitive in in practice
+50:36
+for for sort. I'm sure Chris that our friends in the blockchain industry that also use VRF
+50:43
+will be monitoring this very very closely and see what the progress is that you can bring to this topic.
+50:48
+Yeah, I hope so. Hope hope we get uh you know the Algrand's V VRF has been um
+50:54
+used by other projects. It's also a uh standard according to the you know the
+50:59
+internet uh internet research task force I think is the the acronym there. So uh
+51:05
+you know we've had good leadership on the ECVRF and we hope to uh continue to be leaders on the the postquantum VRF
+51:12
+world as well. Great. And so then we get to the last point which is the consensus
+51:18
+mechanism and Bruno maybe you could talk a little bit about like where in the consensus mechanisms are keys used and
+51:24
+how how do we deal with that? Yeah so there there is a quite a few
+51:30
+different set of keys that we use during during consensus. So you have your your your accounts your your your main
+51:37
+accounts and for that you create these participation uh participation keys and from those you sort of authorize these
+51:45
+the the keys that actually do the voting when when uh blocks get propagated and
+51:50
+and you sort of uh try to certify them and these are these ephemeral one-time
+51:55
+use uh voting keys and these are the type of keys that perhaps
+52:01
+uh using Falcon 1024 or a very large uh
+52:07
+signature key size is probably not very efficient if we don't need the full security and this and we do care about
+52:14
+size because this puts a burden on networking and and uh all the tooling
+52:20
+and storage and and the ability to achieve consensus and this is where perhaps a Falcon uh 512 will be more
+52:28
+efficient because they're half the size and if they're secure enough uh obviously we need to think about this a
+52:34
+little bit and if Chris is comfortable with this uh we'll likely uh start
+52:39
+working on this uh end of the year beginning of next year and this is not
+52:45
+we don't have to wait for the VRF for this I know Chris correct me if I'm wrong so we we can actually actually
+52:50
+start working on this in parallel so it might be a case that we have this implemented before we actually have a
+52:56
+VRF uh live in Algra and so Bruno if I understand correctly VRF is still kind of in the research
+53:02
+phase case, right? So, so Chris, of course, you're working on a research paper, but so there's little still a lot
+53:08
+of open questions around how that's going to be be coming together, whereas consensus is more of an engineering
+53:14
+challenge than a research challenge, right? So, you kind of know how to do this. You kind of have to figure out
+53:20
+what the right signature schemes are, but like it's more of an engineering challenge than a research challenge. Is that right?
+53:25
+Yeah, it I think that's correct. There's also the tooling and the the node infrastructure and the the node kits and
+53:31
+the wallets and uh that need to be upgraded as well. And Falcon 512
+53:37
+throughout the year will also be added as either as a new op code or we going
+53:42
+to update the current op code that we have for Falcon as well to be uh
+53:47
+supported there. So once we have Falcon 512, this question will probably be tackled uh right away. But it is you're
+53:54
+right, it's mostly an engineering question. uh and Chris being okay with it, of course. And uh uh but it's not it
+54:01
+doesn't require uh a multi-year research uh effort for this.
+54:07
+Yeah. The the the the belief for the consensus is that you know we could we could do this by uh deploying kind of
+54:14
+standardized wellestablished mature ingredients right and and and
+54:19
+integrating into them integrating them into the protocol. uh whereas for the VRF it's sort of designing something
+54:26
+kind of brand new right that's that's adjacent to deployed stuff but uh would require its own you know research uh and
+54:34
+and um implementation work great well let's wrap it up so this is
+54:40
+all of the seven announcements put together onto one slide Bruno you have the honor to go to summarize everything
+54:46
+no I'm really proud of the team excited for us to deliver this uh lucky to have Chris help guiding this through this uh
+54:54
+through this journey and uh and for me it's just a a pleasure to work with the guys to deliver this and I do think
+54:59
+Algorand sort of gains keeps the momentum going inherit some new properties like crypto agility we we
+55:06
+like to keep leading and and pushing the envelope on the post quantum we do care about this and we want in some cases to
+55:14
+lead the way especially things like Falcon uh but also keeping agile so we're looking forward to also add more
+55:21
+uh in Algrand's capability in its PQ uh resilience and and collaborating with
+55:27
+people that do uh are making efforts in this namely aligning on the industry
+55:33
+standards and uh and similar work. So yeah, I'm looking forward to Great. Well, thank you both so much for
+55:40
+participating in this um in this in this call. I think you both have like your work cut out for you and so Bruno
+55:47
+specifically for you the engineering this is not the only thing that you do, right? like engineering is going beyond
+55:53
+the PQ road map. You have another road map you still have to deliver on too. So we will need to do another conversation
+55:58
+about what the next road map for Algrand looks like after we released one last year. We need to do an update to that
+56:04
+one. So that's coming next. So you will have of course your your work cut out for you. So thank you both for joining.
+56:11
+I think it was super interesting. I learned a lot. Um and I can't wait to do this to do this again with both of you.
+56:17
+Yeah. Thank you, Mark. Great talking with you. Thanks very much. Smart. Thanks, Chris.
+

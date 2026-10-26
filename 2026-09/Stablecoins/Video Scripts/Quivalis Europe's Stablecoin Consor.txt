@@ -1,0 +1,522 @@
+Quivalis: Europe's Stablecoin Consortium
+10:53
+It's something it's making. So it's the consortium of over 30 institutions from more than 15 countries,
+11:02
+and they filed for the licence to issue
+11:08
+stablecoins in the Netherlands. It's still under discussion.
+11:18
+It's still being solved, but probably in the second part of this year, probably
+11:24
+even in September, they will be able to
+11:29
+start with the first pilot implementation.
+11:35
+Maybe something that's interesting for you. So Bank Takao from Poland is the only
+11:40
+bank headquartered in this part of Europe
+11:45
+that takes part in this consortium.
+11:54
+So we discussed stablecoins and something else that also can fill this cash lack of
+12:00
+the asset-based transactions. So these are tokenized deposits.
+Tokenized Deposits Explained
+12:07
+It's actually the only instrument anchors
+12:14
+to Euro that can be issued by the bank
+12:22
+without getting any new licence. So, and without also risking the bank's
+12:32
+balance sheet. So such a tokenized deposit is issued
+12:42
+against some deposit of the specific customer in the bank. So when you issue this kind of
+12:50
+instrument, you already have the KYC covered. You already know your customer.
+12:56
+So it's much easier for the bank to create this type of instrument.
+13:05
+But on the other hand, usually tokenized deposits can be only used inside the
+13:12
+bank's environment. So you need to establish some additional
+13:17
+payment schemas and payment rails if you want to exchange the tokenized deposit
+13:26
+between two different banks.
+Digital Euro: Why It's Not Built on Blockchain
+13:33
+So let's talk about something that doesn't exist yet.
+13:38
+So digital Euro, it's a concept in which
+13:45
+the Euro system is the issuer. They issue the money.
+13:54
+They want to give electronic money to the public, to the people for the retail
+13:59
+purposes, so for everyday payments.
+14:05
+And maybe it will be surprising for you, but digital Euro is not going to be built
+14:12
+on blockchain at all. So it's not going to be decentralised solution.
+14:20
+ECB decided to proceed with the idea of having the centralised system that maybe
+14:28
+it's not just my claim, but maybe it will be a bit faster.
+14:34
+Maybe it will be a bit more reliable. And they decided to go for the total
+14:42
+centralised solution. Digital Euro will be the equivalent of
+14:48
+cash. So you should have some sort of wallet and you should be able to spend it like
+14:55
+the banknotes that you have in your pocket.
+15:01
+Actually, this product was initiated like six years ago with some trials, some
+Legal & Technical Status of the Digital Euro
+15:08
+reports, but as of today, we may see the
+15:15
+situation, we may observe the situation from two sides, from the legal one and from the technical one.
+15:22
+From the legal perspective, the European institutions, they discuss about the
+15:30
+fees, the compensations, the limits that
+15:35
+can be held on people's wallets, and from
+15:42
+the technical side, just in July this
+15:47
+year, the Eurosystem decided to choose
+15:53
+over 30 payment services providers to participate in the test that will be
+16:00
+carried on next year. So those tests will cover both Metland
+16:07
+payments, but also the payments initiated by the regular consumers.
+16:17
+This pilot is going to last for around a year, and you shouldn't kind of connect
+16:24
+to the date to 2029 that much, because it's only the conditional date of
+16:30
+potential launch of digital Euro in Europe, and if the test will go bad in
+16:39
+some scenarios, probably this date can be also postponed.
+16:48
+What are three important features that
+3 Key Features of the Digital Euro (Offline, No "Coloring," Limits)
+16:54
+digital Euro will have? So first of all, digital Euro will work
+17:03
+in offline mode. So you as a payer will be able to have
+17:09
+some device, and you will be able to pay with your wallet, topped up with digital
+17:19
+Euro, you will be able to pay without the connection to the internet.
+17:25
+So just maybe tapping to the terminal of the merchant or something like that.
+17:33
+Probably you heard also about some ideas from other parts of the world in which governments want to control the spending
+17:43
+patterns of the society, so maybe that some amounts can be spent on your food,
+17:52
+on your school, but this is totally off the table in Europe. In Europe, there will be no like
+17:58
+colouring the currency.
+18:03
+Digital Euro is going to be possible to be spent everywhere, on every purchase
+18:11
+that the consumers want to make.
+18:16
+And there's also a discussion about limits.
+18:23
+So actually, here there are two forces that fight one another.
+18:31
+So on one side, banks don't want to allow
+18:37
+for a big limit on the wallet, for a big limit of Euros on the digital wallet,
+18:46
+because it would mean that the funds from deposits from the banks will be going out
+18:53
+of their ecosystem. On the other hand, the European
+19:00
+Commission wants to allow for a big enough limit in order to make the
+19:07
+transactions convenient for the consumers.
+19:13
+So these forces are kind of like testing different approaches, and probably you
+19:20
+have heard about these limits that it might be between 1,500 Euro to 3,000
+19:27
+Euro. It's not set yet, but for sure there will be some limits. And if there is going to be some limit in
+19:36
+the wallet that keeps the digital Euro,
+19:44
+there are many technical challenges behind it. Because first of all, you as a bank that
+19:53
+will be distributing those digital Euros, you will have to check the the balance of
+20:00
+the offline device, but also the balance of the accounts that are connected to the
+20:07
+wallet of the consumer.
+20:12
+If there is a purchase that is bigger than, let's say, 3,000 euros, the wallet
+20:22
+would be emptied, but the remaining amount needs to be transferred in the
+20:28
+real-time from the account of the person that's linked to this wallet.
+20:35
+So such a mechanism will have to be guaranteed by the bank.
+20:41
+This means that banks will have to face
+20:47
+real-time gross settlements that are important to allow for this kind of
+20:54
+online and instant transactions.
+21:04
+So ECB doesn't want to take away the customer relationships from the banks.
+21:11
+Banks are going to keep the relationships with their customers, and they will be
+21:18
+responsible for distribution of the digital euro. This means that, of course, there are
+21:27
+some plans for building the general SDKs or maybe the general application that can
+21:36
+be used in Europe, but I believe that
+21:41
+most of the banks will want to integrate that functionality into their own interfaces, into their own applications.
+21:49
+So if you want to keep your customer, you want to keep them attached to the brands, to the current applications, current
+21:55
+systems, and you will rather not allow your clients to use some other
+22:01
+applications.
+Technical Challenges Banks Will Face
+22:06
+You need to care about onboarding of the users. You need to care about customer
+22:12
+procedures, funding and defunding of the
+22:19
+accounts. You need to take care about new patterns
+22:25
+of fraud detections and about solving the
+22:30
+disputes. So this is very related to the problem of
+22:38
+identity of wallets, of KYC, which means that if you as a bank already
+22:45
+investigate, for instance, EUDI wallet
+22:51
+project, and you will also have to investigate digital euro project, you
+22:57
+rather don't want to run two programmes for that. It's better to combine that because
+23:04
+otherwise you will have to pay twice for the same projects.
+23:10
+So important for you is that the banks will stay as the main contact point for
+23:17
+the customer as the main distribution channel of the digital euro.
+23:24
+And actually, this directly translates to the backlog that we are going to have
+23:30
+when designing this system. It's not simple payment application.
+23:37
+It's a bigger programme. It's a bigger integration. So all that stuff that I mentioned on the
+23:46
+slide are really technical challenges, and they need to be taken care of very
+23:52
+well. So wallets, these offline payments, you need to also be careful about this
+24:01
+waterfall mechanism. So topping up the account of the digital
+24:09
+euro amount on the wallet and moving it
+24:15
+or balancing it with the bank account
+24:21
+that's linked to the wallet. And you need to remember about
+24:27
+settlements, so atomic settlements, which means that bank needs to remember about
+24:38
+proving and making sure that the finality of the transactions is reached.
+24:45
+And in case of problems, common cases or issues with the payments, anaerobic means
+24:51
+that they also have to be implemented.
+24:56
+This 24-7 is related to these operations in which... so you have the consumer have the device
+25:04
+and they can pay any time.
+25:12
+But with cards, the authorisation of the transaction is happening in the real time, but usually the reconciliation and
+25:19
+the settlements, they happen in batches.
+25:25
+Here, with the digital euro, you will have the payment becomes also the
+25:31
+settlement. So it happens in a single transaction and
+25:36
+there is no window to wait for something and to reconcile the such transaction.
+25:44
+Of course, since we are talking about digital assets, so we need to take care
+25:50
+about the custody, ASM modules, different
+25:56
+patterns of tracking the fraudulent transactions, checking the identity of
+26:03
+the consumer, AML procedures. So those have to be adjusted to the
+26:11
+potentially new patterns, new spending habits of clients and their purchasing
+26:18
+activity. And last but not least, testing. So your system already provided the new
+26:29
+testing infrastructure for the digital assets and also banks will have to learn
+26:38
+that and we have to be familiar with how to test these kinds of transactions.
+Why Asset Tokenization Matters (24/7, Shared Ledger, Smart Contracts)
+26:47
+So coming back a bit to this asset leg, so we have the transactions, we have some
+26:56
+digital assets and just about the
+27:02
+tokenization. So why we should think about that process
+27:10
+as something that can be a bit ahead of
+27:15
+current systems? Because first of all, there is a big
+27:22
+potential to process assets around the
+27:28
+clock, yeah, 24-7 and this is one of the observations coming from the Bank of
+27:34
+International Settlements. Another thing is that having shared
+27:41
+records, shared source of truth about the events, about the transactions, it saves
+27:50
+time of checking a couple of databases, yeah, and comparing whether the
+27:56
+transaction in one database was registered and checking that against some
+28:02
+other database. So this is this element which shows that
+28:11
+it may be just one ledger and the transaction can be validated.
+28:18
+And of course, on top of digital assets,
+28:24
+we may have implemented smart contracts that maybe not help execute the
+28:33
+transaction, but they manage how to contact the transaction and they also
+28:39
+govern the entire life cycle of the events happening during the transaction.
+Drawbacks & the DLT Pilot Regime
+28:48
+Of course, there are also drawbacks of asset tokenization and first of all, at
+28:56
+least in Europe, it has been quite hard to make sure that the legal finality of
+29:04
+such transactions is met. Another thing is that real-time loss
+29:12
+settlements that are under consideration
+29:17
+here, they require more pre-funding than just netting the transactions.
+29:26
+Sometimes such system, they need to have some money already kind of put into the
+29:34
+system in order to be able to reconcile
+29:40
+the transactions happening on such DLT platform.
+29:49
+We also have in Europe one regulatory sandbox.
+29:55
+It's called DLT Pilot Regime. And to be honest...
+30:00
+It was not a success because, not from the technical reasons, but from the more
+30:06
+like legal and regulatory reasons.
+30:11
+So the circulation of funds in the DLT
+30:16
+payment pilot regime. Basically, if some entity wanted to
+30:23
+issue, let's say, bonds on chain, the
+30:29
+amounts that could be issued in total were just only up to 6 billion euro,
+30:37
+which is quite a low number as the practise shows.
+30:43
+So last year, the European Commission decided to increase that limit, to make
+30:51
+it kind of more suitable for the biggest and for bigger issuances of digital
+31:00
+assets.
+Wholesale Digital Euro: Trigger & Project Pontus
+31:06
+Now let's try to touch on the whole side of digital euro, because also the euro
+31:16
+system is also taking care of how to
+31:24
+reconcile the transactions in bulk, in the wholesale mode that are conducted on
+31:32
+the DLT platform. And now we are observing a couple of
+31:40
+pilots, so like 58 use cases, over 60
+31:49
+participants. And three national banks were involved in
+31:54
+connecting their own DLT solutions to the
+32:00
+to the digital bank, to the central bank
+32:06
+digital currency. And I will tell a bit more about the
+32:12
+solution that was built in Germany. It's called Trigger by Bundesbank.
+32:19
+But also the solutions from the Bank of France and Bank of Italy were also the
+32:26
+result of this experiment. And the project Pontus is on its way to
+32:38
+connect different fragmented DLT platforms to allow them to reconcile the
+32:46
+payments using digital assets.
+32:53
+So Pontus is probably going to start also this month.
+32:59
+And initially it was planned as a pilot, but now it's going to be the working
+33:05
+solution from day one. Pontus is from Latin, from bridge, so
+33:12
+it's about bridging current infrastructure. But also your system is going to lay out
+33:21
+some grants to the totally new approach
+33:27
+in which DLT markets will be able to reconcile and to work with euro currency.
+33:40
+And APIA is just the very beginning, is the road, is the road to build maybe not
+33:46
+the unified ledger, but the unified approach to connecting and letting the
+33:55
+DLT markets evolve and build new value
+34:01
+for the clients. So these two use cases that I wanted to
+34:10
+mention, both were done on the German
+34:16
+market. First one, actually, how the flow works.
+34:25
+So we have the issuer that issues the
+34:30
+assets on the ledger. Then, so the asset is created.
+34:37
+Then there is a signal, a trigger to the trigger platform that was done by the Bundesbank.
+34:43
+And this trigger platform sends the
+34:48
+request to the target system, which is
+34:53
+the system for real-time gross settlements.
+34:58
+And once the... Payment is agreed between two parties on this RTGS system.
+35:04
+Then the information comes back to the ledger, and the asset changes the
+35:11
+ownership. So it's important, in this case, to notice that money is not moving on the
+35:19
+ledger. Money is moving on target, on the ECB
+35:25
+system, and the asset is moving on the ledger. And the trigger system is about
+35:31
+synchronising those both systems.
+35:38
+So those two trials, so first one was the issuance of the bonds of Siemens, and it
+35:46
+was proven that within a couple of minutes, it's possible to tokenize bonds,
+35:53
+to distribute them to the interested parties, and the cash lag, the cash
+36:04
+processing, the money processing, it happened on the real environment on the
+36:12
+target. So it was classified by the Bundesbank as
+36:17
+a trial, not as an experiment. And on the other hand, we also had this
+36:24
+case study from Commerzbank, in which
+36:31
+they allowed for the secondary market trading of five securities.
+36:38
+And here also the transactions went fine,
+36:43
+but they were executed on the money side. They were executed on the test
+36:51
+environment. So it's only the experiment. And for now, no one connected those two.
+36:59
+So to me, it seems like a nice challenge
+37:11
+for the banks or for some institution to try to build the entire flow in which the
+37:20
+digital assets can be issued, and then can be traded further on on the secondary market.
+37:26
+So this would create the totally working
+37:32
+exchange and totally working market like a digital exchange.
+37:39
+So this is something that maybe will be the topic of the further works.
+3 Questions to Ask About Any Digital Asset Project
+37:47
+So just as the closing, whenever any
+37:55
+digital assets project lands on your desk, you should check this project from
+38:03
+the angle of those three questions. So first of all, about the asset.
+38:08
+So who issues the asset and what are the risks related to such assets?
+38:16
+How to make sure that the cash that will
+38:22
+be used in the project is legally binding
+38:29
+and will allow for the legal finality of the transaction.
+38:34
+And the third thing, which is also very, very important, is about entire
+38:40
+governance of the solution. So who covers the risk? Who is doing the KYC, AML?
+38:47
+Who owns the relationship with the customer?
+38:52
+What about connections to other systems? So those are the elements that you should
+38:58
+always think about when trying to assess some blockchain project. And just as a summary, so Europe
+Closing Thoughts: Where Does Poland Stand?
+39:06
+currently is... maybe it's not building one blockchain
+39:13
+that will rule them all, but they are trying to build bridges, to build connections.
+39:19
+Europe is trying to explore how the
+39:25
+digital assets and the circulation of the assets can be combined with the traditional money.
+39:33
+How to make sure that users will be able to pay privately for their purchases.
+39:43
+So since we are living in a quite fragmented continent, we also need to
+39:53
+take into account that Poland may be quite behind because we are not in the Eurozone, but we also need to think about
+40:02
+maybe having our own jurisdictions or maybe implementing regulations like Mika
+40:09
+on the Polish market in order to allow for better adoption of these digital
+40:15
+assets-based solutions. So that's all from me. Thank you.
+40:21
+And yeah, behind these QR codes, you are able to check all the data that I used to
+40:28
+build this presentation. So all the facts, they are like checked for the end of August.
+40:33
+So they are quite fresh. I think nothing has changed since I've done this presentation.
+40:39
+Thank you. Thank you very much, Szymon. Thank you, Jacek.
+40:46
+Yeah, hi. So I'm done. I finished my presentation. I got this little gift from the organisers.
+40:51
+I hope that the topics were interesting for you. And if you have any comments, please let
+40:57
+me know. Thank you.
+

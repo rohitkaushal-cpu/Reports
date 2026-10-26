@@ -1,0 +1,1140 @@
+0:00
+Our
+0:07
+next talk we have a fireside chat with
+0:09
+Yon Oliver Cell, the CEO of Kales. Uh
+0:12
+the title of this talk is securing
+0:14
+Europe's financial future in the age of
+0:17
+stable coins. This conversation will be
+0:19
+led by Daniela Barbosa who is the
+0:21
+general manager of decentralized
+0:23
+technologies at the Linux Foundation.
+0:26
+Let's give them a round of applause.
+0:53
+It's very hard to see. All right. Good
+0:55
+afternoon. Thank you for joining us. I
+0:57
+don't know if we could top hoodies,
+1:00
+crypto bros in hoodies, but I think, you
+1:02
+know, it's really exciting to be here at
+1:04
+Paris Blockchain Week. Seen a lot of
+1:07
+faces that we see year over year and
+1:09
+it's great to see the energy in the room
+1:13
+um talking about not necessarily just uh
+1:17
+experimentation and MVPs and PC's but
+1:20
+actually things going into production.
+1:23
+Um, one the conversation today is going
+1:25
+to be focused on specifically on stable
+1:28
+coins in Europe. Um, where I think
+1:30
+there's just a fantastic opportunity for
+1:33
+Europe to take a leading role in
+1:37
+creating uh using the technology to
+1:39
+actually create an environment um in in
+1:42
+Europe to to leverage uh stable coins.
+1:45
+Um, and I'm very pleased to introduce
+1:47
+Yan. Um, and I'm going to let you
+1:49
+introduce yourself and tell a little bit
+1:51
+about your background, like how you got
+1:53
+here as well. Um, because what you've
+1:56
+built and what we're going to talk about
+1:57
+in the next 20 minutes, um, is something
+1:59
+that I think is really, uh, going to,
+2:02
+um, be market leading in Europe. So,
+2:05
+Yan,
+2:06
+thanks a lot. And, uh, thanks to Paris
+2:08
+Blockchain Week for having us. Um, well,
+2:11
+I used to be one of those boys in
+2:12
+hoodies. uh used to um you know see
+2:15
+crypto in that in that in that space as
+2:17
+well. Um and so it's definitely come a
+2:19
+long way um especially with the
+2:22
+increasing institutionalization the
+2:23
+increasing realization that the
+2:25
+blockchain can provide certain
+2:27
+efficiencies in in speed in cost u and
+2:31
+in decentralization
+2:33
+that are beneficial to all manner of
+2:36
+industries. So you know in my my own
+2:38
+background I I uh spent quite a long
+2:40
+time in in financial services. I spent
+2:43
+uh about 20 years in London working in
+2:46
+what we now call the trady space and
+2:48
+moved into blockchain in 2018. Moved to
+2:50
+uh moved to Berlin and been working on
+2:52
+various uh blockchain based projects.
+2:55
+Most recently uh four and a half years
+2:57
+at Coinbase where I set up the entire uh
+2:59
+set up the German business. Managed to
+3:01
+get the first ever crypto custody
+3:02
+license uh for for Coinbase in Germany.
+3:05
+Um and now uh since last summer I've
+3:08
+been working on Kales and Kivalis it's a
+3:12
+it's a project
+3:14
+to build an EMI to build a European
+3:17
+stable coin um backed by at the moment
+3:20
+12 European banks. Uh it's an open
+3:23
+consortium behind the behind the stable
+3:25
+coin behind the behind the issuer. Um
+3:29
+and you know as I said I guess we're
+3:30
+building just the the the issuer piece.
+3:32
+So we're building this the piece of
+3:34
+infrastructure that connects the euro to
+3:35
+the blockchain uh but backed by this
+3:39
+growing cons open and growing consortium
+3:40
+of European banks. So behind us we have
+3:42
+at the moment uh banks like ING, Uni
+3:45
+Credit, um BBBA,
+3:48
+um DA from Germany for example and and
+3:50
+this consortium is growing and there's
+3:52
+more and more interest from u the
+3:54
+institutional sector to get involved in
+3:56
+this space.
+3:58
+Yeah, it's a very impressive list of
+3:59
+banks to start with. Um and I I
+4:02
+certainly um we've seen this uh bankled
+4:06
+consortium based models for many years.
+4:09
+So um I've been at the Linux Foundation
+4:11
+uh since 2017 uh working with many uh
+4:15
+different projects uh under um uh our
+4:18
+blockchain practice. Um and one of the
+4:21
+things is we see bankled consortiums
+4:24
+taking another uh step forward. So I was
+4:27
+wondering if you can, you know, tell us
+4:29
+a little bit about how did the banks all
+4:31
+come together? How did it all start? Uh
+4:34
+what was the pressing need that uh
+4:36
+really got them in the room together
+4:37
+with you?
+4:39
+Well, it's it's actually the journey
+4:40
+started three years ago um with ING with
+4:43
+a couple of key key people at ING who
+4:46
+saw the benefits of blockchain based
+4:49
+infrastructure u for the financial
+4:52
+processes within you know within within
+4:53
+that bank and and how stable coins could
+4:55
+be one of the sort of key drivers of um
+4:59
+of that improved efficiency and um and
+5:03
+over time they convinced more and more
+5:05
+banks to join this consortium to so it
+5:07
+took about 3 years to to to find a
+5:10
+quorum if you like a core of banks um
+5:14
+to create the issuer which then they
+5:17
+would you know they would end up working
+5:19
+with or will end up working with um or
+5:21
+are working with now uh to then
+5:24
+distribute the stable coin and use it.
+5:25
+So basically they I mean I obviously
+5:28
+can't talk for the banks but my
+5:29
+experience of talking with the banks is
+5:30
+that there's real interest um at all
+5:32
+levels of the banks that we're talking
+5:34
+to. Um, and as I said, it's a growing
+5:36
+consortium. So, we're talking to more
+5:37
+and more banks in Europe. And there's a
+5:39
+real interest in looking at um, where
+5:41
+the blockchain can provide efficiencies
+5:43
+on certain processes. Uh, and how how do
+5:46
+you do that? And in order to do that,
+5:47
+especially in financial processes, you
+5:49
+need a representation of the euro on the
+5:51
+blockchain that has deep liquidity. And
+5:54
+this is I think this is sort of one of
+5:55
+the key advantages that we have as we
+5:56
+build this is um there are a number of
+5:59
+stable coin issuers in Europe at the
+6:01
+moment but there's there's still this
+6:04
+issue with uh liquidity
+6:06
+and I think where we're coming from with
+6:08
+backing of these banks that will end up
+6:09
+using the stable coin over time we will
+6:12
+naturally come to a position of of deep
+6:14
+liquidity with with a eurobased token.
+6:16
+Okay. So liquidity. So maybe there's
+6:18
+people in the audience who are thinking,
+6:20
+you know, do I go alone and you try to
+6:22
+build and and uh launch a stable coin on
+6:25
+my own or do I join a consortium? You
+6:28
+know, liquidity is one of the things
+6:30
+that, you know, the consortium will
+6:31
+bring to market. What other you know,
+6:33
+what other efficiency parts could they
+6:35
+be considering um instead of doing it on
+6:38
+their own, launching on their own?
+6:40
+Sure. I mean, it comes down to
+6:41
+fragmentation as well of the market. you
+6:43
+know the more the more different stable
+6:44
+coin issuers we have um the more
+6:47
+fragment fragmented that liquidity it's
+6:49
+you know it's similar to looking at the
+6:51
+number of um blockchains at the moment
+6:53
+you know the more blockchains we have
+6:55
+the more it fragments liquidity um I
+6:58
+think there will be some consolidation
+6:59
+in the blockchain space and I think the
+7:00
+same way in in the stable coin space um
+7:03
+if you look at the US you know dollar
+7:04
+stable coin space at the moment you have
+7:06
+maybe three or 400 issuers um but you
+7:08
+only have two or three or four really
+7:10
+significant issuers um I think I suspect
+7:12
+will end up in a similar kind of
+7:13
+situation with the euro. Maybe not three
+7:15
+or 400 issuers but definitely two or
+7:18
+three sign significant issuers and I
+7:20
+think the the difference will be the
+7:22
+ones who have users and um and
+7:25
+institutions using it. Um so on the one
+7:27
+hand obviously you know the DeFi space
+7:29
+and the cryptonatives are very important
+7:31
+piece of of how um a stable coin gets
+7:33
+used and how onchain um native yield in
+7:36
+Euro gets created. Um but then the
+7:39
+second wave will be those institutions
+7:40
+that have worked out that for crossber
+7:43
+payments or for settlement of tokenized
+7:45
+assets for um various use cases uh and a
+7:50
+euro onchain as a stable coin with
+7:51
+liquidity is just the better solution.
+7:53
+Yeah. And we'll talk a bit about use
+7:54
+cases because I think it's very critical
+7:56
+to start with the use cases
+7:58
+understanding what you use cases you
+8:00
+want to deliver versus trying to solve
+8:02
+everything for everyone right as well.
+8:04
+So let's talk a little bit about you
+8:06
+know the the the the European
+8:09
+sovereignty uh issue. So like the euro
+8:11
+is the second most important
+8:13
+international currency right it makes up
+8:14
+20 to 25% world around the world. Um yet
+8:18
+onchain the euro uh represents only
+8:20
+about 2% of the stable coin ecosystem.
+8:25
+Um what does that tell us? How are you
+8:28
+going to fix it?
+8:30
+Um I think it tells us that the you know
+8:31
+the the US dollar has a first mover
+8:33
+advantage uh in a sense. So you know at
+8:35
+the moment especially many on trains
+8:37
+onchain transactions um including things
+8:40
+like per settlement of perpetual um
+8:44
+derivatives uh settlement of um or
+8:48
+borrowing and lending in the vaults.
+8:50
+This has all traditionally always been
+8:51
+in US dollars because again that's where
+8:53
+the liquidity has been you know that's
+8:54
+where where you've been able to move
+8:56
+move larger amounts of money. Um, and so
+8:59
+the there's a whole ecosystem around the
+9:01
+US dollar that has developed onchain
+9:03
+over time. We don't have that same
+9:05
+ecosystem yet for the euro. And I think
+9:07
+that's, you know, one thing that we see
+9:08
+as our mission at Kales is to help to
+9:11
+orchestrate that ecosystem to make sure
+9:13
+we get to the place to to make sure the
+9:15
+euro onchain gets to the same place it
+9:16
+is offchain as, you know, the world's
+9:19
+number two reserve currency. So we get
+9:21
+to a place where, you know, where the
+9:22
+euro does make up 20% or more of onchain
+9:25
+transactions as well.
+9:26
+Yeah. Yeah, and I think it's important
+9:28
+to to understand that in um I live in
+9:31
+the United States. I'm actually a
+9:32
+Portuguese citizen as well. Um but
+9:34
+really important for the sovereignty of
+9:36
+Europe to have access to that. Um why
+9:40
+when talking to the banks and to the
+9:42
+consor the participants in the consort
+9:45
+and where do you feel the most urgency
+9:48
+for that is like what's driving the
+9:50
+business decisions here in Europe?
+9:52
+Um it very varies from from institution
+9:55
+to institution. um they have each of the
+9:57
+banks has their own view and their own
+9:59
+use cases that they find interesting. Um
+10:02
+but so there's there's sort of two
+10:04
+angles to it. On the one hand there's
+10:05
+you know there's there's this
+10:07
+realization that for certain for certain
+10:09
+processes it just makes more sense to do
+10:11
+it on chain. It's faster. It's cheaper.
+10:13
+Um you have you know settlement
+10:14
+finality. Um
+10:17
+and so you know there's a real interest
+10:18
+to move into that space but again you
+10:20
+need the euro on chain for it to be make
+10:22
+sense for a European institution. Uh and
+10:24
+then on the other side of that is if you
+10:26
+don't have a euro onchain, you are going
+10:27
+to start to move into these onchain
+10:29
+solutions, but you're not going to have
+10:31
+a choice but to use the US dollar. And
+10:32
+so this is part of this European
+10:34
+sovereignty angle which um I think we
+10:36
+know we need to take very seriously as
+10:37
+Europeans. Uh and so this is one of the
+10:40
+you know one of the things that has kind
+10:41
+of driven driven the the banks to move
+10:44
+forward with this process as well uh and
+10:46
+to establish Kalis and you know one of
+10:48
+our sort of driving motivations is um
+10:52
+building essentially a cornerstone of
+10:53
+European digital autonomy you know um in
+10:56
+the current geopolitical climate
+10:57
+unfortunately you know we we have Europe
+10:59
+needs to stand on its own on its own two
+11:02
+feet um and I hope we can be part of the
+11:04
+part of the answer that allows Europe to
+11:06
+do that.
+11:06
+Yeah. Yeah. And I I think it's it's
+11:09
+fantastic because the technology is an
+11:11
+enabler to allow Europe to do so, right?
+11:14
+Where in in the past it wasn't. So it's
+11:17
+really great to see. How do you see
+11:18
+Kales as you know one of the leaders in
+11:21
+in the industry um making sure that that
+11:26
+need is met here in Europe?
+11:29
+I would I would actually say we're maybe
+11:31
+slightly lag slight lagard because we're
+11:33
+actually uh we're actually only still in
+11:35
+the in the licensing process where we
+11:36
+have other euro stable coins that
+11:37
+already have have the license. Um but I
+11:40
+think the big advantage that we have is
+11:41
+that um over time as the as you know
+11:44
+banks join the consortium we have a
+11:45
+network of of users um and clients who
+11:49
+will bring institutional level liquidity
+11:52
+into the token and so over time you know
+11:56
+I think we have a certain advantage
+11:57
+there uh that will
+12:00
+allow us to become the you know the
+12:02
+leader in the space and
+12:03
+can you talk a little bit about the
+12:04
+licensing process that you're going
+12:06
+through now what you anticipate
+12:08
+sure so we founded the entity in
+12:10
+October. Um again after after sort of
+12:12
+three years of negotiation between the
+12:13
+banks to create the consortium we
+12:15
+founded the founded the entity in
+12:16
+October. Since then we've been uh
+12:18
+building the team going through the
+12:20
+licensing process. Uh we're in in the
+12:23
+process with the Dutch National Bank,
+12:24
+the DNB in in in Holland um to get a
+12:28
+license as an EMI, electronic money
+12:30
+institute, which will allow us to issue
+12:31
+an EMT, which would be electronic money
+12:34
+token, uh as essentially as a payment
+12:36
+token under, you know, what what the
+12:38
+genius calls a payment token, what Mika
+12:39
+calls an EMT. Um but that licensing
+12:42
+process is a it's a you know standard
+12:44
+process of back and forth with the
+12:46
+regulator uh to make sure that the
+12:48
+regulator sees and understands that we
+12:49
+have compliant processes in place um
+12:52
+that we have risk management in place uh
+12:54
+that we are basically building a an
+12:57
+institution that is um compliant and uh
+13:01
+and secure.
+13:02
+That's excellent. Let's switch a little
+13:04
+bit to the use cases because we were
+13:06
+having this discussion yesterday about
+13:08
+really the need to identify the use
+13:10
+cases that are going to drive um
+13:12
+adoption most forward here in Europe. So
+13:16
+if you can share some of the use cases
+13:17
+that the banks that you're working with
+13:18
+are are are um working on.
+13:21
+Sure. I I kind of see it as a a
+13:23
+continuum, right? I think on the one
+13:24
+hand we have um you know we have the
+13:27
+space that already exists. we have, you
+13:28
+know, DeFi and uh and crypto trading and
+13:30
+and crypto natives who already operate
+13:33
+on chain who need a euro because at the
+13:36
+moment you've got your yield in USDC
+13:38
+which means you're you know you're
+13:40
+losing at the moment losing value almost
+13:42
+on a daily basis with against the euro
+13:44
+with the US dollar. uh and I think
+13:45
+there's the whole space there that that
+13:47
+needs a euro onchain with liquidity as I
+13:50
+said but then the banks are looking at
+13:51
+obviously their own use cases where it's
+13:54
+I mean it's I think it's important to
+13:55
+note that we're not looking at
+13:56
+intrauropean use cases because you
+13:59
+already have payment systems that work
+14:00
+in Europe you have separate instant and
+14:01
+so on um but for crossber payments for
+14:04
+example you know a number of the banks
+14:05
+are very interested in that um and I
+14:07
+think they're you know that we're
+14:08
+already they're already looking at um at
+14:11
+getting involved in that space sooner
+14:12
+than you know maybe many of you think
+14:14
+with on the stable coin side. Uh so you
+14:17
+know on crossber payments for example
+14:19
+you you make a payment at the moment it
+14:21
+can take you know 5 to 10 days it can
+14:23
+cost who knows how much right up to 5%.
+14:26
+Uh if you make the same payment in a
+14:27
+stable coin it can take you maybe 10
+14:30
+minutes. You can actually watch the
+14:31
+transaction happen uh and it'll cost you
+14:33
+a fraction of a cent regardless of the
+14:35
+amount you send. So you know that the
+14:37
+advantages are obvious and and and huge.
+14:39
+Um and then you have the other side with
+14:41
+uh you know settlement of tokenized
+14:43
+assets for example where uh you have
+14:45
+people banks creating tokenized money
+14:47
+market funds or tokenized um debt
+14:50
+instruments where part of the big
+14:52
+benefit of tokenization is so-called
+14:54
+atomic settlement where you have the
+14:56
+possibility to settle the transaction on
+15:00
+on the blockchain meaning it settles
+15:02
+against a stable coin or another you
+15:04
+fiat instrument on chain um which allows
+15:07
+it to settle instantly. It takes away
+15:09
+counterparty risk. It makes um makes the
+15:11
+whole transaction much more um seamless
+15:14
+and allows longer term will allow things
+15:16
+like 247 um cash management. So if you
+15:19
+got a corporate client of a bank, for
+15:21
+example, um you got a large cash pool
+15:24
+sitting there. Let's say you had a a
+15:25
+payment from Brazil that arrived in on a
+15:27
+Friday afternoon. At the moment, that
+15:29
+money sits there until Monday. You've
+15:30
+got nothing to do with it because the
+15:31
+bank's process is is, you know, ends at
+15:33
+noon. Um, but if you could run, you
+15:36
+know, run this on stable coin rails, on
+15:37
+blockchain rails, that treasurer would
+15:40
+be able to take that take that money and
+15:41
+park it into into a money market fund
+15:43
+over the weekend uh and earn their
+15:45
+yield. So the, you know, the settlement
+15:48
+time um there becomes almost a yield
+15:51
+benefit. Yeah, there's a you know
+15:53
+certainly a lot of benefits and I think
+15:54
+you know from a industry pers
+15:56
+perspective over the last 10 years
+15:57
+that's what we've been driving right
+15:59
+that and um and it's really great to see
+16:02
+um the banks the institutions and very
+16:04
+importantly the regulators also
+16:06
+understand that efficiency in the market
+16:09
+um is really um being uh pushed forward
+16:12
+because of the technology because of
+16:14
+blockchain or DT or you know whichever
+16:17
+term you want to use as well. So let's
+16:19
+talk a little bit about the the the
+16:20
+technical strategy. Um Kavalis is
+16:23
+blockchain agnostic, right? So there's
+16:24
+no blockchain world. We were just having
+16:26
+a conversation. It's like every week
+16:27
+there's a new blockchain. There will be
+16:29
+consolidation. I agree with you as well.
+16:31
+But how does the consortium and the
+16:34
+banks decide on which blockchains to use
+16:37
+for which use cases?
+16:39
+Again, it's, you know, it varies, it
+16:41
+varies much from uh varies quite a lot
+16:43
+from bank to bank, but also, you know,
+16:45
+we're, you know, we have an open
+16:47
+consortium of banks behind us, but we're
+16:48
+also talking to all manner of CASPs and
+16:50
+and other intermediaries who we're also
+16:53
+working with because, you know, it's not
+16:54
+a closed loop that we're building. It's
+16:55
+it's an open open token that will be
+16:58
+available for everyone uh for everyone
+16:59
+to use to use in in DeFi as well and so
+17:02
+on and use in all kinds of use cases
+17:03
+beyond just the banks. Um, and so we
+17:07
+have to look at also, you know, where
+17:08
+where is the use of stable coins at the
+17:10
+moment. You know, at the moment you have
+17:11
+a lot of a lot of use cases that are
+17:13
+alive at the moment are on Ethereum. So
+17:15
+obviously we're talking to Ethereum. Um,
+17:17
+but we're also looking at a number of
+17:18
+other chains where, you know, you might
+17:20
+have a more focused use case for
+17:22
+tokenized asset settlement of tokenized
+17:24
+assets or, you know, there's also, you
+17:26
+know, certain permission chains that are
+17:28
+interesting for for a banking
+17:29
+environment. But um, but again, it's not
+17:31
+only the banks we're talking to. We're
+17:32
+really looking at, you know, where we're
+17:35
+looking at putting the the euro on the
+17:36
+blockchain. So, what we're looking at is
+17:38
+where do we have um where do we have
+17:40
+efficiency gains that be gain can be
+17:42
+gained via blockchain based processes
+17:44
+and where do those need the euro, right?
+17:45
+And so, wherever that interface comes
+17:47
+about, we want to be there.
+17:50
+So, when when you think about
+17:52
+interoperability and making sure there's
+17:53
+no fragmentation across these networks,
+17:56
+what is your perspective? how how are
+17:58
+you going about uh making sure that the
+18:00
+right partners are in the room for that?
+18:03
+Um yeah, it's it's an interesting one
+18:04
+because I think there's only a certain
+18:06
+amount that we can do as the issuer um
+18:08
+to to make, you know, to create a token
+18:11
+that's fungeible across various
+18:13
+networks. Um but there's also, you know,
+18:14
+at the moment I think there's there's a
+18:16
+number of people building this kind of
+18:18
+stable coin clearing house if you like.
+18:20
+Um which will also hopefully also allow
+18:22
+a certain amount of interoperability. Um
+18:24
+I think there's also you know smart
+18:26
+smart people working on uh on stable
+18:28
+coins stable coin exchanges um onchain
+18:30
+effects these all various mechanisms
+18:32
+that will allow for interoperability
+18:33
+between between tokens and between
+18:35
+currencies on chain. Yeah, I mean
+18:37
+there's a big a big need right now for
+18:39
+standards, right? For token standards.
+18:41
+Um I know at the Linux Foundation at
+18:43
+LFTT, we have a project um that we're
+18:45
+just about to launch called Otus, the
+18:47
+open tokenization asset standards. And
+18:50
+these are things that as a community,
+18:52
+many of us have been working on. There's
+18:54
+lots of people who've been uh in
+18:57
+production, you know, with systems and
+18:59
+now we need to, you know, come together
+19:01
+and figure out how do we um make
+19:03
+technical standards and then um token
+19:06
+standards as well across the ecosystem.
+19:08
+Um so what what does go live look like
+19:12
+for Kavalis?
+19:14
+So go live is well hopefully second half
+19:17
+of the year once once we have the
+19:18
+license. Um but you know as I've been
+19:20
+saying I think you know we see our one
+19:22
+of our roles as trying to orchestrate an
+19:24
+ecosystem around the euro onchain. How
+19:26
+do we make the euro onchain as us as
+19:29
+usable and as useful for people who are
+19:32
+on chain especially people who live in
+19:34
+euro at the moment and who would rather
+19:36
+be operating in euro than in dollars.
+19:39
+And so go live hopefully will be like I
+19:41
+said the second half of the year will be
+19:43
+um part of a growing ecosystem of um of
+19:48
+Euro stablecoin users.
+19:50
+Great. So as we finish off because I
+19:52
+know we're I see the red a lot. Um two
+19:56
+things. One is if the audience wants to
+19:58
+get involved how do they go about doing
+19:59
+it? And the second I'm sure many people
+20:01
+here at Paris Blockchain Week this week
+20:03
+are wanting to take back to their
+20:05
+executive teams what's next? What are
+20:07
+they going to do? So, what is one key
+20:10
+thing that they should put on their
+20:11
+agenda for their next strategy meeting
+20:12
+with their executives?
+20:14
+Well, come and talk to uh either myself
+20:16
+or Svenia or one of the other members of
+20:18
+the team here in uh in Paris. Um look us
+20:21
+up on kibalis.eu.
+20:23
+Um but the takeaway is blockchain is
+20:26
+coming. These processes are moving on
+20:28
+chain and you need to have a euro
+20:30
+onchain as a European institution to
+20:32
+operate uh operate those processes. Um,
+20:35
+so look at Euro stable coins, understand
+20:37
+why they're necessary, understand why
+20:38
+your processes should be on chain and
+20:40
+build it.
+20:42
+Excellent. Well, Yan, thank you for your
+20:44
+time. Um, I'm definitely keeping an eye
+20:46
+on what you guys are building and, uh,
+20:47
+they're supporting you as well. So,
+20:49
+thank you all for joining us today. Um,
+20:51
+and we'll see you next year after we go
+20:54
+live.
+20:55
+Thanks, Daniela. Thank you.
+21:00
+Welcome to Signal Week.

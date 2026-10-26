@@ -1,0 +1,357 @@
+Chapter 1: Intro | Welcome to Beyond Infinity
+0:000 secondsToday we talk about regulated stable coins. What everybody needs is a digital
+0:077 secondspayment. Uh and this big challenge is our life alexia and the driver of our day-to-day work. All unity want to be
+0:1616 secondspart of the ongoing change of global payments.
+0:2929 seconds[music]
+0:3434 seconds$300 billion. That's the size of the stable coin uh market today. But here's the uncomfortable truth for Europe.
+0:4242 secondsAlmost all of it is denominated in US dollars. For years, if you wanted to move money on chain, you had one choice.
+0:5252 secondsdollar stable coins, American companies, American rules, but that's starting to change. Welcome to Beyond Infiniti. I'm
+Chapter 2: Robertus Rothenhauser: Background & Career Journey
+1:011 minute, 1 secondAndy Flurry, founder of Widen. In this show, we sit down with the people shaping institutional digital assets,
+1:081 minute, 8 secondsthe builders, the operators, the decision makers making this ecosystem real. Today we talk about regulated
+1:171 minute, 17 secondsstable coins not as a cryptonative workaround but as a real financial infrastructure under Mika.
+1:261 minute, 26 secondsIf you find value in these conversations, please hit subscribe or drop your questions in the comments
+1:331 minute, 33 secondsbelow. All Unity is the case study for today. backed by DWS flow traders galaxy
+1:401 minute, 40 secondsdig galaxy digital they launched Germany's first mika compliant euro stablecoin last year and just last week
+1:501 minute, 50 secondsa Swiss Frank stable coin they've integrated with chain link fis rule match and the growing list of banks and
+1:581 minute, 58 secondscustodian they're not just theorizing they're building joining me today is
+2:062 minutes, 6 secondsRupus Rotenhoiser Chief commercial officer at All Unity. He has 25 years across traditional finance and digital
+2:142 minutes, 14 secondsassets from Berserkart all the way to BitMX. Roberto, welcome to Beyond Infiniti. Tell us about yourself and your role at All Unity.
+2:252 minutes, 25 secondsThank you so much Andy for having me.
+2:272 minutes, 27 secondsUm, it's a big pleasure. Um, you rightly said I have a long history in the financial market. Uh I started
+2:362 minutes, 36 secondsoriginally in the early 90s as a junior trader for derivatives at Barclays Bank.
+2:432 minutes, 43 secondsThat was my first job after I graduated.
+2:462 minutes, 46 secondsAnd over the course of time, I moved from listed options and futures into structured products and then from structured products trading into
+2:542 minutes, 54 secondsstructured product selling. And then I was part of the growing uh retail structured products in Switzerland. It's
+3:023 minutes, 2 secondsthe old cookie market where um at the time I spent my benchmark timing with B&B parab was I was leading the entire
+3:113 minutes, 11 secondsglobal um franchise of various locations around the world where B&B Paraba became an issue of structural products
+3:193 minutes, 19 secondsspecifically retail structural products and um then after as you rightly said
+3:263 minutes, 26 secondsalmost 20 plus years I thought it was time for a career change and I left the banking industry but not far I actually
+3:353 minutes, 35 secondsjoined Bers Stokgard as the leading retail structured products exchange in Germany [clears throat] and when we
+3:443 minutes, 44 secondsmoved on in Stoutgat we integrated OTC trading systems such as cats so suddenly had an on exchange platform but as well
+3:523 minutes, 52 secondsan OTC platform so was always quite innovative when it came to what's next coming what's the next big thing and
+4:004 minutesthat's when In 2016, I was part with my previous CEO, Alex
+4:064 minutes, 6 secondsHner, in building uh the famous Bison app, the first related crypto spot
+4:134 minutes, 13 secondstrading platform in Germany. And over the course of building that platform and getting engaged, I found my new passion
+4:214 minutes, 21 secondsand I completely left the traditional finance world and I moved into the digital space which led me from moving
+4:284 minutes, 28 secondson from Schlutka to six digital exchange. I was part of the founding team that created six digital exchange
+4:354 minutes, 35 secondsand um then I moved on. I became the CEO from crypto finance um broker agi in Zurich where Yan Breek put his trust in
+4:444 minutes, 44 secondsme in in running his brokerage business which then ended in the scenario that we all know that crypto finance group was
+4:514 minutes, 51 secondssold to Deutsche Bersza. Um and at that point I needed another career change because I then spent almost eight years in ex in exchange in the exchange world.
+5:035 minutes, 3 secondsUm and but I wanted to be closer into the digital world. Yeah. And uh the
+5:105 minutes, 10 secondspassion never left. Um I moved on from crypto finance to BitMax. Um and then a big big big step happened. Um I was
+Chapter 3: The Origin Story of AllUnity
+5:195 minutes, 19 secondsactually responsible for BitMax in organizing their regulated branches in Europe. Um but for many many reasons we
+5:275 minutes, 27 secondsfailed to get BitMX a regulatory umbrella. Um and then Alex and I left and we had this dream of building a a
+5:375 minutes, 37 secondsbank on chain. Yeah. We wanted to close the gap that Signature and Silvergate left open when the American government
+5:455 minutes, 45 secondsclosed them all down. Um so we wanted to occupy that space. So Alex and I we were shopping around the market and trying to
+5:535 minutes, 53 secondsfind funding and selling our idea of building a bank on chain.
+5:585 minutes, 58 secondsUnfortunately, we learned it the hard way that the potential investors uh looked at us with a bit of disbelief
+6:056 minutes, 5 secondssaying, "Guys, you need hundreds of millions of funding and you need five years of breath because it's going to
+6:136 minutes, 13 secondstake forever to get a full banking license, infrastructure, people, cost.
+6:186 minutes, 18 secondsBut why don't you start a little bit smaller?
+6:236 minutes, 23 secondswhat everybody needs and the first step in a potential bank onchain is a digital
+6:296 minutes, 29 secondspayment. Um, and that that's basically how the idea of all Unity was born. Then we started okay if we don't build a bank
+6:386 minutes, 38 secondswhy don't we build a fully Buffin regulated Euro stable coin. Um, and that's what we did. So we started in 24,
+6:466 minutes, 46 secondssubmitted our license application in September 24, got the license remarkably
+6:536 minutes, 53 secondsfast after 9 months in summer 25 and commence your Thank you. It's been it's
+7:007 minutes[clears throat] been an interesting ride. Um but here we are and there's more to come.
+Chapter 4: Why Europe Needs Regulated Euro Stablecoins
+7:077 minutes, 7 secondsVery interesting. You got a very interesting career path. you know from from very far away from crypto then very
+7:147 minutes, 14 secondsclose to the heart of crypto. Uh it's interesting also your your path you know from banks to exchanges and now uh into
+7:237 minutes, 23 secondsinto stable current uh land. Um let's let's let's start um with the basics for our viewers um for those that haven't
+7:327 minutes, 32 secondsheard of uh all unity. What what what is all unity exactly? uh and what's the problem you're trying to solve with your
+7:407 minutes, 40 secondsregulated fiatbacked stable coin in in in Europe?
+7:457 minutes, 45 secondsYeah, that is you mentioned already the big challenge uh and this big challenge is our life alexia and the driver of our
+7:547 minutes, 54 secondsday-to-day work. The entire digital currency market is 100% doiciled
+8:038 minutes, 3 secondsdominated and run by first of all US regulated companies in US dollars. Um if
+8:128 minutes, 12 secondsyou look at global payments on a daily basis roughly 60% of
+8:218 minutes, 21 secondspayment services around the world is done in US dollars. 20% is done in euros but in digital format 100% is done in
+8:308 minutes, 30 secondseuros sorry in dollars but nothing is done or very little is done in euros. So we we we we we saw this gap. We saw this
+8:388 minutes, 38 secondsgap. Why don't we close this gap between dollars and non-doll dominated stable coins. Why don't we start with something
+8:468 minutes, 46 secondsthat has size and is meaningful which is euro. It's a big infrastructure in in Europe. There's a lot of crossber
+8:538 minutes, 53 secondspayments happening in Europe. So why don't we start with a euro stable coin and see how it goes. Um the difficulty
+9:019 minutes, 1 secondis we entered the space in a timing when everybody suddenly talked about stable
+9:089 minutes, 8 secondscoins. Um and everybody wanted to be part of it somehow and you were you were the first ones to actually
+9:169 minutes, 16 secondsdo it and actually get so how did you pull that off? I mean so many so many entities startups wanted to do it but
+9:249 minutes, 24 secondsyou guys were the first. I think you you just hit a very important point Andy and our luck honestly our luck well a bit of
+9:329 minutes, 32 secondsluck and a bit of planning is um our shareholder structure with uh specifically with DWS the asset management arm of Deutsche Bank of
+9:409 minutes, 40 secondscourse helps a lot if you deal with the German regulator um the the senior management of DWS specifically in the
+9:489 minutes, 48 secondsform of Stefan Hopes the CEO and the digital head um Alex Beel they are they they they were and they still are super
+9:569 minutes, 56 secondshelpful when it comes to structuring the business. Visa visa regulator. Um we
+10:0210 minutes, 2 secondsalways played openly. There is no hidden agenda. Imagine if you have a subsidiary of Georgia bank in your cap table. You
+10:1010 minutes, 10 secondsyou just cannot play silly games. So we all started it. We took we took all the cost and carried all the cost that was
+10:1810 minutes, 18 secondsrequired to get the best law firm into the into the team to help us to provide um the the application prospectus which
+10:2510 minutes, 25 secondsis a 1100page document really.
+10:2810 minutes, 28 secondsUm so and somebody actually had to read that from start to finish right and you wouldn't believe it. We submitted it and I remember the date
+10:3610 minutes, 36 secondsexactly. We we submitted the paper on September the 19th last year in 2024 and we thought we will not hear from Baffin
+10:4410 minutes, 44 secondsfor the rest of the year. 6 weeks later our case officer at Baffin called us and she said I have a few questions. And I said what do you mean you have a few?
+10:5410 minutes, 54 secondsDon't tell me you already read 1100 pages. And she said I did not only read it I understood them. So, and then she
+11:0111 minutes, 1 secondasked very very important questions such as don't you think you need a second compliance officer? Don't you think you need an additional uh ani mandi a
+11:1011 minutes, 10 secondslaundering manager and so on. So really sensible questions where you thought wow she really understood the case and she has read it. So
+11:1811 minutes, 18 secondsmaybe you know today maybe they're also using tools like chat GPT and cloth to read the you never know you never know but you
+11:2711 minutes, 27 secondsnever know. Um so they was they were always helpful. Um Baffin took it
+11:3411 minutes, 34 secondsI think a little bit as an as an as an project to be at the forefront of the evolving stable coin market in Europe.
+11:4211 minutes, 42 secondsCircle domicile their regulatory umbrella with the AMF in Paris. Quantos uses AMF in Amsterdam. So there and between the jurisdictions.
+11:5311 minutes, 53 secondsExactly.
+11:5411 minutes, 54 secondsSo Bin thought wow we need to push a little bit here. let's be quite supportive to the boys from Al Unity and make sure that they get the license not
+12:0312 minutes, 3 secondssuper fast because they need to do the homework but in a in an in an adequate timing and they delivered and we were super happy. I cannot say a single bad
+12:1112 minutes, 11 secondsword about the cooperation with with Baffin. really worked well and our ambition still is
+12:2012 minutes, 20 secondswe or Unity want to be part of the ongoing change of global payments.
+12:2812 minutes, 28 secondsWe do not care if Bitcoin goes up or down. It doesn't matter. It doesn't it doesn't matter to us. And guess what?
+12:3612 minutes, 36 secondsFor Europeans, because of the regulatory framework, there is no real use case. Why would
+12:4312 minutes, 43 secondsAndy Flury buy his Bitcoin through his broker in Bit Vavo in the Netherlands with Euro stable coins or with fiat? It
+12:5112 minutes, 51 secondsdoesn't make a difference. You can move your money from one bank account another. You can pay your crypto. You can off-ramp. You can on-ramp. It's easy. There's no there is no value.
+13:0013 minutesThere is no no benefit by using stable coins. Yes, you can now argue. But if somebody wants to fund the account on a
+13:0713 minutes, 7 secondsSunday morning 3:00 a.m. the bank is closed and you cannot move funds and with stable coins you could. Yes. But believe me that market size is quite small.
+13:1613 minutes, 16 secondsVery small.
+Chapter 5: Launching the CHF Stablecoin & Working with FINMA
+13:1713 minutes, 17 secondsYeah. But but your ambition you know you said 20% of crossber payments is done in Europe. I mean the ambition I'm I'm I'm
+13:2613 minutes, 26 secondsguessing is to also have these 20%. And that makes I mean that makes sense um with the Eurobbacked um stable coin. But
+13:3513 minutes, 35 secondsnow you have also launched the uh CHF AU the Swiss Frank stable coin. Now there you're not the first. Um there have been
+13:4213 minutes, 42 secondsother initiatives by by various organizations including Bitcoin Swiss.
+13:4813 minutes, 48 secondsUm the Swiss Frank obviously has lower liquidity than the Euro but it's still an important currency. um where do you
+13:5613 minutes, 56 secondsexpect demand uh to show up um for the Swiss Frank uh uh product and and why specifically did you launch uh the Swiss Frank uh stable coin?
+14:0714 minutes, 7 secondsYeah, it it hit many people by surprise why we come with the Swiss Frank stable coin. They would have expected we bring a dollar or GBP or something else which
+14:1714 minutes, 17 secondsis meaningful in international payment standards as well.
+14:2114 minutes, 21 seconds[clears throat]
+14:2114 minutes, 21 secondsBut first of all, we do have lead orders from Switzerland who demanded or asked us kindly, can you
+14:3114 minutes, 31 secondsplease issue a mic compliant stable coin on Swiss Franks for us because there is
+14:3914 minutes, 39 secondsstill a lack of a stable coin regime and the rule book provided by FINMA or SMB and it's going to take most likely
+14:4714 minutes, 47 secondsanother one if not two years until something is ready and then you will get probably onshore fully Swiss regulated
+14:5514 minutes, 55 secondsFINMA SNB regulated stable coins. Now it doesn't exist. Everything that is currently
+15:0215 minutes, 2 secondsfloating around in the space of stable coins in Switzerland is kind of clean,
+15:0915 minutes, 9 secondsclear, regulated, unregulated, trade, defy is a bit of a mixture. So the first advantage we bring at least you know
+15:1815 minutes, 18 secondswhat you get. It is regulated. It is fully backed. We operate the same way in Switzerland as we operate in Germany.
+15:2715 minutes, 27 secondsThere is a bank. They provide us with a Swiss Frank bank account. Whatever we get money in to mint the tokens. We take
+15:3515 minutes, 35 secondsthe money put it on the reserve bank and that's what it is. So first of all we have le is this the Swiss product because it's it's it's micro compliant.
+15:4515 minutes, 45 secondsDoes that mean it's it's regulated also by by by baffin or or did you work with the Finma? Was the Finma completely left
+15:5415 minutes, 54 secondsoutside of the No, I mean I would look I'm I'm living in Han. I would never do something to leave Finma outside. Yeah. I I I love it
+16:0316 minutes, 3 secondsso much. I'm so happy that I can live in this beautiful country. So no, we invmed them. Of course we did. Uh but you're
+16:1016 minutes, 10 secondsright. the the the stable coin is a fully Baffin regulated mic compliant
+16:1616 minutes, 16 secondsstable coin but I said before what a great relationship we have with FIN with
+16:2316 minutes, 23 secondsBuffin. So when we and we have to disclose every additional currency digital we are going to launch we always
+16:3116 minutes, 31 secondshave to inform Buffin first and there will be more we we we will bring more currencies don't worry we'll come to that in a later point. So there is uh
+16:4016 minutes, 40 secondsfirst of all we need to submit a new white paper for the new stable coin to the our regulator in Germany. They
+16:4716 minutes, 47 secondscannot object but they can comment. So there's a period a grace period of like 30 days where they can answer comment are you sure? Don't you think you should
+16:5616 minutes, 56 secondslink this way that way? Once the 30 days have passed and nothing substantial has happened we can launch. And uh Baffin
+17:0617 minutes, 6 secondsoffered to us, guys, we have a very good relationship with FinMar. Why don't the three of us do a joint call? Which
+17:1517 minutes, 15 secondshappened last week, which happened last week just before we launched officially and did the press release. our CEO Alex
+17:2417 minutes, 24 secondsHner, our head of legal Alpai as well as the representatives from Buffin and the representatives from
+Chapter 6: MiCA: Opportunities & Operational Challenges
+17:3117 minutes, 31 secondsFinnbar were in a joint call and we explained to them what we do, how our product operates and works, the pros and
+17:3917 minutes, 39 secondscons and nitties and gritties. So, Finnbar was fully fully fueled up before we did the press release. [laughter] Wow, that's that's that's impressive.
+17:5017 minutes, 50 secondsVery [snorts] very nice. Um let's let's talk a little bit about about Micah. Um that that obviously, you know, that's
+17:5717 minutes, 57 secondsthat's the umbrella. Uh it's it's the first comprehensive regulatory framework for for crypto assets.
+18:0318 minutes, 3 secondsUm and it's been creating both opportunities uh but also to some extent compliance
+18:1218 minutes, 12 secondsburdens. um like from from your firsthand experience, how has Micah shaped your specific product design and
+18:2018 minutes, 20 secondsthe governance around it and the the strategy at at at all unity? Um and is
+18:2618 minutes, 26 secondsis today is it is it primarily a constraint on on what's possible or do
+18:3418 minutes, 34 secondsyou think it's actually an enabler for the institutional adoption?
+18:3918 minutes, 39 secondsBoth is true Andy. It is in many aspects an enabler but it has its downfalls as well and I will explore a little bit on both sides.
+18:5118 minutes, 51 secondsThe good thing is at least you do have a framework. Yeah, everybody is working on operating under the same rule book.
+19:0019 minutesThere is no arbitrage in legal terms.
+19:0319 minutes, 3 secondsOh, I use a French special trick uh compared to a Dutch trick or a Swedish trick against a German trick. I mean,
+19:1119 minutes, 11 secondseverybody has the same framework [clears throat] and everybody's free to use the framework in order to make business, which is good. Now, if you
+19:1819 minutes, 18 secondslook into the Mica rule book, it has of course some aspects which are not super
+19:2419 minutes, 24 secondshelpful, I would say. For example, the um the collateral treasury management
+19:3119 minutes, 31 secondsrules are quite demanding. Um we must hold for example
+19:3719 minutes, 37 seconds30% of the total value locked in cash because at any point of time if somebody
+19:4519 minutes, 45 secondswants to redeem his tokens we must be able to give him the money back instantly. That is one thing. So your
+19:5219 minutes, 52 secondsentire treasury management means two things. First of all, you need banks who hold your assets.
+19:5919 minutes, 59 secondsIn London or in UK, for example, the upcoming uh stable coin regime, for example,
+20:0720 minutes, 7 secondsallows EMI institutes like us. We have an electronic money institute license.
+20:1220 minutes, 12 secondsIf you're an EMI license holder, you can deposit your money directly with the central bank, which is not possible in my car. In
+20:2120 minutes, 21 secondsMica, we have to use banks and it's even more difficult. we have to use certain banks with certain
+20:3020 minutes, 30 secondsum ratings. We cannot use only the uh Commonwealth Bank of Cyprus. This would
+20:3720 minutes, 37 secondsnot be necessary qualifying as a as a as a stable asset holder for our stable coins. So we we first of all we need to
+20:4520 minutes, 45 secondsallocate our funds in EA banks must be regulated in France in Spain in Italy in Germany in the Netherlands. I
+20:5420 minutes, 54 secondscannot use UBS Switzerland as a reserve bank.
+20:5820 minutes, 58 secondsI cannot use Barclay's bank as a reserve bank because both banks do not belong to the EA uh environment. So that is some
+21:0621 minutes, 6 secondskind of of limitation. Um, it would be so easy for us issuing [clears throat] a stable coin in Swiss Franks to use UBS as a reserve bank, but I'm not allowed.
+21:1721 minutes, 17 secondsThe funny thing is I can use UBS SA Germany governed and licensed under Baffin. I
+Chapter 7: How Stablecoin Issuers Generate Revenue
+21:2621 minutes, 26 secondscan use UBS Germany as a reserve bank. I cannot use UBS. I'm not the UBS group. Yeah. Interesting. This is this is it is what it is. Yeah.
+21:3621 minutes, 36 secondsMay maybe you know this leads me to another qu maybe maybe a silly question a naive question. So um a stable coin is
+21:4321 minutes, 43 secondsis backed by fiat currency. It's a onetoone pick to the euro. Now you have a lot of
+21:5021 minutes, 50 secondseffort to build this stable coin because of the regulation.
+21:5621 minutes, 56 secondsUm how does a stable coin business like all unity make money?
+22:0522 minutes, 5 seconds[snorts]
+22:0522 minutes, 5 secondsThe only revenue income we generate is the interest rates we receive for our
+22:1322 minutes, 13 secondsasset treasury. Everything we deposit as fiat funds for the minting of our stable coins is sitting in a bank account that
+22:2122 minutes, 21 secondspays us an interest rate and that's our income. We decided to be quite
+22:2922 minutes, 29 secondsunique in the sense that minting on all unity free of charge. Redemption of stable coins. Getting the fiat back on
+22:3822 minutes, 38 secondsall Unity free of charge. There is no connectivity fee. There is no API. There is no monthly something. Everything is
+22:4822 minutes, 48 secondsfor free. We are the only issue on the planet where everything is for free. The only income we make is on the interest
+22:5522 minutes, 55 secondsrates. So the first ever step is when I issue euro stable coins, I need to go to my reserve bank and ask them how much
+23:0423 minutes, 4 secondsare you paying me interest rates for overnight money in euros for 50 million, 100 million, 200 million, 500 million, 1
+23:1123 minutes, 11 secondsbillion. So there are thresholds and they tell me okay overnight interest rates is XY Z and the interest rate overnight is very simple to calculate
+23:1923 minutes, 19 secondsbecause there is an Euro overnight short-term rate and it's currently 2 2.1% I think and then the bank of course
+23:2823 minutes, 28 secondswants to make some money as well. So they take a haircut from the 2.1% and whatever is the remainer that's my revenue.
+23:3523 minutes, 35 secondsAnd do you have to use banks um or you know could you use money market funds?
+23:4123 minutes, 41 secondsCould you, you know, do do things a bit more risky? Um, what what are the limitations? You said 30% cash. How free are you to work with the rest?
+23:5423 minutes, 54 secondsYes. The we can we can use money market funds, we can use government bonds and
+24:0324 minutes, 3 secondswe can use what they consider or name it high liquid assets. Those are the uh asset classes where we can allocate our
+24:1124 minutes, 11 secondstreasury into. Um we have the ambition and it's one of our
+24:1824 minutes, 18 secondsmarketing strong messages. We want to be in 100% cash as long as it potentially
+24:2724 minutes, 27 secondsgoes because as soon as you enter and deposit your money in a money market fund, if tomorrow morning there's a bank
+24:3524 minutes, 35 secondsrun, everybody wants his money back and we tell everybody mint and burn at all unity is 247.
+24:4324 minutes, 43 secondsNow, if you redeem your stable coins on a Friday night and the bank is closed, how am I supposed to sell my money
+24:5124 minutes, 51 secondsmarket funds or my bonds to instantly redeem the money? So, there will always be a token comes in, money comes only
+24:5924 minutes, 59 secondsback in T+1, T+2, T+ 3, which is suboptimal from our point of view because we believe in the religious
+25:0825 minutes, 8 secondsaspect of instant payment on chain. So that's why we try to deposit everything
+25:1625 minutes, 16 secondsin cash as long as it pays us a positive business case. The moment we start losing money, we have to allocate our
+25:2525 minutes, 25 secondsassets in a different format under the guidelines of Mica. But so far we want to be 100% in cash. And another another
+25:3325 minutes, 33 secondsimportant MAR rule is you have to put up 2% risk capital on top of your deposits.
+25:4025 minutes, 40 secondsSo every stable coin overall unity is in fact 102% collaterized with the bank
+25:4825 minutes, 48 secondsand these% you have to bring the 2% I have to pay. Yes.
+25:5425 minutes, 54 secondsYes. I have to put up that money and that's why we need strong financially solid partners and investors because you
+26:0426 minutes, 4 secondscan imagine if you have a net interest rate of plus - 2% but you have to put up 2% in capital then your net revenue is
+Chapter 8: Europe vs US: The Global Stablecoin Landscape
+26:1126 minutes, 11 secondsalready going somewhere plus minus the zero point.
+26:1526 minutes, 15 seconds[clears throat]
+26:1526 minutes, 15 secondsSo part of the part of the deal with our investors is that um they help us at least until we have reached sizable amount of TVL to stem the risk capital.
+26:2826 minutes, 28 secondsYeah. Yeah. Makes sense. Um now we talked a lot about um Euro uh Mika
+26:3426 minutes, 34 secondscompliant stable coins. Um the US um dollarbased stable coins have been around for much longer. Um you know
+26:4326 minutes, 43 secondsthere is a mix of private stable coins and there is debates about the digital dollar. Um you are obviously uh right in
+26:5226 minutes, 52 secondsthe middle of this. Um how do you see the difference between the US dollar
+26:5826 minutes, 58 secondsdenominated stable coins uh and the euro denominated? Um what are the differences from a from a regulatory perspective?
+27:0627 minutes, 6 secondsObviously there is a lot of momentum at the moment uh in in in the US um as well. How do you see those two markets
+27:1627 minutes, 16 secondsum evolve and and do you think that that Europe actually has a shot at um setting
+27:2327 minutes, 23 secondsa new global standard for institutional stable coins? [snorts] Wow. This is I could probably talk for
+27:3127 minutes, 31 secondsthe next two hours on that answer. But first of all, we are in fact, if we like it or not, doesn't matter. We are with
+27:3827 minutes, 38 secondsour stable coin uh market in a in the middle of a geopolitical power play. Um
+27:4727 minutes, 47 secondsEuropean corporates and remember what I said in my intro, our target customers and our target business case is
+27:5727 minutes, 57 secondsspeeding up crossber payments. So the corporates from Germany making payments
+28:0428 minutes, 4 secondsin Brazil, they do not need 5 days for a payment and they do not pay 3% in fees to the bank. They want to instant
+28:1328 minutes, 13 secondstransfer money in one minute from Frankfurt to Rio de Janeiro for a cost of five basis points and not for 3%. So
+28:2228 minutes, 22 secondsmore and more German European corporates are a little bit let's say cautious. I
+28:3128 minutes, 31 secondswouldn't say afraid but at least they do not want to put all their eggs into a fully US regulated
+28:3828 minutes, 38 secondsuh stable coin issuer. You never know how American regulatory law firms behave. Nobody wants to be in a
+28:4728 minutes, 47 secondssituation where somebody in the US presses the red button and suddenly payment rails in stables are disrupted
+28:5428 minutes, 54 secondsbecause somebody has a lawsuit or somebody feels has been mistreated or whatever. In Germany, in France, in
+29:0229 minutes, 2 secondsItaly, nobody is going to be arrested because somebody makes uh puts the a button press the red button. In America,
+29:1029 minutes, 10 secondsyou never know. They have some very I would call it lax um behaviors when it comes to rule books regulatory
+29:2029 minutes, 20 secondsum hindsight you can debate is it right is it wrong very difficult place people
+29:2629 minutes, 26 secondsjust do not want to increase dependency on the US markets by using a
+29:3429 minutes, 34 secondseuro stable coin coming from a US issuer that's why our belief is if we
+29:4229 minutes, 42 secondsfirst of all reach this 20% threshold on chain in euros it'll be with the help of European corporates who use our stable
+29:5029 minutes, 50 secondscoin for global payments because they do not want to use a US issuer that's one thing the other thing is I think mica
+29:5829 minutes, 58 secondshas definitely an impact on the genius act in the US um um one very important
+30:0730 minutes, 7 secondsdownfall pitfall I would say in the micro rule book is we are not allowed to pay interest rates to our token holders.
+30:1530 minutes, 15 secondsUm this is very unfortunate because we the genius so the Genius Act for for those that that don't know that's the US regula US regulation for stable coins.
+30:2630 minutes, 26 secondsUm correct and the the Genius Act does allow payment of interest.
+30:3130 minutes, 31 secondsNo that's that's what I was just about to say. Interesting enough the Genius Act takes a lot of copy paste action from Mica. It's a very similar It's very
+30:4030 minutes, 40 secondssimilar. Now, there is in the US there is currently a bit of a battle between the regulator says I
+30:5030 minutes, 50 secondsdon't mind if American token holders get an interest rate on US regulated stable
+30:5630 minutes, 56 secondscoins. the banks in the US say I don't want the stable coin issueria to be able to pay their clients interest rates
+31:0531 minutes, 5 secondsbecause it means the stable coin issueria would almost eat into the value chain of banks and the JP Morgans city
+31:1431 minutes, 14 secondsbanksman's bank of Americas of the world they of course see wow if if if circle
+31:2131 minutes, 21 secondsin the US would be able to pay interest rates on their deposits to the token holders, why would they
+31:3031 minutes, 30 secondsneed a bank? Yeah. And they there is a there's a big risk and there's a big debate. Um and and in my car in that
+31:3831 minutes, 38 secondsrespect um I would say listened to the European banks because they probably had the same
+31:4631 minutes, 46 secondsconcern and that's why the outcome of Mica was stable coin issuers under Mica are not allowed to pay interest rates to the CL to the token holders.
+31:5631 minutes, 56 secondsBut I believe the genius act is going to come. It will be very similar to to my car which is good because you do not
+32:0532 minutes, 5 secondswant to have in a global perspective 16 different regimes. They should all be kind of similar. And we have with VR a
+32:1432 minutes, 14 secondsregime in the Middle East who is very similar to to Mica. There [clears throat] is a stable coin regime in Australia for Aussie dollar which is
+32:2232 minutes, 22 secondsvery similar to Mica. So if we can get a global let's say framework even even if
+32:2932 minutes, 29 secondsit's country by country difference but the the overall said of the main route
+32:3732 minutes, 37 secondsshould be very similar and that is exactly what people trying to build. The Trump administration um did make a decision. This is very important and had
+32:4632 minutes, 46 secondsa massive impact on the European market as well. When we started to talk to European banks,
+32:5432 minutes, 54 secondsBNP, BBVA, Santandere, Uni Credit and we tried to lobby them our stable coin and we even asked them would you like to
+33:0233 minutes, 2 secondsjoin the party? Do you want to become a shareholder of World Unity? and then you can use the stable coin in your internal processes and you can offer the stable
+33:1033 minutes, 10 secondscoin to your clients. they were quite restricted because they still were under the belief well maybe the central bank
+33:1833 minutes, 18 secondsissues their own stable coin and there will be a so-called CBDC a central bank uh issued stable coin and they were yes
+33:2733 minutes, 27 secondsor no yes or no when will it come will it come at all quite indifferent suddenly the Trump administration
+33:3433 minutes, 34 secondsdecided stable coins in the US are issued by private banks and not by the Fed and this decision
+33:4233 minutes, 42 secondshad a tsunami reaction in the European market because suddenly every bank is reaching out for how can I get engaged
+33:5133 minutes, 51 secondsin the stable coin business? Who is the leading company? Where can I become an equity partner? Which stable coin should I use and sell it to my customers? Which
+33:5933 minutes, 59 secondsbank has large corporate customers with payment rails all around the world. So this decision by the Trump
+34:0634 minutes, 6 secondsadministration to uh to give the the mandate for mint and burn of stable coins in the US outside the central bank
+34:1534 minutes, 15 secondshad a massive impact and suddenly you will see stable coin initiatives popping up by banks all over the world left and right. Yeah.
+Chapter 9: CBDCs vs Stablecoins: What Comes Next?
+34:2334 minutes, 23 secondsWow. Uh time is flying. We're already coming to to the final question. Um, you briefly mentioned the CBDC, the the ECB
+34:3134 minutes, 31 secondsis is is pushing for the digital euro, but uh, you know, we've been talking about it for a long time, and it seems like it's gotten a little quiet lately.
+34:4134 minutes, 41 secondsUh, meanwhile, guys like yourself, private stable coins like the Eor AU and that the CHF AU, uh, are already live
+34:5034 minutes, 50 secondsand gaining traction. Um looking 3 to five years ahead um how do you see this
+34:5834 minutes, 58 secondsplaying out um will you know stable coins and CBD uh CBDC's coexist or will
+35:0635 minutes, 6 secondsthey serve fundamentally uh different purposes and um for for you
+35:1235 minutes, 12 secondsguys at all unity what what do you think um success will look like for for your company uh three to five years from now?
+35:2235 minutes, 22 seconds[snorts]
+35:2335 minutes, 23 secondsOh, and by the way, um you also in the introduction you mentioned uh it's it's not going to be the just the euro and
+35:3035 minutes, 30 secondsthe CHF. Um what other currencies are coming?
+35:3435 minutes, 34 secondsOkay. Um well first of all we are strong believer in an in a market
+35:4335 minutes, 43 secondsforce mark market will decide which digital format of money will win the
+35:5035 minutes, 50 secondsgame and there will be plenty of different shapes and forms of digital currency. You will have tokenized
+35:5935 minutes, 59 secondsdeposits on a permission blockchain to
+36:0536 minutes, 5 secondsenable within the bank onchain transfer digital but it's not usable to send the
+36:1336 minutes, 13 secondstokenized deposit in euro to Japan because the Japanese banks might use a completely different protocol. So
+36:2136 minutes, 21 secondstokenized [clears throat] deposits is for an internal bank or for a consortium of banks that use the same blockchain protocol. It will come and it has its
+36:2936 minutes, 29 secondsneeds and it has its reasons for being there. Central bank money for sure will come and it has its reason. But once again it will be the interesting to
+36:3836 minutes, 38 secondsunderstand and to see is the ECB version a public and permissionless protocol and
+36:4636 minutes, 46 secondsI can use my ECB do euro and I make payments in Indonesia with it or will it
+36:5436 minutes, 54 secondsagain be an internal European uh digital form of money where corporates within Europe can move and
+37:0337 minutes, 3 secondsshift around funds easily. and fast and cheap and stable coins will not disappear again. I think it's just too
+37:1237 minutes, 12 secondssuccessful and too powerful uh and and is actually to wanted by the by the industry by the corporate state. It's very convenient. It's very convenient.
+37:2337 minutes, 23 secondsSo uh we believe there will be many many different forms of digital currency and every product has his needs and his
+37:3237 minutes, 32 secondsrequirements and his benefits and his disadvantages. There is not a onefits all solution and that's why the market
+37:3937 minutes, 39 secondswill decide for which businesses and use cases which form of money will be the best solution. Um for us how would
+37:4737 minutes, 47 secondssuccess be measured? I said we want to be part of the global um payment world.
+37:5437 minutes, 54 secondsNow consider this example um and this is a this is a real use case we
+Chapter 10: Cross-Border Payments & Infrastructure Gaps
+38:0138 minutes, 1 secondare working on um a German corporate makes payments into a foreign country in
+38:0938 minutes, 9 secondsin the Far East and it currently takes as I said a couple of days until money is transferred via Swift and Zippa and
+38:1738 minutes, 17 secondswhatever and it costs quite a substantial amount of money but then if you use a stable coin it doesn't solve all the problems Because if the
+38:2538 minutes, 25 secondscorporate in Germany or in France sends digital currency to Thailand, the receiver of the funds sit there and says, "Okay, now I'm sitting here with a
+38:3438 minutes, 34 secondseuro state from UD. What am I supposed to do with that?" Now either so we need to create this this function of on-ramp
+38:4338 minutes, 43 secondsoff-ramp so that the local receiver of digital currency either converts it at least in a taibot stable coin and
+38:5238 minutes, 52 secondsbecause he has other invoices and suppliers to pay in digital format or he says I need the money because I need to
+38:5938 minutes, 59 secondsmake my payments to my to salaries to my employees so please offramp bit convert it back into tab fiat in my bank
+39:0639 minutes, 6 secondsaccount. So this infrastructure building this infrastructure we're sending digital money in one domination
+39:1339 minutes, 13 secondsto a different place in a different domination and the on-ramp offering part of it. This is this is what needs to be built. This is what what we call in in
+39:2239 minutes, 22 secondsour in our language the the mass adoption of the use case. It will not come overnight. It's not a sprint. It's
+39:2939 minutes, 29 secondsa marathon. It's going to take two, three, four years until um an an an an international payment onchain is
+39:3739 minutes, 37 secondshappening. Uh and one but one very simple challenge I mean if [clears throat] you are a corporate you want to use stable coins you need a wallet.
+39:4739 minutes, 47 secondsYeah.
+39:4839 minutes, 48 secondsNo wallet no payment. Now go to your bank. I don't know who your bank is, Andy, but let's consider your bank is uh
+39:5639 minutes, 56 secondsTetkab in Zurich and you ask them, can I please have a wallet because I need to make digital transfers to Thailand.
+40:0240 minutes, 2 secondsThey're going to look at you and say, we don't offer wallet services for corporates.
+40:0740 minutes, 7 secondsAnd then you say, but I want to use stable coins and how do I get a wallet?
+40:1040 minutes, 10 secondsSo, you need to find somebody who is a wallet provider to you and then you need somebody who is saying that within the digital asset
+40:1940 minutes, 19 secondsspace, uh the solutions are there. the stable coins, the the the the blockchain infrastructure, but um these two
+40:2740 minutes, 27 secondsecosystems, the the the cryptonative stable coin ecosystem and the traditional fiat system are not interlin
+40:3440 minutes, 34 secondsyet. And and we need all these connecting points, these gateways for the two system to really really
+40:4240 minutes, 42 secondsconverge. Yeah. And this is why it is so important to have old people like me. Uh because I know from my early days how a
+40:5040 minutes, 50 secondsbank operates and I know how a digital native company operates. And it only works and the mass adoptions and the
+40:5840 minutes, 58 secondstrillions of dollars will only happen as you just said if those two trade and
+41:0541 minutes, 5 secondsdefy market participants comingle with each other. And you will have somebody who is able to show a combined treasury
+41:1541 minutes, 15 secondsto a to a finance minister of a large corporate saying this is our exposure in fiat. This is our exposure in digital
+41:2341 minutes, 23 secondsand altogether this is our total combined risk capital. As long as we do not have these functions for management
+41:3241 minutes, 32 secondsof tradefi and defy positions in large corporates treasuries it's going to be slow growth but it's growing luckily
+41:4041 minutes, 40 secondsotherwise we wouldn't be here. It's growing. It's growing every day. Every day somebody else coming up.
+41:4641 minutes, 46 secondsLuttos we're coming to the end. Um, last question. Besides the do you own the Swiss Frank? What's coming?
+41:5341 minutes, 53 secondsI cannot disclose them all, but I
+41:5741 minutes, 57 seconds[clears throat]
+41:5841 minutes, 58 secondscurrencies closer to us here or a little bit uh further away.
+42:0342 minutes, 3 secondsUm, look, I I have, let's put it this way. I give you a couple of of currencies I'm
+Chapter 11: Future Currency Expansion & Closing Thoughts
+42:1142 minutes, 11 secondscurrently talking to, and some of them will most likely come. We are we have an uh a partnership with with a with the
+42:1942 minutes, 19 secondswith the leading Aussie dollar stable coin issuer. We have um a very strong
+42:2542 minutes, 25 secondsalignment and once again uh DWS APAC is helping is helping us a tremendous deal.
+42:3342 minutes, 33 secondsThey can open doors for us with um APAC originated corporates uh and stable coin
+42:4242 minutes, 42 secondsissuers. So we talked to Honky dollar providers, we talked to Zing dollar stable coin initiators, we talked to
+42:4842 minutes, 48 secondsKorean one stable coin initiators, but a little bit more closer to to to you and me and the um I think there are a couple
+42:5742 minutes, 57 secondsof European country currencies that are not yet euro and might never become euro
+43:0543 minutes, 5 secondsor some of them were euro and then suddenly became something else again.
+43:1043 minutes, 10 secondsBut um we we are we we as I said we need round about two months to set up a new currency. Yeah.
+43:1843 minutes, 18 secondsSo we are now in March our ambition is within 26 we will end up by having round
+43:2543 minutes, 25 secondsabout five five six different stable coins. Um so we are definitely going to see some news from all you throughout the year.
+43:3343 minutes, 33 secondsYes.
+43:3443 minutes, 34 secondsVery good. Rupus thank you so much uh for your time today. Um, you know what comes through is that European stable
+43:4343 minutes, 43 secondscoins aren't just the regulatory exercise. They're becoming a real infrastructure with real volume and real partners. But as you said, the
+43:5243 minutes, 52 secondstraditional world and the stable coin digital asset world have to come together. We need more cooperation. We
+44:0044 minutesneed people like yourself that understand uh both worlds uh and work on innovative um solutions. That's it for
+44:0944 minutes, 9 secondsthis episode uh of Beyond Infinity. Um if you found this conversation useful, please hit subscribe and if you have
+44:1744 minutes, 17 secondsquestions, feedback or guests you would like us to feature, uh drop them in the comments below. I'm Andy Flurry. Thanks
+44:2644 minutes, 26 secondsfor watching and we'll see you in the next episode.
+44:3344 minutes, 33 seconds[music]

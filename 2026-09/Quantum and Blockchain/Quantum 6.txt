@@ -1,0 +1,784 @@
+
+Search in video
+Cold Open: The Quantum Threat
+0:00
+If you want true peace of mind, you want a quantum native asset. Eventually, one day, quantum computers, like just cuz of
+0:06
+the architecture, will be really good at breaking types of encryptions that we've decided to go for. The main problem we're running into right now is that
+0:12
+postquantum schemes, they like require super large signature sizes. Biggest bottleneck is just research.
+0:25
+Today we have Ross from Multivm Labs. Ross is our senior software engineer,
+Introduction: Ross, Senior Software Engineer at MultiVM Labs
+0:30
+Ross and Kama. Maybe you can introduce yourself though. Yeah, I'm Ross. Been working with MultiVM Labs for um like a couple
+0:37
+months. Um so I'm a senior software engineer uh mostly doing work on building the the
+0:43
+layer 1 and researching like the bits and pieces and how they all fit together to make a fully quantum proof L1 from uh
+0:50
+top to bottom. What was your background? What did you do before in your life? Yeah, uh I did a bunch of stuff. So I
+Ross's Background: Google → Contracting → Web3
+0:55
+did from um AI um at like big companies. Um so I I started off in big tech. I
+1:02
+decided it was shielding me from a lot of the processes that smaller companies like get involved in and um I had a too
+1:11
+large a distance for my liking to the customers. So I wanted to actually get my hands dirty. So that's why after
+1:16
+Google I decided to um start contracting. So that gave me the widest breadth of companies to work with and uh
+1:24
+eventually doing this I learned about the crypto industry because I got to jump around a bunch of different industries to figure out what I like
+1:30
+doing. Um so yeah I liked the promise of um like decentralized uh ledger
+1:35
+technology and decided to work in that full-time for the last maybe two years. Mhm. And so the last two years you've
+1:41
+working in the blockchain industry and web 3 as we call it. What are some of the things you've seen the last two years changing in the industry? So I I I
+Trends in Web3: From Speculation Back to Utility
+1:48
+joined quite late, so I missed the whole like cipher punk era. Um I kind of have nostalgia for an era I
+1:54
+didn't experience. Um so I wish I joined a lot earlier um just just to see what the community was like back then. But yeah, one thing I've
+2:01
+noticed is um there seems to be a regression from pure speculation, you
+2:06
+know, like meme coins and uh like NFTTS back to utility like very slowly but surely.
+2:11
+Um so I think that's the thing that's exciting me the most at least in recent history. and utility in terms of financial utility or utility in terms of
+2:18
+what the underlying technology can actually do because I think there's two different paths here, right? One is yield bearing assets or the
+2:24
+financialization and the other is cryptography itself like what can you do?
+2:30
+Yeah, I think it's completely across the board. So yeah, I'm really impressed with the DeFi like financialization side of things. Um finally, we can trade
+2:37
+stocks on Jane permissionlessly. We can um yeah, we can trade stocks. Um like a
+2:45
+bunch of asset managers are moving to tokenize different assets like housing for example. Um yeah, we we don't know
+2:52
+too much about the second order effects but there's a lot going on in crypto right now and um I think the total value
+2:59
+across all chains across all ecosystems um more and more it's getting pure and pure. So the money is actually pointing
+3:05
+to real utility. Mhm. So we're here at the QAP which is a quantum information
+3:10
+processing conference and uh did you have some learnings while you've been
+Quantum Research at the QIP Conference
+3:16
+here listening to to the talks um I understand it's a new field um for
+3:24
+you but can you draw inspiration from from this area? Mhm. Yeah. So, I dabbled like very lightly in
+3:32
+quantum research and stuff like that maybe six years ago, like four to six years ago. Back then was a lot of paperware and
+3:37
+vaporware. Um there were some promising um signs with it as well. So um the the
+3:44
+QA threat was always there knowing that eventually one day um quantum computers
+3:49
+just because of the architecture will be really good at breaking um the types of encryptions that we've decided to go for
+3:55
+like with like DTS and other traditional um applications as well. Um but yeah I
+4:01
+think yeah from coming here I realized there's a lot more forward facing research. So yeah, that there's a lot more applicable
+4:08
+um like applicable research that you could pretty much play with today. Um there's a lot of open source libraries.
+4:14
+There's a lot of uh researchers working on like really important things. Um so like real cryptographic primitives that
+4:20
+you can find some kind of library on GitHub and like download the source code and actually start playing with it. Mhm.
+4:26
+So yeah, I think it's slowly maturing and um I think there's actual real
+4:32
+utility. Um and it's quite a big breath as well and
+AI & Autonomous Coding Agents: The Two Buckets
+4:37
+touching a complete different field. something we are talking every day in the company is artificial intelligence
+4:44
+and I think you are uniquely positioned maybe to answer some of those questions
+4:49
+since you have been working in in AI as well about the big big trend of I wouldn't
+4:57
+call them tools anymore any I would call them AI operating systems right stuff
+5:03
+like cloudbot stuff like um cloud code right or or or or all the the the the
+5:11
+the additional stuff going to cloud code also codeex. Everyone has his own stack
+5:18
+and and and and one gets the feeling every day we are progressing uh faster
+5:24
+towards a fully autonomous coding agent and maybe you can describe to to me what
+5:31
+you are using yourself what you find helpful and where you think the journey is going with that. M yeah. So um yeah,
+5:40
+so for me I break AI use into two categories um of like when and how you
+5:45
+should use them. Uh so the first is if you're doing something difficult that you you're not
+5:50
+too familiar with and there's like learning and lots of unknowns and the second is if uh pretty much you know
+5:56
+exactly what you're doing. You're building uh like a somewhat simple product um which you can quite easily
+6:02
+spec down. Uh so like these are the two buckets for me. So with the first bucket, um I see a lot
+6:10
+of companies like kind of jumping on AI without planning very well first. Um like they're trying to solve difficult
+6:17
+problems, but you can't just throw like AI at those type of problems without um the whole team having really strong
+6:22
+competency first. Um and then on the second hand, there are people solving like pretty
+6:28
+repeatable um speechable problems and I'm seeing them get like 10x the output
+6:34
+that they would have got otherwise. So um yeah, these are the two buckets and what you want to do is you want to
+6:41
+become really competent in your stack first. So like we're working with like cryptographic primitives and stuff like
+6:47
+that. Um if you don't know what you're doing then uh you don't really you you
+6:52
+won't be good at steering the AI to the output you want. Um you won't be good at prompting, you won't be good at reviewing what the AI creates. So yeah,
+7:00
+first step with every team is to get to some kind of baseline competency where you can be sure that um AI is easy to
+7:07
+navigate. So yeah, that's what I say. Um the whole
+7:13
+point is to move from the first bucket to the second bucket. So once the whole team um that's working on the really
+7:19
+hard problem, they reach that baseline, then it's easy to um
+7:24
+decompose complex problems and workflows into much smaller bucketed ones and then
+7:29
+solve them all individually with AI. So yeah, scale up first and then optimize later with AI. And and for
+7:37
+someone who's now overly investing in every stack which comes out and we we see this cloudbot which maybe
+7:44
+is the most close thing to an autonomous a agent or AI assistant. Do you think we
+7:51
+are going into an age or this year maybe where we will have
+7:57
+everyone becoming just a pilot for the AI and it doesn't really matter what you understand about
+8:03
+the topic or not because the AI will do majority of the work. Uh I still don't think so. I still think
+Context Engineering as the Key AI Skill
+8:09
+um the people at the strongest edge are the best context engineers. They understand how to um you understand how
+8:17
+to start at zero. Um engineer the peripheral information that you need to get tasks done. Um
+8:25
+engineer the AI workflow itself. So what I mean by that is um like AIs aren't
+8:30
+so the the best models they aren't infinitely scalable, right? you have context windows and stuff like that you have to manage.
+8:36
+Um with certain problems you can't rely on the AI to self-manage those context windows. So like if you have kind of
+8:43
+basic understanding of how context works you can put together a basic pipeline um
+8:49
+which like helps you optimize how you're managing tokens from top to bottom. Uh so it's little things like this which I
+8:55
+think people need to get the most out of AI. Um, I still don't think we're there yet when I still don't think we're there yet where the like tooling that's
+9:02
+happening behind the scene with things like claw code are super efficient at managing context and like a bunch of
+9:07
+other variables that need to be managed. Mhm. But but do you see a road towards that? Yeah, possibly. I think well actually
+9:14
+definitely I think at some point we will get there but um I'm not good at timelines so it could be in the near
+9:20
+future. It could be far away. Um but at least for now like in the super near future um really good context engineers
+9:27
+will get the most of AI. And what I read often, not often, but I read today is that due to the fact that now the masses
+9:36
+are being elevated in a sense, right? Anyone without a formal education in computer science or formal training
+AI Elevates Everyone, Hard Tech Gets Harder
+9:43
+can build or wipe code, whatever you call it, a website, even a SAS product, anything
+9:50
+which is tangible in a sense. And therefore more qualified teams with
+9:56
+expertise in doing hard challenges are moving into hard tech problems. nuclear
+10:04
+sciences, pharma, bioscience, anything which would be maybe time
+10:10
+constrictive, maybe also too much capital intensive in the furious years that the that the next wave of of
+10:16
+startups or or to count as a startup, you you'll be basically solving hard
+10:21
+tech problems and everything else can be solvable by the AI itself or by by people. Do you think that is true?
+10:26
+Yeah, I think that's pretty much a perfect summary. um especially for especially for the near future. I think
+10:32
+that's a perfect summary. Um like really commoditized like SAS for
+10:37
+example um there's 2 million there's 2 million SAS companies and apps being pumped up.
+10:43
+Um it's quite easy to do if you have like just a basic understanding of uh like client server architecture and
+10:50
+stuff like that. Um but yeah I think
+10:56
+yeah I think for a long while like hard problems which um like require deep
+11:03
+domain knowledge and research I think that will I think the bar for talent
+11:08
+will keep getting shifted up and up and up like as time goes on. Um but yeah I think it will be the only way to stay relevant. Mhm.
+11:14
+So in order to to keep the edge, you essentially need to solve harder and harder problems. And this elevates us as
+11:20
+humanity to solve maybe the hardest problems in a sense. Yeah. I I think it's a filtering process too. I don't think we'll all move together. I think just that the best of
+11:26
+us will um the best of us will incrementally improve and slowly get filtered out and maybe in
+11:32
+but will happen with the ones which are not progressing. No idea. That's for politicians and
+11:38
+people like that, you know, and and and in particular now with quantum and and multivvm labs, um your
+11:44
+job is is pretty hard technically. So you're trying to take the years of
+Post-Quantum Cryptography Challenges: Signature Sizes
+11:49
+accumulated research in layer 1 design and layer two design and network design for distributed systems. Um and now we
+11:56
+have quantum cryptography, postquantum cryptography, different encryption
+12:03
+schemes. Is there a difficulty taking let's say a latisbased encryption scheme like I
+12:08
+don't know uh the lithium and just replacing it with a ECC based encryption
+12:13
+scheme where is the difficulty there? Yeah. So yeah I guess the main problem we're
+12:18
+running into right now is that uh postquantum schemes like especially like latis based um they um like require
+12:26
+super large signature sizes and like we're in the business of distributed computing. So we're we're
+12:31
+getting we're getting end computers to talk to end computers. So if we're if the
+12:36
+payload between these computers getting sent over the network super large, then the stuff we're trying to do on chain
+12:42
+like um won't happen in a way that feels good for a user like waiting 100 seconds
+12:48
+for example for a simple swap to go through or um waiting 2 minutes for a validator round to consolidate.
+12:54
+So yeah, the main problem we're seeing right now is um issues like this. Um and what are some solutions? you know what
+13:01
+what what what what are you suggesting we could do to to decrease the is the solution to decrease the message size or
+13:08
+is the solution to increase block size what uh so yeah we're experimenting
+13:14
+experimenting with a bunch of things um so first the research heavy um areas so like um there are a bunch of um there
+Solutions: BLS Aggregation & Optimistic PQ Validation
+13:22
+are some classical primitives that exist which make consensus possible with certain consensus um algorithms so
+13:29
+like for example um like BLS uh BLS a aggregation where you can you can take
+13:35
+certain signature schemes and you can aggre uh aggregate um you can aggregate against all the nodes in the network uh
+13:41
+during consensus so that the um complexity only looks like um the
+13:47
+complexity is only equivalent to pretty much one signature being seen. Um so
+13:52
+with um like latisbased signatures there's no
+13:58
+there's no cryptographic primitives for doing things like aggregation. So one uh area we're looking into is actually
+14:04
+building these cryptographic primitives. So this is more on the research track. Um but there's also an engineering track
+14:10
+which um it still has like heavy elements of research but it's more
+14:15
+applied and it's easier to throw out experiments and validate against it. Uh so yeah the second engineering track is
+14:21
+more uh practical approaches. So like um
+14:26
+reconfiguring um how consensus works at certain points to make sure that we can
+14:32
+like potentially mitigate for the um large cross communications uh of like large signatures or um yeah basically
+14:40
+things like this. So I think it's it's separated into two. Uh one is uh research primitives that allow us to
+14:46
+replicate um mechanisms that we have in the classical world to work for uh postquantum signatures and um
+14:53
+engineering solutions as well like just reconfiguring how consensus works and uh yeah that's pretty much
+15:00
+there's also this discussion we had a couple of weeks ago um about quantum algorithms not
+15:07
+necessarily maybe being the best for classic computers and and the risk of that, right? Having maybe a lot of space
+15:13
+encryption, but maybe a classic computer can break it, right? That is kind of the the the fear. And and one of the
+15:19
+proposed solutions is that you have not just for us, but like generally the proposed solution is you have a hybrid
+15:25
+model where you have the the classic classic encryption of ECC. Then behind
+15:30
+that you have something like a PQ encryption. Um but that kind of adds even more data
+15:36
+and even more sizes in in my understanding. So any any ideas around this hybrid model or is it necessary? Is
+15:43
+it something you would advise or is it something where you're just overly
+15:48
+cautious? Uh it could be. Um so at least in the context of like distributed computing uh
+15:53
+like decentralized ledgers. Um it could be a decent compromise. Uh so
+15:59
+it's another research track we're going down. Um so the reason I'm saying it could be a decent compromise is we can
+16:05
+we can take cues from other networks. So like for example optimism um in our case
+16:11
+we can optimistically um we we can optimistically say that um all rounds
+16:18
+that have been validated against like um there are no bad actors and a node in
+16:24
+the network can say oh like something doesn't look right here. um it signals to the network that something doesn't look right
+16:30
+and we go back to our last checkpoint in consensus and uh we run like postquantum
+16:36
+algorithms to prove everything. Uh so so these are the really heavy slow algorithms. Um but that's fine because
+16:42
+we most of the time there isn't a bad actor. Um so that's one of the areas where um that's one of the areas where
+16:48
+you can so it will be like an optimistic roll up almost but with the
+16:54
+with the PQ testing doing it once in seven days let's say once in once in a day.
+16:59
+Yeah. So you you accept the negatives of the um new technology, but because the
+17:07
+because the network has a like most likely happy path that's
+17:14
+always being encountered. Um the performance impact is almost negligible
+17:19
+in like the real world. Mhm. and and but and but but but what would be the the biggest bottleneck you
+17:25
+say to have like a fully PQ encryption in a layer one today? Yeah. So the biggest bottleneck is just
+17:32
+research. Um it's it's likely that you'll have to make up new cryptographic primitives or
+17:38
+um change the architecture of how consensus is done to make it work efficiently. Um yeah, I'd say that's the main
+17:45
+Do you see yourself contributing towards that? Do you think it's a very valuable thing for the future to have quantum
+17:50
+resistant decentralized credibility through networks? Yeah. Yeah, for sure. Um, I think that's what I've seen in this event, which is
+17:56
+kind of what got me excited. Like a lot of people are working on these primitives that we'd probably be using
+18:01
+to make this L1 work. M and on speeding up a layer one parallelization
+18:08
+parallelism we heard a lot about this last year with monad alternative virtual
+18:14
+machines like SVM comparable to EVM and also alter was um what's your what's
+18:22
+your view on all that happening and can we incorporate some of those best practices already
+Parallelization & State-Based Sharding
+18:28
+yeah um yeah so my view on parallelization is that it should be
+18:35
+um it should be global and state based. So what I mean by that is I believe all
+18:40
+state on the network should be sharded into little pieces and the network paralyzes consensus across all shards. I
+18:47
+I think that's the best sharding model. Um so what chains like Salana and Monad and stuff do is they shard at the node
+18:54
+level. So it mean it makes execution and uh verification faster um at the node level. But I think um I
+19:01
+think this should definitely this this should definitely happen on the network level. So like in our case it could be quite a big advantage. Um so the reason
+19:08
+why is because like um you can imagine so let's say we have our network and we
+19:13
+have five different shard groups. So these five different shard groups are working on uh local consensus for like a
+19:19
+batch of transactions that have just came in. So what this means is uh we've effectively cut the um we've effectively
+19:28
+cut the validation time by a fifth depending on the transaction um makeup obviously but um it potentially allows
+19:36
+us if the distribution of transactions is
+19:42
+um very well sharded. It potentially allows us to use these heavy um PQ algorithms
+19:48
+because it's only small validator groups talking to each other. So like maybe five nodes talking amongst each other. So
+19:54
+is this comparable to a cluster? If you play like video games, let's say esports, you have a cluster of let's say
+20:00
+a server and then you you you basically play let's say on the west coast server
+20:05
+and and the latency that only travels to to the west coast. Uh not quite. It's more like
+20:12
+um okay, so this isn't a good analogy, but like imagine you had um imagine you had
+20:19
+a group imagine you had like a a room full of 25 people.
+20:24
+Mhm. And um and the task you want to do is let's say
+20:32
+you want to get everyone to stamp their approval on a piece of paper that something happened or didn't happen.
+20:38
+Mhm. So one way you could do it is you could um so like I'm I'm like really
+20:43
+oversimplifying it but one way you could do it is let's say you just cue all the 100 people and they stamp one after the
+20:50
+other. Um another way you can do it is you can break you can break the um groups into
+20:56
+you can group the you can break the whole group into a group of five and split the work amongst them. Um
+21:02
+so basically split the contract. Exactly. So, so what I was saying earlier is um
+21:09
+chains like Solana um they do this at the node level. So, it just means um execution is faster, uh verification is
+21:16
+faster, but um ledger
+21:22
+um ledger aggregated transactions still get pushed like almost in a queue. Um
+21:28
+they all get processed at one particular point. Whereas if you have state- based
+21:33
+parallelization um so actual state is sharded across different networks within the same chain then you can truly break
+21:40
+down tasks into um you can you can truly break down tasks
+21:45
+to be broken down in parallel like in the global scheme of things. Mhm. So that's why I prefer like state based
+21:50
+paralization. And can you combine that with something like a a first order first come methodology of let's say
+21:57
+block building because as one of the major issues I have
+22:02
+personally encountered with a synchronous computing or sh computing is that
+22:08
+if you don't have a set finality for a block it's very hard for let's say market makers or or math builders or
+22:15
+block builders to know when a transaction will happen since could be now or it could be let's say in 4
+22:21
+seconds. So they don't want to market make on the chain or they don't want to do professional trading on the chain
+22:27
+since it's impossible let's say to to know when a transaction will be included. There's no such rule for that.
+22:33
+Mhm. Yeah. I'd say that's not necessarily a bad thing. Um so I think a good chunk of strategies that
+MEV, Finality & Market Makers
+22:40
+rely on execution speed um a good chunk of them are like malicious. So they're
+22:46
+bad for the user. So like one example is um I'm about to submit a swap on unis swap um and a like hedge fund or whoever
+22:54
+they see my transaction in a in a pool with everyone else's and then they decide to sandwich me. So they basically buy a
+23:01
+little bit before me and they sell right after me. So I ended up uh my my spread increases so I end up losing more money.
+23:07
+So yeah technically by making this harder you're eliminating this class of um this class of uh like strategy. So
+23:15
+that's that's actually better as a whole for the user. Um but it still um it still keeps a lot
+23:22
+of the good meth. So what I mean by good mev is stuff like arbitrage. So you've got one exchange trading uh a token at a
+23:30
+slightly higher price than another. That's not good for the user because if no one corrects it, eventually the prices will drift so much and the user
+23:37
+won't know what the real price of Bitcoin is, for example, on your chain. So like on Ethereum they'll see on every
+23:42
+single um market it's like $83,000 whatever they go on your chain one market it's 17,000 and
+23:49
+so on so forth. Um so this doesn't rely too much on execution speed um in the same sense um
+23:55
+or or it does but it doesn't rely on um execution speed relative to uh you know like breaking in front of a transaction
+24:02
+to like manipulate things. You um this is a bit different. So you don't need to um monitor the supply chain in the same
+24:08
+way. Um so yeah I just to sum up I say it's it's not necessarily a bad thing and and how fast could what I'm touching
+24:15
+here on is more finality right uh and why I'm asking this specifically is about order book based exchanges
+24:22
+which are centralized and have a very high fast finality um because they're mostly in one server so you have
+24:29
+something like Amazon and then Amazon has let's say their service in in in
+24:34
+Japan and and one famous crypto exchange and many famous crypto exchanges are hosted there and And so since they're all hosted there, the finality of their
+24:42
+order book is very very fast. Right? There is the other thing of of of trusting them though. But the the thing
+24:48
+is if I'm a market maker and I place my inventory of of two positions into into
+24:53
+the order book, I kind of know how fast it is, right? And and I can either show
+25:00
+inventory or delete inventory from the order book. Yeah. as fast as as like f maybe trying
+25:07
+to balance out market risk with that and if I see that my prediction of the market for the next hour was super wrong
+25:13
+and and something happens I can in I can I can delete my inventory so I'm not filling orders anymore
+25:19
+and that is interesting if I can use the same inventory in the same same speed
+25:26
+across all the Texas so I can I can have an arbitrage right so I'm showing inventory on all the Texas they have
+25:32
+they have all all let's say almost the same finality. So I'm showing inventory everywhere. So I can use this
+25:40
+advantage of being um market making everywhere to maybe get an arbitrage
+25:45
+advantage. And then if I include onchain products then every
+25:52
+millisecond of slower finality adds more risk to my inventory because I have to block
+25:58
+inventory everywhere. plus the gas fees if if you count them in. Um and the and
+26:04
+the and the slower finality are arguments for me to exclude a chain yeah
+26:09
+from my from my market making activities but include more centralized chains
+26:14
+which which are just either cheaper or faster or both ideally. Um
+26:21
+don't do you think this is still compatible with sharding? Can you have a sharded system which is still inherits
+26:27
+these properties of a very fast very very very
+26:33
+um fast finality and and also maybe that's that's a toconomics issue but
+26:39
+maybe lower amount of gas fees cost. Yeah. Uh I mean it's definitely possible um just uh like I haven't looked like
+26:46
+deeply into this specific topic but it's definitely possible. you just um I'm sure there's a like architecture that
+26:53
+you can come up with um like I'm sure there's one that already exists on different so I I know there's like chains like Shardium and stuff like that
+26:59
+that exist near famous blockchain near as well. Yeah. Um so yeah but that's very specific problems let's
+27:05
+say at the near protocol where where the the the chain is sharded and therefore the finality is just very very
+27:12
+slow because your chunk of a transaction could be spread around multiple blocks for
+27:18
+example and until your transaction finalizes could be like two blocks could be one block and that is horrible for market makers since they cannot rely on
+27:25
+a on a let's say first in first out sequencer or something. Yeah, I don't think they're like I think it's
+27:30
+definitely hard to do, but I don't think they're fundamentally incompatible. Um I don't know too much about this specific problem, but um yeah, I mean it also
+27:38
+depends on what your chain is trying to do, right? So like Monad is positioned as um a chain for like high frequency
+27:45
+trading. Uh but what if you just want to be a simple asset layer for holding long horizon assets? Um what if you
+27:52
+Yeah. What if you want to do a bunch of other things? So it also depends on what you kind of want your chain to do. Mhm. So if if with if with if with if with if
+Bitcoin's Quantum Vulnerability
+27:58
+with if with if with if with if with if with if with quantum resistancy the idea would be that any asset minted on this
+28:03
+chain and also the native asset are are resistant in a postquantum computer world.
+28:08
+Mh. Um, one challenge here would be to say, and I'd like to hear your opinion about it,
+28:14
+is let's assume you have a asset like Bitcoin, right?
+28:20
+And and Bitcoin today is trading, let's say, at $80,000 and I know that in this current state,
+28:28
+the encryption it's using is not quantum resistant. Right. But I don't know when a quantum
+28:33
+computer attack will happen. So, if I sell my Bitcoin today, Yeah.
+28:38
+I might be losing some alpha, right? Sure. Let's say I might be losing
+28:44
+exposure to the asset class and whatever way I want to express this, long or short. Um,
+28:51
+and if I lose exposure, maybe I'll lose out on on big profits until a quantum attack
+28:58
+happens, right? This could be in three years, let's say. And therefore, I don't want to sell my Bitcoin. Is there a way to save Bitcoin
+29:07
+or is it fundamentally flawed because the original asset will always go to zero? Uh I'm not too familiar with the Bitcoin
+29:15
+stack itself. I mean it's not quite a resistive at all.
+29:20
+Yeah. So unless they upgrade it, sure. But right now it's not. Yeah. So from what I understand, it just does one thing. Um it's just about the
+29:27
+Bitcoin asset. Um, so I guess any attack even at the
+29:34
+consensus layer pretty much would make the asset useless. Yeah. Um, even if you quantum proofed it on
+29:40
+another chain, um, I don't know if the the asset would necessarily go to zero. Exactly. But um,
+29:48
+only the quantum proofed asset would be considered like the circulatory like a safe
+29:53
+circulation of Bitcoin. So yeah, in in general um yeah, if a quantum attack did
+29:58
+happen um just just because of how monolithically built it is um the asset would go close to zero.
+30:04
+Um what was the original question? So basically you cannot use a bridge
+30:09
+just to to make it as to quantum. Yeah, you you basically you can't just bridge you need to make um
+30:16
+yeah but bridging is bridging is a crazy amount of work because there's so many moving pieces that you need to make sure
+30:21
+are also quantum proof. Mhm. Um so yeah, you can't just bridge um at least
+30:27
+for now like maybe then from now to the next 10 years or whatever it could be that
+30:32
+yeah if you want true peace of mind you want a quantum native asset you know that's um
+Quantum-Native Assets & Safe Bridging
+30:38
+originates on a quantum safe chain and um of course people can bridge out of it or whatever but that's at their own risk
+30:43
+but the uh most of the supply should live on a quantum proof chain built from the ground up
+30:49
+and are there risks of taxes this working with quantum
+30:56
+because we don't have I mean this is just a theoretical because this is this is an area actually we need to work on
+31:01
+but an area which which does um which is complex in a sense and and doesn't have
+31:07
+a real answer. So let's assume you have a quantum quantum resistant asset which
+31:12
+is minted on a quantum resistant chain. Um and now you also want to have this
+31:18
+asset on at sex, right? So there are two ways to do that. Either
+31:23
+you convince that they integrate your token standard that they integrate your
+31:29
+blockchain. So you have basically a wallet in your chain and and then they have custody of these assets on your
+31:35
+chain and and whatever they do on their tech side that's their thing. I mean they could do it centralized right for the
+31:40
+users etc. But if you cannot do that, especially if you're a young chain, right, with let's
+31:46
+say a young trajectory, they don't trust you or or they don't want to um take the
+31:51
+hustle of integrating you, what would be a clever workaround to would it be a clever workar around to bridge the native asset to a to let's
+31:58
+say ERC20 standard or Ethereum and say look any user who buys it on its sex, he can get a representation of the
+32:04
+quantum safe asset on it and he's always allowed to bridge it. So I guess it's a rep say let's say a
+32:10
+wrapped cubid token. Um but like unless he unless he has his own
+32:15
+custody on on a quantum resistant chain it's not quantum proof. Would that be a workaround which might work? Um so
+32:23
+yeah pretty much the main rule of thumb is as long as the supply is um only mut
+32:29
+mutable on a quantum proof asset layer then the
+32:35
+asset as a whole is safe. Mhm. Um but if I hold let's say wrapped cubit
+32:40
+on Ethereum and Ethereum gets broken from a quantum computer that's my own fault. The cubits
+32:46
+your your your wrapped asset is yeah gone but the but the original the general integrity of the asset is
+32:52
+still safe because this mutability is on a quantum proof chain. Okay that that is that isn't that is an
+32:58
+important factor. But do you think in the future we'll have a classification of quantum quantum proof
+33:03
+and quantum not proof chains? Yeah I'm sure. Um so like one benefit
+Account Abstraction as a PQ Bridge on Ethereum
+33:08
+plus downside of Ethereum is how modular it is. Um so it makes it really annoying to build certain things on it because um
+33:15
+the complexity and the different vendors. It's like account abstraction for example. There's a bunch of different companies who have
+33:21
+implemented like ERC 4337 and other ERC's. Um they have slightly different takes on
+33:26
+it. So it it just becomes a real headache to like if you ever tried integrating with um like one of EZRC's
+33:32
+um a lot of the time it's like a big headache. Um but a benefit of that is
+33:38
+also how modular it is. So um without quantum proofing the whole of
+33:43
+Ethereum you can quantum proof little bits and pieces. So you can say
+33:49
+you can build a smart account which has quantum proof vaults and the signing of
+33:54
+transactions happens offchain. um with uh like whatever infrastructure you need to make that um quantum proof signature
+34:01
+stuff possible. Mhm. Uh so in theory you could have a fully quantum proof chain end to end and
+34:08
+bridge an asset to Ethereum. The user just uh uses their smart account to um
+34:13
+like lock it in a PQ vault like an Ethereum PQ vault and like now the asset is safe and they can order on Ethereum
+34:20
+with the UX of seeing everything in one place. um but they still get the um base layer
+34:26
+guarantees of the um fully quantum proof chain. Mhm. So that's that will be in in my Ethereum thinking
+34:34
+I mean we all Ethereum field I would say for the last five or six years uh since
+34:40
+it's the best chain out there which has the most modularity and and contribute the most to decentralization
+34:46
+uh in in in the programmable chain space obviously um
+34:51
+that would mean I have a layer one or or infrastructure which is kind of secure distributed or decentralized whatever
+34:57
+the consensus is etc. This infrastructure produces an asset
+35:03
+uh which is which has the cryptographic asset definition. It's not replicatable. It's a double spendable and it's quantum
+35:10
+secure. Um but to make this asset more usable in Ethereum,
+35:15
+I could use a con obstruction to have a quantum proof vault. Mhm. Would this quantum proof vault exist on
+35:23
+a piece of off-chain architecture or what do you mean? How do you make this quantum vault proof? So I understand
+35:29
+there is Ethereum the L1 right there is XYZ or there's quantum or whatever chain
+35:35
+which is like another L1 and this has a that is this has quantum guarantees and now we want to do something in the
+35:41
+middle what is this part in the middle yeah um so like it's just a thought so um but in theory
+35:48
+what makes an asset safe so what I mean by safe is uh so so let's call it user
+35:54
+safe so what makes an asset user safe so what I mean by that is you open your wallet and you see the asset is still there. Um, so that's that's what I mean
+35:59
+by user safe. So no one can steal my private key. Exactly. Like start rewriting your
+36:04
+transactions and stuff. Okay. So what makes an asset um user safe is that there is a um when a user signs a
+36:13
+transaction related to that asset um it's that the signature is quantum proofed. It's using a quantum proof
+36:18
+scheme. So that stops um like a bad actor from in the future pretending to
+36:23
+be the user and saying uh transfer to this address. I I use a quantum computer break your private key and now I can
+36:30
+that would prevent it. Mhm. Yeah. So um I'm not too sure the specifics but with
+36:36
+uh like account abstraction for example um you can build offchain infrastructure that takes over parts of what a built-in
+36:42
+wallet would usually do. Um so by default in in Yeah. So so by
+36:48
+default in Ethereum accounts are just like super dumb key pairs. So it's just you generate a private key. Um then you
+36:53
+use ECD uh uh ECDSA to like create the public key based on that
+36:59
+private key. Um and that's pretty much all an account is. It's just a private key pair and
+37:05
+like asset ownership and stuff like that. It all lives in smart contracts. So, um yeah, the general thought is um
+37:14
+if a user, so I'm not sure how much stuff within like smart contracts and stuff like that you need to retroactively change too, but um the
+37:20
+base law is if if a user um signs transactions with a quantum proof um
+37:26
+like cryptographic scheme, then an attacker can't start an attacker
+37:31
+can't forge uh user authorized like um operations. So like stuff like
+37:37
+transferring out of the user's wallet and things like that. So that's what I mean. So that could mean if I'm if I
+37:43
+understand this correctly, if I have a quantum proof asset which cannot be the consensus cannot be changed by quantum,
+37:49
+it cannot be hacked. The network cannot be hacked. There could also be a quantum proof bridge to Ethereum of this asset.
+37:55
+Mhm. Yeah. Yeah. I mean there could be that mean I mean that means it kind of right. Yeah.
+38:00
+And and I wouldn't really care if Ethereum gets hacked. I hope I hope it will not get hacked.
+38:06
+Yeah, worst case if the if the land of user operations is like quantum proofed then your your assets
+38:13
+are safe. The only problem is um like valid um consensus might stop
+38:18
+working because um like or you couldn't bridge it out anymore probably. Um yeah, like the network just wouldn't
+38:23
+work. So your your access could there be like a could there be like a scape h if let's say I have I have cubits on on quantum. I I take my
+38:31
+cubit, I bridge it to Ethereum using this quantum bridge and we use a counter disruption to to to
+38:37
+make it safe from a quantum attacker. And assuming Ethereum gets uh the
+38:44
+Ethereum layer 1 can't upgrade fast enough to quantum resistancy, something
+38:50
+happens to these coins, something happens to to their to their chain. Quantum computer breaks Ethereum. Now
+38:57
+all the trust in Ethereum is gone. It goes to zero. But since cubid is quum resistant, it states it the value it is
+39:03
+or or drops in hydraiz matter, but it's still there. Um, and the the PQ
+39:10
+uh bridge holds quantum in a sense even though it's an ERC20 asset now, but a user cannot steal it.
+39:17
+Mhm. Or the the attacker cannot steal it. I technically possess my quantum. The only the only risk is um that I might not be
+39:26
+able to to to to to unwrap it pretty much. Uh yeah, you won't be able to interact with it cuz the chain would
+39:31
+but there could be an escape hash being built where I can somehow prove that the owner and yeah, there could be an escape hash like
+39:37
+that where you can just wait for the Ethereum Foundation to solve a valid data problem and then you can transfer later.
+39:42
+Yeah, that's an interesting take. I haven't pretty cool. Uh Russ, I think we'll talk
+39:48
+again probably tomorrow, but in front of a camera. I think this is pretty cool.
+

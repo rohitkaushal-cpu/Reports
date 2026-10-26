@@ -1,0 +1,481 @@
+
+Search transcript
+
+0:044 secondsWhat do you think about what's going on right now with the US effectively saying they're going to adopt stable coins to
+0:1111 secondspropagate dollar dominance? Should other nations with currencies like the Euro zone with the euro be worried about
+0:1919 secondsthis? Euro zone should be worried because um if US treasuries get more accessible any anybody that invests in
+0:2828 secondsgovernment bonds better access to US debt which generally gives a higher yield uh they would go for that and it
+0:3535 secondswould be at the expense of European debt.
+0:4343 secondsIt's a misplaced conception that stable coins are going to cut out the banks because you actually don't want to cut out the banks. You want to team up with them because together you're stronger.
+0:5252 secondsWe can we can do things on top of the banks where the banks still capture transaction fee revenue and we can deal with some of the customerf facing work
+1:011 minute, 1 secondand the innovation right. So it's a very it's a it's actually quite nice symbiosis.
+1:121 minute, 12 secondsSo what stable coins bring is finally decoupling um at a global scale money from the underlying banking rules from
+1:211 minute, 21 secondsSwift and making it universally accessible. It's like like handing over your bank account to the secondary markets. You're not really relying on
+1:301 minute, 30 secondsthe bank anymore to give you on the bank's ATM. You just use the markets as your ATM and take money where from where you want it.
+1:411 minute, 41 secondsStable coins are being in increasingly recognized as a uh highly disruptive ingredient in in treasury management.
+1:501 minute, 50 secondsMost stable coins may live only shortly.
+1:541 minute, 54 secondsThe ones that live longer are indeed in the crypto market. Um and USDT is king globally. Nothing comes close.
+2:092 minutes, 9 secondsWelcome back ladies and gentlemen to the Allin Crypto podcast. I am your host Robert and today I am delighted to be
+2:162 minutes, 16 secondswelcoming back on the show the CEO of Quantis Arnound Star Busman Arnound. How are you?
+2:252 minutes, 25 secondsVery good. Very good. Thanks for having me back here.
+2:282 minutes, 28 secondsIt's a pleasure. It's really nice to see you again and certainly um nice to talk to you about such an important topic which is stable coins the kind of
+2:372 minutes, 37 secondsbringing onchain of money and that whole world which is increasingly going to become a part of our world. So I think where I want to start is some of our
+2:452 minutes, 45 secondsviewers and listeners may not be familiar with what it is you guys do. So maybe you could give us a quick overview of Quantas.
+2:542 minutes, 54 secondsSure. So Quantis is we are we are fintech. We're based in Netherlands, regulated in Netherlands by the Dutch Central Bank and uh we are offering
+3:033 minutes, 3 secondscorporates and platforms marketplace. So that do business in the EU with uh with
+3:093 minutes, 9 secondsinstant 24/7 365 uh payment settlement capability globally. So cross border wherever you are in the world. We
+3:173 minutes, 17 secondsbasically give companies access to payment reals and um [snorts] uh treasury solutions in the EU. Uh now
+3:253 minutes, 25 secondsthis is in contrast to existing payment ress which tend to go via swift and which can take some can take a while and can be expensive. We add two new layers
+3:343 minutes, 34 secondson top of that infrastructure. One of them is at the e-money uh in the form of e- money just like you see with neo
+3:413 minutes, 41 secondsbanks for instance. Um and the other one is through stable coins which puts that e-money concept on on steroids. Um maybe
+3:503 minutes, 50 secondsto give you an example, if a Hong Kong merchant that we're working with has customers in the EU, they want those
+3:583 minutes, 58 secondscustomers to pay them in euros. And these are relatively small transactions.
+4:024 minutes, 2 secondsThat doesn't really work if you do that always via Swift. And so we as an EMI can help them collect those payments
+4:094 minutes, 9 secondsfrom their customers um and put them in their account with us. and our Hong Kong merchants client can instantly mint
+4:174 minutes, 17 secondsthose um that money into a stable coin which they move back home to Hong Kong and offer them there. So it essentially
+4:254 minutes, 25 secondsgives uh internationally operating companies access to payment solutions in the EU with the speed of SEPA.
+4:334 minutes, 33 secondsWow. Kind of like a revolute for corporations. I mean that's that that that that's truly interesting and I think this is why I love having you on
+4:404 minutes, 40 secondsis because um you clearly see where money movement is going and and and and how technologies are enabling that. Um
+4:484 minutes, 48 secondswhat's the big kind of thing going on here with stable coins? You know we talk about e-oney and people are familiar
+4:564 minutes, 56 secondswith e-oney electronic money. Um but stable coins have brought something perhaps new to the table. What do you think the big kind of overview is here
+5:035 minutes, 3 secondsin regards to what's happening with stable coins? Is it the natural progression of money perhaps eventually?
+5:105 minutes, 10 secondsI know we're a while off of that. Um, what's the big overview in regards to stable coins and the unlock taking place here?
+5:175 minutes, 17 secondsI think stable coins are next iteration of e-oney. If you think about it, e-oney is a form of digital money that was invented to decouple uh let's say the
+5:275 minutes, 27 secondsmovement of money from the banking system. So if you if you've got two users of your e-oney as an EMI um let's
+5:345 minutes, 34 secondssay you're like your example you're two both of you are Revolute customers um you move money to each other that the
+5:415 minutes, 41 secondsthe money never leaves the underlying bank it stays in the same omnibus account but the allocation it changes
+5:485 minutes, 48 secondsthrough an internal booking instantly frictionless for free that was e-oney and that's working well stable coins in
+5:555 minutes, 55 secondsthe in the EU we call them e-oney tokens
+5:585 minutes, 58 seconds[clears throat]
+5:585 minutes, 58 secondsThey actually put uh they take e- money to a next level which is into secondary markets. The classic e- money lives in
+6:066 minutes, 6 secondsthe primary market. You issue it, you move it to somebody else that the issuer knows and then you turn it back into normal money. With stable coins, you
+6:146 minutes, 14 secondsissue it, it goes off to an exchange, go into any kind of wallet anywhere in the world and live there for a while before it comes back to you. Now that enables
+6:226 minutes, 22 secondscrossber payments that enables much more liquidity and optionality for payments and also options in terms of the rails
+6:306 minutes, 30 secondsthat you can use. So what stable coins bring is finally decoupling um at a
+6:376 minutes, 37 secondsglobal scale money from the underlying banking rails from swift and making it universally accessible. Um, for
+6:446 minutes, 44 secondsinstance, if you want to use transact in US dollars in a in a country and you don't have access to correspondent banking as a as a bank, you don't have
+6:536 minutes, 53 secondsaccess to swift network, uh, you can have access to US dollar stable coins and you still can complete your get paid
+7:007 minutesand settled, right? So, suddenly um, it's like like handing over your bank account to the secondary markets.
+7:077 minutes, 7 secondsYou're not really relying on the bank anymore to give you on the bank's ATM.
+7:127 minutes, 12 secondsyou just use the markets as your ATM and take money where from where you want it.
+7:177 minutes, 17 secondsIt's yeah, we're kind of seeing the democratization of money. I think we're seeing um perhaps a move away from uh the legacy system which seems to be fighting back.
+7:267 minutes, 26 secondsI know Swift for example, they announced their ledger of ledgers as it were um and that that's under development or is going to be under development. I think they've got a lot of work to do on that.
+7:357 minutes, 35 secondsAnd this space moves so fast just like with a digital euro. You know, you just spoke about e-oney versus stable coins.
+7:417 minutes, 41 secondsdigital euro could be classed as e-oney and stable coins stable coins. I know we're going to get into this, but they're looking at rolling that out in
+7:507 minutes, 50 secondsuh 2029. If you think about where this space is going to have gone by then, it could be totally different in a
+7:587 minutes, 58 secondsdifferent landscape that may not fit that digital euro. I know we'll get into that um a little bit later on. Talking about the US dollar.
+8:088 minutes, 8 secondsYeah.
+8:088 minutes, 8 secondsWhat do you think about what's going on right now with the US effectively saying they're going to adopt stable coins to
+8:168 minutes, 16 secondspropagate dollar dominance and also introduce a purchaser to their treasury market to help with them sort of more uh
+8:258 minutes, 25 secondseconomically? What do you think about what's happening here? And should other nations with currencies like the Euro
+8:338 minutes, 33 secondszone with the euro be worried about this?
+8:388 minutes, 38 secondsIt's an interesting one. So I [clears throat] think Euro zone should be worried because um if US treasuries
+8:458 minutes, 45 secondsget more accessible in what form or another? Um then obviously and any anybody that invests
+8:538 minutes, 53 secondsin government bonds um would you if they got better access to US debt which generally gives a higher yield uh they
+9:029 minutes, 2 secondswould go for that and it would be at the expense of European debt. So I think from the capital market side I think there there should be a concern. Uh from
+9:109 minutes, 10 secondsa payment side I don't see the euro is not used as a payment currency anywhere outside of the EU. um and the Euro zone
+9:189 minutes, 18 secondsin the EU as particular. So that's not going to change. And I also don't see US dollars becoming a universally accepted
+9:269 minutes, 26 secondspayment currency in the Euro zone. It doesn't make sense to me culturally, institutionally, costwise. It just absolutely makes makes no sense. So in
+9:359 minutes, 35 secondsthat regards, I think that's a little bit overblown to be honest. Any any concerns there? um a shift to a euro
+9:449 minutes, 44 secondsglobally would be um in terms of stable coins I can see it happening in a in a number of ways. One of them is because
+9:519 minutes, 51 secondsthere's in general a geopolitical shift to the euro from the US dollar. Many countries are looking to strategically
+9:599 minutes, 59 secondsdecouple or reduce the the dependency on US dollar. So that's that's one angle.
+10:0510 minutes, 5 secondsUh but it has nothing to do with stable coins that would happen any any other way. Um what stable coins do bring though euro stable coins is potentially
+10:1410 minutes, 14 secondseasier make it easier to make facilitate that shift because they're easier to access they're you can access them
+10:2110 minutes, 21 secondsoutside you don't have to be connected to the sepa system to access uh access euros in if they're in stable coin form
+10:2910 minutes, 29 secondsum I do see that corporate treasuries as corporates start adopting stable coins
+10:3510 minutes, 35 secondsin their in their treasury mix they will also look for ways that they can increase the capital efficiency of their
+10:4310 minutes, 43 secondsof their cash holdings. And um what's moving quite quickly is tokenized yield products. And if you can if you can
+10:5110 minutes, 51 secondsaccess them access yields whilst retaining the liquidity of cash, that's a killer use case for treasuries. And
+10:5910 minutes, 59 secondsgiven that most of these treasuries are denominated in euros, you could expect them to use stable coins to access US
+11:0611 minutes, 6 secondsdollar eur euro um uh sorry the treasuries are in euros. Yes. And they'll use euro stable coins to access
+11:1311 minutes, 13 secondsthose euro denominated yield instruments. Um the fourth the fourth reason I can think of is that uh
+11:2111 minutes, 21 secondsglobally I think I think FX markets are going to move onchain just because of the programmability uh the liquidity
+11:3011 minutes, 30 secondsthat is that is moving there and euro being the number two traded currency it makes sense if that that it goes onto
+11:3711 minutes, 37 secondsstable coins if that's in the FX space as well. Yeah, I think there's a lot of things going on um kind of internally with the technology and what that can
+11:4511 minutes, 45 secondsunlock. You know, you talk about efficiencies, capital efficiencies. You no longer have to wait. It can kind of uh reduce the cost of capital. There's a lot of things that are going on here.
+11:5411 minutes, 54 secondsThe programmability, that's a whole thing that we can talk about. There's also kind of macroeconomic things going on like a competition for uh national or
+12:0412 minutes, 4 secondsor sovereign treasuries, things like this that this technology can actually be used to unlock. And if I was a nation, if I was in charge of a nation, it's probably a good job that I'm not.
+12:1312 minutes, 13 secondsUm, I would definitely be looking at this and going there's a major opportunity just like how the US has put it forward and they've been very kind of
+12:2012 minutes, 20 secondsuh perhaps anti-CBDC more promoting of stable coins which of course um we'll see if that's the right
+12:2812 minutes, 28 secondsapproach or not. And to come on to the Euro zone which of course um you operate within.
+12:3512 minutes, 35 secondsDo you think Europe can compete? I mean you've just spoken there about how Europe isn't going to adopt the United States dollar. There's a there is a kind
+12:4312 minutes, 43 secondsof push away from a dollar reliance system and I think this technology can enable it. But do you think Europe can compete or stay competitive in this kind
+12:5212 minutes, 52 secondsof transformation perhaps from the money side or the treasury side and have things like ma which I believe actually came about in combatant of Libra.
+13:0213 minutes, 2 secondsI think that was one of the main pushes.
+13:0413 minutes, 4 secondsThat was the original that was that was the burning platform in terms of creating a sense of urgency. Then they started running then it started running
+13:1213 minutes, 12 secondsreally fast. Um no indeed for a while now. Mika six years or so, right?
+13:1913 minutes, 19 secondsYes. But it's uh there's still a grandfathering period that goes until June next year.
+13:2513 minutes, 25 secondsOkay. So you see that there's quite still quite a lot of arbitrage going on in terms of delaying certain um let's
+13:3213 minutes, 32 secondssay compliance. We also see and this is one of the battles of course that's happening at the EU is the multi-issure
+13:3813 minutes, 38 secondsmodel. So you got the uh whereas the ECB has the position that um stable coins
+13:4713 minutes, 47 secondsthat are funible across regulatory jurisdictions uh shouldn't be allowed. Uh particularly
+13:5313 minutes, 53 secondsUSDC is is uh is being seen as a threat to let's say the um ability of European
+14:0214 minutes, 2 secondsbusinesses, consumers to to redeem their um redeem their stable coins. Uh whereas the commission seems to be a lot more relaxed about it. Says it will be fine.
+14:1214 minutes, 12 secondsDon't worry about it, mate. So um and I think there's um that part is an ongoing battle. I think it's probably the
+14:2014 minutes, 20 secondsbiggest one. I think uh and has huge implications. So we're we're watching that one closely. Um has huge
+14:2714 minutes, 27 secondsimplications either way, right? We believe that it shouldn't be allowed. We agree with the ECB. Um but then again if
+14:3614 minutes, 36 secondsuh it is allowed then we can immediately see business opportunities to do it ourselves right to start issuing offshore because it's much more profitable if you you can issue your
+14:4514 minutes, 45 secondstokens offshore and then import them into the EU you've got different rules around your reserve management. So anyway so that's that's a that's a
+14:5314 minutes, 53 secondstemptation uh out there. Um I think uh I think mikar is actually a
+15:0115 minutes, 1 secondvery comprehensive wellthoughtout framework. It gets a lot of sick uh but it recognizes stable coins for what they
+15:0815 minutes, 8 secondsare which are is basically e-oney u with secondary market characteristics.
+15:1515 minutes, 15 secondsSo this is where the white paper comes in and the prospectus and uh basically puts it into the casp or the the um
+15:2415 minutes, 24 secondsfinancial markets in regulation as well to some extent but it is e-oney after all.
+15:3015 minutes, 30 secondsYeah. Yeah. And how have you found all this as a stable coin issuer? You know these are things that you directly have to contend with. you spoke about some pros and cons if certain things go
+15:3815 minutes, 38 secondsforward and that's uh like like many things in life often um you know there might be some negatives to things but there's also opportunities with some of
+15:4615 minutes, 46 secondsthose shortcomings how have you found all this as a stable coin issuer within the EU you know h how has this been for you
+15:5515 minutes, 55 secondsit's it's never really come up as something that frustrates us I mean obviously dealing with regulators is always hard and complying with
+16:0316 minutes, 3 secondsregulations always hard and particularly as regulations becomes stricter and stricter it becomes more expensive to do that that that will never change. I
+16:1016 minutes, 10 secondsthink that's uh you can add a death taxes and regulations to that in terms of things that you can be certain of.
+16:1816 minutes, 18 secondsNow um we started our journey because we wanted to figure out how we can use
+16:2416 minutes, 24 secondsissue money on a public blockchain. This was quite a while ago and um we've always in the business of tokenizing
+16:3216 minutes, 32 secondsstuff. uh our we have we basically build a core banking platform that where you can manage all kinds of tokenized assets
+16:4016 minutes, 40 secondsas well as money and we've every time we work with partners to to create money on chain uh it never got out of the lab
+16:4816 minutes, 48 secondsbecause just because you call a to call a token a euro or a US dollar it doesn't mean anything so it doesn't have any
+16:5616 minutes, 56 secondsstatus tether achieved that by because everybody believed said yes it's a dollar we all believe it's a dollar.
+17:0317 minutes, 3 secondsOkay, let's let's work there. But if you're a new guy on the blockchain, basically why would anybody trust you for that, right? So the solution that
+17:1117 minutes, 11 secondsthe company came up with is saying, well, we've got this e-oney regulation that's direct. It's been out there for ages. EMIs have been out there for ages.
+17:1917 minutes, 19 secondsWhy not call it e-money and then go in discussion with the central bank or regulator and say, why can't we use a
+17:2617 minutes, 26 secondspublic blockchain as a databased technology instead of a normal database technology? So that was that was the journey and ultimately after a couple of
+17:3517 minutes, 35 secondsyears uh I think there was agreement was reached yes you can actually do do that then mikar came in but we were first and
+17:4317 minutes, 43 secondsforemost an emi rather than a stable coin issuing now if you think about the
+17:5017 minutes, 50 secondsjourney that um emis been through 20 years ago an emi there was hardly any regulation you just you you could just
+17:5917 minutes, 59 secondsdo almost anything just like stable coins probably a couple years ago. Um, so you've gone through the journey of EMI, you've all the hard lessons in
+18:0618 minutes, 6 secondsterms of consumer protection and regulation have been learned. I don't think it's reasonable to expect that just because you then have stable coins
+18:1518 minutes, 15 secondsthat say, oh, we back to square one, we can do anything we want and innovate, innovate in whatever direction we want, right? It's just builds on top of it
+18:2218 minutes, 22 secondsrather than it's a rebuild. So um so for us I don't think Mika actually creates
+18:3018 minutes, 30 secondsthat many new constraints that we aren't already dealing with. Um I think it's uh the but to comply because of the
+18:3818 minutes, 38 secondssecondary markets nature there's a few extra things that you need to do.
+18:4218 minutes, 42 secondsYeah. And I think you know just if you could um there's there's a few questions that I've got just from that. There's there's there's always this debate between sort of public and private
+18:5018 minutes, 50 secondsblockchains. I think one worry that I have certainly for people that are into the crypto space is that there's going to be the introduction of sort of
+18:5718 minutes, 57 secondsprivate DTS and it's a question I always like to ask um why public distributed
+19:0519 minutes, 5 secondsledgers, public blockchains over private um why why do you think that battle or what way do you think that battle goes
+19:1219 minutes, 12 secondsum in your opinion? You know, it's always going to be public to be honest. Yes.
+19:1919 minutes, 19 secondsAnd um just because of the sheer cost benefits running uh running a private network is actually very expensive. Yeah.
+19:2619 minutes, 26 secondsUm and blockchain network in my previous company I did that and it was Amazon fees were absolutely killing me. Yeah.
+19:3319 minutes, 33 secondsUh so that's that's one reason. Um the second one is a lot of people don't look
+19:4019 minutes, 40 secondsat even even some blockchains can be considered private blockchains because the level of decentralization is too
+19:4719 minutes, 47 secondslow. Uh so you could arguably um uh let's say B for instance doesn't is a is
+19:5519 minutes, 55 secondsa is is a level two layer two blockchain but there's not that many companies
+20:0120 minutes, 1 secondvalidating that network. So um you could argue that if you are running your tokos on
+20:1020 minutes, 10 secondsthat you're actually outsourcing to Coinbase right and a if you start doing that then
+20:1920 minutes, 19 secondsum suddenly you have as a regulated financial institution you have an you need to have an
+20:2720 minutes, 27 secondsoutsourcing agreement with with that party right and with outsourcing comes monitoring comes a contract comes SLAs,
+20:3420 minutes, 34 secondsall that kind of stuff that's hugely important for business continuity. So I think that's one of the killers that any
+20:4220 minutes, 42 secondscompany that uses the provider of a private network will need to have some form of outsourcing arrangement with
+20:5020 minutes, 50 secondsthat with that party and um that party may not be able to comply with the outsourcing requirements of the regulator. I I think it's it's I don't
+20:5920 minutes, 59 secondsthink it's trivial to uh uh to set it up. Whereas if your network is very decentralized, there's no single party
+21:0621 minutes, 6 secondscontrolling it. There's the governance is decentralized. Um you know, it's always up and running. There's no there's no downtime. Then it's a very
+21:1521 minutes, 15 secondsdifferent story. Yeah, I think in terms of reach as well, you know, I think the internet when it first started did initially try and go down a private route and then it kind of came to the
+21:2421 minutes, 24 secondsconclusion that look, if we want the global reach of this, if you want to kind of enable this this internet of value, it needs to to be sort of uh
+21:3221 minutes, 32 secondspublic uh effectively for the most part anyway. I'm sure you're going to have private interaction. there there's some things although with with uh pieces of
+21:4021 minutes, 40 secondsuh technology like zero knowledge proofs and things you can you can do all sorts of amazing things and and where would you say we are in regards to this kind
+21:4721 minutes, 47 secondsof uh regulatory frontier within Europe do you think we're at a comprehensive point today where actually like yourselves you're going forward and
+21:5621 minutes, 56 secondsadvancing or do you think there's still work that needs to be done I mean clearly this stuff can be done you you you guys are living proof where do you
+22:0422 minutes, 4 secondsthink we are in regards to that do you think we're we're kind of there or do you think there's still work that needs to be done?
+22:0922 minutes, 9 secondsI'm not sure we're there, but maybe for this iteration, I think we're there's quite a bit there and I think the market should just um enjoy or suffer through
+22:1822 minutes, 18 secondsit, whichever way you look at it for for a while to let things stabilize and then do another iteration. Um, I it's it's a
+22:2622 minutes, 26 secondsbit like if you're buying a buying a house, an existing house, and you can
+22:3322 minutes, 33 secondsbefore you move in, you can do your renovation and say this is uh I want to fix this, I want to fix that and stuff like that. Usually, I think though, if
+22:4222 minutes, 42 secondsyou're half year, live in it for half year, you make completely different choices about what you're going to renovate based on priority. But I think
+22:5022 minutes, 50 secondsI think Mikar is is a framework that's been well designed and well crafted well thought out. It's we should live in it for a while and then figure out what we
+22:5922 minutes, 59 secondsneed to what we need to improve. I think the multi-issure one is is an aspect I think potentially some of the reserve
+23:0723 minutes, 7 secondsrequirements concentration risk requirements are pretty tough for companies to adhere to. Uh there's an maybe enforcement could be a bit bigger.
+23:1823 minutes, 18 secondsI mean there's a whole section there's a massive uh section of mikar is about significant issuers
+23:2623 minutes, 26 secondsuh issuers that have more than 5 billion in circulation in the in the EU to be honest. Tether the only two companies that can have that Tether and Circle.
+23:3823 minutes, 38 secondsTether is not compliant in the EU so we can we can ignore that one for now.
+23:4423 minutes, 44 secondsCircle has more than five billion in circulation, but it doesn't look like the reserve requirements of a significant stable coin are actually
+23:5323 minutes, 53 secondsbeing met. At least I don't I don't see it for for USDC. I don't see any evidence of that. Um so that that's
+24:0124 minutes, 1 secondthat's an interesting one. So you can make a regulation, but then also at some point you should enforce it.
+24:0624 minutes, 6 secondsYeah. Yeah. And also continue to perhaps monitor it. you know, I I think one thing, you know, we're talking about the kind of unlocks that this technology can
+24:1424 minutes, 14 secondsbring for entire sovereign nations, certainly currencies, you you you kind of don't want to stifle that. Um because I I I truly see this,
+24:2224 minutes, 22 secondsyou know, we speak to a lot of people, certainly smaller countries, I think in some ways they can almost leapfrog some of the bigger countries. Of course,
+24:2924 minutes, 29 secondsthey're kind of Achili to a degree, but if they you use and utilize this technology, because a lot of the bureaucracy isn't there, they can kind
+24:3724 minutes, 37 secondsof leapfrog in terms of um having a more technologically savvy financial system perhaps. A lot of the bigger nations
+24:4524 minutes, 45 secondsthat perhaps are a little bit more of a of an oil tanker turning rather than a speedboat um as it were. And I think I think one thing I know we spoke about
+24:5224 minutes, 52 secondsthis last time you were on I I had mentioned the digital euro to you and you do two things as as we've established the kind of e-oney side of
+25:0025 minutesthings and then the stable side of things.
+25:0425 minutes, 4 secondsOne of the biggest misconceptions I think in the crypto space right now is that the digital euro runs on distributed ledger technology. That is
+25:1225 minutes, 12 secondsnot the case. I don't believe. I know that speaking to central banks. They told me that and I was kind of like well hang on this is a huge misconception.
+25:1825 minutes, 18 secondsHow do you think that battle, if it is indeed a battle, plays out, the digital euro versus stable coins? Do you think the digital euro is a competitor to
+25:2725 minutes, 27 secondsstable coins? Do you think I mean, you'll be able to speak on this far better than most? You know, what what do you think's going on there?
+25:3425 minutes, 34 secondsWell, I haven't seen the digital euro in real life yet, right? So, I'm I'm not For me, it's also for me, it's also speculation. All I see is that every
+25:4225 minutes, 42 secondsyear that passes of this project, the timeline for implementation moves by a year as well. So,
+25:4925 minutes, 49 secondsuh, so I'm I'm not really looking at it from a I'm not taking serious as a as a as an as a player in the in the payment
+25:5925 minutes, 59 secondsst yet. Um I did hear that they were looking at DT options because um to put on public blockchain instead of a
+26:0626 minutes, 6 secondscentralized database because the market was questioning why are you doing that?
+26:1026 minutes, 10 secondsSo may I don't know what's happening with that with that direction. Um I think I think it's I don't know maybe I'm biased maybe I'm missing something.
+26:2026 minutes, 20 secondsI think it's one of the most pointless projects that the EU is undertaking and that it's I've heard that before. there's there's
+26:2826 minutes, 28 secondszero consumer demand for it. Uh yet we are expecting consumers to adopt it. Um and
+26:3726 minutes, 37 secondsexpect banks to spend up to one or two billion each bank just to be able to support it. It's just insane, right? So
+26:4526 minutes, 45 secondsum and I'm not sure whether it's a real battle, whether the right battle is being fought there. Um but I I'm very
+26:5426 minutes, 54 secondsskeptical about it. It's basically like an the EU decides to set up an EMI. Say here you got some e- money. This is the maximum balance you can hold and you can
+27:0327 minutes, 3 secondsspend it at these and these places um using this using this card that we uh that we issue for you, right? Almost
+27:1127 minutes, 11 secondslike that. And I don't I don't think anybody's waiting for that. I think it's it just doesn't make sense anyway. And
+27:1827 minutes, 18 secondswhy not just use stable, right?
+27:2027 minutes, 20 secondsYeah, we've got SEPA. It's very good. I know a point of sale. Uh I think where Visa, Mastercard are very strong is that
+27:2827 minutes, 28 secondsdistribution at point of sale. Uh ideal SEPA is not great at point of sale. So you still want to use that
+27:3627 minutes, 36 secondsinfrastructure, but to make the digital euro successful, you would need to deploy infrastructure at every single
+27:4327 minutes, 43 secondspoint of sale. Yeah. and enable the banks to support digital euros do the authorization mechanis all that all that
+27:5027 minutes, 50 secondskind of stuff and I don't see I don't see any public party at the moment being interested in investing in that
+27:5927 minutes, 59 secondsinfrastructure unless there's proven demand and the proven demand will be will take a while so yeah yeah I I I had to ask you that
+28:0728 minutes, 7 secondsbecause I think I think some people are worried first of all some people believe this is going to happen on a public DT and whether they're exploring that or not is still to be seen I know there
+28:1428 minutes, 14 secondsMost central banks certainly the ones that we've spoken to they do or are looking at uh the implementation of distributed ledgers for wholesale CBDC's
+28:2228 minutes, 22 secondswhich is a whole that makes sense kind of different thing but but but the digital euro which there's kind of some mysticism about there's a lot of
+28:3028 minutes, 30 secondsspeculation about so it's quite hard to sort of comment on things but I absolutely agree and it was sort of important for me to ask that because people worry about that sort of
+28:3728 minutes, 37 secondsreplacing what might be taking place on public DTS but there's so many issues with it it's It's complimementaryary. I mean the
+28:4428 minutes, 44 secondsway I look at it is uh if I want to mint stable coins, I'm reliant on the speed of the banking network
+28:5228 minutes, 52 secondsfor my customer to send me euros or dollars.
+28:5628 minutes, 56 secondsNow, if they can do that way faster because we've got digital euro, great.
+29:0329 minutes, 3 secondsYeah, right. Works works for me. Um I also know that the digital euro is focused on retail. So I don't think wallets will be allowed to hold more than three or four grand or so.
+29:1329 minutes, 13 secondsum which is completely not the stable coin market in Europe. It doesn't make any sense. Stable coin market in Europe
+29:2029 minutes, 20 secondsis uh is really focused on high value transactions, corporate treasury movements, uh crossber payments, that kind of stuff, not not retail payments.
+29:2929 minutes, 29 secondsSo the two will live completely separately next to each other. So I don't I don't see it as a problem at all.
+29:3629 minutes, 36 secondsYeah. No, that's music to my ears. And I know here in the UK, we'll come on to that in a little bit. we did get some sort of um stable coin guidance as it
+29:4329 minutes, 43 secondswere. I I'm I'm more interested in asking you in regards to the business kind of cap they put on, not the retail one. I do want to come on to that um for
+29:5129 minutes, 51 secondssure a little bit later on in the interview. One thing that you touched on there is how sort of stable coins are being used predominantly within Europe.
+30:0030 minutesIt's more higher value transaction, crossber payments, things like this.
+30:0530 minutes, 5 secondsMaybe we'll go back a step and I'll just ask you what as a stable coin issuer demand you're kind of seeing because I think the main role right now for stable
+30:1230 minutes, 12 secondscoins is still predominantly crypto trading. If you look at volumes and liquidity, it seems to be predominantly there and USDT denominated still. What
+30:2230 minutes, 22 secondskind of demand are you seeing for stable coins at the moment? And I guess that's going to talk to your or speak to your
+30:2930 minutes, 29 secondskind of business model and what it is you guys are trying to enable. um you you're there enabling that for a reason.
+30:3630 minutes, 36 secondsYeah, sure. I mean um you can see emerge of some yield bearing stable coins in general that I think are very
+30:4330 minutes, 43 secondsinteresting, but they're not really stable coins. They're just securities, dollar denominator securities that you can move around easier. Um so if we
+30:5130 minutes, 51 secondsfocus on the the the stable coins that are not yield bearing um in my view there's um there's only one company that
+31:0031 minuteshas built a successful business model on the back of stable coins the float that the stable coins uh generate and that's
+31:0831 minutes, 8 secondstether nobody else comes close um circle has um is number two but I think
+31:1531 minutes, 15 secondsand this is this is public information I think they have to share share most of the revenue they generate of their
+31:2131 minutes, 21 secondsreserves with exchanges uh with Coinbase and others. Uh so there's not actually
+31:2931 minutes, 29 secondsthat much profit left at least not relative to um uh to USDT and to to Tether. So then the question is why
+31:3731 minutes, 37 secondswould you do a stable coin? And um I think two years ago people were rushing to the stable coins. Hey Tether makes so much money. We're going to stable coin.
+31:4431 minutes, 44 secondsTherefore we're going to make so much money. I think that I think that time has has passed. Um, and stable coins are
+31:5131 minutes, 51 secondsbeing in increasingly recognized as a uh highly disruptive ingredient in in
+31:5831 minutes, 58 secondstreasury management. I think in the in the broadest sense. Um, and most stable coins may live only shortly. The ones
+32:0832 minutes, 8 secondsthat live longer are indeed in the crypto markets. Um, and USDT is king
+32:1432 minutes, 14 secondsglobally. uh nothing comes close um because that's where the network effects are that's where the liquidity is and
+32:2232 minutes, 22 secondsUSDC lives in Europe uh as a trading but you've seen that most of the institutional traders who do the large
+32:2932 minutes, 29 secondsvolumes they've already moved offshore long ago so they're not trading Europe so that money is isn't really here either um so it comes back to actual
+32:3832 minutes, 38 secondsreal world use cases around around payments and then where we see value of
+32:4432 minutes, 44 secondsour stable coins is um as a basically as a as a way to facilitate instant
+32:5132 minutes, 51 secondssettlement with a third party, right? I give you I'm a I'm a customer. I need to pay a supplier, let's say, in Hong Kong.
+33:0133 minutes, 1 secondUm I will um I mint a stable coin USDQ or EuroQ because I I have an account with
+33:0933 minutes, 9 secondsus with Guos. I mint it and I send it to the other guy instantly, right? Done.
+33:1533 minutes, 15 secondsSettlement done. Bypassing Swift, everything. Then there's the off-ramp.
+33:2033 minutes, 20 secondsAnd then you get into the question, okay, so but how do I get liquidity in Hong Kong dollars or how do I get liquidity in Colombian pesos from my
+33:2833 minutes, 28 secondstoken? And it's not there. It will never be. And um so what you what I see happening is globally is that USDT is
+33:3833 minutes, 38 secondsbecoming almost like a um a settlement uh service as well an FX service where a
+33:4833 minutes, 48 secondsum you just need to build liquidity in the book of my token to it's like a clearing I I'm I I need to make sure
+33:5533 minutes, 55 secondsthat my token that there's a liquid book or uh there's good swapping capability to USDT and then the rest will be taken
+34:0434 minutes, 4 secondscare of by USDT. So one of one of the companies that we work with needs to pay a coffee exporter in Colombia. Um and um
+34:1434 minutes, 14 secondsthey want to pay that person same day in Colombian pesos in their bank account in Colombia. There will never ever be liquidity in the USDQ Colombian PEZO
+34:2334 minutes, 23 secondsbook. I know that. Well, let's say never never say never, but I'm I'm I'm not planning for it. But it's very easy to swap USDQ for USDT and then there's a
+34:3234 minutes, 32 secondssuper liquid USDT Colombian peso book and I think that's what's happening. Uh I um anecdotally I hear as well that
+34:4134 minutes, 41 secondsUSDC is in crossber payments is usually seen as a an on-ramp to USDT.
+34:4934 minutes, 49 secondsSo that's again the float disappears. Um and that's for us as well. That's for us might for us it's clear our destiny and
+34:5734 minutes, 57 secondsour crossber payments is as an on-ramp to USDT and for European users and as an
+35:0335 minutes, 3 secondsoff-ramp from USDT back into Europe. So that's that's the that's the use of our stable coin in crossber payments. Um
+35:1235 minutes, 12 secondsnow domestic users we can see uh if corporate treasuries they might prefer
+35:1935 minutes, 19 secondsto to have uh counterparty risk on us than on another party because if you
+35:2635 minutes, 26 secondshold our stable coin also as an international user uh and you hold it um
+35:3335 minutes, 33 secondsas part of your treasury, you need to be sure that you can reclaim it for money and retail markets, they
+35:4235 minutes, 42 secondsdon't care about that, right? So, whichever gives the most yield, whichever one is most liquid or gives the most reward points, whatever, that's
+35:4935 minutes, 49 secondsthat's the best one. In corporate markets, corporate supply chains is really around okay, so who
+35:5735 minutes, 57 secondswhat is the liquidity here? How do I get my money back if I need it? And then you start looking at jurisdiction. Which regulator is looking after this? What
+36:0536 minutes, 5 secondsare the rules of the regulation? Um, where's the money stored? which banks are actually holding that money, right?
+36:1136 minutes, 11 secondsSo, you're looking at counterparty risk because if if I accept as a supplier payment in stable coins,
+36:1936 minutes, 19 secondsthen the whole point of that is that I replace the counterparty risk that I face on that I have on my customer. I
+36:2736 minutes, 27 secondsreplace it with a much superior counterparty risk. Right? That's when settlement takes place. And uh if you
+36:3536 minutes, 35 secondscan do that on a Netherlands regulated EMI where funds are stored in systemically imported banks quite often
+36:4236 minutes, 42 secondsthat's a better counterpart proposal a risk proposal than my current than the current banking service right so uh and I think that's where for treasury
+36:5036 minutes, 50 secondsmanagement ultimately that's where I see our stable coins being used as well.
+36:5536 minutes, 55 secondsYeah. No I love that take. I think I think reputation is certainly in this world when you're dealing with money everything right if you think about why money works there's definitely a belief
+37:0337 minutes, 3 secondselement to it um and actually if you can prove that kind of lineage via it being
+37:1037 minutes, 10 secondsonchain I think that's you know it's a match made in heaven I think
+37:1737 minutes, 17 secondscorrect and I think this is exactly and this is where USDT is it's probably it only weak point is that the counterpart
+37:2637 minutes, 26 secondspart of risk is not necessarily clear where do I get it where do I exchange it for cash on the other hand there's so much of it and
+37:3337 minutes, 33 secondsit's so liquid that it doesn't actually matter you can always exchange it but for all the other ones like us it's
+37:4137 minutes, 41 secondsdifferent yeah but I I think I think when you know certainly uh the first time I had you on we we spoke about you know your sort of
+37:4837 minutes, 48 secondssystemically important banks that you were using and utilizing you know having uh the utilization of them I think brings a huge trust element Um, and I I
+37:5737 minutes, 57 secondsreally love that point in regards to what kind of separates um sort of good money from bad money as it were or trustable money from from
+38:0438 minutes, 4 secondsnon-trustable money. I think that's what this industry is kind of trying to do, introduce a trust element to to everything. Um, do you see of any kind
+38:1238 minutes, 12 secondsof catalysts perhaps propelling stable coins? For example, if we look at stable
+38:1938 minutes, 19 secondscoins today, it's probably 956 7% dollar denominated. Do you see any
+38:2638 minutes, 26 secondscatalysts to kind of propel the euro into more of a percentage? Do you see
+38:3338 minutes, 33 secondsany kind of mainstream adoption catalysts coming down the line for for stable coins? Euro because surely I mean, how does this play out? Do we just
+38:4138 minutes, 41 secondsforever live in a world where the dollar is the dominant stable coin or is it more as people start to embrace this technology it slowly loses market share?
+38:5138 minutes, 51 secondsWhat what do you think some of the catalysts behind that are and the future looks like around that?
+38:5538 minutes, 55 secondsYeah, and I think it's what I what I what I mentioned earlier, right? If there's a a geopolitical increase in demand for euros, I think euro
+39:0439 minutes, 4 seconds[clears throat] stable coins will grow faster than than euro acceptance just because it's easier to move around and
+39:1139 minutes, 11 secondsto to access. Um it's the the treasuries as treasuries start let's say one of the
+39:1939 minutes, 19 secondsthings at the moment is that um uh holding stable coins is a pain for CFOs because
+39:2739 minutes, 27 secondsum it's not universally recognized as cash equivalent by the auditors right so they see it as investments which is another part of the balance sheet so
+39:3639 minutes, 36 secondsthey need to they need to redeem it always for cash um so if it can be treated it as cash equivalent, then they
+39:4439 minutes, 44 secondscan keep it in their treasury uh without having to um without having to redeem it. Which means that as more and more
+39:5139 minutes, 51 secondslives in secondary markets in corporate treasuries, the circulation will increase particularly as the utility increases. Uh and utility in this case
+40:0040 minutescomes from um being able to move in and out of yield products instantly, intraday yield, uh through tokenized
+40:0840 minutes, 8 secondsassets. I think that's a great use case and that will drive adoption and reasons for people to keep euros in stable coin form. Um, but also the onchain FX world
+40:1840 minutes, 18 secondsthat is that is growing very very quickly. Um, because even now if you do FX with a counterparty with a with a
+40:2540 minutes, 25 secondsbroker uh instead of your bank, you still lose it for a couple of days, right? The T plus two two settlement everywhere whereas onchain FX is instant
+40:3440 minutes, 34 secondsuh which is again remove settlement risk. So in general I think and then the third is supply chains where um euros
+40:4340 minutes, 43 secondsare being used for settlement. It's not easy to do that um if you're not on step. So moving euros around the world
+40:5140 minutes, 51 secondsis not not as easy. Um so where we um where we see stable coins as a real
+40:5940 minutes, 59 secondsgamecher is in collapsing the settlement time to zero.
+41:0641 minutes, 6 secondsIf you for instance look at commodity supply chains as a as an example where I spend quite a bit of my my time they're
+41:1341 minutes, 13 secondsall most of them are denominated in US dollars right so it's uh but some of them may shift to euros because of
+41:2141 minutes, 21 secondsgeopolitical reasons now um if you're doing a shipment of uh let's say a
+41:2841 minutes, 28 secondsshipment of coffee and um the goods get released by the seller the moment they
+41:3541 minutes, 35 secondsreceive money in the bank. Um, so there's delivery, delivery versus payment,
+41:4341 minutes, 43 secondsransom. Now, if you're settlement layer for the money is swift,
+41:5141 minutes, 51 secondsum, it might take five days for settlement to complete particularly if currency is restricted etc. So during
+41:5941 minutes, 59 secondsthose five days, what's happening is that the um the seller needs to hedge
+42:0542 minutes, 5 secondsmost likely their FX risk to their um to their suppliers because they need to pay their suppliers in local currency that
+42:1442 minutes, 14 secondsthey receive in US dollars, euros. So FX risk, you've got market risk because the price of coffee might fluctuate during that period. So you need to hedge that
+42:2342 minutes, 23 secondsrisk. You face settlement risk in general. I mean, is the money going to arrive? Are the banks going to say, "Sorry, this is not compliant. We're
+42:3242 minutes, 32 secondsgoing to send this money back." Um, all that time you're usually financing that cargo. So, you're carrying in you're
+42:3942 minutes, 39 secondsyou've got interest expenses. So, the even though the payment through Swift might only cost 20 bucks or so, the
+42:4842 minutes, 48 secondsindirect cost are immense. Now, if you can bypass all that pain and have instant settlement through a stable
+42:5642 minutes, 56 secondscoin, bang, done, the deal is over, right? And all those indirect costs are are gone as well. Now,
+43:0543 minutes, 5 secondsthat process is currently usually done in US dollars because the only way money could move around the world efficiently was in US dollars uh through Swift.
+43:1543 minutes, 15 secondsthat might change to the euro as parties learn to speak a new language or want to speak a second language that is less
+43:2243 minutes, 22 secondsdependent on uh let's say the um the views of the day from the US administration.
+43:2943 minutes, 29 secondsYeah. Yeah. And I think if you look at the kind of um repercussions that's going to have on the euro certainly going to drive demand for it. And I
+43:3743 minutes, 37 secondsthink also uh one thing that's interesting is you know if you look at the introduction of something like the shipping container to us it seems very
+43:4543 minutes, 45 secondsit's a shipping container right we're kind of used to it but there was a time when shipping was a nightmare and then you introduced this kind of bit of technology actually you saw something
+43:5343 minutes, 53 secondslike a 600 700% growth for shipping on the back end of the introduction of this technology do you think we could see some sort of bigger economical kind of
+44:0344 minutes, 3 secondsgrowth or repercussions out of stable coins being adopted I mean this It it it seems in some regards small because we're
+44:1144 minutes, 11 secondstalking about stable coins. We're talking about a relatively small industry, but the kind of uh repercussions for this being embraced I think could be huge. I think will be
+44:2044 minutes, 20 secondshuge. In fact, it's very disruptive for business models as well. Uh and uh and locks it to um I
+44:3044 minutes, 30 secondsthink we mentioned last time um indeed as well there's so much money locked up in nostro accounts around the world. If you can move liquidity around, uh, if
+44:3944 minutes, 39 secondsyou can move money around without having to and have instant payouts on the other side without needing to to lock up money, it's it's that's already is a game changer, frees up a lot of capital.
+44:5044 minutes, 50 secondsIf you can take uh the FX the all the hedging cost out of your transaction, that frees up capital that can go back
+44:5844 minutes, 58 secondsto pass back to consumers. So you could might even see pricing go the other way or uh more mar more more profitability
+45:0745 minutes, 7 secondsbut it also enables uh business models that um we've seen happening in B2C but
+45:1445 minutes, 14 secondsnot so much yet in B2B. So a lot of the innovation has been in B2C. you see global e-commerce platforms like Amazon
+45:2145 minutes, 21 secondsselling to consumers uh and there's almost instant delivery with all the logistics behind it but also because the
+45:2845 minutes, 28 secondsways of payment have have made that very very simple merchants can get paid before they ship um now that is
+45:3745 minutes, 37 secondssomething that in the B2B world is still relatively new so um we see so let's say if you have uh
+45:4845 minutes, 48 secondsI'll Take the example again of a coffee exporter. That's how because I'm I love that example. Um, currently the coffee
+45:5645 minutes, 56 secondsexporter gets enough coffee beans together for a container, sells the container to a trader in Europe and uh
+46:0546 minutes, 5 secondswho subsequently distributes it to uh to roasters at basically the the small
+46:1246 minutes, 12 secondssmall shops. The first transaction happen in US dollars. The second one happens in euros. Now, what if
+46:2146 minutes, 21 secondsthe um the exporter could actually hold stock in Europe and then do collections themsel sell directly to the retailers
+46:3046 minutes, 30 secondslike drop shipping uh B2B drop shipping that requires more financial infrastructure to be able to do that particularly collections etc.
+46:4146 minutes, 41 secondsAnd this is exactly what we're looking at. So we can help that exporter get foothold in Europe, do the collections
+46:4846 minutes, 48 secondsfrom the rosters. So it's like maybe€,000 or per per transaction and then as soon as it comes in we mint it into stable coins and send it back home.
+46:5846 minutes, 58 secondsSo you uh suddenly you can have instant payments instant settlement globally uh B2B supply chains and that's that
+47:0647 minutes, 6 secondschanges business models and the roles of intermediaries and the roles of parts of the infrastructure and most of this can be done without banks right
+47:1547 minutes, 15 secondsyep which is the great thing right um I suppose in some regards I I say there's pros and cons to that we still need the banks for for instance
+47:2347 minutes, 23 secondsthe fiat collections in Europe but the repatriation offshore can be much more cost efficiently. The banks I
+47:3047 minutes, 30 secondsthink also the banks like get a lot of st it's a misplaced conception that stable coins are going to cut out the
+47:3747 minutes, 37 secondsbanks because you actually don't want to cut out the banks. You want to team up with them because together you're stronger. We can we can do things on top
+47:4447 minutes, 44 secondsof the banks um where the banks still capture transaction fee revenue and we can deal with some of the customerf facing work and the innovation. Right?
+47:5447 minutes, 54 secondsIt's a very it's a it's actually quite a nice symbiosis and I do think that's there's a kind of stigma in crypto where it because of
+48:0248 minutes, 2 secondswhere this industry came from people are quite maybe anti-bank anti- fiat and I always like to introduce a little bit of
+48:0948 minutes, 9 secondsa gray into that and say actually it's not all bad you know the the these things haven't all been bad in fact in
+48:1648 minutes, 16 secondsmany cases having an elastic currency um has worked for a lot of people it hasn't for some you know I don't think that and
+48:2448 minutes, 24 secondsI think the space is kind of maturing in the sense that it's now looking at the kind of legacy systems the banks things like this and going okay instead of
+48:3148 minutes, 31 secondsreplacing it let's work with it and let's bring this technology for the embedment of not just early adopters but everybody and I think that's really
+48:4048 minutes, 40 secondssomething that you know I like to see um taking place I'm I'm absolutely dying to
+48:4648 minutes, 46 secondsask you about what was announced here in the UK it's it's amazing how many people I tell that I'm in the UK and they kind of go ah I'm really sorry about that at
+48:5548 minutes, 55 secondsthis stage. Um but yeah, there was some uh there was some stable
+49:0149 minutes, 1 secondcoin uh sort of um guidance given um by the bank of England. Now, there was a
+49:0849 minutes, 8 secondsretail provision. I think it was was it 10,000 pounds in stable coins that that retail is allowed can hold me and and you in
+49:1649 minutes, 16 secondsour personal wallets, but there was a proposed 10 million cap per business uh temporarily on systemic stable coin
+49:2449 minutes, 24 secondsholdings. What's your opinion on this bit of guidance by the Bank of England?
+49:2949 minutes, 29 secondsDo you think it's good? Do you think it's bad? Do you think it's positive in the sense that they're actually taking this stuff seriously now? I mean, what's your general take on all of this?
+49:3749 minutes, 37 secondsYeah, I think you made a comment in one of the publications on that one as well.
+49:4149 minutes, 41 secondsUm I think it's very cautious and I think um it sort of misses the point as
+49:4849 minutes, 48 secondswell. I mean where where where is sterling being used general and I think retail payments of course is being used
+49:5749 minutes, 57 secondsin England but you don't need a stable coin for that just like you don't need it in Europe. uh you got faster payments in the UK. Fantastic. Every it's it's I
+50:0550 minutes, 5 secondsmean it's there's nothing there's nothing to fix there. Where you see stable coins being very interesting is in crossber payments and then also
+50:1350 minutes, 13 secondsparticularly in the UK with all the funds and the asset manage stuff that as as a way to get much more efficient
+50:2250 minutes, 22 secondsum entry and exit from from um from funds through tokenization.
+50:2850 minutes, 28 secondsAnd for many corporates that's going to be in excess of 10 10 million. And so if you're limited you're basically cutting
+50:3550 minutes, 35 secondsout that use case which is probably the most one of the most promising for the UK. So that's why I think not sure how long it says temporary though doesn't it
+50:4450 minutes, 44 secondsuh as a limit. So not sure how long it's going to hold and I and I don't really see why um that's the issue. I think I
+50:5450 minutes, 54 secondsthink people are scared that stable coins are going to replace money
+51:0151 minutes, 1 secondum in society which to a degree perhaps I find yeah which I find interesting because if
+51:0951 minutes, 9 secondsyou if you do your regulation properly um and I think Mikar has done this and genius might do it as well you always need to be onetoone backed so the stable
+51:1751 minutes, 17 secondscoin reference money that already exists you're not creating new money. As an EMI, we're not allowed to give credit.
+51:2551 minutes, 25 secondsSo, we can't create stable coins. We're we're not creating money. So, we're not
+51:3251 minutes, 32 secondsinvolved in credit. Now, if you if you see that, then the role of the banks is is the credit the money creation, right?
+51:4151 minutes, 41 secondsYou're putting putting money into the economy and then the stable coins references reference the money that already exists. Now, I don't see why how
+51:5051 minutes, 50 secondsstable coins can replace money the banks have already created. And if you're not giving yield either, then it doesn't
+52:0052 minutesreplace the um let's say the it doesn't make it more attractive to to uh to keep
+52:0852 minutes, 8 secondsyour money in stable coins rather than interestbearing uh deposits with the bank. So, I don't know. It's
+52:1652 minutes, 16 secondsYeah, I think I was at the round table last week. Um was organized by the by the
+52:2352 minutes, 23 secondsCommonwealth. Um okay.
+52:2552 minutes, 25 secondsUh was the Commonwealth Enterprise and Investment Council. They hosted a a round table in um in Mansion House. Uh
+52:3352 minutes, 33 secondsand um I was uh and was very interesting discussion, very open discussion. I think um in general it felt that there
+52:4152 minutes, 41 secondswas looking for ways hey this is revolutionary. we recognize that this is has a lot of potential. Now, how can we make the most of it? And I think that
+52:4952 minutes, 49 secondsthat was that was clear as part of the discussion, very forwardlooking. Um, so I hope that this this regulation is more
+52:5752 minutes, 57 secondsminutes from a meeting a couple of months ago and that reality is catching up quickly, right? So, I was just going to add to that. You know, we spoke to
+53:0553 minutes, 5 secondssome bankers in Croatia and um you know, you talk about money evolving and becoming digital and onchain and things
+53:1253 minutes, 12 secondslike this. I didn't realize this. Maybe I mean, it sort of was ignorant to the kind of landscape of money. Um but in
+53:1953 minutes, 19 secondsCroatia, it's still over 50% of cash transactions take place. And there's other countries within Europe that also
+53:2753 minutes, 27 secondsadhere to that. I think Austria was one, for example. Uh perhaps Germany. It might have been Germany, it might not have been. I'm just Yeah. So, and that kind of shocked me a
+53:3653 minutes, 36 secondslittle bit because I was like, hang on, we're in this kind of internet digital enabled world. I know in my personal life, the majority I never have cash on
+53:4353 minutes, 43 secondsme here in in England. It's all um but then again, whenever I go to I spend a lot of time in CR, I spend a couple of months of the year there and and other
+53:5053 minutes, 50 secondscountries in in in Europe. I'm always using cash and it's like and and and I think to think that I think stable coins
+53:5853 minutes, 58 secondswill play a role in retail, but it might not be an entire replacement. And I think the reason I I I think that is
+54:0554 minutes, 5 secondsbecause cash hasn't been entirely replaced. In fact, it's still the dominant currency in a lot of European nations which are very developed nations. So there's a consumer um I
+54:1454 minutes, 14 secondsguess what would be the right word preference to consider also. Um and I think that it's always good to introduce adults back into the room because we can
+54:2254 minutes, 22 secondsget so I certainly get so glamorized with crypto. I think it's it's amazing and it's going to do lots of wonderful things and I I do believe that but there's limitations also.
+54:3254 minutes, 32 secondsYeah. And and I think cash is a good example of um money that lives in a secondary market. Utility is very high because of that reason.
+54:4154 minutes, 41 secondsUm and one of the learnings is also dealing with with corporates then but nobody actually wants the not maybe a crypto
+54:4954 minutes, 49 secondstrader want a stable coin. That's how it was invented. But nobody else really wants a stable coin. They want to be
+54:5654 minutes, 56 secondsable to do a collection or for for one of their clients. they may want to make um they want to have excess yields but
+55:0455 minutes, 4 secondsthey don't want a stable coin. Stable coin is just one of the ways to to get in there and same thing goes for consumers.
+55:1055 minutes, 10 secondsI don't see anything consumers are well served. There's a lot of options cash electronic. There's I don't see anything
+55:1955 minutes, 19 secondsthat's going to entice the users to start using stable coins unless they can get maybe a 5% discount on every transaction because the merchant makes
+55:2855 minutes, 28 secondsso makes so much more money. So it's um and what did you think about sorry to inter yields on stable coins because we know
+55:3655 minutes, 36 secondsthat this is a nogo. As far as I'm concerned all the regulation has very much come out and said look you can't pass that yield. Let's say you are holding treasuries that are earning a
+55:4455 minutes, 44 secondsyield. can't pass that on to the stable coin um holders.
+55:5055 minutes, 50 secondsWhat's your And obviously the reasons for this to my knowledge is because that would be very disruptive to banking as
+55:5755 minutes, 57 secondswe know it. I mean it would then you perhaps would have a decentralized alternative to a lot of traditional
+56:0556 minutes, 5 secondsbanking systems which would perhaps cause systemic risks. Is that perhaps why you think that wasn't that that's been sort of legislated in that you can't pass yields on to stable coin?
+56:1656 minutes, 16 secondsI don't think so.
+56:1856 minutes, 18 secondsI I think it's important aspect. I mean uh we've had an weird period where there was zero interest rates. Yeah.
+56:2556 minutes, 25 secondsOr even negative. I don't I think that's an abnormality. But normally um the function of banks in the economy
+56:3256 minutes, 32 secondsis to is credit give credit right there money creation provide working capital to the economy um and and loans and
+56:4056 minutes, 40 secondsstuff like that. Now that is needs to be backed maybe 10% by deposits. How do you attract those deposits? You need to give
+56:4856 minutes, 48 secondssome incentive which is yield. Um so if stable coins say oh hang on I'll just put it in US treasury bonds and um US
+56:5856 minutes, 58 secondstreasuries and I'll give you 4%. Whereas in the bank I get 1%. That means oh let's put the money give the money to the US government instead of giving it
+57:0657 minutes, 6 secondsto the banks that we need to create basically to put fuel in our economy. So it makes complete sense not to do that not to create this competition for it.
+57:1657 minutes, 16 secondsSo yeah and then and then you can end up with perhaps runs you know you talk about the fractionally reserved system I mean if it would be catastrophic I I
+57:2557 minutes, 25 secondsthink in in many regards I think it's interesting you know I've watched this space come from like algorithmically backed stable coins to money market
+57:3357 minutes, 33 secondsissued stable and it's all interesting where we are today but I think progress is is is um definitely uh being made.
+57:4257 minutes, 42 secondsOne thing I'm dying to ask you to sort of conclude is where are you guys looking to go from here? You know, talking about the next
+57:5157 minutes, 51 seconds12 months, which is a long way out. Uh certainly in crypto, a lot can happen in in 12 months. What's your focus at
+57:5957 minutes, 59 secondsQuantos and and and what kind of things are you looking for at to enable during the next sort of 12 months or so?
+58:1058 minutes, 10 secondsUm yeah, couple couple of things. So first of all, building out our core proposition, right? We've got a bit of
+58:1758 minutes, 17 secondslike we've got a fantastic technology stack that enables to deliver our take our proposition to market, but we we
+58:2458 minutes, 24 secondsstill need to build a little bit of front end jazz to make that uh useful and usable for our corporate customers.
+58:3258 minutes, 32 secondsSo that's that's one we want to um the challenge with having money uh issuing
+58:3958 minutes, 39 secondsmoney is that um money is being used in everything. So you need to choose where you focus and we've we're zooming in
+58:4658 minutes, 46 secondsvery much on um collections in the EU for non-EU
+58:5258 minutes, 52 secondsmerchants uh from Hong Kong, from Latam, from uh Southeast Asia, from Africa. How
+59:0059 minutesdo we build those real? So you can make a receive a payment here in in from a customer in the EU
+59:0759 minutes, 7 secondsinto the account that merchant holds with us and how do we get it as fast and cheap as possible back home. So that's that's really what we're focusing on for
+59:1659 minutes, 16 secondsthe next period to get that get that done properly. Um and that has quite a few parts to it including liquidity. So
+59:2459 minutes, 24 secondsas we see uh more and more stable coins coming out, every uh every man and his dog is going to do a stable coin, every
+59:3059 minutes, 30 secondscorporate. Um the the question is why and what what how do you deal with that
+59:3759 minutes, 37 secondsthat world? And and again for us it's recognizing that all those stable coins are going to live together, but ultimately if you want to make them
+59:4559 minutes, 45 secondsuseful, you need to tap into liquidity in secondary markets. Otherwise, you might as well use e-oney, right? So the the reason for using stable coins is
+59:5359 minutes, 53 secondssecondary markets where you can offramp easily into fiat in another jurisdiction into into another asset. So uh building
+1:00:031 hour, 3 secondszero slippage liquidity with for instance USDT is for us a key unlock and um obviously we are as a company we're
+1:00:121 hour, 12 secondsquite close to Tether. Uh so we like working with them precisely on that concept and uh and I think that's that's one of our key key deliverables for the
+1:00:211 hour, 21 secondsfor the year. Um so and of course like every startup we need to make sure we've got enough capital. So there'll be some
+1:00:291 hour, 29 secondsfundraising activities that we're doing now and probably next year as well. So there's there's still quite a bit a few things to do there. Yeah. It's going to be a busy 12 months.
+1:00:381 hour, 38 secondsYep. Sorry. But longer term, I think the global, if you look at uh imports into the EU, it's a massive massive uh
+1:00:461 hour, 46 secondsmarket, couple of trillion euros. Almost nothing is done in stable coins at the moment,
+1:00:531 hour, 53 secondsright? It's a huge space to grow and I'm very excited to see how we can make tracks in there and and what we encounter, what we learn. So, it's uh it's cool.
+1:01:031 hour, 1 minute, 3 secondsIt's one of the best places to be at the moment. And uh I think if you if you look at where a lot of the attention goes out at the moment, it's stable coin
+1:01:111 hour, 1 minute, 11 secondsissuers and stable coin infra. It's um e- money or neo banks for corporates.
+1:01:181 hour, 1 minute, 18 secondsWe're doing doing exactly those three things. So it's just a matter of retaining focus and and executing.
+1:01:241 hour, 1 minute, 24 secondsFantastic. You know, I'm really looking forward to I've been watching your journey thus far. I'm looking forward to see it seeing it move forward certainly in such an impactful um industry and the
+1:01:321 hour, 1 minute, 32 secondsrole that you play play I think is is a really necessary one and part of the the broader evolution that's taking place on
+1:01:401 hour, 1 minute, 40 secondsit's been an absolute pleasure to have you on once again. This has been really insightful for me listening and I want to just say a massive thank you for your time on behalf of myself and my audience. Thank you very much.
+1:01:501 hour, 1 minute, 50 secondsYou're very welcome. Really enjoyed it again. So don't hesitate to call me back.
+1:01:551 hour, 1 minute, 55 secondsFantastic. That's it from us guys. We'll see you on the next

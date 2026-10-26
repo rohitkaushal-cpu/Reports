@@ -1,0 +1,613 @@
+Introduction and Naveen's role at Mesh
+0:00
+All [Music]
+0:11
+right, we're here for another session at the stablecoin conference in Mexico City. We're sitting down for an
+0:17
+exclusive conversation with Naveen from Mesh. Naveen, how we doing, man? Great.
+0:22
+Thanks for taking the time. A little tired, but a good time. It's day two. Day two. It's day two. I don't know about you,
+What is Mesh: The connectivity layer for stablecoin payments
+0:29
+but I when we finished these conversations, everyone's like, "How are you?" back toback conversations and
+0:35
+you're not like gassed. I'm like, "This is actually more energizing than being out there around and like in small
+0:42
+talk." So, I don't know about you, but that could be exhausting. That is exhausting. This is more
+0:47
+energizing. So, balancing with you is is key. And uh happy to be here. I've been
+0:53
+following like the journey of BAM and the the company and the massive fundraises that you guys have been
+0:58
+doing, but we've never covered anyone at Mesh yet. So, this is the first time we've had a chance to kind of unpack
+1:03
+what you guys are doing. I there was something there was some breaking news or something a couple weeks ago and I pinged Bam. I was like,
+1:10
+"Hey, can we have you guys on this like live stream and cover this?" And we haven't made it work yet. So, here we are.
+1:16
+Okay. So, let's let's start with um the role SP and then what what is mesh? How
+1:22
+do you go describe mesh to these people who don't know what it is? Yeah, so mesh um so my role is SVP of
+1:28
+strategy, operations and execution. So it kind of covers a lot and also I have finance and
+1:34
+HR rolling up to me. Best way to describe mesh is the
+1:40
+connectivity layer to enable stable coin payments. So we connect sources of funds
+1:46
+which are wallets and exchanges to destinations that can be PSPs and
+1:52
+merchants and orchestrate that payment. So that way users don't have to think
+1:57
+about converting Bitcoin to USDC and then having the merchant figure out how
+2:03
+to get that into local fiat. We orchestrate all that end to end. So we
+2:09
+enable payments for crypto. Yeah, that's that's beautiful. the stable coin focus it sounds like for you
+2:15
+guys is is really uh sounds like top of mind as you guys grow into like the end of the year and moving forward. Was that
+2:22
+always the case or were you guys historically my recollection you were really big on like exchange connectivity
+2:30
+and like maybe give a little bit of history mesh started and how you've evolved into this like now what sounds
+2:36
+like a very core stablecoin focus. Yeah. So actually I'll take a step back even before mesh we were front finance.
+Evolution from Front Finance to crypto infrastructure
+2:44
+Front finance. Yes. Front finance was this kind of started and I'll kind of segue into BAM
+2:51
+story but started with the integrations with traditional finance. So how do you
+2:57
+connect your Fidelity account your Robin Hood account other accounts to track your portfolio. So the key part of that
+3:05
+the common denominator was API integrations. So we built fund finance
+3:10
+with that thesis uh that users want to you know centralize and see all their holdings across traditional finance.
+3:17
+I used to use this like personal finance app mint. Exactly. It's like they're plugged in all these
+3:22
+places of like oh your spending's higher in this month or whatever. So like something like that. Something like that. And ironically my
+3:28
+background which I'll get to later is I was building blockfolio which is a
+3:33
+crypto portfolio trackniac. Yes. Similar idea. Exactly. So, front finance pivoted was not a big pivot but using
+3:41
+the same API integrations to to crypto focusing on wallets and exchanges. So,
+3:46
+the supply side and our view is as the whole ecosystem gets more
+3:54
+fragmented with more chains coming up, more stable coins, more wallets, more exchanges, how do you make that
+4:00
+interoperability easier for businesses and users and payment processors? That's
+4:05
+where mesh comes in. So the more you know fragmented the ecosystem becomes
+4:10
+we're okay with that. We actually think it's a good thing. We are that connectivity uh tissue uh for all that.
+4:17
+Yeah. All right. So let's go back to blockfolio your background a little bit. Yeah. Give us the story of how you you
+4:22
+came into mesh um in Metbam and all that. That sounds like an interesting I'll share a funny story but so high
+Naveen's journey: From Blockfolio to Unit 410 to Mesh
+4:29
+level my background has been focused on in startups my whole career. So I
+4:34
+started in venture actually like company incubating and venture investing at Expa
+4:40
+which is a startup studio venture fund founded by Garrett Camp who's the founder of Uber. So I got to work with
+4:47
+him and other partners to go from negative one to one in like the company building process. So idea let's go build
+4:54
+a private jet company. Okay, what do we need to do to build that? And then we you know do all the research leg work
+5:01
+and outcomes arrow.com or uh in the challenger bank space we intubated
+5:06
+current.com and the other company that got me into crypto was we incubated eco which is the early remittance uh idea
+5:14
+and that was back in 2015. Wow. So that was my first kind of
+5:20
+was Ryan at the time leading that still like was he involved was he founder at that time of his ear? So it's actually like the team
+5:26
+beam uh the beam. That's right. That's right. And then uh so that got me really interested into crypto like okay I want
+5:32
+to focus on crypto. That's where I joined the early team at blockfolio. I was VP of operations there. Helped
+5:39
+monetization business development all those different things. And after I left sold to FTX. So a fun story there. After
+5:46
+that I got more interested in wallet infrastructure and consumer self-custody
+5:52
+and NFTTS. So I was one of the uh founding team members and COO at Bitsky
+5:58
+which was Shopify for NFTTS raised series A from Adre grew the team uh to
+6:03
+about 50 folks sold out to Phantom. Uh so a lot of the team is at Phantom now.
+6:09
+Uh when was that sold? That was I believe 2022.
+6:15
+Okay. 23. Yeah. Wow. Dabbering more. So don't hold me to that. But I then took uh a role at a
+6:23
+leadership role at unit 410 which is a wholly owned but independently run
+6:28
+subsidiary. Yes. Which is focused on institutional self-custody and infrastructure. So
+6:35
+going very deep um in that space and had a lot of similar learnings and
+6:41
+understanding from my bitsky like wallet infrastructure time but more on the institutional scale. Our clients were
+6:47
+like tier one VCs and all that. Yeah, unit 410. I think may I'm like we've
+6:53
+never had a conversation before, but I think that's why I think we might have I was at Coinbase when you were at Unit
+6:59
+410 and it someone at Coinbase the strategic relationship there. Like I
+7:05
+always thought like unit 410 was the coolest. I don't really understand what they do,
+7:11
+but they're so cool and they work with all the best companies and they just like figure it out and get it done. Yeah, that's awesome. Okay, what a
+7:17
+journey. I mean, there's so much there. um you realize that you know something
+7:22
+is on the way with crypto like you're you're in internet startups and you're like this is what's next. I don't really
+7:28
+know exactly what it looks like but there's a huge aperture that's opening 100%.
+7:33
+I think everyone here in this room at some point had that like and it still feels early
+7:39
+but like that moment of like wow eco was sort of that for you you the journey through that. Yes. Okay. So
+7:46
+and then funny story with BAM, how we got connected. Yeah. How did you meet Bam? Uh they recruited me. Uh I knew of
+7:52
+BAM and you know his past and a lot of the same executive team um coming from Coinbase and other places. So very
+7:58
+familiar and kind of like second degree relations. But through the conversations with B, he actually was like no N's not
+8:05
+tactical enough. And I was like kind of like did he tell you that? And I was just like I was like I don't I
+8:12
+don't think I'm so then I kind of uh gave a whole product tearown of how they
+How Naveen convinced Bam to hire him with a strategic document
+8:20
+going to improve mesh is like brand positioning product etc. and had this
+8:25
+whole thesis document. This was after he after they're like not not probably not a good fit.
+8:31
+Yeah. And I was like you're like hold on and so you come back with this doc and a whole like presentation.
+8:37
+So, how like what what was the format of this? Was this like a massive like it was just a Google doc with like an executive summary? I'm just like, "Hey,
+8:44
+Bam, I appreciate it, but like here's my thoughts." Yeah. And he looked at and he was like, "Yeah,
+8:50
+I was wrong. Let's keep chatting." I kind of teased Bam that he has incredible instinct and
+8:58
+is really impressive. I tease him on on this this line. But it takes it takes um a good leader
+9:04
+to know to admit when they were wrong and to also like be okay with saying I I'm okay to pivot here and you proved me
+9:11
+wrong there. It's also like encouraging for people who get told no and then it's like wait
+9:16
+a minute like why like what was the reason and let's address that objection. What was the um if you remember when was
+9:24
+this now? This is earlier this year. Okay. So this is this is pretty recently. So what can you share about
+9:29
+the strategic document? Like just bring us into that like what as you were thinking about like the current state of
+9:35
+the business where you're now thinking through like where you want to go with it. What was it about what you put
+9:41
+together that made him be like oh yeah this guy this guy knows what's up. Well, so yeah, it kind of addressed um the
+9:48
+feedback that I wanted to highlight like though I'm not writing code, I
+9:54
+understand this and I'm pretty technical, you know, understand this and add value. So I want to highlight
+10:00
+what I think could be a compelling strategy for mesh in that
+10:06
+connecting the supply the source of funds to destinations is critical. Can I stop before?
+10:14
+It's just this question. I'm going to turn it around so I can hear you a bit better. Thank you for interrupting us.
+10:20
+Yeah. Yeah, I know. It's always better to do it now. Dad brain is real.
+10:26
+I'm not a dad, but I have dad brain.
+10:32
+I love Si. Yeah, he's great. Cool. Yeah. Can you just um
+10:37
+maybe confirm that it sounds better? We'll just talk for a little bit. Come back and
+10:42
+let me know. Check one, two for a little while. Yeah, perfect. Check.
+10:49
+Testing the audio. Making sure it sounds good. Hopefully my voice isn't It looks upside down. That's why I'm
+10:55
+concerned. It was sounding good. Just when the jacket broke into
+11:01
+Got it. Got it. Thank you. So, I think we're still rolling. Yeah.
+11:08
+Yeah. Bring us back into the the the document itself. I uh wanted to
+11:13
+highlight uh my technical product perspective and also my strategic side of things because I think
+11:20
+the other things in terms of crypto background operations that was kind of table stakes for and also proven that
+11:26
+out I can absolutely do that. I highlighted how the connectivity on the
+11:33
+supply for crypto sources of funds was a key part of it. So, Mesh has over 300
+11:38
+integrations, but we needed to have those integrations with wallets and exchanges be very performant and to our
+11:45
+standards to have the user experience that we need to have for our PSPs and
+11:51
+merchants. Our goal is to have essentially like one-click crypto
+11:58
+payments and that's what our big vision for mesh is. In order to do that, we need to have certain types of API
+12:04
+integrations, an amazing user experience. so that users trust our brand and understand what is happening
+12:10
+in terms of selling some Ethereum, swapping it to PIUSD on my Coinbase account and then
+12:18
+it's getting settled to the merchant in local currencies. That's very challenging. Mhm. So I kind of outlined a lot of those in
+12:25
+detail and also just painted the bigger picture of as the whole ecosystem gets
+12:30
+more fragmented, mesh can also be viewed as a distribution partner for stable
+12:36
+coins and we see that with our announcement with PayPal and being their exclusive global crypto partner for uh
+12:44
+PIUSD. Okay, let's let's dive into that then. The distribution angle for stable coins
+12:50
+specifically. Yeah, give us a sense of the strategic relationship there. What
+12:56
+does that look like and um maybe what that model how that could take shape for
+13:01
+other stable coins as well. Yeah, so we are PayPal's exclusive crypto partner. Um
+PayPal partnership deep dive: Exclusive crypto partner for PYUSD
+13:09
+was really compelling is that PayPal has over 300 uh million merchants, sorry,
+13:16
+300,000 merchants. Um, and we allow users to connect their wallets and
+13:22
+exchanges to PayPal for, you know, pay with PayPal and then pull in funds to
+13:28
+convert that to PIUSD and then they can settle that locally with the merchants
+13:34
+with the currency that they choose, whether it be US dollars, Mexican peso,
+13:40
+etc. So that is just uh kind of the playbook we're using with other PSPs and
+13:48
+other merchants too for that pay with crypto thesis that we're going after.
+13:54
+Okay, let's break this down. So I'm in the I'm buying something online and I'm
+14:01
+buying something from a merchant who uses PayPal and they've integrated. Is this just for this like pay with crypto
+14:08
+widgets or are you saying this is also connected to like the fiat options as well or is it just like I'm paying with
+14:14
+my wallet, my Phantom wallet or my MetaMask wallet or my Coinbase wallet and I click pay
+14:21
+with crypto. That's where this lives. So it lives with PayPal and then PayPal
+14:27
+pay with crypto. Okay. And then from there that's where you connect your sources of funds whether it be a wallet or exchange. So, I click pay
+14:34
+with crypto. I, you know, there's probably a variety of different ways you can pay, QR code or whatever. Um, I send
+14:42
+funds from my Coinbase wallet, send USDC or something. Um, then what happens? So,
+14:47
+actually, we have a product called smart funding, which does the work for the
+14:52
+user. Okay? And it's very compelling because for you if you're going to
+14:58
+continue down that path of like sending USD to PI use there's so many steps and where do you do it how do you do it
+15:04
+you're going to have extreme drop off of like what chain do you do it on what network like mainstream user is not
+15:11
+going to understand and will just drop off and not complete the transaction. Yeah. It's like you I I was at Coinbase
+15:18
+Commerce for a while and like living in the checkout like this is where I lived and it was like it was hard because it's
+15:26
+when you're you're creating so much friction when you're asking these questions like what chain, what asset, what like
+15:35
+normally this like pay with crypto button in and of itself is already like so clunky where you put payers in this
+15:42
+position to determine those things which is just like it it's still there's a lot
+15:49
+of friction in that. Yeah. So our whole thing is we want to make it faster, cheaper and better and
+15:55
+also a seamless user experience that businesses and users can trust. So that
+16:00
+comes with our brand recognition. And so similar to like how Plaid built that recognition of like whoa I don't want to
+16:06
+connect my you know Chase account to Robin Hood or you know like what's what's plaid in the early stages now
+16:12
+they're if it's not plaid you're kind of like what am I doing? So yes we're we're getting to that critical
+Smart Funding: Solving the UX problem of crypto payments
+16:19
+mask and that brand recognition understanding with various partners too. So is that a helpful like metaphor
+16:24
+framework of how you think about yourselves is like that connectivity layer. Absolutely. I should have mentioned this
+16:30
+earlier but like yeah the way we think about it is the combination of plaid for
+16:35
+crypto connectivity but then with a visa like network of destinations and where
+16:41
+you can plug into. I like that. Okay. So the connectivity the plaid like connectivity happens like
+16:47
+when the payment is initiated you said smart funding or y so that's where the connection is made
+16:54
+and then the network like tell me go back to this PayPal use case where like the network becomes really exciting with
+17:01
+that. So like the checkout's easy. I'm connecting all whatever wallet you guys
+17:06
+I'm assuming connect with most of them or all of them. That helps make the nuances of like the complexity go down
+17:13
+cuz you guys are like in the scenes kind of doing uh
+17:19
+a lot of or Yeah. Um which is so helpful. Then what happens?
+17:24
+It gets orchestrated. My USDC on base is now like being sent and then where does
+17:30
+now PYUSD and PayPal and the network in the merchant at at the end like let's
+17:35
+keep following the money there. So the flow of funds would go to you know PIUSD and then the merchant
+17:43
+can so all all of sorry I keep interrupting. Yeah like so all of the assets on chain that are being sent uh
+17:50
+get essentially like issued almost or I don't know if that's the right routed
+17:56
+and that grows the PYUSD PI which is really strategically important to them I'm assuming
+18:01
+and then okay so now that's really exciting because now they're like promoting their rail
+18:07
+and PIUSD you know highly regulated publicly traded company so a lot of like
+18:13
+trust and you know all those good things that come from PayPal so uh via stable
+18:20
+coin from there the merchant has the optional ality to receive funds how they want. Do they want to hold by USD? Do
+18:27
+they want to offer ramp it to a local currency? Do they want to do, you know, 80% uh local currency, 20% PI USD or
+18:35
+back to Bitcoin or something else? So, we have that optionality. And and this is in the D like I'm a merchant. I'm going to my PayPal
+18:42
+account. Is this like some setting that I'm
+Merchant optionality: Hold stablecoins or convert to local currency
+18:47
+preference? Yeah. So that's really compelling because you know especially like LATAM uh local currency has a lot
+18:54
+of like fluctuations so they might actually prefer to hold a stable coin. So that can be really compelling and
+19:01
+accreative to that whole ecosystem. On top of that you know PayPal's you know incentivizing this with like lower fees
+19:07
+to drive adoption behavior. So it's kind of a win-win across businesses, users
+19:13
+and merchants. Yeah. the the payment center or the the cost center for payments turning into a
+19:18
+revenue center is so compelling here cuz like if you can instead of this just like sitting with dead dollars in the
+19:25
+back end like you can actually like for when PayPal like PayPal has been announcing so many exciting things the
+19:31
+last couple months that we've been covering. It's like no one understands how powerful it is to
+19:38
+turn the payments payment payins into the like market cap growth engine.
+19:44
+Do uh users maybe this speaks a little bit more to like stable coins and your go to market now like building love to
+19:51
+speak to like LATAM specifically just while we're here is the user experience with PayPal like
+19:57
+these users across the world see PYUSD or do they just see like USD like is
+20:02
+this very like under the hood for them? We highlight what is actually happening so the user is comfortable with
+20:10
+kind of listing out the flow so they can follow along so that they see like okay I'm going to go from Ethereum to you
+20:17
+know PIUSD to then you know it's going to go to the destination I'm going to receive the goods or whatever I'm buying
+20:24
+and just make it very clear and trustworthy that way and then on the back end I'm imagining I'm a merchant maybe I have a wallet
+20:30
+too. Yeah. Yeah. And then is sort of like the same thing happening on the back end if Okay. Are they doing that yet or is it
+20:37
+sort of like staying like can they uh offramp or or
+20:43
+send funds out of the dashboard on chain? Yeah. So I believe uh that's going to be
+20:50
+yeah rolled out in kind of stages. So kind of um iterative roll out. Yeah. I'm sure they would probably
+20:55
+prefer it stay in TYUSD. Cool. All right. All right. Well, let's that's so thank you for walking through that. Uh
+21:01
+my brain is just following the money is helpful. So that's PayPal. Huge win, huge customer. Tell tell us a little bit
+21:07
+about like the stable coin focus here or the strategy. Like obviously that see that
+21:13
+seems like a really powerful way for other issuers or stable coin focused companies to grow their market caps.
+21:22
+Yeah. Bring us into like all the There's so many pieces here. Sure. Um
+21:27
+I'll I'll touch on a couple. I think so other areas and industries that we've seen a lot of pull and success is also
+21:35
+in like the gambling and other kind of marketplaces
+21:40
+marketplaces some that are you know hard to you know banking is challenging yet
+21:46
+they have a lot of user growth and demand for bringing money into their platform. So another great example is uh
+21:54
+the online betting site stake.com based in Australia. So we are have a direct
+Expanding beyond PayPal: Stake.com and iGaming use cases
+22:00
+integration within. So users can pull funds from their wallet and exchanges to
+22:08
+stake.com via mesh and place bets on sports betting. So um
+22:14
+it's really successful. They're seeing a ton of volume um through that. And we
+22:19
+make the you know you coming from like a commerce coinbased commerce background that conversion for the user intent to
+22:27
+complete that financial transaction has been increasing because of the user experience is uh very seamless and also
+22:34
+has that smart funding as well. That's awesome. So those are other categories that we are very excited about and then also just other PSPs in
+22:41
+general how we leverage partnerships with them to have the distribution for their merchants that they have in
+22:47
+different geographies and industries that are specific to them as well. Awesome. There there's something about
+22:53
+the sec the feeling of safety when you have an intermediary
+22:58
+plaid-like layer where it's like oh plaid's involved. It feels
+23:04
+psychologically like I can trust this financial movement more now versus like
+23:10
+even now sometimes I have to send to like a a wire transfer with like an account
+23:16
+number and a routing number and it's like just like pushing send and hoping like did it work like did I do it right like
+23:22
+some in this like layer it's actually really powerful to have a trusted
+23:28
+connectivity layer where you're like oh mesh is involved great like I can just like trust that especially when it comes
+23:34
+to yeah use cases like stake or or these these typical like all of these betting
+23:41
+and and crypto payans is a huge part of those like sports betting and online I
+23:48
+gaming companies like crypto payins commerce that was like one of our largest volume drivers
+23:55
+were those types of businesses just because global by nature banking is such a risk for them like it's a
+24:01
+Perfect use case 100%. And yeah, to your point, it's the combination of
+24:07
+a more secure connectivity because the alternative is copy and pasting your wallet address, crossing your fingers,
+24:13
+crossing your fingers, doing like a test transaction like that is archaic and
+24:18
+completely, you know, we could do better. So there's that component that we saw and then the user experience with
+24:24
+smart funding. So those two things combine are the whole ecosystem. Can you speak a little bit about the strategic
+24:31
+partners that you have in terms of like you know with the PayPal example? I know
+24:37
+like Paxos is like very key as an issuer partner for that relationship. What are
+24:43
+some of these like you know really key pieces to the recipe that you guys are are or not maybe not
+24:50
+specific companies but just like really helpful parts to the puzzle. Yeah. Um what does that look?
+24:57
+Yeah. So it's the two main components are strategic integrations with sources
+25:04
+of funds. So which are wallets and exchanges and then also the merchants
+25:09
+and PSPs. We also have partnerships like for example like bridge for that
+25:15
+orchestration to make it have complete like geography and service area coverage
+25:21
+for local offering for for the merchants and PSP sites. Yeah. So
+25:28
+those are like three key strategic partners that we really focus
+25:34
+on and it kind of each one of them helps push the flywheel for that network effect that that we're really building.
+25:40
+Are they are they all like
+Strategic partnerships and the broader ecosystem
+25:46
+they're all sitting in different parts of that flywheel? But you know when you guys maybe we can
+25:52
+kind of dive into the some of the recent news like the raise and what's next for you. Like when I think
+25:58
+about that network that like you're not going to What was the last funding that you guys got? What was the
+26:04
+number there? We had a series B I think it was uh 83
+26:10
+million. 83 million. And that your total funding now is like over 100 million. Yeah. About 135. Yeah.
+26:15
+To raise that amount of money like you're going to these investors and you're saying like hey like we are going
+26:21
+to be a talk a little bit about in your mind the strategy of like what is the really
+26:27
+really big swing that you guys are taking. It's always struck me that like
+26:32
+mesh is going for the fences. Yeah. they're they're wanting to build like the like the Visa level player for the
+The $130M funding story and building the Visa of crypto
+26:40
+space like just like shill that because I just want to know I want to know like what what for investors to be given that
+26:47
+amount of capital like what is that story and and what is that vision? Yeah. Yeah. So I think
+26:54
+investors see fragmentation not going away and a lot of the stable coins are
+27:00
+also growing too. Banks PSPs etc even Metamas like are all
+27:07
+issuing stable coins. On top of that the if you just look at numbers so stable
+27:13
+coin market cap is couple hundred billion let's say right now approaching 300 billion.
+27:19
+Yeah 300 billion. The total market cap of crypto right now is roughly what? Three trillion.
+27:25
+How do you bring utility to that three trillion of crypto? Because right now
+27:31
+it's just, you know, you can use it for payments, but it's still challenging. So
+27:36
+we bring utility to that three trillion and growing market cap for for crypto
+27:44
+plus the fragmentation of more wallets, more exchanges globally as well as
+27:51
+commerce growing online give and plus regulatory tailwinds as
+27:57
+well you know uh Genius etc all align for mesh to to grow and scale into this.
+28:04
+On top of that, we kind of take this stance and perspective that a
+28:11
+kind of neutral company needs to be that connectivity layer because other companies aren't going to go build this
+28:17
+because it's, you know, they're going to be focused on their ecosystem. So we kind of take this Switzerland stance of
+28:25
+being neutral to all those players and stakeholders and provide that connectivity where we don't have you
+28:31
+know a bias or uh particular motive to push this stable coin or push this
+28:37
+network or push this wallet or the exchange etc. There aren't many people or there aren't many comp like there are a lot of
+28:43
+specific companies doing their specific thing well but like that that layer that you guys play is so
+28:48
+important. I got to close soon. It's so hard. Um, when you think about the
+28:57
+actually I want to ask how do you monetize this? Like what's the core what's the core way that you make money
+29:04
+in this flow? Um, I'm sure there are variety of different ways but is it how does that take shape right now?
+Business model: How Mesh monetizes connectivity
+29:10
+Yeah. Yeah. So the simplest way is we take BIPS on the transaction volume that
+29:15
+we help orchestrate on the merchant and PSP side mainly.
+29:20
+So that and then also some of the we have like a standard like exchange agreement too. So some of like the big
+29:26
+exchanges that we have like fee structure basis points with them
+29:32
+like based on how many payments are sent or something like that. Correct. Yeah. Yeah. Because they what what's it? It's
+29:38
+interesting. So what what's the they're betting on this is a great user experience for people to hold assets on
+29:45
+my wallet or my exchange. So we want to even though they might be
+29:51
+it's actually interesting because it's like the incentive is like the money's leaving but they also want that to be
+29:57
+really frictionless so that people keep using that as a source of funds. Is that right? Like am I thinking that
+30:03
+way? And with smart funding, trade happens on that exchange or wallet. So
+30:08
+they generate revenue. Tell me more about that. What again going from like Ethereum to Pi USD
+30:15
+via smart funding that would take place on the exchange that the user has connected. So for example, their
+30:20
+Coinbase account that swap would happen on the exchange. Got it. Which is a key
+30:26
+revenue driver for the exchanges. And so you will what does that look like for
+30:33
+you know, for the exchanges that's obvious. Like they'll say, "Oh, use our pairings." Y
+30:38
+what what does that look like for the wallets? Do you guys have preferred
+30:45
+exchanges there like the centralized exchanges or for that? Yeah, we're we're working through that too with like all the big wallets and
+30:51
+what what could be very creative for for all the stakeholders too. Um but yeah,
+30:57
+it's a little bit like early stage. So interesting, Lavine. Thanks for this, man. This is so fun. There's so much.
+31:04
+It's a business that's like touching so many different areas. Um, so we'll have to we'll have to do
+31:09
+this again. Yeah, we'll love a followup and, you know, check in to see me's progress. But
+31:14
+thank you for having me. [Music]
+31:29
+[Music]
+

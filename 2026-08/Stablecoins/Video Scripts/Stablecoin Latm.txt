@@ -1,0 +1,1127 @@
+Introductions: moderator and panelists
+0:06
+Thank you so much everyone for joining. Um I want to welcome everyone here for
+0:11
+this um webinar. This is the episode seven of the stable coin builder series
+0:18
+and this is a webinar that we host monthly and it's always live sessions
+0:23
+for founders, entrepreneurs and operators building products into the
+0:28
+stable coin space. We cover topics for every project at
+0:34
+every stage of growth from idea to funding and to shipping. and we run these sessions to help the stable coin
+0:41
+ecosystem grow by tackling into real infrastructure challenges together.
+0:48
+So before we start, I just want to give a quick intro for everyone who's new here. Um, Utella provides fintex banks
+0:56
+and enterprises with infrastructure to build and manage stable coins and digital asset operations. We currently
+1:03
+serve over 200 institutions across payments, treasury, trading, and more.
+1:09
+And we help secure over 20 billion in monthly in volume every month. So
+1:15
+today's topic is going to be about stable coins in LAM. As we all know the
+1:22
+in the ecosystem is evolving. Um there is demand driven by effects, volatility,
+1:27
+crossber payments, um payment fricture and the need for always to have more
+1:33
+efficient financial rails. Before I dive into the actual context, I'd like to give everyone about 30
+1:40
+seconds. So you can all introduce yourselves. You can say your name, your role, anything you want to say, but just
+1:45
+let's let's make shorter because we do have a lot of in the agenda today. So um let's maybe get started with Kyle.
+1:54
+Hey guys, how's it going? Can you guys hear me? Yes. Oh, good. Uh, first of all, thank you
+2:00
+for for the invite. It's a pleasure to be here with you all. Uh, for those who don't know me, I'm Kyle, founder at Lumix, uh, based in Rio, Brazil. Uh, you
+2:08
+know, one line about Lumix. So, we have been in space since 2022. So, we are crossber payments company based in Rio.
+2:15
+Um, all of your our people are in Brazil today, but we serve customers globally. And uh one of the main things on on my
+2:22
+side that I'm most excited about is that we finally got a regulated market in Brazil. So I think it's the best time to
+2:28
+discuss the space and since we've been serving mostly offshore companies, I
+2:34
+think uh there's too many questions and and things to discuss about the local market. So I'm very excited to be here
+2:40
+and you know share the same with you. Thank you. Um Andreas, do you want to go
+2:46
+next? Hey everyone. Uh sorry for problems with
+2:51
+the connection but as you know in Latin America sometimes we have this type of
+2:57
+situation. So very nice to meet you. My name is Andrew Kim uh expansion lead at
+3:03
+Tether for Latin America. Uh very nice to meet you all.
+3:09
+Thank you Java. Hey guys, first of all excited to be
+3:15
+here. Thank you for the invite. I'm Chava. I'm the chief product officer at Mantis. I lead product sales marketing
+3:23
+and innovation at the company. Uh Movantis, we actually just recently rebranded. So if you're familiar with
+3:29
+either Trans Network, Inswitch, Spectrum or Arisa, we're the combination of those
+3:35
+four companies and we now rebranded as Mantis. We enable mostly crossber money
+3:42
+flows enabling around 60% of the remittances that flow from the US into
+3:47
+LATAM every year. We also have pays, payouts, wallets, issuing and core banking capabilities. Excited to be here
+3:54
+with you all. Thank you. Um Christo,
+4:01
+hey Israel and everyone, thanks for inviting me and and having global 66 in the panel as well. Um, I'm the
+4:07
+partnerships manager at Global 66. Just as a quick intro, we are a global
+4:13
+account. We allow our users to send, hold, and receive money in different currencies. We were founded in Chile,
+4:20
+but we think of oursel as a global account, but of course, most of our focus has always been in Latin America.
+4:27
+So, hopefully we'll bring some of those uh learnings, the good and the bad ones, to this conversation today.
+4:35
+Perfect. And last but not least, Leandra. Hey everyone. Uh, first of all, thank
+4:41
+you so much for the invite. It's a pleasure being here with everyone. Uh, my name is Leandro Mineses, founder and
+4:46
+CEO of Mandioa. Uh, we specialize on crossber payments. Um, what we do is
+4:52
+connecting Latin America with the world. We work very very closely with exporters that need to collect payments in local
+5:00
+currencies in Latin America. we convert that into stable coins and then we're able to make T plus zero payments
+5:06
+whatever our clients are. Perfect. Thank you everyone. So I think we can get started. I just want to give
+Market overview: LatAm's stablecoin growth in 2025
+5:12
+a one minute overview for anyone who joined that is not really familiar with the market context. So according to the
+5:20
+latest chain analysis report, Lend America crossed 73030 billion in crypto
+5:26
+transaction volume in 2025. a 60% growth e year-over-year, mostly driven by
+5:34
+stable coins. Um, Brazil obviously dominates it. We're the largest country,
+5:39
+but the other countries are following right after it. So, we have Argentina, Mexico, Colombia, and Venezuela growing
+5:46
+really fast driven by lots of reasons that we discuss here today. Um as we all
+5:51
+know USDT is the default um stable coin mostly used but we are seeing a lot of
+5:57
+growth in local stable coins. Brazil for example has over 10 um BRL packed
+Why LatAm is such an important market for stablecoin payments right now
+6:04
+tokens. So my first question um is going to be towards you Chava and then Kaio
+6:10
+maybe you can follow up afterwards. So after all this context that we just mentioned, what makes Latin America such
+6:18
+an important market for stable coin payments right now? Um is there any country corridors or adoption signals
+6:25
+that builders should be paying attention to? Yeah, of course. So, so there one of the
+6:32
+the key things that we do is we we enable remittances from the US into LATAM, right? And and I think when you
+6:39
+think about hey what is the customer pain point when when it comes to remittances they want their money to be
+6:45
+secure they want it fast right and they they they want it in the cheapest and most efficient way possible. So stable
+6:52
+coins actually give you that right off the bat. But this is programmable money who who can move instantaneously and at
+7:00
+a very low cost. It also helps multiple companies like ours unlock idle money
+7:06
+that we have in each of the countries. So a lot of what we used to do before was when somebody wanted to send a a
+7:13
+transaction from the US into LATAN we would have balance sheet money in each of the countries that was just sitting
+7:20
+right and and trying to get into the local payout network. So here what we're solving with stable currency is just how
+7:27
+fast and how efficiently we can move money around. Once we have that and for example when we put it together with our
+7:33
+wallet infrastructure one of the key things that we can do for example we with with
+7:41
+white label this to multiple of our financial institutions and retailer partners that we work with throughout
+7:48
+Latin America in the 19 countries where we operate. We can white label this product and we can offer for example a
+7:54
+stable coin wallet which it can be like a USD based account which as we all know
+8:00
+in Latin America was typically reserved only for highly affluent customers. Now
+8:05
+we can democratize that part. Yeah, I I totally agree with with Java
+8:12
+and just to add add on that I think uh the case of local stable coins and I think that spec es especially since last
+8:18
+year we have been seeing a growth in Brazil on the usage of PRL denominated
+8:24
+stable coins and the funniest part is uh of course it all started out with payments right uh the the at least the
+8:33
+the idea of trying to make onchain FX so not to actually depend on traditional
+8:39
+rails So to actually move money offshore but actually one of the main use cases
+8:44
+that have been driving the growth of the volume for for example BRL stable coins is a possibility to offer BL denominated
+8:53
+accounts to um non-residents right because in Brazil we have what is called
+8:58
+a non-resident account which is not that easy to to get especially if you're not like a financial institution offshore or
+9:05
+if you're not regulated elsewhere um there's too much bureaucracy and guad rails with this account. So, it's not
+How BRL stablecoins are unlocking new account and yield use cases
+9:11
+that easy uh or smooth to use. And by using a BRL stable coin, you can just uh
+9:17
+similar to what Chava just mentioned, you can just spin up a wallet and give them a BRL stable coin and now they have
+9:23
+a BRL account, right? And especially in Brazil where we have a very high yield.
+9:29
+So, today uh the annual yield on on treasury bonds in Brazil is like 15%. we
+9:34
+can also uh make make the ass access to these investments easier to offshore
+9:40
+investors. Right? So I think these two use cases uh were were are one of the
+9:46
+main ones that have been driving this growth locally and I think uh going forward of course the dollar access is
+9:52
+still uh the main use case that we see for stable coins here in the region but I think the these new use cases that
+9:59
+will be unlocked through local stable coins is what for for example me I'm very excited about in the upcoming
+10:05
+months I'm going to switch to Andreas Slightly
+10:11
+building on what you just said KA about dollar access just to check and this is your connection good
+Is the stablecoin adoption narrative shifting beyond inflation and dollar access?
+10:20
+can you no I don't think so okay I'm going to switch it to Leandro
+10:26
+this same question so then it's about narrative of latam
+10:31
+stable coin adoption so it's been traditionally associated to inflation
+10:36
+and dollar access but do you think that there's it's a time of a change of narrative like do
+10:43
+you see that stable coin adoption is coming from another side right now or do you think that it's justified and to be
+10:49
+continued like this so I think that something very important to note is that
+10:56
+LAM is not a single market each country in Latin America acts on its own is it's
+11:02
+its own world so especially on the stable coin world or in in the world where we where we move crossber payments
+11:09
+using stable coins. Each market is completely different. The necessities that the USDT has in Bolivia or in
+11:16
+Venezuela are not the same necessities that Mexico or Brazil are going going to have or Argentina or Chile. So, it's
+11:23
+very depending on each market. And one thing that we've seen that is
+11:28
+very repetitive is that at the end of the day, clients needs efficiency. Uh
+11:34
+they need to solve problems. Definitely one problem is is volatility is the
+11:39
+valuation of the local currency against the US dollar. But in other markets like such as Bolivia is a necessity because
+11:45
+access to US dollars is not even possible. Uh we came to the point where in Bolivia for instance the the rate for
+11:54
+US dollars or is not the rate that the central bank gives is the Binance P2P rate. Uh in Venezuela if you want to
+12:00
+make an import making the payment using US dollars is almost impossible. you need USDT. In Colombia,
+12:08
+we get a little bit more into banking infrastructure. So, banking infrastructure is outdated. Payments are
+12:13
+going to take very long. So, now with stable coins, being able to instead of
+12:18
+sending an international wire, you can send a domestic wire where the market is is going to be the the solution. So, the
+12:25
+narrative I think that's still the same. Like definitely a lot of people are looking at stable coins to protect themselves against uh volatility or
+12:33
+inflation but then there's also other markets where the necessity is different and the narrative is going to be more
+12:39
+like we need to solve the problem or how we can be more efficient about sending international wires or how we can
+12:46
+receive money and that's where USDT and stable coins uh they they play a very
+12:51
+very important role and to get your perspective Christoal
+12:57
+on specifically like the Remington side and retail. Do you think that users are
+13:05
+using Global 66 for the same reason a year ago or is there a shift?
+13:11
+I do share pretty much um the same view with Leandro. I think that Latin America
+13:17
+is absolutely not a country at all. Uh this might sound obvious but when you
+13:22
+land in Latin America you realize each country has their own needs and but even
+13:28
+if you want to force the the the comparison or the similarities among
+13:34
+these markets I think apart from the obvious inflation and USD access I think
+13:41
+we're seeing a new trend in adoption which is payments efficiency driven. I
+13:48
+think that many countries, so for example, Brazil, um, Mexico and and Chile might have uh local rails that are
+13:57
+more developed than some other countries in Latin America, but the crossber payments remains to be uh pretty
+14:05
+frictionful. So that said, I think that stable coins are pretty much matching
+14:11
+the field between the local rails and the crossber payments. Um so I think
+14:16
+that's that's a second trend that's driving a lot of the adoption there and we are seeing that for for the
+14:23
+remittance sites. Um, one thing that I I I'd like to highlight on this is that
+14:29
+the user uh and the level of adoption, it's going to be linked also to the
+14:34
+financial education that one market has because for example the amount of
+14:39
+understanding that a user in Brazil has is not the same that we can see in Peru
+14:45
+or Bolivia, we understand them differently. So I think the flows must be designed uh having that in
+14:52
+consideration as well. Perfect. And just before we move on,
+Where stablecoins clearly outperform traditional rails in Brazil
+14:57
+Andreas, because I think that your perspective from tether side is very important here. Do you have connection
+15:04
+now? No. Okay. No worries.
+15:11
+We can move. Okay. Yeah, we can go back to him um once he's back. Um I think I want to go
+15:18
+back to Caillou what you mentioned specifically and we all know um that Latin America is a region and everything
+15:24
+is really specific and when we comes when it comes to stable coins payments
+15:29
+we just talked about traditional payments rail cost and speed but do you
+15:34
+think that there's any other specific problems and I think you were kind of starting on that when you mentioned the
+15:41
+Brazil tokens but specific problems that stable coins clearly outperform what's being offered in the
+15:48
+traditional rails today in Latin America.
+15:53
+Um yeah, I think like talking about Brazil specifically like recently, especially last year we had um
+16:02
+I think regarding FX taxes, right? And stable coins in Brazil specifically at least up to this point have been
+16:09
+leveraging this regulatory arbitrage. So in a sense where companies are be able to save tons of millions of dollars in
+16:17
+in fees that they would otherwise pay if they use the traditional rails. But of
+16:22
+course I think this specific situation is more timesensitive. I don't I don't know you know how long this will last
+16:29
+but besides that like talking about infrastructure I think in Brazil is a
+16:34
+very very interesting sandbox right to experiment with these use cases. uh we
+16:40
+have been seeing right now because years ago we had DRA which was the Brazil uh
+16:46
+experiment with CBDC's uh the project failed but the idea stayed right in
+16:52
+order for us okay we need to rethink how the financial market uh works in Brazil uh the capital market specifically needs
+16:59
+to be modernized and this sparkled a wave of now the incumbents and the the
+17:05
+banks and every everyone that was uh that were in the the dra pilot. They are now doing the same things that they did
+17:13
+before but using stable coins. And I think this is a very cool thing that happened in Brazil because again Brazil
+17:19
+is a very evolved financial market but I think the the traditional rails
+17:25
+specifically on the capital markets needs to be reshaped and now I think it's the best uh time to do that. So we
+17:31
+have been seeing a lot of platforms and products using stable coins to give um to offer traditional financial
+17:38
+instruments uh in a in a in a way that is cheaper, more efficient, more transparent, easier to reconcile. So,
+17:45
+you know, for the back office definitely happens. Um, definitely help. Sorry. And I think that uh one of the uh new things
+17:52
+that that appeared not only in Brazil but worldwide and stable coins are also a easier way to access is for example
+17:59
+new financial instruments such as prediction markets, right? Um so I think that in Brazil we will see this wave and
+18:05
+this huge growth of new financial instruments being unlocked by stable coins. So I think right now in Brazil of
+18:11
+course we always talk about payments but uh I think capital markets right now we we leverage the whole uh evolution that
+18:19
+we had recently in this space. Perfect. And James sorry just before you
+Regional differences across Colombia, Venezuela, and Bolivia
+18:24
+move to to your question um because Kyle is mostly focused on Brazil for
+18:29
+obviously good reasons. Is there anything else that the non-basilians um panelists want to add specific to the
+18:36
+regions that they're seeing?
+18:41
+If it's if no it's like I can I can add something really quick for instance of what we seen in Colombia, Venezuela, Bolivia where it's
+18:49
+very important to note also like how the the stable coin rails they're changing
+18:56
+the way money flows and how it's giving how is compressing compressing set time
+19:01
+and improving the capital efficiency of these countries especially with the issues that they have with very very
+19:07
+outdated banking. infrastructure and just to build on on what Leandra
+19:13
+said I I think that's one of the key challenges that we encounter right like how do we connect the stable coin world
+19:19
+with the local fiat payout rails right even the realtime payment networks they
+19:26
+have cut off times they they don't operate 24/7 they still have issues they there's still that gap that needs to be
+19:32
+brided and I think that's that's a huge opportunity for operators in the market right Our view is that fundamentally
+19:40
+money flows are going to move entirely like from stable into stable. But during the transition phase, it's very
+19:46
+important to to to bridge in the in the on and the off ramp. Hey, what happens with with that l
+19:54
+I'll build on a question similar to this um specifically for Gristoal and Chava
+20:00
+because both your companies are traditionally fintexs like traditional fintexs and are moving into stable
+20:07
+coins. How do you describe that journey like from inside from outside like what
+20:13
+has been the process internally?
+20:19
+Do you want to go first? Okay, take it away, Krystal. Okay, just talk.
+20:24
+Um, it's it's interesting or funny depends on how you look it. Uh, as you
+20:29
+said before, we are not we were not born as a as an stable stable coins company.
+20:36
+What made us look into these flows and and this new parading parading parading
+20:42
+sorry. Um, I think it's our users. We had a lot of demand from the market. Uh
+20:49
+our users were already transacting in in the stable coins ecosystem and they
+20:56
+started demanding precisely what was mentioned before a connection and a bridge between the stable coins and the
+21:03
+fiat world. Um the onchain rails are not going to be valuable enough if we are
+21:08
+not able to provide uh this fiat connectivity. And I think it was good that we focus initially on our fiat
+21:16
+infrastructure. We have been in the market for something around eight years and we have been targeting every market,
+21:22
+every corridor one by one, connecting to the infrastructure, building the partnerships, uh getting the licenses
+21:29
+for for our all of our operations and precisely we started asking our users,
+21:37
+they started requesting the flows and that was what what we built first. We
+21:42
+initially allow the users to receive in stable coins addresses directly into
+21:48
+their wallet. So there was an automatically convert converted flow from the stable coins to any fiat
+21:55
+balances they have. And the volume came along pretty quick like every time we launch a market we see a growth that of
+22:02
+course it's it's pretty interesting and high but with stable coins the flow was like there from day one. Um and it was
+22:10
+the same when we launched the opposite flow. So we enabled our fiat balances uh
+22:18
+to execute payouts into external blockchain addresses and the
+22:24
+volume came along pretty quick. So what made us look into into stable coins? Uh
+22:29
+the demand of the market. our users were already uh there before us and we wanted to be that bridge between the fiat and
+22:37
+the stable coin world and for us is I think it's very similar
+22:43
+in the sense that it comes from demand in the market the one key difference in
+22:48
+our case because we're mostly B2B company right so we enable remittances
+22:55
+that somebody a customer in the US goes to a remittance company they send money to a payer in Latan
+23:01
+We enable that money flow. So if somebody wants to send uh even cash, right? We we even enable cash flows like
+23:08
+like physical cash in a western union or monogram in the US and they want to go to Walmart in Guatemala or the local
+23:15
+bank in El Salvador. We enable 60% of those flows. In our case, it's mostly
+23:20
+about if we fundamentally believe this is where the money is going to be moved in the future, then we definitely want
+23:27
+to be enabling those flows for our partners. So in many cases actually the the very traditional financial
+23:34
+institutions throughout Latin America that we operate with, they're actually still like not fully convinced, right?
+23:41
+This is a lot about like abstracting the complexity, abstracting the compliance aspect. So we take on that and then we
+23:47
+can offer them basically they they don't even need to know that we're utilizing stable coins. They just care about the
+23:52
+money getting there on time at the fastest speed at the lowest cost. And if we can provide that while utilizing our
+23:59
+infrastructure and stable coin then that's a win for them. Once they realize that's what we're doing then there's a
+24:05
+more openness to be utilizing them utilizing stable coins in a more active way. So then we can widle label that
+24:11
+product for them as well.
+24:20
+Perfect. Well, you wanna you want to go, Adri? Uh, yeah. I actually want to um I saw
+24:26
+that this question was maybe focused and we touch more on some specific use cases. I want to maybe ask um if Leandro
+24:34
+or Caillou, do you think it's like the same for B2B traditional payments? Do
+24:40
+you think that there is just like specific pain points that make sable coins uses like thinking on a B2B use
+24:47
+case or is this just like interesting and people are doing it?
+24:53
+I can start. So I think definitely this affect the B2B market as well a lot. um
+25:01
+we see like from I don't know exactly the banking infrastructure in Brazil like how international wire works but at
+25:08
+least what we've seen in in other countries that any any international
+25:13
+wire can take several days so for a lot of importers and exporters always been a
+25:18
+painoint how traditional wires using swift there's multiple intermediary
+25:24
+banks in the middle in the middle and the issue is that having so many players in one of those intermediary banks could
+25:31
+be a request. So a wire that should take I don't know two three business days ended up taking 10 business days. But
+25:37
+then if you put stable coins in the middle and instead of sending an international wire to China, from
+25:42
+Colombia, Bolivia, Brazil, you just send a wire either directly via China or
+25:48
+directly from Hong Kong like you're you're compressing the settlement time.
+25:53
+Um, so this is going to allow companies in the B2B market to to have more
+25:59
+working capital that this going to create working capital efficiency. There's going to be a a very very strong
+26:06
+advantage in fragmenting banking corridors, especially from Latin America to Asia. The corridor LAM to US is a bit
+26:13
+better. Not saying that is more efficient, but this is where stable coins completely change the rules of the
+26:19
+game. Pretty much with stable coins, you're able to send domestic wires whenever you need to to do a transaction
+26:25
+and you're going from days to minutes. And this wouldn't be possible without without having stable coins in the
+26:32
+middle. Just to build on that, Leandro, and I think Kaio, you can follow up as well on
+26:39
+your views. I think you were mentioning about where stable coins go in the
+26:45
+fragmented um rails like there's this big assumption that
+26:51
+stable coin sandwich where fiat to stable coins back to fiat no intermediaries that's not quite the case
+26:59
+right could you just give a bit of a walk through on what these steps are
+27:05
+like what is this flow looking like today uh J for the Sable coin sandwich.
+27:12
+Yeah. But in a more detailed sense like what are the players in the middle? What
+27:18
+does companies what do companies need to think about in terms of these intermediaries? Got it. Yeah. So when you when you think
+27:24
+about the you know uh the quote unquote stable percentage usually have like the
+27:30
+figure of OFI and the BFI. origination finance institution and beneficiary
+27:35
+finance institution who usually are the players who hold the local licenses to
+27:40
+process fiat right to collect or do payouts in fiat in each of these jurisdictions. Um, of course you have
+27:47
+the liquidity providers which can or cannot be the same player, right? Because some players do do both roles
+27:54
+here in the in the process. But usually uh at first uh you have a fiat
+28:00
+collection. So let's say uh let's imagine is a BRL to USD transfer right so at first you would have a peak
+28:07
+transfer. All right. For from BRL to a a bank account located in Brazil, then uh
+28:14
+this fiat balance will be converted to a stable coin using a local uh liquidity
+28:19
+provider which again especially now with the regulated market in Brazil also needs to be a regulated entity or at
+28:27
+least have a partnership with a local entity in Brazil. Then uh uh usually
+28:32
+there's a transfer from the stable coin uh from the local custody to an offshore custody to uh to another partner who
+28:40
+actually will be the one who will do the last mile. Right? Then we have another conversion to a local local fiat
+28:47
+currency then the local payout to the bi bank account. Right? So it's funny
+28:52
+because we always say that uh and it's it's kind of true but we always say that
+28:57
+removes intimidaries but you can actually have a lot of intermediaries too right in the process. Uh but it
+29:03
+happens that the process is easier and faster uh and not always but most of the
+29:10
+time cheaper right um but you also have a lot of risk right in in the process because for example if in the middle of
+29:16
+this process the liquidity provider or the last mile fails you have a a problem
+29:22
+because you need the transaction already went through you need to revert or do something on that. So I think in our
+29:28
+case at LOMix what we learned a lot in this process is how to actually make the
+29:35
+transaction monitoring and the whole transaction engine very granular in a sense where we can know exactly when the
+29:41
+money is and exactly what to do uh when something bad happens in each of these
+29:46
+steps, right? Because the client will ask where my money is, right? So we we always always need to be prepared to to
+29:53
+act uh and you know be able to make sure that everything goes well. But yeah the the sequin sand which is is definitely
+30:01
+today 80% of our volume. We still don't have that much volume locally of people
+30:06
+settling in stable coins right uh there process of ramping up. Uh so that's why
+30:12
+we you know invest a lot of time to making sure that the process is very reliable and we are able to make sure
+30:19
+that everything goes well. Cool. So building on this flow that you
+30:26
+just described Kaio switching to Leandro and Gustoa you can give your thoughts as
+30:31
+well after you can like as a like when you're
+30:36
+running your business you can think about how much of this you want control
+30:42
+over and how much you want to delegate. So Manddio has grown a lot in the last
+30:48
+two years. What's your perspective on what's the most important thing that you
+30:54
+have had to take control in this stack? Like is it the liquidity partners? Is it
+30:59
+the wallet infrastructure, the support, client support? Like what are your thoughts on that?
+31:05
+Yeah. So one thing that is very important is that operators they must control orchestration and visibility.
+31:12
+You definitely need to start controlling the treasury. So owning the wallets it's
+31:17
+very very important. After that you need to have control of your compliance of your KYB process or your KYC processes.
+31:25
+Making sure that even if you're using a third party provider that you always have
+31:31
+uh all of the documentations on your own that you can custody those documents as well. And then of course is the
+31:37
+liquidity. The liquidity part is more on the revenue aspect because the closer
+31:43
+you are to the liquidity, the most effective or the smaller your spread is
+31:49
+going to be. So your margin is going to be bigger. But I feel that without having control of the treasury with
+31:54
+wallet infrastructures like with UTLA for instance um you're never going to have the control. So I will say that
+32:01
+it's it's very important that you control the compliance, very important that you control the treasury, very very
+32:08
+important that you also have control of your technology. And then after that, but this is more from the revenue side.
+32:14
+Uh the more you control the liquidity or the the the closest you are to the to
+32:20
+the source of the liquidity or you can source your own liquidity, that's where your margins are going to be bigger. But
+32:25
+that's more from a revenue perspective. Okay. Any thoughts on the remittances? Chava
+32:33
+Gristoal. It's okay if I start.
+32:40
+Okay, I'll go. Um I think Sorry. Sorry. Go ahead. Go ahead.
+32:45
+I said if is it okay if I start this time? My bad. We'll take one. Um so so yeah I think
+32:52
+from our perspective like if you think about the the the how do we move money
+32:58
+today in the chart firework right as I mentioned we we take a USD in the US from somebody and then we use balance
+33:05
+sheet money in the target country to distribute let's say Guatemalan katanis but at some point that fiat money needs
+33:12
+to move that fiat money moves via wire transfers and it uses a set of
+33:17
+corresponding banks that combined they offer you like a certain FX rate and and like multi-day settlement time, right?
+33:24
+And very low visibility uh about where the money is at any given time. As we
+33:29
+move into the stable coin sandwich, one of the key things that happen is we we
+33:34
+mint uh uh either use a partner to mint or we mint stable coins ourselves,
+33:41
+right? And then we we move it to a wallet and then we use an an off-ramp liquidity provider. As part of that, a
+33:48
+lot of what we're connecting is we're connecting wallet infrastructure provider that could do that. Uh we we we
+33:54
+have liquidity providers and then we also have know your transaction providers because we work with highly
+34:00
+regulated financial institutions. So in terms of like hey which part of the stack should you own? We definitely own
+34:08
+all of the orchestration. We we own the end clients on both ends. But when it comes to expertise, we always look for
+34:15
+experts in each of these realms to connect them and integrate them into our product offering. So we believe those
+34:22
+jobs are much better done by experts than than developing them inhouse which
+34:27
+could take a very long time to market.
+34:34
+Crystal, do you want to add something? Yeah, for sure. I mean uh both Leandro
+34:39
+and Tava already provided a pretty good and comprehensive view. I just need to add that um Kaio said something that's
+34:48
+really valuable and and and hard through the stable sandwich is anything but simple. Uh even if we want to think
+34:55
+about it as as as a as an improvement. Uh so that being said, I think in terms
+35:02
+of the control um you need to if you believe in it, you need to invest and
+35:09
+build on it. So whatever you're you and your company are good at, you need to
+35:16
+control it yourself. If you're not good enough or it's going to affect your flows, your users, your UX, you need to
+35:24
+rely on a partner. Just bear in mind that if you bundle or use just one
+35:30
+partner for everything, you're going to lose control and visibility. If you have too many parties and too many partners
+35:36
+in the middle, you're going to make the service fragmented and therefore lose the value of what you want to achieve,
+35:43
+which is actually speed, control, visibility. And and I think that's a decision every
+35:49
+company has to make. On our side, we have decided to rely on a couple of
+35:57
+strategic partners, but of course, we always have this uh land
+36:02
+and then expand uh approach to the market. So, if we see in the future that
+36:07
+we need to expand what we do by ourselves, we are of course going to do
+36:13
+uh those steps as well. That's great guys. Um I just want to add
+36:20
+one thing to it um to everything we're talking about about like this blackbox
+36:25
+thing and it touches on everything we've discussed so far right so when we're talking about traditional payment rails
+36:31
+and I think Caillou you mentioned it everybody wants to know where the money is but if we look at like traditional
+36:36
+swift you have so many players in the middle you have so many um people to ask
+36:43
+information from and then we go to stable coins if you just put more people in the middle information also gets
+36:49
+lost. So we've from our side at Utilla, what we see is that when companies start
+36:55
+to grow, it's exactly what you guys said. You want to control everything that you feel it's in your control. You
+37:00
+don't want to lose margin. You don't want to lose um revenue, especially when we were just talking about like
+37:06
+remittance, which has already um a tough relationship on the revenue part. So, it
+37:13
+is something to keep in mind for the builders who are watching this is as you
+37:18
+grow, how much do you want to consider and keep controlling your own um stack?
+37:25
+And before we move, I just want to confirm if Andreas, are you here? We saw
+37:31
+that um you're back.
+37:36
+Can you do you think you can maybe try to answer one question for us?
+37:45
+Okay. So, this was a qu a question that James had for you, but since I'm here, I'm going to ask. Um, we wanted to know
+37:51
+that from your perspective, what is driving USDT usage across LATAM
+37:57
+specifically and passing um other currencies?
+What's really driving USDT usage across LatAm, country by country
+38:02
+See, well, very interesting question. Um I would say that the common mistake that
+38:09
+companies uh especially international companies that see LATAM as opportunity is like
+38:15
+when they put everything in one basket and for me or for us uh every country is
+38:22
+very particular of course has some similarities but it's it's not the same
+38:28
+market right so for example we can see drivers like use use cases like hedge
+38:36
+against inflation in Venezuela and Argentina. Uh but then you can see in Colombia that one of the most common use
+38:43
+cases is arbitrage and then if you compare with Brazil I
+38:49
+would say that the number one driver is on crossber payments. So uh every region
+38:55
+is very particular and actually that's are how we differentiate of of the
+39:02
+competition. We do have local presence and we try to really understand what is
+39:07
+happening inside the country and have a tailor solution for each one of them.
+39:19
+Perfect. We're really happy you're back. James, you can you can continue.
+39:25
+I'm just going to ask for anyone who who is like because this is so fragmented
+39:31
+and every country is so interesting in this last year starting from January
+39:37
+let's say what's the country that has you most interested over what's go
+39:42
+what's happening like nuances and trends
+The country each panelist is watching most closely this year
+39:50
+in the region of course. Yes. Don't say all US at once, guys.
+39:56
+Come on. I can start, James. Okay, perfect. Thank you. Uh, I will say
+40:03
+Bolivia. I think what Bolivia has been adopting, I think that how banks they're
+40:10
+starting to take USDT and they're trying to get into the market. How in this
+40:15
+moment I cannot remember how they called the pics in Bolivia which you can pay with QR how other wallets provider
+40:23
+they're connecting that with stable coins how now importers are not asking
+40:28
+what the the local currency to USD is everyone is asking was the was the
+40:33
+spread against the USDT I feel that now the the currency for for crossber
+40:39
+payments in Bolivia it's definitely the stable coins uh bankings are getting into
+40:45
+uh prepaid cards. It's it's there's definitely a big big movement in Bolivia that that has been evolving especially
+40:52
+since January which is very very excited to see. I totally agree with with Yandro. So for
+41:00
+us Bolivia is very special. um of course from
+41:05
+um from the adoption perspective because still uh small market comparing with
+41:12
+let's say Brazil which is the number one in terms of um volume but in in Bolivia
+41:19
+it's very interesting because people uh basically
+41:25
+solve a huge problem for for people that are looking to have aation like heading
+41:31
+patient but also have uh to buy um providers, drunk
+41:37
+providers, international providers, raw materials uh to be able to produce from
+41:43
+the internal economy. Uh there is a very interesting number that shows the actual
+41:49
+impact that happened in Bolivia in the last two years. So the total uh the
+41:57
+total um amount of money that was the basically inflow of the of the country
+42:03
+in terms of digital asset in 2023 before the regulation it was $500
+42:11
+million um during the whole year. Then the first year after the legalization
+42:19
+which was 2025 that amount of inflow of dollars through
+42:25
+digital asset went from $500 million to 14.8 billion
+42:31
+and this is I mean we're talking about a country that have one year and a half of
+42:38
+legalization and not too much education about the market. So I really believe
+42:44
+that there is a lot of potential. Government seems to be um keen to
+42:50
+support initiative and companies that are developing on this area. So if
+42:55
+everything goes um well with the new administration, I
+43:01
+think they they have a good chance to be around the top five volume in the last
+43:07
+two years, let's say.
+43:12
+Also the fact that USDT shows as currency in the airport of Santa Cruz in
+43:19
+the Viru Viru which is quite impressive. Also Laas I actually I was yesterday
+43:26
+there um um it was the first time that I saw the Laas one. Um, of course was very
+43:32
+nice to see that has helped to local um uh companies but also stores to keep the
+43:41
+value of their goods. So uh as a payment
+43:46
+infrastructure is one of my favorite one by the way because um strike a lot of
+43:52
+friction for the tourism. So I think there is a lot of potential but not only
+43:57
+for Bolivia I think that that could be an excellent case for Peru for example
+44:03
+uh also for Mexico um I to see that there's a lot of remote population
+44:13
+uh moving to Medigene for example in Colombia would be very nice to build a
+44:18
+nice u payment infrastructure for tourism and also digital nomads there.
+44:23
+So yeah, every every region is different but a lot of opportunities
+44:29
+to see. Perfect. Very cool. I love I really love
+44:36
+the fact that we always keep um reinforcing that Latam is not a single country. Um there's just so many cool
+44:43
+topics about every single country specific. Uh but I want to
+44:49
+maybe move towards the ending because we only have 15 minutes and we I've already see I already see that we have a few
+44:54
+questions. Um so I want to talk about product now and I'm going to ask you Chava but then Christo would love to
+Designing stablecoin products for non crypto native users and institutions
+45:01
+hear something if you want to add as well which is so when we're thinking about products and maybe users or
+45:09
+companies that are not cryptonative that are not you know blockchain expert
+45:15
+experts how do you design and build a product fit for it?
+45:23
+Of course, at the end, I think one of the key things that we we want to do here, right, is we at the beginning, we
+45:33
+want to even abstract the fact that we're working with stable cuts, right? We as we incorporate this into our rails
+45:40
+and as we actively utilize it to to send money because in reality, what we're doing is we we if you think about the
+45:47
+payers, the the companies that receive and pay out remittances, right? What
+45:52
+they really want is they they want money that was sent in the US in USD, they
+45:58
+want to receive it in local currency. Whichever mechanism that we utilize to get the monitor, they're okay with it.
+46:05
+And and then we're running with of course everything like compliance regulation related, right? But if we if
+46:12
+we utilize any mechanism, they're happy with it as long as we give them speed,
+46:18
+cost, and security of that money. Once we prove to them that we're giving them
+46:23
+faster speed, better unit economics and a lot of security in utilizing this
+46:29
+rail, we can tell them like, listen, there's there's been this rail that we've been always been using. Would you
+46:36
+be interested in in using it yourself? like like how about we we can do we can
+46:41
+work with the MTOS's on the originating in stable coins and we can work with the
+46:46
+payers to to also do the payout in in stable coins right so so I think the
+46:53
+answer to your question Nadri is very gradually these traditional financial
+46:58
+institutions they move very slowly and I I I used to work at Cinema for for many
+47:05
+years and then I I I was part of the team that started Nulan. So I know both sides of of of the spectrum, Nubank in
+47:12
+Mexico. Uh so so the way to introduce the these highly novel products to them,
+47:18
+it's in a very gradual basis, showing them first the value and then expanding
+47:24
+on that offering until you can get to like a wide label wallet with a card
+47:29
+that we can issue that goes and transacts against the the stable coin balance and that we can sell it to the
+47:35
+customers and like hey this is a USD based account. It can give you yield. it has this this card debit technically
+47:42
+debit card that is that is attached to it. Oh, by the way, it just so happened to be a stable coin wallet product. Uh
+47:49
+so I think that's that's at least how our road map looks in terms of expanding access to these products.
+47:57
+I agree with Chav on that. Um yeah, for sure. Um I think we we we need to frame
+48:02
+these table coins uh correctly because it can be treated either as a product or
+48:08
+as a technology enabling whatever solution you are delivering to to your customers. And in terms of the product
+48:14
+design, we have one simple principle. We abstract everything that creates
+48:19
+confusion or anxiety to our users and we surface and highlight everything that
+48:25
+builds confidence. So that means what we can abstract for example in the blockchain whatever are complex
+48:31
+mechanics we just remove it away. For example the gas fee management we just assume it on on our own. Uh or as Chava
+48:39
+said we might abstract the the crypt or the blockchain uh leak in the flows
+48:46
+completely because the user wants to move money as Chava said from point A to point B. So whatever the user don't want
+48:53
+to know or does doesn't need to know of course we are going to uh take it away and on the other side what we're going
+49:00
+to surface uh real time status updates a clear confirmation where the money is at
+49:07
+at one exact point clear effects rates applied at the moment of the conversion
+49:12
+the total amount of money that's going to be received and and that applies to pretty much all of our flows except
+49:19
+maybe for B2B uh they want um they need uh slightly more details. So maybe
+49:26
+including uh configurable timestamps and some other information that they want to
+49:31
+receive. We we provide an API for example for them to build their own
+49:37
+reports and and traction uh transaction historic and I think that that that has
+49:44
+been working pretty pretty well for us and I think it's a good uh recommendation for other builders in
+49:51
+Latam as well. So one last question from me and then we
+Lessons learned building a stablecoin company, and advice to founders
+49:57
+can go to the comments and it's also connected to the last thing you said Christoal about the advice for the
+50:03
+builders but my question is for the founders here so Leandro and Kao
+50:10
+what are founder lessons like what have you learned building a stable coin
+50:16
+company what would you what advice would you give yourself two years ago and at
+50:21
+the same time to the builders building at at it right now.
+50:28
+Uh I can start uh I think uh when I think about the like the classic
+50:35
+uh like old sayings and kind of lessons from from the Silicon Valley that the
+50:40
+classic saying of move fast and break things, right? Uh but what we learned is
+50:45
+that we cannot move fast or break things when we are dealing with other people's money. So this is like the first lesson
+50:51
+that we learned. Not that we broke things before, but uh we we always um
+50:56
+had this very responsible mindset that okay maybe we can launch an MVP and we
+51:04
+of course we want to move fast, of course we want to launch products uh at the speed of a startup, right? But
+51:10
+especially when you are dealing with other people's money uh that of course has risks and right now especially when
+51:18
+we are in the regulated market I think you can definitely uh you need to definitely not underestimate compliance
+51:25
+and the control that you need to to put in your product. I think this is this was the main lesson that we learned in
+51:31
+our on our side and I think like being honest of course uh these things you you
+51:36
+kind of only learn when you experience it right uh when you deal with the problems and we deal with regulators and
+51:42
+we deal with all the whole thing that need to be done in order for you to be a global company but I think the main
+51:49
+lesson will be uh going backwards is of course uh think about the product think
+51:54
+about the design but also always use uh the regulatories and the compliance
+52:00
+framework as kind of a model to then design the product uh for for you not to
+52:05
+face any problems uh after. So I think this was the main lesson on our side.
+52:11
+Leandra, I'm going to give you 20 seconds. So the there's many things that we could
+52:17
+have done differently, but I think the most important lesson is that you need to start like there's so many things that you want to create. you focus a lot
+52:24
+of the product, but then you see that you also need to focus on the compliance, that you also need to work on the legal framework. But maybe
+52:31
+there's a lot of lessons, but one that comes to mind is that whenever you're speaking with consultants or whenever
+52:37
+you're speaking with lawyers, you need to come up with the questions necessary. If not, that bill is going to be
+52:43
+humongous. Uh, and then always understand the responsibility that that
+52:49
+that lays on your back because you're moving capital. Like I think that I
+52:54
+always we always knew here in Mandioa like how important was our work for a lot of our clients import and export but
+52:59
+then you don't see it until you feel it like there's a payment in Singapore that needs to be made right now because the
+53:05
+ship is not going to depart and then when you still having that pressure like oh okay like we need to have all of
+53:12
+these things on point. Uh but they're definitely lessons that that that we polish and we're very proud of the work
+53:18
+that we've done so far. Thanks guys. So, um I see we have four
+53:25
+questions. We're going to try to answer all of them in five minutes, but maybe we just run past it a couple of minutes.
+53:31
+So, um the first question is which countries are considered stable coins
+53:36
+friendly and which are in LATAM and how are you playing planning against regulators? So, we don't really have a
+53:43
+compliance experts in the panel but maybe um someone wants to take it
+53:48
+specifically. I'll go with with a few comments on this
+53:55
+one. So, uh first of all, you don't have to go against the regulators. That would
+54:00
+be my my first advice. Uh and I think that's that was one of the lessons that
+54:05
+a few of the panelists today shared. Uh secondly, the the market's shifting. The
+54:12
+regulations are still uh developing. I wouldn't say there's one specific market
+54:17
+in Latin America that we can consider that settled. Uh we all know that Mika
+Audience Q&A: regulation, and what happens in Venezuela post sanctions
+54:23
+and the Genius and Clarity Act in the US are pretty much driving the regulation across uh the different markets. Uh and
+54:30
+they are not even there yet. So uh you don't need to plan against the
+54:35
+regulator. You need to plan uh with the markets and with the rules in place and
+54:41
+prepare for them because they are going to change. You can be certain of that. Uh take for example Brazil. We have two
+54:47
+massive bills in the last six months. Uh I remember a few headliners uh in
+54:53
+Lincoln pretty much saying that Brazil banned the stable coins uh at all. And if you go a little bit deeper, you're
+54:59
+going to realize that that's not it. Uh so just bear in mind that whatever you
+55:04
+design, it's going to change uh because we are still uh trying to figure out how
+55:09
+this technology is going to work in the world. I guess
+55:15
+I'm going to jump to uh one by Charlie Vernnos
+55:20
+which I think is really interesting. Um so when the right now there are
+55:26
+sanctions in Venezuela but not long ago crypto was basically the main method of
+55:33
+movement or what with its nuances. So what are your thoughts when the sanctions are lifted? what's happening
+55:40
+in Venezuela with crypto. I can maybe we can focus that to to the
+55:47
+Venezuelan in the group. Yeah, that that would be Yeah, let's start with with with Andre.
+55:55
+Yeah, sure. Um don't look like but I'm from Venezuela.
+56:00
+So um yeah, I think if um the use case
+56:06
+probably will switch. Um so I do see Venezuela very similar market in terms
+56:14
+of use case to Argentina right now. But I would say that after uh scenario
+56:21
+without sanctions, I would see that that figure will more
+56:28
+into what is happening in Brazil. So of course I mean we are heavily dependent
+56:33
+of imports and exports. Um um a lot of companies have learned how
+56:39
+to use stable coins because of the necessity of the access and speed and
+56:46
+all the benefits that we already know. But after there is a clear uh regulation
+56:52
+framework and also ability to have more exposure to this technology, I would see
+56:59
+that the main driver is going to the crossber payment side.
+57:06
+dance. I don't think we're going to be able to
+57:11
+answer all the questions. And I think this is a good thing. We really like when there's a lot of questions. I just
+57:17
+um want to give anyone a 20 second space to add something that wasn't touched or
+57:24
+maybe go to specifics on the Venezuela topic or everything that you want to share to the watchers.
+57:34
+I'll take those 20 seconds. I I I I would like to build on on what um Christo was saying of like, hey, you
+57:40
+don't need to go against the regulators. I think there's a very strong opportunity here to first be flexible of
+57:47
+course because regulation is going to be changing but to start trying to play as
+57:52
+far ahead as you can given the current regulation and we actually believe there's an opportunity play close to the
+57:59
+regulators given the sheer amount of institution like financial institutions and and big public companies that we
+58:06
+operate with. it's in their best interest to be working very close to to to to where the the rules are, where the
+58:13
+laws are. So the real opportunity here is to bring the compliance KYC AML
+58:19
+controls that we have in the trafi world into the D5 world. We believe there's a very strong opportunity there. So I
+58:25
+would actually say yeah a lot of the the playbook at least for us is to play along what is the latest from the
+58:30
+regulators. Very well put. Um I do want to thank
+58:37
+everyone for joining. We're just um on the time. We will try to address um the
+58:43
+questions afterwards. Um on behalf of everyone in Utell, I want to thank every single one of the panelists. Um James as
+58:50
+well for joining here this together with me. Um and that's it. Thank you so much
+58:56
+for watching and for joining us today. Bye. Thank you very much for creating this everyone. Thank you for having us.
+59:02
+Bye. Thanks. Byebye. Bye.
+

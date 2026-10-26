@@ -1,0 +1,691 @@
+Introduction and Lumx overview
+0:02
+[Music]
+0:11
+All right, we are here for another session. We're at Sablecoin Conference here in Mexico City. We're here with Mr.
+0:17
+Kyo from Lumix for exclusive conversation. Really excited about this. Um, we've known you for quite some time
+0:23
+and I'm a huge fan of Lumix and some some of these conversations I'm meeting folks for the first time and getting to know them for the first time. this is
+0:30
+not the case for this. Um but for those who are meeting you for the first time um what's your name? What is Lumix high
+0:36
+level? How do you explain it to uh maybe you know you're walking around the conference hall and someone's like oh
+0:42
+what is Lumix? How do you give that what's the elevator pitch here? Yeah sounds good. First of all very happy to be here as you mentioned we
+0:47
+have been you know talking for a while already. It's very good to be here in the conference are very good friends in the industry already. It's very good to
+0:54
+be part of the ecosystem actually to feel part of the an ecosystem. So it's very um very exciting to be here and
+1:01
+like I'm Kaio founder and co at Lumix we are based in Brazil. So essentially what we do is that we offer APIs and the
+1:07
+whole infrastructure for money movement worldwide on top of stable coins. So we
+1:12
+you know position ourself like a stable coin native platform for money movement in our case with a strong focus on the
+1:18
+LATAM region. So of course not only enabling businesses in LATAM to trade
+1:23
+with the other LATAM businesses and streamline this payments uh into the region itself but mainly uh to give the
+1:31
+them better payment rails to LATAM focused corridors and in a nutshell it
+1:36
+means basically like US, Europe and Asia. Awesome. Awesome. um give us when you
+1:42
+think about some of the core use cases or um what I always like to
+1:48
+start with is like maybe a recent customer win or a client client that you
+1:53
+guys are like oh wow we're really excited about that even lately especially it's been a few months since
+1:58
+we've caught up that in your mind really encapsulates hey this is the type of client we want
+2:05
+to work more of with because this is these are the things that they're doing with us. Um, any any clients or
+Major client win: The import/export platform processing $1T BRL
+2:12
+customers come to mind for you there that are kind of like hero hero clients right now?
+2:17
+I have one specific in mind that I unfortunately can't open the name yet. It's not recent.
+2:22
+Uh, we most likely have it, you know, public. Is it sign is it signed? Yeah, it's a
+2:27
+signed client, but it's not launched yet. It's not live yet. How exciting. Okay. When when uh when
+2:32
+will this be live, do you think? Mid to end of September. So, it's it's very close already.
+2:37
+Okay. Well, without naming names, tell us about this business and what makes you excited about them. Yeah, so BA basically because of course
+2:45
+for a while already the majority of the volume of the use cases that we always talk about crypto is stable coins
+2:52
+specifically is oh people protecting themselves from inflation. Oh, people have access to global dollar accounts,
+2:58
+people sending money to their families and most recently we have been seeing this surge in the B2B part of the
+3:03
+industry. So businesses doing uh payments with stables or using stables as a better rail for an end to end to do
+3:10
+the stable coin sandwich as we speak or also to streamline the treasury by using stables to have to hold the balances
+3:17
+right. So in our case of course in the B2B space by itself we also have a lot of varity because there's tons of use
+3:24
+cases in this in this place but by far where we have the most volume to be made
+3:32
+specifically from a commercial perspective but also where is the most value to be unlocked is the flow of
+3:37
+imports and exports. Okay. So Brazil specifically is a huge exporter but also a huge importer but
+3:43
+majority of what Brazil do is to import uh from China for example or to export
+3:49
+to the US for example like commodities and electronics and other type of products.
+3:54
+Yeah. And these are businesses who are headquartered typically in Brazil or maybe these are like parts of like
+4:01
+multinational companies that have their you know Brazil branch. So are you
+4:06
+seeing both or or Yeah, we're seeing both but actually like we have some exceptions of this but
+4:11
+majority of the customer that we work with are some kind of FX broker that do business with this and beneficiary with
+4:18
+this multinational but we usually don't work directly with the multinational at least up to this point because uh since
+4:24
+our business is mostly APIdriven like this guy usually don't have the technical capabilities in house to integrate their whole stable plane
+4:30
+product but we are now with a dashboard where they the operation team the transactions So we have started to get
+4:36
+this demand but up to this point was not our main focus. So the customer that I'm very excited about in this this one that
+4:42
+I can unfortunately share the name yet they are like a SAS for imports and exports management. They're like
+4:48
+they're they're bringing you into it's almost like when this customer you get all these customers.
+4:54
+Yeah. Basically 25% of the Brazil trading volume pass through them. Wow.
+4:59
+So it's like one trillion re ice. So the this software is something that these importer exporters use for payments
+How embedded finance is transforming Brazilian trade
+5:06
+anyway actually not this is the best part they they don't have any payments yet
+5:12
+what do they use for it like fulfillment inventory stuff or yeah supply chain management like they have a lot of AI features there too uh
+5:19
+for market data chills this is so exciting you know it's so much it's so much better to in my
+5:24
+opinion it's so much better to embed financial tools that that are stable coin native within tools that already
+5:31
+exist exist like all these importers and exporters like they're not going to it would be way harder to go to them and
+5:37
+say hey like use this new thing that's new and foreign and stable coin powered
+5:42
+but what this is is like hey you already use this platform you log in next week
+5:48
+on Monday and oh what is this financial account now that I can use tell tell us about what is actually now possible for
+5:55
+this Brazilian importer and exporter with this account like what what is Lumix under the hood power here
+6:00
+yeah So the the use case is a nutshell embedded finance at its finest. So you
+6:06
+are important explorer you have access to the platform where you manage your whole operation also they also have like
+6:13
+financial uh that use the platform for market data to offer credit for example for this for
+6:19
+these importers and exporters. So a lot of banks use their platform as like a data platform you know to understand the
+6:25
+the market data share and all those things. So in a nutshell basically to extend credit to those companies
+6:31
+almost like we'll expose this data because we would then almost like if I'm using Square or Stripe or something I'm
+6:38
+a small business they can get to know my business and maybe they'll offer me like a capital loan or something to go help
+6:44
+me expand something like that probably like 100 times bigger right
+6:50
+yeah so with our infrastructure what they are doing that now these guys will have access to both a a stablecoin
+6:58
+wallet embedded into their activity account. So they able to send holding receipts tables def so move between
+7:04
+stables to fiat but also have virtual accounts in USD euros. They can receive
+7:09
+payments locally like they they had a local bank account in the US or Europe.
+7:16
+So like a Brazilian exporter can receive USD local payments without needing to have like a USD bank account. Yeah.
+7:23
+So cool. So, you know, it sounds like this partner that you won is I know we're diving really deep here. It's just
+7:28
+really interesting. Like the partner that you won has a network of other similar businesses. imagining would
+7:35
+there be now a reality where like maybe these importers and exporters within this shared system actually maybe do
+7:42
+business with each other and is that going to be do you imagine like you know now I have this really
+7:47
+easy instant stable coin native way to send and receive funds to other clients
+7:53
+that are doing this as well like almost like a Venmo for importer and export is that kind of what's going to be possible
+7:59
+here yeah this would be very possible not only between businesses that use the same platform
+8:04
+but also with businesses that don't use that platform. Sure. So, if you use the platform, you now have this thing, but you'll be able to
+8:11
+pay or get paid from a customer or another business that don't even know that this company exists.
+8:17
+Okay. Um because the the way that they do it now is that they if they want to do a FX to pay for a commodity or to pay for a
+8:24
+container, they need to go direct to the bank, do a traditional effects and blah blah blah be able to do this embedded
+8:30
+onto the existing flow that they have in the platform. And this is this is why this is so far so much easier. So with
+8:36
+with Lumix right now, tell us there are multiple things here that are being utilized by you guys. I'm imagining
+8:43
+under the hood. It's not just like are there different APIs doing different things like you have like a wallet
+8:51
+accounts API? Break down specifically what is being used because you I want to make sure that people understand how
+8:57
+much you guys do across the stack. So briefly a brief context. So we actually
+Lumx's evolution from tokenization platform to stablecoin infrastructure
+9:03
+started out years ago as like a tokenization platform slash a wall infrastructure provider. So a lot of the
+9:10
+things that we offer as a product now with a different brand. What were you tokenizing in the when was
+9:16
+this? 2022. So 2022 you were what were you trying to tokenize at that time? Back then it was like literally no joke
+9:24
+anything. Okay. We tokenized from carbon Friday to real estate to receivables, fan tokens, a lot
+9:31
+of things. Okay. Uh, of course, you know, pictures of your mom, things like, you know, really special. Yeah. Okay.
+9:37
+Yeah. NFTs, podcast episodes. Okay. So, you realize like, you know, you sort of pivoted away
+9:43
+from that it sounds like. Um, but that sounds like maybe it's coming back a
+9:49
+little bit because tokenized money you could say is stable coins. Kind of. Yeah, kind of. Because the why
+9:54
+I'm telling you this because the whole infrastructure that we built back then the whole transaction engine the blockchain the wal infrastructure that
+10:00
+we needed to offer because we work with nonts savy companies at all. Um so everything that we built back then
+10:07
+was already planned to make interacting with the blockchain easy as easy as
+10:12
+interacting with the traditional financial industry or any app that you that among can use. And we use the same
+10:20
+structure to the stable book product that we have now. So a company that now comes to Lumix and wants to use our API
+10:27
+where I don't know three API calls they can already have like a customer created with a QAC QAB already built in. So the
+10:34
+whole compliance engine is already there with a wallet already embedded into the customer. So like in 5 minutes you can
+10:39
+receive stables or do any type of transaction and also connected to the whole process of the FX fax liquidity
+10:47
+and also payment local rails. So the same mindset that we had back then when we were tokenizing I don't know carbon
+10:54
+credits or you know fan tokens are pictures of my mom we the same philosophy now like how can we make
+11:01
+moving money as easy as I don't know sending a picture on WhatsApp. Yeah. moving value, moving data.
+11:08
+Exactly. Yeah. So, we were before this actually um the last conversation we were having with uh was with Tomas from BRL uh BRL1
+11:16
+talking about like tokenizing Brazilian realale and how their business is going about that. Like how do you guys think
+11:23
+about working with you know you guys have this infrastructure issuance is really interesting within this mix like
+11:29
+what financial data or financial assets are living in these wallets or in this infrastructure. How are you guys
+Why Brazil doesn't need BRL stablecoins for payments
+11:35
+thinking about like localized fiat currency stable coins like non-USD stable coins right
+11:41
+now? What is that like? This is this is a topic that always comes to to some round of discussions.
+11:47
+Uh I'm going to be honest with you. Yeah. Like at least now talking about Brazil
+11:52
+specifically. Okay. So in Brazil do we don't need a local BRL stable coin to do
+11:58
+payments. Okay. because we have picks it's instant 24/7 is almost free. So in
+12:06
+order for me to do like a on and off run from BL to another stable coin for example USDC or USDT there's a lot of
+12:13
+tons of liquidity we have a banking account table so we can work with we actually have bank liquidity for BL from
+12:21
+stables so in our case doesn't make sense at all to use a B stable coins for payments specifically good okay
+12:28
+but for other use cases I think depending on how you see it makes a lot of sense for example in Brazil there's
+12:34
+one thing that's or NRA non-resident accounts. So if you are a non Brazilian
+12:40
+entity or individual by some uh any reason you want or need to hold balances
+12:46
+in BL because either you do you do any type of reasons in Brazil or somehow you
+12:52
+need to have access to BL for something. Do do you have to be like you're in Brazil to get an RA account or is this
+13:00
+anyone can get Yeah, anyone but it's not that easy. Okay, this is the thing. We I have for example
+13:06
+some some friends that were trying to get the nonwriting account for individuals and it took like 3 months,
+13:12
+four months for businesses depending on how you see it is faster but it it
+13:17
+requires you to have like a regulated entity in a specific jurisdiction. For example, in our case, if we have an MSB
+13:24
+in the US, uh you then can open up a non red account in Brazil because they for they see that you guys that you are a
+13:31
+business that have like a regulator looking at you basically. And you see this maybe as a as a one of
+13:37
+a few examples of where an issuance Yeah, makes sense because like instead
+13:42
+of handing doing this whole process to have access to the BRL with a Brazilian
+13:47
+stable coin and a wallet, you already have access to BR. Yeah. It's like you this NRA account is
+13:53
+sort of exactly it's kind of like a new phase of this non-resident account. So for this use case I hear NRA and I'm like our American
+14:00
+mind is like national rifle association it's like it's funny these terms. So for
+14:06
+this for this use case I think like makes a lot of sense actually and I think we might see a lot of volumes
+14:12
+coming through this specific flow but for specific use cases like for investors that want to invest in Brazil
+14:19
+so they can just I don't know funds a wallet in stables and then the stable coin partner handles this whole process
+14:26
+of converting to their own um stablecoin and applying to the specific assets. So
+14:32
+I think that capital markets will be very very um transformed
+14:37
+based on this new structure of B stable coins. Awesome. Tell me um I think a lot of you
+14:43
+know I'm I'm American. I see things through that lens. Um a lot of Americans especially are just not very educated
+14:51
+yet on all of the nuances globally of like the local banking systems like Pix
+14:57
+for example. help help those who may not be as familiar with Pix and like why it's so effective and how it works like
+15:04
+just give like a couple minutes on like why what like what is Pix, how does it
+Deep dive into PIX: Brazil's revolutionary instant payment system
+15:10
+work high level and why actually is it so effective to a point where you in your in your belief you actually may not
+15:16
+even need a payment focused stable coin in that in that sense. Yeah. So Pix is the instant payment
+15:22
+system in Brazil. Actually Fix is kind of the mainstream name but behind the
+15:28
+scenes the name is SDI SBI system like instant payment system. So Pix is
+15:35
+the the way we as people in the industry calls it but behind the scenes not exactly a name you know the term but uh
+15:42
+Pix basically is like a instant payment system where both businesses and individuals can transfer money 24/7
+15:50
+all days uh in the in the all days in the week in the year for free
+15:56
+instantly. instantly. Yeah. So, you know, all a lot of the benefits that stable coins bring are already and this has
+16:02
+been around for a long time, right? Yeah. Since 2018, if I'm not wrong. Yeah. And has been growing like crazy.
+16:08
+Is already is the largest instant payment system in the world. Already surpassed UPI in India.
+16:13
+And this is like a consortium of banks government or is it governmentbacked
+16:19
+system? Yeah. So, this is one thing that is very specific about Pix too. It is a a project and infrastructure built by the
+16:26
+central bank and they have like a open-source code of the pix but of course not everyone can have access to
+16:32
+it like in the production environment in order to for you to get access to pics you need to be a regulated entity either
+16:38
+like a bank or what we call PI payment institution to have need to have a specific license or you can just like
+16:44
+use a bank as a service if you don't want to have a regulatory bing you can plug into a bank as a service provider
+16:49
+that can give you access to pix basically like this is pics. So, it's amazing. Has been growing like crazy.
+16:55
+Literally, everyone in Brazil uses Pix now. If I'm wrong, I don't know like the most recent numbers, but based on this
+17:02
+last time that I saw this, if I'm wrong, already 60 or 70% of the transactions in
+17:07
+Brazil already um go through pics. So, for example, credit cards, people are,
+17:13
+you know, using more pics than that. And the best part of Pix is not okay
+17:19
+you can just send and receive money. Pix is actually like a programmable money
+17:24
+infrastructure. So now we have a new feature from Pix for example that came
+17:29
+out I don't know maybe two months ago which is called Pix Automatic Pix
+17:34
+automatic Pix which basically you can schedule payments with Pix. And why is this so important? Because in Brazil
+17:41
+specifically, people have the culture of paying for the I know electronics and
+17:47
+whatever installments with the credit cards. But most of people only do this because they don't want to do the one
+17:54
+side payments. They want to split the payments in, you know, installments. Buy now pay later sort of enables like I
+18:01
+mean the central bank is sort of operating like a modern fintech organization. Do they have like a team
+18:07
+at the government who's like or the central bank who's you know I'm imagining a lot of people very smart are
+18:13
+building this financial product and is the um you know this is unique to Brazil. Um
+18:19
+are there any other uh modern global central banks that are doing
+18:25
+similar things? I know there are a couple other like similarly flavored approaches to picks. Are there other
+18:32
+countries that come to mind there that kind of have their own similar type of setup? So, uh I know I'm like quizzing
+18:38
+you right now. I'm just I'm curious. No. Yeah. If I'm not wrong, like the
+18:44
+architecture of how Pix was built and how it works is very unique to Brazil. Yeah. And how the whole situation, the
+18:52
+relationship between the central bank and the players of the ecosystem is done is very specific. Yeah. Uh, if I'm not wrong, Colombia is
+19:00
+very close to launching their own instant payment system and it's heavily inspired by Pix. Okay.
+19:06
+To not say a copy of this. Inspired by, of course. Yeah. Because this is something that was
+19:11
+literally like an inspiration for them. I had an amazing conversation with a guy called Bruno Batia. He's now one of the
+19:17
+partners at Vela Capital, which is one of the main VCs in in Ratam that invests in fintex. and also he was a former
+19:25
+central bank employee for a very long time. So he was actually the part part
+19:30
+of the pitch development and also the CBDC pilot too. And he he was telling me
+19:36
+that he was telling me that the Colombia government was like okay let's have a conversation with the Brazilian central
+19:41
+bank like talk to these guys let's found out how they build this. Yeah it's really it's very specific. I
+19:48
+met with uh Leandro Noel from BR now Avenia. I think they rebranded. But you
+19:54
+know, when we first had that conversation like about 6 months ago, they're obviously very focused on
+19:59
+Brazil. And you know, the the term like CBDC to an American is like a bad word. Like
+20:06
+central bank digital currency is like uh like that's bad. Yeah. And I think a lot of Americans who have been following the
+20:13
+space have heard that word and they kind of gut reaction that it's like a bad thing. And there are arguments to be
+20:19
+made for how it could be bad or how it could not be bad. But from the conversation I had with Leandro, your
+20:24
+perspective here, it's and just like how it's inspiring other I love your perspective just on this like there's a
+20:30
+spectrum here of like innovation and if the government or the central bank in Brazil for example is going to be very
+20:37
+very far on the spectrum of like we're going to be very innovative here. we're going to own a lot of the rails and make
+20:43
+that super easy and like hopefully do it really well to make payments work versus other countries that are very far on the
+20:50
+other side of the spectrum where you actually have to bring a lot of the layer 1 infrastructure in and the
+20:55
+issuance infrastructure in like from your perspective focusing in Brazil as an entrepreneur as a business owner who
+21:02
+is building stablecoin native native company using this infrastructure what would you say are the key benefits to
+21:09
+having a Pix like system. I'm gonna guess a lot of countries are
+PIX vs CBDCs: Understanding the difference
+21:15
+going to continue to be inspired by that system. And what are maybe the downsides? Like if you were to kind of,
+21:21
+you know, what are the biggest pros and cons that you see because Pix from what it sounds like is going to be a kind of
+21:26
+a forefront example here? Yeah, I think Pix from my perspective be honest, I don't see any
+21:32
+you seem really favorable to it. Yeah, I don't see any negative coins on PICSS. Okay. because it just works like for
+21:40
+everything and specifically for us, right? We you know we are building a
+21:45
+global company that wants to serve global businesses to help either local businesses or global businesses to send
+21:51
+and receive money worldwide. So if you we can receive our pay in
+21:57
+Brazil instantly like it's everything that we want is everything that we need. What would you say to the critic on this
+22:05
+side of the spectrum who might be like that's too much control, that's too much power, we're giving the central bank too
+22:11
+much um you know they're too involved here like let's bring more innovation private
+22:17
+companies like what would you say to that type of what would you say to that person? Yeah, I think in Brazil specifically
+22:23
+like for the pics situation I don't think and of course I'm biased right because I was born and raised there. I
+22:29
+had my own you know opinions there but I don't I don't see any drawbacks for pics specifically for the CBDC is other
+22:35
+another discussion. Yes but for the CBDC I think it is a problem. Um for those who don't know the difference
+22:42
+how would you how would you compare Pix to a CBDC? CBDC in the case of Brazil it's called
+22:47
+Drex. How do you spell that? D R X. Drex D R X. Okay.
+22:52
+This this is how they call it. This kind of sounds evil. Yeah. kind of sounds a little drex.
+22:58
+Yeah, they they wanted to have something with a X because of No, sorry. That's is Digital Royale something X.
+23:05
+So, what's the difference there? Yeah. Uh so PIP is the eastern payment system like fiat fiat predomorable money eastern payment
+23:12
+system on the fiat part within a banking system within a banking system and the CBDC in
+23:17
+the case of Brazil specifically is a um tokenization platform because again
+23:24
+going back to what we were discussing about why will I need the B stable coin since we already have pics we are not
+Brazil's DREX tokenization project and recent pivot
+23:30
+trying to use blockchain to solve payments locally. So the CBDC project from the central bank set it out as
+23:37
+let's tokenize the economy like tokenize receivables the capital markets financial and non financial instruments
+23:43
+or the real estate for example industry like let's tokenize the asset itself let's tokenize the the bonds let's
+23:50
+tokenize everything so this is is a difference so pix fiat payment system
+23:56
+CBDC blockchain based tokenization platform for the financial ecosystem yeah it seems like this is in some ways
+24:03
+limited to like settlement like people sending and receiving value just from a
+24:09
+let's settle up here. Exactly. this Drex is what you're talking about here is more of like what's tokenized the economy which is a
+24:16
+huge so you it seems like the aperture of what that implies would be way way
+24:22
+bigger and you're saying the Brazilian government would be is there are they directly involved behind Drex like
+24:28
+they're the ones similarly who their team or their you know it's a governmentbacked thing
+24:33
+yeah I understand yeah is a is it their own project and they have a they have a
+24:39
+pallet uh companies could apply to participate in the pilot and it was
+24:44
+split into I think three phases. The first phrase was just let's test the
+24:50
+technology do like test transactions but nothing you know design yeah just let's
+24:55
+see it works if I send something to you and the second phase was okay now let's
+25:00
+apply this infrastructure to use cases so we saw companies applying for I don't
+25:07
+know effect use cases vehicles use these cases like to tokenize the whole journey
+25:12
+of a people buying a car for example let's tokenize the the car Let's recognize the contract, let's recognize
+25:18
+the money. And this sort of goes back to the roots that you were mentioning like Lumix's early days like building that. So, so in
+25:25
+some ways like Drex as a government project and what they would need hypothetically to do this tokenization
+25:31
+of everything was similar to what you were how you maybe in the early days were thinking about Lumix in some ways.
+25:37
+Exactly. We were heavily inspired by this agenda by the way like not say we kind of created the product thinking
+25:43
+about this future. Interesting. But in the middle of the process, we was like, I don't know. But
+25:49
+it's not that good to build your own company following an agenda that can change.
+25:55
+Yeah. Right. Yeah. This literally changed last month. I'll go back to this. Yes. Yeah. I want to know what that means. Okay.
+26:00
+Two, you know, the tokenization agenda was not necessarily happening as fast as the market thought it was. So when it
+26:07
+comes to traction, clients, business, not that fast. And three, you know,
+26:12
+stable coins are a very much more near-term solution. What I'm trying to
+26:17
+say is the tokenization thing is good, but it would take like five years for us to really see the value, the benefits,
+26:24
+and people really, you know, looking for this type of solutions, you know, and when we talk about stable coins, they're thinking, okay, I can move money
+26:31
+faster and cheaper. Oh, I can have access to dollars. I can have access to
+26:36
+digital dollar yields. Let's do it now. So these were some of the reasons that made us pivot into what we are doing
+26:42
+today. But going back to the what we were discussing earlier, I didn't forget like the CBDC agenda was you know a
+26:49
+sensitive topic for a while because again social bank has been pushing this agenda for three four years already. All
+26:55
+the big banks was betting their their their investments and teams on the whole
+27:01
+Drax pilot. So we have banks in Brazil that had like 80 people in the digital assets team like crazy. And what
+27:08
+happened was literally last month, last month I'm trying to say um actually
+27:14
+no this month, August, it start of August blockchain couple weeks ago. Yeah. On blockchain Rio in Brazil, there
+27:20
+was a keynote from the central bank president, right? And one of the main
+27:25
+things that he mentioned was like, okay, maybe we won't use blockchain for the CBDC. They won't. They won't. So
+27:32
+everyone was like, what? Like you guys have been spending four years talking about how we will tokenize the economy
+27:39
+like everyone was betting all of the you know the investments on this process and
+27:44
+now you guys just move exactly what they did and then maybe that's the uh you know that would be the critique of that
+27:51
+system because when you give centralized controls to someone like that things can change very quickly.
+27:57
+Yeah. Because the president of the central bank changed between last year to this year. There we go. Um, and you know,
+28:04
+I want to I want to drive it back to Lumix as we kind of close here. This has been really insightful. Hopefully people
+28:09
+watching um are learning a lot about all of the nuances that really matter here
+28:15
+because there's so many of them and it's important from like country to country,
+28:20
+region to region that those nuances are taken into account. So with Lumix pivoting it here, you have been in this
+28:27
+part of the world and you've as an entrepreneur building this business really been trying to to position
+28:34
+essentially what's most needed like how can we build a business that's most needed for the economy here that's using
+28:41
+blockchains as rails and modern money possible with blockchains as rails. give us the maybe even if that I don't know
+28:47
+if that news affects you guys or how you're thinking about it but more broadly like how have you continued to
+28:54
+be nimble as you try to build a business focused on Brazil and and and you know
+29:00
+Latan more generally and I know as we were walking in here you were like the spirit was like we got to go bigger we
+29:06
+got to think bigger here like this isn't just like a Brazil thing um maybe speak
+29:11
+I know I'm throwing a lot at you just speak a little bit to all that yeah I think In our case like Brazil
+29:16
+itself is a huge market like crazy. So for a Brazilianbased company is very
+29:22
+strategic to grow through Brazil, right? So I don't know like London expands like
+29:28
+so we are now very focused on serving Brazilian businesses not necessarily
+29:34
+Brazilian businesses but you know any business that want to do some kind of money movement from our to Brazil and of
+29:40
+course this correlates to the main corridors that we want to serve. So uh specifically now because the timing
+29:45
+couldn't be better specifically after the genus act in the US the Brazilian government is now accelerating the
+29:50
+regulator the regulation. So we expect to have something like by the end of October start running in January. What
+Upcoming stablecoin regulation in Brazil
+29:59
+do you expect to have live? Like some sort of payment focused stable coin legislation similar to Genius or
+30:05
+we had by February we had three they call like public consultations right so
+30:11
+essentially the central bank put out some material some papers about the thoughts about the industry and some
+30:17
+drafts of the regulation and based on the draft we as participants of the ecosystem had the opportunity to submit
+30:24
+our proposal to the central bank with our feedback. Okay. So since then they have been going back and forth talking
+30:30
+with the industry changing what they did before and blah blah blah. So what we have by at the end of October is two
+30:37
+main things. The first thing is the VASP regulation. So virtual assets sgest
+30:42
+provider regulation. So who is a vast what are the categories that you that you need to fit in capital minimums all
+30:50
+those things. What you can or cannot do depending on the cate category of the license that you want to get.
+30:55
+Okay. But most importantly, we will have the regulation for stable coinbased
+31:01
+effects which is a separate thing. Okay. So it can be a VASP but not be allowed
+31:07
+to do stable coin effects separate is a separate thing. And will Lumix um is your plan to
+31:13
+obviously be you know yeah we need to have both. Yeah. Okay. Are where are you guys at in the process of that?
+31:19
+So we are very well prepared. So we work with top law firms the ecosystem. We have a very high compliance bar and this
+31:26
+is one of the main things that we you know make ourel ourselves proud of what we
+31:32
+have been doing because we are not you know bringing random volumes we run the customer we are doing business with real
+31:37
+businesses with regulated companies that have also high compliance bars. also are very well prepared and but we don't know
+31:44
+like we still need to wait for the final final regulation to to see if everything that we have been planning with our law
+31:51
+firms has been well aligned with this what the central banker wants but if you're hopeful it seems like
+31:57
+yeah yeah we're very hopeful and we'll most likely be one of the first vast regulated vast in Brazil so I'm very
+32:03
+very excited about it regardless it's funny to say that I'm very anxious and excited to be regulated
+32:09
+well it it I mean It definitely makes it when the rules are clear, you know how to operate confidently.
+32:16
+When the rules aren't clear, you know, you've had to and you guys
+32:21
+have done a good job, but like you you've had to continue to like be convicted but also open-handed at the
+32:27
+same time, you know. So, anyway, this has been a really awesome I've learned a lot in this conversation. Hopefully,
+32:33
+those who are listening have learned as well. um give us maybe a final thought around what you're excited for in the
+32:39
+next few days here at the conference like you know maybe some conversations or things that for you you're trying to learn more about that are kind of uh
+32:47
+areas of the industry that seem really exciting or emerging that whether it has to do with Lumix or not just stuff that
+32:53
+you know gets you pumped up. Yeah, I think like overall is exciting times couldn't be better timing for us
+32:59
+to be part of the ecosystem. Business is doing great. Um I think of course a lot of things to happen. We are also uh
+33:07
+finishing a you know we actually closing a new round so most likely have some news on that in the coming weeks.
+33:13
+Awesome. Yeah. This is a series A for you guys. Actually a seed seed round. Okay.
+33:18
+Yeah. A seed you know for for Brazil will be mostly like a series A because of the the size but you know from the US
+33:26
+will be like a good seed. That's amazing. Yeah, we have amazing investors coming in.
+Lumx's seed round and expansion plans
+33:31
+How how um you know post post seed what is that gonna unlock for you guys? How
+33:36
+are you planning to deploy that capital effectively? Like what are you as a leader?
+33:42
+Yeah. What are you telling your investors to convince them to give you money from?
+33:47
+Yeah man. like nothing too much then for from our part and going back to the
+33:53
+regulatory part like most of this capital would be used for the regulatory part and securing our licenses for
+33:59
+example in Brazil based on the draft just to give one example if you want to have the highest tier on the Brazilian
+34:05
+license we need to have a capital minimum of 4 million reis so this is
+34:10
+like what is that $1,000 yeah almost a million dollars to just have a seat at the table and get a
+34:16
+to have a wow It makes sense why the government is wanting regulations to be in place. Of course. Of course.
+34:22
+So most of this of this round is focused on the regulatory part. So being our licensing part, we have a a lot have a
+34:28
+lot of things going on in this aspect, not only Brazil but other jurisdictions. So also expanding our entities and
+34:34
+presence, local presence, I mean uh for the regulatory part and of course DTM uh
+34:40
+we we need to serve this wave and we are well prepared to to be one of the main players in the ecosystem.
+34:46
+Awesome. Kyle, thanks for the time. This was awesome. Yeah, appreciate it, man. All right, for having me. There you go. Kyle from Lumix.
+34:52
+See you. [Music]
+35:11
+deep. [Music]
+
